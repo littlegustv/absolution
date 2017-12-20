@@ -1,0 +1,2350 @@
+#AREADATA
+Name Shandalar River~
+Builders None~
+VNUMs 31400 31599
+Credits { All } Daisy       Shandalar River~
+Security 9
+Xcontinent 1
+Age 9
+Questable 1
+End
+
+
+
+#MOBILES
+#31400
+snapping turtle~
+a snapping turtle~
+A large turtle hides in its shell.
+~
+A green and brown shelled turtle peers out of the water, watching
+you intently.
+~
+lizard~
+ABF Dd -100 0
+35 0 10d10+1300 1d1+100 4d7+11 bite
+-11 -11 -11 -11
+C 0 L I
+stand stand either 500
+AGXc ACDEFHKQV medium 0 the guilds~
+#31401
+black shadow~
+a black shadow~
+A black shadow seems to be blocking the path.
+~
+This mass has no real form or shape... yet it appears deadly.
+~
+giant~
+ABF BDF -800 0
+40 0 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+H AB HI J
+stand stand none 1200
+AHMV ABCDEFGHIJK huge 0 the guilds~
+#31402
+giant crocodile~
+a giant crocodile~
+A giant crocodile is here, quietly waiting for unaware visitors.
+~
+A giant crocodile is here.  It has definitely been well fed.  Though it's
+underneath the surface, you can estimate that it's about 25ft long.  
+~
+snake~
+ABCFT JQVZ 0 0
+25 -1 5d10+550 1d1+100 2d10+7 chomp
+-7 -7 -7 -7
+ACFM 0 L I
+rest stand either 2500
+AGXYc ADEFKLQVX large snakeskin the guilds~
+#31403
+scrawny troll~
+a scrawny troll~
+A scrawny troll demands you pay a toll before passing by him.
+~
+All the big, mean trolls must have the day off because this thin
+and weak looking troll was left alone to guard the bridge.
+~
+troll~
+ABCF J 0 0
+4 0 2d7+46 1d1+100 1d5+1 bite
+6 6 6 6
+0 0 Q H
+stand stand male 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#31404
+rabid troll~
+a rabid troll~
+An angry looking troll demands you pay him a toll for coming under his bridge.
+~
+This troll does not look happy to have been disturbed.  He barrs his
+teeth at you and growls deep in this throat.
+~
+troll~
+ABCF J 0 0
+14 1 2d10+190 1d1+100 1d12+3 bite
+-1 -1 -1 -1
+0 0 Q H
+stand stand male 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#31441
+turkey sandwich~
+a hot turkey sandwich~
+A hot turkey sandwich smells very good.~
+organic~
+food 0 A
+12 12 0 0 0
+0 30 5 P
+#31442
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Path The First.
+ 
+Uh? What? a witch?  who told you I knew a witch? Can't you 
+see I'm busy?  I got mobs to forge here!  People out there
+are killing 'em faster than I can make them!  Ah yes. witches.
+Well, I'd get cursed if I told you who it was.  How about
+I tell you who is even closer to the witch you're looking for?
+No. I'd get killed for that too.  Hmmm... Hints maybe?  Yeah!
+that's it!  If YOU figure out who it is, then I didn't really
+tell you did I? Brilliant!  Ok, here goes:
+ 
+Find a life form that is octagonal in shape and lives in nirvana.
+ 
+That's all I can tell you.  Good luck.
+~
+#31443
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Who are you? What do you want?  Get out of here before
+I slap you with my tentacles!  A witch you say? well, well,
+you must have been talking to my so-called friend Floyd 
+haven't you?  (Mental note: Kill Floyd).  How is the old
+bugger anyway?  Witches? why do you ask about witches?
+Well, I know someone who may know of one.  How did you
+find me anyway?  A riddle you say?  Very well, I shall
+give you a riddle as well!
+ 
+Seek the infant who's birth will mark the feared beginning of
+cybernetic chaos!
+~
+#31444
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Whaaaa!!! Whaaaa!! Baby wants a cigar!  Baby wants a cigar!
+Whaaaa!!! Wh.. oh alright.  What do you want?
+A witch? hahahahaha!! *cough* *cough* THE witch?  Look, I may
+be a baby, but I'm not stupid.  If I tell you what you want
+to know, I won't live to see another New Years celebration :)
+Tell you what.  Go see the Minotaur Ring-Keeper, he might
+tell you what you want to know.  I hear he's a big blabbermouth.
+Whaaa!! Whaaaa!
+ 
+~
+#31445
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Who disturbs the peace of the Shaman? It is you! I have
+heard of the quest for the witch, but I didn't expect to
+see anyone so soon!  Let me see what I can do for you.
+well, of course, I can't tell you EXACTLY who it is,
+but I know someone who might...
+ 
+Here are some clues.  Find the name that goes with these
+words:
+ 
+Ross, Princess, Dirty, Prynce (alter ego of Wonder Woman),
+Greek Goddess of the Hunt, Marshall in New OfCol.
+ 
+~
+#31446
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Greetings great adventurer!  It has been quite some time
+since anyone has visited this land.  How may I be of
+service?  A witch you say?  Well, I've heard rumors,
+but I wouldn't exactly call them facts.  I can't
+arrest someone on rumors you know.  Anyway, I'm probably
+not the best person to talk to.  If anyone heard that I
+talked to you, they might claim police brutality or something.
+ 
+Go see the Mind Block in Bluetspur.  He might remember something.
+ 
+~
+#31447
+large flat piece wood~
+a large flat piece of wood~
+A large flat piece of wood is here.~
+wood~
+boat 0 A
+0 0 0 0 0
+1 100 0 P
+#31448
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Hissssss. Halt tresssspasssser! sssstop where you are?
+If you think that ssssmall adventurers like you
+sssssscare me, you're wrong!  A witch? well thisssss
+is different.  I don't know witchesssss.  I don't
+know any, but I know sssssomeone who doesssss.  Seek the 
+Lord of the Mud People, the Kind of Dirt, the Regent of Ground.
+Where to find sssssuch a Ruler? Elemental my dear Watsssson!
+ 
+~
+#31449
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Ah! Welcome! Welcome my friends!  You have reached the end
+of the line!  My advisors inform me that you are seeking
+the witch of Halloween!  Well, you've come to the right place!
+Clue #2: The witch is a Dwarf.  Good luck!
+ 
+~
+#31450
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+A message is carved into the shell of the snapping turtle.
+It reads:
+Snapping turtles are good food, 
+but their better in a witch's brew.
+Throw them in with eyes' of rats,
+add them to your stew of cats.
+After it boils, after it bubbles
+use it to end your troubles.
+For further witch's receipes,
+go find Aquarius in the Galaxy.
+~
+#31451
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Witches' receipes?  No, No... I don't sell them. I did need
+to buy one a long time ago though.  I had to find a way to 
+keep my water flowing freely.  Its hard to be a water-bearer
+if there is a drought, don't ya know.
+Unfortunately, I didn't buy the spell from the direct source
+so I can't give the name of spell seller.  I can tell you,
+however, who acted as the middle-man between me and the 
+seller of spells.  It was a young girl... I forget her name.
+But she liked to fetch water from hill tops, but I heard
+she tumbled down not too long ago.  I think you'll find her
+living on the coast now.
+ 
+~
+#31452
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Why yes I acted as the middle-man between Aquarius and the
+spell seller some years ago.  I'm out of that business now,
+my boyfriend Jack convinced me that it was too dangerous.
+Personally, I didn't think it was half as dangerous as all
+this water fetching... I must tumble down that hill every
+other time I go up to get water, and Jack is just as bad.
+Just the other day he fell down and cracked his head open.
+Anyhow, I can't help you buy any spells.  And I'm afraid
+I don't know the name of the woman who I dealt with.  She
+must made me call her "The Face That Launched A 1000 Ships"
+whatever that meant.
+~
+#31453
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Why yes I sell spells... how else could I enslave men with
+my looks for so long?  I have lots of customers most of
+whom are not witches.  Just regular people who need to get
+something done.  I have love potions, voodoo dolls, magic
+apples, etc.  
+ 
+Why yes I sell spells... how else could I enslave men with
+my looks for so long?  I have lots of customers most of
+whom are not witches.  Just regular people who need to get
+something done.  I have love potions, voodoo dolls, magic
+apples, etc.  
+ 
+Clue #3: The witch is the child of a King
+~
+#31454
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Aarrrgh... I ain't saying we ferry the witch and I ain't saying we
+don't.  I mean a pirate has got to make a living, don't he?  What
+with the government subsidies of the ferrys, its natural that those
+people who want to travel without having the authorities sticking
+their noses in the way might need the kind of alternative service
+we provide.
+But the God's honest truth is that I never really saw the witch's 
+face.  It was covered with a dark, black, cloak most of the trip.  
+You should talk with one of my other passengers though... he was 
+keeping company with the witch.  His name is Godfrey and you'll 
+find him in Baskerville.  Aarrgh!
+ 
+~
+#31455
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Damn these bloodhounds!  I don't have time to talk long... the
+dogs will back soon.  Yes, I traveled with on the Pirate Ship
+because I needed to get back here to defend the city.  I did
+not know at the time that my traveling companion was a witch.
+I found at later... when the witch was arrested and thrown
+in Shandalar's prison.  You should talk to the staff there, 
+they might be able to give you more information.
+~
+#31456
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Yep, we had the witch locked up here for a while.  Unfortunately,
+the problem with witches are they seem to always have some trick
+way to escape.  The witch got away before we could ask any 
+questions.  It was just lucky we even picked the witch up in the
+first place.  If we hadn't been tipped off by an alert citizen
+we wouldn't even had know there was a witch on Dominia.
+The citizen who gave us the tip lives in the castle in Sherwood
+forest.  He's the head-honco out there.  He might be able to
+give you more information than I can on the witch.
+~
+#31457
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Ah yes... I turned in the witch to the prison warden.  I was glad 
+to get the witch out of the forest, and out of my hair. I have 
+enough problems on my hand dealing with Robin Hood and his Merry
+Men without having to worry about witches and their curses.  I
+can't tell you the witch's name, because I never cared to find
+out.  I can tell you, however, that the witch wasn't from this 
+land.
+ 
+Clue #4: The witch is from Terra
+~
+#31458
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Yea, the witch came here to get my horn.  I tried to protect it, but
+the witch cut it off before I could run away.  I don't even look like 
+a Rhinoceros any more.  I look more like a Hippo.  All the other zoo 
+animals make fun of me... its embarassing!
+I'd tell you the witch's name if I knew it, but I was so busy trying
+to protect myself that I didn't even a good look at the witch.  I
+did hear the witch mutter something about going to the chessboard to
+get another rare animal horn.
+~
+#31459
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Oh yes... I've been visited by the witch.  That's how I lost my horn.
+The witch came late one evening and before I knew what was happening
+it was gone.  The witch cut it off.  Now I'm hornless... I might as
+well be a plain horse.  Its this kind of thing that is going to make
+unicorn extinct some day.  I don't know where the witch was headed
+after violating me... You should go talk to the Bookwyrm in the Fires
+of Dis.  He reads many different kinds of books and probably can tell
+you what other rare animal the witch was planning on harassing.
+~
+#31460
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Certainly I know what kind of spell calls for both black rhinoceros 
+horn and unicorn horn.  It is a spell of power and spell of control,
+but it is missing an essential ingredient.  The witch's spell won't
+work unless you added the toe's of a gremlin.  Now gremlin's are quite
+rare.  There is only one in all the land... you can find him hidden
+in the observatory.
+ 
+~
+#31461
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+My toes!
+I miss my toes!  Can you get my toes back?  What good is a gremlin 
+without toes?  How can I eat?  How can fight?  I need my toes!
+ 
+ 
+No I did not see the witch... the witch did not come to take my toes.
+The witch's friend's took them.  If you find the friends of the witch,
+you will find the witch.  And you will find my toes!  Bring me back
+my toes!
+ 
+Clue #5: The witch's friends are Halflings.
+ 
+~
+#31465
+clue quest halloween~
+A Halloween Quest Clue.~
+A Halloween Quest clue is on the floor.  Type "look clue".~
+granite~
+furniture TY 0
+0 0 0 0 0
+0 1000000 0 P
+E
+clue~
+Path The First
+ 
+The witch has many friends among these lands.  Royalty 
+and commoners alike.  Rumor has it the witch befriended
+a factory foreman.  Seek ye the mobmaker for answers.
+ 
+ 
+Path the Second
+Start your quest at the mushroom shaman of the Sands of Sorrow, 
+the provider of constitution.
+ 
+ 
+Path the Third
+ 
+The quickest way to find a witch is to locate the person
+who sells spells.  Although that information is kept very
+hush hush, a spell has been found carved into the shell of
+the Snapping Turtle who lives in the Swimming Hole.
+ 
+ 
+Path the Fourth
+ 
+The real way to find the witch is to question the men to ferry the
+witch across the Dragon Sea.  They probably spend more time in close
+quarters with the witch than anyone else.  The witch doesn't ride
+the regular ferry like the rest of us.  Instead the witch hitches
+a ride with the troll pirates.  You should speak the their leader.
+ 
+Path the Fifth
+ 
+The best way to find the witch is to trace the last steps the witch
+took.  Rumor has it, the witch took a trip to Dominia recently to
+gather ingredients for a Halloween spell.  Find the trace of those
+ingrediants and you might discover the identity of the witch.  Your
+first stop should be at the zoo, where the exotic black rhinoceros
+is kept.
+~
+#31466
+clue quest~
+A Halloween Quest Clue.~
+A Halloween Quest Clue is on the floor.~
+wood~
+furniture TY 0
+0 0 0 0 0
+0 0 0 P
+E
+clue~
+Kneel peasant!  You are in the presence of the magnificent
+Ring-Keeper of Mahn-Tor!
+  
+What do you say? A witch? well, I know of a witch, but that's
+not important.  Lets talk about me! My Magnificence! My... WHAT?!?
+Are you saying that the witch is more magnificent than me?  
+ 
+ 
+DAMN HIM!!  
+ 
+Clue #1:  The witch is a man.  Good luck.
+ 
+~
+#0
+
+
+
+#ROOMS
+#31400
+Caldera Road~
+You stand on a long north-south road through the Volrath
+Forest.  Thick, dead brush lines the east and west sides of
+the path.  To the south, Caldera intersects with the Slemr
+Track.
+~
+0 0 3
+D0
+~
+~
+0 0 31422
+D2
+~
+~
+0 0 8153
+S
+#31401
+Caldera Road~
+You stand on a long path that runs north and south through the 
+Volrath Forest.  A heavy growth of trees lies to the east and
+west.  To the north is the Slemr Track.
+~
+0 0 3
+D0
+~
+~
+0 0 8153
+D2
+~
+~
+0 0 31402
+S
+#31402
+Along Caldera Road~
+You stand on a long dirt road that runs through the Volrath
+Forest.  To the east, stands three tall leafless seedlings,
+which appear almost like they could move.  The only exits lie
+to the north or south.
+~
+0 0 3
+D0
+~
+~
+0 0 31401
+D2
+~
+~
+0 0 31403
+S
+#31403
+A North-South Road~
+A long dirt path cuts through a dense growth of trees.  Along
+both sides of the road grows thick flowering moss.  It looks
+like a great place to relax.  Caldera Road continues to the
+north and south.  A small entrance to the Volrath Forest lies to
+west.
+~
+0 0 3
+D0
+~
+~
+0 0 31402
+D2
+~
+~
+0 0 31404
+D3
+~
+~
+0 0 14571
+S
+#31404
+A North-South Road~
+The Volrath Forest, a storehouse of natural resources, towers
+overhead.  Thick vines grow along the ground to your east and
+west preventing any movement in those directions.  The Caldera
+Road continues to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 31403
+D2
+~
+~
+0 0 31405
+S
+#31405
+Walking the Caldera Road~
+Light streams through the tree limbs guiding your steps.  A
+large, hallow oak to your east looks like it might be an animal
+den.  The path continues to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 31404
+D2
+~
+~
+0 0 31406
+S
+#31406
+A Turn in the Road~
+Two large gnarled trees grow along the western edge of the
+path.  Thick shrubs and bushes prevent any movement in that
+direction.  Caldera Road turns from the north to the east.
+To the south lies a river bank.
+~
+0 0 3
+D0
+~
+~
+0 0 31405
+D1
+~
+~
+0 0 31407
+D2
+~
+~
+0 0 31410
+S
+#31407
+Muddy Road~
+The river has over-flowed its banks flooding Caldera Road.
+Tall trees block any movement to the north.  The road continues
+to the east and west.  The Shandalar River lies to the south.
+~
+0 0 3
+D1
+~
+~
+0 0 31408
+D2
+~
+~
+0 0 31411
+D3
+~
+~
+0 0 31406
+S
+#31408
+In Deep Mud~
+The Shandalar River has over-run its banks and flooded the
+Caldera Road.  Thick mud slows down your progress.  Tall trees
+block any movement to the north.  The road continues to the
+east and west.
+~
+0 0 3
+D1
+~
+~
+0 0 31409
+D2
+~
+~
+0 0 31412
+D3
+~
+~
+0 0 31407
+S
+#31409
+The Muddy Caldera Road~
+The muddy road turns from the west to the north.  Tall trees
+and thick shrubs block any movement to the east or south.
+~
+0 0 3
+D0
+~
+~
+0 0 12002
+D3
+~
+~
+0 0 31408
+S
+#31410
+River Bank~
+You stand on a wide river bank.  The thick trees of the Volrath
+forest prevent any movement to your west.  A muddy road lies to the
+north and the Shandalar River flows to the south.  The bank
+continues to the east.
+~
+0 0 3
+D0
+~
+~
+0 0 31406
+D1
+~
+~
+0 0 31411
+D2
+~
+~
+0 0 31415
+S
+#31411
+On a River Bank~
+This steep bank leads down to a fast flowing river.  A muddy 
+road lies to the north.  The bank continues to the east and
+the west.
+~
+0 0 3
+D0
+~
+~
+0 0 31407
+D1
+~
+~
+0 0 31412
+D2
+~
+~
+0 0 31414
+D3
+~
+~
+0 0 31410
+S
+#31412
+The Bank of the Shandalar River~
+You stand along a wide river bank over-looking the deep
+Shandalar River.  The river is too wide for you to swim across.
+To the north lies a muddy road, the bank continues to the east
+and west.
+~
+0 0 3
+D0
+~
+~
+0 0 31408
+D2
+~
+~
+0 0 31413
+D3
+~
+~
+0 0 31411
+S
+#31413
+In the River~
+You are caught in the midst of a swift flowing river.  A low-
+lying bank lies to the north.  Huge, slick rocks line the
+southern side of the river.  The water continues to the west.
+~
+0 0 6
+D0
+~
+~
+0 0 31412
+D1
+~
+~
+0 0 31424
+D2
+~
+~
+0 0 31414
+D3
+~
+~
+0 0 31414
+S
+#31414
+Shandalar River~
+The river swirls around, dragging you along.  A thick bank
+lies to north.  A slick wall of rocks prevents you from
+exiting to the south.  The river runs east and west.
+~
+0 0 6
+D0
+~
+~
+0 0 31413
+D1
+~
+~
+0 0 31413
+D3
+~
+~
+0 0 31415
+S
+#31415
+In the River~
+The water is REALLY cold!  It would not be smart to stay
+here very long or you might freeze.  You can exit to the
+north, or continue down the river by heading east or west.
+~
+0 0 6
+D0
+~
+~
+0 0 31410
+D1
+~
+~
+0 0 31414
+D3
+~
+~
+0 0 31416
+S
+#31416
+Floating on the River~
+The Shandalar River runs swiftly through the Volrath
+Forest.  Tall banks to the north and south are too steep
+to climb up.  The river continues to the north and south.
+~
+0 0 6
+D1
+~
+~
+0 0 31415
+D3
+~
+~
+0 0 31417
+S
+#31417
+The Shandalar River~
+You are in the middle of a deep river.  There is no dry land
+that you can reach in sight.  The water flows from the north
+to the south.
+~
+0 0 6
+D1
+~
+~
+0 0 31416
+D2
+~
+~
+0 0 31418
+S
+#31418
+Turn in the River~
+The river changes course here and turns from the west to
+the north.  Steep rock banks lie to the east and south
+preventing you from climbing out of the water.
+~
+0 0 6
+D0
+~
+~
+0 0 31417
+D3
+~
+~
+0 0 31419
+S
+#31419
+The Shandalar River~
+This fierce river flows quickly through the Volrath Forest.
+The water continues to the east and west, however you can
+climb out onto the river bank to your south.
+~
+0 0 6
+D1
+~
+~
+0 0 31418
+D2
+~
+~
+0 0 31420
+D3
+~
+~
+0 0 31454
+S
+#31420
+The River Bank~
+You stand on the edge of a sandy river bank which overlooks
+the mighty Shandalar River.  Tall trees from the aged Volrath
+Forest line the east and west edges of the bank.  A deep
+ravine lies to the south.  You can climb down it into it.
+~
+0 0 3
+D0
+~
+~
+0 0 31419
+D5
+~
+~
+0 0 31421
+S
+#31421
+Deep in a Ravine~
+You stand on a think ledge in the ravine.  Ablove you spreads the branches
+of the tall trees of the Volrath Forest.  It is too far down to see the bottom
+of the ravine.
+~
+0 0 4
+D4
+~
+~
+0 0 31420
+D5
+~
+~
+0 0 31452
+S
+#31422
+Caldera Road~
+This section of the road is litered with stones and bricks
+from the construction site to the east.  Exits lie to the
+north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 31480
+D1
+~
+~
+0 0 31423
+D2
+~
+~
+0 0 31400
+S
+#31423
+Amid Construction~
+Large piles of bricks and construction material cover this
+area.  A large sign warns people to STAY OUT!  However, it
+appears that at least a few people have ignored the warning
+and cleared a path to the east.
+~
+0 0 3
+D1
+~
+~
+0 0 18300
+D3
+~
+~
+0 0 31422
+S
+#31424
+The Fast-Moving River~
+The river flows swiftly over a bed of smooth rocks.  A strong current
+pushes you along swiftly.  High dirt banks block prevent you from
+climbing out of the water.
+~
+0 0 6
+D1
+~
+~
+0 0 31425
+D3
+~
+~
+0 0 31413
+S
+#31425
+A Turn in the River~
+The Shandalar River twists through the dark woods carrying you 
+along its course.  Dark green evergreens grow along the high banks
+to the north and east.  The river continues to the west and south.
+~
+0 0 6
+D2
+~
+~
+0 0 31426
+D3
+~
+~
+0 0 31424
+S
+#31426
+A Deep River~
+The river runs deep and swift through this part of the forest.  A
+dead, moss-covered tree limb stretches out over your head just out
+of reach.  The river continues to the north and east.
+~
+0 0 6
+D0
+~
+~
+0 0 31425
+D1
+~
+~
+0 0 31427
+S
+#31427
+Through the Wilderness~
+The Shandalar River travels through some of wildest and most
+botanically diverse areas in Dominia.  Thin trees line the high
+moss-covered banks that protect all manners of beasts and demons.
+The river flows east and west.  A swampy area lies to the north.
+~
+0 0 6
+D0
+~
+~
+0 0 20700
+D1
+~
+~
+0 0 31428
+D3
+~
+~
+0 0 31426
+S
+#31428
+The Rapids~
+The current drags you through the river smashing you against rocks
+and debris.  You lose all sense of direction as cold water splashes
+over your head.
+~
+0 0 12
+D0
+~
+~
+0 0 31429
+D3
+~
+~
+0 0 31427
+S
+#31429
+The Rapids~
+The current drags you through the river smashing you against rocks
+and debris.  You lose all sense of direction as cold water splashes
+over your head.
+~
+0 0 12
+D1
+~
+~
+0 0 31430
+D2
+~
+~
+0 0 31428
+S
+#31430
+The Rapids~
+The current drags you through the river smashing you against rocks
+and debris.  You lose all sense of direction as cold water splashes
+over your head.
+~
+0 0 12
+D2
+~
+~
+0 0 31431
+D3
+~
+~
+0 0 31429
+S
+#31431
+The Rapids~
+The current drags you through the river smashing you against rocks
+and debris.  You lose all sense of direction as cold water splashes
+over your head.
+~
+0 0 12
+D0
+~
+~
+0 0 31430
+D1
+~
+~
+0 0 31432
+S
+#31432
+The Dark River~
+The river is so deep here that you can not see the bottom of the
+bed.  Tall banks prevent anyone from climbing out of the water.
+Lily pads and dead pine needles line the river's edge.
+~
+0 0 12
+D1
+~
+~
+0 0 31433
+D3
+~
+~
+0 0 31431
+S
+#31433
+In the Shandalar River~
+This section of the river is shallow with dark jagged rocks
+peeking out of the water.  A tall slippery bank to the north
+prevents you from exiting in that direction.  A low bank covered
+with dead leaves lies to the south.  The river continues to the
+west.
+~
+0 8 6
+D2
+~
+~
+0 0 31434
+D3
+~
+~
+0 0 31432
+S
+#31434
+The River Bank~
+You stand on a river bank covered with dead leaves and pine
+needles.  To your north, tiny tree sprouts grow along the river's
+edge.  Huge boulders line the east and west sides of the bank,
+making moving in those directions impossible.  A path through
+the dark woods lies to the south.
+~
+0 0 3
+D0
+~
+~
+0 0 31433
+D2
+~
+~
+0 0 31435
+S
+#31435
+The Dark Forest~
+The forest floor yeilds a labyrinth of giant moss-covered
+snags and nettlesome clumps of thorn bushes.  To the north
+lies a low river bank, there appears to be a man-made structure
+far to the west.  The path continues to the south.
+~
+0 0 3
+D0
+~
+~
+0 0 31434
+D2
+~
+~
+0 0 31436
+D3
+~
+~
+0 0 6700
+S
+#31436
+Line of Pine Trees~
+A thick grove of old pine trees line the edge of this path.  Huge
+cones weigh down the trees' branches, threatening to fall and crack
+your head open.  The path continues to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 31435
+D2
+~
+~
+0 0 31437
+S
+#31437
+Thick Woods~
+Pine trees mingle between large oaks and numerous tiny sprouts.
+Tall weeds and grasses prevent you from walking east or west. A
+path continues to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 31436
+D2
+~
+~
+0 0 31438
+S
+#31438
+Deep in the Forest~
+This section of the woods is lined with flowering dogwood trees.
+Vines from the forest floor climb up the trees' trunks obscuring
+their bark.  The path you stand on continues to the north and west.
+~
+0 0 3
+D0
+~
+~
+0 0 31437
+D3
+~
+~
+0 0 31439
+S
+#31439
+On a Path in the Woods~
+The path you are on makes a sharp turn and now heads south and east.
+Large dogwoods block any movement to the north.  A pile of dead brush
+lies to the west.
+~
+0 0 3
+D1
+~
+~
+0 0 31438
+D2
+~
+~
+0 0 31441
+D3
+~
+~
+0 0 31440
+S
+#31440
+Pile of Dead Brush~
+You stand in the middle of a big pile of dead limbs and vines.
+Although this pile looks man-made, you can not imagine who would
+take the trouble to build it.  A path lies to east, and to the
+west are more tall trees.
+~
+0 0 3
+D1
+~
+~
+0 0 31439
+D3
+~
+~
+0 0 10857
+S
+#31441
+Canopy of Trees~
+The limbs of tall trees stretch over your head creating a web of
+branches.  Little light can filter through the dark canopy.  No
+one can venture off the north-south path because of the heavy
+undergrowth of the forest.
+~
+0 0 3
+D0
+~
+~
+0 0 31439
+D2
+~
+~
+0 0 31442
+S
+#31442
+Deep in the Forest~
+The woods can barely be contained in this section.  Thick leaves
+brush up against your skin.  The path continues to run north and 
+south.  A small opening in the overgrowth lies to the east.
+~
+0 0 3
+D0
+~
+~
+0 0 31441
+D1
+~
+~
+0 0 14775
+D2
+~
+~
+0 0 31443
+S
+#31443
+A Narrow Path~
+The path through the woods narrows here.  You can barely squeeze
+through without cutting up your arms on branches from brush that
+lines the path.  You can travel to the north or south.
+~
+0 0 3
+D0
+~
+~
+0 0 31442
+D2
+~
+~
+0 0 6900
+S
+#31444
+Top of a Gloomy Waterfall~
+You are at the top of a gloomy waterfall.  It doesn't look likely that
+anyone could survive falling from this height.  The clean, clear water is
+very cold.  A thick haze clouds out everything below and beyond except for
+the sounds of forest animals.  To the north, a spring bubbles out of the
+ground.
+~
+0 0 4
+D0
+~
+~
+0 0 31453
+D5
+~
+~
+0 0 31445
+S
+#31445
+Base of the Waterfall~
+You are at the base of the waterfall.  You seem to have fallen quite a
+ways down, and now you've woken up here.  There is a thick fog that clouds
+out everything near you, but you can still hear the sounds of forest
+animals.  The water moves quickly away to the south from where it lands on a
+boulder at the base of the waterfall.  
+~
+0 0 3
+D0
+A large boulder is here, looking rather odd behind the waterfall.  
+~
+boulder~
+1 0 31446
+D2
+~
+~
+0 0 31447
+D4
+~
+~
+0 0 31444
+S
+#31446
+Alcove behind the Waterfall~
+You are in an alcove behind the waterfall.  It's very dark and the sound
+of water splashing down to the south blocks out anything that you might hear
+from inside the alcove.  Piled against the wall are some large flat pieces
+of wood.  
+~
+0 1 0
+E
+boulder~
+A large boulder is here, looking rather odd behind the waterfall.  
+~
+D2
+~
+boulder~
+1 0 31445
+S
+#31447
+White Water Rapids~
+You are in the rapids.  The water is freezing cold and there are sharp
+rocks sticking out of the water, ready to smash whatever runs into it to
+pieces.  The thick fog clouds out everything near you.  The water moves so
+fast that you have no chance of getting up to the waterfall.  
+~
+0 1 3
+D2
+~
+~
+0 0 31448
+S
+#31448
+Wide, Slow-moving River~
+You are on a wide, slow-moving river.  The fog seems to clear up slightly
+here.  You can see a densely grown set of thorn bushes on the river bank to
+the south.  The river curves sharply to the west and you can see a break in
+the canopy above.  
+~
+0 1 6
+D2
+~
+~
+1 0 31451
+D3
+~
+~
+0 0 31449
+S
+#31449
+Eerie Marsh~
+You are on an eerie marsh.  The fog gets very thick here.  You can only
+hear the sounds of some frogs and few birds.  There are few trees here.  The
+only real way that you can tell where you're going is by looking at the
+water.  It seems to flow in a curving motion towards the south from the
+east.  
+~
+0 1 12
+D1
+~
+~
+0 0 31448
+D2
+~
+~
+0 0 31450
+S
+#31450
+Slime Covered Swamp~
+You are in a slime covered swamp.  There is literally slime everywhere. 
+Every single tree here has fallen due to some sort of rot.  Once in a while,
+you can hear a splashing in the water.....  If you can even call it water. 
+The fog is so thick here that you can't even tell where you are.  The slimy
+surface doesn't even move so you really have no bearings at all.  
+~
+0 1 12
+D0
+~
+~
+0 0 31449
+D1
+~
+~
+0 0 11500
+S
+#31451
+Narrow Jungle Path~
+You are on a narrow jungle path.  There isn't much fog here, but there's
+plenty of densely grown trees and bushes to block out your view of what lies
+ahead.  You can hear all sorts of animals crawling around on the ground and
+in the trees.  There's a set of thick thorn bushes to the north and the path
+continues to the south.  
+~
+0 1 3
+D0
+~
+~
+1 0 31448
+D2
+~
+~
+1 0 11500
+S
+#31452
+Near the Bottom of the Ravine~
+You are near the bottom of a deep ravine.  Tall, slick, stone walls rise
+far above your head.  A thin mist prevents you from seeing the floor
+of this large rocky crevase.  You can climb up out of the ravine or down to
+its floor.
+~
+0 0 3
+D4
+~
+~
+0 0 31421
+D5
+~
+~
+0 0 31453
+S
+#31453
+Bottom of the Ravine~
+You stand at the bottom of a deep crevase in the forest of Volrath.  The
+light from the sky above you barely penetrates the mist down here.  A large
+spring bubbles from the ground, flowing southward down a steep hill.  The 
+only exits lie south or up the slick, stone walls.
+~
+0 0 3
+D2
+~
+~
+0 0 31444
+D4
+~
+~
+0 0 31452
+S
+#31454
+In the River~
+The river narrows in this section and the water flows quickly across
+the rocky bed.  The river bank to the south and west are too steep for
+you to crawl out of the water that way.  You can continue swimming to the
+north and east.
+~
+0 0 6
+D0
+~
+~
+0 0 31455
+D1
+~
+~
+0 0 31419
+S
+#31455
+Under a Fallen Tree Trunk~
+A large tree trunk has fallen over the water in this section of the
+river.  You need to watch you head to keep from getting knocked out.
+The river continues to the west and south.
+~
+0 0 6
+D2
+~
+~
+0 0 31454
+D3
+~
+~
+0 0 31456
+S
+#31456
+In the Shandalar River~
+The river is deep and cold.  You struggle to keep your limbs from
+going numb.  Shrub covered banks to the north and south prevent any
+exit from the water in those directions.  The water flows east and
+west.
+~
+0 0 6
+D1
+~
+~
+0 0 31455
+D3
+~
+~
+0 0 31457
+S
+#31457
+Moss Covered Rocks~
+Rocks covered with a thick, dark green, moss line both sides of the
+river.  They make the banks too slippery for you to get out of the
+water by going either north or south.  The river continues to the
+east and west.
+~
+0 0 6
+D1
+~
+~
+0 0 31456
+D3
+~
+~
+0 0 31458
+S
+#31458
+At the Bottom of a Waterfall~
+You are at the bottom of the largest waterfall on the continent.  The
+sprays of water from the fall strike your face with tremendous force.
+There is no way to get to the top of the falls from here, and the banks
+of the river are too steep for you to crawl up.  The only exit lies to
+the east.
+~
+0 0 6
+D1
+~
+~
+0 0 31457
+S
+#31459
+At the Top of a Waterfall~
+You are at the top of a waterfall.  The current is dragging you down,
+but you wonder if it possible to survive what must be a fifty foot drop.
+Steep banks to the north and south prevent you from getting out of the
+water.  However, if you swim really hard, you might be able to swim back
+to safety in the west.
+~
+0 0 6
+D3
+~
+~
+0 0 31460
+D5
+~
+~
+0 0 31458
+S
+#31460
+Carried by the Current~
+The swift current in this part of the Shandalar River tosses you around
+like a rag doll.  Steep banks lined with tall pine trees lies to the 
+north and west, but there is no way to swim fast enough to reach them.
+Although the river continues to the south and east, you are distracted
+by a loud roar that fills your ears.
+~
+0 0 6
+D1
+~
+~
+0 0 31459
+D2
+~
+~
+0 0 31461
+S
+#31461
+A Sharp Turn in the River~
+The river makes a sharp turn from the west to the north.  The fast
+flowing current almost drags you under.  You grab at the branches and
+shrubs that line the banks, but you are moving too fast to get a good
+hand-hold.  To the north you hear a strange roar.
+~
+0 0 6
+D0
+~
+~
+0 0 31460
+D3
+~
+~
+0 0 31462
+S
+#31462
+In the Shandalar River~
+Talls pine trees cast shadows over the water making the river in this
+section seem even colder than normal.  Rocky banks to the north and 
+south prevent you from getting out of the water.  The river continues
+to the east and west.
+~
+0 0 6
+D1
+~
+~
+0 0 31461
+D3
+~
+~
+0 0 31463
+S
+#31463
+In the Water~
+You now must struggle to keep your head above the swift moving
+current.  The chilly water is starting to number your arms and
+legs.  Slick rocky banks provide no opportunity for you to get
+out of the water to the west or south.  The river continues to
+the north and east.
+~
+0 0 6
+D0
+~
+~
+0 0 31464
+D1
+~
+~
+0 0 31462
+S
+#31464
+Fast Moving Current~
+The Shandalar River current begins to pick up speed as it winds its way
+through the woods.  Steep, tree covered banks prevent you from climbing
+out of the water to the east or west.  The river flows north and south.
+~
+0 0 6
+D0
+~
+~
+0 0 31465
+D2
+~
+~
+0 0 31463
+S
+#31465
+Between Two Large Boulders~
+The river takes you between two large boulders.  If you crashed into
+either one of them, your brains would be fish food.  Steep banks to
+the north and east prevent you from climbing out of the water.  The
+river continues to the west and south.
+~
+0 0 6
+D2
+~
+~
+0 0 31464
+D3
+~
+~
+0 0 31466
+S
+#31466
+In the River~
+The water isn't very deep in this section of the river causing rocks 
+to break through the surface and pose a hazard.  The water continues
+flowing east and west.
+~
+0 0 6
+D1
+~
+~
+0 0 31465
+D3
+~
+~
+0 0 31467
+S
+#31467
+In the Shandalar River~
+The river is not very deep here.  When you look down you can see the
+rocks that line the bed.  Dead trees prevent you from climbing the
+northern bank and the southern bank is too steep to climb up.  The
+river continues to the east and to the west under a wooden bridge.
+~
+0 0 6
+D1
+~
+~
+0 0 31466
+D3
+~
+~
+0 0 31468
+S
+#31468
+Under A Wooden Bridge~
+You are swimming under a dark and musty wooden bridge.  It creaks and
+groans whenever someone passes over it.  You hope that it is stable.  The
+wooden beams meet the river bank to the north and south making it impossible
+to move in that direction.  A steel gate is locked to the east allowing the
+water to pass, but nothing else.
+~
+0 0 6
+D1
+~
+~
+0 0 31467
+D3
+~
+~
+0 0 31470
+S
+#31469
+The River Bank~
+You stand on the bank of the might Shandalar River, the most prominant water
+source on Dominia.  Clean fresh drinking water flows from the continent out
+to the sea.  You can reach the water by heading north.  The King's Way lies
+to your east.
+~
+0 0 0
+D0
+~
+~
+0 0 31470
+D1
+~
+~
+0 0 10925
+M 0 H 0
+S
+#31470
+In the Shandalar River~
+You are immersed in the waters of the Shandalar River.  They are cold and
+cause you to shiver.  The river continues to the east and west.  You can 
+climb out of the water by heading north or south.
+~
+0 0 6
+D0
+~
+~
+0 0 31471
+D1
+~
+~
+0 0 31468
+D2
+~
+~
+0 0 31469
+D3
+~
+~
+0 0 31472
+S
+#31471
+A River Bank~
+You are standing on the steep bank of the Shandalar River.  This river runs
+the length of Dominia.  You can reach the water by going south.  The King's
+Way lies to the East.
+~
+0 0 2
+D1
+~
+~
+0 0 10923
+D2
+~
+~
+0 0 31470
+S
+#31472
+A Swift Flowing River~
+The white tipped water of the river sparkles no matter what the time of day.
+You can continue swimming to the east or west.  The banks to the north and 
+south are too steep for you to climb out of the water here.
+~
+0 0 6
+D1
+~
+~
+0 0 31470
+D3
+~
+~
+0 0 31473
+S
+#31473
+In the Water~
+You are swimming in the Shandalar River.  The swift current makes it 
+difficult to keep your head above water.  The river continues or the north
+and east.  A pond of some sort lies to the south.
+~
+0 0 6
+D0
+~
+~
+0 0 31474
+D1
+~
+~
+0 0 31472
+D2
+~
+~
+0 0 9965
+S
+#31474
+In the Water~
+The swiftly moving current pushes you along almost effortlessly.  You only
+have to keep your head above the water.  The river continues to the west
+and south.  The banks are too steep to the north and east for you to climb
+out of the water.
+~
+0 0 6
+D2
+~
+~
+0 0 31473
+D3
+~
+~
+0 0 31475
+S
+#31475
+In the Shandalar River~
+You are swimming in the Shandalar River.  You are surprised with how clean 
+it is.  You can continue swimming to the west or the east.  If you want to
+climb out of the river a steep bank lies to the north.
+~
+0 0 6
+D0
+~
+~
+0 0 31476
+D1
+~
+~
+0 0 31474
+D3
+~
+~
+0 0 31477
+S
+#31476
+On the Bank of the Shandalar River~
+You stand on a steep river bank.  To reach the water you have to head down
+the hill to your south.  Thick trees and shurbs prevents any movement to 
+the north or east.  To the west lies a road that runs in between Shandalar
+and the Evermore forest.
+~
+0 0 2
+D2
+~
+~
+0 0 31475
+D3
+~
+~
+0 0 7555
+S
+#31477
+Under a Bridge~
+You are swimming under a stone bridge.  It is dark under here and you are
+reminded of the stories your mother used to tell about trolls who live
+under bridges and eat little boys and girls.  You can swim east or west.
+~
+0 1 6
+D1
+~
+~
+0 0 31475
+D3
+~
+~
+0 0 31478
+S
+#31478
+In the Shandalar River~
+You are swimming in the Shandalar River.  The current is running from east
+to west.  However, there seems to be some sort of beaver dam blocking any
+movement to the west.  You can climb out of the river by heading north, or
+you swim east and end up under a dark bridge.
+~
+0 0 6
+D0
+~
+~
+0 0 31479
+D1
+~
+~
+0 0 31477
+S
+#31479
+A Steep River Bank~
+You stand on on a grassy hill.  Down a steep embankment to your south lies
+the Shandalar River.  Thick trees and shrubs block any movement to the
+north or west.  The King's Way lies to your east.
+~
+0 0 2
+D1
+~
+~
+0 0 7555
+D2
+~
+~
+0 0 31478
+S
+#31480
+Caldera Road~
+This road is fairly well maintained considering it is on the far
+edge of the kingdom.  Heavy brush lines both its sides.  You can continue
+traveling to the north and the south.
+~
+0 0 3
+D0
+~
+~
+0 0 31481
+D2
+~
+~
+0 0 31422
+S
+#31481
+Caldera Road~
+Crushed rock froms the base of the road, making it a stable foundation
+for travel.  The brush is too thick to see through toward the west
+and the east.  You can continue traveling north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 31482
+D2
+~
+~
+0 0 31480
+S
+#31482
+North Caldera Road~
+There are no weeds growing up through the road.  Either it is well
+traveled or the crushed rock prevents them from spreading from the
+forest onto the path's surface.  You can continue to the north and
+south.
+~
+0 0 3
+D0
+~
+~
+0 0 31483
+D2
+~
+~
+0 0 31481
+S
+#31483
+North Caldera Road~
+Trees from the forest overhang the road in an appealing manner.
+Their large limbs must provide shade even on the sunniest of days.
+You can continue to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 31484
+D2
+~
+~
+0 0 31482
+S
+#31484
+North Caldera Road~
+Walking along this road is a pleasant experience.  Although the
+forest is thick along both side of the path, it does not seem
+threatening.  You can continue to the north and the south.
+~
+0 0 3
+D0
+~
+~
+0 0 31485
+D2
+~
+~
+0 0 31483
+S
+#31485
+North Caldera Road~
+A sign on the side of the road points east and reads: City of
+Tears.  You can travel north, south, or east.
+~
+0 0 3
+D0
+~
+~
+0 0 31489
+D1
+~
+~
+0 0 31486
+D2
+~
+~
+0 0 31484
+S
+#31486
+City of Tears Road~
+This road is well maintained despite it location at the edge of the
+kingdom.  You wonder if the king's men take care of its maintenance or
+the residents of the City of Tears.  You can head toward the city by going
+east or toward Caldera road by going west.
+~
+0 0 3
+D1
+~
+~
+0 0 31487
+D3
+~
+~
+0 0 31485
+S
+#31487
+City of Tears Road~
+The forest begins to thin out toward the north.  Although the brush is
+too tall to see over, more light filters into the area from that direction.
+You can continue to the east or the west.
+~
+0 0 3
+D1
+~
+~
+0 0 31488
+D3
+~
+~
+0 0 31486
+S
+#31488
+City of Tears Road~
+The road bends from the west toward the north where you can see
+the entrance of a small city.  Thick brush prevents movement toward
+the south and east.
+~
+0 0 0
+D0
+~
+~
+0 0 13501
+D3
+~
+~
+0 0 31487
+S
+#31489
+North Caldera Road~
+This straight path runs through the heart of the Volrath forest.
+Rumors abound of a sliver colony deep in the woods, but no one has
+ever located it.  Exits lie to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 31490
+D2
+~
+~
+0 0 31485
+S
+#31490
+On a Long Road~
+Gravel crunches beneath your feet as you travel along North
+Caldera Road.  Thick trees and brush prevent you from see very
+far into the woods.  Exits lie to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 31491
+D2
+~
+~
+0 0 31489
+S
+#31491
+On Caldera Road~
+Things are very quiet along this section of the road.  Ferns line both the
+east and west edges of the road, preventing any movement in that direction.
+You can continue traveling north or south.
+~
+0 0 0
+D0
+~
+~
+0 0 31492
+D2
+~
+~
+0 0 31490
+S
+#31492
+Deep in the Woods~
+Moss and clover grow up between the gravel on this part of Caldera
+Road.  The ferns and thick shrubs that line the path spread a calm
+feeling in this part of the forest.  The road continues to the north
+and the south.
+~
+0 0 0
+D0
+~
+~
+0 0 31493
+D2
+~
+~
+0 0 31491
+S
+#31493
+Intersection of Caldera Road and Forgotten Path~
+You stand at an intersection of two roads.  Caldera road runs south,
+while an old path from the dragon wars heads west.  A thick tree, over
+200 years old, blocks any movement to the north.  Ferns and thick shrubery 
+prevents any movement to the east.
+~
+0 0 0
+D2
+~
+~
+0 0 31492
+D3
+~
+~
+0 0 31494
+S
+#31494
+A Gravel Path~
+You stand on a narrow path that doesn't appear to have been used
+very often.  Limbs and branches brush catch your clothes as you
+walk through the forest.  The only exits like to the east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 31493
+D3
+~
+~
+0 0 31495
+S
+#31495
+A Gravel Path~
+Tall trees covered in a thick moss line the northern and southern
+edges of the path.  Thick ferns and ivy cover the forest floor 
+causing this entire section of the forest to feel humid and damp.
+You hope your armor doesn't rust.  The path continues to the east
+and west.
+~
+0 0 0
+D1
+~
+~
+0 0 31494
+D3
+~
+~
+0 0 31496
+S
+#31496
+Surrounded by Moss Covered Trees~
+Tall trees covered in a thick moss line the northern and southern
+edges of the path.  Thick ferns and ivy cover the forest floor 
+causing this entire section of the forest to feel humid and damp.
+The path continues to the east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 31495
+D3
+~
+~
+0 0 31497
+S
+#31497
+On an East-West Path~
+You stand on a path that runs east and west through thick woods.
+Although talls trees surround you, light is still able to filter
+down through their leaves.  A grove of young dogwoods lie to the
+north, while a thick carpet of ferns line the southern edge of the
+path.
+~
+0 0 0
+D1
+~
+~
+0 0 31496
+D3
+~
+~
+0 0 31498
+S
+#31498
+On a Rocky Path~
+This rocky path weaves it way through the forest.  Boulders and
+tall pine trees prevent any movement to the north or south.  The
+only exits lie to the east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 31497
+D3
+~
+~
+0 0 17779
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 31445 0 1
+D 0 31446 2 1
+D 0 31448 2 1
+D 0 31451 0 1
+D 0 31451 2 1
+M 1 31400 2 31432 2
+M 1 31401 1 31442 1
+O 0 31447 0 31446
+M 1 31402 3 31450 3
+M 1 31404 1 31468 1
+M 1 31403 1 31477 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

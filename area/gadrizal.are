@@ -1,0 +1,367 @@
+#AREADATA
+Name Gadrizal~
+Builders Twilight~
+VNUMs 30000 30099
+Credits { None} Twilght Gadrizal~
+Security 1
+Xcontinent 1
+Age 11
+End
+
+
+
+#MOBILES
+#30000
+cityguard troll guard~
+a troll cityguard~
+A stern, heavily armored troll is here, guarding the city.
+~
+The cityguards of Gadrizal are mainly recruited from the warlike
+Batailus tribe, and are ferocious fighters.  Their favored weapon is the
+axe, and they are very proficient in its use.  
+~
+troll~
+AB JZ 0 0
+15 1 3d9+208 1d1+100 2d6+3 pound
+-2 -2 -2 -1
+CEHIKR 0 Q H
+stand stand either 500
+BHMZ ABCDEFGHIJKLPQUVWX medium 0
+#30001
+big troll cityguard seargent~
+a troll cityguard seargent~
+A big troll is here, keeping his troops in line.
+~
+The seargents of the cityguards are hand-picked from some of the meanest
+and fiercest warriors of the Batailus tribe.  He's carrying a very large
+axe, and looks like he knows how to use it.  
+~
+troll~
+AB Za 0 0
+20 2 3d9+333 1d1+100 2d8+5 pound
+-4 -4 -4 -2
+CEFHIKR 0 Q H
+stand stand either 750
+BHMZ ABCDEFGHIJKLPQUVWX medium 0
+#0
+
+
+
+#OBJECTS
+#30000
+axe steel broad bladed heavy~
+a broad-bladed steel axe~
+A heavy steel axe is lodged firmly in the ground.~
+steel~
+weapon 0 AN
+axe 4 3 chop 0
+15 50 1500 P
+A
+19 1
+A
+18 1
+#30001
+steel plate troll trollish suit~
+a suit of trollish plate mail~
+A smallish suit of steel plate sits here.~
+steel~
+armor 0 AD
+7 7 7 5 0
+15 100 1700 P
+A
+2 -1
+A
+19 1
+#30002
+shield steel heavy war~
+a heavy steel warshield~
+A large, heavy steel shield sits here.~
+steel~
+armor 0 AJ
+6 6 6 2 0
+15 40 1400 P
+A
+23 -2
+A
+18 1
+#30003
+heavy steel war axe ~
+a broad-bladed steel waraxe~
+A huge steel axe is sunk deep into the ground.~
+steel~
+weapon 0 AN
+axe 3 6 chop 0
+20 60 1700 P
+A
+19 2
+A
+18 1
+A
+1 1
+#30004
+no name~
+the great marble statue~
+A great marble fountain-statue of a phoenix, a crethal and a slain dragon dominates the center of the square.~
+marble~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#30000
+The Gates of Gadrizal~
+You emerge from a mass of twisted brambles and other unpleasant
+vegetation to find yourself in a rough clearing, facing a set of massive
+gates crudely carved from granite.  Walls of rough-hewn stone stretch east
+and west for some distance.  You can distantly see well-armed sentries
+patrolling the walls, and the gatehouse seems particularly well-manned.  A
+heavy wooden bridge surrounds a wide moat filled with deep, murky water. 
+Wagons and travellers drift in and out of city, and the sound of the
+gutteral trollish tongue reaches your ears.  You may enter the city to the
+north.  
+~
+0 4 3
+D0
+~
+~
+1 0 30001
+S
+#30001
+Entering the city~
+As you enter the city, you notice high above you that a great mass of
+twisted brambles and other plants seems to grow over and cover the city,
+blocking out the sunlight.  It's obviously ideal living conditions for the
+trolls, who abhor sunlight.  You are checked over by a guard, and he
+grudgingly allows you into the city.  Seems like they don't take too kindly
+to outsiders.  The sprawling city lies to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 30002
+D2
+~
+~
+1 0 30000
+S
+#30002
+A street leading north~
+The heels of your boots click on the smooth obsidian road as you travel
+along the street.  A soft black illumination blankets the street, highliting
+the shadows.  Citizens of the city go about their daily (nightly?)  business
+The street continues northwards.  
+~
+0 8 0
+D0
+~
+~
+0 0 30003
+D2
+~
+~
+0 0 30001
+S
+#30003
+A street leading north~
+The heels of your boots click on the smooth obsidian road as you travel
+along the street.  A soft black illumination blankets the street,
+highlighting the shadows.  Citizens of the city go about their daily
+(nightly?)  business.  There seems to be quite some traffic and commotion to
+the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 30004
+D2
+~
+~
+0 0 30002
+M 0 H 0
+S
+#30004
+The Hub~
+This large plaza seems to be a central point for travel through the city.
+Small-time merchants have set up stalls here and there, peddaling their
+wares.  The three major streets of the city branch off to the north, east
+and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 30005
+D2
+~
+~
+0 0 30003
+M 0 H 0
+S
+#30005
+Hallios Way~
+This smooth, winding street leads to the great temple of Selina, visible
+far in the distance.  Shops and houses line the road.  Many trolls walk
+about here, the dominant populace seeming to be members of the religious
+Hallios tribe.  The street continues northwards.  
+~
+0 8 0
+D0
+~
+~
+0 0 30006
+D2
+~
+~
+0 0 30004
+M 0 H 0
+S
+#30006
+Hallios Way~
+This smooth, winding street leads to the great temple of Selina, visible
+far in the distance.  Shops and houses line the road.  Many trolls walk
+about here, the dominant populace seeming to be members of the religious
+Hallios tribe.  The street continues northwards.  
+~
+0 8 0
+D0
+~
+~
+0 0 30008
+D2
+~
+~
+0 0 30005
+D3
+~
+~
+0 0 30007
+M 0 H 0
+S
+#30007
+(talisman shop)~
+~
+0 8 0
+D1
+~
+~
+0 0 30006
+M 0 H 0
+S
+#30008
+Hallios Way~
+This smooth, winding street leads to the great temple of Selina, visible
+far in the distance.  Shops and houses line the road.  Many trolls walk
+about here, the dominant populace seeming to be members of the religious
+Hallios tribe.  The street continues northwards.  
+~
+0 0 0
+D0
+~
+~
+0 0 30010
+D1
+~
+~
+0 0 30009
+D2
+~
+~
+0 0 30006
+S
+#30009
+(shop?)~
+~
+0 0 0
+D3
+~
+~
+0 0 30008
+M 0 H 0
+S
+#30010
+Hallios Way~
+This smooth, winding street leads to the great temple of Selina, visible
+in the distance.  Shops and houses line the road.  Many trolls walk about
+here, the dominant populace seeming to be members of the religious Hallios
+tribe.  The street continues northwards, leading into the great temple
+square.  
+~
+0 8 0
+D0
+~
+~
+0 0 30011
+D2
+~
+~
+0 0 30008
+S
+#30011
+The Grand Temple Square~
+This huge square is a wonder to behold.  The obsidian ground is perfectly
+smooth, and carved into are beautiful scenes depicting both great battles
+and surreal nature scenes.  Exquisite statues of both flora and fauna are
+carved straight from the ground, giving them the appearance of life being
+brought forth by the cold earth.  There are ample carved stone seats and
+benches, so people can sit here and contemplate the beauty of the
+sculptures.  Strategically placed lights glow softly, highlight both the
+details and the shadows.  The temple of Selina looms to the north, its
+presence both fascinating and foreboding.  Subsidary buildings of the temple
+complex lie to the east and west.  
+~
+0 8 0
+D2
+~
+~
+0 0 30010
+S
+#0
+
+
+
+#SPECIALS
+M 30000 spec_guard Load to: a troll cityguard
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+M 1 30000 40 30001 4
+E 0 30000 0 16
+E 0 30001 0 5
+E 0 30002 0 11
+M 1 30000 40 30001 4
+E 0 30000 0 16
+E 0 30001 0 5
+E 0 30002 0 11
+M 1 30000 40 30001 4
+E 0 30000 0 16
+E 0 30001 0 5
+E 0 30002 0 11
+M 1 30000 40 30001 4
+E 0 30000 0 16
+E 0 30001 0 5
+E 0 30002 0 11
+M 1 30001 10 30001 1
+E 0 30001 0 5
+E 0 30002 0 11
+E 0 30003 0 16
+O 0 30004 0 30011
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

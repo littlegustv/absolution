@@ -1,0 +1,1380 @@
+#AREADATA
+Name Justice Clan Hall~
+Builders Teldin Aql~
+VNUMs 10750 10799
+Credits { All }             Justice Clan~
+Security 9
+Xcontinent 0
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#10750
+guardian justice clan goon hall~
+a Guardian of Justice~
+A Guardian of Justice is here, protecting the door to the north. 
+~
+A Guardian of Justice is here, protecting the gates to Justice Clan Hall. 
+~
+orc~
+ABCGT DHJNQTVZab 0 0
+60 6 50d10+9500 7d6+100 8d6+28 punch
+-30 -30 -30 -30
+ABCEFHJKNRU ABab CQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#10751
+healer donna~
+Donna~
+Donna has returned and is waiting to heal you.
+~
+Although retired from adventuring, the healer still lends a hand.  
+Type 'heal' to see a listing of spells.  
+~
+human~
+ABQVa DZ 1000 0
+53 5 50d10+6000 1d1+100 6d7+21 divine
+-23 -23 -23 -23
+FHIK ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#10752
+Clan Store keeper~
+store keeper~
+Your clan store keeper is here, trying to sell you a water skin. 
+~
+A man dressed in old tattered clothing is here trying to promote 
+Justice through his non-profit store. 
+~
+human~
+ABQR DZ 1000 0
+1 0 1d1+999 1d1+999 10d10+10 magic
+-15 -15 -15 -15
+FGH ABCDQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#10753
+slasher injustice~
+Injustice~
+Injustice is here.
+~
+Injustice attempts to rob you of your soul.
+~
+human~
+ABCGT DZ 0 0
+60 0 10d10+1400 17d9+100 4d7+11 punch
+-10 -10 -10 -10
+FU ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#10754
+guardian justice clan goon hall~
+a Guardian of Justice~
+A Guardian of Justice is here, protecting the door to the north.
+~
+A Guardian of Justice is here, protecting the gates to Justice Clan Hall.
+~
+orc~
+ABCGT DHJLNQTVZa 0 0
+60 6 50d10+9500 1d1+100 8d6+28 punch
+-30 -30 -30 -30
+ABCEFHJKNRU ABab CDQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#10755
+guardian justice clan goon hall~
+a Guardian of Justice~
+A Guardian of Justice is here, protecting the door to the north.
+~
+A Guardian of Justice is here, protecting the gates to Justice Clan Hall.
+~
+orc~
+ABCGT DHJNQTVZ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 punch
+-30 -30 -30 -30
+ABCDEFHKNR ABab CDKQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#10756
+guardian justice clan goon hall~
+a Guardian of Justice~
+A Guardian of Justice is here, protecting the door to the north.
+~
+A Guardian of Justice is here, protecting the gates to Justice Clan Hall.
+~
+orc~
+ABCGT DHJNQTVZ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+ABCDFHKNR ABab CQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#10757
+guardian justice clan goon hall~
+a Guardian of Justice~
+A Guardian of Justice is here, protecting the door to the north.
+~
+A Guardian of Justice is here, protecting the gates to Justice Clan Hall.
+~
+orc~
+ABCGT DHJNQTVZ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 punch
+-30 -30 -30 -30
+ABCDFHKNR ABab CDQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#10750
+justice hall key~
+Justice hall key~
+The key to Justice clan hall is on the floor.~
+~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the clan_d of the world of Redemption. 
+~
+#10751
+lime potion~
+a lime potion~
+A greenish vial is here.~
+wood~
+potion 0 A
+25 'detect invis' 'detect magic' 'reserved' 'reserved'
+40 10 2000 P
+#10752
+aura portal justice~
+{Wthe path of Justice{x~
+An aura of dim light glows at one end of the room.~
+stone~
+portal T 0
+0 0 0 10758 0
+0 0 0 P
+#10753
+justice light aura portal~
+the light of truth~
+An aura of dim light glows at one end of the room.~
+stone~
+portal T 0
+0 0 0 10760 0
+0 0 0 P
+#10754
+tetragon sabre~
+Tetragon's Sabre~
+Tetragon's Sabre lies here still humming from the last battle.~
+adamantite~
+weapon ABIPUV AN
+sword 5 7 cleave EF
+42 450 5600 P
+E
+scimitar blade~
+It is quite heavy.  The blade is made of some metal that you can't even 
+spell.  The edge of the blade looks as if it could cut through anything 
+or anyone. 
+~
+#10755
+figurine mist~
+mist figurine~
+A misty figurine lays on the ground.~
+oldstyle~
+wand AG AO
+45 3 3 'gate' 0
+40 30 11800 P
+A
+14 75  
+#10756
+bola~
+a bola~
+A bola sits here.~
+stone~
+throwing 0 AO
+3 4 whip 20 'slow'
+15 2 1000 P
+#10757
+justice hall key~
+Justice hall key~
+A fake key to Justice clan hall is on the floor.~
+metal~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+#10758
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 4000 P
+#10759
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#10760
+flame broiled elfkabob~
+a flame broiled elfkabob~
+A flame broiled elfkabob is here, giving off a juicy, almost intoxicating smell.~
+food~
+pill GS A
+10 'stone skin' 'shield' 'reserved' 'reserved'
+0 1 2500 P
+#10761
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#10762
+raft~
+a raft~
+A raft has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 750 400 A
+E
+raft~
+The raft looks very primitive. 
+~
+#10763
+gingerbread cookie~
+a gingerbread cookie~
+A gingerbread cookie is here, luring you in with an irresistable aroma.~
+food~
+pill GS A
+10 'bark skin' 'pass door' 'reserved' 'reserved'
+10 1 2500 P
+#10764
+potion dark blue~
+a dark blue potion~
+A dark blue potion lies here.~
+oldstyle~
+potion G AO
+10 '(null)' 'refresh' '(null)' '(null)'
+0 10 200 P
+#10765
+pewter sack~
+a pewter sack~
+A small bag made of metal is gathering dust here.~
+pewter~
+throwing N AO
+3 7 blast 37 'acid blast'
+30 20 3500 P
+#10766
+clear pill~
+a clear pill~
+A cute clear pill has the letter 'S' stamped on it.~
+glass~
+pill 0 A
+30 'haste' 'reserved' 'reserved' 'reserved'
+20 0 2500 P
+#10767
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#10768
+reality tear~
+A Tear in Reality~
+Reality is here if you can't handle the tear.~
+adamantite~
+portal 0 0
+0 0 0 10759 0
+25 1000 3000 P
+#10769
+reality tear~
+A Tear in Reality~
+Reality is here if you can't handle the tear.~
+adamantite~
+portal 0 0
+0 0 0 10764 0
+25 1000 3000 P
+#10770
+vial psychedelic ink~
+a vial of psychedelic ink~
+A vial of multicolored ink.~
+cream~
+potion 0 AO
+5 'invisibility' 'pass door' '(null)' '(null)'
+1 1 500 P
+#10771
+vial black ink~
+a vial of black ink~
+A vial of black writing ink sits here.~
+cream~
+potion 0 AO
+25 'remove curse' 'blur' '(null)' '(null)'
+25 1 3000 P
+#10772
+fountain lemonade elemental plane portal~
+This fountain once flowed with lemonade for all the Justice to drink.~
+This fountain looks as if it has been dried up for a long time.  It once flowed with liquid from the Elemental Plane of Lemonade.~
+~
+trash OR 0
+0 0 0 0 0
+0 0 0 G
+E
+fountain~
+The marble fountain stopped spewing coffee one day, and instead
+started gushing forth with gallons and gallons of lemonade!
+These portals to the Elemental Plane of Lemonade are cropping
+up everywhere.
+~
+#10773
+malevolus evil dart~
+the Malevolus~
+An evil-looking dart sits here.~
+mithril~
+throwing C AO
+7 5 bite 50 'curse'
+45 1 4000 P
+#10774
+dart~
+a strange dart~
+You see a little dart here.~
+wood~
+throwing 0 AO
+1 6 pierce 15 'burning hands'
+0 10 510 P
+#10775
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+12 'identify' '(null)' '(null)' '(null)'
+7 10 890 P
+E
+scroll identify~
+The scroll has a magic formula drawn upon it: 
+	  ??? 
+	 ?   ? 
+		 ? 
+		? 
+		? 
+		* 
+~
+#10776
+figurine winged horse pegasus~
+a figurine of a winged horse~
+You see a small figurine of a winged horse on the ground.~
+oldstyle~
+wand AG AO
+45 25 25 'fly' 0
+20 30 16600 P
+#10777
+wand magic missile missiles~
+a wand of magic missiles~
+a wooden stick lies on the ground.~
+wood~
+wand G AO
+4 10 10 'magic missile' 0
+2 10 320 P
+E
+wand~
+It has a little note that says 'point this end at target'. 
+~
+#10778
+deep blue pill~
+a deep blue pill~
+A deep blue pill with the letter 'E' stamped on it.~
+food~
+pill 0 A
+53 'frenzy' 'heal' 'reserved' 'reserved'
+50 0 15000 P
+#10779
+<unused vnum> defeatered chicken~
+<unused vnum> a defeathered chicken~
+A defeathered chicken is here on the floor.~
+oldstyle~
+food 0 A
+16 16 0 0 0
+0 50 10 P
+#10780
+incredible potion strength~
+an incredible potion of strength~
+An incredible potion of strength has been dropped here.~
+glass~
+potion C AO
+25 'giant strength' 'slow' '(null)' '(null)'
+20 10 3000 P
+E
+incredible~
+Poua! It smell awfull. Yon don't want really drink it ?
+~
+#10781
+reality tear~
+A Tear in Reality~
+Reality is here if you can't handle the tear.~
+adamantite~
+portal 0 0
+0 0 0 10783 0
+25 1000 3000 P
+#10782
+white pill~
+a white pill~
+A white pill with the letter 'C' stamped on it.~
+none~
+pill 0 A
+35 'frenzy' 'giant strength' 'reserved' 'reserved'
+35 0 5000 P
+#10783
+<unused vnum>~
+a window of reality~
+{x~
+energy~
+portal 0 0
+0 0 0 10763 0
+0 0 0 P
+#10784
+tent~
+a sturdy canvas tent~
+A sturdy canvas tent is here.~
+canvas~
+container S A
+70 A 0 10 100
+1 25 150 P
+#10785
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#10786
+white off potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#10787
+potion cure blindness~
+a potion of cure blindness~
+A potion of cure blindness is here.~
+glass~
+potion G AO
+13 'cure blindness' '(null)' '(null)' '(null)'
+0 10 1150 P
+#10788
+skin water buffalo~
+a buffalo water skin~
+A bloated dead buffalo is on the floor.~
+leather~
+drink 0 A
+64 64 'water' 0 0
+0 40 24 G
+#10789
+vial potion empty _unused_~
+<unused vnum> an empty potion vial~
+An empty potion vial is here.~
+wood~
+potion W AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#10790
+blank scroll _unused_~
+a blank scroll~
+A blank scroll is here.~
+paper~
+scroll 0 AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#10791
+reality tear~
+A Tear in Reality~
+Reality is here if you can't handle the tear.~
+adamantite~
+portal 0 0
+0 0 0 10766 0
+25 1000 3000 P
+#10792
+moss~
+A hole in the tree trunk~
+A dark hole in the tree seems to lead somewhere.~
+energy~
+portal O 0
+0 0 0 10759 0
+0 20000 0 P
+#10793
+statue silver moose~
+a Statue of a Silver Moose~
+A Statue of a Silver Moose hangs on the wall.~
+fur~
+portal O 0
+0 0 0 10762 0
+0 5000 0 P
+#10794
+statue silver moose~
+a Statue of a Silver Moose~
+A Statue of a Silver Moose hangs on the wall.~
+fur~
+portal O 0
+0 0 0 10765 0
+0 5000 0 P
+#10795
+stormbringer bringer dart~
+a stormbringer~
+A storm-painted dart lies here.~
+silver~
+throwing 0 AO
+6 3 sting 28 'hurricane'
+25 1 2000 P
+#10796
+reality tear~
+A Tear in Reality~
+Reality is here if you can't handle the tear.~
+adamantite~
+portal 0 0
+0 0 0 10768 0
+25 1000 3000 P
+#10797
+oak table war heavy~
+the heavy oak meeting table of Justice~
+A heavy oak meeting table sits here, used in times of war.~
+oak~
+furniture O P
+10 0 DGJ 0 0
+0 2000 0 P
+#10798
+incredible pill feeling~
+an incredible pill of feeling~
+An incredible pill of feeling has been dropped here.~
+food~
+pill e AO
+15 'detect invis' 'infravision' 'loneliness' '(null)'
+15 10 1000 P
+E
+incredible pill feeling~
+This pill isn't appetizing.
+~
+E
+~
+~
+#10799
+wingwasp~
+a wingwasp~
+A vicious wingwasp is laying here.~
+metal~
+throwing N AO
+3 7 sting 30 'lightning bolt'
+20 20 2200 P
+#0
+
+
+
+#ROOMS
+#10750
+Extra room of Justice~
+This room is not connected to Justice clan hall. 
+~
+0 956563468 0
+S
+#10751
+A Tiny Crevice in the Mountain~
+You slip through a tiny crevice at the top of the mountain and find 
+yourself at the secret entrance to Justice clan hall.  By going south 
+you can return to the top of the mountain or by going north you face 
+the Guardians of Justice.
+~
+0 0 0
+D0
+Exit ~
+door~
+0 0 10753
+D2
+~
+~
+0 -1 901
+D3
+Exit ~
+door~
+0 0 10752
+S
+#10752
+The Bane of Justice~
+You should hurry through this room to the safety of your clan hall.  It
+is the irony of the gods that placed the most partisan of all evils in what
+would otherwise be the most impregnable of all rooms.  
+~
+0 956564492 0
+D1
+Exit ~
+door~
+0 0 10751
+C loner~
+S
+#10753
+The Gates of Justice~
+The gates of Justice stand locked to all unworthy and faithless souls.  You 
+gnash your teeth and tear at your hair wishing that you too could enter the 
+hallowed ground.  The only exit is to the south where there is a small 
+crevice in the mountain.
+~
+0 0 0
+D0
+Exit ~
+door~
+4 10750 10754
+D2
+Exit ~
+door~
+0 -1 10751
+S
+#10754
+Sanctuary Of Clan Justice~
+Welcome to Clan Justice says a sign above the door.  You feel at 
+home and warm in this sanctuary from the wars of the world.  A 
+statue of the first leader, the legendary Chain stands before you 
+reminding you to pursue the ways of Justice.
+~
+0 956563468 0
+D0
+Exit ~
+door~
+0 0 10755
+D2
+Exit ~
+door~
+0 0 10753
+D3
+Exit ~
+door~
+0 0 10756
+D4
+~
+door~
+1 0 10762
+D5
+~
+~
+0 0 10759
+S
+#10755
+The Altar of Justice~
+This large candle-lit room has a magical glow to it.  It is in this room  
+that the warriors of Justice sharpen their weapons in preparation for  
+battle and the clan's powerful enchanters cast potent spells on the  
+equipment of their comrades.  You feel yourself growing stronger  
+just by being surrounded by the glory of your fellow clan members.
+~
+0 956563468 0
+E
+2~
+Generic extended description. 
+~
+D0
+~
+~
+1 0 10758
+D2
+Exit ~
+door~
+0 0 10754
+D3
+~
+~
+1 0 10757
+D5
+~
+door~
+1 0 10761
+M 300 H 300
+S
+#10756
+The Justice Co-operative~
+This is a model store set up along the radical ideal of non-profit.  
+The man behind the counter sells all his goods at cost.  In this 
+small way you are able to participate in the socialist experiment 
+that one day will be ruling concept of all Boinga.
+~
+0 956563468 0
+D1
+Exit ~
+door~
+0 0 10754
+S
+#10757
+The Smithy~
+The smell of sulphur tingles at your senses upon entering.  Here is where
+the members of the Fellowship and Brotherhood come to make their donations
+to the clan, while the clan blacksmith is at the forge, constantly hammering
+out new designs, each unique and deadly.  Neatly racked shelves of equipment
+line the walls, and the armor gleams in the dim lamplight.  Relquis, the
+Head Blacksmith, motions to you, inviting you to take and donate freely.  
+~
+0 956563468 0
+D1
+~
+~
+1 0 10755
+S
+#10758
+The Stronghold of the Brotherhood~
+As you enter this darkened chamber, your breath catches raggedly in your
+throat.  Before you lies an enormous round table around which legends were
+made, heroes were born and kingdoms were won and lost.  It is surrounded by
+heavy oak chairs, and you are amazed at the strength and discipline required
+of the people who choose to occupy them.  Tapestries adorn the walls,
+depicting the many glorious battles of Chain, the legendary leader of
+Justice, and his loyal followers against the evils of this world.  You can
+still hear their battle cry echo in your head.  
+~
+0 956563468 0
+D0
+~
+~
+0 0 10760
+D2
+~
+~
+1 0 10755
+S
+#10759
+The Tear in Reality~
+Justice necromancers long ago tore open the fibers of reality, to create
+portals to far off realms.  The tears in reality have all been transported
+to this room, and are all neatly contained, for Justice members' use. 
+Beware, for to enter the wrong portal may mean your death.  Or worse.  
+There is a sign hanging from the ceiling.
+ 
+north - Hell
+east  - Drow and Ivory
+south - Midgaard
+west  - Divided Souls
+~
+0 956563468 0
+D0
+~
+~
+0 0 10771
+D1
+~
+~
+0 0 10770
+D2
+~
+~
+0 0 10769
+D3
+~
+~
+0 0 10772
+D4
+~
+~
+0 0 10754
+D5
+~
+~
+0 0 10764
+S
+#10760
+The War Room~
+You stand in a cramped little office where the leaders of Justice often
+retreat to do their thinking.  Many a leader has spent a sleepless night
+here, hunched over the wooden desk, charting the path of Clan Justice.  The
+desk is flanked on both sides by the recruiter's chairs and ten high-backed
+chairs for the guardians of Justice just barely fit along the walls. 
+Flickering candles and books of lore line the walls.  Overall the room seems
+to exude a feeling of power and safety.  
+~
+0 956563468 0
+D2
+~
+~
+0 0 10758
+S
+#10761
+Neo's Practice Room~
+As you walk into this room, your senses are assailed by the smell of smoke
+and charred leather. The walls have been carved from obsidian that was stolen
+in a raid on an enemy clan, and you can see where acid has etched into the
+polished stone leaving little pits and pock marks. Scattered on the floor around
+you, are pieces of equipment that were used for Neo's target practice. You
+think you see bone fragments here as well, and you shiver as you consider the
+fact that the equipment may have been in use by someone else when Neo brought
+it down here. This room was once a heavily guarded secret, known only to Neo,
+but he realized that his clanmates could benefit from having such a room as
+well to perfect their arcane talents as he already has done, so he widened the
+tunnel that he built so that all could enter. Do so at your own risk!
+~
+0 956563468 3
+D4
+~
+door~
+1 0 10755
+S
+#10762
+Hall of Past Heros~
+You enter a brightly lit room, lined with many torches.  A large marble
+statue stands at the far end of the room.  The statue depicts three members
+of the great clan of Justice defending their great gates.  Two Dragon
+sisters stand on either side of a man, a large human.  All have their
+weapons drawn.  The inscription at the base reads, "Angelique, Mordis, and
+Lissa - their spirit will forever live on within these walls".  You can
+almost hear the cries of battle spilling from their mouths as they charge to
+defend the gates.  You feel the pain of their deaths, and wonder if they are
+at peace...  Or if they remain, to angrily haunt these walls.  
+~
+0 956563468 0
+D2
+~
+~
+0 0 10767
+D5
+~
+door~
+1 0 10754
+S
+#10763
+<unused vnum>~
+You find yourself standing on a carpet of dark green moss so soft that
+it squishes between your toes.  You blink your eyes in amazement as you
+realize that you're in someone's secret treehouse, perched in the uppermost
+fork of an ancient banyan tree.  Green vines hang down all around you, and
+you hear the chitter of animals below you and the cacophony of birds in the
+distance.  As the sunlight filters hazily down through the canopy, you catch
+a glimpse through a gap in the branches, of the rainforest that surrounds
+you, and you feel a sense of tranquility steal upon you and you wish you
+never had to leave.  
+~
+0 956334092 0
+S
+#10764
+The Tear in Reality~
+Justice necromancers long ago tore open the fibres of reality, to create
+portals to far off realms. The tears in reality have all been transported
+to this room, and all are neatly contained, for Justice members' use.
+Beware, for to enter the wrong portal may mean your death. Or worse.
+There is a sign hanging from the ceiling.
+ 
+north - Chateau and Ferry
+east  - Sea of Death
+south - Istanbul
+west  - Cantina
+~
+0 956563468 0
+D0
+~
+~
+0 0 10773
+D1
+~
+~
+0 0 10774
+D2
+~
+~
+0 0 10775
+D3
+~
+~
+0 0 10776
+D4
+~
+~
+0 0 10759
+D5
+~
+~
+0 0 10766
+S
+#10765
+Moose Shrine~
+You blink repeatedly trying to adjust your eyes to the darkness that
+encircles you and a feeling of utter loneliness but tranquility washes
+over your senses. Beneath you, grows the lush grass of a forest that 
+has never known the tread of mortal feet and you can see a small group
+of moose grazing not far in the distance.  As you look up towards
+the sky, you can see the shadowy treetops hover around you.
+Everything awash in the silver glow rom the gentle light of the moon.
+You have entered the abode of the  Vampire Princess, and her Beloved
+Moose King Brooklyn, and as you gaze in wonderment at your glowing 
+surroundings you feel compelled to lay down and snooze...with the gentle
+sound of the mooses in your mind.
+~
+0 956563468 0
+S
+#10766
+The Tear in Reality~
+Justice necromancers long ago tore open the fibres of reality, to create
+portals to far off realms. The tears in reality have all been transported
+to this room, and all are neatly contained, for Justice members' use.
+Beware, for to enter the wrong portal may mean your death. Or worse.
+There is a sign hanging from the ceiling.
+ 
+north - Shire
+east  - Smuggler's Den
+south - High Tower
+west  - Dragon Tower
+~
+0 956563468 0
+D0
+~
+~
+0 0 10777
+D1
+~
+~
+0 0 10778
+D2
+~
+~
+0 0 10779
+D3
+~
+~
+0 0 10780
+D4
+~
+~
+0 0 10764
+D5
+~
+~
+0 0 10768
+S
+#10767
+Ramparts of Justice~
+You stand among the high towers of Justice Hall, overlooking a tiny
+crevice.  Justice defenders often gather here to fend off would-be
+attackers.  Below you are the Justice guards, bravely defending the hall
+from intruders.  There is a small path leading down towards the entryway.  
+~
+0 956563468 0
+D0
+~
+~
+0 0 10762
+D5
+~
+~
+0 0 10751
+S
+#10768
+The Tear in Reality~
+Justice necromancers long ago tore open the fibres of reality, to create
+portals to far off realms.  The tears in reality have all been transported
+to this room, and all are neatly contained, for Justice members' use. 
+Beware, for to enter the wrong portal may mean your death.  Or worse.  There
+is a sign hanging from the ceiling. 
+ 
+north - Fishing Hole
+east  - Mahn Tor
+South - Stoneridge
+West - Ancient Thalos
+~
+0 956563468 0
+D0
+~
+~
+0 0 10781
+D1
+~
+~
+0 0 10782
+D2
+~
+~
+0 0 10785
+D3
+~
+~
+0 0 10784
+D4
+~
+~
+0 0 10766
+D5
+~
+~
+0 0 10783
+S
+#10769
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D2
+~
+~
+0 0 3001
+S
+#10770
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D1
+~
+~
+0 0 5100
+D2
+~
+~
+0 0 501
+S
+#10771
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D0
+~
+~
+0 0 10401
+S
+#10772
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D3
+~
+~
+0 0 11600
+S
+#10773
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D0
+~
+~
+0 0 4900
+D1
+~
+~
+0 0 254
+S
+#10774
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D1
+~
+~
+0 0 6401
+S
+#10775
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D2
+~
+~
+0 0 22336
+S
+#10776
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D3
+~
+~
+0 0 6500
+S
+#10777
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D0
+~
+~
+0 0 1100
+S
+#10778
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D1
+~
+~
+0 0 10001
+S
+#10779
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D2
+~
+~
+0 0 1312
+S
+#10780
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D3
+~
+~
+0 0 2201
+S
+#10781
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D0
+~
+~
+0 0 21000
+S
+#10782
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D1
+~
+~
+0 0 2362
+S
+#10783
+The Tear in Reality~
+Justice necromancers long ago tore open the fibres of reality, to create
+portals to far off realms.  The tears in reality have all been transported
+to this room, and all are neatly contained, for Justice members' use.
+Beware, for to enter the wrong portal may mean your death.  Or worse.  There
+is a sign hanging from the ceiling.
+ 
+North - Chaos Rift
+East - Astral Plane
+West - Village Fair
+South - Dylan's Area
+~
+0 956563468 0
+D0
+~
+~
+0 0 10786
+D1
+~
+~
+0 0 10787
+D2
+~
+~
+0 0 10789
+D3
+~
+~
+0 0 10788
+D4
+~
+~
+0 0 10768
+S
+#10784
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D3
+~
+~
+0 0 5362
+S
+#10785
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D2
+~
+~
+0 0 11157
+S
+#10786
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D0
+~
+~
+0 0 400
+S
+#10787
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D1
+~
+~
+0 0 7701
+S
+#10788
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D3
+~
+~
+0 0 17679
+S
+#10789
+Before a Tear~
+You are now standing right before a tear in reality.  Its magical
+energies grasp you firmly blocking what is behind you from your senses.  You
+can give in to its desire to take you to another place, or go back to
+reality.  
+~
+0 956563468 0
+D2
+~
+~
+0 0 9101
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 10753 0 2
+D 0 10754 4 1
+D 0 10755 0 1
+D 0 10755 3 1
+D 0 10755 5 1
+D 0 10757 1 1
+D 0 10758 2 1
+D 0 10761 4 1
+D 0 10762 5 1
+M 1 10753 1 10752 1
+O 0 10772 0 10755
+O 0 10797 0 10760
+O 0 10794 0 10762
+O 0 10792 0 10763
+O 0 10793 0 10765
+O 0 10768 0 10769
+O 0 10768 0 10770
+O 0 10768 0 10771
+O 0 10768 0 10772
+O 0 10769 0 10773
+O 0 10769 0 10774
+O 0 10769 0 10775
+O 0 10769 0 10776
+O 0 10791 0 10777
+O 0 10791 0 10778
+O 0 10791 0 10779
+O 0 10791 0 10780
+O 0 10796 0 10781
+O 0 10796 0 10782
+O 0 10796 0 10784
+O 0 10796 0 10785
+O 0 10781 0 10786
+O 0 10781 0 10787
+O 0 10781 0 10788
+O 0 10781 0 10789
+S
+
+
+
+#SHOPS
+10752 0 0 0 0 0 90 100 0 23
+0
+
+
+
+#$

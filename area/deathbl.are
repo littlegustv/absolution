@@ -1,0 +1,3187 @@
+#AREADATA
+Name Death Bloom~
+Builders None~
+VNUMs 6700 6799
+Credits {41 51} StarCrossed Death Bloom~
+Security 9
+Xcontinent 1
+Age 14
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#6700
+rismar brave knight warrior~
+Rismar the Brave~
+Rismar the Brave, always ready for battle.
+~
+Dressed in well used armor and protected from the climate by a thick cloak,
+this warrior has obviously seen many battles in his day. His bushy
+red beard and long hair give the impression of a lion's mane. The
+sword buckled at his side has also seen better days, but he has no
+qualms about using it today!
+ 
+~
+human~
+ABGTW J -750 0
+46 -3 25d10+3250 1d1+100 6d6+16 charge
+-16 -16 -16 -6
+CEJK A 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK medium flesh the guilds~
+#6701
+heavy war horse~
+a heavy war horse~
+A valiant looking war horse is here, ready for battle.
+~
+This animal is in fine shape. Its fur is a chestnut brown and its eyes shine
+with intelligence. It would make a fine companion.
+ 
+~
+rabbit~
+ABGT DFZ -750 0
+46 -3 25d10+3250 1d1+100 6d6+16 bite
+-16 -16 -16 -6
+FHILP A 0 H
+stand stand either 5000
+AGV ACDEFHJK medium flesh the guilds~
+#6702
+vicious ankheg insect bug~
+a vicious ankheg~
+A hungry ankheg attacks you viciously!
+~
+The horror is about 8 feet long, covered from head to tail in heavy
+chitin. It gazes at you hungrily with insectoid eyes as its mandibles work
+hungrily. It attacks fast and hard, and carries a lethal poison!
+~
+sliver~
+ABCFG JQV -800 0
+54 -2 50d10+6500 1d1+100 7d6+22 bite
+-26 -26 -26 -16
+AFHN ABK B FK
+stand stand none 7500
+BHMOZc ABCDEFGHIJKLPQUVWX large shell the guilds~
+#6703
+fungusaur man sized~
+a fungusaur~
+A man-sized fungusaur prowls the walls.
+~
+The strange beast stands just over six feet tall. It seems to stare at you,
+even though it's hard to identify its eyes. It seems to be made entirely
+out of some hardened fungi, forming overlapping scales. You have no idea
+what strange force brought this creature to life.
+ 
+~
+lizard~
+AGO J -800 0
+51 0 50d10+5000 1d1+100 5d8+15 acbite
+-21 -21 -21 -12
+CF 0 L I
+stand stand none 3000
+AGXc ACDEFHKQV medium slime the guilds~
+#6704
+mushroom shrieker~
+A shrieker mushroom~
+A shrieker mushroom is here, reacting to the light.
+~
+This is unlike any mushroom you've seen before! It stands taller than you
+and is a sickly green color. There are several large pores around the rim...
+you cannot distinguish their purpose right now though.
+~
+human~
+ABFGY F -900 0
+51 -2 50d10+5000 1d1+100 5d8+20 digestion
+-21 -21 -21 -11
+KU AB E 0
+stand stand none 4500
+AHMV ABCDEFGHIJK large earth the guilds~
+M kill 6700 100~
+#6705
+craven brigand thief~
+a craven brigand~
+A craven brigand sneers at you.
+~
+Dressed in dirty leathers barely better than rags, this man glares at you
+greedily and he fingers his dagger.
+~
+human~
+ABF Pb -900 0
+50 -2 50d10+4500 1d1+100 5d8+19 pierce
+-20 -20 -20 -11
+BEJNU 0 0 0
+stand stand male 3900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6706
+master poisoner brigand~
+the Master Poisoner~
+The brigand's Master Poisoner glares at you.
+~
+Looking haggard and weary, the Master Poisoner has probably felt the
+effect of his own creations once too many.  How else could he sure they
+worked?  You wonder at how long one can survive in such a dangerous
+occupation.  The well worn blade at his side speaks for itself.  
+ 
+At his side is a delicate pouch, which appears to have once
+contained an additional dose of poison. Judging from the symbol,
+the poison was a rare strain called Death's lace. Maybe
+you could reproduce it, if only you had the right herbs
+and a rare death bloom flower...
+ 
+Then you too could own your own "pouch of death lace".
+~
+human~
+ABG JOPTVb -950 0
+52 -2 50d10+5500 1d1+100 6d7+20 stab
+-22 -22 -22 -16
+BDFIKN 0 0 0
+stand stand male 5200
+AHMV ABCDEFGHIJK medium flesh the guilds~
+#6707
+fungi flyer predator~
+a fungi-flyer~
+A fungi-flyer swoops by, looking for prey.
+~
+What a strange beast!  It seems to be another strange sort of plant
+creature but unlike the others, this one has actually evolved wings!  It is
+roughly six feet long and coloured dull grey.  Its tough skin is formed of
+overlapping sections of hard fungi, designed to turn aside swords.  
+~
+wyvern~
+AGHT DFJPT -1000 0
+51 -2 50d10+5000 1d1+100 5d8+20 peck
+-21 -21 -21 -13
+CFH L 0 S
+stand stand none 4100
+ABGZ ACDEFHJKQVX large 0 the guilds~
+#6708
+drowner seaweed weed plant monster~
+a drowner~
+A grasping mass of seaweed reaches hungrily for you!
+~
+You submerge yourself briefly in the black water and seconds later feel
+something grasping for you!  It grabs you and pulls you down, deeper and
+deeper trying to drown you!  You fight for your life!  
+~
+water fowl~
+ABF JTV -700 0
+52 -2 50d10+5500 1d1+100 6d7+20 suction
+-22 -22 -22 -12
+CFHKMN 0 R 0
+stand stand none 6200
+AGW ACDEFHKP giant flesh the guilds~
+#6709
+memory moss obliviax~
+a small obliviax~
+A small piece of Obliviax moss scuttles by.
+~
+A strange little creature scuttles by, blending in almost perfectly with the
+surrounding greenery.  The little moss mound is an infamous creature known
+as an obliviax.  According to legend it was able to steal the memories of
+anyone who came close, and fed on them to grow to monstrous size.  
+~
+lizard~
+AGHS JP -750 0
+50 -2 30d50+3000 5d10+200 6d6+20 bite
+-19 -19 -19 -4
+FN 0 L I
+stand stand none 7000
+AGXc ACDEFHKQV small plant the guilds~
+M grall 6701 100~
+#6710
+mantrap plant trap man weed monster~
+a mantrap flower~
+A mantrap flower tries to digest you!
+~
+Colored in many shades of beautiful red and orange, this flower lulls
+victims with its beauty before attacking them with sharp spines and
+tentacles!  
+~
+snake~
+ABFT 0 -800 0
+52 -2 50d10+5500 1d1+100 6d7+15 none
+-22 -22 -22 -12
+CFHKMN 0 LR I
+stand stand none 5900
+AGWXYc ACDEFHKLPQVX giant 0 the guilds~
+#6711
+plant root roots strangle mess monster~
+a mess of strangling roots~
+A mess of roots twines around your limbs!
+~
+A mess of dirty tree roots grasps for you!
+~
+snake~
+ABFG QV -850 0
+51 -2 50d10+5000 1d1+100 5d8+20 crush
+-21 -21 -21 -11
+CFN 0 L GI
+stand stand none 3900
+AGXYc ADEFKLQVX medium wood the guilds~
+#6712
+-~
+poison mist~
+{'
+~
+~
+human~
+ABa 0 -1000 0
+60 -1 10d10+10000 10d10+1000 10d10+60 none
+-50 -50 -50 -10
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 6702 100~
+#6713
+spore flower fungus monster~
+a spore flower~
+A multicoloured flower blooms here, releasing deadly spores.
+~
+Coloured in brilliant shades, this flower is surrounded by a sparkling
+cloud of the lethal spores it lets off.  You'd best watch yourself before it
+sprays you with them!  
+~
+modron~
+ABGR JV -900 0
+51 -1 50d10+5000 1d1+100 5d8+20 blast
+-21 -21 -21 -12
+JKQR BMNPQ HIK 0
+rest rest none 8000
+H ABCGHJK medium 0 the guilds~
+#6714
+juju zombie man~
+a strange JUJU zombie~
+A rotting zombie tries to pull you towards the tree!
+~
+This was once human, but has long since died.  The flesh is rotten and
+torn away in great chunks, revealing maggot infested innards.  You wonder
+what strange force animates the corpse, and suddenly notice the strange
+roots running along its limbs.  A plant is controlling the corpse!  
+~
+deamon~
+AH DFJT -950 0
+51 -2 50d10+5000 1d1+100 5d8+20 punch
+-21 -21 -21 -11
+CFHU B H NS
+stand stand none 6500
+ABGZ ACDEFHJKQVX medium flesh the guilds~
+#6715
+hangman tree death monster plant~
+a hangman tree~
+A gigantic tree of {rDeath{x fills the center of the grotto.
+~
+It looks like a really big willow tree, but from its long vine-like
+branches hang over a dozen dead bodies.  
+~
+human~
+ABG 0 -1000 0
+52 -2 50d10+5500 1d1+100 6d7+20 crush
+-22 -22 -22 -13
+FHKN 0 E 0
+stand stand none 4500
+AHMV ABCDEFGHIJK huge wood the guilds~
+#6716
+argus riel herbmaster lich monster undead~
+Argus Riel~
+Argus Riel, the Herbmaster Lich rots here.
+~
+This man once served the King as a noble and honorable herb master.  He
+assisted the royal physicians and the royal assassins equally, and held a
+great deal of power in the court, although he was not a well known public
+figure.  One day as he experiented with newer and more powerful herbs, he
+made a fatal mistake which killed him.  Or so it appeared.  The King had him
+buried deep in a temple.  And there he lie for a year and a day before
+arising again as a Lich.  He used his undead powers combined with his plant
+skills to produce this nightmarish place as he plans to kill the King and
+take his place.  He must be stopped.  
+~
+human~
+ABFGR VZ -1000 0
+56 -2 50d10+7500 1d1+100 10d4+24 drain
+-26 -26 -26 -19
+ABCFHJKN HIJKM 0 N
+stand stand male 8600
+AHMV ABCDEFGHIJK medium flesh the guilds~
+#6717
+shining angelic warrior~
+heavenly warrior angel~
+A shining winged figure stands here silently.
+~
+This creature is not of this world!  Its robes are the brightest sheen of
+white you have ever seen.  Its pall face is one of pure serenity and beauty.
+Its eyes glow with the light of the sun, and it hovers several feet off the
+ground, held aloft by delicate looking feathered wings.  A golden sword sits
+sheathed in one belt.  
+~
+human~
+AT CDFHTZ 1000 0
+1 0 0d0+0 0d0+0 0d0+0 divine
+0 0 0 0
+FHK 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6718
+hulking flesh golem~
+a hulking flesh golem~
+A form made of mismatched body parts shambles here.
+~
+Bringing with it the stench of death, this creature is hastily sewn
+together from the remains of various races.  Although it make look slow, its
+power is from beyond the grave, and should not be underestimated!  
+~
+undead~
+A HZ 0 0
+55 3 50d50+4000 10d10+400 4d8+28 rip
+-19 -19 -19 -9
+ACFI B I HNS
+stand stand none 0
+AHMV ABCDEFGHIJK large bone the guilds~
+#6719
+corpse animated~
+a corpse~
+An animated corpse stands here.
+~
+This undead being still retains some of its former form and
+functionality, but death hath claimed most of its power and now it exists
+only to serve.  
+~
+undead~
+A JOVZ -1000 0
+0 0 10d10+10 10d10+100 0d0+0 beating
+0 0 0 0
+CF B I HNS
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6720
+sliver soldier~
+a sliver soldier~
+A sliver soldier is here, serving his Goddess.
+~
+Although appearing unarmed, slivers are still dangerous opponents able to
+use their natural weaponry to good effect.  This sliver stands the same size
+as a full grown human, and his arms end in scythe-like appendages for
+flaying his prey.  
+~
+sliver~
+AGT DFJ 0 0
+45 7 25d10+3000 1d1+100 8d4+16 thrust
+-15 -15 -15 -15
+CDEFJ ABb B K
+stand stand none 3000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#6700
+cloak mantle brave~
+The Mantle of the Brave~
+A heavy red cloak, embroidered with a red lion.~
+fur~
+armor ABYad AK
+9 9 9 6 0
+42 50 4300 P
+A
+19 2  
+#6701
+trusted iron broad sword heavy~
+a trusted iron broad sword~
+A well worn weapon, showing signs of much use, but still in good shape is here.~
+iron~
+weapon A AN
+sword 6 5 slash 0
+40 60 5100 P
+A
+20 -1  
+#6702
+prickly cactus blossom flower~
+a prickly cactus blossom~
+Desc A beautiful flower is here. The fragrance is lovely, but so are the SPINES!~
+wood~
+pill 0 A
+35 'thirst' 'thirst' 'denounciation' '(null)'
+0 10 1000 P
+#6703
+table broken leaning~
+a dangerously leaning table~
+A barely usuable table rests here, leaning dangerously.~
+wood~
+furniture OT 0
+0 0 0 0 0
+0 100 100 P
+#6704
+ichor dripping mandibles~
+a set of ichor dripping mandibles~
+A set of fangs lies here, torn from the mouth of an ankheg.~
+bone~
+weapon AC AN
+exotic 3 12 bite I
+47 60 7500 P
+A
+19 1  
+#6705
+master poisoner blade sword~
+the Master Poisoner's Blade~
+The well-honed blade of the Master Poisoner is here.~
+metal~
+weapon BCJ AN
+sword 6 6 stab H
+49 70 3800 P
+A
+19 2  
+#6706
+chest~
+small wooden chest~
+A small wooden chest lies in the corner.~
+wood~
+container OT P
+100 AC 0 50 100
+0 100 0 P
+#6707
+poison bundle dried herbs~
+a bundle of dried herbs~
+A bundle of the Master Poisoner's dried herbs lies here.~
+food~
+pill C AY
+40 'blast of rot' 'poison' 'poison' 'hold person'
+38 10 2500 P
+#6708
+cure bundle dried herbs~
+a bundle of dried herbs~
+A bundle of the Master Poisoner's dried herbs lies here.~
+food~
+pill C A
+40 'cure poison' 'cure poison' 'cure poison' '(null)'
+38 10 2200 P
+#6709
+pool pond water~
+{Ddead water{x~
+A pond of still black water beckons you.~
+water~
+portal 0 0
+0 0 0 6739 0
+0 1000 0 P
+#6710
+memory moss piece~
+a piece of memory moss~
+A little piece of memory moss is here.~
+sponge~
+wand A AOY
+40 3 3 'feeblemind' 0
+38 20 3300 P
+A
+24 -2  
+A
+4 -2  
+A
+3 -2  
+E
+moss~
+Looking at the moss, you jump back in terror.  You've heard of a moss
+called "throat sealer" that causes death extremely quickly and painfully. 
+However, this moss is obviously not the real deal or you wouldn't still be
+reading this.  It does have some of the same properties, and if you combined
+this memory moss with some herbs that might enhance the poisonous
+properties, you could probably design a "pouch of throat moss" to use
+against your foes.  
+~
+#6711
+sharp thorn mantrap plant~
+a sharp thorn~
+The sharp thorn of a mantrap plant is here.~
+wood~
+key EU AO
+0 0 0 0 0
+40 1 3000 P
+A
+19 2  
+A
+12 -15  
+#6712
+velvet herbmaster cloak green~
+the cloak of the Herbmaster~
+The cloak of Argus Riel lies here.~
+velvet~
+container CE AK
+100 0 0 100 80
+48 30 5000 P
+A
+12 20  
+A
+13 20  
+A
+17 -3  
+#6713
+herbmaster scythe~
+the Herb Master's scythe~
+The razor sharp scythe of a gardener rests here.~
+wood~
+weapon AB ANY
+polearm 6 7 cleave F
+51 120 7200 P
+A
+19 2  
+E
+scythe~
+Looking closely at the scythe, you find out it is far more ingenious than
+at first glance.  It is not really a simple gardening tool, this one has
+been modified to be the lethal weapon of a master assassin.  There are
+several slots in the shaft where poisons could be inserted and filter down
+through the handle to coat the blade.  Looking around, you realize the most
+lethal poisons would be located nearby.  They are called Death Lace and
+Throat Moss.  If you could find enough poison to fill the shaft, you could
+use this simple scythe as an "assassins fungal stalk".  
+~
+#6714
+key small wood~
+A small wooden key~
+A small wooden key lies here, waiting to open something.~
+wood~
+key A A
+0 0 0 0 0
+0 5 5000 P
+#6715
+death bloom flower~
+the {DDeath Bloom{x~
+The Death Bloom sits here in a flower pot.~
+wood~
+wand CE AOY
+41 4 3 'reach elemental' 0
+39 50 7500 P
+A
+2 1  
+A
+12 -40  
+#6716
+dust bunny~
+a dust bunny~
+Dust bunnies collect in this empty room.~
+velvet~
+jewelry B AQ
+0 0 0 0 0
+1 10 2700 P
+A
+9 6  
+#6717
+gold sword angel heaven blade~
+an angel's heavenly blade~
+The golden sword of an Angel lies here, thrumming softly.~
+gold~
+weapon AGHIPUV AN
+sword 0 0 divine A
+1 100 0 P
+#6719
+carved wood throw spear~
+a carved wooden spear~
+You see a sharpened tree branch lying here.~
+wood~
+throwing 0 AO
+8 5 stab 40 'ice bolt'
+50 10 0 P
+#6720
+voodoo doll~
+a doll in the shape of %s~
+A little doll lies here.~
+wood~
+wand G AO
+0 0 0 '(null)' 0
+0 10 0 P
+#6721
+oil greek fire flask~
+a flask of greek fire~
+A sealed flask of flamable oil sits here.~
+oil~
+throwing GI AO
+0 0 splatter 0 'pyrotechnics'
+0 10 0 P
+#6722
+pouch of death lace~
+A pouch filled with deadly {GDeath Lace{x~
+A pouch filled with a vile poison lies here.~
+cloth~
+wand ATYe AOYZ
+40 12 12 'cloudkill' 0
+35 20 10000 P
+#6723
+pouch of throat moss~
+A pouch filled with deadly {mThroat Moss{x~
+A pouch filled with a vile poison lies here.~
+moss~
+wand ATYe AOYZ
+40 8 8 'blast of rot' 0
+35 20 10000 P
+#6724
+assassins fungal stalk~
+An {DAssassin's {mFungal {gStalk{x~
+A wierd looking scythe lies here, covered with moss.~
+fungus~
+weapon TYe ANZ
+exotic 15 2 pierce FNO
+47 0 20000 P
+A
+2 1  
+A
+13 15  
+#6725
+magic tattoo~
+a magical tattoo~
+A magical tattoo lies here, humming silently.~
+flesh~
+armor HMSTYZe A
+5 5 5 5 0
+0 5 0 P
+#6726
+oozing pile driver~
+a {gslime-covered{W pile driver{x~
+A huge hammer sits here, oozing slime on the ground.~
+steel~
+weapon ABG ANZ
+mace 6 6 slime L
+50 50 10000 P
+A
+19 2  
+A
+20 4  
+A
+1 1  
+#6727
+crescent shaped plasma blade~
+A crescent-shaped {RPLASMA {Yblade{x~
+A curved blade is here, made of flaming plasma.~
+fire~
+weapon ABG ANZ
+sword 7 5 flame GO
+50 30 10000 P
+A
+12 25  
+A
+2 1  
+A
+17 -20  
+#6728
+crystal shard~
+a {Bglowing{W shard of crystal{x~
+A shard of transparent crystal lies here.~
+crystal~
+weapon ABG ANZ
+staff 6 6 frbite DO
+50 50 10000 P
+A
+18 1  
+A
+1 -2  
+A
+4 3  
+A
+3 3  
+#6729
+spiked chain of nergal~
+the {yspiked chain{x of {GNergal{x~
+A long chain lies here, covered in venom.~
+iron~
+weapon ABG ANZ
+whip 9 4 pobite FN
+51 60 10000 P
+A
+19 2  
+A
+18 2  
+A
+12 -30  
+A
+2 -1  
+A
+13 -30  
+#6730
+arcing lightning bolt~
+an {Darcing {Ylightning bolt{x~
+A forked bolt of lightning crackles here.~
+energy~
+weapon ABG ANZ
+flail 5 7 shbite GO
+50 50 10000 P
+A
+12 -50  
+A
+14 -50  
+A
+18 3  
+A
+19 5  
+A
+13 30  
+#6731
+holy water sprinkler~
+a {choly water {Bsprinkler{x~
+A weapon containing holy water has been spilled here.~
+silver~
+weapon ABG ANZ
+polearm 4 10 smother P
+50 70 10000 P
+A
+1 -2  
+A
+2 -2  
+A
+4 2  
+A
+19 2  
+#6732
+song of the angelic choir~
+the {mSong{x of the {WAngelic {YChoir{x~
+A glowing, golden trumpet lies here.~
+energy~
+weapon AGK ANZ
+exotic 5 7 divine A
+42 20 10000 P
+A
+19 1  
+A
+4 1  
+#6733
+horus demon mask~
+The {rDemonic {DMask{x of {YHorus{x~
+A mask in the shape of a demon's head lies here.~
+bone~
+armor AT AEZ
+0 0 0 0 0
+49 40 10000 P
+A
+19 2  
+A
+13 20  
+A
+12 20  
+A
+17 -10  
+#6734
+gods tome~
+The {yTome{x of the {WGods{x~
+A book big enough to hide behind rests here.~
+wood~
+armor AT AJZ
+4 4 4 25 0
+51 75 10000 P
+A
+20 -3  
+A
+4 4  
+A
+19 2  
+#6735
+dark vile orb~
+A {rvile{x orb of {DDarkness{x~
+An orb of pure darkness hovers here.~
+evil~
+armor ABTYe AQYZ
+10 10 10 5 0
+51 60 100000 P
+A
+4 2  
+A
+19 2  
+A
+12 10  
+A
+13 10  
+A
+5 2  
+A
+20 3  
+#6736
+cursed dark moon ring~
+a ring of the {DDark {WMoon{x~
+An extremely rare ring with a dark jewel pulses here.~
+iron~
+jewelry ABCEHMTYZe ABRYZ
+0 0 0 0 0
+20 1 1 'creeping doom' 0
+51 10 200000 P
+A
+18 2  
+A
+19 3  
+A
+13 10  
+A
+20 -1  
+A
+2 -1  
+A
+1 -1  
+#6737
+shadow spire phase blade~
+A {cphase-blade{x named {D"Shadow {GSpire{D"{x~
+A shadowy weapon phases into existence briefly.~
+phase~
+weapon 0 ANZ
+sword 6 6 slash Y
+51 50 300000 P
+#6738
+plucked turkey~
+a {Rdancing {Wnaked {Yturkey{x~
+A dancing plucked fowl is here for Thanksgiving!~
+flesh~
+treasure TW AO
+0 0 0 0 0
+0 20 10000 P
+A
+17 -15  
+#6739
+promise darkness~
+a promise of {DDarkness{x~
+A promise of dark things to come looms here. Look closely.~
+darkness~
+weapon AB AN
+flail 2 5 drain C
+10 0 0 P
+A
+2 1  
+A
+18 2  
+E
+promise~
+This powerful flail is not merely a weapon, it truly is a sign
+of dark things to come. Inscribed on the weapon in detail are the
+methods needed to craft a 'dark vile orb'
+ 
+Which is a vastly powerful artifact... it requires many rare
+components including:
+an icy manipulator orb to form the basic structure
+shattered fragments from the 4 cursed gems of hell
+bound together over a 12 step process each requiring
+a single shard of darkness.
+ 
+Crafters beware!
+~
+#6740
+portable hole black cloak~
+A {BShimmering{D Black{x Cloak~
+A cloak of pure darkness lies on the ground, looking porous.~
+dark~
+portal TYe ADPZ
+13 0 4 10189 0
+40 40 10000 P
+A
+12 40  
+A
+20 -4  
+A
+17 -15  
+A
+4 1  
+#6741
+empty coder skull~
+the {WEmpty Skull{x of a {bCoder{x~
+An empty skull stares blankly into your eyes.~
+wood~
+drink 0 AORYZ
+50 50 'beer' 0 0
+10 3 3 'create food' 0
+1 15 1000 P
+#6742
+gnomish clockwork armour prototype collection~
+(Prototype) {RGnomish {yClockwork Armour{x~
+A befuddling collection of cogs, springs, levers, gears, and other assorted odds and ends sits in a heap.~
+bronze~
+armor MTYZe ADRZ
+14 14 14 10 0
+40 6 6 'bash' 0
+50 120 9500 P
+A
+18 5  
+A
+1 1  
+A
+2 1  
+A
+3 -3  
+A
+4 -3  
+A
+12 -40  
+A
+19 3  
+E
+gnomish clockwork armour prototype~
+The armor appears to be a confusing array of gears, cogs, clogs, springs,
+levers, chains, pulleys, bars, pockets, ropes, and all manner of other odd
+devices that simply don't have names. It looks like a large, full-body suit
+of plate armor that's missing the actual plates - just the frames strung
+together with the odd bits of machinery. Judging by the arm, torso, and leg
+slots along each side, it can be adjusted, thankfully, to allow any size
+user to slip comfortably within.
+ 
+Item designed by Laios, who won first prize in Starcrossed's item contest
+Christmas 2002.
+~
+#6743
+huge black dragon tail~
+the {gtail{x of a GIGANTIC {Dblack dragon{x~
+A huge black scaled dragon tail squirms here longing for its previous owner.~
+flesh~
+weapon CTYe ANRZ
+whip 9 4 beating FLV
+40 10 10 'acid blast' 0
+51 450 10000 P
+A
+1 -2  
+A
+14 -100  
+A
+18 2  
+A
+19 6  
+E
+huge black dragon tail~
+~
+#6744
+edge oblivion axe~
+{BEdge {Dof Oblivion{x~
+A dark glowing axe is here.~
+steel~
+weapon ABGJTYae ANZ
+axe 5 8 drain AVX
+49 60 0 P
+A
+18 1  
+A
+19 2  
+E
+edge oblivion axe~
+When its powers are awakened and its name known, "Edge of Oblivion"
+becomes entirely black.. where once just the edges were ebony, now the
+blackness has spread across the entire blade. The chill the blade radiates 
+has increased ten-fold, so much so that it is painful to hold it for 
+too long.
+ 
+"Edge of Oblivion" does disintegration damage every time it strikes an 
+opponent.. for every wound it causes, it also disintegrates the flesh
+around the target area, simultaneously cauterizing the wound as it 
+strikes.
+ 
+There is some speculation that a sphere of Annihilation has somehow 
+been encaged within the axe itself, but again this is only speculation. 
+Given that the planes are infinite, anything is possible.
+ 
+Item designed by Sauron, who tied for third place in Starcrossed's
+item design contest, Christmas 2002.
+~
+#6745
+dwarven arquebus~
+A {YMighty Dwarven {DArquebus{x~
+A heavy rifle shaped firearm of dwarven make rests here.~
+iron~
+weapon ATYe ANRZ
+exotic 7 5 firing FT
+40 10 10 'high explosive' 0
+43 100 10000 P
+A
+19 1  
+A
+18 1  
+E
+dwarven arquebus~
+This exotic weapon was inspired by an idea submitted by Deszaras, who
+tied for third place in Starcrossed's item design contest,
+Christmas 2002.
+~
+#6746
+quicksilver katar punch dagger eye sting~
+A {GQuicksilver{M Katar{x named {r"Eye-Sting"{x~
+A punch dagger made of quicksilver is here.~
+quicksilver~
+weapon 0 ANZ
+dagger 6 6 sting Y
+51 20 5000 P
+#6747
+devil knock dire flail~
+A {Ddire flail{x named {r"Devil's {BKnock{r"{x~
+A heavy flail with heads mounted at each end rests here.~
+steel~
+weapon 0 ANZ
+flail 6 6 rip Y
+51 70 5000 P
+#6748
+tigerclaw heavy lance~
+A {Dheavy {mlance{x named {Y"Tiger{Wclaw{Y"{x~
+A heavy lance engraved with a paw is here.~
+steel~
+weapon 0 ANZ
+staff 6 6 skewer Y
+51 80 5000 P
+#6749
+treebane golden axe~
+A {Ygolden axe{x called {g"Treebane"{x~
+A golden axe lies here, waiting to cleave wood.~
+gold~
+weapon 0 ANZ
+axe 6 6 slash Y
+51 100 6000 P
+#6750
+spine snap hook glaive~
+A {Ghook-glaive{x named {R"Spine{Ysnap{R"{x~
+A hooked glaive is here, it appears very deadly.~
+steel~
+weapon 0 ANZ
+polearm 6 6 thrust Y
+51 100 6000 P
+#6751
+diamond back barbed whip~
+A {Rbarbed whip{x named {W"Diamondback"{x~
+A barbed whip studded with diamonds is here.~
+diamond~
+weapon 0 ANZ
+whip 6 6 slash Y
+51 60 5000 P
+#6752
+star strike tetsubo club~
+A {yTetsubo{x called {Y"Star{WStrike{Y"{x~
+A heavy oriental tetsubo is here.~
+wood~
+weapon 0 ANZ
+mace 6 6 knock Y
+51 100 6000 P
+#6753
+glowing brain stone~
+A glowing {DB{Yrain {cStone{x~
+A glowing gem, shining with intellect, floats here.~
+grey~
+gem 0 AOYZ
+0 0 0 0 0
+45 10 600000 P
+A
+4 2  
+A
+3 2  
+A
+20 1  
+#6754
+mighty titan mitts~
+{WSelina's Mitts{x named {G"Titangrip"{x~
+Some huge mitts, once belonging to a titan, lie here.~
+fur~
+armor ABTYae AHZ
+10 10 10 2 0
+49 20 10000 P
+A
+19 3 D
+A
+13 10  
+A
+12 -30  
+A
+28 1  
+#6755
+brain collector sacrificial knife~
+A {Rsacrificial {Wblade{x named {m"The Brain Collector"{x~
+A gore-stained sacrifical knife lies here.~
+mithril~
+weapon ATYe ANRTZ
+dagger 22 1 impale EL
+45 6 6 'cryogenesis' 0
+48 40 100000 P
+A
+13 30 N
+#6756
+nimiss quickness garb~
+{cNimiss' {gGarb{x of {YQuickness{x~
+The garb of a thief lies here, itching to be taken.~
+velvet~
+armor ACTYce AKRZ
+9 9 9 5 0
+40 3 3 'haste' 0
+48 50 100000 P
+A
+20 -2  
+A
+19 2  
+A
+29 1  
+A
+13 10  
+#6757
+dragonfire blast ring of bosco~
+{mBosco's{x {cBlast-Ring{x named {R"Dragonfire"{x~
+A ruby red ring of blasting hovers here.~
+ruby~
+armor ABTYbe ABZ
+4 4 4 1 0
+50 5 100000 P
+A
+27 3  
+A
+4 1  
+A
+3 1  
+A
+13 10  
+A
+12 10  
+#6758
+sapphire healing ball~
+A {Ybright ball{x of {BSapphire {RHealing{x~
+A humming blue sapphire ball floats here.~
+gem~
+gem ABTYe AQRZ
+0 0 0 0 0
+44 3 3 'cure critical' 0
+44 10 300000 P
+A
+26 2  
+A
+13 30  
+A
+5 2  
+#6759
+bone saw cleaver~
+A {RSerrated Cleaver{x called "{DT{Whe {DB{Wone {DS{Waw{x"~
+A serrated blade lies here, eager to break bones.~
+steel~
+weapon ABTYe ANSZ
+axe 5 5 cleave ER
+32 60 6000 P
+A
+18 2  
+A
+19 5  
+A
+26 2  
+#6760
+true excalibur sword~
+{yTrue {WExcalibur{x~
+At long last, the true Excalibur has been found!~
+adamantite~
+weapon ABKLTYe ANRZ
+sword 9 4 slash GQ
+48 1 1 'holy word' 0
+51 40 300000 P
+A
+19 6  
+A
+18 2  
+#6761
+heartstriker spear lance~
+{RHeart {mStriker{x~
+A heart piercing lance lies here.~
+steel~
+weapon ABJLTYe ANRZ
+staff 9 4 impale CR
+48 5 5 'lightning spear' 0
+51 50 300000 P
+A
+18 3  
+A
+19 3  
+A
+5 3  
+#6762
+eternity sword blade~
+{cEternity{x~
+An ancient sword lies here.~
+onyx~
+weapon ABEJKTYe ANR
+sword 9 4 slash BS
+48 5 5 'shifting sands' 0
+51 60 300000 P
+A
+18 3  
+A
+19 4  
+A
+9 250  
+#6763
+blessed crest of the dark moon~
+a {WBlessed {yCrest{x of the {DDark Moon{x~
+A feathered crest lies here.~
+feather~
+armor ABTYbde AEZ
+5 5 5 14 0
+48 30 1000000 P
+A
+27 2  
+A
+12 -20  
+A
+32 1  
+A
+20 2  
+#6764
+blessed token of the moon light~
+a {cBlessed {BToken{x of the {YMoonlight{x~
+A feathered crest lies here.~
+moonstone~
+armor ABTYbde AEZ
+5 5 5 14 0
+48 30 1000000 P
+A
+31 1  
+A
+20 2  
+A
+27 2  
+A
+13 -20  
+#6765
+glowing moon stone~
+A {Yglowing{W moonstone{x~
+A glowing stone is here, made from pieces of the moon.~
+moonstone~
+gem ABTYe AQYZ
+0 0 0 0 0
+40 20 2000000 P
+A
+31 1  
+A
+20 1  
+A
+12 35  
+#6766
+dark moon stone~
+A {Bdark {Wmoonstone{x~
+A dark stone is here, made from piece of the moon.~
+moonstone~
+gem ABTYe AQYZ
+0 0 0 0 0
+40 20 2000000 P
+A
+27 1  
+A
+32 1  
+A
+12 -20  
+#6767
+blessed faith stone orb~
+A {DStone{x of {YBlessed {mFaith{x~
+A glowing holy stone of the faithful rests here.~
+stone~
+armor ATYde ACRZ
+4 4 4 1 0
+60 1 1 'bless' 0
+48 30 100000 P
+A
+12 80  
+A
+13 30  
+#6768
+falcon sheath~
+A sheath in the shape of {Da grey {cfalcon{x~
+A glowing sheath in the shape of a falcon is here.~
+wood~
+sheath ABTYe ALZ
+sword 6 0 6767
+46 20 0 P
+A
+19 1  
+A
+1 -1  
+A
+2 1  
+A
+13 20  
+#6769
+grey tinged cowl~
+A {Dshadowy {Bhood{x made of {Mdreams{x~
+A shadowy cowl lies here, vibrating slightly.~
+black silk~
+clothing ABCJTYe AERZ
+0 0 0 0 0
+55 2 2 'nightmares' 0
+50 40 100000 P
+A
+3 1  
+A
+4 1  
+A
+12 15  
+A
+20 -1  
+#6770
+elven blade sheath~
+An {gElven {WBlade{x-{YSheath{x~
+A thin sheath of elven make is here, built to fit swords.~
+wood~
+sheath ABTYe ALZ
+sword 7 'haste' 0
+12 40 20000 P
+A
+19 1  
+A
+13 10  
+A
+2 2  
+#6771
+maridian marauder sword~
+The {BMaridian {WMarauder{x~
+A long marid sword made of shell is here, engraved with a map.~
+shell~
+weapon ABTYe ANPRZ
+sword 6 6 bite BM
+35 2 2 'water breathing' 0
+51 60 2500000 P
+A
+2 2  
+A
+18 4  
+A
+19 4  
+A
+13 -20  
+E
+maridian marauder sword~
+Long ago, the Ancient race of the Marid use to be plentiful 
+among the seas. They were well mannered beings that would help 
+sailors cross the deep unchartered depths of the Sea. However, 
+Bosco did not like these Marid, he was afraid that they would 
+lead followers to the Land of Dominia, where they would worship 
+Selina, instead of him. Bosco being greedy, sent many creatures 
+and men to wage war on the Marid. The Marid fought a heroic 
+battle on the Island of Terecele (Ter E sea el) The war was long,
+but in the end the Marid could not withstand an army driven by a 
+god of Greed. The last Marid to fall to the depths of the sea was 
+the King of All Marids, Sintoral Commander of the Sea. 
+ 
+In his last dieing efforts, he threw his weapon, forged by Selina, 
+into the Sea. Carved into the blade of the weapon was a map to
+Dominia. The way to Dominia had been lost for hundreds of years,
+but the captain of the Weatherlight discovered this sword in his
+travels and has made a fortune ferrying travellers to the newly
+rediscovered continent. Now it is yours to wield as well!
+ 
+Item design by Zeth, Winner of the Crafted Item Contest II.
+February, 2004.
+ 
+~
+#6772
+warlord scalp amroth cuthalion~
+The {rScalp{x of {DAmroth{x {bCuthalion{x~
+Powerful necromancers have magically preserved the scalp of a great warlord.~
+flesh~
+armor ABMTYZae AEPRZ
+5 5 5 3 0
+50 3 3 'call creature' 0
+51 30 1000000 P
+A
+18 -3  
+A
+19 -3  
+A
+1 -2  
+A
+3 3  
+A
+4 3  
+A
+12 75  
+E
+warlord scalp amroth cuthalion~
+Background story: Legendary, they say, was Amroth Cuthalion's 
+ability to rally an army in battle. He was said to have 
+been able to take any band of misfits and have them battle 
+ready within days. With this ability, he led many a successful 
+raid against the foes of his land. His most notable conquest 
+was that of Thalos, now known as Old Thalos. It is said that
+after many battles between his kingdom and that of Thalos, his 
+forces were wearing quite thin, while the forces of Thalos 
+were taking little casualties due to various tactical advantages.
+It became quite clear to Cuthalion that they had to storm Thalos 
+to force their forces to retreat and defend. So, as legend says, 
+he gathered all the troops he had, and hired every mercenary 
+he could find for the attack. Within days, he had the army 
+battle ready, and they stormed Thalos. Despite being outnumbered 
+3 to 1, Cuthalion's army decimated the forces defending the city, 
+and Thalos was forced to withdraw its army to protect the city, 
+thus securing his land's safety for the time being.
+ 
+Unfortunately, Cuthalion was killed in the attack on Thalos. Once 
+killed, the necromancers in Thalos performed a gruesome ritual 
+in an attempt to secure Cuthalion's legendary leadership 
+abilities for use by their own warlords. Unfortunately for them,
+it was stolen shortly after it was created, and has remained 
+lost for centuries... until now.
+ 
+Item design by Hunterkiller, for the Crafted Item Contest II.
+February 2004.
+~
+#6773
+infinite feathered serpent bracer~
+Bracers of the {WInfinite {yFeathered{g Serpent{x~
+Twin serpents, coiled together, form a deadly bracer.~
+scale~
+armor ABHTYZe AMPRZ
+8 8 8 3 0
+51 6 6 'creeping doom' 0
+50 30 1000000 P
+A
+19 3  
+A
+12 20  
+A
+20 -2  
+A
+5 -3  
+A
+13 -20  
+E
+infinite feathered serpent bracer~
+Item created by Khell for the Second Crafted Contest, February 2004.
+~
+#6774
+easter bunny ears~
+a pair of {Measter bunny ears{x from {YStarcrossed{x~
+A pair of long tufted ears with a headband hovers here.~
+fur~
+armor GI AEZ
+5 5 5 5 0
+1 10 10000 P
+A
+14 100  
+A
+2 1  
+#6775
+olympian bar of pure gold~
+a bar of {Wshining {Yolympian gold{x~
+A highly valuable bar of gold from olympus is here.~
+wood~
+treasure BW AYZ
+0 0 0 0 0
+1 200 100000 P
+#6776
+ring of adamantite spikes~
+a {gfloating ring{x of {DAdamantite Spikes{x~
+A ring of glowing spikes floats here in midair.~
+adamantite~
+light ABTYae AZ
+0 0 999 0 0
+50 50 500000 P
+A
+19 4  
+A
+18 4  
+A
+26 1  
+A
+20 -1  
+#6777
+crossbow of trials~
+a crossbow of trials~
+A poor quality cross is here, perhaps it will improve with use.~
+wood~
+weapon HZ ANZ
+ranged 1 4 pierce Y
+1
+54 40 5000 P
+#6778
+adamantite spiked knuckles asura fist~
+a pair of {cadamantite{x {Yknuckles{x called {B"Asura's Fist"{x~
+Adamantite spiked knuckles lie here, gleaming smartly.~
+adamantite~
+weapon T ANZ
+exotic 6 6 punch Y
+51 20 5000 P
+A
+1 1  
+#6779
+quiver pixie arrow~
+a quiver of pixie arrows~
+A quiver of arrows made from pixie feathers is here.~
+wood~
+ammunition A AOZ
+0 0 magic 20 'charm person'
+20 500 10000 P
+A
+18 3  
+#6780
+quiver medusa arrow~
+a quiver of medusa arrows~
+A quiver of arrows with stone heads is here.~
+wood~
+ammunition A AOZ
+6 4 pierce 45 'granite stare'
+35 500 10000 P
+A
+18 5  
+#6781
+quiver phoenix arrow~
+a quiver of phoenix arrows~
+A quiver of fiery phoenix arrows is here.~
+wood~
+ammunition A AOYZ
+7 6 flbite 36 'fireball'
+50 400 20000 P
+A
+18 7  
+#6782
+edible christmas ornament~
+an {yEdible {RC{Wh{Rr{Wi{Rs{Wt{Rm{Wa{Rs{G Tree{c Ornament{x~
+A crunchy ball made of glass is here... edible? Maybe.~
+glass~
+pill 0 AC
+60 'animal growth' 'heal' 'hallow' 'reserved'
+0 5 1000 P
+#6783
+flaming yule log~
+a {RF{Yl{Ra{Ym{Ri{Yn{Rg{G Yule Log{x~
+A brightly flaming log of christmas spirit is here.~
+yule~
+wand TYe AO
+0 10 10 'build fire' 0
+0 30 1000 P
+#6784
+bloodied reindeer antlers~
+a pair of {rBloody{G R{Re{Gi{Rn{Gd{Re{Ge{Rr{y Antlers{x~
+A pair of reindeer antlers lie here, slightly used.~
+bone~
+armor T AER
+8 8 8 5 0
+30 1 1 'fly' 0
+0 20 1000 P
+A
+3 -2  
+A
+18 3  
+#0
+
+
+
+#ROOMS
+#6700
+Darkening Path~
+The path darkens here, and the normal rustling of the woods is strangely
+abscent.  No more birds sing in the trees, no insects buzz about on their
+strange errands.  The calm silence does not fill you with calm, but instead
+brings a sense of forboding.  Something is not right about this place...  
+~
+0 1 3
+D1
+~
+~
+0 0 31435
+D3
+~
+~
+0 0 6701
+S
+#6701
+Dark Path~
+You wander deeper into the strange forest, listening only to the sound of
+your own footsteps.  The path has not been used in some time, and on both
+sides of it you notice large patches of moss.  Strange mushrooms grow from
+the tree trunks.  You see some sort of structure up ahead.  
+
+~
+0 1 3
+D1
+The path brightens slightly as it winds through the forest to the east.
+~
+~
+0 0 6700
+D3
+Up ahead you see the ruins of some large building partially obscured
+by the trees.
+~
+~
+0 0 6702
+S
+#6702
+Outside the Ruined Temple~
+The strange silence pervades this place too.  You stand at the foot of
+some great temple, now fallen into ruins.  However, there are no doors or
+other ways in.  The outside wall of the temple extends to the north and
+south for some distance.  The stones are made of hardened clay, but appear
+solid enough.  The stones are covered thickly in some places by a lush green
+moss, and ridges of fungus extend from between the cracks of others.  You
+can see several likely spots along the wall where you could climb up, using
+the stiff fungi as hand and foot holds.  
+~
+0 0 3
+D0
+The temple wall goes northwards from here.
+~
+~
+0 0 6703
+D1
+The narrow forest path snakes away from the temple to the east.
+~
+~
+0 0 6701
+D2
+The temple wall goes southwards from here.
+~
+~
+0 0 6706
+D4
+~
+~
+0 0 6709
+S
+#6703
+Base of the Temple Walls~
+The stone wall of the temple rises to the west of you.  It stand roughly
+twenty feet tall, and is thickly covered with hard ridges of fungus and
+moss.  The forest to the east is too thick to travel, but you can go north
+or south along the temple wall.  With a little effort, you could probably
+climb atop the wall from here.  
+~
+0 0 3
+D0
+The temple wall leads north towards the corner of the temple.
+~
+~
+0 0 6704
+D2
+The temple wall leads off to the south, where it meets the path.
+~
+~
+0 0 6702
+D4
+~
+~
+0 0 6711
+S
+#6704
+North East Corner of the Wall~
+The wall tapers to a dull edge here, turning westwards and vanishing into
+the forest.  The area to the west is overgrown, making it imposible to see
+the wall, but a narrow path does lead in that direction.  The temple wall
+also extends to the south.  You can hear some sort of jingling coming from
+the forest.  
+~
+0 0 3
+D2
+A narrow path follows the temple wall to the south.
+~
+~
+0 0 6703
+D3
+A path leads into the foliage to the west. Trees block your view.
+~
+~
+0 0 6705
+S
+#6705
+Forest Glade~
+In the eerie silence of these strange woods, you could not miss the
+jingling sound of a horse.  Bridled and ready to ride, it stands in this
+small clearing not far from the burnt out ashes of a fire.  This appears to
+be the camp of some brave individual, and you have intruded.  
+~
+0 1 3
+D1
+A twisting path leads a short distance towards the temple.
+~
+~
+0 0 6704
+M 120 H 120
+S
+#6706
+Base of the Temple Walls~
+The stone wall of the temple rises to the west of you.  It stand roughly
+twenty feet tall, and is thickly covered with hard ridges of fungus and
+moss.  The forest to the east is too thick to travel, but you can go north
+or south along the temple wall.  With a little effort, you could probably
+climb atop the wall from here.  
+~
+0 0 3
+D0
+You can follow the temple wall northwards, where it meets the path.
+~
+~
+0 0 6702
+D2
+The path leads towards the south east corner of the temple wall.
+~
+~
+0 0 6707
+D4
+~
+~
+0 0 6710
+S
+#6707
+South East Corner of the Wall~
+You find yourself surrounded by the dense forest on all sides as the
+temple wall continues off to the west and north.  There is a gaping hole
+just on the edge of the forest which bares investigation.  You can see
+little within.  If you are not feeling quite as brave, you may return north
+along the temple wall.  
+~
+0 0 3
+D0
+The path leads north along the temple wall.
+~
+~
+0 0 6706
+D5
+~
+~
+0 0 6708
+S
+#6708
+The Dark Lair~
+The air grows colder as you descend into the dark hole.  You are
+surrounded by a familiar earthy smell.  A clicking sound alerts you that you
+are not alone though!  You stumble around in the darkness, losing your sense
+of direction.  Suddenly you slip and slide down a steep slope until you land
+with a soft thud in the lair of this beast...  
+ .
+ .
+ .
+ .
+ .
+ An Ankheg!!
+~
+0 13 0
+S
+#6709
+Top of the Wall~
+After a long climb you reach the top of the wall. The footing appears to
+be fairly secure. The top of the wall, like the wall itself, is covered with
+a thick array of mosses and mushrooms. Some are large enough to step around.
+Before you stands the temple itself. However, you can see no way in from here.
+Instead, you can climb up the outside and onto the roof.
+You may also walk along the wall to the north and south.
+~
+0 0 5
+D0
+You can wander north along the temple wall.
+~
+~
+0 0 6711
+D2
+You can walk along to the top of wall to the south.
+~
+~
+0 0 6710
+D4
+You can climb up unto the roof of the temple from here.
+~
+~
+0 0 6717
+D5
+The ground lies about 20 feet straight down.
+~
+~
+0 0 6702
+S
+#6710
+Top of the Wall~
+After a long climb you reach the top of the wall. The footing appears
+to be fairly secure. The top of the wall, like the wall itself, is covered with
+a thick array of mosses and mushrooms. Some are large enough to step around.
+From here, you can reach the temple itself by going north along the top of the
+wall, or drop down to the forest below. The wall also continues south.
+~
+0 0 5
+D0
+You can walk north along the crumbling wall of the temple.
+~
+~
+0 0 6709
+D2
+You can keep going south along the wall.
+~
+~
+0 0 6716
+D5
+The forest lies about 20 feet below the top of the wall.
+~
+~
+0 0 6706
+S
+#6711
+Top of the North East Corner~
+After a long climb you reach the top of the wall.  The footing appears to
+be fairly secure.  The top of the wall, like the wall itself, it covered
+with a thick array of mosses and mushrooms.  Some are large enough to step
+around.  The top of the wall turns to the west here, or you can see the
+temple itself is accessible to the south.  The forest lies some twenty feet
+below, if you care to climb down the wall again.  
+~
+0 0 5
+D2
+You can walk south along the wall, towards the temple.
+~
+~
+0 0 6709
+D3
+You can continue west along the top of the temple wall.
+~
+~
+0 0 6712
+D5
+20 feet below you you can see the ground.
+~
+~
+0 0 6703
+S
+#6712
+Top of the Wall~
+After a long climb you reach the top of the wall.  The footing appears to
+be fairly secure.  The top of the wall, like the wall itself, is covered
+with a thick array of mosses and mushrooms.  Some are large enough to step
+around.  You find yourself trapped atop the wall of the temple now, the only
+way is back east to the corner of the wall.  
+~
+0 0 5
+D1
+You can walk back east towards the corner of the wall.
+~
+~
+0 0 6711
+D3
+You can wander westwards along the wall.
+~
+~
+0 0 6713
+S
+#6713
+Top of the Wall~
+You stand along the top of the wall.  You can see into the dense foliage
+below, but cannot climb down from here.  The only ways to go are east or
+west along the top of the wall.  
+~
+0 0 5
+D1
+You may walk east along the top of the wall.
+~
+~
+0 0 6712
+D3
+You may walk west along the wall, towards the north west corner.
+~
+~
+0 0 6714
+S
+#6714
+Top of the North West Corner~
+You are atop the north west corner of the temple wall. There is no way to
+get down from the wall here. The wall to the south has collapsed and you
+cannot safely walk on it. You may go back eastwards.
+~
+0 0 5
+D1
+You may turn back and go east along the top of the wall.
+~
+~
+0 0 6713
+D2
+~
+~
+0 0 6715
+S
+#6715
+Crushed~
+You step on a section of the wall and it collapses beneath you!
+As tumble to the ground below, a section of the wall detaches
+and lands on top you. You are being crushed! Escape quickly!
+~
+0 4 5
+M 0 H 0
+S
+#6716
+Top of the South East Corner~
+You are atop the south east corner of the temple wall. There is no way to
+get down from the wall here. The wall to the west has collapsed and you
+cannot safely walk on it. You may go back north towards the temple.
+
+~
+0 0 5
+D0
+You can walk north along the wall from here.
+~
+~
+0 0 6710
+D3
+The wall isn't safe to walk here...watch out.
+~
+~
+0 0 6715
+S
+#6717
+Atop the Temple~
+At last you have reached the top of the temple.  From here you have a
+splendid view of the forest around the temple.  In fact you are high enough
+to see Shandalar from here.  The dry flag stones that cover the roof of the
+temple are cracked in many places, and moss and mushrooms sprout out from
+the gaps.  There are some mushrooms that stand tall enough to step around,
+coming close to head height.  There is still no way into the temple.  None
+of the cracks seem large enough to climb through.  
+~
+0 0 5
+D2
+You can cross the cracking flagstones to the south.
+~
+~
+0 0 6719
+D3
+You can cross the cracking flagstones to the west.
+~
+~
+0 0 6718
+D5
+Below you is the top of the wall surrounding the temple.
+~
+~
+0 0 6709
+S
+#6718
+Atop the Temple~
+At last you have reached the top of the temple.  From here you have a
+splendid view of the forest around the temple.  In fact you are high enough
+to see Shandalar from here.  The dry flag stones that cover the roof of the
+temple are cracked in many places, and moss and mushrooms sprout out from
+the gaps.  There are some mushrooms that stand tall enough to step around,
+coming close to head height.  
+~
+0 0 5
+D1
+You can cross the cracked flagstones to the east from here.
+~
+~
+0 0 6717
+D2
+You can cross the cracked flagstones to the south from here.
+~
+~
+0 0 6720
+S
+#6719
+Atop the Temple~
+At last you have reached the top of the temple.  From here you have a
+splendid view of the forest around the temple.  In fact you are high enough
+to see Shandalar from here.  The dry flag stones that cover the roof of the
+temple are cracked in many places, and moss and mushrooms sprout out from
+the gaps.  There are some mushrooms that stand tall enough to step around,
+coming close to head height.  
+~
+0 0 5
+D0
+You can cross the cracked flagstones to the north from here.
+~
+~
+0 0 6717
+D3
+You can cross the cracked flagstones to the west from here.
+~
+~
+0 0 6720
+S
+#6720
+Entrance to Death Bloom~
+At last you have found a way into the temple!  Here in the corner of the
+roof lies a hole a few feet in diameter, the edges jagged like a wound. 
+From this "wound" green lichen sprouts.  Peering inside, the darkness below
+seems oddly tinged with green.  A great deal of greenery, without a single
+flower.  
+~
+0 0 5
+D0
+You can cross the cracked flagstones to the north from here.
+~
+~
+0 0 6718
+D1
+You can cross the cracked flagstones to the east from here.
+~
+~
+0 0 6719
+D5
+~
+~
+0 0 6721
+S
+#6721
+Entryway~
+The walls are even more covered with greenery from the inside of the temple.
+This chamber resides in almost complete darkness, but there are several
+large hulking shapes you can make out. A narrow doorway to the south leads
+the way deeper into the temple, the door long since rotted away.
+~
+0 9 0
+D2
+A hallway extends to the south into the green-tinged darkness.
+~
+~
+0 0 6726
+D3
+A moss covered door slides aside, revealing a passage!
+~
+~
+1 0 6722
+D4
+You can climb out of the temple.
+~
+~
+0 0 6720
+S
+#6722
+A forgotten hallway~
+Dust lies several inches thick on the stone floor, and as you enter the
+hallway you hear the scuttlings of small creatures seeking safety.  This
+hallway appears to have remained undisturbed for a long time.  You wonder
+why.  
+~
+0 1 0
+D1
+A moss covered panel slides away, revealing a chamber.
+~
+~
+1 0 6721
+D3
+The forgotten hallway stretches away into the darkness.
+~
+~
+0 0 6723
+S
+#6723
+A forgotten hallway~
+Dust lies several inches thick on the stone floor, and as you enter the
+hallway you hear the scuttlings of small creatures seeking safety.  This
+hallway appears to have remained undisturbed for a long time.  You wonder
+why.  It comes to sudden halt here though.  
+~
+0 1 0
+D1
+A forgotten hallway winds east through the darkness.
+~
+~
+0 0 6722
+D2
+A perfectly smooth wall is here.
+~
+~
+1 0 6724
+S
+#6724
+Secret Room~
+The wall slides aside much to your surprise!  Unlike the hallway outside,
+this chamber is in good repair and kept clean by the inhabitants. 
+Unfortunately, they are not awfully glad to see someone has found their
+secret lair!  The three brigands jump up from the table and glare at you
+warily with drawn blades.  
+~
+0 9 0
+D0
+A perfectly smooth wall is here.
+~
+~
+1 0 6723
+D3
+A narrow doorway reveals a small chamber to the west.
+~
+~
+0 0 6725
+S
+#6725
+Master Poisoner's Chamber~
+This brigand seems to have higher status than the rabble outside.  His
+chambers are slightly cleaner, and his role as master poisoner is
+demonstrated by the immumerable herbs and vials that lay about the room in
+small bundles.  A locked cask sits in one corner.  
+~
+0 9 0
+D1
+~
+~
+0 0 6724
+S
+#6726
+Mouldering Corridor~
+The air in this corridor is damp and musty and you are sure you are
+inhaling things you shouldn't be.  You cough in the humid, cloying air and
+brush against the green walls covered with a variety of hard and soft fungi.
+You recoil from the contact quickly, you wouldn't want to shake any spores
+loose.  The floor is damp and water pools in depressions on the floor.  Your
+light causes the corridor to be lit by a strange green glow.  
+~
+0 9 0
+D0
+A small chamber lies ahead, its too dark to see much.
+~
+~
+0 0 6721
+D2
+The mouldering hallway continues.
+~
+~
+0 0 6727
+S
+#6727
+Mouldering Corridor~
+The air in this corridor is damp and musty and you are sure you are
+inhaling things you shouldn't be.  You cough in the humid, cloying air and
+brush against the green walls covered with a variety of hard and soft fungi.
+You recoil from the contact quickly, you wouldn't want to shake any spores
+loose.  The floor is damp and water pools in depressions on the floor.  Your
+light causes the corridor to be lit by a strange green glow.  
+~
+0 9 0
+D0
+~
+~
+0 0 6726
+D2
+~
+~
+0 0 6728
+S
+#6728
+Mouldering Junction~
+The hallway splits here, going east and also continuing south, You can't
+see very far in either direction.  The light you bring shines green down
+here, severely lowering your range of vision.  
+~
+0 9 0
+D0
+The hall ways continues north.
+~
+~
+0 0 6727
+D1
+You can see a little alcove to the east.
+~
+~
+0 0 6729
+D2
+~
+~
+0 0 6740
+S
+#6729
+Entrance to the Underground Grotto~
+Just ahead of you is a vast chamber, housing some sort of underground
+grotto.  The chamber appears to be well lit by several kinds of phosporent
+moss, and you can see some strange mushrooms bigger than you are already. 
+Water even drips in through a whole in the ceiling, gathering in a small
+pond.  All in all, it's quite breathtakingly beautiful.  
+~
+0 12 0
+D1
+~
+~
+0 0 6730
+D3
+You see a junction in the mouldering hallway.
+~
+~
+0 0 6728
+S
+#6730
+Underground Grotto~
+The underground grotto is breathtaking.  It literally teams with life of
+all sorts.  Amid the strange greenery, small creatures scuttle while larger
+ones fly overhead.  Huge mushroom nearly three feet in diameter stands as
+sentinels, bearing an incanny resemblance to trees.  The soft, lush carpet
+of moss which covers the ground glows dimly, illuminating everything in a
+subtle green glow.  To the west you may exit the grotto.  
+~
+0 8 0
+D0
+~
+~
+0 0 6731
+D1
+~
+~
+0 0 6738
+D2
+~
+~
+0 0 6737
+D3
+~
+~
+0 0 6729
+S
+#6731
+Underground Grotto~
+The underground grotto is breathtaking.  It literally teams with life of
+all sorts.  Amid the strange greenery, small creatures scuttle while larger
+ones fly overhead.  Huge mushroom nearly three feet in diameter stands as
+sentinels, bearing an incanny resemblance to trees.  The soft, lush carpet
+of moss which covers the ground glows dimly, illuminating everything in a
+subtle green glow.  The grotto extends east and south.  
+~
+0 8 0
+D1
+~
+~
+0 0 6732
+D2
+~
+~
+0 0 6730
+S
+#6732
+Underground Grotto~
+The underground grotto is breathtaking.  It literally teams with life of
+all sorts.  Amid the strange greenery, small creatures scuttle while larger
+ones fly overhead.  Huge mushroom nearly three feet in diameter stands as
+sentinels, bearing an incanny resemblance to trees.  The soft, lush carpet
+of moss which covers the ground glows dimly, illuminating everything in a
+subtle green glow.  The grotto extends east or west and you can see a small
+pond to the south.  
+~
+0 8 0
+D1
+~
+~
+0 0 6733
+D2
+~
+~
+0 0 6738
+D3
+~
+~
+0 0 6731
+S
+#6733
+Underground Grotto~
+The underground grotto is breathtaking.  It literally teams with life of
+all sorts.  Amid the strange greenery, small creatures scuttle while larger
+ones fly overhead.  Huge mushroom nearly three feet in diameter stands as
+sentinels, bearing an incanny resemblance to trees.  The soft, lush carpet
+of moss which covers the ground glows dimly, illuminating everything in a
+subtle green glow.  The grotto extends west and south.  
+~
+0 8 0
+D2
+~
+~
+0 0 6734
+D3
+~
+~
+0 0 6732
+S
+#6734
+Underground Grotto~
+The underground grotto is breathtaking.  It literally teams with life of
+all sorts.  Amid the strange greenery, small creatures scuttle while larger
+ones fly overhead.  Huge mushroom nearly three feet in diameter stands as
+sentinels, bearing an incanny resemblance to trees.  The soft, lush carpet
+of moss which covers the ground glows dimly, illuminating everything in a
+subtle green glow.  The grotto extends north and south, and you can see a
+small pond to the west.  
+~
+0 8 0
+D0
+~
+~
+0 0 6733
+D2
+~
+~
+0 0 6735
+D3
+~
+~
+0 0 6738
+S
+#6735
+Underground Grotto~
+The underground grotto is breathtaking.  It literally teams with life of
+all sorts.  Amid the strange greenery, small creatures scuttle while larger
+ones fly overhead.  Huge mushroom nearly three feet in diameter stands as
+sentinels, bearing an incanny resemblance to trees.  The soft, lush carpet
+of moss which covers the ground glows dimly, illuminating everything in a
+subtle green glow.  The grotto extends west and north.  
+~
+0 8 0
+D0
+~
+~
+0 0 6734
+D3
+~
+~
+0 0 6736
+S
+#6736
+Underground Grotto~
+The underground grotto is breathtaking.  It literally teams with life of
+all sorts.  Amid the strange greenery, small creatures scuttle while larger
+ones fly overhead.  Huge mushroom nearly three feet in diameter stands as
+sentinels, bearing an incanny resemblance to trees.  The soft, lush carpet
+of moss which covers the ground glows dimly, illuminating everything in a
+subtle green glow.  The grotto extends east or west and you can see a small
+pond to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 6738
+D1
+~
+~
+0 0 6735
+D3
+~
+~
+0 0 6737
+S
+#6737
+Underground Grotto~
+The underground grotto is breathtaking.  It literally teams with life of
+all sorts.  Amid the strange greenery, small creatures scuttle while larger
+ones fly overhead.  Huge mushroom nearly three feet in diameter stands as
+sentinels, bearing an incanny resemblance to trees.  The soft, lush carpet
+of moss which covers the ground glows dimly, illuminating everything in a
+subtle green glow.  The grotto extends east and north.  
+~
+0 8 0
+D0
+~
+~
+0 0 6730
+D1
+~
+~
+0 0 6736
+S
+#6738
+Pond in the Underground Grotto~
+Small trickles of water drip down from cracks in the ceiling above,
+forming a steady enough drip to form a small pond here.  The water is
+completely black despite the glowing fungi, and you cannot tell how deep it
+is.  The vegetation is especially lush around the edge of the pool.  
+~
+0 8 0
+D0
+~
+~
+0 0 6732
+D1
+~
+~
+0 0 6734
+D2
+~
+~
+0 0 6736
+D3
+~
+~
+0 0 6730
+S
+#6739
+Beneath the Still Black Pond~
+You submerge yourself briefly in the black water and seconds later feel
+something grasping for you!  It grabs you and pulls you down, deeper and
+deeper trying to drown you!  You fight for your life!  
+~
+0 9 12
+D4
+~
+~
+0 0 6738
+S
+#6740
+Mouldering Corridor~
+The air in this corridor is damp and musty and you are sure you are
+inhaling things you shouldn't be.  You cough in the humid, cloying air and
+brush against the green walls covered with a variety of hard and soft fungi.
+You recoil from the contact quickly, you wouldn't want to shake any spores
+loose.  The floor is damp and water pools in depressions on the floor.  Your
+light causes the corridor to be lit by a strange green glow.  
+~
+0 9 0
+D0
+~
+~
+0 0 6728
+D2
+~
+~
+0 0 6741
+S
+#6741
+Mouldering Corridor~
+The air in this corridor is damp and musty and you are sure you are
+inhaling things you shouldn't be.  You cough in the humid, cloying air and
+brush against the green walls covered with a variety of hard and soft fungi.
+You recoil from the contact quickly, you wouldn't want to shake any spores
+loose.  The floor is damp and water pools in depressions on the floor.  Your
+light causes the corridor to be lit by a strange green glow.  Up ahead you
+can see the corridor widens into a small chamber.  
+~
+0 9 0
+D0
+~
+~
+0 0 6740
+D2
+~
+~
+0 0 6742
+S
+#6742
+Savage Pit~
+The chamber widens slightly here and you pause momentarily to make sense
+of what you're looking at.  A giant flower bud, beautifully colored, sits
+down here in the dark.  You gaze at its size and beauty for several seconds
+before you notice the sharpened vines creeping along the ground towards you!
+~
+0 9 0
+D0
+~
+~
+0 0 6741
+D5
+~
+~
+1 6711 6743
+S
+#6743
+Tangled in the Roots~
+Beneath the mantrap flower is a narrow vertical passage.  You manage to
+lower yourself slowly through the darkness climbing from root to root.  The
+strong smell of damp earth surrounds is feels comforting, but soon you begin
+the feel trapped.  Your breath comes in quick gasps as you climb faster and
+faster, trying to escape the tree roots.  Suddenly something strikes at you
+and coils around your legs!  
+~
+0 9 0
+D4
+~
+~
+1 6711 6742
+D5
+~
+~
+0 0 6744
+S
+#6744
+Tangled in the Roots~
+Beneath the mantrap flower is a narrow vertical passage.  You manage to
+lower yourself slowly through the darkness climbing from root to root.  The
+strong smell of damp earth surrounds is feels comforting, but soon you begin
+the feel trapped.  Your breath comes in quick gasps as you climb faster and
+faster, trying to escape the tree roots.  Suddenly something strikes at you
+and coils around your legs!  
+~
+0 9 0
+D4
+~
+~
+0 0 6743
+D5
+~
+~
+0 0 6745
+S
+#6745
+Tangled in the Roots~
+Beneath the mantrap flower is a narrow vertical passage.  You manage to
+lower yourself slowly through the darkness climbing from root to root.  The
+strong smell of damp earth surrounds is feels comforting, but soon you begin
+the feel trapped.  Your breath comes in quick gasps as you climb faster and
+faster, trying to escape the tree roots.  Suddenly something strikes at you
+and coils around your legs!  
+~
+0 9 0
+D4
+~
+~
+0 0 6744
+D5
+~
+~
+1 0 6746
+S
+#6746
+Bottom of the Pit~
+You gasp with relief as you escape the strangling tree roots.  The
+darkness sees even more ominous down here.  The only sound you hear aside
+from the rustlings of plants is your own panting breath.  To the east you
+seem a large chamber filled with some kind of mist.  
+~
+0 9 0
+D1
+~
+~
+0 0 6747
+D4
+~
+~
+1 0 6745
+S
+#6747
+Choking!!~
+Suddenly you inhale a mouthful of spores!  You begin to gag and choke,
+you feel yourself being poisoned.  You can't see!  Where are you??  You
+stumble through the spore cloud.  
+~
+0 9 0
+D0
+~
+~
+0 0 6748
+D1
+~
+~
+0 0 6749
+D2
+~
+~
+0 0 6751
+D3
+~
+~
+0 0 6746
+S
+#6748
+Choking!!~
+Suddenly you inhale a mouthful of spores!  You begin to gag and choke,
+you feel yourself being poisoned.  You can't see!  Where are you??  You
+stumble through the spore cloud.  
+~
+0 9 0
+D0
+~
+~
+0 0 6751
+D1
+~
+~
+0 0 6750
+D2
+~
+~
+0 0 6747
+S
+#6749
+Choking!!~
+Suddenly you inhale a mouthful of spores!  You begin to gag and choke,
+you feel yourself being poisoned.  You can't see!  Where are you??  You
+stumble through the spore cloud.  
+~
+0 9 0
+D0
+~
+~
+0 0 6750
+D1
+~
+~
+0 0 6747
+D2
+~
+~
+0 0 6750
+D3
+~
+~
+0 0 6747
+S
+#6750
+Choking!!~
+Suddenly you inhale a mouthful of spores!  You begin to gag and choke,
+you feel yourself being poisoned.  You can't see!  Where are you??  You
+stumble through the spore cloud.  
+~
+0 9 0
+D0
+~
+~
+0 0 6749
+D1
+~
+~
+0 0 6752
+D2
+~
+~
+0 0 6749
+D3
+~
+~
+0 0 6748
+S
+#6751
+Spores~
+Coughing and choking, you stagger into this room and nearly make a fatal
+mistake.  You almost stumble into a large blossom.  Tiny spores sparkle
+around the edge of the flower and you realize this is reason for the choking
+cloud all around you.  Payback time.  
+~
+0 9 0
+D0
+~
+~
+0 0 6747
+D1
+~
+~
+0 0 6748
+D2
+~
+~
+0 0 6748
+D3
+~
+~
+0 0 6748
+M 0 H 0
+S
+#6752
+Spores~
+Coughing and choking, you stagger into this room and nearly make a fatal
+mistake.  You almost stumble into a large blossom.  Tiny spores sparkle
+around the edge of the flower and you realize this is reason for the choking
+cloud all around you.  Payback time.  
+~
+0 9 0
+D1
+~
+~
+0 0 6753
+D3
+~
+~
+0 0 6750
+M 0 H 0
+S
+#6753
+Spores~
+Coughing and choking, you stagger into this room and nearly make a fatal
+mistake.  You almost stumble into a large blossom.  Tiny spores sparkle
+around the edge of the flower and you realize this is reason for the choking
+cloud all around you.  Payback time.  
+~
+0 9 0
+D0
+~
+~
+0 0 6754
+D1
+~
+~
+0 0 6755
+D2
+~
+~
+0 0 6754
+D3
+~
+~
+0 0 6752
+M 0 H 0
+S
+#6754
+Choking!!~
+Suddenly you inhale a mouthful of spores!  You begin to gag and choke,
+you feel yourself being poisoned.  You can't see!  Where are you??  You
+stumble through the spore cloud.  
+~
+0 9 0
+D0
+~
+~
+0 0 6753
+D1
+~
+~
+0 0 6756
+D2
+~
+~
+0 0 6753
+D3
+~
+~
+0 0 6755
+S
+#6755
+Choking!!~
+Suddenly you inhale a mouthful of spores!  You begin to gag and choke,
+you feel yourself being poisoned.  You can't see!  Where are you??  You
+stumble through the spore cloud.  
+~
+0 9 0
+D0
+~
+~
+0 0 6756
+D1
+~
+~
+0 0 6754
+D2
+~
+~
+0 0 6756
+D3
+~
+~
+0 0 6753
+S
+#6756
+Choking!!~
+Suddenly you inhale a mouthful of spores!  You begin to gag and choke,
+you feel yourself being poisoned.  You can't see!  Where are you??  You
+stumble through the spore cloud.  
+~
+0 9 0
+D0
+~
+~
+0 0 6755
+D1
+~
+~
+0 0 6757
+D2
+~
+~
+0 0 6755
+D3
+~
+~
+0 0 6754
+S
+#6757
+Fresh air!~
+At last the spore cloud seems to thin a little and you gratefully choke
+down gulping lungfuls of the fresh air.  You peer around and realize you
+aren't safe yet.  The same dull green walls trap you like the gullet of some
+strange worm, winding eastwards into a short corridor.  
+~
+0 9 0
+D1
+~
+~
+0 0 6758
+D3
+~
+~
+0 0 6756
+S
+#6758
+Mouldering Corridor~
+The air in this corridor is damp and musty and you are sure you are
+inhaling things you shouldn't be.  You cough in the humid, cloying air and
+brush against the green walls covered with a variety of hard and soft fungi.
+You recoil from the contact quickly, you wouldn't want to shake any spores
+loose.  The floor is damp and water pools in depressions on the floor.  Your
+light causes the corridor to be lit by a strange green glow.  The corridor
+continues eastwards.  
+~
+0 9 0
+D1
+~
+~
+0 0 6759
+D3
+~
+~
+0 0 6757
+S
+#6759
+Mouldering Corridor~
+The air in this corridor is damp and musty and you are sure you are
+inhaling things you shouldn't be.  You cough in the humid, cloying air and
+brush against the green walls covered with a variety of hard and soft fungi.
+You recoil from the contact quickly, you wouldn't want to shake any spores
+loose.  The floor is damp and water pools in depressions on the floor.  Your
+light causes the corridor to be lit by a strange green glow.  To the east
+the corridor widens into some kind of grotto.  
+~
+0 9 0
+D1
+~
+~
+0 0 6760
+D3
+~
+~
+0 0 6758
+S
+#6760
+Hangman's Grotto~
+You stand in some strange grotto deep under the ruined temple.  Something
+appears to be sucking the nourishment from this area...  Something...  Big. 
+You can see an immense tree to the east, in the center of the grotto.  Most
+of the other vegetation here is thin and sparse, consisting mostly of small
+mushrooms.  
+~
+0 9 3
+D0
+~
+~
+0 0 6761
+D1
+~
+~
+0 0 6768
+D2
+~
+~
+0 0 6767
+D3
+~
+~
+0 0 6759
+S
+#6761
+Hangman's Grotto~
+You stand in some strange grotto deep under the ruined temple.  Something
+appears to be sucking the nourishment from this area...  Something...  Big. 
+You can see an immense tree in the center of the grotto.  Most of the other
+vegetation here is thin and sparse, consisting mostly of small mushrooms. 
+The grotto continues to the south and east.  
+~
+0 9 3
+D1
+~
+~
+0 0 6762
+D2
+~
+~
+0 0 6760
+S
+#6762
+Hangman's Grotto~
+You stand in some strange grotto deep under the ruined temple.  Something
+appears to be sucking the nourishment from this area...  Something...  Big. 
+You can see an immense tree to the south, in the center of the grotto.  Most
+of the other vegetation here is thin and sparse, consisting mostly of small
+mushrooms.  
+~
+0 9 3
+D1
+~
+~
+0 0 6763
+D2
+~
+~
+0 0 6768
+D3
+~
+~
+0 0 6761
+S
+#6763
+Hangman's Grotto~
+You stand in some strange grotto deep under the ruined temple.  Something
+appears to be sucking the nourishment from this area...  Something...  Big. 
+You can see an immense tree in the center of the grotto.  Most of the other
+vegetation here is thin and sparse, consisting mostly of small mushrooms. 
+The grotto continues to the south and west.  
+~
+0 9 3
+D2
+~
+~
+0 0 6764
+D3
+~
+~
+0 0 6762
+S
+#6764
+Hangman's Grotto~
+You stand in some strange grotto deep under the ruined temple.  Something
+appears to be sucking the nourishment from this area...  Something...  Big. 
+You can see an immense tree to the west, in the center of the grotto.  Most
+of the other vegetation here is thin and sparse, consisting mostly of small
+mushrooms.  
+~
+0 9 3
+D0
+~
+~
+0 0 6763
+D2
+~
+~
+0 0 6765
+D3
+~
+~
+0 0 6768
+S
+#6765
+Hangman's Grotto~
+You stand in some strange grotto deep under the ruined temple.  Something
+appears to be sucking the nourishment from this area...  Something...  Big. 
+You can see an immense tree in the center of the grotto.  Most of the other
+vegetation here is thin and sparse, consisting mostly of small mushrooms. 
+The grotto continues to the north and west.  There is a small pit here,
+leading deeper into the bowels of the temple.  
+~
+0 9 3
+D0
+~
+~
+0 0 6764
+D3
+~
+~
+0 0 6766
+D5
+~
+~
+0 0 6769
+S
+#6766
+Hangman's Grotto~
+You stand in some strange grotto deep under the ruined temple.  Something
+appears to be sucking the nourishment from this area...  Something...  Big. 
+You can see an immense tree to the north, in the center of the grotto.  Most
+of the other vegetation here is thin and sparse, consisting mostly of small
+mushrooms.  
+~
+0 9 3
+D0
+~
+~
+0 0 6768
+D1
+~
+~
+0 0 6765
+D3
+~
+~
+0 0 6767
+S
+#6767
+Hangman's Grotto~
+You stand in some strange grotto deep under the ruined temple.  Something
+appears to be sucking the nourishment from this area...  Something...  Big. 
+You can see an immense tree in the center of the grotto.  Most of the other
+vegetation here is thin and sparse, consisting mostly of small mushrooms. 
+The grotto continues to the north and east.  
+~
+0 9 3
+D0
+~
+~
+0 0 6760
+D1
+~
+~
+0 0 6766
+S
+#6768
+Hangman Tree~
+Oh my!  Some kind of strange tree occupies the center of the grotto.  It
+sort of resembles a willow tree, but the limbs are much thicker.  You gasp
+in horror as you notice some of the hanging willow boughs containing the
+rotting and decayed corpses of the tree's victims.  The strange plant is a
+Hangman tree, and it is capable of reanimating those it kills in the form of
+mindless zombies.  
+~
+0 0 0
+D0
+~
+~
+0 0 6762
+D1
+~
+~
+0 0 6764
+D2
+~
+~
+0 0 6766
+D3
+~
+~
+0 0 6760
+S
+#6769
+Narrow shaft~
+Below the grotto, a narrow vertical shaft leads down the deepest parts of
+the earth.  Who knows what foul minions of the darkness lie below?  After
+all, something or someone must be controlling this strange temple.  You
+grasp at the bare walls as you make your way downwards.  You are too deep in
+the earth for tree roots to help you climb down.  
+~
+0 9 0
+D4
+~
+~
+0 0 6765
+D5
+~
+~
+0 0 6770
+S
+#6770
+Narrow shaft~
+Below the grotto, a narrow vertical shaft leads down the deepest parts of
+the earth.  Who knows what foul minions of the darkness lie below?  After
+all, something or someone must be controlling this strange temple.  You
+grasp at the bare walls as you make your way downwards.  You are too deep in
+the earth for tree roots to help you climb down.  
+~
+0 9 0
+D4
+~
+~
+0 0 6769
+D5
+~
+~
+0 0 6771
+S
+#6771
+Bottom of the Shaft~
+You stand at the bottom of the vertical shaft.  You can move aside a
+small bundle of roots and climb into the hell below, if you dare.  The very
+stench of evil seems to eminate just below you.  You grip your weapon more
+tightly and ponder what to do.  
+~
+0 9 0
+D4
+~
+~
+0 0 6770
+D5
+~
+~
+1 0 6772
+S
+#6772
+The root of evil~
+You stand at the root of the evil in this temple.  The walls around you
+seem alive, and in fact they are.  They undulate and shiver with a tortured
+life of their own, slowly reaching out to crush you and devour you just for
+sustenance... 
+ 
+Or is it for pleasure?
+~
+0 9 0
+D4
+~
+~
+1 0 6771
+D5
+~
+~
+4 6714 6773
+S
+#6773
+The Death Bloom~
+And here in the depthes of the earth, past the root of all evil, lies the
+herb master's greatest masterpiece.  In the plain room of grey bedrock stone
+on a table rests a small flower pot, containing his greatest work, the Death
+Bloom.  
+~
+0 524297 3
+D4
+~
+~
+4 0 6772
+S
+#0
+
+
+
+#SPECIALS
+M 6705 spec_thief Load to: a craven brigand
+M 6713 spec_fido Load to: a spore flower
+S
+
+
+
+#MOBPROGS
+#6702
+DAMAGE $t 10 60
+~
+A
+#6701
+if players == 1
+if rand 50
+emote steals your memory. Where are you? What are you doing here?
+endif
+endif
+~
+A
+#6700
+if hpcnt $i > 95
+say {RSSSSSSSSSShhhhhhhhhhhrrrrrrrriiiiiiiiiiiiieeeeeeeeeeekkkkkkkkkkk!!!{x
+endif
+~
+A
+#0
+
+#RESETS
+D 0 6721 3 1
+D 0 6722 1 1
+D 0 6723 2 1
+D 0 6724 0 1
+D 0 6742 5 2
+D 0 6743 4 2
+D 0 6745 5 1
+D 0 6746 4 1
+D 0 6771 5 1
+D 0 6772 4 1
+D 0 6772 5 2
+D 0 6773 4 2
+M 1 6700 1 6705 1
+E 0 6700 0 12
+E 0 6701 0 16
+M 1 6701 1 6705 1
+M 1 6702 1 6708 1
+E 0 6704 0 16
+M 1 6703 5 6711 1
+M 1 6703 5 6714 1
+M 1 6703 5 6716 1
+M 1 6704 2 6721 2
+O 0 6716 0 6722
+O 0 6716 0 6723
+O 0 6703 0 6724
+M 1 6705 3 6724 3
+M 1 6706 1 6725 1
+E 0 6705 0 16
+O 0 6706 0 6725
+P 0 6707 10 6706 1
+P 0 6708 10 6706 1
+M 1 6709 5 6728 1
+E 0 6710 0 0
+M 1 6707 5 6730 1
+M 1 6707 5 6733 1
+M 1 6707 5 6735 1
+M 1 6703 5 6736 2
+O 0 6709 0 6738
+M 1 6708 1 6739 1
+M 1 6710 1 6742 1
+E 0 6711 0 0
+M 1 6711 3 6743 1
+M 1 6711 3 6744 1
+M 1 6711 3 6745 1
+M 1 6713 6 6751 2
+M 1 6713 6 6752 2
+M 1 6713 6 6753 2
+M 1 6709 3 6758 1
+M 1 6714 4 6761 1
+M 1 6714 4 6763 1
+M 1 6714 4 6765 1
+M 1 6714 4 6767 1
+M 1 6715 1 6768 1
+M 1 6716 1 6772 1
+E 0 6712 0 5
+E 0 6713 0 16
+E 0 6714 0 17
+O 0 6715 0 6773
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

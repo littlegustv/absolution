@@ -1,0 +1,1616 @@
+#AREADATA
+Name Sacred Circle~
+Builders Acehilm Angelique~
+VNUMs 20500 20599
+Credits { None} Angel   Sacred Circle~
+Security 1
+Xcontinent 1
+Age 10
+End
+
+
+
+#MOBILES
+#20500
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+AOQRSTVc BDEFHJNOPQTUVZab 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+ABCDEFGHIJKMNO 0 ABCDEFGHIJKLMNOPQRTXYZb 0
+stand stand none 0
+AHMV ABCDEFGHIJKP giant 0
+M give 20502 all~
+M fight 20500 100~
+M grall 20501 100~
+M random 20503 100~
+#20501
+woman songbird song bird~
+Guardian Protector~
+A proud figure stands here silently.
+~
+~
+song bird~
+Aa BCHNQTVZb 1000 0
+60 52 50d10+9500 1d1+100 8d6+28 divine
+-30 -30 -30 -30
+BCEFHKRT ABHJK 0 0
+stand stand female 92
+AGHMVW ABCDEFGHIJKP large 0
+#20503
+.~
+.~
+.
+~
+~
+elf~
+AB J 1000 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 BE Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#20500
+teardrop~
+teardrop~
+A really big tear drop is here.~
+energy~
+pill 0 A
+24 '(null)' 'haste' 'giant strength' '(null)'
+0 0 0 P
+E
+teardrop~
+{cA teardrop glistens in the palm of your hand.{x
+~
+E
+tear~
+{c A teardrop glistens in the palm of your hand.  {x 
+~
+#20501
+Angel's Kiss~
+Kiss from an {cAngel{x~
+Angel's kiss will keep you warm at night.~
+diamond~
+pill 0 AC
+51 'sanctuary' 'shield' 'mirror image' 'reserved'
+51 3 50 P
+#20502
+Fountain of Youth~
+the {cFountain of Youth{x. You can feel yourself growing stronger by the minute. Or is it just your imagination?~
+{cThe Fountain of Youth is here. Do you dare to lay claim to immortality?{x~
+air~
+fountain 0 0
+0 0 'lemonade' 0 0
+0 2000 0 P
+#20503
+cloud heart~
+a heart-shaped fluffy cloud~
+A fluffy cloud looks perfect for snuggling.~
+cloth~
+furniture IO 0
+8 10000 BEHKN 100 100
+0 0 0 P
+#20505
+angel love heart~
+{rAngel's Love{x~
+{rCupid has struck again!{x~
+lace~
+treasure IM AO
+0 0 0 0 0
+56 1 0 P
+E
+heart~
+All my love,
+Angel
+~
+#20510
+temporary couch~
+Temporary Harper Couch~
+Temporary Harper Couch~
+wood~
+furniture 0 0
+8 2000000 0 0 0
+0 50000 0 P
+#0
+
+
+
+#ROOMS
+#20500
+Ace & Angel's Cloud~
+Time seems to stand still in this room. Walls are not solid, like you 
+would expect, rather they are wisps of {cclouds{x that are constantly changing
+their form, even as you watch. If you look closely, you may see forms
+taking shape in the {cmist{. Or is it just your imagination?  
+ 
+~
+0 533012 12
+O acehilm angelique whisper whysper~
+E
+mist~
+{cThe mist seems to have a life of its own, twisting and turning in
+response to your thoughts, both the good, and the bad.  You might be careful
+what you think about while you are here.  {x 
+~
+E
+clouds~
+{c Misty clouds float aimlessly here...  But don't focus on one for too
+long, you might see something you don't want to see.  {x 
+~
+M 100000 H 100000
+S
+#20501
+{cEntrance to the Sacred Circle{x~
+An immense double door is suspended in the air before you.  It appears to
+be made of solid gold, edged with platinum and bedecked with jewels.  The
+effect is so {Bdazzling{x, that you must shield your eyes or risk going
+blind at this incredible sight!  
+ 
+~
+0 268967940 9
+E
+light~
+{c A brilliant creature stands here.  How could you have not noticed him
+before?  Regal and proud he stands his post, guarding against those who do
+not belong.  He smiles as he sees you look at him, but do not mistake his
+friendliness as an invitation.  Only those who have painstakingly earned
+their entrance are admitted.  {x 
+~
+E
+good~
+{c A brilliant creature stands here.  How could you have not noticed him
+before?  Regal and proud he stands his post, guarding against those who do
+not belong.  He smiles as he sees you look at him, but do not mistake his
+friendliness as an invitation.  Only those who have painstakingly earned
+their entrance are admitted.  
+~
+E
+dazzling~
+Stop staring or you'll become so mesmerized by what you see, that you
+will be unable to continue your journey.  Many have perished here simply
+because they forget why they came.  
+~
+M 300 H 300
+S
+#20502
+{mPathway to Glory{x~
+~
+0 268967936 9
+D1
+~
+~
+0 0 20504
+D3
+~
+~
+0 0 20503
+D4
+~
+~
+0 0 20505
+M 300 H 300
+S
+#20503
+{mAngels Among Us{x~
+~
+0 268967936 9
+E
+elf~
+{mPurple{c eyes hidden behind a wild mane of silver hair, this elf
+radiates the energy and abundance of the universe.  She smiles softly as she
+realizes you are watching her, and continues with her work.  {x 
+~
+D1
+~
+~
+0 0 20502
+M 300 H 300
+S
+#20504
+~
+~
+0 268967936 0
+D3
+~
+~
+0 0 20502
+M 0 H 0
+S
+#20505
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20508
+D2
+~
+~
+0 0 20507
+D3
+~
+~
+0 0 20506
+D5
+~
+~
+0 0 20502
+M 0 H 0
+S
+#20506
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20505
+M 0 H 0
+S
+#20507
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20505
+M 0 H 0
+S
+#20508
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20505
+D4
+~
+~
+0 0 20509
+M 0 H 0
+S
+#20509
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20511
+D2
+~
+~
+0 0 20510
+D5
+~
+~
+0 0 20508
+M 0 H 0
+S
+#20510
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20509
+D4
+~
+~
+0 0 20511
+M 0 H 0
+S
+#20511
+~
+~
+0 268967936 0
+D3
+~
+~
+0 0 20509
+D4
+~
+~
+0 0 20512
+D5
+~
+~
+0 0 20510
+M 0 H 0
+S
+#20512
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20513
+D2
+~
+~
+0 0 20515
+D5
+~
+~
+0 0 20511
+M 0 H 0
+S
+#20513
+~
+~
+0 268967936 0
+D3
+~
+~
+0 0 20512
+M 0 H 0
+S
+#20514
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20512
+M 0 H 0
+S
+#20515
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20512
+D4
+~
+~
+0 0 20516
+M 0 H 0
+S
+#20516
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20518
+D1
+~
+~
+0 0 20517
+D2
+~
+~
+0 0 20519
+D5
+~
+~
+0 0 20515
+M 0 H 0
+S
+#20517
+~
+~
+0 268967936 0
+D3
+~
+~
+0 0 20516
+M 0 H 0
+S
+#20518
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20516
+M 0 H 0
+S
+#20519
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20516
+D4
+~
+~
+0 0 20520
+M 0 H 0
+S
+#20520
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20521
+D3
+~
+~
+0 0 20522
+D5
+~
+~
+0 0 20519
+M 0 H 0
+S
+#20521
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20520
+M 0 H 0
+S
+#20522
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20520
+D4
+~
+~
+0 0 20523
+M 0 H 0
+S
+#20523
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20526
+D2
+~
+~
+0 0 20525
+D3
+~
+~
+0 0 20524
+D5
+~
+~
+0 0 20522
+M 0 H 0
+S
+#20524
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20523
+M 0 H 0
+S
+#20525
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20523
+M 0 H 0
+S
+#20526
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20527
+D2
+~
+~
+0 0 20523
+M 0 H 0
+S
+#20527
+~
+~
+0 268967936 0
+D3
+~
+~
+0 0 20526
+D4
+~
+~
+0 0 20528
+M 0 H 0
+S
+#20528
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20530
+D1
+~
+~
+0 0 20529
+D2
+~
+~
+0 0 20531
+D5
+~
+~
+0 0 20527
+M 0 H 0
+S
+#20529
+~
+~
+0 268967936 0
+D3
+~
+~
+0 0 20528
+M 0 H 0
+S
+#20530
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20528
+M 0 H 0
+S
+#20531
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20528
+D4
+~
+~
+0 0 20532
+M 0 H 0
+S
+#20532
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20533
+D3
+~
+~
+0 0 20534
+D5
+~
+~
+0 0 20531
+M 0 H 0
+S
+#20533
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20532
+M 0 H 0
+S
+#20534
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20532
+D4
+~
+~
+0 0 20535
+M 0 H 0
+S
+#20535
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20538
+D2
+~
+~
+0 0 20537
+D3
+~
+~
+0 0 20536
+D5
+~
+~
+0 0 20534
+M 0 H 0
+S
+#20536
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20535
+M 0 H 0
+S
+#20537
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20535
+M 0 H 0
+S
+#20538
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20535
+D4
+~
+~
+0 0 20539
+M 0 H 0
+S
+#20539
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20541
+D2
+~
+~
+0 0 20540
+D5
+~
+~
+0 0 20538
+M 0 H 0
+S
+#20540
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20539
+M 0 H 0
+S
+#20541
+~
+~
+0 268967936 0
+D3
+~
+~
+0 0 20539
+D4
+~
+~
+0 0 20542
+M 0 H 0
+S
+#20542
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20544
+D1
+~
+~
+0 0 20543
+D2
+~
+~
+0 0 20545
+D5
+~
+~
+0 0 20541
+M 0 H 0
+S
+#20543
+~
+~
+0 268967936 0
+D3
+~
+~
+0 0 20542
+M 0 H 0
+S
+#20544
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20542
+M 0 H 0
+S
+#20545
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20547
+D3
+~
+~
+0 0 20548
+D4
+~
+~
+0 0 20546
+M 0 H 0
+S
+#20546
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20549
+D5
+~
+~
+0 0 20545
+M 0 H 0
+S
+#20547
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20545
+M 0 H 0
+S
+#20548
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20545
+M 0 H 0
+S
+#20549
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20552
+D1
+~
+~
+0 0 20551
+D2
+~
+~
+0 0 20546
+D3
+~
+~
+0 0 20550
+M 0 H 0
+S
+#20550
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20549
+M 0 H 0
+S
+#20551
+~
+~
+0 268967936 0
+D3
+~
+~
+0 0 20549
+M 0 H 0
+S
+#20552
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20555
+D1
+~
+~
+0 0 20554
+D2
+~
+~
+0 0 20549
+D3
+~
+~
+0 0 20553
+M 0 H 0
+S
+#20553
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20552
+M 0 H 0
+S
+#20554
+~
+~
+0 268967936 0
+D3
+~
+~
+0 0 20552
+M 0 H 0
+S
+#20555
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20552
+D4
+~
+~
+0 0 20556
+M 0 H 0
+S
+#20556
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20557
+D1
+~
+~
+0 0 20559
+D2
+~
+~
+0 0 20558
+D5
+~
+~
+0 0 20555
+M 0 H 0
+S
+#20557
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20556
+M 0 H 0
+S
+#20558
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20556
+M 0 H 0
+S
+#20559
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20560
+D1
+~
+~
+0 0 20562
+D2
+~
+~
+0 0 20561
+D3
+~
+~
+0 0 20556
+M 0 H 0
+S
+#20560
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20559
+M 0 H 0
+S
+#20561
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20559
+M 0 H 0
+S
+#20562
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20563
+D1
+~
+~
+0 0 20565
+D2
+~
+~
+0 0 20564
+D3
+~
+~
+0 0 20559
+M 0 H 0
+S
+#20563
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20562
+M 0 H 0
+S
+#20564
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20562
+M 0 H 0
+S
+#20565
+~
+~
+0 268967936 0
+D3
+~
+~
+0 0 20562
+D4
+~
+~
+0 0 20566
+M 0 H 0
+S
+#20566
+~
+~
+0 268967936 0
+D3
+~
+~
+0 0 20567
+D5
+~
+~
+0 0 20565
+M 0 H 0
+S
+#20567
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20568
+D1
+~
+~
+0 0 20566
+D2
+~
+~
+0 0 20569
+D3
+~
+~
+0 0 20570
+M 0 H 0
+S
+#20568
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20567
+M 0 H 0
+S
+#20569
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20567
+M 0 H 0
+S
+#20570
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20571
+D1
+~
+~
+0 0 20567
+D2
+~
+~
+0 0 20572
+D3
+~
+~
+0 0 20573
+M 0 H 0
+S
+#20571
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20570
+M 0 H 0
+S
+#20572
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20570
+M 0 H 0
+S
+#20573
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20570
+D4
+~
+~
+0 0 20574
+M 0 H 0
+S
+#20574
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20575
+D1
+~
+~
+0 0 20578
+D2
+~
+~
+0 0 20576
+D3
+~
+~
+0 0 20577
+D5
+~
+~
+0 0 20573
+M 0 H 0
+S
+#20575
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20574
+M 0 H 0
+S
+#20576
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20574
+M 0 H 0
+S
+#20577
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20574
+M 0 H 0
+S
+#20578
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20579
+D1
+~
+~
+0 0 20582
+D2
+~
+~
+0 0 20580
+D3
+~
+~
+0 0 20581
+M 0 H 0
+S
+#20579
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20578
+M 0 H 0
+S
+#20580
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20578
+M 0 H 0
+S
+#20581
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20578
+M 0 H 0
+S
+#20582
+~
+~
+0 268967936 0
+D3
+~
+~
+0 0 20578
+D4
+~
+~
+0 0 20583
+M 0 H 0
+S
+#20583
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20584
+D1
+~
+~
+0 0 20586
+D2
+~
+~
+0 0 20585
+D3
+~
+~
+0 0 20587
+D5
+~
+~
+0 0 20582
+M 0 H 0
+S
+#20584
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20583
+M 0 H 0
+S
+#20585
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20583
+M 0 H 0
+S
+#20586
+~
+~
+0 268967936 0
+D3
+~
+~
+0 0 20583
+M 0 H 0
+S
+#20587
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20588
+D1
+~
+~
+0 0 20583
+D2
+~
+~
+0 0 20589
+D3
+~
+~
+0 0 20590
+M 0 H 0
+S
+#20588
+~
+~
+0 268967936 0
+D2
+~
+~
+0 0 20587
+M 0 H 0
+S
+#20589
+~
+~
+0 268967936 0
+D0
+~
+~
+0 0 20587
+M 0 H 0
+S
+#20590
+~
+~
+0 268967936 0
+D1
+~
+~
+0 0 20587
+D4
+~
+~
+0 0 20591
+M 0 H 0
+S
+#20591
+~
+~
+0 268967936 0
+D4
+~
+~
+0 0 20592
+D5
+~
+~
+0 0 20590
+M 0 H 0
+S
+#20592
+~
+~
+0 268967936 0
+D4
+~
+~
+0 0 20593
+D5
+~
+~
+0 0 20591
+M 0 H 0
+S
+#20593
+~
+~
+0 268967936 0
+D4
+~
+~
+0 0 20594
+D5
+~
+~
+0 0 20592
+M 0 H 0
+S
+#20594
+~
+~
+0 268967936 0
+D4
+~
+~
+0 0 20595
+D5
+~
+~
+0 0 20593
+M 0 H 0
+S
+#20595
+~
+~
+0 268967936 0
+D4
+~
+~
+0 0 20596
+D5
+~
+~
+0 0 20594
+M 0 H 0
+S
+#20596
+~
+~
+0 268967936 0
+D4
+~
+~
+0 0 20597
+D5
+~
+~
+0 0 20595
+M 0 H 0
+S
+#20597
+~
+~
+0 268967936 0
+D4
+~
+~
+0 0 20598
+D5
+~
+~
+0 0 20596
+M 0 H 0
+S
+#20598
+~
+~
+0 268967936 0
+D4
+~
+~
+0 0 20599
+D5
+~
+~
+0 0 20597
+M 0 H 0
+S
+#20599
+~
+~
+0 268967936 0
+D5
+~
+~
+0 0 20598
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#20504
+mob at redbaron mob force redbaron give bag grrl
+~
+#20502
+mob at 6373 drop all
+mob at 6373 mob force hermit mob at 20500 drop all
+~
+#20500
+if isnpc $n
+ if ischarm $n
+  mob cast 'turn magic' $n
+ else
+  mob goto $n
+ endif
+endif
+~
+#20501
+if iskiller $n
+or isthief $n
+ kill $n
+ bash $n
+endif
+~
+#20503
+mob remember cassannova
+if pos $q fighting
+  mob at $q mob remember 4.' '
+  if pos $q fighting
+  and isnpc $q
+  and hpcnt $q > 10
+    mob at cassannova mob damage $q 1000 1000
+  endif
+endif
+~
+#0
+
+#RESETS
+O 0 20502 0 20500
+O 0 20503 0 20500
+M 1 20501 2 20501 2
+E 0 20501 0 16
+M 1 20503 1 20503 1
+S
+
+
+
+#SHOPS
+20503 0 0 0 0 0 200 50 0 24
+0
+
+
+
+#$

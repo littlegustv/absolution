@@ -1,0 +1,1024 @@
+#AREADATA
+Name Wolven Mining Camp~
+Builders Elisa~
+VNUMs 18400 18549
+Credits { None} Talos       Wolven Mining Camp~
+Security 1
+Xcontinent 1
+Age 12
+Questable 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#18400
+{DFountain{x~
+fountain~
+A marble fountin is here~
+marble~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#18432
+east courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18436
+D1
+~
+~
+0 0 18433
+D2
+~
+~
+0 0 18434
+D3
+~
+~
+0 0 18431
+S
+#18433
+between buildings~
+~
+0 0 0
+D3
+~
+~
+0 0 18432
+S
+#18434
+south east courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18432
+D1
+~
+~
+0 0 18427
+D3
+~
+~
+0 0 18428
+S
+#18435
+cliff face~
+~
+0 0 0
+D1
+~
+~
+0 0 18436
+D2
+~
+~
+0 0 18431
+D3
+~
+~
+0 0 18438
+S
+#18436
+north east corner of courtyard~
+~
+0 0 0
+D1
+~
+~
+0 0 18437
+D2
+~
+~
+0 0 18432
+D3
+~
+~
+0 0 18435
+S
+#18437
+the vault~
+~
+0 0 0
+D3
+~
+~
+0 0 18436
+S
+#18438
+north east corner courtyard~
+~
+0 0 0
+D1
+~
+~
+0 0 18435
+D2
+~
+~
+0 0 18430
+D3
+~
+~
+0 0 18439
+S
+#18439
+mine entrance~
+~
+0 0 0
+D0
+~
+~
+0 0 18440
+D1
+~
+~
+0 0 18438
+D2
+~
+~
+0 0 18421
+D3
+~
+~
+0 0 18425
+S
+#18440
+guard post~
+~
+0 0 0
+D0
+~
+~
+0 0 18441
+D2
+~
+~
+0 0 18439
+S
+#18441
+hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 18442
+D1
+~
+~
+0 0 18445
+D2
+~
+~
+0 0 18440
+S
+#18442
+quarters hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 18447
+D1
+~
+~
+0 0 18446
+D2
+~
+~
+0 0 18441
+D3
+~
+~
+0 0 18443
+S
+#18443
+supervisors office~
+~
+0 0 0
+D1
+~
+~
+0 0 18442
+D2
+~
+~
+0 0 18444
+S
+#18444
+supervisors quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 18443
+S
+#18445
+captains quarters~
+~
+0 0 0
+D3
+~
+~
+0 0 18441
+S
+#18446
+guards quarters~
+~
+0 0 0
+D3
+~
+~
+0 0 18442
+S
+#18447
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18449
+D2
+~
+~
+0 0 18442
+D3
+~
+~
+0 0 18448
+S
+#18448
+supply room~
+~
+0 0 0
+D1
+~
+~
+0 0 18447
+S
+#18449
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18450
+D2
+~
+~
+0 0 18447
+D3
+~
+~
+0 0 18453
+S
+#18450
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18452
+D2
+~
+~
+0 0 18451
+D3
+~
+~
+0 0 18449
+S
+#18451
+1st level supervisors office~
+~
+0 0 0
+D0
+~
+~
+0 0 18450
+S
+#18452
+mine shaft elevator~
+~
+0 0 0
+D3
+~
+~
+0 0 18450
+S
+#18453
+1st lvl mine~
+~
+0 0 0
+D1
+~
+~
+0 0 18449
+D2
+~
+~
+0 0 18454
+S
+#18454
+mine tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 18453
+D2
+~
+~
+0 0 18455
+S
+#18455
+mine intersection~
+~
+0 0 0
+D0
+~
+~
+0 0 18454
+D2
+~
+~
+0 0 18456
+D3
+~
+~
+0 0 18465
+S
+#18456
+mine tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 18455
+D2
+~
+~
+0 0 18457
+S
+#18457
+mine corner~
+~
+0 0 0
+D0
+~
+~
+0 0 18456
+D3
+~
+~
+0 0 18458
+S
+#18458
+intersection 2~
+~
+0 0 0
+D0
+~
+~
+0 0 18462
+D1
+~
+~
+0 0 18457
+D2
+~
+~
+0 0 18459
+D3
+~
+~
+0 0 18460
+S
+#18459
+cave in~
+~
+0 0 0
+D0
+~
+~
+0 0 18458
+S
+#18460
+mine tunnel~
+~
+0 0 0
+D1
+~
+~
+0 0 18458
+D3
+~
+~
+0 0 18461
+S
+#18461
+end of tunnel~
+~
+0 0 0
+D1
+~
+~
+0 0 18460
+S
+#18462
+between 3rd 2nd intersections~
+~
+0 0 0
+D0
+~
+~
+0 0 18464
+D2
+~
+~
+0 0 18458
+S
+#18464
+intersection 3~
+~
+0 0 0
+D1
+~
+~
+0 0 18465
+D2
+~
+~
+0 0 18462
+S
+#18465
+between intersection intersection3~
+~
+0 0 0
+D1
+~
+~
+0 0 18455
+D3
+~
+~
+0 0 18464
+S
+#18466
+Tavern Tent~
+Operated by an entrepreneurial merchant, this watering hole is the
+favorite recreation spot for most of the off-duty guards.  The ale is not
+watered, and the food is better cooked and of a wider variety than that
+available within the encampment.  
+~
+0 0 0
+D2
+~
+~
+0 0 18402
+S
+#18549
+Talos's lil corner in the cliff~
+This airy loft inside the cliff face has an excellent view of the
+surrounding area.  
+~
+0 4 0
+M 300 H 300
+S
+#18400
+Eli's info room~
+{MTerra               {BDominia{x
+Seeker  - 10804     - 23302
+Kindred - 10604     - 23002
+Justice - 10754     - 23202
+Venari  - 23102     - 10654
+Kenshi  - 23401     - 1255
+ 
+Tourney - 8299      - 10199
+Mutiny  - 8298
+~
+0 40964 3
+S
+#18401
+Before the clearing~
+To the west you can start to make out what appears to be a clearing.  To
+the east the road continues into the forest.  You also get the feeling that
+something or someone is watching you, but you can't seem to catch a glimpse.
+~
+0 0 3
+D3
+~
+~
+0 0 18402
+S
+#18402
+Outer camp~
+Recognizing that the well paid soldiers operating the mine are a
+lucrative source of revenue, an increasing number of merchants have been
+setting up their tents and stalls.  One in particular is a boistrous long
+tent to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 18466
+D1
+~
+~
+0 0 18401
+D3
+~
+~
+0 0 18403
+S
+#18403
+Outer gate~
+To the north lies the mining encampment.  A high palisade encircles the
+camp.  The groves in the road clearly lead into the camp.  
+~
+0 0 0
+D0
+~
+~
+0 0 18404
+D1
+~
+~
+0 0 18402
+S
+#18404
+Main Gate~
+This gate is built into the wooden palisade walls which encicle the main
+camp.  The gate is made of steel, and opens inwards.  
+~
+0 0 0
+D0
+~
+~
+0 0 18405
+D2
+~
+~
+0 0 18403
+S
+#18405
+inside the gate~
+~
+0 0 0
+D0
+~
+~
+0 0 18424
+D1
+~
+~
+0 0 18406
+D2
+~
+~
+0 0 18404
+D3
+~
+~
+0 0 18412
+S
+#18406
+outer west courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18428
+D1
+~
+~
+0 0 18426
+D3
+~
+~
+0 0 18405
+D4
+~
+~
+0 0 18407
+S
+#18407
+palisade~
+~
+0 0 0
+D1
+~
+~
+0 0 18408
+D5
+~
+~
+0 0 18406
+S
+#18408
+palisade~
+~
+0 0 0
+D1
+~
+~
+0 0 18409
+D3
+~
+~
+0 0 18407
+S
+#18409
+east corner~
+~
+0 0 0
+D0
+~
+~
+0 0 18410
+D3
+~
+~
+0 0 18408
+S
+#18410
+palisade~
+~
+0 0 0
+D0
+~
+~
+0 0 18411
+D2
+~
+~
+0 0 18409
+S
+#18411
+end of palisade~
+~
+0 0 0
+D2
+~
+~
+0 0 18410
+S
+#18412
+n outer west courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18420
+D1
+~
+~
+0 0 18405
+D3
+~
+~
+0 0 18417
+D4
+~
+~
+0 0 18413
+S
+#18413
+Guard Platform~
+~
+0 0 0
+D3
+~
+~
+0 0 18414
+D5
+~
+~
+0 0 18412
+S
+#18414
+Along the Palaside~
+Along this part of the palisade you can make out the kitchen and mess
+hall below.  The palisade continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 18413
+D3
+~
+~
+0 0 18415
+S
+#18415
+palaisade corner~
+~
+0 0 0
+D0
+~
+~
+0 0 18416
+D1
+~
+~
+0 0 18414
+S
+#18416
+Cliff face~
+The palisade ends at the cliff face.  
+~
+0 0 0
+D2
+~
+~
+0 0 18415
+S
+#18417
+Mess Hall~
+Benchs and tables littered with half eaten food litter this portion of
+the building.  
+~
+0 0 0
+D1
+~
+~
+0 0 18412
+D3
+~
+~
+0 0 18418
+S
+#18418
+Kitchen~
+~
+0 0 0
+D0
+~
+~
+0 0 18419
+D1
+~
+~
+0 0 18417
+S
+#18419
+Grain storehouse~
+This is where the camps grains and other foodstuffs are stored.  
+~
+0 0 0
+D1
+~
+~
+0 0 18420
+D2
+~
+~
+0 0 18418
+S
+#18420
+courtyard nook~
+~
+0 0 0
+D0
+~
+~
+0 0 18421
+D1
+~
+~
+0 0 18424
+D2
+~
+~
+0 0 18412
+D3
+~
+~
+0 0 18419
+S
+#18421
+Woodworking Shop~
+Here heavy wooden supports are fashioned from timber cut from the
+surounding hillsides.  Tool handles, benches, carts, and additional gutter
+track are also constructed here.  
+~
+0 0 0
+D0
+~
+~
+0 0 18439
+D2
+~
+~
+0 0 18420
+D3
+~
+~
+0 0 18422
+S
+#18422
+Lumber Storehouse~
+Piles of lumber are stored here in various lengths.  
+~
+0 0 0
+D0
+~
+~
+0 0 18425
+D1
+~
+~
+0 0 18421
+D4
+~
+~
+0 0 18423
+S
+#18423
+Office~
+This small office looks more like a worker's lounge.  Two couchers, four
+chairs, a long table, a small end table, and shelves on the west wall
+decorate he room.  
+~
+0 0 0
+D5
+~
+~
+0 0 18422
+S
+#18424
+southeast courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18430
+D1
+~
+~
+0 0 18428
+D2
+~
+~
+0 0 18405
+D3
+~
+~
+0 0 18420
+S
+#18425
+Tool Storage Shed~
+Neatly stacked are axe/pick handles, picks, and shovels 
+~
+0 0 0
+D1
+~
+~
+0 0 18439
+D2
+~
+~
+0 0 18422
+S
+#18426
+stables~
+~
+0 0 0
+D0
+~
+~
+0 0 18427
+D3
+~
+~
+0 0 18406
+S
+#18427
+blacksmith~
+~
+0 0 0
+D2
+~
+~
+0 0 18426
+D3
+~
+~
+0 0 18434
+S
+#18428
+south courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18431
+D1
+~
+~
+0 0 18434
+D2
+~
+~
+0 0 18406
+D3
+~
+~
+0 0 18424
+S
+#18429
+east courtyard~
+~
+0 4 0
+S
+#18430
+east courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18438
+D1
+~
+~
+0 0 18431
+D2
+~
+~
+0 0 18424
+S
+#18431
+Camp Well~
+~
+0 0 0
+D0
+~
+~
+0 0 18435
+D1
+~
+~
+0 0 18432
+D2
+~
+~
+0 0 18428
+D3
+~
+~
+0 0 18430
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+O 0 18400 0 18549
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

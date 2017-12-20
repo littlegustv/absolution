@@ -1,0 +1,1995 @@
+#AREADATA
+Name Cyric's Realm~
+Builders None~
+VNUMs 6900 6999
+Credits {40 51} Therion     Cyric's Realm~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#6900
+priest cyric~
+the priest of Cyric~
+A priest of Cyric stands here, praying his god.
+~
+The priest of Cyric didn't even notice you. He 
+has only one goal in his life: to serve Cyric!
+~
+human~
+ABCGQ DFO -1000 0
+40 1 15d10+1850 1d1+499 4d9+14 wrath
+-13 -13 -13 -8
+FKU 0 0 0
+stand stand male 1600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6901
+priestess cyric high~
+the high priestess of Cyric~
+The high priestess of Cyric stands here, in meditation.
+~
+The Priestess of Cyric is wearing a long black robe with cyric's symbol
+on it.  She is a beautiful black dragon.  To serve Cyric and herself is her
+goal.  
+~
+black dragon~
+ABCGQ BDFHOTZ -1000 0
+50 1 50d10+4500 1d1+499 5d9+20 punch
+-20 -20 -20 -14
+EFK 0 BEK L
+stand stand female 2100
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#6902
+cyric avata vicious~
+an avatar of Cyric~
+An avatar of Cyric stands here, a large vicious smile on his lips.
+~
+The avatar looks like Cyric, HE IS Cyric.  No, he is just a
+representation far less powerful than the real ONE.  
+~
+human~
+ABCFGR DFHOTU -1000 0
+54 1 50d10+6500 1d1+100 7d7+23 divine
+-24 -24 -24 -18
+EFHK 0 0 0
+stand stand male 4100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6903
+worshipper mystra~
+a worshipper of Mystra~
+A worshipper of Mystra is praying here, waiting to be taken to paradise.
+~
+The worshipper can't stop praying to Mystra, the goddess of magic.
+~
+human~
+ACGR BDHT 1000 0
+42 2 25d10+2250 1d1+100 3d13+15 magic
+-14 -14 -14 -9
+EFKN 0 0 0
+stand stand male 2100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6904
+worshipper torm~
+a worshipper of Torm~
+A worshipper of Torm is praying here, waiting to be taken to paradise.
+~
+The worshipper seems to be in a trance, living again great battles.  
+~
+human~
+ACGT DHNV 1000 0
+41 0 25d10+2000 1d1+100 4d9+15 cleave
+-14 -14 -14 -8
+CDEFIJKN 0 0 0
+stand stand male 1900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6905
+marut~
+the Marut~
+The Marut flies here, taking souls to their paradise.
+~
+The Marut is sent by the gods to take their worshippers's souls to their
+realm.  
+~
+human~
+AGRT DFHNT 1000 0
+50 0 50d10+4500 1d1+100 5d9+20 thrust
+-20 -20 -20 -15
+AEFHKQ 0 0 0
+stand stand none 4100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6906
+creature monster strange ~
+a strange-looking creature~
+A strange-looking creature is here, waiting for new souls to come.
+~
+The creature is a mixure of a man, a hatchling,
+a dog... well a mixture of about ten animals.
+~
+pig~
+ACGHS Z -1000 0
+44 1 25d10+2750 1d1+100 8d5+16 charge
+-15 -15 -15 -11
+BCDEFIJKLNU 0 0 0
+stand stand none 1900
+AGHMV ABCDEFHJK medium 0 the guilds~
+#6907
+creature strange  monster~
+a strange-looking creature~
+A strange-looking creature is here, waiting for new souls to come.
+~
+The creature is a mixure of a man, a hatchling,
+a dog... well a mixture of about ten animals.
+~
+pig~
+AGS DZ -1000 0
+45 1 25d10+3000 1d1+100 8d5+17 claw
+-15 -15 -15 -11
+BCEFKU 0 0 0
+stand stand none 2700
+AGHMV ABCDEFHJK medium 0 the guilds~
+#6908
+guard skeletal~
+the skeletal guard~
+The skeletal guard stands here.
+~
+The skeletal guard is here for one thing: to guard; nothing else.  
+~
+human~
+ABCGT DFOVZ -1000 0
+40 0 15d10+1850 1d1+100 4d9+15 pound
+-13 -13 -13 -8
+CDEFIJKNU 0 0 0
+stand stand none 1100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6909
+slith creature~
+a Slith creature~
+A creature from the Slith is here.
+~
+This creature is what can be called a Thing.  No real form, a sort of
+blob...  But aggressive.  
+~
+water fowl~
+ABCFGT DFOTZ -1000 0
+47 0 25d10+3500 1d1+100 6d7+18 suction
+-17 -17 -17 -12
+DEKNO 0 R 0
+stand stand female 1900
+AGHMVW ABCDEFHKP medium 0 the guilds~
+#6910
+horror creature ~
+the Horror~
+The Horror is here eating a soul.
+~
+The Horror is torturing then killing poor souls who arrived here.  If
+there is life after death, surely there is death after death.  
+~
+human~
+ABCFGT DFOTZ -1000 0
+51 1 50d10+5000 1d1+100 5d9+22 smash
+-21 -21 -21 -16
+K 0 0 0
+stand stand none 2100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6911
+kaass man~
+Kaass~
+A man is here, sitting behind a desk.
+~
+Kaass is seeking a way to return to the real world and kill Vecna.  He is
+a tall and beautiful man with long black hair.  A sword on his side.  
+~
+human~
+ABCFGQT BDFOTVZ -1000 0
+52 1 50d10+5500 1d1+100 6d7+22 punch
+-22 -22 -22 -17
+DEFK 0 0 0
+stand stand male 4200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6912
+dendar snake~
+Dendar, the snake of darkness~
+A huge snake with two yellow eyes is here.
+~
+Dendar is the snake of darkness.  Two yellow eyes, a square mouth, his
+scale reflecting a thousand of dark and hypnotic shades.  
+~
+snake~
+ACGT DFOPQZ -1000 0
+55 1 50d10+7000 1d1+100 10d5+25 bite
+-25 -25 -25 -19
+AEFHK 0 L I
+stand stand male 4500
+AGHMVXYc ABCDEFKLQVX medium 0 the guilds~
+#6913
+hound chaos huge kezef~
+Kezef, the huge hound~
+Kezef the huge chaos hound is here, growling.
+~
+Kezef looks like a huge dog, his fur swarming with maggots.  
+~
+dog~
+ABCFGT DFHOPQZ -1000 0
+59 1 50d10+9000 1d1+100 8d7+28 chomp
+-29 -29 -29 -23
+DEFH AB 0 0
+stand stand male 4600
+AGHMV ABCDEFHJKUV medium 0 the guilds~
+#6914
+Kelemvor man warrior~
+Kelemvor the warrior~
+A tall man stands here, counting steps.
+~
+Kelemvor is imprisoned here.  He is counting steps to not forget the
+"walls" in his imagination.  
+~
+human~
+ABCGT DHNT 1000 0
+51 1 50d10+5000 1d1+100 5d9+22 punch
+-21 -21 -21 -16
+CDEFHIJKN 0 0 0
+stand stand male 5600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6915
+demon tanar'ri~
+the Tanar'ri~
+A huge demon with large wings stands here.
+~
+The Tanar'ri must be the most dangerous race of Demons.  He is tall, has
+black horns and large wings.  A cruel smile on his lips...  "Fresh Meat".  
+~
+human~
+ABCFGT DOTVZ -1000 0
+52 1 50d10+5500 1d1+100 6d8+22 blast
+-22 -22 -22 -18
+DEFK 0 0 0
+stand stand male 5500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6916
+seneschal jergal lich undead~
+Jergal~
+The seneschal is here behind his lectern.
+~
+Jergal has yellow eyes; his body seems only to be a cape filled with a
+floating shadow.  
+~
+human~
+ABCGHOR DFHOTVZ -1000 0
+57 2 50d10+8000 1d1+100 6d9+26 drain
+-27 -27 -27 -22
+EFKR 0 0 0
+stand stand male 6100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6917
+cyric god lies prince~
+Cyric~
+Cyric the Prince of Lies is here.
+~
+Cyric is a slim man with a hooked nose.  He is wearing a blood-red tunic
+with his emblem on it: a skull in a black sun.  The only sign of power on
+him is a large diadem on his head.  
+~
+human~
+ABCGRS DFHOPTUZ -1000 0
+60 2 50d10+9500 1d1+499 8d8+28 divine
+-30 -30 -30 -26
+AFHKR 0 0 0
+stand stand male 6500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#6900
+robe black long~
+a long black robe~
+A black robe with Cyric's symbol on it, lies here.~
+silk~
+armor AEGJS AK
+10 10 10 5 0
+47 40 1100 P
+A
+3 1  
+A
+12 40  
+A
+18 1  
+#6901
+dagger black crystal~
+a black crystal dagger~
+A black crystal dagger rests here.~
+crystal~
+weapon ABEGLSY AN
+dagger 5 8 blast 0
+46 50 2200 P
+A
+12 10  
+A
+2 1  
+A
+1 -1  
+A
+24 -1  
+#6902
+ring cyric symbol~
+a symbol of Cyric~
+A symbol lies here.~
+silver~
+armor AGLU AB
+4 5 5 1 0
+47 10 2400 P
+A
+24 -2  
+A
+19 1  
+A
+18 2  
+E
+symbol ring cyric~
+The symbol of Cyric shows a skull in a black sun.~
+#6903
+bright blue wand~
+a bright blue wand~
+A blue wand is here, on the ground.~
+clay~
+wand BSY AO
+40 4 2 'chain lightning' 0
+35 50 2000 P
+#6904
+axe loyalty~
+an axe of loyalty~
+A huge double edged axe hangs here.~
+mithril~
+weapon BGKY AN
+axe 5 7 crush F
+41 90 2200 P
+A
+19 1  
+A
+1 1  
+#6905
+golden breastplate~
+a golden breastplate~
+A breastplate rests here.~
+gold~
+armor BFG AD
+12 10 10 8 0
+45 80 4400 P
+A
+14 -20  
+A
+12 -20  
+A
+18 3  
+A
+19 2  
+#6906
+ivory staff tranquility~
+a staff of tranquility~
+A long ivory staff lies here.~
+ivory~
+staff FGSY AO
+40 4 3 'calm' 0
+45 20 5400 P
+#6907
+spear bone thin~
+a thin bone spear~
+A spear, made of bone, is here.~
+bone~
+weapon BEGJS AN
+exotic 4 8 none B
+40 20 1900 P
+A
+18 1  
+A
+19 -2  
+#6908
+soul servant~
+a servant soul~
+A servant soul awaits your command here.~
+energy~
+npc_corpse GSY AQY
+0 0 0 0 0
+50 40 0 P
+A
+18 1  
+A
+19 1  
+A
+12 25  
+#6909
+sword kaass adamantite~
+the sword of Kaass~
+A sword crafted in pure adamantite rests here.~
+adamantite~
+weapon AG AN
+sword 5 7 slice I
+49 90 2500 P
+A
+18 -1  
+A
+2 1  
+A
+13 20  
+#6910
+scales dendar~
+the scales of Dendar~
+Some scales are floating here.~
+snakeskin~
+armor ABEGHMQS AF
+10 10 10 3 0
+47 300 2600 P
+A
+19 1  
+A
+13 10  
+A
+2 1  
+#6911
+nightmare endless~
+an endless nightmare~
+An endless nightmare is floating near the ground.~
+energy~
+treasure AEGSY AQ
+0 0 0 0 0
+50 20 1100 P
+A
+19 1  
+A
+13 15  
+A
+24 -1  
+#6912
+collar kezef~
+a collar of Kezef~
+The collar of a huge dog lies here.~
+steel~
+armor GMSY AC
+5 5 5 5 0
+51 40 2100 P
+A
+13 40  
+A
+2 1  
+A
+18 1  
+#6913
+teeth kezef~
+a teeth of Kezef~
+A large set of teeth are here.~
+bone~
+weapon BG AN
+exotic 5 8 pierce H
+49 50 3600 P
+A
+2 1  
+#6914
+gloves large bright~
+a pair of large bright gloves~
+Some large bright gloves are here on the ground.~
+electrum~
+armor G AH
+10 10 9 6 0
+44 50 3400 P
+A
+18 2  
+A
+5 -2  
+A
+1 1  
+#6915
+flask blood red potion~
+a blood-red potion~
+A flask filled with a red liquid is here.~
+glass~
+potion ABFGQS AO
+30 'cure blindness' 'cure disease' 'cure poison' '(null)'
+25 10 1800 P
+#6916
+box black~
+a black box~
+A box painted in black lies here.~
+metal~
+staff BEG AO
+40 2 2 'dispel magic' 0
+45 20 2200 P
+A
+3 1  
+#6917
+scroll recognition~
+a scroll of recognition~
+A scroll lies here, it seems to be written on a high quality parchment.~
+parchment~
+scroll G AO
+30 'detect magic' 'detect invis' '(null)' '(null)'
+0 20 1900 P
+E
+scroll recognition~
+As you read the scroll of recognition, you are filled with
+uh, recognition, that the scroll contains more than simple
+magic spells, but is also the key to a powerful crafted
+artifact for spellcasters known as the "blessed
+token of the moon light" which can substantially increase
+their magical powers.
+ 
+To craft this artifact will require:
+a glowing moonstone
+7 flaming feathers
+circlets of wonder
+50 midgaard diamonds
+ 
+Good Luck!
+~
+#6918
+hand jergal~
+a hand of Jergal~
+A hand lies here, cut from its original body.~
+bone~
+trash BEGLY AO
+0 0 0 0 0
+50 10 2200 P
+A
+24 -2  
+A
+13 20  
+A
+12 20  
+#6919
+diadem Cyric~
+the diadem of Cyric~
+A beautiful diadem made of crystal lies here.~
+crystal~
+armor AEFGSU AE
+5 4 4 6 0
+51 40 3000 P
+A
+13 30  
+A
+18 2  
+#6920
+bane gods sword~
+the bane of the gods~
+A sword rests here, its blade coloured in pink-red.~
+energy~
+weapon ABGH ANY
+exotic 4 9 none BC
+50 60 3400 P
+A
+18 2  
+E
+bane gods sword~
+This rare and exotic weapon is capable of incredible things far beyond
+what Cyric intended it for. Merge with 10 bars of adamantite and a glowing
+brainstone, you could forge "adamantite spiked knuckles asura fist".
+ 
+Good luck!
+~
+#6921
+grey key~
+a grey key~
+A grey key is here.~
+metal~
+key 0 AO
+0 0 0 0 0
+0 1 0 P
+#6922
+key soul~
+a soul key~
+A humming key lies here.~
+metal~
+key BP AO
+0 0 0 0 0
+0 10 0 P
+#6923
+cells key~
+a cell's key~
+A little pink key lies here.~
+metal~
+key 0 AO
+0 0 0 0 0
+0 10 0 P
+#6924
+sheath sword~
+the sword sheath of Cyric~
+A sheath has been left on the ground.~
+energy~
+key AESTUY AL
+0 0 0 0 0
+45 30 0 P
+A
+19 3  
+#6925
+portal black gate~
+a black portal~
+A black gate leading to nowhere rises from the ground.~
+stone~
+portal ABEGSTY 0
+0 0 0 6910 0
+0 10 0 P
+#6926
+blood pool portal~
+a pool of blood~
+A pool of blood is here.~
+water~
+portal STY 0
+0 0 0 6959 0
+0 5 0 P
+#6927
+portal gate dark~
+a dark portal~
+A dark portal floats here, vibrating.~
+stone~
+portal BGSTY 0
+0 0 0 6965 0
+0 5 0 P
+#6928
+statue cyric~
+a statue of Cyric~
+A statue of Cyric stands here.~
+stone~
+furniture GSTY 0
+0 100 0 0 0
+0 5 0 P
+#6929
+altar sacrifice~
+an altar~
+A clean altar is here, until the next sacrifice.~
+stone~
+furniture STY 0
+0 150 EHK 0 0
+0 5 0 P
+#6930
+bookcase~
+a bookcase~
+A bookcase is here.~
+wood~
+container STY 0
+200 AC 0 1 100
+0 5 0 P
+#6931
+book Cyrinishad~
+the Cyrinishad~
+A large book, with a skull on its cover is here.~
+energy~
+trash ABEGSY AO
+0 0 0 0 0
+19 20 0 P
+A
+4 2  
+A
+3 1  
+E
+cyrinishad book~
+This book is the 397th version of the history of 
+Cyric the great. It is written on human skin so 
+take care of it.~
+#6932
+whip despair tanarri~
+a whip of despair~
+A huge whip crackling of energy floats here.~
+leather~
+weapon BHM ANY
+whip 6 5 sting AG
+44 70 2500 P
+A
+18 -2  
+A
+19 -2  
+E
+whip despair tanarri~
+This whip possesses a strong magical aura already, but with the addition
+of a brain stone it could become many times more mighty.  To awaken the
+tanarri intelligence contained in the whip, you must craft it together with
+a brain stone to create the "diamond back barbed whip", a weapon worthy of
+being wielded by the demonic tanarri, and definitely by you!  
+ 
+Good luck!
+~
+#6969
+psionic energy matrix sheath starcrossed latrommi prize~
+A {Cpsionic-{Benergy{W matrix{x~
+A bundle of psionic energy hovers here.~
+mental~
+sheath ABTYe AFZ
+staff 7 'feeblemind' 10018
+51 30 10000 P
+A
+19 2  
+A
+18 2  
+#6970
+suspicious bulge sheath~
+A {Dsuspicious-{glooking{m bulge{x~
+A suspicious looking bulge lies here, concealed in a sleeve.~
+cloth~
+sheath ABTYe AMZ
+dagger 2 0 8312
+51 30 10000 P
+A
+1 1  
+A
+18 2  
+A
+19 2  
+#0
+
+
+
+#ROOMS
+#6900
+A path to the temple~
+You are walking a small path.  It seems not to be used very often.  East
+you notice a huge building, north the path continues.  A sign is here on a
+tree.  
+~
+0 0 2
+E
+sign~
+Beware strangers because you enter the Kingdom of Cyric, the Prince of
+Lies.  This quest shall only bring you death and pain if you are not up
+to it...  Don't foreget you enter the realm of a god.
+ 
+This area is inspired from the book 'The Prince of Lies' (James Lowder).
+Enjoy.
+ 
+Therion
+
+~
+D0
+~
+~
+0 0 31443
+D1
+~
+~
+0 0 6901
+S
+#6901
+The Temple of Cyric~
+You are standing before a huge temple built of marble.  Five columns rise
+up to the sky, supporting a heavy roof.  Marble steps lead inside the
+temple.  You can return to the path by heading west.
+~
+0 0 2
+D1
+~
+~
+0 -1 6902
+D3
+~
+~
+0 0 6900
+S
+#6902
+Inside the Temple ~
+You are in the center of Cyric's temple, there are a few worshippers
+praying here.  You notice that the symbol of Cyric is carved on the floor; a
+skull in a black sun.  You hear prayers and chants coming from the north and
+south.  East is the Altar.  
+~
+0 8200 0
+D0
+~
+~
+0 -1 6906
+D1
+~
+~
+0 -1 6903
+D2
+~
+~
+0 -1 6905
+D3
+~
+~
+0 -1 6901
+S
+#6903
+The Altar~
+You are standing in a small chapel.  On the walls are paintings depicting
+Cyric killing Myrkul and Baine.  West is the temple, east lies a statue.  
+~
+0 8200 0
+D1
+~
+~
+0 -1 6904
+D3
+~
+~
+0 -1 6902
+S
+#6904
+The statue~
+You are standing in a dark place.  Only two things light the room, a
+statue of Cyric and what seems to be a portal.  This is the place priests
+come to sing chants in honor of their unholy god, the Price of Lies.
+~
+0 9 0
+D3
+~
+~
+0 -1 6903
+D5
+~
+trapdoor~
+1 0 6908
+S
+#6905
+Right Wing of the Temple~
+You are in the right wing of Cyric's Temple.  Normally a few worshippers
+are praying here.  You notice that the symbol of Cyric is carved on the
+floor; a skull in a black sun.  You hear prayers and chants coming from the
+north.
+~
+0 8200 0
+D0
+~
+~
+0 -1 6902
+S
+#6906
+Left Wing of the Temple~
+You are in the left wing of Cyric's Temple.  Normally some worshippers are
+praying here.  You notice that the symbol of Cyric is carved on the floor; a
+skull in a black sun.  You hear prayers and chants coming from the south, to
+north is a room.  
+~
+0 8200 0
+D0
+~
+~
+0 -1 6907
+D2
+~
+~
+0 -1 6902
+S
+#6907
+Priests room~
+You have entered a room with pictures of slaughters and Mayhems on the
+wall.  One thing catchs your eyes: a book in the middle of the room.  
+~
+0 8201 0
+D2
+~
+~
+0 -1 6906
+S
+#6908
+Down the statue~
+You are below the statue of Cyric.  A torch lights the black walls. 
+Strange symbols are carved on the walls.  A little passage leads north to a
+room.  
+~
+0 8201 0
+D0
+~
+~
+0 -1 6909
+D4
+~
+trapdoor~
+1 0 6904
+S
+#6909
+Avatar's room~
+You are in a very dark room.  You can only see two red eyes glowing. 
+Suddenly the room lights.  
+~
+0 8200 0
+D2
+~
+~
+0 -1 6908
+S
+#6910
+Running Away Plain~
+You are standing in a strange place.  A landscape of meadows undulates
+around you.  There are many people here walking and praying to their gods. 
+You see groups of worshippers to Mystra and Torm.  Every now and them, a
+Marut appears and takes them to their paradise.  You feel completely lost
+here.  
+~
+0 0 2
+D0
+~
+~
+0 -1 6915
+D1
+~
+~
+0 -1 6912
+D3
+~
+~
+0 -1 6913
+S
+#6911
+Running Away Plain~
+You are standing in a strange place.  A landscape of meadows undulates
+around you.  There are many people here walking and praying to their gods. 
+You see groups of worshippers to Mystra and Torm.  Every now and them, a
+Marut appears and takes them to their paradise.  You feel completely lost
+here.  
+~
+0 0 2
+D0
+~
+~
+0 -1 6914
+D1
+~
+~
+0 -1 6910
+D2
+~
+~
+0 -1 6913
+D3
+~
+~
+0 -1 6916
+S
+#6912
+Running Away Plain~
+You are standing in a strange place.  A landscape of meadows undulates
+around you.  There are many people here walking and praying to their gods. 
+You see groups of worshippers to Mystra and Torm.  Every now and them, a
+Marut appears and takes them to their paradise.  You feel completely lost
+here.  
+~
+0 0 2
+D1
+~
+~
+0 -1 6915
+D2
+~
+~
+0 -1 6917
+D3
+~
+~
+0 -1 6911
+S
+#6913
+Running Away Plain~
+You are standing in a strange place.  A landscape of meadows undulates
+around you.  There are many people here walking and praying to their gods. 
+You see groups of worshippers to Mystra and Torm.  Every now and them, a
+Marut appears and takes them to their paradise.  You feel completely lost
+here.  
+~
+0 0 2
+D0
+~
+~
+0 -1 6910
+D1
+~
+~
+0 -1 6916
+S
+#6914
+Running Away Plain~
+You are standing in a strange place.  A landscape of meadows undulates
+around you.  There are many people here walking and praying to their gods. 
+You see groups of worshippers to Mystra and Torm.  Every now and them, a
+Marut appears and takes them to their paradise.  You feel completely lost
+here.  
+~
+0 0 2
+D0
+~
+~
+0 -1 6915
+D1
+~
+~
+0 -1 6918
+D2
+~
+~
+0 -1 6912
+S
+#6915
+Running Away Plain~
+You are standing in a strange place.  A landscape of meadows undulates
+around you.  There are many people here walking and praying to their gods. 
+You see groups of worshippers to Mystra and Torm.  Every now and them, a
+Marut appears and takes them to their paradise.  You feel completely lost
+here.  
+~
+0 0 2
+D1
+~
+~
+0 -1 6912
+D2
+~
+~
+0 -1 6913
+S
+#6916
+Running Away Plain~
+You are standing in a strange place.  A landscape of meadows undulates
+around you.  There are many people here walking and praying to their gods. 
+You see groups of worshippers to Mystra and Torm.  Every now and them, a
+Marut appears and takes them to their paradise.  You feel completely lost
+here.  
+~
+0 0 2
+D0
+~
+~
+0 -1 6917
+D3
+~
+~
+0 -1 6910
+S
+#6917
+Running Away Plain~
+You are standing in a strange place.  A landscape of meadows undulates
+around you.  There are many people here walking and praying to their gods. 
+You see groups of worshippers to Mystra and Torm.  Every now and them, a
+Marut appears and takes them to their paradise.  You feel completely lost
+here.  
+~
+0 0 2
+D0
+~
+~
+0 -1 6910
+D2
+~
+~
+0 -1 6915
+D3
+~
+~
+0 -1 6915
+S
+#6918
+Running Away Plain~
+You are standing in a strange place.  A landscape of meadows undulates
+around you.  There are many people here walking and praying to their gods. 
+You see groups of worshippers to Mystra and Torm.  Every now and them, a
+Marut appears and takes them to their paradise.  You feel completely lost
+here.  
+~
+0 0 2
+D0
+~
+~
+0 -1 6919
+D2
+~
+~
+0 -1 6912
+D3
+~
+~
+0 -1 6910
+S
+#6919
+A Path outside the Plain~
+You are walking on a large desert path.  Footprints from strange
+creatures cover the road.  Hills replace the plains.  South you can
+enter the Runnin Away Plain.  This path continues to the north.
+~
+0 4 4
+D0
+~
+~
+0 -1 6920
+D2
+~
+~
+0 -1 6918
+S
+#6920
+A path~
+You are walking a large desert path.  To the distant north, you notice
+walls of what must be a city.  More footprints cover the road here, they
+seem to glow from the essence of lost souls.  A path lies to the south,
+far to the north stands the gates of a huge city.
+~
+0 0 4
+D0
+~
+~
+0 -1 6921
+D2
+~
+~
+0 -1 6919
+S
+#6921
+Gates of the City of Conflicts~
+Sinister gates rise in front of you.  Pale high walls surround you.  As
+you approach, you notice that the walls are made with hearts.  North is a
+large avenue, west and east dark streets border the walls.  
+~
+0 0 1
+D0
+~
+~
+0 -1 6922
+D2
+~
+~
+0 -1 6920
+S
+#6922
+Avenue~
+You are in a large avenue in the city of conflicts.  On each side of the
+street are stands for skeleton guards.  Behind them are the same high
+grey buildings which can be found throughout the whole city.  North the
+Avenue continues, to the south are the city gates.
+~
+0 0 1
+D0
+~
+~
+0 -1 6923
+D1
+~
+~
+0 -1 6927
+D2
+~
+~
+0 -1 6921
+D3
+~
+~
+0 -1 6925
+S
+#6923
+Avenue~
+You are in a large avenue in the city of conflicts.  On each side of the
+street are stands for skeleton guards.  Behind them are the same high
+grey buildings which can be found throughout the whole city.  North and 
+south the Avenue continues.
+~
+0 0 1
+D0
+~
+~
+0 -1 6924
+D2
+~
+~
+0 -1 6922
+S
+#6924
+Avenue~
+You are in a large avenue in the city of conflicts.  To the south the
+Avenue continues, and to the east and west lead to the wall of the
+infidels, which borders the disgusting river Slith.  North is a bridge
+leading to a huge castle.
+~
+0 0 1
+D0
+~
+~
+0 -1 6941
+D1
+~
+~
+0 -1 6935
+D2
+~
+~
+0 -1 6923
+D3
+~
+~
+0 -1 6933
+S
+#6925
+A Dark Street~
+You are walking near the walls.  Huge grey buildings rise above the
+walls.  They are all built the same way; ten floors, square windows, a flat
+red roof.  They keep the dirty streets in darkness.  The street continues
+west, east you can enter the Avenue.  
+~
+0 1 1
+D1
+~
+~
+0 -1 6922
+D3
+~
+~
+0 -1 6926
+S
+#6926
+A Dark Street~
+You are walking near the walls.  Huge grey buildings rise above the
+walls.  They are all built the same way; ten floors, square windows, a flat
+red roof.  They keep the dirty streets in darkness.  The street continues to
+the east, to the north, you notice a door which leads inside a building.  
+~
+0 1 1
+D0
+~
+door~
+1 6921 6929
+D1
+~
+~
+0 -1 6925
+S
+#6927
+A Dark Street~
+You are walking near the walls.  Huge grey buildings rise above the
+walls.  They keep the dirty streets in darkness.  The street continues to
+the east, west you can enter the Avenue. 
+~
+0 1 1
+D1
+~
+~
+0 -1 6928
+D3
+~
+~
+0 -1 6922
+S
+#6928
+A Dark Street~
+You are walking near the walls.  Huge grey buildings rise above the
+walls. They keep the dirty streets in darkness.  On the ground you
+notice a pink-red mark.  The street continues to the west. 
+~
+0 1 1
+D3
+~
+~
+0 -1 6927
+D5
+~
+~
+0 -1 6932
+S
+#6929
+Inside the building~
+You are standing in a large room; it's empty.  Only a stairway leads to
+upper levels.  
+~
+0 9 0
+D2
+~
+door~
+1 6921 6926
+D4
+~
+~
+0 -1 6930
+S
+#6930
+5th Floor~
+You are on the 5th floor of this building; still empty.  Grey walls,
+little windows.  
+~
+0 13 0
+D4
+~
+~
+0 -1 6931
+D5
+~
+~
+0 -1 6929
+S
+#6931
+10th Floor~
+There is no view at all from here.  All the buildings are as high as this
+one.  You notice a movement behind you.  
+~
+0 268435981 0
+D5
+~
+~
+0 -1 6930
+S
+#6932
+The Pink-red Room~
+You are standing in a pink-red room.  A suave voice welcomes you: "Hi
+Dear, come to me great one, but don't forget; kill them all."  A pool
+of blood covers the floor, who knows what lies beneath it.
+~
+0 9 0
+D4
+~
+~
+0 -1 6928
+D5
+~
+blood~
+1 6924 6959
+S
+#6933
+A Dark Street~
+You are walking on a dark street, north is the Bones castle surrounded by
+the river Slith.  In all directions are the same high grey buildings.  West
+is a weird wall, the infidels wall, east you enter the Avenue.  
+~
+0 1 1
+D1
+~
+~
+0 -1 6924
+D3
+~
+~
+0 -1 6934
+S
+#6934
+Wall of the Infidels~
+You are standing in front of the infidels wall.  It's not an ordinary
+wall: lost souls are piled up, green mold covers the corpses.  Suffering and
+eternal agony is what wait you here if you don't worship any god.  North
+is a small street through this filthy city, east you enter a dark street.
+~
+0 1 1
+D0
+~
+~
+0 -1 6937
+D1
+~
+~
+0 -1 6933
+S
+#6935
+A Dark street~
+You are walking on a dark street, north is the Bones castle surrounded by
+the river Slith.  In all directions are the same high grey buildings.  East
+is a weird wall, the infidels wall, west you enter the Avenue.  
+~
+0 1 1
+D1
+~
+~
+0 -1 6936
+D3
+~
+~
+0 -1 6924
+S
+#6936
+Wall of the Infidels~
+You are standing in front of the infidels wall.  Its huge gray stones
+are almost eclipsed by a pile of rotting corpses.  West is a dark
+street.
+~
+0 1 1
+D3
+~
+~
+0 -1 6935
+S
+#6937
+A Path~
+You make your way through the rubble.  You are bordering the river Slith.
+A sort of swamp lies north of here.  
+~
+0 0 10
+D0
+~
+~
+0 -1 6938
+D2
+~
+~
+0 -1 6934
+S
+#6938
+The Swamp~
+Still bordering the river.  You are walking on a waste ground.  South is
+a path and west the swamp continues.  
+~
+0 0 10
+D2
+~
+~
+0 -1 6937
+D3
+~
+~
+0 -1 6939
+S
+#6939
+The Swamp~
+Still bordering the river.  You are walking on a waste ground, near to
+the north is a cavern.  
+~
+0 0 10
+D0
+~
+~
+0 -1 6940
+D1
+~
+~
+0 -1 6938
+S
+#6940
+The Cavern~
+Bones and remains lie on the ground.  The place is dark and you feel as
+if someone is watching you.  
+~
+0 8205 10
+D2
+~
+~
+0 -1 6939
+S
+#6941
+The Bridge~
+You are standing on a living bridge.  In front of you stand the gates of
+a beautiful palace, its walls made of diamonds.  Below is the black river
+Slith; want to enter this dirty water?  
+~
+0 1 1
+D0
+~
+~
+0 -1 6952
+D1
+~
+~
+0 -1 6943
+D2
+~
+~
+0 -1 6924
+D3
+~
+~
+0 -1 6942
+S
+#6942
+River Slith~
+Better keep your distance from the water.  Gurgling and strange noises
+come from the water, you notice strange lights under it.  
+~
+0 1 7
+D1
+~
+~
+0 -1 6941
+S
+#6943
+River Slith~
+Better keep your distance from the water.  Gurgling and strange noises
+come from the water, you notice strange lights under it.  
+~
+0 1 7
+D3
+~
+~
+0 -1 6941
+D5
+~
+~
+0 -1 6944
+S
+#6944
+Under the Water~
+You try to reach the light you saw from the surface.  You grope your way
+down until you reach the bottom.  North you notice a passage.  
+~
+0 1 6
+D0
+~
+~
+0 -1 6945
+D4
+~
+~
+0 -1 6943
+S
+#6945
+A Passage under the Water~
+At the bottom of the pool, you realize that you can breath under the
+water and see as if in broad daylight.  The passage leads north, south,
+and west.
+~
+0 9 0
+D0
+~
+~
+0 -1 6949
+D2
+~
+~
+0 -1 6944
+D3
+~
+~
+0 -1 6946
+S
+#6946
+A Passage under the Water~
+The bright underwater light makes it easy to walk though the pool.
+This passage leads west and east.
+~
+0 9 0
+D1
+~
+~
+0 -1 6945
+D3
+~
+~
+0 -1 6947
+S
+#6947
+A Passage under the Water~
+You are surprised to be able to walk and breath while underwater.  A
+bright light illuminates the passage leading east.  A strange glows
+comes from the south.
+~
+0 9 0
+D1
+~
+~
+0 -1 6946
+D2
+~
+~
+0 -1 6948
+S
+#6948
+Horror's lair~
+There is blood all over the walls, shreds of flesh everywhere.  Now you
+wonder if there can be a death after the death...  
+~
+0 8201 0
+D0
+~
+~
+0 -1 6947
+S
+#6949
+A Passage under the Water~
+You are deep in a pool of water, but for some reason you can breath 
+and see as if you were outside and above ground.  This passage leads
+south.
+~
+0 9 0
+D2
+~
+~
+0 -1 6945
+D5
+~
+door~
+4 6922 6950
+S
+#6950
+A Change~
+The environment suddenly changes.  You are now walking in a corridor; no
+more water, just black and grey stone.  East you notice a light.  
+~
+0 9 0
+D1
+~
+~
+0 -1 6951
+D4
+~
+door~
+4 6922 6949
+S
+#6951
+A Chamber~
+After a while you enter a little room lit by two candles.  
+~
+0 8 0
+D3
+~
+~
+0 -1 6950
+S
+#6952
+Entrance of the Palace~
+You are entering a large palace with diamond walls.  From here you can
+hear lamentations from tortured souls.  You feel all the evil of this place.
+North you enter the courtyard, south is the Bridge.  
+~
+0 0 1
+D0
+~
+~
+0 -1 6953
+D2
+~
+~
+0 -1 6941
+S
+#6953
+Center Courtyard~
+You are standing in a large courtyard inside the diamond walls.  Here you
+can see the blood red sky.  The Bones castle rises up before you.  Towers
+thrust up into the sky.  East and west the courtyard continues.  North you
+enter the castle.  
+~
+0 0 1
+D0
+~
+door~
+1 -1 6956
+D1
+~
+~
+0 -1 6955
+D2
+~
+~
+0 -1 6952
+D3
+~
+~
+0 -1 6954
+S
+#6954
+West Wing~
+You are standing in a large courtyard inside the diamond walls.  Here you
+can see the blood red sky.  The Bones castle rises up before you.  Towers
+thrust up into the sky.  East is the center courtyard.  
+~
+0 0 1
+D1
+~
+~
+0 -1 6953
+S
+#6955
+West Wing~
+You are standing in a large courtyard inside the diamond walls.  Here you
+can see the blood red sky.  The Bones castle rises up before you.  Towers
+thrust up into the sky.  West is the center courtyard.  
+~
+0 0 1
+D3
+~
+~
+0 -1 6953
+S
+#6956
+Entrance Hall~
+You are in the entrance hall of the Bones castle, its floor is made of
+crystal.  The walls are made with bones; they are covered with coloured
+tapestries woven by the drows.  North is a large room.  
+~
+0 8 0
+D0
+~
+~
+0 -1 6957
+D2
+~
+door~
+1 -1 6953
+S
+#6957
+The Throne Room~
+You are standing in a large room, the only furniture you see are a
+lectern and a throne.  West is a little room, south leads to the entrance
+hall.  
+~
+0 8201 0
+E
+throne~
+The throne used to be a beautiful one. But it 
+has been mostly destroyed.~
+D2
+~
+~
+0 -1 6956
+D3
+~
+~
+0 -1 6958
+S
+#6958
+The Portal~
+You are standing in a dark little room.  The only exit is apparently
+east, into the Throne room.  
+~
+0 9 0
+D1
+~
+~
+0 -1 6957
+S
+#6959
+A Corridor~
+You are in a narrow corridor.  You notice the absolute silence which
+reigns here.  North the corridor continues.  
+~
+0 9 0
+D0
+~
+~
+0 -1 6960
+S
+#6960
+A Corridor~
+You are in a narrow corridor.  You notice the absolute silence which
+reigns here.  South the corridor continues, north is a white door.  
+~
+0 9 0
+D0
+~
+door~
+2 6923 6961
+D2
+~
+~
+0 -1 6959
+S
+#6961
+Translucent room~
+You are standing in a place with no walls.  All is white or translucent. 
+You feel trapped in this place.  The room continues north and east, south
+leads to a corridor.  
+~
+0 8200 0
+D0
+~
+~
+0 -1 6962
+D1
+~
+~
+0 -1 6964
+D2
+~
+door~
+2 6923 6960
+S
+#6962
+Translucent room~
+You are standing in a place with no walls.  All is white or translucent. 
+You feel trapped in this place.  The room continues south and east.  
+~
+0 8200 0
+D1
+~
+~
+0 -1 6963
+D2
+~
+~
+0 -1 6961
+S
+#6963
+Translucent room~
+You are standing in a place with no walls.  All is white or translucent. 
+You feel trapped in this place.  The room continues south and west.  
+~
+0 8200 0
+D2
+~
+~
+0 -1 6964
+D3
+~
+~
+0 -1 6962
+S
+#6964
+Translucent room~
+You are standing in a place with no walls.  All is white or translucent. 
+You feel trapped in this place.  The room continues west and north.  
+~
+0 8200 0
+D0
+~
+~
+0 -1 6963
+D3
+~
+~
+0 -1 6961
+S
+#6965
+Pandemonium~
+You are walking in a maze.  You have already been west, or, is it east,
+you don't really remember.  All exits seem to be the same.  
+~
+0 9 0
+D0
+~
+~
+0 -1 6965
+D1
+~
+~
+0 -1 6966
+S
+#6966
+Pandemonium~
+You are walking in a maze.  You have already been west, or, is it east,
+you don't really remember.  All exits seem to be the same.  
+~
+0 8201 0
+D1
+~
+~
+0 -1 6965
+D2
+~
+~
+0 -1 6967
+S
+#6967
+Pandemonium~
+You are walking in a maze.  You have already been west, or, is it east,
+you don't really remember.  All exits seem to be the same.  
+~
+0 8201 0
+D0
+~
+~
+0 -1 6965
+D3
+~
+~
+0 -1 6968
+S
+#6968
+Pandemonium~
+You are walking in a maze.  You have already been west, or, is it east,
+you don't really remember.  All exits seem to be the same; wait!  There is a
+door north of here!!  A sign is on the door.  
+~
+0 8201 0
+E
+sign door ~
+GO BACK!
+Or you really want to die. The thing behind this
+door killed Gods!
+So it has been locked up here for the eternity.
+Do not enter, or you will free the destruction's
+tool of your mortal world. 
+You have been warned...Your destiny is in your
+hands.
+~
+D0
+~
+door~
+2 6924 6969
+D2
+~
+~
+0 -1 6966
+D3
+~
+~
+0 -1 6967
+S
+#6969
+Kezef's Prison~
+You sent a dark and quiet place.
+~
+0 13 0
+S
+#0
+
+
+
+#SPECIALS
+M 6900 spec_cast_cleric Load to: the priest of Cyric
+M 6901 spec_breath_acid Load to: the high priestess of Cyric
+M 6903 spec_cast_mage Load to: a worshipper of Mystra
+M 6905 spec_breath_any Load to: the Marut
+M 6906 spec_poison Load to: a strange-looking creature
+M 6907 spec_poison Load to: a strange-looking creature
+M 6909 spec_breath_acid Load to: a Slith creature
+M 6910 spec_breath_any Load to: the Horror
+M 6911 spec_cast_cleric Load to: Kaass
+M 6912 spec_breath_any Load to: Dendar, the snake of darkness
+M 6913 spec_breath_frost Load to: Kezef, the huge hound
+M 6915 spec_breath_fire Load to: the Tanar'ri
+M 6916 spec_cast_undead Load to: Jergal
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 6904 5 1
+D 0 6908 4 1
+D 0 6926 0 2
+D 0 6929 2 2
+D 0 6932 5 2
+D 0 6949 5 2
+D 0 6950 4 2
+D 0 6953 0 1
+D 0 6956 2 1
+D 0 6960 0 2
+D 0 6961 2 2
+D 0 6968 0 2
+M 1 6900 2 6901 1
+O 0 6929 0 6903
+M 1 6900 2 6904 1
+O 0 6928 0 6904
+O 0 6925 0 6904
+M 1 6901 1 6907 1
+E 0 6900 0 12
+E 0 6901 0 16
+O 0 6930 0 6907
+P 0 6931 99 6930 1
+M 1 6902 1 6909 1
+E 0 6902 0 1
+M 1 6903 1 6910 1
+E 0 6903 0 17
+M 1 6905 1 6914 1
+E 0 6905 0 5
+E 0 6906 0 17
+M 1 6904 1 6917 1
+E 0 6904 0 16
+M 1 6906 4 6920 1
+M 1 6907 2 6921 2
+M 1 6908 3 6922 1
+E 0 6907 0 16
+M 1 6908 3 6923 1
+M 1 6906 4 6924 1
+M 1 6908 3 6924 1
+E 0 6907 0 16
+M 1 6906 4 6926 1
+M 1 6915 1 6931 1
+E 0 6916 0 17
+G 0 6915 0
+G 0 6923 0
+E 0 6932 0 16
+M 1 6906 4 6934 1
+M 1 6912 1 6940 1
+E 0 6910 0 7
+E 0 6911 0 18
+M 1 6909 2 6943 2
+M 1 6910 1 6948 1
+G 0 6922 0
+E 0 6908 0 18
+M 1 6911 1 6951 1
+E 0 6909 0 16
+G 0 6921 0
+M 1 6916 1 6957 1
+E 0 6918 0 17
+G 0 6917 0
+M 1 6917 1 6957 1
+E 0 6920 0 16
+E 0 6924 0 13
+E 0 6919 0 6
+O 0 6927 0 6958
+M 1 6914 1 6962 1
+E 0 6914 0 9
+M 1 6913 1 6969 1
+E 0 6912 0 3
+E 0 6913 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

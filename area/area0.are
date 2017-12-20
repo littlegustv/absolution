@@ -1,0 +1,313 @@
+#AREADATA
+Name New area~
+Builders Jaemas~
+VNUMs 24000 24100
+Credits [ ALL ]~
+Security 1
+Xcontinent 0
+Age 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#24000
+The Forest~
+Here amidst the trees in the forest of nobels old, there is a green magic
+about; it hovers harmlessly above your head, your breath it's scentless
+power, and it ungulfs you.  
+
+~
+0 0 0
+D0
+~
+~
+0 0 24003
+D1
+~
+~
+0 0 24002
+D2
+~
+~
+0 0 24001
+D3
+~
+~
+0 0 24002
+S
+#24001
+A Concealed Entrance~
+The canopy above casts shallow shadows everywhere, giving all within
+sight a subtle green tint.  The trees let their leaves rustle softly in the
+gentle breeze, each trunk equidistant from the next, save one to the south. 
+Upon closer examination this anomaly proves to be the entrance to a hidden
+path.  
+~
+0 0 3
+D0
+~
+~
+0 0 24000
+D2
+~
+~
+1 0 24005
+S
+#24002
+The Forest~
+Here amidst the trees in the forest of nobels old, there is a green magic
+about; it hovers harmlessly above your head, your breath it's scentless
+power, and it ungulfs you.  
+~
+0 0 3
+D0
+~
+~
+0 0 24003
+D1
+~
+~
+0 0 24000
+D2
+~
+~
+0 0 24003
+D3
+~
+~
+0 0 24000
+S
+#24003
+The Forest~
+Here amidst the trees in the forest of nobels old, there is a green magic
+about; it hovers harmlessly above your head, your breath it's scentless
+power, and it ungulfs you.  
+~
+0 0 0
+D0
+~
+~
+0 0 24002
+D1
+~
+~
+0 0 24004
+D2
+~
+~
+0 0 24003
+D3
+~
+~
+0 0 24004
+S
+#24004
+The Forest~
+Here amidst the trees in the forest of nobels old, there is a green magic
+about; it hovers harmlessly above your head, your breath it's scentless
+power, and it ungulfs you.  
+~
+0 0 3
+D0
+~
+~
+0 0 24000
+D1
+~
+~
+0 0 24003
+D2
+~
+~
+0 0 24002
+D3
+~
+~
+0 0 24003
+S
+#24005
+The Path~
+Stepping through the false tree, you end up on an unkempt dirt path. 
+Plants are slowly reclaiming this place as their own, though the most
+trauden part of the path still remains bare.  
+~
+0 0 3
+D0
+~
+~
+1 0 24001
+D1
+~
+~
+0 0 24012
+D2
+~
+~
+0 0 24008
+D3
+~
+~
+0 0 24006
+S
+#24006
+The Path~
+This part of the path seems to be used less than it's extention to the
+east.  It is in a great state of disrepair, and completely overgrown.  
+~
+0 0 3
+D1
+~
+~
+0 0 24005
+D3
+~
+~
+0 0 24007
+S
+#24007
+A Dead End~
+The forest has not only reclaimed this part of what was once a path, but
+it has completely eradicated all signs that there had once been a path.  A
+wall of intertwined treetrunks rises to the west, blocking all travel in
+that direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 24006
+S
+#24008
+A Short Trail~
+A small trail that extends to the south of the main path.  To walk you
+must force your way through the brush, it seems obvious that this was never
+ment to be a main path.  
+~
+0 0 3
+D0
+~
+~
+0 0 24005
+D2
+~
+~
+0 0 24009
+S
+#24009
+A Corner In The Trail~
+The trail abruptly changes direction, towards the west, as it meets the
+trunk of a wisened old tree.  
+~
+0 0 3
+D0
+~
+~
+0 0 24008
+D3
+~
+~
+0 0 24010
+S
+#24010
+On A Narrow Trail~
+Bushes and shrubbery on all sides, seems to dictate the direction of
+travel.  It looks as if the thing that made this trail continued north: you
+can hear odd sounds coming from that direction 
+~
+0 0 3
+D0
+~
+~
+0 0 24011
+D1
+~
+~
+0 0 24009
+S
+#24011
+Lost!!~
+The green and brown shades of forest mingle amongst themselves creating
+illustrous images; the trees seem to reange themselves randonly.  As
+everything stills and the colors unblend, you realise that you are trapped
+within a circle of trees with no way out 
+ 
+~
+0 4 3
+S
+#24012
+The Path~
+This is a small, old dirt path leading through the woods.  There are few
+clues as too who made the path, though it seems all who use it are careful
+to cover their tracks.  
+~
+0 0 3
+D1
+~
+~
+0 0 24013
+D3
+~
+~
+0 0 24005
+S
+#24013
+The Path~
+This is a small, old dirt path leading through the woods.  There are few
+clues as too who made the path, though it seems all who use it are careful
+to cover their tracks.  
+~
+0 0 0
+D1
+~
+~
+0 0 24014
+D3
+~
+~
+0 0 24012
+S
+#24014
+The Path~
+~
+0 0 0
+D3
+~
+~
+0 0 24013
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 24001 2 1
+D 0 24005 0 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

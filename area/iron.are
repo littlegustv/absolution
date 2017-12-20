@@ -1,0 +1,1736 @@
+#AREADATA
+Name The Iron Fortress~
+Builders Starcrossed~
+VNUMs 10100 10399
+Credits {30 40} StarCrossed The Iron Fortress~
+Security 1
+Xcontinent 1
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#10100
+sad grey donkey ass~
+a sad looking grey ass~
+A sad looking grey donkey rests here in the straw.
+~
+With big watery eyes and a dull expression, this donkey looks quite sad
+and cute all at once.  
+~
+pig~
+AB J -500 0
+34 0 30d10+1100 10d10+100 5d5+10 bite
+-9 -9 -9 0
+IL 0 Q 0
+rest stand either 1600
+AGV ACDEFHJK large flesh the guilds~
+#10101
+hollow mage wizard ordenon~
+the hollow mage Ordenon~
+The dark magician Ordenon stares at you with hollow eyes.
+~
+Dressed all in grey drab clothing, this man seems to be so devoid of
+meaning that he can only suck it out of others to fill the endless
+hollowness within himself.  But even that relief is only temporary...  He
+will seek new victims soon.  
+~
+human~
+ABR DFV -650 0
+42 0 20d30+1900 10d20+500 5d7+13 punch
+-5 -5 -5 2
+L BP 0 0
+stand stand male 1800
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 10100 100~
+M death 10101 100~
+#10102
+dog faced guardian beast demon~
+a dog-headed guardian beast~
+A dog-headed guardian beasts protects the gates.
+~
+A powerfully muscled body stands nearly seven feet tall, topped by a
+savage looking dog head.  Its eyes gleam with intelligence, but it does not
+seem to be able to speak.  
+~
+deamon~
+AB DFJT -1000 0
+35 0 10d20+1200 1d1+99 4d6+10 pobite
+0 0 0 0
+CFHL B H NS
+stand stand none 2000
+ABGZ ACDEFHJKQVX large 0 the guilds~
+#10103
+embracing male statue perverse~
+embracing male statue~
+A perverse male statue is here, groping about.
+~
+This statue is made of a solid piece of some basaltic stone.  It is
+clearly male, with exagerrated genitals.  It appears to be caught in some
+comprimising situation with the female statue.  
+~
+human~
+AB V -700 0
+40 2 20d20+1900 1d1+99 3d10+15 pound
+-10 -10 -10 -2
+CER 0 0 E
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#10104
+embracing female statue perverse~
+embracing female statue~
+A perverse female statue is here, ambling behind the male one.
+~
+This statue is made of a solid piece of some basaltic stone.  It is
+obviously female, with enlarged genitalia and breasts.  It is quite happily
+engaged in some activity with the male statue.  
+~
+human~
+AB V -700 0
+40 2 20d20+1900 1d1+99 3d10+15 pound
+-10 -10 -10 -2
+CER 0 0 E
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#10105
+ghost spectre gaunt spectator~
+a spectator spectre~
+A gaunt ghostly spectre is here, watching intently.
+~
+You can see right through this translucent figure.  He was once human,
+and apparently judged to spend eternity living in purgatory as a ghost. 
+Perhaps watching this trial helps him remember what his life once was...  
+~
+human~
+AO JTU -1000 0
+45 1 30d20+2300 1d1+99 3d10+15 chill
+-10 -10 -10 -10
+N 0 M N
+stand stand none 5000
+AHMV ABCDEFGHIJK medium air the guilds~
+#10106
+conniving daemon demon~
+a conniving daemon~
+A conniving daemon perches on the edge of its seat.
+~
+This daemon is counting on the mortal being thrown into Hell for
+eternity, to serve it or its masters.  It gleefully awaits the outcome.  
+ 
+~
+red dragon~
+AO JT -1000 0
+46 1 30d20+2600 1d1+99 4d8+16 slaughter
+-12 -12 -12 -10
+C 0 BEH IN
+stand stand none 5500
+BHMZ ABCDEFGHIJKLPQUVWX medium flesh the guilds~
+#10107
+serene angel~
+a serene angel~
+An angel hovers above its seat, fixated on the trial.
+~
+Although Angels normally stand for goodness and light, the Angels here
+really aren't any better than the daemons.  Each comes here with greed on
+their minds, hoping to add a new member to their legions.  Of course, no
+Angel would ever admit it, mumbling something about "saving their soul".  
+~
+human~
+AO T -1000 0
+45 1 20d20+2500 1d1+99 5d6+15 divine
+-12 -12 -12 -10
+CD 0 J N
+stand stand none 5000
+AHMV ABCDEFGHIJK medium flesh the guilds~
+#10108
+accused lost soul~
+the Accused~
+The Accused sits here, despairing of his fate.
+~
+This poor soul has only recently departed the land of the living, and now
+his eternal existence is being decided for him.  From the despair apparent
+in his features, this guy wasn't a real saint.  
+~
+human~
+AB U -1000 0
+45 1 40d10+2500 1d1+99 6d5+12 punch
+-12 -12 -12 -10
+FJ 0 0 N
+stand stand either 1000
+AHMV ABCDEFGHIJK medium air the guilds~
+#10109
+defense lawyer~
+the Defense Lawyer~
+The defense lawyer is here, trying to salvage a lost cause.
+~
+His shirt is no longer tucked in, his tie has been undone.  This spirit
+is sweating fiercely as he tries his best to protect the accused.  
+~
+human~
+AB J -1000 0
+46 1 10d10+3000 1d1+99 4d8+15 slash
+-13 -13 -13 -13
+CDE 0 D N
+stand stand male 5500
+AHMV ABCDEFGHIJK medium flesh the guilds~
+#10110
+prosecuting lawyer~
+the Prosecuting Lawyer~
+The prosecuting lawyer sits here confidently, feet upon the desk in front of him.
+~
+The prosecuting lawyer sits here comfortably, exuding confidence in his
+case.  His charcoal suit fits him like a rubber glove, his charcoal eyes
+regard you steadily as he considers you.  
+~
+human~
+A V -1000 0
+46 1 10d20+3000 1d1+99 5d6+15 stab
+-13 -13 -13 -12
+JKN 0 D N
+stand stand none 5500
+AHMV ABCDEFGHIJK medium flesh the guilds~
+#10111
+Seikinster Naga Queen~
+The great naga Seikinster~
+The long serpentine form of Seikinster, Queen of the Naga, acts as the judge.
+~
+Curled at the top of the judge's bench you find the coiled body of
+Seikinster.  Her snakey body is over two dozen feet long, and instead of a
+reptiles face you glimpse into the eyes of a beautiful woman.  There is
+something mystical in her gaze that compels you to obey...  She is judge
+over all she sees.  
+~
+human~
+AB HJ -1000 0
+46 0 20d10+3000 1d1+199 1d1+0 pobite
+-14 -14 -14 -10
+CDEF 0 KL JN
+stand stand none 6600
+AHMV ABCDEFGHIJK medium flesh the guilds~
+#10112
+dog faced guardian beast demon~
+a dog-headed guardian beast~
+A dog-headed guardian beast blocks your path.
+~
+A powerfully muscled body stands nearly seven feet tall, topped by a
+savage looking dog head.  Its eyes gleam with intelligence, but it does not
+seem to be able to speak.  
+~
+deamon~
+AB DFJT -1000 0
+40 0 10d20+2000 1d1+99 4d6+10 claw
+-20 -20 -20 -10
+CEFHL B H NS
+stand stand none 2500
+ABGZ ACDEFHJKQVX large 0 the guilds~
+#10113
+healer forge furnace~
+the {DBlack {rF{Ro{rr{Rg{re{x~
+A huge {Dblack {Yfurnace{x heats the whole moebius around you.
+~
+About 25 feet tall, it is a cast iron structure made of hammered
+blackened metal plates.  It glows red with the barely contained heat within
+it.  
+~
+human~
+ABGJab I 0 0
+60 50 1d1+9999 1d1+999 10d10+100 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#10114
+deneb iron smith blacksmith black~
+Deneb, the ironsmith~
+Towering over you, a smith dressed in heavy iron plate glares down.
+~
+Where the iron stops and the man begins is hard to tell.  The smith
+stands nearly 20 feet tall, covered from head to toe in dark iron armor.  A
+massive flail rests easily in his hand.  A flail might not be the right
+weapon to beat out the heated iron, but it will do quite nicely at flaying
+the flesh from your bones!  
+~
+human~
+ABG DZ -1000 0
+51 2 10d10+4800 1d1+99 6d6+20 smash
+-25 -25 -25 -15
+CDEHK 0 FZ N
+stand stand male 8000
+AHMV ABCDEFGHIJK medium iron the guilds~
+#10115
+recta the talking sphincter~
+Recta the talking sphincter~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 20 10d1+1 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 A 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#10100
+trough water~
+a trough of fresh water~
+An old wooden trough is here, filled with water.~
+wood~
+fountain O P
+0 0 'water' 0 0
+0 1000 0 P
+#10101
+hollow dagger~
+the {mHollow{x dagger~
+A dagger hangs here, pulsing with need.~
+metal~
+weapon AGYbc AN
+dagger 8 2 drain C
+26 20 2100 P
+A
+5 -2  
+A
+19 3  
+#10102
+portal gate void gaping~
+a gaping void~
+A gaping void is here, beckoning you the enter it.~
+paper~
+portal O 0
+0 0 0 10104 0
+0 1 1 P
+#10103
+forged trident~
+a forged trident~
+A six foot long shaft topped by a powerful fork rests here.~
+iron~
+weapon ac AN
+polearm 5 5 impale B
+35 30 3500 P
+A
+1 2  
+A
+19 2  
+A
+18 -2  
+#10104
+key dark coloured metal~
+a key made of dark coloured metal~
+A key made of dark coloured metal sits here.~
+metal~
+key C A
+0 0 0 0 0
+0 5 0 P
+#10105
+chip basaltic stone black~
+a chip of basalt~
+A small chip of black stone lies on the ground.~
+stone~
+armor Y AQ
+6 6 6 3 0
+35 10 500 P
+A
+19 1  
+A
+1 1  
+#10106
+black scale guilty~
+the {DBlack{x Scale of the GUILTY~
+The black balancing scale is here, a symbol of divine justice.~
+ebony~
+weapon BL AN
+exotic 7 3 divine C
+30 20 5200 P
+A
+2 -1  
+A
+19 4  
+#10107
+white scale innocence~
+the {WWhite{x scale of the INNOCENT~
+A white balancing scale is here, a symbol of divine justice.~
+ivory~
+container Y AH
+200 0 0 40 80
+40 20 5200 P
+A
+20 -1  
+A
+4 -2  
+A
+19 2  
+#10108
+seikinster naga scale~
+A single scale from the body of Seikinster the Naga Queen~
+A small naga scale lies here on the ground, glittering mysteriously.~
+diamond~
+armor AY AD
+16 16 16 15 0
+40 20 6000 P
+A
+23 -2  
+A
+19 1  
+A
+1 1  
+#10109
+black iron breast plate~
+a {Dblack iron{x breastplate~
+A breastplate made of heavy iron lies on the ground here.~
+iron~
+armor CILW AD
+12 12 12 8 0
+43 100 5000 P
+A
+19 2  
+A
+23 -2  
+A
+1 -1  
+A
+12 -50  
+#10110
+black iron helmet~
+a {Dblack iron{x helmet~
+A helmet made of heavy iron lies on the ground here.~
+iron~
+armor CLW AE
+9 9 9 6 0
+43 60 5000 P
+A
+1 -1  
+A
+23 -1  
+A
+19 2  
+#10111
+starcrossed cursed axe~
+The {DCursed{c Axe{x~
+An axe as big as a man, jet black and covered with runes, lies here.~
+iron~
+weapon ABEY ANP
+axe 50 1 slaughter EF
+54 500 0 P
+A
+20 -50  
+A
+4 10  
+A
+3 10  
+A
+5 10  
+A
+2 10  
+A
+1 10  
+A
+18 50  
+A
+19 100  
+#10112
+black iron tower shield~
+a {Dblack iron{x tower shield~
+A huge tower shield made of heavy iron lies on the ground here.~
+iron~
+armor CLW AJ
+12 12 12 8 0
+43 80 5000 P
+A
+19 3  
+A
+1 -1  
+A
+12 -20  
+#10113
+black iron torch~
+a {Dblack iron{x torch~
+A lit torch of heavy iron iron lies against the wall.~
+iron~
+light CLW A
+0 0 999 0 0
+43 30 4000 P
+A
+13 5  
+A
+12 5  
+A
+19 2  
+A
+18 2  
+#10114
+black iron arm guards~
+a pair of {Dblack iron{x arm guards~
+Some arm guards made of heavy iron lie on the ground here.~
+iron~
+armor CLW AI
+12 12 12 8 0
+43 50 5500 P
+A
+19 2  
+A
+1 -1  
+A
+23 -1  
+#10115
+black iron gauntlets~
+a pair of {Dblack iron{x gauntlets~
+A pair of gauntlets made of heavy iron lie on the ground here.~
+iron~
+armor CLW AH
+12 12 12 8 0
+43 40 5000 P
+A
+1 -1  
+A
+13 5  
+A
+19 3  
+#10116
+black iron leg guards~
+a pair of {Dblack iron{x leg guards~
+Some leg guards made of heavy iron lie on the ground here.~
+iron~
+armor CLW AF
+12 12 12 8 0
+43 60 5000 P
+A
+2 -1  
+A
+1 -1  
+A
+13 10  
+A
+19 2  
+#10117
+black iron boots~
+a pair of {Dblack iron{x boots~
+A pair of boots made of heavy iron lie on the ground here.~
+iron~
+armor CLW AG
+12 12 12 8 0
+43 40 5000 P
+A
+2 -1  
+A
+1 -1  
+A
+23 -1  
+A
+19 2  
+#10118
+black iron belt~
+a {Dblack iron{x belt~
+A long belt made of heavy iron lies on the ground here.~
+iron~
+armor CLW AL
+12 12 12 8 0
+43 70 5000 P
+A
+2 -1  
+A
+1 -1  
+A
+13 10  
+A
+19 2  
+#10119
+black iron morning star raven reaper~
+a two headed {Dblack iron{x morning star called {r"Raven's Reaper"{x~
+A two headed morning star made of iron lies here.~
+iron~
+weapon BCLW AN
+flail 7 4 divine BN
+45 60 6000 P
+A
+12 -30  
+A
+1 -1  
+#10120
+iron anvil~
+An iron anvil the size of a large horse~
+An iron anvil the size of a large horse.~
+iron~
+weapon ACI AN
+exotic 5 8 crush FJ
+45 500 5000 P
+A
+19 1  
+A
+18 1  
+#10121
+iron chest box yellow~
+a heavy iron box of yellow potions~
+A heavy {Diron{x box of {yyellow{x potions lies here for the needy.~
+iron~
+container O P
+50 0 0 50 50
+0 1 1 P
+#10122
+iron chest box flying~
+a heavy iron box of flying potions~
+A heavy {Diron{x box of {Bflying{x potions lies here for the needy.~
+iron~
+container O P
+50 0 0 50 50
+0 1 1 P
+E
+chest~
+This is a big freakin box. Don't let it land on you.
+~
+#10123
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+51 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#10124
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+51 'fly' '(null)' '(null)' '(null)'
+3 10 250 P
+#10125
+black scourge whip~
+a black scourge~
+A long black whip lies here, ringed with iron barbs.~
+leather~
+weapon ABY AN
+whip 4 10 rip I
+48 4 15000 P
+A
+18 1  
+A
+19 3  
+#10126
+flesh carving kukri dagger~
+a flesh carving kukri~
+A razor sharp, steeply angled knife sits here.~
+silver~
+weapon 0 ANP
+dagger 6 6 skinning E
+44 1 15000 P
+A
+5 2  
+A
+2 1  
+#10127
+painful thumbscrews~
+a set of painful thumbscrews~
+An implement of torture lies here, screwing itself tighter and tighter!~
+iron~
+armor AC AO
+5 5 5 2 0
+0 3 15000 P
+A
+2 -2  
+A
+13 -30  
+A
+20 -4  
+A
+23 -3  
+#10128
+selina glowing armour armor~
+Selina's Glowing Armour~
+The silvery armour worn by Selina during the last Dragonwar rests here, gleaming.~
+platinum~
+armor ABGTYe AP
+40 40 40 30 0
+51 1 1 P
+A
+12 75  
+A
+13 50  
+A
+20 -2  
+A
+19 3  
+#10129
+heartstriker spear lance~
+{RHeart {mStriker{x~
+A heart piercing lance lies here.~
+steel~
+weapon ABJLTYe ARZ
+staff 9 4 impale ERW
+48 5 5 'teleport' 0
+51 50 300000 P
+A
+5 3  
+A
+19 3  
+A
+18 3  
+#10130
+true excalibur sword~
+{yTrue {WExcalibur{x~
+At long last, the true Excalibur has been found!~
+adamantite~
+weapon ABKLTYe ANR
+sword 9 4 slash GQ
+40 3 3 'fire rune' 0
+51 40 300000 P
+A
+18 2  
+A
+19 6  
+#10131
+emerald tiger cage~
+An {GEmerald{Y Tiger's {WCage{x~
+The cage for a Tigerclaw lance is here.~
+wood~
+sheath ABTYe ALZ
+staff 1 A 6748
+51 0 0 P
+#10132
+soul fragment melancholy~
+(no short description)~
+~
+wood~
+trash 0 0
+0 0 0 0 0
+51 0 0 P
+#10133
+no name~
+(no short description)~
+~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#10100
+A peaceful meadow~
+The grass here rises well to your waist, but with the bright sun shining
+it doesn't even occur to you that it might conceal some hidden foe.  A
+narrow path winds its way through the field, snaking north towards a small
+cabin of some sort.  You wonder what kind of strange person would live so
+far away from the safety of Shandalar.  
+~
+0 0 2
+D0
+~
+~
+0 0 10101
+S
+#10101
+In front of a cabin~
+As you approach the front of the cabin the mystery only deepens.  The
+windows are covered over with years worth of dust and cobwebs.  A few have
+been smashed in but then boarded up.  You aren't even sure the cabin is
+inhabited.  To the west is a half-collapsed version of some sort of stable
+for animals.  
+~
+0 0 2
+D0
+~
+~
+1 0 10103
+D2
+~
+~
+0 0 10100
+D3
+~
+~
+0 0 10102
+S
+#10102
+Away in a manger...~
+Although from the outside this structure looks practically ruined, the
+inside seems quite comfortable.  Someone seems to take good care of this
+stable, for the smell of animals barely taints the air.  One end of the
+stable is properly secured and soft hay fills it.  The trough before it is
+even filled with fresh water, suggesting at least one animal must make their
+home here.  
+~
+0 513 0
+D1
+~
+~
+0 0 10101
+M 120 H 120
+S
+#10103
+The cabin of infinity~
+Although the cabin door opened easily, as soon as you enter, it slams
+shut behind you, sealing you in!  You sense a powerful magic at work in the
+room here, something you are powerless against!  There is a huge gaping... 
+Void in the ground here.  It glows a strange shade of purple as it seeks to
+draw you into it hungrily.  You turn away for a moment and meet the eyes of
+the cabin's occupant instead...  But they tug at your soul no less
+mercilessly.  
+~
+0 805314564 0
+S
+#10104
+The other side~
+The void hungrily swallows you, pulling you into this strange place.  You
+aren't sure where you are anymore.  You appear to be suspended somewhere above
+the ground, but somehow aren't falling.  Below you spread out you spy an
+unusual plane with several unusual beings wandering around.  
+ 
+~
+0 4 9
+D5
+~
+~
+0 0 10105
+S
+#10105
+Hovering mid-air~
+~
+0 4 9
+D4
+~
+~
+0 0 10104
+D5
+~
+~
+0 0 10106
+S
+#10106
+Above the gates~
+As you descend even farther you can see you the gates of some type of
+stronghold below you, along with several oddly shaped guards.  This would
+seem to be the time to prepare yourself to meet the denizens of this place
+and find out their intentions.  
+~
+0 4 9
+D4
+~
+~
+0 0 10105
+D5
+~
+~
+0 0 10107
+S
+#10107
+Gates of the Fortress~
+You finally touch down.  The ground is made of hard tiles which appear to
+be made of some kind of dark metal.  The same metal makes up the heavy gates
+of the fortress to the east.  A pair of strange dog-headed guards stand
+before the gate.  They eye you warily, but say nothing.  You can proceed
+across to the north or west from here if you wish.  
+~
+0 0 4
+D1
+~
+~
+1 10104 10108
+D4
+~
+~
+0 0 10106
+S
+#10108
+Entranceway~
+Just beyond the iron gates lies this chamber.  It extends for some
+distance to the east, dimly lit by guttering torches which line the
+cast-iron walls.  After the bizarre guardians outside, you have no idea what
+strange denizens would live in such a place as this.  
+~
+0 268443648 0
+D1
+~
+~
+0 0 10109
+D3
+~
+~
+1 10104 10107
+S
+#10109
+Foyer~
+From here the dark iron corridors stretch forth like the limbs of some
+mechanical beast.  Two strange statues perch here in the foyer, barely
+humanoid.  Limbs twined around eachother in a perverse embrace, these
+statues make a grating sound as they shuffle around the room slowly in
+search of...  You.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 10110
+D1
+~
+~
+0 0 10126
+D3
+~
+~
+0 0 10108
+S
+#10110
+North Hallway~
+As you wander the iron corridors of the fortress, you can hear the sounds
+of a crowd somewhere ahead of you.  You are curious to see what strange
+event could cause a large crowd to gather here...  Wherever here is.  
+To the south lies the foyer.
+~
+0 268443648 0
+D0
+~
+~
+0 0 10111
+D2
+~
+~
+0 0 10109
+S
+#10111
+North Hallway~
+The iron corridor extends to the north and south of you.  To the north
+you can distinctly hear the sounds of a large crowd, and see a large chamber
+opening up.  
+~
+0 268443652 0
+D0
+~
+~
+0 0 10112
+D2
+~
+~
+0 0 10110
+S
+#10112
+Entrance to the Court of Light~
+Suddenly the hallway opens up into a towering vast chamber.  The ceiling
+vanishes high above you in a series of intricate murals, some depicting the
+forces of good, others the powers of darkness.  You have entered the Court
+of Light, where all things are judged according to their actions and their
+place in the afterlife decided by lengthy and complicated hearings. 
+Spectators are seated to the east and west, finding some satisfaction in
+watching the judgment of others, but their turns will come.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 10117
+D1
+~
+~
+0 0 10113
+D2
+~
+~
+0 0 10111
+D3
+~
+~
+0 0 10115
+S
+#10113
+East Wing of the Court of Light~
+You shuffle over numerous spectators, being careful not to trip over
+feet, or claws or hooves.  They have all come to watch the greatest show in
+history, the judgement of mortals and perhaps a new addition to their ranks.
+Most of them don't pay any attention to you at all.  
+~
+0 268443648 0
+D1
+~
+~
+0 0 10114
+D3
+~
+~
+0 0 10112
+S
+#10114
+East Wing of the Court of Light~
+You shuffle over numerous spectators, being careful not to trip over
+feet, or claws or hooves.  They have all come to watch the greatest show in
+history, the judgement of mortals and perhaps a new addition to their ranks.
+Most of them don't pay any attention to you at all.  
+~
+0 268443648 0
+D3
+~
+~
+0 0 10113
+S
+#10115
+West Wing of the Court of Light~
+You shuffle over numerous spectators, being careful not to trip over
+feet, or claws or hooves.  They have all come to watch the greatest show in
+history, the judgement of mortals and perhaps a new addition to their ranks.
+Most of them don't pay any attention to you at all.  
+~
+0 268443648 0
+D1
+~
+~
+0 0 10112
+D3
+~
+~
+0 0 10116
+S
+#10116
+West Wing of the Court of Light~
+You shuffle over numerous spectators, being careful not to trip over
+feet, or claws or hooves.  They have all come to watch the greatest show in
+history, the judgement of mortals and perhaps a new addition to their ranks.
+Most of them don't pay any attention to you at all.  
+~
+0 268443648 0
+D1
+~
+~
+0 0 10115
+S
+#10117
+Path to Justice~
+You are proceeding up the aisle towards the front of the Court of Light. 
+From here you can hear voices echoeing loudly from the front of the court
+house, but you can't quite make out what they are saying.  Finally you
+arrive at a small door, about waist high, which will admit you into the
+proceedings directly.  More spectators line the seats to the east and west. 
+~
+0 268443648 0
+D0
+~
+~
+1 0 10122
+D1
+~
+~
+0 0 10120
+D2
+~
+~
+0 0 10112
+D3
+~
+~
+0 0 10118
+S
+#10118
+West Wing of the Court of Light~
+You shuffle over numerous spectators, being careful not to trip over
+feet, or claws or hooves.  They have all come to watch the greatest show in
+history, the judgement of mortals and perhaps a new addition to their ranks.
+Most of them don't pay any attention to you at all.  
+~
+0 268443648 0
+D1
+~
+~
+0 0 10117
+D3
+~
+~
+0 0 10119
+S
+#10119
+West Wing of the Court of Light~
+You shuffle over numerous spectators, being careful not to trip over
+feet, or claws or hooves.  They have all come to watch the greatest show in
+history, the judgement of mortals and perhaps a new addition to their ranks.
+Most of them don't pay any attention to you at all.  
+~
+0 268443648 0
+D1
+~
+~
+0 0 10118
+S
+#10120
+East Wing of the Court of Light~
+You shuffle over numerous spectators, being careful not to trip over
+feet, or claws or hooves.  They have all come to watch the greatest show in
+history, the judgement of mortals and perhaps a new addition to their ranks.
+Most of them don't pay any attention to you at all.  
+~
+0 268443648 0
+D1
+~
+~
+0 0 10121
+D3
+~
+~
+0 0 10117
+S
+#10121
+East Wing of the Court of Light~
+You shuffle over numerous spectators, being careful not to trip over
+feet, or claws or hooves.  They have all come to watch the greatest show in
+history, the judgement of mortals and perhaps a new addition to their ranks.
+Most of them don't pay any attention to you at all.  
+~
+0 268443648 0
+D3
+~
+~
+0 0 10120
+S
+#10122
+Before the Bench~
+The bench of the judge seems to tower above you.  It stands over a dozen
+feet tall, and in fact there is a narrow spiral staircase that leads up to
+the judge.  The defense sits to the east of you, and to the west you can see
+the prosecution.  
+~
+0 268443652 0
+D1
+~
+~
+0 0 10123
+D2
+~
+~
+1 0 10117
+D3
+~
+~
+0 0 10124
+D4
+~
+~
+0 0 10125
+S
+#10123
+The defense~
+Polished wooden desks, polished wooden chairs.  It all seems so
+civilized, the only person who seems to find the procedure anything else is
+the poor lost soul, the accused.  He must defend himself from charges of all
+the bad things he did in life, or spend eternity in Hell or Purgatory.  He
+sits here, head in his hands while his lawyer tries to console him.  
+~
+0 268443648 0
+D3
+~
+~
+0 0 10122
+S
+#10124
+The prosecution~
+Looking very much like the defense in physical appearance, the attitude
+of the prosecution is one of absolute confidence.  This soul is going to
+hell, no if, ands, or buts.  The prosecution sits here confortably, with
+their feet resting upon the hard wood desk.  
+~
+0 268443648 0
+D1
+~
+~
+0 0 10122
+S
+#10125
+Before the Judge~
+You clamber up the narrow spiral staircase to the top of the judge's
+bench.  At last you stand before she who judges the dead.  It's definitely
+not what you were expecting.  
+~
+0 0 0
+D5
+~
+~
+0 0 10122
+S
+#10126
+East Hallway~
+You have entered a long empty hallway.  You hear the distant sounds of
+the iron plates that make up the fortress occasionally shifting position.  
+To the west you see the foyer.
+~
+0 268443648 0
+D1
+~
+~
+0 0 10127
+D3
+~
+~
+0 0 10109
+S
+#10127
+East Hallway~
+You have entered a long empty hallway.  You hear the distant sounds of
+the iron plates that make up the fortress occasionally shifting position.  
+The corridor continues eastwards.
+~
+0 268443648 0
+D1
+~
+~
+0 0 10128
+D3
+~
+~
+0 0 10126
+S
+#10128
+East Hallway~
+You have entered a long empty hallway.  You hear the distant sounds of
+the iron plates that make up the fortress occasionally shifting position.  
+The corridor continues west and south from here.
+~
+0 268443648 0
+D2
+~
+~
+0 0 10129
+D3
+~
+~
+0 0 10127
+S
+#10129
+East Hallway~
+You have entered a long empty hallway.  You hear the distant sounds of
+the iron plates that make up the fortress occasionally shifting position. 
+The corridor continues north and south from here.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 10128
+D2
+~
+~
+0 0 10130
+S
+#10130
+East Hallway~
+You have entered a long empty hallway.  You hear the distant sounds of
+the iron plates that make up the fortress occasionally shifting position. 
+The corridor continues north and turns east here.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 10129
+D1
+~
+~
+0 0 10131
+S
+#10131
+East Hallway~
+You have entered a long empty hallway.  You hear the distant sounds of
+the iron plates that make up the fortress occasionally shifting position. 
+The corridor turns north and winds westwards as well.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 10132
+D3
+~
+~
+0 0 10130
+S
+#10132
+East Junction~
+You have entered a long empty hallway.  You hear the distant sounds of
+the iron plates that make up the fortress occasionally shifting position. 
+You have come to a junction in the iron hallway, with a pair of corridors
+which extend north and east from here, both leading towards solid wooden
+doors.  You can hear some faint shuffling noises nearby as well.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 10133
+D1
+~
+~
+0 0 10134
+D2
+~
+~
+0 0 10131
+S
+#10133
+Before the oak door~
+Finally you arrive at the end of the twisting iron corridor.  Before you
+stands a solid oak door, nearly giant sized.  If you struggle hard enough,
+you might be able to pry it open.  You wonder what sort of creature would
+need a door....  This big....  
+~
+0 268443648 0
+D0
+~
+~
+3 0 10135
+D2
+~
+~
+0 0 10132
+S
+#10134
+Outside the Market~
+A pair of massive oak doors blocks the way to the east.  From the size of
+the door, and the sounds you hear from beyond, it seems clear there is a
+large chamber ahead.  
+~
+0 268443648 0
+D1
+~
+~
+1 0 10136
+D3
+~
+~
+0 0 10132
+S
+#10135
+Chamber of the {DBlacksmith{x~
+As you struggle to open the door, you are pushed back by a blast of heat
+from the room.  You struggle again and finally make your way inside.  You
+stand inside the largest smithy you've ever seen.  A massive black anvil the
+size of a pack horse takes up the center of the room, and a forge the size
+of a cottage, perfect for smelting metal, or you, floods the room with
+pounding heat.  Amidst it all stands the great blacksmith, nearly 20 feet
+tall, the being strong enough and large enough to produce all the iron for
+the fortress.  
+~
+0 268443648 0
+D2
+~
+~
+3 0 10133
+S
+#10136
+Western Market Entrance~
+The walls stretch away from you a great distance, revealing a massive
+chamber.  Far above the iron plates form a ceiling, lit magically.  Many
+strange beings seems to have gathered in this chamber for some kind of
+market.  Many odd items are shown.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 10137
+D3
+~
+~
+1 0 10134
+S
+#10137
+Northwest Corner of the Market~
+This is the quietest corner of the market.  Several people are resting
+here, staring up at the vaulted black iron ceiling which hangs high over
+your heads.  You can see the large door which leads out of the market to the
+south, and to the east is Eila's Implements.  
+~
+0 268443648 1
+D2
+~
+~
+0 0 10136
+S
+#10150
+{rCarnage{x~
+You stand on a flat plateau held high above the void.  Far from being
+peaceful or beautiful, the ground is stained with gore, and seems to
+composed of living flesh, always freshly bleeding.  This is a good place to
+kill, and a very bad place to die.  
+~
+0 268435456 2
+D0
+~
+~
+0 0 10151
+D3
+~
+~
+0 0 10152
+S
+#10151
+{rCarnage{x~
+You stand on a flat plateau held high above the void.  Far from being
+peaceful or beautiful, the ground is stained with gore, and seems to
+composed of living flesh, always freshly bleeding.  This is a good place to
+kill, and a very bad place to die.  
+~
+0 268435456 2
+D0
+~
+~
+0 0 10153
+D2
+~
+~
+0 0 10150
+D3
+~
+~
+0 0 10154
+S
+#10152
+{rCarnage{x~
+You stand on a flat plateau held high above the void.  Far from being
+peaceful or beautiful, the ground is stained with gore, and seems to
+composed of living flesh, always freshly bleeding.  This is a good place to
+kill, and a very bad place to die.  
+~
+0 268435456 2
+D0
+~
+~
+0 0 10154
+D1
+~
+~
+0 0 10150
+S
+#10153
+{rCarnage{x~
+You stand on a flat plateau held high above the void.  Far from being
+peaceful or beautiful, the ground is stained with gore, and seems to
+composed of living flesh, always freshly bleeding.  This is a good place to
+kill, and a very bad place to die.  
+~
+0 268435456 0
+D2
+~
+~
+0 0 10151
+D3
+~
+~
+0 0 10155
+S
+#10154
+{rCarnage{x~
+You stand on a flat plateau held high above the void.  Far from being
+peaceful or beautiful, the ground is stained with gore, and seems to
+composed of living flesh, always freshly bleeding.  This is a good place to
+kill, and a very bad place to die.  
+~
+0 268435456 0
+D0
+~
+~
+0 0 10155
+D1
+~
+~
+0 0 10151
+D2
+~
+~
+0 0 10152
+S
+#10155
+{rCarnage{x~
+You stand on a flat plateau held high above the void.  Far from being
+peaceful or beautiful, the ground is stained with gore, and seems to
+composed of living flesh, always freshly bleeding.  This is a good place to
+kill, and a very bad place to die.  
+~
+0 268435456 2
+D1
+~
+~
+0 0 10153
+D2
+~
+~
+0 0 10154
+S
+#10189
+????~
+Inside the portable hole is a space of pure light.  No floors, walls nor
+ceilings contain you, yet you're not sure how you can ever escape.  
+~
+0 268967956 0
+M 120 H 120
+S
+#10190
+{DThe Moeb{Ri{Dus{x~
+You find youself surrounded by twisting beams of iron.  Footsteps clang
+against metal all around you, making it impossible to determine where your
+opponents lie.  The moebius completely encloses you, making sure only the
+most skilled survive.  The twisting iron beams recede into the gloom...  
+~
+0 268443672 0
+D1
+~
+~
+0 0 10191
+D2
+~
+~
+0 0 10196
+S
+#10191
+{DThe Moeb{Ri{Dus{x~
+You find youself surrounded by twisting beams of iron.  Footsteps clang
+against metal all around you, making it impossible to determine where your
+opponents lie.  The moebius completely encloses you, making sure only the
+most skilled survive.  The twisting iron beams recede into the gloom...  
+~
+0 268443672 0
+D0
+~
+~
+0 0 10192
+D3
+~
+~
+0 0 10190
+S
+#10192
+{DThe Moeb{Ri{Dus{x~
+You find youself surrounded by twisting beams of iron.  Footsteps clang
+against metal all around you, making it impossible to determine where your
+opponents lie.  The moebius completely encloses you, making sure only the
+most skilled survive.  The twisting iron beams recede into the gloom...  
+~
+0 268443676 0
+D1
+~
+~
+0 0 10193
+D2
+~
+~
+0 0 10191
+S
+#10193
+{DThe Moeb{Ri{Dus{x~
+You find youself surrounded by twisting beams of iron.  Footsteps clang
+against metal all around you, making it impossible to determine where your
+opponents lie.  The moebius completely encloses you, making sure only the
+most skilled survive.  The twisting iron beams recede into the gloom...  
+~
+0 268443672 0
+D0
+~
+~
+0 0 10195
+D3
+~
+~
+0 0 10192
+S
+#10194
+Extra room in the moebius~
+You find yourself surrounded by thick walls of sheeted iron.  Footsteps
+clang against iron plates all around you, making it impossible to determine
+where your opponents lie.  The cube completely encloses you, making sure
+only the most skilled survive.  
+~
+0 268443676 0
+S
+#10195
+{DThe Moeb{Ri{Dus{x~
+You find youself surrounded by twisting beams of iron.  Footsteps clang
+against metal all around you, making it impossible to determine where your
+opponents lie.  The moebius completely encloses you, making sure only the
+most skilled survive.  The twisting iron beams recede into the gloom...  
+~
+0 268443672 0
+D1
+~
+~
+0 0 10198
+D2
+~
+~
+0 0 10193
+S
+#10196
+{DThe Moeb{Ri{Dus{x~
+You find youself surrounded by twisting beams of iron.  Footsteps clang
+against metal all around you, making it impossible to determine where your
+opponents lie.  The moebius completely encloses you, making sure only the
+most skilled survive.  The twisting iron beams recede into the gloom...  
+~
+0 268443672 0
+D0
+~
+~
+0 0 10190
+D1
+~
+~
+0 0 10197
+S
+#10197
+{DThe Moeb{Ri{Dus{x~
+You find youself surrounded by twisting beams of iron.  Footsteps clang
+against metal all around you, making it impossible to determine where your
+opponents lie.  The moebius completely encloses you, making sure only the
+most skilled survive.  The twisting iron beams recede into the gloom...  
+~
+0 268443672 0
+D2
+~
+~
+0 0 10198
+D3
+~
+~
+0 0 10196
+S
+#10198
+{DThe Moeb{Ri{Dus{x~
+You find youself surrounded by twisting beams of iron.  Footsteps clang
+against metal all around you, making it impossible to determine where your
+opponents lie.  The moebius completely encloses you, making sure only the
+most skilled survive.  The twisting iron beams recede into the gloom...  
+~
+0 268443672 0
+D0
+~
+~
+0 0 10197
+D3
+~
+~
+0 0 10195
+S
+#10199
+The {WNe{BX{Wus{x~
+You stand at the center of some snaking maze.  Twisted iron beams and
+pipes twist out in all directions, leading off into the gloom.  There is a
+large machine in the center from which most of the pipes protrude.  This is
+the preparation chamber for the barbaric tournaments the inhabits of terra
+and dominia alike enjoy to prove themselves.  
+~
+0 805314840 5
+D0
+~
+~
+0 0 10190
+D1
+~
+~
+0 0 10191
+D2
+~
+~
+0 0 10192
+D3
+~
+~
+0 0 10193
+D4
+~
+~
+0 0 10195
+D5
+~
+~
+0 0 10196
+M 5000 H 5000
+S
+#0
+
+
+
+#SPECIALS
+M 10101 spec_cast_mage Load to: the hollow mage Ordenon
+M 10111 spec_breath_acid Load to: The great naga Seikinster
+S
+
+
+
+#MOBPROGS
+#10100
+emote cackles insanely at your arrival.
+say Welcome to my...home. Won't you stay awhile!!!
+~
+A
+#10101
+say Your soul will yet be mine!!
+~
+A
+#0
+
+#RESETS
+D 0 10101 0 1
+D 0 10107 1 2
+D 0 10108 3 2
+D 0 10117 0 1
+D 0 10122 2 1
+D 0 10133 0 1
+D 0 10134 1 1
+D 0 10135 2 1
+D 0 10136 3 1
+O 0 10100 0 10102
+M 1 10100 1 10102 1
+M 1 10101 1 10103 1
+E 0 10101 0 16
+O 0 10102 0 10103
+M 1 10102 2 10107 2
+E 0 10103 0 16
+M 1 10102 2 10107 2
+E 0 10103 0 16
+G 0 10104 0
+M 1 10103 1 10109 1
+M 1 10104 1 10109 1
+E 0 10105 0 17
+M 1 10105 6 10113 1
+M 1 10106 6 10114 1
+M 1 10107 6 10115 1
+M 1 10105 6 10116 1
+M 1 10106 6 10118 1
+M 1 10107 6 10119 1
+M 1 10107 6 10120 1
+M 1 10105 6 10121 1
+M 1 10108 1 10123 1
+M 1 10109 1 10123 1
+E 0 10107 0 9
+M 1 10110 1 10124 1
+E 0 10106 0 16
+M 1 10111 1 10125 1
+E 0 10108 0 5
+M 1 10112 2 10133 1
+O 0 10120 0 10135
+M 1 10114 1 10135 1
+E 0 10109 0 5
+E 0 10110 0 6
+E 0 10112 0 11
+E 0 10113 0 0
+E 0 10114 0 10
+E 0 10115 0 9
+E 0 10116 0 7
+E 0 10117 0 8
+E 0 10118 0 13
+E 0 10119 0 16
+O 0 10121 0 10199
+O 0 10122 0 10199
+M 1 10113 1 10199 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

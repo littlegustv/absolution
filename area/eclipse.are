@@ -1,0 +1,611 @@
+#AREADATA
+Name Eclipse Clan Hall~
+Builders None~
+VNUMs 10700 10749
+Credits { All }             Eclipse Hall~
+Security 9
+Xcontinent 0
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#10700
+world goon~
+the World~
+The World stands here protecting this clan.
+~
+From the troubled times of Eclipse when all was perseverance,
+from the troubled times of Eclipse when all was thought lost,
+a spirit was born. From the sweat and blood of its clan members
+the World was born, to drive out all enemies and see them
+cower before the rising might of Eclipse.
+~
+orc~
+ABCGT DHJNVZb 0 0
+60 0 60d10+6000 17d9+100 7d7+21 punch
+-21 -21 -21 -21
+BFKRU AB Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#10701
+healer friar chadwell~
+Friar Chadwell~
+Friar Chadwell waits to assist you.
+~
+Here stands a brisk and robust man covered from head to toe in a brown robe.
+He greets you as you enter the room and offers his services to aid you in
+your adventures in the quest for honour. He is a devout follower of the deity
+Fafre, the blessed sun, the light that shines forth from the darkness, and
+wishes you to follow his path.
+~
+human~
+ABQVa DZ 1000 0
+43 4 25d10+2500 1d1+100 3d12+15 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#10702
+bran quartermaster master clan storekeeper keeper~
+Bran the QuarterMaster~
+Bran the QuarterMaster waits for your order.
+~
+As you peer over the counter, you see a very strong and built man wearing
+very expensive armor. He's the source of all the material needs of the Eclipse
+Clan, and he uses money procured from the store to buy bigger and better
+things to further his clan of service.
+~
+human~
+ABQR DZ 1000 0
+1 0 1d1+999 1d1+999 10d10+10 magic
+-15 -15 -15 -15
+FGH ABCDQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#10703
+slasher spirt carnas~
+the spirit of Carnas~
+The spirit of Carnas inhabits the room, drawing life from those within.
+~
+You feel your life drained from you as you look at the pure evil
+of this spirit.  You rip your gaze away before you lose your own spirit.
+~
+human~
+ABCGJT DZ 0 0
+60 0 10d10+1400 17d9+100 4d7+11 punch
+-10 -10 -10 -10
+FU ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#10704
+world goon~
+the World~
+The World stands here protecting this clan.
+~
+From the troubled times of Eclipse when all was perseverance,
+from the troubled times of Eclipse when all was thought lost,
+a spirit was born. From the sweat and blood of its clan members
+the World was born, to drive out all enemies and see them 
+cower before the rising might of Eclipse.
+~
+orc~
+ABCGT DHJVZb 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+BFKR AB Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#10705
+world goon~
+the World~
+The World stands here protecting this clan.
+~
+From the troubled times of Eclipse when all was perseverance,
+from the troubled times of Eclipse when all was thought lost,
+a spirit was born. From the sweat and blood of its clan members
+the World was born, to drive out all enemies and see them 
+cower before the rising might of Eclipse.
+~
+orc~
+ABCGT DHJVZb 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+DFKR AB Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#10706
+World goon~
+the World~
+The World stands here protecting this clan.
+~
+From the troubled times of Eclipse when all was perseverance,
+from the troubled times of Eclipse when all was thought lost,
+a spirit was born. From the sweat and blood of its clan members
+the World was born, to drive out all enemies and see them
+cower before the rising might of Eclipse.
+~
+orc~
+ABCGT DHJVZab 0 0
+60 0 50d10+5000 17d9+100 6d7+21 none
+-21 -21 -21 -21
+R AB Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#10707
+eclipse goon~
+Eclipse goon~
+The new Eclipse goon stands here. Whatta maroon!
+~
+~
+orc~
+ABCGT J 0 0
+51 5 50d10+5000 1d1+100 5d8+20 slash
+-21 -21 -21 -21
+R AB Q S
+stand stand none 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#10700
+eclipse hall key~
+Eclipse hall key~
+The key to Eclipse clan hall is on the floor.~
+~
+key PU AO
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the clan_c of the world of Redemption. 
+~
+#10701
+fountain stone dirty yellow liquid~
+a dirty fountain~
+A fountain of dirty yellow liquid stands here.~
+stone~
+fountain OR 0
+0 0 'water' 0 0
+0 0 0 G
+#10702
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#10703
+table eclipse~
+the Eclipse clan table~
+The Eclipse Council meeting table stands in the middle of the room.~
+wood~
+furniture 0 0
+4 0 D 100 100
+0 0 0 P
+E
+table~
+Here before you is an ornately decorated table, crafted from the highest
+quality mellyrn wood.  The table is large enough for four people to sit
+around, yet there is no head, highlighting the equality among our Council.
+The table is beautifully trimmed with mithril engravings.  The seats at
+the table are marked with mithril showing each council member's name:
+Mierauch, Pirvan, and the Cherith Twins, Leucaruth and Jaycherith.
+ 
+~
+#10704
+elixir anti~
+anti-cyclops elixir~
+An elixir to ward off cyclopi has been bought then left behind here.~
+oldstyle~
+potion 0 AO
+15 'invisibility' '(null)' '(null)' '(null)'
+0 10 250 P
+#10705
+axe desolation~
+axe of desolation~
+Blood drips from the edge of an axe here.~
+stone~
+weapon BP AN
+axe 5 8 slice I
+48 50 5000 P
+A
+19 3  
+A
+18 4  
+A
+3 -3  
+A
+4 -2  
+#10706
+eclipse hall key fake~
+Eclipse hall key~
+The fake key to Eclipse clan hall is on the floor.~
+~
+key PU AO
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the clan_c of the world of Redemption. 
+~
+#10707
+graffiti strange message~
+some graffiti~
+A rebel wrote strange graffiti in blood on the west wall.~
+gold~
+treasure Y 0
+0 0 0 0 0
+0 0 0 P
+E
+graffiti~
+The strange graffiti reads:
+ 
+To the brotherhood of Eclipse that have stayed faithful to Carnas,
+Soon we shall take back control of our clan.
+ 
+Under this, someone's managed to wedge a dagger into the wall.
+A dagger dripping with still-warm, still-fresh blood.
+~
+#10708
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#10709
+prenuptual agreement~
+a prenuptual agreement~
+A prenuptual agreement lies here.~
+oldstyle~
+scroll 0 A
+51 'cure blindness' '(null)' 'shield' '(null)'
+11 10 2400 P
+#10710
+clan couch~
+a clan couch~
+{WA Huge {RRed{W Velvet Couch{x~
+cloth~
+furniture IO 0
+4 50 BEHKN 100 100
+0 0 0 P
+#10711
+wand magic missile missiles~
+a wand of magic missiles~
+a wooden stick lies on the ground.~
+wood~
+wand G AO
+4 10 10 'magic missile' 0
+2 10 220 P
+E
+wand~
+It has a little note that says 'point this end at target'. 
+~
+#10712
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#10713
+vial psychedelic ink~
+a vial of psychedelic ink~
+A vial of multicolored ink.~
+cream~
+potion 0 AO
+5 'invisibility' 'pass door' '(null)' '(null)'
+1 1 500 P
+#10714
+vial black ink~
+a vial of black ink~
+A vial of black writing ink sits here.~
+cream~
+potion 0 AO
+25 'remove curse' 'blur' '(null)' '(null)'
+25 1 3000 P
+#10715
+pewter sack~
+a pewter sack~
+A small bag made of metal is gathering dust here.~
+pewter~
+throwing N AO
+3 7 blast 37 'acid blast'
+30 20 3500 P
+#10716
+defeathered chicken~
+a defeathered chicken~
+A defeathered chicken is here on the floor.~
+oldstyle~
+food 0 A
+16 16 0 0 0
+0 50 10 P
+#0
+
+
+
+#ROOMS
+#10700
+Eclipse Leader's Room~
+This room was an accident and is not connected to clan hall.
+~
+0 4 0
+S
+#10701
+The Obsidian Citadel~
+You are in the main hall of the Obsidian Citadel, the old fortress
+of clan Eclipse.  This room was carved from a single deposit of obsidian.
+The walls are the color of the darkest shadow, and they used to be smooth
+as mirrors.  Since the fall of the clan, however, they have become scarred
+and pitted.  The remains of several burnt torches line the walls.  You can
+retreat into the sunlight to the south, go north through a black
+doorway, or west into the unknown.
+~
+0 8 0
+D0
+~
+door~
+0 0 10703
+D2
+~
+~
+0 -1 5205
+D3
+~
+door~
+0 0 10702
+S
+#10702
+Wrath~
+The spirit of Carnas, the father of Eclipse, still dwells in this
+room.  His evil, vengeful, soul seems to reach out to steal your well 
+being.  The only exit lies to the east.
+~
+0 8 0
+D1
+~
+door~
+0 0 10701
+M 80 H 80
+S
+#10703
+The Shadow~
+You are plunged into a darkness deeper than a moonless midnight.
+A slight chill invades your bones as you realize that the old entrance
+into Eclipse's clan hall has collapsed.  The only exit now lies to the
+south.
+~
+0 8 0
+D2
+~
+door~
+0 -1 10701
+S
+#10704
+An Abandoned Clan Hall~
+This large room was once the main hall of the Obsidian Citadel.  The rich
+jewels that once lined the walls have been stolen by looters.  In the center of
+the room is a statue of Eclipse's first leader, Paradox.  The monument has
+been defaced with graffiti.  There are exits to the north and west.
+~
+0 8 0
+D0
+~
+door~
+0 0 10705
+D3
+~
+door~
+0 0 10706
+D4
+~
+~
+1 0 5219
+S
+#10705
+Broken Heart of the Shadow~
+Darkness engulfs you as you step into this room.  Whatever evils were hatched
+here you can only imagine.  Most of the healing power that once enhanced
+this place has now vanished.  And a thick mist now covers the floor, making
+everything moist and cold.  There are exits to the south, up, and down.  A
+closed door stands to the east and another door stands to the north.
+~
+0 8 0
+E
+2~
+Generic extended description. 
+~
+D0
+~
+~
+1 0 10707
+D1
+~
+door~
+1 0 10713
+D2
+~
+door~
+0 0 10704
+D4
+~
+~
+0 0 10709
+D5
+~
+~
+0 0 10711
+M 150 H 150
+S
+#10706
+An Old Storeroom~
+This room is dark and dusty.  The once well stocked shelves are now
+empty.  Broken pieces of equipment and deformed weapons lie on the
+floor.  It appears that this room has not been visited in a long time.
+There is an exit to the east, and a door to the north.
+~
+0 8 0
+D0
+~
+~
+1 0 10708
+D1
+~
+door~
+0 0 10704
+S
+#10707
+A Dirty Bedroom~
+-=======================================-
+You stand in the middle of a large room.  Its dark walls have survived the
+fall of Eclipse relatively untouched.  Unfortunately the same can not be
+said of the rooms other features.  The top half of a statue in the corner has
+been crushed by repeated blows and tattered rements of tapastries lay in
+piles on the floor.  The only exit lies to the south.
+~
+0 8 0
+D2
+~
+~
+1 0 10705
+S
+#10708
+An Old Council Room~
+This is the old Eclipse Council Room, which has been long forgotten and
+abandoned.  It has been stripped bare of all valuables.  A broken table
+stands in the center of the room.  It is covered with pieces of mice eatten
+paper.  A large map of Terra is tacked to the east wall, it has been stained
+with water marks.  The only exit is through the door to the south.
+~
+0 8 0
+D2
+~
+~
+1 0 10706
+S
+#10709
+An Abandoned Child's Room~
+This was once the bedroom of a set of twins.  Now it is almost empty and
+covered with dust.  Two small pictures still hang on the wall, the names
+etched under them are Jaycherith and Leucaruth.  There are exits going
+up and down.
+~
+0 8 0
+D4
+~
+~
+0 0 10710
+D5
+~
+~
+0 0 10705
+S
+#10710
+A Forgotten Chamber~
+Although its been many years since this room was last occupied it retains
+some of the marks of its former glory.  A chandelier stripped of its
+crystal hangs from the ceiling, and a wide ornate shelf now covered in grim
+sits on the east wall.  There are marks on the west wall where pictures
+used to hange, and a brass plaque has been nailed to the north wall.  The
+word etched in the plaque is now unreadable.  There is a door to the south,
+and a staircase leading down.
+~
+0 8 0
+D2
+~
+door~
+1 0 10712
+D5
+~
+~
+0 0 10709
+S
+#10711
+Deep Pit~
+You stand at the bottom of a deep pit.  Garbage and flith cover the ground.
+It is difficult to determine what this room was previously used for.  Most
+recently, however, people have been throwing their trash down here and it is
+beginning to stink.  The only exit is up.
+~
+0 8 0
+D4
+~
+~
+0 0 10705
+S
+#10712
+A Hidden Room~
+This small room has not been disturbed for many months.  A broken flail
+lies in the corner of the room and dead plants stand on the window sill.
+A broken wedding portrait of a long forgotten couple hangs crookedly
+on the south wall.  The only exit is through a door to the north.
+~
+0 8 0
+D0
+~
+door~
+1 0 10710
+S
+#10713
+An Old Training Room~
+Although this room has been in used in many months the stench of
+sweat, blood, and power drip from the walls and ceiling.  Long
+scratches cover the walls and broken wands litter the floor.  A
+door to the west is the only exit.
+~
+0 8 0
+E
+2~
+Generic extended description. 
+~
+D3
+~
+door~
+1 0 10705
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 10704 4 1
+D 0 10705 0 1
+D 0 10705 1 1
+D 0 10706 0 1
+D 0 10707 2 1
+D 0 10708 2 1
+D 0 10710 2 1
+D 0 10712 0 1
+D 0 10713 3 1
+O 0 10701 0 10705
+S
+
+
+
+#SHOPS
+10702 0 0 0 0 0 190 100 0 23
+0
+
+
+
+#$

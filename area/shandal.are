@@ -1,0 +1,7653 @@
+#AREADATA
+Name Shandalar~
+Builders Aql~
+VNUMs 30800 31199
+Credits { All } Yaeger      Shandalar~
+Security 9
+Xcontinent 1
+Age 6
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#30801
+Jayge~
+Jayge~
+Jayge, the portly bar keeper is here serving drinks.
+~
+Jayge looks at you warily with his one wonky eye.
+Despite his portly appearance he strikes you as
+the type to be quick with a blade.
+~
+human~
+AB DZ 900 0
+23 0 1d1+32000 1d1+99 1d8+20 none
+-15 -15 -15 -15
+CDF ABCDEHIKLQa 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#30802
+bowman bowyer~
+Ranger Bowman~
+Ranger Bowman, Shandalar's Bowyer and Fletcher, waits to serve you.
+~
+"Welcome to my place of business, adventurer.  Got something you're
+after?  Just type BUY <Item>.  If you want to know WHAT you can buy (usually
+a wise move) type LIST.  If you're just after a specific type of item, say
+an arrow, type LIST arrow, and I'll show you what I have that matches that
+description.  If you want to sell me something, type SELL <item>.  If you
+just want to know what it's worth, type VALUE <item> and I'll give you a
+free valuation".  
+~
+human~
+ABGV N 900 0
+23 2 5d10+450 1d1+100 3d6+6 none
+-6 -6 -6 -6
+CEFJKN ABCD 0 0
+stand stand male 200000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31000
+gath priest healer ~
+Gath, the High Priest~
+Gath, the High Priest and Healer of Shandalar greets you.
+~
+Gath seems very old and withered.  His white hair hangs to his shoulders,
+although his beard is well trimmed.  Type 'heal' to see a listing of the
+spell he knows.
+ 
+Despite his apperance, Gath is well versed in the arts of healing.
+You notice a sapphire ball floating near Gath, and ponder its mysteries.
+It turns out Gath uses the "sapphire healing ball" to make his job
+easier. You could fashion one for yourself as well. The healing ball
+can cushion you from blows, and help you recover from wounds more
+quickly as well. Crafting it, however, will not be simple. You need:
+ 
+25 brilliant sapphires
+a manual of healing arts
+a bright ball of light
+a quartz ball
+a fragment ball
+a basketball
+a cue ball
+ 
+Good luck!
+~
+human~
+ABQVa DFH 1000 0
+40 0 1d1+999 1d1+999 2d4+30 none
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31001
+eclipse goon~
+Basic Goon~
+A clan goon is here, protecting the door to the east.
+~
+~
+orc~
+ABCGT DHJZ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+R ABb Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#31002
+jolob smith blacksmith~
+Jolob the Blacksmith~
+Jolob the Blacksmith grunts a greeting as you enter.
+~
+This blacksmith's muscles bulge from years of lifting heavy objects.
+~
+human~
+ABG HN 1000 0
+20 0 3d9+133 1d1+100 2d8+1 punch
+-4 -4 -4 -4
+0 0 D 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31003
+armorer~
+the Armorer~
+The Armorer offers to show you some of his wares.
+~
+"Welcome to my place of business, adventurer. Got something you're after?
+Just type BUY <Item>. If you want to know WHAT you can buy (usually a wise
+move) type LIST. If you're just after a specific type of item, say a shield,
+type LIST shield, and I'll show you what I have that matches that
+description. If you want to sell me something, type SELL <item>. If you
+just want to know what it's worth, type VALUE <item> and I'll give you a
+free valuation".
+~
+human~
+ABGV HN 900 0
+23 2 5d10+450 1d1+100 3d6+6 punch
+-6 -6 -6 -6
+CEFJKN ABCD 0 0
+stand stand male 200000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31004
+weaponsmith smith~
+the Weaponsmith~
+The Weaponsmith eyes you curiously.
+~
+"Greetings stranger, or have we met before? Never mind. Either way, to
+see what I have for sale, type LIST. if you want to buy an item you see
+there, type BUY <item> (simple, huh?). If you want me to buy something off
+you, type SELL <item>. If you just want a valuation, type VALUE <item> and
+I'll let you know what its worth for free".
+~
+human~
+ABGTV HN 1000 0
+23 2 5d10+450 1d1+100 3d6+6 punch
+-6 -6 -6 -6
+CEIK ABCD 0 0
+stand stand male 200000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31005
+mercenary master~
+the Mercenary Master~
+The Mercenary Master grunts as you enter.
+~
+"Want a Mercenary? Then type LIST to see what I sell, then type BUY <name>
+to hire 'im. That's it. Now pay up or get out".
+~
+human~
+ABG HN 1000 0
+99 16 1d199+9800 1d1+99 1d69+32 none
+-56 -56 -56 -51
+0 0 0 0
+stand stand male 990
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31006
+mage store keeper~
+a mage~
+An intelligent looking mage smiles helpfully at you.
+~
+The mages is young and pretty, but seems very well versed with the
+magical arts.  To see what she sells type "list", to buy an item type
+"buy (object)".
+~
+human~
+ABV D 900 0
+23 0 1d1+999 1d1+999 1d8+32 none
+-15 -15 -15 -15
+AF ABCD 0 0
+stand stand female 15000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31007
+adarasus potion shop keeper~
+Adarasus the shop owner~
+Adarasus tries to convince you to buy a potion.
+~
+Adarasus is a tall man dressed in black.  He stands behind a desk guarding
+a locked box.  He smiles at you helpfully.
+~
+human~
+ABV DF 900 0
+25 0 1d1+999 1d1+199 5d6+20 none
+-15 -15 -15 -15
+FG ABCDP 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31008
+sissy cleric~
+Sissy~
+Sissy is here, training young students.
+~
+Sissy's dark eyes flash as she sizes up your potential.
+~
+human~
+ABCJQTVb CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 none
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31009
+selina order trainer gargnath lawrygould~
+a member of Selina's order~
+A follower of Selina offers to train you in her arts.
+~
+~
+human~
+ABGJKVb HN 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 slap
+-13 -13 -13 -13
+0 0 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31010
+grocer~
+the Grocer~
+The Grocer smiles and welcomes you to her store.
+~
+"To see what you can buy here," she begins sweetly,"type LIST. If you
+see something you'd like, type BUY <item>. If you have something you
+think I may like to buy, type SELL <item>. Alternatively I can give you
+a free evaluation of the item- simply type VALUE <item>".
+~
+human~
+ABG HN 1000 0
+35 3 10d10+1300 1d1+100 4d7+11 punch
+-11 -11 -11 -11
+0 0 0 0
+stand stand female 990
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31011
+troll baker~
+the baker~
+The baker, a rough-looking troll, demands your business.
+~
+"Bread? Course I got bread, STUPID! Thats why it's called a BAKERY. I also
+got pies, rolls an' sandwiches. If ya want an exact list, then type LIST.
+If ya wanna buy something, then type BUY <item>. If ya think ya got sumptin'
+I might wanna buy, type SELL <item>. Now buy up!"
+~
+troll~
+ABG DHJNZ 1000 0
+35 3 10d10+1300 1d1+100 4d7+11 punch
+-11 -11 -11 -11
+0 0 Q H
+stand stand male 990
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#31012
+bartender~
+the Bartender~
+The Bartender grins smugly as he cleans a glass.
+~
+"Want a drink, friend? Of COURSE you do. Especially if you're one of them
+spellflinging types. To see whats on tap, type LIST. If you see something
+you fancy, well, then type BUY <item>. OK?"
+~
+human~
+ABGV HN 1000 0
+23 2 5d10+450 1d1+100 3d6+6 beating
+-6 -6 -6 -6
+FHJN ABCD 0 0
+stand stand male 990
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31013
+warden guard prison~
+the prison warden~
+The prison warden guards the cells.
+~
+This guard looks like he doesn't take crap from anyone, except maybe
+the king.  You'd better watch your step around him.
+~
+human~
+ABGT HN 1000 0
+30 0 6d12+253 1d1+100 4d6+1 punch
+-9 -9 -9 -9
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31014
+none~
+none~
+None
+~
+~
+orc~
+ABCGT DHJLNOQTVZb 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+ABCDEFHIJKMNOR ABab CDFGQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#31015
+eclipse usher slasher~
+The usher~
+The Usher of Eclipse leads you into the outpost.                                                                                               
+~
+The usher quickly leads you into the outpost of Eclipse.
+~
+human~
+ABCGT DZ 0 0
+60 0 10d10+1400 17d9+100 4d7+11 punch
+-10 -10 -10 -10
+FU ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#31016
+Karn cleric~
+Karn~
+Karn is ready to help you practice.
+~
+Karn is learned in all the magic and deadly arts.  He can help you
+practice your skills.
+~
+human~
+ABCKQTV CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 none
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31017
+blob~
+the blob~
+The blob is here, waiting to eat you up.
+~
+He is big, he is bad.  You don't want to fight him when he isn't chained up.
+Perhaps now would be a good time to flee from him!!!  If you don't flee, you
+would really suffer the consequences.
+~
+unique~
+ABG C 0 0
+10 -5 1d1+49 1d1+99 1d1+0 none
+-15 -15 -15 -15
+AN AB CD 0
+stand stand none 0
+BSc 0 large 0 the guilds~
+#31018
+free vnum~
+none~
+None
+~
+~
+human~
+ABCGT DZ 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+FU ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#31019
+Tahngarth cleric~
+Tahngarth~
+The mighty warrior Tahngarth is here, contemplating your progress.
+~
+Tahngarth is part ox, part man.  
+~
+human~
+ABGQTV CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 none
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31020
+the French Professor~
+French professor~
+The French professor is here to teach you a lesson.
+~
+The french professor is an extremely attractive woman.  However, she has
+a really bad attitude.
+~
+school monster~
+ABFU 0 0 0
+1 -1 1d1+4 1d1+99 1d3+0 none
+10 10 10 10
+EK AB 0 C
+stand stand female 10
+AMV ABCDEFHJKQU medium 0 the guilds~
+#31021
+math teacher~
+the math teacher~
+The math teacher is here to give you a lesson.
+~
+The math teacher has his back turned to you as he writes problems on the
+board.
+~
+school monster~
+ABFHU 0 0 0
+1 -1 1d1+4 1d1+99 1d2+0 none
+10 10 10 10
+J AB 0 C
+stand stand male 10
+AMV ABCDEFHJKQU medium 0 the guilds~
+#31022
+physionomy professor~
+the physionomy professor~
+The physionomy professor is here to teach you a lesson.
+~
+The physionomy teacher studies you carefully.  You wonder what he is 
+thinking about.
+~
+school monster~
+ABHU 0 0 0
+1 -1 1d1+4 1d1+9 1d2+0 none
+10 10 10 10
+O AB 0 C
+stand stand male 10
+AMV ABCDEFHJKQU medium 0 the guilds~
+#31023
+history professor~
+the history professor~
+The history professor is here to teach you a lesson.
+~
+The history teacher is discussing the crusades.  Do you have anything
+interesting to add?
+~
+school monster~
+ABU 0 0 0
+1 -1 1d1+4 1d1+9 1d2+0 none
+10 10 10 10
+0 AB 0 C
+stand stand female 10
+AMV ABCDEFHJKQU medium 0 the guilds~
+#31024
+cuervo headsman~
+Cuervo, the headsman~
+Cuervo, the headsman, warns you to stay out of trouble.
+~
+Cuervo has lopped more heads off with this trusty guillotine than you
+EVER will with your weapons.  
+~
+giant~
+ABTV DFJTVZ 1000 0
+45 30 1d1+3999 1d1+499 5d4+40 pound
+-25 -25 -25 -15
+ACDEFHIKLNOT ABPa BCDEHI IJP
+stand stand male 0
+ABHMVZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+#31025
+Meida cleric~
+Meida the shopkeeper~
+Meida stands here, offering to sell you something.
+~
+Meida is an attractive young woman.
+~
+human~
+ABCQTV Z 1000 0
+30 10 1d1+999 1d1+999 2d4+30 none
+-5 -5 -5 -5
+ACEFHIKN ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31026
+overworked janitor~
+an overworked janitor~
+An overworked janitor is trying to keep up with the student's mess.
+~
+An old and bitter janitor walks the dormitory halls.  He walks past the
+pizza boxes and pretzel bags, deciding to pick up an empty coke can to
+wearily put into his plastic bag.  It looks as though he has given up trying
+to fight against the mess that the students make.  
+~
+human~
+AGU 0 0 0
+2 0 2d7+21 1d1+100 1d5+0 beating
+8 8 8 8
+0 0 L 0
+stand stand male 20
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31027
+free mob~
+free mob~
+Free mob
+~
+~
+orc~
+A J 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+M 0 CDEQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#31028
+casino dealer~
+a casino dealer~
+The casino dealer offers to let you in the game.
+~
+The dealer is dressed in a dark black tux with a fresh pressed white shirt.
+His hands move so fast that you can't tell if he is cheating or not.
+~
+human~
+ABGLV HN 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 slap
+-13 -13 -13 -13
+0 AB 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31029
+<unused vnum>~
+<unused vnum>~
+The usher of Justice leads you into the outpost of Justice.
+~
+The usher quickly leads you into the outpost of Justice.
+~
+human~
+ABCGT DZ 0 0
+60 0 10d10+1400 17d9+100 4d7+11 none
+-10 -10 -10 -10
+FU ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#31030
+Free Mob~
+free mob~
+Free mob
+~
+~
+human~
+A DZ 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#31031
+ghak big large creature~
+Ghak~
+A large creature stands in the shadows.
+~
+He looks mean, and you just might have a small problem killing him, but he
+looks like a great prize!!!
+~
+school monster~
+ABU JZ 0 0
+2 -1 2d2+10 1d1+99 1d3+1 none
+8 8 8 10
+FN AB 0 C
+stand stand male 25
+AMV ABCDEFHJKQU medium 0 the guilds~
+#31032
+castellan~
+the Castellan of Shandalar~
+The Castellan of Shandalar welcomes you to his city.
+~
+The Castellan is a tall, lean man of middle years with graying hair and
+a sinewy frame. He is always polite and helpful, but is more than prepared
+to do what it takes to defend his city. A veteran of more than twenty years
+of combat, he is not a man to be toyed with.
+~
+human~
+AG CDHJN 1000 0
+15 -1 3d9+108 1d1+100 2d5+3 punch
+-2 -2 -2 -2
+0 0 0 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31033
+citizen~
+a citizen~
+A citizen of Shandalar passes by you.
+~
+Shandalar is not a huge city in the terms of population, but there are a fair
+number of residents, such as this fellow.
+~
+human~
+AG 0 0 0
+6 -1 2d7+41 1d1+100 1d5+1 punch
+4 4 4 4
+0 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31034
+citizen~
+a citizen~
+A citizen of Shandalar passes by you.
+~
+Shandalar is not a huge city in terms of population, but there are a fair number
+of residents, such as this lady.
+~
+human~
+AG 0 0 0
+10 -1 2d6+101 1d1+100 2d3+2 slap
+1 1 1 1
+0 0 0 0
+stand stand female 50
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31035
+child~
+a child~
+A child frolics in the street here.
+~
+There are not that many children in Shandalar, so those that are present are
+treasured by the locals. However, this endearment certainly isn't shared by
+visitors, who find the spoiled brats insufferable.
+~
+human~
+AG 0 0 0
+6 -1 2d7+31 1d1+100 1d6+1 slap
+4 4 4 4
+0 0 0 0
+stand stand either 30
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31036
+janitor~
+the janitor~
+A janitor is walking around, cleaning up.
+~
+"Grumble grumble... you don't think I got anything better to do than pick up
+YOUR crap? Grumble grumble... and these BLOODSTAINS! *SIGH*"
+~
+human~
+AG D 900 0
+6 -1 2d7+51 1d1+100 1d6+1 punch
+4 4 4 4
+0 0 0 0
+stand stand male 60
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31037
+footpad~
+a footpad~
+A footpad stalks around looking for an easy victim.
+~
+The footpad skulks about, looking for someone to conk over the head.
+~
+human~
+ACG Q -200 0
+6 -1 2d7+51 1d1+100 1d6+1 slice
+4 4 4 4
+0 b 0 0
+stand stand male 60
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31038
+drunk~
+a drunk~
+A singing, happy drunk.
+~
+A drunk who seems to be too happy, and to carry too much money. He mumbles some
+thing unintelligible and stumbles away.
+~
+human~
+AG 0 400 0
+4 -1 2d7+26 1d1+100 1d4+1 punch
+6 6 6 6
+0 0 0 0
+stand stand male 40
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31039
+beggar~
+a beggar~
+A beggar is here, well... begging.
+~
+"Hey mista! Spare a veteran a dime?"
+~
+human~
+AG 0 400 0
+7 -1 2d6+55 1d1+100 1d6+1 slap
+4 4 4 4
+0 0 0 0
+stand stand male 30
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31040
+thief~
+a thief~
+A thief is looking for an unsuspecting target.
+~
+This clever fellow has robbed dozens of unsuspecting visitors to Shandalar.
+~
+human~
+AGH BPQU -500 0
+10 -1 2d7+101 1d1+100 2d3+2 slice
+1 1 1 1
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31041
+fido~
+a beastly fido~
+The beastly fido is here looking for food.
+~
+The beastly fido is foaming at the mouth. You smell the aroma of his latest kil
+l.
+~
+dog~
+AGH 0 0 0
+5 -1 2d6+40 1d1+100 1d4+1 bite
+5 5 5 5
+H 0 0 0
+stand stand none 50
+AGHMV ABCDEFGHIJKUV small 0 the guilds~
+#31042
+rat~
+a huge sewer rat~
+A huge sewer rat scurries along the edge of the room.
+~
+Rats! Eeyew! They come up out of the sewer and steal the children of Shandalar.
+Good.
+~
+dog~
+AGH 0 0 0
+3 -1 2d6+15 1d1+100 1d4+0 bite
+7 7 7 7
+H T 0 0
+stand stand none 30
+AGHMV ABCDEFGHIJKUV tiny 0 the guilds~
+#31043
+cat~
+a cat~
+A stray cat rummages through some trash here.
+~
+The cat suddenly emerges, triumphant, with a half-eaten steak, and runs off.
+~
+cat~
+AGH Z 0 0
+2 -1 2d5+2 1d1+100 1d2+0 bite
+8 8 8 8
+FH 0 0 0
+stand stand female 20
+AGHMV ABCDEFGHIJKQUV small 0 the guilds~
+#31044
+knight shandalar~
+a knight of Shandalar~
+A trusted knight of Shandalar guards the streets.
+~
+This fellow is a member of one of the best order on the continent.  Dedicated,
+loyal, and effiicient, he is the epitome of truth and justice.
+~
+human~
+AT 0 1000 0
+20 -1 3d9+133 1d1+100 2d8+2 pound
+-4 -4 -4 -4
+CDEKLTU KZ C 0
+stand stand either 150
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31045
+kings guard~
+a member of the King's Guard~
+A member of King's Guard warns you stay off the grass.
+~
+This guard has been specially appointed by the King to guard the city.
+~
+human~
+ADG CHN 1000 0
+19 -1 3d9+108 1d1+100 2d7+2 slice
+-4 -4 -4 -4
+0 0 0 0
+stand stand either 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31046
+city guard~
+a city guard~
+One of city guards stands watch here.
+~
+A big, strong, helpful, trustworthy guard. 
+~
+human~
+ABT 0 1000 0
+17 -1 3d9+158 1d1+100 3d3+4 pound
+-3 -3 -3 -3
+CDEKLTU 0 C 0
+stand stand either 150
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31047
+mercenary swordsman~
+a swordsman~
+A brawny mercenary swordsman awaits your orders.
+~
+The swordsman looks like a strong and fearless fighter.
+~
+human~
+ABU FZ 0 0
+9 3 6d10+80 1d1+99 2d5+1 slice
+4 4 4 8
+CFH 0 C 0
+stand stand male 0
+AGHMV ABCDEFGHIJKQV medium 0 the guilds~
+#31048
+mercenary archer~
+an archer~
+A mercenary archer await your orders.
+~
+The archer's aim is always true.
+~
+human~
+ABU F 400 0
+7 3 6d10+60 1d1+149 2d4+1 pierce
+4 4 4 8
+CDHL 0 C 0
+stand stand male 0
+AGHMV ABCDEFGHIJKUV medium 0 the guilds~
+#31049
+mercenary foot soldier~
+a foot soldier~
+A mercenary foot soldier protects his master.
+~
+The foot soldier looks like a fierce figher.
+~
+human~
+ABU F 400 0
+5 3 3d12+50 1d1+99 1d6+0 slice
+5 5 5 9
+HN 0 C 0
+stand stand male 0
+AGHMV ABCDEFGHIJKQUV small 0 the guilds~
+#31050
+mercenary guide~
+a guide~
+A mercenary guide awaits your directions.
+~
+This guide knows all the hidden areas of Dominia.
+~
+human~
+ABU F 400 0
+3 2 4d6+25 1d1+99 1d6+0 punch
+7 7 7 10
+HN 0 C 0
+stand stand male 0
+AGHMV ABCDEFGHIJKQUV small 0 the guilds~
+#31051
+mercenary hired hand~
+a hired hand~
+A hired hand is helping his master.
+~
+The hired hand looks like he rather be plowing a field.
+~
+human~
+ABU Z 400 0
+1 2 2d6+11 1d1+99 1d4+0 punch
+8 8 8 10
+FH 0 C 0
+stand stand male 0
+AGHMV ABCDEFGHIJKQUV tiny 0 the guilds~
+#31052
+mercenary assassin~
+an assassin~
+A mercenary assassin shadows his master.
+~
+The black, cloaked assassin looks for an opportunity to strike.
+~
+human~
+ABIU FTZ 0 0
+12 3 6d10+130 1d1+99 2d5+3 sting
+0 0 0 8
+FHN 0 C 0
+stand stand male 0
+AGHMVW ABCDEFGHIJKPU small 0 the guilds~
+#31053
+Angus~
+Angus MacDowell~
+Angus MacDowell says, in a broad Scottish accent, "What be yer fancy laddy'?"
+~
+Angus is a broad man of Mediterranean descent in his middle years. He
+goes on to tell you that you can have anything you want, as long as it's
+deep-fried. That includes the pizza...
+~
+human~
+ABDG HJN 1000 0
+35 3 10d10+1300 1d1+100 4d7+11 punch
+-11 -11 -11 -11
+0 0 0 0
+stand stand male 990
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31054
+cashier money changer~
+a cute cashier~
+A pretty cashier with long eyelashes waits to help you.
+~
+This is the cutest girl you've seen in all of Shandalar.  You wonder if she
+has a date for Friday night.
+~
+human~
+ABVde DF 900 0
+25 0 1d1+999 1d1+199 5d6+20 slap
+-15 -15 -15 -15
+FG ABCD 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31055
+Telim'Tor diploma~
+Telim'Tor~
+Telim'Tor holds your diploma, but you'll have to kill him to get it.
+~
+Killing Telim'Tor is your final test for college.  Kill him, and the diploma is
+yours.
+~
+school monster~
+ABU J 0 0
+3 -1 2d4+15 1d1+99 1d4+1 none
+8 8 8 10
+EFN AB 0 C
+stand stand male 30
+AMV ABCDEFHJKQU medium 0 the guilds~
+#31056
+Gerrard cleric~
+Gerrard~
+Gerrard wishes you good luck on your journey in the world.
+~
+Gerrard is a tall man with a dark beard.  He looks strong and powerful,
+like he learned well all the lessons of Shandalar's college.
+~
+human~
+ABGQTVa CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 none
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31057
+freshman~
+a freshman~
+A freshman looks confused wandering around campus.
+~
+This freshman looks clueless.
+~
+human~
+AGU 0 0 0
+1 -1 1d1+0 1d1+99 1d1+0 none
+10 10 10 10
+0 0 0 0
+stand stand either 0
+AGHMQVc ABCDEFGHIJKM small 0 the guilds~
+#31058
+sophomore~
+a sophomore~
+A sophomore looks cool and collected walking around campus.
+~
+This student looks like she knows her way around campus.
+~
+human~
+AGU 0 0 0
+2 -1 3d3+5 1d1+99 1d3+1 none
+7 7 7 9
+CDFR 0 0 0
+stand stand female 0
+AGHMV ABCDEFGHIJK medium 0 the guilds~
+#31059
+junior~
+a junior~
+A junior is passing out pamphlets.
+~
+This student is trying to save the world by informing you about the
+world's problems.
+~
+human~
+AGU 0 -100 0
+3 -1 2d2+15 1d1+99 1d3+1 none
+8 8 8 10
+R 0 L I
+stand stand either 0
+AGHMVXc ABCDEFGHIJKQV medium 0 the guilds~
+#31060
+senior~
+a senior~
+A self-assured senior smiles at you.
+~
+This senior student is ready to graduate and enter the real world.
+ 
+~
+human~
+AGHU 0 100 0
+4 0 1d1+20 1d1+99 1d3+0 punch
+10 10 10 10
+FH 0 0 0
+stand stand either 0
+AGHMV ABCDEFGHIJK medium 0 the guilds~
+#31061
+gemologist jeweller~
+a gemologist~
+A gemologist waits to serve you.
+~
+He is fat and has a content although watchful look on his face. 
+~
+human~
+ABV 0 900 0
+23 0 1d1+999 1d1+99 1d8+22 none
+-15 -15 -15 -15
+AF ABCD 0 0
+stand stand male 580000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31062
+none~
+none~
+None
+~
+~
+orc~
+ABCGT DHJLNOQTVZb 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+ABCDEFHIJKMNOR ABab Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#31063
+quest mistress~
+the Quest Mistress~
+The Quest Mistress is here, ready to send you on a journey.
+~
+The young woman is not interested in anything but her magic.
+~
+human~
+ABQVa DFH 1000 0
+40 0 1d1+999 1d1+999 2d4+30 none
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31064
+concessions vendor~
+a concessions vendor~
+A {Rc{Wo{Rn{Wc{Re{Ws{Rs{Wi{Ro{Wn{Rs {Wv{Re{Wn{Rd{Wo{Rr{x is here selling {Rover{Ypriced{x food, or at least something that resembles food.
+~
+A vendor stands behind a glass counter here.  On display are many
+goodies, and not so goodies that are all for sale.  The overly high prices
+are listed on a board behind him on a sign that states, 'Outside food and
+drink is prohibited in this venue.  Violating this rule may result with
+punishment of dismemberment, disembowelment, death and/or ingestion.  ' The
+hooked glaive hanging below the sign convinces you that itis a good idea to
+heed its warning.  
+~
+human~
+ABQR DJZ 1000 0
+1 0 1d1+999 1d1+999 10d10+10 none
+-15 -15 -15 -15
+FGH ABCDQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31065
+dominian receptionist shopkeeper~
+The Dominian Embassy's Receptionist~
+The Dominian Receptionist is on an underdimensional call back to Palankcaren.
+~
+The Dominian Embassy, while small, does have a receptionist.  Unlike the
+hustle and bustle of the Terran Embassy, the Dominian location is not well
+suited to handle large volumes of dignitaries.  As such, the receptionist
+often fills her free time by conversing with colleagues at other Embassies
+or back in Palankcaren.  She also has found the time to keep a small
+offering of concessions available for the Ambassadors and Guardians.  While
+seated at her position behind the desk, she wears the standard uniform of a
+Valocarian Assistant Abroad, with the emblem of the Valocar on a pin upon
+her breast, and the long embroidered sleeves that demonstrate her
+affiliation with the Monatar.  
+~
+elf~
+ABGV J 0 0
+60 6 50d10+9500 1d1+99 8d6+28 none
+-30 -30 -30 -30
+0 ABCDa B Z
+sit sit female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 31000 18~
+#31171
+wuher bartender~
+Wuher the Bartender~
+Wuher the Bartender offers to mix up a concoction known as the "Death Star"
+~
+A middle aged man stands behind the bar.  When he sees you walk in, he
+yells, "Leave your droids outside!  We don't serve their kind here."  His
+squinty eyes, bulbous nose, and thick jowls, do not make him the most
+welcoming looking man in the bar, but considering his clientele, he is more
+than friendly enough for you.  "Try a death star."  He suggests.  In respose
+to the quizzical expression you respond with he explains, "The Mos Eisley
+Cantina is famous for it.  Bestdrink this side of the Hutts, and only twice
+as dangerous.  It's made with a jigger of Guinness, Johnny Walker Blue,
+mozzarella, a pinch of Copenhagen in one third Galliano, one third
+Pinot Grigio, and one third Ancient Age, a raw oyster, a sprinkle of jerk
+seasoning, a handful of gravel, a wee spritz of ginger ale, the dust of a
+crushed number two pencil, tequila, Bantha juice, cranberry juice, some
+salt, port, ranch dressing, a thimbleful of cider, a small hand-held
+calculator, and a hibiscus bloom garnish with a Guinness and vodka chaser." 
+~
+human~
+ABGa 0 0 0
+47 4 25d10+3000 1d1+99 8d4+16 none
+-15 -15 -15 -15
+0 ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31180
+eclipse goon~
+Basic Goon~
+A clan goon is here, protecting the door to the east.
+~
+~
+orc~
+ABCGT DHJZ 0 0
+60 0 50d10+5000 17d9+100 6d7+21 none
+-21 -21 -21 -21
+R ABb Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#31181
+none~
+none~
+None
+~
+~
+human~
+ABQVa DFJZ 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31182
+stuffed target~
+a stuffed target~
+A stuffed target is tied to a post here.
+~
+You see well used stuffed target with spliting seemes.
+~
+human~
+A HV 0 0
+35 0 1d1+1500 1d1+100 1d1+0 none
+9 9 9 9
+0 AB CD 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 31011 rearm~
+#31183
+dummy target~
+a target dummy~
+A target dummy is here.
+~
+You see well used stuffed target with spliting seemes.
+~
+human~
+A HV 0 0
+35 0 1d1+1500 1d1+100 1d1+0 none
+9 9 9 9
+0 ABCD CD 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 31012 rearm~
+#31184
+acolyte selina~
+an Acolyte of Selina~
+An Acolyte of Selina stands here, ready to answer your prayers.
+~
+One of Selina's most devout followers stands before you.  He has learned
+to communicate with Selina on a plane which most others can only dream of
+achieving.  As such, he has been given the role of tending Selina's new
+shrine, and tending the bridge to Terra.  All you need to do is type 'warp',
+pay a small fee, and be instantly transported to Terra, thanks to Selina's
+blessing.  
+~
+sliver~
+ABG DFJZ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 ABCD B K
+stand stand none 0
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M grall 31184 100~
+#31185
+Free Mob~
+free mob~
+Free mob
+~
+~
+human~
+A DFJZ 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31186
+mold monster~
+a mold monster~
+A monster has grown out of the mold in this room.
+~
+The mold and mildew in the residence rooms have grown completely out of
+control.  It has actually taken on higher intelligence and formed itself
+into a monster!  The mold monster grows slowly from one location to another,
+in search of bread and cheese to contaminate.  
+~
+undead~
+AGU Z 0 0
+2 0 2d7+21 1d1+100 1d5+0 digestion
+8 8 8 8
+CF B I HNS
+stand stand male 10
+AHMV ABCDEFGHIJK large 0 the guilds~
+#31187
+Free Mob~
+free mob~
+Free mob
+~
+~
+human~
+A D -1000 0
+1 0 2d6+10 1d1+100 1d4+0 slap
+9 9 9 9
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31188
+Free mob~
+free mob~
+Free mob
+~
+~
+human~
+A 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 0 0 S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#31189
+none~
+none~
+None
+~
+~
+human~
+ABQR DZ 1000 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+FGH ABCDQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31190
+merchant vendor storekeeper shopkeeper keeper~
+The merchant vendor~
+An old merchant hobbles around, offering to sell you his many wares.
+~
+An old man dressed in expensive clothing is here, trying to sell you many
+things.  
+~
+human~
+ABQR DZ 1000 0
+1 0 1d1+999 1d1+999 10d10+10 none
+-15 -15 -15 -15
+FGH ABCDQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31191
+selina~
+the spirit of the Goddess Selina~
+The spirit of Selina herself is here, floating on gossamer wings.
+~
+You are surrounded by a radiant glow shed by the spirit of Selina.  She
+appears as a beautiful human woman, with long plaited hair of the purest
+gold and a peaceful expression on her face.  Beautiful feathered wings hold
+her aloft, and she is dressed in the most intricate armor of her own design.
+Followers of Bosco, beware her wrath, and creatures of Dominia, feel her
+blessing upon you!  
+~
+human~
+AT CHVa 1000 0
+60 30 1d1+49999 1d1+4999 8d6+45 divine
+-30 -30 -30 -30
+ABCEFJKN ABMNab CD 0
+stand stand female 200000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M death 31191 100~
+#31192
+black sliver pod~
+a massive black sliver pod~
+A massive, {Dblack{x sliver pod oozes slowly here.
+~
+Covered in a slimy carapace, this pod is able to undulate for locomotion.
+While it doesn't seem terribly dangerous, you may want to avoid provoking
+it.  
+~
+human~
+A HJZ -1000 0
+60 6 10d10+14900 1d1+100 8d6+28 none
+-30 -30 -30 -30
+FKMO ABb CD H
+stand stand none 50000
+AHMV ABCDEFGHIJK medium slime the guilds~
+#31193
+black sliver pod~
+a massive black sliver pod~
+A massive, {Dblack{x sliver pod oozes slowly here.
+~
+Covered in a slimy carapace, this pod is able to undulate for locomotion.
+While it doesn't seem terribly dangerous, you may want to avoid provoking
+it.  
+~
+human~
+A HJZ -1000 0
+60 6 10d10+14900 1d1+100 8d6+28 none
+-30 -30 -30 -30
+FKMO ABb CD H
+stand stand none 50000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31194
+black sliver pod~
+a massive black sliver pod~
+A massive, {Dblack{x sliver pod oozes slowly here.
+~
+Covered in a slimy carapace, this pod is able to undulate for locomotion.
+While it doesn't seem terribly dangerous, you may want to avoid provoking
+it.  
+~
+human~
+A HJZ -1000 0
+60 6 10d10+14900 1d1+100 8d6+28 none
+-30 -30 -30 -30
+FKMO ABb CD H
+stand stand none 50000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31195
+black sliver pod~
+a massive black sliver pod~
+A massive, {Dblack{x sliver pod oozes slowly here.
+~
+Covered in a slimy carapace, this pod is able to undulate for locomotion.
+While it doesn't seem terribly dangerous, you may want to avoid provoking
+it.  
+~
+human~
+A HJZ -1000 0
+60 6 10d10+14900 1d1+100 8d6+28 none
+-30 -30 -30 -30
+FKMO ABb CD H
+stand stand none 50000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#31196
+black sliver pod~
+a massive black sliver pod~
+A massive, {Dblack{x sliver pod oozes slowly here.
+~
+Covered in a slimy carapace, this pod is able to undulate for locomotion.
+While it doesn't seem terribly dangerous, you may want to avoid provoking
+it.  
+~
+human~
+A HJZ -1000 0
+60 6 10d10+14900 1d1+100 8d6+28 none
+-30 -30 -30 -30
+FKMO ABb CD H
+stand stand none 50000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#30800
+whoop ass tap fountain pool~
+Whoop Ass on Tap~
+A H-U-G-E fountain taps into the Elemental Plane of Lemonade.~
+~
+fountain OR 0
+0 0 'lemonade' 0 0
+0 0 0 G
+#30801
+blue velvet couch~
+a {bblue{x velvet couch~
+Here sits a {bblue{x velvet couch, awaiting you after a great party.~
+wood~
+furniture 0 0
+100 100 BEHKN 100 100
+0 0 0 P
+#30802
+figurine mist~
+mist figurine~
+A misty figurine lays on the ground.~
+oldstyle~
+wand AG AO
+45 3 3 'gate' 0
+40 30 11800 P
+A
+14 75  
+#30804
+snuggly bunny bean couch~
+the {CS{Mn{Cu{Mgg{Cly {MBu{Cnn{My B{Ce{Ma{Cn{x~
+The {CS{Mn{Cu{Mgg{Cly {MBu{Cnn{My B{Ce{Ma{Cn{x sits here.~
+velvet~
+furniture 0 0
+8 1000 EHK 100 100
+0 0 0 P
+E
+couch~
+This couch has been donated by Bazranth.
+~
+#30805
+fountain lemonade bottomless well aphrodisiacs~
+a bottomless well of aphrodisiacs~
+A fountain sits here, tapped into a bottomless well of aphrodisiacs.~
+~
+fountain R 0
+0 0 'lemonade' 0 0
+0 0 0 G
+E
+fountain~
+The marble fountain stopped spewing coffee one day, and instead
+started gushing forth with gallons and gallons of lemonade!
+These portals to the Elemental Plane of Lemonade are cropping
+up everywhere.
+~
+#30807
+fountain lemonad ceramic pitcher~
+a ceramic fountain~
+A ceramic pitcher filled with lemonade is here.~
+marble~
+fountain O P
+100000 100000 'lemonade' 0 0
+0 0 0 P
+#30809
+palm tree~
+A coconut-growing palm tree~
+A coconut-growing palm tree is here blowing gently in the wind.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+tree~
+The coconuts on this palm tree look just about ready to pick.  Shimmy
+up!
+~
+#30810
+adamantite sliver eye fragment~
+an adamantite sliver eye fragment~
+A piece of an eye from an adamantite sliver is here.~
+adamantite~
+trash 0 AEYc
+0 0 0 0 0
+1 30 10000 P
+A
+12 30  
+A
+13 30  
+E
+adamantite sliver eye fragment~
+This is a small piece of an 'adamantite sliver replica'.
+ 
+Combine these:
+eye fragment
+wing shard
+piece of carapace
+leg segment
+mandible fang
+ 
+Using craft to obtain the next part of the quest.
+ 
+~
+#30811
+adamantite sliver wing shard~
+an adamantite sliver wing shard~
+A shard from the wings of an adamantite sliver is here.~
+adamantite~
+trash 0 AKYc
+0 0 0 0 0
+1 40 10000 P
+A
+2 1  
+A
+14 75  
+E
+adamantite sliver wing shard~
+This is a small piece of an 'adamantite sliver replica'.
+ 
+Combine these:
+eye fragment
+wing shard
+piece of carapace
+leg segment
+mandible fang
+ 
+Using craft to obtain the next part of the quest.
+~
+#30812
+adamantite sliver leg segment~
+an adamantite sliver leg segment~
+The leg segment of an adamantite sliver is here.~
+adamantite~
+trash 0 AFYc
+0 0 0 0 0
+1 40 10000 P
+A
+17 -20  
+A
+1 3  
+E
+adamantite sliver leg segment~
+This is a small piece of an 'adamantite sliver replica'.
+ 
+Combine these:
+eye fragment
+wing shard
+piece of carapace
+leg segment
+mandible fang
+ 
+Using craft to obtain the next part of the quest.
+~
+#30813
+adamantite sliver carapace piece~
+a piece of adamantite sliver carapace~
+A piece of the carapace from an adamantite sliver is here.~
+adamantite~
+trash 0 ADYc
+0 0 0 0 0
+1 50 10000 P
+A
+26 1  
+A
+13 20  
+A
+9 15  
+E
+adamantite sliver carapace piece~
+This is a small piece of an 'adamantite sliver replica'.
+ 
+Combine these:
+eye fragment
+wing shard
+piece of carapace
+leg segment
+mandible fang
+ 
+Using craft to obtain the next part of the quest.
+~
+#30814
+adamantite sliver mandible fang~
+a fang from an adamantite sliver mandible~
+A fang from the mandibles of an adamantite sliver is here.~
+adamantite~
+trash 0 AOYc
+0 0 0 0 0
+1 30 10000 P
+A
+18 3  
+A
+19 3  
+E
+adamantite sliver mandible fang~
+This is a small piece of an 'adamantite sliver replica'.
+ 
+Combine these:
+eye fragment
+wing shard
+piece of carapace
+leg segment
+mandible fang
+ 
+Using craft to obtain the next part of the quest.
+~
+#30815
+adamantite sliver replica~
+an adamantite sliver replica~
+A perfect replica of an adamantite sliver is here.~
+adamantite~
+trash T AQRZ
+0 0 0 0 0
+51 10 10 'hunt' 0
+1 100 50000 P
+E
+adamantite sliver replica~
+Looking closely you notice a small engraving on the bottom
+of the replica. It reads simply,
+ 
+"Grd'Nox"
+ 
+You utter the word out loud, unsure of what it means...
+ 
+When suddenly the eyes of the replica glow with pinpoints
+of red light! A hissing insectoid void buzzes in your head:
+ 
+"Scattered and trapped forever by the dragons of Bosco,
+torn limb from limb. Once I was the protector of the beloved
+Goddess Selina, and now I am reduced to this."
+ 
+"Restore me, mortal, so that I may wage war on my enemies!"
+ 
+"Take this replica to the Temple of Stupra, and place it
+before the sacrificial pit. Then call to me with the words
+'Grd'Nox, I summon thee!'."
+~
+#30816
+short bow~
+a short bow~
+A short bow has been carelessly left here.~
+wood~
+weapon 0 AN
+ranged 1 6 pierce F
+3
+5 50 730 P
+E
+short bow~
+It looks like the bows used by rustic hunters.
+~
+#30817
+long bow~
+a long bow~
+A long bow has been foolishly abandoned here.~
+wood~
+weapon AG AN
+ranged 3 4 pierce F
+3
+12 70 220 P
+A
+13 5  
+#30818
+a quiver of plain wooden arrows~
+a quiver of plain wooden arrows~
+A quiver of plain wooden arrows lies here.~
+wood~
+ammunition 0 AO
+1 7 pierce 0 'reserved'
+5 200 600 P
+A
+18 1  
+#30819
+feather fletched arrow~
+a quiver of feather-fletched arrows~
+A quiver of simple arrows is here, fletched with feathers.~
+wood~
+ammunition 0 AO
+2 5 pierce 0 'reserved'
+14 300 1300 P
+#30820
+pouch lead shot bullet~
+a pouch of lead shot~
+A small pouch filled with heavy lead balls is here.~
+lead~
+ammunition a AO
+2 3 blast 0 'reserved'
+4 100 900 P
+A
+19 2  
+#30821
+iron flechette bullet~
+a case of iron flechettes~
+A case of sharpened iron projectiles is here.~
+iron~
+ammunition a AO
+8 3 pierce 0 'reserved'
+30 80 6400 P
+A
+19 2  
+A
+18 2  
+#30822
+box plain wooden bolts~
+a box of plain wooden bolts~
+A box of plain wooden bolts for a crossbow is here.~
+wood~
+ammunition 0 AO
+1 6 pierce 7 'cause light'
+5 160 600 P
+#30823
+light crossbow~
+a light crossbow~
+A light crossbow is here, ready to fire.~
+wood~
+weapon 0 AN
+ranged 1 10 pierce F
+2
+10 40 3500 P
+#30824
+pistolet gun~
+a finely made pistolet~
+A one handed pistolet is here, fashioned from iron.~
+iron~
+weapon 0 AN
+ranged 7 2 pierce 0
+4
+18 30 10000 P
+A
+18 3  
+A
+2 1  
+#30825
+pill defense~
+a pill of defense~
+Eating this pill will improve your defenses.~
+food~
+pill Y Ac
+30 'stone skin' 'blur' 'reserved' 'reserved'
+1 10 50 P
+#30826
+pill strength~
+a pill of strength~
+Eating this pill will make you stronger.~
+food~
+pill Y Ac
+40 'giant strength' 'reserved' 'reserved' 'reserved'
+1 0 0 P
+#30827
+selina magic bright ring~
+Selina's Magic Ring~
+A bright ring conveys knowledge to its wearer.~
+oldstyle~
+jewelry I AB
+0 0 0 0 0
+7 50 1140 P
+A
+3 1  
+A
+4 1  
+#31000
+key~
+a tasselled key~
+The Key to the City Gates.
+~
+iron~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+#31001
+bronze key~
+a bronze key~
+The Key to the City Dungeon.
+~
+nothingness~
+key 0 AO
+0 0 0 0 0
+1 10 0 P
+#31002
+barrel beer~
+a Barrel of Argh's beer~
+A beer barrel has been left here.~
+wood~
+drink 0 A
+30 30 'beer' 0 0
+1 60 150 P
+#31003
+bottle beer~
+a bottle of beer~
+A beer bottle has been left here.~
+glass~
+drink 0 A
+4 4 'beer' 0 0
+1 10 15 P
+#31004
+ale bottle~
+a bottle of ale~
+A dark bottle of ale has been left here.~
+glass~
+drink 0 A
+5 5 'ale' 0 0
+1 10 30 P
+#31005
+bottle firebreather~
+a Bottle of Rainman firebreather~
+A firebreather has been left here.~
+glass~
+drink 0 A
+8 8 'firebreather' 0 0
+1 10 60 P
+#31006
+bottle local~
+a bottle of the local special~
+A dark bottle has been left here.~
+glass~
+drink 0 A
+8 8 'local specialty' 0 0
+1 10 20 P
+#31007
+torch~
+a torch~
+A large torch.~
+wood~
+light 0 A
+0 0 24 0 0
+1 1 70 P
+#31008
+lantern~
+a hooded brass lantern~
+A hooded brass lantern has been left here.~
+brass~
+light 0 A
+0 0 100 0 0
+1 4 110 P
+E
+lantern~
+It is a large and robust but somewhat battered oil lantern made from brass,
+equipped with a handle to make it handy and a hood to protect its flame.
+Some letters have been scratched on its bottom.
+~
+E
+letters~
+They say, "Use 'hold lantern' to activate."
+~
+#31009
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+12 'identify' '(null)' '(null)' '(null)'
+7 10 890 P
+E
+scroll identify~
+The scroll has a magic formula drawn upon it: 
+	  ??? 
+	 ?   ? 
+		 ? 
+		? 
+		? 
+		* 
+~
+#31010
+scroll cancellation~
+a scroll of cancellation~
+A rolled vellum scroll is here.~
+vellum~
+scroll G AO
+15 'cancellation' '(null)' '(null)' '(null)'
+9 10 1190 P
+E
+scroll~
+Use this scroll to remove magical curses. 
+~
+#31011
+scroll recall~
+a scroll of recall~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+20 'word of recall' '(null)' '(null)' '(null)'
+17 20 2900 P
+E
+scroll~
+The scroll has written a formula of 'Word of Recall' upon it. 
+~
+#31012
+ring protection~
+a ring of protection~
+an enchanted ring of protection sits on the floor.~
+silver~
+treasure G AB
+0 0 0 0 0
+8 10 640 P
+A
+20 -1  
+A
+17 -2  
+E
+ring~
+It's a silver ring set with a gleaming moonstone. 
+~
+#31013
+wand magic missile missiles~
+a wand of magic missiles~
+a wooden stick lies on the ground.~
+wood~
+wand G AO
+4 10 10 'magic missile' 0
+2 10 320 P
+E
+wand~
+It has a little note that says 'point this end at target'. 
+~
+#31014
+sturdy mace~
+a Sturdy Mace~
+A Sturdy Mace lies here.~
+steel~
+weapon 0 AN
+mace 1 6 pound 0
+5 20 80 P
+A
+18 1  
+A
+19 1  
+#31015
+swift dagger~
+a swift dagger~
+This dagger could swiftly cut your flesh.~
+steel~
+weapon 0 AN
+dagger 1 5 pierce 0
+5 15 90 P
+A
+18 2  
+#31016
+scimitar sword~
+a Wickedly-Curved Scimitar~
+A Wickedly-Curved Scimitar hums ominously here.
+~
+nothingness~
+weapon BG AN
+sword 1 5 slash 0
+5 25 75 P
+A
+19 1  
+A
+18 1  
+#31017
+boots tough leather~
+a pair of tough leather boots~
+A pair of tough leather boots lie here.~
+leather~
+armor 0 AG
+2 3 4 1 1
+5 50 500 P
+#31018
+belt narrow leather~
+a narrow leather belt~
+A narrow leather belt is curled up here.~
+leather~
+armor 0 AL
+3 3 2 1 1
+5 20 200 P
+A
+23 -2  
+#31019
+a leather headband~
+a leather headband~
+A leather headband has been dropped here.~
+leather~
+armor 0 AE
+3 3 2 0 1
+3 5 475 P
+#31020
+cotton scarf~
+a cotton scarf~
+A cotton scarf is on the ground.~
+linen~
+armor 0 AC
+4 2 3 2 1
+5 5 550 P
+#31021
+fountain~
+a city fountain~
+An ornate fountain stands in the middle of the square.~
+nothingness~
+fountain O 0
+10000 10000 'water' 0 0
+-1 1000 -100 P
+#31022
+ring gold slim~
+a slim gold ring~
+A gold ring is on the ground.~
+gold~
+armor A AB
+1 1 2 0 0
+5 1 1500 P
+A
+14 20  
+#31023
+cake ~
+a sweet cake~
+A sweet cake.
+~
+food~
+food 0 A
+4 4 0 0 0
+1 1 10 P
+#31024
+roll~
+a roll~
+A bread roll.
+~
+food~
+food 0 A
+5 5 0 0 0
+1 1 15 P
+#31025
+sandwich~
+a sandwich~
+A sandwich would make the perfect snack.
+~
+food~
+food 0 A
+5 5 0 0 0
+1 1 20 P
+#31026
+loaf bread~
+a HUGE loaf of bread~
+This loaf of bread would fill you up for a day!
+~
+food~
+food 0 A
+24 24 0 0 0
+1 3 25 P
+#31027
+coffee cup mug java~
+a cup of coffee~
+A mug o' hot java steams away here.~
+glass~
+drink 0 AO
+1 1 'coffee' 0 0
+1 1 10 P
+#31028
+potion psychedelic~
+a psychedelic potion~
+A psychedelic potion rolls around here.~
+glass~
+potion ABG AO
+6 'change sex' 'cure light' 'bless' '(null)'
+10 2 900 P
+#31029
+guillotine~
+a nasty guillotine~
+The guillotine is maintained as a symbol of power and order.~
+nothingness~
+furniture O 0
+1 10000 E 0 0
+-1 1000 -100 P
+#31030
+headsman mask black face~
+the headsman's black face mask~
+The headman's black mask is on the ground.~
+linen~
+armor 0 AE
+11 11 10 9 1
+44 75 5600 P
+A
+12 30  
+#31031
+castellan flail~
+the Castellan's flail~
+The Castellan's flail is lying in the dirt.~
+leather~
+weapon G AN
+flail 3 4 sting 0
+15 60 1200 P
+A
+23 -3  
+#31032
+footpad quarterstaff~
+a footpad's quarterstaff~
+A long quarterstaff has been dropped here.~
+wood~
+weapon c AN
+polearm 1 5 pound 0
+5 25 750 P
+#31033
+an ornate flail~
+an ornate flail~
+An ornate flail has been dropped here.~
+leather~
+weapon G AN
+flail 4 3 smash 0
+17 45 2100 P
+A
+2 2  
+#31034
+an ornate breastplate plate~
+an ornate breastplate~
+An ornate breastplate with a black and gold coat of arms engraved on it lies here.~
+iron~
+armor 0 AD
+5 5 6 2 1
+14 150 750 P
+#31035
+ornate bracer~
+an ornate bracer~
+An ornate bracer with a black and gold coat of arms engraved on it is lying here.~
+iron~
+armor 0 AM
+4 4 3 2 1
+13 20 450 P
+A
+2 1  
+#31036
+black cloak gold trim ornate~
+a black cloak with gold trim~
+A black cloak with gold trim is lying here.~
+linen~
+armor GI AC
+5 6 4 0 1
+13 90 2100 P
+A
+23 -2  
+A
+3 -1  
+#31037
+ornate helm~
+an ornate helm~
+An ornate helm bearing a black and gold coat of arms lies here.~
+iron~
+armor 0 AE
+5 5 4 2 1
+14 30 670 P
+#31038
+ornate shield~
+an ornate shield~
+A shield bearing the crest of the King of Dominia lies here.~
+iron~
+armor AB AJ
+6 6 5 4 1
+15 85 1150 P
+A
+18 1  
+#31039
+ornate axe~
+an ornate axe~
+An ornate axe is on the floor.~
+iron~
+weapon G ANO
+axe 3 4 chop 0
+14 40 430 P
+A
+2 2  
+#31040
+short scroll~
+a short scroll~
+A short scroll has lots of words written on it.~
+paper~
+scroll G AO
+7 'blur' '(null)' '(null)' '(null)'
+5 5 200 P
+#31041
+shimmering potion~
+a shimmering potion~
+A shimmering potion is here.
+~
+glass~
+potion G AO
+8 'invisibility' 'fly' '(null)' '(null)'
+4 5 350 P
+#31042
+red sticker~
+a bright red sticker reads 'Village Idiot'~
+A bright red sticker has been left here. Pick it up!
+~
+nothingness~
+armor AHM AE
+2 2 3 0 1
+3 5 50 P
+A
+1 1  
+A
+4 -1  
+E
+sticker~
+The wearer of this item has been officially marked by the deity Yaegar as
+a genuine bona fide irredeemable DORK.
+~
+#31043
+tent~
+a sturdy canvas tent~
+A sturdy canvas tent is here.~
+canvas~
+container S A
+70 A 0 10 100
+1 25 150 P
+#31044
+rowboat~
+a sturdy wooden rowboat~
+A sturdy wooden rowboat is moored here.~
+wood~
+boat S A
+0 0 0 0 0
+1 50 70 P
+#31045
+battered fried fish~
+a piece of battered fried fish~
+A piece of battered fish that has been fried to death.~
+food~
+food 0 A
+4 4 0 0 0
+1 1 40 P
+#31046
+pile steaming chips~
+a pile of steaming chips~
+(Steaming) These chips are wrapped in butcher's paper and look very tasty.~
+food~
+food 0 A
+6 6 0 0 0
+1 1 30 P
+#31047
+chips salt sauce~
+chips with salt and sauce~
+(Steaming) These chips are covered with salt and sauce.~
+food~
+food 0 A
+7 7 0 0 0
+1 1 25 P
+#31048
+black pudding~
+a black pudding~
+A black pudding congeals here.~
+food~
+food 0 A
+4 4 0 0 0
+1 1 10 P
+#31049
+white pudding~
+a white pudding~
+A white pudding, only slightly less disgusting than black pud, sits here.~
+food~
+food 0 A
+4 4 0 0 0
+1 1 10 P
+#31050
+pizza~
+a piece of pizza~
+This pizza looks like no pizza you have ever seen before.~
+food~
+food 0 A
+5 5 0 0 0
+1 1 15 P
+#31051
+lard~
+a lump of lard~
+This lard has been deep-fried.~
+food~
+food 0 A
+1 1 0 0 0
+1 1 5 P
+#31052
+potato scallop~
+a potato scallop~
+You wonder how long this potato scallop has been sitting here.~
+food~
+food 0 A
+2 2 0 0 0
+1 1 7 P
+#31053
+curry sauce~
+some curry sauce~
+This sauce is great with chips. Apparently.~
+food~
+food 0 A
+1 1 0 0 0
+1 1 5 P
+#31054
+chicken kiev~
+chicken kiev~
+This chicken Kiev didn't come from any Kiev you have ever heard of.~
+food~
+food 0 A
+4 4 0 0 0
+1 1 60 P
+#31055
+crumbed drumstick~
+a crumbed drumstick~
+A crumbed drumstick has been sitting here for a few hours.~
+food~
+food 0 A
+4 4 0 0 0
+1 1 25 P
+#31056
+battered sav~
+a battered sav~
+A battered sav lies here.~
+food~
+food 0 A
+2 2 0 0 0
+1 1 8 P
+#31057
+kabana~
+a kabana~
+A fried kabana looks truly disgusting.~
+food~
+food 0 A
+3 3 0 0 0
+1 1 30 P
+#31058
+fish cake~
+a fish cake~
+Yeah, SURE it's fish.~
+food~
+food 0 A
+2 2 0 0 0
+1 1 10 P
+#31059
+haggis foetus conglomeration~
+some Haggis~
+This conglomeration looks like a boiled foetus.~
+food~
+food 0 A
+8 8 0 0 0
+1 2 50 P
+E
+haggis~
+You DO know what's in haggis, don't you?
+~
+#31060
+prison key cell~
+the prison keys~
+The keys to the Prison have been dropped here.~
+iron~
+key 0 A
+0 0 0 0 0
+0 10 0 P
+#31061
+<unused vnum>~
+<unused vnum>~
+The key to Justice outpost is on the floor.~
+steel~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the clan_d of the world of Redemption. 
+~
+#31062
+free object~
+free object~
+Free object~
+steel~
+trash 0 AO
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to Amazon of the world of Redemption. 
+~
+#31063
+seeker outpost key~
+seeker's outpost key~
+The key to Seeker's outpost is on the floor.~
+~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the Seekers of the world of Redemption. 
+~
+#31064
+eclipse outpost key~
+eclipse outpost key~
+The key to Eclipse outpost is on the floor.~
+steel~
+key PU AO
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the clan_c of the world of Redemption. 
+~
+#31065
+little jenny slot~
+little Jenny~
+A slot machine labelled 'Little Jenny' is along the wall.~
+wood~
+slot_machine O 0
+3 50 5 5 0
+30 1000 0 P
+#31066
+bertha big slot~
+a slot labelled 'Big Bertha'~
+A slot machine labelled 'Big Bertha' is in the corner.~
+wood~
+slot_machine O 0
+10 4000 3 1 100
+30 1000 0 P
+#31067
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#31068
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 4000 P
+#31069
+potion cloak mind~
+a mind cloak potion~
+A potion that cloaks you from mobs has been dropped here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#31070
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#31071
+potion armor~
+a potion of armor~
+A potion of armor is here.~
+glass~
+potion G AO
+10 'armor' '(null)' '(null)' '(null)'
+0 10 1000 P
+#31072
+potion behold~
+a behold potion~
+A behold potion has been left here.~
+glass~
+potion G AO
+10 'detect invis' 'detect magic' '(null)' '(null)'
+4 10 1450 P
+#31073
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#31074
+potion haste~
+a potion of haste~
+A haste potion has been dropped here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#31075
+dart~
+a strange dart~
+You see a little dart here.~
+wood~
+throwing 0 AO
+1 6 pierce 15 'burning hands'
+0 10 510 P
+#31076
+lemonade skin buffalo~
+a buffalo skin of lemonade~
+A bloated dead buffalo is on the floor.~
+leather~
+drink 0 A
+64 64 'lemonade' 0 0
+0 40 50 G
+#31077
+engraved polearm~
+an engraved polearm~
+A fancy polearm engraved with roses has been left here.~
+steel~
+weapon 0 AN
+polearm 1 5 none 0
+5 100 65 P
+A
+19 2  
+#31078
+wooden spear~
+a wooden spear~
+A plain spear of wood has been dropped on the ground.~
+wood~
+weapon 0 AN
+staff 1 6 pierce 0
+5 60 55 P
+A
+18 1  
+A
+19 1  
+#31079
+thick whip~
+a thick hemp whip~
+A thick whip made of hemp has been dropped on the ground.~
+hemp~
+weapon 0 AN
+whip 1 6 thwack 0
+5 40 65 P
+A
+19 1  
+#31080
+bronze axe~
+a bronze axe~
+A short bronze axe has been left here.~
+bronze~
+weapon 0 AN
+axe 1 5 slice 0
+5 80 70 P
+A
+18 1  
+A
+19 1  
+#31081
+black flail~
+a black flail~
+A new black flail lies on the ground.~
+wood~
+weapon 0 AN
+flail 1 5 beating 0
+5 50 80 P
+A
+18 2  
+#31082
+scroll thirst~
+a scroll of thirst~
+A scroll of thirst has been dropped here.~
+paper~
+scroll 0 AO
+7 'reserved' 'reserved' 'reserved' 'reserved'
+10 10 3500 P
+#31083
+leggings sub merc~
+a pair of sub issue leggings~
+You see a pair of sub issue leggings here.~
+leather~
+armor U AF
+1 1 1 0 0
+0 30 72 P
+E
+leggings~
+You see leggings of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#31084
+belt sub merc~
+a sub issue belt~
+You see a sub issue belt here.~
+leather~
+armor U AL
+1 1 1 0 0
+0 10 72 P
+E
+belt~
+You see a belt of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#31085
+boots sub merc~
+a pair of sub issue boots~
+You see a pair of sub issue boots here.~
+leather~
+armor U AG
+1 1 1 0 0
+0 30 72 P
+E
+boots~
+You see boots of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#31086
+bracer sub merc~
+a sub issue bracer~
+You see a sub issue bracer here.~
+bronze~
+armor U AM
+0 1 1 0 0
+0 10 48 P
+E
+bracer~
+You see a bracer of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#31087
+helmet sub merc~
+a sub issue helmet~
+You see a sub issue helmet here.~
+leather~
+armor U AE
+1 1 1 0 0
+0 30 72 P
+E
+helmet~
+You see a helmet of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#31088
+cape sub merc~
+a sub issue cape~
+You see a sub issue cape here.~
+cloth~
+armor U AK
+1 1 1 0 0
+0 20 72 P
+E
+cape~
+You see a cape of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#31089
+cloak sub merc~
+a sub issue cloak~
+You see a sub issue cloak here.~
+cloth~
+armor U AC
+1 1 1 0 1
+0 40 72 P
+E
+cloak~
+You see a cloak of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#31090
+potpie pot pie~
+a big pot pie~
+A big pot pie has been left here.~
+food~
+food 0 A
+20 40 0 0 0
+0 20 22 P
+#31091
+lantern~
+a hooded brass lantern~
+A hooded brass lantern has been left here.~
+brass~
+light 0 A
+0 0 250 0 0
+0 40 75 P
+E
+lantern~
+It is a large and robust but somewhat battered oil lantern made from brass, 
+equipped with a handle to make it handy and a hood to protect its flame. 
+Some letters have been scratched on its bottom. 
+~
+E
+letters~
+They say, "Use 'hold lantern' to activate." 
+~
+#31092
+skin water buffalo~
+a buffalo water skin~
+A bloated dead buffalo is on the floor.~
+leather~
+drink 0 A
+64 64 'water' 0 0
+0 40 24 G
+#31093
+college key~
+the college key~
+The key to Shandalar College has been dropped here.~
+steel~
+key PU AO
+0 0 0 0 0
+0 2 0 P
+#31094
+college diploma~
+a college diploma~
+A college diploma has been dropped here.~
+vellum~
+treasure GU AO
+0 0 0 0 0
+0 10 1140 P
+A
+5 1  
+A
+4 1  
+E
+diploma~
+This document shows that you have graduated from Mud School.
+It also has magical effects on your abilities if you hold it!
+
+Redemption Industries
+~
+#31095
+fountain lemonade~
+a fountain~
+A white marble fountain gushes forth here.~
+~
+fountain OR 0
+0 0 'lemonade' 0 0
+0 0 0 G
+E
+fountain~
+It is very nice.  Made from fine white marble. 
+~
+#31096
+donation pittt clan~
+a pit~
+A pit for sacrifices is in front of the altar.~
+air~
+container 0 0
+10000 0 0 100 100
+0 0 0 P
+#31097
+wrath justice~
+the Wrath of Justice~
+A deadly blade, precisely crafted and tempered with the blood of the unjust.~
+silver~
+weapon GHPTUV AN
+exotic 7 6 stab AB
+50 20 450 P
+A
+19 5  
+#31098
+dagger bosco~
+a Bosco dagger~
+An expensive dagger is on the floor.~
+oldstyle~
+weapon FGPTUVYe AN
+dagger 7 6 stab AB
+50 20 450 P
+A
+19 5  
+#31099
+help cookie fountain~
+HELP's cookie fountain~
+{wHELP{x's {rcookie {mfountain{x, donated by {bDwake{x.~
+stone~
+fountain OR 0
+1000 1000 'milk' 0 0
+0 0 0 G
+#31100
+opal~
+an opal~
+A lustrous opal reminds you of far-off places.~
+gem~
+gem W AO
+0 0 0 0 0
+0 1 2000 P
+#31101
+ruby gem~
+a ruby~
+A beautiful, if small, ruby is here.~
+gem~
+gem TW AO
+0 0 0 0 0
+0 1 6000 P
+#31102
+diamond gem~
+a diamond~
+A diamond catches and refracts the lighting.~
+gem~
+gem TW AY
+0 0 0 0 0
+0 1 10000 P
+#31103
+whoop ass tap fountain pool~
+Whoop Ass on Tap~
+A H-U-G-E fountain taps into the Elemental Plane of Lemonade.~
+~
+fountain OR 0
+0 0 'lemonade' 0 0
+0 0 0 G
+#31104
+eclipse hall key fake~
+eclipse outpost key~
+The fake key to Eclipse clan outpost is on the floor.~
+~
+key PU AO
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the clan_c of the world of Redemption. 
+~
+#31105
+blunted sword~
+a blunted sword~
+A blunted sword is here.~
+wood~
+weapon 0 AN
+sword 1 1 slash 0
+0 10 0 P
+#31106
+padded mace~
+a padded mace~
+A padded mace.~
+wood~
+weapon 0 AN
+mace 1 1 pound 0
+0 10 0 P
+#31107
+<unused vnum>~
+<unused vnum>~
+The key to Justice outpost is on the floor.~
+steel~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the clan_d of the world of Redemption. 
+~
+#31108
+<unused vnum>~
+<unused vnum>~
+The wrath of JUSTICE!!!~
+steel~
+weapon ABIPUV AN
+sword 5 7 cleave EF
+42 450 0 P
+#31109
+figurine blank_fig~
+a blank figurine~
+A blank figurine is here, waiting for a soul.~
+wood~
+wand 0 AO
+0 1 1 'figurine spell' 0
+0 0 100 P
+#31110
+clan couch~
+the clan couch~
+The clan couch is here ready to receive your butt.~
+cloth~
+furniture IO 0
+8 50 BEHKN 100 100
+0 0 0 P
+#31111
+potion vial empty _unused_~
+an empty potion vial~
+An empty potion vial is here.~
+wood~
+potion W AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#31112
+blank scroll _unused_~
+a blank scroll~
+A blank scroll is here.~
+paper~
+scroll 0 AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#31113
+table round large~
+Avacar's round table~
+{BA large round table is here for you to sit around.{x~
+wood~
+furniture AG 0
+200 300000 BDEHN 0 0
+0 200000 0 P
+#31114
+white off potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#31115
+elixir anti~
+anti-cyclops elixir~
+An elixir to ward off cyclopi has been bought then left behind here.~
+oldstyle~
+potion 0 AO
+15 'invisibility' '(null)' '(null)' '(null)'
+0 10 250 P
+#31116
+fountain water~
+a fountain~
+A white marble fountain gushes forth here.~
+stone~
+fountain OR 0
+100000 100000 'lemonade' 0 0
+0 100000 0 P
+E
+fountain~
+It is very nice.  Made from fine white marble. 
+~
+#31117
+raft~
+a raft~
+A raft has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 750 400 A
+E
+raft~
+The raft looks very primitive. 
+~
+#31118
+malevolus evil dart~
+the Malevolus~
+An evil-looking dart sits here.~
+mithril~
+throwing C AO
+7 5 bite 50 'curse'
+45 1 4000 P
+#31119
+stone fountain lemonade~
+a {Dstone {xfountain~
+{WA {Dstone{W fountain carved out of the wall is here, spouting {ylemonade{W.{x~
+marble~
+fountain O P
+100000 100000 'lemonade' 0 0
+0 0 0 P
+#31120
+black sword huge serrated~
+a huge black-dripping serrated sword~
+A huge serrated-edged sword drips some black substance.~
+steel~
+weapon ABHMPUVa AN
+sword 5 8 slash DF
+52 250 15000 P
+#31121
+free object~
+free object~
+Free object~
+steel~
+trash 0 AO
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to Amazon of the world of Redemption. 
+~
+#31122
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#31123
+seeker outpost key~
+seeker's outpost key~
+The key to Seeker's outpost is on the floor.~
+~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the Seekers of the world of Redemption. 
+~
+#31124
+red velvet bench stone~
+a long stone bench with a {rred{x velvet cushion~
+A stone bench with a {rred{x velvet cushion has been placed against one of the temple walls.~
+stone~
+furniture O 0
+8 1000 EHK 100 100
+0 0 0 P
+E
+bench~
+This velvet covered bench has been donated by HELP for the enjoyment of the
+Shandalar population.
+~
+#31125
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#31126
+vial psychedelic ink~
+a vial of psychedelic ink~
+A vial of multicolored ink.~
+cream~
+potion 0 AO
+5 'invisibility' 'pass door' '(null)' '(null)'
+1 1 500 P
+#31127
+pewter sack~
+a pewter sack~
+A small bag made of metal is gathering dust here.~
+pewter~
+throwing N AO
+3 7 blast 37 'acid blast'
+30 20 3500 P
+#31128
+fountain water~
+a fountain~
+A white marble fountain gushes forth here.~
+stone~
+fountain OR 0
+100000 100000 'water' 0 0
+0 100000 0 P
+E
+fountain~
+It is very nice.  Made from fine white marble. 
+~
+#31129
+pewter sack~
+a pewter sack~
+A small bag made of metal is gathering dust here.~
+pewter~
+throwing N AO
+3 7 blast 37 'acid blast'
+30 20 3500 P
+#31130
+tent~
+a sturdy canvas tent~
+A sturdy canvas tent is here.~
+canvas~
+container S A
+70 A 0 10 100
+1 25 150 P
+#31131
+tetragon sabre~
+Tetragon's Sabre~
+Tetragon's Sabre lies here still humming from the last battle.~
+adamantite~
+weapon ABIPUV AN
+sword 5 7 cleave EF
+42 450 5600 P
+E
+scimitar blade~
+It is quite heavy.  The blade is made of some metal that you can't even 
+spell.  The edge of the blade looks as if it could cut through anything 
+or anyone. 
+~
+#31132
+clan couch~
+a red {RA{rmbassadorial{x couch~
+A fine red {RP{ralankcarian{x couch waits to be sat upon.~
+cloth~
+furniture O 0
+8 50 BEHKN 100 100
+0 0 0 P
+#31133
+statue selina dragon~
+a statue of Selina fighting a dragon~
+A white marble statue of Selina fighting a dragon dominates the park.~
+marble~
+furniture H 0
+1 500 0 0 0
+0 20000 0 P
+E
+inscription~
+A gift from Selina to the town of Shandalar.  Create a golden leaf
+by crafting a dead leaf to a golden ring.
+~
+#31134
+big velvety couch sofa~
+{Ca {Wbig {Mvelvety {Ccouch{x~
+{CA {Wbig {Mvelvety {Ccouch awaits you after a long day of work.{x~
+cloth~
+furniture IO 0
+8 10000 BEHKN 100 100
+0 0 0 P
+#31135
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#31136
+vial black ink~
+a vial of black ink~
+A vial of black writing ink sits here.~
+cream~
+potion 0 AO
+25 'remove curse' 'blur' '(null)' '(null)'
+25 1 3000 P
+#31137
+incredible potion strength~
+an incredible potion of strength~
+An incredible potion of strength has been dropped here.~
+glass~
+potion C AO
+25 'giant strength' 'slow' '(null)' '(null)'
+20 10 3000 P
+E
+incredible~
+Poua! It smell awfull. Yon don't want really drink it ?
+~
+#31138
+white pill~
+a white pill~
+A white pill with the letter 'C' stamped on it.~
+none~
+pill 0 A
+35 'frenzy' 'giant strength' 'reserved' 'reserved'
+35 0 5000 P
+#31139
+juri juice fountain~
+a {CJuri {RJuice {mFountain{x~
+A large fountain bubbles over with lemonade.~
+stone~
+fountain OR 0
+100000 100000 'lemonade' 0 0
+0 100000 0 P
+E
+fountain~
+It is very nice.  Made from fine white marble. 
+~
+#31140
+circular booth table couch sofa corner~
+a {Dcircular booth with a table in the corner{x~
+{DA large, circular booth with a table sits in the corner, waiting for you to rest your weary bones.{x~
+wood~
+furniture AG 0
+200 300000 BDEFHIKLNO 100 100
+0 200000 0 P
+#31141
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#31142
+white pill~
+a white pill~
+A white pill with the letter 'C' stamped on it.~
+none~
+pill 0 A
+35 'frenzy' 'giant strength' 'reserved' 'reserved'
+35 0 5000 P
+#31143
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#31144
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#31145
+wand detect invis~
+a wand of glinting yellow~
+A wand of glinting yellow lies here.~
+oldstyle~
+wand G AO
+1 15 15 'detect invis' 0
+5 10 1800 P
+E
+wand~
+You see a shape slowly fading into exsistance at the base of this wand.
+~
+#31146
+sleeves sub merc~
+a pair of sub issue sleeves~
+You see a pair of sub issue sleeves here.~
+leather~
+armor U AI
+1 1 1 0 0
+0 20 72 P
+E
+sleeves~
+You see sleeves of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#31147
+gloves sub merc~
+a pair of sub issue gloves~
+You see a pair of sub issue gloves here.~
+leather~
+armor U AH
+1 1 1 0 0
+0 10 72 P
+E
+gloves~
+You see gloves of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#31148
+selina boots~
+Selina's swift boots~
+A light pair of boots gives off a soft glow.~
+leather~
+armor GPTYe AG
+11 11 11 8 0
+50 100 2500 P
+A
+19 2  
+A
+18 2  
+A
+20 -2  
+A
+14 100  
+#31149
+selina fire~
+Selina's fire~
+A bright, massive fire lights up the sky.~
+fire~
+light AGPTYe A
+0 0 999 0 0
+51 20 1000 P
+A
+19 3  
+A
+20 -5  
+A
+18 5  
+#31150
+selina belt~
+Selina's belt~
+A thin leather belt sparkles like gold.~
+leather~
+armor FGPTYe AL
+0 0 0 0 0
+51 30 3200 P
+A
+19 2  
+A
+18 2  
+#31151
+selina fury~
+The {RFury{x of {WSelina{x~
+The glint of gold flashes from a weapon.~
+gold~
+weapon ABFPTYe ANP
+exotic 6 7 divine DEIQST
+54 120 8500 P
+A
+1 3  
+A
+19 10  
+A
+18 10  
+E
+selina might weapon~
+This weapon is but one aspect of the power of Selina. You can
+tap into what is left of her power by using this weapon as a starting
+point and crafting it together with 5 sets of furry gloves and 3
+belts of strength. Together they will be crafted into "mighty titan mitts"
+which give the wearer supernatural strength.
+ 
+Good luck!
+~
+#31152
+selina wings~
+Selina's Wings~
+A pair of large white wings has fallen to the ground.~
+feather~
+armor APTYe AK
+12 12 12 10 0
+51 50 4500 P
+A
+2 3  
+A
+19 3  
+A
+20 -3  
+#31153
+selina glowing armour armor~
+{WSelina's {YGlowing {WArmour{x~
+The silvery armour worn by Selina during the last Dragonwar rests here, gleaming.~
+platinum~
+armor ABGTYe ADPZ
+10 10 10 5 0
+51 100 100000 P
+A
+19 3  
+A
+20 -2  
+A
+13 35  
+A
+12 35  
+#31154
+selina heater shield~
+Selina's polished heater shield~
+A heavy heater shield bearing Selina's crest is here.~
+platinum~
+armor ABGTYe AJZ
+15 15 15 15 0
+51 80 0 P
+A
+20 -5  
+A
+13 50  
+A
+26 1  
+#31155
+statue troll~
+a statue of a troll~
+A statue of a large and powerful troll stand here, overlooking the walkway.~
+stone~
+trash 0 0
+0 0 0 0 0
+1 5000 0 P
+E
+inscription~
+Cauthon and Stryder's leveling gifts can be combined to create the
+ultimate powertrip: An 'immortal powertrip'.
+~
+#31156
+dragonbane sheath~
+Selina's {Wplatinum{X sword sheath is here, "{GDragon{Dbane{x"~
+A platinum sword sheath worn by the Goddess Selina is here.~
+platinum~
+sheath TYe AFZ
+sword 1 I 0
+51 40 0 P
+A
+1 1  
+A
+2 1  
+A
+18 4  
+A
+13 40  
+#31157
+selina restful presence~
+{WSelina's {bRestful Presence{x~
+The restful presence of Selina can be felt from above you.~
+spirit~
+furniture AGTYe AERZ
+5 0 L 250 250
+42 2 2 'life wave' 0
+42 30 0 P
+A
+5 5  
+A
+20 -2  
+A
+26 1  
+#31158
+large statue selina~
+a large statue of selina~
+A large statue of Selina stands in the middle of the room.~
+gold~
+furniture A 0
+0 0 0 0 0
+1 500 0 P
+#31159
+cuervo scythe~
+Cuervo's Bloodstained Scythe~
+Cuervo's Scythe lies here, still stained with blood.~
+adamantite~
+weapon ABI AN
+polearm 5 7 cleave EF
+42 450 5600 P
+#31160
+gingerbread cookie~
+a gingerbread cookie~
+A gingerbread cookie is here, luring you in with an irresistable aroma.~
+food~
+pill GS A
+10 'bark skin' 'pass door' 'reserved' 'reserved'
+10 1 2500 P
+#31161
+selina feathered vambraces~
+{WSelina's {yFeathered {cVambraces{x~
+A pair of platinum vambraces decorated with feathers is here glowing brightly.~
+wood~
+armor ABTYe AIZ
+12 12 12 4 0
+51 40 20000 P
+A
+2 2  
+A
+19 2  
+A
+1 -1  
+A
+33 3  
+#31162
+lap beautiful alien dancer couch~
+the lap of a beautiful alien dancer~
+A crowd of dancing alien babes urges you to join them on stage.~
+cloth~
+furniture 0 0
+100 200 EHK 250 250
+1 200 0 P
+#31163
+sign anchor~
+A sign~
+A sign is the only object anchored in the void.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+The sign reads:
+ 
+East -->   Death Bloom
+~
+#31164
+white off potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#31168
+white off potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#31169
+vial empty potion _unused_~
+an empty potion vial~
+An empty potion vial is here.~
+wood~
+potion W AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#31170
+blank scroll _unused_~
+a blank scroll~
+A blank scroll is here.~
+paper~
+scroll 0 AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#0
+
+
+
+#ROOMS
+#30800
+The stoney pathway to the Outpost~
+You happen onto a huge stone path, twisting towards the skeletal remains
+of a huge dragon-like beast.  The mouth of the skull opens like a cavern
+door, and black canvas covers the ribs to keep out weather and pestilence. 
+Enter the foreign outpost of The Traveller's Rest for a tasteful brew.  To
+the east the inner beast awaits.  
+~
+0 805306380 0
+O drufus tansika kauden mimik khisanth fey nami jahid cicada synth fizban sakred knights khantahr kourin dakki juniper lugek hiryo mordrid calion cadur sylus soulfly giles aquinias aleamos arishwad hyuga seouai raker beth rikkus sefra joreli fyrfly~
+D1
+~
+~
+0 0 30801
+D3
+~
+~
+0 0 31038
+S
+#30801
+{rBelly Of The Beast{x~
+Ivory coloured benches of polished bone gleam with surreal cleanliness. 
+Michievious deviants from all Dominian races laugh and cheer as they gather
+at this lone outpost, admiring the bone structure arching over their heads. 
+The crowded bar serves out mugs of cold drinks.  To the east lies a stone
+path, north is the causeway and there is a small wooden trap door lying open
+that leads down.  
+~
+0 805306380 0
+D0
+~
+~
+0 0 30802
+D3
+~
+~
+0 0 30800
+D4
+~
+~
+0 0 30811
+D5
+~
+~
+0 0 30810
+M 250 H 250
+S
+#30802
+Causeway~
+Vast columns of stone greet your eyes, a cool causeway leads to the
+gothic archway of the Belly of the Beast.  The stone seems alive with
+menace, warding away those who do not belong.  To the north is Justice
+Street, to the south lies the Belly of the Beast.  
+~
+0 805306380 0
+O stylix kash ironfist orias nydus fey jahid hexnar gneiss nightclaw yukina arishwad antorell slavarat tolarian magogs palnrud valiant streak arkonn laios isilron boyus kauru sessamaru cydramyr dysentera hakim aurum cicada sefra~
+D0
+~
+~
+0 0 31049
+D2
+~
+~
+0 0 30801
+S
+#30803
+Starcrossed's test room~
+You shouldn't be in here.  This is for testing only.  
+~
+0 786436 0
+S
+#30804
+The PlayBunny Mansion's Waiting Room~
+You are standing inside the beutiful and huge PlayBunny Mansion.  This is
+the waiting room where you find out if you are accepted into the "special"
+section of the mansion.  In front of you there are many chairs, pictures and
+a huge statue of a Bunny.  The floor is made of marble and you cannot even
+see the ceiling as it is so high!  Let's hope you make it past the doors! 
+To the south are the noisy streets of Shandalar.  The only other exit is
+east, further into the Bunny guild.  
+~
+0 805306380 0
+O lufia arishwad chrome zendes chibiusa synth hexna mordis maz candy lothario lollie arack talos kramer xelnagroth shandril coralinth nyara candii morath citan beth kauden kedielia mordrid rikkus ginver shusky nightclaw mimik~
+D1
+~
+~
+0 0 30805
+D2
+~
+~
+0 0 31079
+S
+#30805
+Beth's Bedroom~
+You are standing in an absolutey beautiful room.  In front of you there
+is a huge bed with beautiful satin sheets and tons of pillows.  There is a
+hot tub in the corner, and as you look down you notice the floor is all shag
+carpet.  This room makes you feel very warm and fuzzy.  The only visible
+exit is west, to the entryway of the guild.  
+~
+0 805306380 0
+D0
+~
+~
+0 0 30809
+D3
+~
+~
+0 0 30804
+M 130 H 100
+S
+#30806
+Doorway of Avide~
+You stand before an ordinary house, common to Dominia's shore.  Even more
+common is the door, just solid wood painted green.  And still, is a window,
+as common as wars on these shores.  Yet, behind its common curtains you can
+occasionally see a not so ordinary, not so common, completely abnormal
+figure of a snake-headed woman, peering with greedy ambition upon the city. 
+The streets of Shandalar can be heard from the north.  The guild hallway
+extends southward.  
+~
+0 0 0
+O lufia valeska nightfire jaina cicada natalia~
+D0
+~
+~
+0 0 31035
+D2
+~
+~
+0 0 30807
+S
+#30807
+A warm den and a cozy fire~
+You stand inside a warm den, made so by a hovering fireball in the center
+of the room.  Around the windows, vines are in bloom; their flowers
+gathering any light possible.  Large, comfortable pillows lie scattered
+about the floor and beneath the flame is a round wooden table with three
+chairs.  Upon the table is a ceramic pitcher.  In a southern corner is a
+spiraling metal staircase leading to the upper room.  
+~
+0 0 0
+D0
+~
+~
+0 0 30806
+D4
+~
+~
+0 0 30808
+S
+#30808
+The upper room~
+There is a single window on the northern wall of this room.  Outside you
+can always see Cuervo, faithful to his duties.  Most fascinating is the
+constant warfare seen in the steets, as you will often see a tattered
+clanner fleeing for his life from a horde of enemies.  Inside the air is
+still.  The southern side of the room is cloaked in shadows.  The only exits
+lies downward.  
+~
+0 0 0
+D5
+~
+~
+0 0 30807
+S
+#30809
+Steamy Hot Rabbit-Made Waterfall~
+The heat and steam overwhelms you.  Through the thick foggy steam you can
+barely see your hand in front of you.  What's going on further in?  The
+water rushes loudly, you hear a faint giggle in the distance.  You never
+want to leave....  And why would you?  The only visible exit is to the
+south, towards a comfy bedroom.  
+~
+0 805306380 0
+D2
+~
+~
+0 0 30805
+S
+#30810
+Secret Entrance~
+This appears to be another entrance into the Traveller's Rest bar and
+from the looks of it very few people know it exists.  Rusted metal rungs
+protrude from dust caked walls providing access to a trap door, definitely
+not as well maintained as the interior bar.  The room is very dark and who
+knows what kind of creepy crawlies are around.  The way into the bar is
+found up, down is Liberty Lane.  
+~
+0 268435460 0
+O fey karagan jahid khantahr cicada greyhawk shancohr masaka trista shenzai moko phaernos sefra danik dysentera irenicus olendani kalor hirosho sasara eidan celesta arlis~
+D4
+~
+~
+0 0 30801
+D5
+~
+~
+1 0 31038
+S
+#30811
+{rHeart of the Beast{x~
+Away from the crowded bar is this round room of dark red walls and soft
+plush red carpeted floors.  There is no light, except for the portals
+glowing their eerie aura.  It's very quiet in here.  The only noise is the
+pulsing of the walls.  The Belly of the Beast lies down, while a sign leads
+the way to new journeys in other directions.  
+~
+0 0 0
+E
+sign~
+North {r-Shackled Demon{x
+South {g-Death Bloom{x
+~
+D0
+~
+~
+0 0 19612
+D2
+~
+~
+0 0 6700
+D5
+~
+~
+0 0 30801
+S
+#30812
+A Small Shrine~
+You are standing in a small but well-kept shrine.  There are few
+adornments except for those near the center of the shrine, where a large and
+pristine statue of Selina stands.  The statue is made of pure gold, and is
+guarded and tended daily by one of Selina's most faithful acolytes.  This
+acolyte stands before you, and asks to you step closer for a personal
+conversation.  
+~
+0 8196 1
+D1
+~
+~
+0 0 31004
+S
+#30813
+Bowman's Bowyery~
+The scent of freshly cut wood and varnish fill your nostrils as you enter
+the bowyer's shop.  Here you may acquire different ranged weapons and their
+accessories.  
+~
+0 0 0
+D3
+~
+~
+0 0 31040
+S
+#30814
+A Residence Room~
+The dormitories on campus are simply packed with beds.  You can't
+understand how people can possibly live under these conditions, but somehow
+the six people packed in this tiny room don't seem to mind.  If you climb up
+you'll return to the main part of campus.  
+~
+0 0 0
+D1
+~
+~
+0 0 30815
+D2
+~
+~
+0 0 30816
+D4
+~
+~
+1 0 31162
+S
+#30815
+A Residence Room~
+The dorms here are quite dirty.  Bras and underwear are all over the
+room, posters overlap each other on the walls, and a few crumpled papers
+litter the floor.  You can tell that college students live here.  Leaving
+upwards will bring you to the main campus.  
+~
+0 0 0
+D2
+~
+~
+0 0 30817
+D3
+~
+~
+0 0 30814
+D4
+~
+~
+1 0 31160
+S
+#30816
+A Residence Room~
+This residence room has eight people living in it!  There are four tiny
+bunk beds piled into one corner of the room, one dresser with all of
+everyone's clothes, and absolutely no room to walk and barely any to stand. 
+Upwards lies the rest of campus.  
+~
+0 0 0
+D0
+~
+~
+0 0 30814
+D1
+~
+~
+0 0 30817
+D4
+~
+~
+1 0 31156
+S
+#30817
+A Residence Room~
+The residences at this campus are tiny!  This room is so small you don't
+even have room to stand up.  The place is dirty as well, it doesn't look
+like it's been cleaned in years!  Heading back up leads to the main (and
+cleaner) part of campus.  
+~
+0 0 0
+D0
+~
+~
+0 0 30815
+D3
+~
+~
+0 0 30816
+D4
+~
+~
+1 0 31158
+S
+#30900
+The {WI{Dm{Wp{Der{Wi{Da{Wl{x Camp~
+All around you there are tents lined up, there's one large tent set up
+right in front of you there is one large tent set up for the healers of
+imperial, and the store keepers.  It's very spacious, and set up in the
+middle of all the smaller tents.  To your right, there's a large flag waving
+around with the name Imperial on in.  You've decided this is the place
+you've been looking for and continue on into the tent.  
+~
+0 805306380 0
+O meryl ranm joreli kourin ashki aquila hexnar zelrith dauthi nydus mordrid raa synth arkonn trista rumalth alfar moigan giagnor kivan ricu aquinias calion diadnor orthos emmanuel rikkus presto cadavre ginver kyz dauthi kyzrath samhaim rikishi ransom~
+D1
+~
+~
+0 0 31010
+D2
+~
+~
+0 0 30901
+S
+#30901
+{WI{Dm{Wp{Der{Wi{Da{Wl{x Main Tent~
+The inside of the tent is lined with murals, making the tent thick, and
+warm.  In the centre of the tent there's a small fire going which seems to
+be keeping the whole tent warm and cozy, near it is a large comfy sofa, with
+lots of butt groves on it.  Next to the sofa there's a small fountain
+squirting lemonade, and off in the back of the tent is a storekeeper selling
+several things.  
+~
+0 805306380 0
+D0
+~
+~
+0 0 30900
+M 250 H 100
+S
+#31000
+The Temple Square~
+You are standing before the Temple of Shandalar-- a truly majestic
+structure constructed from pure marble.  Tall Corinthina columns flanks an
+impressive set of bronze-bound oaken doors, which are never shut save in
+times of war.  Atop the temple's pillars rests a plinth bearing an
+incredibly well-crafted frieze which depicts the goddess Selina at work
+creating the World.  A long series of marble stairs lead up to the 'College
+of Shandalar'.  A shorter set of steps lead down into Shandalar's famed
+Chamber of Donations.  To the east and west runs a broad, tree-lined avenue
+called 'Victory Parade'.  To the south is 'Glory Avenue'.  
+~
+0 537141256 1
+E
+.trigr_bounce_below~
+1
+~
+D0
+~
+~
+0 0 31001
+D1
+~
+~
+0 0 31005
+D2
+Glory Avenue~
+~
+0 -1 31004
+D3
+~
+~
+0 0 31003
+D5
+The Chamber of Donations~
+~
+0 -1 31002
+S
+#31001
+The Temple of Shandalar~
+A sculpted likeness of the goddess Selina stands along the northern wall
+of this sanctuary.  Tapestries on the walls depict bloody battles and
+mighty victories.  There is a magnificent altar fashioned of purest
+obsidian to the north which is covered with a white linen runner.  Behind
+the altar is a raised golden throne.
+~
+0 263180 0
+D2
+~
+~
+0 0 31000
+D5
+~
+~
+1 0 20248
+M 110 H 110
+S
+#31002
+The Chamber of Donations~
+In these rooms all unwanted items donated by your fellow adventurers
+accumulate.  There are shelves, bins, chests and cupboards all filled with
+various articles of equipment.  Anyone is free to come here and take what
+they will, but Selina frowns on greedy characters who take it all, 
+or profiteers who take it and sell it.  Both offenses result in SEVERE
+punishment.  There is a small sign here.
+~
+0 12 0
+E
+sign~
+.
+  "Magical Donations WEST, Armor Donations SOUTH, Weapons Donations EAST"
+
+-- The Castellan
+~
+D1
+Weapon Donations~
+~
+0 -1 31164
+D2
+Armor Donations~
+~
+0 -1 31163
+D3
+Magical Donations~
+~
+0 -1 31165
+D4
+The Temple of Shandalar~
+~
+0 -1 31000
+S
+#31003
+Victory Parade West~
+You are walking along Victory Parade West. Guards, citizens and fellow
+adventurers pass you in both directions. Tall buildings rise in all
+directions, the most notable being the magnificent temple, towering high
+directly to the east of here.
+~
+0 0 1
+D1
+~
+~
+0 0 31000
+D3
+Victory Parade West~
+~
+0 -1 31006
+S
+#31004
+Glory Avenue~
+This narrow side street connects Victory Parade to Valiant Street.  There
+is not much of interest here.
+~
+0 0 1
+D0
+The Temple of Shandalar~
+~
+0 -1 31000
+D2
+Glory Avenue~
+~
+0 -1 31007
+D3
+~
+~
+0 0 30812
+S
+#31005
+Victory Parade East~
+You are walking along Victory Parade East. The houses of the more notable
+residents of the city line the road here. High fences and savage guard dogs
+deter you from trespassing however, as does the constant eye of the city
+guards. Stalwart Lane cuts across Victory Parade directly east of here.
+~
+0 0 1
+D1
+Victory Parade East~
+~
+0 -1 31008
+D3
+The Temple of Shandalar~
+~
+0 -1 31000
+S
+#31006
+An Intersection in Victory Parade West~
+You have come to an intersection, where Victory Parade west meets with
+Liberty Lane.  To the south you can hear the sounds of a hammer striking
+an anvil, while to the north you hear nothing.
+~
+0 0 1
+D0
+Liberty Lane~
+~
+0 -1 31038
+D1
+Victory Parade West~
+~
+0 -1 31003
+D2
+Liberty Lane~
+~
+0 -1 31040
+D3
+Victory Parade West~
+~
+0 -1 31009
+S
+#31007
+Corner of Valiant Street and Glory Avenue~
+You have come to a crossroads where the north-south running Glory Avenue
+meets the east-west running Valiant Street.  Shops line Valiant to the east
+and west, while Glory Avenue runs north to the Temple.
+~
+0 0 1
+D0
+Glory Avenue~
+~
+0 -1 31004
+D1
+Valiant Street~
+~
+0 -1 31067
+D2
+Glory Avenue~
+~
+0 -1 31010
+D3
+Valiant Street~
+~
+0 -1 31065
+S
+#31008
+Corner of Stalwart Lane and Victory Parade East~
+You have come to a crossroads, where Stalwart Lane meets Victory Parade
+east. Shops and residences line Stalwart Lane to the north and south, while
+the gates of the city loom far to the east. The Temple is just to the west
+of here.
+~
+0 0 1
+D0
+Liberty Lane~
+~
+0 -1 31042
+D1
+Victory Parade East~
+~
+0 -1 31011
+D2
+Liberty Lane~
+~
+0 -1 31044
+D3
+Victory Parade East~
+~
+0 -1 31005
+S
+#31009
+Victory Parade West~
+You are walking along Victory Parade West.  Tall houses line the road, as
+do small gardens and parks.  To the north lies the entrance to the newly
+built Merchants Guild.  White birds circle high overhead, their feathers
+dazzling in the sun.  Surely they are magical creations of the Magicians
+of the city.
+~
+0 0 1
+D0
+~
+~
+0 0 31197
+D1
+Victory Parade West~
+~
+0 -1 31006
+D3
+Victory Parade West~
+~
+0 -1 31012
+S
+#31010
+Glory Avenue~
+You are walking along Glory Avenue.  The great temple dedicated to Selina
+lies to the north, and you are awed by its size and beauty.  The sides of
+buildings block any movement to the east and west.  Glory Avenue continues
+to the north and south.
+~
+0 0 1
+D0
+Glory Avenue~
+~
+0 -1 31007
+D2
+Outside the Dryad Guild~
+~
+0 -1 31034
+D3
+~
+~
+0 0 30900
+S
+#31011
+Victory Parade East~
+You are walking along Victory Parade East.  The imposing city walls loom
+to the east.  Tall buildings with large, glass windows line each side of
+the street.  These are obviously the homes of the wealthy citizens of
+Shandalar.
+~
+0 0 1
+D1
+Victory Parade East~
+~
+0 -1 31013
+D3
+Victory Parade East~
+~
+0 -1 31008
+S
+#31012
+Victory Parade Park~
+At this point there is a small park with a stone statue of Selina,
+the avenging angel, protecting the city of Shandalar from a winged
+monster.  There is a short inscription at the bottom of the statue.
+Victory Parade continues to the east and west.
+~
+0 0 1
+E
+inscription~
+~
+D0
+~
+~
+0 0 31199
+D1
+Victory Parade West~
+~
+0 -1 31009
+D3
+Victory Parade West~
+~
+0 -1 31014
+S
+#31013
+Victory Parade East~
+You are walking along Victory Parade East.  Children play and scamper
+at your feet, while their mothers watch patiently from the doorways of
+nearby houses.  Guards occasionally wander by, keeping their eyes open
+for any sign of disturbance.  The house to the south has a small sign
+next to its door that reads: "High Embassy from the Lands of Palankcaren."
+You can see the city gates to the east.
+~
+0 0 1
+D0
+~
+~
+0 0 31168
+D1
+Victory Parade East~
+~
+0 -1 31015
+D2
+~
+~
+0 0 31193
+D3
+Victory Parade East~
+~
+0 -1 31011
+S
+#31014
+Approaching Gate at Victory Parade West~
+You are approaching the western gates of the city, which are constantly
+patrolled by guards. There is no-one else about here, as the concentration
+of residences and shops is nearer to the Temple.
+~
+0 0 1
+D1
+Victory Parade West~
+~
+0 -1 31012
+D3
+The Victory Parade West Gate~
+~
+0 -1 31016
+S
+#31015
+Approaching Gate at Victory Parade East~
+You are approaching the eastern gates of the city, which are constantly
+patrolled by guards.  This appears to be a quiet section of the city.
+~
+0 0 1
+D0
+~
+~
+0 0 31196
+D1
+The Victory Parade East Gate~
+~
+0 -1 31017
+D3
+Victory Parade East~
+~
+0 -1 31013
+S
+#31016
+Inside the Victory Parade West Gate~
+You have reached the western edge of Victory Parade, the long road that
+bisects the city.  Tall, mithril gates rise above you to the west, standing
+open as they alway are, save in times of war.  There are doors to the
+north and south leading into the Guard Towers.
+~
+0 0 1
+D0
+~
+door~
+1 0 31200
+D1
+Victory Parade West~
+~
+0 -1 31014
+D2
+~
+door~
+1 0 31201
+D3
+~
+~
+1 0 31018
+S
+#31017
+Inside the Victory Parade East Gate~
+You have reached the eastern end of Victory Parade, the long road that
+biscets the city.  A large door has been carved into the southern tower.
+Tall mithril gates rise above you to the east, they stand open, except in
+times of war.
+~
+0 0 1
+D1
+~
+~
+1 0 31019
+D2
+~
+door~
+1 0 31213
+D3
+Victory Parade East~
+~
+0 -1 31015
+S
+#31018
+Outside the Victory Parade West Gate~
+You are standing outside the Gates at the western end of town. They loom
+high above you, tall, gleaming mithril valves designed to keep the most
+persistent of intruders out. Guards wander back and forth both on the
+below and the battlements high above, where they are barely visible through
+the crenelations.
+~
+0 0 2
+D0
+~
+~
+0 0 31112
+D1
+~
+~
+1 0 31016
+D2
+The Circuit Road~
+~
+0 -1 31033
+D3
+~
+~
+0 0 10943
+S
+#31019
+Outside the Victory Parade East Gate~
+You are standing outside the Gates at the eastern end of town. They loom
+high above you, tall, gleaming mithril valves designed to keep the most
+persistent of intruders out. Guards wander back and forth both on the
+below and the battlements high above, where they are barely visible through
+the crenelations.
+ 
+~
+0 0 2
+D0
+~
+~
+0 0 31056
+D1
+~
+~
+0 0 10901
+D2
+~
+~
+0 0 31130
+D3
+~
+~
+1 0 31017
+S
+#31020
+The Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles
+the city, provided by the Rulers for the benefit of travellers who wish to
+bypass the city on their travels.
+~
+0 0 2
+D0
+Northwest Corner of the City~
+~
+0 -1 31021
+D2
+~
+~
+0 0 31110
+S
+#31021
+Northwest Corner of the Circuit Road~
+You are travelling around the northwest corner of the Circuit Road, a broad,
+paved path that circles the city, provided by the Rulers for the benefit of
+travellers who wish to bypass the city on their journeys.
+~
+0 0 2
+D1
+~
+~
+0 0 31022
+D2
+The Circuit Road~
+~
+0 -1 31020
+S
+#31022
+The Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles
+the city, provided by the Rulers for the benefit of travellers who wish to
+bypass the city on their travels.
+~
+0 0 2
+D1
+~
+~
+0 0 31109
+D3
+~
+~
+0 0 31021
+S
+#31023
+A Path Outside the City~
+You walk along a wide path that runs next to the outside wall of Shandalar.
+The city's wall looks like it could keep out any army.  The path continues
+to the east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 31024
+D3
+~
+~
+0 0 31100
+S
+#31024
+The Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles
+the city, provided by the Rulers for the benefit of travellers who wish to
+bypass the city on their travels.
+~
+0 0 2
+D1
+Northeast Corner of the Circuit Road~
+~
+0 -1 31025
+D3
+~
+~
+0 0 31023
+S
+#31025
+Northeast Corner of the Circuit Road~
+You are travelling around the northeast corner of the Circuit Road, a broad,
+paved path that circles the city, provided by the Rulers for the benefit of
+travellers who wish to bypass the city on their journeys.
+~
+0 0 2
+D2
+The Circuit Road~
+~
+0 -1 31026
+D3
+The Circuit Road~
+~
+0 -1 31024
+S
+#31026
+The Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles
+the city, provided by the Rulers for the benefit of travellers who wish to
+bypass the city on their travels.
+~
+0 0 2
+D0
+Northeast Corner of the City~
+~
+0 -1 31025
+D2
+~
+~
+0 0 31061
+S
+#31027
+The Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles
+the city, provided by the Rulers for the benefit of travellers who wish to
+bypass the city on their travels.
+~
+0 0 2
+D0
+~
+~
+0 0 31127
+D2
+Southeast Corner of the City~
+~
+0 -1 31028
+S
+#31028
+Southeast Corner of the Circuit Road~
+You are travelling around the southeast corner of Circuit Road.  This
+broad, paved path circles the city.  It has been provided by the Rulers
+for the benefit of those who wish to bypass the city on their journeys.
+~
+0 0 2
+D0
+The Circuit Road~
+~
+0 -1 31027
+D3
+~
+~
+0 0 31126
+S
+#31029
+The Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles
+the city, provided by the Rulers for the benefit of travellers who wish to
+bypass the city on their travels.
+~
+0 0 2
+D1
+~
+~
+0 0 31117
+D3
+A Path to the South~
+~
+0 -1 31030
+S
+#31030
+A Path to the South~
+A narrow, irregular but well-trodden trail runs directly south from here.
+There is what looks like a range of hills in that direction, plus the light
+appears to reflect off something that could be water.
+~
+0 0 2
+D1
+The Circuit Road~
+~
+0 -1 31029
+D3
+The Circuit Road~
+~
+0 -1 31031
+S
+#31031
+The Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles
+the city, provided by the Rulers for the benefit of travellers who wish to
+bypass the city on their travels.
+~
+0 0 2
+D1
+A Path to the South~
+~
+0 -1 31030
+D3
+Southwest Corner of the Circuit Road~
+~
+0 -1 31032
+S
+#31032
+Southwest Corner of the Circuit Road~
+You are travelling around the southwest corner of the Circuit Road, a broad,
+paved path that circles the city, provided by the Rulers for the benefit of
+travellers who wish to bypass the city on their journeys.
+~
+0 0 2
+D0
+~
+~
+0 0 31116
+D1
+The Circuit Road~
+~
+0 -1 31031
+S
+#31033
+The Circuit Road~
+You are travelling along the Circuit Road, a broad, paved path that circles
+the city, provided by the Rulers for the benefit of travellers who wish to
+bypass the city on their travels.
+~
+0 0 2
+D0
+Outside the Victory Parade West Gates~
+~
+0 -1 31018
+D2
+~
+~
+0 0 31113
+S
+#31034
+Glory Avenue~
+The landscaping along this part of Glory Avenue is very impressive.
+Cleverly pruned topiaries and tall ash, oak, and elm trees line both sides
+of the street.  The faint scent of incense comes from the north.
+~
+0 0 1
+D0
+Glory Avenue~
+~
+0 -1 31010
+D2
+Inside the Dryad Guild~
+~
+1 0 31035
+S
+#31035
+Old Square~
+A sense of peace and serenity fills this square.  All around you,
+everything seems to be in harmony with its environment.  Intricately carved
+doors to the east protect an unused outpost.  The entrance to the Avide
+Guild can be found to the south.  Exits also lie to the north and west.  
+~
+0 0 1
+D0
+Outside the Dryad Guild~
+~
+1 0 31034
+D1
+The Dryad Bar~
+door~
+3 31064 31037
+D2
+~
+~
+0 0 30806
+D3
+The Guildmaster~
+~
+0 -1 31036
+S
+#31036
+An Abandoned Room~
+It seems as though the only thing keeping the walls standing is the heavy
+moss and ivy which have grown up towards the ceiling.  Debris lies
+everywhere, although a few footprints lead towards a door to the north.  
+~
+0 0 0
+D0
+~
+~
+1 0 31131
+D1
+Inside the Dryad Guild~
+~
+0 -1 31035
+S
+#31037
+Empty Outpost~
+Polished oak panels line the walls and floor of this room.  Its dark color
+makes you feel warm.  A locked door lies to the west and a Square is to the
+north.
+~
+0 8 0
+D0
+~
+~
+0 0 31035
+D3
+Inside the Dryad Guild~
+door~
+3 31064 31035
+S
+#31038
+Liberty Lane~
+You are heading along the northern half of Libery lane.  To the south
+runs Victory Parade, while to the north lies Justice Street.  The
+Castellan's office is to the west, and a sign directing you towards the
+Traveller's Rest guild can be seen both east and up a set of stairs.  
+~
+0 0 1
+D0
+Justice Street~
+~
+0 -1 31046
+D1
+~
+~
+0 0 30800
+D2
+Victory Parade~
+~
+0 -1 31006
+D3
+Castellan's Office~
+~
+1 0 31039
+D4
+~
+~
+1 0 30810
+S
+#31039
+The Castellan's Office~
+This is the office of the Castellan of the City of Shandalar, appointed by
+the King of Dominia to be steward of the city.  He takes his job seriously
+and does excellent work.
+~
+0 8 0
+D1
+Liberty Lane~
+~
+1 0 31038
+D3
+~
+door~
+1 31001 31167
+S
+#31040
+Liberty Lane~
+You walk along Liberty Lane.  To the north it joins Victory Parade and to
+South it meets with Valiant Street.  There is a Blacksmith shop to the west,
+and above it is a fish and chips store.  You see the bowyer's shop to the
+east.  
+~
+0 0 1
+D0
+Victory Parade~
+~
+0 -1 31006
+D1
+~
+~
+0 0 30813
+D2
+Corner of Liberty Lane and Valiant Street~
+~
+0 -1 31062
+D3
+The Smithy~
+~
+0 -1 31041
+S
+#31041
+The Smithy~
+You are greeted with a sudden blast of heat from the furnance as you enter
+the smithy.  Wiping sweat from your brow, you gaze about, taking the place
+in.  Various items of armor in various stages or repair line the walls.  A
+huge anvil stands in the middle of room.  There is a chippy upstairs from 
+here.
+~
+0 8 0
+D1
+Liberty Lane~
+~
+0 -1 31040
+D4
+Chippy~
+~
+0 -1 31190
+S
+#31042
+Stalwart Lane~
+You are marching along the northern half of Stalwart Lane.  To the south
+lies Victory Parade, the main road of the city.  To the north runs Justice
+Street.  Examining the statue closely, you notice an inscription runs around
+its base.  There is an armory to the east.  
+~
+0 0 1
+D0
+Corner of Justice Street and Stalwart Lane~
+~
+0 -1 31054
+D1
+The Armory~
+~
+0 -1 31043
+D2
+Victory Parade~
+~
+0 -1 31008
+S
+#31043
+The Armory~
+You have entered the Armory, an impressive place of business with a range
+of equipment unmatched on the whole continent. Piles of armor gather dust
+in the rear of the shop, while better items are displayed in glass cases
+or on racks. If you don't know what to do, try looking at the armorer.
+~
+0 8 0
+D3
+Stalwart Lane~
+~
+0 -1 31042
+S
+#31044
+Stalwart Lane~
+You stand on the southern half of Stalwart Lane.  To the north is Victory
+Parade and to the south is Valiant Street.  There is a weaponsmith directly
+east of here.
+~
+0 0 1
+D0
+Victory Parade~
+~
+0 -1 31008
+D1
+The Weaponsmith~
+~
+0 -1 31045
+D2
+Corner of Stalwart Lane and Valiant Street~
+~
+0 -1 31069
+S
+#31045
+The Weaponsmith~
+You have entered the store of the weaponsmith.  This is a crowded premise
+loaded with military regalia of all types.  The weaponsmith is a avid
+collector of memorabilia, but his cheif business is the buying and selling
+say weapons.  If you are lost, try looking at him for help.
+~
+0 8 0
+D3
+Liberty Lane~
+~
+0 -1 31044
+S
+#31046
+Corner of Liberty Lane and Justice Street~
+You are standing at the corner of Justice Street and Liberty Lane.  There
+is a Mercenary Guild to the north, and various shops and guilds to the east
+and west.
+~
+0 0 1
+D0
+mercenaries~
+~
+0 -1 31047
+D1
+Justice Street~
+~
+0 -1 31049
+D2
+Liberty Lane~
+~
+0 -1 31038
+D3
+Illithid Guild~
+~
+0 -1 31086
+S
+#31047
+Mercenaries Unlimited~
+You have entered a hiring hall for mercenaries. A stout Mercenary Master
+grunts as you enter. If you don't know what to do, try looking at him.
+~
+0 4104 0
+D2
+Justice Street~
+~
+0 -1 31046
+S
+#31048
+Merc Store~
+~
+0 268435468 0
+S
+#31049
+Justice Street~
+Many people congregate along this busy section of Justice Street.  Shops
+line both sides of the street.  You hear a series of 'pops' and 'bangs'
+coming from the magic shop to the north.  To the south lies the Causeway,
+the back door of the Traveller's Rest Guild.  
+~
+0 0 1
+D0
+The Magic Shop~
+~
+0 -1 31050
+D1
+Corner of Honor Avenue and Justice Street~
+~
+0 -1 31051
+D2
+~
+~
+0 0 30802
+D3
+Corner of Justice Street and Liberty Lane~
+~
+0 -1 31046
+S
+#31050
+The Magic Shop~
+This shop is packed with magical artifacts, items, and spell components
+of all types.  Forcing your way throught the clutter, you eventually find
+the counter.  If you do not kow what to do here, try looking at the store
+keeper.
+~
+0 8 0
+D2
+Justice Street~
+~
+0 -1 31049
+S
+#31051
+Corner of Honor Avenue and Justice Street~
+You are standing at the intersection of Justice Street and Honor Avenue.
+Shops line the street to the east and west, and down the road to the north
+is a tall tower.
+~
+0 0 1
+D0
+Honor Avenue~
+~
+0 -1 31057
+D1
+Justice Street~
+~
+0 -1 31052
+D3
+Justice Street~
+~
+0 -1 31049
+S
+#31052
+Justice Street~
+You are walking through the northeastern section of town along Justice
+Street.  Many shops and guilds line the road side.  To the north is a
+small building marked 'Potion Shop'.
+~
+0 0 1
+D0
+The Sage~
+~
+0 -1 31053
+D1
+Corner of Honor Avenue and Justice Street~
+~
+0 -1 31054
+D3
+Justice Street~
+~
+0 -1 31051
+S
+#31053
+Adarasus's Potion Shop~
+You have entered the modest shop of Adarasus.  A tall counter stands in
+the middle of the room, behind which is a big locked chest.  Candles light
+the corners of the room to ward off any unwanted intruders.
+~
+0 12 0
+D2
+Justice Street~
+~
+0 -1 31052
+S
+#31054
+City Square~
+You are advancing along Justice Street through a small city square where
+fetes are held every spring.  Four large shrubs stand in each corner.  To
+the north is a store, to the South is Stalwart Lane, and Justice Street
+continues to the east and west.
+~
+0 0 1
+D0
+The Pet Shop~
+~
+0 -1 31055
+D1
+Justice Street~
+~
+0 -1 31093
+D2
+Stalwart Lane~
+~
+0 -1 31042
+D3
+Justice Street~
+~
+0 -1 31052
+S
+#31055
+A Stone Cutter's Shop~
+This shop is crowded with many glass cases full of precious and colorful
+stones.  The gemologist has even turned some of the items into fancy pieces
+of jewellery.  There is a sign on the wall.
+~
+0 8 0
+E
+sign~
+The golden letters say :-
+ 
+     Use 'list' to see what is in the store,
+          'buy <item>' to buy an item,
+          'sell <item>' to sell an item and
+          'value <item>' to make the jeweller evaluate an item.
+~
+D2
+Justice Street~
+~
+0 -1 31054
+S
+#31056
+Outside Shandalar~
+You stand on a path that runs along the outside walls of Shandalar.  It
+leads completely around the city.  You can go north or south.
+~
+0 0 1
+D0
+~
+~
+0 0 31060
+D2
+~
+~
+0 0 31019
+S
+#31057
+Honor Avenue~
+You are strolling along Honor Avenue, a broad, tree-lined boulevard with
+several impressive-looking residences to either side.  To the north lies a
+small tower.  Justice Street lies to your south.
+~
+0 0 1
+D0
+The Elven Guild~
+~
+0 -1 31058
+D2
+Corner of Honor Avenue and Justice Street~
+~
+0 -1 31051
+S
+#31058
+Selina's Coven~
+You stand in a small room which is dominated by a white spiral staircase.
+The sound of chanting floats down from the stairs.  You can investigate, or
+return to Honor Avenue to the south.
+~
+0 8 0
+D2
+Honor Avenue~
+~
+0 -1 31057
+D4
+The Offices of the Guild~
+~
+0 -1 31059
+S
+#31059
+The Coven Hall~
+This room has been requently white-washed and gleams brightly.  A large
+picture window looks out across the city.  Legend holds that from this room
+Selina planned her campaign against the invaders.
+~
+0 8 0
+D0
+~
+~
+3 31001 31191
+D5
+~
+~
+0 -1 31058
+S
+#31060
+Outside Shandalar~
+You stand on a path that runs along the outside walls of Shandalar.  It
+leads completely around the city.  You can go north or south.
+~
+0 0 1
+D0
+~
+~
+0 0 31061
+D2
+~
+~
+0 0 31056
+S
+#31061
+Outside Shandalar~
+You stand on a path that runs along the outside walls of Shandalar.  It
+leads completely around the city.  You can go north or south.
+~
+0 0 1
+D0
+~
+~
+0 0 31026
+D2
+~
+~
+0 0 31060
+S
+#31062
+The Corner of Liberty Lane and Valiant Street~
+You are standing at a tree-lined intersection in the southwest quarter of
+town.  Valiant Street continues to the east and west and Liberty Lane heads
+north.  To the south stands an large bank.
+~
+0 0 1
+D0
+Liberty Lane~
+~
+0 -1 31040
+D1
+Valiant Street~
+~
+0 -1 31065
+D2
+The Bank~
+~
+0 -1 31063
+D3
+Valiant Street~
+~
+0 -1 31072
+S
+#31063
+The Bank~
+You have entered a building obviously built by someone who is fabulously
+wealthy.  From the gold handles in the door to the obsidian service counter
+and platinum wall fittings, everything is expensive and luxurious.  There is
+a set of stairs leading up to the business area of the bank, where the
+cashiers are located.
+~
+0 8 0
+D0
+Corner of Valiant Street and Liberty Lane~
+~
+0 -1 31062
+D4
+The ATM~
+~
+0 -1 31064
+S
+#31064
+The Cashier~
+This room is less elaborate than the one downstairs.  It is obvious that
+it was built to take care of business.  There is a sign on the wall with the
+bank's instructions.  
+~
+0 8 0
+E
+sign~
+atm open: removes 10 gold from your inventory and gives you a bank note
+atm close: gives you all the money in your account and takes your note
+atm deposit (amount): puts money on your note
+atm withdraw (amount): takes money off your note
+atm balance: show you how much money you have in the bank
+~
+E
+atm~
+A sign says-
+
+"Hello! Welcome to the ShandalaryMUD Banks ATM! To activate the machine, you
+ must press one of three buttons-
+
+ 1.To withdraw cash, type WITHDRAW <amount>, and your account will be
+   automatically debited while the money is transferred to you.
+ 2.To deposit cash, type DEPOSIT <amount>, and your account will be
+   automatically credited.
+ 3.To simply check your balance, type BALANCE.
+
+ Thank You and have a GOOD day :)"
+
+~
+D5
+The Bank~
+~
+0 -1 31063
+S
+#31065
+Valiant Street~
+You stand on the cobbled path called Valiant Street.  The stones are uneven
+and many people trip as they walk along the road.  The street continues to
+the east and west.  To the south is a large general store.
+~
+0 0 1
+D1
+Corner of Valiant Street and Glory Avenue~
+~
+0 -1 31007
+D2
+The Grocery Store~
+~
+0 -1 31066
+D3
+Corner of Valiant Street and Liberty Lane~
+~
+0 -1 31062
+S
+#31066
+The General Store~
+You have entered a quaint General Store.  The shelves are lined with basic
+goods of every type.  Backpacks, water skins, ropes, lanterns, torches
+and pouches are what the Grocer specializes in.  If you need any of those 
+goods, you've come to the right place.  If you don't know how to negotiate
+a transaction, simply look at the grocer.
+~
+0 8 0
+D0
+Valiant Street~
+~
+0 -1 31065
+S
+#31067
+Valiant Street~
+You stand before a small but tidy bakery.  The smell of fresh baked bread
+wafts from its doorway.  Valiant Street continues to the east and west.
+~
+0 0 1
+D1
+Corner of Stalwart Street and Glory Avenue~
+~
+0 -1 31069
+D2
+The Bakery~
+~
+0 -1 31068
+D3
+Corner of Valiant Street and Glory Avenue~
+~
+0 -1 31007
+S
+#31068
+The Bakery~
+The delicious aroma you smelt outside pervades this entire store. Cakes,
+pies, rolls and loaves of freshly-baked bread line the racks behind the
+counter. Also behind the counter is a very mean-looking tattooed Troll with
+missing teeth and fingers, but with a talent for baking unsurpassed in the
+entire nation. If you don't know what to do next, try looking at the Troll
+(if you dare...).
+~
+0 8 0
+D0
+Valiant Street~
+~
+0 -1 31067
+S
+#31069
+The Corner of Stalwart Lane and Valiant Street~
+You are standing at a tree-lined intersection in the southeast quarter of
+town.  Stalwart Lane runs north toward Justice Street.  Valiant Street  
+runs east and west.  To the south is a seedy-looking bar.
+~
+0 0 1
+D0
+Stalwart Lane~
+~
+0 -1 31044
+D1
+Valiant Street~
+~
+0 -1 31079
+D2
+The Bar~
+~
+0 -1 31070
+D3
+Valiant Street~
+~
+0 -1 31067
+S
+#31070
+The Sleeping Goat~
+You have entered the main room of the Sleeping Goat Bar.  A slick-looking
+bartender with greasy black hair attempts to come on to the female patrons.
+Seeing you he smiles and offers to make you a drink.  To see what he has
+to offer try looking at him.  Private booths are available to the south.
+~
+0 8 0
+D0
+Corner of Valiant Street and Stalwart Lane~
+~
+0 -1 31069
+D2
+Private Booths~
+~
+0 -1 31071
+S
+#31071
+Private Booths~
+This back room has been the scene of many dark and secret deals.  You
+better be careful and watch your back.  The bar lies to the north.
+~
+0 9 0
+D0
+The Bar~
+~
+0 -1 31070
+S
+#31072
+Valiant Street~
+The street widens in this section.  An army of guards could easily march
+along it during times of war.  The side of a tall buildings lies to the north
+and the street continues to the east and west.  To the south lies the Wax
+Museum of Shandalar.
+~
+0 0 1
+D1
+Corner of Valiant Street and Liberty Lane~
+~
+0 -1 31062
+D2
+~
+~
+0 0 14801
+D3
+Valiant Street~
+~
+0 -1 31073
+S
+#31073
+Valiant Street~
+This section of the city seems far off from all the action. You can no longer
+hear all the shop sounds.  Valiant Street continues to the east and west.
+~
+0 0 1
+D1
+Valiant Street~
+~
+0 -1 31072
+D3
+A Bend in Valiant Street~
+~
+0 -1 31074
+S
+#31074
+A Bend in Valiant Street~
+A tall hedge lines the north and west sides of Valiant Street.  There is
+no way to see over it.  You can head south or turn to the east.
+~
+0 0 1
+D1
+Valiant Street~
+~
+0 -1 31073
+D2
+Outside the Dungeon~
+~
+0 -1 31075
+S
+#31075
+The King's Gaol~
+You are standing outside the grounds of the King's Gaol, the prison of
+Dominia.   This is where all the perpretrators of heinous acts are kept.
+There are massive gates to your south.
+~
+0 0 1
+D0
+Valiant Street~
+~
+0 -1 31074
+D2
+The Dwarven Guild~
+gate~
+1 0 31076
+S
+#31076
+Inside the Gaol~
+Stone walls rise all around you as you enter the inside the city's prison.
+The gates to the outside lie to the north.  One cell lies behind bars to your
+south, and another cell is behind bars to your east.
+~
+0 8 1
+D0
+Valiant Street~
+gate~
+1 0 31075
+D1
+The Dwarven Bar~
+bars~
+1 31060 31078
+D2
+The Guildmaster~
+bars~
+1 31060 31077
+S
+#31077
+Cell One~
+This stark cell has housed many violent criminals.  Its walls are marked 
+with gashes and the floors are stained from filth.
+~
+0 8 0
+D0
+The Guild training yard~
+bars~
+1 31060 31076
+S
+#31078
+Cell Two~
+This stark cell has housed many violent criminals.  Its walls are marked 
+with gashes and the floors are stained from filth.
+~
+0 8 0
+D3
+The Guild training yard~
+bars~
+1 31060 31076
+S
+#31079
+Valiant Street~
+You have entered a rather seedy area of town, the slums that line the
+eastern half of Valiant Street are legendary throughout Dominia.  A
+haven for thieves, assassins, backstabbers, footpads, and murderers of
+all descriptions.  It is a place where a quick mind and a quicker blade 
+will mean the difference between life and death.
+~
+0 1 1
+D0
+~
+~
+0 0 30804
+D1
+Valiant Street~
+~
+0 -1 31080
+D3
+Corner of Stalwart Lane and Valiant Street~
+~
+0 -1 31069
+S
+#31080
+Valiant Street~
+This dark and dank slum gives you a creepy feeling.  Garbage and filth 
+cling the sides of the buildings.  You hope that your boots won't be
+ruined.  Valiant Street continues to the east and west.
+~
+0 1 1
+D1
+A Bend in Valiant Street~
+~
+0 -1 31081
+D3
+Valiant Street~
+~
+0 -1 31079
+S
+#31081
+A Bend in Valiant Street~
+You reach a sharp bend in the road.  Valiant Street continues to the south
+and west.  There is also a small grate set in the ground.  Looking through
+bars, you see a complex network of interconnecting tunnels.
+~
+0 1 1
+D2
+Outside the Kender Guild~
+~
+0 -1 31082
+D3
+Valiant Street~
+~
+0 -1 31080
+S
+#31082
+A Dark Alley~
+This narrow, dark alley lies south of the eastern end of Valiant Street.
+Tall stone walls prevent any movement to the east or west.  To the south
+appears some type of park.
+~
+0 1 1
+D0
+Valiant Street above the Sewer~
+~
+0 -1 31081
+D2
+~
+~
+0 0 31083
+S
+#31083
+The Old Seeker Square~
+This was once the home of the Seekers.  You can still see the remnants of
+the pristine and orderly gardens which used to grow here.  Due to a lack of
+care and use, the plants have grown over the entire square; thorny plants
+and thick bushes grow everywhere here.  
+~
+0 0 1
+D0
+~
+~
+0 0 31082
+D1
+~
+~
+0 0 15136
+D2
+The Guildmaster~
+door~
+1 31063 31084
+S
+#31084
+Old Seeker Outpost~
+This room is very clean, but very bare.  No furniture or objects of art
+clutter up the space.  A large locked door stands to the north.
+~
+0 941883404 0
+D0
+Inside the Guild~
+door~
+1 31063 31083
+M 250 H 250
+S
+#31085
+free vnum~
+~
+0 402915340 0
+C seeker~
+S
+#31086
+End of Justice Street~
+You stand at the eastern end of Justice Street.  To the north is an open
+square, and to the east there are many different kind of shops.
+~
+0 0 1
+D0
+The Illithid Guild~
+~
+0 -1 31090
+D1
+Justice Street~
+~
+0 -1 31046
+S
+#31087
+Old Kindred Square~
+You have entered a dark alley full of large stone statues.  Each of the
+stone carvings represents a woman mastering the world.  Two large iron doors
+lie to the south.  Justice street continues to the west.
+~
+0 0 1
+D2
+~
+~
+1 0 31089
+D3
+~
+~
+0 0 31095
+S
+#31088
+empty vnum~
+~
+0 32772 0
+S
+#31089
+Former Kindred Outpost~
+This room looks like it has been empty for several years.
+~
+0 8 0
+D0
+~
+~
+1 0 31087
+S
+#31090
+Justice Square~
+You stand in the middle of a grass covered square.  To the
+north stands the former outpost of Clan Justice.  A thick
+wooden door has rusted shut with age.
+~
+0 0 1
+D0
+~
+~
+1 0 31092
+D2
+Justice Street~
+~
+0 -1 31086
+S
+#31091
+unused~
+~
+0 268435468 0
+C loner~
+S
+#31092
+The Former Justice Outpost~
+You have entered a particularly small, dark, and cramped chamber that is
+devoid of furniture.  Despite its starkness, it is safer than being outside.
+There is an exit to the west.
+~
+0 8 0
+D2
+~
+~
+1 0 31090
+S
+#31093
+Justice Street~
+This section of Justice Street is much quieter.  There are no shops or
+homes to generate traffic.  The street continues to the east and west.
+~
+0 0 1
+D1
+Justice Street~
+~
+0 -1 31094
+D3
+Corner of Justice Street and Stalwart Lane~
+~
+0 -1 31054
+S
+#31094
+Justice Street~
+You are strolling through a fairly deserted northeastern quarter of town. 
+The city's shops lay to the west.  A clan square lies far to the east.
+~
+0 0 1
+D1
+Justice Street~
+~
+0 -1 31095
+D3
+Justice Street~
+~
+0 -1 31093
+S
+#31095
+End of Justice Street~
+At this bend in the road, you can head east towards Kindred Square, north
+to the city casino, or west to the town's shops.   
+~
+0 0 1
+D0
+Outside the Tower~
+~
+0 -1 31096
+D1
+~
+~
+0 0 31087
+D3
+Justice Street~
+~
+0 -1 31094
+S
+#31096
+Outside the Casino~
+You stand beneath the stone tower which houses the famous Casino Royal.
+It is open all day and all night so that gamblers can get their fix.  They
+have obviously taken in a lot of money because the place is very elegant.
+You can return to Justice Street to the south.
+~
+0 0 1
+D0
+Inside the Tower~
+~
+0 -1 31097
+D2
+Outside the Dojo~
+~
+0 -1 31095
+S
+#31097
+The Casino Royal~
+The casino entrance has a marble floor and white plaster walls.  Gold framed
+mirrors are hung on the walls, and a large chandelier lights the room.  There
+is a spiral staircase leading up, and another spiral staircase headed down.
+You can exit the casino by going south.
+~
+0 8 0
+D2
+Outside the Tower~
+~
+0 -1 31096
+D4
+The Aerie~
+~
+0 -1 31099
+D5
+The Bar~
+~
+0 -1 31098
+S
+#31098
+The Slot Machine Room~
+Flashing lights make your eyes water and your heart jump.  There are quite
+a few slot machines in the room.  If you don't know how to play there is a 
+sign on the wall.
+~
+0 8 0
+E
+sign~
+To play a slot machine type: game slots <machine name>
+To see how a machine is set up type: examine <machine name>
+~
+D4
+Inside the Tower~
+~
+0 -1 31097
+S
+#31099
+The High Dice Game~
+This room is dark with little decoration.  The entire focus is on a large
+dice table that stands in the middle of the floor.  For first time gamblers,
+there is a sign on the wall.
+~
+0 8 0
+E
+sign~
+Syntax: game highdice <amount>
+In highdice, the dealer and you both roll two dice and whoever has the
+highest total wins.  In the case of a tie, you lose.  Betting is limited to
+between 10 - 200 gold.
+~
+D5
+Inside the Tower~
+~
+0 -1 31097
+S
+#31100
+A Path Outside the City~
+You walk along a wide path that runs next to the outside wall of Shandalar.
+The city's wall looks like it could keep out any army.  The path continues
+to the east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 31023
+D3
+~
+~
+0 0 31101
+S
+#31101
+A Path Outside the City~
+You walk along a wide path that runs next to the outside wall of Shandalar.
+The city's wall looks like it could keep out any army.  The path continues
+to the east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 31100
+D3
+~
+~
+0 0 31102
+S
+#31102
+A Path Outside the City~
+You walk along a wide path that runs next to the outside wall of Shandalar.
+The city's wall looks like it could keep out any army.  The path continues
+to the east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 31101
+D3
+~
+~
+0 0 31103
+S
+#31103
+A Path Outside the City~
+You walk along a wide path that runs next to the outside wall of Shandalar.
+The city's wall looks like it could keep out any army.  The path continues
+to the east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 31102
+D3
+~
+~
+0 0 31104
+S
+#31104
+A Path Outside the City~
+You walk along a wide path that runs next to the outside wall of Shandalar.
+The city's wall looks like it could keep out any army.  The path continues
+to the east and west.
+~
+0 0 2
+D0
+~
+~
+0 0 10947
+D1
+~
+~
+0 0 31103
+D3
+~
+~
+0 0 31105
+S
+#31105
+Shandalar's Outer Road~
+The road that you are on circles the city.  To the south lies the tall wall
+of Shandalar.  The path continues to the east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 31104
+D3
+~
+~
+0 0 31106
+S
+#31106
+Shandalar's Outer Road~
+The road that you are on circles the city.  To the south lies the tall wall
+of Shandalar.  The path continues to the east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 31105
+D3
+~
+~
+0 0 31107
+S
+#31107
+Shandalar's Outer Road~
+The road that you are on circles the city.  To the south lies the tall wall
+of Shandalar.  The path continues to the east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 31106
+D3
+~
+~
+0 0 31108
+S
+#31108
+Shandalar's Outer Road~
+The road that you are on circles the city.  To the south lies the tall wall
+of Shandalar.  The path continues to the east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 31107
+D3
+~
+~
+0 0 31109
+S
+#31109
+Shandalar's Outer Road~
+The road that you are on circles the city.  To the south lies the tall wall
+of Shandalar.  The path continues to the east and west.
+~
+0 0 2
+D1
+~
+~
+0 0 31108
+D3
+~
+~
+0 0 31022
+S
+#31110
+The Western Road~
+This road runs north and south along the outside of the city walls.  The
+path is wide and straight.  You can hear the sounds of the city from behind
+the wall.
+~
+0 0 2
+D0
+~
+~
+0 0 31020
+D2
+~
+~
+0 0 31111
+S
+#31111
+The Western Road~
+This road runs north and south along the outside of the city walls.  The
+path is wide and straight.  You can hear the sounds of the city from behind
+the wall.
+~
+0 0 2
+D0
+~
+~
+0 0 31110
+D2
+~
+~
+0 0 31112
+S
+#31112
+The Western Road~
+This road runs north and south along the outside of the city walls.  The
+path is wide and straight.  You can hear the sounds of the city from behind
+the wall.
+~
+0 0 2
+D0
+~
+~
+0 0 31111
+D2
+~
+~
+0 0 31018
+S
+#31113
+A Path Around Shandalar~
+This path leads completely around the city.  A high stone wall lies to the
+east.  It would be impossible to climb over.  You can head north or south.
+~
+0 0 2
+D0
+~
+~
+0 0 31033
+D2
+~
+~
+0 0 31114
+S
+#31114
+A Path Around Shandalar~
+This path leads completely around the city.  A high stone wall lies to the
+east.  It would be impossible to climb over.  You can head north or south.
+~
+0 0 2
+D0
+~
+~
+0 0 31113
+D2
+~
+~
+0 0 31115
+S
+#31115
+A Path Around Shandalar~
+This path leads completely around the city.  A high stone wall lies to the
+east.  It would be impossible to climb over.  You can head north or south.
+~
+0 0 2
+D0
+~
+~
+0 0 31114
+D2
+~
+~
+0 0 31116
+S
+#31116
+A Path Around Shandalar~
+This path leads completely around the city.  A high stone wall lies to the
+east.  It would be impossible to climb over.  You can head north or south.
+~
+0 0 2
+D0
+~
+~
+0 0 31115
+D2
+~
+~
+0 0 31032
+S
+#31117
+Southern Wall of Shandalar~
+~
+0 0 2
+D1
+~
+~
+0 0 31118
+D3
+~
+~
+0 0 31029
+S
+#31118
+Southern Wall of Shandalar~
+~
+0 0 2
+D1
+~
+~
+0 0 31119
+D3
+~
+~
+0 0 31117
+S
+#31119
+Southern Wall of Shandalar~
+~
+0 0 2
+D1
+~
+~
+0 0 31120
+D3
+~
+~
+0 0 31118
+S
+#31120
+Southern Wall of Shandalar~
+To the north rises the great stone wall of Shandalar, behind which you can
+see a few tall towers and temples.  There is no entrance into the city from 
+this section of the path.  The path continues to the east and west.   A road
+goes south into the Evermoor Forest.
+~
+0 0 2
+D1
+~
+~
+0 0 31121
+D2
+~
+~
+0 0 7555
+D3
+~
+~
+0 0 31119
+S
+#31121
+Southern Wall of Shandalar~
+The path you stand on circles the city of Shandalar.  To the north stands a
+tall stone wall that protects the town.  The road continues to the east and
+west.
+~
+0 0 2
+D1
+~
+~
+0 0 31122
+D3
+~
+~
+0 0 31120
+D5
+~
+~
+0 0 23000
+S
+#31122
+A Long East-West Path~
+The path you stand on circles the city of Shandalar.  To the north stands a
+tall stone wall that protects the town.  The road continues to the east and
+west.
+~
+0 0 2
+D1
+~
+~
+0 0 31123
+D3
+~
+~
+0 0 31121
+S
+#31123
+A Long East-West Path~
+The path you stand on circles the city of Shandalar.  To the north stands a
+tall stone wall that protects the town.  The road continues to the east and
+west.
+~
+0 0 2
+D1
+~
+~
+0 0 31124
+D3
+~
+~
+0 0 31122
+S
+#31124
+A Long East-West Path~
+The path you stand on circles the city of Shandalar.  To the north stands a
+tall stone wall that protects the town.  The road continues to the east and
+west.
+~
+0 0 2
+D1
+~
+~
+0 0 31125
+D3
+~
+~
+0 0 31123
+S
+#31125
+A Long East-West Path~
+The path you stand on circles the city of Shandalar.  To the north stands a
+tall stone wall that protects the town.  The road continues to the east and
+west.
+~
+0 0 2
+D1
+~
+~
+0 0 31126
+D3
+~
+~
+0 0 31124
+S
+#31126
+A Long East-West Path~
+The path you stand on circles the city of Shandalar.  To the north stands a
+tall stone wall that protects the town.  The road continues to the east and
+west.
+~
+0 0 2
+D1
+~
+~
+0 0 31028
+D3
+~
+~
+0 0 31125
+S
+#31127
+A Long Straight Path~
+You stand in the middle of a long road that heads north and south.  To
+the west is a tall city wall covered with ivy.
+~
+0 0 2
+D0
+~
+~
+0 0 31128
+D2
+~
+~
+0 0 31027
+S
+#31128
+A Long Straight Path~
+You stand in the middle of a long road that heads north and south.  To
+the west is a tall city wall covered with ivy.
+~
+0 0 2
+D0
+~
+~
+0 0 31129
+D2
+~
+~
+0 0 31127
+S
+#31129
+A Long Straight Path~
+You stand in the middle of a long road that heads north and south.  To
+the west is a tall city wall covered with ivy.
+~
+0 0 2
+D0
+~
+~
+0 0 31130
+D2
+~
+~
+0 0 31128
+S
+#31130
+A Long Straight Path~
+You stand in the middle of a long road that heads north and south.  To
+the west is a tall city wall covered with ivy.
+~
+0 0 2
+D0
+~
+~
+0 0 31019
+D2
+~
+~
+0 0 31129
+S
+#31131
+The College of Shandalar~
+This is the entrance to the school for the continent of Dominia.  Go
+north to enter the college.  Go south to re-enter Shandalar.  
+~
+0 12 0
+D0
+~
+~
+0 0 31132
+D2
+~
+~
+1 0 31036
+S
+#31132
+A Room in the College~
+You are in a room in the School.  Paintings of the heroic graduates of the
+school adorn the walls. To the west is Sissy's Training Room, and to the east
+is Karn's Guild Room.  North of you is the next Station of the School.
+There is a sign on the wall (type 'LOOK SIGN' to read it).
+~
+0 131084 1
+E
+sign~
+To find out your attributes, type 'score'.  You can improve your attributes
+in Sissy's Training Room to the west.  You can practice your skills and spells
+in Karn's Guild Room to the east.  You can continue through mud school by
+going north.
+
+If you are a new character, you should go 'WEST' from here, train your
+abilities, and then come back here and go 'NORTH'.
+~
+D0
+~
+~
+0 0 31135
+D1
+~
+~
+0 0 31134
+D2
+~
+~
+0 0 31131
+D3
+~
+~
+0 0 31133
+S
+#31133
+Sissy's Training Room~
+You are in Sissy's Training Room.  Around you are all sorts of physical
+and mental training tools.  The whole room is filled with magic, holiness, 
+and sweat.  There is a sign on the wall.
+~
+0 131084 1
+E
+sign~
+Welcome to Sissy's Training Room.  Here you can train your attributes.  To
+train an attribute, you need enough practices.  To find out how many practice
+sessions you have, type 'train' while you are in this room.  To train for a 
+specific attribute, type 'train <attr>' where attr is the first 3 letters of
+the attribute you want increased.  Type 'help train' for more information.
+~
+D1
+~
+~
+0 0 31132
+S
+#31134
+Karn's Guild Room~
+You are in a room filled with weapons, books, and many combat dummies, some
+cut and stabbed many times, others burnt to a crisp.  The room is filled with
+sweat and an aura of magic.  There is a sign on the wall.
+~
+0 131084 1
+E
+sign~
+Welcome to Karn's Guild Room.  Here you will learn your skills and spells.
+To find out what skills and spells you can practice and how many practice
+sessions you have, type 'practice'.  To practice the specific skill, type
+'practice <skill>', where 'skill' is the skill or spell you wish to practice.
+Practicing increases the amount you know of that skill or spell, up to a
+certain maximum.  When you have practiced all you wish to practice, go west.
+~
+D3
+~
+~
+0 0 31132
+S
+#31135
+Inside the College of Shandalar~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The exits are west and south.  A small plaque is on the
+wall.
+~
+0 12 0
+E
+sign~
+Equipment check time!  Type 'EQUIPMENT' to see your current equipment.  Right
+now, you have just a vest, a shield, and a weapon.  As you go through Mud
+School you will acquire a complete set of equipment.
+
+To pick up items on the ground as you see them, type 'GET item'.
+To wear a piece of armor, type 'WEAR item'.
+To hold a light source, type 'HOLD item'.
+To wield a weapon, type 'WIELD weapon'.
+To wear, hold, and wield everything you have, type 'WEAR ALL'.
+To stop using a piece of equipment, type 'REMOVE item'.
+Finally, to see the items in your inventory, type 'INVENTORY'.
+
+When you are ready to continue, go west.
+~
+E
+plaque~
+This zone (Mud School) is created by Hatchet for any Rom Mud.
+Copyright 1992, 1993.
+ 
+edited by Daisy, 1998
+ 
+~
+D2
+~
+~
+0 0 31132
+D3
+~
+~
+0 0 31136
+S
+#31136
+The Center Room~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits lead in ALL directions.
+~
+0 131084 0
+E
+sign~
+This is the direction practicing room.  The directions you can go in any
+room are: north, south, east, west, up, or down.  Of course, not all rooms
+have all exits available.
+
+To see the obvious exits in a room, type 'EXITS'.
+
+Sometimes doors are closed, or locked, or secret.  Then you have to notice
+clues in the room description, or try going into that direction and seeing
+if you bump into a door.
+
+Try going into each direction from here.  When you are done, go NORTH.
+~
+D0
+~
+~
+0 0 31141
+D1
+~
+~
+0 0 31135
+D2
+~
+~
+0 0 31137
+D3
+~
+~
+0 0 31138
+D4
+~
+~
+0 0 31139
+D5
+~
+~
+0 0 31140
+S
+#31137
+A Room in the College~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is north.
+~
+0 131084 0
+E
+sign~
+Just go north to the central room.
+~
+D0
+~
+~
+0 0 31136
+S
+#31138
+A Room in the College~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is east.
+~
+0 131084 0
+E
+sign~
+Just go east to the central room.
+~
+D1
+~
+~
+0 0 31136
+S
+#31139
+A Room in the College~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is down.
+~
+0 131084 0
+E
+sign~
+Just go down to the central room.
+~
+D5
+~
+~
+0 0 31136
+S
+#31140
+A Room in the College~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is up.
+~
+0 131084 0
+E
+sign~
+Just go up to the central room.
+~
+D4
+~
+~
+0 0 31136
+S
+#31141
+A Room in the College~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits lead north and south.
+~
+0 131084 0
+E
+sign~
+Since you are here, let us have another lesson.  You can see the statistics on
+yourself by typing 'SCORE'.  Do that right now.  At higher levels, 'SCORE'
+gives you more information.
+~
+D0
+~
+~
+0 0 31142
+D2
+~
+~
+0 0 31136
+S
+#31142
+A Room in the College~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits reach west and down.
+~
+0 131084 0
+E
+sign~
+Welcome to combat training.
+
+The first lesson is knowing whom to fight.  Use the command 'CONSIDER' to
+consider killing a monster.  Avoid fighting monsters that will kill you
+easily.
+
+The second lesson is running away.  There is a monster in the room down.
+He is too strong for you to kill, but he won't kill you.  So go 'DOWN' from
+here, then 'CONSIDER' him, then 'KILL' him.  After a while, type 'FLEE' to
+escape from him.
+
+You can also set your character to flee automatically with the 'WIMPY' command.
+Type 'HELP WIMPY' to find out more about 'WIMPY'.
+
+After you flee, you will be back in this room.  When you are ready to go on
+to the next station, go 'WEST'.
+~
+D2
+~
+~
+0 0 31141
+D3
+~
+~
+0 0 31144
+D5
+~
+~
+0 0 31143
+S
+#31143
+The Blob Cage~
+You are in a smelly cage.  Strangely, the walls are still clean!
+You see a sign here.  The only exit is up.
+~
+0 131080 0
+E
+sign~
+Remember, don't fight the blob to the finish!  Just type 'KILL BLOB', then
+when you are fighting, type 'FLEE', until you flee and are out of here.
+~
+D4
+~
+~
+0 0 31142
+S
+#31144
+A Room in the College~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.
+~
+0 131084 0
+E
+sign~
+Welcome to the next station.  Here, you will actually fight real monsters,
+without fleeing!  Kill every mob, since they hold some equipment you need.
+To start, go down.
+~
+D1
+~
+~
+0 0 31142
+D5
+~
+~
+0 0 31145
+S
+#31145
+The Lobby~
+You are in a lobby.  All around are 4 classrooms.  A harsh light bounces
+off the ceiling blinding you.  Of course, there is a big sign on the wall.
+Exits lead in the cardinal directions plus down.
+~
+0 132108 0
+E
+sign~
+Welcome to the lobby.  The adepts of Shandalar College have captured some
+professors for you to kill.  In the four classrooms are four teachers of 
+various types.  Kill them all!
+ 
+After you kill each teacher, get all of the equipment from their corpses
+with the command 'GET ALL CORPSE'.  You can then use the command 'WEAR ALL'
+to wear your newly won equipment.
+ 
+When you are done with the corpse, 'SACRIFICE CORPSE' to give it to your God.
+God will reward you for this.
+ 
+Between combat, you may need to rest or sleep to regenerate hit points.
+You can 'REST' to regenerate hit points, or you can 'SLEEP'.  'SLEEP' will
+refresh you faster than 'REST', but you will be less aware of your
+surroundings.
+~
+D0
+~
+~
+0 0 31146
+D1
+~
+~
+0 0 31149
+D2
+~
+~
+0 0 31148
+D3
+~
+~
+0 0 31147
+D5
+~
+~
+0 0 31150
+M 150 H 150
+S
+#31146
+A French Class~
+You are in a small classroom.  Chalk and erasers are everywhere.  You
+can't understand a thing that is going on.  The only exit is south.
+~
+0 131080 0
+E
+sign~
+There is an aggressive monster in this room.  Kill him and get out of here
+fast!  Remember to loot and sacrifice the corpse.
+~
+D2
+~
+~
+0 0 31145
+S
+#31147
+A Geometry Class~
+You are in a small classroom.  Chalk and erasers are everywhere.  You
+can't understand a thing that is going on.  The only exist is east.
+~
+0 131080 0
+E
+sign~
+There is a wimpy, aggressive monster in this room.  Kill him and get out of
+here fast!  Remember to loot and sacrifice the corpse.
+~
+D1
+~
+~
+0 0 31145
+S
+#31148
+A Physionomy Class~
+You are in a small classroom.  Chalk and erasers are everywhere.  You
+can't understand a thing that is going on.  The only exist is north.
+~
+0 0 0
+D0
+~
+~
+0 0 31145
+M 0 H 0
+S
+#31149
+A History Class~
+You are in a small classroom.  Chalk and erasers are everywhere.  You
+can't understand a thing that is going on.  The only exit is east.
+~
+0 131080 0
+E
+sign~
+There is a monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+D3
+~
+~
+0 0 31145
+S
+#31150
+A Room in the College~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Find your own exit here.
+~
+0 131084 0
+E
+sign~
+There are channels here on Redemption to learn about.  The main ones
+are as the following:
+ 
+1- Gossip, short form for gossip is '.'
+Try: Gossip hello, I am a newbie.
+ 
+2- OOC, short form of this is ']'
+Try: OOC what does OOC stand for?
+ 
+Try not to swear on the channels as it's considered rude and ignorant,
+but if you have questions use these channels to find out what you need
+as most players are helpful with newbies.
+~
+D1
+~
+~
+1 0 31152
+D2
+~
+~
+0 0 31151
+D4
+~
+~
+0 0 31145
+S
+#31151
+The Store in Shandalar College~
+You are in a cramped room.  Stacked neatly on shelves everywhere are items
+and packages.  Light fluoresces off the ceiling in soft white tones.  Of
+course, there is a sign on the wall.  The only exit is north.
+~
+0 131080 0
+E
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+           that item.
+   Sell  - Sell that item to the storekeeper.
+~
+D0
+~
+~
+0 0 31150
+S
+#31152
+A Room in the College~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The exits are north and west, with a door to the east.
+~
+0 131084 0
+E
+sign~
+North of you is a dark room.  I hope you still have the lantern!  If not,
+you have to back to the store and buy one.
+
+In the room is a monster with a key that you need.  After killing the
+monster and getting the key, come back here, UNLOCK EAST, OPEN EAST,
+and continue east.
+~
+D0
+~
+~
+0 0 31153
+D1
+~
+door~
+1 31093 31154
+D3
+~
+door~
+1 0 31150
+S
+#31153
+The Darkened Room~
+This room was purposefully darkened so that you would need to hold on to a
+light source to go through.  The walls are, of course, blank, and white.
+The only exit is south.
+~
+0 131081 0
+D2
+~
+~
+0 0 31152
+S
+#31154
+Graduation!~
+This is a very bright room, with a marble pedestal in the center.  Behind
+the pedestal stands a person cloaked in Silver.  Tapestries flow from every
+wall, and you feel very happy to be here right now.  There is a big sign here.
+The only exit is on the other side of the gate east of you.
+~
+0 131084 0
+E
+sign~
+You have graduated from  School!  Take your diploma...if you can.
+Go 'EAST' from here to visit our arena.  There are plenty of low-level
+monsters, but DON'T attack other players.
+
+If you want to go directly back to the temple at any time, type 'RECALL'.
+
+Don't forget to type save to protect your character.  You won't be saved after
+quitting until you reach level 2, so also type save before you type quit.
+
+If you need more help during the game, type 'HELP'.  If you see something
+wrong or have comments, use 'BUG', 'IDEA', or 'TYPO' to report them.
+
+May your visit here be ... mercenary.
+~
+D1
+~
+gate~
+1 0 31155
+S
+#31155
+West Campus~
+This campus is covered with grass.  There are paths leading in numerous 
+directions.  You can head north, east, or south.
+~
+0 131076 2
+D0
+~
+~
+0 0 31162
+D1
+~
+~
+0 0 31166
+D2
+~
+~
+0 0 31156
+S
+#31156
+Southwest Campus~
+This campus is covered with grass.  There are paths leading in numerous
+directions.  You can head north or east.  Heading down leads into the
+residences.  
+~
+0 131076 2
+D0
+~
+~
+0 0 31155
+D1
+~
+~
+0 0 31157
+D5
+~
+~
+1 0 30816
+S
+#31157
+South Campus~
+This campus is covered with grass.  There are paths leading in numerous
+directions.  You can head north, east, or west.
+~
+0 131076 2
+D0
+~
+~
+0 0 31166
+D1
+~
+~
+0 0 31158
+D3
+~
+~
+0 0 31156
+S
+#31158
+Southeast Campus~
+This campus is covered with grass.  There are paths leading in numerous
+directions.  You can head north or west.  Heading down leads into the
+residences.  
+~
+0 131076 2
+D0
+~
+~
+0 0 31159
+D3
+~
+~
+0 0 31157
+D5
+~
+~
+1 0 30817
+S
+#31159
+East Campus~
+This campus is covered with grass.  There are paths leading in numerous
+directions.  You can head north, south, or west.  There is gate to
+east.
+~
+0 131076 2
+D0
+~
+~
+0 0 31160
+D1
+~
+~
+1 0 31001
+D2
+~
+~
+0 0 31158
+D3
+~
+~
+0 0 31166
+S
+#31160
+Northeast Campus~
+This campus is covered with grass.  There are paths leading in numerous
+directions.  You can head west or south.  Heading down leads into the
+residences.  
+~
+0 131076 2
+D2
+~
+~
+0 0 31159
+D3
+~
+~
+0 0 31161
+D5
+~
+~
+1 0 30815
+S
+#31161
+North Campus~
+This campus is covered with grass.  There are paths leading in numerous
+directions.  You can head east, west, or south.
+~
+0 131076 2
+D1
+~
+~
+0 0 31160
+D2
+~
+~
+0 0 31166
+D3
+~
+~
+0 0 31162
+S
+#31162
+Northwest Campus~
+This campus is covered with grass.  There are paths leading in numerous
+directions.  You can head east or south.  Heading down leads into the
+residences.  
+~
+0 131076 2
+D1
+~
+~
+0 0 31161
+D2
+~
+~
+0 0 31155
+D5
+~
+~
+1 0 30814
+S
+#31163
+Armor Donations~
+Here all the Armor donated by the people of Shandalar appear.
+~
+0 8 0
+D0
+The Chamber of Donations~
+~
+0 -1 31002
+S
+#31164
+Weapons Donations~
+Here all the Weapons donated by the people of Shandalar appear.
+~
+0 8 0
+D3
+The Chamber of Donations~
+~
+0 -1 31002
+S
+#31165
+Magical Donations~
+Here all the Magical Items donated by the people of Shandalar appear.
+~
+0 8 0
+D1
+The Chamber of Donations~
+~
+0 -1 31002
+S
+#31166
+Center Campus~
+This campus is covered with grass.  There are paths leading in numerous
+directions.  You can head north, south, east, or west.
+~
+0 131076 2
+D0
+~
+~
+0 0 31161
+D1
+~
+~
+0 0 31159
+D2
+~
+~
+0 0 31157
+D3
+~
+~
+0 0 31155
+S
+#31167
+The Castellan's Secret Room~
+The Castellan uses this room to get away from all the cares of the running
+the city.  The floor is covered with a thick rug and is decorated with
+comfortable furniture.
+~
+0 520 0
+D1
+~
+door~
+1 31001 31039
+S
+#31168
+{RM{yo{Rv{yi{Re {yT{Rh{ye{Ra{yt{Rr{ye{x~
+You see a billboard with movie titles flashing.  There are so many movies
+to choose from!  Pick a direction and enjoy!  (More movies, coming soon!)  
+~
+0 939524108 0
+D1
+~
+~
+0 0 31169
+D2
+~
+~
+0 0 31013
+D3
+~
+~
+0 0 31171
+C treasure hunter~
+S
+#31169
+{RAlien {yHive{x~
+You look all around you and see goo on the walls.  You hear a young girls
+voice whisper, "We'd better get back, 'cause it'll be dark soon, and they
+mostly come at night...  Mostly."  The walls start moving all around you. 
+RUN!!!  
+ 
+There is a sign, pointing you in recommended directions to run.
+~
+0 805306372 0
+E
+sign~
+The sign reads:
+ 
+North - Gingerbread House
+East - Death Bloom
+Up - Bosco's Breach (Dominian Side)
+~
+D0
+~
+~
+0 0 18901
+D1
+~
+~
+0 0 6700
+D3
+~
+~
+0 0 31168
+D4
+~
+~
+0 0 4394
+S
+#31170
+A Rift in {MSpace{X and {BTime{x~
+You have entered a Palankcarian rift.  Unlike the Great Portal located at
+the top of the Tower of Power on the Terran Embassy, this is not, on its
+own, a portal back to Palankcaren.  Instead, this rift simply folds space
+and time in on itself and causes two points to be coincident; effectively
+allowing the Palankcarians of the Dominian Embassy to occupy the same space
+as the Great Portal while in the rift, allowing them to transport around as
+if in a portal.  Through wavy distortions in space-time you can make out,
+through a collage of colour a number of different destinations; below you,
+it almost seems to be the Terran Embassy, while to the North, you see
+vaguely make out the darkness that could be the hidden room in the Dominian
+Embassy.  In the other directions, things are less clear, however as you
+drift towards them, you feel yourself drawn inwards, as if imploding into
+pure energy.  In all this madness, your eyes are drawn to the only
+stationary object, a small glowing sign in the middle of the Rift.  
+~
+0 268443660 0
+D0
+~
+~
+0 0 31194
+D1
+~
+~
+0 0 6720
+C help~
+S
+#31171
+{DMos Eisley {rC{YA{rnti{Yn{ra{x~
+You see a several booths and a bar tender pointing toward the fountain,
+where most of the scoundrels hang out.  There are several aliens and
+creatures scattered around the bar.  That's when you notice that Han Solo
+and Chewbacca are strangeley absent.  
+~
+0 805306372 0
+D1
+~
+~
+0 0 31168
+M 250 H 250
+S
+#31189
+The Void~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 1028 0
+D4
+~
+~
+0 0 31001
+S
+#31190
+Inside the Chippy~
+You have entered the local chippy. Your nostrils are almsot immediately
+assailed by a pleasant aroma- it's amazing how good hot fat smells, isn't
+it? You see a portly Italian standing behind a large glass counter full of
+fried food. It certainly smells a lot better than it looks. A customer
+standing next to you says- "It looks a lot better than it tastes...". Most
+of the food has probably been sitting under those hot lights for a couple
+of hours. The only thing you can be reasonably sure of is the chips.
+By the way, EVERYTHING is fried.
+~
+0 8 0
+D5
+~
+~
+0 -1 31041
+S
+#31191
+Selina's Training Room~
+This sanctuary looks like the perfect spot to train in the arts of
+combat.  Along the walls are rows of blunted weapons, padded armour and
+stuffed targets.  - 
+~
+0 268959748 0
+D2
+~
+~
+3 31001 31059
+S
+#31192
+Free room~
+~
+0 268435460 0
+S
+#31193
+High Embassy from the Lands of Palankcaren~
+This is the Dominian Embassy of the Lords of Palankcaren.  There is a
+small reception desk at the entrance, and doors leading off into various
+rooms.  The walls are a deep green, while the foor is tiled in a circular
+pattern, with the crest of the Embassy Lords in the middle.  On the walls
+are various pictures of the lords, and in the centre of the room is a large
+round table.  Over in the corner is a large suspicious-looking bookcase.  
+~
+0 402661388 0
+D0
+~
+~
+0 0 31013
+D5
+~
+bookcase~
+1 0 31194
+C help~
+S
+#31194
+The Back Room~
+This is the secret room, down the stairs behind the book case.
+The room has no windows, but light seems to come from the very walls
+themselves.  Upon a wall is a huge map of Dominia, with various
+tacks marking tactical points and armies and such.  Various pictures
+of famous dragons throughout time are here, as well as intelligence
+on anti-dragon movements such as Venari posted on the wall.  On a
+small table in the centre of the room are attack plans for Dominia,
+interesting embassy.
+~
+0 268443660 0
+D2
+~
+~
+0 0 31170
+D4
+~
+bookcase~
+1 0 31193
+M 250 H 250
+C help~
+S
+#31195
+The Dome~
+You stand in a large, misty chamber. Large stone archways occupy
+the walls, serving as magical portals to unknown places. Stylishly
+engraved gold plaques are set in the walls besides the arches, indicating
+destinations. The portals glow mysteriously, inviting you in.
+The room itself, is fairly plain, as is the outpost below it.
+~
+0 941883404 0
+D0
+~
+~
+0 0 6700
+D1
+~
+~
+0 0 18300
+D2
+~
+~
+0 0 18901
+D3
+~
+~
+0 0 1900
+S
+#31196
+A Crafting Workshop~
+You stand inside a small plain building with no windows and only one
+door leading south.  In the middle of the room is a short wooden
+platform with some words inscribed upon it.  Nothing else in
+the room is very remarkable.
+~
+0 1073741832 0
+E
+platform~
+The words on the platform read: Stand here to craft a new
+item.
+~
+D2
+~
+~
+0 0 31015
+S
+#31197
+Public Entrance to the Merchant's Second Home~
+You are in the public entrance to the second home of the Merchants. You see
+they have taken great time having this built. The walls seem to sparkle as
+the light enters through the north. To the west is where they sleep, however
+it is guarded well against intruders.
+~
+0 805306380 0
+O lufia jotarou rendalth antigone cirdan maevos flare aesculapius kalaman glacier beth jadedlady cojeme nica cydramyr tantrum nica thunderwing tolarian fey arishwad heratio raino icki jahid chikara murdoc aimee mimik~
+D2
+~
+~
+0 0 31009
+D3
+~
+~
+0 0 31198
+S
+#31198
+The Healing Room~
+This room is made for the Merchants health. While in this room, power flows
+through you, healing your wounds. The wall is hard, and seems to be gold.
+The floor, however, is very soft... As if it was made from cloud. The public
+entrance is east of here.
+~
+0 805306380 0
+D1
+~
+~
+0 0 31197
+D2
+~
+~
+0 0 31199
+M 250 H 250
+S
+#31199
+The Other Way In!!!~
+You've found your way into the Merchant's summer home.  To the north lies
+the vast expanse of the summer home.  To the south you can see Victory
+Parade Park.  
+~
+0 805306380 0
+O lufia rendalth antigone cirdan maevos flare kalaman glacier beth jadedlady cojeme nica cydramyr tantrum nica thunderwing tolarian fey arishwad heratio scimitar raino icki jahid chikara murdoc aimee mimik~
+D0
+~
+~
+0 0 31198
+D2
+~
+~
+0 0 31012
+S
+#0
+
+
+
+#SPECIALS
+M 31000 spec_cast_adept Load to: Gath, the High Priest
+M 31019 spec_cast_adept Load to: Tahngarth
+M 31024 spec_executioner Load to: Cuervo, the headsman
+M 31036 spec_janitor Load to: the janitor
+M 31037 spec_thief Load to: a footpad
+M 31040 spec_thief Load to: a thief
+M 31041 spec_fido Load to: a beastly fido
+M 31042 spec_fido Load to: a huge sewer rat
+M 31044 spec_guard Load to: a knight of Shandalar
+M 31045 spec_guard Load to: a member of the King's Guard
+M 31046 spec_guard Load to: a city guard
+M 31056 spec_cast_adept Load to: Gerrard
+M 31063 spec_questmaster Load to: the Quest Mistress
+M 31184 spec_portal_keeper Load to: an Acolyte of Selina
+M 31191 spec_selina Load to: the spirit of the Goddess Selina
+M 31192 spec_sliver_pod Load to: a massive black sliver pod
+M 31193 spec_sliver_pod Load to: a massive black sliver pod
+M 31194 spec_sliver_pod Load to: a massive black sliver pod
+M 31195 spec_sliver_pod Load to: a massive black sliver pod
+M 31196 spec_sliver_pod Load to: a massive black sliver pod
+S
+
+
+
+#MOBPROGS
+#31000
+emote looks up as you walk in.
+sleep 3
+say I'll be with you in a moment.
+emote looks back down at her notes and resumes chatting.
+~
+A
+#31191
+if rand 30
+mob oload 31153
+endif
+if rand 30
+mob oload 31154
+endif
+if rand 30
+mob oload 31156
+endif
+if rand 30
+mob oload 31157
+endif
+if rand 30
+mob oload 31161
+endif
+~
+A
+#31012
+get mace
+wear mace
+~
+A
+#31011
+get sword
+wear sword
+smil
+~
+A
+#31003
+say Do come again!
+~
+A
+#31004
+say Do come again!
+mob transfer $n 31089
+mob at 31089 mob echo A ball of smoke fills the room.
+~
+A
+#31002
+say Do come again!
+mob transfer $n 31092
+mob at 31092 mob echo A ball of smoke fills the room.
+~
+A
+#31005
+say Do come again!
+mob transfer $n 31084
+mob at 31084 mob echo A ball of smoke fills the room.
+~
+A
+#31010
+say Do come again!
+mob transfer $n 31037
+mob at 31037 mob echo A ball of smoke fills the room.
+~
+A
+#31013
+if carries $i Selina Belt
+say Already equipped.
+end
+else
+say Load me up.
+mob oload 31148 50 W
+mob oload 31149 50 W
+mob oload 31150 50 W
+mob oload 31151 50 W
+mob oload 31152 50 W
+mob oload 31153 50 W
+endif
+~
+A
+#31184
+if isimmort $n
+else
+if level $n > 50
+mob at $n mob echoat $n You momentarily glance the shrine, but the memory of it vanishes from your mind.
+ 
+mob gtrans $n 31004
+ 
+mob at $n mob echoaround $n $n is repelled from the shrine by a magical barrier.
+ 
+endif
+endif
+~
+A
+#0
+
+#RESETS
+D 0 30810 5 1
+D 0 30814 4 1
+D 0 30815 4 1
+D 0 30816 4 1
+D 0 30817 4 1
+D 0 31001 5 1
+D 0 31016 0 1
+D 0 31016 2 1
+D 0 31017 2 1
+D 0 31035 1 2
+D 0 31037 3 2
+D 0 31038 4 1
+D 0 31039 3 2
+D 0 31059 0 2
+D 0 31076 1 2
+D 0 31076 2 2
+D 0 31077 0 2
+D 0 31078 3 2
+D 0 31083 2 2
+D 0 31084 0 2
+D 0 31087 2 1
+D 0 31089 0 1
+D 0 31090 0 2
+D 0 31092 2 2
+D 0 31150 1 1
+D 0 31152 1 2
+D 0 31152 3 1
+D 0 31154 1 1
+D 0 31156 5 1
+D 0 31158 5 1
+D 0 31160 5 1
+D 0 31162 5 1
+D 0 31167 1 2
+D 0 31191 2 2
+D 0 31193 5 1
+D 0 31194 4 1
+O 0 30801 0 30801
+O 0 30800 0 30801
+M 1 30801 1 30801 1
+G 0 31043 0
+G 0 31003 0
+G 0 30802 0
+G 0 31142 0
+G 0 31122 0
+G 0 31137 0
+G 0 31143 0
+C 4 percent for next reset
+M 1 31191 1 30803 1
+E 0 31149 0 0
+E 0 31150 0 13
+E 0 31151 0 16
+E 0 31152 0 12
+C 100 percent for next reset
+E 0 31148 0 8
+M 1 31192 1 30803 1
+E 0 30810 0 6
+M 1 31193 1 30803 1
+E 0 30811 0 6
+M 1 31194 1 30803 1
+E 0 30812 0 6
+M 1 31195 1 30803 1
+E 0 30813 0 6
+M 1 31196 1 30803 1
+E 0 30814 0 6
+O 0 30804 0 30805
+O 0 30805 0 30805
+O 0 30807 0 30807
+O 0 30809 0 30809
+O 0 31158 0 30812
+M 1 31184 1 30812 1
+M 1 30802 1 30813 1
+G 0 30816 0
+G 0 30817 0
+G 0 30818 0
+G 0 30819 0
+G 0 30820 0
+G 0 30821 0
+G 0 30822 0
+G 0 30823 0
+G 0 30824 0
+M 1 31186 4 30814 2
+M 1 31026 3 30815 1
+M 1 31057 5 30815 1
+M 1 31026 3 30816 1
+M 1 31057 5 30816 1
+M 1 31026 3 30817 1
+M 1 31186 4 30817 2
+O 0 31095 0 30901
+O 0 31110 0 30901
+M 1 31024 1 31000 1
+E 0 31000 0 17
+E 0 31159 0 16
+E 0 31030 0 6
+O 0 31029 0 31000
+O 0 31021 0 31000
+M 1 31044 8 31000 8
+E 0 31033 0 16
+E 0 31034 0 5
+E 0 31035 0 14
+E 0 31035 0 15
+E 0 31036 0 3
+E 0 31037 0 6
+E 0 31038 0 11
+E 0 31039 0 17
+M 1 31000 1 31001 1
+O 0 31124 0 31001
+M 1 31063 1 31002 1
+M 1 31043 6 31007 6
+M 1 31039 3 31012 3
+O 0 31133 0 31012
+M 1 31035 3 31013 3
+M 1 31034 3 31014 3
+M 1 31046 8 31016 8
+E 0 31033 0 16
+E 0 31034 0 5
+E 0 31035 0 14
+E 0 31035 0 15
+E 0 31036 0 3
+E 0 31037 0 6
+E 0 31038 0 11
+E 0 31039 0 17
+M 1 31046 8 31017 8
+E 0 31033 0 16
+E 0 31034 0 5
+E 0 31035 0 14
+E 0 31035 0 15
+E 0 31036 0 3
+E 0 31037 0 6
+E 0 31038 0 11
+E 0 31039 0 17
+M 1 31032 1 31039 1
+E 0 31031 0 16
+G 0 31001 0
+M 1 31002 1 31041 1
+O 0 31155 0 31042
+M 1 31003 1 31043 1
+G 0 31017 0
+G 0 31018 0
+G 0 31019 0
+G 0 31020 0
+G 0 31022 0
+M 1 31004 1 31045 1
+G 0 31079 0
+G 0 31078 0
+G 0 31077 0
+G 0 31081 0
+G 0 31080 0
+G 0 31016 0
+G 0 31015 0
+G 0 31014 0
+G 0 31075 0
+M 1 31044 8 31046 8
+E 0 31033 0 16
+E 0 31034 0 5
+E 0 31035 0 14
+E 0 31035 0 15
+E 0 31036 0 3
+E 0 31037 0 6
+E 0 31038 0 11
+E 0 31039 0 17
+M 1 31005 1 31047 1
+M 1 31047 1 31048 1
+M 1 31048 1 31048 1
+M 1 31049 1 31048 1
+M 1 31050 1 31048 1
+M 1 31051 1 31048 1
+M 1 31052 1 31048 1
+M 1 31006 1 31050 1
+G 0 31082 0
+G 0 31013 0
+G 0 31012 0
+G 0 31011 0
+G 0 31010 0
+G 0 31009 0
+G 0 31112 0
+G 0 31111 0
+G 0 31109 0
+M 1 31041 8 31051 8
+M 1 31007 1 31053 1
+G 0 31074 0
+G 0 31073 0
+G 0 31072 0
+G 0 31071 0
+G 0 31070 0
+G 0 31069 0
+G 0 31068 0
+G 0 31067 0
+M 1 31045 8 31054 8
+E 0 31033 0 16
+E 0 31034 0 5
+E 0 31035 0 14
+E 0 31035 0 15
+E 0 31036 0 3
+E 0 31037 0 6
+E 0 31038 0 11
+E 0 31039 0 17
+M 1 31061 1 31055 1
+G 0 31102 0
+G 0 31101 0
+G 0 31100 0
+M 1 31009 1 31059 1
+M 1 31054 1 31064 1
+M 1 31034 3 31065 3
+E 0 31028 0 17
+M 1 31010 1 31066 1
+G 0 31076 0
+G 0 31044 0
+G 0 31043 0
+G 0 31008 0
+G 0 31007 0
+M 1 31011 1 31068 1
+G 0 31023 0
+G 0 31024 0
+G 0 31025 0
+G 0 31026 0
+M 1 31044 8 31069 8
+E 0 31033 0 16
+E 0 31034 0 5
+E 0 31035 0 14
+E 0 31035 0 15
+E 0 31036 0 3
+E 0 31037 0 6
+E 0 31038 0 11
+E 0 31039 0 17
+M 1 31012 1 31070 1
+G 0 31002 0
+G 0 31003 0
+G 0 31004 0
+G 0 31005 0
+G 0 31006 0
+G 0 31027 0
+M 1 31038 6 31071 6
+M 1 31036 6 31073 6
+M 1 31033 3 31074 3
+E 0 31040 0 17
+M 1 31045 8 31074 8
+E 0 31033 0 16
+E 0 31034 0 5
+E 0 31035 0 14
+E 0 31035 0 15
+E 0 31036 0 3
+E 0 31037 0 6
+E 0 31038 0 11
+E 0 31039 0 17
+M 1 31013 1 31076 1
+E 0 31060 0 17
+M 1 31037 8 31080 8
+E 0 31032 0 16
+M 1 31042 6 31081 6
+M 1 31040 2 31082 2
+M 1 31033 3 31094 3
+E 0 31041 0 17
+E 0 31042 0 6
+O 0 31066 0 31098
+O 0 31065 0 31098
+M 1 31028 1 31099 1
+M 1 31008 1 31133 1
+M 1 31016 1 31134 1
+M 1 31017 1 31143 1
+M 1 31019 1 31145 1
+M 1 31020 1 31146 1
+C 50 percent for next reset
+G 0 30825 0
+E 0 31083 0 7
+E 0 31084 0 13
+M 1 31021 1 31147 1
+C 50 percent for next reset
+G 0 30826 0
+E 0 31086 0 0
+E 0 31085 0 8
+M 1 31022 1 31148 1
+C 50 percent for next reset
+G 0 30825 0
+E 0 31088 0 12
+E 0 31087 0 6
+M 1 31023 1 31149 1
+C 50 percent for next reset
+G 0 30826 0
+E 0 31089 0 3
+E 0 31089 0 3
+M 1 31025 1 31151 1
+G 0 31092 0
+G 0 31091 0
+G 0 31090 0
+M 1 31031 1 31153 1
+E 0 31093 0 17
+E 0 31086 0 15
+E 0 31147 0 9
+E 0 31146 0 10
+M 1 31055 1 31154 1
+E 0 31094 0 17
+M 1 31056 1 31154 1
+M 1 31057 5 31155 1
+M 1 31057 5 31156 1
+M 1 31058 4 31157 1
+M 1 31059 3 31157 1
+M 1 31060 3 31158 1
+M 1 31060 3 31159 1
+M 1 31060 3 31160 1
+M 1 31059 3 31160 1
+M 1 31058 4 31161 1
+M 1 31057 5 31162 1
+M 1 31058 4 31162 1
+M 1 31058 4 31166 1
+M 1 31059 3 31166 1
+M 1 31064 1 31168 1
+G 0 31160 0
+G 0 31136 0
+G 0 31068 0
+G 0 31043 0
+G 0 31145 0
+G 0 31169 0
+G 0 31170 0
+G 0 31168 0
+G 0 31067 0
+O 0 31163 0 31170
+O 0 31162 0 31171
+O 0 31140 0 31171
+O 0 31139 0 31171
+M 1 31171 1 31171 1
+M 1 31053 1 31190 1
+G 0 31045 0
+G 0 31046 0
+G 0 31047 0
+G 0 31048 0
+G 0 31049 0
+G 0 31050 0
+G 0 31051 0
+G 0 31052 0
+G 0 31053 0
+G 0 31054 0
+G 0 31055 0
+G 0 31056 0
+G 0 31057 0
+G 0 31058 0
+G 0 31059 0
+O 0 31113 0 31193
+O 0 31099 0 31193
+M 1 31065 1 31193 1
+G 0 31073 0
+G 0 31070 0
+G 0 31164 0
+O 0 31132 0 31194
+O 0 31119 0 31198
+O 0 31134 0 31198
+M 1 31190 1 31198 1
+G 0 31114 0
+G 0 31043 0
+G 0 31142 0
+G 0 31143 0
+S
+
+
+
+#SHOPS
+30801 15 26 10 3 17 150 100 0 24
+30802 5 41 0 0 0 100 50 0 23
+31003 0 9 0 0 0 100 50 0 23
+31004 0 5 0 0 0 120 40 0 23
+31005 0 0 0 0 0 150 80 0 23
+31006 0 4 2 3 2 110 15 0 23
+31007 0 10 0 0 0 215 15 0 23
+31010 0 1 8 13 15 150 40 0 23
+31011 0 19 0 0 0 110 90 0 23
+31012 0 0 0 0 0 110 80 0 23
+31025 0 1 19 15 17 100 100 0 23
+31053 0 0 0 0 0 150 80 11 23
+31061 0 8 32 33 0 130 90 0 23
+31064 0 0 0 0 0 150 100 0 24
+31065 10 0 0 0 0 200 50 0 23
+31184 0 0 0 0 0 100 0 0 23
+31190 0 0 0 0 0 150 100 0 23
+0
+
+
+
+#$

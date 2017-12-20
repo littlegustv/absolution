@@ -1,0 +1,141 @@
+#AREADATA
+Name Hayholt~
+Builders Jotarou~
+VNUMs 17800 17999
+Credits { None} Jotarou     Hayholt~
+Security 1
+Xcontinent 1
+Age 9
+End
+
+
+
+#MOBILES
+#17800
+meep~
+meep~
+Meep
+~
+~
+human~
+A 0 -1000 0
+60 6 1d1+1 1d1+100 1d1+1 none
+-30 -30 -30 -30
+0 AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#17800
+shield black onyx~
+a black onyx shield~
+A big, black, onyx shield.~
+onyx~
+armor HYe AJ
+300 300 300 300 0
+54 2 1000 P
+A
+1 15  
+A
+2 15  
+A
+3 15  
+A
+4 15  
+A
+5 15  
+A
+20 -50  
+A
+18 50  
+A
+19 50  
+A
+13 300  
+A
+12 300  
+#17801
+sorrow sword onyx~
+{DSorrow{x~
+{DSorrow{x lies here, consuming your thoughts.~
+onyx~
+weapon H AN
+sword 6 7 cleave RV
+51 1 0 P
+#0
+
+
+
+#ROOMS
+#17800
+Judgement~
+You find yourself in the halls of Judgement.  You must have done
+something wrong...  
+~
+0 1342448908 0
+E
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+~
+E
+floor~
+The stone floor is the same shade of grey as the sky and is completely plain
+and unscratched.  It is probably too hard for anything to leave as much as a
+scratch on it.
+~
+D0
+~
+~
+0 0 17800
+D1
+~
+~
+0 0 17800
+D2
+~
+~
+0 0 17800
+D3
+~
+~
+0 0 17800
+D4
+~
+~
+0 0 17800
+D5
+~
+~
+0 0 17800
+S
+#17801
+room 1~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

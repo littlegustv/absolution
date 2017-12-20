@@ -1,0 +1,3057 @@
+#AREADATA
+Name Utopia~
+Builders Ique~
+VNUMs 15136 15199
+Credits { 1 15} Angelique   Utopia~
+Security 9
+Xcontinent 1
+Age 0
+Questable 1
+End
+
+
+
+#MOBILES
+#15136
+evil sinister little man~
+A sinister man~
+An evil little man hides in the shadows of Utopia.
+~
+He is RUDE and MEAN, and he lives in his own evil little world.
+Honestly, if he's here, who's running hell?
+ 
+~
+human~
+AGL HJPVZab -1000 0
+51 5 50d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -21
+BCEFGHIJKNOU ABCDEFGHIJLMNOPQRSTXYZab 0 0
+stand stand male 250000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#15137
+evil prankster~
+the evil prankster~
+An evil prankster is juggling knives effortlessly.
+~
+Devoid of any hair on his head, it is easy to see the scar that travels
+from the corner of the gargoyle's crooked nose, around the eye socket,
+and across his glistening skull. While you examine him, he remains utterly
+dispassionate. Even as your eyes widen in horror, his unblinking visage
+never changes.
+ 
+~
+gargoyle~
+AI JOTV -800 0
+1 1 3d6+15 1d1+100 2d4+0 skewer
+9 9 9 9
+H K 0 LNQ
+stand stand male 300
+AHMVX ABCDEFGHIJKPQUVY medium 0 the guilds~
+#15138
+mischevious marid~
+the mischevious marid~
+The mischevious marid dreams of drowning you slowly.
+~
+Pale white hair tumbles wildly about pale green shoulders.  Her eyes are
+half-lidded, as she watches you examine her with interest.  She is slow to
+smile, but when she does, you are taken aback by the carnal intent gleaming
+in the depths of her intelligent eyes.  
+ 
+~
+marid~
+AI GJOTVY -800 0
+11 1 2d8+134 1d1+100 1d10+2 entangle
+1 1 1 1
+H K HR JLNQ
+stand stand female 175
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15139
+defiant kirre~
+a defiant kirre~
+A defiant kirre prowls menancingly.
+~
+Black fur has been perfectly groomed from head to toe to create the
+illusion of shadows layered upon shadows.  Razor sharp claws gleam from
+within paws large enough to hold a grown man to the ground.  
+ 
+~
+kirre~
+AI JOTV -800 0
+5 1 3d6+60 1d1+100 2d6+1 tear
+5 5 5 5
+CFH 0 J ILNQS
+stand stand male 125
+ABGHMVXZ ABCDEFGHIJKQUV medium 0 the guilds~
+#15140
+beautiful woman~
+a beautiful woman~
+A beautiful woman dances around the May Pole.
+~
+A beautiful woman, with golden hair cascading down her back, dances
+merrily around the May Pole with her friends.  Her gown is made of the finest
+silks and satin, and fits her lithe body snugly.  The bodice is trimmed with
+hundreds of tiny pearls which accentuate her lovely figure.  
+~
+human~
+AB 0 800 0
+10 1 2d7+121 1d1+100 2d4+2 slap
+1 1 1 1
+0 N 0 DEM
+stand stand female 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15141
+charming young lady~
+a charming young lady~
+A charming young lady flirts carelessly with the men.
+~
+Throwing caution to the wind, a charming young lady flirts outrageously
+with the men who have come to watch her dance.  Her hair has come loose from
+the ribbons that were meant to hold it in place, and tendrils of curls have
+escaped and brush softly against her face.  
+ 
+~
+human~
+AB 0 800 0
+8 1 2d7+96 1d1+100 1d7+2 squeeze
+3 3 3 3
+0 N 0 DEM
+stand stand female 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15142
+the green man~
+The green man~
+The green man is here, hiding from the men of the village.
+~
+Huddled at the very top of the May Pole, is the forlorn figure of this
+year's Green Man.  Supposedly the symbol of male virility, he is at the
+heart of the fertility ritual being danced far below.  His job is to run
+amongst the women, daring them to chase him...  And if caught, he kisses
+them, blessing them with fertility for the coming year.  Unfortunately, this
+Green Man was caught kissing a few of the women before today, and their
+husbands are none too pleased.  
+ 
+~
+human~
+AB Q 800 0
+20 2 3d9+333 1d1+100 2d8+5 thrust
+-5 -5 -5 -5
+H 0 E B
+stand stand male 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 15136 75~
+#15143
+shy sweet man michael~
+Michael~
+A shy, sweet man is here, studying "Une Histoire d'Anges".
+~
+Shaggy brown hair tufts wispily around a head that is bowed intently over
+a large book.  A slender form belies the muscles that you notice on the arms
+as they peek out from underneath the long cloak draped across his back.  
+ 
+~
+human~
+ABJKZ DEFJZc 800 0
+54 5 50d10+6500 1d1+100 7d6+22 magic
+-36 -36 -36 -36
+0 ABCDEFGHIJKLMNOPQRSXYZab 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M exit 15141 4~
+M speech 15142 yes~
+M speech 15143 no~
+M grall 15140 100~
+#15144
+Angel~
+a lovely angel~
+Angel floats effortlessly in the center of the Sacred Circle.
+~
+Flowing red hair surrounds a pretty face wreathed in smiles.
+Dressed in the finest of garb, she is clothed in silk so soft,
+that even the clouds are jealous. Yet she seems totally unaware
+of the effect that she has on those who gaze upon her. Instead, 
+she is totally focused inward, on her spiritual journey.
+ 
+~
+human~
+ABa DEFZc 800 0
+45 4 25d10+3000 1d1+100 8d4+16 slash
+-26 -26 -26 -26
+0 AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M exall 15138 2~
+M speech 15137 enlighten me~
+#15145
+lord damien man young archer~
+a fierce looking man~
+Lord Damien looks completely at ease amidst the chaos.
+~
+A quick glance at this young man, and you realize that he is
+not to be trifled with. Chiseled mucles seem to be carved out
+of solid rock to form the muscles that ripple across his lean
+figure. Glancing at his face, you realize he is staring at you
+too, grinning sardonically as you complete your inspection of
+his incredible physique. Warm brown eyes twinkle in amusement
+at your obvious discomfiture, and he stretches luxuriously as
+you approach. He is certainly at ease with his place in life.
+ 
+~
+human~
+AB DEFZc 800 0
+30 3 6d12+853 1d1+100 4d6+8 thrust
+-13 -13 -13 -13
+CEHJLN 0 D BH
+stand stand male 500
+AHMV ABCDEFGHIJK medium sentient the guilds~
+M grall 15139 100~
+#15146
+old brown cow~
+an old brown cow~
+An old brown cow trudges along very slowly.
+~
+Wobbling slightly with age, this cow has certainly seen better days.  But
+her eyes are still bright, and her coat is still shiny, so she holds her
+head high as she wanders Utopia in search of the perfect blade of grass.  
+ 
+~
+cat~
+AG JZd 800 0
+15 1 3d9+208 1d1+100 2d6+3 chomp
+-2 -2 -2 -2
+FH 0 0 J
+stand stand female 0
+AGHV ABCDEFHJKQUV medium fur the guilds~
+#15147
+feisty stallion~
+a feisty stallion~
+A prancing stallion dances impatiently about.
+~
+With a glossy mane and tail, and standing almost 17 hands tall, this
+stallion is certainly a sight to behold!  His body is filled out perfectly,
+and as he prances about, the shadows of his skin highlight the play of
+muscles across his sinewy form.  
+ 
+~
+hatchling~
+AG J 800 0
+18 1 3d9+283 1d1+100 2d7+4 chomp
+-5 -5 -5 -5
+0 0 B 0
+stand stand male 0
+BHMZ ABCDEFGHIJKLQUVWX medium 0 the guilds~
+#15148
+Fifa dog rottweiler~
+a dangerous dog~
+A slobbering dog watches you intently as he gnaws on his bone.
+~
+Power.  Such a simple word.  But so descriptive.  And one of the amazing
+things about power, is that you recognize it when you see it.  And this dog
+definitely has it.  Power just oozes out of him.  No, it's not the square
+set of his shoulders, or the way that he walks with each paw purposefully
+striking the ground.  You can't put your finger on it, but this dog
+certainly emanates power from his very core, and you would do well to
+remember that if you decide to tangle with him, or his master.  
+ 
+~
+dog~
+AB V 800 0
+20 2 3d9+333 1d1+100 2d8+5 rip
+-6 -6 -6 -6
+HMQ EI B G
+stand stand male 0
+AGV ACDEFHJKUV medium fur the guilds~
+#15149
+Mysticat cat feline maine coon~
+a beautiful orange cat~
+A beautiful orange cat naps quietly in the sunlight.
+~
+With his fur going in all different directions, this cat looks like he
+just can't be bothered with trivial things such as looks.  Like his
+mistress, he cares more about his more spiritual pursuits.  However, like
+most cats, his idea of spirituality revolves around finding as much sun to
+sleep in as possible.  
+ 
+~
+kirre~
+ABI J 800 0
+15 1 3d9+208 1d1+100 2d6+3 scratch
+-2 -2 -2 -2
+FH P J I
+stand sleep male 0
+AGHV ABCDEFGHIJKQUV medium fur the guilds~
+#15150
+sunburned farmer man~
+a sunburned farmer~
+A sunburned farmer keeps an eye on his cows.
+~
+His short-cropped hair has been bleached almost white from the sun, and
+his hands are covered in calluses that speak of a hard day's work in the
+fields.  His face is all smiles, however, and he would just love to have
+someone keep him company while he tries to catch his straying cows.  
+ 
+~
+human~
+AC 0 800 0
+20 2 3d9+333 1d1+100 2d8+5 punch
+-6 -6 -6 -6
+0 0 HIb 0
+stand stand male 175
+AHMV ABCDEFGHIJK medium none the guilds~
+#15151
+chipper shepherd boy~
+a chipper shepherd~
+A chipper shephard rests here whittling a piece of wood.
+~
+Completely oblivious to the fact that his flock has completely
+disappeared, this shepherd whittles a piece of wood as if it were the only
+item of importance to him.  His clothes are baggy, and hang off of his thin,
+reedy form, as if he has forgotten to eat, too.  
+ 
+~
+human~
+A 0 800 0
+10 1 2d7+121 1d1+100 2d4+2 punch
+1 1 1 1
+0 0 HIb 0
+rest rest male 100
+AHMV ABCDEFGHIJK medium none the guilds~
+#15152
+cute pixie~
+a cute pixie~
+A cute pixie flits happily about.
+~
+Tiny strands of flowers are twisted into this pixie's hair, giving off a
+sweetly exotic aroma.  Her wings are spun from the finest strands of silk,
+allowing her to flutter lazily in the lightest of breezes.  
+ 
+~
+song bird~
+AI PTU 800 0
+15 1 3d9+208 1d1+100 2d6+3 magic
+-2 -2 -2 -2
+FH E 0 Ma
+stand stand female 200
+AGW ACDEFHKP medium 0 the guilds~
+#15153
+baby dragon hatchling~
+an adorable hatchling~
+A baby hatchling is attempting to breathe fire. Be careful!
+~
+Iridescent red scales glisten hotly as if lit by a fire within.  The
+gleam in this young hatchling's eyes hints at his immaturity, indicating
+that his youthful exuberance is being contained...  But barely.  
+ 
+~
+hatchling~
+AI JT 800 0
+9 1 2d6+110 1d1+100 1d8+2 flbite
+2 2 2 2
+0 E BH I
+stand stand male 300
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#15154
+ugly gargoyle~
+an ugly gargoyle~
+An ugly gargoyle glares menacingly at you.
+~
+With a visage only a mother could love, this gargoyle is the epitome
+of ugliness. Unfortunately he is well aware of this fact, and it does
+nothing to help his rather disturbed outlook on life. 
+ 
+~
+gargoyle~
+AI JNPQTU -800 0
+15 1 3d9+208 1d1+100 2d6+3 peck
+-2 -2 -2 -2
+FH E 0 LMQa
+stand stand male 200
+AGHMWX ABCDEFGHIJKPQUV medium 0 the guilds~
+#15155
+malevolent little dragon~
+a malevolent little dragon~
+A malevolent little dragon attempts to spit acid at you!
+~
+A malevolent dragon has gotten too big for his britches. As he stands here
+sputtering at you, acid courses down his jawbones, leaving tiny pockmarks
+and blisters wherever it has touched.
+ 
+~
+hatchling~
+AI JT -800 0
+9 1 2d6+110 1d1+100 1d8+2 acbite
+2 2 2 2
+0 E BH I
+stand stand male 300
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#15156
+beautiful butterfly~
+a beautiful butterfly~
+A beautiful butterfly flutters from flower to flower.
+~
+Vivid hues of blue, gold, and purple swirl together randomly creating a
+pattern that is as beautiful as it is artistic.  
+ 
+~
+song bird~
+AG T 800 0
+5 0 2d6+60 1d1+100 1d6+1 magic
+5 5 5 5
+FH 0 0 0
+stand stand none 0
+AGW ACDEFHKP medium 0 the guilds~
+#15157
+annoying mosquito~
+an annoying mosquito~
+An annoying mosquito hovers restlessly in mid-air.
+~
+Buzzing in anticipation, this mosquito hovers in the air waiting for its
+next victim to come along.  
+ 
+~
+bat~
+AG TZ 800 0
+7 0 2d6+85 1d1+100 1d8+1 bite
+4 4 4 4
+FH 0 0 S
+stand stand none 0
+AGVW ACDEFHJKP medium 0 the guilds~
+#15158
+monarch butterfly~
+a Monarch butterfly~
+A Monarch butterfly floats regally in the air.
+~
+Vivid hues of blue, gold, and purple swirl together randomly creating a
+pattern that is as beautiful as it is artistic.  
+ 
+~
+song bird~
+AG T 800 0
+9 0 2d6+110 1d1+100 1d8+2 magic
+2 2 2 2
+FH 0 0 0
+stand stand none 0
+AGW ACDEFHKP medium 0 the guilds~
+#15159
+man aiden armourer~
+a tall, muscular man~
+A tall, muscular man is hard at work.
+~
+Broad muscles ripple across the shoulders of the armourer as he goes
+about his daily work.  Years of hard labour have honed each and every sinew
+to perfection, and the sweat that gleams off his body only serves to
+highlight this fact.  Don't be fooled by his easy smile.  He welcomes everyone
+in the same manner.  His true friends are few - everyone else is just a
+potential customer.  
+ 
+~
+human~
+AB 0 800 0
+51 5 50d10+5000 1d1+100 5d8+20 smash
+-21 -21 -21 -21
+0 0 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15160
+Marco man giant sommelier~
+A friendly giant~
+A friendly giant is here happily sampling his own wines.
+~
+Slightly drunk, but still steady on his feet, the giant is busy tasting
+each of his wines to make sure that their quality is improving with time.  
+ 
+~
+giant~
+AB 0 800 0
+51 5 50d10+5000 1d1+100 5d8+20 clobber
+-36 -36 -36 -36
+0 0 HI J
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15161
+ugly gargoyle~
+an ugly gargoyle~
+An ugly gargoyle glares menacingly at you.
+~
+With a visage only a mother could love, this gargoyle is the epitome
+of ugliness. Unfortunately he is well aware of this fact, and it does
+nothing to help his rather disturbed outlook on life. 
+ 
+~
+gargoyle~
+AG JNPQTU 800 0
+15 1 3d9+208 1d1+100 2d6+3 wrath
+-2 -2 -2 -2
+FH E 0 LMQa
+stand stand male 1000
+AGHMWX ABCDEFGHIJKPQUV medium 0 the guilds~
+#15162
+red wax monster ghost shadow shadowy figure~
+a wax shadow~
+A shadowy figure is here, whispering softly in the darkness.
+~
+Fashioned out of melted red wax, this ghost appears to rejuvenate himself
+by collecting drippings from candles in the wine cellar.  
+ 
+~
+deamon~
+AG DFJQTZ 800 0
+12 1 2d10+150 1d1+100 1d10+3 flbite
+0 0 0 0
+CFH B HI NS
+stand stand none 1000
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#15163
+blue wax monster ghost shadow shadowy figure~
+a wax shadow~
+A shadowy figure is here, whispering softly in the darkness.
+~
+Fashioned out of melted blue wax, this ghost appears to rejuvenate
+himself by collecting drippings from candles in the wine cellar.  
+ 
+~
+deamon~
+AG DFJQTZ 1000 0
+12 1 2d10+150 1d1+100 1d10+3 flbite
+0 0 0 0
+CFH B HI NS
+stand stand none 1000
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#15164
+green wax monster ghost shadow shadowy figure~
+a wax shadow~
+A shadowy figure is here, whispering softly in the darkness.
+~
+Fashioned out of melted green wax, this ghost appears to rejuvenate
+himself by collecting drippings from candles in the wine cellar.  
+ 
+~
+deamon~
+AG DFJQTZ 800 0
+12 1 2d10+150 1d1+100 1d10+3 flbite
+0 0 0 0
+CFH B HI NS
+stand stand none 1000
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#15165
+orange wax monster ghost shadow shadowy figure~
+a wax shadow~
+A shadowy figure is here, whispering softly in the darkness.
+~
+Fashioned out of melted orange wax, this ghost appears to rejuvenate
+himself by collecting drippings from candles in the wine cellar.  
+ 
+~
+deamon~
+AG DFJQTZ 800 0
+12 1 2d10+150 1d1+100 1d10+3 flbite
+0 0 0 0
+CFH B HI NS
+stand stand none 1000
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#15166
+yellow wax monster ghost shadow shadowy figure~
+a wax shadow~
+A shadowy figure is here, whispering softly in the darkness.
+~
+Fashioned out of melted yellow wax, this ghost appears to rejuvenate
+himself by collecting drippings from candles in the wine cellar.  
+ 
+~
+deamon~
+AG DFJQTZ 800 0
+12 1 2d10+150 1d1+100 1d10+3 flbite
+0 0 0 0
+CFH B HI NS
+stand stand none 1000
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#15167
+indigo wax monster ghost shadow shadowy figure~
+a wax shadow~
+A shadowy figure is here, whispering softly in the darkness.
+~
+Fashioned out of melted indigo wax, this ghost appears to rejuvenate
+himself by collecting drippings from candles in the wine cellar.  
+ 
+~
+deamon~
+AG DFJQTZ 800 0
+12 1 2d10+150 1d1+100 1d10+3 flbite
+0 0 0 0
+CFH B HI NS
+stand stand none 1000
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#15168
+violet wax monster ghost shadow shadowy figure~
+a wax shadow~
+A shadowy figure is here, whispering softly in the darkness.
+~
+Fashioned out of melted violet wax, this ghost appears to rejuvenate
+himself by collecting drippings from candles in the wine cellar.  
+ 
+~
+deamon~
+AG DFJQTZ 800 0
+12 1 2d10+150 1d1+100 1d10+3 flbite
+0 0 0 0
+CFH B HI NS
+stand stand none 1000
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#15169
+white wax monster ghost shadow shadowy figure~
+a wax shadow~
+A shadowy figure is here, whispering softly in the darkness.
+~
+Fashioned out of melted white wax, this ghost appears to rejuvenate
+himself by collecting drippings from candles in the wine cellar.  
+ 
+~
+deamon~
+AG DFJQTZ 800 0
+12 1 2d10+150 1d1+100 1d10+3 flbite
+0 0 0 0
+CFH B HI NS
+stand stand none 1000
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#15170
+rainbow red orange yellow green blue indigo violet wax monster ghost shadow shadowy figure~
+a wax shadow~
+A shadowy figure is here, whispering softly in the darkness.
+~
+Fashioned out of multi-coloured wax, this ghost appears to rejuvenate
+himself by somehow collecting drippings from candles in the wine cellar.  
+ 
+~
+deamon~
+AG DFJTZ 800 0
+12 1 2d10+150 1d1+100 1d10+3 flbite
+0 0 0 0
+CFH B HI NS
+stand stand none 1000
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#15171
+savvy waiter~
+a savvy waiter~
+A savvy waiter surreptitiously watches you, making sure your every need is met.
+~
+Dressed in a tuxedo, this waiter cuts a sharp figure as he makes his way
+through the crowd.  Clearly attuned to the needs of his customers, no one
+waits for very long.  
+ 
+~
+human~
+AB 0 800 0
+51 5 50d10+5000 1d1+100 5d8+20 slap
+-31 -31 -31 -31
+0 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15172
+cute little mouse~
+a cute little mouse~
+A cute little mouse twitches his nose as he scurries around.
+~
+With long whiskers and an even longer tail, this mouse just looks so cute
+and cuddly.  
+ 
+~
+rabbit~
+AG Q 800 0
+5 0 2d6+60 1d1+100 1d6+1 chew
+5 5 5 5
+FH 0 0 0
+stand stand none 200
+AGV ACDEFHJK medium 0 the guilds~
+#15173
+tiny spider~
+a tiny spider~
+A tiny spider spins a web in the corner of the room.
+~
+With a brown body and beady black eyes, this spider looks harmless.  In
+fact, it looks rather friendly.  
+ 
+~
+centipede~
+AG Z 800 0
+5 0 2d6+60 1d1+100 1d6+1 entangle
+5 5 5 5
+0 0 FI E
+stand stand none 200
+ABGO ACK medium 0 the guilds~
+#15174
+small black bat~
+a small black bat~
+A small black bat sleeps here quietly.
+~
+A heavy sleeper, this little guy doesn't appear to notice anything that
+goes on around him.  
+ 
+~
+bat~
+AG TZ 800 0
+5 0 2d6+60 1d1+100 1d6+1 scratch
+5 5 5 5
+FH 0 0 S
+sleep stand none 200
+AGV ACDEFHJKP medium 0 the guilds~
+#15175
+kayleigh girl lady woman~
+a charming lady~
+A charming lady circles the room greeting each of her customers personally.
+~
+With wild white hair, and vivid eyes the colour of the tanzanite gems
+that she favours, this woman will definitely keep everyone on their toes.  
+ 
+~
+elf~
+AB J 800 0
+51 5 50d10+5000 1d1+100 5d8+20 slap
+-31 -31 -31 -31
+0 0 B Z
+stand stand female 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15176
+female customer curious~
+a curious female customer~
+A curious female customer is asking a lot of questions.
+~
+Wearing only a bare minimum of jewels, this woman looks as though she
+can't afford anything in the store, yet she keeps asking to see the most
+expensive pieces available.  
+ 
+~
+human~
+AB 0 800 0
+10 1 2d7+121 1d1+100 2d4+2 strangle
+1 1 1 1
+0 0 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15177
+nervous man suitor~
+a nervous suitor~
+A man waits nervously at the counter where engagement rings are displayed.
+~
+Counting the money in his wallet over and over again, this poor young man
+waits nervously for the salesperson to emerge from the back room with the
+custom-designed diamond ring he had ordered.  
+ 
+~
+human~
+AB 0 800 0
+12 1 2d10+150 1d1+100 1d10+3 force
+0 0 0 0
+0 0 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15178
+salesperson lady woman~
+a vivacious sales lady~
+A vivacious sales lady expertly describes the nuances that make this jewelry special.
+~
+With her hair dyed to platinum blonde, and her eyebrows penciled in, this
+woman looks more like a wax figurine than an actual person -- but her
+personality is so compelling, that you can't help but listen to her.  
+ 
+~
+human~
+AB 0 800 0
+8 0 2d7+96 1d1+100 1d7+2 force
+3 3 3 3
+0 0 0 0
+stand stand female 1200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15179
+old man giant bald balding~
+a balding old man~
+A balding old man aimlessly roams the salesroom floor.
+~
+Although appearances can be deceiving, this old man hardly appears to
+pose a threat to anyone.  
+ 
+~
+giant~
+AB 0 800 0
+13 1 2d10+170 1d1+100 2d5+3 stomp
+-1 -1 -1 -1
+0 0 HI J
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15180
+security guard officer dragon red~
+a red dragon~
+A dangerous looking dragon eyes you lazily as you enter his room.
+~
+Little puffs of smoke issue forth from the dragon as it waits, impatient
+for it's next meal -- or thief, whichever appears first.  
+ 
+~
+red dragon~
+AF JT 800 0
+15 1 3d9+208 1d1+100 2d6+3 flbite
+-2 -2 -2 -2
+0 0 BEH I
+stand stand male 1000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#15181
+Echo macaw blue-throated blue bird~
+a beautiful macaw~
+A beautiful blue-throated macaw is perched in the highest branches of the tree.
+~
+With beautiful feathers of turquoise, blue, and gold, this bird is
+absolutely resplendent in the sunlight that filters down into the treehouse.
+ 
+~
+hatchling~
+AI DFJ 800 0
+60 6 50d10+9500 1d1+100 8d6+28 shbite
+-41 -41 -41 -41
+DFGHKM ABCDEFGHIJKLMNOPQRSTXYZab B 0
+stand stand female 0
+BHMZ ABCDEFGHIJKLQUVWX medium 0 the guilds~
+M speech 15146 journey~
+M speech 15145 return~
+M grall 15144 100~
+#15182
+bird lark pretty~
+a pretty lark~
+A pretty lark flits amongst the trees.
+~
+A pretty lark sings a beautiful song as it flies about effortlessly.  
+ 
+~
+bat~
+AG TZ 800 0
+5 0 2d6+60 1d1+100 1d6+1 peck
+5 5 5 5
+FH 0 0 S
+stand stand none 200
+AGV ACDEFHJKP medium 0 the guilds~
+#15183
+beautiful red cardinal bird~
+a beautiful red cardinal~
+A beautiful red cardinal is king of the forest's birds.
+~
+Vivid red feathers surround this bird, giving him a regal air.
+ 
+~
+bat~
+AG TZ 800 0
+5 0 2d6+60 1d1+100 1d6+1 peck
+5 5 5 5
+FH 0 0 S
+stand stand none 200
+AGV ACDEFHJKP medium 0 the guilds~
+#15184
+black crow bird~
+a black crow~
+A black crow soars high in the air.
+~
+Glossy black feathers, and beady black eyes give this bird the appearance
+of being a very shady character.  
+ 
+~
+bat~
+AG TZ 800 0
+7 0 2d6+85 1d1+100 1d8+1 peck
+4 4 4 4
+FH 0 0 S
+stand stand none 400
+AGV ACDEFHJKP medium 0 the guilds~
+#15185
+woodpecker bird~
+a tiny woodpecker~
+A tiny woodpecker makes a lot of noise while he's searching for his meal.
+~
+A tiny woodpecker has an intellectual gleam in his eyes.  He shrewdly
+pecks at the dead wood where the bugs live, trying to find as many of them
+as possible for his daily meal.  
+ 
+~
+bat~
+AG TZ 800 0
+5 0 2d6+60 1d1+100 1d6+1 peck
+5 5 5 5
+FH 0 0 S
+stand stand none 200
+AGV ACDEFHJKP medium 0 the guilds~
+#15186
+impatient shopper lady woman~
+an impatient shopper~
+An impatient shopper elbows her way to the front of the line.
+~
+Armed with a pocketbook and an 'all about me' attitude, this woman is not
+someone to let others stand in between her and a good deal.  
+ 
+~
+human~
+AB 0 800 0
+9 0 2d6+110 1d1+100 1d8+2 entangle
+2 2 2 2
+0 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15187
+curious shopper guy man~
+a curious shopper~
+A curious shopper peers through the windows of the store.
+~
+In an attempt not to spend any of his hard-earned money, this potential
+shopper instead tries to view the jewelry from the outside of the store.  He
+puts his head against the window to peer in, leaving smudges and
+fingerprints everywhere.  
+ 
+~
+human~
+AB 0 800 0
+9 0 2d6+110 1d1+100 1d8+2 knock
+2 2 2 2
+0 0 0 0
+stand stand none 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15188
+thoughtful passerby woman~
+a thoughtful passerby~
+A thoughtful woman gazes at everything she passes.
+~
+With her eyes darting from side to side, this woman moves slowly as if
+trying to absorb everything that surrounds her.  
+ 
+~
+human~
+AG 0 800 0
+9 0 2d6+110 1d1+100 1d8+2 smother
+2 2 2 2
+0 0 0 0
+stand stand female 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15189
+utopian warriour fighter man~
+a Utopian warrior~
+A Utopian warrior trains relentlessly.
+~
+Muscles ripple and bulge beneath the fine leather tunic as the Utopian
+warrior moves through his paces.  No trace of body fat can be found
+anywhere, and his grim visage is a reminder of his single- minded dedication
+to his craft.  
+ 
+~
+human~
+AB 0 800 0
+15 1 3d9+208 1d1+100 2d6+3 gutting
+-2 -2 -2 -2
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15190
+utopian warrior fighter woman girl lady~
+a Utopian warrior~
+A Utopian warrior trains relentlessly.
+~
+Sinewy muscle stretched taut over a tawny frame gives this fighter a
+"don't mess with me" look.  
+ 
+~
+human~
+AB 0 800 0
+15 1 3d9+208 1d1+100 2d6+3 gutting
+-2 -2 -2 -2
+0 0 0 0
+stand stand female 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15191
+magic student boy man~
+a young magic student~
+A young magic student meditates here quietly.
+~
+Sitting calmly in the lotus position, this student focuses all of his
+energy on contemplating the mysteries of the Gods.  
+ 
+~
+human~
+AB 0 800 0
+13 1 2d10+170 1d1+100 2d5+3 magic
+-1 -1 -1 -1
+0 0 0 0
+stand stand female 800
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15192
+magic student girl woman lady~
+a young magic student~
+A young magic student practices her spells.
+~
+With her hair pulled back in a comfortable ponytail, this girl looks as
+if she could meditate for days without stopping.  
+ 
+~
+human~
+AB 0 800 0
+13 1 2d10+170 1d1+100 2d5+3 magic
+-1 -1 -1 -1
+0 0 0 0
+stand stand female 800
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#15136
+the Entrance to Utopia~
+the entrance to Utopia~
+~
+wood~
+portal 0 0
+0 0 0 15140 0
+0 100000 0 P
+#15137
+shimmering pathway plane existence~
+plane of the sacred circle~
+~
+energy~
+portal 0 0
+0 0 0 15155 0
+0 0 0 P
+E
+existence~
+A shimmering pathway is before you.
+~
+E
+plane~
+A shimmering pathway is before you.
+~
+E
+pathway~
+A shimmering pathway is before you.
+~
+E
+shimmering~
+A shimmering pathway is before you.
+~
+#15138
+hole branch~
+a branch with a big hole in it~
+~
+energy~
+portal 0 0
+0 0 0 15149 0
+0 0 0 P
+#15139
+aura enlightenment~
+an aura of enlightenment~
+Peaceful thoughts and harmonic chords emanate from this glowing field of energy.~
+energy~
+recall_crystal ABIK AO
+CDFIJLMN B B 0 0
+1 1 2500 P
+#15140
+bow longbow rune handcraft~
+a finely crafted longbow~
+Intricate runes cover the entire length of this painstakingly handcrafted longbow.~
+wood~
+weapon AIKY AN
+ranged 2 8 pierce D
+1
+20 20 3000 P
+#15141
+delicate collar~
+a delicate collar~
+A delicate collar catches the sunlight.~
+gold~
+armor AK AC
+4 4 4 4 0
+10 5 300 P
+#15142
+farmer wide-brimmed straw hat~
+a farmer's hat~
+A wide-brimmed straw hat protects your eyes from the sun.~
+straw~
+armor AK AE
+3 3 3 0 0
+12 5 250 P
+A
+4 1  
+A
+2 1  
+#15143
+shephard's crook~
+a shephard's crook~
+A shephard's crook is useful for more than just tending a flock.~
+wood~
+weapon K AN
+polearm 1 5 none G
+8 5 120 P
+A
+19 2  
+#15144
+tight-fitting black riding pants~
+black riding pants~
+A pair of comfortable pants, meant for long days in the saddle lies in a crumpled heap.~
+velvet~
+armor AK AF
+4 4 4 3 0
+18 5 350 P
+A
+19 1  
+A
+2 1  
+#15145
+form-fitting white shirt~
+a form-fitting white shirt~
+A comfortable, yet durable shirt, made to withstand a tough day has been neatly folded.~
+silk~
+armor K AD
+5 3 5 3 0
+18 5 250 P
+A
+13 5  
+#15146
+fine black cape~
+a fine black cape~
+Cut of the heaviest velvet, this cape will protect you from the elements.~
+velvet~
+armor AK AC
+2 2 2 0 0
+18 3 500 P
+A
+19 2  
+#15147
+antique polished heirloom brooch family~
+an antique brooch~
+A family heirloom, this brooch has been handed down for generations.~
+diamond~
+gem AKW AC
+0 0 0 0 0
+18 2 500 P
+#15148
+Uekera tree~
+Uekera, stairway to the heavens~
+~
+wood~
+portal 0 0
+0 0 0 15168 0
+0 100000 0 P
+E
+tree~
+Uekera is a tree that reaches to the heavens.
+~
+#15149
+strange door~
+a strange door~
+A strange door is slightly askance.~
+marble~
+portal 0 0
+0 0 0 15171 0
+0 10000 0 P
+#15150
+bench~
+a comfortable bench~
+A handcrafted bench is here to rest upon.~
+wood~
+furniture 0 0
+2 1000 BEHK 0 0
+0 100000 0 P
+#15151
+red wax drippings~
+red wax drippings~
+Drops of melted red wax form a puddle at your feet.~
+wax~
+gem APQTUW A
+0 0 0 0 0
+1 1 1500 P
+#15152
+blue wax drippings~
+blue wax drippings~
+Drops of melted blue wax form a puddle at your feet.~
+wax~
+gem APQTUW A
+0 0 0 0 0
+1 1 1500 P
+#15153
+green wax drippings~
+green wax drippings~
+Drops of melted green wax form a puddle at your feet.~
+wax~
+gem APQTUW A
+0 0 0 0 0
+1 1 1500 P
+#15154
+orange wax drippings~
+orange wax drippings~
+Drops of melted orange wax form a puddle at your feet.~
+wax~
+gem APQTUW A
+0 0 0 0 0
+1 1 1500 P
+#15155
+yellow wax drippings~
+yellow wax drippings~
+Drops of melted yellow wax form a puddle at your feet.~
+wax~
+gem APQTUW A
+0 0 0 0 0
+1 1 1500 P
+#15156
+indigo wax drippings~
+indigo wax drippings~
+Drops of melted indigo wax form a puddle at your feet.~
+wax~
+gem APQTUW A
+0 0 0 0 0
+1 1 1500 P
+#15157
+violet wax drippings~
+violet wax drippings~
+Drops of melted violet wax form a puddle at your feet.~
+wax~
+gem APQTUW A
+0 0 0 0 0
+1 1 1500 P
+#15158
+white wax drippings~
+white wax drippings~
+Drops of melted white wax form a puddle at your feet.~
+wax~
+key APQTUW A
+0 0 0 0 0
+1 1 1500 P
+#15159
+golden gloves~
+golden gloves~
+A pair of delicate gloves will protect your hands from the elements.~
+energy~
+armor AIb AH
+3 3 3 3 0
+7 20 1000 P
+A
+17 -5  
+#15160
+golden sandals~
+golden sandals~
+These golden sandals will take you far in life.~
+energy~
+armor AIb AG
+3 3 3 3 0
+7 10 1200 P
+A
+4 1  
+#15161
+golden pitchfork~
+a golden pitchfork~
+A golden pitchfork will see you through many adventures.~
+energy~
+weapon AIb AN
+exotic 1 5 pierce D
+3 20 1600 P
+#15162
+golden athame~
+a golden athame~
+A golden athame will help you do the work of the Gods.~
+energy~
+weapon AIb AN
+exotic 1 5 pierce A
+3 10 1600 P
+#15163
+golden staff~
+golden staff~
+A golden staff will help you on your journey to enlightenment.~
+energy~
+weapon AIb AN
+exotic 1 5 pierce G
+3 20 1600 P
+#15164
+filet mignon steak~
+filet mignon~
+A delicious cut of filet mignon looks quite appetizing.~
+food~
+food 0 A
+25 45 0 0 0
+0 5 200 P
+#15165
+garlic mashed potatoes~
+garlic mashed potatoes~
+A plate full of garlic mashed potatoes gives off a heavenly smell.~
+food~
+food 0 A
+15 30 0 0 0
+0 5 200 P
+#15166
+bottle tuscan red wine~
+a bottle of Tuscan red wine~
+This bottle of Tuscan red wine comes from an excellent vintage.~
+glass~
+drink 0 A
+6 6 'red wine' 0 0
+0 10 200 P
+#15167
+estate red wine~
+a vintage family wine~
+A bottle of award winning wine is covered in dust.~
+crystal~
+gem W A
+0 0 0 0 0
+1 10 2000 P
+#15168
+tanzanite gem~
+a brilliant tanzanite~
+A brilliant tanzanite catches the light perfectly.~
+crystal~
+gem 0 AO
+0 0 0 0 0
+5 5 5000 P
+A
+4 1  
+A
+3 1  
+A
+12 5  
+#15169
+golden pocketwatch watch~
+a golden pocketwatch~
+A golden pocketwatch tracks the passage of time.~
+gold~
+key PUW AO
+0 0 0 0 0
+7 5 1500 P
+A
+13 10  
+#15170
+gleaming diamond~
+a gleaming diamond~
+A gleaming diamond reflects light from it's facets.~
+diamond~
+gem W A
+0 0 0 0 0
+1 5 1000 P
+#15171
+sparkling sapphire~
+a sparkling sapphire~
+A sparkling sapphire radiates intense beauty.~
+diamond~
+gem W A
+0 0 0 0 0
+1 5 1000 P
+#15172
+dazzling ruby~
+a dazzling ruby~
+A dazzling ruby will light up any room.~
+diamond~
+gem W A
+0 0 0 0 0
+1 5 1000 P
+#15173
+jewelled crown gold~
+a gold crown~
+A golden crown, inlaid with jewels of all shapes and sizes is perfect for a queen.~
+gold~
+armor AIb AE
+2 2 2 2 0
+10 20 2000 P
+A
+4 2  
+A
+12 10  
+#15174
+energy drink~
+an energy drink~
+An energy drink will pull you through a long workout.~
+energy~
+potion 0 A
+25 'giant strength' 'frenzy' 'reserved' 'reserved'
+10 5 2500 P
+#15175
+sizzling potion~
+a sizzling potion~
+A sizzling potion offers you the protection of the Gods.~
+energy~
+potion P A
+20 'slow' 'cloak of mind' 'teleport' 'reserved'
+15 5 2500 P
+#15176
+ginseng pill~
+a spot of ginseng~
+A spot of ginseng will keep you dancing all night long.~
+energy~
+pill 0 A
+25 'haste' 'grandeur' 'reserved' 'reserved'
+10 5 1000 P
+#15177
+rainbow wax drippings~
+rainbow wax drippings~
+Drops of wax in every colour of the rainbow form a puddle at your feet.~
+wax~
+gem APQTUW A
+0 0 0 0 0
+1 5 5000 P
+#15178
+angel's essence~
+{BAngel's Essence{x~
+{BAngel's Essence will refresh you after a long journey.{x~
+energy~
+potion AWYe A
+20 'lesser revitalize' 'build fire' 'protection evil' 'create food'
+0 0 2500 P
+#0
+
+
+
+#ROOMS
+#15136
+Through the thorn bush~
+A tangled mess of thorns and vines appears to block the path in almost
+every direction.  It is quite dark in here, and the vines seem to be growing
+in size as if attempting to herd their prey in a specific direction.  
+ 
+~
+0 5 3
+D0
+~
+~
+0 0 15137
+D3
+~
+~
+0 0 31083
+S
+#15137
+Deeper in the thorns~
+As sharp as cut glass, and as long as a grown man's finger, hundreds of
+thorns stick out in all directions as if blindly seeking everything that
+passes.  It wouldn't be so bad if the bushes were further apart, but these
+nettles have intertwined, forming a wall that is virtually inpenetrable.  
+ 
+~
+0 4097 3
+D1
+~
+~
+0 0 15139
+D2
+~
+~
+0 0 15136
+S
+#15138
+Eric's Evil Enterprises~
+~
+0 268439556 0
+E
+opening~
+Carefully parting the thorns, you are confronted by an immense shimmering
+void.  Peering into it's depths, you see happy women and girls dancing and
+frolicking around a large May Pole in what appears to be the center of town.
+Men and young boys have gathered to watch the festivities, and they provide
+music, and cheering as the women spin their web seemingly effortlessly.  As
+you gaze in wonder, a little boy seems to notice you at the edge of the
+circle.  He beckons for you to come closer and whispers "Come to {cUtopia{x.
+Everyone is welcome here, even strangers like you."  
+~
+S
+#15139
+Tangled in the thorns~
+All movement is slowed by the immense mass of the thorn bush that is
+everywhere.  The faint noise of the forest is all but drowned out by the
+sound of the thorns as they scrape along each other -- much like the sound
+of two knives being sharpened together by a madman.  There does appear to be
+a tiny area without any thorns.  Perhaps the {copening{x is big enough to
+crawl through?  
+ 
+~
+0 4 3
+E
+opening~
+Carefully parting the thorns, you are confronted by an immense shimmering
+void.  Peering into it's depths, you see happy women and girls dancing and
+frolicking around a large May Pole in what appears to be the center of town.
+Men and young boys have gathered to watch the festivities, and they provide
+music, and cheering as the women spin their web seemingly effortlessly.  As
+you gaze in wonder, a little boy seems to notice you at the edge of the
+circle.  He beckons for you to come closer and whispers "Come to {cUtopia{x.
+Everyone is welcome here, even strangers like you."  
+~
+S
+#15140
+Center of Utopia~
+A large group of boisterous people is here singing and laughing together,
+apparently without a care in the world.  They are celebrating May Day, and
+people have come from far and wide to join in the traditional dance around
+the {cMay Pole{x which has been erected in the center of town.  The men are
+drinking and talking amicably as they watch the women dance together.  The
+young women are dressed in all their finery with ribbons trailing behind
+them.  They weave in and out, over and under, in a primordial dance that is
+as old as the stars.  
+ 
+~
+0 268435456 2
+E
+pole~
+A tall tree trunk is here, stripped of its branches.  Gaily dressed women
+sing to the old ones while weaving brightly coloured ribbons around the
+pole.
+ 
+~
+E
+may~
+A tall tree trunk is here, stripped of its branches.  Gaily dressed women
+sing to the old ones while weaving brightly coloured ribbons around the
+pole.  
+ 
+~
+E
+east~
+A beautiful wrought iron gate stands before you in all its glory. It was
+meticulously crafted by hand, by one of the local villagers. Strong enough
+to keep the cows from wandering through the center of town, yet light enough
+that small children are able to open it easily, this gate stands as a
+testament to true master craftsmanship.
+~
+D0
+A beautiful wrought iron gate stands before you in all its glory.  It was
+meticulously crafted by hand, by one of the local villagers.  Strong enough
+to keep the cows from wandering through the center of town, yet light enough
+that small children are able to open it easily, this gate stands as a
+testament to true master craftsmanship.  
+ 
+~
+gate~
+1 0 15142
+D1
+~
+gate~
+1 0 15176
+D2
+A beautiful wrought iron gate stands before you in all its glory.  It was
+meticulously crafted by hand, by one of the local villagers.  Strong enough
+to keep the cows from wandering through the center of town, yet light enough
+that small children are able to open it easily, this gate stands as a
+testament to true master craftsmanship.  
+ 
+~
+gate~
+1 0 15156
+D3
+~
+~
+1 0 15189
+D4
+~
+~
+0 0 15141
+D5
+~
+~
+1 0 15187
+S
+#15141
+Sitting on Top of the May Pole~
+Utopia spreads out beneath you - a veritable sea of green grass,
+blossoming fruit trees laden with juicy fruits, and smiling, happy people. 
+Eagles circle high above the May Pole eyeing you careful as if trying to
+determine whether you are a friend, or their next potential meal.  A faint
+glimpse of the sea can be seen over the treetops in the distance.  
+ 
+~
+0 0 9
+D5
+~
+~
+0 0 15140
+S
+#15142
+The Winding Road~
+A grassy road leads northward out of the center of Utopia.  Although it
+is not much of a road by the standards of larger cities, it is fairly easy
+to traverse.  Indentations caused by wagon wheels can be seen, and the grass
+in between them is still quite high.  It is easy enough to surmise that the
+folks who follow this road tend to walk within the wagon tracks to avoid any
+further harm to their pristine fields.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15143
+D2
+~
+~
+1 0 15140
+S
+#15143
+The Winding Road~
+A light breeze wafts across the fields, bringing with it scents of
+lavender and heather.  In the distance, the faint sound of ringing steel and
+muttered curses can be heard.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15144
+D2
+~
+~
+0 0 15142
+S
+#15144
+The Winding Road~
+The sound of the fighting is quite loud.  However even over the sounds of
+clashing weapons and the grunts of fighters, there is also the sound of
+pure, unadulterated laughter.  What on earth could be causing such a
+commotion?  
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15145
+D2
+~
+~
+0 0 15143
+S
+#15145
+The Winding Road~
+A cross-road of sorts, the road branches off both east and west in
+addition to traveling north.  From the east comes the sounds of chanting, as
+though many people are meditating in unison.  To the west, the sound of
+clashing metal is quite deafening, as combatants test each other - looking
+for even the slightest hesitation which might indicate their opponent's
+greatest weakness.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15146
+D1
+~
+~
+0 0 15153
+D2
+~
+~
+0 0 15144
+D3
+~
+~
+0 0 15150
+S
+#15146
+The Winding Road~
+The training grounds continue to the east and west of the pathway.  The
+sounds emanating from the ruckus have grown louder, and more consistent. 
+Ringing steel reverberates methodically, as though someone was practicing
+against a solid object.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15147
+D1
+~
+~
+0 0 15154
+D2
+~
+~
+0 0 15145
+D3
+~
+~
+0 0 15151
+S
+#15147
+The Winding Road~
+The pathway continues forward, moving inexorably closer to an ancient oak
+tree.  Tales have traveled far and wide about the special abilities that
+this tree is said to possess.  Many claim that its leaves hold the key to
+immortality.  Others scoff at such a grandiose idea, and simply feel that
+because of its age it brings good luck to those who take care of it, and
+keep it safe.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15148
+D2
+~
+~
+0 0 15146
+D3
+~
+~
+3 0 15152
+S
+#15148
+Yggdrasil~
+The tree of life stands here in all its glory.  It is so large that even
+a dozen people could not encircle it no matter how hard they tried. 
+Branches sway lazily in the light breeze, and the leaves rustle in pleasure
+as the wind dances amongst them.  It would appear that the tree is trying to
+teach about life and how the world needs to interact at a very basic level
+in order to survive and prosper.  The leaves continue to rustle as the tree
+weaves a tale of peace and harmony for those who are willing to listen.  It
+is a struggle to hear the whisper of the tree amidst all the cacophony of
+the rest of the world, but perhaps solitude can be found amongst the higher
+{cbranches{x.  
+ 
+~
+0 268435456 2
+E
+branch~
+There seems to be a large hole in one of the branches of the tree.
+ 
+~
+D2
+~
+~
+0 0 15147
+D5
+~
+~
+1 0 15149
+S
+#15149
+Deep Within the Tree of Life~
+Darkness surrounds you, wrapping you in its essence like a soft, warm
+blanket.  At the most basic of levels, it is understood that there is
+nothing to fear here, except for destiny itself.  The choices you are free
+to make will shape who you are, and what you become.  Choose wisely, as the
+Gods are not appreciative of those who make light of the Dance.  
+ 
+~
+0 524293 3
+D4
+~
+~
+1 0 15148
+S
+#15150
+Training Field~
+Men and women train side-by-side in the field, their sweat mixing with
+the dirt on their faces giving them an almost surreal appearance.  Each is
+using a different kind of weapon, from simple swords and knives to more
+elaborate items such as katanas.  The students are completely immersed in
+their training, focused solely on their opponent, yet they are so skilled
+that it is safe to move amongst them and not fear for your life.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15151
+D1
+~
+~
+0 0 15145
+S
+#15151
+Training Field~
+Further down the training field a group of men are battling in utter
+silence.  With the exception of a muted thump when a blow is landed, these
+men do not make a sound.  They are the elite fighters of Utopia -- a
+fighting force of men so strong that they require no weapons at all to
+defend themselves.  Their only weapons are their hands and their ability to
+keep their wits about them in a life or death situation.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+3 0 15152
+D1
+~
+~
+0 0 15146
+D2
+~
+~
+0 0 15150
+S
+#15152
+Peacekeeper Headquarters~
+An extremely large tent has been set up to resemble a mobile command
+post.  The walls are covered with various maps of the land and an odd
+assortment of weapons -- many of which are unknown to most living men.  It
+is obvious that although this group is known as the "Peacekeepers", they
+have spent their lives dedicated to training in the Art of War.  
+ 
+~
+0 268435456 0
+D1
+~
+~
+3 0 15147
+D2
+~
+~
+3 0 15151
+S
+#15153
+Magic Training Field~
+Sidestepping quickly, you try to avoid a smoking arrow that was headed in
+your direction.  But just as quickly as it appeared, the bolt is gone,
+replaced by the shamefaced look of a student who has not yet learned to
+control her magickal energies.  Realizing she has not seriously harmed or
+scared you off, the young girl quickly returns to her meditative pose that
+the other students in the meadow are also practicing.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15154
+D3
+~
+~
+0 0 15145
+S
+#15154
+Magic Training Field~
+The air surrounding you crackles with electricity so intense that you can
+feel it coursing through your body.  Shimmering planes of energy surround
+you as you walk amongst the students of life's greatest enigma - magic. 
+Their faces are rleaxed as they breathe deeply, following an inner pathway
+to a higher {cplane{x of existence.  
+ 
+~
+0 268435456 2
+D2
+~
+~
+0 0 15153
+D3
+~
+~
+0 0 15146
+S
+#15155
+The Sacred Circle~
+An azure glow surrounds you, as you step out into a field of
+energy so pure, that it seems you are breathing it in and out
+of your body instead of air. Your muscles begin to relax, and
+your mind clears itself of all the tension and stress that has
+been bothering you. You are aware of a hum in the background,
+and by concentrating you realize that it is the sound of many
+voices joined together in song, chanting in unison as they 
+proceed along the pathway to enlightenment. The song fills your
+mind and you find yourself joining them with ease, and harmony
+becomes one with your heart and soul.
+ 
+~
+0 4 2
+D2
+~
+~
+0 0 15154
+D4
+~
+~
+1 0 15148
+S
+#15156
+The Winding Road~
+A winding path of sorts leads southward from the center of Utopia.  Much
+like its counterpart that heads due north, this road is also very well kept,
+and if it wasn't for tell-tale signs of wagons passing through, you would
+not know for sure that it was ok to go this way.  Around you, birds are
+singing, and the air smells fresh and clean.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+1 0 15140
+D2
+~
+~
+0 0 15157
+S
+#15157
+The Winding Road~
+All around you, tall grass weaves in the gentle breeze.  Crickets chirp
+incessantly, and the birds squawk amongst themselves as they dart to and fro
+overhead.  The air is scented with various fragrances, which all combine to
+create an exotic, heady aroma unlike anything you have ever smelled before. 
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15156
+D2
+~
+~
+0 0 15158
+S
+#15158
+The Winding Road~
+The laughter of children floats on the air in the meadow, wrapping
+everything it touches in a melodious blanket filled with childhood memories.
+The grass here is a vibrant green, and quite tall, obscuring the view of
+what lies beyond.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15157
+D2
+~
+~
+0 0 15159
+S
+#15159
+Entrance to the Garden of Meditation~
+The pathway comes to an end at a breath-takingly beautiful gazebo covered
+in ivy.  Three stairs lead up to a wooden floor which is strewn with fresh
+rose petals.  Exits in all the cardinal directions allow you to explore the
+garden easily.  The scents of jasmine and lilac float on the air, but their
+source cannot be determined.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15158
+D1
+~
+~
+0 0 15165
+D2
+~
+~
+0 0 15160
+D3
+~
+~
+0 0 15162
+S
+#15160
+The Garden of Meditation~
+The grassy path continues to meander its way through the garden, twisting
+this way and that.  Whoever designed it certainly knew how to show off the
+flowers and herbs to their best advantage.  The scents and sounds
+intermingle creating a pleasant, relaxing atmosphere in which to undertake a
+soulful journey.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15159
+D1
+~
+~
+0 0 15166
+D2
+~
+~
+0 0 15161
+D3
+~
+~
+0 0 15163
+S
+#15161
+The Sacred Grove~
+Immense trees punctuate the thick, impenetrable brush that spreads as far
+as the eye can see creating Utopia's first line of defense.  At the
+forefront of it all is a tree so enormous that it would take at least 10
+large human men to completely encircle it.  The setting is so serene that it
+feels as though the Gods are everywhere, just waiting for someone to try and
+communicate with them.  Perhaps a short climb up the {ctree{x into the
+clouds might be fun?  
+ 
+~
+0 268435460 2
+D0
+~
+~
+0 0 15160
+D1
+~
+~
+0 0 15167
+D3
+~
+~
+0 0 15164
+S
+#15162
+The Flower Gardens~
+Flower beds extend southward for as far as the eye can see, creating a
+crazy kaleidoscope of colours.  Vibrant hues of red, gold, blue, and green
+are intertwined with the softer colours of lavender, yellow, and mauve. 
+Hummingbirds dart about going from flower to flower in a seemingly random
+pattern, and bumblebees float lazily in the air.  
+ 
+~
+0 268435456 2
+D1
+~
+~
+0 0 15159
+D2
+~
+~
+0 0 15163
+S
+#15163
+The Flower Gardens~
+Your senses are awash with so many different sights, and smells.  The
+combined bouquet of fresh flowers of all kinds presses upon you in such a
+way that you can't help but relax and enjoy.  Nearby, roses of various types
+and colours are in full bloom -- their delicate petals have unfurled and
+dewdrops glisten in the sun.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15162
+D1
+~
+~
+0 0 15160
+D2
+~
+~
+0 0 15164
+S
+#15164
+The Flower Gardens~
+This is the oldest section of Utopia.  Here, the first flower garden
+sprung forth from the ground and bloomed beautifully, as if tended by some
+unseen hand.  As if sensing a safe haven, your body begins to ground and
+center itself.  This is a sanctuary of sorts for the body, but it really is
+meant to rejuvenate the soul.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15163
+D1
+~
+~
+0 0 15161
+M 120 H 80
+S
+#15165
+The Scented Herb Gardens~
+Carefully tended gardens stretch towards the south, and the scents of
+herbs such as peppermint and thyme float on the air.  Women and teenagers
+carefully slice off the herbs with sharp knives to create healing poultices
+and remedies for the townspeople.  Ginger and other herbs are harvested by
+the roots, and then mashed and steamed in teas for their rejuvenating
+effects.  
+ 
+~
+0 268435456 2
+D2
+~
+~
+0 0 15166
+D3
+~
+~
+0 0 15159
+S
+#15166
+The Scented Herb Gardens~
+This section of the herb gardens must be brand new.  Small shoots of
+leaves and tendrils of green stalks are just beginning to poke through the
+topsoil.  The baby herbs are so pale and faint against the dark soil
+backdrop, that it almost appears to be a mirage.  
+ 
+~
+0 268435456 2
+D0
+~
+~
+0 0 15165
+D2
+~
+~
+0 0 15167
+D3
+~
+~
+0 0 15160
+S
+#15167
+The Scented Herb Gardens~
+You've entered the oldest area of the herb gardens.  Here, there are many
+pathways hidden among ivy-covered trellises, and marble benches clearly
+intended for meditation (or at the very least, relaxation).  To one side,
+you see a statue of a figure holding a small rabbit, while dogs romp happily
+close by.  A bird rests casually on the shoulder of the statue, watching
+your slow approach.  It does not appear to be afraid of you, and it seems as
+though it was intelligently evaluating you based on looks alone.  
+ 
+~
+0 268435456 2
+E
+statue~
+Intricately carved from a single block of marble,
+this statue portrays a young man in the prime of
+his youth. His face is wreathed in a gentle smile,
+and you can feel yourself relaxing in his presence.
+ 
+~
+E
+bird~
+A beautiful song bird watches you intently from its perch
+upon the statue. It trills a pretty song as you approach,
+and as it ruffles its feathers, the sun glances off and
+shatters into hundreds of different colours.
+ 
+~
+D0
+~
+~
+0 0 15166
+D3
+~
+~
+0 0 15161
+S
+#15168
+Entrance to the Temple of the Gods~
+Golden silks drape walls that appear to be no more substantial than
+clouds.  Candles flicker all around you, casting shadows that dance and move
+as if they had a mind all their own.  Incense burns discreetly in each
+corner of the room.  The various scents mingle pleasantly creating an
+atmosphere conducive to relaxation and meditation.  
+ 
+~
+0 268435456 3
+D1
+~
+~
+0 0 15174
+D2
+~
+~
+0 0 15169
+D3
+~
+~
+0 0 15172
+S
+#15169
+Exotic Companions~
+Upon your first inspection, this room doesn't appear to be any different
+than the others, but then you realize that the walls are actually made of
+glass in here. Looking more closely you notice that various creatures are
+kept behind the glass. Some chitter noisily at you when they notice your
+casual inspection, while others make cute faces trying to entice you into
+choosing them. "Pick me!" they seem to say.
+ 
+~
+0 268439552 0
+D0
+~
+~
+0 0 15168
+S
+#15170
+pet store atttaches to room 15169~
+~
+0 268443652 0
+S
+#15171
+Caterina's Workshop~
+A tornado could not have whipped through this room and left it in worse
+condition...  There are tools, gadgets, trinkets, and whatnots scattered
+everywhere!  While she may be a Goddess, and an absolute genius when it
+comes to tinkering with things and making something new, "la femme de la
+maison" is also a scatterbrain.  
+ 
+~
+0 1073741828 0
+M 0 H 0
+S
+#15172
+The Western Horizon~
+Soft music fills the air, but you cannot seem to find the source.  The
+lighting is dim in this room, but somehow you are still able to see quite
+clearly.  The walls in here are a dusty shade of mauve, and it almost seems
+like whoever created the room was able to capture the true essence of a
+summer sunset in all its ethereal glory.  
+ 
+~
+0 268435456 3
+D1
+~
+~
+0 0 15168
+D2
+~
+~
+0 0 15173
+S
+#15173
+The Southern Horizon~
+The room glows as if lit from within. Fiery colours spring to life on walls
+that appear to be no more substantial than mist, yet manage to exclude any
+trace of outside interference. Instead, the ambience of the room is heightened
+by its mere solitude.
+ 
+~
+0 268435460 3
+D0
+~
+~
+0 0 15172
+S
+#15174
+The Eastern Horizon~
+Pale pink outlined in gold, washed in a hazy summer blue sky -- this room
+is decorated in such a way as to remind you of a summer sunrise as it creeps
+up slowly over the horizon.  The rays of the sun dance across the endless
+ocean, seeking refuge in the valleys of the waves, and delighting in riding
+the crests to the shore.  
+ 
+~
+0 268435456 0
+D2
+~
+~
+0 0 15175
+D3
+~
+~
+0 0 15168
+S
+#15175
+The Southern Horizon~
+The room glows as if lit from within. Fiery colours spring to life on walls
+that appear to be no more substantial than mist, yet manage to exclude any
+trace of outside interference. Instead, the ambience of the room is heightened
+by its mere solitude.
+ 
+~
+0 268435460 0
+D0
+~
+~
+0 0 15174
+S
+#15176
+Cobblestone Road~
+This cobblestone road was handcrafted back in the days when people still
+knew what hard work really was.  Each of the pavers has been set by hand and
+meticulously leveled so that it is safe to walk on.  The sounds of a lively
+town can be heard all around as people call to each other with happy
+greetings and exchanges of news.  
+ 
+~
+0 0 0
+D1
+~
+~
+0 0 15177
+D3
+~
+~
+1 0 15140
+S
+#15177
+Cobblestone Road~
+A merchant has set up his shop on the north side of the road, and many
+people have gathered to see what he has to offer.  From the metallic
+clanking sounds it would appear to be a mobile armoury.  The armourer
+himself can be heard jesting with his customers as they haggle over goods
+and services -- each trying to get the best deal possible.  
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 15178
+D1
+~
+~
+0 0 15179
+D3
+~
+~
+0 0 15176
+S
+#15178
+Aiden's Armoury~
+The store is brimming with armour and weapons that have been intermingled
+with the kind of casualness that comes only from years of intimate
+familiarity.  There is a small section for leather bound goods and other
+assorted oddities, however most of the items are your standard fare such as
+swords, maces and other handcrafted specialties.  
+ 
+~
+0 0 0
+D2
+~
+~
+0 0 15177
+S
+#15179
+Cobblestone Road~
+The cobblestone road ends here in front of a large stone building. 
+Delicious smells float in the air, aided by a northerly breeze.  To the
+south is an open area restaurant whose patrons chatter excitedly, trading
+gossip about the days events.  To the east, a large building almost blends
+into the road, having been hewn in the same manner as the road itself.  
+ 
+~
+0 4 0
+D1
+~
+~
+1 0 15181
+D2
+~
+~
+0 0 15180
+D3
+~
+~
+0 0 15177
+S
+#15180
+The Cobblestone Cafe~
+Carrying their trays high above their heads, waiters careen madly about
+the restaurant deftly avoiding each other, and the customers, too.  Daily
+specials are recited from memory, and orders are taken in the same manner. 
+Only the best are hired to work here, and the level of service reflects
+their pride and dedication to their job.  
+ 
+~
+0 4 0
+D0
+~
+~
+0 0 15179
+S
+#15181
+Wine Shop~
+The resident sommelier certainly keeps his store in pristine condition. 
+All of the bottles are neatly organized by country, vintage, and style,
+making it easy to acquire precisely the right wine.  If you don't see what
+you are looking for, just ask.  Perhaps it can be found in the family wine
+cellar.  
+ 
+~
+0 0 0
+D3
+~
+~
+1 0 15179
+D5
+~
+~
+0 0 15182
+S
+#15182
+The Wine Cellar~
+The stairs leading down to the wine cellar are well lit, and it is easy
+to notice that they appear to have been carved directly out of the ground. 
+Although each stair looks like an individual piece, closer inspection
+reveals it to be solid rock that has been carefully crafted to look that
+way.  The candles that light the stairway have burned about halfway down to
+the quick, however no wax drippings are visible anywhere.  
+ 
+~
+0 0 0
+D4
+~
+~
+0 0 15181
+D5
+~
+~
+0 0 15183
+S
+#15183
+The Wine Cellar~
+Candlelight flickers from all corners of the room, giving an eerie
+feeling to the already macabre atmosphere.  Shadows dance and play among the
+bottles of wine, as if dancing to an intricate melody all their own.  Many
+of the bottles appear to have been sitting for many years, covered as they
+are with a solid layer of dust.  
+ 
+~
+0 0 0
+D1
+~
+~
+1 0 15184
+D4
+~
+~
+0 0 15182
+S
+#15184
+The Abandoned Wine Cellar~
+The darkness is heavy, pressing in from the corners of the room until it
+feels as though there is barely enough room to move.  Although there are no
+shadows here, the feeling of being watched is overpowering.  Sounds can be
+heard echoing through the chamber, but it is almost impossible to discern
+the direction from which they came.  
+ 
+~
+0 0 0
+D3
+~
+~
+1 0 15183
+D5
+~
+~
+4 15158 15185
+S
+#15185
+The Forgotten~
+Devoid of all furniture, and covered only in cobwebs that hang from the
+ceiling like big, dusty sheets, this room appears to have been abandoned for
+centuries.  It's entirely possible that the owner does not even remember its
+existence, although he does cringe anytime someone asks for a wine stored in
+the cellar.  Perhaps he is just remembering folktales from his childhood. 
+Perhaps not.  
+ 
+~
+0 4 0
+S
+#15187
+Town Storage~
+Directly under the center of town, this room appears to be used as a
+place to store various items that the town uses throughout the year.  There
+are boxes of holiday decorations scattered everywhere.  Whoever is
+responsible for the upkeep on this place sure isn't doing their job!  
+ 
+~
+0 0 0
+D4
+~
+~
+1 0 15140
+D5
+~
+~
+1 0 15188
+S
+#15188
+Extra Storage~
+A heavy coating of dust covers every box in the room.  Spiders have
+created cobwebs everywhere, too.  It's as if this room hasn't been touched
+in years.  There are tiny paw prints on the ground, so obviously not
+everyone (or everything) has forgotten about this place.  
+ 
+~
+0 0 0
+D4
+~
+~
+1 0 15187
+S
+#15189
+Cobblestone Road~
+The road here is definitely well-traveled.  The cobblestones have been
+worn almost completely smooth by the constant passage of horses, carriages
+and people.  Buildings line the street on either side of the road, but most
+appear to be closed in celebration of the holiday.  
+ 
+~
+0 0 0
+D1
+~
+~
+1 0 15140
+D3
+~
+~
+0 0 15190
+S
+#15190
+Cobblestone Road~
+A large crowd has gathered here in anticipation of a store opening its
+doors for the very first time.  To the south, a building is covered in
+balloons and flowers enticing people to come inside and see what types of
+treasures they can find.  The road continues to the east and west, however
+not many people appear to be traveling in either direction, unless they've
+already finished shopping.  
+ 
+~
+0 0 0
+D1
+~
+~
+0 0 15189
+D2
+~
+~
+1 0 15191
+D3
+~
+~
+0 0 15194
+S
+#15191
+Kayleigh's Jewels & Trinkets~
+Glass cases filled with gorgeous jewelry are placed strategically around
+the room.  The diamonds are kept near the windows, so that passers-by can
+get a glimpse of their radiance -- hopefully enticing them to buy!  Towards
+the back of the room, a specially fitted glass case displays a rare
+collection of Tanzanite, a gem that is fast becoming as popular - and
+expensive - as diamonds.  
+ 
+~
+0 0 0
+D0
+~
+~
+1 0 15190
+D2
+~
+~
+1 0 15192
+S
+#15192
+Jewelry Storage Area~
+Shelves line every wall in this room, and are filled from floor to
+ceiling with boxes in all shapes and sizes.  Small velvet boxes with lacy
+blue ribbons are meant for holding engagement rings, while larger boxes are
+for more elaborate pieces of jewelry.  
+ 
+~
+0 0 0
+D0
+~
+~
+1 0 15191
+D5
+~
+~
+4 15169 15193
+S
+#15193
+Inside the Safe~
+Guarded by a dragon, this is purported to be one of the "safest" safes in
+existence.  Not many are willing to try their luck against a dragon guarding
+it's horde, and even fewer live to tell the tale themselves.  
+ 
+~
+0 0 0
+D4
+~
+~
+4 0 15192
+S
+#15194
+The Cobblestone Forest~
+The road comes to an end here, with the cobblestones giving way to the
+forest.  Trees rise up majestically from the earth, swaying too and fro in a
+graceful rhythm.  The sounds of different birds calling to each other can be
+heard quite clearly now, as the few pedestrians that journey this far are
+silent -- made mute by the beauty of nature in all her glory.  
+ 
+~
+0 0 0
+D1
+~
+~
+0 0 15190
+D3
+~
+~
+0 0 15195
+S
+#15195
+The Old Forest~
+Large oak trees intermingle with small shrubs here, making the pathway
+somewhat hard to travel.  There are many obstacles to climb over, but they
+are home to small woodland creatures who have found sanctuary in the woods. 
+ 
+~
+0 0 0
+D1
+~
+~
+0 0 15194
+D3
+~
+~
+0 0 15196
+S
+#15196
+The Ancient Banyan Tree~
+Standing alone in a small clearing, this tree has been growing for
+hundreds of years.  Amazingly, it is not overgrown with bushes like the
+other trees in the forest.  It's as if a special hand has carefully
+cultivated it's growth to ensure it's survival.  
+ 
+~
+0 805306380 0
+D1
+~
+~
+0 0 15195
+D4
+~
+~
+1 0 15197
+S
+#15197
+The Living Room~
+You find yourself standing on a carpet of dark green moss so soft that it
+squishes between your toes.  You blink your eyes in amazement as you realize
+that you're in someone's secret treehouse, perched in the uppermost fork of
+an ancient banyan tree.  Green vines hang down all around you, and you hear
+the chitter of animals below you and the cacophony of birds in the distance.
+As the sunlight filters hazily down through the canopy, you catch a glimpse
+through a gap in the branches, of the rainforest that surrounds you, and you
+feel a sense of tranquility steal upon you and you wish you never had to
+leave.  
+~
+0 805306380 0
+D5
+~
+~
+0 0 15196
+S
+#15199
+The Sacred Circle~
+An azure glow surrounds you, as you step out into a field of
+energy so pure, that it seems you are breathing it in and out
+of your body instead of air. Your muscles begin to relax, and
+your mind clears itself of all the tension and stress that has
+been bothering you. You are aware of a hum in the background,
+and by concentrating you realize that it is the sound of many
+voices joined together in song, chanting in unison as they 
+proceed along the pathway to enlightenment. The song fills your
+mind and you find yourself joining them with ease, and harmony
+becomes one with your heart and soul.
+ 
+~
+0 4 2
+S
+#0
+
+
+
+#SPECIALS
+M 15148 spec_patrolman Load to: a dangerous dog
+S
+
+
+
+#MOBPROGS
+#15146
+say I am glad you were able to relax here with me for awhile.
+wave $n
+say Please visit again soon. I do so love good company.
+bow $n
+mob trans $n 15140
+~
+A
+#15145
+say Best of luck to you on your journey.
+wave $n
+say I hope that our paths will cross again someday.
+bow $n
+mob trans $n 31000
+~
+A
+#15144
+if isimmort $n
+say Greetings fair Immortal, I am honoured by your presence.
+bow $n
+else
+if sex $n <2
+bow $n
+say Greetings, $N. Please feel free to rest here as long as you must.
+say Please let me know when you are ready to continue your journey or return home, and I will help you along your way.
+else
+bisous $n
+say Greetings, $N. Please feel free to rest here as long as you must.
+say Please let me know when you are ready to continue your journey or return home, and I will help you along your way.
+~
+N
+#15139
+if sex $n < 2
+nod $n
+say Greetings $N
+else
+say $N, other than my darling wife, you must be one of the most beautiful creatures I have ever seen!
+mob echoaround Isn't $N just divine?
+endif
+~
+A
+#15137
+if isgood $n
+remove aura
+give aura $n
+say May this bring you wisdom, peace, and enlightenment.
+else
+sigh
+say I had hoped that you would reconsider your wicked ways before asking such a boon of me.
+remove aura
+say I can only hope that you will remember the healing touch of this pathway and one day choose to openly seek it's embrace.
+give aura $n
+end if
+~
+A
+#15136
+#15136
+if isimmort $n
+say Merry Meet, $N!
+bow
+else
+if sex $n < 2
+cower $N
+else flirt $N
+-
+~
+A
+#15138
+sigh
+mob echoat $n One day you will seek enlightenment, and the truth shall set you free.
+mob trans $n 15154
+mob purge $i
+~
+A
+#15140
+if name $N Angelique
+embrace $N
+say Angel, my love! You have returned to me as you promised you would.
+smile
+else
+bow $n
+say Welcome to my humble abode. It is not often that I receive visitors.
+say I apologize for my lack of visible embodiment, however I have attained a spiritual level that no longer requires such impediments to knowledge.
+say I would be most happy to help you along your journey to enlightenment. You need only ask.
+say My dearest Angel would not have sent you to me, if she had not found you ready.
+endif
+~
+A
+#15141
+say Tis not often that I receive visitors.
+say Must you go so soon?
+~
+A
+#15142
+say Please return if you have more need of my wisdom and knowledge.
+say Until then, I bid you Adieu. May the Angels watch and protect you.
+mob trans $N 15148
+~
+A
+#15143
+say Excellent!
+contemplate
+say What else can I teach you today, then?
+chuckle
+~
+A
+#0
+
+#RESETS
+D 0 15140 0 1
+D 0 15140 1 1
+D 0 15140 2 1
+D 0 15140 3 1
+D 0 15140 5 1
+D 0 15142 2 1
+D 0 15147 3 1
+D 0 15148 5 1
+D 0 15149 4 1
+D 0 15151 0 1
+D 0 15152 1 1
+D 0 15152 2 1
+D 0 15155 4 1
+D 0 15156 0 1
+D 0 15176 3 1
+D 0 15179 1 1
+D 0 15181 3 1
+D 0 15183 1 1
+D 0 15184 3 1
+D 0 15184 5 2
+D 0 15187 4 1
+D 0 15189 1 1
+D 0 15190 2 1
+D 0 15191 0 1
+D 0 15191 2 1
+D 0 15192 0 1
+D 0 15192 5 2
+D 0 15193 4 2
+D 0 15196 4 1
+M 1 15136 1 15137 1
+M 1 15137 1 15138 1
+M 1 15139 1 15138 1
+M 1 15138 1 15138 1
+O 0 15136 0 15139
+M 1 15141 3 15140 3
+C 100 percent for next reset
+G 0 15176 0
+C 100 percent for next reset
+M 1 15140 3 15140 3
+M 1 15142 1 15141 1
+C 75 percent for next reset
+M 1 15146 10 15142 2
+M 1 15151 5 15142 1
+C 75 percent for next reset
+M 1 15147 10 15143 2
+C 75 percent for next reset
+M 1 15146 10 15143 2
+M 1 15151 5 15143 1
+C 75 percent for next reset
+M 1 15146 10 15144 2
+C 75 percent for next reset
+M 1 15147 10 15144 2
+M 1 15151 5 15144 1
+C 75 percent for next reset
+M 1 15146 10 15145 2
+C 75 percent for next reset
+M 1 15150 5 15145 1
+E 0 15142 0 6
+C 75 percent for next reset
+M 1 15147 10 15146 2
+C 75 percent for next reset
+M 1 15150 5 15146 1
+C 75 percent for next reset
+M 1 15146 10 15147 2
+C 75 percent for next reset
+M 1 15150 5 15147 1
+C 75 percent for next reset
+M 1 15147 10 15148 2
+C 100 percent for next reset
+O 0 15138 0 15148
+M 1 15151 5 15148 1
+C 50 percent for next reset
+E 0 15143 0 16
+M 1 15143 1 15149 1
+C 100 percent for next reset
+M 1 15189 5 15150 2
+C 100 percent for next reset
+M 1 15190 5 15151 2
+C 100 percent for next reset
+M 1 15145 4 15152 1
+C 100 percent for next reset
+E 0 15140 0 16
+C 100 percent for next reset
+E 0 15144 0 7
+C 100 percent for next reset
+E 0 15145 0 5
+C 75 percent for next reset
+E 0 15146 0 3
+C 75 percent for next reset
+E 0 15147 0 4
+C 100 percent for next reset
+M 1 15148 4 15152 1
+C 100 percent for next reset
+M 1 15189 4 15152 1
+C 100 percent for next reset
+G 0 15174 0
+C 100 percent for next reset
+M 1 15190 4 15152 1
+C 100 percent for next reset
+G 0 15174 0
+C 100 percent for next reset
+M 1 15192 2 15153 1
+C 100 percent for next reset
+M 1 15191 2 15153 1
+C 100 percent for next reset
+G 0 15175 0
+C 100 percent for next reset
+O 0 15137 0 15154
+C 100 percent for next reset
+M 1 15192 2 15154 1
+C 100 percent for next reset
+G 0 15175 0
+C 100 percent for next reset
+M 1 15191 2 15154 1
+M 1 15144 1 15155 1
+E 0 15139 0 5
+C 100 percent for next reset
+M 1 15149 1 15155 1
+E 0 15141 0 3
+M 1 15157 10 15156 2
+M 1 15157 10 15157 2
+M 1 15157 10 15158 2
+M 1 15156 10 15159 1
+M 1 15157 10 15159 2
+M 1 15158 10 15159 1
+M 1 15156 10 15160 1
+O 0 15148 0 15161
+M 1 15158 10 15162 1
+M 1 15156 10 15163 1
+M 1 15158 10 15163 1
+M 1 15156 10 15164 1
+M 1 15158 10 15164 1
+M 1 15156 10 15165 1
+M 1 15158 10 15165 1
+M 1 15156 1 15166 1
+M 1 15158 10 15166 1
+M 1 15156 10 15167 1
+M 1 15158 10 15167 1
+C 100 percent for next reset
+O 0 15149 0 15169
+C 100 percent for next reset
+M 1 15153 10 15170 1
+C 100 percent for next reset
+M 1 15155 1 15170 1
+C 100 percent for next reset
+M 1 15152 10 15170 1
+C 100 percent for next reset
+M 1 15154 1 15170 1
+M 1 15159 100 15178 1
+C 100 percent for next reset
+G 0 15159 0
+C 100 percent for next reset
+G 0 15160 0
+C 100 percent for next reset
+G 0 15161 0
+C 100 percent for next reset
+G 0 15162 0
+C 100 percent for next reset
+G 0 15163 0
+C 100 percent for next reset
+M 1 15171 10 15180 1
+C 100 percent for next reset
+G 0 15164 0
+C 100 percent for next reset
+G 0 15165 0
+C 100 percent for next reset
+G 0 15166 0
+M 1 15160 1 15181 1
+C 100 percent for next reset
+M 1 15161 6 15181 4
+M 1 15161 6 15182 5
+M 1 15161 6 15183 5
+M 1 15162 10 15184 1
+C 100 percent for next reset
+G 0 15151 0
+M 1 15163 10 15184 1
+C 100 percent for next reset
+G 0 15152 0
+C 100 percent for next reset
+M 1 15164 10 15184 1
+C 100 percent for next reset
+G 0 15153 0
+C 100 percent for next reset
+M 1 15165 10 15184 1
+C 100 percent for next reset
+G 0 15154 0
+C 100 percent for next reset
+M 1 15166 10 15184 1
+C 100 percent for next reset
+G 0 15155 0
+C 100 percent for next reset
+M 1 15167 10 15184 1
+C 100 percent for next reset
+G 0 15156 0
+C 100 percent for next reset
+M 1 15168 10 15184 1
+C 100 percent for next reset
+G 0 15157 0
+C 100 percent for next reset
+M 1 15169 10 15184 1
+C 100 percent for next reset
+G 0 15158 0
+C 100 percent for next reset
+M 1 15170 10 15185 1
+C 100 percent for next reset
+G 0 15167 0
+C 100 percent for next reset
+M 1 15172 10 15187 5
+C 100 percent for next reset
+M 1 15173 10 15187 2
+C 100 percent for next reset
+M 1 15174 10 15187 3
+C 100 percent for next reset
+M 1 15172 10 15188 5
+C 100 percent for next reset
+M 1 15173 10 15188 2
+C 100 percent for next reset
+M 1 15174 10 15188 3
+C 100 percent for next reset
+M 1 15188 10 15189 1
+M 1 15188 1 15189 4
+C 100 percent for next reset
+M 1 15186 3 15190 2
+C 100 percent for next reset
+M 1 15187 3 15190 2
+C 100 percent for next reset
+M 1 15188 3 15190 1
+C 100 percent for next reset
+M 1 15175 10 15191 1
+C 100 percent for next reset
+G 0 15168 0
+C 100 percent for next reset
+M 1 15176 10 15191 2
+C 100 percent for next reset
+M 1 15177 10 15191 2
+C 100 percent for next reset
+M 1 15178 10 15191 4
+C 100 percent for next reset
+M 1 15179 10 15191 1
+C 100 percent for next reset
+E 0 15169 0 17
+C 100 percent for next reset
+M 1 15180 1 15193 1
+C 100 percent for next reset
+G 0 15170 0
+C 100 percent for next reset
+G 0 15171 0
+C 100 percent for next reset
+G 0 15172 0
+C 100 percent for next reset
+M 1 15188 2 15194 2
+M 1 15182 1 15194 4
+M 1 15183 1 15194 4
+M 1 15184 1 15194 4
+M 1 15185 1 15194 4
+C 100 percent for next reset
+M 1 15188 2 15195 2
+M 1 15182 1 15195 4
+M 1 15183 1 15195 4
+M 1 15184 1 15195 4
+M 1 15185 1 15195 4
+M 1 15182 1 15196 4
+M 1 15183 1 15196 4
+M 1 15184 1 15196 4
+M 1 15188 1 15196 4
+C 100 percent for next reset
+M 1 15181 1 15197 1
+M 1 15149 100 15199 1
+S
+
+
+
+#SHOPS
+15159 0 9 5 0 0 100 90 8 20
+15160 0 17 0 0 100 0 100 0 23
+15171 0 19 17 0 0 100 100 0 24
+15175 0 33 0 0 0 110 90 10 20
+0
+
+
+
+#$

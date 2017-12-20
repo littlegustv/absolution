@@ -1,0 +1,1466 @@
+#AREADATA
+Name Kirr'Takt~
+Builders Aql~
+VNUMs 19500 19599
+Credits { None} Rosalie     Kirr'Takt~
+Security 1
+Xcontinent 1
+Age 12
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#19500
+tetragon hassan~
+Tetragon~
+Tetragon is here, ready to slay all who dare try. 
+~
+Tetragon is a rather large dragon.  He protects those who need it, and slays 
+those who are criminals.  Do not under estimate him.  He is quick, smart,  
+and hard to scare. 
+~
+red dragon~
+ABTV DFJTVZ 1000 0
+45 30 1d1+3999 1d1+499 5d4+40 none
+-25 -25 -25 -15
+ACDEFHIKLNOT ABKPa BCDEHI IJP
+stand stand male 0
+ABHMVZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+M grall 19515 100~
+#19501
+dante spider~
+Dante the spider~
+A large spider is Rosalie's loyal companion.
+~
+~
+song bird~
+AB T 0 0
+50 5 50d10+4500 1d1+100 5d8+19 none
+-20 -20 -20 -20
+FH 0 0 0
+stand stand none 0
+AGW ACDEFHKP medium 0 the guilds~
+#19502
+kirre hermit white Prretz~
+The kirre hermit~
+A scruffy-looking kirre with white fur is here.
+~
+A scruffy catlike creature with dirty white fur squats down next to you,
+regarding you with clear blue eyes.  He's wearing a worn leather vest and
+loose pants, and an odd assortment of trinkets are displayed on a cord
+around his neck.  Among them you see a bottle cap, a key, a gold coin, and a
+leather pouch.  He carries himself with a aura that is somehow both wise and
+ignorant, and seems perfectly at home in the ruins of this city.  
+~
+kirre~
+A JP 0 0
+25 2 5d10+550 1d1+100 2d10+7 none
+-7 -7 -7 -7
+0 0 J I
+stand stand male 0
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+M speech 19504 ziggurat~
+M speech 19503 help~
+M random 19501 7~
+M speech 19502 name~
+#19503
+growler~
+an angry growler~
+An angry growler is snuffling around for food.
+~
+This strange beast is covered with thin, velvety dark fur.  It lumbers
+along on four legs, but rises up to two legs to defend itself with its
+forefeet.  Its huge claws and sharp teeth could cause some serious flesh
+wounds, and the rippling muscles under the fur lead you to believe the
+stories you've heard about them uprooting whole trees.  
+~
+bear~
+AW 0 0 0
+10 1 2d7+121 1d1+100 2d4+2 chomp
+1 1 1 1
+DEO 0 EI 0
+stand stand either 0
+AGHMV ABCDEFGHIJKUV medium fur the guilds~
+#19504
+sand slug~
+a sand slug~
+A huge sand slug is here digging itself a hole.
+~
+This creature looks like a really fat worm covered in sand.  It sits
+about waist-high, to a human.  As you look at it, it sees you and begins
+squirming your way...  which really looks disgusting...  Maybe you should
+just kill it for being revolting...  
+~
+snake~
+A 0 0 0
+9 0 2d6+110 1d1+100 1d8+2 splatter
+2 2 2 2
+0 0 KL IR
+stand stand none 0
+AGXYc ADEFKLQVX medium jelly the guilds~
+#19505
+infected man~
+an infected man~
+({rInfected{x) An infected man stands here.
+~
+This ordinary man has had his body taken over by a virulent infection.
+~
+undead~
+A CXZ -800 0
+10 0 2d7+121 1d1+99 2d4+2 claw
+1 1 1 8
+CF BLQ IJ HNS
+stand stand male 25
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 19502 5~
+M random 19501 5~
+M random 19500 5~
+#19506
+infected woman~
+an infected woman~
+({rInfected{x) An infected woman stands here.
+~
+This ordinary woman has had her body taken over by a virulent infection.
+~
+undead~
+A CXZ -800 0
+10 0 2d7+121 1d1+99 2d4+2 claw
+1 1 1 8
+CF BLQ IJ HNS
+stand stand female 25
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 19500 5~
+M random 19501 5~
+M random 19502 5~
+#19507
+infected child~
+an infected child~
+({rInfected{x) An infected child stands here.
+~
+This ordinary child has had his body taken over by a virulent infection.
+~
+undead~
+A CXZ -800 0
+10 0 2d7+121 1d1+99 2d4+2 none
+1 1 1 8
+CF BLQ IJ HNS
+stand stand male 25
+AHMV ABCDEFGHIJK small 0 the guilds~
+M random 19502 5~
+M random 19501 5~
+M random 19500 5~
+#19508
+infected dog~
+an infected dog~
+({rInfected{x) An infected dog growls here.
+~
+This ordinary dog has had his body taken over by a virulent infection.
+~
+undead~
+A CXZ -800 0
+10 0 2d7+121 1d1+99 2d4+2 bite
+1 1 1 8
+CF BLQ IJ HNS
+stand stand none 25
+AHMV ABCDEFGHIJK small 0 the guilds~
+#19509
+healthy man~
+a healthy man~
+A hale, healthy man stands before you.
+~
+This man seems to have nothing wrong with him, besides a slight cough.
+~
+human~
+AH X 200 0
+10 0 2d7+121 1d1+99 2d4+2 punch
+1 1 1 8
+F AB 0 0
+stand stand male 25
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19510
+healthy woman~
+a healthy woman~
+A strong, cheerful woman stands before you.
+~
+This woman seems to have nothing wrong with her, besides a sore throat.
+~
+human~
+AH X 200 0
+10 0 2d7+121 1d1+99 2d4+2 punch
+1 1 1 8
+F AB 0 0
+stand stand female 25
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19511
+healthy child~
+a healthy child~
+A happy, playful child stands before you.
+~
+This child seems to have nothing wrong with him, besides a mild chill.
+~
+human~
+AH X 200 0
+10 0 2d7+121 1d1+99 2d4+2 punch
+1 1 1 8
+F AB 0 0
+stand stand male 25
+AHMV ABCDEFGHIJK small 0 the guilds~
+#19512
+healthy dog~
+a healthy dog~
+An eager-to-please, friendly dog stands before you.
+~
+This dog seems to have nothing wrong with it, besides a lame paw.
+~
+human~
+AH X 200 0
+10 0 2d7+121 1d1+99 2d4+2 bite
+1 1 1 8
+F AB 0 0
+stand stand none 25
+AHMV ABCDEFGHIJK small 0 the guilds~
+#19515
+guard ghost dragon~
+a guard~
+The ghost of a dragon guard walks the passageways.
+~
+The ghost of the guard will continue to walk the halls for all eternity
+protecting the kingdom.  He is clearly tired and worn but still prepared to
+fight for his king.  
+~
+black dragon~
+AGO JTUZ 200 0
+51 -2 50d10+5000 1d1+100 5d8+15 none
+-21 -21 -21 -12
+C 0 BEKL IKL
+stand stand male 3000
+ABGHMXZc ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#19550
+sengir bat~
+a bat~
+A bat is here, flying past your head.
+~
+~
+bat~
+AGHIU TZ -200 0
+0 0 1d6+4 1d1+99 1d4+0 none
+10 10 10 10
+FHR 0 0 CDS
+stand stand either 10
+ABGV ACDEFHJKPQV small 0 the guilds~
+#19551
+healer donna~
+Donna~
+Donna has returned and is waiting to heal you.
+~
+Although retired from adventuring, the healer still lends a hand.  
+Type 'heal' to see a listing of spells.  
+~
+human~
+ABQVZa DZ 1000 0
+53 5 50d10+6000 1d1+100 6d7+21 none
+-23 -23 -23 -23
+FHIK ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19552
+bard~
+the bard~
+A sullen bard is here, drinking away his problems.
+~
+You can smell the alcohol on his breath from across the room.  This poor bard
+has been sitting here quite a while, drinking himself into oblivion.
+~
+human~
+ABST D 600 0
+8 3 1d12+110 1d1+99 2d6+0 none
+3 5 3 6
+FIJKNQ 0 0 0
+sit sit male 260
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#19500
+aql wishblade blade~
+{DWi{xsh{cbl{Wade{x~
+One of Aql's legendary {DWi{xsh{cbl{Wade{xs lies here shimmering.~
+porcelain~
+weapon HPU AN
+exotic 5 5 divine AD
+35 60 0 P
+A
+17 -20  
+A
+5 1  
+A
+3 1  
+A
+4 1  
+A
+2 1  
+A
+1 1  
+A
+18 5  
+A
+19 5  
+#19501
+oath loyalty (elisa)~
+{BO{ba{rt{Rh {rof {RL{ro{by{Ba{bl{rt{Ry{x~
+A band of adamantite set with a dark blue sapphire hums with promised loyalty.~
+adamantite~
+armor BTY AC
+15 15 15 15 0
+50 10 50000 P
+A
+18 3  
+A
+19 3  
+A
+12 40  
+A
+13 40  
+#19502
+shield aql fury~
+a {Wgleaming{x shield of {rf{Ru{rr{Ry{x~
+an expensive shield is on the floor.~
+mithril~
+armor ITYe AJR
+40 40 40 40 0
+60 99 99 'haste' 0
+50 50 10000 P
+A
+18 50  
+A
+19 50  
+#19503
+firebrand~
+{RFire{rBrand{x~
+A god's weapon lies here.~
+mithril~
+weapon 0 ANR
+sword 6 12 flbite ADQT
+60 99 99 'backstab' 0
+54 1 0 P
+#19504
+frostbrand~
+{BFrost{CBrand{x~
+A god's weapon lies here.~
+mithril~
+weapon 0 ANR
+sword 6 12 frbite BDRT
+10 99 99 'prismatic sphere' 0
+54 1 0 P
+#19505
+selina glowing armour armor~
+{WSelina's {YGlowing {WArmour{x~
+The silvery armour worn by Selina during the last Dragonwar rests here, gleaming.~
+platinum~
+armor ABGTYe ADPZ
+10 10 10 5 0
+51 100 100000 P
+A
+19 3  
+A
+20 -2  
+A
+13 35  
+A
+12 35  
+#19506
+skybrand brand~
+{WSky{YBrand{x~
+A god's weapon lies here.~
+mithril~
+weapon 0 AN
+sword 6 12 shbite DGST
+54 1 0 P
+#19507
+unused vnum~
+{mPu{Wre Val{mor{x~
+A taste of pure valor is here, humming with energy.~
+darkmatter~
+pill B AO
+51 'sanctuary' 'haste' 'frenzy' 'reserved'
+1 1 250 P
+#19508
+oath vengeance band adamantite ruby~
+Oath of Vengeance~
+Sad~
+adamantite~
+armor B ACY
+8 8 8 8 0
+48 20 8000 P
+A
+12 30  
+A
+13 30  
+A
+18 2  
+A
+19 2  
+E
+oath vengeance band adamantite ruby~
+An inscription encircles the outside of the band:  "Ir'vekire zai'Zdreni"
+
+Engraved along the inside of the band, you notice the words:
+
+               "sh'keva Zdreni zeraika shai !"
+
+        ("vengeance for the blood of zdreni is ours !")
+
+The ruby is carved with the form of a stooping hawk over two crossed daggers.
+~
+#19509
+pill death suicide~
+Avacar's Suicide Pills~
+A small pill is here, glowing with death.~
+glass~
+pill AG AO
+54 'stance: tiger' 'darkness' 'rain of tears' 'reserved'
+55 40 0 P
+#19510
+blessing~
+the blessing of the {RG{ro{Rd {ro{Rf {rW{Ra{rr{x~
+Nap~
+parchment~
+scroll U AO
+60 'primal rage' 'enlargement' 'robustness' 'fortify'
+30 10 3800 R
+#19511
+medium~
+medium rare fun~
+Nap~
+parchment~
+scroll U AO
+60 'chain lightning' 'chain lightning' 'chain lightning' 'chain lightning'
+30 10 3800 R
+#19512
+dirty~
+dirty fun~
+Nap~
+parchment~
+scroll U AO
+60 'change sex' 'reserved' 'reserved' 'reserved'
+30 10 3800 R
+#19513
+payment~
+Mack's payment~
+Nap~
+parchment~
+scroll U AO
+60 'rainbow burst' 'rainbow burst' 'rainbow burst' 'rainbow burst'
+30 10 3800 P
+#19514
+quiver medusa arrow~
+a quiver of medusa arrows~
+A quiver of arrows with stone heads is here.~
+wood~
+ammunition A AOZ
+6 4 pierce 45 'granite stare'
+35 500 10000 P
+A
+18 5  
+#19515
+axe desolation~
+the axe of desolation~
+Blood drips from the edge of an axe here.~
+stone~
+weapon B AN
+axe 0 8 slime 0
+48 50 5000 P
+A
+18 4  
+A
+3 -3  
+A
+4 -2  
+A
+19 3  
+#19516
+barrel beer~
+a barrel of beer~
+A beer barrel has been left here.~
+wood~
+drink 0 A
+300 300 'anti-matter' 0 0
+0 160 75 P
+#19517
+burning log~
+a burning log~
+A log smokes and crackles with heat on the ground here.~
+wood~
+weapon AP AN
+exotic 2 7 flame A
+14 4 0 P
+#19518
+highly sophistimacated lighting gadget~
+A {bhighly {Wsophistimacated {ylighting {bgadget{x!~
+This looks like the ultimate piece of gear, with pieces hanging off in every direction!~
+wood~
+light ABYe AORZ
+0 0 999 0 0
+0 0 0 'reserved' 0
+54 0 0 P
+A
+29 30  
+A
+28 30  
+A
+31 30  
+A
+32 30  
+A
+30 30  
+A
+5 30  
+A
+4 30  
+A
+3 30  
+A
+1 30  
+A
+2 30  
+A
+13 20000  
+A
+12 20000  
+A
+14 20000  
+A
+20 -100  
+A
+18 100  
+A
+19 100  
+A
+27 100  
+#19520
+halloween loot bag~
+a {DH{ya{Dl{yl{Do{yw{De{ye{Dn{x loot bag~
+A {DH{ya{Dl{yl{Do{yw{De{ye{Dn{x loot bag lies here, overflowing with goodies.~
+paper~
+container T A
+100 AC 0 10 100
+0 10 0 G
+#19521
+secret key~
+the secret key~
+A secret key.~
+wood~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#19522
+abyss seam portal gate~
+a {Dblack seam{x leading into the Abyss~
+A {Dblack seam{x is here, leading into the Abyss.~
+wood~
+portal EO 0
+0 3 1 6468 0
+0 6000 0 P
+#19550
+acdc band~
+{yAC{D/{yDC{x~
+{yAC{D/{yDC{x is on stage here, jamming away.~
+glass~
+jukebox 0 0
+0 0 0 0 0
+0 0 0 P
+#19551
+statue perditio~
+a statue of Perditio~
+A statue in honor of the mighty Perditio stands here.~
+granite~
+furniture 0 0
+0 0 0 0 0
+0 100000 2000 P
+#19552
+fountain champagne magical~
+a magical fountain of champagne~
+A magical fountain appears out of nowhere, offering everyone its {Wchampagne{x.~
+wood~
+fountain 0 0
+999 0 'champagne' 0 0
+0 0 0 P
+#19553
+fountain beer magical~
+a magical fountain of beer~
+A magical fountain appears out of nowhere, offering everyone its {ybeer{x.~
+wood~
+fountain 0 0
+999 0 'beer' 0 0
+0 0 0 P
+#19554
+fountain wine magical~
+a magical fountain of wine~
+A magical fountain appears out of nowhere, offering everyone its {rwine{x.~
+wood~
+fountain 0 0
+999 0 'red wine' 0 0
+0 0 0 P
+#19555
+birthday banner perditio~
+a birthday banner~
+A banner reading {D"{RHAPPY BIRTHDAY PERDITIO{D"{x flies here proudly.~
+granite~
+furniture 0 0
+0 0 0 0 0
+0 100000 2000 P
+#19556
+massive birthday cake~
+a massive birthday cake~
+A massive birthday cake with {D"{mPerditio{D"{x written on it in frosting stands here. Grab a slice of cake!~
+felt~
+container Y 0
+300 A 0 10 75
+15 20 0 P
+A
+1 2  
+A
+13 20  
+#19557
+perditio birthday cake~
+a piece of {DPerditio's{x birthday cake~
+A slice of {DPerditio's{x birthday cake lies here looking scrumptious!~
+food~
+pill T A
+60 'heal' 'sanctuary' 'haste' 'frenzy'
+1 3 0 P
+#19559
+tear~
+a {ct{Ce{xa{Wr~
+{xA single {ct{Ce{xa{Wr lies on the ground here.~
+water~
+treasure 0 A
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#19500
+Rosalie's Cave of Wonders~
+You are in a cave worn into the mountainside by centuries of erosion from
+underground water.  The cave seems to nearly glow, and closer inspection
+reveals that the walls are studded with large jewels, of all different
+colours.  Light from somewhere above filters through them, giving the room a
+stained-glass effect.  The sound of dripping echoes from somewhere deeper in
+the cave.  All around you are half-unpacked boxes, and odd things like a
+huge double-headed battle axe, an inflatable giraffe, and an amoeba cat. 
+This could only be the dwelling space of Rosalie Trueheart.  
+~
+0 4 0
+S
+#19501
+The {WTop{x of the {WIvory{x Tower~
+This is the highest point on a tower that seems to be infinitely high.
+Mindblowing, isn't it? The room is made of pure ivory, as is the rest
+of the tower, but this room is disturbingly clean, compared to what
+you've seen of the rest of the tower. It's difficult to believe that
+you've stumbled into the lair of the {RG{ro{Rd {ro{Rf {rW{Ra{rr{x...
+~
+0 8220 3
+D0
+~
+~
+0 0 19501
+D3
+~
+~
+4 19521 19550
+S
+#19502
+The Town Commons~
+This desolate fenced-in area was once the town commons, but any last hint of green grass and
+freshly painted fences has been erased by the ravages of the plague. The open air is a welcome
+change after the claustrophobic streets, but the air isn't much clearer here. The remnants of a
+huge fire burn low here on the charred remains of those plague victims fortunate enough to
+escape the living death of the disease. Truly a tragedy.
+~
+0 28 0
+S
+#19503
+Descending~
+The slope takes a rather alarming angle at this point, almost making
+travellers upon it slide down whether they want to or not.  It's just solid
+enough, and has enough rocky bumps and ridges, to be able to navigate safely
+down at a slow enough pace.  The chittering of insects is, as always,
+omnipresent, though there's the faint sound of something rumbling far down
+below.  Not a particularly good sign.  
+~
+0 9 0
+D2
+~
+~
+0 0 19506
+S
+#19504
+No-Man's Land~
+~
+0 24 0
+D0
+~
+~
+0 0 19505
+D1
+~
+~
+0 0 19507
+S
+#19505
+The {BBlue{x West Flank~
+~
+0 24 0
+D1
+~
+~
+0 0 19506
+D2
+~
+~
+0 0 19504
+S
+#19506
+The {BBlue{x Front Line~
+~
+0 24 0
+D0
+~
+~
+0 0 19503
+D1
+~
+~
+0 0 19513
+D2
+~
+~
+0 0 19507
+D3
+~
+~
+0 0 19505
+S
+#19507
+No-Man's Land~
+~
+0 24 0
+D0
+~
+~
+0 0 19506
+D1
+~
+~
+0 0 19508
+D3
+~
+~
+0 0 19504
+S
+#19508
+No-Man's Land~
+~
+0 24 0
+D0
+~
+~
+0 0 19513
+D3
+~
+~
+0 0 19507
+S
+#19509
+No-Man's Land~
+~
+0 24 0
+D1
+~
+~
+0 0 19510
+D2
+~
+~
+0 0 19531
+D3
+~
+~
+0 0 19512
+S
+#19510
+No-Man's Land~
+~
+0 24 0
+D2
+~
+~
+0 0 19532
+D3
+~
+~
+0 0 19509
+S
+#19511
+The {RRed{x West Flank~
+~
+0 24 0
+D0
+~
+~
+0 0 19512
+D1
+~
+~
+0 0 19531
+S
+#19512
+No-Man's Land~
+You are standing on uneven paving stones, in a plaza of a ruined city. 
+Standing here, you feel naked and alone, bared to the elements.  Anyone
+could be watching you from any of the ruined buildings around the plaza;
+there's nothing to hide you from view of the gaping dark windows.  The weeds
+growing between the stones brush your ankles, and over everything falls the
+shadow of the ziggurat.  A low, broad building lies to the east.  
+~
+0 24 0
+D1
+~
+~
+0 0 19509
+D2
+~
+~
+0 0 19511
+S
+#19513
+The {BBlue{x East Flank~
+~
+0 24 0
+D2
+~
+~
+0 0 19508
+D3
+~
+~
+0 0 19506
+S
+#19514
+The {RRed{x Spawn~
+~
+0 24 0
+D0
+~
+~
+0 0 19531
+S
+#19515
+The Calm Before the {gSt{cor{bm{x~
+~
+0 1052 0
+S
+#19516
+A Meeting Hall~
+This appears as if it had been some sort of gathering place.  A
+brick-lined fire-pit in the center of the room holds ashes that are not as
+old as the ruins seem to be.  The room is bereft of furniture, and part of
+the ceiling has caved in on the far side of the room.  
+~
+0 4 0
+S
+#19517
+Trading Hall~
+This room was once lined with shelves and pegs to display merchandise. 
+Most of them have been destroyed, either from years of disuse or the looting
+of thieves.  A smashed barrel sits in the corner; the liquid it once
+contained has left a dark stain on the floor around it.  There is a doorway
+leading to a dark room behind the counter to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 19518
+S
+#19518
+Back Room of a Trading Hall~
+This room is full of row after row of tall shelves.  Huge roaches scuttle
+away from you to the corners of the room, and empty sacks and crates are
+strewn across the floor.  Anything of value from this place has long since
+been taken.  
+~
+0 9 0
+D2
+~
+~
+0 0 19517
+S
+#19519
+Healer's House~
+You step over the threshold into a small room.  Small bundles of dried
+herbs still hang from the ceiling, and a wooden chair and table remain
+intact against the wall.  A ladder leads up.  Over the doorway leading
+north, some words are carved: "Wele rhe be thae passe t'shoulde."  The
+language is old, perhaps forgotten, but somehow the meaning seems to hover
+at the very edge of understanding...  
+~
+0 8 0
+E
+t'shoulde~
+Well will he be that passes the threshold.
+~
+E
+wele~
+Well will he be that passes the threshold.
+~
+D0
+~
+~
+0 0 19520
+D4
+~
+~
+1 0 19521
+S
+#19520
+Healer's House~
+You have stepped into a small room empty except for a large pool in the
+middle.  The surface of the water ripples slightly as bubbles break the
+surface, and steam forms puffy clouds in the air.  There is an earthy,
+slightly perfumed smell to the air, as if there might be something besides
+water in the pool.  
+~
+0 8 0
+D2
+~
+~
+0 0 19519
+S
+#19521
+A Rooftop Garden~
+You step up through a trapdoor in the floor.  Stretching out across the
+roof is an overgrown tangle of plants.  Once, perhaps, they might have been
+arranged in orderly rows, but now the different varieties have become
+intermingled.  Gaps in the growth prove to be flat stepping stones, forming
+a path through the garden.  
+~
+0 0 2
+D0
+~
+~
+0 0 19522
+D5
+~
+~
+1 0 19519
+S
+#19522
+A Rooftop Garden~
+Stretching out across the roof is an overgrown tangle of plants.  Once,
+perhaps, they might have been arranged in orderly rows, but now the
+different varieties have become intermingled.  Gaps in the growth prove to
+be flat stepping stones, forming a path through the garden.  
+~
+0 0 2
+D2
+~
+~
+0 0 19521
+S
+#19523
+Training Hall~
+You are standing in a large room which smells musty and damp.  In each
+wall are hooks which must've held something important, but now they're just
+rusty.  As you look closer, you can see faded murals painted on the walls
+between each set of hooks, depicting catlike people wielding various types
+of weapons.  The wall to the south shows moves using a long bullwhip.  The
+room continues east and north.  
+~
+0 8 0
+D0
+~
+~
+0 0 19524
+D1
+~
+~
+0 0 19526
+S
+#19524
+Training Hall~
+You are standing in a large room which smells musty and damp.  In each
+wall are hooks which must've held something important, but now they're just
+rusty.  As you look closer, you can see faded murals painted on the walls
+between each set of hooks, depicting catlike people wielding various types
+of weapons.  The wall to the west shows a series of movements for hand to
+hand combat, and the wall to the north has defensive positions.  The room
+continues east and south.  
+~
+0 8 0
+D1
+~
+~
+0 0 19525
+D2
+~
+~
+0 0 19523
+S
+#19525
+Training Hall~
+You are standing in a large room which smells musty and damp.  In each
+wall are hooks which must've held something important, but now they're just
+rusty.  As you look closer, you can see faded murals painted on the walls
+between each set of hooks, depicting catlike people wielding various types
+of weapons.  The wall to the north shows a series of tail attack moves. 
+There is a faded inscription over the doorway to the east which reads, "Tay
+nan be bleyd rhe borne, tay be skylle rhe kenne."  The room continues to the
+west and south.  
+~
+0 8 0
+E
+kenne~
+It's not the blade you bear,
+it's the skill you know.
+~
+D1
+~
+~
+0 0 19527
+D2
+~
+~
+0 0 19526
+D3
+~
+~
+0 0 19524
+S
+#19526
+Training Hall~
+You are standing in a large room which smells musty and damp.  In each
+wall are hooks which must've held something important, but now they're just
+rusty.  As you look closer, you can see faded murals painted on the walls
+between each set of hooks, depicting catlike people wielding various types
+of weapons.  The wall to the south shows a series of evasions and dodges, and
+the wall to the east has spear-fighting techniques.  The room continues west
+and north.  
+~
+0 8 0
+D0
+~
+~
+0 0 19525
+D3
+~
+~
+0 0 19523
+S
+#19527
+Old Arena~
+You've stepped into a large oval with a crumbling, chinked stone wall
+surrounding it.  The ground under your feet is sandy but firm.  The air
+smells of dampness and the surrounding jungle, but underneath it is a
+lingering smell, dark and disturbing: the smell of old blood.  The raised
+seating on the far side, outside the wall, hints at an audience for this
+practice arena that has long since passed on.  The arena continues on to the
+south.  
+~
+0 0 2
+D2
+~
+~
+0 0 19528
+D3
+~
+~
+0 0 19525
+S
+#19528
+Old Arena~
+You've stepped into a large oval with a crumbling, chinked stone wall
+surrounding it.  The ground under your feet is sandy but firm.  The air
+smells of dampness and the surrounding jungle, but underneath it is a
+lingering smell, dark and disturbing: the smell of old blood.  The raised
+seating on the far side, outside the wall, hints at an audience for this
+practice arena that has long since passed on.  The arena continues on to the
+north.  
+~
+0 0 2
+D0
+~
+~
+0 0 19527
+S
+#19529
+Mead Hall~
+The thatch roof on this building has decayed into nothing; the sky is
+visible through empty rafters.  Carved stone figures of catlike beings guard
+the entrance, slowly crumbling back to the earth.  They are poised on the
+verge of dancing, raising goblets high in celebration.  The remains of
+benches are broken and scattered through the room, and you can see a
+blackened ring to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 19530
+S
+#19530
+Mead Hall~
+A ring of stones sunk into the earth floor contain the blackened stain of
+a fire-pit.  A few bones are scattered across the ground, remnants of feasts
+long past.  On the far wall a painted phrase is fading with time: Rhe
+Eldrekun o Guntion.  There is a list of names below it; old-fashioned names,
+none that you recognize.  
+~
+0 8 0
+E
+phrase~
+~
+E
+phrase~
+The Brave Elders
+(Elders of Gumption)
+~
+E
+eldrekun~
+The Brave Elders
+~
+E
+guntion~
+The Brave Elders
+~
+E
+names~
+~
+D0
+~
+~
+0 0 19529
+S
+#19531
+The {RRed{x Front Line~
+~
+0 24 0
+E
+phrase~
+These three aid you, when you hunt:
+With fire you fight, with shackle you hold,
+And with alarm you know who passes.
+~
+E
+tay~
+These three aid you, when you hunt:
+With fire you fight, with shackle you hold,
+And with alarm you know who passes.
+~
+D0
+~
+~
+0 0 19509
+D1
+~
+~
+0 0 19532
+D2
+~
+~
+0 0 19514
+D3
+~
+~
+0 0 19511
+S
+#19532
+The {RRed{x East Flank~
+~
+0 24 0
+E
+phrase~
+Four aid your skill with a blade:
+Blade to hone the edge, burst to blast your foe,
+With balance you strengthen the base,
+And with soul bind blade to thee.
+~
+E
+qattre~
+Four aid your skill with a blade:
+Blade to hone the edge, burst to blast your foe,
+With balance you strengthen the base,
+And with soul bind blade to thee.
+~
+D0
+~
+~
+0 0 19510
+D2
+~
+~
+0 0 19532
+D3
+~
+~
+0 0 19531
+S
+#19533
+Decisions~
+Your heart pounds as you race through the arena.  Are those footsteps you
+hear behind you?  The smell of fresh blood and sweat is thick in the air. 
+You wonder if you will escape this madness.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 19534
+D1
+~
+~
+0 0 19535
+S
+#19534
+Decisions~
+Your heart pounds as you race through the arena.  Are those footsteps you
+hear behind you?  The smell of fresh blood and sweat is thick in the air. 
+You wonder if you will escape this madness.  
+~
+0 268443672 0
+D1
+~
+~
+0 0 19536
+D2
+~
+~
+0 0 19533
+S
+#19535
+Decisions~
+Your heart pounds as you race through the arena.  Are those footsteps you
+hear behind you?  The smell of fresh blood and sweat is thick in the air. 
+You wonder if you will escape this madness.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 19536
+D3
+~
+~
+0 0 19533
+S
+#19536
+Decisions~
+Your heart pounds as you race through the arena.  Are those footsteps you
+hear behind you?  The smell of fresh blood and sweat is thick in the air. 
+You wonder if you will escape this madness.  
+~
+0 268443672 12
+D2
+~
+~
+0 0 19535
+D3
+~
+~
+0 0 19534
+S
+#19550
+{DThe {Cp{Wa{xR{yt{YY {rP{ca{CV{WI{cl{yI{mo{Mn{x~
+Here's where its all happening. The pavilion tent must be fifty feet tall, with a hole
+in the roof through which you can see blue skies. There is an enormous statue here,
+but your attention is drawn to the massive cake. It towers above giant and dragon alike,
+and looks delicious!
+~
+0 805314576 0
+D0
+~
+~
+0 0 19551
+D1
+~
+~
+4 0 19552
+D2
+~
+~
+0 0 19554
+D3
+~
+~
+0 0 19553
+D4
+~
+~
+0 0 19556
+D5
+~
+~
+0 0 19555
+S
+#19551
+{DThe Entrance to the {Cp{Wa{xR{yt{YY {rP{ca{CV{WI{cl{yI{mo{Mn{x~
+This room is humming with chatter, as the various partygoers mill around, talking happily
+and sipping from drinks. From the south you can smell the delicious scent of fresh-baked
+cake...maybe you should go check it out! Don't forget to pay your respects to the honored
+Perditio!
+~
+0 805314576 0
+D2
+~
+~
+0 0 19550
+S
+#19552
+{DThe {Cp{Wa{xR{yt{YY {rP{ca{CV{WI{cl{yI{mo{Mn{D Dance Floor{x~
+This is the pinnacle of immortal achievement! They have combined their powers to summon
+AC/DC themselves from the Abyss, and being in Hell doesn't seem to have dampened their
+energy at all! Their driving rock and pounding bass lines make you thankful that you
+soundproofed your gear before entering!
+~
+0 805314576 0
+D3
+~
+~
+0 0 19550
+S
+#19553
+{DAn Open Bar{x~
+This looks fun! Instead of a bartender, the thoughtful immortals have ripped several gaps
+in space-time, direct portals to the elemental planes of alcohol! You can just walk
+over to the never-ending fountains of beer, champagne and wine, and drink to your heart's
+content!
+~
+0 805314576 0
+D1
+~
+~
+0 0 19550
+S
+#19554
+{DThe {Cp{Wa{xR{yt{YY {gGrove{x~
+The trees of this grove whisper to each other about the great event, as druids and other
+nature lovers congregate in their cool shade to quietly celebrate in a more demure manner.
+You hear the party calling from the north, but it's nice to take a minute and relax here.
+~
+0 805314576 3
+D0
+~
+~
+0 0 19550
+S
+#19555
+{DThe {bSw{Bim{cm{Cin{cg {BPo{bol{x~
+Hot gargoyle babes and hunky giants are draped around the edge of this steaming
+swimming pool. THIS is what a real party is all about! Forget about those drunken
+losers or the music freaks or those stodgy old scholars in the grove, this is where
+the party is it...although you're getting a bit worried about drowning in all this
+water.
+~
+0 805314576 0
+D4
+~
+~
+0 0 19550
+S
+#19556
+{DAbove the {Cp{Wa{xR{yt{YY {rP{ca{CV{WI{cl{yI{mo{Mn{x~
+You are floating up above the pavilion. Here, the flying races of Redemption and
+those with enough magic to simulate that feat can mingle to honor the birthday
+of the wise and honored immortal, Perditio.
+~
+0 805314576 3
+D5
+~
+~
+0 0 19550
+S
+#0
+
+
+
+#SPECIALS
+M 19505 spec_poison Load to: an infected man
+M 19506 spec_poison Load to: an infected woman
+M 19507 spec_poison Load to: an infected child
+M 19508 spec_poison Load to: an infected dog
+S
+
+
+
+#MOBPROGS
+#19515
+say hi
+ 
+say it worked!
+~
+N
+#19500
+say Mrrrh?
+~
+N
+#19501
+say Graaarhgh!
+~
+N
+#19502
+say Ggrrmah...
+~
+N
+#19503
+emote smiles broadly.
+say Well, if it's sustenance you need, I have a bit I could sell you.
+sa Or if you have questions about this place, just ask and I'll tell you, if I know.
+~
+A
+#19504
+sa Ahh yes, that lies to the north.
+sa Outside it's fallen into disrepair, but inside they say nothing's changed for a thousand years.
+sa There's apparently a great treasure at the top, but only the bravest and most cunning can even get to it.
+ 
+~
+A
+#0
+
+#RESETS
+D 0 19501 3 2
+D 0 19550 1 2
+M 1 19501 1 19500 1
+O 0 19516 0 19502
+P 0 19517 2 19516 1
+O 0 19507 0 19522
+O 0 19511 0 19524
+M 1 19504 4 19527 1
+M 1 19504 4 19528 1
+O 0 19508 0 19530
+O 0 19556 0 19550
+O 0 19551 0 19550
+O 0 19555 0 19551
+O 0 19550 0 19552
+O 0 19554 0 19553
+O 0 19553 0 19553
+O 0 19552 0 19553
+S
+
+
+
+#SHOPS
+19502 15 1 17 19 0 0 100 0 23
+0
+
+
+
+#$

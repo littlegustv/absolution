@@ -1,0 +1,721 @@
+#AREADATA
+Name Kindred Stronghold~
+Builders Teldin Aql~
+VNUMs 23000 23099
+Credits { All }             Kindred Stronghold~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#23000
+clan goon kindred stronghold~
+the Kindred Goon~
+A clan goon is here, protecting the door to the north.
+~
+This is a large, powerful guardian who protects the Kindred stronghold.
+~
+orc~
+ABCGT J 0 0
+51 5 50d10+5000 1d1+99 5d8+20 slash
+-21 -21 -21 -21
+R ABab Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kindred~
+#23001
+clan goon kindred stronghold~
+the Kindred Goon~
+A clan goon is here, protecting the door to the north.
+~
+~
+orc~
+ABCGT BDHJLNOQTVZ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+ABCDEFHIJKMNOR ABab CDEFGQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kindred~
+#23002
+healer stronghold kindred~
+the local Kindred stronghold healer~
+The stronghold healer is here, selling spells.
+~
+~
+human~
+ABQVa DFJZ 0 0
+50 5 50d10+4500 1d1+100 5d8+19 none
+-20 -20 -20 -20
+0 ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 kindred~
+#23003
+Kindred Shopkeeper~
+the Kindred shopkeeper~
+The Kindred shopkeeper waits to assist you.
+~
+~
+human~
+AB D -1000 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#23004
+kindred usher slasher~
+The usher~
+The Usher of Kindred leads you into the Stronghold.
+~
+~
+human~
+ABCGT DZ 0 0
+60 0 10d10+1400 17d9+100 4d7+11 none
+-10 -10 -10 -10
+FU ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kindred~
+#23005
+clan goon kindred stronghold~
+the Kindred Goon~
+A clan goon is here, protecting the door to the north.
+~
+~
+orc~
+ABCGT BDHJLNOQTVZ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+ABCDEFHIJKMNOR ABab CDEFGQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kindred~
+#23006
+clan goon kindred stronghold~
+the Kindred Goon~
+A clan goon is here, protecting the door to the north.
+~
+~
+orc~
+ABCGT BDHJLNOQTVZ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+ABCDEFHIJKMNOR ABab CDEFGQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kindred~
+#0
+
+
+
+#OBJECTS
+#23000
+kindred outpost key~
+the key to Kindred's stronghold~
+The key of Kindred's stronghold is on the ground.~
+steel~
+key PU AO
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to Amazon of the world of Redemption. 
+~
+#23001
+kindred stronghold key~
+the key to Kindred's stronghold~
+The key to Kindred's stronghold is on the ground.~
+steel~
+key PU AO
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to Amazon of the world of Redemption. 
+~
+#23002
+tetragon sabre~
+Tetragon's Sabre~
+Tetragon's Sabre lies here still humming from the last battle.~
+adamantite~
+weapon ABIPUV AN
+sword 5 7 cleave EF
+42 450 5600 P
+E
+scimitar blade~
+It is quite heavy.  The blade is made of some metal that you can't even 
+spell.  The edge of the blade looks as if it could cut through anything 
+or anyone. 
+~
+#23003
+fountain water~
+a fountain~
+A white marble fountain gushes forth here.~
+stone~
+fountain OR 0
+100000 100000 'lemonade' 0 0
+0 100000 0 P
+E
+fountain~
+It is very nice.  Made from fine white marble. 
+~
+#23004
+white off potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#23005
+elixir anti~
+anti-cyclops elixir~
+An elixir to ward off cyclopi has been bought then left behind here.~
+oldstyle~
+potion 0 AO
+15 'invisibility' '(null)' '(null)' '(null)'
+0 10 250 P
+#23006
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#23007
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#23008
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 4000 P
+#23009
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#23010
+pewter sack~
+a pewter sack~
+A small bag made of metal is gathering dust here.~
+pewter~
+throwing N AO
+3 7 blast 37 'acid blast'
+30 20 3500 P
+#23011
+malevolus evil dart~
+the Malevolus~
+An evil-looking dart sits here.~
+mithril~
+throwing C AO
+7 5 bite 50 'curse'
+45 1 4000 P
+#23012
+raft~
+a raft~
+A raft has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 750 400 A
+E
+raft~
+The raft looks very primitive. 
+~
+#23013
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#23014
+lemonade skin buffalo~
+a buffalo skin of lemonade~
+A bloated dead buffalo is on the floor.~
+leather~
+drink 0 A
+64 64 'lemonade' 0 0
+0 40 50 G
+#23015
+tent~
+a sturdy canvas tent~
+A sturdy canvas tent is here.~
+canvas~
+container S A
+70 A 0 10 100
+1 25 150 P
+#23016
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+12 'identify' '(null)' '(null)' '(null)'
+7 10 890 P
+E
+scroll identify~
+The scroll has a magic formula drawn upon it: 
+	  ??? 
+	 ?   ? 
+		 ? 
+		? 
+		? 
+		* 
+~
+#23017
+vial psychedelic ink~
+a vial of psychedelic ink~
+A vial of multicolored ink.~
+cream~
+potion 0 AO
+5 'invisibility' 'pass door' '(null)' '(null)'
+1 1 500 P
+#23018
+vial black ink~
+a vial of black ink~
+A vial of black writing ink sits here.~
+cream~
+potion 0 AO
+25 'remove curse' 'blur' '(null)' '(null)'
+25 1 3000 P
+#23019
+portal darkness black~
+thick darkness~
+Thick darkness engulfs the room.~
+stone~
+portal EGTY P
+0 0 0 23002 0
+0 10 0 P
+#23020
+portal darkness black~
+thick darkness~
+Thick darkness engulfs the room.~
+stone~
+portal EGTY P
+0 0 0 23005 0
+0 10 0 P
+#23021
+portal darkness black~
+thick darkness~
+Thick darkness engulfs the room.~
+stone~
+portal EGTY P
+0 0 0 23003 0
+0 10 0 P
+#23022
+bola~
+a bola~
+A bola sits here.~
+stone~
+throwing 0 AO
+3 4 whip 20 'slow'
+15 2 1000 P
+#23023
+gingerbread cookie~
+a gingerbread cookie~
+A gingerbread cookie is here, luring you in with an irresistable aroma.~
+food~
+pill GS A
+10 'bark skin' 'pass door' 'reserved' 'reserved'
+10 1 2500 P
+#23024
+white pill~
+a white pill~
+A white pill with the letter 'C' stamped on it.~
+none~
+pill 0 A
+35 'frenzy' 'giant strength' 'reserved' 'reserved'
+35 0 5000 P
+#23025
+flame broiled elfkabob~
+a flame broiled elfkabob~
+A flame broiled elfkabob is here, giving off a juicy, almost intoxicating smell.~
+food~
+pill GS A
+10 'stone skin' 'shield' 'reserved' 'reserved'
+0 1 2500 P
+#23026
+clear pill~
+a clear pill~
+A cute clear pill has the letter 'S' stamped on it.~
+glass~
+pill 0 A
+30 'haste' 'reserved' 'reserved' 'reserved'
+20 0 2500 P
+#23027
+figurine mist~
+mist figurine~
+A misty figurine lays on the ground.~
+oldstyle~
+wand AG AO
+45 3 3 'gate' 0
+40 30 11800 P
+A
+14 75  
+#23028
+figurine winged horse pegasus~
+a figurine of a winged horse~
+You see a small figurine of a winged horse on the ground.~
+oldstyle~
+wand AG AO
+45 25 25 'fly' 0
+20 30 16600 P
+#23029
+potion of fortitude~
+potion of fortitude~
+A potion of fortitude.~
+glass~
+potion 0 A
+35 'giant strength' 'sanctuary' 'reserved' 'reserved'
+40 10 5000 P
+#23030
+potion cure blindness~
+a potion of cure blindness~
+A potion of cure blindness is here.~
+glass~
+potion G AO
+13 'cure blindness' '(null)' '(null)' '(null)'
+0 10 1150 P
+#23031
+soft couch crafted skin dominian creature~
+a soft couch~
+A couch crafted from the skins of Dominian creatures is here, in its place.~
+cloth~
+furniture O P
+100 1000 BEHKN 100 100
+0 100000 0 P
+#23032
+stormbringer bringer dart~
+a stormbringer~
+A storm-painted dart lies here.~
+silver~
+throwing 0 AO
+6 3 sting 28 'hurricane'
+25 1 2000 P
+#23033
+lime potion~
+a lime potion~
+A greenish vial is here.~
+wood~
+potion 0 A
+25 'detect invis' 'detect magic' 'reserved' 'reserved'
+40 10 2000 P
+#23034
+fountain water~
+a fountain~
+A white marble fountain gushes forth here.~
+stone~
+fountain OR 0
+100000 100000 'water' 0 0
+0 100000 0 P
+E
+fountain~
+It is very nice.  Made from fine white marble. 
+~
+#0
+
+
+
+#ROOMS
+#23000
+In a Deep Hole~
+This damp hole runs beneath the walls of Shandalar.  At one time it may have
+served as a hideout for Dragon raiders.  There is still an aura of evil that
+fills the room.  There is a wooden door to the north, a magical entry to the
+east, and light streams down from above.
+~
+0 0 2
+D0
+~
+~
+4 23000 23002
+D1
+~
+~
+0 0 23001
+D4
+~
+~
+0 0 31121
+S
+#23001
+The Kindred Entry~
+This large halls serves only one purpose to transfer you into the stronghold.
+That is probably why no one bothered to decorate it.
+~
+0 407109900 0
+D3
+~
+~
+0 0 23000
+C kindred~
+S
+#23002
+Kindred Stronghold~
+This room is very stark and bare.  The walls, floor, and ceiling are
+painted grey.  A locked door lies to the south, and an exit to the hole
+is to your west.
+~
+0 809762828 0
+D2
+~
+~
+4 23000 23000
+D3
+~
+~
+0 0 23000
+D5
+~
+~
+0 0 31000
+C kindred~
+S
+#23003
+The Room of Lost Souls~
+~
+0 809762828 0
+E
+sign~
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+*                                         *
+* Up    - Kindred Stronghold              *
+* North - Zoso                            *
+* East  - Sky Fortress                    *
+* West  - Shandalar (Recall)              *
+* South - Shandalar Zoo                   *
+* Down  - Further Into the Souls          *
+*                                         *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+~
+D0
+~
+~
+0 0 23011
+D1
+~
+~
+0 0 23012
+D2
+~
+~
+0 0 23013
+D3
+~
+~
+0 0 23014
+D5
+~
+~
+0 0 23005
+C kindred~
+S
+#23004
+Into the Darkness~
+~
+0 809762828 0
+D1
+~
+~
+0 0 5400
+C kindred~
+S
+#23005
+Further Into the Souls~
+~
+0 809762828 0
+E
+sign~
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+*                                         *
+* Up    - The Room of Lost Souls          *
+* North - Death Bloom                     *
+* East  - Monotheya                       *
+* West  - Gingerbread House               *
+* South - Beach (Docks)                   *
+* Down  - City of Tears                   *
+*                                         *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+~
+D0
+~
+~
+0 0 23006
+D1
+~
+~
+0 0 23007
+D2
+~
+~
+0 0 23008
+D3
+~
+~
+0 0 23009
+D4
+~
+~
+0 0 23003
+D5
+~
+~
+0 0 23010
+C kindred~
+S
+#23006
+Into the Darkness~
+~
+0 809762828 0
+D0
+~
+~
+0 0 6700
+C kindred~
+S
+#23007
+Into the Darkness~
+~
+0 809762828 0
+D1
+~
+~
+0 0 18300
+C kindred~
+S
+#23008
+Into the Darkness~
+~
+0 809762828 0
+D2
+~
+~
+0 0 1900
+C kindred~
+S
+#23009
+Into the Darkness~
+~
+0 809762828 0
+D3
+~
+~
+0 0 18901
+C kindred~
+S
+#23010
+Into the Darkness~
+~
+0 809762828 0
+D5
+~
+~
+0 0 13501
+C kindred~
+S
+#23011
+Into the Darkness~
+~
+0 809762828 0
+D0
+~
+~
+0 0 700
+C kindred~
+S
+#23012
+Into the Darkness~
+~
+0 809762828 0
+D1
+~
+~
+0 0 5602
+C kindred~
+S
+#23013
+Into the Darkness~
+~
+0 809762828 0
+D2
+~
+~
+0 0 2400
+C kindred~
+S
+#23014
+Into the Darkness~
+~
+0 809762828 0
+D3
+~
+~
+0 0 31000
+C kindred~
+S
+#0
+
+
+
+#SPECIALS
+M 23000 spec_goon Load to: the Kindred Goon
+M 23001 spec_goon Load to: the Kindred Goon
+M 23004 spec_doorman Load to: The usher
+M 23005 spec_goon Load to: the Kindred Goon
+M 23006 spec_goon Load to: the Kindred Goon
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 23000 0 2
+D 0 23002 2 2
+M 1 23000 1 23000 1
+E 0 23000 0 3
+M 1 23004 1 23001 1
+O 0 23003 0 23002
+O 0 23034 0 23003
+O 0 23019 0 23004
+O 0 23020 0 23006
+O 0 23020 0 23007
+O 0 23020 0 23008
+O 0 23020 0 23009
+O 0 23020 0 23010
+O 0 23021 0 23011
+O 0 23021 0 23012
+O 0 23021 0 23013
+O 0 23021 0 23014
+S
+
+
+
+#SHOPS
+23003 0 0 0 0 0 120 100 0 23
+0
+
+
+
+#$

@@ -1,0 +1,3218 @@
+#AREADATA
+Name The Iliad~
+Builders None~
+VNUMs 8400 8499
+Credits { 0 45} Galad       The Iliad~
+Security 9
+Xcontinent 0
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#8400
+cur dog rabid~
+a rabid cur~
+A rabid cur is here, searching for human remains to feast upon.
+~
+The cur has black, piercing eyes, and its mouth has froth around the edges.
+This dog is clearly dangerous.
+~
+dog~
+ACFG JPZ -250 0
+30 0 6d12+853 1d10+100 4d6+8 bite
+-9 -9 -9 -2
+EFHN 0 LQ 0
+stand stand either 0
+ABGV ACDEFHJKUV medium 0 the guilds~
+#8401
+vulture ugly bird~
+an ugly vulture~
+An ugly vulture is here, searching for the flesh of the fallen.
+~
+This bird is probably the ugliest avian creature you have ever seen. Its 
+beady eyes and black, unkempt plumage are indeed repulsive.
+~
+water fowl~
+ACG JTZ 0 0
+27 0 5d10+650 1d10+100 5d4+7 claw
+-8 -8 -8 -1
+F 0 LQR H
+stand stand either 0
+AGW ACDEFHKP medium 0 the guilds~
+#8402
+Trojan citizen~
+a Trojan citizen~
+A Trojan citizen is here, worrying about the city's survival.
+~
+This person looks simultaneously proud and afraid--no doubt the effects of
+the city's siege. These somewhat ragged garments look out of place on such
+a brave soul.
+~
+human~
+ACG J 0 0
+28 0 6d12+703 1d10+100 2d12+8 pound
+-8 -8 -8 -1
+FKR 0 0 0
+stand stand either 1400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8403
+Trojan blacksmith~
+a Trojan blacksmith~
+A blacksmith is here, forging weapons of war.
+~
+Incredibly thick limbs, glistening and dirty skin, and a steely gaze mark 
+this man as a blacksmith. You might want to walk softly around him.
+~
+human~
+ABCGT Z 0 0
+34 0 10d10+1200 1d10+140 4d7+10 pound
+-11 -11 -11 -2
+CEKR 0 EHZ 0
+stand stand male 2300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8404
+Trojan guard~
+a Trojan guard~
+A guard is here, keeping a sharp lookout for Greek attackers and intruders.
+~
+The guard's appearance and that of his equipment share something in common:
+they are both weathered and battle-worn. It must have taken a great deal 
+of prowess to survive so many clashes.
+~
+human~
+ACGT J -100 0
+32 -1 10d10+1000 1d10+150 6d4+9 pound
+-12 -12 -12 -2
+CEFKR 0 LQ 0
+stand stand male 1650
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8405
+Trojan warrior~
+a Trojan warrior~
+A fierce warrior is here, readying himself for battle.
+~
+This man has been a combatant for most, if not all, of his adult life. It 
+shows in both how confidently he wields his weapon and how naturally he
+moves in his heavy armor.
+~
+human~
+ACGT J -100 0
+35 -1 10d10+1300 1d10+100 4d7+11 punch
+-12 -12 -12 -3
+CEFKR 0 LQ 0
+stand stand male 1740
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8406
+Trojan priest~
+the Trojan priest~
+The temple's head priest is here, preparing for the next service.
+~
+The look on this older man's face speaks volumes. Beneath his snow-white 
+hair, ice-blue eyes silently convey the many trials they have faced and 
+weathered. Hope has not left him, but he is clearly troubled.
+~
+human~
+ABCGQ CJN 400 0
+40 -1 15d10+1850 1d10+900 4d8+13 blast
+-13 -13 -13 -4
+EFHIK N ABLQ 0
+stand stand male 3760
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8407
+Hector man warrior hero~
+Hector~
+Hector, Troy's greatest warrior and Priam's son, is praying to Athena here.
+~
+Hector is a magnificent-looking warrior, with strong limbs, enviable 
+composure, and a confidence that can only come from a combination of 
+battle skill and the favor of the gods.
+~
+human~
+ABCGT FJNTV 250 0
+46 -2 25d10+3250 1d10+200 6d6+16 pound
+-16 -16 -16 -6
+CDEFIK AB LQ 0
+stand stand male 4450
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8408
+Helen slut woman~
+Helen~
+Helen, with the face that launched a thousand ships, is here.
+~
+Even with all of the stories and praise about her, you must admit that she 
+is indeed the most beautiful woman that you have ever seen. That doesn't 
+mean that you have to like either that fact or her, though...
+~
+human~
+ACGRS O -500 0
+40 0 15d10+1850 1d10+800 4d8+13 punch
+-13 -13 -13 -6
+BEFK A BLQ N
+stand stand female 3900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8409
+Paris~
+Paris~
+Paris, the thief and lover of Helen, is here.
+~
+Paris is a strikingly handsome man, with brown curly hair and hazel eyes.  
+He also moves with the stealth of an excellent thief, and he considers 
+you carefully.
+~
+human~
+ACFGS DFJO -400 0
+43 0 25d10+2300 1d10+400 3d12+14 pound
+-13 -13 -13 -5
+BEFJK A BLQ 0
+stand stand male 4300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8410
+King Priam man~
+King Priam~
+Priam, proud King of Troy, is here.
+~
+This tall, bearded man has seen his best years pass, but he still looks 
+very fit. What strikes you most about him, though, is the proud and 
+determined look he maintains in the face of the Greek onslaught.
+~
+human~
+ACGQT JTV -200 0
+43 -2 25d10+2500 1d10+800 3d12+15 beating
+-15 -15 -15 -5
+CEFIK AB LQ 0
+stand stand male 5400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8411
+Queen Hecabe woman~
+Queen Hecabe~
+Hecabe, Troy's graceful yet distraught queen, is fretting here.
+~
+Although she is unquestionably a beautiful woman, Hecabe's constant 
+worrying about both her family and her city have taken a great toll on 
+her spirits and appearance. She looks at you through green, bloodshot 
+eyes.
+~
+human~
+ACGR JT -150 0
+41 0 25d10+2000 1d10+900 4d8+14 punch
+-14 -14 -14 -5
+EFHK AB IKLQ 0
+stand stand female 4680
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8412
+Greek sentry~
+Greek sentry~
+A Greek sentry is here, guarding the ships from attack.
+~
+This vigilant warrior is very alert, and appears to be a hardened veteran 
+of the Trojan campaign.
+~
+human~
+ABCFGT BJ 0 8412
+36 -2 10d10+1400 1d10+200 3d10+10 punch
+-12 -12 -12 -4
+CEFHIKU 0 LQ 0
+stand stand male 1440
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8413
+Greek warrior~
+a Greek warrior~
+A Greek warrior is here, preparing for the final onslaught.
+~
+This is one experienced fighter. The ten years of battle that he 
+has fought in show in both his steely gaze and his battered armor.
+~
+human~
+ACGT J 0 8413
+35 -1 10d10+1300 1d10+190 4d7+11 pound
+-11 -11 -11 -3
+CEFIKU 0 LQ 0
+stand stand male 1400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8414
+Ajax warrior hero~
+Ajax~
+The noble warrior Ajax is here, surveying the battle plain.
+~
+Ajax is among the bravest of the Greeks, and his appearance does his 
+reputation full justice: tall, muscular, and fearless. He is so respected 
+by the opposing side that Hector himself gave Ajax his magnificent sword 
+as a token of admiration.
+~
+human~
+ACGT CDJNT 250 0
+44 -2 25d10+2700 1d10+200 8d4+15 pound
+-15 -15 -15 -6
+CDEFK ABLQ MN 0
+stand stand male 4550
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8415
+Patroclos hero~
+Patroclos~
+Patroclos, good friend of Achilles, is here challenging any Trojan to fight him.
+~
+Although not the greatest of the Achaians, Patroclos is certainly a hero 
+and a formidable foe. His weapon-handling skills are renowned, as is 
+his bravery.
+~
+human~
+ABCGT JNT 150 0
+39 -2 15d10+1700 1d10+200 5d6+13 punch
+-13 -13 -13 -5
+CEFK ALQ MN 0
+stand stand male 3100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8416
+Odysseus Ulysses hero~
+Odysseus~
+Odysseus, favored by Athena, is here, awaiting the Greek folly.
+~
+This man is a classic warrior-hero: brave, intelligent, crafty, and 
+handsome. He has never given up his hope for victory during all of 
+the many years away from his home island of Ithaca.
+~
+human~
+ACGT CDEJNV 600 0
+42 -1 25d10+2200 1d10+300 4d8+14 beating
+-14 -14 -14 -6
+CEFKR ABLQ JKMN 0
+stand stand male 5780
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8417
+Agamemnon king~
+Agamemnon~
+Agamemnon, vain and greedy king of the Greeks, is here.
+~
+He could definitely improve the way he rules (in a loose sense) the Greek 
+forces. He is abrasive, greedy, and distrustful, and has alienated the two 
+best Achaians, Odysseus and Achilles.
+~
+human~
+ABCGT JO -150 0
+40 -1 25d10+1850 1d10+200 4d8+13 pound
+-13 -13 -13 -5
+CEFHIK A LMNQ 0
+stand stand male 4840
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8418
+Achilles hero~
+Achilles~
+Achilles, the greatest warrior on either side, is here.
+~
+He is perhaps the most formidable fighter you have ever seen. Underneath 
+beautiful, shining armor is a man who is at one with his weapon at all 
+times. His battle prowess is unmatched, and foes run from him like dust 
+in the wind. His only true weakness is his temper.
+~
+human~
+ACGT CDJNT 250 0
+48 -1 25d10+3700 1d10+300 6d6+18 beating
+-20 -20 -20 -9
+CDEFHK ABLMNQ JKO 0
+stand stand male 8000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8419
+spirit fallen ghost~
+a spirit of the fallen~
+The spirit of a fallen warrior is here, forever trapped 
+at the place of his death.
+~
+He is hard to focus your eyes on, but you can make out the vague shapes of 
+armor and a weapon on the misty spirit.
+~
+unique~
+AFGO BDFJTUZ 0 0
+31 1 6d12+928 1d10+120 4d6+9 frbite
+-10 -10 -10 -3
+EFGHU 0 EKP N
+stand stand male 0
+0 0 medium 0 the guilds~
+#8420
+poet bard Homer~
+Homer~
+Homer, the Greek epic poet, is here observing the events below.
+~
+His penetrating blue eyes take in every feature of you; you get the feeling 
+that you might end up in a story someday.
+~
+human~
+ABCGR BDJNT 200 0
+41 1 25d10+2050 1d10+700 4d8+13 charge
+-13 -13 -13 -5
+EFHK AB MNP 0
+stand stand male 3210
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8421
+statue lion~
+The lion statue~
+A grand statue of a roaring lion stands here.
+~
+The detail of this statue is incredible--you would not be surprised if the 
+lion sprang to life at any moment.
+~
+unique~
+ABG J 0 0
+30 0 6d12+853 1d10+100 4d6+8 claw
+-9 -9 -9 -2
+EFM LQ HIJ 0
+stand stand male 0
+CJ ACDEFU medium 0 the guilds~
+#8422
+statue horse stallion~
+the horse statue~
+A strikingly life-like statue of a horse, in honor of Poseidon, stands here.
+~
+Poseidon created horses, and the city of Troy has not forgotten the sea 
+god's gift. The black stallion must be carved from obsidian, you think to 
+yourself.
+~
+unique~
+ABG J 0 0
+30 0 6d12+853 1d10+100 4d6+8 charge
+-9 -9 -9 -2
+EFM LQ HIJ 0
+stand stand male 0
+CJ ACDEF medium 0 the guilds~
+#8423
+Trojan guard~
+a Trojan guard~
+A Trojan guard is here, keeping a sharp lookout for Greek attackers.
+~
+This man has the look of an experienced fighter, and he has been charged 
+with the task of preventing intrusions.
+~
+human~
+ABCFGT J 0 0
+32 0 10d10+1000 1d10+150 6d4+9 pound
+-12 -12 -12 -2
+CEFKR 0 LQ 0
+stand stand male 1650
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8424
+hawker shopkeeper peddler~
+a hawker~
+A hawker is here, selling his wares.
+~
+This man has a wry smile and licks his lips too often. You wonder how much 
+his profit margin is in this city where everything is scarce.
+~
+human~
+AG 0 0 0
+55 3 25d10+3000 1d10+500 0d0+0 pound
+-25 -25 -25 -15
+CDEFHIJKN ABCDEFGHIJKLMNOPQST 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8425
+Jasin Natael bard~
+Jasin Natael, master bard~
+Jasin Natael, master bard, is here to play soothing music.
+~
+Although he plays with great skill and passion, this man doesn't seem to 
+enjoy playing the harp as much as most bards do. Something about him is 
+strange, but you can't put your finger on what.
+~
+human~
+AGR DFJT 0 0
+55 2 25d10+3000 1d10+1600 5d10+25 wrath
+-28 -28 -28 -15
+BEFHIJK ABLMPQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#8400
+black apron~
+a black apron~
+A heavy black apron lies here.~
+leather~
+armor Ga AK
+9 9 9 3 0
+33 20 2200 P
+A
+13 20  
+#8401
+war helm~
+a war helm~
+A shiny helm lies here.~
+bronze~
+armor AG AE
+9 9 9 2 0
+30 11 2900 P
+A
+19 1  
+A
+18 1  
+#8402
+war cloak~
+a war cloak~
+A much-used cloak lies here.~
+cloth~
+armor G AD
+9 9 9 2 0
+30 5 2500 P
+#8403
+war sleeves~
+war sleeves~
+A pair of battered sleeves is here.~
+bronze~
+armor G AI
+8 8 8 1 0
+29 10 2450 P
+#8404
+war gauntlets~
+war gauntlets~
+A pair of often-used gauntlets are here.~
+bronze~
+armor AG AH
+8 8 8 2 0
+28 10 2800 P
+A
+19 1  
+A
+18 1  
+#8405
+war girth~
+a war girth~
+A metal girth of some type lies here.~
+bronze~
+armor AG AL
+8 8 8 2 0
+28 12 3200 P
+A
+5 1  
+#8406
+war leggings~
+a pair of war leggings~
+A pair of combat-tested leggings lie here.~
+bronze~
+armor G AF
+8 8 8 3 0
+29 8 2540 P
+#8407
+war cape~
+a war cape~
+A dusty cape lies here.~
+cloth~
+armor G AC
+8 8 8 3 0
+28 7 2240 P
+#8408
+war plate~
+war plate~
+A suit of war plate has been left here.~
+bronze~
+armor AG AK
+9 9 9 4 0
+35 12 4330 P
+A
+13 20  
+A
+1 1  
+#8409
+war shield~
+a war shield~
+A battered shield lies here.~
+bronze~
+armor AG AJ
+9 9 9 3 0
+32 12 4180 P
+A
+19 1  
+#8410
+war boots~
+a pair of war boots~
+A well-worn pair of heavy boots lies here.~
+bronze~
+armor G AG
+9 9 9 3 0
+35 20 3300 P
+#8411
+Achaian helmet~
+an Achaian helmet~
+A shiny helmet lies here.~
+bronze~
+armor Gabd AE
+10 10 10 3 0
+42 10 4550 P
+A
+2 1  
+#8412
+Achillean armor~
+Achillean armor~
+A stunningly beautiful suit of armor lies here.~
+bronze~
+armor AGI AD
+10 10 10 5 0
+45 20 7170 P
+A
+24 -4  
+A
+23 -4  
+A
+14 25  
+#8413
+Achaian robe~
+an Achaian robe~
+A flowing robe, made of white silk, lies here.~
+silk~
+armor G AD
+8 8 8 3 0
+38 10 4500 P
+A
+3 1  
+A
+18 2  
+#8414
+Achaian belt~
+an Achaian belt~
+A shiny bronze belt of some type lies here.~
+bronze~
+armor G AL
+8 8 8 4 0
+40 10 3940 P
+A
+19 1  
+#8415
+Olympian stone~
+an Olympian stone~
+A large, oval stone of obsidian lies here.~
+diamond~
+jewelry ABG AO
+0 0 0 0 0
+38 2 4060 P
+A
+19 2  
+A
+17 -2  
+#8416
+Ilian sleeves~
+Ilian sleeves~
+A pair of shiny bronze sleeves lies here.~
+bronze~
+armor G AI
+9 9 9 3 0
+39 20 4420 P
+A
+18 1  
+A
+13 10  
+#8417
+regal ring~
+a regal ring~
+A large ring made of polished red gemstone lies here.~
+diamond~
+jewelry ABFG AB
+0 0 0 0 0
+39 1 7620 P
+A
+3 1  
+A
+12 35  
+#8418
+regal cloak~
+a regal cloak~
+A fancy, billowing cloak lies here.~
+cloth~
+armor G AC
+5 5 5 3 0
+39 5 3920 P
+A
+17 -2  
+A
+12 20  
+#8419
+Achaian shield~
+an Achaian shield~
+A large bronze shield lies here.~
+bronze~
+armor G AJ
+11 11 11 4 0
+42 15 5230 P
+A
+19 2  
+#8420
+Trojan cloak tan~
+a Trojan cloak~
+A tan cloak lies here.~
+cloth~
+armor G AD
+8 8 8 3 0
+43 4 5580 P
+A
+19 1  
+A
+18 1  
+#8421
+reflective bracelet~
+a reflective bracelet~
+A shining, reflective bracelet lies here.~
+bronze~
+armor AG AM
+7 7 7 3 0
+42 3 4990 P
+A
+18 1  
+A
+1 1  
+#8422
+Ilian boots~
+a pair of Ilian boots~
+A pair of well-worn, dusty boots is here.~
+bronze~
+armor AG AG
+9 9 9 4 0
+40 5 4310 P
+A
+24 -2  
+A
+2 1  
+#8423
+Achaian plate~
+Achaian plate~
+A suit of shiny bronze armor is here.~
+bronze~
+armor AG AK
+9 9 9 4 0
+40 15 7220 P
+A
+23 -2  
+A
+14 25  
+A
+24 -2  
+#8424
+silver robe~
+a silver robe~
+A robe made from a silvery material lies here.~
+mithril~
+armor AG AD
+9 9 9 4 0
+41 5 5220 P
+A
+2 1  
+A
+18 2  
+#8425
+Trojan gloves~
+a pair of Trojan gloves~
+A pair of well-worn war gloves lies here.~
+bronze~
+armor AG AH
+9 9 9 4 0
+40 7 4970 P
+A
+19 2  
+A
+1 2  
+#8426
+orange stone~
+an orange stone~
+A shiny orange stone lies here.~
+diamond~
+jewelry ABG AQ
+0 0 0 0 0
+37 0 5500 P
+A
+19 1  
+A
+18 1  
+A
+12 20  
+#8427
+priestly cloak~
+a priestly cloak~
+A holy cloak of some sort lies here.~
+wool~
+armor AG AC
+9 9 9 3 0
+40 5 5030 P
+A
+12 15  
+A
+3 1  
+#8428
+seductive robe~
+a seductive robe~
+A sultry, seductive robe lies here.~
+silk~
+armor AG AD
+8 8 8 3 0
+35 3 4210 P
+A
+12 25  
+E
+robe sultry seductive~
+The extreme sheerness of this robe's material is shocking--you should be blushing 
+if you are even thinking of wearing it! ~
+#8429
+potion rage~
+a potion of rage~
+A orange, bubbling potion lies here.~
+crystal~
+potion FG AO
+45 'frenzy' 'bless' '(null)' '(null)'
+35 2 8400 P
+#8430
+throne Ilian~
+the regal Ilian throne~
+A stately and ornate throne towers above you here.~
+hardwood~
+furniture M 0
+1 600 BEHKN 100 100
+0 500 0 P
+E
+throne regal Ilian~
+This stately throne is made primarily of mahogany, but is heavily inlaid 
+with gold and jewels. Its seat is lined by a cushion that looks inviting.  
+Atop the huge chair is a solid-gold lion that peers down with a challenge 
+for those who stand before the throne.~
+#8431
+park bench marble~
+a park bench~
+A smooth marble bench is here.~
+stone~
+furniture M 0
+5 1900 BEHKN 100 100
+0 400 0 P
+E
+bench marble park~
+This bench may be made from marble, but it looks and feels much more 
+comfortable than you would think something made from stone could be.~
+#8432
+column signal fire~
+a signal fire column~
+A towering signal fire column stands here, sending up plumes of smoke.~
+stone~
+furniture M 0
+0 0 0 0 0
+0 1000 0 P
+E
+signal fire column~
+This stone column has smooth fluting running up its sides, and is topped 
+by a large, round bowl which is approximately ten feet across. Inside 
+the bowl, burning embers send up a thick smoke plume that asks for help, 
+but goes unanswered.~
+#8433
+sacrificial altar fire~
+a sacrificial altar~
+A large sacrificial altar, containing a crackling fire, stands here.~
+stone~
+furniture M 0
+2 3000 BEHKN 100 100
+0 2000 0 P
+E
+sacrificial altar fire~
+This huge altar is made of a smooth gray stone that is almost glassy in its 
+appearance. A sacrificial fire in the center of the piece burns some sort of 
+offering; you don't think you want to know what it was...~
+#8434
+sundial dial~
+a large sundial~
+A large sundial stands here as the centerpiece of a small park.~
+stone~
+furniture M 0
+0 0 0 0 0
+0 500 0 P
+E
+sundial dial~
+This device is both a timepiece and a way to honor Apollo, the sun god.~
+#8435
+dramatic mask~
+a dramatic mask~
+A mask used for plays is here.~
+bone~
+trash 0 AE
+0 0 0 0 0
+0 2 0 P
+E
+mask dramatic~
+This mask's face is half smile and half frown. Maybe the character was 
+schizophrenic...~
+#8436
+diplomatic tablet~
+a diplomatic tablet~
+A thin stone tablet lies here.~
+stone~
+scroll GH A
+40 'armor' 'shield' '(null)' '(null)'
+30 5 2520 P
+E
+diplomatic tablet~
+It appears to be a thin piece of slate.~
+#8437
+crystal fountain~
+a majestic crystal fountain~
+A majestic crystal fountain gushes here.~
+crystal~
+fountain 0 0
+1000 1000 'water' 0 0
+0 0 0 P
+E
+majestic fountain crystal~
+This piece of art is truly beautiful. When the sun hits it, rays of light 
+make it glitter and illuminate the square. At night, nearby light sources 
+are reflected and refracted by its near-transparent material, creating a 
+dance of lights and shadows that is a pleasure to watch. In the fountain's 
+centerpiece a dolphin jumps in the air while a stream of water rises up to 
+support its leap.~
+#8438
+tent~
+a large white tent~
+A large white tent, made of some kind of linen, is here.~
+cloth~
+container GM 0
+500 ABCD 8439 0 0
+0 100 0 P
+E
+tent~
+This tent is clearly that of Agamemnon. It is cleaner and larger than 
+any other in sight.~
+#8439
+petrified toothpick~
+a petrified toothpick~
+A tiny piece of wood has been discarded here.~
+hardwood~
+key G AO
+0 0 0 0 0
+0 1 0 P
+#8440
+bronze baton rod~
+a bronze baton~
+A metal rod of some type lies here.~
+bronze~
+key 0 AO
+0 0 0 0 0
+0 3 0 P
+#8441
+cracked skull~
+a cracked skull~
+A sun-bleached human skull sits here.~
+bone~
+trash 0 AO
+0 0 0 0 0
+0 2 0 P
+E
+skull~
+This skull obviously was hit with a tremendous force at one time, although 
+whether it was before or after its former owner's death is unclear. To be, 
+or not to be... ~
+#8442
+ichorous panacea potion~
+an ichorous panacea~
+A frothing potion of some type lies here.~
+crystal~
+potion AG AO
+30 'cure critical' 'change sex' '(null)' '(null)'
+20 2 3200 P
+#8443
+potion chance~
+a potion of chance~
+A bottled brown liquid lies here.~
+crystal~
+potion G AO
+40 'heal' 'teleport' '(null)' '(null)'
+30 3 8000 P
+#8444
+Trojan hammer~
+a Trojan hammer~
+A heavy black hammer lies here.~
+metal~
+weapon AGad AN
+mace 3 9 pound F
+33 18 2960 P
+A
+19 3  
+#8445
+bronze sword~
+a bronze sword~
+A heavy, well-made sword lies here.~
+bronze~
+weapon AGacd AN
+sword 2 13 slash 0
+30 17 2650 P
+A
+19 1  
+A
+18 1  
+#8446
+bronze spear~
+a bronze spear~
+A bronze-pointed spear lies here.~
+bronze~
+weapon AG AN
+exotic 4 7 pierce I
+35 16 3000 P
+A
+19 1  
+A
+18 2  
+#8447
+jewelled sword~
+a jewelled sword~
+A sparkling, jewelled sword lies here.~
+diamond~
+weapon AGH AN
+sword 4 9 slice 0
+42 16 3870 P
+A
+19 2  
+A
+18 1  
+#8448
+bronze mace~
+a bronze mace~
+A well-made mace lies here.~
+bronze~
+weapon AGbcd AN
+mace 3 10 pound 0
+36 16 3320 P
+A
+19 2  
+A
+12 20  
+#8449
+cheating heart dagger~
+a cheating heart~
+A cruel dagger lies here.~
+bronze~
+weapon AG AN
+dagger 5 6 pierce H
+39 3 4330 P
+A
+19 1  
+A
+18 1  
+E
+cheating heart dagger cruel~
+This object belonged to the unfaithful Helen of Troy at one time. Be careful 
+that you do not repeat her folly.~
+#8450
+spiked whip~
+a spiked whip~
+A heavy, spiked whip lies here.~
+bronze~
+weapon AG AN
+whip 2 17 whip 0
+42 12 3670 P
+A
+19 2  
+A
+18 2  
+#8451
+black flail~
+a black flail~
+A dangerous black flail lies here.~
+bronze~
+weapon AG AN
+flail 3 11 blast I
+40 11 3880 P
+A
+19 2  
+A
+18 2  
+#8452
+venomous dagger~
+a venomous dagger~
+An extremely fine-tipped dagger lies here.~
+bronze~
+weapon AGbcd AN
+dagger 3 10 pierce H
+37 3 3760 P
+A
+19 1  
+A
+18 1  
+#8453
+silver-studded sword studded~
+a silver-studded sword~
+A sword that appears to consist solely of silver lies here.~
+silver~
+weapon AG AN
+sword 5 7 slash B
+41 15 4550 P
+A
+19 1  
+A
+18 1  
+E
+silver-studded silver studded sword~
+This beautiful sword once belonged to the noble warrior, Ajax. Its inscription 
+reads: "To the brave Ajax. May your bravery and honor be an example to all.  
+Hector, Prince of Troy." ~
+#8454
+spear of accuracy~
+a spear of accuracy~
+A long and sleek spear lies here.~
+bronze~
+weapon AGHIK AN
+exotic 4 8 pierce B
+40 18 4750 P
+A
+19 1  
+A
+18 2  
+E
+spear accuracy~
+An inscription along the haft reads: "Noble Odysseus, your bravery and cunning 
+merit this gift. Always uphold the standards of your patroness, and you will not 
+be forgotten in times of need."~
+#8455
+gleaming axe~
+a gleaming axe~
+A large, gleaming axe lies here.~
+bronze~
+weapon AG ANY
+axe 3 10 slash C
+39 12 4770 P
+A
+19 2  
+A
+18 1  
+#8456
+Styxian sword~
+a Styxian sword~
+A strange sword lies here.~
+bronze~
+weapon AGIad AN
+sword 5 7 slash A
+43 18 0 P
+A
+18 2  
+A
+19 2  
+E
+styxian sword~
+The inscription in the blade reads, "To Achilles, greatest warrior of all 
+mortals. Fight with valor, die with honor."~
+#8457
+treasure chest~
+Priam's treasure chest~
+A strudy, polished chest is here.~
+hardwood~
+container GM 0
+500 ABCD 8440 0 0
+0 600 0 P
+#8458
+dune sand~
+a tall sand dune~
+A tall, wind-sculpted sand dune is here.~
+stone~
+container M 0
+500 ABCD 8459 0 0
+0 550 0 P
+#8459
+shell crab~
+a long-dead crab's shell~
+The skeletal remains of a crab lie here, weathering the wind and waves.~
+bone~
+key 0 AO
+0 0 0 0 0
+0 1 0 P
+E
+crab shell skeletal~
+Not only does one eye remain in the shell; it also reeks. Yuck!~
+#8460
+gyro sandwich~
+a gyro~
+A tasty gyro lies here waiting to be eaten.~
+food~
+food 0 AO
+20 40 0 0 0
+0 1 20 P
+#8461
+carved wooden horse~
+a tiny, carved wooden horse~
+A diminutive wooden horse has been left here.~
+bone~
+wand G AO
+35 4 4 'pass door' 0
+25 4 9500 P
+A
+3 1  
+#8462
+public bath water~
+the public bath~
+The public bath, with its relaxing waters, is here.~
+marble~
+furniture 0 0
+9 4000 CFI 100 100
+0 0 0 P
+E
+bath water public~
+Its waters are so clear and warm; you wonder how this marvel was constructed.~
+#8463
+harp~
+a shining harp~
+A beautiful polished harp lies here.~
+bone~
+trash H AO
+0 0 0 0 0
+0 10 0 P
+#8464
+papyrus sheet scroll~
+a papyrus sheet~
+A remarkably well-preserved paper scroll lies here.~
+parchment~
+scroll G AO
+34 'enchant armor' '(null)' '(null)' '(null)'
+27 2 6000 P
+E
+papyrus sheet scroll paper~
+You think that the language the scroll is written in may be Greek, though 
+you're not sure.~
+#8465
+Ilian jewel gem~
+the Ilian jewel~
+A very large, polished gem lies here.~
+diamond~
+treasure 0 AO
+0 0 0 0 0
+0 2 5000 P
+#8466
+fireplace~
+a roaring fireplace~
+A roaring fireplace is set into the wall, emitting a pleasant amount 
+of heat.~
+marble~
+furniture M 0
+0 0 ADGJO 0 0
+0 100 0 P
+E
+fire fireplace~
+The oak logs in the fireplace have been in there for some time, and consist 
+largely of glowing orange embers, although some flames persist.~
+#8467
+soft welcoming couch~
+a soft, welcoming couch~
+A soft, welcoming couch sits here, beckoning for you to rest.~
+leather~
+furniture M 0
+4 4000 BEHKN 100 100
+0 5 0 P
+E
+couch soft welcoming~
+Its fabric is incredibly soft, and its light shade of blue-green is very 
+pleasing to the eye.~
+#8468
+pulsating orb~
+a pulsating orb~
+A metal orb lies here, pulsating.~
+bronze~
+wand ABG AO
+31 6 6 'curse' 0
+25 5 3950 P
+A
+3 1  
+#8469
+silver leaf~
+a silver leaf~
+A small, silvery leaf lies here.~
+food~
+pill G AO
+41 'invisibility' 'giant strength' '(null)' '(null)'
+31 1 2600 P
+#8470
+walnut cabinet~
+a walnut cabinet~
+A handsome walnut cabinet stands here.~
+hardwood~
+container M 0
+1000 AC -1 0 0
+0 50 0 P
+E
+walnut cabinet~
+The quality of this cabinet's craftsmanship is quite impressive.~
+#8471
+chestnuts nuts~
+a handful of chestnuts~
+A handful of chestnuts lies here, waiting to be roasted and eaten.~
+food~
+food 0 AO
+20 40 0 0 0
+0 1 0 P
+#8472
+hot coffee mug~
+a piping-hot mug of coffee~
+A piping-hot mug of coffee sits here.~
+coffee~
+drink 0 AO
+10 10 'coffee' 0 0
+0 2 0 P
+#8473
+gold coins~
+the gold coins~
+A good deal of gold is here.~
+gold~
+money 0 A
+0 50 0 0 0
+0 0 0 P
+#8474
+breath fresh air~
+a breath of fresh air~
+A breath of fresh air hovers here.~
+air~
+pill GT AO
+29 'bless' 'cure critical' 'refresh' '(null)'
+1 1 0 P
+E
+breath fresh air pill~
+Galad's voice whispers in your ear, "Good luck." ~
+#0
+
+
+
+#ROOMS
+#8400
+Southern Beach~
+Small crabs flit across the sand, and gulls protest your intrusion with 
+cries from above. A high dune rises to the south; otherwise the beach is 
+extremely level and smooth. To the west, blue Aegean breakers roll in, and 
+beyond them lie the Greek invaders' vessels. To the north you spy more 
+beach, and beyond it, an ascending slope.
+~
+0 0 2
+D0
+The beach continues to the north.~
+~
+0 -1 8401
+S
+#8401
+Northern Beach~
+A sandy strip stretches out beneath your feet, occasionally dotted by 
+clumps of seaweed or small piles of seashells. A breeze blows in over the 
+water from the west, where anchored Greek ships are visible. The beach 
+continues to the south, and to the north, a path leads up a hill to a large 
+cluster of tents.
+~
+0 0 2
+D0
+A large hill, covered by tents, lies north.~
+~
+0 -1 8402
+D2
+The beach continues to the south.~
+~
+0 -1 8400
+S
+#8402
+Western Tents~
+The largest and most ornate tent of the many that cover the hill stands 
+here. A strong sea breeze blows in from the west,; a small path leads down 
+a hill to a beach in the south; and a large tent village can be seen to 
+the east.
+~
+0 0 4
+D1
+More tents can be seen to the east.~
+~
+0 -1 8403
+D2
+A beach lies to the south.~
+~
+0 -1 8401
+S
+#8403
+Eastern Tents~
+The white tents of the Greeks cover the hill completely. Servants dart 
+about, apparently preparing for the departure of the Achaian force. A large 
+plain lies to the south, and more tents dot the hill in the west.
+~
+0 0 4
+D2
+The battle plain lies to the south.~
+~
+0 -1 8404
+D3
+A few more tents lie to the west, including one very large one.~
+~
+0 -1 8402
+S
+#8404
+Northwestern Plain~
+From this corner of the wind-swept battlefield plain, one can make out a 
+large camp of alabaster tents to the north, as well as the broad land 
+spreading out to the south and east.
+~
+0 0 2
+D0
+A tent-covered hill lies north.~
+~
+0 -1 8403
+D1
+The battlefield stretches east.~
+~
+0 -1 8405
+D2
+The battle plain continues to the south.~
+~
+0 -1 8407
+S
+#8405
+Northern Plain~
+Bone fragments and other remnants of battle lie scattered everywhere. The 
+plain stretches in every direction but north, and a hard, chilly breeze hits 
+your cheek.
+~
+0 0 2
+D1
+The northeastern corner of the battlefield lies east.~
+~
+0 -1 8406
+D2
+The battle plain continues to the south.~
+~
+0 -1 8408
+D3
+The battlefield stretches west.~
+~
+0 -1 8404
+S
+#8406
+Northeastern Plain~
+Armor and weapon fragments cover the ground, reminders of the past ten 
+years of combat. An inpenetrable marsh can be seen in the east and north, 
+while the plain continues to the west and south.
+~
+0 0 2
+D2
+The battle plain continues to the south.~
+~
+0 -1 8409
+D3
+The northwestern corner of the battlefield lies to the west.~
+~
+0 -1 8405
+S
+#8407
+Western Plain~
+From both the scarred ground and the many broken implements of war which 
+lie everywhere, it is obvious that innumerable bloody contests have been 
+fought here. The battlefield continues in all directions except west, 
+which is blocked by a line of high dunes.
+~
+0 0 2
+D0
+The battle plain continues to the north.~
+~
+0 -1 8404
+D1
+More of the plain lies to the east.~
+~
+0 -1 8408
+D2
+The battle plain continues to the south.~
+~
+0 -1 8410
+S
+#8408
+Central Plain~
+This space smells like rotting flesh, and you feel a nauseous rush. The 
+plain stretches out in all of the cardinal directions, and you look forward 
+to leaving this spot quickly.
+~
+0 0 2
+D0
+The battle plain continues to the north.~
+~
+0 -1 8405
+D1
+More of the plain lies to the east.~
+~
+0 -1 8409
+D2
+The battle plain continues to the south.~
+~
+0 -1 8411
+D3
+More of the plain lies to the west.~
+~
+0 -1 8407
+S
+#8409
+Eastern Plain~
+You wonder how many deaths have occurred in the battles on this field--
+then vow not to add your own to the total. The east is blocked by a marsh, 
+and the plain continues to the north, west, and south.
+~
+0 0 2
+D0
+The battle plain continues to the north.~
+~
+0 -1 8406
+D2
+The battle plain continues to the south.~
+~
+0 -1 8412
+D3
+More of the plain lies to the west.~
+~
+0 -1 8408
+S
+#8410
+Western Plain~
+From the many stones and the large amount of ashes on the ground, it 
+appears that numerous funeral pyres have been lit here in the past. The 
+plain continues to the east, north, and south.
+~
+0 0 2
+D0
+The battle plain continues to the north.~
+~
+0 -1 8407
+D1
+More of the plain lies to the east.~
+~
+0 -1 8411
+D2
+The battle plain continues to the south.~
+~
+0 -1 8413
+S
+#8411
+Central Plain~
+The bed of a stream which has long been dry runs from east to west. 
+Strong gusts of wind whip up clouds of dust, and sometimes sound like 
+the cries of injured men.
+~
+0 0 2
+D0
+The battle plain continues to the north.~
+~
+0 -1 8408
+D1
+More of the plain lies to the east.~
+~
+0 -1 8412
+D2
+A large figure stands on the plain to the south.~
+~
+0 -1 8414
+D3
+More of the plain lies to the west.~
+~
+0 -1 8410
+S
+#8412
+Eastern Plain~
+A lone, scraggly tree stands here on the eastern edge of the battlefield. 
+A nasty marsh blocks your path to the east, but the plain continues to 
+the north, west, and south.
+~
+0 0 2
+D0
+The battle plain continues to the north.~
+~
+0 -1 8409
+D2
+The southeast corner of the field lies to the south.~
+~
+0 -1 8415
+D3
+More of the plain lies to the west.~
+~
+0 -1 8411
+S
+#8413
+Southwestern Plain~
+Broken spear shafts and notched sword blades litter the ground, and a 
+faint but definitely unpleasant smell is carried on the wind. High dunes 
+block the west, and steep hills prevent nearing the city walls to the 
+south. The battlefield stretches out to the east and north.
+~
+0 0 2
+D0
+The battle plain continues to the north.~
+~
+0 -1 8410
+D1
+A huge wooden figure stands to the east.~
+~
+0 -1 8414
+S
+#8414
+Southern Plain~
+A gargantuan and beautiful wooden horse stands here. Its legs surround 
+you like pillars and its underbelly is above your head. The city gate can 
+be seen in the south; the battlefield lies to the west, north, and east.
+~
+0 0 2
+D0
+A large figure stands on the plain to the north.~
+~
+0 -1 8411
+D1
+The battlefield continues east.~
+~
+0 -1 8415
+D2
+A sturdy gate lies to the south.~
+~
+0 -1 8416
+D3
+A huge wooden figure stands to the west.~
+~
+0 -1 8413
+D4
+You can barely make out the tiny outline of a door.~
+door secret~
+1 -1 8418
+S
+#8415
+Southeastern Plain~
+The war-torn ground is covered by metal shards, bone fragments, and 
+occasionally, hardy tufts of grass. The south is blocked by a steep hill, 
+over which Troy's city walls can be seen. The plain continues to the west 
+and north; the swamp to the east is impenetrable.
+~
+0 0 2
+D0
+The southeast corner of the field lies to the north.~
+~
+0 -1 8412
+D3
+A large figure stands to the west.~
+~
+0 -1 8414
+S
+#8416
+Northern City Gate~
+Granite pillars carved out of the city walls flank a fairly narrow 
+entrance.  Perched above the battered yet still solid oaken door is a 
+striking likeness of a pegasus, and the ivory creature's gaze seems 
+to fall upon you.
+~
+0 0 2
+D0
+A large figure stands to the north.~
+~
+0 -1 8414
+D2
+A sturdy gate lies to the south.~
+gate door~
+1 -1 8424
+S
+#8417
+Horse Hindquarters~
+This back section of the horse is fairly cramped, due to its low ceiling.  
+An exit lies to the south.
+~
+0 9 0
+D2
+The horse's midsection lies to the south.~
+~
+0 -1 8418
+S
+#8418
+Horse Midsection~
+This room is the horse's belly. The polished wooden walls are smooth and 
+quite reflective. The horse's interior continues to the north and south.
+~
+0 9 0
+D0
+The horse's hindquarters lie north.~
+~
+0 -1 8417
+D2
+The horse's shoulders lie to the south.~
+~
+0 -1 8419
+D5
+You can barely make out the tiny outline of a door.~
+secret door~
+1 -1 8414
+S
+#8419
+Horse Shoulders~
+The smooth southern wall rises up and curves slightly away from you. A 
+ladder leads up, and another chamber lies to the north.
+~
+0 9 0
+D0
+The horse's midsection lies to the south.~
+~
+0 -1 8418
+D4
+The horse's head section is above.~
+~
+0 -1 8420
+S
+#8420
+Horse Head~
+You have reached the pinnacle of the grand Trojan horse. The southern wall 
+constitutes the horse's face, and the curved ceiling is clearly the mane.
+~
+0 9 0
+D5
+The horse's shoulder section is below.~
+~
+0 -1 8419
+S
+#8421
+Base of Northwestern Tower~
+Extremely solid and worn stone walls enclose this gloomy chamber, which 
+houses several cots and two small tables. Spyholes in the northern wall 
+look down upon the battlefield plain, and a ladder leads up to the top of 
+the tower.
+~
+0 9 0
+D1
+A door lies east.~
+door~
+1 -1 8422
+D4
+A ladder leads upward.~
+~
+0 -1 8470
+S
+#8422
+Apollo Avenue~
+You stand at the northern end of a broad avenue. Doors lie to the east 
+and west, and the avenue continues to the south.
+~
+0 0 1
+D1
+A door lies east.~
+door~
+1 -1 8423
+D2
+A park lies to the south.~
+~
+0 -1 8429
+D3
+A door lies east.~
+door~
+1 -1 8421
+S
+#8423
+Northern Barracks~
+This sturdy, stone building has a Spartan decor: several beds, two 
+tables, and racks on the wall for armor and weapons. Doors are set 
+within the eastern and southern walls.
+~
+0 9 0
+D2
+A door lies south.~
+door~
+1 -1 8430
+D3
+A door lies west.~
+door~
+1 -1 8422
+S
+#8424
+Inside the Northern Gate~
+You have entered the great city of Troy.  The air is thick with the 
+tension of the Greek siege. The road continues south, and a gate lies 
+to the north.
+~
+0 0 1
+D0
+A sturdy gate lies to the north.~
+gate door~
+1 -1 8416
+D2
+An intersection lies to the south.~
+~
+0 -1 8431
+S
+#8425
+Armoury~
+This room is filled with holding racks and shelves for every imaginable 
+kind of armor. Exits are to the east and south.
+~
+0 9 0
+D1
+An avenue lies to the east.~
+~
+0 -1 8426
+D2
+An street lies to the south.~
+~
+0 -1 8432
+S
+#8426
+Athena Avenue~
+You stand at the northern end of a broad avenue.  The armoury is to the 
+west; the guard tower door is east, and the avenue continues southward.
+~
+0 0 1
+D1
+The guard tower door is to the east.~
+door~
+1 -1 8427
+D2
+An park of some sort lies to the south.~
+~
+0 -1 8433
+D3
+The armoury is to the west.~
+~
+0 -1 8425
+S
+#8427
+Base of Northeastern Tower~
+Extremely solid and worn stone walls enclose this gloomy chamber, which 
+houses several cots and a small table. Spyholes in the northern wall look 
+down upon the battlefield plain, and a sturdy wooden ladder leads up to the 
+tower's second level.
+~
+0 9 0
+D2
+An seldom-used door lies to the south.~
+door~
+1 -1 8434
+D3
+The guard tower door is to the west.~
+door~
+1 -1 8426
+D4
+A ladder leads upward.~
+~
+0 -1 8471
+S
+#8428
+Open-air Agora~
+White marble benches and small fruit trees are coupled and generously 
+separated from other pairs in this spacious, open-air gathering place. 
+During times of peace, happy citizens would meet here to discuss trade, 
+the weather, and personal matters.  The presence of the Greeks, however, 
+has left it a little-used place.
+~
+0 0 1
+D1
+A small park is to the east.~
+~
+0 -1 8429
+S
+#8429
+Signal Fire Park~
+In the center of this attractive square stands a large marble column, 
+topped by a smooth cup approximately ten feet across. Burning embers 
+withing the bowl send a thick plume of smoke into the sky.
+~
+0 0 1
+D0
+A street continues to the north.~
+~
+0 -1 8422
+D1
+A street leads off to the east.~
+~
+0 -1 8430
+D2
+A broad avenue stretches south.~
+~
+0 -1 8436
+D3
+An open-air square is to the west.~
+~
+0 -1 8428
+S
+#8430
+City Street~
+This broad street continues to the east. The barracks' door is north, and 
+a park of some kind can be seen to the west.
+~
+0 0 1
+D0
+The barracks' door lies north.~
+door~
+1 -1 8423
+D1
+An intersection is to the east.~
+~
+0 -1 8431
+D3
+A small park lies to the west.~
+~
+0 -1 8429
+S
+#8431
+Intersection~
+Two streets meet here, allowing you to move in any of the four cardinal 
+directions.
+~
+0 0 1
+D0
+A large gate lies to the north.~
+~
+0 -1 8424
+D1
+The street continues east.~
+~
+0 -1 8432
+D2
+A street leads south.~
+~
+0 -1 8438
+D3
+A street continues west.~
+~
+0 -1 8430
+D4
+~
+door~
+1 -1 8482
+S
+#8432
+City Street~
+This broad street continues to the west.  The entrance to the armoury is 
+north, and a park of some type can be seen to the east.
+~
+0 0 1
+D0
+The Armoury lies to the north.~
+~
+0 -1 8425
+D1
+A small park lies to the east.~
+~
+0 -1 8433
+D3
+An intersection is to the west.~
+~
+0 -1 8431
+S
+#8433
+Poseidon's Park~
+Featured in this pretty square is a large marble statue of a galloping, 
+majestic horse. Since horses were a creation of Poseidon, it is no doubt 
+in honor of the trident-wielding god.
+~
+0 0 1
+D0
+The avenue leads north.~
+~
+0 -1 8426
+D1
+A door to a large building is to the east.~
+door~
+1 -1 8434
+D2
+An avenue leads south.~
+~
+0 -1 8440
+D3
+The street leads west.~
+~
+0 -1 8432
+S
+#8434
+City Archives~
+Dusty shelves and cluttered desks abound in this office. It appears to 
+serve as some sort of library for records, but is not in good order.
+~
+0 9 0
+D0
+An seldom-used door lies to the north.~
+door~
+1 -1 8427
+D3
+A door stands to the west.~
+door~
+1 -1 8433
+S
+#8435
+Northern Palatial Anteroom~
+You have entered a spacious entry chamber. It is lavishly and tastefully 
+decorated, primarily with silk wall tapestries depicting great battles.
+~
+0 8 0
+D1
+A solid door stands to the east.~
+door~
+1 -1 8436
+D2
+A grand room lies to the south.~
+~
+0 -1 8442
+S
+#8436
+Apollo Avenue~
+This paved avenue continues to the north and south. A small structure's 
+door lies to the east, while a very large building's entrance is to the 
+west.
+~
+0 0 1
+D0
+A broad avenue stretches north.~
+~
+0 -1 8429
+D1
+A house's door stands to the east.~
+door~
+1 -1 8437
+D2
+A broad avenue stretches south.~
+~
+0 -1 8443
+D3
+A solid door stands to the west.~
+door~
+1 -1 8435
+S
+#8437
+Northwest House~
+This building is obviously the modest living quarters of a Trojan family.  
+Its furnishings are functional, but by no means fancy. Doors lie to the 
+east and west.
+~
+0 8 0
+D1
+A door stands to the east.~
+door~
+1 -1 8438
+D3
+A door stands to the west.~
+door~
+1 -1 8436
+S
+#8438
+Center City~
+You have almost reached the heart of Troy. Doors to medium-sized 
+buildings are to the east and west, the street continues to the north, and 
+the city square can be seen to the south.
+~
+0 0 1
+D0
+A street leads north.~
+~
+0 -1 8431
+D1
+A door stands to the east.~
+door~
+1 -1 8439
+D2
+The city square lies to the south.~
+~
+0 -1 8445
+D3
+A door stands to the west.~
+door~
+1 -1 8437
+S
+#8439
+Northeast House~
+This is a fairly spacious house--you estimate that two families might 
+even share it. Exits lie to the east and west.
+~
+0 8 0
+D1
+A door stands to the east.~
+door~
+1 -1 8440
+D3
+A door stands to the west.~
+door~
+1 -1 8438
+S
+#8440
+Athena Avenue~
+This paved avenue continues to the north and south.  The door to a medium-
+sized building lies to the west, and a larger structure can be entered to 
+the east.
+~
+0 0 1
+D0
+An avenue leads north.~
+~
+0 -1 8433
+D1
+A large door stands to the east.~
+door~
+1 -1 8441
+D2
+The broad avenue continues south.~
+~
+0 -1 8447
+D3
+A door stands to the west.~
+door~
+1 -1 8439
+S
+#8441
+Athenian Temple Entry Room~
+This antechamber is a very solemn room. Its contents are simple: a few 
+rugs, a small table, and two burning candles.
+~
+0 8 0
+D2
+The temple vestibule is to the south.~
+~
+0 -1 8448
+D3
+A large, solid door stands to the west.~
+door~
+1 -1 8440
+S
+#8442
+King Priam's Throneroom~
+The tapestries and thick rugs in this room are beautiful--and no doubt 
+very expensive, too. The large throne that lines the western wall, however, 
+is what truly catches your eye.
+~
+0 8 0
+D0
+An entry room lies to the north.~
+~
+0 -1 8435
+D2
+An entry room lies to the south.~
+~
+0 -1 8449
+D4
+The grand staircase is above.~
+~
+0 -1 8474
+D5
+The seat of the throne is lined with a very comfortable satin cushion.~
+seat cushion~
+2 8440 8478
+S
+#8443
+Apollo Avenue~
+This broad, well-kept avenue continues to the north, east, and south.
+~
+0 0 1
+D0
+A broad avenue stretches north.~
+~
+0 -1 8436
+D1
+A street leads eastward.~
+~
+0 -1 8444
+D2
+The broad avenue continues to the south.~
+~
+0 -1 8450
+S
+#8444
+Center City~
+You are ever-so-close to the heart of the city. The street continues to 
+the west, and the city square lies to the east.
+~
+0 4 1
+D1
+The city square is to the east.~
+~
+0 -1 8445
+D3
+A street leads westward.~
+~
+0 -1 8443
+S
+#8445
+City Square~
+This square is almost breathtaking in its beauty. Small trees and benches 
+dot the area, and a soft breeze touches your cheek. A beautiful crystal 
+fountain acts as a centerpiece for this relaxing spot.
+~
+0 0 1
+D0
+The street leads straight north.~
+~
+0 -1 8438
+D1
+A street leads east.~
+~
+0 -1 8446
+D2
+A street continues to the south.~
+~
+0 -1 8452
+D3
+A street leads to the west.~
+~
+0 -1 8444
+S
+#8446
+Center City~
+You sense that the heart of Troy is very near. The street continues to 
+the east, and the city square lies to the west.
+~
+0 4 1
+D1
+A broad avenue lies to the east.~
+~
+0 -1 8447
+D3
+A street leads to the west.~
+~
+0 -1 8445
+S
+#8447
+Athena Avenue~
+This broad, well-kept avenue continues to the north, west, and south.
+~
+0 4 1
+D0
+The broad avenue continues north.~
+~
+0 -1 8440
+D2
+The avenue continues to the south.~
+~
+0 -1 8454
+D3
+A street lies to the west.~
+~
+0 -1 8446
+S
+#8448
+Temple Vestibule~
+This room appears to be a place where worshippers prepare themselves 
+before services begin. You inhale the strong scent of incense, and spy 
+the main worship area to the south.
+~
+0 12 0
+D0
+The entry room is to the north.~
+~
+0 -1 8441
+D2
+The temple altar room is to the south.~
+~
+0 -1 8455
+S
+#8449
+Southern Palatial Anteroom~
+You have entered a spacious entry chamber. It is lavishly and tastefully 
+decorated, mainly by a silk rug whose pattern portrays a wise-looking king 
+on his throne.
+~
+0 12 0
+D0
+The throne room lies to the north.~
+~
+0 -1 8442
+D1
+A sturdy door lies to the east.~
+door~
+1 -1 8450
+S
+#8450
+Apollo Avenue~
+This paved avenue continues to the north and south. A medium-sized 
+structure lies to the east, and a very large building is to the west.
+~
+0 4 1
+D0
+The broad avenue continues to the north.~
+~
+0 -1 8443
+D1
+A sturdy door lies to the east.~
+door~
+1 -1 8451
+D2
+A small park is to the south.~
+~
+0 -1 8457
+D3
+A sturdy door lies to the west.~
+door~
+1 -1 8449
+S
+#8451
+Southwest House~
+This is a fairly spacious abode. Rugs cover most of the floor, and 
+chairs and beds take up a good deal of space. Doors lie to the east 
+and west.
+~
+0 12 0
+D1
+A sturdy door lies to the east.~
+door~
+1 -1 8452
+D3
+A sturdy door lies to the west.~
+door~
+1 -1 8450
+S
+#8452
+Center City~
+The heart of Troy is very close. Doors to medium-sized buildings lie to 
+the east and west; the street continues to the south, and the city square 
+is to the north.
+~
+0 4 1
+D0
+The city square lies to the north.~
+~
+0 -1 8445
+D1
+A sturdy door lies to the east.~
+door~
+1 -1 8453
+D2
+An intersection lies to the south.~
+~
+0 -1 8459
+D3
+A sturdy door lies to the west.~
+door~
+1 -1 8451
+S
+#8453
+Southeast House~
+This building appears to be an average Trojan house--a single family 
+probably lives here, you would guess. The furnishings are plain, but serve 
+their purpose. Exits are to the east and south.
+~
+0 12 0
+D1
+A sturdy door lies to the east.~
+door~
+1 -1 8454
+D3
+A sturdy door lies to the west.~
+door~
+1 -1 8452
+S
+#8454
+Athena Avenue~
+This paved avenue continues to the north and south. A medium-sized 
+building lies to the west.
+~
+0 4 1
+D0
+The avenue continues to the north.~
+~
+0 -1 8447
+D2
+A small park lies to the south.~
+~
+0 -1 8461
+D3
+A sturdy door lies to the west.~
+door~
+1 -1 8453
+S
+#8455
+Temple Altar~
+This room has a very high, arched ceiling--the ceiling, in fact, is 
+only half of a ceiling; the other half is open-aired. An ornate altar 
+lines the southern wall, and a sacrificial fire in the altar's center 
+burns offerings to Apollo.
+~
+0 12 0
+D0
+The temple vestibule lies to the north.~
+~
+0 -1 8448
+S
+#8456
+City Ampitheatre~
+A large and deep row of seats, constructed out of some type of white 
+stone, face a large stage on the western side of the arena. Plays were no 
+doubt performed here during times of peace.
+~
+0 4 1
+D1
+A park lies to the east.~
+~
+0 -1 8457
+S
+#8457
+Lion Park~
+In the center of this square stands a large marble statue of a proud, 
+roaring lion. The avenue continues to the north and south; some type of 
+theater lies to the west, and a side street is to the east.
+~
+0 4 1
+D0
+The spacious avenue leads northward.~
+~
+0 -1 8450
+D1
+The street leads off to the east.~
+~
+0 -1 8458
+D2
+The avenue ends to the south.~
+~
+0 -1 8464
+D3
+A large open stage lies to the west.~
+~
+0 -1 8456
+S
+#8458
+City Street~
+This broad street continues to the east. An entrance to the smithy is 
+south, and a park of some type can be seen to the west.
+~
+0 4 1
+D1
+An intersection is to the east.~
+~
+0 -1 8459
+D2
+A broad door is to the south.~
+door~
+1 -1 8465
+D3
+A park of some kind lies west.~
+~
+0 -1 8457
+S
+#8459
+Intersection~
+Two streets meet here, allowing you to move in any of the four cardinal 
+directions.
+~
+0 4 1
+D0
+The city's main north-south street continues north.~
+~
+0 -1 8452
+D1
+The street continues eastward.~
+~
+0 -1 8460
+D2
+The southern entrance to the city lies south.~
+~
+0 -1 8466
+D3
+The street continues west.~
+~
+0 -1 8458
+S
+#8460
+City Street~
+This broad street continues to the west. The barracks are south, and a 
+park of some sort can be seen to the east.
+~
+0 4 1
+D1
+To the east you spy a park.~
+~
+0 -1 8461
+D2
+To the south is a large door.~
+door~
+1 -1 8467
+D3
+An intersection is to the west.~
+~
+0 -1 8459
+S
+#8461
+Sundial Park~
+Centered in this attractive square is a large stone pedastal, atop which 
+rests a shiny bronze sundial. You notice a large, column-lined building to 
+the east.
+~
+0 4 1
+D0
+The avenue continues northward.~
+~
+0 -1 8454
+D1
+The public baths are to the east.~
+~
+0 -1 8462
+D2
+The avenue ends to the south.~
+~
+0 -1 8468
+D3
+A street leads off to the west.~
+~
+0 -1 8460
+S
+#8462
+Public Baths~
+Towering marble columns line the perimeter of an area filled with crystal-
+clear water. Steps lead down into the bath chamber, and ripples on the 
+water's surface cast shimmering lines on the columns and ceiling.
+~
+0 12 0
+D3
+Sundial park lies to the west.~
+~
+0 -1 8461
+S
+#8463
+Base of Southwestern Tower~
+Extremely solid and worn stone walls enclose this gloomy chamber, which 
+houses several cots and two small tables. A sturdy ladder leads up to the 
+top of the tower.
+~
+0 13 0
+D1
+A large door stands to the east.~
+door~
+1 -1 8464
+D4
+The top of the tower is above.~
+~
+0 -1 8472
+S
+#8464
+Apollo Avenue~
+You stand at the southern end of a broad avenue. The smithy is to 
+the east; the guard tower door is to the west, and the avenue continues 
+northward.
+~
+0 4 1
+D0
+You see a park to the north.~
+~
+0 -1 8457
+D3
+A large door stands to the west.~
+door~
+1 -1 8463
+S
+#8465
+The Smithy~
+The smell of burning coals and oil wash over you when you enter this 
+room. Huge forges, metal implements, and barrels of water all mark this 
+as a smithy.
+~
+0 12 0
+D0
+A broad door is to the south.~
+door~
+1 -1 8458
+S
+#8466
+Inside the Lion Gate~
+"Majestic" is the most fitting description for this gate. Set into the 
+very stone above the entrance are two magnificent lions, each resting their 
+forepaws on the base of a column which stands between them. Flanked by 
+huge and smoothly integrated granite blocks, their eyes stare down a 
+challenge at you: "Why have you come to the city of Troy?" What will your 
+answer be?
+~
+0 4 1
+D0
+An intersection lies to the north.~
+~
+0 -1 8459
+D2
+The lion gate is to the south.~
+gate door~
+1 -1 8480
+S
+#8467
+Southern Barracks~
+This long and fairly spacious stone building has a clear order to it: a 
+row of beds lines the western wall; a small mess hall occupies the eastern 
+portion of the room; and racks filled with armor and weapons hang on the 
+southern wall. From their respective conditions it is clear that both 
+the room and its contents have seen long and heavy use.
+~
+0 12 0
+D0
+To the north is a large door.~
+door~
+1 -1 8460
+D1
+A sturdy door stands to the east.~
+door~
+1 -1 8468
+S
+#8468
+Athena Avenue~
+You stand at the southern end of a broad avenue. The barracks are to the 
+west, the guard tower lies east, and the avenue continues north.
+~
+0 4 1
+D0
+A small park of some kind lies northward.~
+~
+0 -1 8461
+D1
+A sturdy door is to the east.~
+door~
+1 -1 8469
+D3
+A sturdy door is to the west.~
+door~
+1 -1 8467
+S
+#8469
+Base of the Southeast Tower~
+Extremely solid and worn stone walls enclose this gloomy chamber, which 
+houses several cots and a large table, apparently used for dining. A sturdy 
+ladder leads upward.
+~
+0 13 0
+D3
+A sturdy door is to the west.~
+door~
+1 -1 8468
+D4
+The base of the tower is below.~
+~
+0 -1 8473
+S
+#8470
+Top of Northwestern Tower~
+From this height, the entire battle plain stretches out to the north 
+before your eyes. To the west lies the Aegean Sea, from which a soft 
+breeze is blowing.
+~
+0 0 0
+D5
+The tower base is below.~
+~
+0 -1 8421
+S
+#8471
+Top of Northeastern Tower~
+From this height, the entire battle plain stretches out to the north 
+before your eyes. To the east lies an unpleasant-looking marsh. Luckily, 
+the wind is not blowing from that direction.
+~
+0 0 0
+D5
+The tower's base is below.~
+~
+0 -1 8427
+S
+#8472
+Top of Southwestern Tower~
+From this height the entire city stretches out to the north and east 
+before your eyes.  The tower's open top makes this a peaceful place to 
+watch the events occurring below unfold.
+~
+0 4 0
+D5
+The base of the tower is below.~
+~
+0 -1 8463
+S
+#8473
+Top of Southeastern Tower~
+From this height the entire city stretches out to the north and west 
+before your eyes. The view of the public baths (immediately north) makes 
+this _quite_ an observation point.
+~
+0 4 0
+D5
+The base of the tower is below.~
+~
+0 -1 8469
+S
+#8474
+Grand Staircase~
+The walls of this winding staircase are lined with rich, silk tapestries--
+each one depicts a deity: Zeus, Hera, Athena, Ares, Apollo, and others 
+are all represented.
+~
+0 12 0
+D4
+A torch-lit hallway is above.~
+~
+0 -1 8476
+D5
+The throneroom is below.~
+~
+0 -1 8442
+S
+#8475
+The Queen's Chambers~
+Although its lavish bed and other furnishings are very impressive, 
+perhaps the most striking feature of these chambers is the majestic view 
+of the Aegean Sea out of its western window. An ornate door lies to the 
+north.
+~
+0 12 0
+D0
+An inlaid door depicting Hephaestus stands here. ~
+door~
+1 -1 8479
+D2
+An ornate door depicting Hera stands here. ~
+door~
+1 -1 8476
+S
+#8476
+Palace Hallway~
+Torches set into the walls illuminate this chamber. Impressive doors lie 
+to the north and south.
+~
+0 12 0
+D0
+An ornate door depicting Nike stands here. ~
+door~
+1 -1 8475
+D2
+An inlaid door depicting Apollo stands here. ~
+door~
+1 -1 8477
+D5
+The grand staircase leads below.~
+~
+0 -1 8474
+S
+#8477
+Paris and Helen's Chambers~
+Powder-blue silk curtains cover a western window, and a large, covered 
+bed rests in the room's southeast corner.
+~
+0 12 0
+D0
+An inlaid door depicting Apollo stands here. ~
+door~
+1 -1 8476
+S
+#8478
+King Priam's Treasure Room~
+This small chamber looks to be seldom-used.  A large chest rests against 
+the northern wall; torches supply the room with a flickering light.
+~
+0 12 0
+D4
+You think you might see a crack in the ceiling. ~
+secret door~
+2 8440 8442
+S
+#8479
+The King's Chambers~
+Silks, cushions, rugs, and richly lacquered wood furniture--fit for a 
+king, in fact. This spacious chamber clearly belongs to the Trojan King, 
+Priam.
+~
+0 12 0
+D2
+An inlaid door depicting Hercules stands here. ~
+door~
+1 -1 8475
+S
+#8480
+Overgrown Path~
+Through the many weeds and trees scattering the path you think you see 
+a wall to the north. A flat-topped boulder stands beside the path.
+~
+0 4 3
+E
+boulder flat~
+The boulder's smooth top has these words etched into it:
+Long ago, the gods schemed and intermingled with mortals, primarily 
+for the amusement of the immortals.  The saga of Helen of Troy's 
+kidnapping, which led to the Trojan War, was sparked by immortal 
+meddling and vanity. Troy has long been lost, but has now reappeared; 
+heroes and villains alike await you.
+Galad
+~
+D0
+A huge gate is to the north. ~
+gate door~
+1 -1 8466
+D2
+The brambles and trees are thicker to the south. ~
+~
+0 -1 8481
+S
+#8481
+Overgrown Path~
+Brambles, creepers, and trees all make the going extremely tough here, 
+although you think that the traces of a path lead north.
+~
+0 4 3
+D0
+The traces of a path lead north. ~
+~
+0 -1 8480
+D2
+~
+~
+0 0 9775
+S
+#8482
+Homer's Overlook~
+This peaceful spot is hard to explain. Somehow, you are high above the 
+city and battle plain, and you have a clear view of every movement below.  
+No solid ground lies beneath your feet, though--you just seem to hover here.
+~
+0 4 9
+D5
+~
+door~
+1 -1 8431
+S
+#8483
+A room~
+You are standing in room #8483.
+~
+0 4 1
+S
+#8484
+The Rubber Room~
+You are standing in room #8484.
+You are in a lare, spacious room of pure white walls, floor, and ceiling.
+~
+0 1057796 1
+S
+#8485
+A room~
+You are standing in room #8485.
+~
+0 4 1
+S
+#8486
+A room~
+You are standing in room #8486.
+~
+0 4 1
+S
+#8487
+A room~
+You are standing in room #8487.
+~
+0 268435460 1
+S
+#8488
+Galad's Living Room~
+A small, bubbling fountain acts as the centerpiece for the room and its 
+furniture. Thick creme carpet massages your feet, while soft light filters 
+in from above. Masterpieces of portraiture complement the walls.
+~
+0 268435464 0
+D1
+Eastward is the cozy room.~
+~
+0 -1 8489
+S
+#8489
+The Cozy Room~
+Warm, snuggly rugs lie in front of a crackling fireplace. The radiating 
+heat causes you to relax immediately, and you take in the huge stone 
+hearth and walnut mantel while wondering if any chestnuts or marshmallows 
+are around. Light piano music--perhaps Beethoven, or Chopin--wafts in 
+from seemingly nowhere.
+~
+0 268435464 0
+D3
+Galad's living room lies west. ~
+~
+0 -1 8488
+D4
+The bedroom is above. ~
+door~
+1 -1 8490
+S
+#8490
+The Bedroom~
+Pleasing shades of blue and green predominate in the drapes, carpet, and 
+bedding. The eastern window frames the azure ocean's rolling surf, while 
+that in the east overlooks a lush forest topped by distant snow-covered 
+peaks.
+~
+0 268435976 0
+D5
+The cozy room lies below. ~
+door~
+1 -1 8489
+S
+#0
+
+
+
+#SPECIALS
+M 8406 spec_cast_cleric Load to: the Trojan priest
+M 8408 spec_cast_mage Load to: Helen
+M 8409 spec_thief Load to: Paris
+M 8411 spec_cast_mage Load to: Queen Hecabe
+M 8420 spec_cast_mage Load to: Homer
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 8414 4 1
+D 0 8416 2 1
+D 0 8418 5 1
+D 0 8421 1 1
+D 0 8422 1 1
+D 0 8422 3 1
+D 0 8423 2 1
+D 0 8423 3 1
+D 0 8424 0 1
+D 0 8426 1 1
+D 0 8427 2 1
+D 0 8427 3 1
+D 0 8430 0 1
+D 0 8431 4 1
+D 0 8433 1 1
+D 0 8434 0 1
+D 0 8434 3 1
+D 0 8435 1 1
+D 0 8436 1 1
+D 0 8436 3 1
+D 0 8437 1 1
+D 0 8437 3 1
+D 0 8438 1 1
+D 0 8438 3 1
+D 0 8439 1 1
+D 0 8439 3 1
+D 0 8440 1 1
+D 0 8440 3 1
+D 0 8441 3 1
+D 0 8442 5 2
+D 0 8449 1 1
+D 0 8450 1 1
+D 0 8450 3 1
+D 0 8451 1 1
+D 0 8451 3 1
+D 0 8452 1 1
+D 0 8452 3 1
+D 0 8453 1 1
+D 0 8454 3 1
+D 0 8458 2 1
+D 0 8460 2 1
+D 0 8463 1 1
+D 0 8464 3 1
+D 0 8465 0 1
+D 0 8466 2 1
+D 0 8467 0 1
+D 0 8467 1 1
+D 0 8468 1 1
+D 0 8468 3 1
+D 0 8469 3 1
+D 0 8475 0 1
+D 0 8475 2 1
+D 0 8476 0 1
+D 0 8476 2 1
+D 0 8478 4 2
+D 0 8479 2 1
+D 0 8480 0 1
+D 0 8482 5 1
+M 1 8412 4 8400 1
+E 0 8402 0 5
+E 0 8401 0 6
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8446 0 16
+M 1 8412 4 8400 1
+E 0 8402 0 5
+E 0 8401 0 6
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8446 0 16
+O 0 8458 0 8400
+M 1 8412 4 8401 1
+E 0 8402 0 5
+E 0 8401 0 6
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8446 0 16
+M 1 8412 4 8401 1
+E 0 8402 0 5
+E 0 8401 0 6
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8446 0 16
+O 0 8459 0 8401
+M 1 8417 1 8402 1
+E 0 8413 0 5
+E 0 8422 0 8
+E 0 8414 0 13
+E 0 8455 0 16
+E 0 8439 0 17
+M 1 8413 11 8402 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8445 0 16
+M 1 8413 11 8402 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8445 0 16
+O 0 8438 0 8402
+M 1 8413 11 8403 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8445 0 16
+M 1 8413 11 8403 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8445 0 16
+M 1 8414 1 8404 1
+E 0 8411 0 6
+E 0 8422 0 8
+E 0 8419 0 11
+E 0 8423 0 12
+E 0 8453 0 16
+M 1 8400 3 8405 1
+M 1 8419 2 8406 1
+M 1 8401 3 8408 1
+M 1 8400 3 8409 1
+O 0 8441 0 8409
+M 1 8401 3 8410 1
+M 1 8418 1 8411 1
+E 0 8412 0 5
+E 0 8411 0 6
+E 0 8419 0 11
+E 0 8456 0 16
+E 0 8429 0 17
+M 1 8401 3 8412 1
+M 1 8419 2 8413 1
+M 1 8400 3 8414 1
+M 1 8415 1 8415 1
+E 0 8410 0 8
+E 0 8416 0 10
+E 0 8408 0 12
+E 0 8446 0 16
+M 1 8413 11 8417 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8445 0 16
+M 1 8413 11 8417 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8445 0 16
+M 1 8413 11 8418 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8445 0 16
+M 1 8413 11 8418 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8445 0 16
+M 1 8413 11 8419 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8445 0 16
+M 1 8413 11 8419 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8445 0 16
+M 1 8416 1 8420 1
+E 0 8422 0 8
+E 0 8419 0 11
+E 0 8423 0 12
+E 0 8414 0 13
+E 0 8454 0 16
+E 0 8415 0 17
+M 1 8413 11 8420 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8445 0 16
+M 1 8405 7 8423 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8446 0 16
+M 1 8405 7 8423 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8446 0 16
+M 1 8405 7 8423 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8446 0 16
+M 1 8404 16 8424 1
+E 0 8407 0 3
+E 0 8401 0 6
+E 0 8445 0 16
+M 1 8404 16 8424 1
+E 0 8404 0 9
+E 0 8405 0 13
+E 0 8445 0 16
+M 1 8405 7 8425 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8446 0 16
+O 0 8431 0 8428
+M 1 8402 13 8428 1
+O 0 8432 0 8429
+M 1 8422 1 8433 1
+M 1 8404 16 8435 1
+E 0 8402 0 5
+E 0 8403 0 10
+E 0 8445 0 16
+M 1 8402 13 8437 1
+M 1 8402 13 8439 1
+M 1 8402 13 8439 1
+M 1 8402 13 8440 1
+M 1 8404 16 8441 1
+E 0 8407 0 3
+E 0 8406 0 7
+E 0 8445 0 16
+M 1 8404 16 8441 1
+E 0 8401 0 6
+E 0 8404 0 9
+E 0 8445 0 16
+O 0 8430 0 8442
+M 1 8402 13 8443 1
+M 1 8404 16 8443 1
+E 0 8402 0 5
+E 0 8406 0 7
+E 0 8445 0 16
+O 0 8437 0 8445
+M 1 8402 13 8445 1
+O 0 8431 0 8445
+M 1 8424 1 8445 1
+G 0 8442 0
+G 0 8460 0
+G 0 8461 0
+M 1 8404 16 8447 1
+E 0 8403 0 10
+E 0 8405 0 13
+E 0 8445 0 16
+M 1 8406 1 8448 1
+E 0 8427 0 3
+E 0 8448 0 16
+E 0 8426 0 17
+M 1 8404 16 8449 1
+E 0 8407 0 3
+E 0 8404 0 9
+E 0 8445 0 16
+M 1 8402 13 8451 1
+M 1 8402 13 8451 1
+M 1 8402 13 8453 1
+M 1 8407 1 8455 1
+E 0 8420 0 5
+E 0 8411 0 6
+E 0 8422 0 8
+E 0 8421 0 14
+E 0 8447 0 16
+E 0 8443 0 17
+O 0 8433 0 8455
+O 0 8435 0 8456
+M 1 8421 1 8457 1
+M 1 8402 13 8458 1
+O 0 8434 0 8461
+M 1 8404 16 8461 1
+E 0 8401 0 6
+E 0 8406 0 7
+E 0 8445 0 16
+M 1 8402 13 8462 1
+M 1 8402 13 8462 1
+O 0 8462 0 8462
+M 1 8404 16 8464 1
+E 0 8402 0 5
+E 0 8405 0 13
+E 0 8445 0 16
+M 1 8403 2 8465 1
+E 0 8400 0 12
+E 0 8444 0 16
+M 1 8403 2 8465 1
+E 0 8400 0 12
+E 0 8444 0 16
+M 1 8423 2 8466 1
+E 0 8404 0 9
+E 0 8403 0 10
+E 0 8445 0 16
+M 1 8405 7 8467 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8446 0 16
+M 1 8405 7 8467 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8446 0 16
+M 1 8405 7 8467 1
+E 0 8410 0 8
+E 0 8409 0 11
+E 0 8408 0 12
+E 0 8446 0 16
+M 1 8404 16 8470 1
+E 0 8406 0 7
+E 0 8403 0 10
+E 0 8445 0 16
+M 1 8404 16 8470 1
+E 0 8401 0 6
+E 0 8405 0 13
+E 0 8445 0 16
+M 1 8404 16 8471 1
+E 0 8407 0 3
+E 0 8402 0 5
+E 0 8445 0 16
+M 1 8404 16 8471 1
+E 0 8403 0 10
+E 0 8405 0 13
+E 0 8445 0 16
+M 1 8404 16 8472 1
+E 0 8401 0 6
+E 0 8404 0 9
+E 0 8445 0 16
+M 1 8404 16 8473 1
+E 0 8402 0 5
+E 0 8406 0 7
+E 0 8445 0 16
+M 1 8411 1 8475 1
+E 0 8417 0 1
+E 0 8418 0 3
+E 0 8452 0 16
+M 1 8423 2 8476 1
+E 0 8407 0 3
+E 0 8401 0 6
+E 0 8445 0 16
+M 1 8408 1 8477 1
+E 0 8428 0 5
+E 0 8449 0 16
+M 1 8409 1 8477 1
+E 0 8422 0 8
+E 0 8423 0 12
+E 0 8450 0 16
+O 0 8457 0 8478
+M 1 8410 1 8479 1
+E 0 8424 0 5
+E 0 8425 0 9
+E 0 8451 0 16
+E 0 8440 0 17
+G 0 8436 0
+M 1 8420 1 8482 1
+E 0 8469 0 17
+O 0 8437 0 8488
+M 1 8425 1 8488 1
+E 0 8463 0 17
+P 0 8473 100 8438 1
+P 0 8464 100 8458 1
+P 0 8465 100 8457 1
+O 0 8467 0 8488
+P 0 8468 100 8457 1
+O 0 8466 0 8489
+O 0 8470 0 8489
+P 0 8460 100 8470 1
+P 0 8471 100 8470 1
+P 0 8472 100 8470 1
+P 0 8472 100 8470 1
+P 0 8471 100 8470 1
+P 0 8460 100 8470 1
+P 0 8474 100 8470 1
+P 0 8474 100 8470 1
+S
+
+
+
+#SHOPS
+8424 1 2 3 4 10 95 115 0 23
+0
+
+
+
+#$

@@ -1,0 +1,2495 @@
+#AREADATA
+Name Baskerville~
+Builders None~
+VNUMs 12000 12099
+Credits {10 35} Snowy       Baskerville~
+Security 9
+Xcontinent 1
+Age 2
+Questable 1
+End
+
+
+
+#MOBILES
+#12000
+Snowy~
+Snowy~
+Snowy is here frozen for all eternity.
+~
+This little man appears to be frozen solid.  He sits here locked in a
+pose of contemplation until the end of time.  It would seem that even Snowy
+was not immune to the chill of winter that has ripped through the land.  
+~
+unique~
+ABGI DFHJLNOTVab 1000 0
+60 1 50d10+9500 1d1+100 8d6+28 frbite
+-18 -18 -18 -13
+CDEFHKO ABI CDGJLMNPQT EH
+stand stand none 0
+ACc ABCGHIK giant 0 the guilds~
+#12001
+Drokus master~
+Drokus~
+Drokus is here plotting against the world.
+~
+This filthy old man is one of the most pathetic excuses for a human being
+you have ever laid eyes on.  His tattered old rags are soiled with
+unmentionable bodily substances.  It would seem personal hygiene is
+something Drokus is not very concerned with.  His long dangling hair is
+caked with feces and looks as though it has not been washed let alone combed
+in a very long time.  His scrawny little frame leaves you wondering how such
+a pathetic wretch of a man could be behind so much fear and terror.  Yet he
+remains the master of the bludhounds and that alone makes him a deadly
+menace to be reckoned with.  
+~
+fido~
+ABFGS COV -400 0
+36 0 10d10+1400 1d1+100 3d10+11 punch
+-12 -12 -12 -6
+EFHIKR 0 ABLQ CN
+stand stand male 4000
+ABGHMV ABCDEFGHIJKQV medium 0 the guilds~
+#12002
+Godfrey~
+Godfrey the defender~
+Godfrey the defender is here ready to fight to the bitter end.
+~
+This gigantic man has been hired by the citizens of Baskerville to try
+and bring order back to the streets.  Standing tall and ready for battle
+Godfrey looks like he could take on the entire pack of bludhounds by
+himself.  
+~
+human~
+ABGT HLVab 1000 0
+26 -2 5d10+600 1d1+100 3d7+7 pound
+-7 -7 -7 0
+EFHJKS 0 ABM 0
+stand stand male 2000
+AHMV ABCDEFGHIJK large 0 the guilds~
+M grall 12019 99~
+M random 12020 35~
+M random 12017 3~
+M random 12018 3~
+#12003
+roaming bludhound~
+a roaming bludhound~
+A roaming bludhound in search of human flesh is here.
+~
+This horrid beast is roaming about in search of its next meal.  Chunks of
+flesh still dangle from its snarling jaws.  The creature itself closely
+resembles a rather large dog.  Its skin is a dark shade of red with no sign
+of hair anywhere on its body.  The snout of the bludhound is long and
+pointed.  From what you can see of its open mouth this vicious dog has a
+double row of jagged teeth that could easily break through human bone.  With
+things like this roaming about it is no wonder the town of Baskerville has
+become so deserted.  
+~
+fido~
+AFGW J -300 0
+13 1 2d10+170 1d1+100 2d5+3 bite
+-1 -1 -1 6
+FR 0 LQ CN
+stand stand either 0
+ABGHV ACDEFHJKQUV medium 0 the guilds~
+M give 12023 rancid~
+M random 12010 3~
+#12004
+vicious devouring bludhound~
+a vicious bludhound~
+A vicious bludhound is here devouring a corpse.
+~
+The bludhound turns its blank stare upon you and snarls before returning
+to devour its prey.  Ripping chunks of flesh from the carcass of its victim
+with huge powerful jaws the beast swallows them whole.  The powerful
+forelimbs of the creature hold down the mauled body of some unfortunate soul
+as it begins to gnaw into the chest cavity and rip out intestines.  Blood
+sprays everywhere as the bludhound attempts to finish off its meal before
+any of its kind show up to try and steal the remaining organs and scraps of
+meat.  
+~
+fido~
+ABFGW J -350 0
+15 1 3d9+208 1d1+100 2d6+3 bite
+-2 -2 -2 4
+FR 0 LQ CN
+stand stand either 0
+ABGV ACDEFHJKQUV medium 0 the guilds~
+M give 12023 rancid~
+M random 12011 3~
+#12005
+snarling guarding bludhound~
+a snarling bludhound~
+A snarling bludhound rests here guarding this location.
+~
+Resting here sniffing the air is one of the larger bludhounds.  It seems
+to be waiting for something or other.  Perhaps it is waiting for orders from
+its master regarding which part of the town to terrorize next.  For now it
+just rests here guarding this particular location.  Unlike the other
+bludhounds this larger variety has a thick patch of black fur running along
+the length of its spine.  Also distinguishing it from the smaller breed of
+bludhound are two thorny barbs sticking out from the base of its long snout
+allowing it to gore its prey in a most unpleasant manner.  It might be wise
+to avoid a confrontation with this beast if at all possible.  
+~
+fido~
+ABFGW J -400 0
+16 0 3d9+233 1d1+100 2d6+4 bite
+-1 -1 -1 4
+FR 0 LQ CN
+rest rest either 0
+ABGV ACDEFHJKQV large 0 the guilds~
+M give 12023 rancid~
+M grall 12012 99~
+#12006
+guardian bludhound foaming~
+a guardian bludhound~
+The guardian bludhound is here foaming at the mouth.
+~
+This is one of the largest of the bludhound breeds.  It paces back and
+forth while keeping watch for trespassers.  The rabid animal is foaming
+excessively at the mouth.  This particular breed of bludhound has a long
+bulky tail with sharp spikes along it and its forepaws appear to have
+extremely long claws that it can use for shredding flesh.  Of all the
+bludhounds this variety looks like it might be the most deadly.  Driven to
+the point of madness by its master this guardian bludhound is in a constant
+frenzy.  
+~
+fido~
+ABFGW Ja -450 0
+17 0 3d9+258 1d1+100 3d4+4 bite
+-2 -2 -2 2
+CFMR 0 LQ CN
+stand stand either 0
+ABGV ACDEFHJKQV large 0 the guilds~
+M give 12023 rancid~
+M grall 12013 99~
+#12007
+hulking bludhound~
+a hulking bludhound~
+A hulking bludhound is here staring you down.
+~
+This is the largest of the bludhound breeds and the personal favourite of
+the master.  It has a massive body with bulging muscles and a huge gaping
+mouth.  Drokus the master uses this variety of bludhound for his personal
+bodyguard so you can be sure he's nearby.  The hulking creature begins to
+stare you down while slowly closing in on you.  Large trails of drool hang
+down from its mouth and drip to the ground below.  Like some of the other
+bludhounds this one also has a thick tail with barbs along it and sharp
+claws on its forepaws.  A thick pitch black mane covers the neck of the
+beast making it look more like an oversized lion than any dog you have ever
+seen.  
+~
+fido~
+ABFGW Jb -500 0
+24 -1 5d10+500 1d1+100 2d10+6 bite
+-6 -6 -6 -1
+FMR 0 LQ CN
+stand stand either 0
+ABGV ACDEFHJKQV huge 0 the guilds~
+M give 12023 rancid~
+M random 12014 3~
+M random 12021 2~
+#12008
+terrified child~
+a terrified child~
+A terrified child is here being traumatized for life.
+~
+This tiny child is frozen in fear which is no surprise considering what
+the youngster has probably witnessed in this town.  With no chance of
+protecting itself from the vicious bludhounds that are rampaging through
+Baskerville this little one is in desperate need of rescuing.  The child
+begins to sniff and snort as tears pour down from its eyes.  The sight of
+this pathetic baby wailing away makes you wish one of the bludhounds would
+come and rip it to shreds just to put it out of its misery.  
+~
+human~
+ABCGHY Q 500 0
+2 0 2d7+21 1d1+100 1d5+0 slap
+8 8 8 13
+F 0 0 D
+sit sit either 0
+AHMV ABCDEFGHIJK tiny 0 the guilds~
+M random 12015 2~
+#12009
+panic stricken citizen~
+a citizen of Baskerville~
+A panic stricken citizen of Baskerville is here in a state of shock.
+~
+This terrified citizen of Baskerville is in a complete state of shock. 
+The conditions of this town have deteriorated so badly that the residents
+that still remain now live in constant fear of the roving bludhound packs. 
+The only hope for survival is to try and hide from sight and hope that
+sooner or later someone will come to save the town folk from this nightmare
+let loose upon the world.  
+~
+human~
+ABGHY Q 500 0
+11 1 2d8+134 1d1+100 1d10+2 punch
+1 1 1 5
+FIR 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 12016 3~
+#12010
+crow~
+a crow~
+A crow is here looking for scraps of flesh.
+~
+This disease infested crow is picking up bits and pieces of flesh from
+the corpses of the dead littering the streets.  It has grown to quite a size
+so there can not be much of a shortage of food for it.  This is probably the
+ideal home for a scavenger like this considering the way things appear to be
+going in this town.  It ruffles its feathers at you and returns to scouting
+for a fresh carcass to gorge itself on.  
+~
+water fowl~
+AGW T -250 0
+9 0 2d6+110 1d1+100 1d8+2 peck
+2 2 2 6
+F 0 R 0
+stand stand none 0
+AGHMVW ACDEFHKP small 0 the guilds~
+M random 12022 2~
+#12011
+Gill shopkeeper~
+Gill the shopkeeper~
+Gill the shopkeeper is here trying to make a living.
+~
+Gill has lived in this town since the day he was born and is determined
+to stay here until the day he dies.  He refuses to leave regardless of the
+danger he puts himself in by remaining.  Being the good hearted person he is
+Gill stayed behind when his family left to make sure the townspeople would
+still have a means of purchasing the goods they need to survive.  So the
+store remains open around the clock to allow Gill to assist his fellow man
+in this time of need.  
+~
+human~
+ABGIY H 1000 0
+60 0 50d10+9500 1d1+100 8d6+28 punch
+-18 -18 -18 -8
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12012
+Tyler kennel master~
+Tyler the kennel master~
+Tyler the kennel master is here resting after a hard day.
+~
+Taking a quick look at Tyler you notice he is a very grubby individual. 
+It would not surprise you to hear he has not washed in the last couple
+months.  He reeks of the smell of the rancid meat that he feeds to the
+bludhounds.  He certainly seems to enjoy his work though.  For now he is
+resting after a hard day of work whipping dogs and driving them into a
+frenzy.  
+~
+human~
+ABG CV -500 0
+31 1 6d12+928 1d1+100 4d6+9 punch
+-10 -10 -10 -4
+CEFHIK 0 LQ N
+rest rest male 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12030
+extra~
+extra~
+Extra
+~
+~
+unique~
+AGU 0 0 0
+0 0 2d6+10 1d1+100 1d4+0 punch
+9 9 9 9
+0 KZ 0 0
+stand stand none 0
+AGQc AFHM tiny 0 the guilds~
+#12031
+extra~
+extra~
+Extra
+~
+~
+unique~
+AGU 0 0 0
+0 0 1d1+0 1d1+99 1d1+0 pound
+10 10 10 10
+0 KZ 0 0
+stand stand none 0
+AGQc AFHM tiny 0 the guilds~
+#12032
+extra~
+extra~
+Extra
+~
+~
+unique~
+AGU 0 0 0
+0 0 1d1+0 1d1+99 1d1+0 none
+10 10 10 10
+0 KZ 0 0
+stand stand none 0
+AGQc AFHM tiny 0 the guilds~
+#12033
+extra~
+extra~
+Extra
+~
+~
+unique~
+AGU 0 0 0
+0 0 1d1+0 1d1+99 1d1+0 none
+10 10 10 10
+0 KZ 0 0
+stand stand none 0
+AGQc AFHM tiny 0 the guilds~
+#12034
+extra~
+extra~
+Extra
+~
+~
+unique~
+AGU 0 0 0
+0 0 1d1+0 1d1+99 1d1+0 none
+10 10 10 10
+0 KZ 0 0
+stand stand none 0
+AGQc AFHM tiny 0 the guilds~
+#12035
+extra~
+extra~
+Extra
+~
+~
+unique~
+AGU 0 0 0
+0 0 1d1+0 1d1+99 1d1+0 none
+10 10 10 10
+0 KZ 0 0
+stand stand none 0
+AGQc AFHM tiny 0 the guilds~
+#12036
+extra~
+extra~
+Extra
+~
+~
+unique~
+AGU 0 0 0
+0 0 1d1+0 1d1+99 1d1+0 none
+10 10 10 10
+0 KZ 0 0
+stand stand none 0
+AGQc AFHM tiny 0 the guilds~
+#12037
+extra~
+extra~
+Extra
+~
+~
+unique~
+AGU 0 0 0
+0 0 1d1+0 1d1+99 1d1+0 none
+10 10 10 10
+0 KZ 0 0
+stand stand none 0
+AGQc AFHM tiny 0 the guilds~
+#12038
+extra~
+extra~
+Extra
+~
+~
+unique~
+AGU 0 0 0
+0 0 1d1+0 1d1+99 1d1+0 none
+10 10 10 10
+0 KZ 0 0
+stand stand none 0
+AGQc AFHM tiny 0 the guilds~
+#12039
+extra~
+extra~
+Extra
+~
+~
+unique~
+AGU 0 0 0
+0 0 1d1+0 1d1+99 1d1+0 none
+10 10 10 10
+0 KZ 0 0
+stand stand none 0
+AGQc AFHM tiny 0 the guilds~
+#12050
+extra~
+extra~
+Extra
+~
+~
+unique~
+AGU 0 0 0
+0 0 1d1+0 1d1+99 1d1+0 none
+10 10 10 10
+0 KZ 0 0
+stand stand none 0
+AGQc AFHM tiny 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#12000
+chocolate covered candy~
+a tasty looking chocolate covered candy~
+Someone has left a tasty looking candy here.~
+ice~
+pill A A
+35 'protection evil' 'bark skin' 'shield' 'reserved'
+0 10 0 P
+#12001
+ice fountain~
+a fountain made of ice~
+A large fountain made of ice is here.~
+ice~
+fountain OT P
+100 100 'milk' 0 0
+0 3000 0 P
+#12002
+ice throne~
+a throne made of ice~
+A large throne made of ice is here.~
+ice~
+furniture OT P
+2 900 EHK 100 100
+0 2000 0 P
+#12003
+fireplace~
+a fireplace~
+A warm fire crackles away in the fireplace here.~
+stone~
+container 0 P
+300 0 0 200 0
+0 3000 0 P
+#12004
+a small iron pot~
+a small iron pot~
+A small iron pot for cooking meals is here.~
+wood~
+container 0 A
+4 0 0 4 0
+0 40 80 P
+#12005
+rabbit stew~
+rabbit stew~
+Some warm rabbit stew is here tempting your tastebuds.~
+food~
+food 0 A
+20 40 0 0 0
+0 20 22 P
+#12006
+iron cauldron~
+a small iron cauldron~
+A small iron cauldron for cooking is here.~
+iron~
+drink 0 A
+20 20 'salt water' 0 0
+0 80 90 P
+#12007
+mauled corpse~
+a mauled corpse~
+A severely mauled corpse rots in the mud before you.~
+food~
+trash 0 P
+0 0 0 0 0
+0 1200 0 P
+E
+corpse~
+This appears to be the remains of the mayor of Baskerville.  He must have
+been out for an evening stroll when he was set upon by a pack of bludhounds.
+He is in pretty rough shape now.  Even his eyeballs appear to have been
+pecked out by the hungry crows.  
+~
+#12008
+shelves~
+some stock room shelves~
+Some stock room shelves are along the walls here.~
+wood~
+container 0 P
+50 0 0 30 0
+0 500 400 P
+#12009
+barrel~
+a barrel~
+A barrel is here in the corner.~
+wood~
+drink 0 P
+40 40 'slime mold juice' 0 0
+0 1200 230 P
+#12010
+stale loaf bread~
+a stale loaf of bread~
+A stale loaf of bread has been left here.~
+food~
+food 0 A
+22 42 0 0 0
+0 20 10 P
+#12011
+jagged shield~
+a jagged edged shield~
+A jagged edged shield lies here in the dirt.~
+metal~
+armor I AJ
+6 6 6 3 0
+20 150 2900 P
+A
+19 1  
+E
+jagged~
+This large shield has jagged edges all the way around its surface which
+add to its destructive capabilities.  
+~
+E
+shield~
+This large shield has jagged edges all the way around its surface which
+add to its destructive capabilities.  
+~
+#12012
+dried chunk cheese~
+a chunk of cheese~
+A dried out hunk of cheese has been left here.~
+food~
+food 0 A
+7 7 0 0 0
+0 10 3 P
+#12013
+counter~
+a shop counter~
+A shop counter is here in the center of the room.~
+wood~
+container 0 P
+60 AC 0 20 0
+0 600 400 P
+#12014
+crab apple~
+a crab apple~
+A sour old crab apple has been left here.~
+food~
+food 0 A
+10 10 0 0 0
+0 10 8 P
+#12015
+slab rancid meat~
+a slab of rancid meat~
+A slab of rancid meat does not look fit for human consumption.~
+food~
+food 0 A
+10 12 0 A 0
+0 20 22 P
+#12016
+bottle slime mold juice~
+a bottle of slime mold juice~
+A bottle of slime mold juice has been left here to ferment.~
+glass~
+drink 0 A
+20 20 'slime mold juice' 0 0
+0 50 20 P
+#12017
+buried sign~
+a buried sign~
+A sign is here half buried in the mud.~
+wood~
+trash 0 P
+0 0 0 0 0
+0 50 98 P
+E
+sign~
+You wipe some smeared mud off the sign and look at it.
+It reads, 'Welcome to Baskerville'.
+~
+#12018
+well caved~
+a caved in well~
+A stone well has been caved in here and rendered useless.~
+stone~
+drink 0 P
+0 0 'water' 0 0
+0 3100 2300 P
+E
+well~
+This well appears to have caved in quite some time ago.  The stones are
+now scattered around the area and the well has been sealed up.  Hopefully no
+one was around when the well fell in.  
+~
+#12019
+boiled potato~
+a boiled potato~
+A boiled potato lies here.~
+food~
+food 0 A
+4 4 0 0 0
+0 10 6 P
+#12020
+boiled carrot~
+a boiled carrot~
+A boiled carrot lies here.~
+food~
+food 0 A
+4 4 0 0 0
+0 10 6 P
+#12021
+mauled corpse~
+a mauled corpse~
+A severely mauled corpse rots in the mud before you.~
+wood~
+container 0 P
+80 0 0 20 0
+0 800 0 P
+E
+corpse~
+This appears to be the remains of the mayor of Baskerville.  He must have
+been out for an evening stroll when he was set upon by a pack of bludhounds.
+He is in pretty rough shape now.  Even his eyeballs appear to have been
+pecked out by the hungry crows.  
+~
+#12022
+skeleton key~
+a skeleton key~
+A skeleton key has been left here.~
+bone~
+key 0 A
+0 0 0 0 0
+0 10 124 P
+#12023
+straw bed~
+a straw bed~
+A straw bed is here against the wall.~
+wood~
+furniture 0 P
+3 300 EHK 105 105
+0 1200 4300 P
+#12024
+dust covered chair~
+an antique chair~
+An antique chair covered in dust is here.~
+wood~
+furniture 0 P
+1 100 E 0 0
+0 150 2900 P
+#12025
+antique table~
+a small antique table~
+A small antique table is here covered in dust.~
+wood~
+container 0 P
+10 AC 0 4 0
+0 10 3200 P
+#12026
+elegantly crafted table~
+an elegantly crafted table~
+An elegantly crafted table is in the center of the room.~
+wood~
+furniture 0 P
+0 0 0 0 0
+0 3000 9800 P
+#12027
+small desk~
+a small desk~
+A small desk is here covered in dust~
+wood~
+container 0 P
+20 AC 0 5 0
+0 200 1300 P
+#12028
+shopkeeper key~
+a shopkeeper's key~
+A shopkeeper's key has been left here.~
+metal~
+key 0 A
+0 0 0 0 0
+0 10 130 P
+#12029
+tiny house key~
+a tiny house key~
+A tiny house key has been left here.~
+brass~
+key 0 A
+0 0 0 0 0
+0 10 93 P
+#12030
+barbed whip~
+a barbed whip~
+A barbed whip has been left here in the mud.~
+leather~
+weapon CEJ AN
+whip 3 9 slash 0
+30 42 5200 P
+A
+19 1  
+#12031
+wicked cudgel~
+a wicked looking cudgel~
+A wicked looking cudgel has been left here in the mud.~
+bamboo~
+weapon CEM AN
+mace 3 9 smash C
+35 150 3500 P
+A
+2 1  
+A
+14 20  
+E
+wicked~
+This wicked looking cudgel is covered in blood.  It has been used by
+Drokus to beat his pets into submission.  
+~
+E
+cudgel~
+This wicked looking cudgel is covered in blood.  It has been used by
+Drokus to beat his pets into submission.  
+~
+#12032
+massive battle axe~
+a massive battle axe~
+A massive battle axe has been left here covered in blood.~
+steel~
+weapon AI AN
+axe 3 6 slash D
+24 190 2100 P
+A
+19 1  
+A
+18 1  
+#12033
+family ring~
+the Drokus family ring~
+A small silver ring with an unusual design on it has been left here.~
+silver~
+jewelry 0 AB
+0 0 0 0 0
+25 2 3800 P
+A
+4 1  
+A
+3 1  
+A
+9 5  
+E
+family~
+This ring has been handed down from generation to generation within the
+Drokus family.  It has a very detailed family crest of a hunting dog on it
+fashioned out of silver.  
+~
+E
+ring~
+This ring has been handed down from generation to generation within the
+Drokus family.  It has a very detailed family crest of a hunting dog on it
+fashioned out of silver.  
+~
+#12034
+stuffed toy dog~
+a stuffed toy dog~
+A stuffed toy resembling a hunting dog has been left here by some child.~
+fur~
+trash 0 AO
+0 0 0 0 0
+0 20 400 P
+#12035
+heroic arm guards~
+a set of heroic arm guards~
+Someone has left a set of heroic arm guards here in the dirt.~
+metal~
+armor AIKL AI
+7 7 6 1 0
+24 120 3200 P
+A
+13 10  
+A
+1 1  
+#12036
+bronze chest plate~
+a bronze chest plate~
+A bronze chest plate has been left here on the ground.~
+bronze~
+armor 0 AD
+6 7 7 2 0
+24 220 3500 P
+A
+18 1  
+A
+5 1  
+#12037
+leather strap~
+a leather strap~
+A leather strap has been left here on the ground.~
+leather~
+armor 0 AM
+0 0 0 0 0
+24 10 800 P
+A
+5 2  
+#12038
+filthy turquoise scarf~
+a filthy turquoise scarf~
+A filthy turquoise scarf has been left here in the dirt.~
+cloth~
+armor 0 AC
+3 6 4 1 0
+30 20 210 P
+A
+18 2  
+A
+2 1  
+#12039
+gentleman gloves~
+a pair of gentleman's gloves~
+A dirty pair of gentleman's gloves has been left here.~
+cloth~
+armor 0 AH
+7 8 8 2 0
+35 20 2100 P
+A
+18 2  
+A
+2 1  
+#12040
+fiery ruby~
+a fiery red ruby~
+A fiery ruby catches the light and glitters before you.~
+crystal~
+warp_stone AEGJT AO
+0 0 0 0 0
+35 20 3700 P
+A
+12 20  
+#12041
+diary~
+a diary~
+Someone's personal diary has been left here.~
+paper~
+trash 0 A
+0 0 0 0 0
+0 10 0 P
+E
+diary~
+Opening the diary you read the final entry:
+ 
+Date: 2am, Day of Thunder, 10th the Month of Futility.
+ 
+I find myself unable to sleep yet again. Since the death of my precious
+Emily I have not slept. I feel my life slipping away as I sit here numb
+to the world. If only she had not been there when the well collapsed.
+If only I had been there to save her... What good were those people
+of the town then? When they needed us we were there! Where were they
+as Emily was trapped under the rubble? Did they even attempt to save
+her? No! I will have my revenge on them all if it is the last thing
+I do in this life!
+ 
+I will avenge the death of my beloved Emily...
+~
+#12042
+little metal key~
+a little metal key~
+A metal key has been left here in the mud.~
+metal~
+key 0 A
+0 0 0 0 0
+0 10 104 P
+#0
+
+
+
+#ROOMS
+#12000
+Inside The Bell Jar~
+From the safety of this bell jar Snowy can look out upon the world from a
+reasonable distance.  Completely shut off from the outside world the bell
+jar appears to be an ideal place for quiet contemplation.  Though relatively
+pleasant it is obvious that this is more of a prison than a paradise.  One
+must wonder what kind of anti-social hermit would consider calling a place
+such as this his home.  
+~
+0 268968972 0
+O Snowy~
+D5
+~
+~
+4 0 12001
+M 300 H 300
+S
+#12001
+At the Base of the Bell Jar~
+You stand at the bottom of the bell jar. The room looks unimpressive.
+It must be a storage facility used by Snowy.
+~
+0 269493260 1
+D4
+~
+~
+4 0 12000
+M 90 H 90
+S
+#12002
+Along the Muddy Path~
+A muddy path winds its way between the dead trees in this section of the
+forest.  The ground is covered with bits of torn bark and fallen branches. 
+On the path itself you can make out numerous sets of paw prints deep in the
+mud.  A slight mist has started to move in making it difficult to see very
+far in any given direction.  There seems to be some rather large wildlife
+running around in the brush.  Quite possibly it is in search of food and you
+might be its next meal.  
+~
+0 0 3
+E
+print~
+Some rather large paw prints are here in the mud.  They appear to be dog
+tracks but they are so deeply set these much be fairly hefty animals.  
+~
+D1
+~
+~
+0 0 12003
+D2
+~
+~
+0 0 31409
+M 90 H 90
+S
+#12003
+Further Along the Path~
+Continuing along the path you notice an increasing number of paw prints
+in the mud.  Upon closer inspection the prints appears to be quite similar
+to that of a dog.  Judging by their depth the dogs that made these tracks
+would have to weight as much as a fair sized human.  Off in the distance you
+hear a single haunting howl followed immediately by several barks and yelps
+from all around you.  
+~
+0 0 3
+D0
+~
+~
+0 0 12004
+D3
+~
+~
+0 0 12002
+M 90 H 90
+S
+#12004
+The Site of a Fresh Kill~
+Face down in the mud before you lies the remains of a half eaten body. 
+The mud path is beginning to take on a distinct red tint to it as the earth
+is absorbing every drop of blood.  A few body parts remain strewn about with
+imprints of bite marks on them.  Obviously there was quite a feeding frenzy
+here not long ago as they kill is still fresh.  It would be wise to keep on
+the look out for whatever did this.  
+~
+0 0 3
+D0
+~
+~
+0 0 12005
+D2
+~
+~
+0 0 12003
+M 90 H 90
+S
+#12005
+Approaching Baskerville~
+Not far to the north you can make out a few tiny dwellings along the
+muddy streets of Baskerville.  The howls of dogs continue to fill your ears
+but there is no sign of human activity anywhere.  There is no doubt that
+there is something watching your every move from within the town.  You can
+feel the eyes gazing upon you.  Unfortunately the streets are cloaked in
+mist making your field of vision very limited.  
+~
+0 0 3
+D0
+~
+~
+0 0 12006
+D2
+~
+~
+0 0 12004
+M 90 H 90
+S
+#12006
+Entrance To Baskerville~
+Upon entering the town a gentle wind greets you with the wafting scent of
+decaying flesh.  There are no citizens to be seen anywhere.  From the corner
+of your eye you catch a glimpse of some sort of dog but it retreats into the
+shadows before you can get a good look.  Something evil has come over this
+town.  Once a prosperous place to live it seems to have fallen on hard
+times.  
+~
+0 8 1
+D0
+~
+~
+0 0 12029
+D2
+~
+~
+0 0 12005
+D3
+~
+~
+0 0 12007
+M 90 H 90
+S
+#12007
+On a Muddy Side Street~
+The muddy streets appear to be unusually quiet.  Dog tracks head in all
+directions.  One set in particular leads up to a small house on the north
+side of the street.  Obviously whatever made these tracks wanted to get into
+that house as it appears to have circled the residence repeatedly looking
+for a way in.  A dim light appears to be coming from inside the little
+house.  The town might not be quite so deserted as it originally seemed.  
+~
+0 0 1
+D0
+~
+~
+1 12022 12008
+D1
+~
+~
+0 0 12006
+D3
+~
+~
+0 0 12009
+M 90 H 90
+S
+#12008
+Inside a Small House~
+This small house may not provide much in the way of shelter from the
+elements but it does serve a much more important purpose.  The sturdy stone
+walls can stand up to a good deal of force.  The resident of this home would
+be well protected from the beasts that roam the streets of Baskerville.  A
+little leak or two in the roof is a small price to pay for safety.  
+~
+0 8 0
+D2
+~
+~
+1 0 12007
+S
+#12009
+South End of the Main Street~
+Arriving at an intersection in the southern part of Baskerville you
+notice that even the main street to the north is desolate.  The only traffic
+up and down these streets seems to be the pacing of dogs in search of fresh
+meat.  There does appear to be some kind of activity far to the north but
+from this distance it is hard to make out what is going on through the mist.
+~
+0 0 1
+D0
+~
+~
+0 0 12023
+D1
+~
+~
+0 0 12007
+D3
+~
+~
+0 0 12011
+M 90 H 90
+S
+#12010
+An Intersection on the Main Street~
+You have arrived at an intersection where the town's main street meets up
+with a side street leading out of town.  The only things that seem to be
+walking these streets are the bludhounds these days.  They have completely
+taken over the town leaving the few citizens that still remain hiding behind
+locked doors.  Unless someone manages to clean up these streets the only
+thing left in this town will be the half eaten corpses of innocents rotting
+in the mud.  
+~
+0 0 1
+D0
+~
+~
+0 0 12033
+D1
+~
+~
+0 0 12038
+D2
+~
+~
+0 0 12031
+D3
+~
+~
+1 12022 12032
+M 90 H 90
+S
+#12011
+On a Muddy Side Street~
+The thick mud of this street continues to impede your progress as you
+trudge along the path.  Animal tracks have sunk deep into the muck leaving a
+constant reminder that these streets are walked by the beasts in search of
+flesh rather than the citizens.  Other than the occassional howl in the
+distance there does not seem to be any sounds indicating life anywhere
+nearby.  To the south there is a small house but it looks as though it has
+been deserted.  
+~
+0 0 1
+D1
+~
+~
+0 0 12009
+D2
+~
+~
+1 12022 12012
+D3
+~
+~
+0 0 12013
+M 90 H 90
+S
+#12012
+Inside a Small House~
+This small house seems to be deserted.  All furnishings have been removed
+and the previous occupant appears to have moved out.  The house itself
+remains secure and continues to provide shelter for any visitors passing
+through.  For how long the house will remain a safe haven is questionable
+however.  Even at this moment you can hear the sounds of heavy paws
+frantically circling the house in search of a way in.  
+~
+0 9 0
+D0
+~
+~
+1 0 12011
+S
+#12013
+On a Muddy Side Street~
+You arrive at a corner in the muddy side street.  The path continues to
+be difficult to walk along but your search for signs of human life must
+continue.  Every street seems deserted aside from the creatures that stalk
+about in search of their prey.  Somewhere in this town there may be people
+hiding out but finding them is another matter as the bludhounds seem to have
+cornered them all in their houses.  It may only be a matter of time before
+all the people in this town fall victim to the foul beasts.  
+~
+0 0 1
+D0
+~
+~
+0 0 12014
+D1
+~
+~
+0 0 12011
+M 90 H 90
+S
+#12014
+On a Muddy Side Street~
+This small section of the side street is eerily quiet.  The howling of
+dogs in the distance seems to have stopped for the most part and things
+appear to be relatively peaceful.  The only sound is the scraping of your
+heels on the muddy streets echoing off into the distance.  To your west you
+can see the remains of a caved in stone well and far off to the north you
+can see a small house that may offer some refuge in this cursed town.  
+~
+0 0 1
+D0
+~
+~
+0 0 12016
+D2
+~
+~
+0 0 12013
+D3
+~
+~
+0 0 12015
+M 90 H 90
+S
+#12015
+A Caved In Stone Well~
+From this sad little stone well the citizens of the town draw their
+water.  The large stones making up the sides of the well have been knocked
+in and now block the hole.  With no water supply it is not surprising the
+town has fallen upon such hard times.  Though it does seem that the water
+problem is possibly the least of the hardships this town is facing. 
+Emphasizing this fact is a half eaten corpse lying over by the well. 
+Apparently someone was making an attempt to clear the rubble from the well
+but unfortunately had a run in with some unfriendly local wildlife.  
+~
+0 0 1
+D1
+~
+~
+0 0 12014
+M 90 H 90
+S
+#12016
+On a Muddy Side Street~
+The street stops in front of a rather large house to the north at this
+point and continues off to the east and south.  There does not seem to be
+any sign of the citizens of the town out and about on the streets.  The mud
+continues to slow your progress through the streets as you make your way
+around the town.  Considering the state of disrepair these streets have
+fallen into it is no wonder the citizens are staying off them.  
+~
+0 0 1
+D0
+~
+~
+1 12022 12017
+D1
+~
+~
+0 0 12020
+D2
+~
+~
+0 0 12014
+M 90 H 90
+S
+#12017
+Inside a Large House~
+This residence looks like it is still lived in.  The place contains a few
+pieces of furniture but nothing extravagant.  The standard of living in this
+town has fallen drastically in recent years apparently.  The house remains
+well cleaned however and it appears that a family is trying to tough things
+out here and continue on with their lives.  It is doubtful they can do so
+for much longer as the bludhounds continue to terrorize this town and
+dispose of its residents one by one.  
+~
+0 8 0
+D1
+~
+~
+0 0 12018
+D2
+~
+~
+1 0 12016
+S
+#12018
+Inside a Large House~
+As you wander about the house you come upon a small fire in a fireplace
+being used to cook a small meal for the residents of this domicile.  The
+family that lives here has nothing of value by the look of it.  Their
+possessions are few in number.  Life is obviously hard for those who opted
+to remain in the town after the hordes of beasts took over the streets.  To
+the north a back exit leads out to a yard behind the house.  
+~
+0 8 0
+D0
+~
+~
+1 0 12019
+D3
+~
+~
+0 0 12017
+S
+#12019
+Behind the House~
+Stepping out the back door of the house you find yourself in an enclosed
+yard.  A stone fence circles the yard acting as a barrier to keep out
+unwanted intruders.  Though the fence might keep out average sized creatures
+it is hard to imagine how this wall could keep out the beasts that wander
+the streets of this town.  Proof of this might be the fact that there is a
+mauled corpse in the mud.  It seems unlikely the tenant of the home stepped
+out into the backyard and spontaneously degraded to this state.  
+~
+0 0 2
+D2
+~
+~
+1 0 12018
+M 90 H 90
+S
+#12020
+On a Muddy Side Street~
+You arrive at a section of the street in front of a small house to the
+south.  The house appears to have been broken in to as the door has been
+knocked in.  Animal tracks lead in through the front door and back out
+again.  The town continues to be quite peaceful aside from the occassional
+howl off in the distance.  There does appear to be some kind of commotion
+off to the east though it is hard to make out what is going on from this
+distance.  
+~
+0 0 1
+D1
+~
+~
+0 0 12022
+D2
+~
+~
+1 0 12021
+D3
+~
+~
+0 0 12016
+M 90 H 90
+S
+#12021
+A Ruined House~
+This little house has been completely destroyed.  It appears that someone
+or something bashed in the front door and went to work trying to bring the
+place to the ground.  Furniture is broken into bits and debris is scattered
+all over the floor.  The owner of the house seems to have come to a grizzly
+end as there are a few strips of flesh still remaining and blood has been
+splattered all over the place.  It would appear this house was not as secure
+as the owner may have thought it was supposed to be.  
+~
+0 9 1
+D0
+~
+~
+1 0 12020
+M 90 H 90
+S
+#12022
+The Town Square~
+Judging by the amount of blood on the ground and the corpses scattered
+about here this is the site of one last stand against the bludhounds of
+Baskerville.  In a final effort to run the beasts out of town one brave soul
+has come here to cleans the streets of this evil once and for all.  The
+hacked off limbs and heads of these hellish dogs are strewn about the
+square.  Yet the bludhounds continue their onslaught regardless of this grim
+scene.  
+~
+0 0 1
+D0
+~
+~
+0 0 12031
+D1
+~
+~
+0 0 12025
+D2
+~
+~
+0 0 12023
+D3
+~
+~
+0 0 12020
+M 90 H 90
+S
+#12023
+On the Main Street~
+Walking along the street you come upon a small house to the west.  You
+notice some movement in the window and there does seem to be some light
+coming from inside.  To the north you can see some sort of activity but the
+heavy mist obscures your vision.  Baskerville is proving to be quite a ghost
+town.  Most of the citizens have long since left and those who have remained
+seem to spend the majority of their time hiding indoors.  Once this may have
+been a very busy street.  Now the only traffic is an endless stream of
+bludhounds parading around in search of flesh.  
+~
+0 0 1
+D0
+~
+~
+0 0 12022
+D2
+~
+~
+0 0 12009
+D3
+~
+~
+1 12022 12024
+M 90 H 90
+S
+#12024
+Inside a Small House~
+This cozy little house looks fairly warm and friendly compared to the
+generally bleak surroundings outside.  A crackling fire burns brightly in
+the fireplace helping to remove the chill from your bones.  In addition to
+being such a pleasant dwelling it also looks fairly secure with no sign of
+weakness in its structure.  This little fortress would be as good a place as
+one could possibly find in this town to rest at ease if only temporarily.  
+~
+0 8 0
+D1
+~
+~
+1 0 12023
+S
+#12025
+Along a Muddy Side Street~
+You spot a small house to the north of this section of the road.  The
+street continues to be difficult to maneuver on.  The thick mud makes
+progress through the town quite awkward.  The town seems to have fallen into
+a very bad state of repair indeed.  It is no wonder the majority of the
+townsfolk have packed up and left this place.  Everyday life in such a place
+would be difficult enough even without the presence of the beasts that
+wander the streets.  Off to the west there seems to be some kind of activity
+but it is hard to make out what exactly is going on through the mist.  
+~
+0 0 1
+D0
+~
+~
+1 12022 12026
+D1
+~
+~
+0 0 12027
+D3
+~
+~
+0 0 12022
+M 90 H 90
+S
+#12026
+A Rickety Old Shack~
+This small shack looks like it is about to fall to the ground.  The walls
+are beginning to give way and the front door looks like it is barely holding
+on its hinges.  This probably is not a very safe place to live considering
+how badly the bludhounds seem to want to get indoors to get at citizens
+hiding behind locked doors.  A person would stand a better chance hiding in
+a tree than in this rickety old place.  
+~
+0 9 0
+D2
+~
+~
+1 0 12025
+S
+#12027
+Along a Muddy Side Street~
+There appears to have been a bit of an altercation here.  Lying face down
+in the mud is the corpse of some poor fellow.  Likely he just stepped
+outside of his house for a moment to take a look around and ended up having
+one of the beasts disembowel him.  Unfortunate as it may seem at least his
+death was likely a swift one.  Chunks of flesh have been ripped off and are
+now strewn about in the mud.  The crows will have a feast if the bludhounds
+do not clean up first.  
+~
+0 0 1
+D1
+~
+~
+1 12022 12028
+D2
+~
+~
+0 0 12029
+D3
+~
+~
+0 0 12025
+M 90 H 90
+S
+#12028
+Inside a Small House~
+It looks like the owner of this small house must have just stepped out
+for the moment.  A small fire burns in the fireplace at the far end of the
+room and a meager meal has been left in a pot to simmer.  With things the
+way they are in this town though the occupant may not be returning any time
+soon if ever at all.  For the most part the house seems to have nothing of
+value in it.  Not surprising considering the state of affairs in the town as
+of late.  
+~
+0 8 0
+D3
+~
+~
+1 0 12027
+S
+#12029
+Along a Muddy Side Street~
+Walking along the muddy street it occurs to you that there are no people
+anywhere to be seen.  Considering that this was at one time a very
+prosperous little village it seems odd that it has fallen upon such hard
+times as these.  Looking around and taking in the surroundings it seems that
+this town has become quite a hell hole.  Thankfully you do not have to live
+in this disaster area.  However since you are here now you may as well keep
+on the look out for whatever is responsible for all the corpses lying about.
+~
+0 0 1
+D0
+~
+~
+0 0 12027
+D1
+~
+~
+1 12022 12030
+D2
+~
+~
+0 0 12006
+M 90 H 90
+S
+#12030
+Inside a Small House~
+This small house seems to be one of the last safe places of refuge in
+this town.  Those lucky enough to find a safe haven such as this just might
+survive for the moment but how long the door and walls can hold out remains
+to be seen.  The majority of people have long since cleaned out their homes
+and moved on to find a safer place to live out their days.  Considering the
+ordeals one must deal with in this town it seems likely that just leaving
+this place would be a step towards building a better life.  
+~
+0 8 0
+D3
+~
+~
+1 0 12029
+S
+#12031
+On the Main Street~
+This street appears to be the main road in this town.  It seems to have
+been fairly well traveled and is in much better condition than the other
+streets of the town.  The road leads to the northern section of town where
+it seems there is an even greater traffic of bludhounds wandering the
+streets.  These beasts may have a den further along the way.  To the south
+there seems to be some sort of commotion but from this distance it is hard
+to make out just what is going on through the mist.  
+~
+0 0 1
+D0
+~
+~
+0 0 12010
+D2
+~
+~
+0 0 12022
+M 90 H 90
+S
+#12032
+Inside a Small House~
+This small house appears to have been recently vacated.  There are still
+a few odds and ends left behind by the previous tenants suggesting they may
+have departed in haste.  It was likely once a very happy little home some
+couple were planning to spend the rest of their lives in.  Things being as
+they are in Baskerville they probably made the right choice in picking up
+their belongings and moving on to try and build a better future for
+themselves.  
+~
+0 8 0
+D1
+~
+~
+1 0 12010
+S
+#12033
+At the End of the Main Street~
+The main street comes to an abrupt end here.  Looking south along the
+street you can make out a few figures moving through the shadows and mist. 
+It seems hard to believe that this street was once the bustling heart of a
+thriving town.  To the north there is a small house that appears to be
+occupied at the moment.  A small sign is fixed above the front door.  Off to
+the west a small path leads alongside the house.  From here you can hear the
+sounds of running water somewhere in the distance.  
+~
+0 0 1
+E
+sign~
+A small sign above the front door reads, 'Baskerville General Store'.
+~
+D0
+~
+~
+1 0 12034
+D2
+~
+~
+0 0 12010
+D3
+~
+~
+0 0 12036
+M 90 H 90
+S
+#12034
+A Run Down Old Store~
+This old store is in rough shape these days.  It was well stocked at one
+point in time but now as the population has dwindled there is not much
+business going on in town.  This store is the last hope for the people of
+Baskerville as it is the only place to purchase supplies now that most of
+the townspeople have moved on.  If you have come in search of exotic items
+then you may as well leave now.  This place is barely getting by as it is
+without branching out into specialty items.  
+~
+0 8 0
+D0
+~
+~
+1 12028 12035
+D2
+~
+~
+1 0 12033
+S
+#12035
+The Stock Room~
+This little room is used to store all the goods the store owner has in
+stock.  The shelves are pretty bare at the moment.  Business must not be so
+good these days.  The room is empty aside from a few recessities of life
+still kept on hand.  Obviously this is a no frills operation.  
+~
+0 9 0
+D2
+~
+~
+1 0 12034
+S
+#12036
+A Small Path~
+This small path looks like it was rarely traveled.  It is most likely a
+trail workers used to get to the town's drainage system to the north.  The
+path is beginning to fade due to lack of use these days.  The weeds have
+covered over the tracks now and only a faint discoloration remains to
+indicate human feet every touched this track of land.  
+~
+0 0 1
+D0
+~
+~
+0 0 12037
+D1
+~
+~
+0 0 12033
+M 90 H 90
+S
+#12037
+A Bloody Drainage Ditch~
+This drainage ditch allows excess water to spill out into a nearby river
+rather than flood the city streets.  The water spilling into the ditch and
+away from the town has taken on a slight red tint.  Obviously excess water
+from the city streets is not the only thing seeping into this little gulley.
+The presence of a corpse face down in the middle of the ditch probably has
+not helped to cleans the water either.  
+~
+0 0 6
+D2
+~
+~
+0 0 12036
+M 80 H 80
+S
+#12038
+On a Side Street~
+This little side street heads off from the main street of the town and
+continues to the east into the mist.  This street does not seem to be any
+more lively than the previous ones.  Obviously the citizens have all locked
+themselves indoors to hide from the bludhounds that are roaming the town. 
+The eerie surroundings leave you feeling somewhat uncomfortable.  You can
+not shake the sensation that your every move is being watched from the
+shadows.  Fortunately there is a house on the north side of the street that
+may provide shelter for the moment.  
+~
+0 0 1
+D0
+~
+~
+1 12022 12039
+D1
+~
+~
+0 0 12040
+D3
+~
+~
+0 0 12010
+M 90 H 90
+S
+#12039
+Inside a Small House~
+Stepping inside a small house and away from the misty streets you feel
+momentarily at ease.  This soon fades as you continue to hear the sounds of
+wild animals howling wildly outside.  Sadly this house will likely soon be
+empty as the residents of the town continue to leave the instant an
+opportunity presents itself to them.  The house is barely standing as it is.
+The door looks as though it could fall off its hinges any moment and leave
+an open invitation to all the wandering beasts outside.  
+~
+0 8 0
+D2
+~
+~
+1 0 12038
+S
+#12040
+On a Side Street~
+The side street is cloaked in a screen of mist preventing you from seeing
+very far in any direction.  The street appears to lead out of town to the
+east while to the west it links up with the main street.  Sounds of padded
+feet can be heard coming out of the mist.  It might be a good idea to get
+indoors as soon as possible to avoid a confrontation.  The streets remain
+slick and the mud is proving to be quite an obstacle.  Walking along you
+spot a narrow alley leading to the south into darkness.  
+~
+0 0 1
+D1
+~
+~
+0 0 12042
+D2
+~
+~
+0 0 12041
+D3
+~
+~
+0 0 12038
+M 90 H 90
+S
+#12041
+Dead End Alley~
+This little alley comes to an abrupt halt at a dead end.  This looks like
+one of the last places a person would want to end up as there is no escape
+other than back the way you came.  It would probably be best to get out of
+this alley before you find yourself cornered.  There is a reason why they
+are called dead ends and if you stick around you may find out first hand
+where the phrase comes from.  
+~
+0 1 1
+D0
+~
+~
+0 0 12040
+M 90 H 90
+S
+#12042
+A Road Out Of Town~
+This road leads away from the main section of the town.  It seems to be
+fairly well traveled by the look of it.  Bludhound tracks head in the
+direction of town in large numbers.  Obviously the den of the beasts must be
+somewhere nearby.  To the west through the mist you can see the little
+houses of the town.  The streets are still somewhat cloaked in fog.  The
+stillness of the surrounding area is very unsettling.  
+~
+0 0 1
+D1
+~
+~
+0 0 12043
+D3
+~
+~
+0 0 12040
+M 90 H 90
+S
+#12043
+Outskirts of Town~
+You have arrived at the outskirts of Baskerville.  Along the road to the
+west you can just make out the houses through the mist.  The town really is
+quite eerie looking from a distance.  Not a soul can be seen walking the
+streets.  Maybe during better days this town was a bit more lively.  Off to
+the north you see a rather large house at the end of a wide path.  Compared
+to the other houses in the town this residence looks like it must belong to
+a fairly wealthy family.  There does not appear to be anyone on the grounds
+at the moment however.  
+~
+0 0 1
+D0
+~
+~
+0 0 12044
+D3
+~
+~
+0 0 12042
+M 90 H 90
+S
+#12044
+Approaching the House of Drokus~
+You step on to a long lane leading up to a rather large house.  From here
+you can see the house is in a very poor state of repair.  The house looks
+like it may once have been a fairly impressive estate.  In these dark and
+dreary surroundings it has lost all traces of its former glory.  Through the
+mist you can make out what appears to be some dog kennels off to the west. 
+Judging by the animal tracks leading from it this is likely where the
+bludhounds have come from.  
+~
+0 0 1
+D0
+~
+~
+0 0 12046
+D2
+~
+~
+0 0 12043
+D3
+~
+~
+0 0 12045
+M 90 H 90
+S
+#12045
+At the Kennel Entrance~
+You stand before the entrance to the kennels.  The smell of decay is
+quite strong here.  The kennels seem empty at the moment which is a good
+thing.  The last thing anyone would want to do is wander in to the kennels
+while the bludhounds are in there.  The kennels themselves are in poor
+shape.  There must be a kennel master around somewhere but it looks like he
+has been neglecting his duties for quite some time now.  
+~
+0 0 1
+D0
+~
+~
+0 0 12049
+D1
+~
+~
+0 0 12044
+D3
+~
+~
+0 0 12047
+M 90 H 90
+S
+#12046
+Before the House of Drokus~
+You stand before the house of Drokus.  Once a well respected family in
+the town of Baskerville their name is now spoken with hatred by the
+townspeople.  Only one member of the Drokus family still exists to this day.
+From inside this house the one now known only as Drokus spends his days
+plotting against the town to bring about its downfall.  The house remains in
+a shambles.  The dilapidated house is a sad reminder of the beauty that once
+was.  The faint impression of a family crest still remains on the front
+door.  
+~
+0 0 1
+E
+crest~
+Taking a closer look at the family crest on the door it appears to be the
+image of a hunting dog standing proudly over the carcass of a deer.  
+~
+D0
+~
+~
+1 12029 12051
+D2
+~
+~
+0 0 12044
+S
+#12047
+Inside the Kennel~
+Stepping inside the kennel you are immediately hit by the stench of the
+place.  The kennel floor is covered with a mix of mud and other less
+pleasant substances.  Rotting flesh has been left out for the bludhounds to
+eat but they all seem to have gone out in search of a fresh food supply. 
+Apparently they lost their taste for maggot covered meat and now want
+nothing to do with rancid flesh such as this.  
+~
+0 9 0
+D0
+~
+~
+0 0 12048
+D1
+~
+~
+0 0 12045
+D2
+~
+~
+1 0 12050
+M 90 H 90
+S
+#12048
+Inside the Kennel~
+Stepping inside the kennel you are immediately hit by the stench of the
+place.  The kennel floor is covered with a mix of mud and other less
+pleasant substances.  Rotting flesh has been left out for the bludhounds to
+eat but they all seem to have gone out in search of a fresh food supply. 
+Apparently they lost their taste for maggot covered meat and now want
+nothing to do with rancid flesh such as this.  
+~
+0 9 0
+D1
+~
+~
+0 0 12049
+D2
+~
+~
+0 0 12047
+M 90 H 90
+S
+#12049
+Inside the Kennel~
+Stepping inside the kennel you are immediately hit by the stench of the
+place.  The kennel floor is covered with a mix of mud and other less
+pleasant substances.  Rotting flesh has been left out for the bludhounds to
+eat but they all seem to have gone out in search of a fresh food supply. 
+Apparently they lost their taste for maggot covered meat and now want
+nothing to do with rancid flesh such as this.  
+~
+0 9 0
+D2
+~
+~
+0 0 12045
+D3
+~
+~
+0 0 12048
+M 90 H 90
+S
+#12050
+Kennel Master's Room~
+This little room is the private quarters of the kennel master.  The place
+is a complete disaster.  Rags and filthy clothes cover the floor.  Rotting
+heaps of meat are piled in the corner with maggots crawling about on the
+putrid bludhound food.  The horrid smell of the kennels fills this room
+leaving you gasping for air.  
+~
+0 524813 0
+D0
+~
+~
+1 0 12047
+S
+#12051
+Inside the Greeting Hall~
+You stand in the entrance room of the house of the Drokus family.  This
+was once a grand reception area.  The walls are lined with portraits of high
+profile relatives of the Drokus'.  The family must have been held in high
+esteem by the townsfolk at one time.  The hall is now filled with filth.  It
+seems unlikely there has been much use for this greeting chamber since the
+fall of the house.  
+~
+0 9 0
+E
+portrait~
+You look around at the portraits on the walls.  The family seems to have
+held a position in high society at one time.  You wonder what could have
+gone wrong to cause such a noble family to crumble.  
+~
+D1
+~
+~
+1 0 12052
+D2
+~
+~
+1 0 12046
+S
+#12052
+The Parlor~
+You have entered the parlor of the Drokus residence.  In recent years
+there has been little need for this room as guests to the house have been
+few and far between.  The citizens of Baskerville were extended an open
+invitation to come visit the family and enjoy an evening of entertainment in
+the house in the past.  Haunting memories of laughter and merriment fill
+this room now.  Such moments of happiness are unlikely to return to this
+room any time soon.  
+~
+0 9 0
+D0
+~
+~
+1 0 12053
+D3
+~
+~
+1 0 12051
+S
+#12053
+The Dining Room~
+This was once the elegant dining hall of the Drokus family.  The walls
+are adorned with tattered and moth eaten tapestries.  Fragments of broken
+furniture lie about the room.  The only thing still intact in the room is
+the elegantly crafted dining room table.  The family once held large parties
+for the townsfolk here with the finest food and all sorts of entertainment. 
+Such joyous occassions are long forgotten now.  
+~
+0 9 0
+E
+tapestries~
+These tattered old tapestries are now moth eaten and falling to pieces. 
+Once a topic of conversation around the dinner table they are now just
+another example of how poorly maintained this house has become.  
+~
+D1
+~
+~
+1 12042 12055
+D2
+~
+~
+1 0 12052
+D3
+~
+~
+1 0 12054
+S
+#12054
+Inside the Kitchen~
+This kitchen looks like it has not been cleaned in years.  Pots filled
+with scraps of meat sit here waiting to be cleaned.  It seems that all the
+feeding bowls for the bludhounds have ended up here waiting for someone to
+wash them out.  Instead they just piled up until Drokus and the kennel
+master realized it was just as easy to throw the meat in the dirt for the
+bludhounds.  
+~
+0 9 0
+E
+bowls~
+These bowls still contain chunks of rotten meat.  Would it kill someone
+to wash these out before they put them here?  
+~
+E
+pots~
+These filthy pots have not been cleaned in months.  Maggots are crawling
+all over them.  This place could use a house keeper pretty badly.  
+~
+D1
+~
+~
+1 0 12053
+S
+#12055
+Drokus' Private Chambers~
+The stench filling this room is overwhelming.  Piles of feces are
+scattered around the room leaving you to wonder if they were left by the
+master's pets or if Drokus himself is so depraved as to soil his own private
+chambers.  From this room Drokus has plotted against the citizens of
+Baskerville and ultimately caused the downfall of the community.  The room
+itself is empty aside from a few furnishings.  There are no windows to allow
+air circulation which only makes the rank odor that much worse.  
+~
+0 9 0
+E
+feces~
+Disgusting as it may seem Drokus appears to have started relieving
+himself in his private quarters these days.  A huge pile has been left in
+the corner to stink up the place.  
+~
+D3
+~
+~
+1 0 12053
+S
+#12075
+Entrance To The Pit~
+You are at the entrance to a huge fighting pit.  Those who go beyond this
+point are in for the battle of their lives.  The pit is used to settle
+arguements between mortals when all other lines of communication have broken
+down.  It is a kill or be killed situation.  Good luck on being the one
+doing the killing.  
+~
+0 260 0
+D0
+~
+~
+0 0 12076
+M 300 H 300
+S
+#12076
+Inside The Pit~
+You have entered into the fighter's pit.  The pit is lined with sharp
+wooden stakes along the outer edge to keep combatants from escaping.  Many a
+brave soul has perished on this battle ground.  Hopefully you will not be
+one of the many that have failed to make it out of here alive.  To the
+victor goes the power and the glory.  To the defeated there is nothing but
+disgrace.  
+~
+0 268443668 10
+D0
+~
+~
+0 0 12077
+D1
+~
+~
+0 0 12079
+S
+#12077
+Inside The Pit~
+You have entered into the fighter's pit.  The pit is lined with sharp
+wooden stakes along the outer edge to keep combatants from escaping.  Many a
+brave soul has perished on this battle ground.  Hopefully you will not be
+one of the many that have failed to make it out of here alive.  To the
+victor goes the power and the glory.  To the defeated there is nothing but
+disgrace.  
+~
+0 268443668 10
+D1
+~
+~
+0 0 12078
+D2
+~
+~
+0 0 12076
+S
+#12078
+Inside The Pit~
+You have entered into the fighter's pit.  The pit is lined with sharp
+wooden stakes along the outer edge to keep combatants from escaping.  Many a
+brave soul has perished on this battle ground.  Hopefully you will not be
+one of the many that have failed to make it out of here alive.  To the
+victor goes the power and the glory.  To the defeated there is nothing but
+disgrace.  
+~
+0 268443668 10
+D2
+~
+~
+0 0 12079
+D3
+~
+~
+0 0 12077
+S
+#12079
+Inside The Pit~
+You have entered into the fighter's pit.  The pit is lined with sharp
+wooden stakes along the outer edge to keep combatants from escaping.  Many a
+brave soul has perished on this battle ground.  Hopefully you will not be
+one of the many that have failed to make it out of here alive.  To the
+victor goes the power and the glory.  To the defeated there is nothing but
+disgrace.  
+~
+0 268443668 10
+D0
+~
+~
+0 0 12078
+D3
+~
+~
+0 0 12076
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#12023
+if ispc $n
+ emote devours a slab of rancid meat and lays down at your feet to take a rest.
+ sleep
+endif
+~
+A
+#12022
+emote caws loudly at you.
+~
+A
+#12020
+if mobhere bludhound
+ say The filthy creatures continue to test my resolve!
+ kill bludhound
+endif
+~
+A
+#12021
+MOB ZECHO A blood chilling howl fills your ears.
+~
+A
+#12031
+~
+A
+#12030
+~
+A
+#12006
+say Snowy, why don't I get to go out more?
+~
+A
+#12005
+if name $n Snowy
+ close south
+endif
+~
+A
+#12004
+if race $n dwarf
+ say dwarf
+endif
+~
+A
+#12003
+if race $n elf
+ say elf
+endif
+~
+A
+#12001
+if race $n troll
+ say troll
+endif
+if race $n sliver
+ say sliver
+endif
+if race $n human
+ say human
+endif
+if race $n dragon
+ say dragon
+endif
+if race $n elf
+ say elf
+endif
+if race $n dwarf
+ say dwarf
+endif
+if race $n giant
+ say giant
+endif
+~
+A
+#12000
+if ispc $n
+ MOB TRANSFER $n 12001
+endif
+~
+A
+#12002
+~
+A
+#12007
+say Snowy that mean nasty Grog was harassing me while you were gone!
+growl grog
+~
+A
+#12010
+emote sniffs the air as if sensing prey is nearby.
+~
+A
+#12011
+emote paces back and forth while eyeing you hungrily.
+~
+A
+#12012
+if ispc $n
+ growl $n
+endif
+~
+A
+#12013
+if ispc $n
+ snarl $n
+endif
+~
+A
+#12014
+emote stares at you coldly and waits for you to lower your guard.
+~
+A
+#12015
+sniff
+say Make the bad doggies go away!
+cry
+~
+A
+#12016
+emote whispers under his breath, 'When will this horrid nightmare end!?'
+~
+A
+#12017
+emote wipes some blood from his brow and looks at you.
+say Have you come to fight by my side citizen?
+~
+A
+#12018
+emote roars in anger.
+emote yells, 'Come hounds of hell! I will teach you a lesson in obedience!'
+~
+A
+#12019
+if ispc $n
+ say I will not rest until these streets are safe to walk again!
+ kill bludhound
+endif
+~
+A
+#12032
+~
+A
+#12033
+~
+A
+#12034
+~
+A
+#12035
+~
+A
+#12036
+~
+A
+#12037
+~
+A
+#12038
+~
+A
+#12039
+~
+A
+#12050
+~
+A
+#0
+
+#RESETS
+D 0 12000 5 2
+D 0 12001 4 2
+D 0 12007 0 2
+D 0 12008 2 2
+D 0 12010 3 2
+D 0 12011 2 2
+D 0 12012 0 2
+D 0 12016 0 2
+D 0 12017 2 2
+D 0 12018 0 1
+D 0 12019 2 1
+D 0 12023 3 2
+D 0 12024 1 2
+D 0 12025 0 2
+D 0 12026 2 2
+D 0 12027 1 2
+D 0 12028 3 2
+D 0 12029 1 2
+D 0 12030 3 2
+D 0 12032 1 2
+D 0 12033 0 1
+D 0 12034 0 2
+D 0 12034 2 1
+D 0 12035 2 2
+D 0 12038 0 2
+D 0 12039 2 2
+D 0 12046 0 2
+D 0 12047 2 1
+D 0 12050 0 1
+D 0 12051 1 1
+D 0 12051 2 2
+D 0 12052 0 1
+D 0 12052 3 1
+D 0 12053 1 2
+D 0 12053 2 1
+D 0 12053 3 1
+D 0 12054 1 1
+D 0 12055 3 2
+M 1 12000 1 12000 1
+O 0 12001 0 12000
+O 0 12002 0 12000
+O 0 12017 0 12002
+O 0 12007 0 12004
+O 0 12003 0 12008
+M 1 12005 4 12010 1
+M 1 12006 7 12010 1
+M 1 12005 4 12011 1
+M 1 12010 4 12014 1
+O 0 12007 0 12015
+O 0 12018 0 12015
+M 1 12004 4 12015 1
+M 1 12006 7 12016 1
+O 0 12003 0 12017
+P 0 12006 1 12003 1
+M 1 12008 6 12017 2
+O 0 12023 0 12018
+O 0 12007 0 12019
+M 1 12004 4 12019 1
+M 1 12009 7 12019 1
+M 1 12005 4 12021 1
+M 1 12002 1 12022 1
+E 0 12037 0 14
+E 0 12036 0 5
+E 0 12035 0 10
+E 0 12032 0 16
+E 0 12011 0 11
+M 1 12006 7 12022 1
+M 1 12006 7 12023 1
+O 0 12023 0 12024
+O 0 12003 0 12024
+P 0 12004 2 12003 1
+P 0 12020 1 12004 1
+P 0 12019 1 12004 1
+M 1 12009 7 12024 2
+M 1 12008 6 12024 2
+M 1 12009 7 12026 1
+O 0 12021 0 12027
+P 0 12022 5 12021 1
+M 1 12004 4 12027 1
+O 0 12003 0 12028
+P 0 12004 2 12003 1
+P 0 12005 1 12004 1
+M 1 12003 6 12029 1
+M 1 12009 7 12030 2
+O 0 12023 0 12030
+M 1 12010 4 12033 1
+M 1 12011 1 12034 1
+G 0 12012 0
+G 0 12014 0
+G 0 12010 0
+G 0 12016 0
+G 0 12015 0
+O 0 12013 0 12034
+P 0 12028 10 12013 1
+O 0 12008 0 12035
+P 0 12014 50 12008 1
+P 0 12012 50 12008 1
+P 0 12010 50 12008 1
+P 0 12015 50 12008 1
+O 0 12009 0 12035
+O 0 12007 0 12037
+M 1 12004 4 12037 1
+O 0 12023 0 12039
+M 1 12009 7 12039 1
+M 1 12008 6 12039 1
+M 1 12006 7 12040 1
+M 1 12005 4 12041 1
+M 1 12008 6 12041 1
+E 0 12034 0 17
+M 1 12010 4 12042 1
+M 1 12006 4 12043 1
+M 1 12006 7 12045 1
+M 1 12006 7 12046 1
+M 1 12010 4 12048 1
+O 0 12023 0 12050
+M 1 12012 1 12050 1
+E 0 12038 0 3
+E 0 12030 0 16
+G 0 12029 0
+O 0 12024 0 12052
+O 0 12025 0 12052
+P 0 12042 10 12025 1
+O 0 12026 0 12053
+O 0 12023 0 12055
+O 0 12027 0 12055
+P 0 12041 10 12027 1
+M 1 12001 1 12055 1
+G 0 12040 0
+E 0 12039 0 9
+E 0 12033 0 2
+E 0 12031 0 16
+M 1 12007 2 12055 2
+O 0 12001 0 12075
+S
+
+
+
+#SHOPS
+12011 0 0 0 0 0 200 25 0 23
+0
+
+
+
+#$

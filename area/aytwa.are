@@ -1,0 +1,2381 @@
+#AREADATA
+Name Ay'Twa~
+Builders None~
+VNUMs 13700 13799
+Credits {40 51} Corech      Ay'Twa~
+Security 9
+Xcontinent 1
+Age 11
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#13700
+Jungle Jim~
+Jungle Jim~
+Jungle Jim holds money for Trivia contests.
+~
+~
+giant~
+A 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABK HI J
+stand stand either 300000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13701
+aytwa casino dealer~
+Casino Dealer of Ay'Twa~
+Ay'Twa's personal Casino Dealer is here
+~
+~
+undead~
+ABGL Z 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+CF AB HI HJNS
+stand stand none 300000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13710
+possessed tumbleweed jungle creature~
+A possessed Tumbleweed~
+A possessed Tumbleweed comes tumbling after you!
+~
+Seemingly made out of nothing at all, this spherical creature can sense
+your whereabouts.  Although she don't appear aggressive, she will fight back
+and hold her own if required.  
+~
+gargoyle~
+ABGOT BJTVZ -500 0
+48 4 25d10+3750 1d1+100 6d6+18 entangle
+-18 -18 -18 -18
+CFO K 0 LQS
+stand stand female 2000
+AHMVX ABCDEFGHIJKPQUV medium 0 the guilds~
+#13720
+Jungle Demon~
+a Jungle Demon~
+A vicious Demon ripping apart the jungle.
+~
+A tall demon with strange glowing eyes stands before you.  It tears
+everything which used to be Ay'Twa apart and turns it into something you
+don't want to look at anymore.  Evil radiates from within it.  
+~
+gargoyle~
+ABGO JPTVZ -1000 0
+45 4 25d10+3000 1d1+100 8d4+16 force
+-15 -15 -15 -15
+CFH 0 0 LQS
+stand stand male 2000
+ABGHMVXZ ABCDEFGHIJKPQUVX medium 0 the guilds~
+#13730
+jungle guardian creature~
+a Jungle Guardian~
+A Guardian of the Jungle, summoned from hell.
+~
+Summoned from hell, this creature of the damned demands to know the name of anyone and everyone who enters the jungle.  With flesh dripping off his body with every movement, he doesn't look like someone who's fun to play with.
+~
+gargoyle~
+ABGOT HJQTVZb -750 0
+49 -11 50d10+4000 1d1+100 4d10+18 slaughter
+-19 -19 -19 -19
+CFO 0 0 LQS
+stand stand male 5000
+AHMVX ABCDEFGHIJKPQUV medium 0 the guilds~
+M grall 13742 100~
+#13735
+large deformed mosquito~
+a deformed Mosquito~
+A mosquito buzzes around you, looking larger than life.
+~
+This mosquito is not ordinary by any standard.  The creature is about
+twice as large as you, let along any bug similar to itself.  Another
+creation of the great invoker Maxel.  
+~
+gargoyle~
+ABGHOS DJTV -590 0
+45 -4 25d10+3000 1d1+100 8d4+16 drain
+-15 -15 -15 -15
+CEFMO 0 0 LQ
+stand stand male 2500
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#13740
+possessed vine jungle creature~
+a possessed Vine~
+A possessed Vine is willing to strangle you.
+~
+Resembling a gargoyle, but created from nothing but the Jungle itself,
+this strange creature promotes fear in their victims.  Just looking, it's
+hard to tell where one end starts and the other finishes.  
+~
+gargoyle~
+ABGOQT BJTVZ -500 0
+50 5 50d10+4500 1d1+100 5d8+19 squeeze
+-20 -20 -20 -20
+CFO 0 0 LQS
+stand stand female 3500
+AHMVX ABCDEFGHIJKPQUV medium 0 the guilds~
+#13745
+posessed bark~
+a piece of possessed bark~
+A piece of bark appears to be trailing you.
+~
+You can't tell if it's part of a tree or not.  Its light brown colour
+blends well into the plant life of the jungle, and this bark may be harder
+to hit than you think.  
+~
+gargoyle~
+ABGHOR DJPT -1000 0
+48 -4 25d10+3750 1d1+100 6d6+18 charge
+-18 -18 -18 -18
+FGIJK 0 0 LQ
+stand stand female 2500
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#13750
+strange creature troll yard~
+a Yard Troll~
+A strange creature is taking over the yard!
+~
+A short troll hides behind the bushes, under leaves, behind the fence,
+anywhere to run out at unsuspecting visitors.  Brought here by Maxel, the
+troll holds great evil within.  
+~
+troll~
+ABGT JQTVZ -750 0
+50 -3 50d10+4500 1d1+100 5d8+19 skinning
+-20 -20 -20 -20
+CFGO 0 Q HL
+stand stand female 4500
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13755
+posessed fungus~
+a possessed fungus~
+A green fungus surrounds the gate.
+~
+It's green, it's furry, and you can't tell if it's attacking you or
+living on the gate.  It has been growing here for many years.  
+~
+gargoyle~
+ABGHOQS DJOQTV -700 0
+46 -4 25d10+3250 1d1+100 6d6+16 digestion
+-16 -16 -16 -16
+CFO 0 0 LQ
+stand stand male 2500
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#13760
+posessed tree~
+a possessed tree~
+The tree doesn't look too happy to see you. That's not right.
+~
+Most trees in this forest don't follow you, so when this one does you
+know it must be up to something.  Tall and sturdy, it looks like it could be
+an interesting fight.  
+~
+tree~
+ABCGORS DFJV -750 0
+48 -4 25d10+3750 1d1+100 6d6+18 none
+-18 -18 -18 -18
+CFHO B I HJ
+stand stand none 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13765
+shadow~
+your Shadow~
+Your shadow looks ready for more than shadow boxing.
+~
+The great evils created by Maxel have finally started to corrupt you
+piece by piece.  Your shadow, once a faithful friend, has decided not to
+follow you any more and to turn on you instead.  
+~
+gargoyle~
+ABFGO DJQTV -800 0
+47 -4 25d10+3500 1d1+100 6d6+17 clobber
+-17 -17 -17 -17
+FHNO 0 0 LQ
+stand stand male 2700
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#13770
+Maxel Invoker~
+Maxel the Invoker~
+Maxel, a tall, shady, magical being is here.
+~
+A tall man dressed in dark robes and strange symbols stands before you
+frozen in time.  Just as you begin to leave, he motions you forward and your
+only thoughts are of your experiences through life.  
+~
+gargoyle~
+ABGQRST HJNOPQTVab -1000 0
+55 -22 50d10+7000 1d1+100 10d4+23 wrath
+-25 -25 -25 -25
+ABCDEFGHIJKNO A 0 LQ
+stand stand male 5000
+AHMX ABCDEFGHIJKPQUV giant 0 the guilds~
+M death 13771 100~
+M grall 13770 100~
+#13775
+Deformed Cricket~
+a deformed Cricket~
+This cricket looks as though it used to be normal...maybe.
+~
+Once a normal cricket, Maxel created this great beast to guard the damp
+corner of the basement from intruders.  If all else fails, it's pretty gross
+and you don't want it touching you.  
+~
+gargoyle~
+ABGORS JPTUV -800 0
+48 -4 25d10+3750 1d1+100 6d6+18 claw
+-18 -18 -18 -18
+CFO 0 0 LQ
+stand stand male 2500
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#13779
+night crawler~
+a Night Crawler~
+A Night Crawler enjoys a dark place to sleep and find prey.
+~
+Dark as the shadows, this creature only has a small glow to let you know
+where it starts and where it ends.  Not really tall, but resembling a deformed
+gargoyle, this strange creature doesn't look fun to mess with.  
+~
+gargoyle~
+ABGOQR DJTV -900 0
+48 -4 25d10+3750 1d1+100 6d6+18 scratch
+-18 -18 -18 -18
+0 0 0 LQ
+stand stand female 2500
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#13780
+three head three-headed monkey~
+a Three-Headed Monkey~
+A monkey with three heads stands before you.
+~
+This odd little simian walks around carrying a banana in one hand and
+scratching himself in an obscene place with the other.  Upon second glance,
+you notice that its fur is green and that it does indeed have three heads,
+all six of whose eyes are staring at you accusingly.
+~
+gargoyle~
+ABGOT BJPTV -750 0
+46 -4 25d10+3250 1d1+100 6d6+16 grind
+-16 -16 -16 -16
+DMNO 0 0 LQ
+stand stand male 2500
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#13700
+comfy red couch~
+a comfy {rred couch{x~
+A {rred{x couch waits for you to sit on it!~
+leather~
+furniture 0 0
+100 5000 BEHKN 500 500
+0 0 0 P
+#13701
+porcelain fountain~
+a small porcelain fountain~
+A small porcelain fountain sits here holding milk.  Strange.~
+porcelain~
+fountain 0 0
+0 0 'milk' 0 0
+0 0 0 P
+#13702
+portal entrance jungle haunted~
+Portal to Ay'Twa~
+A portal stands here ready to take you into a Haunted Jungle~
+air~
+portal AB 0
+0 0 0 13710 0
+0 0 0 P
+#13703
+statue tson jukebox~
+a singing Tsongas statue~
+A statue of Tsongas towers above you.~
+wood~
+jukebox AB AO
+0 0 0 0 0
+54 0 10000 P
+#13704
+Corech's special stick~
+Corech's special stick~
+Corech's special stick is here.~
+gold~
+weapon AB AN
+exotic 24 1 beating D
+54 0 0 P
+A
+18 30  
+A
+19 30  
+#13705
+test item~
+Test Item~
+A Test Item~
+gold~
+wand T AORZ
+60 100 100 'earthquake' 0
+60 100 100 'feeblemind' 0
+54 0 0 P
+A
+13 100 N
+A
+12 100 D
+#13706
+slot casino slotmachine~
+a Slotmachine~
+This small slot machine looks cheap, but easy.~
+gold~
+slot_machine AB 0
+20 500 5 100 0
+0 0 0 P
+#13707
+key rack box~
+Key Rack~
+~
+glass~
+container 0 0
+1000 ACE 0 1000 0
+0 0 0 P
+#13708
+Empty Vnum~
+Empty Vnum~
+{x~
+gold~
+wand 0 A
+0 0 0 'reserved' 0
+54 0 0 P
+#13709
+corech belt holding craft crafts crafting~
+{RCorech's {gBelt{x of {bCraft Parts{x~
+{RCorech's {gBelt{x holds all the treasures of Ay'Twa.~
+wood~
+container A AL
+10000 AC 0 10000 0
+54 0 0 P
+A
+2 15  
+A
+5 10  
+A
+4 5  
+A
+3 5  
+A
+1 5  
+#13710
+jungle essence~
+{WEssence{x of the {gJungle{x~
+The {WEssence{x of the {gJungle{x looks for someone to protect~
+air~
+armor A AJZ
+8 8 8 7 0
+50 100 25000 P
+A
+18 1  
+A
+1 2  
+A
+13 25  
+#13711
+wall~
+the wall~
+{x~
+wood~
+container O 0
+100 E 0 100 0
+0 0 0 P
+E
+wall~
+The wall has hooks lining it, and may even contain something useful if you searched.
+~
+#13712
+oven~
+the oven~
+~
+wood~
+container O 0
+100 E 0 100 0
+0 0 0 P
+E
+oven~
+The oven appears to open up.  Who knows what may have been left in there.
+~
+#13713
+shelf shelves~
+the shelf~
+~
+wood~
+container O 0
+100 E 0 100 0
+0 0 0 P
+E
+shelf~
+The shelf appears to have been mostly cleaned up, but a few small items remain.
+~
+#13714
+display case shelf shelves~
+Display Case~
+~
+wood~
+container O 0
+100 E 0 100 0
+0 0 0 P
+E
+case~
+The display case has small fragments of rocks and jewlery still lying around.
+~
+E
+display~
+The display case has small fragments of rocks and jewlery still lying around.
+~
+#13715
+floorboards boards~
+the floor~
+~
+wood~
+container O 0
+100 E 0 100 0
+0 0 0 P
+E
+floor~
+The floor wasn't swept very well and a few relics still remain.
+~
+#13716
+hole wall atm~
+the hole~
+~
+wood~
+container O 0
+100 E 0 100 0
+0 0 0 P
+E
+hole~
+The hole in the wall looks like it may contain somebodys stash.
+~
+#13717
+counter~
+The counter~
+~
+wood~
+container O 0
+100 E 0 100 0
+0 0 0 P
+E
+counter~
+The counter has been wiped clean except for a few select items.
+~
+#13718
+porcelain fountain~
+a small porcelain fountain~
+A small fountain pours water.  What a strange looking fountain.~
+porcelain~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+E
+inscription~
+Written on the bottom of the fountain says:
+ 
+If you want to know the secret behind the "Fire Claws" look for a stone by the Jungle Guardian
+~
+E
+inscription~
+Along the bottom of the fountain reads: Seek the stone by the Jungle Guardian to learn the secret behind "Flame Claws"
+~
+E
+fountain~
+The fountain is one of the strangest you have ever seen.  Pouring milk in the middle of an abandoned town is one thing, but it has the strangest inscription along the bottom.
+~
+#13719
+crystal sun~
+{bCrystal{x of the {YSun{x~
+Looking into the Crystal reminds you of the days you sat on the Jungle floor of Ay'Twa.~
+gem~
+recall_crystal T AOZ
+ACDFHIKMN C C 0 0
+1 30 2000 P
+#13720
+flame claws~
+{RFlame{x Claws~
+Crafted from multiple items, these claws look deadly and hot!~
+fire~
+weapon 0 ANYZ
+exotic 5 5 flbite H
+35 100 15000 P
+A
+18 2  
+#13721
+lucky clover~
+a Lucky Clover~
+This four leafed clover looks lucky!~
+earth~
+treasure T AOY
+0 0 0 0 0
+20 10 100 P
+A
+4 1  
+A
+3 1  
+A
+5 1  
+#13722
+Lost Chain~
+a Lost Chain~
+This chain looks like it has been in a pipe for a while.~
+gold~
+treasure 0 AOY
+0 0 0 0 0
+15 20 1000 P
+A
+2 2  
+#13723
+key yellow tooth chain~
+a {yYellow{x tooth~
+A {yYellow{x tooth hanging on a keychain.~
+bone~
+key T ACY
+0 0 0 0 0
+1 10 100 P
+#13724
+Helmet Jungle Genius~
+Helmet of {gJungle {rGenius{x~
+This helmet, which was handcrafted from Jungle pieces looks like it could make you smarter.~
+shell~
+armor 0 AEZ
+9 9 9 7 0
+50 300 15000 P
+A
+12 25  
+A
+3 2  
+A
+2 2  
+#13727
+wand flight fly~
+Wand of Flight~
+This wand hovers in the air, and so could you.~
+plastic~
+wand T AOY
+10 2 2 'fly' 0
+10 20 1400 P
+#13728
+animal tusk~
+Animal Tusk~
+The tusk of a strange animal has been kept as a reminder.~
+ivory~
+treasure T ACY
+0 0 0 0 0
+10 200 1000 P
+A
+18 1  
+A
+1 1  
+#13729
+scrap metal piece hunt junk~
+A piece of scrap metal~
+This scrap metal was never formed into anything but junk.~
+metal~
+trash T ADY
+0 0 0 0 0
+1 100 500 P
+#13730
+ancient bank note~
+an Ancient Bank Note~
+No longer accepted, this bank note doesn't seem much good anymore.~
+parchment~
+treasure T AOY
+0 0 0 0 0
+1 50 1000 P
+#13731
+molotov cocktail gas rag glass bottle~
+Molotov Cocktail~
+A glass bottle with a gas coated rag waits to be lit and thrown.~
+glass~
+throwing T AOY
+3 7 firing 35 'pyrotechnics'
+32 200 3000 P
+#13733
+short pencil~
+a pencil~
+A pencil that could be used to stab someone!~
+wood~
+weapon T ANY
+exotic 2 2 stab KO
+5 30 500 P
+#13734
+poisoned cake old stale~
+a stale cake~
+This cake has been around so long it's as hard as wood.~
+food~
+food T AY
+0 2 0 A 0
+1 50 1000 P
+#13741
+guardian emerald jungle~
+{gEmerald{x of the Guardian~
+The Jungle Guardian's Emerald shines brightly.~
+crystal~
+gem Ye AOY
+0 0 0 0 0
+1 300 5000 P
+A
+3 1  
+#13742
+waterfall portal exit~
+the Waterfall~
+~
+air~
+portal O 0
+0 0 0 13741 0
+0 0 0 P
+E
+waterfall~
+The Waterfall looks so thin that you can see back into the room you were just in.  Maybe you could walk through it?
+~
+#13755
+Vine Bracelet~
+a Vine Bracelet~
+This bracelet, hand crafted from vine, looks as though it would fit right around your wrist.~
+wood~
+armor 0 AMY
+7 7 7 6 0
+35 20 2000 P
+A
+9 5  
+A
+14 10  
+A
+19 1  
+#13758
+granite ring carved~
+a Granite Ring~
+This granite ring was carefully carved and hand crafted.~
+granite~
+armor 0 ABY
+2 2 2 2 0
+35 25 5000 P
+A
+19 2  
+A
+3 1  
+#13760
+orb light energy~
+Energetic Orb~
+An Energetic Orb waits to light a path.~
+wood~
+light 0 AY
+0 0 999 0 0
+35 100 5000 P
+A
+1 1  
+A
+18 2  
+#13763
+garden gloves~
+Garden Gloves~
+These gloves look like they would protect your hands against the elements.~
+hemp~
+armor 0 AHY
+7 7 7 5 0
+35 150 5000 P
+A
+4 1  
+A
+19 1  
+#13767
+skull child head bone jaw~
+a Human Skull~
+~
+bone~
+container OT 0
+100 AC 0 100 0
+0 0 0 P
+E
+skull~
+The skull looks like that of a small child, and the jaw seems as though
+it could open to reveal something.  
+~
+#13768
+box wall key~
+Emergency Entry Box~
+~
+wood~
+container O 0
+100 AC 0 100 0
+0 0 0 P
+#13769
+key red tooth chain airlock~
+a {rRed{x tooth~
+A {rRed{x tooth is hanging on a keychain.~
+bone~
+key 0 ACY
+0 0 0 0 0
+1 10 0 P
+#13770
+key blue tooth chain tomb~
+a {bBlue{x tooth~
+A {bBlue{x tooth is hanging on a keychain.~
+bone~
+key 0 ACY
+0 0 0 0 0
+1 10 0 P
+#13771
+vine sabre sharp sword deadly~
+{gVine {rSabre{x~
+A {gVine {rSabre{x looks sharp and deadly.~
+bamboo~
+weapon 0 ANY
+sword 9 4 slaughter E
+50 300 10000 P
+A
+19 1  
+A
+18 2  
+A
+13 10  
+#13772
+jungle orb~
+Jungle Orb~
+A Jungle Orb floats nearby.~
+water~
+armor 0 AQY
+8 8 8 6 0
+48 30 5000 P
+A
+13 20  
+A
+19 1  
+A
+18 1  
+#13775
+Crushed Shell~
+a Crushed Shell~
+A Shell owned by a Cricket looks like it would cover your arms.~
+shell~
+armor T AIY
+6 6 6 5 0
+35 20 1000 P
+A
+4 1  
+A
+2 -5  
+A
+5 2  
+A
+3 2  
+#13776
+pipe pipework~
+a Pipe~
+~
+wood~
+container O 0
+1000 AC 0 1000 0
+0 0 0 P
+#13777
+grave burial tomb graveyard~
+the Grave~
+~
+wood~
+container O 0
+1000 AC 0 1000 0
+0 0 0 P
+#13778
+crypt key black tooth chain~
+a {WBlack{x tooth~
+A {WBlack{x tooth is hanging on a keychain.~
+bone~
+key 0 ACY
+0 0 0 0 0
+1 10 0 P
+#13779
+book aytwa invoker pages~
+an Invoker's Book~
+A large book on a pedestal looks very important.~
+parchment~
+container O 0
+100 ACE 0 100 0
+0 0 0 P
+E
+book~
+You open the book and notice that there isn't much of an index, but there are a couple pages that you can flip through and read.
+~
+E
+page1~
+Once a peaceful Jungle, I have transformed it to great Evil.  If you read
+this, then you have discovered one of my terrible secrets.  The skull
+containing the key is the skull of the hermit who lived in the shack north
+of the jungle.  He tried to rally the townspeople against me, saying I was a
+witch!  HE wasn't far off, as I have spent many a year learning occult and
+the ancient art of divination.  Spying on the townspeople, I heard of their
+plan to rid me.  The demons I then created caused mass destruction, and
+terrorized the town.  Finally the jungle was abandoned and the shops closed
+and boarded up.  Evil creatures started to come out, and the demons
+transformed into worse creatures.  I am now in a strange form of
+hibernation.  I am not to be found for the rest of eternity.  The secrets I
+carry lead far beyond those written on these pages.  IF you can find me,
+then I will reveal to you the secret of "Jungle Essence".  
+~
+#13780
+casket~
+the Casket~
+~
+wood~
+container O 0
+1000 A 0 1000 0
+0 0 0 P
+#13781
+note casket~
+a small, neatly folded note~
+A note left in a grave is here.~
+wood~
+trash T AO
+0 0 0 0 0
+0 0 0 P
+E
+note~
+Neatly written on a note left in the empty casket says:
+ 
+Combine two Crushed Shells, 2 Lost Chains, and a Lucky clover along with teeth coloured yellow, black, red, and blue to make a "Helmet Jungle Genius".
+ 
+~
+#13799
+chunk vine corech level gift~
+a chunk of {gVine{x~
+A chunk of vine looking magical is here.~
+vine~
+pill AB AO
+25 'animal growth' 'blur' 'haste' 'reserved'
+1 60 500 P
+#0
+
+
+
+#ROOMS
+#13700
+Creative lounge of Ay'Twa~
+A small room with maps and plans surround you.  As you look out the
+window, you see an amazing haunted jungle being crafted.  A couch and
+fountain are about all that you can see in the room.  It looks as if alot of
+thinking, and more importantly relaxing are done here.  Don't forget to
+check the {BSIGN{x if you don't know where you want to go!  A box with all
+the keys you'll need to get around Ay'Twa hangs on the wall.  
+~
+0 268992520 0
+E
+sign~
+{RJustice Hall {g10755{x
+{RJustice Outpost {g31092{x
+{BKindred Hall {g10605{x
+{BKindred Outpost {g31089{x
+{WSeeker Hall {g10805{x
+{WSeeker Outpost {g31084{x
+{MKenshi Hall {g1253{x
+{MKenshi Outpost {g3366{x
+{DVenari Hall {g10655{x
+{DVenari Outpost {g3362{x
+{CTerra Recall {g3001{x
+{CDominia Recall {g31000{x
+{YAy'Twa{x {g13710{x
+~
+D0
+~
+~
+0 0 13702
+D2
+~
+~
+0 0 13705
+D3
+~
+~
+0 0 13701
+M 1000 H 1000
+S
+#13701
+Casino of Ay'Twa~
+You stand in a small yet adequate room which houses Corech's personal
+Casino.  For your entertainment pleasure, Tsongas, the singing statue is
+over by the wall.  
+~
+0 268993536 0
+D1
+~
+~
+0 0 13700
+S
+#13702
+Corech's Lounge~
+You have entered the private lounge of Corech.  This room has been set
+apart from the others, only accessable from a hallway.  The door before the
+room presented the latest in privacy technology, including finger print and
+retnal scanners.  Although the system makes mistakes, this room is held for
+Corech himself.  
+~
+0 268468744 0
+O Corech~
+D2
+~
+~
+0 0 13700
+M 1000 H 1000
+S
+#13703
+~
+~
+0 4 0
+S
+#13705
+The Multi-Purpose Killin' Arena!~
+Created out of sheer boredom, this one room arena is great for testing
+out skills on others while not risking everything you have.  You don't want
+to be bottom of the barrel though, do you?  Better try hard.  
+~
+0 805314588 0
+S
+#13710
+{DA Spooky Path{x~
+As you walk along the path you are unsure of what lies ahead.  Spooky
+sounds come from all directions, and eyes seem to peer out from the beyond. 
+Better be careful where you step, it is rather hard to see.  It appears to
+be the entrance to a jungle, and although not thick yet, it could get worse
+the further you go.  A sign with a small hole through one side stands at one
+side of the path.  
+~
+0 0 3
+E
+hole~
+From the hole you pull out a strange looking note:
+ 
+If you want to craft a "Crystal Sun" then you must find 3 ancient bank notes and combine then with atleast 2 animal tusks.
+ 
+~
+E
+sign~
+WARNING: This Jungle contains dangerous creatures which should not be attempted by the faint of heart, or those under the level of 40.
+--Maxel
+~
+D0
+~
+~
+0 0 10892
+D1
+~
+~
+0 0 13711
+S
+#13711
+{DA Spooky Path{x~
+Better be careful where you step, it's rather hard to see.  The jungle
+path continues east.  Ahead it looks like it switches, and you may have to
+find a new direction.  The eyes just don't give up.  
+~
+0 0 3
+D1
+~
+~
+0 0 13712
+D3
+~
+~
+0 0 13710
+S
+#13712
+{DA Spooky Path{x~
+As you walk along the path you are unsure of what lies ahead.  Spooky
+sounds come from all directions, and eyes seem to peer out from the beyond. 
+Better be careful where you step, it is rather hard to see.  It looks like
+there is a split in the road ahead.  You don't want to have to wait around
+too long, so better keep moving on.  
+~
+0 0 3
+D0
+~
+~
+0 0 13713
+D2
+~
+~
+3 0 13765
+D3
+~
+~
+0 0 13711
+S
+#13713
+The Split~
+You find yourself deeper and deeper into the strange land.  It has
+finally occurred to you that you must be in the dreaded jungle of Ay'Twa. 
+Should you turn around and go back to where you came from, or should you
+continue on to see what lies ahead.  You are at a split and can go east or
+west?  
+~
+0 0 3
+D1
+~
+~
+0 0 13720
+D2
+~
+~
+0 0 13712
+D3
+~
+~
+0 0 13714
+S
+#13714
+{DA Spooky Path{x~
+As you walk along the path you are unsure of what lies ahead.  Spooky
+sounds come from all directions, and eyes seem to peer out from the beyond. 
+Better be careful where you step, it is rather hard to see.  It appears that
+a town lies to the north, and a split in the road is to the east.  So many
+choices.  
+~
+0 0 3
+D0
+~
+~
+0 0 13715
+D1
+~
+~
+0 0 13713
+S
+#13715
+South Main Street~
+What was once the entrance to a booming town is now abandoned with no
+hope of inhabitance.  The jungle is overtaking many of the buildings, and
+you see eyes peering out of many windows at you.  Closed doors which cannot
+be opened lie to both the east and west.  Head north to go through the ghost
+town.  
+~
+0 0 3
+D0
+~
+~
+0 0 13716
+D2
+~
+~
+0 0 13714
+S
+#13716
+Main Street~
+Deeper into the town you see further devastation by the deep vines of the
+jungle.  The stores are hardly visible and doors are closed to both the east
+and west.  Stores which once thrived have now been overtaken by the evil of
+Ay'Twa.  
+~
+0 0 3
+D0
+~
+~
+0 0 13732
+D1
+~
+door~
+1 0 13727
+D2
+~
+~
+0 0 13715
+D3
+~
+door~
+1 0 13726
+S
+#13717
+Main Street~
+Another section of the old town but the same old vines.  It looks as
+though nobody has been around for a while.  Boarded up stores lie east and
+west of you, and except for one small beaten path, you could get easily
+lost.  
+~
+0 0 3
+D0
+~
+~
+0 0 13718
+D1
+~
+door~
+1 0 13729
+D2
+~
+~
+0 0 13732
+D3
+~
+door~
+1 0 13728
+S
+#13718
+North Main Street~
+To the north you see the entrance to the jungle, and although it doesn't
+look much different from this end of town, you notice that there are closed
+doors to the east and west.  
+~
+0 0 3
+D0
+~
+~
+0 0 13719
+D1
+~
+door~
+1 0 13731
+D2
+~
+~
+0 0 13717
+D3
+~
+door~
+1 0 13730
+S
+#13719
+The Western Entrance~
+You stand at the far end of town.  You look back at the empty street and
+start to feel glad that you are leaving.  As you wander, you seem to come
+deeper into the forest.  The eyes start looking at you and being to follow
+your every move.  Better hurry up, doesn't look like fun to stay.  It
+appears from the thick bushes that you can only go up a cliff into the
+jungle or back the way you came.  
+~
+0 0 3
+D2
+~
+~
+0 0 13718
+D4
+~
+~
+0 0 13735
+S
+#13720
+{DA Spooky Path{x~
+As you walk along the path you are unsure of what lies ahead.  Spooky
+sounds come from all directions, and eyes seem to peer out from the beyond. 
+Better be careful where you step, it is rather hard to see.  If you head
+west you come to the split, and ahead is a path through the jungle.  
+~
+0 0 3
+D0
+~
+~
+0 0 13721
+D3
+~
+~
+0 0 13713
+S
+#13721
+A Jungle Path~
+The path starts to get thicker as you descend deeper into the jungle. 
+Walking around the plants isn't easy, but atleast you are going downhill. 
+Looking in both directions, you see nothing.  Jungle all around.  
+~
+0 0 3
+D0
+~
+~
+0 0 13722
+D2
+~
+~
+0 0 13720
+S
+#13722
+A Jungle Path~
+As you follow the hill into the jungle while dodging plants, you realize
+it won't be easy.  Should you turn around?  You are overwhelmed with
+pressure as you try to find a better path and easier hike through the thick
+vegetation.  
+~
+0 0 3
+D0
+~
+~
+0 0 13723
+D2
+~
+~
+0 0 13721
+S
+#13723
+A Jungle Path~
+You are a good distance down the cliff now.  Is there really any use to
+turn back?  Things can't get much worse.  It's cold, wet, and you think
+something may be following you.  If you run ahead you may be able to avoid
+it.  
+~
+0 0 3
+D0
+~
+~
+0 0 13724
+D2
+~
+~
+0 0 13722
+S
+#13724
+A Jungle Path~
+You are almost into a full jungle.  The area behind was spooky and
+cluttered with plants and animals, but it looks like it's getting much
+worse.  So the question is: 'Are you man enough to continue?  ' 
+~
+0 0 3
+D0
+~
+~
+0 0 13725
+D2
+~
+~
+0 0 13723
+S
+#13725
+The Eastern Entrance~
+As you wander, you seem to have entered deeper into the forest.  The EYES
+start looking at you and follow your every move.  Better hurry up, it may
+not be fun if you stay.  It appears from the thick bushes that you can only
+go down a cliff into the jungle, or back the way you came.  
+~
+0 0 3
+D2
+~
+~
+0 0 13724
+D5
+~
+~
+0 0 13740
+S
+#13726
+Abandoned Workshop~
+A once useful shop seems to have been cleared out of all belongings. 
+There is really nothing left in here except for some small tools.  A bench
+lies against the far wall, with some small odd items which you can't seem to
+find a use for.  Perhaps you could use this room to make something, if you
+wanted to.  
+~
+0 1073741824 0
+E
+tools~
+These tools look as though they may be useful to craft something.
+~
+E
+bench~
+The bench appears to be well cleaned off, and I'm sure that if you tried the tools you see could help you craft something useful.
+~
+D1
+~
+door~
+1 0 13716
+S
+#13727
+Abandoned Warehouse~
+Many items seem to have been scattered around this room in the past, but
+it is now pretty well empty.  As you look around, you notice that there may
+be some items left on the walls.  
+~
+0 0 0
+D3
+~
+door~
+1 0 13716
+S
+#13728
+Abandoned Gemologist~
+What looks like it used to house a great gemologist and a beautiful
+selection of jewellery, now holds nothing.  There are small fragments of
+stone around the display case, but that is it.  The windows and door are
+boarded up like the rest of the abandoned town.  
+~
+0 0 0
+D1
+~
+door~
+1 0 13717
+S
+#13729
+Abandoned Armory~
+There is literally nothing left of this armoury except for hooks on the wall
+and small scraps of metal around the floor.  It doesn't seem like there is
+any use looking around because there is literally nothing here.  
+~
+0 0 0
+D3
+~
+door~
+1 0 13717
+S
+#13730
+Abandoned Bank~
+It looks like money used to be exchanged around in this room, but
+unfortunately there is nothing left.  You feel that your money would be
+better left on you then alone in this boarded up store.  A hole is still in
+the wall from where a tellers desk machine once stood.  
+~
+0 0 0
+D1
+~
+door~
+1 0 13718
+S
+#13731
+Abandoned General Store~
+What appears to have been a general store in the past is now another
+faded memory.  The jungle has started to overgrow into a back section of the
+store where there is lots of plant life and possibly animal matter.  The
+windows and door are all boarded up.  The counter has been basically cleared
+of anything with value.  
+~
+0 0 0
+D3
+~
+door~
+1 0 13718
+S
+#13732
+Town Center~
+Although this used to be a busy town centre, it is now another abandoned
+section of the town.  The vines are slightly clearer here then they are to
+the north and south.  A small porcelain fountain is here on the ground
+containing a clear liquid.  
+~
+0 0 3
+D0
+~
+~
+0 0 13717
+D1
+~
+door~
+1 0 13733
+D2
+~
+~
+0 0 13716
+D3
+~
+door~
+1 0 13734
+S
+#13733
+Abandoned Weaponsmith~
+Shards of weapons litter the room, yet there is not one functional weapon
+in sight.  The windows have been boarded up and the door barely opens enough
+for passage.  Strange sounds are coming from around you, better leave.  It
+seems as though small pieces have been left on some of the shelves.  
+~
+0 0 0
+D3
+~
+door~
+1 0 13732
+S
+#13734
+Abandoned Bakery~
+What looks like it used to be a successful area is now a dump.  Boards
+have been nailed over the windows and doorway, and the oven is half broken. 
+It still stands though, and who knows what may be inside.  
+~
+0 0 0
+D1
+~
+door~
+1 0 13732
+S
+#13735
+Jungle Canopy~
+It's probably for the better that you're above the jungle, because things
+are looking pretty scary below.  If you can stay above the trees, you may be
+all set.  Just as you begin to take another step, a blood curdling squeal
+comes from close behind.  Better get going.  
+~
+0 0 3
+D0
+~
+~
+0 0 13736
+D5
+~
+~
+0 0 13719
+S
+#13736
+Atop a tree~
+You stand atop a large tree high in the jungle.  Some kind of hungry
+creature below sounds like it needs something to eat.  Too bad if you want
+to get any further, you're going to have to go down.  
+~
+0 0 3
+D2
+~
+~
+0 0 13735
+D5
+~
+~
+0 0 13737
+S
+#13737
+Hanging from a Vine~
+You hang from a long, green, slimy vine that, honestly, you don't want to
+touch.  There is always the option of going back up into the tree but that
+doesn't seem much better than going down.  May as well continue instead of
+stopping.  
+~
+0 0 3
+D4
+~
+~
+0 0 13736
+D5
+~
+~
+0 0 13738
+S
+#13738
+Bottom of the Vine~
+You're now near the bottom of the vine, and it's starting to get hard to
+hold on.  The vine is rather thin and appears as though it may snap at any
+moment.  If you think you can make the ten foot drop, then there is no
+problem getting down to the bottom of the jungle.  
+~
+0 0 0
+D4
+~
+~
+0 0 13737
+D5
+~
+~
+0 0 13739
+S
+#13739
+Jungle Floor~
+It looks as though you could climb the vine about ten feet above you, or
+else you could continue around the jungle.  Either way, it looks like it
+could get interesting with all the strange creatures around this place.  
+~
+0 0 3
+D0
+~
+~
+0 0 13743
+D1
+~
+~
+0 0 13741
+D4
+~
+~
+0 0 13738
+S
+#13740
+Jungle Floor~
+Looking back up the cliff you left behind, you decide that it may just be
+better to continue on.  Strange eyes and creatures continually appear before
+you from all directions, and it finally occurs to you just why the villagers
+abandoned the city.  
+~
+0 0 3
+D0
+~
+~
+0 0 13746
+D3
+~
+~
+0 0 13741
+D4
+~
+~
+0 0 13725
+S
+#13741
+Jungle Floor~
+Looking far into the distance, you can leave the floor of the jungle by
+either going east or west, but there is so much to explore, do you really
+want to leave?  
+~
+0 0 3
+D1
+~
+~
+0 0 13740
+D2
+~
+~
+0 0 13742
+D3
+~
+~
+0 0 13739
+S
+#13742
+Trapped in the Vines~
+After struggling with the vines, you are forced into a thin opening.  It
+seems as though your only options are to try for a get away through the thin
+waterfall before you, or take an inevitable death by walking off the cliff. 
+~
+0 4 0
+E
+stone~
+You look over the stone carefully and finally find a small inscription in the side, in similar writing to that on the fountain.
+ 
+If you want to craft "Flame Claws" then you must take 4 pencils to make sharp, pointy teeth, 2 moltov Cocktails for fire power, a stale cake for poisoning effect, and one wand of flight to add the proper magic.
+ 
+~
+S
+#13743
+Near a small stream~
+As you walk farther along the deep jungle path, you start to wonder where
+you are.  The past directions are starting to fade in your memory as you
+search frantically for an exit.  Strange creatures look like they are coming
+out of the stream to get you.  
+~
+0 0 6
+D2
+~
+~
+0 0 13739
+D3
+~
+~
+0 0 13744
+S
+#13744
+Deep into the Jungle~
+Vines start to tangle around your feet and lower legs as you try to walk
+through the forest.  Eyes peer out from all around you, and strange noises
+are coming from the bushes.  It would probably be better if you keep moving
+on.  
+~
+0 0 3
+D0
+~
+~
+0 0 13745
+D1
+~
+~
+0 0 13743
+S
+#13745
+Deep into the West Jungle~
+From the placement of the sun, you can tell that you have reached the
+western side of the jungle.  The heat is incredible, and there is an odd
+smell which reminds you of a rotting corpse.  The bushes are rattling, and
+it would be best to leave immediately.  
+~
+0 0 3
+D1
+~
+~
+0 0 13749
+D2
+~
+~
+0 0 13744
+S
+#13746
+Western half of the River~
+What seems to have been a small stream has turned into a large river, or
+more appropriately, a swamp.  There are way too many bugs and strange
+creatures around here for your liking.  Better get across before it's too
+late; it looks like you can walk on that log.  
+~
+0 0 11
+D1
+~
+~
+0 0 13747
+D2
+~
+~
+0 0 13740
+S
+#13747
+Eastern half of the River~
+This half of the river doesn't seem much different from the other, and it
+certainly looks deep.  You don't feel like falling in, so may as well
+continue the walk accross the log.  
+~
+0 0 3
+D0
+~
+~
+0 0 13748
+D3
+~
+~
+0 0 13746
+S
+#13748
+Deep into East Jungle~
+From your gut instinct you feel that you have entered the eastern half of
+the jungle.  A strange and spooky path lies to the west.  Should you take
+your chances with the path, or leave your destiny to the river?  
+~
+0 0 3
+D2
+~
+~
+0 0 13747
+D3
+~
+~
+0 0 13752
+S
+#13749
+Around the Shack~
+To the northeast you see a badly broken down shack.  If it wasn't for so
+many vines covering the area, you could get in.  Perhaps another entrance
+will make it easier.  
+~
+0 0 3
+D1
+~
+~
+0 0 13750
+D3
+~
+~
+0 0 13745
+S
+#13750
+Before the Gates~
+You stand before a spooky looking shack.  The exterior looks as if nobody
+has painted or cared for it in many years.  Boards are loose, nails are half
+out, and the paint is flaking.  Lots of leaves cover the ground, and you
+must be careful of your step.  Large metal gates lie ahead.  
+~
+0 0 3
+D0
+~
+~
+0 0 13751
+D1
+~
+~
+0 0 13752
+D3
+~
+~
+0 0 13749
+S
+#13751
+Gates to the Shack~
+Two creaky, rusted, iron gates are closed, blocking your path.  With a
+little force, they may open, although they look rather tight.  Ahead you see
+the shack, closer than before and you feel wary about entering.  Perhaps
+it's better to turn around before it's too late.  
+~
+0 0 3
+D0
+~
+gates~
+1 0 13753
+D2
+~
+~
+0 0 13750
+S
+#13752
+Around the Shack~
+You stand outside a large, rusted iron gate.  A spooky looking shack can
+be seen in the near distance, but this will not do for an entrance.  Vines
+are starting to take over the rails of the fence, making the shack only
+visible in certain areas.  
+~
+0 0 3
+D1
+~
+~
+0 0 13748
+D3
+~
+~
+0 0 13750
+S
+#13753
+Front Yard~
+You stand before the shack, which appears to move slightly as the wind
+starts to pick up.  A strange howling noise comes from within.  It looks as
+though you can walk around the house or go back through the gates you
+entered from.  
+~
+0 0 3
+D0
+~
+door~
+1 0 13754
+D1
+~
+~
+0 0 13773
+D2
+~
+gate~
+1 0 13751
+D3
+~
+~
+0 0 13772
+S
+#13754
+Front of the Shack~
+You walk into a rather neat looking shack, considering the circumstances.
+It doesn't look like anyone has lived in here recently.  The mirror is
+smudged, and everything is covered with dust.  As you walk, the floorboards
+creak, this floor just doesn't seem right.  
+~
+0 8 0
+E
+mirror~
+As you look close to the mirror you notice that you don't see your own reflection, but instead, words written in blood.
+ 
+"Seek the Boneyard and the Skull unravels the truth"
+~
+E
+floorboards~
+You look at the floor trying to figure out what is differnet about them. 
+Its as if they can be removed...  
+~
+D0
+~
+~
+0 0 13764
+D2
+~
+door~
+1 0 13753
+D5
+~
+floor~
+1 0 13774
+S
+#13755
+South West Corner of the Yard~
+To the east, you see an entrance to the shack, and the only other way you
+can go is around.  What could be worse: going inside or around?  Perhaps the
+strange creature nibbling on your toes can tell you.  Better leave while you
+can still walk.  
+~
+0 0 3
+D0
+~
+~
+0 0 13756
+D1
+~
+~
+0 0 13772
+S
+#13756
+Western Side of the Yard~
+Strange as it is, this side of the house looks much better than the rest.
+The paint is not chipped, and there are little to no vines.  It looks as
+though someone has tampered with the wall.  
+~
+0 0 3
+D0
+~
+~
+0 0 13757
+D2
+~
+~
+0 0 13755
+S
+#13757
+Western Side of the Yard~
+Northwards you see the corner of the yard, and to the far south you see
+another.  Unlike farther south, this wall is very dirty and has definitely
+not been touched in ages.  Probably best not to look and just go away.  
+~
+0 0 3
+D0
+~
+~
+0 0 13758
+D2
+~
+~
+0 0 13756
+S
+#13758
+North West Corner of the Yard~
+This corner of the yard brings upon the meeting of the two lengths of
+fence.  There is no escape from here, so you'll have to find a different
+route if you plan to get out.  You can go east or south around the shack.  
+~
+0 0 3
+D1
+~
+~
+0 0 13770
+D2
+~
+~
+0 0 13757
+S
+#13759
+The Back Yard~
+The backyard is no easier to walk through than anywhere else around the
+shack.  Except for one door that looks like it may open with some force;
+there are plants as far as they eye can see.  
+~
+0 0 3
+D1
+~
+~
+0 0 13771
+D2
+~
+door~
+1 0 13764
+D3
+~
+~
+0 0 13770
+S
+#13760
+North East Corner of the Yard~
+Similar to other corners of the yard, there is a large fence keeping you
+in.  Only a small passible trail is between it and the shack.  The creatures
+around here sound like something you'd rather not play with.  
+~
+0 0 3
+D2
+~
+~
+0 0 13761
+D3
+~
+~
+0 0 13771
+S
+#13761
+Eastern side of the Yard~
+You can get a good close up view of the damage done by the jungle on both
+the outside of the shack as well as the fence around it.  Only a thin path,
+which is at places almost impenetrable, allows for space to walk.  
+~
+0 0 3
+D0
+~
+~
+0 0 13760
+D2
+~
+~
+0 0 13762
+S
+#13762
+Eastern side of the Yard~
+Above you are many trees, and shining through the small openings you can
+see a bright sun.  Unfortunately, the evil of the jungle has added a strange
+smog into the air, making it harder to see what could be a beautiful day.  
+~
+0 0 3
+D0
+~
+~
+0 0 13761
+D2
+~
+~
+0 0 13763
+S
+#13763
+South East Corner of the Yard~
+You see an entrance to the shack just to your west and a path around
+heading north.  Perhaps there is something important up there that you
+should look at?  The fence meets here in a corner and is covered by many
+different types of plant and fungus.  
+~
+0 0 3
+D0
+~
+~
+0 0 13762
+D3
+~
+~
+0 0 13773
+S
+#13764
+Back of the Shack~
+The second and only easily visible room of the shack is no different from
+the first.  A counter surrounds part of the room, and a bare table is in the
+centre.  There are no objects of personal value.  To the north is a door
+which looks like it leads to the back yard.  
+~
+0 8 0
+D0
+~
+door~
+1 0 13759
+D2
+~
+~
+0 0 13754
+S
+#13765
+Behind the Trees~
+You look back at the small trail that you took between the trees and
+begin to wonder how you fit through.  As you look at your new surroundings,
+you find yourself at a clear area around the trees with a large hole in the
+ground.  
+~
+0 0 3
+D0
+~
+door~
+3 0 13712
+D5
+~
+~
+0 0 13766
+S
+#13766
+Under the Jungle~
+Vines form a strange yet useful ladder to let you descend into the hole. 
+At the bottom, you find a bare room with small paths leading in a couple of
+different directions.  A strange stench lies before you and you're not sure
+if you should continue or go back.  
+~
+0 0 3
+D2
+~
+~
+0 0 13767
+D4
+~
+~
+0 0 13765
+S
+#13767
+Boneyard of Ay'Twa~
+Skeletons form before your eyes as you walk into this scary and ancient
+crypt of the damned.  You have no idea what they are doing down here, but
+you know it would be best to get out.  A strange chalk outline resembling a
+pentagram is on the floor, although one side has a weird smudge.  
+~
+0 0 0
+E
+pentagram~
+You see a pentagram made by your typical invoker, but one side is
+smudged.  Did a demon from hell break out, or did the invokers hand start to
+shake when he heard the yells of the damned?  
+~
+E
+skull~
+The skull looks like that of a small child, and the jaw seems as though
+it could open to reveal something.  
+~
+D0
+~
+~
+0 0 13766
+D5
+A pentagramal door created by an invoker
+~
+door~
+4 13778 13778
+S
+#13768
+Airlock~
+An airlock opens from the Invoker's Chambers and brings you before a
+strange tomb sealing a large body.  He looks like a cross between a vampire
+and a mage, and this must be the vampire which you have read about.  A box
+on the wall reads "Break Glass for Key in case of emergency" 
+~
+0 0 0
+D0
+~
+~
+4 13769 13778
+D2
+~
+door~
+4 13770 13769
+S
+#13769
+Inside the Tomb~
+You stand before the one who has brought so much evil to this jungle. 
+Once a peaceful place, it's now haunted by creatures of all shapes and
+sizes.  Anything which occurs in this room could get interesting.  
+~
+0 268435456 0
+D0
+~
+~
+4 13770 13768
+S
+#13770
+Northern side of the Yard~
+To the west is a troll watching your progress as you try to make your way
+through the vines and other strange plant life all around.  If you head
+east, you may find yourself in the back yard.  
+~
+0 0 0
+D1
+~
+~
+0 0 13759
+D3
+~
+~
+0 0 13758
+S
+#13771
+Northern side of the Yard~
+West of here is the back yard of the shack, and if you go east a troll is
+hanging off the fence and looks ready to pounce.  Better watch out, or you
+may be the next supper.  
+~
+0 0 0
+D1
+~
+~
+0 0 13760
+D3
+~
+~
+0 0 13759
+S
+#13772
+Southern side of the Yard~
+The southern yard looks similar to the rest of the yard around the shack.
+It is covered with vines, shrubs, and other plant life.  If you go east, you
+see a door and to the west is a strange animal peering from the corner.  
+~
+0 0 0
+D1
+~
+~
+0 0 13753
+D3
+~
+~
+0 0 13755
+S
+#13773
+Southern side of the Yard~
+A little more to your west is the entrance to the shack.  A corner of the
+yard is east of here, and vines and other jungle life surround you.  A very
+weird set of eyes peer at you from the corner.  
+~
+0 0 0
+D1
+~
+~
+0 0 13763
+D3
+~
+~
+0 0 13753
+S
+#13774
+Beneath the Shack~
+After removing a couple boards, a hidden stairway is revealed which
+allows you to descend under the shack.  It's amazing what a little
+observation can accomplish.  You find yourself in a small, cold,
+dungeon-like room.  
+~
+0 0 0
+D1
+~
+door~
+4 13723 13777
+D2
+~
+~
+0 0 13775
+D3
+~
+door~
+4 13723 13776
+D4
+~
+trapdoor~
+1 0 13754
+S
+#13775
+Damp corner of the basement~
+Unaffected by the jungle itself but still holding great evil, this corner
+of the basement makes you feel like you are beside the evil of hell.  You
+hear the floorboards above creak as somebody or something walks above.  A
+strange substance seems to be dripping down the walls as you walk around,
+and you can feel something under your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 13774
+S
+#13776
+Pipework~
+You stand amongst a great deal of piping.  They don't seem necessary for
+a shack this size, and it makes you wonder where they go.  Different colours
+run in different directions, and a small leak and hiss comes from the blue
+one to your left.  Better step away.  
+~
+0 0 0
+D1
+~
+door~
+4 13723 13774
+S
+#13777
+Graveyard~
+You walk into what appears to be a small burial yard.  The floor, which
+has changed from concrete to dirt, has three noticeable patches.  Small
+inscriptions on the wall may or may not show who or what is in these graves,
+but one thing is for certain: that you don't want to touch them...  Or do
+you?  
+~
+0 0 0
+E
+inscription~
+Written in strange letters: If you want to find whats in the grave then open it up and take a look.
+~
+D3
+~
+door~
+4 13723 13774
+D5
+~
+grave~
+1 0 13779
+S
+#13778
+Ancient Invokers Crypt~
+You enter an Invoker's private chambers.  The room has a strange eerie
+quality to it, and it seems as though it has been recently used.  Candles
+light the walls, and the door you entered from above looks like it wasn't
+meant to be found.  Obviously you're not wanted here.  An enticing book lies
+before you on a large pedestal.  
+~
+0 0 0
+D2
+~
+~
+4 13769 13768
+D4
+~
+door~
+4 13778 13767
+M 115 H 115
+S
+#13779
+Above the Casket~
+As you stand a couple feet under the ground and above the casket, you
+wonder if you should open it.  Sure it could hold the answers you want to
+know, but it could be an extreme violation of the person's rights.  So, have
+you come this far to turn around, or will you look?  
+~
+0 0 0
+D4
+~
+grave~
+1 0 13777
+D5
+~
+casket~
+1 0 13780
+S
+#13780
+The Casket~
+As you open the lid of the casket, you are shocked to notice that there
+is no body inside.  The only item left which even looks to be of mild
+importance is a note sitting just below the pillow.  It looks like nobody
+has ever used this...  You hope.  
+~
+0 0 0
+D4
+~
+casket~
+1 0 13779
+S
+#0
+
+
+
+#SPECIALS
+M 13765 spec_familiar Load to: your Shadow
+S
+
+
+
+#MOBPROGS
+#13770
+say Well, you have found me.  Its a good start.
+mob echo Maxel the Invoker sits down and thinks deeply.
+say If you really want to know the secret behind "Jungle Essence" then you must kill me.
+~
+A
+#13771
+say Well, you have defeated me, and you shall learn the secret.
+mob echo Maxel the Invoker sighs.
+say In order to create "Jungle Essence" 
+say You must first take a Granite Ring, a pair of Garden Gloves, a Vine Bracelet, A Vine Sabre, and A jungle Orb.
+say Add to this an Energetic Orb and three Emeralds of the Guardian and it will only take a little luck.
+say Keep it a secret, I have tried to keep the Essence to myself, and have failed.
+~
+A
+#13742
+say What are you doing in my Jungle?
+say Leave, or else you will hear from Maxel.
+snicker
+~
+A
+#13743
+~
+A
+#0
+
+#RESETS
+D 0 13712 2 1
+D 0 13716 1 1
+D 0 13716 3 1
+D 0 13717 1 1
+D 0 13717 3 1
+D 0 13718 1 1
+D 0 13718 3 1
+D 0 13726 1 1
+D 0 13727 3 1
+D 0 13728 1 1
+D 0 13729 3 1
+D 0 13730 1 1
+D 0 13731 3 1
+D 0 13732 1 1
+D 0 13732 3 1
+D 0 13733 3 1
+D 0 13734 1 1
+D 0 13751 0 1
+D 0 13753 0 1
+D 0 13753 2 1
+D 0 13754 2 1
+D 0 13754 5 1
+D 0 13759 2 1
+D 0 13764 0 1
+D 0 13765 0 1
+D 0 13767 5 2
+D 0 13768 0 2
+D 0 13768 2 2
+D 0 13769 0 2
+D 0 13774 1 2
+D 0 13774 3 2
+D 0 13774 4 1
+D 0 13776 1 2
+D 0 13777 3 2
+D 0 13777 5 1
+D 0 13778 2 2
+D 0 13778 4 2
+D 0 13779 4 1
+D 0 13779 5 1
+D 0 13780 4 1
+O 0 13700 0 13700
+O 0 13701 0 13700
+O 0 13702 0 13700
+O 0 13707 0 13700
+P 0 13769 2 13707 1
+P 0 13770 2 13707 1
+P 0 13778 2 13707 1
+P 0 13723 2 13707 1
+O 0 13703 0 13701
+M 1 13701 1 13701 1
+O 0 13706 0 13701
+O 0 13700 0 13702
+M 1 13720 8 13712 2
+M 1 13720 8 13713 1
+M 1 13720 8 13714 1
+M 1 13710 4 13715 1
+M 1 13710 4 13716 1
+M 1 13710 4 13717 1
+M 1 13710 4 13718 1
+M 1 13720 8 13720 1
+M 1 13720 8 13721 1
+M 1 13720 8 13722 1
+M 1 13720 8 13723 1
+M 1 13720 8 13724 1
+O 0 13711 0 13727
+P 0 13727 1 13711 1
+O 0 13714 0 13728
+P 0 13728 1 13714 1
+O 0 13715 0 13729
+P 0 13729 1 13715 1
+O 0 13716 0 13730
+P 0 13730 1 13716 1
+O 0 13717 0 13731
+P 0 13731 1 13717 1
+O 0 13718 0 13732
+O 0 13713 0 13733
+P 0 13733 1 13713 1
+O 0 13712 0 13734
+P 0 13734 1 13712 1
+M 1 13735 1 13735 1
+M 1 13745 1 13737 1
+M 1 13740 2 13739 1
+M 1 13740 2 13740 1
+E 0 13772 0 18
+O 0 13742 0 13742
+M 1 13730 1 13742 1
+E 0 13741 0 17
+M 1 13765 1 13743 1
+M 1 13760 3 13744 1
+M 1 13760 3 13746 1
+M 1 13780 2 13747 1
+M 1 13760 3 13749 1
+M 1 13755 3 13751 3
+M 1 13780 2 13752 1
+M 1 13750 4 13755 1
+E 0 13755 0 14
+M 1 13750 4 13758 1
+E 0 13758 0 1
+M 1 13750 4 13760 1
+E 0 13760 0 0
+M 1 13750 4 13763 1
+E 0 13763 0 9
+O 0 13767 0 13767
+P 0 13778 2 13767 1
+O 0 13768 0 13768
+P 0 13770 2 13768 1
+M 1 13770 1 13769 1
+E 0 13771 0 16
+M 1 13775 1 13775 1
+E 0 13775 0 9
+E 0 13723 0 3
+O 0 13776 0 13776
+P 0 13722 1 13776 1
+O 0 13777 0 13777
+P 0 13721 1 13777 1
+O 0 13779 0 13778
+P 0 13769 2 13779 1
+M 1 13779 2 13779 2
+O 0 13780 0 13780
+P 0 13781 1 13780 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

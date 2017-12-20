@@ -1,0 +1,2129 @@
+#AREADATA
+Name Old Dragon Sanctuary~
+Builders None~
+VNUMs 4500 4599
+Credits {20 30} Tsongas     Dragon Sanctuary~
+Security 9
+Xcontinent 1
+Age 11
+Questable 1
+End
+
+
+
+#MOBILES
+#4500
+small lamb~
+a small lamb~
+A small lamb is here wandering the path.
+~
+It's so cute and lovable! Surely you wouldn't want to kill it...
+~
+human~
+A 0 1000 0
+15 1 3d9+208 1d1+100 2d6+3 bite
+-2 -2 -2 -2
+0 0 0 H
+stand stand none 250
+AHMV ABCDEFGHIJK small 0 the guilds~
+#4501
+guard~
+a guard~
+A guard is here protecting something.
+~
+This guard, however dressed in golden armof or fallen warriors, is nothing more than a push-over. You wonder what it is he is guarding...
+~
+orc~
+AB J 1000 0
+20 1 3d9+333 1d1+100 2d8+5 slash
+-4 -4 -4 -4
+0 0 Q S
+stand stand male 950
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4502
+sleeping guard~
+sleeping guard~
+A guard is here sleeping his shift away.
+~
+He was once a great guard of the Sanctuary. Now he spends his time sleeping in the guard office chair.
+~
+orc~
+AB JV 1000 0
+20 1 3d9+333 1d1+100 2d8+5 slash
+-4 -4 -4 -4
+0 0 Q S
+sleep stand male 950
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4503
+woman~
+a woman~
+A woman is here gazing at the many paintings.
+~
+She is dressed in a long beautiful dress with gleaming jewels. If the thought crossed your mind, she isn't much of a fight...
+~
+human~
+AB d 1000 0
+20 1 3d9+333 1d1+100 2d8+5 punch
+-4 -4 -4 -4
+0 0 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4504
+golden statue~
+golden statue~
+A large golden statue is here, very life-like.
+~
+This gigantic statue is armored with the finest Dragon Armor known to Dominia. Made of solid gold, it's selling value would be quite nice.
+~
+human~
+AB HV 1000 0
+25 0 5d10+550 1d1+100 2d10+7 thrust
+-7 -7 -7 -7
+E A 0 J
+stand stand male 2500
+AHMV ABCDEFGHIJK large 0 the guilds~
+#4505
+nurse~
+a nurse~
+A nurse is here, awaiting a patient to tend to.
+~
+She's rather old and has a name tag which is worn and illegible. Her job is rather simple, as there are no patients around.
+~
+human~
+AB 0 1000 0
+22 1 5d10+400 1d1+100 4d4+6 slap
+-5 -5 -5 -5
+0 0 0 S
+stand stand female 670
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4506
+receptionist~
+a receptionist~
+A receptionist is taking down information here.
+~
+Just as old as the nurse, the receptionist is here with a pile of papers in front of her. It appears as if she hasn't checked anybody in for quite some time.
+~
+human~
+AB 0 1000 0
+22 1 5d10+400 1d1+100 4d4+6 slap
+-5 -5 -5 -5
+0 0 0 S
+stand stand none 670
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4507
+sleeping doctor~
+a sleeping doctor~
+A doctor is here sleeping among the cots.
+~
+Shhh! He's sleeping.
+~
+human~
+AB V 1000 0
+24 0 5d10+500 1d1+100 2d10+6 slash
+-6 -6 -6 -6
+0 0 0 S
+stand stand either 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4508
+cleric~
+a cleric~
+A cleric is sitting here waiting to heal a patient.
+~
+Dressed in a long white cloak, the cleric is here to heal minor wounds. However old, he has managed to keep his appearance quite young.
+~
+elf~
+AB HJ 1000 0
+24 0 5d10+500 1d1+100 2d10+6 none
+-6 -6 -6 -6
+0 0 BQ SZ
+stand stand none 1670
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4509
+wounded patient~
+a wounded patient~
+A wounded patient is here, waiting for a doctor.
+~
+Like most patients, he is wounded from battle and resting on the bed. He appears uneasy from the anticipation...or perhaps the pending cost of the bill.
+~
+troll~
+AB J 1000 0
+23 1 5d10+450 1d1+100 3d6+6 none
+-6 -6 -6 -6
+0 0 Q H
+stand stand either 600
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#4510
+janitor~
+a janitor~
+A janitor is here stacking boxes.
+~
+He mutters something under his breath as you walk over his newly cleaned floor. He doesn't appear to be very happy about his job...
+~
+goblin~
+AB J 1000 0
+23 2 5d10+450 1d1+100 3d6+6 none
+-6 -6 -6 -6
+0 0 Q C
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4511
+surgeon~
+a surgeon~
+A skilled surgeon is here in his scrubs.
+~
+You take a deep breath as you smell his scrubs and see him sharpening his scapel...You certainly hope to stay away from here.
+~
+human~
+AB 0 1000 0
+25 2 5d10+550 1d1+100 2d10+7 slash
+-7 -7 -7 -7
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4512
+head surgeon~
+the head surgeon~
+The head surgeon is here reviewing his work.
+~
+As one of the highest paid staff at the Sanctuary, the head surgeon stands awaiting his next patient by filling out stacks of papers.
+~
+human~
+AB H 1000 0
+25 2 5d10+550 1d1+100 2d10+7 slice
+-7 -7 -7 -7
+0 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4513
+patient~
+a patient~
+A patient is here lying in bed.
+~
+Although she just came from surgery, she has a relieved look on her face. She lies in bed healing from her encounter.
+~
+human~
+AB 0 1000 0
+26 0 5d10+600 1d1+100 3d7+7 none
+-7 -7 -7 -7
+0 0 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4514
+diseased patient~
+a diseased patient~
+A diseased patient is here, coughing on you.
+~
+Secluded from the rest of the patients, this diseased person is coughing and sneezing in the most disgusting fashion. You cover your mouth as to not catch anything.
+~
+human~
+AB X 1000 0
+26 0 5d10+600 1d1+100 3d7+7 none
+-7 -7 -7 -7
+0 Q 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4515
+hired assistant~
+a hired assistant~
+A hired assistant is here preventing your passage to the lab.
+~
+Very large and muscular, this "hired assistant" prevents your immediate passage to the lab. If you want to get inside, you'll have to go through him.
+~
+orc~
+AB DEJ 1000 0
+28 0 6d12+703 1d1+100 2d12+8 punch
+-8 -8 -8 -8
+RU A AQ S
+stand stand male 1600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4516
+lab worker~
+a lab worker~
+A lab worker stands here boiling liquids.
+~
+Dressed in a white lab coat, the lab worker is busy running around mixing different compounds and writing notes on a notepad.
+~
+elf~
+AB J 1000 0
+28 0 6d12+703 1d1+100 2d12+8 none
+-8 -8 -8 -8
+0 0 B Z
+stand stand male 900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4517
+caged animal~
+a caged animal~
+A caged animal stands at your feet begging for mercy.
+~
+Poor and misfortunate, his fate is to be a test subject.
+~
+giant~
+AB 0 1000 0
+30 1 6d12+853 1d1+100 4d6+8 none
+-9 -9 -9 -9
+0 0 HI J
+stand stand none 10
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4518
+mutated dragon~
+a mutated dragon~
+A mutated Dragon is here scratching the walls and screaming.
+~
+You grab you ears as it lets out a horrific scream. He seems angry.
+~
+hatchling~
+AB J 1000 0
+35 0 10d10+1300 1d1+100 4d7+11 none
+-11 -11 -11 -11
+0 0 B 0
+stand stand none 2500
+BHMZ ABCDEFGHIJKLQUVWX medium 0 the guilds~
+#4520
+sanctuary director~
+the sanctuary director~
+The Sanctuary Director sits here in his large executive chair.
+~
+The Director, who has a very clean haircut and close shave, is sitting back in his chair waiting for the next complaint.
+~
+human~
+AB V 1000 0
+32 0 10d10+1000 1d1+100 4d4+9 none
+-10 -10 -10 -10
+0 0 0 0
+sit sit male 2500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4521
+greenhouse worker~
+a greenhouse worker~
+A greenhouse worker is here watering the many herbs and plants.
+~
+Her clothes are dirty with potting soil and green stains, but it is clear that she takes her job seriousely.
+~
+dwarf~
+A HJ 1000 0
+26 0 5d10+600 1d1+100 3d7+7 none
+-7 -7 -7 -7
+0 ABab LQ R
+stand stand female 800
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4522
+dragon ghost~
+a ghost of a fallen dragon~
+A misty figure of a ghost floats here in the form of a Dragon.
+~
+Years ago it fought to defend all of Dragon-kind. Now it floats aimlessly through the Sanctuary, reminding everybody of great misfortunes.
+~
+hatchling~
+AB HJV 1000 0
+30 1 6d12+853 1d1+100 4d6+8 none
+-9 -9 -9 -9
+0 a BE PT
+stand stand none 1350
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#4523
+happy cook~
+a happy cook~
+A cook is here, happy to serve you.
+~
+Happy that you are in need of some food, the cook quickly makes up a fresh batch of gelatin. Sure looks...good!
+~
+human~
+AB 0 0 0
+30 0 6d12+853 1d1+100 4d6+8 slap
+-9 -9 -9 -9
+0 ABCDKZ 0 0
+stand stand none 3000000
+AHMV ABCDEFGHIJK large 0 the guilds~
+#4524
+female jailer~
+a female jailer~
+A female jailer is here, protecting the cell to the east.
+~
+Very stern, the jailor watches carefully over the jail cell to the east.
+~
+dwarf~
+AB Ja -500 0
+27 1 5d10+650 1d1+100 5d4+7 pound
+-8 -8 -8 -8
+H K LQ R
+stand stand female 450
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4525
+giant rat~
+a giant rat~
+A giant rat is here, glad to see something to gnaw on.
+~
+Eek, it's a rat!
+~
+deamon~
+ABF DFJT -1000 0
+28 0 6d12+703 1d1+100 2d12+8 none
+-8 -8 -8 -8
+CFH B H NS
+stand stand none 50
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#4526
+sanctuary priest~
+the Sanctuary Priest~
+The Sanctuary Priest is here to listen to your troubles.
+~
+Many years he has worshipped the many Gods of Redemption. Now, he puts his studies to use, and is here to help all that come to him.
+~
+elf~
+AB BHJ 1000 0
+20 2 3d9+333 1d1+100 2d8+5 none
+-4 -4 -4 -4
+0 ABa B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4598
+tourney healer~
+the official tourney healer~
+A healer is here to heal your wounds.
+~
+I am but a simple man...
+~
+undead~
+ABOa HZ 0 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+CF ABCD I HNS
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4599
+test mob~
+a test mob~
+A test mob is here.
+~
+Mwahahaha
+~
+elf~
+ABJK HJN 0 0
+1 0 1d1+0 1d1+0 1d1+0 pound
+9 9 9 9
+0 DZ B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#4500
+protective wand of sound~
+protective wand of sound~
+The powerful wand of sound protection is here.~
+energy~
+wand A AO
+30 5 5 'soundproof' 0
+20 0 0 P
+#4501
+protective wand of fire~
+protective wand of fire~
+The powerful wand of fire protection is here.~
+energy~
+wand A AO
+30 5 5 'fireproof' 0
+20 0 0 P
+#4502
+a guardian mace~
+a guardian mace~
+A guardian's mace sits here, used to protect the Santuary.~
+steel~
+weapon B AN
+mace 2 9 pound 0
+20 5 1200 P
+A
+18 2  
+A
+2 -1  
+A
+1 -1  
+#4503
+black dragon scaled sword~
+a black dragon scaled sword~
+A sword crafted from an old black Dragon's scale is here.~
+steel~
+weapon MT AN
+sword 3 6 pierce C
+23 0 1450 P
+A
+4 2  
+A
+3 1  
+A
+5 -2  
+#4504
+melted gold pieces~
+some melted gold pieces~
+Some gold pieces are here, melted with high temperature burners.~
+wood~
+jewelry TW AO
+0 0 0 0 0
+0 10 2500 P
+#4505
+golden armor~
+golden armor~
+Some armor forged of pure gold has been placed here.~
+gold~
+armor I AD
+7 8 1 3 0
+25 4 689 P
+A
+19 2  
+A
+2 1  
+#4506
+head bandage~
+a head bandage~
+A bandage is here for those who have hurt their head.~
+felt~
+armor I AE
+2 2 8 4 0
+23 1 720 P
+A
+19 2  
+A
+1 -1  
+#4507
+oak desk~
+an oak desk~
+An oak desk sits here collecting dust.~
+wood~
+container 0 0
+0 0 0 100 0
+0 0 0 P
+#4508
+guard room key~
+guard room key~
+A guard seems to have carelessly left his keys here.~
+iron~
+key T AO
+0 0 0 0 0
+0 0 0 P
+#4509
+sharp scalpel~
+a sharp scalpel~
+A short, sharp scalpel is here. Careful not to cut yourself!~
+iron~
+weapon AI AN
+dagger 3 6 slash 0
+23 2 250 P
+A
+20 1  
+#4510
+needle~
+a doctor's needle~
+A needle is here, carefully sterilized.~
+steel~
+weapon 0 AN
+exotic 2 10 pierce 0
+23 0 0 P
+#4511
+closet key~
+closet key~
+Tsk, the nurse seems to have "dropped" the key to the storage closet!~
+steel~
+key T AO
+0 0 0 0 0
+0 0 0 P
+#4514
+fountain youth~
+the fountain of youth~
+A large fountain spews out healing water here.~
+ivory~
+fountain 0 P
+0 0 'water' 0 0
+0 0 0 P
+#4515
+small quartz bench~
+a small bench~
+A short bench made of pure quartz sits here.~
+quartz~
+furniture A P
+2 10000 EHK 150 150
+0 0 0 P
+#4523
+dry steak~
+a large dry steak~
+A rather large and dry steak is resting upon a plate.~
+food~
+food A 0
+5 5 0 0 0
+1 0 120 P
+#4524
+gelatin jello~
+a bowl of gelatin~
+A bowl of gelatinous substance is here waiting to be eaten.~
+food~
+food A A
+5 5 0 0 0
+1 0 100 P
+#4525
+cup orange juice~
+a cup of orange juice~
+Nothing like a tall wooden cup of orange juice...~
+wood~
+drink 0 A
+20 20 'orange juice' 0 0
+1 0 150 P
+#4526
+dragon skull~
+a dragon skull~
+The skull of a dragon has been dropped here.~
+bone~
+trash T AY
+0 0 0 0 0
+1 20 300 P
+#4531
+lab key~
+lab key~
+A carefully carved key to the Sanctuary Lab is here.~
+wood~
+key T AO
+0 0 0 0 0
+0 0 0 P
+#4553
+prison cell key~
+prison cell key~
+The Sanctuary prison key has carelessly been left here.~
+wood~
+key T AO
+0 0 0 0 0
+0 0 0 P
+#4554
+safe key~
+a safe key~
+The key to the Director's safe sits here.~
+iron~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#4555
+director's safe~
+the director's safe~
+The Director's safe sits here.~
+iron~
+container 0 P
+100 ABCD 4554 3 0
+0 0 0 P
+#4560
+First prize!~
+First prize!~
+The first prize is here from Tsongas' tourney~
+wood~
+gem W A
+0 0 0 0 0
+0 0 500000 P
+#4561
+Second Prize!~
+Second Prize!~
+Long The second prize is here from Tsongas' tourney~
+wood~
+gem W A
+0 0 0 0 0
+0 0 400000 P
+#4562
+Third Prize!~
+Third Prize!~
+Long The third prize is here from Tsongas' tourney~
+wood~
+gem W A
+0 0 0 0 0
+0 0 300000 P
+#4563
+Fourth Prize!~
+Fourth Prize!~
+Long The fourth prize is here from Tsongas' tourney~
+wood~
+gem W A
+0 0 0 0 0
+0 0 200000 P
+#4564
+Fifth Prize!~
+Fifth Prize!~
+The fifth prize is here from Tsongas' tourney~
+wood~
+gem W A
+0 0 0 0 0
+0 0 100000 P
+#4570
+portal terra~
+a portal to Terra~
+A glistening portal to Terra is here.~
+stone~
+portal AY 0
+0 0 0 3001 0
+0 0 0 P
+#4571
+portal dominia~
+a portal to Dominia~
+A glistening portal to Dominia is here.~
+stone~
+portal AY 0
+0 0 0 31000 0
+0 0 0 P
+#4580
+pair rusty shears~
+a pair of rusty shears~
+A pair of rusty shears is here. Watch where you point them!~
+steel~
+scroll E AN
+30 'change sex' 'reserved' 'reserved' 'reserved'
+1 0 0 P
+#4590
+weapon~
+test weapon~
+A test weapon~
+wood~
+weapon M N
+exotic 0 0 none 0
+0 0 0 P
+#4594
+tourney key~
+Dragon Sanctuary Key~
+A key is here to unlock the secrets of the Dragon Sanctuary arena.~
+steel~
+key 0 AC
+0 0 0 0 0
+56 0 0 P
+#4595
+tourney fountain~
+an official tourney fountain~
+A large marble fountain is here to refresh you.~
+marble~
+fountain 0 0
+999999 999999 'lemonade' 0 0
+0 0 0 P
+#4596
+little coder doll tsongas~
+A little doll in the shape of Tsongas~
+A little doll of Tsongas in a well-pressed suit is here, ready to eat!~
+flesh~
+pill Y AY
+20 'animal growth' 'sanctuary' 'bless' 'haste'
+1 0 0 P
+E
+doll~
+You see a small doll, a few inches tall, which you could eat to give a
+very yummy spell up.  Or, if you collected dolls of all the Coders of
+Redemption and spent some gold on a diamond, you could try and craft a
+"tangled mess of mud code".  
+~
+#4597
+tourney couch~
+an official tourney couch~
+A large official tourney couch is here while you wait.~
+satin~
+furniture 0 0
+30 999999 BEHK 100 100
+0 0 0 P
+#4598
+tsongas dagger~
+Tsongas' Dagger~
+Tsongas' Dagger of Wrath~
+iron~
+weapon 0 AN
+exotic 22 1 slash DE
+58 0 0 P
+A
+4 10  
+A
+5 10  
+A
+3 10  
+A
+1 9  
+A
+2 6  
+#4599
+Tsongas' Glittering Prize~
+Tsongas' {YG{yl{Yi{yt{Yt{ye{Yr{yi{Yn{yg{x Prize~
+A job well done! You have earned yourself an official Tsongas Prize!~
+gold~
+gem AW A
+0 0 0 0 0
+0 1 4000000 P
+#0
+
+
+
+#ROOMS
+#4500
+Narrow Path~
+You travel off the regularly traveled path onto a narrow, dusty trail. 
+It continues onward to the east.  
+~
+0 0 3
+D1
+To the darkened path.
+~
+~
+0 0 4501
+D2
+~
+~
+0 0 4556
+S
+#4501
+Darkened Path~
+As you continue down the long trail, the tree cover begins to get so
+thick as to darken every inch of light in front of you.  Hopefully you've
+packed a light!  
+~
+0 0 3
+D1
+To the Sanctuary Entrance.
+~
+~
+0 0 4502
+D3
+To the Narrow Path.
+~
+~
+0 0 4500
+S
+#4502
+Blackness...~
+As you reach the end of the path, you come to a cold, wet rock blocking
+your passage to the east.  Just as you turn to return to the path, you
+notice a carefully covered hole in the ground.  Clearing it, you find a
+ladder leading into the ground.  
+~
+0 0 3
+D3
+Toward the darkened path.
+~
+~
+0 0 4501
+D5
+The decent to the Sanctuary.
+~
+hole~
+1 0 4503
+S
+#4503
+Down the Ladder~
+Amazed at your find, you travel down the long rickity ladder, which is
+well lit from the torches below and to your sides.  The exit hole is up from
+you.  
+~
+0 8 0
+D4
+To the guarded entrance.
+~
+hole~
+1 0 4502
+D5
+The base of the ladder.
+~
+~
+0 0 4504
+S
+#4504
+Base of the Ladder~
+After your long decent, you find yourself at the base of the ladder in a
+brightly lit entrance to a magestical place.  It is too bright to see what
+it is, but you can continue by traveling east, or leave going back up the
+ladder.
+~
+0 8 0
+D1
+To the great Atrium.
+~
+~
+0 0 4505
+D4
+Up the ladder.
+~
+~
+0 0 4503
+S
+#4505
+Sanctuary Entrance~
+Your persistance has greatly paid off!  It seems that you have stumbled
+upon the great lost Dragon Sanctuary, which used to be used (still?)  As a
+healing facility for injured Dragons in the great war.  It is greatly
+decorated with beautiful paintings depicting the wars upon Dominia, and also
+golden statues of the great warriors.  To the north lies an entire room
+dedicated to such art pieces, and to the south is a guard room, which has
+long served its purpose.  Continuing east is the actual Sanctuary.  
+~
+0 8 0
+D0
+The gallery.
+~
+~
+0 0 4506
+D1
+Continuing within...
+~
+~
+0 0 4509
+D2
+The guard room.
+~
+~
+0 0 4507
+D3
+The base of the ladder.
+~
+~
+0 0 4504
+S
+#4506
+Gallery~
+Above you is a large shimmering dome made of solid gold, demonstrating
+that a large amount of money and time was put into creating this room. 
+Aside from this, there are numerous paintings draped around the room each
+telling a different story.  In each corner stands a carefully constructed
+golden statue dressed in the finest of armor to represent what was worn
+during the war.  Many people still walk around here, and it almost appears
+that one of the statues is still alive...  
+~
+0 8 0
+D2
+The great Atrium.
+~
+~
+0 0 4505
+M 0 H 0
+S
+#4507
+Guard Room~
+This small room was used to hold the guards of the Sanctuary to protect
+the injured from attacks.  However, judging from the spider webs covering
+every inch of the room, you are the first to enter it in a very long time. 
+In the corner sits a medium sized oak desk.  
+~
+0 8 0
+D0
+~
+~
+0 0 4505
+D2
+~
+door~
+1 4508 4508
+M 0 H 0
+S
+#4508
+Guard Room Vault~
+You have managed to find yourself in the guard's vault room which use to
+house several weapons in case of attacks.  Since the war's end, the room has
+been emptied of such weapons, and only one sword seems to remain leaning
+against the wall.  
+~
+0 8 0
+D0
+~
+door~
+1 4508 4507
+M 0 H 0
+S
+#4509
+Administrative Desk~
+To your great surprise, you find several people walking around the
+Sanctuary still aiding those who need help.  Due to the lack of Dragons upon
+Dominia however, you note the complete lack of their presence in the clinic.  Still,
+those who go against Selina require a place to recupperate after being banished, and
+they are welcomed here.  
+~
+0 8 0
+D0
+~
+door~
+1 0 4510
+D1
+~
+~
+0 0 4512
+D2
+~
+door~
+3 4511 4511
+D3
+~
+~
+0 0 4505
+M 0 H 0
+S
+#4510
+Faculty Lounge~
+After hours of labor, the medical staff of the Sanctuary require a place
+to rest.  They receive such a place in the faculty lounge.  There are a few
+scattered cots in the corner, and a table used for quick meals in the
+center.  You're best not waking those sleeping, they're probably pretty
+cranky.  
+~
+0 8 0
+D2
+~
+door~
+1 0 4509
+M 0 H 0
+S
+#4511
+Storage Closet~
+You have a feeling you shouldn't be in here, but you better make the most
+out of going through the trouble of doing so.  This closet is used to store
+most of the medical equipment, ranging from bandages to wooden crutches. 
+Perhaps there is something in here you could make use of!  
+~
+0 262152 0
+D0
+~
+door~
+3 4511 4509
+M 0 H 0
+S
+#4512
+Long Hallway~
+You walk down the long corridor toward the treatment rooms.  Although it
+is a place for medical treatment, it still has a magnificent artistic touch
+to every square inch of floors, walls, and ceilings.  The reception desk is
+directly to the west.  
+~
+0 8 0
+D1
+~
+~
+0 0 4513
+D3
+~
+~
+0 0 4509
+M 0 H 0
+S
+#4513
+Long Hallway~
+Continuing down the extremely long hallway, you notice that it is
+beginning to get wider as you go along.  It seems to open up into several
+treatment rooms up ahead to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 4514
+D3
+~
+~
+0 0 4512
+M 0 H 0
+S
+#4514
+Healing Room~
+You have finally reached the end of the hallway!  You quickly realise
+that this large room, which branches off to several smaller rooms, is the
+center of the Sanctuary's healing powers.  Above you, there is a small hole
+in the ceiling, which lets in just enough light to illuminate the gigantic
+fountain in the center of the room.  On the fountain there is a plaque.  
+~
+0 8 0
+E
+plaque~
+Let it be known that those who drink from this fountain shall have
+eternal life!  
+~
+D0
+~
+door~
+1 0 4515
+D1
+~
+~
+0 0 4523
+D2
+~
+door~
+1 0 4521
+D3
+~
+~
+0 0 4513
+M 110 H 110
+S
+#4515
+Treatment Room 1~
+You have entered one of the many treatment rooms, each used for a
+specific purpose.  All are used for minor wounds, as the surgical rooms are
+across the hall for more severe problems.  This room is generally used to
+treat minor broken bones.  
+~
+0 8 0
+D0
+~
+~
+0 0 4516
+D1
+~
+~
+0 0 4520
+D2
+~
+door~
+1 0 4514
+S
+#4516
+Treatment Room 3~
+This very small room which has a sign that reads, "Check Ups" is
+evidentally used for proceedural analysis on patients.  There are several
+small medical tools hanging on the wall to make the doctor's job easier.  
+~
+0 8 0
+D0
+~
+~
+0 0 4517
+D1
+~
+~
+0 0 4519
+D2
+~
+~
+0 0 4515
+S
+#4517
+Waiting Room~
+This room which is so conveniently placed in the far back, is reserved
+for waiting patients.  There are a few chairs and a table with dust covered
+books.  Seems it has been a while since the room has been used.  
+~
+0 8 0
+D1
+~
+~
+0 0 4518
+D2
+~
+~
+0 0 4516
+S
+#4518
+Old Treatment Room~
+This room has long served its purpose, and merely is a storage place for
+the other five rooms.  There are several boxes containing medical equipment
+that didn't fit down the hall.  
+~
+0 8 0
+D2
+~
+~
+0 0 4519
+D3
+~
+~
+0 0 4517
+S
+#4519
+Treatment Room 4~
+The sign on the wall states, "Vaccination" making you draw the conclusion
+this room is done for minor vaccinations.  Your theory is proved correct by
+the multiple vials locked in a closet, and the vast amount of needles spread
+across the table.  
+~
+0 8 0
+D0
+~
+~
+0 0 4518
+D2
+~
+~
+0 0 4520
+D3
+~
+~
+0 0 4516
+S
+#4520
+Treatment Room 2~
+Continuing through the treatment rooms, you come across one with a sign
+on the wall stating, "Minor Sickness Treatment."  A clerical desk rests in
+the corner.  
+~
+0 8 0
+D0
+~
+~
+0 0 4519
+D3
+~
+~
+0 0 4515
+S
+#4521
+Surgical Room~
+You feel a bit nervous walking into this room as you see blood stains on
+the ground and several surgical tools on metal trays.  It is well lit due to
+the nature of work done here, but you'd still rather be outside.  
+~
+0 8 0
+D0
+~
+door~
+1 0 4514
+D1
+~
+~
+0 0 4522
+S
+#4522
+Surgical Room~
+This room is almost identical to the last, except it is much smaller and
+is more badly stained with blood.  It appears more severe surgeries are done
+here.  
+~
+0 8 0
+D3
+~
+~
+0 0 4521
+S
+#4523
+Another Hallway~
+You let out a sigh and mumble something under your breath as you realize
+that once again you are forced to walk down another one of these long
+hallways...  
+~
+0 8 0
+D1
+~
+~
+0 0 4524
+D3
+~
+~
+0 0 4514
+S
+#4524
+Recovery Atrium~
+You are amazed as you enter the atrium of the healing rooms, as it is
+more decorated than most of the other rooms.  Still not nearly as remarkable
+as the healing room and entrance to the Sanctuary, it is a very humble
+welcome to those who have just been healed of their wounds.  
+~
+0 8 0
+D0
+~
+~
+1 0 4525
+D1
+~
+~
+0 0 4531
+D2
+~
+~
+1 0 4528
+D3
+~
+~
+0 0 4523
+M 0 H 0
+S
+#4525
+Recovery Room~
+Several beds are neatly lined up in rows awaiting patients to recover
+here.  These three rooms are used for non-diseased patients, as to contain
+the spread of plauge and disease to other patients.  
+~
+0 8 0
+D0
+~
+~
+0 0 4526
+D2
+~
+door~
+1 0 4524
+S
+#4526
+Recovery Room~
+More beds go on and on and on...
+~
+0 8 0
+D0
+~
+~
+0 0 4527
+D2
+~
+~
+0 0 4525
+S
+#4527
+Recovery Room~
+You reach the end of the northern recovery room and look around only to
+see empty beds and random medical supplies scattered about the room.  You
+think it's best to leave.  
+~
+0 8 0
+D2
+~
+~
+0 0 4526
+S
+#4528
+Recovery Room~
+Directly across the hall from the non-disease recovery rooms are the
+diseased recovery rooms.  These three rooms has seen some of the worlds most
+nasty diseases.  In turn, Sanctuary has been credited for finding cures and
+eradicating many of those obscure diseases.  Due to the type of patients
+that stayed here, the room doesn't fit the decor of the other rooms.  
+~
+0 8 0
+D0
+~
+door~
+1 0 4524
+D2
+~
+~
+0 0 4529
+S
+#4529
+Recovery Room~
+You feel ill as you enter into what seems to be a disease filled room. 
+Your body begins to tingle as you imagine spores and germs seeping into your
+clothing and into every pore in your body.  Covering your mouth and nose
+quickly you begin to retch and heave.  This room is not well kept unlike the
+others, in fact, it is rather filthy and disgusting.  
+~
+0 8 0
+D0
+~
+~
+0 0 4528
+D2
+~
+~
+0 0 4530
+S
+#4530
+Recovery Room~
+Strangely, this room has been completely cleared out, but appears that it
+is greatly traveled.  Perhaps there is something you have overlooked?  
+~
+0 8 0
+D0
+~
+~
+0 0 4529
+D2
+~
+door~
+3 0 4545
+S
+#4531
+Yet ANOTHER Hallway~
+As beautiful as they may be, you grow rather weary of walking down these
+richly decorated hallways.  However, it appears that this is the last of
+them, and there is a large steel door being heavily guarded by two hired
+assistants.  The sign above you reads "Laboratory."  
+~
+0 8 0
+D1
+~
+door~
+4 4531 4532
+D2
+~
+~
+0 0 4550
+D3
+~
+~
+0 0 4524
+D5
+~
+~
+0 0 4552
+S
+#4532
+Lab Entrance~
+This is the entrance to the medical labs of the Sanctuary.  Here all the
+medicines used to treat patients are made and tested.  Over the years,
+several cures for large scale diseases were dicovered here, and the room
+still serves such purposes.  
+~
+0 8 0
+D0
+~
+~
+0 0 4533
+D1
+~
+~
+0 0 4534
+D3
+~
+door~
+4 4531 4531
+S
+#4533
+Coat Room~
+This coat room is filled with rows upon rows of white lab coats used by
+the lab workers.  You notice that the only difference between them all is
+size.  
+~
+0 8 0
+D2
+~
+~
+0 0 4532
+S
+#4534
+Testing Facility~
+This is quite a busy area!  Usually several different races including
+elves, humans, and dwarves are in lab coats running around mixing vials of
+chemicals over different flames.  For decades medicines have been made here,
+and still serves the same purpose today.  
+~
+0 8 0
+D0
+~
+~
+0 0 4535
+D1
+~
+door~
+1 0 4544
+D2
+~
+~
+0 0 4536
+D3
+~
+~
+0 0 4532
+S
+#4535
+Testing Facility~
+Similar to the last testing room, busy lab workers run around with
+different vials of marked substances.  Going through many elaborate series
+of tests, the hopeful cures are passed only with a final test on a live
+subject.  In the corner there are a few dead animals heaped on a steel
+table.  
+~
+0 8 0
+D0
+~
+~
+0 0 4537
+D1
+~
+~
+0 0 4547
+D2
+~
+~
+0 0 4534
+S
+#4536
+Lab Storage Room~
+This room serves as the final storage place for all completed cures.  The
+room, which is filled with wooden and metal shelves, is filled with vials of
+marked medication.  Any disease that may appear is sure to be cured from
+something in this room.  
+~
+0 8 0
+D0
+~
+~
+0 0 4534
+S
+#4537
+Evacuation Room~
+In case of emergencies, doctors can quickly escape to the ground level
+through the small security hatch above you.  It also serves as a good get
+away from a hard days work.  
+~
+0 8 0
+D2
+~
+~
+0 0 4535
+D4
+~
+hatch~
+1 0 4538
+S
+#4538
+Open Field~
+You take in a deep breath of fresh air as you come to the surface level. 
+You notice a large beautiful field, which stretches for miles.  To the north
+is a greenhouse, and to the south seems to be a grave yard of some sort.  
+~
+0 0 2
+D0
+~
+door~
+1 0 4539
+D2
+~
+~
+0 0 4541
+D5
+~
+hatch~
+1 0 4537
+S
+#4539
+Greenhouse~
+This small greenhouse is used to grow and reproduce the necessary herbs
+and plants required to make the many medicines needed at the Sanctuary. 
+Surely anything wrong here would put production at a stop.  
+~
+0 8 0
+D1
+~
+~
+0 0 4540
+D2
+~
+door~
+1 0 4538
+S
+#4540
+Greenhouse~
+The steamy air in the greenhouse begins to make you to gasp for fresh
+air.  You stumble into a room where the plants grow on rows as far as your
+eye can see.  You feel inclined to take some yourself, but you realize the
+importance of them.  It's a good thing there is usually someone here to tend
+to them, otherwise they would surely die without constant attention.  
+~
+0 8 0
+D3
+~
+~
+0 0 4539
+S
+#4541
+Dragon Cemetary~
+You stand in front of a very quiet cemetary containing scattered graves
+of fallen Dragons.  Some of the stones are so old, the names and dates
+have faded away beyond recognition. 
+~
+0 0 2
+D0
+~
+~
+0 0 4538
+D1
+~
+~
+0 0 4542
+S
+#4542
+Dragon Cemetary~
+This section of the graveyard seems to be more current, as you can still
+read some of the names and dates on the stones.  It has been rumored that
+the ghosts of Dragon warriors still wander the lands they were killed on.  
+~
+0 0 2
+D2
+~
+door~
+3 0 4543
+D3
+~
+~
+0 0 4541
+S
+#4543
+Small Chapel~
+You've reached a small chapel at the outskirts of the cemetery.  Here
+small and quiet services can be held for the dead.  On the walls are stained
+glass pictures of Bosco, Selina, and the five fallen children.  Only a few
+old and decrepited pews serve as furniture in the chapel.  
+~
+0 524 0
+D0
+~
+door~
+3 0 4542
+S
+#4544
+Cage Room~
+Used for research purposes, several small animals are caged here. 
+Knowing the experiments done here, you assume they have all been infected
+with some type of disease already.  Best to keep your distance.  
+~
+0 8 0
+D1
+~
+~
+0 0 4546
+D3
+~
+door~
+1 0 4534
+S
+#4545
+Safe Room~
+This dark and quiet room is cut off from all others of the Sanctuary.  It
+is rumored that there were scattered hiding spots for the Dragons to stay in
+case of attacks on the Sanctuary, and this happens to be one of them.  Aside
+from being secluded from the rest of the rooms, it contains powerful magic
+restrictions, which prevent easy passage in and out of the room...  
+~
+0 806887432 0
+D0
+~
+door~
+3 0 4530
+S
+#4546
+Cage Room~
+This seems to be yet another room full of caged animals.  Their cries and
+shrieks begin to assail your morale fibre as you fight with yourself to set
+them free.  A shiver crawls down your spine as you listen to their wailing. 
+~
+0 8 0
+D1
+~
+~
+0 0 4549
+D3
+~
+~
+0 0 4544
+S
+#4547
+Empty Room~
+This room, although empty, is still commonly used for whatever purposes
+needed.  Down the stairs is the Sanctuary's Director Office.  
+~
+0 8 0
+D3
+~
+~
+0 0 4535
+D5
+~
+~
+0 0 4548
+S
+#4548
+Director's Office~
+This room is splendidly decorated with jewels from all over Terra and
+Dominia.  In the far corner sits a solid gold desk while a regal rug covers
+the floor.  The director is treated like a king here, and it shows by the
+decor of the room.  
+~
+0 8 0
+D1
+~
+~
+1 0 4555
+D4
+~
+~
+0 0 4547
+S
+#4549
+Strange Room~
+This strange room is mangled from top to bottom with deep claw marks. 
+You have entered into what is knowns as the rejection room.  For those cases
+of scientific mutations, deformed Dragons are forced to live out their lives
+in this room.  Eyeing them from a distance, you decide you had best keep a
+fair distance from them.  
+~
+0 8 0
+D3
+~
+~
+0 0 4546
+S
+#4550
+Cafeteria~
+Unlike other facilities, the finest food is served to the patients of the
+Sanctuary.  There is about a dozen tables with chairs neatly lined up beside
+them.  All the room needs is hungry people.  
+~
+0 8 0
+D0
+~
+~
+0 0 4531
+D1
+~
+~
+0 0 4551
+S
+#4551
+Kitchen~
+In order to have great food, you must have a great chef.  Every chef must
+have a kitchen and his untensils.  It is the Sanctuary's kitchen that you
+have wandered into.  Here, spectacular meals are prepared for the patients
+making them wishing for a longer stay in the Sanctuary.  
+~
+0 8 0
+D3
+~
+~
+0 0 4550
+S
+#4552
+Dark Stairway~
+This long twisting stairway seems to go forever.  The fact that it is
+very dark and wet doesn't help the descent.  
+~
+0 8 0
+D4
+~
+~
+0 0 4531
+D5
+~
+~
+0 0 4553
+S
+#4553
+Prison Entrance~
+It appears that the Sanctuary didn't take too kindly to attackers.  This
+small prison, which is locked to the east, is quite damp and disgusting. 
+Surely this is a place you wouldn't want to spend your days.
+~
+0 8 0
+D1
+~
+~
+4 4553 4554
+D4
+~
+~
+0 0 4552
+S
+#4554
+Prison Cell~
+Ack!  The prison cell door closes behind you, rendering you completely
+useless.  Unfortunately the key seems to only work in one direction, not the
+other.  Perhaps you can play with the rats.  
+~
+0 268435468 0
+S
+#4555
+The Director's Safe Room~
+This small secure room is used to hold the Director's safe.  In it is
+probably the Sanctuary's greater achievements.  
+~
+0 8 0
+D3
+~
+door~
+1 0 4548
+M 0 H 0
+S
+#4556
+A Bend in the Trail~
+As you continue down the path, there is a sharp turn in the trail that
+leads to the north.  There is a sign covered by some foilage, but is too
+worn to be read.  
+~
+0 0 3
+D0
+~
+~
+0 0 4500
+D1
+~
+~
+0 0 4557
+D3
+~
+~
+0 0 12180
+S
+#4557
+The Edge of the Forest~
+Great hills lie to the south of the dirt path you stand upon.  They cast
+a continual shadow over this area.  The path continues to the east and west.
+~
+0 0 3
+D1
+~
+~
+0 0 4558
+D3
+~
+~
+0 0 4556
+S
+#4558
+Along the Dirt Path~
+You feel a chill as you stand among these hills imagining the great
+battles that must have taken place long ago between the Dragons and Selina. 
+You wonder if any great war will ever rip the world apart like that again. 
+Exits lie to the east and west.  
+~
+0 0 4
+D1
+~
+~
+0 0 4559
+D3
+~
+~
+0 0 4557
+S
+#4559
+A Dirt Path~
+This dirt path runs along the edge of the vast hills north of Shandalar. 
+To the north is a thick forest too dense to wander through.  The dirt path
+continues to the west and the King's Way lies to the east.  
+~
+0 0 4
+D1
+~
+~
+0 0 10964
+D3
+~
+~
+0 0 4558
+S
+#4560
+<unused>~
+~
+0 271065372 0
+M 300 H 300
+S
+#4561
+<unused>~
+~
+0 273162524 0
+M 300 H 300
+S
+#4562
+<unused>~
+~
+0 285745436 0
+M 300 H 300
+S
+#4563
+<unused>~
+~
+0 302522652 0
+M 300 H 300
+S
+#4564
+<unused>~
+~
+0 336077084 0
+M 300 H 300
+S
+#4565
+<unused>~
+~
+0 268443676 0
+S
+#4566
+<unused>~
+~
+0 268443676 0
+S
+#4567
+<unused>~
+~
+0 268443676 0
+S
+#4568
+<unused>~
+~
+0 268443676 0
+S
+#4569
+<unused>~
+~
+0 268443676 0
+S
+#4570
+<unused>~
+~
+0 268443676 0
+S
+#4571
+<unused>~
+~
+0 268443676 0
+S
+#4572
+<unused>~
+~
+0 268443676 0
+S
+#4573
+<unused>~
+~
+0 268443676 0
+S
+#4574
+<unused>~
+~
+0 268443676 0
+S
+#4575
+<unused>~
+~
+0 268443676 0
+S
+#4576
+<unused>~
+~
+0 268443676 0
+S
+#4577
+<unused>~
+~
+0 268443676 0
+S
+#4578
+<unused>~
+~
+0 268443676 0
+S
+#4579
+<unused>~
+~
+0 268443676 0
+S
+#4580
+<unused>~
+~
+0 268443676 0
+S
+#4581
+<unused>~
+~
+0 268443676 0
+S
+#4582
+<unused>~
+~
+0 268443676 0
+S
+#4583
+<unused>~
+~
+0 268443676 0
+S
+#4584
+<unused>~
+~
+0 268443676 0
+S
+#4585
+<unused>~
+~
+0 268443676 0
+S
+#4586
+<unused>~
+~
+0 268443676 0
+S
+#4587
+<unused>~
+~
+0 268443676 0
+S
+#4588
+<unused>~
+~
+0 268967964 0
+S
+#4589
+<unused>~
+~
+0 268443676 0
+S
+#4590
+<unused>~
+~
+0 268443676 0
+S
+#4591
+<unused>~
+~
+0 268443676 0
+S
+#4592
+<unused>~
+~
+0 268443676 0
+S
+#4593
+<unused>~
+~
+0 268443676 0
+S
+#4594
+<unused>~
+~
+0 268443676 0
+S
+#4595
+<unused>~
+~
+0 268443676 0
+S
+#4596
+<unused>~
+~
+0 268443676 0
+S
+#4597
+<unused>~
+~
+0 268443676 0
+S
+#4598
+Room of Decision~
+Your presence was needed while you were away and you were pulled from the
+pattern.  Enter the portal to Terra or Dominia to return to your daily
+routine.  
+~
+0 268436764 0
+S
+#4599
+Tsongas' Info Center~
+Terra:
+Seeker  - 10804
+Kindred - 10604
+Justice - 10754     Vouchers:
+Venari  - 23102   Equipment*  - 21017
+Kenshi  - 23401   Restring    - 21018
+Healer  - 3054    Enchantment - 21019
+                  Practice*   - 21020
+  Dominia:        Train*      - 21021
+Seeker  - 23302   Quest       - 21022
+Kindred - 23002
+Justice - 23202   *Not to be freely
+Venari  - 10654    distributed!
+Kenshi  - 1253
+Healer  - 31001
+~
+0 1342701596 0
+E
+flag~
+~
+M 3000 H 3000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 4502 5 1
+D 0 4503 4 1
+D 0 4507 2 2
+D 0 4508 0 2
+D 0 4509 0 1
+D 0 4509 2 2
+D 0 4510 2 1
+D 0 4511 0 2
+D 0 4514 0 1
+D 0 4514 2 1
+D 0 4515 2 1
+D 0 4521 0 1
+D 0 4524 0 1
+D 0 4524 2 1
+D 0 4525 2 1
+D 0 4528 0 1
+D 0 4530 2 1
+D 0 4531 1 2
+D 0 4532 3 2
+D 0 4534 1 1
+D 0 4537 4 1
+D 0 4538 0 1
+D 0 4538 5 1
+D 0 4539 2 1
+D 0 4542 2 1
+D 0 4543 0 1
+D 0 4544 3 1
+D 0 4545 0 1
+D 0 4548 1 1
+D 0 4553 1 2
+D 0 4555 3 1
+M 1 4500 1 4501 1
+M 1 4501 1 4502 1
+E 0 4502 0 16
+M 1 4504 1 4506 1
+E 0 4505 0 5
+M 1 4503 1 4506 1
+M 1 4502 1 4507 1
+O 0 4507 0 4507
+P 0 4508 1 4507 1
+O 0 4503 0 4508
+M 1 4505 1 4509 1
+E 0 4511 0 17
+M 1 4506 1 4509 1
+M 1 4507 1 4510 1
+O 0 4506 0 4511
+O 0 4515 0 4514
+O 0 4514 0 4514
+M 1 4509 1 4515 1
+M 1 4509 1 4516 1
+M 1 4509 1 4517 1
+M 1 4510 1 4518 1
+M 1 4508 1 4520 1
+M 1 4511 1 4521 1
+E 0 4510 0 16
+M 1 4512 1 4522 1
+E 0 4509 0 16
+E 0 4526 0 17
+M 1 4513 3 4525 1
+M 1 4513 3 4526 2
+M 1 4513 3 4526 2
+M 1 4514 3 4528 2
+M 1 4514 3 4528 2
+M 1 4514 3 4529 1
+M 1 4515 2 4531 2
+M 1 4515 2 4531 2
+E 0 4531 0 17
+M 1 4516 3 4534 2
+M 1 4516 3 4535 1
+M 1 4521 1 4539 1
+M 1 4521 1 4540 1
+M 1 4522 2 4541 1
+M 1 4522 2 4542 1
+M 1 4526 1 4543 1
+M 1 4517 3 4544 1
+M 1 4517 3 4546 2
+M 1 4520 1 4548 1
+E 0 4554 0 17
+M 1 4518 1 4549 1
+M 1 4523 1 4551 1
+G 0 4523 0
+G 0 4524 0
+G 0 4525 0
+M 1 4524 1 4553 1
+E 0 4553 0 0
+M 1 4525 1 4554 1
+O 0 4555 0 4555
+P 0 4500 1 4555 1
+P 0 4501 1 4555 1
+P 0 4504 1 4555 1
+S
+
+
+
+#SHOPS
+4523 0 19 0 0 0 120 80 0 24
+0
+
+
+
+#$

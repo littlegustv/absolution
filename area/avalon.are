@@ -1,0 +1,3226 @@
+#AREADATA
+Name Mists of Avalon~
+Builders None~
+VNUMs 7600 7699
+Credits {15 51} Skywise     Mists of Avalon~
+Security 9
+Xcontinent 1
+Age 0
+Questable 0
+End
+
+
+
+#MOBILES
+#7600
+avatar avalon~
+Avatar of Avalon~
+An Avatar of Avalon is here in the fog waiting to send travelers on another journey. 
+~
+An ancient avatar is always here to watch over all those who would enter the fog.
+~
+human~
+ABGIZ DFTZ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 divine
+-30 -30 -30 -30
+0 AB 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJK huge 0 the guilds~
+M greet 7602 10~
+M grall 7602 10~
+#7601
+dark mangled tree finger branches~
+a dark mangled tree~
+A dark gnarled tree with finger-like branches moves slightly behind you.
+~
+This tree has been mangled with the passage of time.  The branches reach
+out as though it can feel your presence and would like nothing more then to
+snatch you right off the ground.  
+~
+tree~
+ABG J 0 0
+15 -5 3d9+208 1d1+100 2d6+3 pound
+-17 -17 -17 -17
+CFHK BXa I H
+stand stand none 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+M death 7600 100~
+#7602
+forest tree dryad~
+a forest tree dryad~
+A forest dryad is here to avenge the death of its tree.
+~
+Covered in leaf like skin, this creature resembles very closely a
+seductive female.  With the exception of the burning passion in her eyes for
+the loss of her tree, she would be one of the most gorgeous women you have
+ever seen.  
+~
+tree~
+AFG DFJVb 0 0
+48 -11 18d10+1500 1d1+99 4d4+10 punch
+-8 -8 -8 -8
+CFHJR B IX H
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M fight 7601 50~
+#7603
+priestess druid avalon woman~
+a druidic priestess~
+A druidic priestess of Avalon is here watching over the island.
+~
+Clothed in white silk, this druidic priestess seems to glide over the
+ground her steps are so soft.  She is very beautiful as are all the
+creatures on this dark island.  
+~
+human~
+AGQ 0 0 0
+45 -4 25d10+3000 1d1+100 8d4+16 punch
+-15 -15 -15 -15
+0 0 0 0
+stand stand female 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7604
+high priestess avalon young maiden~
+the high priestess of Avalon~
+A beautiful young maiden wrapped in a long flowing white silk robe.
+~
+Obviously having proven herself, the High Priestess carries herself with a
+commanding presence.  Considering what her age must be, you find her
+appearance very youthful.  
+~
+human~
+AGQ LNV 0 0
+50 -3 50d10+4500 1d1+100 5d8+19 pound
+-20 -20 -20 -20
+NR 0 0 0
+stand stand female 4000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7605
+old man merlin magician~
+Merlin the Magician~
+An old man is here dressed in an aged grey robe but looking very powerful.
+~
+Merlin is showing signs of his age.  His face looks as old and aged as
+his grey robes.  Even though, there is still a commanding presence about him
+that would cause even the most powerful of creatures to pause before him.  
+~
+human~
+AGR DEFHJVZ 500 0
+60 -2 50d10+9500 1d1+100 8d6+28 magic
+-30 -30 -30 -30
+AGH AB CHIP 0
+stand stand male 7000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7606
+morgan le fay woman~
+Morgan Le Fay~
+A magnificent woman is here looking slightly put out.
+~
+Once Merlin's apprentice, Morgan is a sight easier on the eyes.  She does
+however move around as though she is holding a large chip on her shoulder. 
+Her hair almost crackles with electricity.  
+~
+human~
+ABGR CEJOVZ -800 0
+50 -3 50d10+4500 1d1+100 5d8+19 magic
+-20 -20 -20 -20
+EFHN 0 H 0
+stand stand female 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7607
+king arthur pendragon noble~
+King Arthur Pendragon~
+A noble king is here prepared to lead the world on a quest for justice and right.
+~
+It is easy to see why King Arthur was considered the best king of all
+times.  His mere presence inspires righteousness.  As he speaks his words
+inspire great deeds of all those around him.  
+~
+human~
+AFG TUV 900 0
+55 -3 50d10+7000 1d1+99 10d4+23 punch
+-25 -25 -25 -25
+CEFHIKQ AB 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7608
+queen guinevere beautiful~
+Queen Guinevere~
+A stunningly beautiful queen stands majestically here awaiting her king.
+~
+Young when she was married to Arthur Pendragon, Guinevere has not lost
+any of her youthful appeal.  Men have killed for less.  She presents a very
+strong personality, even though she is highly distressed over the
+destruction of her statue that guards her tomb.  
+~
+human~
+AG H 750 0
+55 -3 50d10+7000 1d1+100 10d4+23 slap
+-25 -25 -25 -25
+FGHJ 0 0 0
+stand stand female 4000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7609
+lady lake mysterious maiden~
+The Lady of the Lake~
+A mysterious maiden is floating serenely beneath the surface of the lake.
+~
+With pale skin, the Lady of the Lake is a wise old maiden.  She once held
+the famed sword Excalibur, and still looks after this land of Avalon.  She
+seems to be giving this entire place its magically life force.  
+~
+human~
+ABGQW DNWe 800 0
+54 -3 50d10+6500 1d1+99 7d6+22 squeeze
+-24 -24 -24 -24
+EFGH ABRa P H
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7610
+small squirrel~
+a small squirrel~
+A small squirrel is here searching desperately for food.
+~
+This squirrel is a tiny half starved creature.  It has a look of deep
+distress in its eyes as it frantically searches the forest floor for food.  
+~
+rabbit~
+AG Z 0 0
+10 1 2d7+121 1d1+100 2d4+2 bite
+1 1 1 1
+FH 0 0 0
+stand stand none 500
+AGV ACDEFHJKQ small 0 the guilds~
+#7611
+marble statue great king arthur pendragon~
+a marble statue of King Arthur~
+A magnificent marble statue of the great King Arthur Pendragon sits upon a regal throne.
+~
+This statue seems to have been carved from the most pure of marble stone.
+The statue is so well done that it almost seems to take on a life all its
+own.  
+~
+human~
+ABFG V 750 0
+50 -3 40d10+3500 1d1+100 5d8+19 crush
+-20 -20 -20 -20
+CEFO LQR EFHS CKT
+sit sit male 1000
+AHMV ABCDEFGHIJK large marble the guilds~
+M death 7604 100~
+#7612
+marble statue queen guinevere~
+a marble statue of Queen Guinevere~
+A magnificent marble statue of the beautiful Queen Guinevere sits upon a regal throne.
+~
+This statue seems to have been carved from the most pure of marble stone.
+The statue is so well done that it almost seems to take on a life all its
+own.  
+~
+human~
+ABG V 750 0
+50 -3 40d10+3500 1d1+100 5d8+19 crush
+-20 -20 -20 -20
+CEFO LQR EFHS CKT
+sit sit female 1000
+AHMV ABCDEFGHIJK large marble the guilds~
+M death 7605 100~
+#7613
+adept avalon young maiden healer~
+an adept of Avalon~
+A beautiful young maiden is here practicing the arts of healing.
+~
+With her beauty and knowledge of healing, this adept may be the next
+protector of this great land.  The adept is dressed in fine white silk
+making her look almost heavenly.  
+~
+human~
+AGa H 250 0
+40 4 15d10+1850 1d1+99 4d8+13 slap
+-13 -13 -13 -13
+0 ABCD 0 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7614
+maiden avalon beauty~
+a maiden of Avalon~
+A maiden of unsurpassing beauty seems to glide effortlessly over the ground.
+~
+The three maidens of Avalon are among the most beautiful and magical
+beings on this island.  This must certainly be one.  Her beauty radiates
+with a light of its own.  Her very energy would seem to be drawn from the
+land itself.  
+~
+human~
+AGQ PT 0 0
+50 -3 50d10+4500 1d1+99 5d8+19 scratch
+-20 -20 -20 -20
+FHIU 0 CNQ 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7615
+priestess druid avalon woman~
+a druidic priestess~
+A druidic priestess of Avalon is here watching over the island.
+~
+Clothed in white silk, this druidic priestess seems to glide over the
+ground her steps are so soft.  She is very beautiful as are all the
+creatures on this dark island.  
+~
+tree~
+AFGQ J 0 0
+48 -4 20d10+1500 10d5+200 6d4+10 punch
+-18 -18 -18 -18
+CFHR B I H
+stand stand female 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#7600
+priestess white robes~
+Priestess robes~
+A beautiful white priestess robe is crumpled on the ground.~
+silk~
+clothing I AK
+0 0 0 0 0
+30 15 1000 P
+A
+4 2  
+A
+5 1  
+#7601
+talisman black silk wooden cross avalon cord~
+talisman of Avalon~
+A wooden cross of Avalon is tied to a length of black silk cord~
+wood~
+jewelry I AC
+0 0 0 0 0
+20 5 400 P
+A
+12 10  
+A
+4 1  
+A
+17 -4  
+#7602
+beautiful ring tiara flowers white avalon~
+a tiara of Avalon~
+A beautiful ring of small white flowers looks like it is growing here.~
+wood~
+clothing I AE
+0 0 0 0 0
+10 5 300 P
+A
+4 2  
+#7603
+brilliant white dagger crusader cross priestess avalon~
+an Avalon priestess dagger~
+A brilliant white dagger with a crusaders cross emblazened on it has been dropped here.~
+silver~
+weapon I AN
+dagger 11 2 pierce Q
+35 50 2500 P
+A
+18 3  
+#7604
+mass beautiful white silk robes priestess~
+white robes of the high priestess~
+A neatly folded mass of beautiful white silk is here at your feet.~
+silk~
+armor GIJKd AK
+10 10 10 8 0
+45 20 2500 P
+A
+12 50  
+A
+19 2  
+#7605
+brilliant platinum ring merlin~
+Merlin's ring~
+A brilliant platinum ring positively humming with magical energy lies here.~
+platinum~
+armor ABG AB
+5 5 5 5 0
+50 5 4000 P
+A
+12 25  
+A
+3 1  
+#7606
+grey cloth pile worn merlin robe~
+Merlin's robes~
+A pile of worn grey cloth has been suspended here as if by magic.~
+cloth~
+clothing G AK
+0 0 0 0 0
+30 20 2000 P
+A
+12 20  
+A
+17 -2  
+#7607
+tarnished medallion diamond merlin~
+Merlin's medallion~
+A tarnished medallion with a diamond inlaid at the tip is humming with energy.~
+gold~
+jewelry BGb AC
+0 0 0 0 0
+40 5 4000 P
+A
+20 -2  
+A
+12 25  
+#7608
+emerald crystal morgan~
+Morgan's crystal~
+A thumb sized emerald has been dropped here.~
+emerald~
+gem ABG AO
+0 0 0 0 0
+35 10 6000 P
+A
+20 -2  
+A
+19 2  
+A
+18 2  
+#7609
+sword king excalibur~
+Excalibur~
+The sword of kings vibrates with the spledor of divine power.~
+silver~
+weapon ABGKe AN
+sword 9 4 slash DQ
+50 40 4000 P
+A
+19 3  
+A
+1 1  
+#7610
+ring signat platinum seal king arthur pendragon~
+the ring of Arthur Pendragon~
+A large platinum ring with the seal of King Arthur Pendragon glints in the light~
+platinum~
+jewelry IK AB
+0 0 0 0 0
+45 5 4000 P
+A
+3 2  
+A
+19 2  
+#7611
+shield crest king arthur pendragon~
+Arthur's shield~
+A shield with the crest of King Arthur Pendragon emblazzoned upon it has been set here.~
+steel~
+armor IK AJ
+12 12 12 12 0
+50 60 2000 P
+A
+20 -2  
+A
+19 3  
+#7612
+whip black morgan dull~
+Morgan's whip~
+A dull black whip is collecting dust on the ground.~
+leather~
+weapon C AN
+whip 2 14 whip X
+30 10 1000 P
+A
+2 1  
+#7613
+long gown maiden avalon silk~
+a maiden's gown~
+A long flowing gown of one of the three maidens of Avalon is glowing faintly.~
+silk~
+armor G AK
+7 7 7 2 0
+20 10 2000 P
+#7614
+small crack ground clearing liquid spring water~
+a spring of clear cool liquid~
+A small crack in the clearing has opened, allowing a cool clear spring to issue forth.~
+stone~
+fountain 0 P
+0 0 'water' 0 0
+0 100 0 P
+#7615
+table desk old wooden~
+High Priestess's desk~
+An old wooden table made of very sturdy wood stands in the center of the room.~
+wood~
+furniture 0 0
+0 1000 N 0 0
+0 20000 0 P
+#7616
+oak desk merlin stained~
+Merlin's oak desk~
+A large dark stained, well used, oak desk is set in the center of the room.~
+wood~
+container BG 0
+0 0 0 0 0
+0 10000 10000 P
+#7617
+aged oaken bookcase shelves shelf merlin~
+Merlin's bookcase~
+An aged oaken bookcase stands against the wall, with its shelves overflowing.~
+wood~
+container G 0
+0 0 0 0 0
+0 20000 0 P
+#7618
+white marble sarcophagus throne dais~
+Arthur's marble tomb~
+A pure white marble sarcophagus with a throne afixed to the lid rests atop a black marble dais.~
+marble~
+portal ABGI 0
+0 0 0 7641 0
+0 100000 0 P
+#7619
+white marble sarcophagus throne dais~
+Guinevere's marble tomb~
+A pure white marble sarcophagus with a throne afixed to the lid rests atop a sparkling misty white marble dais.~
+marble~
+portal ABGI 0
+0 0 0 7678 0
+0 100000 0 P
+#7620
+depp pool black liquid reflection~
+deep black pool~
+A deep pool of black liquid is here with a strange reflection of a marble throne and statue.~
+water~
+portal G 0
+0 0 0 7659 0
+0 0 0 P
+#7621
+worn stone altar~
+a stone altar~
+A worn stone altar is here waiting to be used in another ritual.~
+stone~
+furniture BG 0
+2 5000 ABGHKMN 50 50
+0 100000 0 P
+#7622
+old driftwood wood~
+a driftwood sign~
+An old piece of driftwood with a message carved into it rests on the beach.~
+wood~
+map 0 AP
+0 0 0 0 0
+0 50 0 W
+#7623
+queen guinevere long gown golden silk~
+Queen Guinevere's golden silk gown~
+A beautiful gown made of flowing golden silk glows regally.~
+silk~
+armor ABGK AK
+13 13 13 9 0
+45 10 5000 P
+#7624
+swordsman gloves leather worn~
+a pair of swordsman's gloves~
+A well worn pair of leather gloves have been cast aside to the ground.~
+leather~
+armor 0 AH
+1 1 1 1 0
+10 10 100 P
+#7625
+priestess bracelet small ring white flowers~
+a priestess bracelet~
+A small ring of tiny white flowers looks as though it is growing here.~
+wood~
+jewelry 0 AM
+0 0 0 0 0
+10 10 100 P
+#7626
+cloth slippers maiden~
+maiden slippers~
+A pair of cloth slippers is set delicately on the ground.~
+cloth~
+armor 0 AG
+1 1 1 1 0
+10 20 100 P
+#7627
+shimmering diamond floating magical energy~
+a shimmering floating diamond~
+A sparkling diamond floating in midair is crakling with magical energy.~
+crystal~
+armor GJM AQ
+-1 -1 -1 -1 0
+23 10 1000 P
+A
+3 2  
+A
+4 -2  
+#7628
+brilliant orb energy small round magical~
+a brilliant orb of energy~
+A small round orb is here pulsing with magical energy.~
+energy~
+protect BGe AQ
+0 0 0 0 0
+30 10 100 P
+A
+1 -1  
+A
+12 10  
+A
+4 1  
+A
+3 1  
+#7629
+parchment merlin enchanted delicate~
+Merlin's enchanted scroll~
+A delicate piece of parchment has been carelessly shelved here.~
+parchment~
+scroll ABG AO
+35 'bless' 'enchant weapon' 'reserved' 'reserved'
+50 10 5000 G
+#7630
+scroll guarding rolled piece parchment~
+scroll of guarding~
+A neatly rolled piece of parchment has been placed carefully on a shelf.~
+parchment~
+scroll AG AO
+20 'sanctuary' 'bless' 'reserved' 'reserved'
+35 10 1000 P
+#7631
+sloppily scroll messy~
+a sloppily written scroll~
+A messy scroll has been placed haphazardly on a shelf.~
+parchment~
+scroll G AO
+20 'remove curse' 'cure disease' 'reserved' 'reserved'
+10 10 100 P
+#7632
+gnarled old staff walking stick merlin~
+the staff of Merlin~
+A gnarled old staff well worn for use as a walking stick has been placed against the wall.~
+wood~
+staff BG AO
+45 2 1 'fireball' 0
+25 20 2000 P
+#7633
+stone staff carved granite~
+a staff of stone~
+A staff craved of granite is resting on the ground.~
+stone~
+staff G AO
+5 15 15 'earthquake' 0
+10 40 1000 P
+#7634
+cedar box small wooden old~
+a small wooden box~
+An old cedar box with a broken hinge has been cast aside here.~
+wood~
+container 0 AO
+2 0 0 2 0
+1 20 100 G
+#7635
+small black pill morgan acidic~
+Morgan's acidic pill~
+A small black pill is glinting as though wet and giving off a bad odor.~
+acid~
+pill G A
+25 'acid blast' 'cure disease' 'reserved' 'reserved'
+30 10 1000 P
+#7636
+ice cold pill~
+an ice cold pill~
+A pill made of ice is slowly melting away.~
+ice~
+pill G A
+35 'chill touch' 'minimation' 'mirror image' 'reserved'
+50 10 1000 P
+#7637
+acid green potion dusty bottle~
+an acid green potion~
+A dusty bottle full of a sickening acid green colored potion fizzes menicingly.~
+liquid~
+potion C AO
+35 'poison' 'reserved' 'reserved' 'reserved'
+10 10 10 P
+#7638
+powder blue potion swirling ~
+a powder blue potion~
+A potion of a light blue color is swirling serenly nearby. ~
+liquid~
+potion G AO
+35 'detect invis' 'detect magic' 'reserved' 'reserved'
+5 10 500 P
+#7639
+canary yellow potion container~
+a canary yellow potion~
+A canary yellow potion rests calmly waiting to be drained for its container.~
+liquid~
+potion G AO
+25 'cure poison' 'change sex' 'reserved' 'reserved'
+15 10 2000 P
+#7640
+electric red potion mist~
+an electric red potion~
+A potion made of electric red mist pops and snaps as it waits to be drunk.~
+energy~
+potion BG AO
+50 'giant strength' 'grandeur' 'scramble' 'reserved'
+35 30 5000 P
+#7641
+maiden silk rope belt white~
+a maiden's silk rope belt~
+A beautiful belt made of pure white silk has been carelessly dropped on the ground.~
+silk~
+armor GJK AL
+0 0 0 0 0
+20 10 1500 P
+A
+19 3  
+A
+18 3  
+A
+20 2  
+#7686
+bracers~
+Bracers of {WCreb{x~
+A pair of wooden training bracers has been cast aside~
+wood~
+armor ABCG AM
+100 100 100 100 0
+54 0 0 P
+A
+1 2  
+A
+2 5  
+A
+4 6  
+A
+5 4  
+A
+20 15  
+A
+3 6  
+A
+18 15  
+A
+19 20  
+#7687
+ludicrious wand power~
+A {Wludicrious {cwand {xof {Rpower{x~
+A {Wludicrious {cwand {xof {Rpower{x~
+wood~
+wand ABGI AOR
+60 100 100 'reach elemental' 0
+60 100 100 'summon angel' 0
+54 0 0 P
+#7688
+skywise pill speed~
+{GSkywise's {WPill {xof {RSpeed{x~
+{GSkywise's {WPill {xof {RSpeed{x~
+energy~
+pill 0 A
+60 'haste' 'refresh' 'fly' 'reserved'
+0 0 0 P
+#7689
+skywise pill of enhancement~
+{GSkywise's {WPill {xof {REnhancement{x~
+{GSkywise's {WPill {xof {REnhancement{x~
+energy~
+pill 0 A
+60 'giant strength' 'shield' 'scalemail' 'refresh'
+0 0 0 P
+#7690
+skywise pill protection~
+{GSkywise's {WPill {xof {RProtection{x~
+{GSkywise's {WPill {xof {RProtection{x~
+energy~
+pill 0 A
+60 'blur' 'bark skin' 'sanctuary' 'refresh'
+0 0 0 P
+#7691
+skywise pill power~
+{GSkywise's {WPill {xof {RPower {x~
+{GSkywise's {WPill {xof {RPower {x~
+energy~
+pill 0 A
+60 'holy word' 'oculary' 'robustness' 'primal rage'
+0 0 0 P
+#7692
+{GSkywise's{x wand of Sleep and Charm~
+{GSkywise's{x wand of Sleep and Charm~
+Skywise wand Sleep  Charm~
+gold~
+wand ACFGI AOR
+60 100 100 'sleep' 0
+60 100 100 'charm person' 0
+54 0 0 P
+#7693
+Skywise wand immortal~
+Wand of {GSkywise{x~
+A wand of immortal power~
+energy~
+wand ACI AOR
+60 100 100 'detect invis' 0
+60 100 100 'remove curse' 0
+54 0 0 P
+#7694
+Skywise shroud darkness~
+{DThe Shroud of Darkness{x~
+A heavy shroud has been abandoned carelessly here~
+cloth~
+armor ABCFGIYce AC
+100 100 100 100 0
+54 0 0 P
+A
+20 -100  
+#7695
+skywise fang intrigue dagger~
+{GSkywise's {DFang of Intrigue{x~
+The {Dfang {xof a massive {Ggreen dragon {xis resting just inches above the ground~
+bone~
+weapon ABFGHSTYce AN
+dagger 40 2 pierce BDHIMQY
+54 200 0 P
+A
+18 908  
+A
+19 893  
+#7696
+bracers Skywise crackling energy~
+{BBracers {xof {DBinding {CEnergy{x~
+{DShards {xof {Wpure {Cenergy {xhave been cast aside during {rbattle{x~
+energy~
+armor ABCFGSYce AM
+100 100 100 100 0
+54 0 0 P
+A
+19 40  
+A
+18 40  
+A
+14 10000  
+A
+12 10000  
+A
+13 10000  
+A
+9 10000  
+#7697
+horns dragon Skywise~
+{DThe Horns of the {GDragon{x~
+A massive set of dragon horns has been carelessly left here~
+ivory~
+armor ABFIYce AE
+100 100 100 100 0
+54 0 0 P
+A
+4 20  
+A
+5 20  
+A
+2 20  
+A
+3 20  
+A
+1 20  
+A
+14 10000  
+A
+12 10000  
+A
+13 10000  
+#7698
+Skywise Sagentara fire burning~
+{RSagentara's {rburning passion {xfor {GSkywise{x~
+The {rburning flame{x of {Wlove {xbetween {RSagentara {xand {GSkywise{x~
+energy~
+light ABGISTYce AP
+0 0 999 0 0
+54 0 0 P
+A
+14 10000  
+A
+12 10000  
+A
+13 10000  
+A
+30 30  
+A
+32 30  
+A
+29 30  
+A
+31 30  
+A
+28 30  
+#7699
+small crack mountain ground spring liquid~
+a small crack in the ground allowing an opaque liquid to spring forth.~
+A small {bcrack{x in the {rmountain{x has opened allowing a {wspring{x to issue forth.~
+stone~
+fountain 0 P
+0 0 'lemonade' 0 0
+0 100 0 P
+#0
+
+
+
+#ROOMS
+#7600
+{WMists of Avalon{x~
+As you try to leave this Island, you find yourself surrounded in a cool
+damp mist.  It is very difficult for you to make out the way ahead.  And as
+for turning back; well you can't seem to tell which way you should go.  It
+is at this moment that you begin to remember some of the legend of Avalon. 
+"Avalon doesn't send you where you want to go...  Avalon sends you where you
+are needed."  As the mist continues to become more dense pressing in on your
+very being you can only hope that where ever you are being sent, hopefully
+you will be able to one day find your way home.  
+~
+0 805838852 11
+D0
+~
+~
+0 0 7600
+D1
+~
+~
+0 0 7604
+D2
+~
+~
+0 0 7602
+D3
+~
+~
+0 0 7606
+D4
+~
+~
+0 0 7608
+S
+#7601
+{WMists of Avalon{x~
+As you try to leave this Island, you find yourself surrounded in a cool
+damp mist.  It is very difficult for you to make out the way ahead.  And as
+for turning back; well you can't seem to tell which way you should go.  It
+is at this moment that you begin to remember some of the legend of Avalon. 
+"Avalon doesn't send you where you want to go...  Avalon sends you where you
+are needed."  As the mist continues to become more dense pressing in on your
+very being you can only hope that where ever you are being sent, hopefully
+you will be able to one day find your way home.  
+~
+0 805838852 11
+D0
+~
+~
+0 0 7601
+D1
+~
+~
+0 0 7603
+D2
+~
+~
+0 0 7609
+D3
+~
+~
+0 0 7605
+D4
+~
+~
+0 0 7607
+S
+#7602
+{WMists of Avalon{x~
+As you try to leave this Island, you find yourself surrounded in a cool
+damp mist.  It is very difficult for you to make out the way ahead.  And as
+for turning back; well you can't seem to tell which way you should go.  It
+is at this moment that you begin to remember some of the legend of Avalon. 
+"Avalon doesn't send you where you want to go...  Avalon sends you where you
+are needed."  As the mist continues to become more dense pressing in on your
+very being you can only hope that where ever you are being sent, hopefully
+you will be able to one day find your way home.  
+~
+0 805838852 11
+D0
+~
+~
+0 0 7603
+D1
+~
+~
+0 0 7601
+D2
+~
+~
+0 0 7605
+D3
+~
+~
+0 0 7607
+D4
+~
+~
+0 0 7609
+S
+#7603
+{WMists of Avalon{x~
+As you try to leave this Island, you find yourself surrounded in a cool
+damp mist.  It is very difficult for you to make out the way ahead.  And as
+for turning back; well you can't seem to tell which way you should go.  It
+is at this moment that you begin to remember some of the legend of Avalon. 
+"Avalon doesn't send you where you want to go...  Avalon sends you where you
+are needed."  As the mist continues to become more dense pressing in on your
+very being you can only hope that where ever you are being sent, hopefully
+you will be able to one day find your way home.  
+~
+0 805838852 11
+D0
+~
+~
+0 0 7600
+D1
+~
+~
+0 0 7606
+D2
+~
+~
+0 0 7604
+D3
+~
+~
+0 0 7606
+D4
+~
+~
+0 0 7608
+S
+#7604
+{WMists of Avalon{x~
+As you try to leave this Island, you find yourself surrounded in a cool
+damp mist.  It is very difficult for you to make out the way ahead.  And as
+for turning back; well you can't seem to tell which way you should go.  It
+is at this moment that you begin to remember some of the legend of Avalon. 
+"Avalon doesn't send you where you want to go...  Avalon sends you where you
+are needed."  As the mist continues to become more dense pressing in on your
+very being you can only hope that where ever you are being sent, hopefully
+you will be able to one day find your way home.  
+~
+0 805838852 11
+D0
+~
+~
+0 0 7602
+D1
+~
+~
+0 0 7600
+D2
+~
+~
+0 0 7603
+D3
+~
+~
+0 0 7609
+D4
+~
+~
+0 0 7605
+S
+#7605
+{WMists of Avalon{x~
+As you try to leave this Island, you find yourself surrounded in a cool
+damp mist.  It is very difficult for you to make out the way ahead.  And as
+for turning back; well you can't seem to tell which way you should go.  It
+is at this moment that you begin to remember some of the legend of Avalon. 
+"Avalon doesn't send you where you want to go...  Avalon sends you where you
+are needed."  As the mist continues to become more dense pressing in on your
+very being you can only hope that where ever you are being sent, hopefully
+you will be able to one day find your way home.  
+~
+0 805838852 9
+D0
+~
+~
+0 0 7606
+D1
+~
+~
+0 0 7601
+D2
+~
+~
+0 0 7608
+D3
+~
+~
+0 0 7603
+D4
+~
+~
+0 0 7605
+D5
+~
+~
+0 0 7600
+S
+#7606
+{WMists of Avalon{x~
+As you try to leave this Island, you find yourself surrounded in a cool
+damp mist.  It is very difficult for you to make out the way ahead.  And as
+for turning back; well you can't seem to tell which way you should go.  It
+is at this moment that you begin to remember some of the legend of Avalon. 
+"Avalon doesn't send you where you want to go...  Avalon sends you where you
+are needed."  As the mist continues to become more dense pressing in on your
+very being you can only hope that where ever you are being sent, hopefully
+you will be able to one day find your way home.  
+~
+0 805838852 9
+D0
+~
+~
+0 0 7603
+D1
+~
+~
+0 0 7607
+D2
+~
+~
+0 0 7605
+D3
+~
+~
+0 0 7602
+D4
+~
+~
+0 0 7604
+D5
+~
+~
+0 0 7606
+S
+#7607
+{WMists of Avalon{x~
+As you try to leave this Island, you find yourself surrounded in a cool
+damp mist.  It is very difficult for you to make out the way ahead.  And as
+for turning back; well you can't seem to tell which way you should go.  It
+is at this moment that you begin to remember some of the legend of Avalon. 
+"Avalon doesn't send you where you want to go...  Avalon sends you where you
+are needed."  As the mist continues to become more dense pressing in on your
+very being you can only hope that where ever you are being sent, hopefully
+you will be able to one day find your way home.  
+~
+0 805838852 9
+D0
+~
+~
+0 0 7600
+D1
+~
+~
+0 0 7603
+D2
+~
+~
+0 0 7601
+D3
+~
+~
+0 0 7605
+D4
+~
+~
+0 0 7608
+D5
+~
+~
+0 0 7609
+S
+#7608
+{WMists of Avalon{x~
+As you try to leave this Island, you find yourself surrounded in a cool
+damp mist.  It is very difficult for you to make out the way ahead.  And as
+for turning back; well you can't seem to tell which way you should go.  It
+is at this moment that you begin to remember some of the legend of Avalon. 
+"Avalon doesn't send you where you want to go...  Avalon sends you where you
+are needed."  As the mist continues to become more dense pressing in on your
+very being you can only hope that where ever you are being sent, hopefully
+you will be able to one day find your way home.  
+~
+0 805838852 9
+D0
+~
+~
+0 0 7609
+D1
+~
+~
+0 0 7607
+D2
+~
+~
+0 0 7600
+D3
+~
+~
+0 0 7604
+D4
+~
+~
+0 0 7606
+D5
+~
+~
+0 0 7608
+S
+#7609
+{WMists of Avalon{x~
+As you try to leave this Island, you find yourself surrounded in a cool
+damp mist.  It is very difficult for you to make out the way ahead.  And as
+for turning back; well you can't seem to tell which way you should go.  It
+is at this moment that you begin to remember some of the legend of Avalon. 
+"Avalon doesn't send you where you want to go...  Avalon sends you where you
+are needed."  As the mist continues to become more dense pressing in on your
+very being you can only hope that where ever you are being sent, hopefully
+you will be able to one day find your way home.  
+~
+0 805838852 9
+D0
+~
+~
+0 0 7603
+D1
+~
+~
+0 0 7601
+D2
+~
+~
+0 0 7607
+D3
+~
+~
+0 0 7609
+D4
+~
+~
+0 0 7604
+D5
+~
+~
+0 0 7605
+S
+#7610
+The South Shore~
+The sandy beach beneath your feet looks cold, and as you peer down the
+shore in either direction you see driftwood and old branches strewn all over
+the beach.  A chill runs down your neck knowing that no one else has set
+foot on this island for thousands of years.  As you gaze inland, the island
+seems to have a foreboding feel about it.  The dense forest in front of you
+seems almost a warning that none should wonder beyond the shores.  As you
+turn around to consider leaving, you see a dense fog roll in that you are
+sure would not allow you to easily navigate your way back off this island. 
+This whole land seems to have a will of its own, and its will seems to be
+set against you.  
+~
+0 0 3
+D0
+~
+~
+0 0 7615
+D1
+~
+~
+0 0 7611
+D2
+~
+~
+0 0 7602
+D3
+~
+~
+0 0 7661
+S
+#7611
+Overgrown Path on the Shore~
+There appears to be a pathway here leading into the forest and hopefully
+towards the center of the island.  Looking up the path you are pretty sure
+that you could follow it, though in places foliage has grown so thick you
+may have to cut your way through.  As you glance down the shore line you see
+a grey backdrop of sky which only adds to the eerie feeling of this island. 
+Glancing toward your feet you see a piece of driftwood that must have at one
+time been attached to a post to be used as a sign.  
+~
+0 0 3
+E
+sign~
+Welcome all who have found this place.  Welcome to Avalon.  This is the
+final resting place of King Arthur Pendragon.  Take care for this is a
+heavily enchanted isle.  Once you have set foot upon these soils leaving is
+at the sole discretion of the Avatar of Avalon.  For it is he who will
+decide what adventure to send you upon next.  You will not simply be able to
+swim back to the forest.  
+~
+E
+message~
+Welcome all who have found this place.  Welcome to Avalon.  This is the
+final resting place of King Arthur Pendragon.  Take care for this is a
+heavily enchanted isle.  Once you have set foot upon these soils leaving is
+at the sole discretion of the Avatar of Avalon.  For it is he who will
+decide what adventure to send you upon next.  You will not simply be able to
+swim back to the forest.
+~
+D0
+~
+~
+0 0 7616
+D1
+~
+~
+0 0 7612
+D2
+~
+~
+0 0 7603
+D3
+~
+~
+0 0 7610
+S
+#7612
+Along the Shore~
+The shore continues in both directions away from you.  To the west you
+think you see a path that leads towards the center of the island.  North of
+you a vast dense forest lies waiting to overpower any unsuspecting
+adventurers that may wander too far off the path.  
+~
+0 4 3
+D0
+~
+~
+0 0 7617
+D1
+~
+~
+0 0 7613
+D2
+~
+~
+0 0 7604
+D3
+~
+~
+0 0 7611
+S
+#7613
+On the South Shore~
+The shore widens only slightly here as the forest doesn't appear to have
+encroached upon it as much.  Looking around the area you get the feeling
+that someone else must be close by, all of the debris seems to have been
+picked up.  
+~
+0 4 3
+D0
+~
+~
+0 0 7618
+D1
+~
+~
+0 0 7662
+D2
+~
+~
+0 0 7600
+D3
+~
+~
+0 0 7612
+S
+#7614
+The Southwest Shore~
+To the west of you extends the vast lake, though with all this fog, you
+are not sure how far away the banks of the lake might be.  Up ahead you can
+see that the shore line gets rockier, and you can even see that a good
+portion of the island is held high atop a cliff.  Looking over the dense
+inland forest you think you can make out the image of a tall stone tower with
+a light.  
+~
+0 4 3
+D0
+~
+~
+0 0 7620
+D1
+~
+~
+0 0 7615
+D2
+~
+~
+0 0 7661
+D3
+~
+~
+0 0 7604
+S
+#7615
+Within the Forest~
+The trees here are so dense that they make it difficult to see anything. 
+The whole forest seems to be alive.  You feel uneasy about traveling through
+here, and hope that the noises you are hearing all around you don't manifest
+themselves into anything more than just the wind in the trees.  Off in the
+distance you notice a stone structure just over the tree tops.  Perhaps
+there is someone there who could help you get off this island.  
+~
+0 4 3
+D0
+~
+~
+0 0 7621
+D1
+~
+~
+0 0 7616
+D2
+~
+~
+0 0 7610
+D3
+~
+~
+0 0 7614
+S
+#7616
+Overgrown Path in the Forest~
+The pathway is very difficult to see here in this part of the forest, but
+it seems to be heading up a hill towards a large stone structure.  The trees
+surrounding this area have a very unnatural feel to them.  They seem to have
+been bent and misshapen as time has passed.  The wind seems to be carrying
+all sorts of noises to your ears.  Hopefully whatever is making those noises
+stays in the forest.  
+~
+0 4 3
+D0
+~
+~
+0 0 7623
+D1
+~
+~
+0 0 7617
+D2
+~
+~
+0 0 7611
+D3
+~
+~
+0 0 7615
+S
+#7617
+The Southern Forest~
+Walking to the south seems like a good idea.  You should head back to the
+shore and get out of this forest.  The trees here are so thick they block
+out almost all light.  Up ahead however you see a couple of hopeful rays of
+light that seem to be illuminating some sort of clearing.  If only you can
+get there.  
+~
+0 0 3
+D0
+~
+~
+0 0 7624
+D1
+~
+~
+0 0 7618
+D2
+~
+~
+0 0 7612
+D3
+~
+~
+0 0 7616
+S
+#7618
+Southeast Corner of the Forest~
+The beach has pushed the forest farther back here on this corner of the
+island.  If it weren't for the overcast skies and the cool dense fog hanging
+low over the lake to the south and east of you, this spot might make a
+beautiful place to have a picnic.  
+~
+0 0 3
+D0
+~
+~
+0 0 7625
+D1
+~
+~
+0 0 7619
+D2
+~
+~
+0 0 7613
+D3
+~
+~
+0 0 7617
+S
+#7619
+Along the East Shore~
+The beach here is smooth and calm.  Much like the clearing to the south,
+this section of beach has very little debris on it.  The gentle lapping of
+the waves on the shore helps to put you in a better mood.  Up ahead you can
+see that the beach begins to get a little more rocky as the rock cliffs of
+the island begin to take form.  To the west you see the dark mysterious
+forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 7626
+D1
+~
+~
+0 0 7603
+D2
+~
+~
+0 0 7662
+D3
+~
+~
+0 0 7618
+S
+#7620
+Along the West Shore~
+The beach here is starting to get rocky.  The cliffs up ahead jut up very
+quickly into the air.  You see a couple of birds hopping from rock to rock
+here looking for food.  The fog to the west would appear to surround the
+whole island.  If you continue farther up the beach, it is likely that the
+cliffs will become so high that you may have to back track to make it into
+the interior of the island.  The forest to the east however doesn't seem to
+be very inviting.  
+~
+0 0 3
+D0
+~
+~
+0 0 7627
+D1
+~
+~
+0 0 7621
+D2
+~
+~
+0 0 7614
+D3
+~
+~
+0 0 7603
+S
+#7621
+Western Edge of the Forest~
+To the west of you the shore line is getting quite rocky.  To the east of
+you light is filtering through the trees into a clearing.  Both in front of
+and behind you the forest grows thick and dense.  What will could have made
+these trees so gnarled and haunting.  
+~
+0 0 3
+D0
+~
+~
+0 0 7628
+D1
+~
+~
+0 0 7623
+D2
+~
+~
+0 0 7615
+D3
+~
+~
+0 0 7620
+S
+#7622
+The Precipice~
+This precipice offers an excellent view of the lake below, but beyond
+that all that can be seen is fog.  Turning around you see the forest from
+which you came, and a little farther to the south, a large stone temple of
+some sort.  Be careful you don't get too close to the edge here.  It would
+be a long fall into the cold lake below.  As you prepare to head back into
+the forest you glance once more over the edge to the lake below, and for a
+brief moment you think you see the faint outline of a shimmering person just
+below the surface of the water.  Clearing your head, you are sure now that
+this place truly has a personality all its own, and it is definitely a dark
+one.  
+~
+0 0 3
+D2
+~
+~
+0 0 7641
+S
+#7623
+A Path Through the Clearing~
+The path doesn't seem as overgrown here.  In fact it almost seems used. 
+You have emerged into a small clearing in what you would guess is the middle
+of the island.  You can see that to the north of you the path seems to
+continue on towards an old stone structure, much like a druid temple.  This
+clearing seems to have purpose to it.  The forest almost appears to know not
+to encroach upon this area.  The clearing would appear to extend both to the
+north and east of you, and the forest lies to the south and west.  
+~
+0 0 3
+D0
+~
+~
+0 0 7629
+D1
+~
+~
+0 0 7624
+D2
+~
+~
+0 0 7616
+D3
+~
+~
+0 0 7621
+S
+#7624
+South End of the Clearing~
+The clearing is peaceful and calming.  As you listen carefully you can
+even hear birds singing.  You feel that the forest must have somehow
+obscured these sounds in an effort to give you a false sense of what lay
+beyond.  To the south and east of you the forest stretches, staying well back
+from the clearing.  To the west of you, you see a path that leads to a stone
+structure of some sort.  To the north you see some sort of gathering place. 
+~
+0 0 3
+D0
+~
+~
+0 0 7630
+D1
+~
+~
+0 0 7625
+D2
+~
+~
+0 0 7617
+D3
+~
+~
+0 0 7623
+S
+#7625
+The Eastern Forest~
+What force of nature could have done this much damage to the trees.  What
+type of trees grew looking as though they were in this much agony.  Moving
+on through the forest you even feel from time to time as though these trees
+seem to be plotting against you.  To the east you see the shore line, and
+beyond that the unnatural fog that obscures all vision of the land beyond. 
+To the west you think you can just make out an open area in the middle of
+this dense forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 7631
+D1
+~
+~
+0 0 7626
+D2
+~
+~
+0 0 7618
+D3
+~
+~
+0 0 7624
+S
+#7626
+The Eastern Shore~
+The beach here is beginning to get rocky.  The cliffs must over time
+break apart, and as you look further down the beach you can see even larger
+boulders that you will probably have to stumble over if you are to continue.
+The forest to the west of you is particularly thick in this area, and the
+fog-covered lake to the east reminds you of how cold the swim was on the way
+here.  
+~
+0 0 3
+D0
+~
+~
+0 0 7632
+D1
+~
+~
+0 0 7604
+D2
+~
+~
+0 0 7619
+D3
+~
+~
+0 0 7625
+S
+#7627
+Base of the Western Cliffs~
+The beach has become very rocky, and the cliffs high enough that it is
+unlikely you would be able to easily climb up them.  The shore line in front
+of you looks to continue on awhile, and then may continue around the back
+side of the island.  The lake to the west of you is almost completely
+covered in the dense fog that has been getting steadily closer since your
+arrival.  
+~
+0 0 3
+D0
+~
+~
+0 0 7638
+D2
+~
+~
+0 0 7620
+D3
+~
+~
+0 0 7602
+S
+#7628
+The Western Wall~
+Walking through the forest here could prove to be quite dangerous.  As
+you stumble to find your way through, several times now you have unknowingly
+come right to the edge of the cliffs.  Down below you can see the gentle
+waves of the lake splashing onto the rocky shore.  
+~
+0 0 3
+D0
+~
+~
+0 0 7634
+D1
+~
+~
+0 0 7629
+D2
+~
+~
+0 0 7621
+S
+#7629
+Path in the Clearing~
+The path follows the west edge of the clearing headed up the hill towards
+the ruined druidic looking temple.  To the east of you is a clearly visible
+gathering place.  To the west you see only the blackness of the forest.  The
+temple in front of you almost seems to glow as you get closer.  You
+perceive that a very powerful enchantment must be in place here.  
+~
+0 0 3
+D0
+~
+~
+0 0 7635
+D2
+~
+~
+0 0 7623
+D3
+~
+~
+0 0 7628
+S
+#7630
+The Gathering~
+You feel a strange tingle in the base of your neck as you set foot upon
+this holy ground.  The very Earth itself seems to be emanating a powerful
+aura in this part of the island.  All around you are visible markings and
+structures that must be used in some sort of druidic rituals.  To the south
+of you the clearing slopes away back into the forest, but from this vantage
+point you are able to see that the forest and all that touches it have been
+pushed back and cleared as though the beach may have some use in the rituals
+performed here.  The wind itself even seems to be speaking to you in this
+place.  
+~
+0 0 3
+D0
+~
+~
+0 0 7636
+D1
+~
+~
+0 0 7631
+D2
+~
+~
+0 0 7624
+D3
+~
+~
+0 0 7629
+M 150 H 150
+S
+#7631
+Crumbled Forest~
+The forest has shown its power here as the very roots of the trees have
+demolished what once must have been a fairly sheer cliff face.  Now the
+cliff lays broken and jagged as it creeps down to the shoreline below.  If
+you are careful, you believe that it may be possible to pick your way
+carefully to the east and down to the shore.  To the north, a difficult
+climb leads you deeper into the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 7637
+D1
+~
+~
+0 0 7632
+D2
+~
+~
+0 0 7625
+D3
+~
+~
+0 0 7630
+S
+#7632
+Boulder Strewn Beach~
+The beach here has become very rocky as the trees from the forest to the
+west appear to have crumbled the very cliff side.  Travel through this part
+of the island will be tricky at best, but farther north you think you see a
+way around the back of the island.  Looking to the south you see a much
+gentler path back around the front of the island, and to the east of you the
+cold frigid waters of the lake.  
+~
+0 0 3
+D0
+~
+~
+0 0 7633
+D1
+~
+~
+0 0 7600
+D2
+~
+~
+0 0 7626
+D3
+~
+~
+0 0 7631
+S
+#7633
+Eastern Boulders~
+The beach here is almost impassable.  The dark forest has used its
+massive roots to crumble the cliff side sending gigantic boulders cascading
+down to the beach.  Crossing this part of the beach may prove to be more
+costly then it is worth.  Though, on the far side of the boulders you see
+the beach begins to smooth out and become more manageable.  To the north the
+shoreline continues around the back of the island, and to the south the
+shoreline continues all the way back to the gentlest of slopes.  
+~
+0 0 3
+D0
+~
+~
+0 0 7644
+D1
+~
+~
+0 0 7601
+D2
+~
+~
+0 0 7632
+S
+#7634
+High Above the Western Shore~
+The forest is thick and heavy against you.  The Cliffs to the west are
+quickly pulling away from the shore as you climb steeply to the north.  The
+forest seems never ending in front of you, but as you look east and up from
+time to time you can catch a glimpse of a tall stone tower and a gentle
+light through the swaying of the trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 7640
+D1
+~
+~
+0 0 7635
+D2
+~
+~
+0 0 7628
+S
+#7635
+Temple Steps~
+The path from the south brings you right up to the steps of the ruined
+temple, though now that you are almost in contact with it, it no longer
+appears to be as ruined as you believed.  In front of you lies a heavy wooden
+door leading to inside what now appears to be a fairly solid structure.  To the
+east of you lies the dense forest of the island, as is the same to the west. 
+Glancing up you see a tower with a candle-lit window stretching up from the
+left side of the temple.  
+~
+0 0 3
+D0
+~
+~
+1 0 7653
+D1
+~
+~
+0 0 7636
+D2
+~
+~
+0 0 7629
+D3
+~
+~
+0 0 7634
+S
+#7636
+Path To the Cliffs~
+To the south of you, you can feel a strange energy emanating from the
+place of gathering.  The path here however leads away from the clearing
+towards what you would guess is the back side of the island, and the top of
+the cliffs.  To the east of you is the dark mysterious forest of the island,
+and to the west of you is the temple.  
+~
+0 0 3
+D0
+~
+~
+0 0 7642
+D1
+~
+~
+0 0 7637
+D2
+~
+~
+0 0 7630
+D3
+~
+~
+0 0 7635
+S
+#7637
+High Atop the Eastern Cliffs~
+The forest here is strong.  It has caused much of the steep cliff side to
+crumble.  One wrong step here, and you could plummet to your death.  The
+forest would appear to continue on to the north and south, but to the west
+of you there seems to be an easier path to travel on.  
+~
+0 0 3
+D0
+~
+~
+0 0 7643
+D2
+~
+~
+0 0 7631
+D3
+~
+~
+0 0 7636
+S
+#7638
+Western Shore Line~
+The dark rocked cliffs jut straight up to the east of you towering at
+least 20 feet high and almost seem to ominously hang over you.  Trying to
+climb these cliffs you are sure would only prove a lesson in futility.  To
+the north the beach extends to the back of the island and out of sight
+behind it.  To the west the frigid waters of the lake are shrouded in fog,
+and to the south of you the beach heads back to a more gentle looking slope,
+and darker looking forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 7639
+D2
+~
+~
+0 0 7627
+D3
+~
+~
+0 0 7601
+S
+#7639
+North West Shore Line~
+The shore here is relatively lifeless.  No real signs of debris, but
+there is the occasional boulder or two that must have fallen from the cliffs
+above.  To the north the shore continues around the back of the island.  To
+the south the shore makes its way to the base of the cliffs and into the
+forest.  A cold breeze blows against your face from the west, and the fog
+seems to be getting even closer.  You may want to find shelter soon.  
+~
+0 0 3
+D0
+~
+~
+0 0 7663
+D2
+~
+~
+0 0 7638
+D3
+~
+~
+0 0 7600
+S
+#7640
+The North West Corner~
+You find yourself high above the shore below.  You are standing on a very
+tall and completely shear rock face.  One wrong step and you could fall to your
+doom.  To the south of you the forest seems to grow denser and if possible
+even more uninviting.  To the east the forest seems to give just a little
+and to the southeast you can see the tall stone tower of a temple.  
+~
+0 0 3
+D1
+~
+~
+0 0 7641
+D2
+~
+~
+0 0 7634
+S
+#7641
+The Northern Forest~
+The forest here doesn't feel as heavy, and you can see that the cliffs
+actually pull farther away from this point to the north.  It is perhaps this
+reason that the temple to the south was built on this part of the island. 
+To the west of you the forest grows thicker and less inviting, and to the
+east of you is a well worn path leading to the edge of the cliff.  
+~
+0 0 3
+D0
+~
+~
+0 0 7622
+D1
+~
+~
+0 0 7642
+D3
+~
+~
+0 0 7640
+S
+#7642
+Top of the Steps~
+The forest here has been cut back, and a fairly well worn path has been
+made through the dense foliage.  As you approach the cliffs to the north,
+peering down you notice that a set of steep stairs has been carved into the
+dark rocks of the cliffs.  If you are careful you think you could pick your
+way down to the shore below.  To the south of you the path heads towards an
+open clearing.  To the east and west the forest unfurls itself along the
+edge of the cliffs.  
+~
+0 0 3
+D1
+~
+~
+0 0 7643
+D2
+~
+~
+0 0 7636
+D3
+~
+~
+0 0 7641
+D5
+~
+~
+0 0 7645
+S
+#7643
+North East Corner~
+You find yourself high atop the cliffs of Avalon.  Looking down and to
+the north or east you can see the subtle waves of the lake lapping against
+the shores.  To the south the forest extends back down the lengthy of the
+island.  To your west you think you can make out a path that has been cut
+right out of the forest itself.  
+~
+0 0 3
+D2
+~
+~
+0 0 7637
+D3
+~
+~
+0 0 7642
+S
+#7644
+The North Eastern Shore~
+To the south the beach seems to be covered by gigantic boulders that may
+make it very difficult to pass, but to the north the beach seems to flatten
+out and continue around the backside of the island.  You aren't quite sure,
+but you also think you can make out some washed over footprints in the sand
+here.  West of you the dark cliffs of the island jut straight up into the
+sky, and look as though they would be impossible to climb.  
+~
+0 0 3
+D0
+~
+~
+0 0 7664
+D1
+~
+~
+0 0 7602
+D2
+~
+~
+0 0 7633
+S
+#7645
+On the Carved Stairs~
+The stairs here are tricky to negotiate, but you seem to manage with them
+well enough.  Up from here you see the dark forest of the island perched
+menacingly atop the tall black cliffs.  Down from here you see a calm and
+inviting beach.  Glancing out over the lake you see the fog in the distance,
+but as you lose your footing you decide that it best not to take your eyes
+off of the steps lest you fall.  
+~
+0 0 3
+D4
+~
+~
+0 0 7642
+D5
+~
+~
+0 0 7648
+S
+#7646
+Base of the Northern Cliffs~
+The beach here is quiet and serene.  It extends in both and east and west
+direction to the corners of the island.  To the south of you the cliffs loom
+high over head.  To the north of you it looks as though you may be able to
+swim out into the clear waters of a gentle pool that has formed in the lake.
+~
+0 0 3
+D0
+~
+~
+0 0 7670
+D1
+~
+~
+0 0 7647
+D3
+~
+~
+0 0 7663
+S
+#7647
+Beneath the Precipice~
+You are standing in a great shadow of a large overhanging precipice.  The
+cliff here actually looms out over the water.  The lake to the north of you
+seems inviting and enchanted perhaps a swim wouldn't be so bad.  The shore
+to the east west extends serenely in both directions.  
+~
+0 0 3
+D0
+~
+~
+0 0 7671
+D1
+~
+~
+0 0 7648
+D3
+~
+~
+0 0 7646
+S
+#7648
+Entrance to the Cave~
+At the base of the stairs you find an opening into the cliffs that looks
+to be an entrance to a cave.  The cave looks dark but there seems to be a
+faint glow coming from deep within as though the island had some deep source
+of power.  To the north of you the lake seems to be pushing back the fog
+here, almost as though inviting you to plunge back into the frigid waters
+that brought you here.  The beach is easily passable here heading off to
+both the east and west, and in the cliffs above you is an intricately carved
+set of stairs leading up to the top of the island.  Perhaps from up there
+you may be afforded a better view, and possibly be able to finally see
+beyond the fog that has beset this island.  
+~
+0 0 3
+D0
+~
+~
+0 0 7672
+D1
+~
+~
+0 0 7649
+D2
+~
+~
+0 0 7650
+D3
+~
+~
+0 0 7647
+D4
+~
+~
+0 0 7645
+S
+#7649
+Along the Northern Shore~
+The beach here is peaceful, almost deceitful considering what the rest of
+the island looks like.  To the west of you there seems to be some sort of
+entrance to a cave.  Out to the north, the lake seems to be inviting you to
+swim.  The beach to the east doesn't look too bad either.  About the only
+way you wouldn't want to travel from here is up the incredibly smooth rock
+face of the cliffs.  
+~
+0 0 3
+D0
+~
+~
+0 0 7673
+D1
+~
+~
+0 0 7664
+D3
+~
+~
+0 0 7648
+S
+#7650
+Inside the Cave~
+The cave is beautiful.  All around you are gigantic crystals, some
+reaching from the floor to the roof of the cave well over 40 feet above you.
+As you pass by the crystals you can see your reflection moving with you
+through some of the crystals.  Looking closer at some of them though, you
+see reflections that are not your own looking back out at you.  The cave
+seems to have trapped souls in these crystals.  North of you is the exit to
+the cave, but the cave does continue even deeper to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 7648
+D2
+~
+~
+0 0 7651
+S
+#7651
+Further Into the Cave~
+The cave continues to open making for a very large open area here.  The
+crystals that filled the front portion of the cave have lessened in number
+and size here.  As you walk deeper into the cave you begin to notice a soft
+light coming from somewhere in the back.  If you continue to walk south you
+are sure you will find the source.  Walking to the north you can see the
+exit to this cave off in the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 7650
+D2
+~
+~
+0 0 7652
+S
+#7652
+Bend In the Cave~
+Considering the vastness of the chamber just to the north of this room,
+this huge room seems somewhat diminished.  The cave here takes a different
+direction, and you now clearly see that the light is coming from the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 7651
+D1
+~
+~
+0 0 7678
+S
+#7653
+Temple Entrance~
+The temple magically heals it self as you step into the room.  The
+illusion of an old ruined temple is replaced by a beautiful stone structure.
+As you glance around at the walls you see many niches come into light with a
+flickering and sputtering of burning oils.  You can see that further north in
+this temple there are two stone plinths with some kind of statue on them. 
+The statues are seated like king and queen at the end of a great hall.  
+~
+0 0 0
+D0
+~
+~
+0 0 7654
+D1
+~
+~
+0 0 7657
+D2
+~
+~
+1 0 7635
+S
+#7654
+Inside the Temple~
+The temple gives a feel of being in the holiest of places.  The shadows
+dancing on the floors and ceiling even seem to give the temple an ethereal
+feel.  Off far to the east of you there is an old wooden door in the temple
+wall, and to the west one that matches it.  Back to the south is the door
+you came in through.  You get a tingle down the back of your neck standing
+here, as though someone is peering down on you.  
+~
+0 0 0
+D0
+~
+~
+0 0 7655
+D1
+~
+~
+0 0 7658
+D2
+~
+~
+0 0 7653
+D3
+~
+~
+1 0 7656
+S
+#7655
+Arthur's Tomb~
+This niche carved at the far end of the temple is made of the purest of
+marble, and still large enough for quite a congregation of viewers.  In
+front of you is a large marble plinth on which is carved a full size marble
+throne.  In the throne is seated a flawless statue of King Arthur Pendragon.
+The statue is so well carved it almost seems to be alive.  To the east of
+this tomb is another just like it except with a female statue seated on a
+throne instead.  You see a small marble pedestal in between the two with an
+engraved brass plaque on it.  The temple to the south of you has a very warm
+glow of light.  This really is holy ground.  
+~
+0 4 0
+E
+plaque~
+Here lies the great King Arthur.
+~
+D1
+~
+~
+0 0 7659
+D2
+~
+~
+0 0 7654
+S
+#7656
+Base of the Tower~
+The base of the tower is completely devoid of any adornment.  If not for
+the spiraling staircase against the walls of the tower, this may as well be
+some sort of large storage room.  Looking up the long staircase you think
+you see a faint chink of light escaping from the very top.  The door to the
+east of you leads to the main chamber of the temple.  
+~
+0 0 0
+D1
+~
+~
+1 0 7654
+D4
+~
+~
+0 0 7665
+S
+#7657
+Corner of the Temple~
+There is very little in the way of decoration here.  A cold stone floor,
+the warm glow of lamp light from the walls, and the dancing shadows being
+cast by them seem to be the only adornment in this temple.  You can see that
+further north in this temple there are two stone plinths with some kind of
+statue on them.  The statues are seated like king and queen at the end of a
+great hall.  
+~
+0 0 0
+D0
+~
+~
+0 0 7658
+D3
+~
+~
+0 0 7653
+S
+#7658
+Further Inside the Temple~
+The temple gives a feel of being in the holiest of places.  The shadows
+dancing on the floors and ceiling even seem to give the temple an ethereal
+feel.  North of you the statues are easily visible, each perched atop a
+wonderfully crafted marble base.  Off far to the west of you there is an old
+wooden door in the temple wall, and to the east one that matches it.  Back
+to the south and west is the door you came in through.  
+~
+0 0 0
+D0
+~
+~
+0 0 7659
+D1
+~
+~
+1 0 7660
+D2
+~
+~
+0 0 7657
+D3
+~
+~
+0 0 7654
+S
+#7659
+Guinevere's Tomb~
+This niche carved at the far end of the temple is made of the purest of
+marble, and still large enough for quite a congregation of viewers.  In
+front of you is a large marble plinth on which is carved a full size marble
+throne.  In the throne is seated a flawless statue of Queen Guinevere. The
+statue is so well carved it almost seems to be alive.  To the west of this
+tomb is a second similar tomb that most likely would belong to King Arthur
+You notice a small marble pedestal in between the two tombs with an engraved
+brass plaque mounted on it.  To the south the temple glows with a very warm
+inviting light.  
+~
+0 4 0
+E
+plaque~
+Here lies the great Queen Guinevere.
+~
+D2
+~
+~
+0 0 7658
+D3
+~
+~
+0 0 7655
+S
+#7660
+Chamber of the High Priestess~
+There is a table and a handful of hard backed wooden chairs in this room. 
+The only way out seems to be the door you came in through.  Through the
+window slits in this room you have a perfect view of the tops of the forest
+to the south, and of the gathering area outside to the east.  
+~
+0 0 0
+D3
+~
+~
+1 0 7658
+S
+#7661
+Southwest Corner of the Island~
+You are standing on the farthest southwest point of the island.  Both to
+the west and south of you the lake expands outward into the fog.  To the
+north and east the beach continues on for quite some distance.  A gentle
+breeze seems to be blowing, though if anything it is only adding to the
+despairing feeling of this land.  
+~
+0 4 3
+D0
+~
+~
+0 0 7614
+D1
+~
+~
+0 0 7610
+D2
+~
+~
+0 0 7600
+D3
+~
+~
+0 0 7601
+S
+#7662
+Southeast Corner of the Island~
+This corner of the island like the beach to the west of here has been
+scavenged for the driftwood and braches that once must have littered this
+area.  The gentle breeze that is blowing cause chills to run up you back. 
+The lake leads away from the island both to the east and south of you. 
+Looking north the shore line continues, and a gentle hill seems to rise
+inwards towards the center of the island.  
+~
+0 4 3
+D0
+~
+~
+0 0 7619
+D1
+~
+~
+0 0 7602
+D2
+~
+~
+0 0 7601
+D3
+~
+~
+0 0 7613
+S
+#7663
+North West Corner of Avalon~
+The backside of the island is a barren place.  The beach here is sandy
+and gentle as the lake comes up to meet it.  The cliffs tower high above the
+shore.  To the south of you the shoreline extends way off into the distance.
+To the east of you the same is apparent as the beach extends the entire
+length of the cliffs.  The lake here seems to be keeping the fog at bay. 
+The fog seems to be moving around a small section of lake back here.  
+~
+0 0 3
+D0
+~
+~
+0 0 7603
+D1
+~
+~
+0 0 7646
+D2
+~
+~
+0 0 7639
+D3
+~
+~
+0 0 7604
+S
+#7664
+North East Corner of the Island~
+Looking south along the shoreline, the beach appears rugged and rocky. 
+In some spots it even looks to be impassable as many large boulders seem to
+block the way.  Looking west however, the beach looks flat and easy to walk
+on.  As you glance out over the lake you think you saw a black shadow move
+in the fog that is pressing in on the island.  Hopefully your business here
+will not take much longer.  
+~
+0 0 3
+D0
+~
+~
+0 0 7604
+D1
+~
+~
+0 0 7603
+D2
+~
+~
+0 0 7644
+D3
+~
+~
+0 0 7649
+S
+#7665
+Lower Tower~
+The staircase continues to wind its way both up and down the inside of
+the tower.  You have noticed that there is certainly a lack of windows to
+allow light into the lower part of the tower.  Looking way up in the
+distance, you see a faint glow of light as though it were escaping from
+under the gap of a door.  
+~
+0 0 0
+D4
+~
+~
+0 0 7666
+D5
+~
+~
+0 0 7656
+S
+#7666
+Further Up the Tower~
+The tower is extremely dark and filled with a sense of despair.  If not
+for the faint bit of light shining through the edges of the trap door at the
+top of this staircase, you are sure it would be pitch black in here.  Down
+from you the staircase winds against the wall all the way down to the base
+of the tower.  
+~
+0 0 0
+D4
+~
+trapdoor~
+1 0 7667
+D5
+~
+~
+0 0 7665
+S
+#7667
+Merlin's Study~
+This room is much larger than you ever would have suspected.  Clearly
+there are some tremendous magical enchantments and energies that have been
+put to work on and in this room.  Getting beyond the size of the room, you
+begin to notice that almost all of the wall space has been covered in
+shelves, and that almost every shelf is covered in books and scrolls.  All
+around the room are small tables with a variety of instruments and artifacts
+laid carefully on top of them.  Looking out the numerous windows that
+surround the room you can clearly see all the way around the island.  You
+can see the shore from which you swam onto the island.  You can see the
+cliffs at the back of the island, you can see the tops of the trees that
+create an impenetrable ring around the island, and you can even see the lake
+behind the island that seems to be glowing with a light of its own.  More
+than just being able to see all around the island, two things peak your
+interest.  The first being that the farther away you try to look, the closer
+those objects seem to get to you, and the second being that unlike anywhere
+else on the island, no matter which way you look, you don't see any fog. 
+Other than jumping to your doom out of the windows here, the only way out
+appears to be the trap door that you came in through.  
+~
+0 0 0
+D5
+~
+trapdoor~
+1 0 7666
+S
+#7668
+Into the Lake~
+Leaving Sherwood forest behind, you plunge into the icy cold waters of
+the lake.  You have heard legend that says the island on Avalon lies
+somewhere in the middle of this lake.  Fortunately for you the thoughts of
+finding the final resting place of Arthur Pendragon and the magical nature
+of the island are enough to keep you warm against such a bone chilling swim.
+~
+0 536870912 6
+D0
+~
+~
+0 0 7669
+D3
+~
+~
+0 0 812
+S
+#7669
+Approaching the Island~
+You feel as though you have been swimming for miles.  The water is so
+cold you fear that if you don't make it soon, you may freeze to death before
+you ever get the chance to lay your eyes upon its shores.  As the feeling of
+despair begins to wash over you, you catch a glimpse of land on the horizon.
+You ask yourself if maybe you swam right by it with out noticing, but as you
+draw closer to the shore line you see the island begin to take shape.  There
+is a sandy beach in front of you, and a dense dark forest that leads uphill
+away from the beach.  With renewed hope you gather every last ounce of
+strength and swim for the shore.  
+~
+0 536870912 6
+D0
+~
+~
+0 0 7611
+S
+#7670
+South West Corner of the Lake~
+Plunging into the water you notice that this portion of the lake feels
+much warmer.  There must be some kind of heat source near by.  You see a
+faint glow of light coming from somewhere farther out into the lake. 
+Perhaps that light is causing the lake to be warmed.  The fog is thick to
+the west of you almost as though it wished to hold you in this area.  The
+beach lay serenely to the south of you, and you are fairly confident that
+you could swim farther out to the north or east without any problems.  
+~
+0 536870916 6
+D0
+~
+~
+0 0 7674
+D1
+~
+~
+0 0 7671
+D2
+~
+~
+0 0 7646
+D3
+~
+~
+0 0 7602
+S
+#7671
+South Lakes Edge~
+Plunging into the water you notice that this portion of the lake feels
+much warmer.  There must be some kind of heat source near by.  There appears
+to be some sort of light coming from just north of you, you are sure that if
+you swam just a bit farther from shore you could probably figure out what it
+is.  The beach to the south of you looks calm and pleasant and the water all
+around you feels warm and comfortable.  This must be the nicest part of the
+whole island.  
+~
+0 536870916 6
+D0
+~
+~
+0 0 7675
+D1
+~
+~
+0 0 7672
+D2
+~
+~
+0 0 7647
+D3
+~
+~
+0 0 7670
+S
+#7672
+Lake At the Cave~
+Plunging into the water you notice that this portion of the lake feels
+much warmer.  There must be some kind of heat source near by.  You see a
+faint glow of light coming from somewhere farther out into the lake. 
+Perhaps that light is causing the lake to be warmed.  To the south of you is
+a cave in the black cliffs of the island, and everywhere else you are quite
+certain that you could easily swim around to.  
+~
+0 536870916 6
+D0
+~
+~
+0 0 7676
+D1
+~
+~
+0 0 7673
+D2
+~
+~
+0 0 7648
+D3
+~
+~
+0 0 7671
+S
+#7673
+South East Corner of the Lake~
+Plunging into the water you notice that this portion of the lake feels
+much warmer.  There must be some kind of heat source near by.  The fog has
+made a very thick wall just to the east of you, but you think you could
+probably swim in either a northerly or westerly direction with some
+confidence.  
+~
+0 536870916 6
+D0
+~
+~
+0 0 7677
+D1
+~
+~
+0 0 7600
+D2
+~
+~
+0 0 7649
+D3
+~
+~
+0 0 7672
+S
+#7674
+North West Corner of the Lake~
+The farther north you try to swim the thicker the ofg seems to become. 
+Perhaps staying closer to the shore would be a better idea.  To the east fo
+you there is a warm glowing light.  To the south of you is the swim back
+towards the shores of Avalon.  
+~
+0 536870916 6
+D0
+~
+~
+0 0 7600
+D1
+~
+~
+0 0 7675
+D2
+~
+~
+0 0 7670
+D3
+~
+~
+0 0 7601
+S
+#7675
+{BThe Lady's Lake{x~
+The warmth keeping the fog at bay is definitely coming from this area of
+the lake.  You feel entranced to stay here, as all your worries seem to
+evaporate.  Then before your eyes you see a beautiful young maiden take
+shape in the waters below you.  She introduces herself as the Lady of the
+Lake.  Aside from the dense fog to the north preventing you from swimming
+farther out, the only thing keeping you from swimming back to the shores of
+Avalon is your longing to stay with the Lady.  
+~
+0 536870916 6
+D0
+~
+~
+0 0 7604
+D1
+~
+~
+0 0 7676
+D2
+~
+~
+0 0 7671
+D3
+~
+~
+0 0 7674
+M 150 H 150
+S
+#7676
+The Northern Edge of the Lake~
+The farther north you try to swim the thicker the fog seems to become. 
+Perhaps staying closer to the shore would be a better idea.  To the west of
+you however is a brilliant glowing light.  South of you is the north shore
+of Avalon, and the towering black cliffs.  To the east of you the fog seems
+to be held back a little farther if you wanted to head that way.  
+~
+0 536870916 6
+D0
+~
+~
+0 0 7603
+D1
+~
+~
+0 0 7677
+D2
+~
+~
+0 0 7672
+D3
+~
+~
+0 0 7675
+S
+#7677
+North East Corner of the Lake~
+The farther north or east you try to swim the thicker the fog seems to
+become.  Perhaps staying closer to the shore would be a better idea.  To the
+west of you however is a faint glowing light.  South of you is the shore of
+Avalon, and the towering black cliffs.  You are glad the waters here are
+warmer than your swim into the island.  
+~
+0 536870916 6
+D0
+~
+~
+0 0 7602
+D1
+~
+~
+0 0 7601
+D2
+~
+~
+0 0 7673
+D3
+~
+~
+0 0 7676
+S
+#7678
+Morgan's Cave~
+The cave has opened up into a vast chamber.  Many more of the strange
+crystal-like stalactites and stalagmites fill this room.  Towards the back
+of the room you see several stone shelves with a few books, potions,
+scrolls, and other objects laid haphazardly about on them.  There is a very
+solid wooden work table in front of the shelves, and in the center of the
+room is a deep pool of dark black water.  Unlike the rest of the cave, this
+room seems to be the final chamber, and has only one way out to the west.  
+~
+0 4 0
+D3
+~
+~
+0 0 7652
+S
+#7679
+Mob Holding Room~
+~
+0 268993796 0
+S
+#7699
+{GSkywise's {WChamber{x~
+The cool breeze laps at your face as you sit high atop the mountain
+overlooking Avalon; final resting place of King Arthur Pendragon.  It is
+from this ledge that the anxious Skywise watches over his domain.  
+~
+0 32772 5
+M 999 H 999
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#7600
+mob mload 7602
+mob echo {gAs the tree crashes to the ground a screaming dryad emerges to avenge the death of her tree.{x
+~
+A
+#7601
+if mobs <4
+mob mload 7615
+mob echo {y A dryad screams '{RProtectors Help Me!{y'{x
+endif
+~
+A
+#7602
+if rand 25
+mob echo {yAn unseen voice says '$n, your services are needed elsewhere.'{x
+mob echoat $n $I has sent you to a place you are needed.
+mob echoaround $n {y$N has been sent somewhere else.{x
+if rand 2
+mob transfer $n 11465
+else
+if rand 10
+mob transfer $n 14654
+else
+if rand 15
+mob transfer $n 13549
+else
+if rand 22
+mob transfer $n 20739
+else
+if rand 30
+mob transfer $n 4750
+else
+if rand 40
+mob transfer $n 14776
+else
+if rand 50
+mob transfer $n 17779
+else
+if rand 100
+mob transfer $n 13732
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+mob at $n mob echoat $n You arrive from a puff of smoke!
+mob at $n mob echoaround $n $N arrives from a puff of smoke!
+mob at $n mob force $n look
+endif
+~
+A
+#7603
+if players >0
+mob force $r east
+endif
+~
+A
+#7604
+mob echo As the statue is shattered a form takes shape out of the dust.
+mob echo {RHow Dare You Defile My Tomb!{x
+mob goto 7679
+mob transfer 'pendragon noble' 7655
+~
+A
+#7605
+mob echo As the statue is shattered a form takes shape out of the dust.
+mob echo {yQueen Guinevere sobs 'Who has brought me to this place?'{x
+mob goto 7679
+mob transfer 'guinevere beautiful' 7659
+~
+A
+#7606
+~
+N
+#0
+
+#RESETS
+D 0 7635 0 1
+D 0 7653 2 1
+D 0 7654 3 1
+D 0 7656 1 1
+D 0 7658 1 1
+D 0 7660 3 1
+D 0 7666 4 1
+D 0 7667 5 1
+M 1 7600 10 7600 1
+M 1 7600 10 7601 1
+M 1 7600 10 7602 1
+M 1 7600 10 7603 1
+M 1 7600 10 7604 1
+M 1 7600 10 7605 1
+M 1 7600 10 7606 1
+M 1 7600 10 7607 1
+M 1 7600 10 7608 1
+M 1 7600 10 7609 1
+C 100 percent for next reset
+O 0 7622 0 7611
+C 50 percent for next reset
+M 1 7610 8 7615 1
+M 1 7601 30 7615 2
+M 1 7601 30 7616 2
+C 50 percent for next reset
+M 1 7610 8 7617 1
+M 1 7601 30 7617 2
+M 1 7601 30 7618 2
+M 1 7601 30 7621 2
+C 85 percent for next reset
+M 1 7603 15 7622 2
+C 50 percent for next reset
+E 0 7602 0 6
+C 85 percent for next reset
+M 1 7603 15 7622 2
+C 95 percent for next reset
+E 0 7601 0 3
+C 95 percent for next reset
+E 0 7600 0 12
+C 85 percent for next reset
+M 1 7603 15 7623 1
+C 95 percent for next reset
+E 0 7601 0 3
+C 95 percent for next reset
+E 0 7600 0 12
+C 90 percent for next reset
+E 0 7625 0 14
+O 0 7614 0 7624
+C 50 percent for next reset
+M 1 7610 8 7625 1
+M 1 7601 30 7625 2
+C 85 percent for next reset
+M 1 7603 15 7627 1
+C 50 percent for next reset
+E 0 7602 0 6
+M 1 7601 30 7628 2
+C 100 percent for next reset
+M 1 7614 3 7630 1
+C 100 percent for next reset
+E 0 7613 0 5
+C 100 percent for next reset
+E 0 7602 0 6
+C 100 percent for next reset
+E 0 7626 0 8
+C 100 percent for next reset
+M 1 7614 3 7630 1
+C 100 percent for next reset
+E 0 7641 0 13
+C 100 percent for next reset
+E 0 7613 0 5
+C 100 percent for next reset
+E 0 7602 0 6
+C 100 percent for next reset
+E 0 7626 0 8
+C 100 percent for next reset
+M 1 7614 3 7630 1
+C 100 percent for next reset
+E 0 7613 0 5
+C 100 percent for next reset
+E 0 7602 0 6
+C 100 percent for next reset
+E 0 7626 0 8
+C 85 percent for next reset
+M 1 7603 15 7630 1
+C 95 percent for next reset
+E 0 7601 0 3
+C 95 percent for next reset
+E 0 7600 0 12
+C 100 percent for next reset
+O 0 7621 0 7630
+M 1 7601 30 7631 3
+C 50 percent for next reset
+M 1 7610 8 7634 1
+M 1 7601 30 7634 2
+C 85 percent for next reset
+M 1 7603 15 7635 1
+C 95 percent for next reset
+E 0 7601 0 3
+C 95 percent for next reset
+E 0 7600 0 12
+C 90 percent for next reset
+E 0 7625 0 14
+M 1 7601 30 7637 3
+C 100 percent for next reset
+M 1 7613 1 7640 1
+M 1 7601 30 7640 2
+C 50 percent for next reset
+M 1 7610 8 7641 1
+M 1 7601 30 7641 2
+M 1 7601 30 7642 2
+C 50 percent for next reset
+M 1 7610 8 7643 1
+M 1 7601 30 7643 3
+C 85 percent for next reset
+M 1 7603 15 7646 1
+C 50 percent for next reset
+E 0 7602 0 6
+C 100 percent for next reset
+M 1 7611 1 7655 1
+C 100 percent for next reset
+O 0 7618 0 7655
+C 85 percent for next reset
+M 1 7603 15 7658 4
+C 100 percent for next reset
+E 0 7600 0 12
+C 100 percent for next reset
+E 0 7603 0 16
+C 100 percent for next reset
+M 1 7612 1 7659 1
+C 100 percent for next reset
+O 0 7619 0 7659
+C 100 percent for next reset
+M 1 7604 1 7660 1
+C 100 percent for next reset
+E 0 7604 0 12
+C 100 percent for next reset
+E 0 7603 0 16
+C 100 percent for next reset
+E 0 7601 0 3
+C 100 percent for next reset
+O 0 7615 0 7660
+C 100 percent for next reset
+M 1 7605 1 7667 1
+C 100 percent for next reset
+E 0 7607 0 3
+C 100 percent for next reset
+E 0 7606 0 12
+C 100 percent for next reset
+E 0 7605 0 1
+C 100 percent for next reset
+E 0 7628 0 18
+C 100 percent for next reset
+E 0 7632 0 17
+C 75 percent for next reset
+E 0 7640 0 17
+C 100 percent for next reset
+O 0 7617 0 7667
+C 100 percent for next reset
+P 0 7631 3 7617 1
+C 100 percent for next reset
+P 0 7630 10 7617 1
+C 100 percent for next reset
+P 0 7629 1 7617 1
+C 100 percent for next reset
+O 0 7616 0 7667
+C 90 percent for next reset
+P 0 7639 15 7616 1
+C 90 percent for next reset
+P 0 7638 15 7616 1
+C 90 percent for next reset
+P 0 7637 15 7616 1
+C 100 percent for next reset
+M 1 7609 1 7675 1
+C 95 percent for next reset
+O 0 7633 0 7678
+C 100 percent for next reset
+M 1 7606 1 7678 1
+C 100 percent for next reset
+G 0 7634 0
+C 95 percent for next reset
+P 0 7636 5 7634 1
+C 95 percent for next reset
+P 0 7635 5 7634 1
+C 100 percent for next reset
+E 0 7612 0 16
+C 100 percent for next reset
+E 0 7608 0 17
+C 100 percent for next reset
+E 0 7627 0 18
+C 100 percent for next reset
+O 0 7620 0 7678
+C 100 percent for next reset
+M 1 7608 1 7679 1
+C 80 percent for next reset
+E 0 7623 0 5
+C 100 percent for next reset
+M 1 7607 1 7679 1
+C 100 percent for next reset
+E 0 7611 0 11
+C 100 percent for next reset
+E 0 7610 0 1
+C 100 percent for next reset
+E 0 7609 0 16
+E 0 7624 0 9
+O 0 7699 0 7699
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

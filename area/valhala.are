@@ -1,0 +1,1089 @@
+#AREADATA
+Name Valhalla~
+Builders Vexatin Aql~
+VNUMs 1200 1222
+Credits {51 60} ROM         Immortal Zone~
+Security 9
+Xcontinent 0
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#1200
+Heimdall~
+Heimdall~
+Heimdall, guardian of Bifrost, stands guard over the Rainbow Bridge.
+~
+Standing over 7 feet tall and muscled as only a god can be, Heimdall keeps
+his unsleeping gaze over the Rainbow bridge.  His trusty Gjallor-horn never
+leaves his side, and shall remain unwinded until the dread ship Naglfar sails
+towards Valhalla on the dawn of Ragnarok.
+~
+human~
+ABTV CDFJZ 1000 0
+57 30 1d1+19999 1d1+499 5d4+40 crush
+-20 -20 -20 -10
+ACDEFHIKLNOT ABPa CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK large 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#1200
+master key valhalla~
+the master key~
+The key to the secrets of Valhalla is here.~
+~
+key 0 AO
+0 0 0 0 0
+0 20 0 P
+#1201
+voodoo chicken~
+a voodoo chicken foot~
+A chicken foot is on the floor.~
+oldstyle~
+wand 0 AO
+40 3 3 'call creature' 0
+5 10 10000 P
+#1202
+leveling tool~
+a leveling tool~
+A leveling tool has been dropped here.~
+crystal~
+treasure 0 AO
+0 0 0 0 0
+54 50 0 P
+A
+19 -50  
+A
+18 -50  
+A
+3 10  
+A
+4 10  
+A
+5 10  
+#1203
+soul fragment melancholy~
+a melancholy soul fragment~
+A fragmented piece of a melancholy soul is here.~
+soul~
+treasure 0 AQY
+0 0 0 0 0
+51 20 1000 P
+A
+5 2  
+A
+1 2  
+E
+soul~
+This fragmented piece of a soul contains only a single emotion.  Captured
+and held for the amusement of demons for aeons, it still contains power.  If
+you were to craft together three different fragmented souls into a 'soul
+aggregate', their strength would be pooled.  In addition, there is a special
+use for this item.  Look in the Abyssal Seam for clues.  
+~
+#1204
+soul fragment facetious~
+a facetious soul fragment~
+A fragmented piece of a facetious soul is here.~
+soul~
+treasure 0 AQY
+0 0 0 0 0
+51 20 1000 P
+A
+3 2  
+A
+2 2  
+#1205
+soul fragment thoughtful~
+a thoughtful soul fragment~
+A fragmented piece of a thoughtful soul is here.~
+soul~
+treasure 0 AQY
+0 0 0 0 0
+51 20 1000 P
+A
+4 2  
+A
+3 2  
+#1206
+soul aggregate~
+an aggregate of souls~
+An aggregate of various souls swirls here.~
+soul~
+treasure 0 AQZ
+0 0 0 0 0
+51 60 100000 P
+A
+5 2  
+A
+4 2  
+A
+3 2  
+A
+2 2  
+A
+1 2  
+#1207
+ewer obivion~
+the ewer of oblivion~
+A small, empty ewer is here... filled with... nothingness.~
+oblivion~
+treasure 0 AOY
+0 0 0 0 0
+51 30 1000 P
+A
+13 25  
+A
+20 -3  
+#1208
+water of oblivion~
+the waters of oblivion~
+A small black puddle is here, looking faintly like water.~
+oblivion~
+treasure 0 AEY
+0 0 0 0 0
+51 20 1000 P
+A
+13 25  
+A
+20 -3  
+#1209
+stopper of oblivion~
+the bottle-stopper of oblivion~
+A small black bottle-stopper on a string, is here.~
+oblivion~
+treasure 0 ACY
+0 0 0 0 0
+51 10 1000 P
+A
+13 25  
+A
+20 -3  
+#1210
+draught of oblivion~
+the draught of oblivion~
+A sealed bottle filled with forgetfulness is here.~
+oblivion~
+treasure 0 AOZ
+0 0 0 0 0
+51 50 100000 P
+A
+13 50  
+A
+20 -5  
+#1211
+riding crop dragon mount~
+a dragon mount's riding crop~
+A dragon mount's riding crop is here, driving you onwards.~
+webbing~
+weapon IYe ANYZ
+whip 6 6 sting IT
+51 2 45000 R
+E
+skull~
+To craft a 'nether dragon skull', you need the
+following ingredients:
+this riding crop
+a stone of Bosco
+a dragon skull
+an empty Skull of a Coder
+20 skulls
+~
+E
+skullblight~
+To craft a 'great sword skull blight', you need
+the following ingredients:
+this riding crop
+a Bosco dagger
+a huge black-dripping serrated sword
+a humming voidblade
+5 angel skulls
+~
+E
+riding~
+A dragon mount's riding crop is here, driving you onwards.
+On closer inspection, you feel that there's more to this
+than meets the eye. There are six recipies inscribed upon
+the riding crop:
+ 
+{WAn Abyssal Arbalest, "Nightscream"
+{DA Coat of Nether Plate
+{WA Pair of Abyssal Gauntlets
+{DA Greatsword named 'Skullblight'
+{WA Pair of Abyssal Greaves
+{DA Skull of the Nether Dragon{x
+ 
+Look more closely at the individual recipes for more
+information!
+~
+E
+crop~
+A dragon mount's riding crop is here, driving you onwards.
+On closer inspection, you feel that there's more to this
+than meets the eye. There are six recipies inscribed upon
+the riding crop:
+ 
+{WAn Abyssal Arbalest, "Nightscream"
+{DA Coat of Nether Plate
+{WA Pair of Abyssal Gauntlets
+{DA Greatsword named 'Skullblight'
+{WA Pair of Abyssal Greaves
+{DA Skull of the Nether Dragon{x
+ 
+Look more closely at the individual recipes for more
+information!
+~
+E
+dragon~
+A dragon mount's riding crop is here, driving you onwards.
+On closer inspection, you feel that there's more to this
+than meets the eye. There are six recipies inscribed upon
+the riding crop:
+ 
+{WAn Abyssal Arbalest, "Nightscream"
+{DA Coat of Nether Plate
+{WA Pair of Abyssal Gauntlets
+{DA Greatsword named 'Skullblight'
+{WA Pair of Abyssal Greaves
+{DA Skull of the Nether Dragon{x
+ 
+Look more closely at the individual recipes for more
+information!
+~
+E
+mount~
+A dragon mount's riding crop is here, driving you onwards.
+On closer inspection, you feel that there's more to this
+than meets the eye. There are six recipies inscribed upon
+the riding crop:
+ 
+{WAn Abyssal Arbalest, "Nightscream"
+{DA Coat of Nether Plate
+{WA Pair of Abyssal Gauntlets
+{DA Greatsword named 'Skullblight'
+{WA Pair of Abyssal Greaves
+{DA Skull of the Nether Dragon{x
+ 
+Look more closely at the individual recipes for more
+information!
+~
+E
+abyssal~
+Is that the Arbalest, Gauntlets or Greaves?
+~
+E
+gauntlets~
+To craft 'abyssal gauntlets', you need the following
+ingredients:
+ 
+this riding crop
+a diamond ring
+gauntlets of ogre power
+flame claws
+5 promises of darkness
+~
+E
+greaves~
+To craft 'abyssal greaves', you need the following
+ingredients:
+ 
+this riding crop
+an amulet of Bosco
+minotaur greaves
+a dark moonstone
+10 dark crystals
+~
+E
+great~
+To craft a 'great sword skull blight', you need
+the following ingredients:
+ 
+this riding crop
+a Bosco dagger
+a huge black-dripping serrated sword
+a humming voidblade
+5 angel skulls
+~
+E
+sword~
+To craft a 'great sword skull blight', you need
+the following ingredients:
+ 
+this riding crop
+a Bosco dagger
+a huge black-dripping serrated sword
+a humming voidblade
+5 angel skulls
+~
+E
+greatsword~
+To craft a 'great sword skull blight', you need
+the following ingredients:
+ 
+this riding crop
+a Bosco dagger
+a huge black-dripping serrated sword
+a humming voidblade
+5 angel skulls
+~
+E
+blight~
+To craft a 'great sword skull blight', you need
+the following ingredients:
+ 
+this riding crop
+a Bosco dagger
+a huge black-dripping serrated sword
+a humming voidblade
+5 angel skulls
+~
+E
+nether~
+Was that the nether plate, or the nether dragon skull?
+~
+E
+plate~
+To craft a 'nether plate', you need the following
+ingredients:
+ 
+this riding crop
+a Bosco cloak
+a scale of Tiamat
+a small dragon
+5 suits of invincible plate
+~
+E
+crossbow~
+To craft an "abyssal crossbow arbalest nightscream",
+you need the following ingredients:
+This riding crop
+a Bosco dagger
+a dragon bow
+a quiver of phoenix arrows
+20 pieces of arcane lumber
+~
+E
+arbalest~
+To craft an "abyssal crossbow arbalest nightscream",
+you need the following ingredients:
+This riding crop
+a Bosco dagger
+a dragon bow
+a quiver of phoenix arrows
+20 pieces of arcane lumber
+~
+E
+night~
+To craft an "abyssal crossbow arbalest nightscream",
+you need the following ingredients:
+This riding crop
+a Bosco dagger
+a dragon bow
+a quiver of phoenix arrows
+20 pieces of arcane lumber
+~
+E
+scream~
+To craft an "abyssal crossbow arbalest nightscream",
+you need the following ingredients:
+This riding crop
+a Bosco dagger
+a dragon bow
+a quiver of phoenix arrows
+20 pieces of arcane lumber
+~
+E
+nightscream~
+To craft an "abyssal crossbow arbalest nightscream",
+you need the following ingredients:
+This riding crop
+a Bosco dagger
+a dragon bow
+a quiver of phoenix arrows
+20 pieces of arcane lumber
+~
+#1212
+prayer blessing selina~
+a prayer for the blessings of Selina~
+A prayer for the blessings of Selina is here, written on a dragon-hide leather leaf.~
+snakeskin~
+scroll IYe AOYZ
+55 'frenzy' 'bless' 'sanctuary' 'reserved'
+51 1 45000 P
+#1213
+adamantine chitinous carapace shell~
+a spiky adamantine laced chitin shell~
+A spiky adamantine laced chitin shell is here, practically invulnerable.~
+adamantite~
+armor Ye AKYZ
+0 0 0 0 0
+50 5 45000 P
+A
+17 -40  
+A
+13 50  
+#0
+
+
+
+#ROOMS
+#1200
+The Chat Room~
+You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
+which twinkles happily in a warm fireplace.  This is one of the many rooms
+where the heroes and gods come to socialize.  It is by far one of the most
+comfortable!
+~
+0 8 0
+D2
+Exit ~
+door~
+1 0 1216
+S
+#1201
+Moses' Hangout~
+You see here a cozy little room with a fireplace.  You can tell it is Moses'
+room by the two stone tablets, the bible, and the pair of sand-covered
+sandles.
+~
+0 8 0
+D0
+Exit ~
+door~
+1 0 1216
+S
+#1202
+The Center of the Universe~
+You are at the centre of the universe, everything is filled with bright
+light in all colors. You feel time and space no longer exist here.
+Exits fill the room in all 42 dimensions, leading everywhere.
+~
+0 0 0
+D1
+Exit ~
+~
+0 -1 1213
+S
+#1203
+Valhalla~
+This is the huge Hall of Valhalla, where the Gods rule supreme.  The
+cavernous building stretches infinitely in all directions.  Valhalla
+continues to the east, and the gods make their homes north and south of
+the halls.  The golden gates are to the west.  You know not what lies
+upward...
+~
+0 8 0
+D0
+Exit ~
+door~
+1 -1 1209
+D1
+Exit ~
+~
+0 -1 1217
+D2
+Exit ~
+door~
+1 -1 1208
+D3
+Exit ~
+~
+0 -1 1216
+D4
+Exit ~
+door~
+1 0 1205
+S
+#1204
+Priscilla's Pleasure Palace ~
+As you look around you, you see the largest collection of erotic toys
+in the world!!!  On a table in the middle of the room lies a book titled :
+"All You Ever Wanted to Know About Sex..But Were Afraid to Ask"
+There are things here that you never even imagined in your wildest dreams!
+~
+0 8 0
+D0
+Exit ~
+door~
+1 -1 1218
+S
+#1205
+The Eye of the Hurricane~
+The shrieking winds of a monstrous storm surround you, spinning you around
+in an endless web of fury. But then, in the middle of turmoil, you find a
+strange calm. You find yourself hovering in the calm eye of a hurricane. All
+around you you can see the desruction caused by the powerful storm. White
+hot flashes of lightning flicker from the depths of the hurricane.  But
+everything is strangely peaceful in here, with the sun shining in from above
+and a flock of birds winging across the sky.  You stretch out and relax, this
+storm is going to be here a while.
+~
+0 24584 9
+D5
+Exit ~
+door~
+1 0 1203
+S
+#1206
+Walking on the Moon~
+The proud and lonely silence of Mare Imbrium surrounds you, as you gaze upon
+the sterile splendor of the moon.  All around is the velvet curtain of night,
+studded with a thousand gleaming jewels.  Below you hangs the beautiful
+fields of Earth, looking fragile and far away, but full of hope.  A sense of
+wistful regret touches you, as you think about what might have been, and what
+will be.
+~
+0 0 0
+E
+crater mare imbrium~
+A small shipping tag is pinned to the ground with a worn hunting knife.
+Upon it is a dedication to Robert Anson Heinlein, the father of the future.
+~
+D5
+Exit ~
+door~
+1 0 1217
+S
+#1207
+The Satin Memorial Reading Room~
+Half read books lie everywhere: Yeats, Tennyson, Chandler, Barrie;
+a battered paperback de Laclos; a dusty leather-bound Donne.  A
+damp novel perches precariously on the edge of a large bathtub.
+As your eyes travel beyond the steam rising to the air toward the
+rose-brambled balcony railing, you notice a well-creased printout
+of a poem sitting on a the velvet cushions of a rosewood chair
+that has been set so as to see the stark black mountains
+from one angle, or the wine-dark sea from another.
+~
+0 8 4
+E
+rose rose-brambled balcony railing~
+Climbing white roses have swarmed over the original marble to obscure
+it almost completely.  The air is sweet not with roses, though,
+but with Satin's sandalwood perfume.
+~
+E
+rosewood chair~
+It looks comfortable, and the cushions are ivory velvet.
+~
+E
+stark black mountains wine wine-dark dark sea~
+The ocean is constantly smashing up against the cliffs and rending
+huge slabs from it.  The beach is scarcely a beach at all, more a
+collection of rough flakes varying in size from a small car to a
+small fist.  As the water comes up over the rocks and ebbs back
+down, it filters through the spaces and makes an unnerving rattling
+sound.
+~
+E
+print out print-out creased well poem~
+This page has been read over so many times that you can barely discern
+the words, and in fact with much poring only the following becomes
+clear:
+        'I know that I am studly - Heck, I'm sexy, cute and cuddly
+         And I know that I'm extremely modest too.'
+~
+E
+yeats~
+The page it is flipped open to reads:
+
+A sudden blow: the great wings beating still
+Above the staggering girl, her thighs carressed
+By the dark webs, her nape caught in his bill,
+he holds her helpless breast upon his breast.
+How can those terrified vague fingers push
+The feathered glory from her loosening thighs?
+And how can body, laid in that white rush,
+But feel that strange heart beating where it lies?
+A shudder in the loins engenders there
+The broken wall, the burning roof and tower
+And Agammemnon dead.  Being so caught up,
+So mastered by this brute blood of the air,
+Did she put on his knowledge with his power
+Before his indifferent beak could let her drop?
+~
+E
+chandler~
+She has just started the Lady in the Lake:
+
+Gillerain Regal, the Champagne of Perfumes.  It was definitely
+the stuff to get.  One drop of that in the hollow of your
+throat and the matched pink pearls started falling off you like
+summer rain.
+~
+E
+barrie~
+A copy of Peter Pan is opened near the end:
+
+What sort of form was Hook showing?  Misguided man though he
+was, we may be glad, without sympathising with him, that in
+the end he stayed true to the traditions of his race.  The
+other boys were flying about him now, flouting, scornful; and
+as he staggered about the deck striking at them impotently, his
+mind was no longer with them; it was slouching in the playing
+fields of long ago, or being sent up for good, or watching
+the wall-game from a famous wall.  And his shoes were right,
+and his waistcoat was right, and his tie was right, and his
+socks were right.
+
+James Hook, thou not wholly unheroic figure, farewell.
+~
+E
+tennyson~
+.       "My mariners
+         Souls that have toiled, and wrought, and thought with me -
+         The ever with a frolic welcome took
+         The thunder and the sunshine, and opposed
+         Free hearts, free foreheads - you and I are old;
+         Old age hath yet his honour and the toil
+         Death closes all; but something ere the end,
+         Some work of noble note, may yet be done,
+         Not unbecoming of men that strove with the gods.
+         The lights begin to twinkle from the rocks;
+         The long day wanes; the slow moon climbs; the deep
+         Moans round with many voices."
+~
+E
+battered paperback de Laclos~
+.       'One is very soon bored of everything, my angel; it is a law
+        of nature.  It is not my fault.
+        If, that is to say, that I am bored with an adventure that has
+        claimed my attentions for four mortal months, it is not my fault.
+        If, that is to say, my love is equal to your virtue - and that
+        is certainly saying a great deal - it is not surprising that
+        one should come to the end at the same time as the other.  It
+        is not my fault.
+        A woman that I love madly now insists that I give you up for
+        her.  It is not my fault.
+        I quite realize that this is the perfect opportunity to accuse
+        me of perjury: but if, where nature has gifted men with no
+        more than constancy, she has given women obstinacy, it is
+        not my fault.
+        Believe this, you should take another lover, even as I take
+        another mistress.  This is good, very good advice: if you
+        find it bad, it is not my fault.
+        Good-bye, my angel.  I took you with pleasure, I leave you
+        without regret.  I shall come back perhaps.  Such is life.
+        It is not my fault.
+~
+E
+dusty leather bound leather-bound Donne~
+.       `Cruel and sudden, hast thou since
+        Purpled thy nail in blood of innocence?
+        Wherein could this flea guilty be,
+        Except in the drop it sucked from thee?
+        Yet thou trimph'st and say'st that thou
+        Find'st not thyself, nor me the weaker now;
+          'Tis true, then learn how false fears be:
+          Just so much honour when thou yield'st to me
+          Will waste as this flea's death took life from thee.'
+~
+D2
+Exit ~
+door~
+1 -1 1217
+S
+#1208
+A Sea Cave~
+You are in a small cave in a cliff next to a deep green sea.  Fine
+gold and pink sand blanket the floor.  Shells are scattered and strewn
+about.  A blow hole in the roof of the cave allows beams of light to stream
+in and illuminate the cave.  The wind blows outside the entrance, but
+you are protected from the weather in your cozy cave.  The foamy surf
+never seems to quite reach your feet.  Several boulders here have been
+worn by time into a shape similar to a comfortable chair.
+~
+0 8 0
+D0
+Exit ~
+door~
+1 -1 1203
+S
+#1209
+The Archmage's Workroom~
+This well-lit room is absolutely filled with clutter-- enchanting gear,
+reagents, spell components, ancient tomes, scrolls, braziers, exotic incense
+and countless other tools of the magical trade, all jumbled together with
+seemingly no attention paid to organization.  You have no doubts that
+the owner can find whatever he needs without delay, however.  A heavy oak
+door stand to the south.
+~
+0 8 0
+E
+tools scrolls braziers components~
+It's all worth a fortune, but you'd better not touch it.  Alander keeps
+inventory and holds grudges.
+~
+E
+clutter mess~
+You notice Jimmy Hoffa's ring.
+~
+D2
+Exit ~
+door~
+1 -1 1203
+S
+#1210
+Office~
+The first thing you notice about this office is the floor; it
+is a black & white checkerboard pattern, with 8 squares to a side.  The
+south wall is a HUGE picture window that produces a magnificent view of
+the land.  In front of the window is a large desk.  Completely covering
+the east wall is a bookshelf, that is crammed full.  In the northwest
+corner, you notice a statue.
+~
+0 8 0
+E
+desk~
+This desk is much larger than anyone could possibly need.  At one end you
+notice a large, disorderly mass of papers; it must be all his immortal
+paperwork.  At the other end is a magnificent wooden inlaid board with
+handcrafted ebony and hardwood pieces.
+~
+E
+statue~
+You recognize this as a statue of Robert James Fischer, one of the most
+creative, if not eccentric, players of all time.  The inscription on the
+base reads, "I like the moment when I crush a man's ego."
+~
+E
+bookshelf~
+This is the most amazing collection of chess books you have ever seen.
+Everything from Damiano's manuscripts, to a complete collection of the
+Encyclopedia of Chess Openings, to the latest Imformants are all here.
+~
+E
+sign~
+If you're reading this, you probably logged to find yourself here.  That
+usually means Avacar had some reason to access you while you were gone, but
+that you aren't in trouble as you didn't find yourself in the Realm of the
+Dead.  
+~
+D0
+Exit ~
+door~
+1 -1 1217
+S
+#1211
+Arena of Judgement~
+The scene lain before you is one that gives you the feeling of being placed
+under a higher authority.  The jury is out.  A statue of Pontius Pilate is
+in the aft of the Arena.  Staring balefully, the statue faces a distant
+hillside where many aged crosses still stand.  The Arena is set in a wide
+pit-like field of trampled bloodstained grass, and is guarded by high walls
+of veinous marble.  A bloodstone seat awaits the true paragon of Romanity.
+~
+0 12 0
+E
+statue~
+A statue of Pontius Pilate is here.  On it's face is the expression of some
+age old contemplation.  Standing at the statues bronzy feet is a Blood red
+shield that glimmers like a pool of blood.
+~
+S
+#1212
+The Realm of the Dead~
+You are standing on an immense, grey stone floor that stretches as far as you
+can see in all directions.  Rough winds plunging from the dark, starless sky
+tear savagely at your fragile body.
+~
+0 269231112 0
+E
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+~
+E
+floor~
+The stone floor is the same shade of grey as the sky and is completely plain
+and unscratched.  It is probably too hard for anything to leave as much as a
+scratch on it.
+~
+D0
+Exit ~
+~
+0 -1 1212
+D1
+Exit ~
+~
+0 -1 1212
+D2
+Exit ~
+~
+0 -1 1212
+D3
+Exit ~
+~
+0 -1 1212
+S
+#1213
+Asgard~
+You stand on a huge expanse of glass.  Below you are clouds and the
+pains of mortality.  As you stand in Asgard, home of the bravest of the
+brave, you are frozen in awe of the power held within these walls.  A
+huge mansion lies to the east beyond a set of magnificent golden doors.
+~
+0 0 0
+D1
+Exit ~
+~
+0 -1 1216
+D3
+Exit ~
+~
+0 -1 1202
+D5
+Exit ~
+~
+0 -1 1215
+S
+#1214
+The Room of Lost Souls~
+This is the room full of souls that never made it to Asgard.  They are
+trapped here eternally, left to wander about in misery.  They were infidels
+and cowards.  Their cries of misery send a shiver down your spine.
+~
+0 8 0
+D5
+Exit ~
+~
+0 -1 1219
+S
+#1215
+Head of the Rainbow Bridge~
+Standing on the mortal end of the Rainbow Bridge, the bridge arches up
+before you and seems to disappear into the clouds.  You wonder if it is
+wise to venture upward into the realm of the gods.  But it seems so calm
+and peaceful here that it would be a shame to leave...
+~
+0 0 1
+D4
+Exit ~
+~
+0 -1 1220
+D5
+Exit ~
+~
+0 -1 3054
+S
+#1216
+The Entrance of Valhalla~
+The huge ornate entrance of Valhalla is before you.  The locks on the
+golden doors were torn off when the mortals from Midgaard stormed the
+mansion in support of Bosco's children.  You are tempted to explore the
+secrets that were held behind the doors and you long to hear the stories
+of bravery and glory that you know are kept within the walls of Valhalla.
+~
+0 0 1
+D0
+Exit ~
+door~
+1 0 1200
+D1
+Exit ~
+~
+1 -1 1203
+D2
+Exit ~
+door~
+1 0 1201
+D3
+Exit ~
+~
+0 -1 1213
+S
+#1217
+Valhalla~
+You are standing in the halls of Valhalla.  Pictures of Delstar, Maclav,
+Daisy, Gothic, and Galad line the walls.  The cavernous hall extends
+to the east and west.  Rooms belonging to the gods lie to the north and
+south.  There appears to be an exit above you, but you do not know what it
+up there...
+~
+0 8 0
+D0
+Exit ~
+door~
+1 -1 1207
+D1
+Exit ~
+~
+0 -1 1218
+D2
+Exit ~
+door~
+1 -1 1210
+D3
+Exit ~
+~
+0 -1 1203
+D4
+Exit ~
+door~
+1 0 1206
+S
+#1218
+Valhalla~
+You are standing in the halls of Valhalla.  Tapestries of gods line
+the walls.  A statue of Bosco is here.  The halls continue to the east and
+west, and there are doors to the north and south of you.  There is some
+sort of exit above you, but you do now know where it leads...
+~
+0 8 0
+E
+bosco~
+The statue of Bosco has been exquisiely crafted.  It is of white marble
+with black and gold veins.  It looks to be of magical origin.
+~
+D1
+Exit ~
+~
+0 -1 1219
+D2
+Exit ~
+door~
+1 -1 1204
+D3
+Exit ~
+~
+0 -1 1217
+D4
+Exit ~
+door~
+0 0 1222
+S
+#1219
+Valhalla~
+You have reached the end of the halls of Valhalla.  There are heavy locked
+doors on 3 walls.  What is behind them is unknown.  The hall goes back to
+the west, and there is some sort of an exit above you.  Torches sputter
+softly and the scent of incense is strong here.
+~
+0 8 0
+D0
+Exit ~
+~
+2 1200 3161
+D1
+Exit ~
+~
+2 1200 3150
+D2
+Exit ~
+~
+2 1200 3170
+D3
+Exit ~
+~
+0 -1 1218
+D4
+Exit ~
+~
+0 -1 1214
+S
+#1220
+On the Rainbow Bridge~
+You have reached the center of the Rainbow Bridge.  Clouds and mist swirl
+around your feet.  The view from here is incredible.  It is little wonder
+that the heavens were saved for the gods personal pleasures.
+~
+0 0 1
+E
+clouds~
+The clouds are beautiful.  There are shades of gray, pink and purple swirled
+into the blue sky.
+~
+D4
+Exit ~
+~
+0 -1 1221
+D5
+Exit ~
+~
+0 -1 1215
+S
+#1221
+The End of the Rainbow Bridge~
+You have reached the end of the Rainbow Bridge.  Asgard stretches out above
+you.  Looking around, you search for the legendary guardian of Asgard.  The
+clouds are far below you and a sense of beauty and peacefulness surrounds you.
+~
+0 8 3
+D4
+Exit ~
+~
+0 -1 1213
+D5
+Exit ~
+~
+0 -1 1220
+S
+#1222
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 8 1
+D5
+Exit ~
+door~
+0 0 1218
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 1200 2 1
+D 0 1201 0 1
+D 0 1203 0 1
+D 0 1203 2 1
+D 0 1203 4 2
+D 0 1204 0 1
+D 0 1205 5 1
+D 0 1206 5 1
+D 0 1207 2 1
+D 0 1208 0 1
+D 0 1209 2 1
+D 0 1210 0 1
+D 0 1216 0 1
+D 0 1216 1 1
+D 0 1216 2 1
+D 0 1217 0 1
+D 0 1217 2 1
+D 0 1217 4 1
+D 0 1218 2 1
+D 0 1219 0 2
+D 0 1219 1 2
+D 0 1219 2 2
+O 0 3135 0 1200
+O 0 3200 0 1200
+M 1 1200 1 1221 1
+G 0 1200 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

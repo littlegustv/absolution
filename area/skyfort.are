@@ -1,0 +1,1163 @@
+#AREADATA
+Name Sky Fortress~
+Builders None~
+VNUMs 5600 5699
+Credits {45 51} Crystan     The Sky Fortress~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#5600
+security guard~
+the security guard~
+The security guard screams and prepares to strike!
+~
+The security guard is a huge hobgoblin.  His muscles ripple through,
+showing his veins, which are flowing with a strangly colored blood.  He
+raises his sword high, and proceeds to eradicate you.  
+~
+hobgoblin~
+ABG DFHJ -500 0
+45 -1 25d10+3000 1d1+100 8d4+16 smash
+-15 -15 -15 -10
+EFK AB LQ EFNP
+stand stand male 2400
+AHMVc ABCDEFGHIJKY large 0 the guilds~
+#5601
+drunk soldier~
+A drunk soldier~
+A young soldier is here, looking drunk and haggard.
+~
+A soldier stands here.  He mixes in with the crowd, and he adds to the
+supply of noise.  His body looks like the devil himself.  
+~
+modron~
+ACG JT -500 0
+40 0 15d10+1850 1d1+100 4d8+13 pound
+-13 -13 -13 -9
+EFKMQR BMNPQ HIK 0
+sit stand male 2100
+AGHMNVc ABCDEFGHIJKLMNOPQUVWXY large 0 the guilds~
+#5602
+sleeping soldier~
+a sleeping soldier~
+A soldier is sleeping here, having some peaceful dreams.
+~
+This soldier seems to be having a peaceful rest. Want to end it?
+~
+human~
+ACG T -700 0
+45 0 25d10+3000 1d1+100 8d4+16 wrath
+-15 -15 -15 -10
+0 0 0 0
+sleep sleep male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5603
+soldier~
+a soldier in training~
+A soldier in training does combat with an opponent.
+~
+The soldier in training says "Get out of my way you little $#%#^^!"  Want
+to train with the soldier?  
+~
+elf~
+ABFG J -700 0
+46 0 25d10+3250 1d1+100 6d6+16 smash
+-17 -17 -17 -12
+0 0 BE Z
+stand stand either 1200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5604
+captain guards~
+the captain of the guards~
+The captain of the guards is here, supervising the fights.
+~
+The captain of the guards is big, bad, lean and mean.  If you mess with
+him, you're in for some big trouble. 
+~
+human~
+ABFG J -1000 0
+50 0 50d10+4500 1d1+100 5d8+19 slash
+-20 -20 -20 -16
+0 0 0 0
+stand stand male 2100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5605
+fire elentica gargantuan creature~
+the Fire Elentica~
+This gargantuan creature has no mercy for pitiful adventurers....like you.
+~
+The Fire-Elentica is mean.  His muscles ripple through his seemingly
+thick dragonscale, and he holds a sword that you would one day like to put
+in your trophy case.  
+~
+red dragon~
+ABCGT JT -1000 0
+48 -1 25d10+3750 1d1+100 6d6+18 smash
+-18 -18 -18 -13
+EF 0 BEH I
+stand stand male 4100
+BHMXZc ABCDEFGHIJKLPQUVWX giant 0 the guilds~
+#5606
+The storekeeper~
+The storekeeper~
+The storekeeper is here, grinning at you
+~
+The storekeeper is a lanky old fellow. He smiles at you.
+~
+human~
+ABG 0 0 0
+51 5 50d10+5000 1d1+100 5d8+20 pound
+-21 -21 -21 -21
+0 ABa 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5607
+bartender~
+a bartender~
+A bartender stands here, ready to take an order.
+~
+The bartender looks like he is just as drunk as the others.  He is ready
+for any food or drink you want.  
+~
+human~
+ABG V -1000 0
+49 -1 50d10+4000 1d1+100 4d10+18 pound
+-19 -19 -19 -10
+FN 0 0 0
+stand stand male 2600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5608
+waitress~
+a waitress~
+The waitress wears raggedy clothes and probably works for minimum wage.
+~
+The waitress looks so frail that you could finish her off in one blow. 
+She is also drunk.  
+~
+human~
+ABG V -1000 0
+49 -1 50d10+4000 1d1+100 4d10+18 scratch
+-19 -19 -19 -10
+FN 0 0 0
+stand stand female 2600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5609
+chef~
+the chef~
+The chef stands here, barking out orders
+~
+The chef doesn't want to be disturbed right now.
+Maybe you should leave him alone for a while?
+~
+human~
+ABG 0 -600 0
+42 0 25d10+2250 1d1+100 3d12+14 thrust
+-14 -14 -14 -7
+D AB 0 0
+stand stand male 3800
+AHMV ABCDEFGHIJK large 0 the guilds~
+#5610
+fancy retired general~
+a fancy, retired general~
+An old general, wearing a tuxedo, is singing here.
+~
+An old general in a black tuxedo is singing a low tune.  He does not look
+like the type to be bothered, and has no visible weapons with him.  
+~
+human~
+ABGH 0 -1000 0
+51 0 50d10+5000 1d1+100 5d8+20 pound
+-21 -21 -21 -17
+0 0 0 0
+stand stand male 2800
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5611
+master fortress~
+the master of the Sky Fortress~
+The master of the Sky Fortress becomes greatly perturbed by your presence.
+~
+VERY big. VERY bad. Want to take her on?
+~
+human~
+AG 0 -1000 0
+52 -1 50d10+5500 1d1+100 6d7+20 shock
+-22 -22 -22 -17
+CD ABK 0 0
+stand stand female 500
+AHMVc ABCDEFGHIJK giant 0 the guilds~
+#5612
+hungry soldier~
+a hungry soldier~
+A hungry soldier is here, looking for some food.
+~
+The soldier's face is twisted in a grimace of hunger.
+~
+human~
+ABG JV -700 0
+50 0 50d10+4500 1d1+100 5d8+19 none
+-20 -20 -20 -15
+FHKU 0 0 0
+stand stand male 1900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5613
+raiden thundercloud~
+{BRaiden {DThundercloud{x~
+Crackling with energy, {BRaiden {DThundercloud{x watches you.
+~
+A tall man dressed in tight fitting linens is here. Lightning bolts
+arch around him, causing your hair to stand on end. If you are able to
+defeat him, you will be one step closer to crafting a powerful katana.
+~
+human~
+AGT CHNOTUZ 0 0
+55 5 50d10+7000 1d1+100 10d4+23 shbite
+-25 -25 -25 -25
+ACDEFHKMNO ABa CD 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#5600
+hobgoblin sword~
+a hobgoblin sword~
+A sword, once possessed by a general, lies here.~
+steel~
+weapon AG AN
+sword 5 7 cleave A
+43 100 2400 P
+A
+18 1  
+A
+19 1  
+A
+13 10  
+#5601
+beautiful fountain~
+a beautiful fountain~
+A beautiful fountain gushes water here.~
+stone~
+fountain Y 0
+1000 1000 'water' 0 0
+0 5 0 P
+#5602
+rusty broken dagger~
+a rusty, broken dagger~
+A rusty, broken dagger lies here, looking as worthless as it can be.~
+bronze~
+weapon GM AN
+dagger 4 9 thwack J
+40 50 2000 P
+#5603
+torn cape~
+a torn cape~
+A cape, with a huge tear down the middle, is piled in the corner.~
+wool~
+armor G AC
+9 9 9 0 0
+41 50 1900 P
+A
+19 -3  
+A
+18 -2  
+#5604
+lantern~
+a dim lantern~
+A lantern with a small amount of fuel left burns here.~
+metal~
+light 0 A
+0 0 5 0 0
+0 50 1000 P
+#5605
+rotted corpse bat~
+a rotted corpse~
+A corpse of a very large bat is here, partially rotted.~
+bone~
+trash 0 A
+0 0 0 0 0
+0 100 3100 P
+#5606
+plain couch~
+a plain couch~
+A plain couch lies here, looking very comfortable.~
+wood~
+furniture Y 0
+5 5000 BEHK 100 100
+0 5 0 P
+#5607
+bunk bed~
+a bunk bed~
+A huge, long bunk bed lines one side of the room.~
+wood~
+furniture Y 0
+2 2000 BEHK 100 100
+0 5 0 P
+#5608
+teddy bear~
+a teddy bear~
+A cute widdle teddy bear lies here. It has a slit in the back.~
+felt~
+container Y AO
+300 A 0 10 75
+15 20 0 P
+A
+13 20  
+A
+1 2  
+#5609
+beer splotched sword~
+a beer-splotched sword~
+The sword has large brown discolorations on it.~
+metal~
+weapon 0 AN
+sword 5 7 slash 0
+42 100 2100 P
+A
+1 2  
+A
+17 -4  
+#5610
+fountain~
+a fountain~
+A fountain gushes here.~
+stone~
+fountain 0 0
+1000 1000 'water' 0 0
+0 5 0 P
+#5611
+elentica flail~
+an elentica flail~
+This flail's flames lick you lightly, as the sleek obsidian reflects the sunlight.~
+obsidian~
+weapon 0 AN
+flail 6 6 smash A
+45 90 3200 P
+#5612
+aquarium~
+an aquarium~
+An aquarium filled with tropical fish rests here.~
+glass~
+fountain Y 0
+500 500 'water' 0 0
+25 5 0 P
+#5613
+giant cleaver~
+a giant cleaver~
+A giant cleaver lies here, its edge bloodied.~
+mithril~
+weapon 0 AN
+axe 4 8 slice D
+40 50 2100 P
+#5614
+painting~
+a painting~
+A beautiful painting hangs on the wall.  You admire its beauty.~
+wood~
+none 0 0
+0 0 0 0 0
+0 5 0 P
+#5615
+piano~
+a piano~
+A baby grand piano plays a simple but lovely tune.~
+wood~
+furniture GY 0
+2 2000 EHK 100 100
+0 150 0 P
+#5616
+sculpture~
+a sculpture~
+A fine sculpture rests here.~
+stone~
+furniture 0 0
+0 0 0 0 0
+0 100 0 P
+E
+sculpture~
+It is a magnificent sculpture!
+~
+#5617
+masters armor platemail~
+the Master's armor~
+A giant piece of platemail rests here.~
+mithril~
+armor 0 AD
+11 11 11 5 0
+45 350 3300 P
+#5618
+sky fortress arm bands~
+a pair of Sky Fortress arm bands~
+A pair of arm bands, embroidered with clouds, are here.~
+cloth~
+armor 0 AI
+10 10 10 2 4
+45 50 2200 P
+A
+19 1  
+A
+23 -2  
+#5619
+piece aluminum~
+a piece of aluminum~
+A piece of aluminum crackles as you step on it.~
+metal~
+armor AGL AJ
+11 11 11 4 0
+45 50 1900 P
+A
+9 25  
+#5620
+raiden thunderbolt~
+an arch of raiden's thunderbolts~
+A crackling arch of thunderbolt floats here tangibly.~
+thunder~
+wand ABG AOY
+50 2 2 'chain lightning' 0
+50 10 5000 P
+#0
+
+
+
+#ROOMS
+#5600
+In a cloud~
+You are in a cumulus nimbus cloud.  The water vapor stings your face as
+you ascend upwards towards your destiny.
+~
+0 0 9
+D4
+Exit ~
+~
+0 -1 5601
+D5
+~
+~
+0 0 5631
+S
+#5601
+In the sky~
+Soaring upwards from the cloud, you are in the sky.  The view here is
+incredible.  You are glad that at once the burden of adventuring is left on
+the ground.  The Sky Fortress looms above you as you proceed towards it from
+the east.  
+~
+0 0 9
+D3
+Exit ~
+~
+0 -1 5602
+D5
+Exit ~
+~
+0 -1 5600
+S
+#5602
+Approaching the Sky Fortress~
+You fly westward toward the Sky Fortress.  You can already tell from far
+away, that it is magnificent and would be hard to bring down.  Tall ,narrow
+windows line the walls, reinforced with steel.  A long tower stretches up
+into more clouds, and the apex is nowhere to be seen.  
+~
+0 0 9
+D1
+Exit ~
+~
+0 -1 5601
+D3
+Exit ~
+~
+0 -1 5603
+S
+#5603
+The front gate~
+You can barely touch your feet on the ground, the guards there put you
+through a routine of security tests.  With a final nod, they let you
+proceed, unlatching the sky-blue steel gates.  A magnificent palace opens up
+to you.  
+~
+0 0 9
+D1
+Exit ~
+~
+0 -1 5602
+D3
+Exit ~
+gate~
+1 -1 5604
+S
+#5604
+In the front room~
+The front room is extraordinary.  The carpets are made of the finest
+material ever engineered.  Sunlight streams in through the tall narrow
+windows, reflecting off a large, gushing fountain.  Doors surround you in
+all directions.  
+~
+0 8 0
+D0
+Exit ~
+door~
+1 -1 5605
+D1
+Exit ~
+gate~
+1 -1 5603
+D2
+Exit ~
+door~
+1 -1 5607
+D3
+Exit ~
+door~
+1 -1 5606
+S
+#5605
+A closet~
+Rubble and junk surround you, but you can pick out some small objects
+that might be useful.  You sneeze at the dust that abounds in this closet
+and there appears to be no other exits but south.  
+~
+0 8 0
+D2
+Exit ~
+door~
+1 -1 5604
+S
+#5606
+A long hallway~
+You stand at the beginning of a long hallway.  Your footsteps echo off
+the marble walls.  You adjust your vision to the dim lighting.  
+~
+0 8 0
+D1
+Exit ~
+door~
+1 -1 5604
+D3
+Exit ~
+~
+0 -1 5608
+S
+#5607
+A stairway~
+Dusty old cobwebs brush against your face as you climb up a stairway. 
+The top of the stairway is bathed in darkness.  No people are to be seen.  
+~
+0 8 0
+D0
+Exit ~
+door~
+1 -1 5604
+D4
+Exit ~
+~
+0 -1 5616
+S
+#5608
+Long Hallway~
+Your footsteps echo off the walls.  You look back and see that the
+entrance to the hallway has vanished.  
+~
+0 8 0
+D1
+Exit ~
+~
+0 -1 5606
+D3
+Exit ~
+~
+0 -1 5609
+S
+#5609
+Long Hallway~
+You continue along the seemingly endless hallway.  There is no one to be
+seen.  
+~
+0 8 0
+D1
+Exit ~
+~
+0 -1 5608
+D3
+Exit ~
+~
+0 -1 5610
+S
+#5610
+Long Hallway~
+Shadows from torchlights dance to the west.  The hallway continues to the
+east and west.  
+~
+0 8 0
+D1
+Exit ~
+~
+0 -1 5609
+D3
+Exit ~
+~
+0 -1 5611
+S
+#5611
+End of the Hallway~
+You stand at the end of a long hallway.  Exits lead out in every
+direction, except for above and below.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 5613
+D1
+Exit ~
+~
+0 -1 5610
+D2
+Exit ~
+~
+0 -1 5615
+D3
+Exit ~
+door~
+1 -1 5612
+S
+#5612
+The sleeping quarters~
+You are in the sleeping chambers of the Sky Fortress.  Surprisingly, this
+is very small, yet all of the soldiers of the Sky Fortress can fit into
+here.  You feel obligated to sit down and rest.  
+~
+0 524296 0
+D1
+Exit ~
+door~
+1 -1 5611
+S
+#5613
+The training room~
+You enter the training room and you are met with instant clanging of
+swords.  You can barely dodge the swiping of blades.  Dummies line one side
+of the room, sliced to bits.  You can hear the screams of death of monsters
+slain by soldiers for practice.  Amidst all this chaos, you can see exits to
+the north and south.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 5614
+D2
+Exit ~
+~
+0 -1 5611
+S
+#5614
+Soldier's Bar and Lounge~
+The soldier's bar is filled with soldiers having a good time.  Loud music
+fills the air.  This seems like a perfect place for a brawl to begin, and
+two or three brawls have already started.  A fancy fountain is in the center
+of the room.  
+~
+0 8 0
+D2
+Exit ~
+~
+0 -1 5613
+S
+#5615
+A glass room~
+You walk into a room that has glass walls.  You can see out to the lands
+in all directions.  Storm clouds have gathered around the land below, and
+you are glad you came before you had to come through the lightning.  The
+floor jerks, and you are brought back to reality.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 5611
+S
+#5616
+Going up..~
+Climbing the stairs proves to be a bothersome chore.  All you hear is the
+drip...  Drip..  Drip..  Of water.  You can see a light above you.  
+~
+0 9 0
+D4
+Exit ~
+~
+0 -1 5617
+D5
+Exit ~
+~
+0 -1 5607
+S
+#5617
+End of the stairway~
+You have finally reached the end of the stairway.  Looking down, you see
+that the entrance is bathed in darkness.  A sign reads "Now entering Second
+Floor".  A slot for a security card is on it.  It appears deactivated.  To
+the east is an air vent. 
+~
+0 8 0
+D0
+Exit ~
+door~
+1 -1 5618
+D1
+Exit ~
+~
+0 -1 5620
+D5
+Exit ~
+~
+0 -1 5616
+S
+#5618
+Second Floor of the Sky Fortress~
+You are standing on the second floor of the Sky Fortress.  This place is
+usually reserved for generals, captains, and the Master of the Sky Fortress.
+Servants scurry to and fro doing their master's orders.  Sunlight streams in
+from a window.  There is an exit to the west, to the south a large steel
+door rests in the doorway.  
+~
+0 0 0
+D2
+Exit ~
+door~
+1 -1 5617
+D3
+Exit ~
+~
+0 -1 5619
+S
+#5619
+Hallway~
+This hallway is elegantly decorated.  A piano plays in the background,
+while exotic fish swim around in an aquarium.  Pictures of great generals,
+captain, and the Master line the walls.  To the north you spot the Sky
+Fortress mess hall.  East and west are more hallway.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 5621
+D1
+Exit ~
+~
+0 -1 5618
+D2
+Exit ~
+~
+0 -1 5625
+D3
+Exit ~
+~
+0 -1 5626
+S
+#5620
+A dusty room~
+This room seems to be nothing more than some furniture and dust.  You
+cough.  Then, out of the mist, a person appears.  
+~
+0 0 0
+D3
+Exit ~
+~
+0 -1 5617
+S
+#5621
+Mess hall~
+The mess hall lives up to its name-what a mess!  Soldiers seem to be
+complete slobs here.  Food, empty glasses, and candy bar wrappers litter the
+room.  The soldiers seem to be having a food fight.  Tables are arranged
+into neat rows.  To the north is more mess hall, and to the south is the
+hallway.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 5622
+D2
+Exit ~
+~
+0 -1 5619
+S
+#5622
+In the mess hall~
+You are standing at the very center of a FOOD FIGHT!  Bananas, spilt
+milk, and chips litter the floor.  You almost have to duck to dodge the
+fire.  You can stumble along north to the kitchen.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 5623
+D2
+Exit ~
+~
+0 -1 5621
+S
+#5623
+Kitchen~
+The kitchen meets regular sanitary codes.  Spatulas and other kitchen
+equipment lay scattered on a counter.  The warm smell of bread drifts from
+an oven.  The glossy tile floor squeaks as you walk across it.  North is
+more kitchen, and south you may return to the chaos of the mess hall.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 5624
+D2
+Exit ~
+~
+0 -1 5622
+S
+#5624
+Kitchen~
+Rows and rows of knives line the walls.  Chefs, cook's assistants, and
+some cooks scurry about, preparing more food for the food fight.  Your boots
+squeak on the glossy white tile floor.  The drifting smell of bread arises
+from an oven.  Sanitary posters are posted all over the walls, to remind
+cooks-in-training to clean up!  Exits are back to the south 
+~
+0 8 0
+D2
+Exit ~
+~
+0 -1 5623
+S
+#5625
+The Culture Room~
+A far cry from the bar, this room is for the eloquent members of the
+elite force.  Paintings and sculptures adorn the room, while a piano plays
+and a fancy general sings.  A large cabinet lines one side of the room,
+while a bay window shows you the storm increasing in ferocity.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 5619
+S
+#5626
+The lookout point~
+Rows and rows of telescopes line a wall.  From below, you see a storm
+brewing.  This room is pretty much bare.  Everyone here seems to be looking
+out in some sort of direction in a telescope.  Next to them is a red button,
+pushed only to notify the Master of an attack.  Should you push it?  Heh heh
+heh..  Northwards, a large steel door sits in a huge frame, southwards lies
+a room, the hallway begins to the east.  
+~
+0 8 0
+D0
+Exit ~
+door~
+1 -1 5628
+D1
+Exit ~
+~
+0 -1 5619
+D2
+Exit ~
+~
+1 -1 5627
+S
+#5627
+Lookout Storage Closet~
+A dim light emits enough to see.  This closet seems to be more tidy, for
+there is no dust.  There is no junk to take.  This is one of those rooms
+with almost no purpose.  I suggest you go back to the north.  
+~
+0 8 0
+D0
+Exit ~
+~
+1 -1 5626
+S
+#5628
+Another stairway~
+Glass walls surround you as you climb up to the third floor of the Sky
+Fortress.  The glass steps squeak under your boots as you traverse this
+stairway.  
+~
+0 8 0
+D2
+Exit ~
+door~
+1 -1 5626
+D4
+Exit ~
+~
+0 -1 5629
+S
+#5629
+Stairway~
+You are in space now!!  Where you came stretches far below you.  The view
+here is quite impressive.  You may return to where you came to the down or
+you can go see what's on the third floor.  
+~
+0 8 0
+D4
+Exit ~
+~
+0 -1 5630
+D5
+Exit ~
+~
+0 -1 5628
+S
+#5630
+The master's chambers~
+You enter the master's chambers and are suddenly assaulted by perfumes,
+and an assortment of other scents.  Candles decorate the room, and in the
+middle is a large throne with a cushion on it.  On one side is a desk with a
+book on it, on the other side lies a large bed.  The south wall is lined
+with unidentifiable items.  The north wall is completely covered with
+drawers.  A diagram of every race on Terra sits on top of it.  Upwards lies
+a huge, swirling vortex encased in glass.  
+~
+0 8 0
+D5
+Exit ~
+~
+0 -1 5629
+S
+#5631
+The Blue Sky~
+You fly high through the air over a large field.  The wind whips your
+hair in front of your eyes.  Above you lies a large white cloud, blue
+skys continue to the east and south.
+~
+0 0 9
+D1
+~
+~
+0 0 5632
+D2
+~
+~
+0 0 5634
+D4
+~
+~
+0 0 5600
+S
+#5632
+The Blue Sky~
+You fly high through the air over a large field.  The wind whips your
+hair in front of your eyes.  You can see over the forest in all directions
+The blue skys continue to the west and south.
+~
+0 0 9
+D2
+~
+~
+0 0 5633
+D3
+~
+~
+0 0 5631
+S
+#5633
+The Blue Sky~
+You fly high through the air over a large field.  The wind whips your
+hair in front of your eyes.  You can see over the forest in all directions
+The blue skys continue to the west and north.
+~
+0 0 9
+D0
+~
+~
+0 0 5632
+D1
+~
+~
+0 0 5634
+S
+#5634
+The Blue Sky~
+You fly high through the air over a large field.  The wind whips your
+hair in front of your eyes.  You can see over the forest in all directions
+The blue skys continue to the east and north.
+~
+0 0 9
+D0
+~
+~
+0 0 5631
+D3
+~
+~
+0 0 5633
+D5
+~
+~
+0 0 5636
+S
+#5635
+Johnny's Field~
+You stand in the tall grass of Johnny's field.  The ground is damp
+and soaks your shoes.  The trees of the forest stand to the north and
+west, while the field continues to the east and south.
+~
+0 0 2
+D1
+~
+~
+0 0 5636
+D2
+~
+~
+0 0 5638
+S
+#5636
+In Johnny's Field~
+The tall grass of the field grows to about waist height.  The ground
+is too damp to lay upon.  Tall oak trees stand to the north and east,
+while the field continues to the west and south.
+~
+0 0 2
+D2
+~
+~
+0 0 5637
+D3
+~
+~
+0 0 5635
+D4
+~
+~
+0 0 5634
+S
+#5637
+The Edge of the Field~
+You stand in the south-east corner of Johnny's Field.  The ground is
+grassy, but very damp.  The only exits lie to the north and west.
+~
+0 0 2
+D0
+~
+~
+0 0 5636
+D3
+~
+~
+0 0 5638
+S
+#5638
+Johnny's Field~
+It is strange to find such a small field growing out in the middle of
+the woods.  You wonder who cut down the trees, and cleared out all the
+stumps.  Despite the damp ground, the field is a welcome change from
+the tall oak trees of the Volrath Forest.  You can travel to the north,
+east or west.
+~
+0 0 0
+D0
+~
+~
+0 0 5635
+D3
+~
+~
+0 0 10983
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 5605 spec_breath_fire Load to: the Fire Elentica
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 5604 0 1
+D 0 5604 2 1
+D 0 5604 3 1
+D 0 5605 2 1
+D 0 5606 1 1
+D 0 5607 0 1
+D 0 5611 3 1
+D 0 5612 1 1
+D 0 5617 0 1
+D 0 5618 2 1
+D 0 5626 0 1
+D 0 5628 2 1
+M 1 5600 1 5604 1
+E 0 5600 0 16
+O 0 5601 0 5604
+O 0 5604 0 5605
+O 0 5603 0 5605
+O 0 5602 0 5605
+O 0 5605 0 5605
+O 0 5606 0 5612
+O 0 5607 0 5612
+M 1 5602 1 5612 1
+E 0 5608 0 17
+M 1 5601 3 5612 1
+M 1 5603 5 5613 5
+E 0 5602 0 16
+M 1 5603 5 5613 5
+M 1 5603 5 5613 5
+M 1 5603 5 5613 5
+M 1 5603 5 5613 5
+M 1 5604 1 5613 1
+E 0 5600 0 16
+O 0 5601 0 5614
+M 1 5608 1 5614 1
+M 1 5607 1 5614 1
+E 0 5609 0 16
+M 1 5601 3 5614 2
+E 0 5609 0 16
+M 1 5601 3 5614 2
+E 0 5609 0 16
+M 1 5605 1 5615 1
+E 0 5611 0 16
+O 0 5612 0 5619
+M 1 5606 1 5620 1
+M 1 5612 2 5621 2
+M 1 5609 1 5624 1
+E 0 5613 0 16
+O 0 5615 0 5625
+O 0 5616 0 5625
+M 1 5610 1 5625 1
+C 5 percent for next reset
+M 1 5613 1 5627 1
+C 100 percent for next reset
+E 0 5620 0 17
+M 1 5611 1 5630 1
+E 0 5617 0 5
+E 0 5619 0 6
+E 0 5618 0 10
+E 0 5600 0 16
+S
+
+
+
+#SHOPS
+5606 32 33 5 9 23 150 50 0 23
+0
+
+
+
+#$

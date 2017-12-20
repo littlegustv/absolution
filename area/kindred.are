@@ -1,0 +1,1400 @@
+#AREADATA
+Name Kindred Clan Hall~
+Builders Teldin Aql~
+VNUMs 10600 10649
+Credits { All }             Kindred Hall~
+Security 9
+Xcontinent 0
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#10600
+living maelstron goon kindred hall~
+a living maelstrom~
+A maelstrom of tormented souls howls in the darkness.
+~
+The tormented souls spin around you. Their crying and screaming fills your
+ears. The hatred and pain they endure resonates within your blood.
+~
+orc~
+ABGT HJV 0 0
+60 6 50d10+9500 1d1+99 8d6+28 punch
+-30 -30 -30 -30
+RU ABab Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kindred~
+#10601
+dark priest healer~
+A Dark Priest~
+A dark-robed priest waits to serve his fellow minions.
+~
+A tall, slim man who seems to float in his long, black robes casts various
+curative spells upon the fallen ones. His eyes reflect nothing but the hatred
+that he now holds for his god.
+~
+human~
+ABQVa DZ 1000 0
+43 4 25d10+2500 1d1+99 3d12+15 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 kindred~
+#10602
+Yugure~
+Yugure the "dealer"~
+Yugure the arms dealer stands here, ready to serve.
+~
+Yugure is a swift man. Long black hair and two black eyes on a pretty face make
+him look like an angel. Don't be fooled by appearances, as he has been known
+to cut a few throats should he not get what he wants.
+~
+human~
+ABQR DZ 1000 0
+1 0 1d1+999 1d1+999 10d10+10 magic
+-15 -15 -15 -15
+FGH ABCDQ 0 0
+stand stand male 300000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#10603
+acheron slasher~
+Acheron~
+Acheron makes sure you are of Chaotic bent.
+~
+A black shrouded silhouette stands before you.  The only features you can
+make out are a pair of softly-glowing red eyes set deep within the black
+shadows that make up its face.  Acheron's gaze tears deep into your soul... 
+He makes sure that you are one of the fallen.  
+~
+human~
+ABCGT DZ 0 0
+60 0 10d10+1400 17d9+100 4d7+11 punch
+-10 -10 -10 -10
+FU ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kindred~
+#10604
+living maelstron goon kindred hall~
+a living maelstrom~
+A maelstrom of tormented souls howls in the darkness.
+~
+The tormented souls spin around you. Their crying and screaming fills your
+ears. The hatred and pain they endure resonates within your blood.
+~
+orc~
+ABGT HJV 0 0
+60 6 50d10+9500 1d1+99 8d6+28 punch
+-30 -30 -30 -30
+ARU ABab Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kindred~
+#10605
+living maelstron goon kindred hall~
+a living maelstrom~
+A maelstrom of tormented souls howls in the darkness.
+~
+The tormented souls spin around you. Their crying and screaming fills your
+ears. The hatred and pain they endure resonates within your blood.
+~
+orc~
+ABGT HJV 0 0
+60 6 50d10+9500 1d1+99 8d6+28 punch
+-30 -30 -30 -30
+RU ABb Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kindred~
+#10606
+living maelstron goon kindred hall~
+a living maelstrom~
+A maelstrom of tormented souls howls in the darkness.
+~
+The tormented souls spin around you. Their crying and screaming fills your
+ears. The hatred and pain they endure resonates within your blood.
+~
+orc~
+ABGT HJV 0 0
+60 6 50d10+9500 1d1+99 8d6+28 none
+-30 -30 -30 -30
+RU ABb Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kindred~
+#10607
+living maelstron goon kindred hall~
+a living maelstrom~
+A maelstrom of tormented souls howls in the darkness.
+~
+The tormented souls spin around you. Their crying and screaming fills your
+ears. The hatred and pain they endure resonates within your blood.
+~
+orc~
+ABGT HJV 0 0
+60 6 50d10+9500 1d1+99 8d6+28 none
+-30 -30 -30 -30
+ARU ABb Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kindred~
+#0
+
+
+
+#OBJECTS
+#10600
+amazon hall key~
+Amazon hall key~
+The key of Amazon clan hall is on the ground~
+~
+key PU AO
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to Amazon of the world of Redemption. 
+~
+#10601
+amazon hall key~
+Amazon hall key~
+The fake key of Amazon clan hall is on the ground~
+~
+key PU AO
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to Amazon of the world of Redemption.
+~
+#10602
+black sword huge serrated~
+a huge black-dripping serrated sword~
+A huge serrated-edged sword drips some black substance.~
+steel~
+weapon ABHMPUVa AN
+sword 5 8 slash DF
+52 250 15000 P
+#10603
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+12 'identify' '(null)' '(null)' '(null)'
+7 10 890 P
+E
+scroll identify~
+The scroll has a magic formula drawn upon it: 
+	  ??? 
+	 ?   ? 
+		 ? 
+		? 
+		? 
+		* 
+~
+#10604
+deep blue pill~
+a deep blue pill~
+A deep blue pill with the letter 'E' stamped on it.~
+food~
+pill 0 A
+53 'frenzy' 'heal' 'reserved' 'reserved'
+50 0 15000 P
+#10605
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#10606
+elixir anti~
+anti-cyclops elixir~
+An elixir to ward off cyclopi has been bought then left behind here.~
+oldstyle~
+potion 0 AO
+15 'invisibility' '(null)' '(null)' '(null)'
+0 10 250 P
+#10607
+shroud darkness~
+a {Dshroud{x of {Ddarkness{x~
+A {Dshroud{x of {Ddarkness{x covers the ground.~
+cloth~
+furniture O 0
+8 50 BEHK 100 100
+1 0 0 P
+#10608
+raft~
+a raft~
+A raft has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 750 400 A
+E
+raft~
+The raft looks very primitive. 
+~
+#10609
+white pill~
+a white pill~
+A white pill with the letter 'C' stamped on it.~
+none~
+pill 0 A
+35 'frenzy' 'giant strength' 'reserved' 'reserved'
+35 0 5000 P
+#10610
+figurine winged horse pegasus~
+a figurine of a winged horse~
+You see a small figurine of a winged horse on the ground.~
+oldstyle~
+wand AG AO
+45 25 25 'fly' 0
+20 30 16600 P
+#10611
+diamond golden ring~
+a diamond studded golden ring~
+A beautiful golden ring lies here, engraved within is S + C.~
+oldstyle~
+jewelry G AB
+0 0 0 0 0
+20 10 1150 P
+A
+19 2  
+#10612
+wand magic missile missiles~
+a wand of magic missiles~
+a wooden stick lies on the ground.~
+wood~
+wand G AO
+4 10 10 'magic missile' 0
+2 10 320 P
+E
+wand~
+It has a little note that says 'point this end at target'. 
+~
+#10613
+pewter sack~
+a pewter sack~
+A small bag made of metal is gathering dust here.~
+pewter~
+throwing N AO
+3 7 blast 37 'acid blast'
+30 20 3500 P
+#10614
+donation pit clan~
+a fire pit~
+A donation pit filled with dark flames rests before the altar.~
+air~
+container 0 0
+10000 0 0 100 100
+0 0 0 P
+E
+pit~
+There is no belief in Bosco here!  Simply the long-discarded trash of
+ages past.  
+~
+#10615
+fountain~
+A marble fountain~
+A marble fountain with many spouts streams strange reddish water.~
+marble~
+fountain O 0
+0 0 'water' 0 0
+0 0 0 P
+#10616
+malevolus evil dart~
+the Malevolus~
+An evil-looking dart sits here.~
+mithril~
+throwing C AO
+7 5 bite 50 'curse'
+45 1 4000 P
+#10617
+vial black ink~
+a vial of black ink~
+A vial of black writing ink sits here.~
+cream~
+potion 0 AO
+25 'remove curse' 'blur' '(null)' '(null)'
+25 1 3000 P
+#10618
+vial psychedelic ink~
+a vial of psychedelic ink~
+A vial of multicolored ink.~
+cream~
+potion 0 AO
+5 'invisibility' 'pass door' '(null)' '(null)'
+1 1 500 P
+#10619
+carved wooden horse~
+a tiny, carved wooden horse~
+A diminutive wooden horse has been left here.~
+bone~
+wand G AO
+35 4 4 'pass door' 0
+25 4 9500 P
+A
+3 1  
+#10620
+potion of fortitude~
+potion of fortitude~
+A potion of fortitude.~
+glass~
+potion 0 A
+35 'giant strength' 'sanctuary' 'reserved' 'reserved'
+40 10 5000 P
+#10621
+portal darkness black~
+thick darkness~
+Thick darkness engulfs the room.~
+stone~
+portal EGTY P
+0 0 0 10600 0
+0 10 0 P
+#10622
+incredible potion strength~
+an incredible potion of strength~
+An incredible potion of strength has been dropped here.~
+glass~
+potion C AO
+25 'giant strength' 'slow' '(null)' '(null)'
+20 10 3000 P
+E
+incredible~
+Poua! It smell awfull. Yon don't want really drink it ?
+~
+#10623
+fountain lemonade jouvence youth~
+une Fontaine de Jouvence~
+Une Fontaine de Jouvence est ici.~
+marble~
+fountain O 0
+0 0 'lemonade' 0 0
+0 0 0 P
+#10624
+dart~
+a strange dart~
+You see a little dart here.~
+wood~
+throwing 0 AO
+1 6 pierce 15 'burning hands'
+0 10 510 P
+#10625
+tent~
+a sturdy canvas tent~
+A sturdy canvas tent is here.~
+canvas~
+container S A
+70 A 0 10 100
+1 25 150 P
+#10626
+potion cure blindness~
+a potion of cure blindness~
+A potion of cure blindness is here.~
+glass~
+potion G AO
+13 'cure blindness' '(null)' '(null)' '(null)'
+0 10 1150 P
+#10627
+prenuptual agreement~
+a prenuptual agreement~
+A prenuptual agreement lies here.~
+oldstyle~
+scroll 0 A
+51 'cure blindness' '(null)' 'shield' '(null)'
+11 10 2400 P
+#10628
+white off potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#10629
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#10630
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 4000 P
+#10631
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#10632
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#10633
+vial potion empty _unused_~
+an empty potion vial~
+An empty potion vial is here.~
+wood~
+potion W AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#10634
+blank scroll _unused_~
+a blank scroll~
+A blank scroll is here.~
+paper~
+scroll 0 AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#10635
+figurine mist~
+mist figurine~
+A misty figurine lays on the ground.~
+oldstyle~
+wand AG AO
+45 3 3 'gate' 0
+40 30 11800 P
+A
+14 75  
+#10636
+lime potion~
+a lime potion~
+A greenish vial is here.~
+wood~
+potion 0 A
+25 'detect invis' 'detect magic' 'reserved' 'reserved'
+40 10 2000 P
+#10637
+water fountain~
+the water around you~
+There's enough water in this room, you can just open your mouth and drink.~
+stone~
+fountain 0 0
+0 0 'water' 0 0
+0 500 10 P
+#10638
+portal darkness black~
+thick darkness~
+Thick darkness engulfs the room.~
+stone~
+portal EGTY P
+0 0 0 10607 0
+0 10 0 P
+#10639
+tall tea glass~
+tall tea glass~
+A tall glass of passion fruit tea looks great right now.~
+food~
+potion 0 A
+30 'refresh' 'reserved' 'reserved' 'reserved'
+0 5 1500 P
+#10640
+forged dagger~
+a forged dagger~
+A well forged dagger lays in the dirt.~
+copper~
+throwing N AO
+2 11 pierce 40 'flame arrow'
+48 30 7200 P
+#10641
+gingerbread cookie~
+a gingerbread cookie~
+A gingerbread cookie is here, luring you in with an irresistable aroma.~
+food~
+pill GS A
+10 'bark skin' 'pass door' 'reserved' 'reserved'
+10 1 2500 P
+#10642
+portal darkness black~
+thick darkness~
+Thick darkness engulfs the room.~
+stone~
+portal EGTY P
+0 0 0 10616 0
+0 10 0 P
+#10643
+flame broiled elfkabob~
+a flame broiled elfkabob~
+A flame broiled elfkabob is here, giving off a juicy, almost intoxicating smell.~
+food~
+pill GS A
+10 'stone skin' 'shield' 'reserved' 'reserved'
+0 1 2500 P
+#10644
+portal darkness black~
+thick darkness~
+Thick darkness engulfs the room.~
+stone~
+portal EGTY P
+0 0 0 10600 0
+0 10 0 P
+#10645
+clear pill~
+a clear pill~
+A cute clear pill has the letter 'S' stamped on it.~
+glass~
+pill 0 A
+30 'haste' 'reserved' 'reserved' 'reserved'
+20 0 2500 P
+#10646
+portal darkness black~
+thick darkness~
+Thick darkness engulfs the room.~
+stone~
+portal EGTY P
+0 0 0 10608 0
+0 0 0 P
+#10647
+potpie pot pie~
+a big pot pie~
+A big pot pie has been left here.~
+food~
+food 0 A
+20 40 0 0 0
+0 20 22 P
+#10648
+portal darkness black~
+thick darkness~
+Thick darkness engulfs the room.~
+stone~
+portal EGTY P
+0 0 0 10608 0
+0 10 0 P
+#10649
+portal darkness black~
+thick darkness~
+Thick darkness engulfs the room.~
+stone~
+portal EGTY P
+0 0 0 10633 0
+0 10 0 P
+#0
+
+
+
+#ROOMS
+#10600
+Walking the Realm of the Dead~
+After the Styx is the Realm of the Dead.  As you walk through
+this silent place, you suddenly realize that there is no sound,
+no colors, everything is in black and white.  You sense no
+feeling, nothing. . .  From time to time, you notice strange
+colored halos shining in the dark.
+ 
+A sign is posted next to the water.
+~
+0 809762828 0
+E
+sign~
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+*                           *
+* Up    - The River Styx    *
+* North - The Chaos Rift    *
+* East  - Bluetspur         *
+* South - Old Thalos        *
+* West  - Dylan's Area      *
+*                           *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+~
+D0
+~
+~
+0 0 10629
+D1
+~
+~
+0 0 10632
+D2
+~
+~
+0 0 10631
+D3
+~
+~
+0 0 10630
+D5
+~
+~
+0 0 10633
+C kindred~
+S
+#10601
+The End~
+As you approach the back door to John's cabin, it bursts open with a
+strong gust of wind that knocks you back to the far wall.  You can then feel
+yourself lifted off the ground by this same gust of wind and thrown
+headfirst into the darkness beyond the door.  You can feel the blackness
+swirling about you, almost as if it's taunting you as you fall into the
+nothingness around you...  Surely, this must be the heart of Chaos itself.  
+~
+0 0 0
+D0
+~
+~
+0 0 10603
+D2
+~
+~
+0 -1 6010
+D3
+Exit ~
+door~
+0 0 10602
+S
+#10602
+The Kindred Maelstrom~
+You are floating in a blackened void far removed from the physical plane.
+The servent of Chaos, Acheron, checks upon your soul as you drift by.  Only
+those that carry the Taint within them are let into the stronghold.  He
+laughs mercilessly upon those foolish enough to try otherwise.  
+~
+0 943981580 0
+D1
+Exit ~
+door~
+0 0 10601
+C kindred~
+S
+#10603
+The Edge of Madness~
+A giant pair of elaborate marble gates rise before you from the shadows. 
+The bars have been engraved with mystic runes and symbols.  A strange
+castle-like structure looms in the mist ahead; however, no mortal architect
+could even imagine such a building.  Strange gray mists roll across the
+ground like forgotten dreams, as dark wraithlike forms emerge from the
+nothingness.  Your mind begins to quiver as pure fear surrounds you.  The
+desolation around you is accentuated with the sight of shattered holy
+symbols once dedicated to the god Bosco.  
+~
+0 0 0
+D0
+Exit ~
+door~
+4 10601 10604
+D2
+~
+~
+0 0 10601
+S
+#10604
+The Desecrated Temple of Bosco~
+You can imagine the magnificence that once filled this holy hall!  Now,
+the floor is littered with dust and debris that came from the now-shattered
+statues of Bosco and Selina.  A large marble altar sits smack dab in the
+middle of the room; various traces of dried blood and knifemarks mar its
+surface.  No other divine image is present in the room; a power, one that
+needs no divine influence, fills the room and claims it as its own.  You
+feel the tugs of darkness and hatred: hatred of gods, hatred of betrayers,
+hatred of the lost.  
+~
+0 809762828 0
+D0
+Exit ~
+door~
+0 0 10605
+D2
+Exit ~
+door~
+0 0 10603
+D3
+Exit ~
+door~
+0 0 10606
+D5
+~
+~
+0 0 10607
+C kindred~
+S
+#10605
+Null and Void~
+You stand in a black-tiled room, but it's much different from what else
+you have seen here.  Various people sit and meditate on their tasks ahead. 
+Others have fallen prey to the mistress of the night, restful sleep.  Soft
+yet haunting breezes brush past your face and whisper kind melodies in your
+ear as the ceiling of the room shifts, revealing a blood red sky above you. 
+Apparently, even the forces of Chaos need their order so that they can rest
+and relax after their daily business.  You feel invigorated as you share in
+the dark power that fuels all Kindred's desires.  
+~
+0 809762828 0
+E
+2~
+Generic extended description. 
+~
+D0
+~
+~
+0 0 10639
+D2
+Exit ~
+door~
+0 0 10604
+D4
+~
+~
+0 0 10615
+M 300 H 300
+C kindred~
+S
+#10606
+The Supply Stop~
+Very odd: this room is completely empty!  All that fills it is a strange
+murky black mist.  A strange man stands before you, and shows you a trick:
+give him enough gold, he can use the blackness on the gold and create items!
+How useful.  
+~
+0 809762828 0
+D1
+Exit ~
+door~
+0 0 10604
+D5
+~
+~
+0 0 10608
+C kindred~
+S
+#10607
+The River Styx~
+You come to a large body of water appears to be flowing into the forever.  
+Tunnels expand out in every direction.  On a small Skiff stands a shrouded 
+figure, wielding only an oar.  Hand out stretched, he beckons for you to 
+come to him and asks where you wish to go.  Beware, do not pay him your 
+gold coin or you may never return.
+ 
+A sign is posted next to the water.
+~
+0 809762828 0
+E
+sign~
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+*                                         *
+* Up    - Desecrated Temple               *
+* North - Hell                            *
+* East  - Mahn-Tor                        *
+* West  - Divided Souls                   *
+* South - Drow City and Ivory Stronghold  *
+* Down  - Realm of the Dead               *
+*                                         *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+~
+D0
+~
+~
+0 0 10621
+D4
+~
+~
+0 0 10604
+D5
+~
+~
+0 0 10616
+C kindred~
+S
+#10608
+The River Styx~
+You come to a large body of water appears to be flowing into the forever.
+Tunnels expand out in every direction.  On a small Skiff stands a shrouded
+figure, wielding only an oar.  Hand out stretched, he beckons for you to
+come to him and asks where you wish to go.  Beware, do not pay him your gold
+coin or you may never return.  
+ 
+A sign is posted next to the water.
+~
+0 809500684 0
+E
+sign~
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+*                           *
+* Up    - The Supply Stop   *
+* North - Pyramid           *
+* East  - Firetop Mountain  *
+* South - Illiad            *
+* West  - Galaxy            *
+*                           *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+~
+D2
+~
+~
+0 0 10628
+D4
+~
+~
+0 0 10606
+C kindred~
+S
+#10609
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the way you
+came form.  It seems like you were trapped in here, no exits, nothing, only
+darkness.  
+~
+0 809500684 0
+D0
+~
+~
+0 0 8700
+C kindred~
+S
+#10610
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the way you
+came form.  It seems like you were trapped in here, no exits, nothing, only
+darkness.  
+~
+0 809500684 0
+D3
+~
+~
+0 0 9301
+C kindred~
+S
+#10611
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the way you
+came form.  It seems like you were trapped in here, no exits, nothing, only
+darkness.  
+~
+0 809500684 0
+D1
+~
+~
+0 0 5735
+C kindred~
+S
+#10612
+On the Way to the Lame Throwing Room~
+~
+0 809500684 0
+D2
+~
+~
+0 0 10613
+C kindred~
+S
+#10613
+On the Way to the Lame Throwing Room~
+~
+0 809500684 0
+D0
+~
+~
+0 0 10612
+D2
+~
+~
+0 0 10614
+C kindred~
+S
+#10614
+The Lame Throwing Room~
+~
+0 809500684 0
+D0
+~
+~
+0 0 10613
+D5
+~
+~
+0 0 10601
+C kindred~
+S
+#10615
+The Practice Room~
+This room has been carved perfectly square from solid rock.  The walls
+have been scarred and pocked from the spells casted within.  Scorched
+markings and dried blood cover every wall.  
+~
+0 809500684 3
+D5
+~
+~
+0 0 10605
+C kindred~
+S
+#10616
+Walking the Realm of the Dead~
+After the Styx is the Realm of the Dead.  As you walk through
+this silent place, you suddenly realize that there is no sound,
+no colors, everything is in black and white.  You sense no
+feeling, nothing. . .  From time to time, you notice strange
+colored halos shining in the dark.
+ 
+A sign is posted next to the water.
+~
+0 809762828 0
+E
+sign~
+~
+D3
+~
+~
+0 0 10622
+D4
+~
+~
+0 0 10607
+D5
+~
+~
+0 0 10618
+C kindred~
+S
+#10617
+The Point of No Return~
+After the Styx is the Realm of the Dead.  As you walk through
+this silent place, you suddenly realize that there is no sound,
+no colors, everything is in black and white.  You sense no
+feeling, nothing. . .  From time to time, you notice strange
+colored halos shining in the dark.
+~
+0 809762828 0
+D2
+~
+~
+0 0 8800
+C kindred~
+S
+#10618
+The 666th Floor~
+Fire and heat, these are the first impressions you have when you
+enter this place.  Chained demons and little imps watch you as
+you walk on a sharp cliff.  Lava is flowing from the ground.  Sounds
+of chains and a strange litany can be heard from there.  It's
+oppressing and you are getting nervous as you stay here.
+~
+0 809762828 0
+D4
+~
+~
+0 0 10616
+C kindred~
+S
+#10619
+<unused vnum>~
+You are walking a strange path floating into nothingness.  Colors
+and landscapes are constantly shifting as you walk on.  It confuses
+you if you aren't used to those constant changes.  Shadows form
+a mist from which you can notice forms.
+~
+0 809762828 0
+C kindred~
+S
+#10620
+<unused vnum>~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+C kindred~
+S
+#10621
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D0
+~
+~
+0 0 10401
+C kindred~
+S
+#10622
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D3
+~
+~
+0 0 3001
+C kindred~
+S
+#10623
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D1
+~
+~
+0 0 501
+D2
+~
+~
+0 0 5100
+C kindred~
+S
+#10624
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D3
+~
+~
+0 0 11600
+C kindred~
+S
+#10625
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D0
+~
+~
+0 0 10401
+C kindred~
+S
+#10626
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D3
+~
+~
+0 0 3001
+C kindred~
+S
+#10627
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D1
+~
+~
+0 0 6401
+C kindred~
+S
+#10628
+The Point of No Return~
+~
+0 809762828 0
+D2
+~
+~
+0 0 8481
+C kindred~
+S
+#10629
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D0
+~
+~
+0 0 400
+C kindred~
+S
+#10630
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D3
+~
+~
+0 0 9101
+C kindred~
+S
+#10631
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D2
+~
+~
+0 0 5300
+C kindred~
+S
+#10632
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D1
+~
+~
+0 0 20401
+C kindred~
+S
+#10633
+The Grim Reaper's throne room~
+You walk into a dimly lit room, that seems to have more shadows in it
+than actual light.  There are torches along the wall, but they seem to cast
+such feeble light that you wonder if maybe there isn't some force in the
+room, adding its own sense of darkness.  You look over, and notice a tall,
+obsidian throne in the center of the room.  As you circle around to take a
+look at who sits on the throne, you are taken aback by seeing the Grim
+Reaper himself sitting there.  You muster forth your willpower and continue
+your explorations of this dark place.  
+ 
+A sign is posted behind the throne.
+~
+0 809762828 0
+E
+sign~
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+*                           *
+* Up    - Realm of the Dead *
+* North - Istanbul          *
+* East  - Smuggler's Den    *
+* South - Olympus           *
+* West  - Goblin Stronghold *
+*                           *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+~
+D0
+~
+~
+0 0 10634
+D1
+~
+~
+0 0 10635
+D2
+~
+~
+0 0 10637
+D3
+~
+~
+0 0 10636
+D4
+~
+~
+0 0 10600
+D5
+~
+~
+0 0 10638
+C kindred~
+S
+#10634
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D0
+~
+~
+0 0 22336
+C kindred~
+S
+#10635
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D1
+~
+~
+0 0 10033
+C kindred~
+S
+#10636
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D3
+~
+~
+0 0 29001
+C kindred~
+S
+#10637
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D2
+~
+~
+0 0 902
+C kindred~
+S
+#10638
+The Point of No Return~
+You are totally surrounded by darkness.  You can't remember the
+way you came form.  It seems like you were trapped in here, no
+exits, nothing, only darkness.
+~
+0 809762828 0
+D5
+~
+~
+0 0 1312
+C kindred~
+S
+#10639
+The Aquarium~
+You walk into a dimly lit room with a large pool in the middle.  The
+floor you walk on is made of tile and concrete, and has been soaked many
+times with splashes of water.  There is a large pool for water in the middle
+of the room, taking up almost the entire center of the room.  You can tell
+it has been recently filled with water, from the large pools of water that
+are still present at the bottom of the pool.  A large door lies to the
+south, keeping the moisture from the aquarium in this room.  
+~
+0 809762828 12
+D2
+~
+~
+0 0 10605
+C kindred~
+S
+#0
+
+
+
+#SPECIALS
+M 10600 spec_goon Load to: a living maelstrom
+M 10601 spec_cast_adept Load to: A Dark Priest
+M 10603 spec_doorman Load to: Acheron
+M 10604 spec_goon Load to: a living maelstrom
+M 10605 spec_goon Load to: a living maelstrom
+M 10606 spec_goon Load to: a living maelstrom
+M 10607 spec_goon Load to: a living maelstrom
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 10603 0 2
+M 1 10603 1 10602 1
+M 1 10604 1 10603 1
+E 0 10601 0 3
+M 1 10600 1 10603 1
+E 0 10600 0 3
+C 100 percent for next reset
+M 1 10605 1 10603 1
+E 0 10600 0 3
+C 100 percent for next reset
+M 1 10606 1 10603 1
+E 0 10600 0 3
+C 100 percent for next reset
+M 1 10607 1 10603 1
+E 0 10600 0 3
+M 1 10601 1 10604 1
+O 0 10607 0 10605
+O 0 10623 0 10605
+M 1 10602 1 10606 1
+G 0 10630 0
+G 0 10604 0
+G 0 10609 0
+G 0 10624 0
+G 0 10632 0
+G 0 10629 0
+G 0 10619 0
+G 0 10603 0
+G 0 10625 0
+G 0 10626 0
+G 0 10605 0
+G 0 10641 0
+G 0 10633 0
+G 0 10634 0
+G 0 10643 0
+G 0 10612 0
+G 0 10620 0
+G 0 10631 0
+G 0 10628 0
+G 0 10645 0
+G 0 10617 0
+G 0 10627 0
+G 0 10647 0
+O 0 10648 0 10609
+O 0 10648 0 10610
+O 0 10648 0 10611
+O 0 10642 0 10617
+O 0 10638 0 10621
+O 0 10642 0 10622
+O 0 10638 0 10623
+O 0 10638 0 10624
+O 0 10642 0 10625
+O 0 10642 0 10626
+O 0 10642 0 10627
+O 0 10646 0 10628
+O 0 10621 0 10629
+O 0 10621 0 10630
+O 0 10621 0 10631
+O 0 10621 0 10632
+O 0 10649 0 10634
+O 0 10649 0 10635
+O 0 10649 0 10636
+O 0 10649 0 10637
+O 0 10649 0 10638
+O 0 10637 0 10639
+S
+
+
+
+#SHOPS
+10602 5 9 32 4 3 200 50 0 23
+0
+
+
+
+#$

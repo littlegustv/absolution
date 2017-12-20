@@ -1,0 +1,2075 @@
+#AREADATA
+Name The Abandoned Chateau~
+Builders None~
+VNUMs 4900 4999
+Credits {40 51} Grog        Abandoned Chateau~
+Security 9
+Xcontinent 0
+Age 12
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#4900
+crazed maniac~
+a crazed maniac~
+A vile looking creature is wandering back and forth here. 
+~
+A crazed maniac, dressed in rags, stops and looks at you!  He does not 
+seem to be right in the mind.  Better move along before he gets any ideas.   
+~
+human~
+ABFT DF -150 0
+35 0 10d10+1500 1d1+499 3d10+12 none
+-11 -11 -11 -9
+DE AB EK LN
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4901
+mumbling dwarf~
+a mumbling dwarf~
+A dwarf is standing here, mumbling to himself. 
+~
+A large dwarf is here dressed in ragged clothes.  It appears he has not 
+left this post in a very long time.  He is continually muttering something 
+over and over, but you can't make out what he is saying.   
+ 
+You stop and listen more carefully, he appears to be complaining about
+his weaponry.
+ 
+"A dwarf shouldn't be forced to used this toad sticker of a dagger,
+if only I had:
+ 
+-10 pouches of some black powder
+-1 huge crossbow
+-1 tool box
+-3 long cylindrical tubes
+-1 horn of life
+ 
+I could be wieldin' a "mighty dwarven arquebus".
+ 
+"Arggh laddie!"
+~
+dwarf~
+ABT DFJ -200 0
+40 0 15d10+1850 1d1+499 4d8+13 punch
+-13 -13 -13 -10
+AT A BEHLQ IR
+stand stand male 1200
+AHMVZ ABCDEFGHIJKPQUVX medium 0 the guilds~
+#4902
+butler ghost~
+the ghost of a butler~
+The ghost of a butler is here looking to tidy things up. 
+~
+A pale apparition is before you.  It is dressed in a tuxedo.  It appears 
+to be in quite a hurry to go somewhere.   
+~
+human~
+AGHY T -300 0
+42 0 25d10+2250 1d1+499 3d12+14 none
+-14 -14 -14 -11
+R A E N
+stand stand male 2600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4903
+ghost waiter~
+the ghost of a waiter~
+The ghost of a waiter is here, looking for someone to serve. 
+~
+You see before you what looks like a waiter, but he keeps fading in and 
+out of existence.  He appears to be dressed in evening formal wear.   
+~
+human~
+ABGS T -500 0
+45 0 25d10+3000 1d1+499 8d4+16 slash
+-15 -15 -15 -11
+0 I 0 0
+stand stand male 1300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4904
+assistant chef~
+the assistant chef~
+An assistant chef is here, looking for something to prepare. 
+~
+An assistant chef is standing here, looking very displeased.  All dressed 
+in white, there are blood stains all over the assistant's clothes.  The 
+assistant looks at YOU and says, 'Hmmmm.  '  
+~
+human~
+ABCS 0 -500 0
+42 0 25d10+2250 1d1+499 3d12+14 slash
+-14 -14 -14 -11
+0 AB L N
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4905
+pierre chef~
+Pierre the chef~
+Pierre the chef is here, looking to cook something special.
+~
+A tall brooding man is here, dressed in the clothes of a chief chef.  He 
+yells something about spices.  He does not look very happy.   
+~
+human~
+ABCQ H -600 0
+56 0 50d10+7500 56d9+100 10d4+24 none
+-26 -26 -26 -24
+F ABa HI 0
+stand stand male 8800
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4906
+bartholomew~
+Bartholomew the Grand Mage~
+Bartholomew the Grand Mage is here looking over some books. 
+~
+A tall man is here dressed in all black.  There are silver moons and
+stars all over his clothing.  He carries the appearance of being a very wise
+mage.  You shiver as his sinister eyes look towards you.  
+~
+human~
+ABOR HV -500 0
+55 0 50d10+7000 50d9+500 10d4+23 none
+-26 -26 -26 -26
+A a H NQ
+stand stand male 6100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4907
+billiards master~
+the billiards master~
+A man with very shifty eyes is leaning against the wall. 
+~
+His hair is short and neatly kept.  His clothes are impeccable.  The 
+ladies must think him quite handsome.  He looks at you from the corner of 
+his eye.   
+~
+human~
+ABFS DF -500 0
+48 0 25d10+3750 1d1+200 6d6+18 slash
+-18 -18 -18 -15
+DP A 0 0
+stand stand male 4300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4908
+lowly thief~
+a lowly thief~
+Someone is hiding here in the shadows. 
+~
+A man is here dressed in the street clothes of a common thief.  There is 
+a scar on his left cheek.  One hand is reaching into his coat.  He does not 
+look very trustworthy.   
+~
+human~
+ABS DFPQ -300 0
+44 0 25d10+2750 1d1+200 8d4+15 pierce
+-15 -15 -15 -12
+BP 0 0 0
+stand stand male 4200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4909
+ghost chambermaid~
+the ghost of a chambermaid~
+The ghost of a chambermaid is here, looking for things to clean. 
+~
+An apparition of a charming young woman fades in and out of reality.  She 
+is dressed in a traditional maid's outfit.  She looks very cute.  She also 
+looks quite deadly.   
+~
+human~
+ABGHY T -350 0
+43 0 25d10+2500 1d1+399 3d12+15 none
+-15 -15 -15 -11
+G AB M 0
+stand stand female 1600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4910
+angry guest~
+an angry guest~
+A guest seems very annoyed that you have intruded on his privacy. 
+~
+A man is here, dressed in a commoner's clothes.  He looks rather haggard. 
+His journey must have been long to get here.   
+~
+human~
+AGY 0 -500 0
+45 0 25d10+3000 1d1+200 8d4+16 punch
+-15 -15 -15 -12
+FHK 0 0 0
+stand stand male 3500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4911
+visiting lord~
+the visiting lord~
+A well dressed lord is pacing around the room. 
+~
+Obviously a man of the world, his attire is all dark clothing.  His eyes 
+are black.  There is a sinister look to him.   
+~
+human~
+AGY 0 -800 0
+46 0 25d10+3500 1d1+200 6d6+16 slash
+-16 -16 -16 -10
+FHK 0 0 0
+stand stand male 4300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4912
+andre~
+Andre~
+Andre the plumber is here, banging on some pipes.
+~
+The man is obese! A rounded face sits atop a very well rounded body. It
+would appear that Andre spends more time at the table eating than he does
+fixing pipes. Can someone his size fit under the sink?
+~
+human~
+ABCT H -800 0
+51 1 50d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -18
+EJ B E 0
+stand stand male 7300
+AHMV ABCDEFGHIJK large 0 the guilds~
+#4913
+artemis~
+Artemis the Great~
+Artemis the Great is here studying the stars.
+~
+Artemis stands tall, his robes flowing around him in the breeze. He
+barely glances at you and returns his gaze to the sky.
+~
+human~
+ABR HTV -999 0
+60 0 50d70+14000 60d9+200 8d6+28 none
+-30 -30 -30 -28
+H ABa 0 0
+stand stand male 12000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4914
+dog weredog~
+a vicious weredog~
+A grotesque dog-like creature is growling from the shadows.
+~
+Dark eyes search the room hungrily. Large fangs jut from the ugly
+creature's foaming mouth. A vile stench eminates from this mongrel.
+~
+wolf~
+AGY Z -300 0
+48 0 25d10+3750 1d1+499 6d6+18 bite
+-18 -18 -18 -11
+FHPR 0 0 C
+stand stand either 1000
+ABGV ACDEFHJKQV medium 0 the guilds~
+#4915
+woman monique~
+Lady Monique~
+A beautiful woman is sobbing quietly here.
+~
+The beauty before you is breathtaking. Long dark hair frames an angelic face.
+Her weeping ceases for a moment as you gaze at her. Dark eyes reflect your
+own image. Her crying returns.
+~
+human~
+AGRY HTUV -500 0
+51 0 50d10+5000 1d1+499 5d8+20 none
+-21 -21 -21 -15
+R A 0 0
+stand stand female 4200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4916
+vine vines~
+a deadly vine~
+Vines cover the outside of the chateau, for a moment they seemed to move.
+~
+Brown and green entangled in a mesh. There is the stong stench of death
+coming from within. An odd looking sap oozes of the leaves.
+~
+human~
+ABF 0 -500 0
+51 0 52d10+5500 1d1+499 6d7+20 grep
+-21 -21 -21 -16
+R 0 0 0
+stand stand none 2000
+AHMV ABCDEFGHIJK large 0 the guilds~
+#4917
+nerual~
+Lord Nerual~
+Nerual, lord of the chateau, is here, pacing back and forth.
+~
+While Lord Nerual appears to be flesh and bone, there is an air of inhumanity
+about him. He stands quite tall, for a human. His jet black hair matches his
+dark souless eyes. 
+~
+human~
+ABCQ DH -700 0
+60 0 50d10+10000 60d9+200 8d6+28 none
+-30 -30 -30 -21
+EP A E 0
+stand stand male 9000
+AHMV ABCDEFGHIJK large 0 the guilds~
+#4918
+nicole nanny woman~
+Nicole the Nanny~
+A disheveled woman is here, babbling incoherently.
+~
+The haggard wretch you behold has been trapped here for ages. Her hair is
+tangled in knots, her skin is black with dirt and her clothes are in 
+tatters. She mutters to herself, but her words are unintelligible.
+~
+human~
+ABFS CHOV -500 0
+57 5 50d10+13000 1d1+100 6d8+24 beating
+-28 -28 -28 -27
+AFHK ABa G 0
+stand stand female 5300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4919
+angry peasant~
+an angry peasant~
+An angry peasant is lurking in the shadows.
+~
+A very large human, very large indeed. He has obviously spent a lot of time
+working in the fields. His face is extremely red and his eyes full of fury. 
+He is definitely angry about something.
+~
+human~
+AB 0 -250 0
+43 0 25d10+2500 1d1+499 3d12+15 blast
+-15 -15 -15 -11
+0 A 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4920
+drowsy vintner~
+a drowsy vintner~
+A drowsy vintner is here, he seems to be quite intoxicated.
+~
+Dressed in a merchants clothes, the smell of wine coming from this man is
+overwhelming. He must have drank the entire cask by himself.
+~
+human~
+AGY 0 -350 0
+46 0 25d10+3250 1d1+499 6d6+16 scratch
+-16 -16 -16 -11
+P 0 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4921
+mad harvester~
+a mad harvester~
+A mad harvester is looking for a way out.
+~
+Brown leather-like skin from hours spent under the sun. The harvester's
+clothes are faded and hair lightened from toiling in the fields.
+~
+human~
+AGY 0 -400 0
+47 0 25d10+3500 1d1+499 6d6+17 blast
+-17 -17 -17 -11
+EHP 0 0 0
+stand stand either 2200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4922
+grape stomper~
+a grape stomper~
+A grape stomper is here jumping up and down.
+~
+The grape stomper's incessant jumping makes you dizzy just watching. Sweat
+covers the stomper's face and clothes. Hair flies wildly with each jump.
+The loony leaper begins bouncing towards you.
+~
+human~
+AG V -400 0
+48 0 25d10+3750 1d1+499 6d6+18 smash
+-18 -18 -18 -12
+EFHP 0 0 0
+stand stand either 2300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4923
+grim reaper~
+a grim reaper~
+A grim reaper is here, softly humming a tune.
+~
+The reaper seems to absorb what little light there is. It appears to be human
+from its general appearance, but it is impossible to define any of its features.
+~
+human~
+ABF 0 -400 0
+49 0 50d10+4000 1d1+499 5d8+19 claw
+-19 -19 -19 -13
+EFHKP AB 0 0
+stand stand either 2700
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4924
+crazy cooper~
+a crazy cooper~
+A crazy cooper peers around for the next barrel.
+~
+Long brittle hair covers a gaunt face. Crazed eyes poke out of sullen sockets.
+A vile stench hits you as you approach this denizen of the dark.
+~
+human~
+ABC V -500 0
+50 0 50d10+4500 1d1+499 5d8+19 thwack
+-20 -20 -20 -14
+CEFHKP AB 0 0
+stand stand either 4000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4925
+maurice sommelier~
+Maurice the sommelier~
+Maurice the Sommelier is dusting off some bottles.
+~
+Thin gray hair covers a somewhat balding head. There is a bit of color in his 
+cheeks and his nose is rather red, attesting to the fact that the master has
+probably been sampling some of his own stock.
+~
+human~
+AB V -500 0
+53 0 50d10+6000 1d1+499 6d7+21 scratch
+-23 -23 -23 -17
+EFHKP Aa 0 0
+stand stand male 4600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4950
+twenty~
+Twenty~
+Twenty is here.
+~
+Hehe.
+~
+human~
+AG 0 -500 0
+60 0 50d10+9500 1d1+499 8d6+28 bite
+20 20 20 10
+0 0 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4951
+ten~
+Ten~
+Ten is here.
+~
+It's ten!
+~
+human~
+AG 0 -300 0
+47 0 25d10+3500 1d1+499 6d6+17 none
+10 10 10 10
+0 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4952
+zero~
+Zero~
+Zero is here.
+~
+Mob armor!!! arrgh :)
+~
+human~
+AG 0 -500 0
+60 0 50d10+9500 1d1+499 8d6+28 blast
+12 12 12 12
+0 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4953
+minusten~
+Minus Ten~
+Minus Ten is here.
+~
+Blah, blah, blah.
+~
+human~
+AG 0 -300 0
+49 0 50d10+4000 1d1+499 4d10+18 none
+-10 -10 -10 -10
+H 0 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4954
+minustwenty~
+Minus Twenty~
+Minus Twenty is here.
+~
+Hic.
+~
+human~
+AGY 0 -450 0
+50 0 50d10+4500 1d1+499 5d8+19 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#4901
+blackened dagger something~
+a blackened dagger~
+Something is laying here, it blends in with the ground.~
+iron~
+weapon 0 AN
+dagger 4 9 pierce 0
+40 60 1950 P
+#4902
+silver serving tray~
+a silver serving tray~
+Someone has left a beautiful silver serving tray here.~
+silver~
+weapon 0 AN
+exotic 5 6 slice D
+43 70 2700 P
+A
+19 2  
+A
+18 2  
+#4903
+a bow tie~
+a bow tie~
+A very formal looking bow tie is here.~
+silk~
+clothing G AC
+0 0 0 0 0
+43 10 2600 P
+A
+3 1  
+A
+4 1  
+A
+17 -5  
+#4904
+a blackened key~
+a blackened key~
+A blackened key is laying here.~
+iron~
+key P A
+0 0 0 0 0
+0 1 1 P
+#4905
+a paring knife~
+a paring knife~
+A very short sharp blade is laying here.~
+iron~
+weapon G AN
+dagger 4 9 pierce 0
+42 50 3400 P
+A
+19 2  
+A
+20 -2  
+#4906
+staff spices herbs~
+the Staff of Spices~
+You smell the aroma of herbs here.~
+wood~
+wand ABG AO
+50 2 1 'dispel magic' 0
+49 10 4000 P
+#4907
+tin caviar something~
+a tin of Pierre's finest caviar~
+Someone left something here that should have been used a long time ago.~
+metal~
+pill 0 A
+51 'shield' 'sanctuary' '(null)' '(null)'
+50 10 2200 P
+#4908
+teaspoon~
+a teaspoon~
+A sterling silver teaspoon is here.~
+silver~
+key 0 A
+0 0 0 0 0
+0 1 0 P
+#4909
+glass bookcase~
+a glass bookcase~
+A glass bookcase is here.~
+glass~
+container AY 0
+200 ABCD 4910 20 100
+0 0 0 P
+#4910
+a bookmark~
+a bookmark~
+Someone has left a bookmark on the ground.~
+paper~
+key P AO
+0 0 0 0 0
+0 10 0 P
+#4911
+a book of poetry~
+a book of poetry~
+A bunch of tattered pages bound together are here.~
+paper~
+treasure BG AO
+0 0 0 0 0
+43 40 3200 P
+A
+17 -15  
+#4912
+billiards stick~
+a billiards stick~
+A long thin pole lies here.~
+wood~
+key F AO
+0 0 0 0 0
+0 10 0 P
+#4913
+billiards table~
+the billiards table~
+There is a very fine billiards table here.~
+wood~
+container Y 0
+100 ABCD 4912 100 100
+0 0 0 P
+#4914
+black ball~
+a black ball~
+There seems to be a void in time here.~
+porcelain~
+wand GMU AO
+46 4 2 'mirror image' 0
+42 200 3300 P
+#4915
+featherduster~
+a featherduster~
+There is a featherduster leaning against the wall.~
+feather~
+key 0 AO
+0 0 0 0 0
+0 10 0 P
+#4916
+tool box~
+a tool box~
+There is a very large rectangular box here.~
+iron~
+weapon GH ANY
+mace 3 14 pound 0
+49 20 4500 P
+A
+18 2  
+A
+20 -1  
+A
+1 -1  
+#4917
+golden key~
+a golden key~
+A piece of gold glitters for a moment.~
+gold~
+key FG A
+0 0 0 0 0
+0 10 0 P
+#4918
+potion distance~
+a potion of distance~
+A small glass vial is here.~
+glass~
+potion 0 A
+45 'scramble' 'cloak of mind' 'teleport' '(null)'
+45 10 1200 P
+#4919
+robes artemis~
+the robes of Artemis~
+A dark piece of cloth decorated with moons and stars lies here.~
+satin~
+container FGYbd AK
+750 0 0 50 50
+51 70 9000 P
+A
+4 2  
+A
+12 50  
+#4920
+black beret~
+a black beret~
+Someone has left a small black cap here.~
+velvet~
+armor G AE
+12 12 12 8 0
+49 10 4500 P
+A
+19 2  
+A
+18 1  
+#4921
+walking stick~
+a walking stick~
+A wooden cane with a lion's head carved atop it is here.~
+ebony~
+weapon AGH AN
+staff 5 8 thrust G
+48 70 4700 P
+#4922
+parisian coat~
+a Parisian coat~
+A beautiful coat with gold embroidery has been left here.~
+felt~
+armor G AD
+11 11 10 4 0
+48 30 2500 P
+A
+19 1  
+#4923
+sapphire brooch~
+a sapphire brooch~
+A sparkling blue stone catches your eye.~
+crystal~
+jewelry FGb AC
+0 0 0 0 0
+45 20 4100 P
+A
+19 1  
+A
+17 -7  
+A
+12 25  
+#4924
+sapphire bracelet~
+a sapphire bracelet~
+A beautiful bracelet made of blue stones lies here.~
+crystal~
+jewelry GHM AM
+0 0 0 0 0
+0 20 2200 P
+A
+1 -2  
+A
+19 -4  
+A
+18 -2  
+#4925
+brass key~
+a huge brass key~
+A large brass key decorated with grapes on it lies here.~
+brass~
+key P A
+0 0 0 0 0
+30 10 0 P
+#4926
+jagged tile marble~
+a jagged tile~
+It's a piece of imported marble....how exquisite!~
+marble~
+weapon AGHU AN
+dagger 4 10 stab B
+49 50 4600 P
+A
+19 2  
+A
+23 -2  
+#4927
+petrified bonnet~
+a petrified bonnet~
+A bonnet shaped rock is here.~
+granite~
+gem ABG AO
+0 0 0 0 0
+50 100 3900 P
+A
+19 2  
+A
+18 2  
+A
+20 -3  
+#4928
+wedge gouda cheese~
+a wedge of gouda cheese~
+Someone has left a delicious wedge of cheese here!~
+food~
+food 0 A
+25 45 0 0 0
+0 20 1400 P
+#4929
+corkscrew~
+a corkscrew~
+An ornate corkscrew is laying here.~
+metal~
+key 0 A
+0 0 0 0 0
+35 10 0 P
+#4930
+wheel brie cheese~
+a wheel of brie~
+Someone has left a wheel of cheese here.~
+food~
+food 0 AO
+20 40 0 0 0
+0 30 1000 P
+#4931
+red beret~
+a red beret~
+A crumbled ball of red felt has been recklessly tossed in the corner.~
+felt~
+armor G AE
+10 10 10 6 0
+41 10 2900 P
+A
+13 10  
+A
+2 1  
+A
+1 1  
+#4932
+reaper gloves~
+a pair of reaper's gloves~
+A field worker has carelessly left his gloves here.~
+canvas~
+armor BG AH
+10 10 10 4 0
+49 40 2600 P
+A
+26 2  
+A
+1 1  
+A
+19 2  
+#4933
+dusty boots~
+a pair of dusty boots~
+Someone has left their filthy boots here.~
+leather~
+armor 0 AG
+9 9 9 5 0
+43 30 1500 P
+#4934
+blackened sickle~
+a blackened sickle~
+A pewter sickle blackened with age is laying on the ground here.~
+pewter~
+weapon G AN
+sword 5 7 wrath C
+45 50 4100 P
+A
+18 2  
+A
+19 2  
+#4935
+coopers mallet tool~
+a cooper's mallet~
+A tool for making barrels lies here.~
+iron~
+weapon 0 AN
+mace 6 6 crush H
+48 60 2500 P
+#4936
+peasant sleeves~
+some peasant sleeves~
+A set of peasant sleeves lies here.~
+wool~
+armor 0 AI
+9 9 9 4 0
+44 20 2100 P
+#4937
+wine recipe~
+a special wine recipe~
+A faded piece of paper has been dropped here.~
+paper~
+scroll G AO
+48 'blur' 'minimation' 'pass door' '(null)'
+47 10 2500 P
+#4938
+black ice ring~
+a black ice ring~
+A small dark puddle is on the ground.~
+ice~
+jewelry FGJbd AB
+0 0 0 0 0
+45 20 4300 P
+A
+19 1  
+A
+18 1  
+A
+12 25  
+#4947
+bottle vintage chateau margeaux~
+a bottle of vintage Chateau Margeaux~
+Some fool has left a bottle of fine wine here!~
+glass~
+drink 0 AO
+40 40 'red wine' 0 0
+0 10 0 P
+E
+bottle~
+Another fine product brought to you by Silfen Importers.
+~
+#4948
+black waistcoat~
+a black waistcoat~
+Someone has dropped a fine looking vest here.~
+cloth~
+armor 0 AD
+10 10 10 5 0
+47 30 3200 P
+A
+18 1  
+A
+19 1  
+#4949
+antique icebox~
+an antique icebox~
+An antique icebox is sitting here.~
+brass~
+container BY 0
+200 AC 0 20 100
+0 0 0 P
+#4950
+waterstone crystal~
+a waterstone~
+A crystal filled with water lies here.~
+crystal~
+recall_crystal A AO
+AFHKM B AB 0 0
+0 20 3000 P
+#0
+
+
+
+#ROOMS
+#4900
+Bottom of a Hill~
+You are at the bottom of a hill. There are large oak trees on either
+side of an old cobblestone road. There is a large SIGN here. You can
+travel north up the hill or south from whence you came.
+~
+0 0 4
+E
+sign~
+Chateau closed until further notice.
+Do not venture if you have not passed your 40th level.
+-The Landlord
+~
+D0
+~
+~
+0 0 4901
+S
+#4901
+Middle of a Hill~
+The oak trees are much denser here, coming together above the road to
+form a kind of tunnel. The cobblestones are broken in some spots. The road
+continues north up the hill and south to the bottom of the hill.
+~
+0 0 4
+D0
+~
+~
+0 -1 4902
+D2
+~
+~
+0 0 4900
+S
+#4902
+Top of the Hill~
+Strange noises come from all around.  To the north, you see the remnants 
+of an old building.  The way south leads down the hill.   
+~
+0 0 3
+D0
+~
+~
+0 0 4903
+D2
+~
+~
+0 0 4901
+S
+#4903
+Outside the Abandoned Chateau~
+A large chateau with great detail in its architecture is before you.  The 
+owners seem to have abandoned it long ago, as it is now in quite a state of 
+disrepair.  There is an ornately detailed door at the foot of the chateau.  
+South leads down the hill.   
+~
+0 0 1
+D0
+~
+door~
+1 4904 4904
+D2
+~
+~
+0 0 4902
+X midi/haloween.mid~
+S
+#4904
+Entrance Hall of the Chateau~
+Dust covers the floor and cobwebs abound here.  The walls are made of 
+finely crafted wood.  The Main Hall lies north, the Entrance Hall continues 
+west and the door to the Chateau is south.   
+~
+0 8 0
+D0
+~
+~
+0 0 4906
+D2
+~
+door~
+1 4904 4903
+D3
+~
+~
+0 0 4905
+S
+#4905
+Entrance Hall of the Chateau~
+Dust rises under your boots as you walk.  Marvelous woodwork lines the 
+walls.  There is a picture on the wall, but it is too faded to make out.  To 
+the north lies the Main Hall, the Entrance Hall continues east.   
+~
+0 8 0
+D0
+~
+~
+0 0 4907
+D1
+~
+~
+0 0 4904
+S
+#4906
+The Main Hall~
+A beautiful chandelier hangs from the ceiling, covered in cobwebs.  There 
+is a colorful carpet on the floor.  The Main Hall continues west and there 
+is a sliding door to the north.   
+~
+0 8 0
+D0
+~
+sliding~
+2 0 4908
+D2
+~
+~
+0 0 4904
+D3
+~
+~
+0 0 4907
+S
+#4907
+The Main Hall~
+A large tapestry hangs on the wall here.  The background shows workers 
+celebrating the harvest of grapes.  The foreground shows, hidden behind 
+barrels from the workers, a regal man cutting the throat of a young maiden.  
+~
+0 8 0
+D1
+~
+~
+0 0 4906
+D2
+~
+~
+0 0 4905
+S
+#4908
+The Dining Hall~
+There is a long mahogany dining table here.  It is surrounded by 12 
+chairs.  The table is set with fine china and crystal for a meal.  The table 
+and dining hall extend west.  There is a door to the east and a sliding door 
+to the south.   
+~
+0 8 0
+D1
+~
+door~
+1 0 4916
+D2
+~
+~
+2 0 4906
+D3
+~
+~
+0 0 4909
+S
+#4909
+The Dining Hall~
+A long mahogany dining table and chairs extends with the room east.  The 
+table appears to be set for dinner.  You here a strange clamor coming from 
+the north.   
+~
+0 8 0
+D0
+~
+door~
+1 0 4910
+D1
+~
+~
+0 0 4908
+S
+#4910
+The Kitchen~
+Large pots and pans, corroded from years of disuse, cover the shelves 
+here.  There are various cooking utensils here as well.  An oversized 
+cauldron is sitting on the floor.  The kitchen continues east, and there is 
+a door to the Dining Hall south.   
+~
+0 8 0
+D1
+~
+~
+0 0 4911
+D2
+~
+door~
+1 0 4909
+S
+#4911
+The Kitchen~
+There is a huge oven on the eastern wall.  A large marble counter with a 
+sink is to the south.  Pots and pans are all over the counter and sink, it 
+looks as though someone left in quite a hurry.  The kitchen continues to the 
+west and there is a door to the north.   
+~
+0 8 0
+D0
+~
+door~
+1 0 4912
+D3
+~
+~
+0 0 4910
+S
+#4912
+The Pantry~
+Cans and mason jars line the shelves here.  Looking at some of the jars 
+makes you feel rather nauseous.  There is a strange creak coming from the 
+floor as you step on it.  The kitchen lies south.   
+~
+0 8 0
+D2
+~
+door~
+1 0 4911
+D5
+~
+trapdoor~
+4 4908 4913
+S
+#4913
+A darkened staircase~
+You are on a winding set of concrete steps.  You can hardly see your hand 
+in front of you.  It's a very good thing you brought a light with you.  
+Exits lead down into the darkness, and up to the pantry.   
+~
+0 9 0
+D4
+~
+trapdoor~
+4 4908 4912
+D5
+~
+~
+0 0 4914
+S
+#4914
+A darkened staircase~
+It is pitch black all around you.  There is a cool draft coming from 
+below.  The dizzying steps continue up and down.   
+~
+0 9 0
+D4
+~
+~
+0 0 4913
+D5
+~
+~
+0 0 4915
+S
+#4915
+Bottom of the darkened staircase~
+It is very damp and musty here.  To the south you see a large wooden door 
+with an ornate crest surrounded by grapes.  The darkened staircase leads up. 
+~
+0 9 0
+D2
+~
+door~
+1 4925 4949
+D4
+~
+~
+0 0 4914
+S
+#4916
+The Library~
+Dust covered chairs and tables fill the room.  This must have been the 
+reading section of the library.  The carpet here has been stained by a blood 
+colored substance.  There is a doorway to the west, you see a staircase to 
+the north, the library continues east, and the Billiard Room is to the 
+south.   
+~
+0 8 0
+D0
+~
+~
+0 0 4920
+D1
+~
+~
+0 0 4917
+D2
+~
+~
+0 0 4918
+D3
+~
+door~
+1 0 4908
+S
+#4917
+The Library~
+Bookshelves line the walls from floor to ceiling, along with dust and 
+cobwebs.  Glancing at the shelves you see collected works of most famous 
+authors and poets.  There is also a large selection of lesser known writers. 
+The lord of this manor certainly had very different tastes.  The only exit 
+is west into more of the library.   
+~
+0 8 0
+D3
+~
+~
+0 0 4916
+S
+#4918
+The Billiard Room~
+This was definitely the gentlemen's room.  There is a fine bar here, 
+backed with a smokey mirror and stocked with some very old bottles.  Plush 
+chairs and inlaid tables are scattered throughout the room.  The room 
+continues south, north is the Library.   
+~
+0 8 0
+D0
+~
+~
+0 0 4916
+D2
+~
+~
+0 0 4919
+S
+#4919
+The Billiard Room~
+A beautiful rug lines the floor.  On one wall is a rack of sticks for 
+billiards.  The other walls have faded portraits hanging on them.  There are 
+broken chairs in each corner of the room.   
+~
+0 8 0
+D0
+~
+~
+0 0 4918
+S
+#4920
+Ground Floor Landing~
+A large faded tapestry hangs on one wall.  A cracked mirror is on 
+another.  An empty vase sits on a table.  A staircase covered with a deep 
+red carpet leads upstairs.   
+~
+0 8 0
+D2
+~
+~
+0 0 4916
+D4
+~
+~
+0 0 4921
+S
+#4921
+First Floor Landing~
+There is a torch on one wall shining with an eerie glow, not fire, but a 
+glow.  On another wall is a picture of a village burned to the ground.  
+There is a carpeted staircase leading down and a hallway leading west.   
+~
+0 8 0
+D3
+~
+~
+0 0 4922
+D5
+~
+~
+0 0 4920
+S
+#4922
+Darkened Hallway~
+The darkness in this hallway is overwhelming.  You can barely see your 
+hand in front of your face.  There is a vague outline of a door to the 
+north.  A dim light comes from the east and there is an exit west.   
+~
+0 9 0
+D0
+~
+door~
+1 0 4923
+D1
+~
+~
+0 0 4921
+D3
+~
+~
+0 0 4924
+S
+#4923
+Linen Closet~
+Shelves line the walls from floor to ceiling.  There are all kinds of 
+linens stacked on them.  The linens are faded and worn with years of disuse. 
+The only exit is the door to the south.   
+~
+0 9 0
+D2
+~
+door~
+1 0 4922
+S
+#4924
+Darkened Hallway~
+Darkness abounds.  The residents of this chateau certainly did not care 
+for the light.  The hallway continues east and there is a door to the south. 
+~
+0 9 0
+D1
+~
+~
+0 0 4922
+D2
+~
+door~
+1 0 4925
+S
+#4925
+Darkened Hallway~
+It is so dark, you need to feel your way along the walls.  You touch more 
+than one cobweb as you do.  There is a doorway to the north and the darkness 
+continues south.   
+~
+0 9 0
+D0
+~
+door~
+1 0 4924
+D2
+~
+~
+0 0 4926
+S
+#4926
+Darkened Hallway~
+Although it is dark, you can make out more details in this part of the 
+hallway.  A tapestry hangs on one wall.  The hallway goes north and east.  
+To the south, you see light shining through a keyhole like a beacon.   
+~
+0 9 0
+D0
+~
+~
+0 0 4925
+D1
+~
+~
+0 0 4928
+D2
+~
+door~
+1 4915 4927
+S
+#4927
+A Guest Bedroom~
+This is a typical guest room.  There is a bed here and a small dresser.  
+Beside the bed is a night table with a small lantern on it.  Faded pictures 
+hang on the walls.  Dark curtains surround the windows.  A common room for a 
+common guest.  The only exit is north.   
+~
+0 8 0
+D0
+~
+door~
+1 4915 4926
+S
+#4928
+Darkened Hallway~
+Darkness surrounds you again.  Holding your light close to the walls, you 
+see elaborate doors to the north and south.  The hallway continues west and 
+east.   
+~
+0 9 0
+D0
+~
+door~
+3 4915 4929
+D1
+~
+~
+0 0 4932
+D2
+~
+door~
+3 4915 4930
+D3
+~
+~
+0 0 4926
+S
+#4929
+The Guest's Bath~
+Beautiful marble tiles line the floor and walls.  There is a vanity and a 
+wash basin along the wall.  There is also an old porcelain tub with clawed 
+feet here.  The only exit is south.   
+~
+0 8 0
+D2
+~
+door~
+3 4915 4928
+S
+#4930
+A Guest Suite~
+You have entered some a very large suite.  A tapestry hangs on the wall, 
+depicting several gruesome looking creatures holding human body parts.  
+There are some broken chairs and a few overturned tables around the room.  
+Remnants of broken pottery lie close to the tables.  Looking east, you see 
+the main bedroom for the suite.   
+~
+0 8 0
+D0
+~
+door~
+3 4915 4928
+D1
+~
+~
+0 0 4931
+S
+#4931
+A Guest Suite~
+This is the bedroom of the guest suite.  There is a large armoire here, 
+but its' doors have been broken off and it appears empty.  A four poster bed 
+is against one wall, however its' mattress seems to have a large hole burnt 
+in it.  The suite extends west.   
+~
+0 8 0
+D3
+~
+~
+0 0 4930
+S
+#4932
+Darkened Hallway~
+While the light here is very poor, you can make out more faded pictures 
+on the walls.  An overturned table sits in the corner.  The hallway 
+continues west and north.   
+~
+0 9 0
+D0
+~
+~
+0 0 4933
+D3
+~
+~
+0 0 4928
+S
+#4933
+Darkened Hallway~
+Bit and pieces of a broken mirror are on the floor.  The mirror frame is 
+all gold, but not a piece of glass is left in it.  The hallway continues 
+south and there is a large arched doorway to the east.   
+~
+0 9 0
+D1
+~
+~
+0 0 4934
+D2
+~
+~
+0 0 4932
+S
+#4934
+Bottom of a Spiral Staircase~
+The windows here have been covered over with wooden planks.  There is an 
+intricate wrought iron spiral staircase leading up.  To the west is the 
+darkened hallway.   
+~
+0 8 0
+D3
+~
+~
+0 0 4933
+D4
+~
+~
+0 0 4935
+S
+#4935
+Top of A Spiral Staircase~
+Windows lead up to a domed ceiling, but they have been covered over with 
+wooden planks from the inside.  There is an iron spiral staircase leading 
+down and an arched doorway to the west.   
+~
+0 8 0
+D3
+~
+~
+0 0 4936
+D5
+~
+~
+0 0 4934
+S
+#4936
+A dimly lit hallway~
+There is no light from outside, yet the walls seem to glow with a dim 
+light.  Hardwood floors line the hallway.  There is an arched doorway to the 
+east.  The hallway continues to the south.   
+~
+0 8 0
+D1
+~
+~
+0 0 4935
+D2
+~
+~
+0 0 4937
+S
+#4937
+A dimly lit hallway~
+The walls glow with an odd dim light, yet they are cool to the touch.
+The hallway continues to the north and to the west.
+~
+0 8 0
+D0
+~
+~
+0 0 4936
+D3
+~
+~
+0 0 4938
+S
+#4938
+A dimly lit hallway~
+This is the center of the hallway.  A chandelier hangs from the ceiling, 
+but many of it crystals are missing.  To the south you see a large oak door. 
+The hallway continues east and west.   
+~
+0 8 0
+D1
+~
+~
+0 0 4937
+D2
+~
+door~
+1 0 4941
+D3
+~
+~
+0 0 4939
+S
+#4939
+A dimly lit hallway~
+The strange glow eminating from the walls is rather unnerving.  There is 
+a plain looking door to the south.  To the north is an door crafted with 
+intricate woodwork and an ornate crest in the center of it.  The hallway 
+continues to the east.   
+~
+0 8 0
+D0
+~
+door~
+3 4917 4943
+D1
+~
+~
+0 0 4938
+D2
+~
+door~
+1 0 4940
+S
+#4940
+A Linen Closet~
+Towels, bedsheets and pillowcases fill the shelves from floor to ceiling. 
+They are covered with dust.  The only exit is the door to the north.   
+~
+0 8 0
+D0
+~
+door~
+1 0 4939
+S
+#4941
+The Observatory~
+Fresh air greets your lungs.  Large stone gargoyles stare down at you 
+from the rooftop.  There is an excellent view of the skies from here.  A 
+large railing prevents you from falling over the edge.  There is a large oak 
+door to the north.  The observatory continues east.   
+~
+0 0 1
+D0
+~
+door~
+1 0 4938
+D1
+~
+~
+0 0 4942
+S
+#4942
+The Observatory~
+The sky is wide open above you.  This is a fine vantage point for viewing 
+the stars and planets.  A railing is here to prevent anyone from falling 
+over the edge.  The observatory continues west.   
+~
+0 0 1
+D3
+~
+~
+0 0 4941
+S
+#4943
+A Large Sitting Room~
+You have entered a very large sitting room.  There are faded tapestries 
+and paintings on the walls.  Overturned tables and broken pottery are 
+throughout the room.  There is an colorful Persian rug on the floor but it 
+appears to have been stained.  The sitting room extends north and there is a 
+door to the south.   
+~
+0 8 0
+D0
+~
+~
+0 0 4944
+D2
+~
+door~
+3 4917 4939
+S
+#4944
+A Large Sitting Room~
+A large broken mirror hangs on one wall.  Heavy dark curtains are drawn 
+over the windows.  A colorful Persian carpet is on the floor, but it appears 
+to be horribly stained.  There is a door to the east, the sitting room 
+extends south.   
+~
+0 8 0
+D1
+~
+door~
+1 0 4945
+D2
+~
+~
+0 0 4943
+S
+#4945
+The Master Bedroom~
+The walls here shimmer with an odd glow.  Finely crafted molding 
+encompasses the borders of the room.  Heavy curtains outline a sliding door 
+to the north.  Intricate woodwork surrounds doors to the east and west.  The 
+sleeping area of the bedroom is south.   
+~
+0 8 0
+D0
+~
+sliding~
+3 0 4947
+D1
+~
+door~
+3 0 4948
+D2
+~
+~
+0 0 4946
+D3
+~
+door~
+1 0 4944
+S
+#4946
+The Master Bedroom~
+There is a luxurious carpet covering the entire floor.  A large picture 
+of the lord and lady of this manor hangs before you, odd that it hasnt faded 
+with the years.  Beautiful lamps sit on two end tables.  The only exit is 
+north.   
+~
+0 8 0
+D0
+~
+~
+0 0 4945
+S
+#4947
+The Terrace~
+You are standing on a large terrace overlooking the vineyards of the 
+chateau.  Large gargoyle statues look down on you from the rooftop.  A large 
+wooden railing surrounds the terrace.  A door south leads into the chateau.  
+~
+0 0 1
+D2
+~
+sliding~
+3 0 4945
+S
+#4948
+The Master Bathroom~
+Marvelous tiles adorn the floor and walls here.  A porcelain sink sits 
+below a broken mirror.  As you try to open the door to the west, you gasp in 
+shock.  You've locked yourself in the bathroom!   
+~
+0 13 0
+S
+#4949
+Entrance to the Wine Cellar~
+You have entered a large wine cellar.  The air is cool and calm here.  
+The walls on either side of you contain racks filled with dusty wine 
+bottles.  A large wooden door lies north.  The cellar continues south.   
+~
+0 9 0
+D0
+~
+door~
+1 4925 4915
+D2
+~
+~
+0 0 4950
+S
+#4950
+The Wine Cellar~
+Your boots echo on the tile floor beneath them.  It sure is quiet down 
+here.  There is a huge oak cask to the west and a cherry one to the east.  
+The entrance to the cellar lies north.  The cellar continues south.   
+~
+0 9 0
+D0
+~
+~
+0 0 4949
+D1
+~
+cask~
+1 4925 4952
+D2
+~
+~
+0 0 4953
+D3
+~
+cask~
+1 4925 4951
+S
+#4951
+Inside an Oak Cask~
+You are inside a huge oak cask.  The cask is probably older than the 
+chateau itself.  The bouquet of fine aged wine fills your nose.  You 
+suddenly have a craving for some fine cheese.  The only exit is east.   
+~
+0 9 0
+D1
+~
+~
+1 4925 4950
+S
+#4952
+Inside a Cherry Cask~
+You are in a large cherry wood cask.  The aroma of vintage wine is still 
+in the air.  The only exit is west.   
+~
+0 9 0
+D3
+~
+~
+1 4925 4950
+S
+#4953
+The Wine Cellar~
+Your boots echo on the tile floor beneath them.  It is unusally quiet 
+here.  There is a huge oak cask to the west and a cherry one to the east.  
+The cellar path continues north and south.   
+~
+0 9 0
+D0
+~
+~
+0 0 4950
+D1
+~
+cask~
+1 4925 4955
+D2
+~
+~
+0 0 4956
+D3
+~
+cask~
+1 4925 4954
+S
+#4954
+Inside an Oak Cask~
+You are inside a huge oak cask.  The cask is probably older than the 
+chateau itself.  The bouquet of fine aged wine fills your nose.  You have a 
+sudden craving for some fine cheese.  The only exit is east.   
+~
+0 9 0
+D1
+~
+~
+1 4925 4953
+S
+#4955
+Inside a Cherry Cask~
+You are inside a tremendous cherry cask.  It is so large, you can stand 
+without crouching down.  The aroma of vintage wine is strong here.  The only 
+exit is west.   
+~
+0 9 0
+D3
+~
+~
+1 4925 4953
+S
+#4956
+The Wine Cellar~
+There is an old tunnel to the west here.  But the walls have collapsed 
+and the route is impassable.  There is another passageway to the south.  To 
+the north you see huge wooden casks along side the tile path.   
+~
+0 9 0
+D0
+~
+~
+0 0 4953
+D2
+~
+~
+0 0 4957
+S
+#4957
+The Wine Cellar~
+Something is written on the wall here, but even with your light it is 
+much too dark to read.  To the north is the path to the wooden casks.  To 
+the south is a large wooden door with a huge black padlock on it.   
+~
+0 9 0
+D0
+~
+~
+0 0 4956
+D2
+~
+door~
+3 4929 4958
+M 150 H 150
+S
+#4958
+The Sommelier's Stock Room~
+This is where the lord kept his finest vintages.  The walls are lined 
+with rows of bottles.  They look extremely old.  There is a small desk and 
+chair here.  On the desk is a registry of all the wines in the room.   
+~
+0 9 0
+D0
+~
+door~
+3 4929 4957
+S
+#4998
+Grog's Test Spot~
+This is the room where new mobs and bad mortals are tested.
+~
+0 270016520 0
+D3
+~
+~
+1 0 4999
+M 0 H 0
+S
+#4999
+Grog's Cool Spot~
+The sun shines in through huge oversized windows. The ceiling and walls
+are covered with colorful murals. A beautiful woman is in one corner of the
+room playing a harp. Servants, wearing some kind of roman-like cloth
+robes, run to and fro carrying wine and plates of fruit and cheese
+to any who desire.
+~
+0 270008328 0
+O grog~
+D1
+~
+~
+1 0 4998
+M 400 H 400
+S
+#0
+
+
+
+#SPECIALS
+M 4901 spec_guard Load to: a mumbling dwarf
+M 4905 spec_cast_cleric Load to: Pierre the chef
+M 4906 spec_cast_mage Load to: Bartholomew the Grand Mage
+M 4913 spec_breath_any Load to: Artemis the Great
+M 4915 spec_cast_mage Load to: Lady Monique
+M 4917 spec_cast_cleric Load to: Lord Nerual
+M 4918 spec_cast_thief Load to: Nicole the Nanny
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 4903 0 2
+D 0 4904 2 2
+D 0 4906 0 1
+D 0 4908 1 1
+D 0 4908 2 1
+D 0 4909 0 1
+D 0 4910 2 1
+D 0 4911 0 1
+D 0 4912 2 1
+D 0 4912 5 2
+D 0 4913 4 2
+D 0 4915 2 2
+D 0 4916 3 1
+D 0 4922 0 1
+D 0 4923 2 1
+D 0 4924 2 1
+D 0 4925 0 1
+D 0 4926 2 2
+D 0 4927 0 2
+D 0 4928 0 2
+D 0 4928 2 2
+D 0 4929 2 2
+D 0 4930 0 2
+D 0 4938 2 1
+D 0 4939 0 2
+D 0 4939 2 1
+D 0 4940 0 1
+D 0 4941 0 1
+D 0 4943 2 2
+D 0 4944 1 1
+D 0 4945 0 1
+D 0 4945 1 1
+D 0 4945 3 1
+D 0 4947 2 1
+D 0 4949 0 2
+D 0 4950 1 2
+D 0 4950 3 2
+D 0 4951 1 2
+D 0 4952 3 2
+D 0 4953 1 2
+D 0 4953 3 2
+D 0 4954 1 2
+D 0 4955 3 2
+D 0 4957 2 2
+D 0 4958 0 2
+D 0 4998 3 2
+D 0 4999 1 2
+M 1 4900 1 4901 1
+M 1 4901 1 4903 1
+E 0 4901 0 16
+G 0 4904 0
+M 1 4902 3 4906 1
+M 1 4902 3 4907 2
+M 1 4902 3 4907 2
+M 1 4903 2 4908 1
+E 0 4903 0 3
+M 1 4903 2 4909 1
+E 0 4902 0 16
+M 1 4904 1 4910 1
+E 0 4905 0 16
+G 0 4908 0
+M 1 4905 1 4911 1
+E 0 4906 0 17
+G 0 4907 0
+M 1 4919 1 4915 1
+G 0 4925 0
+O 0 4909 0 4916
+P 0 4911 99 4909 1
+M 1 4906 1 4917 1
+G 0 4910 0
+E 0 4938 0 1
+O 0 4913 0 4919
+P 0 4914 99 4913 1
+M 1 4907 1 4919 1
+E 0 4912 0 17
+M 1 4908 1 4919 1
+M 1 4909 3 4923 1
+G 0 4915 0
+M 1 4910 1 4927 1
+M 1 4914 2 4928 1
+M 1 4912 1 4929 1
+E 0 4916 0 16
+M 1 4914 2 4930 1
+M 1 4911 1 4931 1
+G 0 4918 0
+M 1 4909 3 4936 1
+M 1 4909 3 4940 1
+G 0 4917 0
+M 1 4913 1 4942 1
+E 0 4919 0 12
+M 1 4915 1 4944 1
+E 0 4922 0 5
+E 0 4923 0 3
+E 0 4924 0 15
+M 1 4917 1 4946 1
+E 0 4920 0 6
+E 0 4921 0 16
+M 1 4916 2 4947 2
+M 1 4916 2 4947 2
+M 1 4918 1 4948 1
+E 0 4927 0 17
+E 0 4926 0 16
+M 1 4920 1 4951 1
+G 0 4928 0
+M 1 4921 1 4952 1
+M 1 4922 1 4954 1
+E 0 4931 0 6
+G 0 4930 0
+E 0 4936 0 10
+M 1 4923 1 4955 1
+E 0 4932 0 9
+E 0 4933 0 8
+E 0 4934 0 16
+M 1 4924 1 4956 1
+E 0 4935 0 16
+G 0 4929 0
+M 1 4925 1 4958 1
+G 0 4937 0
+E 0 4948 0 5
+E 0 4950 0 17
+O 0 4949 0 4999
+P 0 4947 99 4949 1
+P 0 4930 99 4949 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

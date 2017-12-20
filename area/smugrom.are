@@ -1,0 +1,1010 @@
+#AREADATA
+Name Smugglers Den~
+Builders None~
+VNUMs 10000 10033
+Credits { 5 25} Sara        Smugglers Den~
+Security 9
+Xcontinent 0
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#10000
+cave rat~
+a cave rat~
+A nasty looking cave rat snarls and attacks!
+~
+Almost the size of a small dog, this nasty looking rat is covered with
+mangy looking fur, looking entirely unwholesom and unfriendly.
+~
+rabbit~
+ABCFGT DJMNPVZac 0 0
+15 1 3d9+208 0d0+0 2d6+3 bite
+0 0 0 0
+FH 0 0 0
+stand stand none 0
+AGHMV ABCDEFHJK tiny 0 the guilds~
+#10001
+smuggler guard~
+a smuggler guard~
+A smuggler stands guard, watching for trespassers
+~
+A smuggler stands guard, watching for trespassers.  Dirty and unshaven,
+the smuggler looks like a tough customer.  The smell of him alone is
+enough to knock you off your feet!
+~
+human~
+ABFGS DJVZ -300 0
+20 1 3d9+333 3d9+333 2d8+5 pound
+-5 -5 -5 -5
+AFIKU 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#10002
+river sprite~
+a river sprite~
+A nasty looking river sprite resents your intrusion
+~
+A river sprite is barely distinguishable from the river surround it... it
+looks like its made out of water moveing through water!
+~
+elf~
+AFGS DJPQZ -250 0
+22 0 5d10+400 5d10+400 4d4+6 pound
+-5 -5 -5 -5
+0 0 BE Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#10003
+mean smuggler~
+a mean smuggler~
+A really, REALLY mean looking smuggler glowers at you
+~
+Wow, this guy looks tough.  Real, real tough.  Bet this momma raised him
+on nails and barbed wire for breakfast.  If I were you, I woulden't make
+any comments about his momma.
+~
+human~
+ABCFGS HNVc 0 0
+25 -1 5d10+550 5d10+550 2d10+7 punch
+-10 -10 -10 -10
+0 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK huge 0 the guilds~
+#10004
+clone mobile~
+a clone mobile~
+A clone mobile is here.
+~
+A clone mobile looks pretty mean
+~
+unique~
+ABCGT DJNPVZa 0 0
+15 1 3d9+208 0d0+0 2d6+3 bite
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEF tiny 0 the guilds~
+#10005
+cave bear~
+a cave bear~
+A cave bear is here.
+~
+A cave bear looks pretty mean.
+~
+bear~
+ABCGT DJNPVZa 0 0
+15 1 3d9+208 0d0+0 2d6+3 bite
+0 0 0 0
+DEO 0 EI 0
+stand stand none 0
+AGHMV ABCDEFHJKUV large 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#10000
+rat tooth~
+a rats tooth~
+A nasty, pointy rats tooth pricks your finger~
+iron~
+key 0 A
+0 0 0 0 0
+0 10 0 P
+#10001
+dirk~
+an iron dirk~
+The dirk has lost its shine, but the edge is still sharp.~
+iron~
+weapon 0 AN
+dagger 2 3 pierce G
+13 30 0 P
+A
+18 1  
+#10002
+leather pants~
+torn leather pants~
+A pair of torn leather pants~
+~
+armor 0 AF
+6 6 6 4 0
+20 20 0 P
+A
+19 1  
+#10003
+jerkin~
+a torn leather jerkin~
+A torn leather jerkin gives off the most charming smell~
+~
+armor ac AD
+7 7 7 3 0
+20 20 0 P
+A
+4 2  
+#10004
+bandana~
+a bandana~
+A black bandana is a token of the smugglers band~
+cloth~
+clothing Y AM
+0 0 0 0 0
+20 10 0 P
+A
+1 1  
+A
+19 2  
+#10005
+fish~
+dried fish~
+Partially dried fish looks edible... barely.~
+~
+food 0 A
+5 1 0 0 0
+0 5 0 P
+#10006
+fishing pole~
+a fishing pole~
+Hey!  A fishing pole...~
+~
+staff AB AO
+20 3 3 'faerie fog' 0
+20 1 1000 P
+#10007
+waterskin skin ~
+a waterskin~
+A large waterskin hangs from the wall.~
+~
+drink 0 0
+20 20 'water' 0 0
+0 5 0 P
+#10008
+dart~
+a strange dart~
+You see a little dart here.~
+wood~
+throwing 0 AO
+5 6 pierce 15 'burning hands'
+0 10 510 P
+#10009
+boulder~
+a large boulder~
+You see a large boulder on the ground.~
+stone~
+throwing 0 AO
+5 6 crush 15 'tsunami'
+0 10 0 P
+#10010
+icy white scale~
+a beautiful icy-white scale~
+You see a pretty icy-white scale on the ground.~
+scale~
+throwing 0 AO
+8 6 pierce 40 'ice bolt'
+35 10 0 P
+#10011
+off white scale~
+a beautiful off-white scale~
+You see a pretty off-white scale on the ground.~
+scale~
+throwing 0 AO
+8 6 pierce 40 'demonfire'
+35 10 0 P
+#10012
+pure white scale~
+a beautiful pure-white scale~
+You see a pretty pure-white scale on the ground.~
+scale~
+throwing 0 AO
+8 6 pierce 40 'ray of truth'
+35 10 0 P
+#10013
+small gem weapon~
+a small gem weapon~
+You see a small gem weapon on the ground.~
+gem~
+throwing 0 AO
+5 6 slash 30 'pyrotechnics'
+18 10 0 P
+#10014
+gem weapon~
+a gem weapon~
+You see a gem weapon on the ground.~
+gem~
+throwing 0 AO
+6 6 pierce 35 'lightning bolt'
+29 10 0 P
+#10015
+large gem weapon~
+a large gem weapon~
+You see a large gem weapon on the ground.~
+gem~
+throwing 0 AO
+7 6 slash 40 'acid blast'
+36 10 0 P
+#10016
+magical mace~
+a magical mace~
+The mace looks man made~
+~
+weapon U AN
+mace 2 3 slash 0
+13 30 0 P
+#10017
+magical dagger~
+a magical dagger~
+The dagger looks man made~
+mithril~
+weapon U AN
+dagger 2 3 slash 0
+13 30 0 P
+#10018
+magical sword~
+a magical sword~
+The sword looks man made~
+~
+weapon U AN
+sword 2 3 slash 0
+13 30 0 P
+#10019
+magical spear~
+a magical spear~
+The spear looks man made~
+~
+weapon U AN
+exotic 2 3 slash 0
+13 30 0 P
+#10020
+magical staff~
+a magical staff~
+The staff looks man made~
+~
+weapon U AN
+staff 2 3 slash 0
+13 30 0 P
+#10021
+magical axe~
+a magical axe~
+The axe looks man made~
+~
+weapon U AN
+axe 2 3 slash 0
+13 30 0 P
+#10022
+magical flail~
+a magical flail~
+The flail looks man made~
+~
+weapon U AN
+flail 2 3 slash 0
+13 30 0 P
+#10023
+magical whip~
+a magical whip~
+The whip looks man made~
+~
+weapon U AN
+whip 2 3 slash 0
+13 30 0 P
+#10024
+magical polearm~
+a magical polearm~
+The polearm looks man made~
+~
+weapon U AN
+polearm 2 3 slash 0
+13 30 0 P
+#10025
+potion dazzling~
+a dazzling potion~
+A small potion full of stars has carelessly been left here.~
+glass~
+potion G AO
+25 'mirror image' 'cloak of mind' 'heal' '(null)'
+0 10 220 P
+#10026
+potion infuriating~
+an infuriating potion~
+A small potion full of hatred has carelessly been left here.~
+glass~
+potion G AO
+25 'frenzy' 'bless' 'armor' '(null)'
+0 10 220 P
+#10027
+potion illusionary~
+an illusionary potion~
+A small potion full of shadows has carelessly been left here.~
+glass~
+potion G AO
+25 'blur' 'sanctuary' 'bark skin' '(null)'
+0 10 220 P
+#10028
+magical claws~
+a pair of magical claws~
+These exotic claws looks flimsy.~
+~
+weapon U AN
+exotic 2 3 claw 0
+13 30 0 P
+#10029
+potion invigorating~
+an invigorating potion~
+A small potion full of bubbles has been left here.~
+glass~
+potion G AO
+25 'haste' 'giant strength' 'stone skin' '(null)'
+0 10 220 P
+#0
+
+
+
+#ROOMS
+#10000
+The Thor~
+Tall, knee deep grass rolls and waves in the breeze as you look down
+the hill.  The moon overhead gives off an eerie light, making it seem
+like shadows play amongst the rippling blades of silver and green.
+Behind you, the woods grow tall, branches like fingers reaching up to the
+star filled sky, while below the flat plain moves like something alive as
+the wind pushes through the fields.  Far off behind you, you hear the
+howl of the coyote, and as you turn your head the whisper of an owl's
+wings reach your ears as a ghostly form swoops across the clearing.
+~
+0 4 3
+S
+#10001
+A narrow path in the forest.~
+The woods widen here, with several large rocks in amongst the trees.  The
+birds have gone quiet, and nothing seems to be moving at all.  The deathly
+silence is unnerving, and you are eager to leave, but you are unsure whether
+to go forwards or turn back.
+~
+0 0 3
+D1
+Exit ~
+~
+0 -1 10002
+D3
+Exit ~
+bush~
+0 -1 10033
+S
+#10002
+The path widens.~
+As you warily walk on through the forest, you wonder what is in store for
+you ahead.  The woods are still near silent, twigs snapping under your feet
+are alarmingly loud, making you even more cautious.  You wonder if you should
+rest here to prepare for what may be in store, or press onwards.
+~
+0 0 3
+D1
+Exit ~
+~
+0 -1 10003
+D3
+Exit ~
+~
+0 -1 10001
+S
+#10003
+The mouth of the cave~
+The wooded path you have been following ends abruptly in a small clearing.
+You wonder how you couldn't see it until you were upon it, and as you enter
+the small area, you notice the entrance to a cave behind some bushes.  Every
+creak your armor makes seems louder than ever as you try to move silently
+onwards.
+~
+0 0 2
+D1
+Exit ~
+~
+0 -1 10004
+D3
+Exit ~
+~
+0 -1 10002
+S
+#10004
+Inside the smugglers cave~
+As you crouch down through the entrance to the cave, you find it widens
+rapidly into a much larger place than you expected.  The sound of trickling
+water plays in your ears, and the scuffle of small feet echos around you.
+You squint and hold your light higher, trying to see into the thick darkness
+ahead, but to no avail.
+~
+0 13 0
+D0
+Exit ~
+~
+0 -1 10005
+D1
+Exit ~
+~
+0 -1 10009
+D3
+Exit ~
+~
+0 -1 10003
+S
+#10005
+Inside the smugglers cave~
+The gloominess in the cave is depressing, and the trickling and scuffles
+from the darkness are starting to get on your nerves.  The damp makes breathing
+difficult, and the light you hold barely cuts into the inky black around you.
+~
+0 9 0
+D0
+Exit ~
+~
+0 -1 10006
+D1
+Exit ~
+~
+0 -1 10006
+D2
+Exit ~
+~
+0 -1 10004
+S
+#10006
+Inside the smugglers cave~
+The gloominess in the cave is depressing, and the trickling and scuffles
+from the darkness are starting to get on your nerves.  The damp makes breathing
+difficult, and the light you hold barely cuts throughthe inky black around you.
+~
+0 9 0
+D0
+Exit ~
+~
+0 -1 10007
+D1
+Exit ~
+~
+0 -1 10007
+D2
+Exit ~
+~
+0 -1 10009
+D3
+Exit ~
+~
+0 -1 10005
+S
+#10007
+Inside the smugglers cave.~
+The gloominess in the cave is depressing, and the trickling and scuffles
+from the darkness are starting to get on your nerves.  The damp makes breathing
+difficult, and the light you hold barely cuts into the inky black surrounding
+you.
+~
+0 9 0
+D0
+Exit ~
+~
+0 -1 10005
+D1
+Exit ~
+~
+0 -1 10006
+D2
+Exit ~
+~
+0 -1 10008
+D3
+Exit ~
+~
+0 -1 10006
+S
+#10008
+Inside the smugglers cave~
+The gloominess in the cave is depressing, and the trickling and scuffles
+from the darkness are starting to get on your nerves.  The damp makes breathing
+difficult, and the light you hold barely cuts into the inky black surrounding
+you.
+~
+0 9 0
+D0
+Exit ~
+~
+0 -1 10007
+D3
+Exit ~
+~
+0 -1 10009
+S
+#10009
+Inside the smugglers cave~
+The gloominess in the cave is depressing, and the trickling and scuffles
+from the darkness are starting to get on your nerves.  The damp makes breathing
+difficult, and the light you hold in your hand barely cuts into the inky black
+surrounding you.  A faint difference in the darkness to the south catches your
+attention.
+~
+0 9 0
+D0
+Exit ~
+~
+0 -1 10006
+D1
+Exit ~
+~
+0 -1 10008
+D2
+Exit ~
+~
+0 -1 10010
+D3
+Exit ~
+~
+0 -1 10004
+S
+#10010
+A small alcove~
+You stumble into a small alcove, almost hitting your head on the jagged roof.
+The darkness is almost suffocating, and you wonder if you will ever see daylight
+again.  Squinting, you think you see a tunnel to the south.
+~
+0 9 0
+D0
+Exit ~
+~
+0 -1 10009
+D2
+Exit ~
+~
+0 -1 10011
+S
+#10011
+A tunnel~
+Hunkering down on your hands and knees, you find yourself in a small
+tunnel.  A faint light ahead gives you some small hope of getting out of
+the depressing darkness, and you crawl onwards.
+~
+0 13 0
+D0
+Exit ~
+~
+0 -1 10010
+D2
+Exit ~
+~
+0 -1 10012
+S
+#10012
+The end of the tunnel~
+A small rush torch is the most wonderful thing you've seen since entering
+this miserable cave, its faint light barely filling the room.  You look to
+he north and shudder, going back isn't even a consideration.  You peer around
+the small room you're in, trying to find another exit.  You know there has to
+be one somewhere!
+~
+0 9 0
+D2
+Exit ~
+~
+2 10000 10013
+S
+#10013
+The back door~
+You emerge from the tunnel into a small, airy cave.  The entranceway to the
+south is clearly visable, and torches glow brightly on the wall to light your
+way.  Sounds filter in from outside, birds are singing, and you think you can
+hear the sound of people in the distance.
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 10012
+D2
+Exit ~
+~
+0 -1 10014
+S
+#10014
+The camp~
+You find yourself standing on a dusty pathway winding through a small camp.
+The cave to the north is barely visible behind some shrubs, while to the south
+you can hear the sound of a river.
+~
+0 0 2
+D0
+Exit ~
+~
+0 -1 10013
+D1
+Exit ~
+~
+0 -1 10018
+D2
+Exit ~
+~
+0 -1 10023
+D3
+Exit ~
+~
+0 -1 10015
+S
+#10015
+The camp~
+You wander along a dusty path through the camp, wondering where everybody
+is hiding.  A small shack is to the north, while the pathway continues onwards.
+Perhaps they're all down at the river.
+~
+0 0 2
+D0
+Exit ~
+~
+0 -1 10016
+D1
+Exit ~
+~
+0 -1 10014
+D3
+Exit ~
+~
+0 -1 10017
+S
+#10016
+A small shack~
+The clutter in here is unbelievable.  Bits and pieces of broken equipment
+are everywhere, and dirty dishes with half eaten meals cover most flat
+surfaces.  No wonder they don't bother locking the door, nothing in here
+is worth stealing!
+~
+0 8 2
+D2
+Exit ~
+~
+0 -1 10015
+S
+#10017
+The camp~
+The small, dusty trail you've been following ends here, to your surprise.
+The river can still be heard to the south, but the small camp continues no
+further.  Its odd that there's so few people around...
+~
+0 0 2
+D1
+Exit ~
+~
+0 -1 10015
+D2
+Exit ~
+~
+0 -1 10026
+S
+#10018
+The camp~
+The dusty trail continues through the little camp you've found, but
+surprisingly, you don't see anyone.  A small shack lies to the north, while to
+the south the river rushes onwards.
+~
+0 0 2
+D0
+Exit ~
+~
+0 -1 10019
+D1
+Exit ~
+~
+0 -1 10020
+D3
+Exit ~
+~
+0 -1 10014
+S
+#10019
+A small shack~
+Yuck!  What a mess!  Bits of offal and rotting food are mixed in with old
+clothing and broken armour, with the odd snapped blade of an old weapon sticking
+out.  What kind of person could live in this mess?  You hold your nose and back
+out, since there's obviously nothing here worth looking at.
+~
+0 8 2
+D2
+Exit ~
+~
+0 -1 10018
+S
+#10020
+The camp~
+The dusty trail comes to an end, it seems that the camp isn't very big
+after all.  In fact, the whole place doesn't seem to be of much use to anyone!
+Perhaps its worth exploring the tent you can see to the north, it looks like
+its in good repair at least.
+~
+0 0 2
+D0
+Exit ~
+~
+0 -1 10021
+D3
+Exit ~
+~
+0 -1 10018
+S
+#10021
+A well worn tent~
+The tent is quite tidy inside, everything has its place.  There is none
+of the clutter you've seen in the rest of the camp, which makes you wonder
+if the occupant is close by.  Rugs cover a wooden floor, which strikes you
+as odd, since you are in a tent.
+~
+0 8 0
+D2
+Exit ~
+~
+0 -1 10020
+D5
+Exit ~
+~
+1 -1 10022
+S
+#10022
+A comfortable den~
+So THIS is where the owner of the tent is!  Nice place down here, just
+big enough for two.  Too bad he doesn't want to share.
+~
+0 520 0
+D4
+Exit ~
+~
+1 -1 10021
+S
+#10023
+A spit on the river~
+You're on a spit sticking into a small river.  Its obviously a good spot
+for fishing, as there are several racks of fish drying in the sun along the
+river banks.  The river rushes onwards not far from your feet.
+~
+0 0 7
+D0
+Exit ~
+~
+0 -1 10014
+D2
+Exit ~
+~
+0 -1 10024
+S
+#10024
+On a small river~
+The river is deeper then you expected, and moving much more quickly then
+you bargained for. You can go west, following the flow downriver, or battle
+the current towards the east.
+~
+0 0 7
+D0
+Exit ~
+~
+0 -1 10023
+D1
+Exit ~
+~
+0 -1 10030
+D3
+Exit ~
+~
+0 -1 10025
+S
+#10025
+On the river~
+The river pulls you swiftly along, smooth as glass without a rock or plant
+in sight in the water itself.  The banks are thick with verdant plantlife,and
+fish leap up to catch insects as you watch.  Don't you wish you had a fishing
+pole?
+~
+0 0 7
+D1
+Exit ~
+~
+0 -1 10024
+D2
+Exit ~
+~
+0 -1 10029
+D3
+Exit ~
+~
+0 -1 10026
+S
+#10026
+On the river~
+You move swiftly along the river, wondering where it leads.  Its so much
+easier to drift westwards with the current, surely this is the way to travel!
+You spy a spot on the bank to the north where you could get ashore not too far
+from the camp.
+~
+0 0 7
+D0
+Exit ~
+~
+0 -1 10017
+D1
+Exit ~
+~
+0 -1 10025
+D3
+Exit ~
+~
+0 -1 10027
+S
+#10027
+On the river~
+The small but swift river has carried you past the camp, and on to new
+adventures.  You hear a rushing to the west, perhaps this is where this small
+tributary joins with a larger river, one that actually goes somewhere!
+~
+0 0 7
+D1
+Exit ~
+~
+0 -1 10026
+D3
+Exit ~
+~
+0 -1 10028
+S
+#10028
+A waterfall~
+Ooops!  So much for river travel.  Before you know it you're plummeting over
+the edge of a huge waterfall.  At least you lose conciousness before your bones
+are pounded into a fine pulp.
+~
+0 4 7
+S
+#10029
+A small bank for two~
+Hidden among the reeds and rushes of the river is a small spot on the bank,
+just big enough for two.  There's even a fishing pole here, perfect for a lazy
+afternoon away from the usual bloodshed and killing.  Makes you want to kick
+back and go to sleep, doesn't it?
+~
+0 0 2
+D0
+Exit ~
+~
+0 -1 10025
+S
+#10030
+On the river~
+The sounds of the camp filter down onto the river as you wind your way
+along it... its surprising how swiftly its moving along, for such a small
+river.
+~
+0 0 7
+D1
+Exit ~
+~
+0 -1 10031
+D3
+Exit ~
+~
+0 -1 10024
+S
+#10031
+On the river~
+The river moves swiftly along, and it takes all that you have to maintain
+your position on it.  You wonder what the source of the speed and power for
+such a small rivulet is.  It looks like you might be able to bank your boat
+to the north, and to the south it looks like the river widens.
+~
+0 0 7
+D2
+Exit ~
+~
+0 -1 10032
+D3
+Exit ~
+~
+0 -1 10030
+S
+#10032
+A wider spot on the river~
+The river widens here, and to the south you can see where it meets up with a
+much larger river. It takes all your strength to keep afloat as the water
+rushes onwards, trying to sweep you downstream.  However, you are determined
+to explore ahead, no turning back.
+~
+0 4 7
+S
+#10033
+A narrow wooded path.~
+A narrow wooded path winds through the trees, making it difficult to see
+ahead.  Bushes grab at your clothing as you push your way through, the
+noise startling birds up into the sky.
+~
+0 0 2
+D1
+Exit ~
+bush~
+1 10000 10001
+D2
+~
+~
+0 -1 6023
+S
+#0
+
+
+
+#SPECIALS
+M 10000 spec_poison Load to: a cave rat
+M 10001 spec_nasty Load to: a smuggler guard
+M 10003 spec_nasty Load to: a mean smuggler
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 10012 2 2
+D 0 10021 5 1
+D 0 10022 4 1
+D 0 10033 1 1
+M 1 10001 2 10001 2
+E 0 10003 0 5
+E 0 10002 0 7
+E 0 10004 0 14
+E 0 10001 0 16
+M 1 10001 2 10001 2
+E 0 10002 0 7
+E 0 10003 0 5
+E 0 10001 0 16
+M 1 10000 3 10004 2
+M 1 10000 3 10004 2
+M 1 10000 7 10007 2
+M 1 10000 7 10007 2
+G 0 10000 0
+M 1 10000 5 10010 2
+M 1 10000 5 10010 2
+M 1 10003 1 10022 1
+G 0 10004 0
+O 0 10007 0 10022
+O 0 10005 0 10023
+M 1 10002 2 10025 1
+M 1 10002 5 10026 2
+G 0 10005 0
+M 1 10002 5 10026 2
+G 0 10005 0
+O 0 10006 0 10029
+M 1 10002 5 10030 1
+G 0 10005 0
+M 1 10002 5 10031 1
+G 0 10005 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

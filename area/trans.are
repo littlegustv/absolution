@@ -1,0 +1,265 @@
+#AREADATA
+Name Transylvania~
+Builders Mouelk~
+VNUMs 13200 13299
+Credits { None} Mouelk      Transylvania~
+Security 1
+Xcontinent 1
+Age 0
+End
+
+
+
+#MOBILES
+#13200
+A sickly looking guard~
+A sick guard~
+A sickly looking guard stands here.
+~
+A sick looking guard is here, at a second glance you notice that there
+are 2 puncture wounds on his neck and is it your imangination that you think
+you see very sharp pointed teeth?
+~
+bat~
+ABG HTVZa -1000 0
+35 3 10d10+1300 1d1+100 4d7+11 none
+-11 -11 -11 -11
+CFH BKZ I HNSX
+stand stand male 500
+AGHMV ABCDEFGHIJKP medium 0
+#13201
+Vampire~
+a vampire~
+A vampire is here waiting for you to come closer.
+~
+This vampire looks hungry, his complection is very white and his teeth are sharp.
+The blood running down his chin suggests that he might have eaten recently. Hopefully
+his last meal was full filling so he doesn't take a chunk out of your neck.
+~
+bat~
+ABG TVZ 0 0
+40 4 1d1+1 1d1+100 4d8+13 drain
+-13 -13 -13 -13
+FH AB IP HSX
+stand stand male 2000
+AGHMV ABCDEFGHIJKP medium 0
+#13202
+idiot~
+an idiot~
+A stupid idiot
+~
+An Idoit stands here looking like...well...an idiot
+~
+sliver~
+ABG 0 -1000 0
+60 6 1d1+1 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 B K
+stand stand none 10000
+ABHMVZ E medium 0
+#13299
+Healer~
+A healer~
+A healer is here, she reminds you of somebody you met in the past.
+~
+As you take a second look at her, you finally figure it out, it is Arienne, Mouelk's Mother
+but that can't be as Arienne passed from this world a long time ago, then you realize it,
+a represenation of Arienne.
+~
+black dragon~
+AQa TZ 1000 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 B BEK L
+stand stand female 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0
+#0
+
+
+
+#OBJECTS
+#13200
+The Key to the city~
+an old city key~
+A old style key made for the city gates is here.~
+silver~
+key U AO
+0 0 0 0 0
+0 50 100 P
+#13201
+a worn sword~
+a worn sword~
+This sword has seen many battles, the dents and dings in the blade suggest that it has seen more then a few masters.~
+gold~
+weapon EJ AN
+sword 5 5 slash A
+35 0 0 P
+#13202
+Mouelk's Super Sword~
+{rMouelk's {mSuper {cSword{x~
+{rMouelk's {mSuper {cSword{x is laying here.~
+Silver~
+weapon T AN
+sword 50 50 slash Y
+54 0 0 P
+#0
+
+
+
+#ROOMS
+#13200
+Before the Gates~
+You stand before the gates of a Large city, it seems almost dead and the gates look
+old and worn, and the guards standing infront of the gates look pale white and sickly.
+On one of the gates you see a notice tacked upon it.
+~
+0 4 2
+E
+notice~
+{DNOTICE!!!!{x
+This City is here by closed by order of me.
+ 
+{GDaisy{x
+~
+D0
+~
+gates~
+1 13200 13201
+S
+#13201
+Entrance to the City~
+You have started your journey into the forbiden city of Transylvania. You sure hope that
+Daisy isn't looking down on you right now.  You actually stand inbetween 
+two watch towers that guard the city entrance.
+To the east and west you see doors that should lead up into the towers.
+And you see to the north the rest of the city.
+~
+0 8 0
+D0
+~
+~
+0 0 13206
+D1
+~
+~
+1 0 13202
+D2
+~
+~
+1 13200 13200
+D3
+~
+~
+1 0 13203
+S
+#13202
+East Tower~
+~
+0 524296 0
+D3
+~
+~
+1 0 13201
+D4
+~
+~
+0 0 13204
+S
+#13203
+~
+~
+0 0 0
+D1
+~
+~
+1 0 13201
+D4
+~
+~
+0 0 13205
+S
+#13204
+~
+edit room reset
+~
+0 524288 0
+D5
+~
+~
+0 0 13202
+S
+#13205
+~
+~
+0 0 0
+D5
+~
+~
+0 0 13203
+S
+#13206
+~
+~
+0 0 0
+D2
+~
+~
+0 0 13201
+S
+#13299
+{rMouelk's {mPrivate {gGlade{x~
+This is Mouelk's private Glade where he can go and just think.
+~
+0 32788 3
+M 500 H 500
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#13202
+if ispc $n
+say I'm being killed by a player!
+end if
+~
+#0
+
+#RESETS
+D 0 13200 0 2
+D 0 13201 1 2
+D 0 13201 2 2
+D 0 13201 3 2
+D 0 13202 3 2
+D 0 13203 1 2
+M 1 13200 2 13200 2
+E 0 13200 0 3
+E 0 13201 0 16
+M 1 13200 2 13200 2
+E 0 13201 0 16
+M 1 13202 20 13204 10
+M 1 13202 20 13204 10
+M 1 13202 20 13204 10
+M 1 13202 20 13204 10
+M 1 13202 20 13204 10
+M 1 13202 20 13204 10
+M 1 13202 20 13204 10
+M 1 13202 20 13204 10
+M 1 13202 20 13204 10
+M 1 13202 20 13204 10
+M 1 13299 1 13299 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,1892 @@
+#AREADATA
+Name Playground~
+Builders None~
+VNUMs 15300 15399
+Credits { 1  5} Cauthon     Playground~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#15300
+child sliver~
+a child sliver~
+A child sliver is standing here, playing a game.
+~
+A small sliver is walking around here. It notices you and walks over
+to you, and extends a claw, beckoning you to come play with it. As you
+recoil from the sharp claws, it realises what it did and quickly
+retracts its claw. It soon goes back to the game it is playing with the other
+slivers. You notice how quiet they all are, as they are communicating
+telepathically, and cannot yet speak.
+~
+sliver~
+AG 0 999 0
+3 0 2d5+32 1d1+100 1d7+1 claw
+7 7 7 7
+R 0 B K
+stand stand either 150
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#15301
+child gargoyle~
+a child gargoyle~
+A child gargoyle is here, trying to learn to fly.
+~
+A small gargoyle is here, playing on the play structure. When you come
+close to it, it is startled, and tries to flap its wings to fly away.
+It gets a foot or so off the air, but then grows tired and falls to the
+ground, making a very heavy sound for something its size. Afraid that it
+has been hurt you approach it, but it is completely uninjured and walks
+off.
+~
+gargoyle~
+AG JT 999 0
+4 0 2d7+46 1d1+100 1d5+1 crush
+6 6 6 6
+R Z BP KLQ
+stand stand either 150
+ABHMXZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#15302
+child troll young~
+a young troll~
+A troll child is here, practicing beating people up.
+~
+A child troll is here.  It is not a small troll, for there is no such
+thing as a small troll.  They're almost as big as you are, and about a tenth
+your age.  They notice your approach and quickly enter a defensive stance. 
+Realising they're disadvantage, they runs off and hide.  Can you trust that
+they're really gone?  
+~
+troll~
+AG J 999 0
+3 0 3d6+36 1d1+100 1d5+0 none
+7 7 7 7
+R 0 BQ HK
+stand stand either 150
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#15303
+human young small child~
+a young human~
+A young human is here, thinking deeply.
+~
+A small human is here, clearly a child. He has a certain curiosity
+about him which only children have, and which humans seem to have
+in abundance. He looks over at you, inquisitively, seeing something new.
+After a few moments though, he looks away, his gaze being taken away
+by some other object of interest.
+~
+human~
+AG 0 999 0
+2 0 2d7+21 1d1+100 1d5+0 punch
+8 8 8 8
+R 0 0 0
+stand stand male 100
+ABHMV ABCDEFGHIJKLPQUVWX small 0 the guilds~
+#15304
+girl skip skipping human~
+a young human~
+A little human girl is here, skipping rope.
+~
+A little girl with ribbon in her hair is here skipping rope. She's singing
+a little song under her breath, and skipping to the beat of the song. You
+try to hear what she's singing, but the skipping rope doesn't let you
+get too close. She suddenly switches into criss-cross for a few skips,
+then returns to the normal method of skipping. She's very good at it.
+~
+human~
+ABG 0 999 0
+5 0 2d5+58 1d1+100 1d6+1 none
+6 6 6 6
+H 0 0 0
+stand stand female 175
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15305
+sliver swing boy~
+a sliver boy~
+A sliver boy is here, playing on the swings.
+~
+A sliver is playing on the swings here. He has just scrambled onto
+one of the swings, and he's starting to swing back and forth, to see
+how high he can go. Before long, he decides to get off, so he jumps,
+and lands a few feet away, stumbling a bit as he lands.
+~
+sliver~
+ABG 0 999 0
+4 0 2d7+46 1d1+100 1d5+1 none
+6 6 6 6
+0 0 B K
+stand stand male 140
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#15306
+gargoyle monkey bars swing girl~
+a gargoyle girl~
+A gargoyle girl is swinging across the monkey bars.
+~
+A little gargoyle girl is trying to get from the play structure
+across to the wooden platform on the far side. She reaches for the next
+bar, and doesn't quite reach it. She swings and tries again, but still
+doesn't quite make it. So, she swings as far as she can, lets go, uses 
+her wings just a little bit, and manages to make it to the next bar.
+~
+gargoyle~
+ABG JT 999 0
+5 0 2d6+60 1d1+100 1d6+1 none
+5 5 5 5
+0 0 P LQ
+stand stand female 0
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#15307
+basket ball basketball troll boy~
+a troll boy~
+A troll boy is here, bouncing a ball.
+~
+A small troll boy is here, running around on the pavement.
+He's doing his best to dribble the ball, but every so often
+it manages to get away from him and roll a little bit away. Finally,
+he gets close enough to the net, and he shoots... but misses.
+Undiscouraged, he goes a bit further back and tries again, and this time
+manages to get it in.
+~
+troll~
+ABG J 999 0
+5 0 2d6+60 1d1+100 1d6+1 none
+5 5 5 5
+0 0 Q H
+stand stand male 0
+ABHMXZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#15308
+troll bully~
+the bully~
+A troll bully doesn't like the way your face looks.
+~
+A troll bully is walking around, looking for someone to beat up. You
+can see that all the other happy little creatures in the room cower away
+from him, trying not to do anything to antagonize him. He stalks over to
+you, and asks what you are doing in his playground. He doesn't even
+wait for a response before proceeding to inform you as to the consequences
+of being here.
+~
+troll~
+AFG JL 300 0
+9 0 2d6+110 1d1+100 1d8+2 none
+2 2 2 2
+IN 0 Q H
+stand stand male 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#15309
+human child sand castle sandcastle~
+a human~
+A human child is here, building a sandcastle.
+~
+A human child is here, with a shovel in one hand and a pail in the
+other. You notice that there are several lumps on the ground, which are
+probably the work of this young artist. That one, for instance, could be
+a stable for the lump, er castle, that's to the left of it. With a little
+imagination, you realise you are standing in the courtyard of some great
+keep.
+~
+human~
+ABG 0 999 0
+3 0 2d6+35 1d1+100 1d6+0 none
+7 7 7 7
+0 Z 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15310
+hurt sliver small~
+a hurt sliver~
+A small sliver is here, and it looks like he hurt himself.
+~
+You notice lying on the ground is a little sliver. He seems to have
+fallen off of the play structure and cracked his shell or some such.
+He looks much weaker than the other slivers all do. He looks up to you.
+His eyes are watery, he's pleading for help. Will you help this poor fellow?
+~
+sliver~
+AG C 999 0
+2 0 2d7+21 1d1+100 1d5+0 none
+8 8 8 8
+0 0 B K
+stand stand male 75
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#15311
+friend imaginary~
+an imaginary friend~
+An imaginary friend is pretending to be here.
+~
+You notice that a fair number of the people around here seem to be
+talking to thin air. You soon realise that they are talking to imaginary
+friends. Once you realise this, you can begin to actually see them... they look
+vaguely humanoid, though their form shifts... they can be of whatever
+form their creator wants them to be.
+~
+human~
+AG 0 999 0
+3 0 2d5+31 1d1+100 1d6+0 none
+7 7 7 7
+F 0 P 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15320
+cash mob lufia~
+cash mob~
+A cash mob is here, waiting to give you cash.
+~
+This is a mob which was created by Cauthon for when he needs money.
+If you are a mortal, and see this mob, report it to him immediately.
+~
+human~
+AG BQa 0 0
+41 4 25d10+2000 1d1+100 4d8+14 none
+-14 -14 -14 -14
+0 ABILNOPQRa 0 H
+stand stand none 100000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 15320 bers~
+M speech 13105 done~
+#0
+
+
+
+#OBJECTS
+#15300
+throne ornate large~
+Cauthon's throne~
+A large, ornate throne is here, waiting for you to sit on.~
+gold~
+furniture O 0
+1 500 EHK 0 0
+0 50 0 P
+#15301
+chair comfy~
+a comfortable chair~
+A very comfortable looking chair is here.~
+wood~
+furniture 0 0
+1 300 EH 0 0
+0 0 0 P
+#15302
+see saw seesaw.~
+a seesaw~
+A seesaw is here for you to play on.~
+wood~
+furniture 0 0
+2 100 E 0 0
+0 0 0 P
+#15303
+rock play horse rocking~
+a rocking horse~
+A large play horse is here, waiting to ride into the sunset.~
+plastic~
+furniture 0 0
+1 100 BE 0 0
+0 0 0 P
+#15304
+rubber tire~
+a rubber tire~
+A rubber tire is here, suspended from above by a few ropes.~
+plastic~
+furniture 0 0
+4 300 E 0 0
+0 0 0 G
+#15305
+basket ball basketball~
+a basketball~
+A bright orange basketball is slowly rolling away.~
+plastic~
+throwing 0 AOY
+2 2 pierce 9 'lightning bolt'
+5 30 1000 P
+#15306
+skip skipping rope whip~
+a skipping rope~
+A skipping rope has been left here.~
+plastic~
+weapon 0 AN
+whip 1 4 slash 0
+5 100 800 P
+A
+2 1  
+#15307
+plastic pail~
+a plastic pail~
+A plastic pail is here, waiting to be filled.~
+plastic~
+container 0 AO
+25 0 0 10 0
+1 10 200 P
+#15308
+small shovel~
+a small shovel~
+A small shovel is here, ready to help you dig.~
+plastic~
+weapon 0 AN
+mace 1 4 beating 0
+3 50 125 P
+A
+19 1  
+#15309
+water bed waterbed~
+a {Cwaterbed{x~
+A squishy {Cwaterbed{x is jiggling here.~
+linen~
+furniture 0 0
+3 500 BEHK 0 0
+0 0 0 P
+#15310
+lemonade fountain~
+a lemonade fountain~
+A lemonade fountain is here, spouting lemonade.~
+wood~
+fountain 0 0
+100 100 'lemonade' 0 0
+0 0 0 P
+#15311
+Special Wand~
+a carnal wand~
+A wand of carnal reach.~
+wood~
+wand 0 AO
+40 3 3 'fortify' 0
+1 0 0 P
+#15312
+Cauthon Quest Diamond Cauthon's~
+{CCauthon's {mQuest {gDiamond{x~
+{CCauthon's {mQuest {gDiamond{x is glinting in the sun.~
+gem~
+gem W AO
+0 0 0 0 0
+1 1 10000 P
+#15313
+twinkie power~
+A {cTwinkie {xof {YPower{x~
+A twinkie is here, about to give you a sugar buzz.~
+bamboo~
+pill 0 AOY
+30 'bark skin' 'stone skin' 'blur' 'armor'
+1 1 250 P
+#15314
+partial voucher~
+A partial voucher~
+This is a partial voucher. Turn in 2 of these to any 56+ IMM to receive a quest points voucher, 3 of these to receive an hours voucher, 4 to receive an equipment voucher, 6 to receive a restring voucher, or 8 to receive an enchantment voucher.~
+paper~
+trash T AH
+0 0 0 0 0
+0 10 0 P
+#15315
+piece power pie~
+a {Cpiece{x of {RPower {yPie{x~
+A piece of pie is trying to run away. Catch it! Eat it!~
+food~
+pill Y AO
+35 'animal growth' 'giant strength' 'frenzy' 'armor'
+1 10 0 P
+#15316
+sign~
+A sign~
+Going down from here takes you into a 1-room tourney room.~
+wood~
+trash A 0
+0 0 0 0 0
+0 500 0 P
+#15317
+immortal powertrip~
+an immortal's powertrip~
+An immortal's powertrip is here, helping your ego grow.~
+energy~
+pill Ye AOZ
+25 'frenzy' 'fortify' 'withstand death' 'reserved'
+1 10 7500 P
+#15320
+scroll~
+a scroll~
+Cauthon's scroll is here~
+wood~
+scroll 0 A
+46 'bless' 'reserved' 'reserved' 'reserved'
+54 0 0 P
+#15325
+elisa quest prize~
+Elisa's Quest Prize~
+Elisa's Quest Prize is glowing with an aura of strange power.~
+mithril~
+armor TYe AD
+10 10 10 5 0
+51 20 10000 P
+A
+32 1  
+A
+13 40  
+A
+20 -6  
+#15326
+elisa quest prize~
+Elisa's Quest Prize~
+Elisa's Quest Prize is glowing with an aura of strange power.~
+mithril~
+armor TYe AD
+10 10 10 5 0
+51 20 10000 P
+A
+31 1  
+A
+13 40  
+A
+20 -6  
+#15327
+elisa quest prize~
+Elisa's Quest Prize~
+Elisa's Quest Prize is flowing with an aura of strange power.~
+mithril~
+armor TYe AD
+10 10 10 5 0
+51 20 10000 P
+A
+28 1  
+A
+13 40  
+A
+20 -6  
+#15328
+elisa quest prize~
+Elisa's Quest Prize~
+Elisa's Quest Prize is here, glowing with an aura of strange power.~
+wood~
+armor TYe AD
+10 10 10 5 0
+51 20 10000 P
+A
+29 1  
+A
+13 40  
+A
+20 -6  
+#15329
+stryder birthday cake~
+Stryder's Birthday Cake~
+A piece of cake with a small part of the name 'Stryder' is here.~
+food~
+pill 0 A
+50 'mirror image' 'giant strength' 'reserved' 'reserved'
+1 10 0 P
+#15330
+pile snow~
+a pile of snow~
+A pile of snow has fallen here.~
+ice~
+container T 0
+100 0 0 1000 100
+0 10 0 P
+#15331
+snowball ball~
+a snowball~
+This snowball is going to start melting soon!~
+ice~
+throwing PTU AO
+4 3 splatter 0 'reserved'
+1 11 0 P
+#15332
+small leaf~
+{xa small {gleaf{x~
+A little {ggreen leaf{x lays here.~
+leaf~
+pill GIYe AO
+20 'heal' 'blink' 'grandeur' 'grandeur'
+1 10 0 P
+#15333
+black raven feather pill~
+a {DBlack Raven's{x {cFeather{x~
+A slim black feather has been left here.~
+feathers~
+pill Y AO
+20 'darkness' 'greater revitalize' 'cloak of mind' 'invisibility'
+1 10 100 P
+#15334
+seeing stone~
+{Ca {Cse{cein{Wg st{con{Ce{x~
+A perfectly shaped clear orb seems to have been misplaced.~
+crystal~
+armor ABHITYZbe AOZ
+10 10 10 10 0
+51 2 0 P
+A
+4 2  
+A
+31 1  
+A
+3 4  
+#15335
+dark shimmering orb~
+{xa {Ddar{xk shi{Wmmeri{xng {Dorb{x~
+A dark shimmering orb hovers off the ground with brilliant radiance.~
+crystal~
+light ABHITYZbe AOZ
+0 0 999 0 0
+51 1 0 P
+A
+12 25  
+A
+4 1  
+A
+32 1  
+A
+3 2  
+A
+4 2  
+#15336
+girdle many pouches~
+a {Cgirdle {xof MANY {ypouches{x~
+A small girdle lies here.~
+leather~
+container ABHITYZbe ALZ
+700 A 0 50 25
+51 1 0 P
+A
+3 1  
+A
+31 1  
+A
+18 2  
+A
+19 2  
+#15337
+tribal tattoo eagle~
+a {gtribal{x {Dtattoo{x of an {Yeagle{x~
+A magnificent design of tribal art forms in the shape of an eagle and awaits its owner.~
+fire~
+light ABHITYZce AOZ
+0 0 999 0 0
+51 0 0 P
+A
+19 3  
+A
+20 -5  
+A
+2 1  
+A
+29 1  
+A
+18 5  
+#15338
+armbands superior strength bands~
+{YArmbands {xof {ySuperior Strength{x~
+A set of gleaming armbands lie in wait.~
+fire~
+armor ABHITYZae AIZ
+13 13 13 13 0
+51 2 0 P
+A
+19 2  
+A
+18 2  
+A
+20 -1  
+A
+28 1  
+A
+1 1  
+#15339
+shadow greaves~
+{DSh{Wad{xow {DGre{Wave{xs~
+A dusty pair of leather greaves lay in a heap on the floor.~
+leather~
+armor ABHITYZce AIZ
+15 15 15 15 0
+51 1 0 P
+A
+1 1  
+A
+28 1  
+A
+20 -1  
+A
+19 2  
+A
+18 2  
+#15340
+girdle might~
+{xa girdle of {ymight{x~
+A girdle made of the finest bronze glints in the sunlight.~
+bronze~
+container ABHITYZae ALZ
+700 A 0 50 25
+51 5 0 P
+A
+29 1  
+A
+18 2  
+A
+19 2  
+A
+1 1  
+#15341
+star crystal~
+{DSt{xar Cry{Dsta{xl~
+Conjurer item~
+crystal~
+light ABHITYZbe AOZ
+0 0 999 0 0
+51 1 0 P
+A
+4 1  
+A
+32 1  
+A
+4 2  
+A
+3 2  
+A
+12 25  
+#15342
+wreath leaves~
+a {gwreath {xof {gleaves{x from the ancient forest {yAnhendal{x~
+A lush {ggreen {xwreath of {gleaves {xthat was plucked from the forest of {yAnhendal {xlays here.~
+leaves~
+armor ABHITYZe ACZ
+8 8 8 8 0
+51 1 0 P
+A
+19 2  
+A
+18 2  
+A
+13 30  
+A
+12 30  
+A
+32 1  
+A
+4 1  
+#15343
+daikybo armguards~
+Armguards of the {gDaikybo{x~
+An excellent set of well oiled leather armguards await their owner.~
+leather~
+container ABHITYZe AIZ
+700 AC 0 50 75
+51 1 0 P
+A
+18 2  
+A
+19 2  
+A
+29 1  
+A
+2 1  
+#15344
+unholy light abyss~
+{DUn{Wholy {xlight {xfrom the {DAbyss{x~
+A dim light that gives off an orangish glow has been left here.~
+silver~
+light ABHITYZde AOZ
+0 0 999 0 0
+51 1 0 P
+A
+29 1  
+A
+2 1  
+A
+20 -5  
+A
+19 3  
+A
+18 5  
+#15345
+warden camo sleeves~
+the {gWarden's{x pair of {DC{ya{hm{yo{x sleeves~
+You barely notice a pair of camoflouged sleeves on the ground.~
+leather~
+armor ABHITYZae AIZ
+15 15 15 15 0
+51 50 0 P
+A
+19 2  
+A
+18 2  
+A
+20 -1  
+A
+29 1  
+A
+2 1  
+#15346
+pure valour~
+{mPu{Wre Val{mor{x~
+A taste of pure valour is here, humming with energy.~
+energy~
+pill BYe A
+45 'grandeur' 'haste' 'frenzy' 'reserved'
+1 10 250 P
+#15347
+shimmering portal~
+a shimmering portal~
+A {Ddark{x shimmering portal~
+quartz~
+portal Ye AOZ
+0 1 4 10801 0
+1 10 0 P
+#15348
+blessed spiritual sacrament aid~
+Blessed Sacrament of Aid~
+A spiritual sacrament floats around you.~
+food~
+pill Ye AO
+25 'reach elemental' 'animal growth' 'karma' 'reserved'
+1 5 1000 P
+E
+sacrament~
+Appearing on this blessed spiritual manifestation is a simple prayer.
+~
+#15349
+handgrenade grenade antioch holy~
+{xThe {mH{Moly{x {YH{Wandgrenade{x of {CA{Gntioch{x~
+You see a {Ygold{x-coloured coconut with a {Wsilver cross{x sticking out of it.  It must be a {gg{Grenade.{x~
+ice~
+pill ABSTYe AO
+45 'frenzy' 'haste' 'sanctuary' 'reserved'
+0 0 0 P
+E
+grenade~
+"...  And Saint Attila raised the hand grenade up on high, saying, "O
+Lord, bless this Thy hand grenade that with it Thou mayest blow Thine
+enemies to tiny bits, in Thy mercy."  And the Lord did grin and the people
+did feast upon the lambs and sloths and carp and anchovies and orangutans
+and breakfast cereals, and fruit bats and large chu...  And the Lord spake,
+saying, "First shalt thou take out the Holy Pin, then shalt thou count to
+three, no more, no less.  Three shall be the number thou shalt count, and
+the number of the counting shall be three.  Four shalt thou not count,
+neither count thou two, excepting that thou then proceed to three.  Five is
+right out.  Once the number three, being the third number, be reached, then
+obbest thou thy Holy Hand Grenade of Antioch towards thy foe, who being
+naughty in my sight, shall snuff it."  Amen 
+~
+E
+handgrenade~
+"...  And Saint Attila raised the hand grenade up on high, saying, "O
+Lord, bless this Thy hand grenade that with it Thou mayest blow Thine
+enemies to tiny bits, in Thy mercy."  And the Lord did grin and the people
+did feast upon the lambs and sloths and carp and anchovies and orangutans
+and breakfast cereals, and fruit bats and large chu...  And the Lord spake,
+saying, "First shalt thou take out the Holy Pin, then shalt thou count to
+three, no more, no less.  Three shall be the number thou shalt count, and
+the number of the counting shall be three.  Four shalt thou not count,
+neither count thou two, excepting that thou then proceed to three.  Five is
+right out.  Once the number three, being the third number, be reached, then
+obbest thou thy Holy Hand Grenade of Antioch towards thy foe, who being
+naughty in my sight, shall snuff it."  Amen 
+~
+E
+antioch~
+"... And Saint Attila raised the hand grenade up on high, saying, "O
+Lord, bless this Thy hand grenade that with it Thou mayest blow Thine
+enemies to tiny bits, in Thy mercy."  And the Lord did grin and the people
+did feast upon the lambs and sloths and carp and anchovies and orangutans
+and breakfast cereals, and fruit bats and large chu...  And the Lord spake,
+saying, "First shalt thou take out the Holy Pin, then shalt thou count to
+three, no more, no less.  Three shall be the number thou shalt count, and
+the number of the counting shall be three.  Four shalt thou not count,
+neither count thou two, excepting that thou then proceed to three.  Five is
+right out.  Once the number three, being the third number, be reached, then
+obbest thou thy Holy Hand Grenade of Antioch towards thy foe, who being
+naughty in my sight, shall snuff it."  Amen
+~
+E
+holy~
+"... And Saint Attila raised the hand grenade up on high, saying, "O
+Lord, bless this Thy hand grenade that with it Thou mayest blow Thine
+enemies to tiny bits, in Thy mercy."  And the Lord did grin and the people
+did feast upon the lambs and sloths and carp and anchovies and orangutans
+and breakfast cereals, and fruit bats and large chu...  And the Lord spake,
+saying, "First shalt thou take out the Holy Pin, then shalt thou count to
+three, no more, no less.  Three shall be the number thou shalt count, and
+the number of the counting shall be three.  Four shalt thou not count,
+neither count thou two, excepting that thou then proceed to three.  Five is
+right out.  Once the number three, being the third number, be reached, then
+obbest thou thy Holy Hand Grenade of Antioch towards thy foe, who being
+naughty in my sight, shall snuff it."  Amen
+~
+#15350
+bmw BMW~
+a BMW 650i~
+A black 650i couple is begging to be driven.~
+steel~
+furniture A 0
+2 600 FH 0 0
+56 40 5000 P
+#15351
+green goblin gummy little candy~
+The {gGr{Gee{gn G{Gobli{gn {DG{gu{xmm{Dy{x~
+This little candy looks like it could be made out of toxic sludge. Better eat it before it decides to eat you!~
+food~
+pill Ye AO
+40 'change sex' 'mirror image' 'sanctuary' 'animal growth'
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#15399
+Cauthon's Headquarters~
+A large throne is here, upon which Cauthon normally sits. From
+here, he gives his minions orders, as wonderous and grand area rises
+around him. A few chairs a scattered around for others to sit on, and you can
+see that they are very ornate and very comfortable. No expense has been
+spared in the creation if this palace.
+ 
+~
+0 269000724 0
+E
+gods_only~
+~
+M 1000 H 1000
+S
+#15300
+A Path through the Plains~
+You are on a small trail through the plains. Knee high grass surrounds
+you on all sides. You can see a few trees scattered here and there, and a few
+birds flying around. The path on which you stand has branched off from
+the main path, and a small structure stands not too far away.
+~
+0 0 2
+D0
+~
+~
+0 0 15301
+D3
+~
+~
+0 0 15340
+S
+#15301
+A Path through the Plains~
+You have followed the trail through the grass towards the structure
+which you can now see much more clearly. There is a large open space
+filled with sand. In the middle of this space is a structure made of
+wood, plastic and metal. There are many small children running around the
+whole structure, playing.
+~
+0 4 0
+E
+no_mob~
+~
+D0
+~
+~
+0 0 15302
+D2
+~
+~
+0 0 15300
+S
+#15302
+On the Sand~
+You are standing on the sand. The sand underneath is fairly dry,
+but just moist enough that you could build something with it if
+you wanted to. You see that there are a few holes here and there,
+where some child has dug a small hole. There are also many little
+mounds, which were sandcastles in some person's imagination. You
+step carefully around these mini-buildings and continue on your
+way.
+~
+0 0 2
+D0
+~
+~
+0 0 15305
+D1
+~
+~
+0 0 15303
+D2
+~
+~
+0 0 15301
+D3
+~
+~
+0 0 15309
+S
+#15303
+On the Sand~
+You are standing on the sand. The sand underneath is fairly dry,
+but just moist enough that you could build something with it if
+you wanted to. You see that there are a few holes here and there,
+where some child has dug a small hole. There are also many little
+mounds, which were sandcastles in some person's imagination. You
+step carefully around these mini-buildings and continue on your
+way.
+~
+0 0 2
+D0
+~
+~
+0 0 15304
+D3
+~
+~
+0 0 15302
+S
+#15304
+On the Sand~
+You are standing on the sand. The sand underneath is fairly dry,
+but just moist enough that you could build something with it if
+you wanted to. You see that there are a few holes here and there,
+where some child has dug a small hole. There are also many little
+mounds, which were sandcastles in some person's imagination. You
+step carefully around these mini-buildings and continue on your
+way.
+~
+0 0 2
+D0
+~
+~
+0 0 15306
+D2
+~
+~
+0 0 15303
+D3
+~
+~
+0 0 15305
+S
+#15305
+On the Sand~
+You are standing on the sand. The sand underneath is fairly dry,
+but just moist enough that you could build something with it if
+you wanted to. You see that there are a few holes here and there,
+where some child has dug a small hole. There are also many little
+mounds, which were sandcastles in some person's imagination. You
+step carefully around these mini-buildings and continue on your
+way. The play structure is to the north of you, but the
+wall facing you cannot be climbed.
+~
+0 0 2
+D1
+~
+~
+0 0 15304
+D2
+~
+~
+0 0 15302
+D3
+~
+~
+0 0 15308
+D4
+~
+~
+0 0 15312
+S
+#15306
+On the Sand~
+You are standing on the sand. The sand underneath is fairly dry,
+but just moist enough that you could build something with it if
+you wanted to. You see that there are a few holes here and there,
+where some child has dug a small hole. There are also many little
+mounds, which were sandcastles in some person's imagination. You
+step carefully around these mini-buildings and continue on your
+way.
+~
+0 0 2
+D0
+~
+~
+0 0 15326
+D2
+~
+~
+0 0 15304
+D3
+~
+~
+0 0 15307
+D4
+~
+~
+0 0 15315
+S
+#15307
+Under the Play Structure~
+The sand underneath you here is a little damper then the sand
+under the sun. You've had to duck to enter here, as the wooden
+planks of the play structure are directly above your head. The
+structure continues above your head to the west, while all
+other directions lead back under the sand.
+~
+0 0 0
+D0
+~
+~
+0 0 15327
+D1
+~
+~
+0 0 15306
+D3
+~
+~
+0 0 15313
+S
+#15308
+Under the Play Structure~
+The sand underneath you here is a little damper then the sand
+under the sun. You've had to duck to enter here, as the wooden
+planks of the play structure are directly above your head. The
+structure continues above your head to the north, while other
+directions lead you back out into the sunlight.
+~
+0 0 0
+D0
+~
+~
+0 0 15313
+D1
+~
+~
+0 0 15305
+D2
+~
+~
+0 0 15309
+D3
+~
+~
+0 0 15311
+S
+#15309
+On the Sand~
+You are standing on the sand. The sand underneath is fairly dry,
+but just moist enough that you could build something with it if
+you wanted to. You see that there are a few holes here and there,
+where some child has dug a small hole. There are also many little
+mounds, which were sandcastles in some person's imagination. You
+step carefully around these mini-buildings and continue on your
+way.
+~
+0 0 2
+D0
+~
+~
+0 0 15308
+D1
+~
+~
+0 0 15302
+D3
+~
+~
+0 0 15310
+D4
+~
+~
+0 0 15312
+S
+#15310
+The Play House~
+There is a tiny house sitting on the sand. If you stoop,
+and really try to squish yourself in, you can manage to fit
+under the roof. There is a small table underneath, with small 
+benches on either side. There is more sand surrounding you, and
+a small pile of sand has been left on the table.
+~
+0 0 0
+D0
+~
+~
+0 0 15311
+D1
+~
+~
+0 0 15309
+S
+#15311
+On the Sand~
+You are standing on the sand. The sand underneath is fairly dry,
+but just moist enough that you could build something with it if
+you wanted to. You see that there are a few holes here and there,
+where some child has dug a small hole. There are also many little
+mounds, which were sandcastles in some person's imagination. You
+step carefully around these mini-buildings and continue on your
+way. The play structure is accessable to the east of you, a wall of the
+play structure rises to the north, and a small play house is to the south.
+~
+0 0 2
+D1
+~
+~
+0 0 15308
+D2
+~
+~
+0 0 15310
+D4
+~
+~
+0 0 15312
+S
+#15312
+On Top of the Play Structure~
+You are standing on top of the play structure. You can easily pretend
+to be on the roof of a tall building, or on a giant ship setting sail
+for war, or anything else your imagination can believe in.
+The wooden planks beneath you continue to the north, while in the
+other directions you can descend back to the sand.
+~
+0 0 1
+D0
+~
+~
+0 0 15316
+D1
+~
+~
+0 0 15305
+D2
+~
+~
+0 0 15309
+D3
+~
+~
+0 0 15311
+S
+#15313
+Under the Play Structure~
+The sand underneath you here is a little damper then the sand
+under the sun. You've had to duck to enter here, as the wooden
+planks of the play structure are directly above your head. The
+play structure surrounds you in all directions except north, where the slide
+slopes down towards the ground.
+~
+0 0 0
+D1
+~
+~
+0 0 15307
+D2
+~
+~
+0 0 15308
+D3
+~
+~
+0 0 15314
+S
+#15314
+Under the Play Structure~
+The sand underneath you here is a little damper then the sand
+under the sun. You've had to duck to enter here, as the wooden
+planks of the play structure are directly above your head. The
+play structure extends to east, and to the north you can go
+underneath the monkey bars.
+~
+0 0 0
+D0
+~
+~
+0 0 15320
+D1
+~
+~
+0 0 15313
+S
+#15315
+On Top of the Play Structure~
+You are standing on top of the play structure. You can easily pretend
+to be on the roof of a tall building, on a giant ship setting sail
+for war, or anything else your imagination can believe in. To
+the south it is too far to jump, to the west the play structure continues,
+and can descend to the east or north.
+~
+0 0 2
+D0
+~
+~
+0 0 15327
+D1
+~
+~
+0 0 15306
+D3
+~
+~
+0 0 15316
+S
+#15316
+On Top of the Play Structure~
+You are standing on the top of the play structure, and in the very
+middle of it. The wood below you creaks a little bit, but easily
+supports your weight. A slide to the north of you beckons you to
+slide down it, and it does look like a lot of fun. But other adventures
+might await you if you head to the other parts of the play structure...
+Who knows where your imagination may take you?
+~
+0 0 1
+D0
+~
+~
+0 0 15324
+D1
+~
+~
+0 0 15315
+D2
+~
+~
+0 0 15312
+D3
+~
+~
+0 0 15317
+S
+#15317
+On Top of the Play Structure~
+You are standing on top of the play structure. To the east of you
+there is more of the play structure. To the north if you are many metallic
+bars suspended above the ground... about ten or twelve of them.
+They lead to another platform from which you could climb down to the
+sand. Do you think you are nimble enough to scurry across?
+~
+0 0 1
+D0
+~
+~
+0 0 15318
+D1
+~
+~
+0 0 15316
+S
+#15318
+On the Monkey Bars~
+You are using all your strength to try and hang on the monkey bars. You
+swing back, try to gain momentum, and them swing one arm over to
+the next bar.. only four more to go. The metal is a little slippery,
+so keeping your grip isn't the easiest thing in the world. You could
+always just drop to the sand below, and give up...
+~
+0 0 9
+D0
+~
+~
+0 0 15319
+D2
+~
+~
+0 0 15317
+D5
+~
+~
+0 0 15320
+S
+#15319
+On the Monkey Bars~
+You are using all your strength to try and hang on the monkey bars. You
+swing back, try to gain momentum, and them swing one arm over to
+the next bar.. only four more to go. The metal is a little slippery,
+so keeping your grip isn't the easiest thing in the world. You could
+always just drop to the sand below, and give up...
+~
+0 0 9
+D0
+~
+~
+0 0 15322
+D2
+~
+~
+0 0 15318
+D5
+~
+~
+0 0 15321
+S
+#15320
+Under the Monkey Bars~
+You are on the sand underneath the monkey bars. There are no little
+sandcastles here, for anyone building anything here risks getting kicked
+in the head by people above. An even worse fate would be if one of those
+who are too weak to climb all the way across fell off the bars and
+landed on either you or your creation. Is that why you are here? Did you
+fall off, being too weak to make it across?
+~
+0 0 2
+D0
+~
+~
+0 0 15321
+D2
+~
+~
+0 0 15314
+S
+#15321
+Under the Monkey Bars~
+You are on the sand underneath the monkey bars. There are no little
+sandcastles here, for anyone building anything here risks getting kicked
+in the head by people above. An even worse fate would be if one of those
+who are too weak to climb all the way across fell off the bars and
+landed on either you or your creation. Is that why you are here? Did you
+fall off, being too weak to make it across?
+~
+0 0 2
+D0
+~
+~
+0 0 15322
+D2
+~
+~
+0 0 15320
+S
+#15322
+A Wooden Platform~
+You are standing on a wooden platform, which is anchoring the far
+side of the monkey bars. From here, you can ascend to the monkey bars
+and try to make your way across to the far side without falling off.
+This is not always an easy task to accompish, and just walking on the
+sand which surrounds you may be a safer choice.
+~
+0 0 2
+D0
+~
+~
+0 0 15335
+D1
+~
+~
+0 0 15323
+D2
+~
+~
+0 0 15321
+D4
+~
+~
+0 0 15319
+S
+#15323
+On the Sand~
+You are standing on the playground, directly infront of the slide.
+You can try and scramble back up it if you like, towards the south,
+although you may not be dexterous enough. To the west is a wooden
+platform, from which you can ascend to the monkey bars. To the east is a
+swingset, ready for use. To the north is a large rubber tire,
+and you can go for a spin, if you like.
+~
+0 0 2
+D0
+~
+~
+0 0 15334
+D1
+~
+~
+0 0 15329
+D2
+~
+~
+0 0 15325
+D3
+~
+~
+0 0 15322
+M 0 H 0
+S
+#15324
+The Top of the Slide~
+You are sitting on the top of the slide. If you want, it's not too late
+to scramble out behind you and get back onto the play structure. As
+you peer down, you see that it's not that long a slide to the bottom...
+but if you are afraid of heights, it may well be too far for you.
+Once you are down, it may not be that easy to get back up, as the slide
+looks very slippery.
+~
+0 0 2
+D0
+~
+~
+0 0 15325
+D2
+~
+~
+0 0 15316
+S
+#15325
+The Bottom of the Slide~
+Weeeeeeee! That was fun! The slide was really a fair amount longer than
+you thought. As you look back up, you realise that it is in fact far too
+slippery to possibly climb back up. You can climb back up the play 
+structure somewhere else though, and then slide back down again. Now,
+wouldn't that be lots of fun?
+~
+0 0 2
+D0
+~
+~
+0 0 15323
+S
+#15326
+The Rocking Horse~
+Here, on the sand, is a large metal horse on a spring. As you touch
+it, you notice it wobbles slightly. Curious, you notice that it has a seat.
+You can sit down on this, and go for an imaginary adventure: Charging
+an enemy knight in some jousting match, or riding off into the sunset
+with a large price on your head. Yet more sand surrounds you in all 
+directions, where even more imaginary adventures may take place.
+~
+0 0 2
+D0
+~
+~
+0 0 15330
+D2
+~
+~
+0 0 15306
+D3
+~
+~
+0 0 15327
+S
+#15327
+On the Sand~
+You are standing on the sand. It's a little bit shaded here, as the
+play structure is just to the south of you, and it's casting a shadow
+on part of the ground. Who knows what evil lurks in the shadows of
+that play structure? Perhaps you may defeat some evil villian, or
+triumph over some ravenous beast. To the west is the slide, and you
+are barely small enough to fit underneath. To the north is a swingset.
+~
+0 0 2
+D0
+~
+~
+0 0 15328
+D1
+~
+~
+0 0 15326
+D2
+~
+~
+0 0 15307
+D4
+~
+~
+0 0 15315
+S
+#15328
+At the Swing Set~
+Here, anchored into the sand, is a large swingset. There are four
+swings: Two here, and two a little further along to the north. There
+is a little swing for babies, which has a bar in front to make sure
+you don't fall off. And there's a larger one, with a slightly larger
+seat... it looks more comfortable, too. How high do you think you
+could swing? How high would you dare to?
+~
+0 0 2
+D0
+~
+~
+0 0 15329
+D1
+~
+~
+0 0 15330
+D2
+~
+~
+0 0 15327
+S
+#15329
+At the Swing Set~
+Here, anchored into the sand, is a large swingset. There are four
+swings: Two here, and two a little further along to the south. There
+is a little swing for babies, which has a bar in front to make sure
+you don't fall off. And there's a larger one, with a slightly larger
+seat... it looks more comfortable, too. How high do you think you
+could swing? How high would you dare to?
+~
+0 0 2
+D0
+~
+~
+0 0 15333
+D1
+~
+~
+0 0 15331
+D2
+~
+~
+0 0 15328
+D3
+~
+~
+0 0 15323
+S
+#15330
+On the Sand~
+You are standing on some sand. You quickly move out of the way
+as someone on the swing set to the west of you jumps off the swing
+at one point and almost lands right on top of you. You notice that
+as he walks off, he stumbles as he trips over a pail. If you
+like, you could go and try to use the swings, or perhaps the horse
+to the south of you is more your style.
+~
+0 0 2
+D0
+~
+~
+0 0 15331
+D2
+~
+~
+0 0 15326
+D3
+~
+~
+0 0 15328
+S
+#15331
+On the Sand~
+You are standing on some sand. You quickly move out of the way
+as someone on the swing set to the west of you jumps off the swing
+at one point and almost lands right on top of you. You notice that
+as he walks off, he stumbles as he trips over a pail. To the
+south and north, there is yet more sand, and who knows what you might
+uncover there.
+~
+0 0 2
+D0
+~
+~
+0 0 15332
+D2
+~
+~
+0 0 15330
+D3
+~
+~
+0 0 15329
+S
+#15332
+On the Sand~
+You are standing on the sand. The sand underneath is fairly dry,
+but just moist enough that you could build something with it if
+you wanted to. You see that there are a few holes here and there,
+where some child has dug a small hole. There are also many little
+mounds, which were sandcastles in some person's imagination. You
+step carefully around these mini-buildings and continue on your
+way.
+~
+0 0 2
+D0
+~
+~
+0 0 15339
+D2
+~
+~
+0 0 15331
+D3
+~
+~
+0 0 15333
+S
+#15333
+On the Sand~
+You are standing on some sand. This sand for some reason is a little
+hotter than the rest of the sand, so you dance around a little bit before
+becoming accustomed to the heat. To the west of you is a large rubber
+tire suspended by a few ropes, on which you could go spinning and spinning
+as fast as you want. To the north is some cement, so you can play
+games that would require a hard surface. To the south of you is the
+swing set.
+~
+0 0 2
+D0
+~
+~
+0 0 15338
+D1
+~
+~
+0 0 15332
+D2
+~
+~
+0 0 15329
+D3
+~
+~
+0 0 15334
+S
+#15334
+The Rubber Tire~
+There is a large rubber tire here suspended by a few ropes to a block
+of wood overhead. The sand is a bit shallower around the tire, since it has
+been pushed away by many little feet which have pushed the tire in various
+directions. You realize that going for a spin on the tire might make you
+a little queasy, so forgo that idea. To the north if you like, there is
+some hard pavement, and you can try playing there.
+~
+0 0 2
+D0
+~
+~
+0 0 15337
+D1
+~
+~
+0 0 15333
+D2
+~
+~
+0 0 15323
+D3
+~
+~
+0 0 15335
+S
+#15335
+On the Sand~
+You are standing on some sand. This sand for some reason is a little
+hotter than the rest of the sand, so you dance around a little bit before
+becoming accustomed to the heat. To the west of you is a large rubber
+tire suspended by a few ropes, on which you could go spinning and spinning
+as fast as you want. To the north is some cement, so you can play
+games that would require a hard surface. To the south of you are
+the monkey bars.
+~
+0 0 2
+D0
+~
+~
+0 0 15336
+D1
+~
+~
+0 0 15334
+D2
+~
+~
+0 0 15322
+S
+#15336
+A Basketball Net~
+You are standing on some cement, that has a bit of sand from the nearby
+sanbox sprinkled around. There is a large metal pole here, with a net
+of some sort hanging from it. You notice that there are marking on the
+ground forming an almost oval shape in front of the pole. It looks like
+it would be rather challenging to stand at the edge of the marking and
+throw a ball throw that net. Perhaps you want to try?
+~
+0 0 1
+D1
+~
+~
+0 0 15337
+D2
+~
+~
+0 0 15335
+S
+#15337
+On the Cement~
+You are standing on some cement here... and it's hot! You have to dance
+back and forth on your feet for a few minutes before you become accustomed
+to the heat. You can bounce a ball here, draw on the ground with chalk,
+skip rope, or any of a variety of things that need a hard surface.
+If you want to play in the sand, head south and go back to the rest of
+the play structure.
+~
+0 0 1
+D1
+~
+~
+0 0 15338
+D2
+~
+~
+0 0 15334
+D3
+~
+~
+0 0 15336
+S
+#15338
+Hopscotch~
+Here, on the cement, with various colours, there is a game of
+hopscotch laid out before you. I'm sure you remember how to play...
+hop into the 1 square with one foot, then into the 2 square with the
+same foot, then the 3 and 4 squares that are right next to each other...
+and so on all the way up to 10. Someone has drawn in with chalk up to 20,
+if you want to try something truly difficult.
+~
+0 0 1
+D1
+~
+~
+0 0 15339
+D2
+~
+~
+0 0 15333
+D3
+~
+~
+0 0 15337
+S
+#15339
+On the Cement~
+You are standing on some cement here... and it's hot! You have to dance
+back and forth on your feet for a few minutes before you become accustomed
+to the heat. You can bounce a ball here, draw on the ground with chalk,
+skip rope, or any of a variety of things that need a hard surface.
+If you want to play in the sand, head south and go back to the rest of
+the play structure.
+~
+0 0 1
+D2
+~
+~
+0 0 15332
+D3
+~
+~
+0 0 15338
+S
+#15340
+A Thin Forest~
+You have just passed through a thin band of trees. To the far south and
+north of you, you can see how the forest grows thicker. Directly in front
+of you, however, there seems to be a large open plain, with some sort of
+path winding north through it.
+~
+0 0 2
+D0
+~
+~
+0 0 23300
+D1
+~
+~
+0 0 15300
+D3
+~
+~
+0 0 15341
+S
+#15341
+A Light Forest~
+You have left the main road to enter a light forest. The forest seems to be
+somewhat denser to the north and south of you, while it grows lighter
+towards the east. It appears as though there may be some sort of clearing
+in that direction.
+~
+0 0 3
+D1
+~
+~
+0 0 15340
+D3
+~
+~
+0 0 10903
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#15321
+say {Ytest{y.
+{x
+~
+A
+#15320
+berserk
+~
+A
+#15313
+mob transfer nyx 15399
+~
+A
+#0
+
+#RESETS
+O 0 15300 0 15399
+O 0 15301 0 15399
+M 1 15303 3 15303 1
+E 0 15307 0 17
+M 1 15311 4 15304 1
+M 1 15301 4 15304 1
+O 0 15302 0 15304
+M 1 15310 3 15306 1
+M 1 15302 4 15306 1
+M 1 15300 5 15307 1
+M 1 15309 4 15309 1
+E 0 15307 0 17
+E 0 15308 0 16
+M 1 15300 5 15310 1
+M 1 15309 4 15311 1
+E 0 15307 0 17
+E 0 15308 0 16
+M 1 15302 4 15313 1
+M 1 15303 3 15316 1
+M 1 15301 4 15317 1
+M 1 15306 1 15318 1
+M 1 15300 5 15321 1
+M 1 15311 4 15322 1
+M 1 15309 4 15323 1
+E 0 15307 0 17
+E 0 15308 0 16
+M 1 15311 4 15324 1
+M 1 15310 3 15325 1
+M 1 15311 4 15326 1
+O 0 15303 0 15326
+M 1 15302 4 15327 1
+E 0 15307 0 17
+M 1 15310 3 15328 1
+M 1 15305 1 15329 1
+M 1 15300 5 15330 1
+M 1 15301 4 15331 1
+M 1 15309 4 15332 1
+E 0 15307 0 17
+E 0 15308 0 16
+M 1 15303 3 15333 1
+M 1 15300 5 15334 1
+O 0 15304 0 15334
+M 1 15301 4 15335 1
+M 1 15307 1 15336 1
+E 0 15305 0 17
+M 1 15304 1 15337 1
+E 0 15306 0 16
+M 1 15302 4 15338 1
+M 1 15308 1 15339 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,3527 @@
+#AREADATA
+Name Gargnath's Tower~
+Builders Nogusto Mikoto~
+VNUMs 13200 13299
+Credits { None} Nogusto     Gargnath's Tower~
+Security 1
+Xcontinent 1
+Age 15
+Questable 1
+Control (null)~
+End
+
+
+
+#MOBILES
+#13200
+crazy imp~
+a crazy imp~
+A crazy imp leaps at you!
+~
+A crazy imp glares back at you as you attempt to examine him.  He looks
+to be starving...  ARGH!  He leaps at you with his claws!  
+~
+kobold~
+ABCFG CDFJVZa 900 0
+50 -13 50d10+4500 1d1+100 5d8+19 scratch
+-20 -20 -20 -20
+BFNRU AB IL CHN
+stand stand male 6300
+ABGHMV ABCDEFGHIJKPQ medium 0 the guilds~
+#13201
+black knight~
+a black knight~
+A black knight says "None shall pass"
+~
+That?
+Tis but a scratch..
+"Scratch! your arms off!"
+No it isn't.
+"Then what is that"
+I had worse.
+"You lie"
+come on ya pansy
+alright, we'll call it a draw.
+ 
+~
+human~
+ABG TVZ 800 0
+51 -6 50d10+5000 1d1+100 5d8+20 pound
+-21 -21 -21 -21
+FH ABKZ 0 HS
+stand stand male 2000
+AGHMV ABCDEFGHIJKP medium 0 the guilds~
+#13202
+octopus~
+an octopus~
+An octopus lashes its tentacles out at YOU!
+~
+A massive octopus is here, whipping you with tentacles from all
+directions.  
+~
+marid~
+ABCFGT DGHVYZ 1000 0
+60 5 50d10+9500 1d1+100 8d6+28 slash
+-30 -30 -30 -30
+ACFHJ BRZ HR JK
+stand stand male 6300
+ABHMVZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+#13203
+lost troll~
+a lost troll~
+A lost troll is wandering around aimlessly.
+~
+You see a weak lonely troll wander around.  He seems to be lost, and by
+the looks of him he has been lost for awhile now.  He is tired, dirty and
+and skinny.  
+ 
+~
+troll~
+ACGH JVZ 800 0
+51 -4 50d10+5000 1d1+100 5d8+20 bite
+-21 -21 -21 -21
+EFHU Z Q H
+stand stand male 4000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13204
+elder troll~
+an elder troll~
+An elder troll is resting here.
+~
+A troll is here, resting for the day.  She seems older then all the other
+trolls in these dark woods.  She seems to be rambling about something in the
+ceiling.  
+~
+troll~
+ABCGR DJNOT 800 0
+51 -4 50d10+5000 1d1+100 5d8+20 blast
+-21 -21 -21 -21
+FIKNR BZ Q H
+rest stand female 5600
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13205
+old elf~
+an old elf~
+An old elf is here, cleaning the tower.
+~
+An old, old, old elf is here and by the looks of him he should be dead. 
+He is muttering insanely about a curse placed on him as he cleans. 
+Something about never dieing and he must live until Gargnath dies and clean
+this place.....  What could Gargnath have threatened him with to make him
+clean none stop instead of refusing?  
+~
+elf~
+AGHQ CDHJTV 800 0
+51 -8 50d10+5000 1d1+100 5d8+20 magic
+-21 -21 -21 -21
+FJN D B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13206
+tower guard~
+a tower guard~
+A tower guard watches over the students.
+~
+A Troll in dark armor walks slowly up and down the halls of this Tower. 
+He pauses to examine you and then begins to follow you with his eyes.  
+~
+troll~
+ABGT DJNTV 900 0
+48 -4 25d10+3750 1d1+100 6d6+18 slash
+-18 -18 -18 -18
+CDFH Z Q H
+stand stand male 5300
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13207
+large tower guard~
+a large tower guard~
+A large tower guard is here.
+~
+A large tower guard is here, holding a key tightly in her hand.  
+~
+troll~
+ABGT DFJLNPTV 800 0
+48 -4 25d10+3750 1d1+100 6d6+18 slash
+-18 -18 -18 -18
+CFI Z Q H
+stand stand female 5600
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13208
+sarah~
+Sarah~
+Sarah the troll is here, grinning at you.
+~
+A large female troll is standing here, with an evil grin.  She has thick
+black hair sprouting from her body along her arms, feet, legs, chest,
+shoulders and back.  Her face is scared with scratches and she has a HUGE
+club with a nail in it, by her side.  
+~
+troll~
+ABG HJ 800 0
+51 -3 50d10+5000 1d1+100 5d8+20 smash
+-21 -21 -21 -21
+CFHK ABb IQ H
+stand stand female 3000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13209
+two headed troll~
+a two headed troll~
+A two headed troll laughs at you.
+~
+Crafted from magic this figure is to large to be a normal troll.  He
+seems very serious about not letting you in, however seeing the key dangle
+from his neck temps you to go forward.  
+~
+troll~
+ABCGQ FJLNV 900 0
+55 -2 50d10+7000 1d1+100 10d4+23 crush
+-25 -25 -25 -25
+ACDFHK ABZb Q H
+stand stand male 0
+BHMZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+#13210
+prison guard~
+a prison guard~
+A prison guard is here.
+~
+A troll is here guarding the prison.  He looks alittle more skilled then
+a normal troll so be warned.  
+~
+troll~
+ABGT DJNTV 900 0
+52 -4 50d10+5500 1d1+100 6d7+20 slash
+-22 -22 -22 -22
+CDEFHIK Z Q H
+stand stand male 5300
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13211
+dieing troll~
+a dieing troll~
+A dieing troll is here.
+~
+A dieing troll lays here, puking up his life as he slowly dies and
+contemplates what he did wrong.  
+~
+troll~
+ABCGS CIJVX 800 0
+48 -4 25d10+3750 1d1+100 6d6+18 claw
+-18 -18 -18 -18
+BFN Z Q H
+sleep stand male 100
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13212
+prison guard~
+a prison guard~
+A prison guard is here.
+~
+A troll is here guarding the Prison.  She looks alittle more skilled then
+a normal troll so be warned.  
+~
+troll~
+ABGT DJNTV 900 0
+52 -4 50d10+5500 1d1+100 6d7+20 slash
+-22 -22 -22 -22
+CDEFHIK Z Q H
+stand stand female 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13213
+zelin's clone~
+Zelin's clone~
+Zelin is here, not looking like himself.
+~
+Zelin is here, not looking like him.  He is dressed in his dark robes and
+wielding his might of the dragon slaying.  But something doesn't look right.
+~
+troll~
+ABGR IJVa 800 0
+51 -13 50d10+5000 1d1+100 5d8+20 smite
+-21 -21 -21 -21
+FIKN Z Q H
+stand stand male 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13214
+zelin~
+Zelin~
+Master Zelin is here.
+~
+Master Zelin is here creating creatures to dig for him.  For some reason
+he has gained some of his powers back.  
+~
+troll~
+ABGR BHJLVa 900 0
+55 -13 50d10+12000 1d1+100 10d4+23 smite
+-25 -25 -25 -25
+FHIKN BDRZab Q H
+stand stand male 100
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13215
+worker ant~
+a worker ant~
+A worker ant stops digging and attacks YOU!
+~
+A Magical Ant has been created here.
+~
+centipede~
+ABCFG CDFTVZ 800 0
+48 -3 25d10+3750 1d1+100 6d6+18 bite
+-18 -18 -18 -18
+FKOU Z FI E
+stand stand none 0
+ABGO ACK medium 0 the guilds~
+#13216
+student~
+a student~
+A student is here, waiting for class.
+~
+A student is here waiting for class to begin.  He is dressed in sub
+issue robes and is carrying a staff.  
+
+~
+troll~
+ABGHR JPTV 900 0
+51 -3 50d10+5000 1d1+100 5d8+20 punch
+-21 -21 -21 -21
+DFJN Z Q H
+stand stand male 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13217
+student~
+a student~
+A student is sleeping here.
+~
+Zzzzzzzzzzzzzzzzzzzzzz...
+This Student is sound asleep.
+~
+troll~
+ABGHR JPTV 900 0
+51 -1 50d10+5000 1d1+100 5d8+20 bite
+-21 -21 -21 -21
+DFJN Z Q H
+sleep rest male 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13218
+student~
+a student~
+A student is meditating here.
+~
+This Student is in deep meditation.
+You scream in her ear and not even a blink!
+~
+troll~
+ABGHR JPTV 900 0
+51 -1 50d10+5000 1d1+100 5d8+20 slap
+-21 -21 -21 -21
+DFJN Z Q H
+sit stand female 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13219
+student~
+a student~
+A student is praying here.
+~
+A Student is here praying to Selina.
+"Selina is Great"
+"Under Her I will achieve Greatness"
+"Selina is Great"
+"Under Her I will achieve Greatness"
+"Selina is Great"
+"Under Her I will achieve Greatness"
+*Bows*
+~
+troll~
+ABGHR JPTV 900 0
+51 -1 50d10+5000 1d1+100 5d8+20 bite
+-21 -21 -21 -21
+DFJN Z Q H
+sit stand female 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13220
+student~
+a student~
+A student is eating lunch here.
+~
+A Student is here eating the special of the day!
+Yum YuM! YUM!!!
+~
+troll~
+ABGHR JPTV 900 0
+51 -3 50d10+5000 1d1+100 5d8+20 slap
+-21 -21 -21 -21
+DFJN Z Q H
+sit stand female 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13221
+blist~
+Blist~
+Blist, captain of the tower guards is here.
+~
+A large tower guard is here, holding a key tightly in his hands. It is
+Blist the Captain of the tower guards. He leaps to attack you.
+~
+troll~
+ABFGT DFHJLNPTV 900 0
+55 -7 50d10+10000 1d1+100 10d4+23 crush
+-25 -25 -25 -25
+CFHIK ABCZ Q H
+stand stand male 5600
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13222
+cook~
+the cook~
+The cook is here, making some stew.
+~
+She looks like a pig, food is stuck and dryed up all over her.  She picks
+her nose and flicks it into the stew and continues cooking.  
+~
+troll~
+ABGT JV 900 0
+50 -3 50d10+4500 1d1+100 5d8+19 cleave
+-20 -20 -20 -20
+ACFHK Z Q H
+stand stand female 6300
+BHMZ ABCDEFGHIJKLPQUVWX large 0 the guilds~
+#13223
+gerald~
+Gerald~
+Gerald is casting spells in this room.
+~
+The strongest student for magic is here practicing like always.  He is
+dressed in a student robe.  
+
+~
+troll~
+ABGR BJTV 900 0
+52 -3 50d10+5500 1d1+100 6d7+20 magic
+-22 -22 -22 -22
+FHKN Z Q H
+stand stand male 4300
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13224
+david~
+David~
+David is here, shadow boxing.
+~
+David is here, shadow boxing.  He is dressed in a student robe with the
+symbol of Zelin on the back of it.  It said he was Zelin's decendant.  
+~
+troll~
+ABGT BJTV 900 0
+52 -4 50d10+5500 1d1+100 6d7+20 crush
+-22 -22 -22 -22
+DFHKN Z Q H
+stand stand male 4300
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13225
+daniel~
+Daniel~
+Daniel is here, attempting to hide in the shadows.
+~
+The most promising student in thieving.
+Daniel is dressed all in dark colors and is attempting to
+hide in the shadows of the room.
+~
+troll~
+ABGS BJQTV 900 0
+52 -3 50d10+5500 1d1+100 6d7+20 bite
+-22 -22 -22 -22
+BFHKN Z Q H
+stand stand male 4300
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13226
+zack~
+Zack~
+Zack is here, reading up on mass healing.
+~
+Zack is banging his head off a table in fusturation.  He can't seem to
+get a spell right.  He looks ticked off and asks you what you want.  
+ 
+~
+troll~
+ABGQ BJTV 900 0
+52 -3 50d10+5500 1d1+100 6d7+20 magic
+-22 -22 -22 -22
+FHKN Z Q H
+stand stand male 4300
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13227
+dahrak~
+Dahrak~
+Master Dahrak is here, hidden in the shadows.
+~
+One of the four masters in Gargnath's Tower.
+Dahrak is the most skilled in the art of thievery.
+~
+troll~
+ABGS CDHJQTVZ 800 0
+60 -3 50d10+15000 1d1+100 8d6+28 punch
+-30 -30 -30 -30
+ABFHKN ABCZ Q H
+stand stand male 8300
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13228
+relk~
+Relk~
+Master Relk is here, acting like an old fool.
+~
+One of the four masters in Gargnath's Tower.
+Relk is the most skilled in the art of magic.
+~
+troll~
+ABGR BCDHJTVZ 800 0
+60 -3 50d10+15000 1d1+100 8d6+28 magic
+-30 -30 -30 -30
+AFHKN ABCZ Q H
+stand stand male 8300
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13229
+deveron~
+Deveron~
+Master Deveron is here, towering over you.
+~
+One of the four masters in Gargnath's Tower
+Deveron is the most skilled in the art of battle.
+~
+troll~
+ABGT CDHJTVZ 800 0
+60 -7 50d10+15000 1d1+100 8d6+28 pound
+-30 -30 -30 -30
+ACDFHK ABCZ Q H
+stand stand male 8300
+BHMZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+#13230
+qons~
+Qons~
+Master Qons says "Excuse me, may I help you?"
+~
+One of the four masters in Gargnath's Tower
+Qons is the most skilled in the art of healing.
+
+~
+troll~
+ABGQ BCDHJTVZ 800 0
+60 -5 50d10+15000 1d1+100 8d6+28 magic
+-30 -30 -30 -30
+ADFHKN ABCZ Q H
+stand stand male 8300
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13231
+student~
+a student~
+A student is reading here.
+~
+A Student is here reading up on spells.  He seems to be understanding the
+topics very easy.  
+~
+troll~
+ABGHQ JPTV 900 0
+51 -3 50d10+5000 1d1+100 5d8+20 punch
+-21 -21 -21 -21
+DFJN Z Q H
+stand stand male 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13232
+gargnath~
+{yGargnath{x~
+{yGargnath{x is here, shouting spells.
+~
+A normal sized troll is here, shouting spells.  Gargnath was not know for
+his combat skills on the field of battle, but his wisdom.  Which seems he
+has put to good use.  All these years his tower remained hidden in front of
+everyone.  He has spent years training the children and their children and
+so on of those who fought with him so long ago in the dragon war.  
+
+~
+troll~
+ABa DEFHJT 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 magic
+-13 -13 -13 -13
+0 ABCDEFGHIJKLMNOPQRSTXYZab Q H
+stand stand male 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13233
+wild dog~
+a wild guard dog~
+A wild guard dog is snarling at you.
+~
+A wild dog is here snarling at you with its ears back.
+~
+dog~
+ABCFGT CDIQV 0 0
+48 -4 25d10+3750 1d1+100 6d6+18 bite
+-18 -18 -18 -18
+CEFH H AB I
+stand stand none 0
+AGV ACDEFHJKUV large 0 the guilds~
+#13234
+max and tax~
+One of the shrunken trolls~
+Max and Tax are here yelling at each other.
+~
+~
+troll~
+ABG J 1000 0
+60 6 50d10+9500 1d1+100 8d6+28 bite
+-30 -30 -30 -30
+0 ABCDEFGHIJKLMNOPQRSTXYZab Q H
+stand stand none 0
+BHMZ ABCDEFGHIJKLPQUVWX tiny 0 the guilds~
+#13235
+deebs~
+Deebs~
+Deebs is here trying to clear his shop from smoke.
+~
+Deebs is here trying to remove all the smoke from his shop.  He is full
+of ashes and burn marks cover his hands.  
+~
+troll~
+ABG DFJ 1000 0
+60 6 50d10+9500 1d1+100 8d6+28 bite
+-30 -30 -30 -30
+0 ABCDEFGHIJKLMNOPQRSTXYab Q H
+stand stand none 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13236
+insane troll~
+an insane troll~
+A troll is here talking to his shadow.
+~
+A troll is here having a gay ol conversation with his shadow.  He seems
+to be in deep focus, debating how Selina is god and Terrians belief
+structure of Bosco is completely crazy.  
+~
+troll~
+ABGL DFJ 1000 0
+60 6 50d10+9500 1d1+100 8d6+28 bite
+-30 -30 -30 -30
+0 ABCDEFGHIJKLMNOPQRSTXYZab Q H
+stand stand none 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13237
+an imp~
+an imp~
+An imp is here, looking to bite something.
+~
+An imp is looking to bite something in this room, his eye stray towards
+you, but you slap him with the handle of your weapon and say "HAAaay".  
+~
+kobold~
+ABIS IJKPV 1000 0
+40 -2 15d10+1850 1d1+100 4d8+13 bite
+-13 -13 -13 -13
+BFN AZ L C
+stand stand none 0
+ABHMV ABCDEFGHIJKQ medium 0 the guilds~
+#13238
+blob~
+a blob~
+A pile of goo is splatted all over the floor here.
+~
+A pile of goo is here.
+~
+lizard~
+ABIT IKVa 1000 0
+45 -12 25d10+3000 1d1+100 8d4+16 thwack
+-15 -15 -15 -15
+CH A L I
+stand stand none 0
+AGXc ACDEFHKQV medium 0 the guilds~
+#13239
+floating sword~
+a floating sword~
+A floating sword is waving back and forth in the air.
+~
+A mystical sword is floating here.  Its blade cuts through air as it
+moves leaving gaps of nothingness.  Its a long Scimitar with a dark black
+handle trimmed in silver.  
+~
+deamon~
+ABCIT BDFIJKPTVa 1000 0
+50 -14 50d10+6000 1d1+100 5d8+19 slash
+-20 -20 -20 -20
+CFH BZ H NS
+stand stand none 0
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#13240
+a giant spider~
+a giant spider~
+A giant spider seemed to wandered into the room.
+~
+A giant spider is here.  It seemed to have a lust for blood and is gazing
+at you.  This pet looks untamed bu do you think this crazy, insane,
+shadowing talking, Shopkeeper would have told you other wise?  Are you
+crazy!!  The money you spent on it just put his kids through college!  
+~
+wolf~
+ABCIT DIKQTVZ 1000 0
+51 -5 50d10+8000 1d1+100 5d8+20 sting
+-21 -21 -21 -21
+CDFH AZ 0 0
+stand stand none 0
+AGV ACDEFJKQV giant 0 the guilds~
+#13241
+contruction worker~
+a contruction worker~
+A contruction worker is here doing nothing like usual.
+~
+A troll is here wearing a hard hat acting like
+he is doing something. He looks at you and says
+"This old fools paying us by the hour" then laughs.
+~
+troll~
+ABGH JPa 800 0
+50 -3 50d10+4500 1d1+100 5d8+19 punch
+-20 -20 -20 -20
+CFI 0 Q H
+stand stand none 2300
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13242
+thief~
+a thief~
+A thief freezes as you walk in the room.
+~
+A thief is standing here trying to cut a deal with you.  Lets split the
+pie my friend, and both of us shall be fat.  He grins at you laughing. 
+~
+human~
+ABCGS BDV 800 0
+51 -3 50d10+5000 1d1+100 5d8+20 pierce
+-21 -21 -21 -21
+ABFIJKN Z AB 0
+stand stand female 8200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13298
+greed~
+(no short description)~
+(no long description)
+~
+~
+lizard~
+ABG 0 0 0
+10 1 2d7+121 1d1+100 2d4+2 none
+1 1 1 1
+0 Z L I
+stand stand male 10000
+AGXc ACDEFHKQV medium 0 the guilds~
+#13299
+Amerz~
+{MAmerz{x~
+{MAmerz{x, Nogusto's most {Rbeloved{x is here, aiding your wounds.
+~
+A massive dragon is here willing to aid you wounds, unless its early. 
+{RWARNING:{x Do not wake her, let her sleep in!  
+~
+blue dragon~
+Aa DEFHJLTZ 1000 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 ACDEFGHIJLMNOPQRSTXYab BEJ KL
+stand stand female 0
+BHMZ ABCDEFGHIJKLPQUVWX medium stone the guilds~
+#0
+
+
+
+#OBJECTS
+#13200
+sarah's key~
+Sarah's key~
+Sarah's key is here.~
+wood~
+key U AO
+0 0 0 0 0
+51 10 0 P
+#13201
+moss covered Wooden Box~
+A {gmoss {xcovered {yWooden {xBox~
+A {gmoss {xcovered {yWooden {xBox is here.~
+wood~
+container 0 0
+10000 ABCD 13200 1000 100
+1 0 0 P
+#13202
+giant club~
+a GIANT club~
+A GIANT club is here, sprouting rusty nails.~
+wood~
+weapon AFT AN
+mace 5 8 pound F
+48 100 2000 P
+A
+2 -1  
+A
+19 1  
+A
+1 1  
+A
+13 -15  
+#13203
+thick bushes~
+thick {gbushes{x~
+A massive wall of thick {gbushes{x towers infront of you.~
+wood~
+portal 0 P
+0 0 0 13210 0
+0 0 0 P
+#13204
+thick bushes~
+thick {gbushes{x~
+A massive wall of thick {gbushes{x towers behind you.~
+wood~
+portal 0 P
+0 0 0 13205 0
+0 0 0 P
+#13205
+pathway~
+a {gpathway{x~
+A well walked {gpathway{x is here.~
+wood~
+portal 0 P
+0 0 0 13219 0
+0 0 0 P
+#13206
+pathway~
+a {gpathway{x~
+A {gpathway{x is here going back to the woods.~
+wood~
+portal 0 P
+0 0 0 13217 0
+0 0 0 P
+#13207
+wooden ring~
+a wooden ring~
+A wooden ring rests here.~
+wood~
+jewelry ABITb AB
+0 0 0 0 0
+40 100 3600 P
+A
+18 1  
+A
+19 1  
+A
+13 -20  
+A
+12 10  
+#13208
+steel key~
+a steel key~
+A steel key is here, with the words "Tower Gates" engraved into it.~
+steel~
+key FU A
+0 0 0 0 0
+51 10 0 P
+#13209
+black knights flail~
+the black knight's flail~
+The black knight's flail is here.~
+adamantite~
+weapon ABKad AN
+flail 6 6 clobber INO
+47 200 2300 P
+A
+19 4  
+A
+18 -2  
+A
+1 -1  
+#13210
+sharp tooth~
+a sharp tooth~
+A sharp tooth is here.~
+bone~
+weapon 0 AN
+dagger 8 4 pierce 0
+42 100 3600 P
+A
+1 -1  
+A
+19 3  
+A
+18 1  
+#13211
+leather cap~
+a leather cap~
+A leather cap is here.~
+leather~
+clothing Ib AE
+0 0 0 0 0
+40 50 2000 P
+A
+12 20  
+A
+2 -2  
+#13212
+furry boots~
+a pair of furry boots~
+A pair of furry boots are here.~
+fur~
+clothing B AG
+0 0 0 0 0
+41 50 1500 P
+A
+13 15  
+A
+19 2  
+A
+14 -50  
+#13213
+furry belt~
+a furry belt~
+A furry belt is here.~
+fur~
+clothing Kc AL
+0 0 0 0 0
+43 30 1500 P
+A
+2 2  
+A
+13 -10  
+#13214
+dark berries~
+dark berries~
+Dark berries are here.~
+berry~
+pill 0 A
+3 'animal growth' 'cure light' 'poison' 'reserved'
+1 10 0 P
+#13215
+gargnath's tower key~
+Gargnath's Tower key~
+Gargnath's Tower key is here.~
+marble~
+key BU AC
+0 0 0 0 0
+51 50 0 P
+#13216
+tower guard spear~
+a tower guard's spear~
+A tower guard's spear is here.~
+stone~
+weapon A AN
+staff 5 8 pierce N
+46 100 2000 P
+A
+19 1  
+A
+20 -1  
+#13217
+wooden gauntlets~
+a pair of wooden gauntlets~
+A pair of wooden gauntlets are here.~
+wood~
+armor KL AH
+3 3 3 8 0
+42 100 1000 P
+A
+3 1  
+A
+19 2  
+#13218
+helmet of the wizard~
+a helmet of the wizard~
+A helmet of the wizard is here.~
+magic~
+armor AB AE
+-2 -2 -2 9 0
+42 50 1500 P
+A
+1 -1  
+A
+12 30  
+#13219
+sharp rock~
+a sharp rock~
+A sharp rock is here.~
+Rock~
+weapon L AN
+dagger 4 8 pierce N
+39 50 0 P
+A
+5 -1  
+A
+2 -1  
+A
+1 3  
+#13220
+magical key~
+a magical key~
+A magical key is floating here.~
+Magic~
+key BU AC
+0 0 0 0 0
+51 10 0 P
+#13221
+cell key~
+a cell key~
+A cell key is here.~
+stone~
+key U AO
+0 0 0 0 0
+51 20 0 P
+#13222
+rusty cell key~
+a rusty cell key~
+A rusty cell key is here.~
+magic~
+key BU AO
+0 0 0 0 0
+51 10 0 P
+#13223
+zelin's dark robes~
+Zelin's {DDark{x Robe~
+Zelin's {DDark{x Robe floats here.~
+wood~
+clothing ABIM AK
+0 0 0 0 0
+50 50 8700 P
+A
+1 -1  
+A
+12 40  
+A
+3 2  
+#13224
+Zelin's dragon slayer~
+Zelin's Dragon Slayer~
+Zelin's Dragon Slayer is here.~
+Magic~
+weapon AIM AN
+dagger 5 8 pierce I
+46 50 0 P
+A
+1 -2  
+A
+4 1  
+A
+3 1  
+#13225
+steel mace~
+a steel mace~
+A steel mace is here.~
+wood~
+weapon A AN
+mace 6 6 pound N
+45 150 2200 P
+A
+1 1  
+A
+19 2  
+A
+18 -3  
+#13226
+shop key~
+a shop key~
+A shop key is here.~
+wood~
+key BU AO
+0 0 0 0 0
+51 10 0 P
+#13227
+storage room key~
+a storage room key~
+A storage room key is here.~
+wood~
+key BU A
+0 0 0 0 0
+51 10 0 P
+#13228
+guard's room key~
+a guard's room key~
+A guard's room key is here.~
+wood~
+key BU AO
+0 0 0 0 0
+51 10 0 P
+#13229
+vault key~
+the vault key~
+The vault key~
+wood~
+key IU AO
+0 0 0 0 0
+51 10 0 P
+#13230
+cook's cleaver~
+the cook's cleaver~
+The cook's cleaver is here.~
+steel~
+weapon ABI AN
+axe 8 5 cleave DN
+48 100 3000 P
+A
+19 2  
+A
+18 -1  
+#13231
+student's robe~
+a student's robe~
+A student's robe is here.~
+cloth~
+clothing A AD
+0 0 0 0 0
+44 50 2600 P
+A
+3 1  
+A
+1 -2  
+A
+12 50  
+#13232
+tower guard's belt~
+a tower guard's belt~
+A tower guard's belt is here~
+leather~
+clothing 0 AL
+0 0 0 0 0
+42 10 1000 P
+A
+19 3  
+#13233
+book~
+A book labelled "The {gFive{x Masters"~
+A book labelled "The {gFive{x Masters" is here.~
+wood~
+treasure 0 AO
+0 0 0 0 0
+53 40 0 P
+E
+dominia~
+According to legend, Selina and Bosco were made from the same flesh. 
+Bosco was given control of the Western half of the world and Selina ruled
+the Eastern half.  A great body of water separated these lands and allowed
+Bosco and Selina to develop their emp empires without interference.  
+~
+E
+dominia~
+ICK!
+> .c
+According to legend, Selina and Bosco were made from the
+same flesh. Bosco was given control of the Western half
+of the world and Selina ruled the Eastern half. A great
+body of water separated these lands and allowed Bosco and
+Selina to develop their empires without interference.
+ 
+On Dominia Selina's power created a colony of man-like 
+insects. These beings, which she named Slivers, paid 
+homage to her and grew strong and prosperous. While on
+Terra, Bosco's generous nature spawned a race of dragons
+whose fierce and powerful skills refused to be contained.
+ 
+Eventually the dragon race learned of the Eastern continent
+and vowed to rule it. They invaded Dominia to ravage and 
+destroy the inhabitants and gain power over the land. 
+After many bloody victories, it appeared the dragons would
+dominate the lives of Selina's followers, killing those 
+who would not obey their laws.
+ 
+Selina despaired, for she did not have enough power to 
+defeat the dragon horde alone. It was then she was joined
+by Gargnath, a mighty troll wizard, and Lawrygould, the
+King of Dominia. Together they constructed a great wall
+around the coastal city of Shandalar from within which
+they could repel the invaders.
+ 
+Guided by the wisdom of Gargnath and the intelligence of
+Lawrygould, Selina used her magic to unite the trolls and
+the slivers into a mighty army. Through great effort, such
+as few have ever seen before, the army of Dominia routed
+the Dragon horde from their continent. They killed the
+most ruthless and left only a small group of dragons to
+limp defeated back across the sea.
+ 
+The battle cost Selina much energy and weakened her 
+substantially. She was laid to rest in a crypt only to be 
+disturbed if Dominia was ever again threatened by the rule 
+of Dragons. The trolls returned to their forest village and 
+the slivers again prospered. The resulting peace lasted for
+decades.
+ 
+Unfortunately, efforts are now being made by many races to 
+re-establish contact between the continents. King 
+Lawrygould, fearing another invasion, hired the remains of 
+the clan Pragmati to live on his shores and dedicate 
+themselves to slaying Dragons.
+ 
+"Soon the Dragons will return, and if we are not prepared
+we will be at their mercy! Non-Dragons Unite! Throw off 
+the chains of oppression! They are numerous and our strong 
+are too few. We must focus our efforts on their destruction, 
+or face our own." -- King Lawrygould at the establishment 
+of Clan Venari.
+ 
+Not all the inhabitants agree, however. Some feel that the 
+reconnecting of the continents will be the long sought 
+opportunity to make amends for ancient wrongs. These people,
+of both worlds, want trade and prosperity for all.
+~
+#13234
+blist's spear~
+Blist's spear~
+Blist's spear is here.~
+Stone~
+weapon ABI AN
+staff 8 5 pierce F
+49 200 5000 P
+A
+19 3  
+A
+18 2  
+A
+1 1  
+#13235
+book~
+a book labelled: "The Tale of a {rTraitor{x"~
+A book labelled: "The Tale of a {rTraitor{x" is here.~
+wood~
+treasure 0 AO
+0 0 0 0 0
+53 40 0 P
+E
+remorts~
+All first remorts gain the following skills:  
+Throw             Taste             Butcher
+ 
+Magic-User remort classes (mage, conjurers, enchanters, and invokers)   
+get these spells and skills:  
+Detonation        Mutate            Call to Arms  
+Confusion         Weaponsmith
+ 
+Cleric remort classes (druids and clerics) get the following skills/spells:  
+Call to Arms      Wrath             Transferance  
+Substitute        Materialize
+ 
+Thief remort class gain the following skills/spells:  
+Confusion         Weaponsmith       Substitute  
+Hunt              Bribe             Gravitation
+ 
+Warrior remort classes (Paladins, Rangers, Warriors) gain the following  
+skills/spells:  
+Hunt              Substitute        Drag  
+Tame Animal       Retribution       Rescue 
+Bashdoor 
+~
+#13236
+book~
+a book labelled: "{yGargnath{x"~
+A book labelled: "{yGargnath{x" is here.~
+wood~
+treasure 0 AO
+0 0 0 0 0
+53 40 0 P
+E
+reclasses~
+Once you reach level 51 you may reclass your character to gain several
+new abilities and also new restrictions.
+ 
+This is the counterpart to remorting. You may remort and reclass in any
+order and choose to do one, the other, or both.
+ 
+To reclass will require a specific number of quest points. You can find
+out how many by type reclass once you are level 51.
+ 
+Like remorting, reclassing will send your character back to level one.
+It will remove all your equipment and put it in your inventory, and
+reset all skills to 1% except for your starting weapon. Your hours 
+will be reset, your trains set to 3, and practices to 5. Any skills 
+which you gained prior to reclassing will be added to your creation 
+points, possibly raising your xp/level. Your stats (strength, etc)
+will also be reset to the default for your race. Any trained cp will
+not be taken into consideration for your new xp/level.
+ 
+Each character class will be given the choice of two reclasses:
+Warrior   -> Barbarian or Warlord
+Ranger    -> Hermit or Bounty Hunter
+Paladin   -> Cavalier or Templar
+Thief     -> Assassin or Rogue
+Cleric    -> Exorcist or Heretic
+Druid     -> Hierophant or Herbalist
+Mage      -> Wizard or Alchemist
+Conjurer  -> Shaman or Sorceror
+Enchanter -> Mystic or Illusionist
+Invoker   -> Necromancer or Diviner
+Runist    -> Psion or Zealot
+Monk      -> Samurai or Ninja
+ 
+All reclass will receive the following skills:
+specialization          rub             throw
+~
+#13237
+book~
+a book labelled: "{DDragon{x War"~
+A book labelled: "{DDragon{x War" is here~
+wood~
+treasure 0 AO
+0 0 0 0 0
+53 40 0 P
+E
+scrolls~
+SCROLL
+Syntax: scroll
+Syntax: scroll <number> 
+This command changes the number of lines the mud sends you in a page (the 
+default is 24 lines). Change this to a higher number for larger screen
+sizes, or to 0 to disable paging.
+ 
+BRANDISH QUAFF RECITE ZAP STAFF STAVES POTION SCROLL WAND
+Syntax: brandish
+Syntax: quaff <potion>
+Syntax: recite <scroll> <target>
+Syntax: zap <target>
+Syntax: zap 
+-BRANDISH brandishes a magical staff. 
+-QUAFF quaffs a magical potion; as opposed to DRINK, which drinks mundane 
+liquids.
+ 
+-SCROLL recites on self or target, depending on the nature of the scroll.
+The scroll must be in your inventory at the time. 
+-ZAP zaps a magical wand at a target. If the target is not specified,
+and you are fighting someone, then that character is used for a target. 
+You must HOLD a wand or a staff before using BRANDISH or ZAP. 
+All of these commands use up their objects. Potions and scrolls have a 
+single charge. Wands and staves have multiple charges. When a magical 
+object has no more charges, it will be consumed. The mage spell 'recharge' 
+may be used to recharge items. 
+These commands may require an item skill to be successful. See the help 
+entries on the skills scrolls, staves, and wands for more information.
+ 
+Learned by:
+All
+SCRIBE SCROLL
+syntax: scribe <spell>
+This skill allows the character to create a scroll of any single
+spell he or she knows. The scroll may then be used at a later
+time or given to others of the same level to use. This spell
+requires that a blank scroll be held in hand during scribing.
+This skill is for reclasses only.
+Learned by:
+Wizard          Sorceror
+~
+#13238
+dahrak's dagger~
+{gDahrak's{x Dagger~
+{gDahrak's{x Dagger is here.~
+shell~
+weapon A AN
+dagger 5 8 pierce AN
+48 200 10000 P
+A
+2 2  
+#13239
+bracelet of the thef~
+bracers of the thief~
+Bracers of the thief are here.~
+wood~
+armor c AM
+8 8 8 8 0
+50 100 8000 P
+A
+20 -1  
+A
+19 3  
+#13240
+Amulet of Reflection~
+Amulet of {bReflection{x~
+Amulet of {bReflection{x is here.~
+wood~
+armor ABb AC
+2 2 2 2 0
+51 0 0 P
+A
+12 30  
+A
+20 -2  
+#13241
+Shield of the Warrior~
+Shield of the {rWarrior{x~
+Shield of the {rWarrior{x is here.~
+wood~
+armor AIa AJ
+6 6 6 14 0
+48 250 7000 P
+A
+12 -30  
+A
+19 2  
+A
+18 2  
+#13242
+Staff of the Cleric~
+Staff of the {CCleric{x~
+Staff of the {CCleric{x is here.~
+magic~
+weapon Bd AN
+staff 8 5 thrust FN
+46 100 0 P
+A
+18 2  
+A
+1 -1  
+A
+13 20  
+#13243
+master key~
+the master key~
+The master key is here.~
+unknown~
+key BU AC
+0 0 0 0 0
+51 500 0 P
+#13244
+pot boiling fire~
+a large pot boiling over a fire~
+A large pot is here, boiling over a fire.~
+stone~
+fountain 0 0
+999 999 'lemonade' 0 0
+0 0 0 P
+#13245
+gem~
+a gem~
+A gem is here.~
+unknown~
+gem U AO
+0 0 0 0 0
+1 500 10000 P
+#13246
+scroll of the cleric~
+the scroll of the cleric~
+A scroll is rolled up here.~
+paper~
+scroll U AO
+40 'cure blindness' 'cure critical' 'curse' 'reserved'
+50 10 0 P
+#13247
+stick~
+a stick~
+A stick is here.~
+wood~
+wand AB AO
+30 5 5 'earthquake' 0
+40 10 5000 P
+#13248
+burnt stick~
+a burnt stick~
+A burnt stick is here~
+wood~
+wand AB AO
+30 3 3 'pyrotechnics' 0
+40 10 5000 P
+#13249
+staff of truth~
+a staff of truth~
+A staff of truth is here.~
+wood~
+wand AB AO
+20 5 5 'identify' 0
+30 10 2500 P
+#13250
+broken stick~
+a broken stick~
+A broken stick is here.~
+wood~
+wand AB AO
+35 2 2 'slow' 0
+20 10 2500 P
+#13251
+the force~
+the force~
+The force, here or within you?~
+wood~
+wand AB AO
+40 1 1 'demand' 0
+51 10 20000 P
+#13252
+wand of summoning~
+a wand of summoning~
+A wand of summoning is here.~
+wood~
+wand AB AO
+40 3 3 'summon' 0
+40 10 20000 P
+#13253
+corrosive potion~
+a corrosive potion~
+A corrosive potion is here.~
+wood~
+potion 0 AO
+35 'poison' 'invisibility' 'bark skin' 'reserved'
+40 50 5000 P
+#13254
+greater healing potion~
+a greater healing potion~
+A greater healing potion is here.~
+fluid~
+potion 0 AO
+30 'cure serious' 'cure critical' 'slow' 'reserved'
+45 50 10000 P
+#13255
+potion of power~
+a potion of power~
+A potion of power is here.~
+water~
+potion 0 AO
+25 'giant strength' 'stone skin' 'frenzy' 'reserved'
+35 50 10000 P
+#13256
+broken clock~
+a broken clock~
+A broken clock is not ticking here.~
+wood~
+armor BFKT AJ
+-2 -2 -2 2 0
+15 100 0 P
+A
+19 -2  
+A
+9 15  
+A
+13 -20  
+#13257
+Gargnath's Mace of the troll~
+{yGargnath's{x Mace of the {gtroll{x~
+A mace once wielded by {yGargnath{x lays here.~
+wood~
+weapon ABTYe ANY
+mace 6 7 crush FUW
+51 100 0 P
+A
+12 -50  
+#13290
+Nogusto Power PILL!~
+Power Pills~
+Nogusto Power {YPILL{x!~
+wood~
+pill 0 A
+60 'meteor swarm' 'meteor swarm' 'meteor swarm' 'reserved'
+0 0 0 P
+#13294
+most loved immortal~
+{Rmost {Mloved{x {GImmortal{x {Yaward{x~
+{RMost {Mloved{x {GImmortal{x {Yaward{x.~
+gold~
+armor AB AC
+10 10 10 10 0
+54 100 10000 P
+A
+13 1  
+A
+12 1  
+A
+14 1  
+#13295
+Champion Blade Immortal Slayer Nogusto~
+{YChampion{x blade named "{mImmortal Slayer{x"~
+The blade of the gods is here humming with power.~
+gold~
+weapon ABTYe AN
+sword 5 9 divine FMV
+51 1000 500000 P
+A
+18 4  
+A
+19 8  
+A
+13 50  
+#13296
+moldy piece bread~
+a moldy piece of bread~
+A moldy piece of bread is here.~
+wood~
+pill 0 A
+60 'prismatic spray' 'hell blades' 'meteor swarm' 'reserved'
+1 0 0 P
+#13297
+Nogusto's dwarven gauntlets~
+Nogusto's dwarven gauntlets~
+Nogusto's dwarven gauntlets hang here.~
+wood~
+armor AB AH
+10 10 10 10 0
+56 0 0 P
+A
+4 16  
+A
+2 20  
+A
+3 16  
+A
+1 8  
+#13298
+dwarf armor samurai dwarven~
+{DRing{x of the {gSamurai{x~
+{DRing{x of the {gSamurai{x~
+steel~
+armor AB AB
+8 8 8 8 0
+54 0 0 P
+A
+18 5  
+A
+19 5  
+#13299
+dwarf dwarven katana steel~
+{DDwarven {gKatana{x~
+A {DDwarven {gKatana{x is here.~
+phasing~
+weapon ABFHMN AN
+katana 50 50 slaughter ABCDEGHMNTW
+54 50 0 P
+#0
+
+
+
+#ROOMS
+#13200
+Before the Stone Bridge~
+In the distance you see a large bridge with a figure waiting there. 
+Nothing really stands out in this area except for a large tower off in the
+distance.  To the south is the way you came and to the north you assume
+leads to the massive tower in the distance.  
+~
+0 0 2
+E
+notice~
+{DNOTICE!!!!{x
+This City is here by closed by order of me.
+ 
+{GDaisy{x
+~
+D0
+~
+~
+0 0 13201
+S
+#13201
+The Beginning of the Stone Bridge~
+A stone bridge stands in front of you.  It once probably looked half
+decent and safe, however age has worn down this great structure.  Two eroded
+statues of troll wizards stand on each side of the bridge.  Their faces worn
+from time.  Below you a river flows, violently.  A path leads under the
+start of the bridge.  North looks unsafe, but there seems to be no other way
+to the tower.  
+~
+0 0 2
+D0
+~
+~
+0 0 13202
+D2
+~
+~
+0 0 13200
+D5
+~
+~
+1 0 13206
+S
+#13202
+Along the Stone Bridge~
+Uneasy you take careful steps across this bridge, though it's made of
+stone, you still question its ability to hold your weight or its self at
+that.  Water from the river splashes up through the holes in the stoned
+floor.  You feel the need to make haste across this bridge.  
+~
+0 0 2
+D0
+~
+~
+0 0 13203
+D2
+~
+~
+0 0 13201
+S
+#13203
+A Hole in the Stone Bridge~
+Whoa!  You stumble back as the middle of the floor caves in.  There is
+enough room to tip toe across the edge of this part of the bridge.  You need
+haste in your steps or you'll end up like the floor, quickly washed away.  
+~
+0 0 2
+D0
+~
+~
+0 0 13204
+D2
+~
+~
+0 0 13202
+D5
+~
+~
+0 0 13209
+S
+#13204
+The End of the Stone Bridge~
+Finally, you've reached the end of the bridge.  There is two of the exact
+statues here as there was at the start of the bridge.  These bare more
+detail for time has not eroded them as much.  On there shields bare the
+mark of Gargnath, which has not been seen since the old days.  To the north
+a forest stands tall.  
+
+~
+0 0 2
+D0
+~
+~
+0 0 13205
+D2
+~
+~
+0 0 13203
+S
+#13205
+An Old Path begins here~
+It feels nice to be off that bridge and a save distance from the river,
+however a wall of over grown bushes is here blocking any exit but back, seems
+like two options are now given to you.  Head back across the bridge or enter
+through these bushes blindly, but what can be worse then that river.  
+~
+0 1 2
+D2
+~
+~
+0 0 13204
+S
+#13206
+Under the Stone Bridge~
+Wandering down that path has leaded you under the bridge.  A door to what
+looks to be falling stone from the bridge used to build a house, hut, or
+whatever this is.  However the door seems sturdy and only a key will open
+the massive chains locking it.  Nothing else really stands out here.  Dirt
+with barely any grass sprouting and the river just ahead, but that would be
+a bad idea.  
+~
+0 1 11
+D0
+~
+~
+2 13200 13207
+D4
+~
+~
+1 0 13201
+S
+#13207
+Sarah's Den~
+The home of Sarah you have just invaded, but fair not, it looks like your
+not the first to come to her house unwelcome.  Seems she locked this door
+for a reason with those massive chains.  Imps have claimed her home for
+there own and seem to dislike your company.  
+~
+0 1 0
+D2
+~
+~
+2 13200 13206
+S
+#13208
+A Path Around the Wall~
+Along the out skirts of the tower you seem to follow this wall forever. 
+As you take a rest for a chance to catch your breath you look behind you and
+see the beginning of the path...  
+~
+0 0 0
+D1
+~
+~
+0 0 13220
+D3
+~
+~
+0 0 13208
+S
+#13209
+In the river~
+You fell into the river below.  It is flowing to strong for you to swim
+out or concentrate on a spell long enough to gate out.  Panic sets through
+you as something touches your feet!!  
+~
+0 268959749 12
+S
+#13210
+An Old Path~
+These woods look the same to you as you look in every direction.  You
+still feel safe knowing you can just go through the bushes and head back,
+but what great wonders are in that tower, and is it really Gargnath's Tower?
+
+~
+0 1 3
+D0
+~
+~
+0 0 13212
+D1
+~
+~
+0 0 13211
+D3
+~
+~
+0 0 13214
+S
+#13211
+An Old Path~
+Your head spins as you try and grasp on to where you are.  Seems
+everywhere in these woods leads to anywhere in these woods.  Afew trolls
+seem to have lost there way and look deathly ill as they scramble through
+these woods trying to find there way out.  
+~
+0 1 3
+D0
+~
+~
+0 0 13212
+D1
+~
+~
+0 0 13211
+D2
+~
+~
+0 0 13210
+D3
+~
+~
+0 0 13211
+S
+#13212
+An Old Path~
+Your head spins as you try and grasp on to where you are.  Seems
+everywhere in these woods leads to anywhere in these woods.  A few trolls
+seem to have lost there way and look deathly ill as they scramble through
+these woods trying to find there way out.  ,c Your head spins as you try and
+grasp on to where you are.  Seems everywhere in these woods leads to
+anywhere in these woods.  A few trolls seem to have lost there way and look
+deathly ill as they scramble through these woods trying to find there way
+out.  
+~
+0 1 3
+D0
+~
+~
+0 0 13214
+D1
+~
+~
+0 0 13213
+D2
+~
+~
+0 0 13210
+D3
+~
+~
+0 0 13212
+S
+#13213
+An Old Path~
+Your head spins as you try and grasp on to where you are.  Seems
+everywhere in these woods leads to anywhere in these woods.  A few trolls
+seem to have lost there way and look deathly ill as they scramble through
+these woods trying to find there way out.  
+~
+0 1 3
+D0
+~
+~
+0 0 13210
+D1
+~
+~
+0 0 13214
+D2
+~
+~
+0 0 13215
+D3
+~
+~
+0 0 13211
+S
+#13214
+An Old Path~
+Your head spins as you try and grasp on to where you are.  Seems
+everywhere in these woods leads to anywhere in these woods.  A few trolls
+seem to have lost there way and look deathly ill as they scramble through
+these woods trying to find there way out.  
+~
+0 1 3
+D0
+~
+~
+0 0 13210
+D1
+~
+~
+0 0 13218
+D2
+~
+~
+0 0 13213
+D3
+~
+~
+0 0 13214
+S
+#13215
+An Old Path~
+Your head spins as you try and grasp on to where you are.  Seems
+everywhere in these woods leads to anywhere in these woods.  A few trolls
+seem to have lost there way and look deathly ill as they scramble through
+these woods trying to find there way out.  
+~
+0 1 3
+D0
+~
+~
+0 0 13216
+D1
+~
+~
+0 0 13211
+D2
+~
+~
+0 0 13210
+D3
+~
+~
+0 0 13213
+S
+#13216
+An Old Path~
+Your head spins as you try and grasp on to where you are.  Seems
+everywhere in these woods leads to anywhere in these woods.  A few trolls
+seem to have lost there way and look deathly ill as they scramble through
+these woods trying to find there way out.  
+~
+0 1 3
+D0
+~
+~
+0 0 13213
+D1
+~
+~
+0 0 13212
+D2
+~
+~
+0 0 13210
+D3
+~
+~
+0 0 13217
+S
+#13217
+An Old Path Ends here~
+Finally a dimly lit path is in the distance.  These woods weren't so bad,
+just more of an annoyance.  Everything all around you still looks the same,
+except for this path.  
+~
+0 1 3
+D1
+~
+~
+0 0 13210
+D2
+~
+~
+0 0 13214
+D3
+~
+~
+0 0 13210
+S
+#13218
+A Small Hut~
+Looks as if the lost trolls made a hut to stay in, since they can't seem
+to find there way home.  The walls are weak and there is no floor.  A few
+pieces of chairs are here and a table, nothing really more.  There are
+leaves on the floor in forms of beds but other then that, this hut is empty.
+~
+0 0 11
+D3
+~
+~
+0 0 13214
+D4
+~
+~
+1 0 13227
+S
+#13219
+Before a Stone Door~
+Across the bridge and out of the woods, yet now a new obstacle stands in
+front of you.  A huge stone wall now grabs your attention quickly.  Peeking
+over the wall is the top of the tower.  Gargnath Tower looks to be only a
+few feet away from you.  The only problem is you need a key to open the
+massive stone door.  
+~
+0 0 2
+D0
+~
+~
+4 13208 13222
+D1
+~
+~
+0 0 13221
+D3
+~
+~
+0 0 13220
+S
+#13220
+Along a Stone Wall~
+Along the out skirts of Gargnath's Tower a massive wall is here, blocking
+you from entering this area.  The wall seems like it was build recently it
+looks that strong.  To the east you can see the stone door leading into the
+tower grounds.  
+~
+0 0 2
+D1
+~
+~
+0 0 13219
+D3
+~
+~
+0 0 13208
+S
+#13221
+Along a Stone Wall~
+Along the out skirts of Gargnath's Tower a massive wall is here, blocking
+you from entering this area.  The wall seems like it was build recently it
+looks that strong.  To the west you can see the stone door leading into the
+tower grounds.  
+~
+0 0 2
+D1
+~
+~
+0 0 13288
+D3
+~
+~
+0 0 13219
+S
+#13222
+The Pathway to Gargnath's Tower~
+Beyond the stone door and into the courtyard of Gargnath's Tower you
+travel.  The grass is freshly cut, and the sky here beams bright.  Not a
+typical courtyard for trolls you would assume.  Surrounding the area is a
+massive stone wall.  To the north is the great structure, Gargnath's Tower. 
+~
+0 0 2
+D0
+~
+~
+0 0 13223
+D2
+~
+~
+4 13208 13219
+S
+#13223
+Along the Pathway to Gargnath's Tower~
+As you walk down this well maintained path you pause and look at the
+surrounding beauty of this area.  It overwhelms you that trolls could have
+such taste, but then again age is said to bring good taste, and Gargnath is
+as old as this land itself.  
+~
+0 0 2
+D0
+~
+~
+0 0 13225
+D2
+~
+~
+0 0 13222
+S
+#13224
+Grand Hall~
+You now enter that grand hall of the tower.  A tacky welcome mat is on
+the floor.  Red carpet rolls out in almost every direction and the walls
+shine brightly.  Picture are hung all over the room depicting great
+battle scenes one can only suspect to be from the Dragon War.  Chatter comes
+from all directions and you feel a warm glow flow through your body 
+ 
+A {yBulletin Board {xis here.
+~
+0 0 11
+E
+bulletin~
+{RAttention{x:
+-Hog Ball tryouts are at noon.
+-There will be extra offensive spell help in the courtyard after classes.
+-Thursday's meal will be off this week and it will be replaced with Mondays.
+-There will be no classes this Friday. As it is a Gargnath birthday.
+
+~
+D0
+~
+~
+0 0 13230
+D1
+~
+~
+0 0 13229
+D2
+~
+~
+4 13215 13226
+D3
+~
+~
+0 0 13228
+S
+#13225
+The Pathway to Gargnath's Tower~
+Here stands a statue in the middle to the path.  It is the exact same as
+the ones you encountered on the bridge.  This one however, appears to be in
+perfect condition.  A giant well sculpted statue of Gargnath.  The detail on
+this is amazing.  
+ 
+A {CStatue{x of Gargnath is here.
+~
+0 0 2
+E
+statue~
+Here stands Gargnath, The Greatest Wizard to step foot on Dominia.  Well
+known across the land for his help with Selina in the War of all War, The
+Dragon War.  
+ 
+Welcome to Gargnath Tower.
+~
+D0
+~
+~
+0 0 13226
+D2
+~
+~
+0 0 13223
+S
+#13226
+Infront of Gargnath's Tower~
+You now stand in the front of Gargnath's Tower.  The tower seems to react
+high above the clouds and the only thing stopping you from your exploring is
+a small door, with a small key hole.  You also notice the stones on the
+tower look to be a unique type, one you never have crossed on your travels. 
+The small door seems old and probably wouldn't be hard to break, but is that
+how you want to make your first impression?  
+~
+0 0 2
+D0
+~
+~
+4 13215 13224
+D2
+~
+~
+0 0 13225
+S
+#13227
+A Small Room~
+Argh!  This is one small room.  There is nothing in this room except for
+cobwebs and dust balls.  The walls here are covered in drawings and
+sketches.  Kids must have played in this room some time ago.  
+~
+0 512 11
+D5
+~
+~
+1 0 13218
+S
+#13228
+West Wing~
+This wing of the Tower is for prayer to Selina and resting.  A red carpet
+from the east goes through here and branches off north and west.  The walls
+here are decorated with pictures of Students and Selina, each grasping every
+detail making them look life like.  To the North is a prayer room, to the
+west is a room to relax in.  
+~
+0 0 11
+D0
+~
+~
+0 0 13236
+D1
+~
+~
+0 0 13224
+D2
+~
+~
+3 13226 13240
+D3
+~
+~
+0 0 13237
+S
+#13229
+East Wing~
+This wing of the Tower is build for students to eat their meals of the
+day.  A red carpet is here coming from the Grand Hall and the walls are
+covered with pictures of students.  To the north something delicious can be
+smelt and to the east you hear chatter.
+ 
+A {ySign{x of the weekly specials is here!
+~
+0 0 11
+E
+sign~
+Meals:
+Mon's Special: Herb Roots and Stink Bugs.
+Tues's Special: Hotfrogs in Slug Soup.
+Wed's Special: Fire Ant Salad and Mushroom Stew.
+Thur's Special: Bark Frys and Deep Fryed Crab
+Fri's Special: Catfish Brains in Lime Juice
+Sat's Special: Mud Pie and Bat Wing Pizza
+Sun's Special: Squid Eye Burgers and Mushroom Bread.
+~
+D0
+~
+~
+0 0 13238
+D1
+~
+~
+0 0 13239
+D2
+~
+~
+3 13227 13241
+D3
+~
+~
+0 0 13224
+S
+#13230
+North Wing~
+This is the largest wing in the Tower.  It seems to reflect light to the
+center of the room, by using the white walls in a mirror fashion.  A red
+carpet from the south goes straight north through this room and branches off
+east and west.  You can hear snoring and quiet mutters coming from the east
+and west rooms.  
+~
+0 0 11
+D0
+~
+~
+0 0 13231
+D1
+~
+~
+0 0 13233
+D2
+~
+~
+0 0 13224
+D3
+~
+~
+0 0 13232
+S
+#13231
+Stairway~
+A massive stone stairway is here, leading up into the Tower and
+descending down below the tower.  The walls here are covered in pictures. 
+Each picture is of a Master who has taught for this school.  Above you in
+the next floor you here chatter and below you hear a weak moaning.  
+~
+0 0 11
+D0
+~
+~
+4 13228 13268
+D2
+~
+~
+0 0 13230
+D4
+~
+~
+0 0 13242
+D5
+~
+~
+3 0 13270
+S
+#13232
+Sleeping Chambers~
+Your eye lids feel as if a spell has just been cast over them.  This room
+makes you want to pull up a pillow and sleep.  The floor here is covered in
+pillows.  The walls here are painted dark causing no light to reflect
+anywhere in this room, keeping it a nice dimly lit room.  
+~
+0 0 11
+D1
+~
+~
+0 0 13230
+D3
+~
+~
+0 0 13234
+S
+#13233
+Sleeping Chambers~
+Your eyes fill with sleep as you debate to carry on or to take rest in
+this room.  The walls are a sweet mellow color which seems to call out at
+you and the massive pile of pillows on the floor makes this rooms hard to
+resist.  
+~
+0 0 11
+D1
+~
+~
+0 0 13235
+D3
+~
+~
+0 0 13230
+S
+#13234
+Meditation Chamber~
+Peace flows through your body and you seem to come to ease.  This room
+has nothing in it except for a mat you can roll out and meditate on.  The
+walls are white and bare.  The floor is made of wood and laid out in an odd
+pattern.  A warm inner feeling is felt when you come into this room.  
+~
+0 0 11
+D1
+~
+~
+0 0 13232
+S
+#13235
+Meditation Chamber~
+You begin to feel inner peace as you step into this room.  This room has
+nothing except a mat to roll out and meditate on.  The walls are white and
+bare and the floor is done in some odd wooden pattern.  
+~
+0 0 11
+D3
+~
+~
+0 0 13233
+S
+#13236
+Prayer Room~
+The first of many things to catch your eye in this room is the Statue of
+Selina.  Not just her beauty captured within the life like characteristics
+of the statue, something odd is standing out but you cant put your figure on
+it.  As for the rest of the room, it is decorated with bright colors and
+great picture are on the walls of massive dragon hordes invading Gargngath's
+Tower and the students side by side with Master defending there home.  The
+walls here are a deep blue and the floor is bare with hardwood across it,
+except for the center before the statue, a pile of pillows lay there.  
+ 
+A Statue of {CSelina{x is here.
+~
+0 0 11
+E
+statue~
+Words can not express the beauty of Selina.  The artist truly grasped her
+beauty in detail.  
+ 
+Words engraved in the statue read;
+ 
+"With my vengeance, smite the horde from Terra. For their
+Arrogance shall be their down fall".
+~
+D2
+~
+~
+0 0 13228
+S
+#13237
+Resting Room~
+A room for you to relax in is here.  You have now entered the resting
+room of the tower.  After a hard study students like to take a few hours out
+of their day and rest here.  The walls are dark and candles dimly light the
+room.  Places to rest and read are placed neatly in the room.  
+~
+0 0 11
+D1
+~
+~
+0 0 13228
+S
+#13238
+Kitchen~
+Hmmmmm, something smells quiet delicious in this room!  You follow your
+nose to the source of the wonderful smell.  A large pot is here boiling over
+an open fire.  You can almost picture what is in the bowl.  Suddenly your
+slapped in the Wrist by someone and they say; "No soup for you!"  .  Argh
+just a taste would be grand!  You barter with the person and end up getting
+a taste!  Mmmmmmmmmm.  To bad that cost you your first born, but it was
+worth it!  
+~
+0 0 11
+D2
+~
+~
+0 0 13229
+S
+#13239
+Dinning Room~
+The smell of food fills this room as students come here for their daily
+meals.  Tables and Chairs make row after row and to the far end is were you
+go to pick up the special of the day.  There are no walls in this room to
+the east and north and south, there is just one round window giving you a
+beautiful view of the courtyard.  
+~
+0 0 11
+D3
+~
+~
+0 0 13229
+S
+#13240
+Wand Shop~
+The walls in this room are decorated with all sorts of different types of
+wands.  Wands for combat, defending and self protection all lay on the
+walls.  A humble troll stands here scratching his head trying to figure out
+what one of the wands he just crafted does.  BOOM!  Smoke fills the room as
+the wand explodes!  The humble troll clicks on a fan until all the smoke is
+gone from the room.  
+~
+0 1 11
+D0
+~
+~
+3 13226 13228
+S
+#13241
+Potion Shop~
+You enter probably the loudest room in the tower.  The room is set up
+like a normal shop with a front desk and items on displace all over. 
+However two extremely small trolls are here yelling at each other.  They
+seem to be blaming the other for blowing up a shrinking potion.  One grabs
+the other and attempt to push him off the front desk in rage.  
+ 
+A {ySign {xis here.
+~
+0 0 11
+E
+sign~
+{RYOU BREAK! YOU BUY!{X
+~
+D0
+~
+~
+3 13227 13229
+S
+#13242
+Main Hall~
+You now enter a room decorated with marble walls and a blue tiled floor. 
+Hanging from the ceiling is a silver plate held up by 4 chains.  The plate
+has a fire blazing in it lighting this whole room up perfectly.  On one of
+the walls there is a list.  Suddenly you're pushed from behind as a student
+passes by trying to make it to class on time.  
+ 
+A {rList{x is here.
+~
+0 0 11
+E
+list~
+The following list consists of Students who
+have achieved the Gargnath list of Excellence.
+ 
+-Gerald for his studies in Wizardry
+-David for his studies in Combat
+-Daniel for his studies in Stealth
+-Zack for his studies in the Healing
+~
+D0
+~
+~
+0 0 13248
+D1
+~
+~
+0 0 13259
+D2
+~
+~
+0 0 13252
+D3
+~
+~
+0 0 13256
+D4
+~
+~
+0 0 13243
+D5
+~
+~
+0 0 13231
+S
+#13243
+Study Hall~
+You enter a massive room with giant bookcases for walls that are packed
+tightly with books.  A female troll is here counting the books You couldn't
+think of a worse job, but she seems to be enjoying herself.  It so quiet on
+this level you could hear a pin drop.  Exits lead in every direction from
+this room.  
+ 
+A {ySign{x is here.
+~
+0 0 11
+E
+sign~
+THIS AREA OF THE TOWER IS UNDER CONSTRUCTION
+PLEASE WATCH YOU STEP.
+~
+D0
+~
+~
+0 0 13258
+D1
+~
+~
+0 0 13261
+D2
+~
+~
+0 0 13262
+D3
+~
+~
+0 0 13263
+D4
+~
+~
+0 0 13244
+D5
+~
+~
+0 0 13242
+S
+#13244
+Masters Hall~
+The Masters Hall truly fit for the masters of this school.  The walls and
+ceiling are all mirrors which seems to not reflect your reflection.  The
+floor is made of a material you have never seen before but it is beautiful,
+so beautiful a word could not describe it, which is probably why it has yet
+to be named.  
+ 
+A {ySign{x is here.
+~
+0 0 11
+E
+sign~
+Masters Rooms:
+South: Master Deveron
+East: Master Qons
+North: Master Dahrak
+West: Master Ralk
+~
+D0
+~
+~
+3 0 13264
+D1
+~
+~
+3 0 13266
+D2
+~
+~
+3 0 13267
+D3
+~
+~
+3 0 13265
+D4
+~
+~
+0 0 13245
+D5
+~
+~
+0 0 13243
+S
+#13245
+Gargnath's Hall~
+This hall is truly magical.  The walls are made out of some mystical
+spell.  The floor is made of water and allows you to walk on it.  There is
+no source of light for this room, yet it is lit up brightly.  The ceiling
+here seems to give the illusion that there is none, it looks like a galaxy
+is floating five feet above your head.  
+~
+0 0 11
+D0
+~
+~
+0 0 13246
+D5
+~
+~
+0 0 13244
+S
+#13246
+Before Gargnath's Chamber~
+As you walk further down the hall nothing changes in appearance.  The
+walls are still made of some magical substance and the floor is still made
+of water, the only thing in this room giving you any sense of direction is
+the map of a galaxy floating above your head.  
+~
+0 0 11
+D0
+~
+~
+3 0 13247
+D2
+~
+~
+0 0 13245
+S
+#13247
+Gargnath's Chamber~
+Behold!  You have arrived in the chamber of Gargnath.  This room looks
+exactly like the other rooms, except Gargnath is standing directly under the
+sun in the map of the galaxy.  Gargnath is standing here shouting spells
+casting them throughout the tower.  
+~
+0 0 11
+D0
+~
+~
+3 13243 13280
+D2
+~
+~
+3 0 13246
+S
+#13248
+North Corridor~
+This hallway is light up with a line of candles on each wall.  The same
+marble walls are as in the main hall, which allows light to reflect off
+them, providing more light in this room.  Also the same blue tiled floor
+covers this room.  In all directions you hear chatter and laughter.  
+~
+0 0 11
+D0
+~
+~
+0 0 13251
+D1
+~
+~
+0 0 13250
+D2
+~
+~
+0 0 13242
+D3
+~
+~
+0 0 13249
+S
+#13249
+Lab Room: 1~
+In this room there is two chemistry sets to each table.  There are three
+rows of tables with four table in each row.  The floor sticks with split
+potions that have exploded and there is used scrolls all over the place. 
+This room is far from organized and clean.  
+~
+0 0 11
+D1
+~
+~
+0 0 13248
+S
+#13250
+Testing Room: 1~
+You feel light headed as you step into a room of nothingness.  You lose
+your grasp on gravity, time, and distances.  You begin to feel yourself come
+to grip on the reality of this room after a few seconds now.  The ability to
+function normal has returned!!  As you look around this room you realize
+must be a testing room.  That and the guy outside told you before you
+entered.  
+~
+0 0 11
+D3
+~
+~
+0 0 13248
+S
+#13251
+Classroom: 1~
+All these Classrooms look exactly the same.  The chairs are all lined up
+in five rows with ten seats in each row.  To the back of the class is the
+Masters desk facing the door.  There is also a fairly large space between
+the Masters desk and the students.  It looks as if it would be a safe enough
+distances to demonstrate spells.  
+~
+0 0 11
+D2
+~
+~
+0 0 13248
+S
+#13252
+South Corridor~
+The southern hallway of the main hall is like all hallways on this floor.
+Candles light it up brightly and the floor follows the same blue tiled
+pattern.  Students however, rush past you as class comes to an end causing
+you to stubble back as they seem to care less if your in the way or not.  
+~
+0 0 11
+D0
+~
+~
+0 0 13242
+D1
+~
+~
+0 0 13254
+D2
+~
+~
+0 0 13255
+D3
+~
+~
+0 0 13253
+S
+#13253
+Lab Room: 2~
+In this room there is two chemistry sets to each table.  There are three
+rows of tables with four table in each row.  The floor sticks with split
+potions that have exploded and there is used scrolls all over the place. 
+This room is far from organized and clean.  
+~
+0 0 11
+D1
+~
+~
+0 0 13252
+S
+#13254
+Testing Room: 2~
+You feel light headed as you step into a room of nothingness.  You lose
+your grasp on gravity, time, and distances.  You begin to feel yourself come
+to grip on the reality of this room after a few seconds now.  The ability to
+function normal has returned!!  As you look around this room you realize
+must be a testing room.  That and the guy outside told you before you
+entered.  
+~
+0 0 11
+D3
+~
+~
+0 0 13252
+S
+#13255
+Class Room: 2~
+All these Classrooms look exactly the same.  The chairs are all lined up
+in five rows with ten seats in each row.  To the back of the class is the
+Masters desk facing the door.  There is also a fairly large space between
+the Masters desk and the students.  It looks as if it would be a safe enough
+distances to demonstrate spells.  
+~
+0 0 11
+D0
+~
+~
+0 0 13252
+S
+#13256
+West Corridor~
+You enter down a hallway lit up by 4 large torches, which reflect off the
+marble walls causing light to get everywhere in this room.  The floor like
+every other hall on this level follows the same blue tiled pattern.  You
+here crying as you notice a student running from a class room sobbing the
+words "I failed".  
+~
+0 0 11
+D1
+~
+~
+0 0 13242
+D2
+~
+~
+0 0 13282
+D3
+~
+~
+0 0 13257
+S
+#13257
+Classroom: 3~
+All these Classrooms look exactly the same.  The chairs are all lined up
+in five rows with ten seats in each row.  To the back of the class is the
+Masters desk facing the door.  There is also a fairly large space between
+the Masters desk and the students.  It looks as if it would be a safe enough
+distances to demonstrate spells.  
+~
+0 0 11
+D1
+~
+~
+0 0 13256
+S
+#13258
+Library~
+The walls in this room are only half way finished.  The floor is covered
+in dust from the log of woods that laid stacked on each other.  Stones are
+even unevenly placed in this area.  
+ 
+A sign reads under construction.
+~
+0 0 11
+D2
+~
+~
+0 0 13243
+S
+#13259
+East Corridor~
+The first thing to catch your eye in this room is a large picture on each
+of the two sides of the hall.  A man is here pointing yelling who put up
+these pictures of Zelin, while a student stutters over his own words trying
+to explain what he knows about the crime.  
+~
+0 0 11
+D0
+~
+~
+0 0 13260
+D2
+~
+~
+0 0 13283
+D3
+~
+~
+0 0 13242
+S
+#13260
+Classroom: 4~
+All these Classrooms look exactly the same.  The chairs are all lined up
+in five rows with ten seats in each row.  To the back of the class is the
+Masters desk facing the door.  There is also a fairly large space between
+the Masters desk and the students.  It looks as if it would be a safe enough
+distances to demonstrate spells.  
+~
+0 0 11
+D2
+~
+~
+0 0 13259
+S
+#13261
+Library~
+This room is complete empty just pillars stand here to support the
+ceiling.  There are no walls and you lightly step on boards that lay were
+the floor will go.  
+ 
+A sign reads under construction.
+~
+0 0 11
+D1
+~
+~
+4 0 13281
+D3
+~
+~
+0 0 13243
+S
+#13262
+Library~
+This room is complete empty just pillars stand here to support the
+ceiling.  There are no walls and you lightly step on boards that lay were
+the floor will go.  
+ 
+A sign reads under construction.
+~
+0 0 11
+D0
+~
+~
+0 0 13243
+S
+#13263
+Library~
+This room is complete empty just pillars stand here to support the
+ceiling.  There are no walls and you lightly step on boards that lay were
+the floor will go.  
+ 
+A sign reads under construction.
+~
+0 0 11
+D1
+~
+~
+0 0 13243
+S
+#13264
+Master Dahrak's Room~
+You walking into a dark room barely lit.  The floor here is wooden and
+the walls are bare besides a single candle on one.  As you walk around one
+corner always seems to dark for you to see in.  You ponder if Dahrak is in
+this room watching you right now.  
+~
+0 4 11
+D2
+~
+~
+3 0 13244
+S
+#13265
+Master Relk's Room~
+You enter the room of Master Relk.  Spells weave through the air,
+lighting this room up brightly.  You can tell this master is sloppy by the
+scrolls scattered and books stacked all over the room unorganized.  The
+walls in this room are a dark red and the floor is some kind of fur for
+carpet.  
+~
+0 4 11
+D1
+~
+~
+3 0 13244
+S
+#13266
+Master Qons's Room~
+You enter a room lit up brightly.  The walls are a bright white with a
+light blue boarder.  The floor is transparent and beneath it a pool where
+exotic sea life is kept.  In the back of the room is Master Qons desk with
+old potions and pills on it.  One reads "The Holy Hand Grenade."  As you
+step closer a force stops you from grabbing the potions and pills.  
+~
+0 4 0
+D3
+~
+~
+3 0 13244
+S
+#13267
+Master Deveron's Room~
+You enter the room of Master Deveron.  The first thing you notice is the
+rows of weapons and armor lining the walls.  2 Torches placed on the east
+and west wall light this room up.  Infront of you stands a massive troll,
+which you could only assume is Master Deveron himself.  
+~
+0 4 11
+D0
+~
+~
+3 0 13244
+S
+#13268
+Guard's Room~
+"Halt!"  You're stopped instantly by a guard!  "None are allowed in this
+room".  Before you can explain he has drawn his weapon and begin to attack
+you!  
+~
+0 0 11
+D1
+~
+~
+4 13229 13269
+D2
+~
+~
+4 13228 13231
+S
+#13269
+Vault~
+This room is filled with all sorts of treasures.  Most look as if their
+from other lands and alien to Dominia.  The walls here sparkle with the
+reflection of the gold and silver colors.  The floor to you is unknown,
+since the treasures cover it.  
+~
+0 0 11
+D3
+~
+~
+4 13229 13268
+S
+#13270
+Down a Stairway~
+You decent down a long stairway.  The walls here are lit few and far
+between by candles.  Besides the odd flickers this stairway is shadowed from
+light.  The sound of moaning is heard even clearer now as you approach the
+bottom.  
+~
+0 1 11
+D4
+~
+~
+3 0 13231
+D5
+~
+~
+0 0 13271
+S
+#13271
+Tower Prison~
+You finally descend to the bottom of this area.  This Prison is lit
+similar to the stairway.  The floor here is damp and wet as the ceiling
+leaks slowly.  The stones on the floor are out of place and some are
+missing.  To the south of you in the next room is a black gate.  
+ 
+A {S{y{ySign{x{x is here.
+~
+0 1 11
+E
+sign~
+=========================================
+Gargnath's Prison:
+Those who have broke my rules shall
+be thrown in a cell with no food or water
+and when Selina takes there soul only then
+shall I forgive them.
+~
+D2
+~
+~
+0 0 13272
+D4
+~
+~
+0 0 13270
+S
+#13272
+Prison Guardpost~
+This room seems to be well maintained, even though the floor is still wet
+from water flowing in at a steady rate from the north.  The walls here have
+the days marked on them, showing how long these guards have been here. 
+South of you is a strong black gate that is not going to open without the
+key.  
+~
+0 1 11
+D0
+~
+~
+0 0 13271
+D2
+~
+~
+3 13222 13273
+S
+#13273
+Prison Hall~
+A narrow hallway branches off into cells in almost all directions.  This
+rooms condition is the same as the first room you had entered.  The stone
+floor is missing blocks of stone.  The sounds of the prisoners' moans echo
+through these halls.  
+~
+0 1 11
+D0
+~
+~
+3 13222 13272
+D1
+~
+~
+3 13221 13278
+D2
+~
+~
+0 0 13274
+D3
+~
+~
+3 13221 13277
+S
+#13274
+Prison Hall~
+You have reached the end of a narrow hallway.  Cells branch off in almost
+all directions except one cell stands out to the south.  The gate here is
+lock with a weird shaped lock.  And the gate's joints are rusted as if this
+gate has not been open for a long, long time.  
+ 
+A {ySign{x is hanging from the south gates.
+~
+0 1 11
+E
+sign~
+No matter what these cell doors are never to open.
+Even at half strenght Zelin is almost to hard to
+contain.
+For those of you whom do not know Zelin's Crime it was
+leading an Army of Dragons to this Tower to gain a
+personal alliance with the Dragon and a small piece
+of this land.
+ 
+Again, do Not, ever, open this cell.
+~
+D0
+~
+~
+0 0 13273
+D1
+~
+~
+3 13221 13279
+D2
+~
+~
+4 13222 13275
+D3
+~
+~
+3 13221 13276
+S
+#13275
+Zelin's Cell~
+This cell seems to be clean and empty besides the figure standing in the
+center of the room staring at you.  The walls here are bare and there seems
+to be something under the feet of this man, a hatch by the looks of it,
+other then that this room seems completely stone grey.  
+~
+0 1 11
+D0
+~
+~
+4 13222 13274
+D5
+~
+~
+4 13220 13284
+S
+#13276
+Prison Cell~
+This room is a holding cell that seems to not let it's prisoners out or
+even clean the dead bodies out.  The smell of this room is horrific and you
+can't seem to understand why this smell is not smelt anywhere else in the
+prison.  The walls are covered in blood stains and scratches, in the corner
+of the room is...  Their bathroom?  
+~
+0 1 11
+D1
+~
+~
+3 13221 13274
+S
+#13277
+Prison Cell~
+This room is a holding cell that seems to not let it's prisoners out or
+even clean the dead bodies out.  The smell of this room is horrific and you
+can't seem to understand why this smell is not smelt anywhere else in the
+prison.  The walls are covered in blood stains and scratches, in the corner
+of the room is...  Their bathroom?..  
+~
+0 1 11
+D1
+~
+~
+3 13221 13273
+S
+#13278
+Prison Cell~
+This room is a holding cell that seems to not let it's prisoners out or
+even clean the dead bodies out.  The smell of this room is horrific and you
+can't seem to understand why this smell is not smelt anywhere else in the
+prison.  The walls are covered in blood stains and scratches, in the corner
+of the room is...  Their bathroom?  
+~
+0 1 11
+D3
+~
+~
+3 13221 13273
+S
+#13279
+Prison Cell~
+This room is a holding cell that seems to not let it's prisoners out or
+even clean the dead bodies out.  The smell of this room is horrific and you
+can't seem to understand why this smell is not smelt anywhere else in the
+prison.  The walls are covered in blood stains and scratches, in the corner
+of the room is...  Their bathroom?  
+~
+0 1 11
+D3
+~
+~
+3 13221 13274
+S
+#13280
+Gargnath's Secret Room~
+This must be Gargnath's personal resting chambers.  There is a couch in
+the room, a fountain of a giant two headed troll smashing a dragon with a
+massive spiked club and Pictures are placed along the walls.  This room
+gives a relaxed feeling and branches off east and west from here.  
+~
+0 0 11
+E
+cage~
+One of the Students has been kidnapped and put into a cage by the insane
+troll!!  
+~
+D1
+~
+~
+0 0 13285
+D2
+~
+~
+3 13243 13247
+D3
+~
+~
+0 0 13287
+S
+#13281
+Forgotten Books~
+You have stumbled into a secret room filled with books in a language you
+don't understand.  Afew and far between you come across books written in a
+language you can understand.  The walls here are wooden and painted a dull
+color.  The bookcases are small and plenty but there isn't mainy.  This room
+is smaller then the rest on this level and barely can fit half as many books
+in as the other rooms.  
+~
+0 0 0
+D3
+~
+~
+4 0 13261
+S
+#13282
+Lab Room 3~
+In this room there is two chemistry sets to each table.  There are three
+rows of tables with four table in each row.  The floor sticks with split
+potions that have exploded and there is used scrolls all over the place. 
+This room is far from organized and clean.  
+~
+0 0 11
+D0
+~
+~
+0 0 13256
+S
+#13283
+Lab Room 4~
+In this room there is two chemistry sets to each table.  There are three
+rows of tables with four table in each row.  The floor sticks with split
+potions that have exploded and there is used scrolls all over the place. 
+This room is far from organized and clean.  
+~
+0 0 11
+D0
+~
+~
+0 0 13259
+S
+#13284
+Tunnel~
+A narrow tunnel has been dug out here.  The room seems long, damp, dark
+and cold.  The walls are mud, nothing really much to see, as the floor and
+ceiling is also mud.  
+~
+0 5 11
+D4
+~
+~
+4 13220 13275
+S
+#13285
+Pet Shop~
+You enter another dimly lit room, however, the light given off by two
+candles seems to flicker slowly, showing flashes of the troll in the rooms
+face.  His face seems to be scared and he has an odd wicked smile.  This
+rooms walls are black along with everything else in this room.  Behind the
+insane troll is a stack of cages, each filled with a pair of glowing eyes
+glaring at you.  
+~
+0 4097 11
+E
+cage~
+A student is here! This insane troll is collecting students
+secretly and putting them in cages....
+You feel the need to look into this matter closely.
+~
+D3
+~
+~
+0 0 13280
+S
+#13286
+Cage Room~
+A room filled with cages is here. Most of them are filled with students.
+~
+0 4 0
+S
+#13287
+Empty Room~
+You entered an empty room.  Why Gargnath has kept this room so bare is a
+question at hand.  The walls are bare, the floor is dull and the ceiling has
+a single candle hanging from it causing light in the room to flicker between
+dark and dim.  
+~
+0 268960261 11
+D1
+~
+~
+0 0 13280
+S
+#13288
+A Path Around the Wall~
+Along the out skirts of the tower you seem to follow this wall forever. 
+As you take a rest for a chance to catch your breath you look behind you and
+see the beginning of the path...  
+~
+0 0 0
+D1
+~
+~
+0 0 13288
+D3
+~
+~
+0 0 13221
+S
+#13299
+Nogusto's Swamp~
+Its a swamp.... use your imagination.
+~
+0 268992524 11
+E
+kitten~
+Meow!
+~
+E
+statue~
+A statue is here of Nogusto's Father.
+Vuurk once King of the Dwarven people.
+Selina's high priest, whom betrayed her for Chaos.
+Tyrant to clan Seeker
+Undead ruler of the Underworld.
+~
+M 5000 H 5000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#13202
+if ispc $n
+say I'm being killed by a player!
+end if
+~
+A
+#0
+
+#RESETS
+D 0 13201 5 1
+D 0 13206 0 2
+D 0 13206 4 1
+D 0 13207 2 2
+D 0 13218 4 1
+D 0 13219 0 2
+D 0 13222 2 2
+D 0 13224 2 2
+D 0 13226 0 2
+D 0 13227 5 1
+D 0 13228 2 1
+D 0 13229 2 1
+D 0 13231 0 1
+D 0 13231 5 1
+D 0 13240 0 1
+D 0 13241 0 1
+D 0 13244 0 1
+D 0 13244 1 1
+D 0 13244 2 1
+D 0 13244 3 1
+D 0 13246 0 1
+D 0 13247 0 1
+D 0 13247 2 1
+D 0 13261 1 1
+D 0 13264 2 1
+D 0 13265 1 1
+D 0 13266 3 1
+D 0 13267 0 1
+D 0 13268 1 1
+D 0 13268 2 1
+D 0 13269 3 1
+D 0 13270 4 1
+D 0 13272 2 2
+D 0 13273 0 2
+D 0 13273 1 2
+D 0 13273 3 2
+D 0 13274 1 2
+D 0 13274 2 2
+D 0 13274 3 2
+D 0 13275 0 2
+D 0 13275 5 2
+D 0 13276 1 2
+D 0 13277 1 2
+D 0 13278 3 2
+D 0 13279 3 2
+D 0 13280 2 1
+D 0 13281 3 1
+D 0 13284 4 2
+M 1 13208 1 13201 1
+E 0 13200 0 17
+E 0 13202 0 16
+O 0 13203 0 13205
+M 1 13200 2 13207 2
+O 0 13201 0 13207
+P 0 13256 1 13201 1
+M 1 13202 1 13209 1
+M 1 13203 4 13210 1
+E 0 13210 0 16
+E 0 13212 0 8
+O 0 13204 0 13210
+M 1 13203 4 13212 1
+E 0 13210 0 16
+E 0 13212 0 8
+O 0 13214 0 13213
+M 1 13203 4 13214 1
+E 0 13210 0 16
+E 0 13211 0 6
+M 1 13203 4 13216 1
+E 0 13210 0 16
+E 0 13213 0 13
+O 0 13205 0 13217
+M 1 13204 1 13218 1
+E 0 13207 0 1
+O 0 13206 0 13219
+M 1 13201 1 13219 1
+E 0 13208 0 17
+E 0 13209 0 16
+M 1 13206 3 13223 1
+E 0 13216 0 16
+E 0 13232 0 13
+M 1 13207 1 13224 1
+E 0 13228 0 17
+E 0 13232 0 13
+M 1 13209 1 13226 1
+E 0 13225 0 16
+E 0 13215 0 3
+O 0 13246 0 13227
+M 1 13216 10 13228 1
+M 1 13216 10 13229 1
+M 1 13206 3 13229 1
+E 0 13216 0 16
+E 0 13232 0 13
+M 1 13216 10 13230 1
+E 0 13231 0 5
+M 1 13205 2 13231 1
+E 0 13226 0 17
+M 1 13217 2 13232 1
+M 1 13216 10 13233 1
+M 1 13217 2 13233 1
+E 0 13231 0 5
+M 1 13218 1 13234 1
+E 0 13231 0 12
+M 1 13219 1 13236 1
+E 0 13231 0 12
+M 1 13216 10 13237 1
+E 0 13231 0 12
+O 0 13244 0 13238
+M 1 13222 1 13238 1
+E 0 13230 0 16
+M 1 13220 2 13239 2
+M 1 13235 1 13240 1
+G 0 13251 0
+G 0 13252 0
+G 0 13248 0
+G 0 13247 0
+G 0 13249 0
+G 0 13250 0
+M 1 13234 1 13241 1
+G 0 13254 0
+G 0 13253 0
+G 0 13255 0
+M 1 13216 10 13242 1
+E 0 13231 0 5
+M 1 13206 3 13242 1
+E 0 13216 0 16
+M 1 13205 2 13244 1
+E 0 13227 0 17
+M 1 13232 1 13247 1
+M 1 13226 1 13249 1
+E 0 13231 0 12
+M 1 13216 10 13251 1
+M 1 13224 1 13252 1
+M 1 13223 1 13254 1
+M 1 13216 10 13255 1
+M 1 13216 10 13257 1
+M 1 13231 4 13258 1
+M 1 13241 1 13258 5
+M 1 13216 10 13258 1
+M 1 13216 10 13260 1
+M 1 13231 4 13261 1
+M 1 13241 2 13261 5
+M 1 13231 4 13262 1
+M 1 13241 1 13262 5
+M 1 13231 4 13263 1
+M 1 13241 1 13263 5
+M 1 13227 1 13264 1
+E 0 13238 0 16
+E 0 13239 0 15
+M 1 13228 1 13265 1
+E 0 13240 0 3
+M 1 13230 1 13266 1
+E 0 13242 0 16
+M 1 13229 1 13267 1
+E 0 13241 0 11
+M 1 13233 2 13268 2
+M 1 13221 1 13268 1
+E 0 13228 0 17
+E 0 13232 0 13
+E 0 13234 0 16
+O 0 13245 0 13269
+M 1 13242 1 13269 1
+M 1 13210 1 13272 1
+E 0 13216 0 16
+E 0 13217 0 14
+E 0 13221 0 17
+M 1 13212 2 13272 1
+E 0 13216 0 16
+E 0 13218 0 6
+E 0 13222 0 17
+M 1 13212 2 13274 1
+E 0 13216 0 16
+M 1 13213 1 13275 1
+E 0 13220 0 3
+M 1 13211 4 13276 1
+E 0 13219 0 16
+M 1 13211 4 13277 1
+E 0 13219 0 16
+M 1 13211 4 13278 1
+E 0 13219 0 16
+M 1 13211 4 13279 1
+E 0 13219 0 16
+M 1 13225 1 13283 1
+M 1 13214 1 13284 1
+E 0 13223 0 5
+E 0 13224 0 16
+M 1 13215 2 13284 2
+M 1 13236 1 13285 1
+M 1 13240 1 13286 1
+M 1 13239 1 13286 1
+M 1 13238 1 13286 1
+M 1 13237 1 13286 1
+M 1 13299 1 13299 1
+S
+
+
+
+#SHOPS
+13234 10 9 0 0 0 110 90 0 23
+13235 3 5 0 0 0 110 90 0 23
+0
+
+
+
+#$

@@ -1,0 +1,2888 @@
+#AREADATA
+Name Orinoco~
+Builders None~
+VNUMs 19300 19399
+Credits { 0 45} Mikoto      Orinoco~
+Security 9
+Xcontinent 0
+Age 0
+Questable 1
+End
+
+
+
+#MOBILES
+#19300
+anaconda snake~
+an anaconda~
+A large snake is here, slithering up to you.
+~
+Lying before you is a very large looking, formidable snake.  His black
+fangs look poised for the plunge, his eyes glued on you.  His long, sleek
+body is brown with side stripes of yellow and black.  His mouth, stretched
+wide and that skinny tongue, pointed in your direction, give you the feeling
+he does not welcome your company.  
+~
+snake~
+AFGH OTV -850 0
+26 2 5d10+600 1d1+99 3d7+7 bite
+-7 -7 -7 -7
+0 B L I
+stand stand male 700
+AGXYc ADEFKLQVX medium 0 the guilds~
+#19301
+black caiman crocodile~
+A caiman crocodile~
+A black caiman crocodile is floating in the river.
+~
+The sleek, black color of this rather large crocodile cuts through the
+river at quite a fast pace.  Her teeth, glowing white against her dark
+frame, breed fear in the other animals of the forest.  She seems well aware
+of this fact and flaunts her fangs to every creature she meets.  
+~
+lizard~
+ABCG AC 800 0
+30 -1 6d12+853 1d1+99 4d6+8 tear
+-9 -9 -9 -9
+M 0 L I
+stand stand female 500
+AGXc ACDEFHKQV medium 0 the guilds~
+#19302
+giant river turtle~
+A giant river turtle~
+A giant river turtle is creeping underwater.
+~
+A very large yet harmless looking turtle is creeping among the rocks in
+the river, camouflaged well by his sand colored shell.  He could easily pass
+for one of the large stones resting at the pebbly floor of the river, but
+his infrequent bouts of movement betray his presence.  
+~
+lizard~
+AB B 900 0
+30 -2 6d12+853 1d1+99 4d6+8 chomp
+-9 -9 -9 -9
+0 0 L I
+sit sit male 400
+AGXc ACDEFHKQV large 0 the guilds~
+#19303
+multicolored colored iguana~
+a multi colored Iguana~
+A small, multi colored iguana is sunning herself on the riverbank.
+~
+A small, lovely looking iguana with scales of blue, red, green, and
+yellow is lying out in the sun, enjoying the beautiful weather.  Her beady
+eyes study you closely, perhaps hoping you will drop something for her.  Her
+bright scales shine from the sunlight and beads of river water glisten on
+her small frame.  
+~
+lizard~
+ACG 0 800 0
+28 0 6d12+703 1d1+99 2d12+8 slap
+-8 -8 -8 -8
+F 0 L I
+stand stand female 300
+AGXc ACDEFHKQV small 0 the guilds~
+#19304
+speckled jaguar~
+a speckled jaguar~
+A speckled jaguar is getting ready to pounce!
+~
+Looming over you, his claws outstretched, is a wild cat preparing for the
+kill.  His beautiful, amber colored eyes distract you momentarily from the
+danger that awaits you, but your attention is abruptly returned to the razor
+sharp teeth the jaguar is bearing in your direction.  
+~
+cat~
+ABF HLZ 800 0
+30 -1 6d12+853 1d1+99 4d6+8 scratch
+-9 -9 -9 -9
+FH 0 0 0
+stand stand male 70
+AGV ACDEFHJKQUV medium 0 the guilds~
+#19305
+squirrel monkey~
+a squirrel monkey~
+A squirrel monkey is here, sizing you up.
+~
+Looking above, you can see a small, fast moving monkey scurrying about
+among the tree branches, swinging from one to the other with his long tail. 
+He appears to be sizing you up, perhaps looking for something you're
+carrying that he'd be interested in.  It would be wise to keep an eye on
+your belongings when in this monkey's presence.  
+~
+fido~
+ACGS TV -850 0
+29 -1 6d12+778 1d1+99 2d12+8 punch
+-9 -9 -9 -9
+FR 0 0 C
+stand stand male 200
+ABGV ACDEFHJKQV medium 0 the guilds~
+#19306
+manatee~
+a manatee~
+A large manatee is hovering under the river surface.
+~
+A very large manatee has made her home beneath the surface of river
+Orinoco.  Every so often, you see her pick her head up, breaking the surface
+tension with the large size of her head, taking in quick breaths.  Even
+though she is slow moving, she appears to have great potential to do bodily
+harm to those who may get in her way.  
+~
+marid~
+AB GYd 900 0
+41 -4 25d10+2000 1d1+99 4d8+14 skewer
+-14 -14 -14 -14
+CFHIJQR BLMNPQ HIKLR CHJS
+sit sit female 400
+ABGHJMV ABCDEFGHIJKOQY large 0 the guilds~
+#19307
+blue heron~
+a blue heron~
+A beautiful blue heron is here, standing in the water.
+~
+Before you stands a beautiful blue feathered bird, her bright eyes
+glinting in the fresh rainforest sun.  She appears not to even notice your
+presence, her full attention kept on searching for small fish in the river
+water.  
+~
+water fowl~
+AGH BJT 850 0
+37 -2 10d10+1500 1d1+99 3d10+12 stomp
+-12 -12 -12 -12
+0 0 R 0
+stand stand female 500
+AGW ACDEFHKP medium 0 the guilds~
+#19308
+piranha~
+a piranha~
+A mean looking piranha is scoping his prey.
+~
+The fish you see swimming in the shallow depths of the river is not your
+ordinary fish.  He appears to be searching violently for something to eat,
+stopping at nothing to satisfy his insatiable appetite.  Be wary of his
+violent ways and razor sharp teeth.  
+~
+blue dragon~
+ABFGH HJLTZ -900 0
+42 -2 25d10+2250 1d1+99 3d12+14 bite
+-14 -14 -14 -14
+0 0 BEJ HK
+stand stand male 250
+BHMZ ABCDEFGHIJKLPQUVWX small 0 the guilds~
+#19309
+leaf toad~
+a leaf toad~
+A brown leaf toad is barely intelligible on a tree trunk.
+~
+Peering very closely at a tree on the side of the river, you see a brown
+colored toad clinging to the bark, camouflaged.  She appears to just be
+sitting there, looking out for possible predators that might not mistake her
+for a piece of tree bark.  One of her yellow tinted eyes locks onto you, and
+she quickly realizes that you have discovered her ploy.  Will you let her
+continue to be tree bark, or will you catch your prey?  
+~
+goblin~
+AB JQ 1000 0
+32 -2 10d10+1000 1d1+99 4d4+9 whip
+-10 -10 -10 -10
+0 0 Q C
+rest rest female 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19310
+thorntail iguana~
+a thorntail iguana~
+An iguana with a thorny tail is here, basking in the sun.
+~
+Suspended on a tree branch several feet off the ground, the thorntail
+iguana clearly enjoys spending his days lounging around trying to catch a
+few rays of sun.  He doesn't seem to like rain though, as even the tiniest
+bit of overcast sends him scurrying beneath leaves for cover.  His rust
+colored head coupled with his very dark body make him somewhat
+indistinguishable from the tree branch he sits on, but he doesn't appear to
+be trying very hard to stay hidden.  
+~
+lizard~
+AGH C -850 0
+34 -2 10d10+1200 1d1+99 4d7+10 crush
+-11 -11 -11 -11
+0 0 L I
+stand stand male 240
+AGXc ACDEFHKQV medium 0 the guilds~
+#19311
+collared peccary~
+a collared peccary~
+A collared peccary is here, sticking his nose in the dirt.
+~
+The large animal you see standing before you reminds you of nothing but a
+hairy pig.  His squat body busily rummages through undergrowth in search of
+seeds and berries, his black fur looking amazingly sleek and shiny in the
+sun's rays.  He appears to be very close to members of his family, and would
+probably defend any one of them should he or she come into danger.  
+~
+pig~
+AB IT 1000 0
+32 -2 10d10+1000 1d1+99 4d4+9 charge
+-10 -10 -10 -10
+R 0 0 0
+stand stand male 100
+AGV ACDEFHJK medium 0 the guilds~
+#19312
+tapir~
+a tapir~
+A brown-haired tapir grunts here.
+~
+This is quite possibly the ugliest animal you have ever seen in your
+whole life.  Her long snout protrudes over her exposed yellow teeth,
+searching the forest floor and snatching up anything she might like to eat. 
+Although she is so ugly, she appears to be fairly harmless, although just
+the sight of her tempts you to put her out of her misery.  
+~
+pig~
+ACGH b 850 0
+36 -10 10d10+1400 1d1+99 3d10+11 stomp
+-12 -12 -12 -12
+0 0 0 0
+stand stand female 150
+AGV ACDEFHJK medium 0 the guilds~
+#19313
+large monkey monk saki~
+a monk saki~
+A very large monkey swings from tree to tree.
+~
+High above your head you see a figure quickly swinging from branch to
+branch.  He is difficult to see, his coat of many shades of brown blending
+in perfectly with the tree trunks and branches.  He looks like he's having
+such fun up in those trees, don't you wish you could join him up there?  
+~
+human~
+AGH B 900 0
+35 -2 10d10+1300 1d1+99 4d7+11 bite
+-11 -11 -11 -11
+F 0 0 0
+stand stand male 150
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19314
+wooly monkey~
+a wooly monkey~
+A wooly monkey grooms herself above you.
+~
+The monkey you see ambling about in the trees above you is covered from
+head to tail in a rough coat that disguises her to look like a ball of fluff
+racing from tree to tree.  When she stops moving, you finally get a glimpse
+of her face and body, realizing there is more to her than gobs of fur.  She
+appears like she wants to attack you, but because she also appears very weak
+she refrains from making the first move.  
+~
+human~
+ACGH C 0 0
+34 -2 10d10+1200 1d1+99 4d7+10 beating
+-11 -11 -11 -11
+D 0 0 0
+stand stand female 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19315
+blue headed parrot~
+a blue-headed parrot~
+A blue-headed parrot beats his wings.
+~
+A beautiful bird with deep blue feathers on his head, the blue-headed
+parrot steals your attention away from your surroundings with his piercing
+gaze.  You can't seem to take your eyes away from the bird's penetrating
+stare.  The only thing in the room more interesting to look at is his
+radically colored head, aimed in your direction.  
+~
+song bird~
+AB T 1000 0
+40 -3 15d10+1850 1d1+99 4d8+13 peck
+-13 -13 -13 -13
+FH 0 0 0
+stand stand male 300
+AGW ACDEFHKP medium 0 the guilds~
+#19316
+mealy parrot~
+a mealy parrot~
+A green and blue colored parrot hops along the forest floor.
+~
+The plumage of this lovely parrot is crafted in a meticulous pattern of
+blue and green, so much so that the bird almost looks gray.  Larger in size
+compared to the other parrots, she hops around on the forest floor, looking
+for just the right moment to spread her feathery wings into flight.  Her
+red-tinted eyes study her surroundings and the trees above, searching for
+something that might capture her interest and allow her to show off her
+impressive wingspan.  
+~
+song bird~
+AGH BT 1000 0
+40 -3 15d10+1850 1d1+99 4d8+13 peck
+-13 -13 -13 -13
+FH 0 0 0
+stand stand female 230
+AGW ACDEFHKP medium 0 the guilds~
+#19317
+wild toucan male~
+a wild toucan~
+A very regal looking toucan is here, sitting on a tree branch.
+~
+His bright colored beak and feathers almost hurt your eyes in contrast
+with the fairly uniform coloring of the rest of the forest.  While he seems
+to be a fairly busy bird, he also enjoys what he does, taking pride in his
+involvement in protecting the rainforest.  Occasionally he flutters his
+wide-spanned wings, cascading you with loose feathers of vibrant hues.  He
+doesn't appear threatened by you, but his large size probably accounts for
+that.  
+~
+song bird~
+ABI BHT 1000 0
+40 -3 15d10+1850 1d1+99 4d8+13 claw
+-13 -13 -13 -13
+FH AB 0 0
+sit sit male 500
+AGW ACDEFHKP medium 0 the guilds~
+M greet 19303 75~
+#19318
+paint billed crake~
+a paint-billed crake~
+A Paint-billed Crake is here, fluttering his wings.
+~
+This small, dark colored bird is a rare sight, as it usually stays well
+hidden from view.  The bird isn't especially attractive as some of the other
+birds that are easier to spot, but he does have a homely quality that makes
+him every bit as important to the rainforest as the others.  
+~
+song bird~
+AH BDPT 1000 0
+40 -3 15d10+1850 1d1+99 4d8+13 bite
+-13 -13 -13 -13
+FH 0 0 G
+stand stand male 400
+AGW ACDEFHKP medium 0 the guilds~
+#19319
+wattled curassow~
+a wattled curassow~
+An odd looking black Curassow is sleeping here.
+~
+Here before you lies a black bird of medium size.  The large tufts of
+feathers on its head seem to give it a crown.  The bright red beak indicates
+that it is a male.  Quite an ugly little thing!  Perhaps you shouldn't
+disturb him in his slumber?  
+~
+water fowl~
+AB RT -800 0
+35 -2 10d10+1300 1d1+99 4d7+11 pierce
+-11 -11 -11 -11
+0 0 R J
+sleep sleep male 700
+AGW ACDEFHKP medium 0 the guilds~
+#19320
+ocelot cat~
+an ocelot~
+A small, alluring cat crosses your path.
+~
+The fur patterns on this beautiful cat make you stare at her for a long
+time, making note of her fluid movements and the way the sun catches her
+glossy pelt.  She appears to be hungry, scavenging the forest floor for a
+tasty morsel.  You could try handing her something to eat, but be careful
+she doesn't take your hand with it!  
+~
+cat~
+ACGH PZ 1000 0
+37 -2 10d10+1500 1d1+99 3d10+12 claw
+-12 -12 -12 -12
+FH 0 0 0
+stand stand female 600
+AGV ACDEFHJKQUV medium 0 the guilds~
+#19323
+leoncito monkey~
+a leoncito~
+A tiny leoncito monkey steps carefully in the leaves above.
+~
+He's so tiny!  You could pick the little monkey up in the palm of your
+hand, study his cute little face, and hold his tiny little hands, all the
+while being extremely careful not to hurt him.  He looks like he could be
+killed without much force, mainly because of his small size.  
+~
+bear~
+AGH CT 1000 0
+36 0 10d10+1400 1d1+99 3d10+11 slap
+-12 -12 -12 -12
+DEO 0 EI 0
+stand stand male 340
+AGV ABCDEFHJKUV tiny 0 the guilds~
+#19324
+capybara~
+a capybara~
+A capybara swims slowly here.
+~
+The capybara is the world's largest rodent, you'll never find a bigger
+one on Terra or Dominia!  She looks kind of like a cross between a rat
+and...  You really don't know what.  Nevertheless, she seems very content
+just laying in the water.  
+~
+rabbit~
+ABG d 1000 0
+38 -2 10d10+1600 1d1+99 5d6+12 bite
+-13 -13 -13 -13
+FH 0 0 0
+stand stand female 150
+AGV ACDEFHJK medium 0 the guilds~
+#19325
+tent making bat~
+a tent-making bat~
+A small bat hangs in the branches above.
+~
+A rather attractive-looking bat, this bat is brown with a thin white
+stripe straight down the middle of his back.  He seems to be chewing some
+leaves and folding them down against his body in an effort to protect
+himself.  He looks ready for nice nap, but could easily be roused into
+activity, if you so preferred.  
+~
+bat~
+AGS BPTZ 1000 0
+35 -1 10d10+1300 1d1+99 4d7+11 charge
+-11 -11 -11 -11
+FH 0 0 S
+stand stand male 600
+AGV ACDEFHJKP small 0 the guilds~
+#19326
+pygmy owl~
+a pygmy owl~
+A pygmy owl flits through the air, barely visible.
+~
+It's hard to see exactly what this tiny bird looks like, but she appears
+to have light tan feathers on her body and white feathers on her petite
+face.  As she passes above you, her piercing eyes strike yours and, somehow,
+you feel a little exposed.  Still, she is cute and you watch her fast
+movements in the trees admiringly.  
+~
+song bird~
+ACGH T 1000 0
+36 -1 10d10+1400 1d1+99 3d10+11 peck
+-12 -12 -12 -12
+FH 0 0 0
+stand stand female 700
+AGW ACDEFHKP small 0 the guilds~
+#19327
+hoatzin bird~
+a hoatzin~
+A funky-looking bird called the hoatzin beats his wings clumsily.
+~
+This bird looks like he belongs at a punk rock concert!  His feathers
+create a spiky pink mohawk on the top of his head, with bright blue feathers
+covering his face.  He kind of smells too, a scent that you can't quite
+place but you know doesn't smell good.  He looks busy, gobbling leaves up as
+he tries to fly from branch to branch, looking like his mother never taught
+him how to fly.  
+~
+song bird~
+AGH IT 1000 0
+37 -2 10d10+1500 1d1+99 3d10+12 peck
+-12 -12 -12 -12
+FH 0 0 0
+stand stand male 300
+AGW ACDEFHKP medium 0 the guilds~
+#19328
+oropendula~
+an oropendula~
+The gold-colored tail of an oropendula catches your attention.
+~
+He seems to be quite aware that his flashy tail attracts a lot of
+attention.  The Oropendula wags it around like a dog, trying to catch what
+little light from the sun penetrates through the canopy.  He is very showy
+about it, but it still looks good even when he isn't showing it off,
+particularly when he sleeps up in his nest, which, funnily enough, resembles
+a pendulum.  
+~
+song bird~
+AGH T 1000 0
+35 -2 10d10+1300 1d1+99 4d7+11 peck
+-11 -11 -11 -11
+FH 0 0 0
+sleep sleep male 500
+AGW ACDEFHKP medium 0 the guilds~
+#19329
+black tarantula~
+a black tarantula~
+A large, black tarantula spins silk around some leaves.
+~
+The first thing that catches your attention are those nasty hairs
+springing from all over her dark body.  This tarantula isn't as big as she
+could be, but big enough to creep you out and avert your eyes from her
+strangely frightening form.  You know deep down that she isn't as dangerous
+as you think she is, but that doesn't keep you from grimacing at the sight
+of her.  
+~
+sliver~
+ACGH BL 1000 0
+35 -2 10d10+1300 1d1+99 4d7+11 pierce
+-11 -11 -11 -11
+0 B B K
+stand stand female 400
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#19330
+cockroach~
+a cockroach~
+A cockroach moves about, looking disgusting.
+~
+Cockroaches are gross!  This one, along with all the rest of the
+cockroaches, pushes you to the point where hurling doesn't sound like such a
+bad idea.  They swarm everywhere, their legs carrying them about at higher
+speeds than you would expect.  Try not to look at them for too long.  
+~
+centipede~
+ABG VZ 1000 0
+6 -1 2d7+71 1d1+99 1d7+1 stab
+4 4 4 4
+U L FI E
+stand stand male 20
+ABGO ACK medium 0 the guilds~
+#19331
+baby peccary~
+a baby peccary~
+A cute, little baby peccary trots along here.
+~
+A small representation of the adult peccary, this little piglet has light
+brown fur covering her little body and cute pink ears sticking out of the
+top of her head.  She is rummaging the forest floor for some small morsels,
+her appetite appearing never to be properly satiated.  She seems fairly weak
+and prefers to mind her own business.  
+~
+pig~
+AG C 1000 0
+40 -3 15d10+1850 1d1+99 4d8+13 stomp
+-13 -13 -13 -13
+0 0 0 0
+stand stand female 600
+AGV ACDEFHJK medium 0 the guilds~
+#19332
+three toed sloth~
+a three-toed {DSloth{x~
+A large three-toed {DSloth{x sleeps on a low-hanging branch in front of you.
+~
+His gray body gently moves up and down as he takes slow, sleepy breaths. 
+Small gatherings of moss have found their way onto several places on his
+body, suggesting that these slow, sleepy breaths are a common occurrence. 
+His black face is turned away from you, but somehow you can tell that this
+sloth does not want to be disturbed.  The faint snore that occasionally
+escapes the sloth seems to rouse him for just a moment before he slips back
+into sleep, making you quite aware that waking him would not be a difficult
+task.  
+~
+cat~
+ABG BDFHLNOTVZab 1000 0
+60 -22 50d10+9500 1d1+99 8d6+28 impale
+-30 -30 -30 -30
+ACDEFHKO ABRb 0 FI
+rest rest male 20000
+AGV ACDEFHJKQUV large 0 the guilds~
+#19333
+tamarin saddleback saddle back~
+a saddleback tamarin~
+A small saddleback tamarin speeds along in the branches.
+~
+This small, dark-colored monkey whisks her way about in the branches at
+quite startling speeds, meandering around the lush leaves looking for
+unsuspecting insects.  A large fluff of thickened fur makes her look like
+she is sporting a saddle, indicating where she got her very appropriate
+name.  
+~
+human~
+ACGH V 1000 0
+43 -3 25d10+2500 1d1+99 3d12+15 claw
+-15 -15 -15 -15
+DEO 0 EI 0
+stand stand female 500
+AGHMV ABCDEFGHIJKQUV medium 0 the guilds~
+#19334
+rodent black agouti~
+a Black Agouti~
+A black rodent moves slowly on the forest floor.
+~
+Closely resembling a squirrel, the Black Agouti takes his time looking
+for food, usually fruits and nuts that have fallen from trees.  His sharp
+teeth are able to crack open even the toughest nuts, making for little
+competition from other animals with weaker teeth.  The animal seems to
+prefer to keep to himself, avoiding eye contact with any creature he may
+come across, including you.  
+~
+cat~
+ACGH BTZ 1000 0
+45 -2 25d10+3000 1d1+100 8d4+16 chomp
+-15 -15 -15 -15
+FH 0 0 0
+stand stand male 600
+AGV ACDEFHJKQUV small 0 the guilds~
+#19335
+anteater~
+an anteater~
+An anteater beckons you to heal your wounds, should you need to.
+~
+She doesn't seem to mind the fact that her nose gets in the way of every
+single person she tries to heal.  On the contrary, although it is hard to
+see, she smiles broadly with the opening at the end of her nose, a feat she
+spent a lot of time learning to master.  She is not your average healer but
+she knows how to get the job done.  
+~
+human~
+ABQa DFH 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 stab
+-13 -13 -13 -13
+0 ABCDK 0 0
+stand stand female 400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19336
+egret bird white~
+an egret~
+A white bird with striking black legs stands here.
+~
+The egret is a beautiful bird, his large body covered with flawless white
+feathers supported by skinny, jet black legs.  His neck is tightly folded
+down against his body, making it seem like his head doesn't have a neck at
+all.  The illusion is quickly forgotten, however, when he extends his neck
+to eat or take off in flight.  
+~
+water fowl~
+AFG T 1000 0
+44 -4 25d10+2750 1d1+99 8d4+15 peck
+-15 -15 -15 -15
+0 0 R 0
+stand stand male 500
+AGW ACDEFHKP medium 0 the guilds~
+#19337
+harpy eagle~
+a harpy eagle~
+The storekeeper, a harpy eagle, pierces you with his sharp gaze.
+~
+The Harpy eagle looks quite menacing at first glance, but it soon becomes
+apparent that his fighting spirit has been snuffed out of him.  He may have
+that characteristic piercing gaze that so many birds have, but his body
+movements indicate a defeated animal, probably because the sloths don't
+trust him in their company.  His leg is also bound with a chain, preventing
+him from flying off.  The sloths must desire his wares, but not his company.
+~
+water fowl~
+ABL HT 1000 0
+60 6 50d10+9500 1d1+99 8d6+28 none
+-30 -30 -30 -30
+0 ABCD R 0
+stand stand male 1000000
+AGW ACDEFHKP medium 0 the guilds~
+#19338
+frog poison dart~
+a poison dart frog~
+A brightly colored frog looks ready to strike.
+~
+This frog is slimy looking, her beady eyes searching her surroundings for
+any available prey.  Her wet skin is multi-colored, with bits of blue, red,
+and yellow from her head to her slimy toes.  She appears ready for any
+battle.  
+~
+lizard~
+ABF 0 1000 0
+43 -3 25d10+2500 1d1+99 3d12+15 bite
+-15 -15 -15 -15
+FN 0 L I
+stand stand female 800
+AGXc ACDEFHKQV medium 0 the guilds~
+#19339
+cockatoo~
+the cockatoo~
+A cockatoo makes circles in the sky overhead.
+~
+This bird is rather dull looking compared to the other birds you have
+seen in these forests.  His feathers are a mixture of dark browns with a
+splash of gray on the head.  Congratulate yourself for discovering this very
+elusive bird, it is the master of staying out of sight, even when it is out
+feeding.  This one looks very distraught that you have spotted him.  
+~
+song bird~
+AG BPQT 1000 0
+51 -3 50d10+5000 1d1+100 5d8+20 peck
+-21 -21 -21 -21
+FH 0 0 0
+stand stand male 1000
+AGW ACDEFHKP medium 0 the guilds~
+#19340
+wild toucan queen~
+the queen toucan~
+The queen of the toucans resides here, carefully preening her feathers.
+~
+Her attractive plumage, impeccably maintained by both her and attendants,
+is what first draws your attention to this powerful tropical bird.  Her warm
+eyes rest contentedly on you, welcoming you into her not-so-humble abode. 
+She appears to enjoy company immensely as her elaborate perch has a small
+attachment to it, providing her visitors with a comfortable place to sit.  
+~
+song bird~
+AB DFHTZ 1000 0
+40 -3 15d10+1850 1d1+99 4d8+13 none
+-13 -13 -13 -13
+FH AB 0 0
+sit sit female 500
+AGW ACDEFHKP medium 0 the guilds~
+M give 19305 19324~
+M greet 19304 75~
+#19341
+sloth guard~
+a sloth guard~
+A sloth, whose job it is to guard the lair, is sleeping here.
+~
+Not much of a guard!  This sloth spends almost all of his day sleeping,
+getting up every once and a while to eat something.  While it is puzzling
+why sloths would employ themselves to be guards, this guard obviously has
+not been doing his job.  His fur is covered in a thick moss, further
+displaying his lack of movement as the days stretch on.  While not a real
+threat, the sloth guards do tend to fall asleep in front of doors.  
+~
+cat~
+AB Zd 1000 0
+30 -1 6d12+853 1d1+99 4d6+8 slice
+-9 -9 -9 -9
+FHU 0 0 0
+sleep sleep male 600
+AGV ACDEFHJKQUV medium 0 the guilds~
+#19342
+squirrel flying~
+Mikoto's flying squirrel~
+Mikoto's flying squirrel is here, ready to help.
+~
+This squirrel certainly seems to want to help anyone in need.  Of course,
+you will need to ask Mikoto's permission first.  
+~
+bat~
+ABI TZ 1000 0
+60 6 50d10+9500 1d1+100 8d6+28 claw
+-30 -30 -30 -30
+FH ABC 0 S
+stand stand female 0
+AGV ACDEFHJKP medium 0 the guilds~
+M speech 19300 arena~
+M speech 19301 dominia~
+M speech 19302 terra~
+#0
+
+
+
+#OBJECTS
+#19300
+sloth claw mikoto~
+A {WS{wl{Do{wt{Wh {xClaw~
+A very sharp claw from a sloth lies here~
+iron~
+weapon HTZ AN
+dagger 40 20 slice ABCDGHINPQTVWX
+54 500 0 P
+A
+28 1  
+#19301
+sir robin shield~
+{xBrave {GSir {RRobin{x's Shield~
+Brave {GSir {RRobin{x's Shield lies here, the figure of a chicken emblazed on it.~
+steel~
+armor ASTYe AJ
+100 100 100 100 0
+54 100 4000 P
+A
+4 20  
+A
+1 20  
+A
+3 20  
+A
+5 20  
+A
+2 20  
+A
+19 50  
+A
+31 20  
+A
+28 20  
+A
+30 20  
+A
+29 20  
+A
+32 20  
+A
+13 10000  
+A
+12 10000  
+#19302
+morning glory flower~
+a morning glory~
+A pretty morning glory blooms here.~
+earth~
+weapon A AN
+exotic 4 5 none 0
+25 10 200 P
+A
+18 1  
+A
+19 1  
+#19303
+passion flower~
+a passion flower~
+A flower with vividly colored petals begs for attention.~
+earth~
+weapon GS AN
+dagger 4 5 slice 0
+29 10 200 P
+A
+19 5  
+#19304
+oyster mushroom flail~
+an oyster mushroom~
+A dazzling mushroom emits tiny spores that tickle tiny noses.~
+sponge~
+weapon ES AN
+flail 4 6 clobber E
+30 10 300 P
+A
+18 3  
+#19305
+coral fungus wand~
+a coral fungus~
+The small spikes of a coral fungus dot the ground.~
+fungus~
+wand AG AO
+30 2 2 'bark skin' 0
+25 10 1000 P
+A
+3 1  
+#19306
+grass flower mace~
+a grass flower~
+A tall-stemmed grass flower shows off its thin petals.~
+grass~
+weapon BG AN
+mace 9 2 pound 0
+27 15 500 P
+A
+18 1  
+A
+19 2  
+#19307
+ortotricha sword~
+an ortotricha~
+An ortotricha grows here, it's sharp leaves intimidating.~
+earth~
+weapon AFG AN
+sword 4 6 stab D
+30 20 1500 P
+A
+18 1  
+A
+19 1  
+#19308
+angel angels angel's wing wings~
+an angel's wings~
+The soft glow of an angel's wings adds light here.~
+feathers~
+light AG A
+0 0 999 0 0
+25 10 100 P
+A
+4 1  
+A
+3 2  
+#19309
+maxillaria vine~
+a maxillaria vine~
+A long vine could fit a family of four inside.~
+vine~
+armor GI AF
+4 4 4 4 0
+26 20 100 P
+A
+9 8  
+#19310
+gongora scroll orchid~
+a gongora scroll~
+A gongora orchid blooms in bright orange.~
+wood~
+scroll A AO
+15 'cure critical' 'bark skin' 'fly' 'reserved'
+27 0 200 P
+#19311
+river side riverside palm~
+a riverside palm~
+A tall palm by the riverside affords travelers a place to rest.~
+grass~
+furniture 0 0
+6 5000 BEHKP 100 100
+1 100000 0 P
+#19312
+palm leaf leaves~
+a palm leaf~
+Two palm leaves stuck together lie on the ground.~
+grass~
+container 0 AO
+200 AC 0 10 20
+26 10 1000 P
+#19313
+acacia flower axe~
+an acacia flower~
+An seemingly flimsy acacia flower sprouts out of the ground.~
+flower~
+weapon AB AN
+axe 4 6 sting C
+31 10 1500 P
+A
+1 1  
+A
+19 1  
+#19314
+orchid purple~
+a purple orchid~
+A purple orchid gives off a pleasant odor.~
+flower~
+recall_crystal Y AO
+DFGIJLO C C 0 0
+32 20 1400 P
+A
+2 1  
+#19315
+tree fern spear~
+a tree fern~
+A long, thin tree fern looks formidable.~
+fern~
+weapon A AN
+staff 7 4 gutting 0
+34 10 1000 P
+A
+18 2  
+#19316
+red fungus whip~
+a red fungus~
+A red colored fungus grows in bunches here.~
+fungus~
+weapon AG AN
+whip 7 3 sting G
+32 10 2500 P
+A
+19 2  
+#19317
+jelly fungus ball~
+a jelly fungus~
+A small ball of fungus looks squishy to the touch.~
+fungus~
+throwing FG AO
+5 5 sting 25 'hell blades'
+40 0 200 P
+#19318
+psittacorum wand~
+a psittacorum~
+A psittacorum flower adds a vivid accent to the ground.~
+flower~
+wand BG AO
+30 1 1 'reach elemental' 0
+34 20 700 P
+#19319
+bauhinia~
+a bauhinia~
+A bauhinia looks like it could be quite useful.~
+lichen~
+key 0 A
+0 0 0 0 0
+1 0 0 P
+#19320
+monsteras pair~
+a pair of monsteras~
+A pair of monsteras twists around your arms.~
+flower~
+armor GJK AI
+5 6 5 1 0
+25 10 400 P
+A
+9 5  
+#19321
+ginger flower~
+a ginger flower~
+A ginger flower looks good enough to eat!~
+food~
+pill 0 A
+27 'blur' 'frenzy' 'reserved' 'reserved'
+20 0 400 P
+#19322
+cattleya~
+a rosy cattleya~
+A cattleya blooms here, resembling a rose in it's deep red color.~
+pepper~
+armor A AC
+7 6 6 3 0
+33 10 900 P
+A
+2 2  
+#19323
+calanthum fountain~
+a calanthum~
+A calanthum is here, providing water for passersby.~
+wood~
+fountain 0 0
+-1 -1 'water' 0 0
+1 100000 0 P
+#19324
+heart palm~
+a heart palm~
+A heart palm is here, filled with liquid.~
+palm~
+drink A A
+6 6 'lemonade' 0 0
+1 5 50 P
+#19325
+cercropia sapling~
+a cercropia~
+A cercropia sapling is filled with sap.~
+liquid~
+potion A A
+28 'bless' 'cloak of mind' 'reserved' 'reserved'
+34 10 40 P
+#19326
+drooping acacia~
+a drooping acacia~
+A drooping acacia hangs over your head.~
+lichen~
+weapon A AN
+whip 6 5 slap 0
+35 15 500 P
+A
+18 2  
+A
+19 1  
+#19327
+terrestrial fern~
+a terrestrial fern~
+A terrestrial fern clings to the earth from which it grows.~
+fern~
+trash 0 0
+0 0 0 0 0
+1 10000 0 P
+#19328
+white fungus~
+a piece of white fungus~
+A piece of white fungus has been removed from a tree.~
+fungus~
+weapon AG AN
+exotic 4 6 pound CI
+36 10 300 P
+A
+19 1  
+#19329
+cup fungus~
+a cup fungus~
+A fungus in the shape of a cup grows here placidly.~
+fungus~
+potion F A
+25 'poison' 'reserved' 'reserved' 'reserved'
+36 5 600 P
+#19330
+heliconia branch~
+a heliconia branch~
+A branch of heliconia shows off its bright leaves.~
+wood~
+armor I AQ
+2 2 2 1 0
+38 5 400 P
+A
+2 2  
+#19331
+liana knot knotted~
+a knotted liana~
+A liana droops to the ground here, naturally grown in complex knots.~
+grass~
+armor AG AC
+5 6 5 3 0
+39 4 800 P
+A
+13 10  
+A
+12 10  
+#19332
+spadix flower~
+a spadix flower~
+A spadix flower blooms in many shades of pink.~
+flower~
+weapon 0 AN
+exotic 5 6 blast 0
+36 20 600 P
+A
+18 2  
+A
+19 1  
+#19333
+melasto plant~
+a melasto~
+A plump melasto plant thrives here.~
+food~
+food 0 A
+30 40 0 0 0
+1 5 50 P
+#19334
+ginger shell mushroom~
+a ginger shell~
+A deep-colored mushroom resembling a shell sprouts up from the ground.~
+pill~
+pill 0 A
+40 'protection good' 'fly' 'reserved' 'reserved'
+37 10 100 P
+#19335
+encyclia fern~
+An encyclia fern~
+A fern's delicate leaves rustle at even the tiniest gusts of wind.~
+fern~
+treasure A A
+0 0 0 0 0
+1 0 1500 P
+#19336
+stilt palm~
+a stilt palm~
+A long, sturdy palm lies at your feet.~
+palm~
+weapon H AN
+polearm 5 6 none F
+38 20 600 P
+#19337
+piper peltatum bark chunk~
+a piper peltatum~
+A large chunk of tough bark could make a good barrier.~
+bark~
+armor A AJ
+10 10 10 4 0
+36 15 400 P
+A
+13 15  
+#19338
+capirona lichen lichens blanket~
+a capirona~
+Lichens stuck together make this capirona look like a blanket.~
+lichen~
+armor 0 AD
+9 9 9 3 0
+39 0 700 P
+A
+12 30  
+A
+3 1  
+#19339
+bromeliads~
+some bromeliads~
+Bromeliads look to be very nutritious.~
+pill~
+pill 0 A
+40 'cure critical' 'sanctuary' 'reserved' 'reserved'
+45 5 300 P
+#19340
+fern violin~
+a fern violin~
+A fern in the shape of a violin looks very sharp.~
+fern~
+weapon A AN
+dagger 4 7 slice DP
+42 15 550 P
+A
+19 3  
+A
+5 1  
+#19341
+gray fungus ball~
+a gray fungus~
+A ball of gray fungus has been rolled along the ground.~
+fungus~
+throwing 0 AO
+8 5 blast 45 'colour spray'
+43 0 350 P
+#19342
+polypore fungus ring~
+a polypore fungus~
+A wide ring of fungus creates a loop on the ground.~
+wood~
+armor 0 AM
+4 4 4 1 0
+44 5 950 P
+A
+3 1  
+A
+5 1  
+#19343
+bostrata flower~
+a bostrata~
+A bostrata flower looks humongous, for a flower.~
+flower~
+clothing 0 AE
+0 0 0 0 0
+45 0 200 P
+A
+17 -5  
+A
+1 2  
+#19344
+arum petals~
+an arum~
+An arum's petals look sturdier up close than from afar.~
+flower~
+container Ye AL
+10 A 0 100 100
+41 25 700 P
+A
+13 30  
+#19345
+hot lip lips flower~
+some hot lips~
+A bright red flower resembling two lips grows here.~
+wood~
+potion 0 A
+35 'shield' 'reserved' 'reserved' 'reserved'
+45 0 4000 P
+#19346
+epidendrum grass~
+an epidendrum~
+A piece of epidendrum grass has been cut and left here.~
+food~
+potion 0 A
+8 'haste' 'reserved' 'reserved' 'reserved'
+11 0 1500 P
+#19347
+oncidium mushroom~
+an oncidium mushroom~
+Mushrooms with tiny dark spots all over them are nestled together.~
+wood~
+scroll G AO
+51 'fly' 'refresh' 'reserved' 'reserved'
+49 0 2000 P
+#19348
+black pepper~
+a black pepper~
+A black pepper looks spicy, even to the touch.~
+pepper~
+wand 0 AO
+15 3 3 'mirror image' 0
+50 0 10000 P
+A
+3 -10  
+#19349
+water lily gift mikoto~
+a {cwater {wlily{x~
+A graceful {cwater {wlily{x looks like it could float in air.~
+flower~
+pill 0 A
+25 'karma' 'animal growth' 'bark skin' 'reserved'
+1 10 0 P
+#19350
+sharp spear sloth~
+A {DSloth's{x Spear~
+The sharp spear of a {DSloth{x lies here.~
+stone~
+weapon AGe AN
+staff 6 7 impale H
+48 30 5000 P
+A
+18 -2  
+#19366
+big comfy chair~
+a big comfy chair~
+A large, comfy looking chair is here, beckoning you.~
+cloth~
+furniture TYe 0
+5 1000 BEHKO 100 100
+54 5000 0 P
+#19399
+throwing item doom~
+a throwing item of doom~
+A throwing item of doom is here.~
+wood~
+throwing 0 AO
+50 50 none 0 'reserved'
+54 0 0 P
+#0
+
+
+
+#ROOMS
+#19300
+Mikoto's Treetop Retreat~
+This is the room Mikoto uses to rest after a hard day's work.  The room
+is beautifully decorated with jewels of all different sizes, glass beads in
+varying designs, and pictures the goddess herself drew.  Mikoto is very
+proud of her dwelling.  Her chair, designed specifically to her wishes and
+desires, invites you to take a seat.  The plush upholstering makes it easy
+to fall asleep in.  Please enjoy your stay here.  
+~
+0 557072 3
+D3
+~
+~
+1 0 19301
+M 5000 H 5000
+S
+#19301
+A Feather Bed~
+This room looks like a lovely place to take a nap or just rest for a
+while.  The entire room has taken on the qualities of a very comfortable
+feather bed, with layers and layers of feathers on the floor of the room
+creating enough padding to rest on.  The feathers are mostly gray in color,
+but there are a few other more vibrant hues, including red, blue, and green.
+Apparently the cockatoos have regular visitors from other bird species that
+come for a rest in this room.  The only exit here is south to the entrance
+of the cockatoo's haven.  
+~
+0 0 3
+D2
+~
+~
+0 0 19302
+S
+#19302
+The Cockatoo's Haven~
+The cockatoos of the rainforest have chosen this area to put their nest,
+which is right next to the other birds.  These birds are very regal and
+meticulous, and their nest is maintained with the utmost care.  Even the
+tiniest messes are cleaned up in a short time.  The lack of noise and
+activity that is usually associated with a bird's nest is lacking here. 
+Perhaps they are all out feeding or doing some other group activity. 
+Anyhow, the nest is open to explore.  Up above is a small nest, and to the
+north looks like a nice place to rest.  South is the entrance to the birds'
+residence.  
+~
+0 0 3
+D0
+~
+~
+0 0 19301
+D2
+~
+~
+0 0 19304
+D4
+~
+~
+0 0 19303
+S
+#19303
+Neglected Eggs~
+Upon entering this section, it is easy to realize that this nest has been
+left unattended; the Cockatoos left their unborn young here to fend for
+themselves!  The eggs seem peaceful, perhaps too peaceful.  It may be too
+late for them.  Upon closer examination it is obvious that the cockatoos
+were not completely neglectful, as loose leaves and twigs have been
+haphazardly scattered over the eggs.  The only exit is down to the entrance
+of the cockatoo's haven.  
+~
+0 0 3
+D5
+~
+~
+0 0 19302
+S
+#19304
+Birds of Paradise~
+The trees in this nesting ground are blooming beautifully; little flowers
+dot around the green leaves.  Birds are singing and flying all around, the
+vibrant colors of their feathers shouting out their presence in the air and
+trees.  The birds seem to know how attractive they look, at times flying in
+a clumsy way to allow a feather to fall, treasured by any who may find it. 
+To the west is a large nest housing parrots.  To the north is where the
+cockatoos live, to the east is a toucan's nest, and south are tall trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 19302
+D1
+~
+~
+0 0 19308
+D2
+~
+~
+0 0 19313
+D3
+~
+~
+0 0 19305
+S
+#19305
+The Parrot's Nest~
+The parrots live in this section of paradise.  This nest is quite a
+beautiful sight, but the decoration was put there merely by accident. 
+Feathers scatter the walls and floor, providing dots of color all over the
+room.  The parrots appear to be more carefree than the toucans, since this
+nest is much more relaxed.  There is less activity and noise, making this
+room a nice place to rest and recuperate.  To the south, parrots have fun
+and play, and to the west is a view of the canopy.  East is the entrance to
+where the birds live, paradise.  
+~
+0 0 3
+D1
+~
+~
+0 0 19304
+D2
+~
+~
+0 0 19307
+D3
+~
+~
+0 0 19306
+S
+#19306
+The Canopy~
+Adjacent to the main area of their nest, the parrots have constructed a
+viewing area of the canopy which is very roomy and easy to access.  The view
+from this spot is incredible; the river can be seen making its way through
+the rainforest, animals can be seen clamoring their way about in the trees,
+and the gentle breeze can be felt playing across your face.  The parrots
+seem to use this area to rest their weary wings and stake out things to eat
+from up above.  The only exit is east to the main room of the parrot's nest.
+~
+0 0 3
+D1
+~
+~
+0 0 19305
+S
+#19307
+Parrots at Play~
+This room is alive with activity as parrots run around on the floor and
+take off in flight, seemingly playing with each other.  The cheerful chirps
+they make invite all to join in on the fun, if they have the energy.  All
+along the walls and floor, broken pieces of furniture and cracked glass
+clutter the room.  Apparently these birds are not too careful while at play.
+The only exit is north to the main room of the parrot's nest.  
+~
+0 0 3
+D0
+~
+~
+0 0 19305
+S
+#19308
+The Toucan Lair~
+This grouping of trees is where the toucans nest and live their lives. 
+The tree branches are thick with leaves, aiding in the shelter of eggs and
+young.  The toucans are surprisingly tame, coming right up to visitors and
+clapping their beaks in welcome.  The faint tweets of their young can barely
+be heard over all the activity going on inside the lair, but their small
+sounds give hope of another generation of prosperous toucans.  To the north
+is where the king of the toucans lives, to the south, the queen resides.  Up
+above is a beautiful view of the canopy, and to the east is a nest of toucan
+young.  West is to the entrance to the birds' sanctuary.  
+~
+0 0 3
+D0
+~
+~
+0 0 19309
+D1
+~
+~
+0 0 19311
+D2
+~
+~
+0 0 19310
+D3
+~
+~
+0 0 19304
+D4
+~
+~
+0 0 19312
+S
+#19309
+King Toucan~
+In this section of the nest resides one of the leaders of the birds, King
+Toucan.  His large yellow beak and dark tail feathers give him a strong
+countenance that begs for him to be respected.  All along the walls of the
+room are portraits of past ruling toucans and their families.  While
+modestly decorated, the King's nest is a pleasant room to behold.  The only
+exit is south to the entrance of the toucan's lair.  
+~
+0 0 3
+D2
+~
+~
+0 0 19308
+S
+#19310
+Queen Toucan~
+This is where the Queen Toucan can normally be found.  Her perch is much
+more lavishly decorated than the King Toucan's, with bouquets of wildflowers
+accenting the walls built with branches and twigs.  The room is obviously
+situated in such a way as to catch as much incoming sunlight as possible,
+giving the room a warm, sunny feeling whenever the sun happens to be out. 
+The only exit out of here is to the north.  
+~
+0 268436480 3
+D0
+~
+~
+0 0 19308
+S
+#19311
+A Nest~
+Snug inside a warm nest and tended to at all times by attendants, here is
+where the toucan young are brought up and cared for.  In some of the nests,
+eggs are still being incubated, while in others, chicks are chirping quietly
+and even stretching out their immature wings.  The sight brings hope to the
+parents and caretakers of a prosperous future for the toucans.  The only
+exit is west to the entrance of the toucan lair.  
+~
+0 0 3
+D3
+~
+~
+0 0 19308
+S
+#19312
+A Treetop~
+The view up here is breathtaking!  The space here is tight and cramped,
+but any creature who manages to get into it is rewarded with a view of the
+entire rainforest.  Because of the lack of tree cover, the sun is fully
+capable of bathing the room with gentle warmth and light, adding comfort to
+an otherwise awkward space.  The tops of the trees move in a peaceful unison
+with the wind, the soft motion adding to the tranquility of the scene.  The
+only exit is down to the entrance to the toucan lair.  
+~
+0 2048 9
+D5
+~
+~
+0 0 19308
+S
+#19313
+Tall Trees~
+A stable means of moving about this harsh environment could only be by
+moving above the ground in the trees.  The thick branches seem to form a
+path that is fairly easy to traverse, twisting its way below the canopy so
+the traveler remains protected.  The cheerful sound of birds chirping and
+wings beating can be heard, getting louder as the trail proceeds through the
+trees.  The warm rays of the sun are much more visible up here, since down
+at the forest floor most of the sunlight has already been absorbed by the
+trees.  To the north is a collection of nests where many of the noisy birds
+are living, and down is a rough forest path.  
+~
+0 0 3
+D0
+~
+~
+0 0 19304
+D5
+~
+~
+1 0 19314
+S
+#19314
+A Rock in the Path~
+A very large rock stands directly in the middle of the path here, making
+it very difficult to continue traveling past this point.  To make matters
+worse, thick growth has slowly populated around the rock to make for a very
+formidable block in the trail.  The only options are to turn back or find
+another way, but the only exit seemingly available is south.  
+~
+0 1 3
+D2
+~
+~
+0 0 19315
+D4
+~
+~
+1 0 19313
+S
+#19315
+A Rough Path~
+Complete with jagged rocks and trees that have sprung up right smack dab
+in the middle of it, the path in this section is next to impossible to
+follow.  Barely even visible, it would be quite easy for an unsuspecting
+traveler to wonder if they perhaps strayed from it.  The seeming lack of
+path would explain all the rock outcroppings and mature trees blocking the
+path's way.  But, alas, this is indeed the forest path which travelers have
+been forced to use for many years.  Up ahead, it seems a bit clearer, but
+where the path leads is unintelligible.  Exits are north along the path,
+south to some thick brush, or west to a house of some sort.  
+~
+0 1 3
+D0
+~
+~
+0 0 19314
+D2
+~
+~
+0 0 19317
+D3
+~
+~
+0 0 19316
+S
+#19316
+Monkey Hut~
+This little hut could be the only semblance of civilization this
+rainforest has to offer.  Although it looks to be constructed by intelligent
+beings, monkeys have come to inhabit the home and can often be found here
+when they are not out playing in the trees.  All along the walls hang
+portraits of monkeys that have lived in this hut in years past, perhaps the
+leaders of past generations.  Bunches of bananas hang from the ceiling, and
+appear inviting to any hungry beast.  A small banana tree is visible through
+the skylight.  Exits are east to a forest path, or up through a hole in the
+ceiling.  
+~
+0 8 0
+D1
+~
+~
+0 0 19315
+D4
+~
+~
+0 0 19318
+S
+#19317
+In Thick Brush~
+The foliage here is extremely thick, obstructing what little view of a
+path could be possible.  The path itself is not well worn or easy to follow,
+with branches sticking out of it and sharp leaves lacing it like a trap. 
+The rainforest must always be traversed with care to avoid such traps as it
+may set for the traveler.  Up above, the branches look even more menacing,
+threatening to entangle whatever they can twist themselves around, keeping
+the victim there forever.  The only visible exits are to the north, where
+the path gets even rougher, and south to a river.  
+~
+0 1 3
+D0
+~
+~
+0 0 19315
+D2
+~
+~
+0 0 19320
+D4
+~
+~
+1 0 19319
+S
+#19318
+A Banana Tree~
+The plump, ripened bananas hang in large bunches from the branches of the
+banana tree.  They look rather picked over, as if the monkeys were here
+recently and just had a meal.  Given the sparseness of the trees, the
+bananas that grow on them must be especially delicious to the monkeys.  The
+only exit is down to a small hut.  
+~
+0 0 3
+D5
+~
+~
+0 0 19316
+S
+#19319
+Tangled in the Branches~
+Oh no!  You have gotten yourself stuck up here in the trees, the sharp
+branches stabbing you with jolts of pain.  You wonder if you'll ever get out
+of these trees alive.  The more you struggle against them, the more the
+branches sink their pointed tips and serrated leaves further into your
+flesh.  There's no way out of here, you had best say your prayers.  
+~
+0 5 3
+S
+#19320
+Among the Trees~
+At this section of the river, you see a path leading into the bright
+green depths of dry land.  The river water here appears to be slightly
+murkier, perhaps this is a common meeting ground for the rainforest's
+inhabitants.  Here is the first opportunity for you to discover what the
+land has in store for you, you could choose to enter the forest now or
+continue along the river.  The forest path leads north while the river
+continues to the east and west.  
+~
+0 0 6
+D0
+~
+~
+0 0 19317
+D1
+~
+~
+0 0 19324
+D3
+~
+~
+0 0 19321
+S
+#19321
+Along the River~
+The lush rainforest that the Orinoco River cuts through begins to invite
+you to explore its depths and discover its secrets.  Although the river is
+lush with life and things to explore, it can only deliver you to the places
+of dreams and to the discoveries of the rainforest.  Ahead you see a path
+that could bring you closer to what you may be looking for.  Exits lie east
+and west.  
+~
+0 0 6
+D1
+~
+~
+0 0 19320
+D3
+~
+~
+0 0 19322
+S
+#19322
+The Orinoco River~
+As you travel along this wide river, the sights and sounds become even
+more vivid.  The cool, murky water of the Orinoco seems to draw you further
+and further on into this strange tropical land.  All of the animals and
+plants beckon your every step, inviting you to explore their mysteries and
+ways of life.  The river stretches on to the east and west.  
+~
+0 0 6
+D1
+~
+~
+0 0 19321
+D3
+~
+~
+0 0 19323
+S
+#19323
+The Beginning of a River~
+Before you stretches a wide, beautiful river teeming with wildlife and
+lush foliage.  The hustle and bustle of life in the rainforest can be heard
+all around you.  The birds chirp their melodies in the trees above, the
+monkeys jump about and swing from branch to branch, and the animals that
+live on the ground move cautiously around you.  This is the land of Orinoco,
+explore and enjoy!  The river flows before you to the east.  
+~
+0 0 6
+D1
+~
+~
+0 0 19322
+D3
+~
+~
+0 0 9743
+S
+#19324
+Along the River~
+The river's slow but steady current continues on, drawing travelers
+deeper into its mysteries.  The Orinoco can seem very beautiful and tranquil
+to many, but it is hard to say why they see it that way.  It would be
+difficult for most to say that the animals are tranquil in their quest for
+survival, and the water is rather murky, what many would call ugly, not
+beautiful.  Whatever the case may be, this world is here for all to explore,
+whether they deem it beautiful or not.  The river flows south to a bend and
+west.  
+~
+0 0 6
+D2
+~
+~
+0 0 19325
+D3
+~
+~
+0 0 19320
+S
+#19325
+A River Bend~
+At this point, the river begins to take a turn and flow around a bend. 
+The forest surrounding the river is looking somewhat different, as if a new
+environment is suddenly emerging from the thick growth of trees and brush. 
+The air here is slightly cooler, and a chill runs down your spine.  What
+mysteries does this forest hold?  Exits are north and south.  
+~
+0 0 6
+D0
+~
+~
+0 0 19324
+D2
+~
+~
+0 0 19326
+S
+#19326
+A River Bend~
+Here is where the Orinoco River completes its turn.  The water here looks
+especially murky and mixed with mud, and the foliage on the riverbank looks
+all twisted and may even be dead.  This section of the rainforest is not the
+pretty trees and animals you saw before, this is quite a bit gloomier but
+still holds promise of new things to discover and investigate.  Dry land
+leads east while the river continues to the north and west.  
+~
+0 0 6
+D0
+~
+~
+0 0 19325
+D1
+~
+~
+0 0 19329
+D3
+~
+~
+0 0 19327
+S
+#19327
+Orinoco Widens~
+No river in all the land is so wide or full of activity.  Here the river
+bears its true identity as the life giver of this rainforest.  Surrounding
+the wide river lie trees and other plant life soaking up the vital water. 
+Animals swim and rest by the riverside, drinking their fill.  The river is a
+necessary life force for the forest, and the plants and animals seem to have
+a certain amount of respect for it, no matter now murky or shallow the
+waters might become.  Exits lie west, to the river's mouth, and east, to a
+bend.  
+~
+0 0 6
+D1
+~
+~
+0 0 19326
+D3
+~
+~
+0 0 19328
+S
+#19328
+The Mouth of Orinoco~
+Here lies the end to a river teeming with life and vegetation.  The water
+makes soft bubbling noises as it empties out, carrying with it some of the
+animals and plant life desperate for its revitalizing powers.  To the south,
+in the distance, lies a large outcropping of trees that stretch taller than
+any of the surrounding trees.  The path from the river that leads south
+appears to be heading toward them.  The river current runs from the east.  
+~
+0 0 6
+D1
+~
+~
+0 0 19327
+D2
+~
+~
+0 0 19349
+S
+#19329
+Mangled Trees~
+The trees in this section of the forest twist together in grotesque
+poses, their ruddy black bark hanging loosely from the branches.  These
+trees look infected with some sort of disease, perhaps this section of the
+forest is slowly dying.  The only visible exits are to the east, where the
+trees continue to look disgusting and sickly, and west to the river.  
+~
+0 1 3
+D1
+~
+~
+0 0 19330
+D3
+~
+~
+0 0 19326
+D5
+~
+~
+1 0 19331
+S
+#19330
+Mangled Trees~
+Looking above, you can see the twisted, ugly branches creating a mess
+over your head.  This part of the forest is very unwelcoming, but the urge
+for more adventure beckons you forth to continue.  The large entanglement of
+branches above you makes it hard to see the forest floor, let alone the sky
+that's supposed to be up there.  To the north lies a welcoming path, while
+west leads you only into more mangled trees.  
+~
+0 1 3
+D0
+~
+~
+0 0 19335
+D3
+~
+~
+0 0 19329
+S
+#19331
+A Spider Sanctuary~
+This is the home of the spiders.  All along the walls of this underground
+room crawl thousands of the small, eight-legged arachnids.  They come in all
+different colors and sizes, creating a moving mural.  The ceiling of the
+room cannot be seen, only a thick mat of webbing is visible from the floor. 
+Dozens of spiders drop down by a silk string attached to this massive
+network of webs.  Try as you might, squashing the occasional spider is
+inevitable.  To the south is a larger web designed by the tarantulas, to the
+east is another room of spiders, and up lies the twisted trees of the
+forest.  
+~
+0 9 0
+D1
+~
+~
+0 0 19332
+D2
+~
+~
+0 0 19333
+D4
+~
+~
+1 0 19329
+S
+#19332
+Among the Arachnids~
+This room is a slightly smaller version of the spider sanctuary, with
+spiders covering the walls and hanging from the ceiling.  The biggest
+difference between this room and the other, however, is the presence of
+insects; prey for the spiders.  These bugs flutter about the room nervously,
+looking for a way of escape, but alas, an intricate web is all they can
+find.  The only exit out of here is west to the spider sanctuary.  
+~
+0 9 0
+D3
+~
+~
+0 0 19331
+S
+#19333
+A Tarantula Web~
+This room is largely just one big web.  Large tarantulas work on its many
+levels, creating a massive trap with which to catch and eat prey.  It is
+impossible to find a way through the thick, interwoven silk.  The tarantulas
+seem to take no notice of you, continuing with their work and daily rituals.
+As long as you don't disturb the web, they won't disturb you.  To the north
+is the spider sanctuary, and down, the home of the mother tarantula.  
+~
+0 9 0
+D0
+~
+~
+0 0 19331
+D5
+~
+~
+0 0 19334
+S
+#19334
+A Clean Space~
+This room, the home of the mother tarantula, seems cleaner than the
+others of the web.  Bits of leftover webbing are still visible in the
+corners, but all in all the place has been cleaned up very well.  Although
+the mother tarantula is nowhere to be found, her home is very well
+maintained, alluding to how important she is to the spiders.  The only exit
+is up to a tarantula web.  
+~
+0 9 0
+D4
+~
+~
+0 0 19333
+S
+#19335
+The Beginning Of The Cockroach Path~
+The workings of a well worn path are visible here, seemingly made by
+millions of rather large cockroaches.  The path, outlined by thick, knotty
+trees, presents a much easier way of traversing along the normally cluttered
+forest floor.  It only seems to improve as it stretches farther to the east.
+Exits are east, south, and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 19337
+D2
+~
+~
+0 0 19330
+D3
+~
+~
+0 0 19336
+S
+#19336
+Dead End~
+The cockroaches have apparently decided to stop making their path at this
+point in the forest.  Thick tree trunks stare you in the face, urging you to
+turn around and go the other way.  Cockroaches move about here, gathering
+around bits of food.  They seem to jump and scatter off at even the softest
+of sounds, some running right by you.  The only exit is east along the path.
+~
+0 0 3
+D1
+~
+~
+0 0 19335
+S
+#19337
+A Cockroach Path~
+The path here widens a bit, giving rise to the possibility that some
+large dwelling lies eastward.  The large influx of cockroaches here helps
+strengthen that possibility, perhaps they are moving toward where they live.
+The cockroaches seem unaware of visitors as they busily go about whatever
+business they have.  Exits are east and west along the path.  
+~
+0 0 3
+D1
+~
+~
+0 0 19338
+D3
+~
+~
+0 0 19335
+S
+#19338
+A Cockroach Path~
+The path is very wide here, with a steady stream of cockroaches making
+its way to the east.  The creatures are so prevalent here, they take up the
+entire width of the path; travelers have to resort to stepping on them if
+they wish to walk on it.  It seems the cockroaches have built a large lair
+here to live in and conduct their business.  The strong scent of rotting
+flesh and decaying food indicates what these creatures eat, while the mess
+surrounding the place indicates they are not neat eaters.  Exits are east,
+to the lair, and west along the cockroach path.  
+~
+0 0 3
+D1
+~
+~
+0 0 19339
+D3
+~
+~
+0 0 19337
+S
+#19339
+The Lair of the Cockroaches~
+The cockroaches have built themselves a very large home, fit for a
+creature many times their size.  The furniture in here is very large, much
+too large for a standard size cockroach to get a lot of use of, and the
+rooms are large enough for any creature to enter with relative ease.  North
+is a mess hall, up leads to a barracks, down to a keep, and south to a post
+of some kind.  West leads to the cockroach path.  
+~
+0 9 0
+D0
+~
+~
+0 0 19341
+D2
+~
+~
+0 0 19342
+D3
+~
+~
+0 0 19338
+D4
+~
+~
+0 0 19340
+D5
+~
+~
+0 0 19343
+S
+#19340
+Cockroach Barracks~
+Here is where the cockroaches go for some relaxation and sleep.  This
+room is very quiet, and the cockroaches tend to stay in one spot rather than
+scurry about.  There are many beds here that are huge in comparison to the
+size of the small bugs, indicating some other creature must live here.  The
+only exit is down.  
+~
+0 8 0
+D5
+~
+~
+0 0 19339
+S
+#19341
+The Mess Hall~
+Here is a cafeteria of sorts for the cockroaches.  The entire perimeter
+of the room is littered with bits of food either being nibbled on by
+cockroaches or ignored, left to rot.  Here seems to be the source of the
+strong odor that permeates the whole lair.  To the north is a kitchen, and
+to the south is the entrance of this lair.  
+~
+0 8 0
+D0
+~
+~
+0 0 19344
+D2
+~
+~
+0 0 19339
+S
+#19342
+A Guard Post~
+This room is set up to protect the cockroaches, or maybe something else,
+from danger.  Oversized furniture is scattered in various areas of the post,
+allowing any of the huge cockroach guards to have a seat.  The post itself
+is modestly decorated, with the furniture present but not much else in the
+way of livening up the surroundings.  Exits here are north and south.  
+~
+0 1032 0
+D0
+~
+~
+0 0 19339
+D2
+~
+~
+0 0 19345
+S
+#19343
+The Keep~
+This is the only room in the lair that is not very spacious, but actually
+quite cramped.  There are small shelves that line the walls, but they are
+empty of contents.  It is also sparse in the number of cockroaches, another
+uncommon attribute.  Whatever they were using this room for in the past has
+either been moved to another location or simply doesn't exist anymore. 
+Either way, it doesn't seem very important.  The only exit is up to the
+entrance of the lair.  
+~
+0 9 0
+D4
+~
+~
+0 0 19339
+S
+#19344
+The "Kitchen"~
+This room appears to be more of a laboratory than a kitchen, as the
+cockroaches prefer to experiment with their food rather than cook it.  They
+sometimes like to mix and mingle it together to create new tastes, then move
+the creations south so the masses can give them a try.  The only exit is
+south to the mess hall.  
+~
+0 8 0
+D2
+~
+~
+0 0 19341
+S
+#19345
+A Static Room~
+The luxurious decoration and furniture spread all around the room dazzle
+the eyes of visitors, but it is apparent that whoever once resided here
+resides here no more.  The room is static, it appears to not have been used
+or touched in years.  The cockroaches seem content in maintaining the room
+as it was when this important person lived here.  Perhaps it was their
+leader, but it is impossible to tell.  Exits are south, to a sitting room,
+and north to a guard post.  
+ 
+~
+0 8 0
+D0
+~
+~
+0 0 19342
+D2
+~
+~
+0 0 19346
+S
+#19346
+The Master's Sitting Room~
+This room is very well maintained despite its obvious lack of use. 
+Tapestries, chandeliers, and plush couches populate the room, making it seem
+like royalty or a leader of some kind once resided here.  There is no
+lingering dust, nor is there one single cockroach on the floor.  Up the
+stairs in the corner is a study, and down is a treasury room.  North is the
+entrance of this sitting room.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 19345
+D4
+~
+~
+0 0 19347
+D5
+~
+~
+0 0 19348
+S
+#19347
+A Study~
+This is where the master conducts business.  Apparently, Orinoco has a
+very formal system of rule, each section has a leader and they regularly
+have discussions and exchange ideas of how to improve things.  The desk is
+cluttered with papers, documents describing ways to improve upon the hygiene
+and stench that surrounds the lair.  Hopefully something can be done about
+it.  The only exit out of here is back down to the sitting room.  
+~
+0 8 0
+D5
+~
+~
+0 0 19346
+S
+#19348
+The Treasury~
+The walls of this bare, poorly lit room glitter with specks of gold and
+silver, remnants of what this place used to hold.  All that remains now is a
+shallow pool of water that has slowly accumulated over the years as
+testimony to the lack of use of this room.  Apparently it has simply been
+ignored.  The only exit is up.  
+~
+0 8 0
+D4
+~
+~
+0 0 19346
+S
+#19349
+A Frame of Trees~
+Scraping the sky above you, large trees loom here, seemingly planted in
+such a way as to frame the shore and make notice of the path leading south. 
+Besides a very tall tree you can make out ahead, these trees are the tallest
+in the rainforest.  Many animals of different species make their way through
+this area, suggesting that something very important lies ahead.  Up in the
+trees, you can see a brownish colored animal quietly sitting, not moving at
+all.  These animals are increasing in population, perhaps they have some
+sort of significance here.  The only visible exits are north, to the river,
+and south, along the path.  
+~
+0 0 3
+D0
+~
+~
+0 0 19328
+D1
+~
+~
+1 0 19350
+D2
+~
+~
+0 0 19351
+S
+#19350
+A Flower Garden~
+A small garden of wildflowers is here, blooming in a wide array of colors
+and shades.  Whenever a gust of wind should happen to breeze by, pollen gets
+swept up and scattered in all directions, filling the garden with an equally
+wide array of smells.  Whoever maintains this garden has a deep love for
+flowers and the natural world.  The only exit is west.  
+~
+0 0 3
+D3
+~
+~
+1 0 19349
+S
+#19351
+Iron Gates to the Lair~
+A very abrupt obstacle in the path stands before you: a locked gate.  For
+some reason, whatever lies beyond this gate is important enough that access
+must be restricted.  Beyond the thin bars of the fence there is considerable
+activity by creatures of all kinds.  The hustle and bustle reflects a more
+urban setting within this sectioned off place, not at all like the forest
+the rest of Orinoco has.  Exits are north to the frame of trees, south, past
+the gate, and west.  
+~
+0 0 3
+D0
+~
+~
+0 0 19349
+D2
+~
+~
+2 19319 19354
+D3
+~
+~
+0 0 19352
+S
+#19352
+The Predator Hold~
+This cave is apparently used to house big animals deemed a threat to the
+inhabitants of the lair.  However, it is not a very big cave, and the
+animals often find a way to escape.  The sloths have apparently built
+themselves a retreat not far from this cave in case any of them sustain
+injuries as a result of trying to control the beasts.  Up is a retreat and
+east loom the gates.  
+~
+0 9 0
+D1
+~
+~
+0 0 19351
+D4
+~
+~
+0 0 19353
+S
+#19353
+A Place to Rest~
+This brightly lit room, decorated here and there with bouquets of flowers
+and paintings of the sloths that seem to inhabit this area, invites anyone
+who enters to heal any wounds they may have sustained.  The healer's striped
+face smiles slowly to all the creatures in the room, her sleek body moving
+slowly toward anyone in need.  The only exit is down to a cave.  
+~
+0 8 0
+D5
+~
+~
+0 0 19352
+S
+#19354
+Inside the Sloth Lair~
+Once inside the lair, it's quite clear that the inhabitants believe that
+once you're inside you stay inside, as they have made it more difficult for
+you to leave.  The sloths move very slowly all around here, eyeing all
+travelers and animals other than sloths very closely.  The other animals
+inside are carefully screened and picked out, for only the animals deemed
+safe would ever be allowed in.  Exits are north to the gates, east to a
+shop, west to a post, and south along a path.  
+~
+0 268967936 3
+D0
+~
+~
+2 0 19351
+D1
+~
+~
+0 0 19355
+D2
+~
+~
+0 0 19358
+D3
+~
+~
+0 0 19356
+S
+#19355
+The Sloth Merchant~
+This little shop is where the sloths go to get their everyday items,
+provided they can get here fast enough before it closes.  The merchant,
+surprisingly, is not a sloth but some kind of bird.  The chain attached to
+his leg suggests that he might be somewhat aggressive, but not enough to be
+deemed too dangerous to be here.  His piercing eyes demand you buy something
+from him.  The only exit is west.  
+~
+0 268967936 3
+D3
+~
+~
+0 0 19354
+S
+#19356
+A Guard's Post~
+This post is apparently where the guards receive orders and perform
+routine patrols.  It is somewhat surprising that the sloths would employ
+their own species to be guards, since all they seem to do is sleep.  It
+would be effortless to pass by any of them.  East is the main road of the
+lair and down appears to be a lecture hall.  
+~
+0 268967936 3
+D1
+~
+~
+0 0 19354
+D5
+~
+~
+0 0 19357
+S
+#19357
+The Lecture Room~
+Here is where the guards get trained, although exactly how they get
+trained is unknown.  A large microphone sits near the front of the room.  It
+must be necessary during training to shout through it lest the guards fall
+asleep.  However, since all the guards do is sleep anyway, the lessons here
+must not be very helpful.  The only exit is up to a guard post.  
+~
+0 268967936 3
+D4
+~
+~
+0 0 19356
+S
+#19358
+Along the Sloth Path~
+This path seems to bridge two sections of the lair together, making it
+easier for the animals to move about in the relatively small space this
+place takes up.  The path gets rougher the further south it goes, indicating
+a more rural section lies in that direction.  North is the entrance to the
+lair, and south leads to a clearing in front of a mammoth tree.  
+~
+0 268967936 3
+D0
+~
+~
+0 0 19354
+D2
+~
+~
+0 0 19359
+S
+#19359
+Outside the Great Tree~
+Before you lies a humongous tree towering hundreds of feet into the air. 
+This tree can be seen from anywhere in the forest, provided you are above
+the treetops.  Some mysterious power must make it as large as it is, but it
+is hard to tell for what purpose.  Exits lie to the north along a path, east
+to an eating area, and south to the Great Tree.  
+~
+0 268967936 3
+D0
+~
+~
+0 0 19358
+D1
+~
+~
+0 0 19360
+D2
+~
+~
+0 0 19362
+S
+#19360
+A Sloth Diner~
+This open-air diner is where many of the animals in residence come to
+eat.  A large table on one side of the area is covered with many dishes,
+some with fresh food piled high, and others that have been sitting there a
+while.  Animals seem to come and go as they please, grabbing a bite whenever
+it suits them.  The area is also a makeshift mess hall for the guards,
+whenever they're awake enough to eat anything.  To the west is a clearing
+and down a small tunnel lies a large hole.  
+~
+0 268967936 3
+D3
+~
+~
+0 0 19359
+D5
+~
+~
+0 0 19361
+S
+#19361
+A Water Hole~
+A small pool of fresh spring water collects here, providing the sloths
+with its gentle sustenance.  Not much activity seems present, animals of the
+lair must come here only momentarily, when the need arises.  While some
+light from outside is visible from the entrance, the room is pretty dark
+with only small flecks of light scampering across the walls from reflecting
+water.  The only exit is up to a diner.  
+~
+0 268967936 0
+D4
+~
+~
+0 0 19360
+S
+#19362
+The Great Tree~
+One very large branch extends into this area inside the Great Tree,
+inviting all to climb onto it and view the whole of Orinoco.  The leaves of
+the tree sparkle in their green hues when the sun penetrates through them,
+creating a dappled light effect on the ground.  A small sign is barely
+visible from this branch, obstructed by foliage.  Exits are north to a
+clearing, west to a cluster of branches, and down to a place not easily
+discernable.  
+~
+0 268959744 3
+E
+sign~
+{RIf you value your life, leave me alone.{x
+~
+D0
+~
+~
+0 0 19359
+D3
+~
+~
+0 0 19364
+D5
+~
+~
+0 0 19363
+S
+#19363
+Trapped!~
+Oh, no!  If only you had been able to see what was down here!
+Unfortunately, it seems the citizens of this lair are in the process of
+making some underground area, underneath the Great Tree, but they forgot to
+cover up the hole so that unlucky travelers wouldn't fall into it.
+~
+0 268959748 3
+S
+#19364
+A Branch Cluster~
+This cluster of thick, intertwining branches looks almost like a very
+complicated knot.  The bark of the tree has a strange texture, neither
+smooth or rough, and touching it seems to calm the animals that inhabit the
+tree.  Leaves cover the branches with bright splotches of green, providing
+food and shade to them.  Exits are east to the Great Tree entrance and up to
+a brightly lit room.  
+~
+0 268967936 3
+D1
+~
+~
+0 0 19362
+D4
+~
+~
+0 0 19365
+S
+#19365
+The Nursery~
+Here is where the sloths nurture their young and the young of the other
+animals living in the lair.  The room is very open with large windows cut
+out of the intertwining branches of the tree.  Many of the leaves on the
+walls have been painted in a wide array of colors, giving the room a bright,
+energetic feel.  Nothing hard exists here, only pillows and blankets for the
+babies to sleep on.  This must be so that the young do not hurt themselves,
+but it seems likely that they are so well cared for that it is hardly ever a
+problem.  The only exit lies down, to a cluster of branches.  
+~
+0 268967936 3
+D5
+~
+~
+0 0 19364
+S
+#19366
+Jungle Tree~
+High up in this tree, you can look down at the whole rainforest and the
+churning Orinoco River.  The sight is beautiful, one to behold forever if
+you could.  However, your time here is limited, you have other things you
+must attend to.  The rustle of the leaves on the tree branches catches your
+ear, their whispers a source of comfort to you in this strange but beautiful
+place.  What are you doing here?  How long will you stay?  
+~
+0 557076 3
+S
+#0
+
+
+
+#SPECIALS
+M 19305 spec_thief Load to: a squirrel monkey
+M 19308 spec_breath_lightning Load to: a piranha
+M 19329 spec_poison Load to: a black tarantula
+M 19332 spec_breath_any Load to: a three-toed {DSloth{x
+M 19341 spec_guard Load to: a sloth guard
+S
+
+
+
+#MOBPROGS
+#19305
+mob echoat $n The Queen Toucan smiles at you.
+mob echoat $n {yThe Queen Toucan says 'Thank you! Here, I bestow upon you this little gift as my thanks.'{x
+mob oload 19319 1
+give bauhinia $n
+mob echoat $n {yThe Queen Toucan says 'It isn't much, but it must be good for something. Thank you again!'{x
+drink lemonade
+mob junk $o
+~
+A
+#19304
+if carries $n 19319
+mob echoat $n The Queen Toucan smiles at you.
+mob echoat $n {yThe Queen Toucan says 'I hope that bauhinia comes in handy. I really have no use for it.'{x
+mob echoat $n The Queen Toucan sighs.
+mob echoat $n {yThe Queen Toucan says 'I'm still thirsty. Do you have another heart palm I could have?'{x
+else
+if carries $n 19324
+mob echoat $n The Queen Toucan looks at you.
+mob echoat $n {yThe Queen Toucan says 'Oh, $N, I see you have a heart palm! Can I please have it?'{x
+else
+mob echoat $n {yThe Queen Toucan says 'Oh my, I'm so thirsty! What am I to do? I have nothing to drink.'{x
+mob echoat $n The Queen Toucan sighs.
+endif
+endif
+~
+A
+#19300
+~
+A
+#19301
+if isimmort $n
+else
+if clan $n Kindred
+mob echoat $n Mikoto's flying squirrel transports you to Dominia.
+mob echoaround $n Mikoto's flying squirrel transports $n to Dominia.
+mob transfer $n 23002
+mob goto 23002
+mob echoaround $n $n appears out of nowhere!
+mob goto mikoto
+else
+if clan $n Justice
+mob echoat $n Mikoto's flying squirrel transports you to Dominia.
+mob echoaround $n Mikoto's flying squirrel transports $n to Dominia.
+mob transfer $n 23202
+mob goto 23202
+mob echoaround $n $n appears out of nowhere!
+mob goto mikoto
+else
+if clan $n Seeker
+mob echoat $n Mikoto's flying squirrel transports you to Dominia.
+mob echoaround $n Mikoto's flying squirrel transports $n to Dominia.
+mob transfer $n 23302
+mob goto 23302
+mob echoaround $n $n appears out of nowhere!
+mob goto mikoto
+else
+if clan $n Kenshi
+mob echoat $n Mikoto's flying squirrel transports you to Dominia.
+mob echoaround $n Mikoto's flying squirrel transports $n to Dominia.
+mob transfer $n 1255
+mob goto 1255
+mob echoaround $n $n appears out of nowhere!
+mob goto mikoto
+else
+if clan $n Venari
+mob echoat $n Mikoto's flying squirrel transports you to Dominia.
+mob echoaround $n Mikoto's flying squirrel transports $n to Dominia.
+mob transfer $n 10655
+mob goto 10655
+mob echoaround $n $n appears out of nowhere!
+mob goto mikoto
+else
+mob echoat $n Mikoto's flying squirrel transports you to Dominia.
+mob echoaround $n Mikoto's flying squirrel transports $n to Dominia.
+mob transfer $n 31001
+mob goto 31001
+mob echoaround $n $n appears out of nowhere!
+mob goto 19300
+endif
+endif
+endif
+endif
+endif
+endif
+~
+A
+#19302
+if isimmort $n
+else
+if clan $n Kindred
+mob echoat $n Mikoto's flying squirrel transports you to Terra.
+mob echoaround $n Mikoto's flying squirrel transports $n to Terra.
+mob transfer $n 10605
+mob goto 10605
+mob echoaround $n $n appears out of nowhere!
+mob goto mikoto
+else
+if clan $n Justice
+mob echoat $n Mikoto's flying squirrel transports you to Terra.
+mob echoaround $n Mikoto's flying squirrel transports $n to Terra.
+mob transfer $n 10755
+mob goto 10755
+mob echoaround $n $n appears out of nowhere!
+mob goto mikoto
+else
+if clan $n Kenshi
+mob echoat $n Mikoto's flying squirrel transports you to Terra.
+mob echoaround $n Mikoto's flying squirrel transports $n to Terra.
+mob transfer $n 23401
+mob goto 23401
+mob echoaround $n $n appears out of nowhere!
+mob goto mikoto
+else
+if clan $n Venari
+mob echoat $n Mikoto's flying squirrel transports you to Terra.
+mob echoaround $n Mikoto's flying squirrel transports $n to Terra.
+mob transfer $n 23102
+mob goto 23102
+mob echoaround $n $n appears out of nowhere!
+mob goto mikoto
+else
+if clan $n Seeker
+mob echoat $n Mikoto's flying squirrel transports you to Terra.
+mob echoaround $n Mikoto's flying squirrel transports $n to Terra.
+mob transfer $n 10805
+mob goto 10805
+mob echoaround $n $n appears out of nowhere!
+mob goto mikoto
+else
+mob echoat $n Mikoto's flying squirrel transports you to Terra.
+mob echoaround $n Mikoto's flying squirrel transports $n to Terra.
+mob transfer $n 3054
+mob goto 3054
+mob echoaround $n $n appears out of nowhere!
+mob goto mikoto
+endif
+endif
+endif
+endif
+endif
+endif
+~
+A
+#19303
+if carries $n 19319
+mob echoat $n {yThe King Toucan says 'Why hello, $N! I see the Queen has given you a gift. How lovely.'{x
+mob echoat $n The King Toucan shakes your hand.
+mob echoat $n The King Toucan smiles.
+else
+if carries $n 19324
+mob echoat $n {yThe King Toucan says '$N, you have not delivered that heart palm. Please do it quickly.'{x
+mob echoat $n The King Toucan smiles happily.
+else
+mob echoat $n {yThe King Toucan says '$N, you look quite capable! Please deliver this to the Queen Toucan.'{x
+mob oload 19324 1
+give heart $n
+mob echoat $n The King Toucan smiles happily.
+mob echoat $n {yThe King Toucan says 'I appreciate it!'{x
+endif
+endif
+~
+A
+#0
+
+#RESETS
+D 0 19300 3 1
+D 0 19313 5 1
+D 0 19314 4 1
+D 0 19317 4 1
+D 0 19329 5 1
+D 0 19331 4 1
+D 0 19349 1 1
+D 0 19350 3 1
+D 0 19351 2 2
+D 0 19354 0 2
+O 0 19366 0 19300
+M 1 19319 1 19301 1
+E 0 19313 0 16
+M 1 19339 2 19302 1
+E 0 19314 0 17
+M 1 19315 1 19304 1
+E 0 19315 0 16
+M 1 19316 2 19305 1
+G 0 19317 0
+M 1 19310 1 19306 1
+E 0 19318 0 16
+M 1 19316 3 19307 1
+E 0 19317 0 17
+M 1 19317 1 19309 1
+M 1 19340 1 19310 1
+M 1 19312 2 19313 1
+E 0 19320 0 10
+E 0 19316 0 16
+M 1 19311 1 19314 1
+G 0 19321 0
+M 1 19313 1 19315 1
+E 0 19322 0 3
+M 1 19314 4 19316 1
+G 0 19325 0
+O 0 19323 0 19316
+M 1 19318 1 19317 1
+G 0 19339 0
+M 1 19314 2 19318 1
+G 0 19325 0
+M 1 19301 1 19320 1
+E 0 19307 0 16
+O 0 19311 0 19320
+M 1 19307 1 19321 1
+E 0 19348 0 17
+M 1 19308 1 19321 1
+E 0 19304 0 16
+M 1 19300 2 19322 1
+E 0 19303 0 16
+M 1 19302 1 19323 1
+E 0 19302 0 16
+M 1 19306 1 19324 1
+E 0 19306 0 16
+M 1 19309 2 19325 1
+E 0 19310 0 17
+M 1 19304 1 19326 1
+E 0 19312 0 17
+P 0 19305 0 19312 1
+M 1 19303 1 19327 1
+E 0 19308 0 0
+M 1 19305 2 19328 1
+E 0 19309 0 3
+M 1 19320 1 19330 1
+E 0 19326 0 16
+M 1 19329 3 19331 1
+E 0 19328 0 16
+M 1 19329 3 19333 1
+E 0 19328 0 16
+M 1 19329 1 19334 1
+E 0 19328 0 16
+M 1 19320 1 19336 1
+E 0 19326 0 16
+M 1 19312 1 19337 1
+E 0 19320 0 10
+M 1 19323 2 19338 1
+E 0 19330 0 18
+G 0 19329 0
+M 1 19314 1 19339 1
+G 0 19325 0
+M 1 19330 4 19340 1
+G 0 19333 0
+M 1 19325 1 19341 1
+E 0 19337 0 11
+M 1 19330 6 19342 1
+G 0 19333 0
+M 1 19327 1 19343 1
+E 0 19331 0 4
+E 0 19338 0 5
+M 1 19326 1 19345 1
+E 0 19332 0 16
+O 0 19327 0 19346
+M 1 19328 1 19347 1
+G 0 19335 0
+M 1 19324 1 19348 1
+G 0 19334 0
+E 0 19336 0 16
+M 1 19331 1 19349 1
+E 0 19343 0 6
+M 1 19338 1 19350 1
+E 0 19344 0 13
+M 1 19341 5 19351 1
+M 1 19334 1 19352 1
+E 0 19340 0 16
+M 1 19333 1 19352 1
+G 0 19341 0
+M 1 19336 1 19352 1
+E 0 19342 0 14
+M 1 19335 1 19353 1
+M 1 19337 1 19355 1
+G 0 19346 0
+G 0 19345 0
+M 1 19341 3 19356 1
+M 1 19331 1 19357 1
+M 1 19341 1 19359 1
+M 1 19332 1 19362 1
+E 0 19350 0 16
+M 1 19333 1 19364 1
+G 0 19339 0
+S
+
+
+
+#SHOPS
+19337 9 5 0 0 0 120 70 9 21
+0
+
+
+
+#$

@@ -1,0 +1,5270 @@
+#AREADATA
+Name Plane of Time~
+Builders None~
+VNUMs 15000 15135
+Credits {25 51} Rebecca     Plane of Time~
+Security 9
+Xcontinent 0
+Age 12
+Questable 1
+Control Kindred~
+End
+
+
+
+#MOBILES
+#15001
+baby new year newyear~
+Baby New Year~
+Baby New Year is here, smoking a cigar.
+~
+You are alarmed to see a fresh-cheeked baby so obviously evil.  He is
+grinning cunningly at you as he gauges your condition, determining exactly
+what it will take to kill you.  As he reaches into his diaper for his
+weapon (ewwww), he shouts a greeting:  "Hiya, hiya, Schmuck!  Happy
+ROFLin' New Year!
+~
+human~
+ABF D -500 0
+35 -2 10d10+1300 18d9+100 4d7+11 slash
+-11 -11 -11 6
+EFN 0 0 0
+stand stand male 1500
+AHJMV ABCDEFGHIJK small 0 the guilds~
+#15002
+middle aged middle-aged year~
+Middle-Aged Year~
+Middle-Aged Year is here, ready to go jogging.
+~
+Dressed in a jogging outfit, it looks as though the Year has grown up
+quite a lot from his evil baby days.  He glances at you impatiently,
+obviously in a hurry to go on his run.  If you don't leave soon, he might
+just kill you for wasting his time.
+~
+human~
+ABFH DF 0 0
+42 -2 25d10+2250 21d9+100 3d12+14 punch
+-14 -14 -14 6
+EFN 0 0 0
+stand stand male 2000
+AHJMV ABCDEFGHIJK medium 0 the guilds~
+#15003
+old man year~
+Old Man Old Year~
+Old Man Old Year stands here resignedly.
+~
+This old man is naked except for his year banner and loin cloth.  He leans
+on his cane and peers at you grumpily through his bifocles.  "For the last
+time, you young punk!  I am *not* Father Time!"
+~
+human~
+AB DFJV 500 0
+47 -3 25d10+3500 24d9+100 6d6+17 pound
+-17 -17 -17 5
+EFN 0 0 0
+stand stand male 2000
+AHJMV ABCDEFGHIJK medium 0 the guilds~
+#15004
+fleeting moment whiz second~
+a fleeting moment~
+For a second you thought you saw something whiz by you.
+~
+It won't stand still long enough for you to look at it.
+~
+unique~
+AH PQT 0 0
+33 -1 10d10+1100 17d9+100 6d4+10 slap
+-11 -11 -11 6
+EU 0 0 0
+stand stand none 1500
+AHJM ABCDEF tiny 0 the guilds~
+#15005
+split second~
+a split second~
+A split second is here, looking divided.
+~
+This creature looks as though it's been sliced evenly in two by something
+extremely sharp, a sword or an axe, perhaps.  It is hanging together by
+mere sinews of flesh and gristle.
+~
+unique~
+AH T 0 0
+33 -2 10d10+1100 17d9+100 6d4+10 cleave
+-11 -11 -11 6
+EU 0 0 0
+stand stand none 1500
+AHJMV ABCDEF small 0 the guilds~
+#15006
+golden hour~
+a golden hour~
+A golden hour smiles happily at you.
+~
+Just looking at this beautiful creature soothes your spirit and puts you
+in mind of many pleasant experiences in your past.
+~
+unique~
+AH T 500 0
+34 -2 10d10+1200 17d9+100 4d7+10 pound
+-11 -11 -11 6
+FNU 0 0 0
+stand stand none 1500
+AHJMV ABCDEF small 0 the guilds~
+#15007
+desperate hour~
+a desperate hour~
+A desperate hour looks at you with wild eyes.
+~
+This character looks frantic, crazy enough to do anything.  You
+wonder whether it is fleeing from something or looking for something...
+~
+unique~
+ACF T 0 0
+34 -2 10d10+1200 17d9+100 4d7+10 stab
+-11 -11 -11 6
+U 0 0 0
+stand stand none 1500
+AHJMV ABCDEF small 0 the guilds~
+#15008
+hour freedom~
+an hour of freedom~
+An hour of freedom is dancing here, grinning gleefully at you.
+~
+Dancing gracefully upon the air currents, you can see that this hour is
+completely overjoyed to have itself to itself.  You wonder if the hour
+always spends itself dancing, or whether sometimes it reads.  Or goes
+shopping, perhaps...
+~
+unique~
+AH 0 0 0
+34 -2 10d10+1200 17d9+100 4d7+10 pound
+-11 -11 -11 6
+FNU 0 0 0
+stand stand none 1500
+AHJMV ABCDEF small 0 the guilds~
+#15009
+hard time~
+a hard time~
+A hard time is here.
+~
+You're having...a hard time trying to describe it.
+~
+unique~
+AB B 0 0
+45 -3 25d10+3000 23d9+100 8d4+16 slice
+-15 -15 -15 5
+EFNP AB 0 0
+stand stand male 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15010
+vicious cycle~
+a vicious cycle~
+A vicious cycle is here, snarling at you.
+~
+A creature (thing?) that can only be described as a blurry whirlwind looks
+as though it is spinning out of control, head against feet, zooming through
+the air with great speed.  It certainly doesn't look very happy.  May as
+well put it out of its misery.
+~
+unique~
+ABCF TV 0 0
+34 -2 10d10+1200 17d9+100 4d7+10 chomp
+-11 -11 -11 6
+EU 0 0 0
+stand stand none 1500
+AHJMV ABCDEF small 0 the guilds~
+#15011
+father time~
+Father Time~
+Father Time stands here in all his white-robed glory.
+~
+He stands here imperiously, glaring proudly down his nose at you, no
+doubt wondering vaguely why you are here, but his mind on much, much
+more important matters.  You see a DayTimer sticking out of his back
+pocket and realize that even Father Time must sometimes have difficulty
+keeping track of time.
+~
+human~
+AB DFHJ 800 0
+52 -2 50d10+5500 26d9+100 6d7+20 pound
+-22 -22 -22 4
+DEFKN ABa MNP 0
+stand stand male 2500
+AHJMV ABCDEFGHIJK large 0 the guilds~
+#15012
+white rabbit~
+White Rabbit~
+The White Rabbit is hurrying along here.
+~
+Wearing a black top hat and an elegant waist coat, this rabbit is twitching
+nervously and constantly consulting his pocket watch.  "No time to say
+hello!  Good bye!  I'm late, I'm late, I'm late..."  Looking at you once
+more, he says calmly, "Get out of my way or I'll kill you."
+~
+rabbit~
+AB 0 0 0
+35 -2 10d10+1300 18d9+100 4d7+11 bite
+-11 -11 -11 6
+EFH 0 0 L
+stand stand male 3500
+AGJV ABCDEFHJKQ small 0 the guilds~
+#15013
+rip van winkle~
+Rip Van Winkle~
+Rip Van Winkle is snoring here.
+~
+Resting peacefully on his back, this man has a long, white beard that
+looks, indeed, as though he's been sleeping for twenty years.  You marvel
+at his ability to snore through such noise as you've been making on your
+way up here.
+~
+human~
+ABF 0 0 0
+47 -3 25d10+3500 24d9+100 6d6+17 smash
+-17 -17 -17 5
+EFNP AB 0 0
+sleep sleep male 2000
+AHJMV ABCDEFGHIJK medium 0 the guilds~
+#15014
+mr mister sandman~
+Mister Sandman~
+Mister Sandman is here, having a hard time.
+~
+Furious at being disturbed during his favorite activity, he whirls away
+from his partner and glares at you.  The sand from which he is made
+swells and recedes, his head grows enormous, then shrinks to minute size,
+his fist (his second most formidable weapon) expands to the form of a
+sledge hammer and his eyes bulge alarmingly.
+~
+human~
+AB 0 0 0
+45 -3 25d10+3000 23d9+100 8d4+16 smash
+-15 -15 -15 5
+DEFJNP AB HIKL J
+stand stand male 2000
+AHJMV ABCDEFGHIJK medium 0 the guilds~
+#15015
+darkest hour before~
+the darkest hour before Dawn~
+The darkest hour before Dawn looms before you.
+~
+This creature is so black that it seems to absorb your light, much like
+a black hole on a small scale.  Peering as closely as you can at it, you
+can make out no features except what appears to be a mouth with row upon
+row of black, twisted teeth.
+~
+unique~
+ABF 0 -1000 0
+49 -3 50d10+4000 25d9+100 4d10+18 chomp
+-17 -17 -17 5
+DEFNP B C 0
+stand stand none 2000
+AHJMV ABCDEF huge 0 the guilds~
+#15016
+dawn~
+Dawn~
+Dawn is glowing here.
+~
+As beautiful as every happy time you've ever had, Dawn radiates goodness,
+kindness, and the power of healing.  She pulsates gently with warm colors,
+alternating pink, then yellow, then peach, then violet.  She smiles at you
+warmly and beckons.
+~
+unique~
+ABQ HT 1000 0
+50 -2 50d10+4500 25d9+100 6d6+18 pierce
+-19 -19 -19 4
+EFP AB 0 0
+stand stand female 2500
+AHJMV ABCDEF medium 0 the guilds~
+#15017
+coffee break~
+a coffee break~
+A coffee break is nervous here.
+~
+It sits in its chair trying to relax, but crossing and recrossing its
+legs every few seconds.  There is a tic under one eye and its hands
+tremble slightly.  You wonder when it last had some sleep.
+~
+unique~
+ABH TV 0 0
+48 -3 25d10+3750 24d9+100 6d6+18 thrust
+-18 -18 -18 5
+EFNP 0 0 0
+sit sit none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15018
+precious second~
+a precious second~
+A precious second preens here.
+~
+Mincing along haughtily, he appears oblivious to you as if you were not
+worthy of notice.  Indeed, he seems to think himself above the rest of
+the creatures on this plane, with the possible exception of Time Itself.
+~
+unique~
+AB T 0 0
+47 -3 25d10+3500 24d9+100 6d6+17 blast
+-17 -17 -17 5
+EFNP 0 0 0
+stand stand male 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15019
+stitch time~
+a Stitch in Time~
+A Stitch in Time sits here, looking extremely disgusting.
+~
+Ugh!  You may have never considered what a stitch in time would look like,
+but certainly not like this evil-looking creature.  You now understand
+the feeling of dread that has dogged you since entering the tunnel.  It
+is sitting here sewing various pieces of work with 17 of its 21 hands.
+The other four are reaching out to grasp *you*!
+~
+unique~
+ABF V -800 0
+35 -2 10d10+1300 18d9+100 4d7+11 claw
+-11 -11 -11 6
+E 0 HIJ KL
+sit sit none 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15020
+pause refreshes~
+the pause that refreshes~
+The Pause that Refreshes lounges here.
+~
+Relaxed and happy, it regards you with mild curiousity.  It seems
+confident that, whatever your threat to it, it has rested so long and
+so completely that it could handle you with one hand tied behind its
+back.
+~
+unique~
+A T 0 0
+48 -3 25d10+3750 24d9+100 6d6+18 slice
+-18 -18 -18 5
+EFNU 0 0 0
+sit sit none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15021
+bedtime time~
+bedtime~
+Bedtime is yawning here.
+~
+Rubbing its eyes and yawning hugely, it wanders the halls sleepily in
+search of an unoccupied bedroom to sleep in.  It wears a blue flannel
+nightshirt, fuzzy pink slippers, and carries a warm nightcap in its hand.
+~
+unique~
+AH 0 0 0
+45 -3 25d10+3000 23d9+100 8d4+16 slash
+-15 -15 -15 5
+EFN 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15022
+witching hour~
+The Witching Hour~
+The Witching Hour rides by on a balloon.
+~
+Cackling evilly, it flies madly around you, feinting attacks each time
+you turn around to confront its new position.  Wearing a clown suit and
+frizzy red wig, it seems to have grabbed the wrong costume out of its closet
+this morning.
+~
+unique~
+A T 0 0
+46 -3 25d10+3250 23d9+100 6d6+16 slash
+-16 -16 -16 5
+EFNU 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15023
+bad day~
+a bad day~
+A bad day is here that looks mad all over.
+~
+This is a day that would really take some doing to make it all worse.
+Might as well kill it and make the day complete.
+~
+unique~
+A TU 0 0
+35 -2 10d10+1300 18d9+100 4d7+11 crush
+-11 -11 -11 6
+EFNU 0 0 0
+stand stand none 1500
+AHJMV ABCDEF small 0 the guilds~
+#15024
+good day~
+a good day~
+A good day is here with a smile for you.
+~
+This day has just gone completely right from start to finish, almost
+as though it were a birthday that someone went out of his way to make
+perfect.  That day might be in a different room.  Seems a shame to
+ruin everything.
+~
+unique~
+A HTU 200 0
+35 -2 10d10+1300 18d9+100 4d7+11 crush
+-11 -11 -11 6
+EFNU 0 0 0
+stand stand none 1500
+AHJMV ABCDEF small 0 the guilds~
+#15025
+leap year~
+a Leap Year~
+A Leap Year leans against the wall here, looking suicidal.
+~
+In a small, despondent voice, his litany of woe goes on and on and on.
+"I don't belong anywhere."  "Nobody likes me."  "White Rabbit got ice cream
+and I didn't."  "I don't know where to stand."  "My foot hurts."  " Dawn
+didn't say hi to me yesterday."
+~
+unique~
+A T 0 0
+50 -2 50d10+4500 25d9+100 5d8+19 punch
+-18 -18 -18 5
+EFN 0 0 0
+stand stand male 2500
+AHJMV ABCDEF medium 0 the guilds~
+#15026
+month sundays~
+a Month of Sundays~
+A Month of Sundays looks at you in surprise.
+~
+A Month of Sundays sits here on its bed, flipping through yet another
+calendar, eyeing the Sundays with stiff-necked pride and sneering at the
+other days for having no proper goals in life.
+~
+unique~
+AB T 0 0
+48 -3 25d10+3750 24d9+100 6d6+18 punch
+-18 -18 -18 5
+EFN 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15027
+day rainy sunday afternoon~
+a Rainy Sunday Afternoon~
+A Rainy Sunday Afternoon gazes at you curiously.
+~
+A Rainy Sunday Afternoon looks up from the book it is contentedly reading
+and regards you with mild curiousity.
+~
+unique~
+AB T 0 0
+35 -2 10d10+1300 18d9+100 4d7+11 punch
+-11 -11 -11 6
+EU 0 0 J
+stand stand none 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15028
+monday day blahs~
+Monday Blahs~
+Monday Blahs is here, bored stupid.
+~
+Monday Blahs whirls upon you in a frenzy.  Desperate for entertainment,
+it proceeds to attack you in pure satisfaction.
+~
+unique~
+AB T 0 0
+35 -2 10d10+1300 18d9+100 4d7+11 thwack
+-11 -11 -11 6
+E 0 0 0
+stand stand none 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15029
+day tuesday point view~
+a Tuesday Point of View~
+A Tuesday Point of View is shouting, "Nothing matters but the weekend!"
+~
+Frantically pounding on an air guitar, it struts up and down the room to
+the mind-numbingly loud music blaring from the speakers.
+~
+unique~
+ABF T 0 0
+36 -3 10d10+1400 18d9+100 3d10+11 pound
+-12 -12 -12 6
+EU 0 0 0
+stand stand none 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15030
+day wednesday hump~
+The Hump Day~
+The Hump Day rakes your body with his eyes.
+~
+The Hump Day, also known as Wednesday, lounges here in a smoking jacket
+leafing through a photo album labelled "My Best Days".
+~
+unique~
+AB T 0 0
+37 -3 10d10+1500 18d9+100 3d10+12 slash
+-12 -12 -12 6
+EU 0 0 0
+stand stand male 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15031
+day thursday~
+Thursday~
+Thursday is here.
+~
+<Your description here>
+~
+unique~
+AB BT 0 0
+38 -3 10d10+1600 19d9+100 5d6+12 claw
+-13 -13 -13 6
+E 0 0 0
+stand stand none 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15032
+day friday 13th~
+Friday the 13th~
+Friday the 13th is grinning evilly at you.
+~
+Obviously the master of this place, it folds its arms and regards you evenly,
+waiting for your move.
+~
+unique~
+ABR DF 0 0
+39 -2 10d10+1400 20d9+100 4d7+11 crush
+-13 -13 -13 6
+E 0 0 0
+stand stand none 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15033
+day saturday~
+Saturday Night Live~
+Live from New York, it's Saturday Night!
+~
+No doubt about it, you have blundered stupidly onto a TV program.  You
+are embarrassed to suddenly notice the eyes of all the audience members
+staring at you.  At you and your ridiculous outfit.
+~
+unique~
+AB 0 0 0
+40 -2 15d10+1850 20d9+100 4d8+13 stab
+-13 -13 -13 6
+E 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15034
+afterglow glow~
+the afterglow~
+The afterglow raises its eyebrows at you mildly.
+~
+Smoking a cigarette and lounging on the bed dreamily, the afterglow
+gestures at the door, hoping you'll leave.
+~
+unique~
+ABR 0 0 0
+47 -1 25d10+1400 24d9+100 4d8+14 thrust
+-13 -13 -13 6
+FU AB C I
+rest rest none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15035
+month february valentine~
+a February Valentine~
+A February Valentine is here, shredding a daisy.
+~
+Chanting "Loves me, loves me not...", February pulls apart what is probably
+its 500th daisy.  There is already a perfect mess on the burnt-out grass at
+its feet.
+~
+unique~
+AB T 0 0
+41 -2 25d10+2000 21d9+100 4d8+14 stab
+-14 -14 -14 6
+EFNU 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15036
+month march hare~
+a Marching Hare~
+A Marching Hare is here, gesturing to an invisible marching band.
+~
+Winner of last year's Best Drum Major of the Fantasy Universe, and not
+one to rest on his laurels, the Hare continues to practice day and night,
+high-stepping and pumping his arms to the drum cadences that only he can
+hear...
+~
+rabbit~
+AB T 0 0
+42 -2 25d10+2250 21d9+100 3d12+14 pound
+-14 -14 -14 6
+EFHNU 0 0 0
+stand stand male 2000
+AGHJV ABCDEFHJK medium 0 the guilds~
+#15037
+month april fool~
+the April Fool~
+The April Fool is here, giggling stupidly at you.
+~
+"Would you like to buy a monkey?" he asks you with a gap-toothed grin.
+~
+unique~
+AB T 0 0
+43 -2 25d10+2500 22d9+100 3d12+15 charge
+-15 -15 -15 5
+EFNU 0 0 0
+stand stand none 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15038
+month may pole~
+May Pole~
+Stanley Kowalski, born in May, regards you solemnly.
+~
+"Yes, I was born May 15, 1947, in Krakow.", says he, narrowing his eyes
+slightly and looking as though your question wasn't very welcome.
+~
+unique~
+AB T 0 0
+43 -2 25d10+2500 22d9+100 3d12+15 charge
+-15 -15 -15 5
+EFNU 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15039
+month june bug~
+a June Bug~
+A June Bug eludes your analysis.
+~
+Knowing you solved the problem *last* June doesn't help you now as you
+ponder the bug anew, wondering which will come first:  You will go blind
+desk checking the program, or the bug will be successfully squashed.
+~
+centipede~
+AB TZ 0 0
+44 -3 25d10+2570 22d9+100 8d4+15 peck
+-15 -15 -15 5
+EFNU 0 FI E
+stand stand none 2000
+ABGHJMO ACDEFK medium 0 the guilds~
+#15040
+month july 4th~
+July 4th~
+July 4th waves the Stars and Stripes at you.
+~
+"Extra, extra, read all about it!" he shouts.  "I got the last copy they
+had at the newstand!  You won't believe the news...!"
+~
+unique~
+AB T 0 0
+44 -3 25d10+2570 22d9+100 8d4+15 slash
+-15 -15 -15 5
+EFNU 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15041
+month august heat~
+the August Heat~
+The August Heat shimmers here in waves.
+~
+Just a white-hot ball is all you can see.  And all you feel is furnace-
+like heat radiating outwards, threatening to melt the skin off your face.
+~
+unique~
+AB T 0 0
+45 -3 25d10+3000 23d9+100 8d4+16 crush
+-15 -15 -15 5
+EFNU 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15042
+month september early frost~
+the September Frost~
+The September Frost breathes mist into the air.
+~
+Though too early for the year, September has brought frost to the area
+and happily watches his breath turn to mist in the cold snap.
+~
+unique~
+AB 0 0 0
+46 -3 25d10+3250 23d9+100 6d6+16 slice
+-16 -16 -16 5
+EFNU 0 0 0
+stand stand male 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15043
+month october harvest~
+the October Harvest~
+The October Harvest displays a cornucopia of delights here.
+~
+Orange and red, yellow and green, October shows off all manner of good
+things that have been harvested from the earth.
+~
+unique~
+AB 0 0 0
+47 -3 25d10+3500 23d9+100 6d6+17 claw
+-17 -17 -17 5
+EFNU 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15044
+month november~
+November~
+November sulks here.
+~
+Knowing there's nothing special about November for most people, except
+for one good belly-buster of a meal for many North Americans, he contem-
+plates bare trees and brown ground and sighs.
+~
+unique~
+AB 0 0 0
+48 -3 25d10+3500 24d9+100 6d6+18 slice
+-18 -18 -18 5
+EFNU 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15045
+month december snows~
+the December Snows~
+The December Snows is here, pelting you with fluffy white stuff.
+~
+Bundled all in white, December snows freely upon you, watching the frozen
+flakes drifting to the ground in fascination and contentment.
+~
+unique~
+AB 0 0 0
+42 -2 25d10+2250 21d9+1000 3d12+14 slice
+-14 -14 -14 6
+EFNU 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15046
+season autumn~
+Autumn~
+Autumn glows here.
+~
+Dressed from head to foot in orange, brown, and red, Autumn surveys you
+silently and waits for your next move.
+~
+unique~
+ABR 0 0 0
+45 -3 25d10+3000 23d9+100 8d4+16 slice
+-15 -15 -15 5
+EFNU 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15047
+season spring~
+Spring~
+Spring blooms here.
+~
+Dressed from head to foot in green, Spring beams at you and assumes a
+karate posture.  Then she doubles over laughing.
+~
+unique~
+ABR 0 0 0
+45 -3 25d10+3000 23d9+100 8d4+16 slice
+-15 -15 -15 5
+EFNU 0 0 0
+stand stand female 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15048
+season winter~
+Winter~
+Winter freezes here.
+~
+Dressed from head to foot in silver and white, Winter regards you with
+chilly, ice-blue eyes.
+~
+unique~
+ABR 0 0 0
+45 -3 25d10+3000 23d9+100 8d4+16 slice
+-15 -15 -15 5
+EFNU 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15049
+season summer~
+Summer~
+Summer lazes here.
+~
+Dressed from head to foot in all colors of the rainbow, blue predominating,
+Summer looks you up and down with a sleepy gaze, nods, and waits.
+~
+unique~
+ABR 0 0 0
+45 -3 25d10+3000 23d9+100 8d4+16 slice
+-15 -15 -15 5
+EFNU 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15050
+season mean~
+the Mean Season~
+The Mean Season snarls here.
+~
+Dressed from head to foot in black, Mean Season is always in a black mood,
+as well.  "Hey, how would you like just one lousy month assigned to you,
+huh?  And keep your stinking mitts of it!"
+~
+unique~
+ABR 0 0 0
+48 -3 25d10+3750 24d9+100 6d6+18 slice
+-17 -17 -17 5
+EFNU 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15051
+matter timing~
+a matter of timing~
+A matter of timing is here, anxiously checking his watch.
+~
+Knowing the timing is critical, for whatever it is he is awaiting, this
+creature shifts nervously from foot to foot, eyeing his timepiece con-
+stantly and licking his dry, cracked lips.
+~
+unique~
+A 0 0 0
+36 -3 10d10+1400 18d9+100 3d10+11 slice
+-12 -12 -12 6
+EU 0 0 0
+stand stand none 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15052
+time itself~
+Time Itself~
+Time Itself is standing here.
+~
+<Insert your personal description of Time here>
+~
+unique~
+ABF 0 0 0
+57 -3 50d10+7000 0d0+0 10d4+23 crush
+-25 -25 -25 3
+DEFHIKN ABHIMa JKLMNPQ CO
+stand stand none 2500
+AHJMV ABCDEF medium 0 the guilds~
+#15053
+egg timer~
+an egg timer~
+An egg timer waddles by here.
+~
+An egg timer, looking sort of like a duck, waddles along with a cheery
+smile, waving at all who pass.
+~
+water fowl~
+A T 0 0
+32 -2 10d10+1000 16d9+100 6d4+9 peck
+-10 -10 -10 7
+EU 0 R 0
+stand stand none 1500
+AGHJMW ABCDEFHKP medium 0 the guilds~
+#15054
+thief time~
+the Thief of Time~
+The Thief of Time is here, eyeing your possessions.
+~
+Dressed all in black, from boots to sunglasses, and attempting to keep
+in the shadows, this ferret-faced person does everything possible to ruin
+your day, from attacking you, to stealing your money, to just looking
+ugly as sin.
+~
+human~
+AFHS DFPQZ -800 0
+42 -2 25d10+2250 21d9+100 3d12+14 stab
+-11 -11 -11 6
+B AB 0 0
+stand stand male 0
+AHJMV ABCDEFGHIJK medium 0 the guilds~
+#15055
+timely manner~
+a timely manner~
+A timely manner is here, watching you.
+~
+Never taking its eyes off your face, this creataure takes in every nuance
+of your expression, absorbing your smallest gestures, waiting for exactly
+the right moment to....
+~
+unique~
+A 0 0 0
+37 -3 10d10+1500 18d9+100 4d7+11 slice
+-11 -11 -11 6
+EFNU 0 0 0
+stand stand none 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15056
+well timed willed-timed gesture good will~
+a well-timed gesture of good will~
+A well-timed gesture ticks loudly here.
+~
+Leafing through the Book of Time, he pours over your records and considers
+what would be the exact right gesture for you, while what appears to be an
+oven timer imbedded in his chest ticks the seconds away.  You'd do best
+not to get it go off.
+~
+unique~
+AH 0 0 0
+38 -3 10d10+1600 19d9+100 5d6+12 charge
+-13 -13 -13 6
+EFNU 0 0 0
+stand stand male 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15057
+untimely death~
+Your Untimely Death~
+Your Untimely Death threatens you here.
+~
+Grinning widely, this creature looks exactly like you!  And it looks like
+it can't *wait* to kill you...
+~
+unique~
+ABFR 0 -800 0
+51 -2 50d10+5000 6d6+18 5d8+20 pierce
+-21 -21 -21 4
+BDEFIN AB 0 LQ
+stand stand none 2500
+AHJMV ABCDEF medium 0 the guilds~
+#15060
+time dinnertime~
+dinnertime~
+Dinnertime sits here on the stove.
+~
+Crabby as always this time of day, Dinnertime glares at you as if daring
+you to say or do anything to give him an excuse to attack you.
+~
+unique~
+ABF 0 -800 0
+49 -3 25d10+3750 24d9+100 6d6+18 claw
+-18 -18 -18 5
+CFNU AB 0 0
+sit sit male 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15061
+time lunchtime~
+lunchtime~
+Lunchtime stands here, making a sandwich.
+~
+Humming to herself, Lunchtime makes her sandwich efficiently and happily.
+Looks like banana, tuna, and sauerkraut.  She probably won't want fries
+with that.
+~
+unique~
+AB 0 -800 0
+49 -3 25d10+3750 24d9+100 6d6+18 slap
+-18 -18 -18 5
+CFN AB 0 0
+stand stand female 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15063
+breakfast time breakfast-time~
+Breakfast-Time~
+Breakfast-Time yawns here.
+~
+Looking as though she hasn't had her coffee yet, she nevertheless looks
+fit and well-rested.  You'd do well to think again if you're thinking of
+her as an easy target.
+~
+unique~
+AB 0 -800 0
+49 -3 25d10+3750 24d9+100 6d6+18 punch
+-18 -18 -18 5
+CFNU AB 0 0
+stand stand female 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15065
+late night late-night snack~
+a late-night snack~
+A late-night snack gazes blearily at you.
+~
+Looking stoned right out of its mind, this creature looks like a package
+of MalloMars.  Wait, more like a bag of Fritos.  No, it's a cheeseburger.
+Hmmm, well maybe some leftover pumpkin pie.  Or a pizza.  Well, hmmm...
+~
+unique~
+AB 0 -800 0
+49 -3 50d10+4000 24d9+100 4d6+9 scratch
+-12 -12 -12 6
+0 AB 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15066
+moment shining~
+one shining moment~
+One shining moment is here, polishing some brass.
+~
+One of your best memories, this moment is busily rubbing the carousel
+pole with a rag and some sort of goo.  Looking around you, you realize
+it's been shining everything in sight.
+~
+unique~
+AB 0 0 0
+38 -3 10d10+1600 19d9+100 5d6+12 bite
+-13 -13 -13 6
+FKN 0 0 0
+sit sit none 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15067
+moment defining~
+a Defining Moment~
+A Defining Moment studies a dictionary here.
+~
+A thesaurus under one arm and Barlett's Quotations held precariously
+under its chin, this moment that you remember as one of your most profound,
+is busy mouthing dictionary definitions under its breath.
+~
+unique~
+AB 0 0 0
+46 -3 25d10+3250 19d9+100 6d6+16 slice
+-16 -16 -16 5
+FN AB 0 0
+sit sit none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15068
+moment realization nasty~
+a Nasty Moment of Realization~
+A Nasty Moment of Realization grins evilly at you.
+~
+One of those terrible moments that you try to put out of your mind as
+soon as it arrives, it confronts you now with undisguised glee.
+~
+unique~
+AB 0 -500 0
+41 -2 25d10+2000 20d9+100 4d8+13 slice
+-13 -13 -13 6
+FN AB 0 0
+sit sit none 0
+AHJMV ABCDEF medium 0 the guilds~
+#15069
+moment truth~
+a Moment of Truth~
+A Moment of Truth is here.
+~
+It looks at you uncertainly, trying to determine whether this was a good
+or bad memory for you, but knowing what it would do should you attack.
+~
+unique~
+AB 0 0 0
+39 -2 10d10+1600 19d9+100 5d6+12 slice
+-13 -13 -13 6
+FN 0 0 0
+sit sit none 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15070
+moment opportune~
+an Opportune Moment~
+An Opportune Moment is laughing at you.
+~
+One of those moments when you didn't "take the bull by the balls",
+letting the opportunity pass you by, it sneers at you in derision.
+~
+unique~
+AB 0 0 0
+40 -2 15d10+1700 20d9+100 5d6+13 slice
+-13 -13 -13 6
+FN 0 0 0
+sit sit none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15071
+moment magic~
+a Magic Moment~
+A Magic Moment stares dreamily into space.
+~
+You can assign dozens of memories to this moment and you wonder which
+one it is thinking about right now.
+~
+unique~
+ABR 0 0 0
+41 -2 15d10+1850 21d9+100 4d8+13 slice
+-13 -13 -13 6
+FN 0 0 0
+sit sit none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15072
+awkward moment~
+an Awkward Moment~
+An Awkward Moment is hiccoughing here.
+~
+Anxious not to make yet another blunder, this moment eyes you warily,
+jerking up its arm every time you make a move.
+~
+unique~
+AB 0 0 0
+42 -2 25d10+2250 21d9+100 3d12+14 slice
+-14 -14 -14 6
+FN 0 0 0
+sit sit none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15073
+moment exhilarating~
+an Exhilarating Moment~
+An Exhilarating Moment is here, breathing into a paper bag.
+~
+Having hyperventilated for the 10th or 15th time today, this moment still
+smiles happily at you while trying to get its breathing back to normal.
+~
+unique~
+AB 0 0 0
+43 -2 25d10+2250 21d9+100 3d12+14 slice
+-14 -14 -14 6
+FN 0 0 0
+sit sit none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15074
+moment silence~
+a Moment of Silence~
+A Moment of Silence sits here quietly.
+~
+Putting a thin finger to its lips, it shakes its head and says "Shhhh!
+You're making way too much noise in here..."
+~
+unique~
+AB 0 0 0
+38 -2 10d10+1600 5d6+12 5d6+12 slice
+-13 -13 -13 6
+FKN AB 0 0
+sit sit none 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15075
+moment glory~
+a Moment of Glory~
+A Moment of Glory sits its horse triumphantly.
+~
+This moment doesn't happen often enough, does it?  It appraises you
+knowingly with a slight smile.
+~
+unique~
+AB 0 0 0
+40 -2 15d10+1850 20d9+100 4d8+13 slice
+-13 -13 -13 6
+FKN AB 0 0
+sit sit none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15076
+moment indecision~
+a Moment of Indecision~
+A Moment of Indecision frets here.
+~
+A moment of indecision, one of the most frequent moments you've experienced,
+sits here uncertainly.  Should it stay or flee?
+~
+unique~
+AB 0 0 0
+42 -2 25d10+2250 21d9+100 3d12+14 slice
+-12 -12 -12 6
+FKN 0 0 0
+sit sit none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15077
+moment most embarrassing~
+your most embarassing moment~
+Your most embarrassing moment sits here.
+~
+This moment stares at you and smirks at what you remember.  "So, you think
+no one ever died of embarrassment, eh?  You certainly have another think
+coming!
+~
+unique~
+AB 0 0 0
+43 -2 25d10+2500 22d9+100 3d12+15 slice
+-15 -15 -15 5
+FKN AB 0 0
+sit sit none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15078
+tick~
+a tick~
+A tick is here.
+~
+Not that kind of tick!  I ain't no bug!  Nor a facial problem.  Just
+leave me alone please...
+~
+unique~
+A T -500 0
+40 -3 15d10+1700 20d9+100 5d6+13 chop
+-13 -13 -13 6
+FNU AB 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15079
+tock~
+a tock~
+A tock is here.
+~
+See tick.
+~
+unique~
+A T -500 0
+40 -3 15d10+1700 20d9+100 5d6+13 chop
+-13 -13 -13 6
+FNU AB 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15080
+second hand~
+a second hand~
+A second hand moves swiftly here.
+~
+A second hand spurts around with jerky but sure gestures.  It looks at you
+expectantly, hoping for something positive, shrugs, and gets on with it-
+self.  You gotta move faster for this thing...
+~
+unique~
+AB 0 0 0
+48 -3 25d10+3500 24d9+100 6d6+17 slice
+-15 -15 -15 5
+EFN 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15081
+minute hand~
+a minute hand~
+A minute hand moves smoothly here.
+~
+A minute hand move smoothly and smartly here.  It seems to have itself
+in fine control and woe be to the one who thwarts its procedures.
+~
+unique~
+AB 0 0 0
+48 -3 25d10+3500 24d9+100 6d6+17 slice
+-17 -17 -17 5
+FN 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15082
+hour hand~
+an hour hand~
+An hour hand moves languidly here.
+~
+An hour hand gazes at you with glazed, boredom-dulled eyes.  It appears to
+believe it has all the time in the world to do its duties.  You would do
+well to take advantage.
+~
+unique~
+AB 0 0 0
+48 -4 25d10+3750 24d9+100 8d4+16 slice
+-15 -15 -15 5
+FN 0 0 0
+stand stand none 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15083
+roman numeral xii centurion~
+Roman Numeral XII~
+A Roman centurion stands stalwart here.
+~
+A Roman centurion with the Roman numeral XII painted crudely in orange
+on his chest stands here with stalwart assurance.
+~
+unique~
+ABT 0 -700 0
+45 -3 25d10+2750 22d9+100 8d4+15 slice
+-15 -15 -15 5
+EFN 0 0 0
+stand stand male 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15084
+roman numeral iii~
+Roman Numeral III~
+A Roman centurion stands stalwart here.
+~
+A Roman centurion with the Roman numberal III painted crudely in red
+on his chest stands here with stalwart assurance.
+~
+unique~
+ABT 0 0 0
+45 -3 25d10+2750 22d9+100 8d4+15 slice
+-15 -15 -15 5
+FN 0 0 0
+stand stand male 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15085
+roman numeral vi centurion~
+Roman Numeral VI~
+A Roman centurion stands stalwart here.
+~
+A Roman centurion with the Roman numeral VI painted crudely in green
+on his chest stands here with stalwart assurance.
+~
+unique~
+ABT 0 0 0
+45 -3 25d10+2750 22d9+100 0d0+0 slice
+-15 -15 -15 5
+FN 0 0 0
+stand stand male 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15086
+roman numeral ix~
+Roman Numeral IX~
+A Roman centurion stands stalwart here.
+~
+A Roman centurion with he Roman numerial IX painted crudely in blue
+on his chest stands here with stalwart assurance.
+~
+unique~
+ABT 0 0 0
+45 4 25d10+3000 1d1+100 8d4+16 slice
+-15 -15 -15 -5
+FN AB 0 0
+stand stand male 2000
+AHJMV ABCDEF medium 0 the guilds~
+#15087
+cuckoo~
+Cuckoo Cuckoo~
+A cuckoo cuckoo sits here, her eyes spinning wildly.
+~
+Good gawd!  This is the craziest-looking creature you've seen in a long
+while.  Eyes spinning crazily, wings flailing, she looks about to take
+flight, but considers the nest she is sitting on and, looking wildly
+from side to side, stays.  She looks anxiously at you for a sign of
+aggression.
+~
+song bird~
+AB T -800 0
+44 -3 25d10+2500 22d9+100 3d12+15 peck
+-15 -15 -15 5
+FHKN AB 0 0
+sit sit female 2000
+AGJMW ABCDEFHKP medium 0 the guilds~
+M death 15087 100~
+#15091
+moment reflection~
+a Moment of Reflection~
+A Moment of Reflection glances off your gaze here.
+~
+This moment is mirrored and covered with glass on every conceivable part
+of its body.  The glare and shine blinds you and you struggle to shield with
+your light against it.
+~
+unique~
+AF 0 0 0
+38 -3 10d10+1500 19d9+100 3d10+12 slice
+-12 -12 -12 6
+FNU 0 0 0
+sit sit none 1500
+AHJMV ABCDEF medium 0 the guilds~
+#15096
+vicious cycle~
+a vicious cycle~
+A vicious cycle is here, snarling at you.
+~
+A creature (thing?) that can only be described as a blurry whirlwind looks
+as though it is spinning out of control, head against feet, zooming through
+the air with great speed.  It certainly doesn't look very happy.  May as
+well put it out of its misery.
+~
+unique~
+ACF TV 0 0
+34 -2 10d10+1200 17d9+100 4d7+10 chomp
+-11 -11 -11 6
+EU 0 0 0
+stand stand none 0
+AHJMV ABCDEF small 0 the guilds~
+#15097
+glimmer hate~
+a glimmer of hate~
+A glimmer of hate flickers about.
+~
+A glimmer of light flickers in and out of existance
+around you. You duck as it dives towards your head.
+~
+wyvern~
+A DFOTVZ 0 0
+54 5 50d10+6500 1d1+100 7d6+22 chill
+-24 -24 -24 -24
+ACDFHN ABL 0 S
+stand stand none 10000
+ABGZ ACDEFHJKQVX large 0 the guilds~
+#15098
+first snowfall~
+{CFirst {WSnowfall{x~
+The {Cfirst {Wsnowfall{x of winter is here.
+~
+Hovering in the air, the first winter's snowfall is a rare sight. Capturing
+the power of the seasons change is an important step towards creating one of
+Samurai's katanas.
+~
+human~
+AGT CHNOTUZ 0 0
+40 20 10d10+3500 1d1+100 4d8+13 none
+-13 -13 -13 -13
+ACDEFHKMNO ABa CD 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15099
+observer time chimer~
+an observer mob~
+Observer: casts haste on control team
+~
+~
+human~
+ABGZ 0 0 0
+51 5 50d10+5000 1d1+99 5d8+20 none
+-21 -21 -21 -21
+0 ABCDa 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 15002 100~
+#0
+
+
+
+#OBJECTS
+#15000
+glass key glasskey~
+a glass key~
+A sparkling glass key has been left here.~
+glass~
+key 0 AO
+AE 0 0 0 0
+30 10 0 P
+#15001
+handful cocoa puffs~
+a handful of cocoa puffs~
+A handful of coca puffs breathe here.~
+chocolate~
+pill G A
+30 'fly' '(null)' '(null)' '(null)'
+0 0 3000 P
+#15002
+black top hat~
+a black top hat~
+A black top hat sits on its brim here.~
+~
+key GP AE
+0 0 0 0 0
+30 20 0 P
+A
+17 -5  
+A
+18 3  
+A
+19 3  
+E
+hat~
+This hat seemed ordinary at first, but looking at it again, you sense
+something distinctly odd about it...
+~
+#15003
+dropped stitch~
+a dropped stitch~
+Someone has dropped a stitch here.~
+~
+key 0 A
+AE 0 0 0 0
+30 10 0 P
+#15004
+brass ring prize brassring~
+the brass ring~
+You've captured the prize, the brass ring!~
+brass~
+key 0 AB
+0 0 0 0 0
+45 50 0 P
+A
+18 4  
+#15005
+icy key~
+an icy key~
+An icy key is frozen here.~
+~
+key 0 A
+AE 0 0 0 0
+40 10 0 P
+#15006
+jar rosy liquid~
+a tiny jar of rosy liquid~
+A very tiny jar of rosy-colored liquid gleams here.~
+~
+potion AG A
+45 'bless' 'shield' '(null)' '(null)'
+30 20 11000 P
+#15007
+centurion armbands bands~
+a set of Roman centurion arm bands~
+An extremely sturdy-looking set of arm bands rest here.~
+~
+armor 0 AIY
+10 10 10 2 0
+40 20 5000 P
+A
+12 10  
+A
+18 1  
+#15008
+centurion cape~
+a Roman centurion cape~
+A beautiful and strong golden cape has been left here.~
+~
+armor 0 ACY
+5 5 5 3 0
+40 100 5000 P
+A
+17 -6  
+A
+19 2  
+#15009
+centurion cloak~
+a Roman centurion cloak~
+A dark maroon cloak of heavy material has been carefully folded here.~
+~
+armor 0 AKY
+9 9 9 4 0
+40 100 5000 P
+A
+18 2  
+A
+5 1  
+#15010
+centurion torso~
+a Roman centurion torso~
+A sparkling torso of a golden-colored metal gleams before your eyes.~
+~
+armor 0 ADY
+9 9 9 2 0
+40 200 5000 P
+A
+1 2  
+A
+19 1  
+#15011
+second hand sword~
+a second hand~
+A silver sword shaped peculiarly like an arrow shines here.~
+brass~
+weapon BG ANY
+sword 6 6 slice I
+45 100 7000 P
+A
+4 1  
+A
+5 1  
+#15012
+minute hand dagger~
+a minute hand~
+A silver dagger shaped peculiarly like an arrow shines here.~
+~
+weapon BG ANY
+dagger 6 6 stab I
+45 30 7000 P
+A
+5 1  
+A
+4 1  
+#15013
+hour hand wand~
+an hour hand~
+A silver wand is here, shaped peculiarly like an arrow.~
+~
+wand ABGU AOY
+45 3 3 'cure disease' 0
+30 10 0 P
+#15014
+daytimer timer~
+a DayTimer~
+A DayTimer calendar book is here, filled with very neat handwriting.~
+~
+scroll BGY A
+45 'remove curse' '(null)' '(null)' '(null)'
+30 10 5000 P
+#15015
+golden pocket watch~
+a gold pocket watch~
+A large gold pocket watch with an extremely thick chain glints in your light.~
+~
+armor BG AL
+6 8 8 2 16
+35 10 10000 P
+A
+19 1  
+A
+13 25  
+#15016
+winter whip~
+a winter whip~
+A whip as pure and white as snow rests here.~
+~
+weapon AG AN
+whip 6 5 sting B
+42 30 5000 P
+A
+18 2  
+A
+2 2  
+#15017
+january deep freeze~
+a January Deep Freeze~
+A January Deep Freeze is here, humming...~
+~
+container BO P
+2000 ACD 15005 100 0
+0 1000 0 P
+#15018
+packet instant coffee~
+a packet of instant coffee~
+A packet of generic brand instant coffee gets old here.~
+~
+potion G A
+45 'giant strength' '(null)' '(null)' '(null)'
+40 10 5000 P
+#15019
+nightcap cap~
+a nightcap~
+A nightcap sits here, waiting to warm you.~
+~
+potion G A
+38 'sanctuary' 'refresh' '(null)' '(null)'
+30 20 5000 P
+#15020
+hourglass glass~
+an hourglass~
+An hourglass sits here with its sand run through.  Better turn it over.~
+~
+staff AFG AOY
+51 10 10 'floating disc' 0
+30 50 12000 P
+#15021
+ring witchcraft~
+a ring of witchcraft~
+A twisted band of something grisly-looking is nearby.~
+~
+jewelry BGMU AB
+0 0 0 0 0
+35 0 6000 P
+A
+20 -3  
+#15022
+baby blue banner bluebanner~
+a baby blue banner~
+A baby blue banner with the current year emblazoned in gold.~
+paper~
+scroll BG AO
+35 'cure serious' 'cure serious' '(null)' '(null)'
+30 20 13000 P
+#15023
+diaper~
+a diaper~
+A white diaper has been pinned carefully.~
+~
+armor 0 AF
+8 8 8 4 0
+30 30 6500 P
+A
+13 20  
+A
+12 20  
+#15024
+royal blue banner bluebanner~
+a royal blue banner~
+A royal blue banner with the current year emblazoned in white.~
+~
+scroll BG AK
+42 'armor' 'bless' '(null)' '(null)'
+30 20 7500 P
+#15025
+indigo banner bluebanner~
+an indigo banner~
+An indigo banner with the current year emblazoned in silver.~
+~
+scroll BG AK
+47 'cancellation' '(null)' '(null)' '(null)'
+30 20 8500 P
+#15026
+twisted cane~
+a twisted cane~
+A gnarled and twisted cane made of some rare wood rests here.~
+~
+wand FGI AO
+51 3 3 'pass door' 0
+45 30 6500 P
+#15027
+time protective aura~
+the protective aura of Time~
+The protective aura of Time waits here, ready to help.~
+~
+armor AGIY AQ
+12 12 12 6 0
+50 0 20000 P
+A
+19 2  
+A
+18 2  
+#15028
+mouthful sand~
+a mouthful of sand~
+Just about enough to fill your mouth and taste gritty.~
+~
+pill G A
+45 'stone skin' '(null)' '(null)' '(null)'
+40 5 0 P
+#15029
+goldpotion gold potiongold potion~
+potion of gold~
+A potion of gold shimmers here.~
+~
+potion AG A
+30 'heal' '(null)' '(null)' '(null)'
+30 100 10000 P
+E
+clock~
+You see an antique clock that is to die for...
+~
+#15030
+pinch thyme~
+a pinch of thyme scents the room~
+A pinch of thyme sends fragrant tendrils wafting through the air.~
+~
+pill GI A
+45 'cure blindness' 'cure critical' '(null)' '(null)'
+40 10 0 P
+#15031
+fragment time dagger knife~
+a fragment of time~
+A fragment of time has been splintered off for use as a dagger.~
+steel~
+weapon 0 ANY
+dagger 4 8 slash 0
+40 30 8000 P
+A
+19 3  
+A
+18 3  
+#15032
+bag time~
+the bag of Time~
+A small bag full of time has been dropped here.~
+leather~
+container 0 A
+50 0 0 5 100
+0 10 9 G
+#15033
+mace freezing~
+a freezing mace~
+An freezing mace is here, covered with ice.~
+wood~
+weapon B AN
+mace 5 8 frbite B
+50 25 250 P
+#15034
+winter spirit~
+the spirit of winter~
+The spirit of winter hovers here coldly.~
+wood~
+armor ABG AQY
+1 1 1 30 0
+30 20 5000 P
+A
+2 -1  
+A
+12 30  
+#15035
+majestic gold clock~
+a majestic {Ygold{x clock~
+A majestic {Ygold{x clock counts down the hours.~
+clockwork~
+wand BTYe AOZ
+25 5 5 'haste' 0
+20 0 20000 P
+A
+33 -1 N
+A
+4 1 D
+#0
+
+
+
+#ROOMS
+#15000
+Entrance to the Plane of Time.  Please read the sign.~
+You are walking in the air through a sort of mist through which you can barely
+see your hand in front of your face.  You have a vague feeling that north is
+the correct way to proceed, but you are completely overwhelmed by the idea that
+you should do a 'read sign' first.
+~
+0 4 0
+E
+sign~
+This is a very dangerous area for anyone under level 35 and extremely
+dangerous for under level 30.  Proceed with caution.
+~
+D0
+Exit ~
+door~
+0 0 15001
+D3
+Exit ~
+door~
+0 0 7700
+X midi/equinox5.mid~
+S
+#15001
+At the Pendulum~
+You note with interest that what appears to be a huge, wooden pendulum
+is swinging before you.  As you look up, you see a gigantic cuckoo clock,
+surely large enough for a giant to enter, and at least three stories
+high| You are confident that if you are quick, you can catch hold
+of the swinging pendulum and climb up to the entrance that you see at the
+base of the clock.
+~
+0 4 2
+E
+up~
+You see the entrance at the bottom of the clock.
+~
+D2
+Exit ~
+door~
+0 0 15000
+D4
+Exit ~
+door~
+0 0 15002
+S
+#15002
+On the Pendulum~
+You hold on for dear life as you are swung back and forth on the pendulum,
+trying to decide whether to continue upwards or jump back to the ground.
+You thought you saw the face of... a doll? peering down at you through
+the clock's opening.  You hope it was only your imagination.
+~
+0 4 3
+E
+up~
+You see the entrance at the bottom of the clock.
+~
+E
+down~
+You see the safety of the ground swaying beneath you.
+~
+D4
+Exit ~
+door~
+0 0 15003
+D5
+Exit ~
+door~
+0 0 15001
+S
+#15003
+Inside the Clock's Entrance~
+As you stand at the lip of the entrance, you stagger a bit, still dizzy
+from the experience.  There is a sign on the ceiling - you suppose because
+it was meant to be read on the climb up.  Before you, to the north, is a
+wooden door.  Openings to the east and west look dark and forbidding.
+~
+0 12 0
+E
+sign~
+Welcome to the Plane of Time!
+
+I'd like to take this opportunity to thank all those for their ideas and
+suggestions (especially Talmar) as well as the many legions of players who
+helped test (especially Fluzel).  In addition, let me thank all those mobs/
+rooms/objects that auditioned but weren't accepted, including:
+a Time-Honored Tradition
+the Children's Hour
+a Momentous Occasion
+
+Rebecca
+~
+E
+up~
+You see a sign.
+~
+E
+down~
+You see the safety of the ground.
+~
+E
+east~
+You see an eastward-leading tunnel.
+~
+E
+west~
+You see a westward-leading tunnel.
+~
+E
+north~
+You see a wooden doorway.
+~
+D0
+Exit ~
+door~
+1 15000 15004
+D1
+Exit ~
+door~
+0 0 15025
+D3
+Exit ~
+door~
+0 0 15005
+D5
+Exit ~
+down~
+0 0 15001
+S
+#15004
+In a tiny room~
+You find yourself in a tiny room, not much bigger than a closet.  There
+are cigar butts all over the floor and you can't believe the cigar stink
+in here...
+~
+0 9 0
+E
+south~
+You see a wooden door.
+~
+E
+up~
+You see a trap door.
+~
+D2
+Exit ~
+door~
+1 0 15003
+D4
+Exit ~
+door~
+1 15000 15044
+S
+#15005
+In the tunnel~
+You can hear the clickings and churnings of the workings of the clock.
+The further inside you are, the louder it becomes.  Although you are carrying
+a light, you find it difficult to see.
+~
+0 9 0
+E
+east~
+You see the entrance.
+~
+E
+west~
+You can't see much of anything.
+~
+D1
+Exit ~
+door~
+0 0 15003
+D3
+Exit ~
+door~
+0 0 15006
+S
+#15006
+In the tunnel~
+The grinding and steady tick-tock of the clock are beginning to get on your
+nerves. You reach forward with your hand to avoid walking into the wall that
+you just know is there...
+~
+0 9 0
+E
+east~
+You see a tunnel leading back to the entrance.
+~
+E
+north~
+You can't see much of anything.
+~
+D0
+Exit ~
+door~
+0 0 15007
+D1
+Exit ~
+door~
+0 0 15005
+S
+#15007
+Further inside the clock~
+Having bumped your head once, you are finding you have to duck sometimes
+and inch your way sideways other times in order to wend your way through all
+the gears and wheels and springs that are in constant motion.
+~
+0 9 0
+E
+north~
+You see a strange intersection.
+~
+E
+south~
+You see the dark tunnel.
+~
+D0
+Exit ~
+door~
+0 0 15008
+D2
+Exit ~
+door~
+0 0 15006
+S
+#15008
+At a strange intersection~
+Before you is a jumble of workings that look pretty forbidding.  Think
+about putting your Navigator Cap on.  To the east is a wooden doorway.
+Something tells you not to knock.
+~
+0 9 0
+E
+east~
+You see a wooden doorway.
+~
+E
+south~
+You see a tunnel.
+~
+E
+west~
+You see a bunch of shiny gears.
+~
+D1
+Exit ~
+door~
+1 0 15026
+D2
+Exit ~
+door~
+0 0 15007
+D3
+Exit ~
+door~
+0 0 15009
+S
+#15009
+Among the gears~
+Just more and more gears.  Try not to catch your armor.
+~
+0 9 0
+E
+south~
+You see a strange intersection.
+~
+E
+north~
+You see a bunch of shiny gears.
+~
+D0
+Exit ~
+door~
+0 0 15010
+D2
+Exit ~
+door~
+0 0 15008
+S
+#15010
+Among the gears~
+Just more and more gears.  Watch your fingers.
+~
+0 9 0
+E
+up~
+You see a bunch of shiny gears.
+~
+E
+west~
+You see a bunch of shiny gears.
+~
+D3
+Exit ~
+door~
+0 0 15009
+D4
+Exit ~
+door~
+0 0 15011
+S
+#15011
+Among the gears~
+Just more and more gears.  Don't trip, for heaven's sake...
+~
+0 9 0
+E
+south~
+You see a bunch of shiny gears.
+~
+E
+up~
+You see a bunch of shiny gears.
+~
+D2
+Exit ~
+door~
+0 0 15010
+D4
+Exit ~
+door~
+0 0 15012
+S
+#15012
+Among the gears~
+Just more and more gears.  Watch your head!
+~
+0 9 0
+E
+west~
+You see a bunch of shiny gears.
+~
+E
+3~
+~
+E
+south~
+You see a bunch of shiny gears.
+~
+D2
+Exit ~
+door~
+0 0 15013
+D3
+Exit ~
+door~
+0 0 15011
+S
+#15013
+Among the gears~
+Just more and more gears. You think you see a clearing-out ahead.
+~
+0 9 0
+E
+down~
+You see a bunch of shiny gears.
+~
+E
+up~
+You see one end of a tunnel.
+~
+E
+west~
+You see a bunch of shiny gears.
+~
+E
+3~
+~
+E
+south~
+You see a bunch of shiny gears.
+~
+D4
+Exit ~
+door~
+0 0 15012
+D5
+Exit ~
+door~
+0 0 15014
+S
+#15014
+Straight tunnel leading east~
+You can see straight down a tunnel heading east to what looks like
+another series of gears.  In the dimness, you think you see a figure
+hurrying away from you.  To the north is the nightmare of shiny gears.
+~
+0 9 0
+E
+east~
+You see a tunnel.
+~
+E
+north~
+You see a bunch of shiny gears.
+~
+D0
+Exit ~
+door~
+0 0 15013
+D1
+Exit ~
+door~
+0 0 15015
+S
+#15015
+Middle of an east/west tunnel~
+You can see the beginnings of the gear-works at either end of this
+tunnel. Right here would be a good place to stop and rest.  There
+are chinks in the wood to the south through which you see some hallways.
+There doesn't seem to be any way to get there from here.
+~
+0 9 0
+E
+west~
+You see a tunnel.
+~
+E
+east~
+You see a tunnel.
+~
+D1
+Exit ~
+door~
+0 0 15016
+D3
+Exit ~
+door~
+0 0 15014
+S
+#15016
+Straight tunnel leading west~
+You can see straight down a tunnel heading west to what looks like
+another series of gears.  In the dimness, you think you see a figure
+hurrying away from you.  To the north is the nightmare of bright gears.
+~
+0 9 0
+E
+west~
+You see a tunnel.
+~
+E
+north~
+You see a mass of bright gears.
+~
+D0
+Exit ~
+door~
+0 0 15017
+D3
+Exit ~
+door~
+0 0 15015
+S
+#15017
+Amid the gears~
+Just more and more gears.  You think you see a clearing-out ahead.
+~
+0 9 0
+E
+down~
+You see one end of a tunnel.
+~
+E
+up~
+You see a mass of bright gears.
+~
+D4
+Exit ~
+door~
+0 0 15018
+D5
+Exit ~
+door~
+0 0 15016
+S
+#15018
+Amid the gears~
+Just more and more gears.  Careful with your privates!
+~
+0 9 0
+E
+down~
+You see a mass of bright gears.
+~
+E
+west~
+You see a mass of bright gears.
+~
+D3
+Exit ~
+door~
+0 0 15017
+D5
+Exit ~
+door~
+0 0 15019
+S
+#15019
+Amid the gears~
+Just more and more gears.  Don't get pinched.
+~
+0 9 0
+E
+south~
+You see a mass of bright gears.
+~
+E
+north~
+You see a mass of bright gears.
+~
+D0
+Exit ~
+door~
+0 0 15018
+D2
+Exit ~
+door~
+0 0 15020
+S
+#15020
+Amid the gears~
+Just more and more gears.  Watch your step.
+~
+0 9 0
+E
+down~
+You see a mass of bright gears.
+~
+E
+east~
+You see a mass of bright gears.
+~
+D1
+Exit ~
+door~
+0 0 15019
+D5
+Exit ~
+door~
+0 0 15021
+S
+#15021
+Amid the gears~
+Just more and more gears.  You probably should shield your eyes from
+possible flying debris.
+~
+0 9 0
+E
+up~
+You see a mass of bright gears.
+~
+E
+west~
+You see a weird intersection.
+~
+D3
+Exit ~
+door~
+0 0 15022
+D4
+Exit ~
+door~
+0 0 15020
+S
+#15022
+At a weird intersection~
+Before you is a jungle of workings that look very dangerous.  You
+might want to take a long rest before venturing onward.  To the west
+is a wooden doorway.
+~
+0 9 0
+E
+west~
+You see a wooden doorway.
+~
+E
+south~
+You see a tunnel.
+~
+E
+north~
+You see a mass of bright gears.
+~
+D0
+Exit ~
+door~
+0 0 15021
+D2
+Exit ~
+door~
+0 0 15023
+D3
+Exit ~
+door~
+1 0 15028
+S
+#15023
+Further inside the clock~
+Having cracked your shin more than once, you are realizing you have to
+squish through sideways sometimes, other times you have to hunch way
+down to navigate through all the gears and wheels and springs that are
+perpetually moving.
+~
+0 9 0
+E
+south~
+You see a dark tunnel.
+~
+E
+north~
+You see a weird intersection.
+~
+D0
+Exit ~
+door~
+0 0 15022
+D2
+Exit ~
+door~
+0 0 15024
+S
+#15024
+In the tunnel~
+The clicking and constant ticking of the clock are starting to get on
+your nerves.  You put a hand in front of you to make sure you don't
+walk into anything.
+~
+0 9 0
+E
+west~
+You see a tunnel leading back to the entrance.
+~
+E
+north~
+You can't see much of anything.
+~
+D0
+Exit ~
+door~
+0 0 15023
+D3
+Exit ~
+door~
+0 0 15025
+S
+#15025
+In the tunnel~
+You can hear the continual noise of the motion of the clock the further
+inside you are.  Even with the light you are carrying, you find it hard
+to see.
+~
+0 4105 0
+E
+west~
+You see the entrance.
+~
+E
+east~
+You can't see much of anything
+~
+D1
+Exit ~
+door~
+0 0 15024
+D3
+Exit ~
+door~
+0 0 15003
+S
+#15026
+Accessway West~
+You are on a strip of flooring between two wooden doorways.  A third
+door is to the north and east of you.  It soon becomes apparent why
+all these doors are left closed.  You think you can make out a sign
+above the middle door.
+~
+0 9 0
+E
+west~
+You see a wooden doorway.
+~
+E
+east~
+You see more of the accessway.
+~
+D1
+Exit ~
+door~
+0 0 15027
+D3
+Exit ~
+door~
+1 0 15008
+S
+#15027
+Accessway~
+You are on a strip of flooring between two wooden doorways.  A third
+door is directly before you, to the north.  Over the door is a clearly-
+lettered sign.
+~
+0 9 0
+E
+west~
+You see the west side of the accessway.
+~
+E
+east~
+You see the east side of the accessway.
+~
+E
+sign~
+Entrance to the Calendar Zone of the Plane of Time
+First Floor
+~
+E
+north~
+You see a wooden doorway.
+~
+D0
+Exit ~
+door~
+1 0 15029
+D1
+Exit ~
+door~
+0 0 15028
+D3
+Exit ~
+door~
+0 0 15026
+S
+#15028
+Accessway East~
+You are on a strip of flooring between two wooden doorways.  A third
+door is to the north and west of you.  It soon becomes apparent why
+all these doors are left closed.  You think you can make out a sign
+above the middle door.
+~
+0 9 0
+E
+east~
+You see a wooden doorway.
+~
+E
+west~
+You see more of the accessway.
+~
+D1
+Exit ~
+door~
+1 0 15022
+D3
+Exit ~
+door~
+0 0 15027
+S
+#15029
+Misty portal~
+Suddenly disoriented, you step into mist.  You can't tell if it's a
+room or wide-open space, whether you are floating or standing on solid
+ground. You know there is a door here, or maybe you dreamed it when you
+were a child, and you search among your possessions for the key.
+~
+0 13 0
+E
+down~
+You are too disoriented to see.
+~
+E
+up~
+You are too disoriented to see.
+~
+E
+west~
+You are too disoriented to see.
+~
+E
+south~
+You are too disoriented to see.
+~
+E
+east~
+You are too disoriented to see.
+~
+E
+north~
+You are too disoriented to see.
+~
+D0
+Exit ~
+door~
+1 15002 15030
+S
+#15030
+In a hallway~
+You are in a hallway branching to the east and to the north.  There is
+absolutely nothing remarkable about these halls - slate grey paint, no
+furnishings. There is a door to your west.
+~
+0 9 0
+E
+west~
+You see a doorway.
+~
+E
+east~
+You see another hallway.
+~
+E
+north~
+You see another hallway.
+~
+D0
+Exit ~
+door~
+0 0 15032
+D1
+Exit ~
+door~
+0 0 15038
+D3
+Exit ~
+door~
+1 0 15031
+S
+#15031
+Sunday's Room~
+A mural of a rainy Sunday afternoon has been beautifully painted here,
+a vista through a window pane from a cozy, bright room.  The drizzle
+outdoors on the duck pond, blackening the trees with its wetness, is in
+sharp contrast to the comfortable feeling inside the room.  You wonder
+where the fireplace is, you feel it so strongly...
+~
+0 9 0
+E
+east~
+You see a doorway.
+~
+D1
+Exit ~
+door~
+1 0 15030
+S
+#15032
+In a hallway~
+You are in a hallway branching to the west and to the north.  You are
+amazed at the utter lack of character defining this area.  There is a
+door to the east.
+~
+0 9 0
+E
+west~
+You see another hallway.
+~
+E
+north~
+You see another hallway.
+~
+E
+east~
+You see a doorway.
+~
+D1
+Exit ~
+door~
+1 0 15033
+D2
+Exit ~
+door~
+0 0 15030
+D3
+Exit ~
+door~
+0 0 15034
+S
+#15033
+Monday's Room~
+Such confusion!  You never saw so many brightly colored toys and games
+in one place except in an actual toy store.  You see a set of drums
+in one corner, a TV and VCR in another, a paint set in a third, and
+a chair in the fourth, where Monday Blahs may or may not be found,
+depending upon whether he's managed to cheer himself up or not.
+~
+0 9 0
+E
+west~
+You see a doorway.
+~
+D3
+Exit ~
+door~
+1 0 15032
+S
+#15034
+In a hallway~
+You are in a hallway branching to the east and to the south.  The grey,
+boring walls look just the same wherever you look.  There is a door to
+the west.
+~
+0 9 0
+E
+west~
+You see a doorway.
+~
+E
+south~
+You see another hallway.
+~
+E
+east~
+You see another hallway.
+~
+D1
+Exit ~
+door~
+0 0 15032
+D2
+Exit ~
+door~
+0 0 15036
+D3
+Exit ~
+door~
+1 0 15035
+S
+#15035
+Tuesday's Room~
+You suppress the urge to cover your ears as soon as you enter,
+for from Tuesday's point of view, loud rock and roll is a way of life
+and the only thing that matters.  That and the weekend, of course...
+~
+0 9 0
+E
+east~
+You see a doorway.
+~
+D1
+Exit ~
+door~
+1 3 15034
+S
+#15036
+In a hallway~
+You are at the south end of a hallway going north.  You are not sur-
+prised to see yourself surrounded by grey walls.  There is a door to
+the south.
+~
+0 9 0
+E
+south~
+You see a doorway.
+~
+E
+north~
+You see another hallway.
+~
+D0
+Exit ~
+door~
+0 0 15034
+D2
+Exit ~
+door~
+1 0 15037
+S
+#15037
+Wednesday's Room~
+You grin as you realize that Wednesday is, of course, Hump Day.  A fine
+collection of framed photographs adorns the walls of this room, the
+only other furnishing being a king-sized waterbed.  You notice that Wed-
+nesday has the honored position of Humper in each one.
+~
+0 9 0
+E
+north~
+You see a doorway.
+~
+D0
+Exit ~
+door~
+1 0 15036
+S
+#15038
+In a hallway~
+You are in a hallway branching to the west and to the north.  The dull,
+grey walls continue on seemingly forever.  There is a door to the east.
+~
+0 9 0
+E
+~
+~
+E
+west~
+You see another hallway.
+~
+E
+east~
+You see a doorway.
+~
+E
+north~
+You see another hallway.
+~
+D0
+Exit ~
+door~
+0 0 15040
+D1
+Exit ~
+door~
+1 0 15039
+D3
+Exit ~
+door~
+0 0 15030
+S
+#15039
+Thursday's Room~
+Nothing whatsoever in this room, unless Thursday is...
+~
+0 9 0
+E
+west~
+You see a doorway.
+~
+D3
+Exit ~
+door~
+1 0 15038
+S
+#15040
+In a hallway~
+You are in a hallway branching to the east and to the south.  Grey,
+grey, dull, dull...
+~
+0 9 0
+E
+south~
+You see another hallway.
+~
+E
+east~
+You see another hallway.
+~
+E
+north~
+You see a doorway.
+~
+D0
+Exit ~
+door~
+1 0 15041
+D1
+Exit ~
+door~
+0 0 15042
+D2
+Exit ~
+door~
+0 0 15038
+S
+#15041
+Friday's Room~
+A pentagram is drawn in the middle of this room, which is the first thing
+you notice, that and the dozens of burning, black candles.  Gradually,
+you notice the blood-covered altar in one corner, next to a bookcase hold-
+ing scores, maybe hundreds, of books on witchcraft.  You turn to leave when
+you see the shadow move behind the scarlet curtain.
+~
+0 9 0
+E
+south~
+You see a doorway.
+~
+D2
+Exit ~
+door~
+1 0 15040
+S
+#15042
+In a hallway~
+You are at the east end of a hallway going west.  You sigh thinking
+that someone really ought to think about decorating this place a bit.
+~
+0 9 0
+E
+west~
+You see another hallway.
+~
+E
+north~
+You see a doorway.
+~
+D0
+Exit ~
+door~
+1 0 15043
+D3
+Exit ~
+door~
+0 0 15040
+S
+#15043
+Saturday's Room~
+You have the urge to turn and flee and close the door again as an
+important-looking person wearing a headset glares at you and motions
+for quiet.  You have blundered onto the NBC set at 30 Rockefeller
+Plaza!
+~
+0 9 0
+E
+south~
+You see a doorway.
+~
+D2
+Exit ~
+door~
+1 0 15042
+S
+#15044
+A tiny room~
+This tiny room is no larger than the one below it.  Middle-Aged Year
+must hate to be cooped up in here.  No wonder he's so testy.  No
+cigar butts, though.  Middle-Aged Year must have kicked the habit.
+Maybe he'll live to old age, after all.  There is a sign above the
+doorway to the south.
+~
+0 9 0
+E
+sign~
+Entrance to the Carousel of Time, where the precious Moments of Life ride
+around and around and around...
+~
+E
+up~
+You see a trapdoor.
+~
+E
+down~
+You see a trapdoor.
+~
+E
+south~
+You see a wooden doorway.
+~
+E
+north~
+You see a wooden doorway.
+~
+D0
+Exit ~
+door~
+1 0 15045
+D2
+Exit ~
+door~
+1 0 15133
+D4
+Exit ~
+door~
+1 15004 15096
+D5
+Exit ~
+door~
+1 15000 15004
+S
+#15045
+Time Warp!~
+No exit.  You're screwed!
+~
+0 13 0
+M 200 H 200
+S
+#15046
+The White Stallion~
+You are on the Carousel of Time regarding an exquisitely-painted
+carousel horse, snow white with silver mane and tail.  You are tempted
+to attack, then notice it is affixed to a pole and not, alas, alive at
+all.
+~
+0 9 0
+E
+north~
+You see a wooden door.
+~
+E
+west~
+On the carousel
+~
+E
+east~
+On the carousel.
+~
+E
+south~
+You can't quite see in there.
+~
+D1
+Exit ~
+door~
+0 0 15133
+D3
+Exit ~
+door~
+0 0 15049
+S
+#15047
+Cuckoo Cuckoo's Roost~
+You are disgusted to find yourself in what appears to be an extremely
+ancient nest, which is crammed to the rim with equal parts bird droppings
+and Cocoa Puffs.  As you look around, you can see your way back to the
+carousel to the north and you see the rear of the clock's face looming
+above you.
+~
+0 9 0
+E
+up~
+You see the clock face.
+~
+E
+north~
+You see the carousel.
+~
+D0
+Exit ~
+door~
+0 0 15133
+D4
+Exit ~
+door~
+0 0 15086
+S
+#15048
+The Blood Bay Mare~
+You are on the Carousel of Time before a beautiful carousel horse that
+must have taken ages to carve, the reddest of chestnut red with dark
+brown mane and tail.  Her eyes are so real-looking, you can hardly believe
+there is a pole rising out of her back.
+~
+0 9 0
+E
+east~
+On the carousel.
+~
+E
+west~
+On the carousel.
+~
+D1
+Exit ~
+door~
+0 0 15049
+D3
+Exit ~
+door~
+0 0 15053
+S
+#15049
+On the Carousel of Time~
+You are whirling around on the Carousel of Time.
+~
+0 9 0
+E
+east~
+On the carousel.
+~
+E
+n~
+On the carousel.
+~
+D1
+Exit ~
+door~
+0 0 15046
+D3
+Exit ~
+door~
+0 0 15048
+S
+#15050
+The Shetland Pony~
+You are on the Carousel of Time before a cute little fluffy dwarf of
+a horse that looks almost ready to jump off her pole and trot away.
+Creamy white with light brown mane and tail, you want to hug her 'til
+she pops...
+~
+0 9 0
+E
+north~
+On the carousel.
+~
+E
+south~
+On the carousel.
+~
+D1
+Exit ~
+door~
+0 0 15053
+D3
+Exit ~
+door~
+0 0 15058
+S
+#15051
+Little Grey Filly~
+You are on the Carousel of Time looking at a sweet-faced child of a
+horse that looks like she wants to come home with you, a uniform silvery-
+grey all over.  You offer her some of your rations, but then notice
+the all-too-familiar pole and you sigh.
+~
+0 9 0
+E
+north~
+On the carousel.
+~
+E
+south~
+On the carousel.
+~
+D1
+Exit ~
+door~
+0 0 15058
+D3
+Exit ~
+door~
+0 0 15062
+S
+#15052
+The Sad-Eyed Gelding~
+You are on the Carousel of Time looking at what is obviously a gelded
+horse, for the attention to detail on the workmanship is uncanny.  He
+is plain, though shiny-coated, brown with no distinguishing features.
+For once you are relieved to know this 'creature' is not sentient.
+~
+0 9 0
+E
+north~
+On the carousel.
+~
+E
+south~
+On the carousel.
+~
+D1
+Exit ~
+door~
+0 0 15062
+D3
+Exit ~
+door~
+0 0 15127
+S
+#15053
+On the Carousel of Time~
+You are whirling around on the Carousel of Time.
+~
+0 9 0
+E
+east~
+On the carousel.
+~
+E
+s~
+On the carousel.
+~
+D1
+Exit ~
+door~
+0 0 15048
+D3
+Exit ~
+door~
+0 0 15050
+S
+#15054
+The Golden Stallion~
+You are on the Carousel of Time eyeing a magnificant figure of a horse,
+with a coat of pure gold and mane and tail of coal black.  You stare in
+pure admiration for the workmanship, wishing he were real.
+~
+0 9 0
+E
+w~
+On the carousel.
+~
+E
+e~
+On the carousel.
+~
+D1
+Exit ~
+door~
+0 0 15127
+D3
+Exit ~
+door~
+0 0 15056
+S
+#15055
+The Bob-Tail Nag~
+You are on the Carousel of Time before a... a horse?  The artist's
+rendering of this Camptown Racetrack denezin is exactly the way you
+have always pictured it, perched on a pole.
+~
+0 9 0
+E
+s~
+On the carousel.
+~
+E
+3~
+On the carousel.
+~
+D1
+Exit ~
+door~
+0 0 15056
+D3
+Exit ~
+door~
+0 0 15128
+S
+#15056
+On the Carousel of Time~
+You are on the Carousel of Time between horses trying to analyze the
+strange feeling that has suddenly overtaken you.  You peer around yourself
+carefully in an effort to determine who, what, where, how, or why.
+~
+0 9 2
+E
+secret~
+You see faint outlines in the paint which might belong to a door.
+~
+E
+south~
+You see nothing special, not really...
+~
+E
+w~
+On the carousel.
+~
+E
+east~
+On the carousel.
+~
+D1
+Exit ~
+door~
+0 0 15054
+D2
+Exit ~
+door~
+1 0 15064
+D3
+Exit ~
+door~
+0 0 15055
+S
+#15057
+The Mustang~
+You are on the Carousel of Time gazing with delight at one of the
+prettiest 'painted ponies' you have ever seen, white with brown tail
+and mane, and very appealing brown markings on his body, a brown star
+adorning his forehead.
+~
+0 9 0
+E
+west~
+On the carousel.
+~
+E
+east~
+On the carousel
+~
+D1
+Exit ~
+door~
+0 0 15128
+D3
+Exit ~
+door~
+0 0 15129
+S
+#15058
+On the Carousel of Time~
+You are whirling around on the Carousel of Time.
+~
+0 9 0
+E
+w~
+On the carousel.
+~
+E
+south~
+On the carousel
+~
+D1
+Exit ~
+door~
+0 0 15050
+D3
+Exit ~
+door~
+0 0 15051
+S
+#15059
+The Black Unicorn~
+You are on the Carousel of Time regarding a pitch-black unicorn,
+something you never knew existed, although the artisan who rendered
+this piece may have just been using a bit of artistic license.  You
+notice that even the hooves and horn of this animal are made of something
+deep black.  Ebony perhaps.
+~
+0 9 0
+E
+south~
+On the carousel.
+~
+E
+north~
+On the carousel.
+~
+D1
+Exit ~
+door~
+0 0 15129
+D3
+Exit ~
+door~
+0 0 15130
+S
+#15060
+The Dappled Grey Mare~
+You are on the Carousel of Time before a small grey mare that seems
+to regard you solemnly, her coat dappled with darker grey spots, her
+mane and tail matching these.  You reach out to gently pat her soft-
+looking nose before realizing she's only plaster.
+~
+0 9 0
+E
+south~
+On the carousel.
+~
+E
+n~
+On the carousel.
+~
+D1
+Exit ~
+door~
+0 0 15130
+D3
+Exit ~
+door~
+0 0 15131
+S
+#15061
+The Clydesdale~
+You are on the Carousel of Time standing in awe before a stunning giant
+of a horse, his dark chestnut coat glistening in your light.  The long
+hair of his mane, tail, and the flowing hair over the hooves for which
+Clydesdales are reknowned, is coarse and black.  You nearly flee from fear
+until you notice that he, too, is not alive at all.
+~
+0 9 0
+E
+south~
+On the carousel.
+~
+E
+north~
+On the carousel.
+~
+D1
+Exit ~
+door~
+0 0 15131
+D3
+Exit ~
+door~
+0 0 15132
+S
+#15062
+On the Carousel of Time~
+You are whirling around on the Carousel of Time.
+~
+0 9 0
+E
+west~
+On the carousel.
+~
+E
+north~
+On the carousel.
+~
+D1
+Exit ~
+door~
+0 0 15051
+D3
+Exit ~
+door~
+0 0 15052
+S
+#15063
+The Roan Colt~
+You are on the Carousel of Time looking with curiousity at a small
+horse with a brown coat and black tail and mane.  If it weren't for
+the little one's obvious youth, you'd think he was going gray, for
+his coat is shot through with tiny white hairs.  You wonder why the
+artist would bother...
+~
+0 9 0
+E
+west~
+On the carousel.
+~
+E
+east~
+On the carousel.
+~
+D1
+Exit ~
+door~
+0 0 15132
+D3
+Exit ~
+door~
+0 0 15133
+S
+#15064
+Tunnel Entrance~
+You have discovered a dark tunnel that seems to go straight into the
+heart of the Carousel of Time.  Smooth white walls surround you as you
+move along.
+~
+0 9 0
+E
+south~
+A north/south tunnel.
+~
+E
+north~
+A secret doorway.
+~
+D0
+Exit ~
+door~
+1 0 15056
+D2
+Exit ~
+door~
+0 0 15065
+S
+#15065
+Inside a tunnel~
+You are travelling through a north/south tunnel with perfectly smooth,
+perfectly white walls, perfectly harmless-seeming.  But the strange
+feeling you got outside the entrance to this tunnel has increased at
+this point.
+~
+0 9 0
+E
+north~
+The tunnel entrance.
+~
+E
+south~
+A north/south tunnel.
+~
+D0
+Exit ~
+door~
+0 0 15064
+D2
+Exit ~
+door~
+0 0 15066
+S
+#15066
+A dead end~
+You find yourself at what appears to be the end of the tunnel, the place
+dark, the walls smooth, and nothing to distinguish it except a dopey-looking
+three-legged stool.  The feeling that has dogged you since you entered the
+tunnel is nearly unbearable now.
+~
+0 9 0
+E
+down~
+Is that another trapdoor?
+~
+E
+north~
+A north/south tunnel.
+~
+D0
+Exit ~
+door~
+0 0 15065
+D5
+Exit ~
+door~
+1 15003 15067
+S
+#15067
+Somewhere Under the Carousel~
+You seem to be in a void under the carousel.
+There is lettering on the floor.
+~
+0 9 0
+E
+sign~
+Entrance to the Calendar Zone of the Plane of Time
+Second Floor
+~
+E
+lettering~
+Entrance to the Calendar Zone of the Plane of Time
+Second Floor.
+~
+D5
+Exit ~
+door~
+1 0 15068
+S
+#15068
+Calendar Reception Room~
+This is a stuffy little room, furnished simply with a desk and chair,
+the walls painted bilge green, beige carpeting on the floor.  There are
+doors on each wall and on the floor, if you should dare to open them.
+~
+0 0 0
+E
+down~
+You see a black trapdoor.
+~
+E
+west~
+You see a white doorway.
+~
+E
+south~
+You see an orange doorway.
+~
+E
+east~
+You see a blue doorway.
+~
+E
+north~
+You see a green doorway.
+~
+D0
+Exit ~
+door~
+1 0 15070
+D1
+Exit ~
+door~
+1 0 15078
+D2
+Exit ~
+door~
+1 0 15082
+D3
+Exit ~
+door~
+1 0 15074
+D4
+Exit ~
+door~
+1 0 15067
+D5
+Exit ~
+door~
+1 0 15069
+S
+#15069
+Small Cubicle~
+This is where Mean Season usually can be found, jealously guarding
+its one month with ferocity.  Looking around, you see that it is not a
+place where you would normally want to spend alot of time.  Unless you
+had such a reason.
+~
+0 9 0
+E
+down~
+You see a trapdoor.
+~
+E
+up~
+You see a hole.
+~
+D4
+Exit ~
+door~
+1 0 15068
+D5
+Exit ~
+door~
+0 0 15126
+S
+#15070
+Spring's Area~
+It seems you have stepped outdoors into a fine spring day!  The air
+is balmy and fresh, a slight wind bringing the fragrance of a dozen
+different kinds of flowers to your senses.  The trees in the grove that
+surrounds you is beginning to show the buds of leaves on every branch.
+~
+0 0 3
+E
+west~
+You see a clearing.
+~
+E
+east~
+You see a clearing.
+~
+E
+north~
+You see a clearing.
+~
+D0
+Exit ~
+door~
+0 0 15071
+D1
+Exit ~
+door~
+0 0 15073
+D2
+Exit ~
+door~
+1 0 15068
+D3
+Exit ~
+door~
+0 0 15072
+S
+#15071
+A clearing.~
+You are in a clearing surrounded by newly-budding trees.
+~
+0 0 3
+E
+south~
+You see a grove of trees.
+~
+D2
+Exit ~
+door~
+0 0 15070
+S
+#15072
+A clearing.~
+You are in a clearing surrounding by newly-budding trees.
+~
+0 0 3
+E
+east~
+You see a grove of trees.
+~
+D1
+Exit ~
+door~
+0 0 15070
+S
+#15073
+A clearing.~
+You are in a clearing surrounded by newly-budding trees.
+~
+0 0 3
+E
+west~
+You see a grove of trees.
+~
+D3
+Exit ~
+door~
+0 0 15070
+S
+#15074
+Winter~
+You suddenly wish you had something warmer to wrap yourself in!  The
+air has become icy cold and bitter, a fierce wind bringing the temperature
+down at least a dozen degrees.  The trees in the grove that surrounds
+you are completely barren of leaves and stand starkly against
+the sky.
+~
+0 0 3
+E
+west~
+You see a clearing.
+~
+E
+south~
+You see a clearing.
+~
+E
+north~
+You see a clearing.
+~
+D0
+Exit ~
+door~
+0 0 15076
+D1
+Exit ~
+door~
+1 0 15068
+D2
+Exit ~
+door~
+0 0 15077
+D3
+Exit ~
+door~
+0 0 15075
+S
+#15075
+A clearing.~
+You are in clearing surrounded by naked trees.
+~
+0 0 3
+E
+east~
+You see a grove of trees.
+~
+D1
+Exit ~
+door~
+0 0 15074
+S
+#15076
+A clearing.~
+You are in clearing surrounded by naked trees.
+~
+0 0 3
+E
+south~
+You see a grove of trees.
+~
+E
+east~
+You see a grove of trees.
+~
+D2
+Exit ~
+door~
+0 0 15074
+S
+#15077
+A clearing.~
+You are in clearing surrounded by naked trees.
+~
+0 0 3
+E
+north~
+You see a grove of trees.
+~
+E
+east~
+You see a grove of trees.
+~
+D0
+Exit ~
+door~
+0 0 15074
+S
+#15078
+Summer's Area~
+It appears you have found yourself a beautiful summer afternoon, the
+shadows just beginning to lengthen.  A gentle breeze brings the smell
+of freshly-mown grass to your nostrils and the low buzz of bees somes
+from those bushes over there.  The trees in the grove that surrounds
+you are in full and glorious leaf.
+~
+0 0 0
+E
+north~
+You see a clearing.
+~
+D0
+Exit ~
+door~
+0 0 15079
+D1
+Exit ~
+door~
+0 0 15080
+D2
+Exit ~
+door~
+0 0 15081
+D3
+Exit ~
+door~
+1 0 15068
+S
+#15079
+A clearing.~
+You are in a clearing surrounded by full-leafed shade trees.
+~
+0 0 3
+E
+south~
+You see a grove of trees.
+~
+D2
+Exit ~
+door~
+0 0 15078
+S
+#15080
+A clearing.~
+You are in a clearing surrounded by full-leafed shade trees.
+~
+0 0 3
+E
+west~
+You see a grove of trees.
+~
+D3
+Exit ~
+door~
+0 0 15078
+S
+#15081
+A clearing.~
+You are in a clearing surrounded by full-leafed shade trees.
+~
+0 0 3
+E
+north~
+You see a grove of trees.
+~
+D0
+Exit ~
+door~
+0 0 15078
+S
+#15082
+Autumn's Area~
+You have stepped into a picture-perfect autumn morning, the sun shining
+brightly, white clouds floating mildly in the blue sky.  A brisk and
+cool breeze occasionally causes the grass to ripple at your feet.  The
+trees in the grove that surrounds you sport spectacularly orange and
+red and golden leaves.
+~
+0 0 0
+E
+west~
+You see a clearing
+~
+E
+south~
+You see a clearing.
+~
+E
+east~
+You see a clearing.
+~
+D0
+Exit ~
+door~
+1 0 15068
+D1
+Exit ~
+door~
+0 0 15085
+D2
+Exit ~
+door~
+0 0 15084
+D3
+Exit ~
+door~
+0 0 15083
+S
+#15083
+A clearing.~
+You are in a clearing surrounded by the blaze of fall-leaved trees.
+~
+0 0 3
+E
+east~
+You see a grove of trees.
+~
+D1
+Exit ~
+door~
+0 0 15082
+S
+#15084
+A clearing.~
+You are in a clearing surrounded by the blaze of fall-leaved trees.
+~
+0 0 3
+E
+north~
+You see a grove of trees.
+~
+D0
+Exit ~
+door~
+0 0 15082
+S
+#15085
+A clearing.~
+You are in a clearing surrounded by the blaze of fall-leaved trees.
+~
+0 0 3
+E
+west~
+You see a grove of trees.
+~
+D3
+Exit ~
+door~
+0 0 15082
+S
+#15086
+On the Bottom Rim of the Clock's Face~
+You are climbing the clock's face.  Below, you see the relative safety
+of the cuckoo's roost.  There seems to be a "path" up the face of the
+clock with something approaching hand-holds so that, even though the face
+can be seen all around you, the way seems easiest on this "path".
+~
+0 0 9
+E
+south~
+No south here to see - you are climbing!
+~
+E
+west~
+You see the clock's face.
+~
+E
+east~
+You see the clock's face.
+~
+E
+north~
+No north here to see.  You are climbing!
+~
+E
+down~
+You see the cuckoo's roost.
+~
+E
+up~
+You see the clock's face.
+~
+D4
+Exit ~
+door~
+0 0 15087
+D5
+Exit ~
+door~
+0 0 15047
+S
+#15087
+On the Clock's Face~
+You are climbing on the clock's face.  You can see the face's smooth,
+nearly featureless surface all around you, but the "path" continues above
+and beneath you.
+~
+0 0 9
+E
+west~
+You see the clock's face.
+~
+E
+south~
+No south here to see - you are climbing!
+~
+E
+east~
+You see the clock's face.
+~
+E
+north~
+No north here to see - you are climbing!
+~
+E
+up~
+You see the clock's face.
+~
+E
+down~
+You see the bottom rim of the clock's face.
+~
+D4
+Exit ~
+door~
+0 0 15088
+D5
+Exit ~
+door~
+0 0 15086
+S
+#15088
+On the Clock's Face~
+You are climbing on the clock's face.  More of the face's smooth surface
+can be seen all around you.  The "path" continues above, beneath, and to
+either side of you.  A beautiful engraving has been carved into the clock
+face.  
+~
+0 0 9
+E
+engraving~
+Wish you to hear the clock strike?  Collect, then, the hands
+of this clock, and all of its Roman Armour, and craft yourself a
+{umajestic gold clock{x.
+ 
+This, do you surrender to the cuckoo, and of that bird, a 
+sacrifice make.
+~
+E
+south~
+No south here to see - you are climbing!
+~
+E
+north~
+No north here to see - you are climbing!
+~
+E
+down~
+You see the clock's face.
+~
+E
+up~
+You see the clock's face.
+~
+E
+west~
+You see the clock's face.
+~
+E
+east~
+You see the clock's face.
+~
+D1
+Exit ~
+door~
+0 0 15089
+D3
+Exit ~
+door~
+0 0 15091
+D4
+Exit ~
+door~
+0 0 15093
+D5
+Exit ~
+door~
+0 0 15087
+S
+#15089
+On the Clock's Face~
+You are climbing on the clock's face.  More of the face's smooth surface
+can be seen all around you.  The "path" continues to either side of you.
+~
+0 0 9
+E
+up~
+You see the clock's face.
+~
+E
+west~
+You see the clock's face.
+~
+E
+south~
+No south here to see - you are climbing!
+~
+E
+east~
+You see the east rim of the clock's face.
+~
+E
+north~
+No north here to see - you are climbing!
+~
+E
+down~
+You see the clock's face - and something swirling down below.
+~
+D1
+Exit ~
+door~
+0 0 15090
+D3
+Exit ~
+door~
+0 0 15088
+D5
+Exit ~
+door~
+0 0 15045
+S
+#15090
+On the East Rim of the Clock's Face~
+You are climbing on the clock's face.  You have reached the east rim of
+the face itself and the only way back is on the "path" to the west.
+~
+0 0 9
+E
+up~
+You see the clock's face.
+~
+E
+south~
+No south here to see - you are climbing!
+~
+E
+west~
+You see the clock's face.
+~
+E
+east~
+You see oblivion.
+~
+E
+north~
+No north here to see - you are climbing!
+~
+E
+down~
+You see the clock's face - and something swirling down below.
+~
+D3
+Exit ~
+door~
+0 0 15089
+D5
+Exit ~
+door~
+0 0 15045
+S
+#15091
+On the Clock's Face~
+You are climbing on the clock's face.  More of the face's smooth surface
+can be seen all around you.  The "path" continues to either side of you.
+~
+0 0 9
+E
+west~
+You see the west rim of the clock's face.
+~
+E
+up~
+You see the clock's face.
+~
+E
+south~
+No south to see here - you are climbing!
+~
+E
+east~
+You see the clock's face.
+~
+E
+north~
+No north to see here - you are climbing!
+~
+E
+down~
+You see the clock's face - and something swirling down below.
+~
+D1
+Exit ~
+door~
+0 0 15088
+D3
+Exit ~
+door~
+0 0 15092
+D5
+Exit ~
+door~
+0 0 15045
+S
+#15092
+On the West Rim of the Clock's Face~
+You are climbing on the clock's face.  You have reached the west rim of
+the face itself and the only way back is on the "path" to the east.
+~
+0 0 9
+E
+up~
+You see the clock's face.
+~
+E
+west~
+You see oblivion.
+~
+E
+south~
+No south to see here - you are climbing!
+~
+E
+east~
+You see the clock's face.
+~
+E
+north~
+No north to see here - you are climbing!
+~
+E
+down~
+You see the clock's face - and something swirling down below.
+~
+D1
+Exit ~
+door~
+0 0 15091
+D5
+Exit ~
+door~
+0 0 15045
+S
+#15093
+On the Clock's Face~
+You are climbing on the clock's face.  You can see the face's smooth,
+nearly featureless surface all around you, but the "path" continues above
+and beneath you.
+~
+0 0 9
+E
+down~
+You see the clock's face.
+~
+E
+up~
+You see the clock's face.
+~
+E
+west~
+You see the clock's face.
+~
+E
+south~
+No south to see here - you are climbing!
+~
+E
+north~
+No north to see here - you are climbing!
+~
+E
+east~
+You see the clock's face.
+~
+D4
+Exit ~
+door~
+0 0 15094
+D5
+Exit ~
+door~
+0 0 15088
+S
+#15094
+On the Clock's Face~
+You are climbing on the clock's face.  More of the face's smooth, nearly
+featureless surface can be seen both above and beneath you.
+~
+0 0 9
+E
+down~
+You see the clock's face.
+~
+E
+west~
+You see the clock's face.
+~
+E
+south~
+No south to see here - you are climbing!
+~
+E
+east~
+You see the clock's face.
+~
+E
+north~
+No north to see here - you are climbing!
+~
+E
+up~
+You see the upper rim of the clock's face.
+~
+D4
+Exit ~
+door~
+0 0 15095
+D5
+Exit ~
+door~
+0 0 15093
+S
+#15095
+On the Upper Rim of the Clock's Face~
+You are climbing on the clock's face.  Above you, you see oblivion.
+There seems to be a "path" down the face of the clock with something
+approaching hand-holds so that, even though the face can be seen all
+around you, the way seems easiest on this "path".  There is nowhere to
+go but down here.  Or is there?
+~
+0 0 9
+E
+secret~
+You see a secret doorway to the north.
+~
+E
+down~
+You see the clock's face.
+~
+E
+up~
+You see oblivion.
+~
+E
+west~
+You see the clock's face.
+~
+E
+south~
+No south to see here - you are climbing!
+~
+E
+east~
+You see the clock's face.
+~
+E
+north secret~
+You see a secret door.
+~
+D0
+Exit ~
+door~
+1 0 15096
+D5
+Exit ~
+door~
+0 0 15094
+S
+#15096
+A Tiny Room~
+This tiny room is no larger than the one below it, or the one below that.
+What a place to spend one's old age!  There is a sign above the doorway
+to the north.
+~
+0 0 0
+E
+secret~
+You see a secret doorway to the south.
+~
+E
+south~
+You see a secret doorway.
+~
+E
+down~
+You see a trapdoor.
+~
+E
+sign~
+There *is* no Calendar Zone of the Plane of Time on this level!
+                          Get over it!
+~
+E
+north~
+You see a wooden doorway.
+~
+D0
+Exit ~
+door~
+1 0 15097
+D2
+Exit ~
+door~
+1 0 15095
+S
+#15097
+In a hallway~
+You are standing on a polished wooden floor that appears made of the finest
+maple.  Tapestries of rare silk hang on the walls around you.  Just to the
+north is an open doorway leading to another hallway.
+~
+0 0 0
+E
+south~
+You see a wooden doorway.
+~
+E
+west~
+You see the west end of this hallway.
+~
+E
+east~
+You see the east end of this hallway.
+~
+E
+north~
+You see another hallway.
+~
+D0
+Exit ~
+door~
+0 0 15098
+D2
+Exit ~
+door~
+0 0 15096
+D3
+Exit ~
+door~
+0 0 15134
+S
+#15098
+In a carpeted hallway.~
+You sink in deep pile, sky-blue carpeting nearly up to your ankles.  The
+hall is bathed in soft light from an unseen source.  You notice masterfully-
+painted portraits on the walls all about you, of humans and creatures un-
+known.
+~
+0 0 0
+E
+south~
+You see an open doorway.
+~
+E
+north~
+You see the carpeted hallway.
+~
+D0
+Exit ~
+door~
+0 0 15099
+D2
+Exit ~
+door~
+0 0 15097
+S
+#15099
+In a carpeted hallway~
+Your footfalls make no sound in this luxurious hallway.  You find yourself
+nearly holding your breath so as not to disturb the quiet.  You see an
+open door to the east, and the hallway continues both north and south.
+~
+0 0 0
+E
+south~
+You see the carpeted hallway.
+~
+E
+north~
+You see the carpeted hallway.
+~
+D0
+Exit ~
+door~
+0 0 15106
+D1
+Exit ~
+door~
+0 0 15100
+D2
+Exit ~
+door~
+0 0 15098
+S
+#15100
+In the lounge~
+You find yourself in a spacious lounge appointed with only the finest of
+leather and wood furnishings and the rarest of Persian rugs.  There are
+several cozy conversation niches, and you see a cold fireplace immediately
+opposite from you.
+~
+0 0 0
+D0
+Exit ~
+door~
+0 0 15101
+D1
+Exit ~
+door~
+0 0 15103
+D2
+Exit ~
+door~
+0 0 15102
+D3
+Exit ~
+door~
+0 0 15099
+S
+#15101
+In the lounge~
+You are in the northwest corner of the lounge, surrounded by several very
+comfortable-looking leather chairs.  Within easy reach is a large bookcase
+full of rare books, which blocks your way to the immediate east.
+~
+0 0 0
+D2
+Exit ~
+door~
+0 0 15100
+S
+#15102
+In the lounge~
+You are in the southwest corner of the lounge regarding a maple-wood cabinet
+full of delicate figurines, which blocks your way to the immediate east.  An
+enormous leather sofa looks good for a nap later...
+~
+0 0 0
+D0
+Exit ~
+door~
+0 0 15100
+S
+#15103
+In the lounge~
+You stand before a beautiful marble fireplace, which has a pile of kindling
+and firewood all ready to be lit.  On the mantle are arrayed a dozen or so
+antique clocks that look exceedingly fragile.
+~
+0 0 0
+D0
+Exit ~
+door~
+0 0 15104
+D2
+Exit ~
+door~
+0 0 15105
+D3
+Exit ~
+door~
+0 0 15100
+S
+#15104
+In the lounge~
+You are in the northeast corner of the lounge before a fully-equipped,
+leather-padded bar.  The bartender is.... who?  The bar blocks your way
+to the immediate west.
+~
+0 0 0
+D2
+Exit ~
+door~
+0 0 15103
+S
+#15105
+In the lounge~
+You are in the southeast corner of the lounge by a small dining table and
+chairs.  A large sideboard, which is crammed with amazing and rare china
+and silver, blocks your way to the immediate west.
+~
+0 0 0
+D0
+Exit ~
+door~
+0 0 15103
+S
+#15106
+In a carpeted hallway~
+You continue silently along the carpeted hallway, keeping watch for strange
+creatures.  You can see the hallway to the north and south and another open
+doorway to the west.
+~
+0 0 0
+D0
+Exit ~
+door~
+0 0 15107
+D2
+Exit ~
+door~
+0 0 15099
+D3
+Exit ~
+door~
+0 0 15117
+S
+#15107
+In a carpeted hallway~
+Moving through the soft carpeting, the hallway continuing to the north and
+south, you see another hall branching off to the east.
+~
+0 0 0
+D0
+Exit ~
+door~
+0 0 15114
+D1
+Exit ~
+door~
+0 0 15108
+D2
+Exit ~
+door~
+0 0 15106
+S
+#15108
+In a carpeted hallway~
+This seems to the the bedroom wing of this floor.  You see several doors
+further to the east and two of them to the north and south.
+~
+0 0 0
+D0
+Exit ~
+door~
+1 0 15112
+D1
+Exit ~
+door~
+0 0 15109
+D2
+Exit ~
+door~
+1 0 15110
+D3
+Exit ~
+door~
+0 0 15107
+S
+#15109
+In a carpeted hallway~
+At the end of the carpeted hallway, there is nowhere to go but west.  Unless
+you choose to examine what's behind the doors to the north and south.
+~
+0 0 0
+D0
+Exit ~
+door~
+1 0 15113
+D2
+Exit ~
+door~
+1 0 15111
+D3
+Exit ~
+door~
+0 0 15108
+S
+#15110
+In a darkened bedroom~
+Not much to see, just your standard bedroom: a bed, a lamp on a nightstand,
+a chair in the corner, dresser against one wall.  Some people just aren't
+very particular.
+~
+0 0 0
+D0
+Exit ~
+door~
+1 0 15108
+S
+#15111
+In a darkened bedroom~
+Hmmm.  Generally empty except for a few cushions thrown on the floor and
+a battered futon stashed in the corner.  Maybe it's storage, or maybe
+somebody likes roughing it.
+~
+0 0 0
+D0
+Exit ~
+door~
+1 0 15109
+S
+#15112
+In a darkened bedroom~
+Ah, a love nest!  An elaborate heart-shaped waterbed is against one wall
+with brocade pillows thrown around.  A wet bar is in one corner and a TV
+and VCR are in another.  You glance at the titles of some of the videos
+and quail at the depravity.
+~
+0 0 0
+D2
+Exit ~
+door~
+1 0 15108
+S
+#15113
+In a darkened bedroom~
+Another simple soul decorated this room.  A single bed is against one wall
+and a nightstand holds a lava lamp.  The closet door is open and you see
+hopelessly outdated clothing hanging from the hangers.
+~
+0 0 0
+D2
+Exit ~
+door~
+1 0 15109
+S
+#15114
+In a carpeted hallway~
+It might be your imagination, but the carpeting seems darker here from
+the sky-blue of further south.  You can see the hallway continue to the
+north and to the south.
+~
+0 0 0
+D0
+Exit ~
+door~
+0 0 15115
+D2
+Exit ~
+door~
+0 0 15107
+S
+#15115
+In a carpeted hallway~
+You seem to have reached the end of the carpeted hallway.  You see some
+kind of ambient light emanating from above and fear something strange and
+new.  Looking to the south, you see familiarity.
+~
+0 0 0
+D2
+Exit ~
+door~
+0 0 15114
+D4
+Exit ~
+door~
+0 0 15116
+D5
+~
+~
+1 0 15135
+S
+#15116
+Climbing into a light~
+You find yourself in a sort of void.  Although the path is apparent, there
+are no walls and you can't feel what you are walking on.  The light is more
+intense from above and the carpeted hallway is down below you.
+~
+0 0 1
+D4
+Exit ~
+door~
+0 0 15122
+D5
+Exit ~
+door~
+0 0 15115
+S
+#15117
+In the kitchen~
+You are in a kitchen that is the most messy and disgusting that you have
+ever seen.  The floor is filthy, the sink makes you wretch, and... Is
+that a cockroach over there?  Must be that these folks just don't have the
+time...
+~
+0 0 0
+D0
+Exit ~
+door~
+0 0 15121
+D1
+Exit ~
+door~
+0 0 15106
+D3
+Exit ~
+door~
+0 0 15118
+S
+#15118
+At the kitchen counter~
+Jelly-smeared and looking a bit moldy, you regard this counter with a
+shudder.  You study the dirty plates and the glasses full of sludge
+piled here and wonder if they need a maid.
+~
+0 0 0
+D0
+Exit ~
+door~
+0 0 15119
+D1
+Exit ~
+door~
+0 0 15117
+S
+#15119
+At the kitchen sink~
+EEEWWWWWW!
+~
+0 0 0
+D0
+Exit ~
+door~
+0 0 15120
+D2
+Exit ~
+door~
+0 0 15118
+S
+#15120
+At the fridge~
+Your standard fridge.  Not too bad looking, but you think you probably
+wouldn't want to look inside.
+~
+0 0 0
+D1
+Exit ~
+door~
+0 0 15121
+D2
+Exit ~
+door~
+0 0 15119
+S
+#15121
+At the stove~
+You look at the crud-encrusted burners, the spaghetti-sauce slopped top,
+the grease-spattered overhead and vow never to open the oven.
+~
+0 0 0
+D2
+Exit ~
+door~
+0 0 15117
+D3
+Exit ~
+door~
+0 0 15120
+S
+#15122
+Climbing into the light~
+You are in a strange kind of void.  You can see how to proceed, but
+there is only space around you, above and beneath you.  The light becomes
+brighter above and less intense below.
+~
+0 0 1
+D4
+Exit ~
+door~
+0 0 15123
+D5
+Exit ~
+door~
+0 0 15116
+S
+#15123
+In the light~
+You are standing in what you can only describe as a pool of light,
+surrounding you on all sides, with seemingly no source.  If you go up,
+you might be blinded, as the light is even more intense from that
+direction.
+~
+0 0 1
+D4
+Exit ~
+door~
+0 0 15124
+D5
+Exit ~
+door~
+0 0 15122
+S
+#15124
+Into a blinding light~
+Shielding your eyes as best you can from the brilliant, bright light that
+you find yourself in, you can still make out which directions you can take.
+If you go up, prepare for worse.
+~
+0 0 1
+D4
+Exit ~
+door~
+0 0 15125
+D5
+Exit ~
+door~
+0 0 15123
+S
+#15125
+In a blinding light!~
+The pain in your eyes is nearly unbearable as you squint and try to
+shield them.  You can barely see.  It appears that if you go down, the
+brilliance will lessen.
+~
+0 0 1
+D5
+Exit ~
+door~
+0 0 15124
+S
+#15126
+Month of Sundays' Room~
+On the wall you see a calendar for the current month showing 30 Sundays
+straight down in a column, each one marked "Weekly Meeting" in red crayon.
+You see a closet in one wall with at least a score of well-tailored suits,
+all clearly marked "Sunday Best".
+~
+0 0 0
+D4
+Exit ~
+door~
+0 0 15069
+S
+#15127
+On the Carousel of Time~
+You are whirling around on the Carousel of Time.
+~
+0 0 0
+D1
+Exit ~
+door~
+0 0 15052
+D3
+Exit ~
+door~
+0 0 15054
+S
+#15128
+On the Carousel of Time~
+You are whirling around on the Carousel of Time.
+~
+0 0 0
+D1
+Exit ~
+door~
+0 0 15055
+D3
+Exit ~
+door~
+0 0 15057
+S
+#15129
+On the Carousel of Time~
+You are whirling around on the Carousel of Time.
+~
+0 0 0
+D1
+Exit ~
+door~
+0 0 15057
+D3
+Exit ~
+door~
+0 0 15059
+S
+#15130
+On the Carousel of Time~
+You are whirling around on the Carousel of Time.
+~
+0 0 0
+D1
+Exit ~
+door~
+0 0 15059
+D3
+Exit ~
+door~
+0 0 15060
+S
+#15131
+On the Carousel of Time~
+You are whirling around on the Carousel of Time.
+~
+0 0 0
+D1
+Exit ~
+door~
+0 0 15060
+D3
+Exit ~
+door~
+0 0 15061
+S
+#15132
+On the Carousel of Time~
+You are whirling around on the Carousel of Time.
+~
+0 0 0
+D1
+Exit ~
+door~
+0 0 15061
+D3
+Exit ~
+door~
+0 0 15063
+S
+#15133
+On the Carousel of Time~
+You are whirling around on the Carousel of Time.
+~
+0 0 0
+D0
+Exit ~
+door~
+1 0 15044
+D1
+Exit ~
+door~
+0 0 15063
+D2
+Exit ~
+door~
+0 0 15047
+D3
+Exit ~
+door~
+0 0 15046
+S
+#15134
+End of the hallway~
+Walking carefully on the polished floor, you are at the west end of this
+hallway.  No place to go but east, you study the many portraits and the
+tapestries with admiration.
+~
+0 0 0
+D1
+Exit ~
+door~
+0 0 15097
+S
+#15135
+A Pocket of Time~
+You enter a small pocket of time.  Lights whirl around your head and you
+start to spin.  You notice how everything to pause and stop suddenly. 
+Looking around you feal pricklies up your spine.  
+~
+0 524300 0
+D4
+~
+~
+1 0 15115
+M 110 H 110
+S
+#0
+
+
+
+#SPECIALS
+M 15011 spec_cast_judge Load to: Father Time
+M 15016 spec_cast_cleric Load to: Dawn
+M 15025 spec_breath_acid Load to: a Leap Year
+M 15032 spec_cast_mage Load to: Friday the 13th
+M 15034 spec_cast_mage Load to: the afterglow
+M 15035 spec_breath_frost Load to: a February Valentine
+M 15040 spec_breath_fire Load to: July 4th
+M 15041 spec_breath_fire Load to: the August Heat
+M 15042 spec_breath_frost Load to: the September Frost
+M 15044 spec_breath_any Load to: November
+M 15045 spec_breath_frost Load to: the December Snows
+M 15046 spec_cast_mage Load to: Autumn
+M 15047 spec_cast_mage Load to: Spring
+M 15048 spec_cast_mage Load to: Winter
+M 15049 spec_cast_mage Load to: Summer
+M 15050 spec_cast_mage Load to: the Mean Season
+M 15052 spec_breath_lightning Load to: Time Itself
+M 15054 spec_thief Load to: the Thief of Time
+M 15057 spec_cast_mage Load to: Your Untimely Death
+M 15071 spec_cast_mage Load to: a Magic Moment
+S
+
+
+
+#MOBPROGS
+#15002
+if control $n
+mob echoat $n The clock strikes as you pass by.  You feel Invigorated
+mob cast refresh $n
+mob cast haste $n
+endif
+~
+A
+#15087
+if carries $i 15035
+mob echo Just as the cuckoo hits the ground, the clock begins to sound...
+mob zecho {gThe clock strikes, and all of Time rumbles.{x
+mob junk majestic
+mob control_chr $n
+endif
+~
+A
+#0
+
+#RESETS
+D 0 15003 0 1
+D 0 15004 2 1
+D 0 15004 4 2
+D 0 15008 1 1
+D 0 15022 3 1
+D 0 15026 3 1
+D 0 15027 0 1
+D 0 15028 1 1
+D 0 15029 0 2
+D 0 15030 3 1
+D 0 15031 1 1
+D 0 15032 1 1
+D 0 15033 3 1
+D 0 15034 3 1
+D 0 15035 1 1
+D 0 15036 2 1
+D 0 15037 0 1
+D 0 15038 1 1
+D 0 15039 3 1
+D 0 15040 0 1
+D 0 15041 2 1
+D 0 15042 0 1
+D 0 15043 2 1
+D 0 15044 0 1
+D 0 15044 2 1
+D 0 15044 4 2
+D 0 15044 5 2
+D 0 15056 2 1
+D 0 15066 5 2
+D 0 15067 5 1
+D 0 15068 0 1
+D 0 15068 1 1
+D 0 15068 2 1
+D 0 15068 3 1
+D 0 15068 4 1
+D 0 15068 5 1
+D 0 15069 4 1
+D 0 15070 2 1
+D 0 15074 1 1
+D 0 15078 3 1
+D 0 15082 0 1
+D 0 15095 0 1
+D 0 15096 0 1
+D 0 15096 2 1
+D 0 15108 0 1
+D 0 15108 2 1
+D 0 15109 0 1
+D 0 15109 2 1
+D 0 15110 0 1
+D 0 15111 0 1
+D 0 15112 2 1
+D 0 15113 2 1
+D 0 15115 5 1
+D 0 15133 0 1
+D 0 15135 4 1
+M 1 15099 1 15003 1
+M 1 15001 1 15004 1
+E 0 15023 0 7
+G 0 15022 0
+M 1 15005 4 15005 1
+M 1 15004 3 15005 1
+M 1 15006 3 15006 1
+G 0 15029 0
+M 1 15007 2 15007 1
+M 1 15053 5 15008 2
+M 1 15053 5 15008 2
+M 1 15004 3 15009 1
+M 1 15006 3 15010 1
+G 0 15029 0
+M 1 15005 4 15010 1
+M 1 15004 3 15013 1
+M 1 15051 1 15015 1
+M 1 15012 1 15015 1
+E 0 15015 0 13
+E 0 15002 0 6
+M 1 15053 5 15016 2
+M 1 15053 5 15016 2
+M 1 15055 1 15017 1
+M 1 15007 2 15017 1
+M 1 15056 1 15019 1
+M 1 15091 1 15019 1
+G 0 15000 0
+M 1 15053 5 15019 1
+M 1 15006 3 15021 1
+G 0 15029 0
+M 1 15008 1 15024 1
+M 1 15005 4 15025 2
+M 1 15005 4 15025 2
+M 1 15096 1 15028 1
+M 1 15010 1 15028 1
+M 1 15024 2 15030 2
+M 1 15024 2 15030 2
+M 1 15027 1 15031 1
+M 1 15028 1 15033 1
+M 1 15029 1 15035 1
+M 1 15023 2 15036 1
+M 1 15030 1 15037 1
+M 1 15031 1 15039 1
+M 1 15023 2 15040 1
+M 1 15032 1 15041 1
+E 0 15021 0 1
+M 1 15033 1 15043 1
+M 1 15002 1 15044 1
+G 0 15024 0
+M 1 15066 1 15046 1
+M 1 15087 1 15047 1
+G 0 15001 0
+M 1 15074 1 15048 1
+M 1 15067 1 15050 1
+M 1 15069 1 15051 1
+M 1 15070 1 15052 1
+M 1 15075 1 15054 1
+M 1 15071 1 15055 1
+M 1 15068 1 15057 1
+M 1 15072 1 15059 1
+M 1 15076 1 15060 1
+M 1 15073 1 15061 1
+M 1 15077 1 15063 1
+M 1 15019 1 15066 1
+G 0 15003 0
+M 1 15050 1 15069 1
+M 1 15047 1 15070 1
+G 0 15030 0
+M 1 15038 1 15071 1
+M 1 15036 1 15072 1
+M 1 15037 1 15073 1
+M 1 15048 1 15074 1
+G 0 15005 0
+O 0 15017 0 15075
+P 0 15016 -1 15017 1
+C 5 percent for next reset
+M 1 15098 1 15076 1
+E 0 15034 0 18
+M 1 15045 1 15076 1
+M 1 15035 1 15077 1
+M 1 15049 1 15078 1
+M 1 15041 1 15079 1
+M 1 15040 1 15080 1
+M 1 15039 1 15081 1
+M 1 15046 1 15082 1
+M 1 15043 1 15083 1
+M 1 15044 1 15084 1
+M 1 15042 1 15085 1
+M 1 15085 1 15086 1
+E 0 15009 0 12
+M 1 15082 1 15088 1
+E 0 15013 0 17
+M 1 15081 1 15088 1
+E 0 15012 0 16
+M 1 15080 1 15088 1
+E 0 15011 0 16
+M 1 15079 4 15090 2
+M 1 15079 4 15090 2
+M 1 15086 1 15090 1
+E 0 15010 0 5
+M 1 15078 4 15092 1
+M 1 15079 4 15092 1
+M 1 15084 1 15092 1
+E 0 15008 0 3
+M 1 15078 4 15093 1
+M 1 15079 4 15093 1
+M 1 15083 1 15094 1
+E 0 15007 0 10
+M 1 15078 4 15095 2
+M 1 15078 4 15095 2
+M 1 15025 1 15096 1
+G 0 15030 0
+M 1 15003 1 15096 1
+G 0 15025 0
+E 0 15026 0 17
+O 0 15000 0 15096
+O 0 15002 0 15096
+M 1 15022 1 15098 1
+M 1 15017 1 15101 1
+G 0 15018 0
+M 1 15020 1 15102 1
+M 1 15018 1 15103 1
+M 1 15057 1 15105 1
+M 1 15021 1 15108 1
+G 0 15019 0
+M 1 15034 1 15110 1
+M 1 15014 1 15112 1
+G 0 15028 0
+M 1 15009 1 15112 1
+M 1 15013 1 15113 1
+M 1 15015 1 15114 1
+M 1 15016 1 15115 1
+G 0 15006 0
+M 1 15061 1 15118 1
+M 1 15065 1 15119 1
+M 1 15063 1 15120 1
+M 1 15060 1 15121 1
+M 1 15011 1 15123 1
+G 0 15014 0
+E 0 15020 0 17
+M 1 15052 1 15125 1
+E 0 15032 0 17
+P 0 15027 5 15032 1
+M 1 15026 1 15126 1
+M 1 15054 1 15127 1
+G 0 15004 0
+G 0 15031 0
+M 1 15097 1 15135 1
+E 0 15033 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,1638 @@
+#AREADATA
+Name Plains of Death~
+Builders Myles~
+VNUMs 20600 20699
+Credits { None} Myles   Plains of Death~
+Security 1
+Xcontinent 1
+Age 11
+End
+
+
+
+#MOBILES
+#20600
+Cassandra dealer woman young~
+Cassandra~
+Cassandra the casino dealer is here waiting to deal you in.
+~
+Here stands a young woman.  She is quite beautiful.
+~
+human~
+ABL TZ 0 0
+30 0 6d12+835 0d0+0 4d6+8 thwack
+11 11 11 11
+FH 0 EH 0
+stand stand female 500
+AGHMV ABCDEFGHIJKQV medium fur
+#20602
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#20605
+passenger pigeons~
+the passenger pigeon~
+The passenger pigeon flies here carrying an important message
+~
+A small grey pigeon flaps his wings here and tiredly comes to rest on the ground by your feet.  Attached to his foot is an important-looking message bound for some officer, holding important instructions.
+He looks at you through pale and sad eyes and almost pleads for help.  Ypou are his only chance to get him away from here.,  He is tired and frightened and wants to go home.
+~
+song bird~
+AG T 0 0
+11 1 2d8+134 1d1+100 1d10+2 none
+1 1 1 1
+FH A 0 0
+stand stand none 500
+AGW ACDEFHKP small 0
+#20620
+passenger pigeon~
+the passenger pigeon~
+The passenger pigeon flies here, carrying an important message.
+~
+A small grey pigeon flaps his wings here and tiredly comes to a rest on the ground by your feet.  Attached to his foot is an important-looking message bound for some officer, holding important instructions.
+He looks at you through pale and sad eyes and almost pleads for help.  You are his only chance to get him away from here.  He's tired and frightened and wants to go home.
+~
+song bird~
+AG T 0 0
+11 1 2d8+134 1d1+100 1d10+2 peck
+1 1 1 1
+FH A 0 0
+stand stand none 500
+AGW ACDEFHKP medium 0
+#20624
+guard soldier ghost~
+The ghost of a soldier~
+The ghost of a soldier dozes here on guard.
+~
+Here dozes a long dead soldier.  He wears no medals on his chest and looks quite young.  It seems that his lot in life was to make sure that nobody got by without permission.
+Suddenly, his eyes open and he says, "Hey you, where do you think you're going?  The General's in there and he's asked not to be disturbed."  He takes a second look at you and says "Get out of here, you.  How do I know you're not a spy?"
+~
+human~
+ABCO T 0 0
+13 1 2d10+170 0d0+0 2d5+3 pound
+8 8 8 8
+EFT A 0 0
+rest rest male 300
+AHLMV ABCDEFGHIJK medium air
+#20626
+ghost general~
+The General~
+The ghost of the General is here planning his next attack
+~
+The ghost of a long-dead general stands here at a rectangular table, solemnly brooding over a map of the surrounding territory.  He is an old man with a frings of grey hair and light blue eyes that hold a look of deep sorrow and sadness.
+He wears the traditional dress of the Troll and Sliver army and is dressed with many different medals.  For a moment, he looks up and stares into space blankly, and then concentrates on the map again.
+~
+human~
+ABF T 0 0
+16 1 3d9+233 1d1+100 2d6+4 slash
+-2 -2 -2 -2
+CN A 0 0
+stand stand male 1000
+AHLMV ABCDEFGHIJK medium 0
+#20628
+ghost soldier enthusiastic~
+the ghost of the enthusiastic soldier~
+The ghost of an enthusiastic soldier is here, watching for trouble.
+~
+The ghost of a young and enthusiastic soldier stands here, watching for danger in the lands below.  He is quite young and looks like he was just assigned to this post, and is very excited about being given such an important job.
+He scans the horizon and then discovers you in the room, and jumps to attention and salutes.
+~
+human~
+AB 0 0 0
+12 1 2d10+150 1d1+100 1d10+3 pound
+0 0 0 0
+EF A 0 0
+stand stand male 200
+AHLMV ABCDEFGHIJK medium air
+#20644
+ghost soldier guard encampment~
+The encampment guard~
+The ghost of the guard stands here proudly.
+~
+A tall and muscular guard is here making sure that no enemies come into the encampment.  He stares at you through icy blue eyes, and almost seems to challenge you.
+This guard has been dead for some time now, but his ghost remains here, continuing the task that he had done as a mortal.
+~
+human~
+ABO T 0 0
+13 1 2d10+170 1d1+100 2d5+3 pound
+-1 -1 -1 -1
+EFJQ A 0 0
+stand stand none 600
+AHLMV ABCDEFGHIJK medium air
+#20653
+name POW guard ghost~
+The POW guard~
+The guard to the prisioner of war area is keeping an eye on the prisioners.
+~
+The guard of the prisioner of war area stands before you, half awake, ensuring that nobody escapes and nobody enters.  Judging by his face,
+it looks like this man is fairly old and lacks the vigor that he once had in his youth.  Now, there is nothing left of him except his spirit, which has the eternal task of guarding the P.O.W. camp.
+~
+human~
+ABO Tb 0 0
+17 1 3d9+258 1d1+100 3d4+4 beating
+-3 -3 -3 -3
+EFIJ A 0 0
+stand stand none 700
+AHLMV ABCDEFGHIJK medium air
+#20686
+ghost warden prisioner war~
+the P.O.W. Warden~
+The ghost of the Prisioner of War Warden has been looking for you!
+~
+The ghost of the warden from the prisioner of war area has been looking for you and now that he's found you, you're going to get it!  Chances are, he's going to lock you up in "the box" for a while.
+He has dark eyes with bags underneath them from a lack of sleep and his arm is in a sling, a wound from a stray bullet.  He is quite muscular and fairly intimidating.  His hair is dirty and matted, and he looks a little bit weary.
+"MARCH!" he orders, pushing you along, harshly.
+~
+human~
+ABF T 0 0
+20 2 3d9+333 1d1+100 2d8+5 none
+-4 -4 -4 -4
+EFN A 0 0
+stand stand none 100
+AHILMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#20600
+the fridge~
+the fridge~
+A fridge towers here, beckoning you to come and get a drink.~
+enamel~
+container BM 0
+100 AC 0 40 0
+0 100 0 P
+#20601
+carrot juice~
+Myles's carrot juice~
+Carrot juice: shaken, not stirred - the delight of any bunny.~
+glass~
+drink 0 A
+50 50 'orange juice' 0 0
+30 5 10 P
+#20602
+wooden table~
+The wooden table~
+A large rectangular wooden table stands here~
+wood~
+furniture M 0
+0 100 N 0 0
+0 20000 0 P
+#20603
+cookie's cookies~
+one of Cookie's {Bdelicious{x cookies~
+A platter of gorgeously decorated cookies call out to you!~
+food~
+food 0 A
+2 5 0 0 0
+0 1 0 P
+#20605
+plans captain battle~
+The Captanin's battle plans~
+The Captain's top secret battle plans have been carefuly rolled up here.~
+paper~
+scroll 0 AO
+10 'armor' 'bless' 'change sex' '(null)'
+0 20 500 P
+#20624
+A rusted iron key~
+a rusty iron key~
+A really old, really rusty key lies here.~
+iron~
+key 0 A
+0 0 0 0 0
+0 7 0 P
+#20626
+general's sword~
+The General's Sword~
+The General's well kept sword shimmers in the light.~
+steel~
+weapon 0 AN
+sword 1 5 slice 0
+16 70 100 P
+#20635
+battered blue smurf~
+A Battered {BBlue{x Smurf~
+A little {Bblue{x smurf lies here unconscious on the ground~
+bone~
+weapon I AN
+exotic 10 50 smash DF
+54 21 0 P
+#20642
+black tin binoculars~
+a pair of black binoculars~
+Attched to a long strap are a pair of black tin binoculars.~
+tin~
+armor 0 AC
+6 0 5 4 0
+12 60 5000 P
+#20644
+heavy lead key~
+A heavy lead key~
+An old heavy key made of lead lies here~
+lead~
+key 0 A
+0 0 0 0 0
+13 200 10 P
+#20653
+iron key~
+the heavy iron key~
+A large, heavy iron key hangs here from a large round keychain~
+iron~
+key 0 AO
+0 0 0 0 0
+10 32 10 P
+#20686
+army pair boots~
+a pair of army boots~
+A heavy pair of army boots lie here, caked in mud.~
+leather~
+armor I AG
+3 5 8 1 0
+0 80 321 P
+#0
+
+
+
+#ROOMS
+#20600
+{BM{Ry{Bl{Re{Bs{R'{Bs {RS{Be{Rc{Br{Re{Bt {RC{Bl{Ru{Bb{Rh{Bo{Ru{Bs{Re{x~
+Wow!  What a great clubhouse!  Don't you wish you were part
+of the {YI {RL{ro{Rv{re {YMyle Club{x?  Maybe if you suck up a whole lot...
+As you look around, you realize that this place has everything!
+There's a nice cumfy-looking leather couch in one corner of the room.
+And check out all of the pictures on the walls!  There's
+all kinds of cool stuff...Suddenly, a
+familiar song meets your ears and you start to
+dance wildly beside the massive sound system that
+is set up.
+~
+0 32780 0
+M 500 H 500
+S
+#20601
+On the Battlefield **~
+~
+0 0 2
+D0
+~
+~
+0 0 20615
+D1
+~
+~
+0 0 20602
+D2
+~
+~
+0 0 20603
+M 0 H 0
+S
+#20602
+On the Battlefield.~
+~
+0 0 2
+D0
+~
+~
+0 0 20616
+D1
+~
+~
+0 0 20605
+D2
+~
+~
+0 0 20604
+D3
+~
+~
+0 0 20601
+M 0 H 0
+S
+#20603
+On the Battlefield~
+~
+0 0 2
+D0
+~
+~
+0 0 20601
+D1
+~
+~
+0 0 20604
+D2
+~
+~
+0 0 20622
+M 0 H 0
+S
+#20604
+On the Battlefield~
+~
+0 0 2
+D0
+~
+~
+0 0 20602
+D1
+~
+~
+0 0 20606
+D3
+~
+~
+0 0 20603
+M 0 H 0
+S
+#20605
+On the Battlefield.~
+~
+0 0 2
+D0
+~
+~
+0 0 20617
+D1
+~
+~
+0 0 20607
+D2
+~
+~
+0 0 20606
+D3
+~
+~
+0 0 20602
+M 0 H 0
+S
+#20606
+On the Battlefield~
+~
+0 0 2
+D0
+~
+~
+0 0 20605
+D1
+~
+~
+0 0 20608
+D3
+~
+~
+0 0 20604
+D5
+~
+~
+0 0 20623
+M 0 H 0
+S
+#20607
+On the Battlefield.~
+~
+0 0 2
+D0
+~
+~
+0 0 20618
+D1
+~
+~
+0 0 20609
+D2
+~
+~
+0 0 20608
+D3
+~
+~
+0 0 20605
+M 0 H 0
+S
+#20608
+On the Battlefield~
+~
+0 0 2
+D0
+~
+~
+0 0 20607
+D1
+~
+~
+0 0 20610
+D3
+~
+~
+0 0 20606
+M 0 H 0
+S
+#20609
+On the Battlefield~
+~
+0 0 2
+D0
+~
+~
+0 0 20619
+D1
+~
+~
+0 0 20611
+D2
+~
+~
+0 0 20610
+D3
+~
+~
+0 0 20607
+M 0 H 0
+S
+#20610
+On the Battlefield~
+~
+0 0 2
+D0
+~
+~
+0 0 20609
+D1
+~
+~
+0 0 20612
+D3
+~
+~
+0 0 20608
+M 0 H 0
+S
+#20611
+On the Battlefield~
+~
+0 0 2
+D0
+~
+~
+0 0 20620
+D1
+~
+~
+0 0 20613
+D2
+~
+~
+0 0 20612
+D3
+~
+~
+0 0 20609
+M 0 H 0
+S
+#20612
+On the Battlefield~
+~
+0 0 2
+D0
+~
+~
+0 0 20611
+D1
+~
+~
+0 0 20614
+D3
+~
+~
+0 0 20610
+M 0 H 0
+S
+#20613
+On the Battlefield~
+~
+0 0 2
+D0
+~
+~
+0 0 20621
+D2
+~
+~
+0 0 20614
+D3
+~
+~
+0 0 20611
+M 0 H 0
+S
+#20614
+On the Battlefield~
+~
+0 0 2
+D0
+~
+~
+0 0 20613
+D3
+~
+~
+0 0 20612
+M 0 H 0
+S
+#20615
+On the Battlefield~
+~
+0 0 2
+D1
+~
+~
+0 0 20616
+D2
+~
+~
+0 0 20601
+M 0 H 0
+S
+#20616
+On the Battlefield~
+~
+0 0 2
+D0
+~
+~
+0 0 20668
+D1
+~
+~
+0 0 20617
+D2
+~
+~
+0 0 20602
+D3
+~
+~
+0 0 20615
+M 0 H 0
+S
+#20617
+On the Battlefield~
+~
+0 0 2
+D1
+~
+~
+0 0 20618
+D2
+~
+~
+0 0 20605
+D3
+~
+~
+0 0 20616
+M 0 H 0
+S
+#20618
+On the Battlefield~
+~
+0 0 2
+D1
+~
+~
+0 0 20619
+D2
+~
+~
+0 0 20607
+D3
+~
+~
+0 0 20617
+M 0 H 0
+S
+#20619
+On the Battlefield~
+~
+0 0 2
+D1
+~
+~
+0 0 20620
+D2
+~
+~
+0 0 20609
+D3
+~
+~
+0 0 20618
+M 0 H 0
+S
+#20620
+On the Battlefield~
+~
+0 0 2
+D1
+~
+~
+0 0 20621
+D2
+~
+~
+0 0 20611
+D3
+~
+~
+0 0 20619
+D5
+~
+~
+0 0 20665
+M 0 H 0
+S
+#20621
+On the Battlefield~
+~
+0 0 2
+D2
+~
+~
+0 0 20613
+D3
+~
+~
+0 0 20620
+M 0 H 0
+S
+#20622
+A Well-Worn Path.~
+~
+0 0 2
+D0
+~
+~
+0 0 20603
+D2
+~
+~
+0 0 20627
+M 0 H 0
+S
+#20623
+In a Bunker~
+~
+0 0 2
+D1
+~
+~
+0 0 20624
+D3
+~
+~
+0 0 20625
+D4
+~
+~
+0 0 20606
+M 0 H 0
+S
+#20624
+In a Bunker~
+blah blah blah blah...a door is to the east.
+ 
+~
+0 0 2
+D1
+~
+~
+1 20624 20626
+D3
+~
+~
+0 0 20623
+M 0 H 0
+S
+#20625
+In a Bunker~
+~
+0 0 2
+D1
+~
+~
+0 0 20623
+M 0 H 0
+S
+#20626
+The General's Planning Room~
+~
+0 0 2
+D3
+~
+~
+1 0 20624
+M 0 H 0
+S
+#20627
+The Bottom of the Watch Tower.~
+~
+0 0 2
+D0
+~
+~
+0 0 20622
+D1
+~
+~
+0 0 20645
+D2
+~
+~
+0 0 20629
+D4
+~
+~
+0 0 20628
+M 0 H 0
+S
+#20628
+In the Watch Tower.~
+~
+0 0 0
+D5
+~
+~
+0 0 20627
+M 0 H 0
+S
+#20629
+Outside the Encampment Walls~
+~
+0 0 2
+D0
+~
+~
+0 0 20627
+D2
+~
+~
+0 0 20630
+M 0 H 0
+S
+#20630
+Outside the Encampment Walls.~
+~
+0 0 2
+D0
+~
+~
+0 0 20629
+D2
+~
+~
+0 0 20631
+M 0 H 0
+S
+#20631
+Outside the Encampment Walls.~
+~
+0 0 2
+D0
+~
+~
+0 0 20630
+D2
+~
+~
+0 0 20632
+M 0 H 0
+S
+#20632
+Outside the Encampment Walls~
+~
+0 0 2
+D0
+~
+~
+0 0 20631
+D1
+~
+~
+0 0 20633
+M 0 H 0
+S
+#20633
+Outside the Encampment Walls~
+~
+0 0 2
+D1
+~
+~
+0 0 20634
+D3
+~
+~
+0 0 20632
+M 0 H 0
+S
+#20634
+The Southern Gate.~
+blah blah blah...there is a door to the north....and it'll lock too!
+~
+0 0 2
+D0
+~
+~
+1 20644 20648
+D1
+~
+~
+0 0 20636
+D3
+~
+~
+0 0 20633
+M 0 H 0
+S
+#20635
+~
+~
+0 4 0
+M 0 H 0
+S
+#20636
+Outside the Encampment Walls.~
+~
+0 0 2
+D1
+~
+~
+0 0 20637
+D3
+~
+~
+0 0 20634
+M 0 H 0
+S
+#20637
+Outside the Encampment Walls.~
+~
+0 0 2
+D0
+~
+~
+0 0 20638
+D3
+~
+~
+0 0 20636
+M 0 H 0
+S
+#20638
+Outside the Encampment Walls.~
+~
+0 0 2
+D0
+~
+~
+0 0 20639
+D2
+~
+~
+0 0 20637
+M 0 H 0
+S
+#20639
+Outside the Encampment Walls.~
+~
+0 0 2
+D0
+~
+~
+0 0 20640
+D2
+~
+~
+0 0 20638
+M 0 H 0
+S
+#20640
+Outside the Encampment Walls.~
+~
+0 0 2
+D0
+~
+~
+0 0 20641
+D2
+~
+~
+0 0 20639
+M 0 H 0
+S
+#20641
+The Bottom of the Guard Tower.~
+~
+0 0 2
+D2
+~
+~
+0 0 20640
+D3
+~
+~
+0 0 20643
+D4
+~
+~
+0 0 20642
+M 0 H 0
+S
+#20642
+In the Watchtower.~
+~
+0 0 0
+D5
+~
+~
+0 0 20641
+M 0 H 0
+S
+#20643
+Outside the Encampment Walls.~
+~
+0 0 2
+D1
+~
+~
+0 0 20641
+D3
+~
+~
+0 0 20644
+M 0 H 0
+S
+#20644
+The Encampment's Main Gate.~
+blah blah blah...door...blah blah..it'll lock eventually!
+~
+0 0 2
+D1
+~
+~
+0 0 20643
+D2
+~
+~
+1 20644 20646
+D3
+~
+~
+0 0 20645
+M 0 H 0
+S
+#20645
+Outside the Encampment Walls.~
+~
+0 0 0
+D1
+~
+~
+0 0 20644
+D3
+~
+~
+0 0 20627
+M 0 H 0
+S
+#20646
+Inside the Troll and Sliver Camp~
+~
+0 0 1
+D0
+~
+~
+1 0 20644
+D1
+~
+~
+0 0 20649
+D2
+~
+~
+0 0 20647
+D3
+~
+~
+0 0 20650
+M 0 H 0
+S
+#20647
+Along the Encampment Road~
+~
+0 0 1
+D0
+~
+~
+0 0 20646
+D1
+~
+~
+0 0 20651
+D2
+~
+~
+0 0 20648
+D3
+~
+~
+0 0 20652
+M 0 H 0
+S
+#20648
+On the Encampment Road~
+~
+0 0 1
+D0
+~
+~
+0 0 20647
+D1
+~
+~
+0 0 20653
+D2
+~
+~
+1 0 20634
+D3
+~
+~
+0 0 20654
+M 0 H 0
+S
+#20649
+The Kitchen Tent~
+~
+0 0 1
+D3
+~
+~
+0 0 20646
+M 0 H 0
+S
+#20650
+The Barracks~
+~
+0 0 1
+D1
+~
+~
+0 0 20646
+M 0 H 0
+S
+#20651
+The Weapons Tent~
+~
+0 0 1
+D3
+~
+~
+0 0 20647
+M 0 H 0
+S
+#20652
+The Bar~
+~
+0 0 1
+D1
+~
+~
+0 0 20647
+M 0 H 0
+S
+#20653
+The Prisioner of War Area~
+Another key here
+~
+0 8 1
+D3
+~
+~
+0 0 20648
+D5
+~
+~
+1 20653 20655
+M 0 H 0
+S
+#20654
+The Medical Tent~
+~
+0 0 1
+D1
+~
+~
+0 0 20648
+M 0 H 0
+S
+#20655
+The Prisioner of War Area~
+~
+0 0 1
+D0
+~
+~
+0 0 20687
+D2
+~
+~
+1 0 20656
+D4
+~
+~
+1 0 20653
+M 0 H 0
+S
+#20656
+The Beginning of the Escape Tunnel~
+~
+0 0 0
+D0
+~
+~
+1 0 20655
+D3
+~
+~
+0 0 20657
+M 0 H 0
+S
+#20657
+In the Escape Tunel~
+~
+0 0 0
+D1
+~
+~
+0 0 20656
+D2
+~
+~
+0 0 20658
+M 0 H 0
+S
+#20658
+In the Escape Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 20657
+D3
+~
+~
+0 0 20659
+M 0 H 0
+S
+#20659
+In the Escape Tunnel~
+~
+0 0 0
+D1
+~
+~
+0 0 20658
+D3
+~
+~
+0 0 20660
+M 0 H 0
+S
+#20660
+In the Escape Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 20661
+D1
+~
+~
+0 0 20659
+M 0 H 0
+S
+#20661
+In the Escape Tunnel~
+~
+0 0 0
+D2
+~
+~
+0 0 20660
+D3
+~
+~
+0 0 20662
+M 0 H 0
+S
+#20662
+In the Escape Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 20663
+D1
+~
+~
+0 0 20661
+M 0 H 0
+S
+#20663
+Almost the End of the Tunnel~
+~
+0 0 0
+D2
+~
+~
+0 0 20662
+D4
+~
+~
+0 0 20686
+M 0 H 0
+S
+#20665
+In the Bunker~
+~
+0 0 2
+D1
+~
+~
+0 0 20666
+D4
+~
+~
+0 0 20620
+M 0 H 0
+S
+#20666
+In the Bunker~
+~
+0 0 2
+D1
+~
+~
+0 0 20667
+D3
+~
+~
+0 0 20665
+M 0 H 0
+S
+#20667
+In the Bunker~
+say something about how this is the dragon side
+~
+0 0 2
+D3
+~
+~
+0 0 20666
+M 0 H 0
+S
+#20668
+A Path to the Dragon Camp~
+~
+0 0 2
+D0
+~
+~
+0 0 20669
+D2
+~
+~
+0 0 20616
+M 0 H 0
+S
+#20669
+The Dragon Guard Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 20671
+D2
+~
+~
+0 0 20668
+D4
+~
+~
+0 0 20670
+M 0 H 0
+S
+#20670
+Atop the Tower~
+~
+0 0 0
+D5
+~
+~
+0 0 20669
+M 0 H 0
+S
+#20671
+On the Way to the Dragon Camp~
+~
+0 0 2
+D0
+~
+~
+0 0 20672
+D2
+~
+~
+0 0 20669
+M 0 H 0
+S
+#20672
+Before the Dragon Camp's Gates~
+This door will lock too....blah blah
+~
+0 0 2
+D1
+~
+~
+1 0 20673
+D2
+~
+~
+0 0 20671
+M 0 H 0
+S
+#20673
+In the Dragon Camp~
+~
+0 0 1
+D2
+~
+~
+0 0 20674
+D3
+~
+~
+1 0 20672
+M 0 H 0
+S
+#20674
+On the Muddy Path in the Camp~
+~
+0 0 1
+D0
+~
+~
+0 0 20673
+D1
+~
+~
+0 0 20676
+D2
+~
+~
+0 0 20675
+M 0 H 0
+S
+#20675
+The Medical Tent~
+~
+0 0 1
+D0
+~
+~
+0 0 20674
+M 0 H 0
+S
+#20676
+On the Muddy Path in the Camp~
+~
+0 0 1
+D0
+~
+~
+0 0 20677
+D1
+~
+~
+0 0 20679
+D2
+~
+~
+0 0 20678
+D3
+~
+~
+0 0 20674
+M 0 H 0
+S
+#20677
+The Weapons Tent~
+~
+0 0 1
+D2
+~
+~
+0 0 20676
+M 0 H 0
+S
+#20678
+The Galley Tent~
+~
+0 0 1
+D0
+~
+~
+0 0 20676
+M 0 H 0
+S
+#20679
+On the Muddy Path in the Camp~
+~
+0 0 1
+D0
+~
+~
+0 0 20680
+D1
+~
+~
+0 0 20681
+D2
+~
+~
+0 0 20684
+D3
+~
+~
+0 0 20676
+M 0 H 0
+S
+#20680
+The Barracks~
+~
+0 0 1
+D2
+~
+~
+0 0 20679
+M 0 H 0
+S
+#20681
+On the Muddy Path in the Camp~
+~
+0 0 1
+D0
+~
+~
+0 0 20683
+D2
+~
+~
+0 0 20682
+D3
+~
+~
+0 0 20679
+M 0 H 0
+S
+#20682
+~
+~
+0 0 1
+D0
+~
+~
+0 0 20681
+M 0 H 0
+S
+#20683
+~
+~
+0 0 1
+D2
+~
+~
+0 0 20681
+M 0 H 0
+S
+#20684
+The Barracks~
+~
+0 0 1
+D0
+~
+~
+0 0 20679
+M 0 H 0
+S
+#20686
+Deep Trouble~
+There'll be a really tough aggie mob here...call 'em a warden or something
+~
+0 0 2
+D0
+~
+~
+0 0 20614
+M 0 H 0
+S
+#20687
+The Box~
+Blah blah - steel box, very hot.  Have a prisioner of war in here.  Weak and dying.
+~
+0 0 0
+D2
+~
+~
+0 0 20655
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 20624 1 2
+D 0 20626 3 2
+D 0 20634 0 2
+D 0 20644 2 2
+D 0 20646 0 2
+D 0 20648 2 2
+D 0 20653 5 2
+D 0 20655 2 1
+D 0 20655 4 2
+D 0 20656 0 1
+D 0 20672 1 1
+D 0 20673 3 1
+M 1 20600 1 20600 1
+O 0 20600 0 20600
+P 0 20601 3 20600 3
+M 1 20605 1 20605 1
+E 0 20605 0 17
+M 1 20620 5 20609 1
+M 1 20620 5 20614 1
+M 1 20624 9 20624 1
+E 0 20624 0 17
+O 0 20602 0 20626
+M 1 20626 1 20626 1
+E 0 20626 0 16
+M 1 20628 2 20628 1
+M 1 20644 4 20634 2
+E 0 20644 0 17
+M 1 20644 4 20634 2
+M 1 20628 2 20642 1
+E 0 20642 0 3
+M 1 20644 4 20644 2
+E 0 20644 0 17
+M 1 20644 4 20644 2
+E 0 20653 0 17
+M 1 20653 1 20653 1
+E 0 20653 0 17
+M 1 20686 1 20686 1
+E 0 20686 0 8
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

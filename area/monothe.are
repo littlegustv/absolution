@@ -1,0 +1,3263 @@
+#AREADATA
+Name Monotheya~
+Builders None~
+VNUMs 18300 18399
+Credits {20 40} Litazia     Monotheya~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#18300
+spaceman man~
+the spaceman~
+A man floats by, looking spaced out.
+~
+The man has a completely blissful look on his face. He has no real idea where
+he is, or how he got here, or what he's doing here. He's completely
+enjoying himself. The void must do that to people.
+~
+human~
+AGY T 150 0
+20 -1 3d9+333 1d1+100 2d8+5 grep
+-4 -4 -4 0
+CDF 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18301
+lion~
+the lion~
+A lion is here, preparing to take the helm.
+~
+It's a big ol' lion with a huge shaggy mane. It must be smart too, it
+runs the ship... maybe even owns it too, for all you know.
+~
+cat~
+ABG Z 200 0
+22 -1 5d10+400 1d1+100 4d4+6 claw
+-5 -5 -5 -1
+CFHI 0 0 0
+stand stand male 3000
+AGV ACDEFHJKQUV medium 0 the guilds~
+#18302
+constellation guy dots lines~
+the constellation~
+A guy made of dots and lines greets you.
+~
+It's a figure of a man, but he's made up entirely of little stars and outlined
+by a whole lot of little lines. He seems harmless enough.
+~
+human~
+ABG 0 -50 0
+23 -1 5d10+450 1d1+100 3d6+6 shbite
+-6 -6 -6 -2
+CFI 0 HJ M
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18303
+sullen moon~
+the Sullen Moon~
+The Moon is here, looking awfully sullen.
+~
+The Moon, in all her radiant glory, stands before you, looking depressed and
+tired. She may want to go to bed, but she can't turn off the damn light!
+ 
+To dim her glow a little bit, the Moon needs a "dark moon stone". This is a
+powerful magical substance that can only be crafted with:
+-50 midgaard diamonds
+-9 moonbeams
+-3 shards of darkness
+-4 hourglasses
+ 
+Good luck!
+ 
+~
+human~
+ABGT 0 100 0
+24 -1 5d10+500 1d1+100 2d10+6 charge
+-6 -6 -6 -2
+CDFIJ 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18304
+eighty dolls~
+eighty dolls~
+Eighty dolls are yelling "Small girl after all."
+~
+It's a collection of eighty dolls! They're souvenir dolls for the fair, but
+you're awfully bothered by the fact they move in formation.
+~
+doll~
+ABG 0 -200 0
+28 -2 6d12+703 1d1+100 2d12+8 beating
+-8 -8 -8 -3
+0 ILMNPQR EILMNPQRS GHJKO
+stand stand none 3000
+EJMc ABCGHK large 0 the guilds~
+#18305
+ana ng~
+Ana Ng~
+Ana Ng is here.
+~
+Ana Ng and I are getting old
+But we still haven't walked in the glow of each other's majestic presence
+Listen Ana, hear my words
+There's the ones you would think I would say if there was a me for you
+~
+human~
+ABG 0 300 0
+30 -1 6d12+853 1d1+100 4d6+8 blast
+-9 -9 -9 -5
+EHI 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18306
+hypnotized whore woman~
+a hypnotized whore~
+A woman with a glassy expression in her eyes and a smile on her face.
+~
+This woman has been hypnotized! She's being made to do things against her will,
+just to satisfy whoever her master is. She IS stunningly beautiful, but that
+shouldn't stop you from realizing something is wrong here.
+~
+human~
+ABG 0 150 0
+26 0 5d10+600 1d1+100 3d7+7 stab
+-7 -7 -7 -3
+CFIN 0 0 BP
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18307
+hypnotist ladies man~
+the hypnotist of ladies~
+A man grins your way. "Like my friends?"
+~
+Your gaze meets his, and you feel awfully sleepy... but you resist. This man
+has powerful hypnotizing powers, and he's trying to use them on you.
+~
+human~
+ABG 0 -300 0
+30 1 6d12+853 1d1+100 4d6+8 slash
+-9 -9 -9 -5
+CDFK BP 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18308
+chess piece face~
+Chess Piece Face~
+Chess Piece Face absent-mindedly moves pieces on a chessboard.
+~
+What's gonna happen to Chess Piece Face
+There go I, but for my face
+All I know could be defaced by the facts in the life of Chess Piece Face
+I don't know where he lives
+Or if he knows to sail
+Or if little schemes like this one ever cross his trail
+~
+human~
+ABGT 0 100 0
+29 -2 6d12+778 1d1+100 2d12+8 bite
+-9 -9 -9 -9
+CEF 0 0 0
+stand stand none 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18309
+gravedigger digger~
+a gravedigger~
+A gravedigger digs a grave.
+~
+Dig my grave. Dig my grave.
+Every time I look in your eyes, I see St. Peter wave.
+Dig my grave. Dig my grave.
+Every time you call my name, I hear the angels say:
+Dig my grave. Dig my grave.
+~
+human~
+ABGT 0 -300 0
+25 -1 5d10+550 1d1+100 2d10+7 smash
+-7 -7 -7 -4
+CDFIK 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18310
+exquisite dead guy undead~
+the Exquisite Dead Guy~
+A dead guy is here, looking very exquisite.
+~
+Exquisite Dead Guy
+Rotating in his display case
+Exquisite Dead Guy
+Swear I saw his mouth move.
+~
+human~
+ABG 0 -250 0
+31 1 6d12+928 1d1+100 4d6+9 slash
+-10 -10 -10 -6
+CDIKN 0 0 0
+stand stand none 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18311
+gal~
+Gal~
+Gal is here, looking for a new guy.
+~
+She's gone through a lot. Right now she's looking for one Jim Beam. Have
+you seen him?
+~
+human~
+ABG 0 50 0
+32 0 10d10+1000 1d1+100 4d4+9 slap
+-10 -10 -10 -6
+CDINR 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18312
+lad~
+Lad~
+Lad is here, looking at the house.
+~
+He built this beautiful house, but now he wallows in pain because it has to be
+torn down. Oh, the humanity!
+~
+human~
+ABG 0 50 0
+33 0 10d10+1100 1d1+100 4d4+10 none
+-11 -11 -11 -8
+CFINR 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18313
+crane~
+a crane~
+A crane is here, bringing down the house.
+~
+It's a crane! A big watergoing bird. This one has gained meaningful employment
+by bringing down houses with a metal ball hung from a chain. I guess you DO
+need one to do such a job...
+~
+water fowl~
+ABG T -50 0
+34 0 10d10+1200 1d1+100 4d7+10 peck
+-11 -11 -11 -9
+0 0 R 0
+stand stand male 3000
+AGW ACDEFHKP medium 0 the guilds~
+#18314
+replacement singer~
+the replacement singer~
+A replacement singer is belting out a tune.
+~
+The singer can sing... sort of. He's not very good. He's a replacement, what
+do you really want?
+~
+human~
+ABG 0 0 0
+27 0 5d10+650 1d1+100 5d4+7 sting
+-8 -8 -8 -4
+CFIJ 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18315
+replacement guitarist~
+the replacement guitarist~
+A replacement guitarist jams with his buddies.
+~
+The guitarist plays, and has fun... now if they can only get the real guy
+back, perhaps they'd be better!
+~
+human~
+ABG 0 0 0
+28 0 6d12+703 1d1+100 2d12+8 thwack
+-8 -8 -8 -4
+CDFI 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18316
+replacement pianist~
+the replacement pianist~
+A replacement pianist plays away at the piano.
+~
+The pianist can play with the best of them... and he gets kicked out because
+he's so bad.
+~
+human~
+ABG 0 0 0
+28 0 6d12+703 1d1+100 2d12+8 scratch
+-8 -8 -8 -4
+DFIN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18317
+replacement drummer~
+the replacement drummer~
+A replacement drummer beats away at the skins.
+~
+The drummer beats... and beats... and beats... but he himself doesn't get
+beat... or beaten. Can't this guy keep rhythm?
+~
+human~
+ABG 0 0 0
+27 0 5d10+650 1d1+100 5d4+7 slash
+-8 -8 -8 -4
+CFIN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18318
+own worst enemy~
+your own worst enemy~
+Your own worst enemy sneers at you.
+~
+It's your own worst enemy
+Ringing the bell on the door
+And the person inside says "Nobody's home"
+So your own worst enemy peeks inside
+And sees you softly weeping
+As some music fills the room
+And the song they play
+Is that guy with the messed up face
+Going "Precious and few are the moments that you and your own worst enemy share"
+~
+human~
+ABG 0 -250 0
+32 0 10d10+1000 1d1+100 4d4+9 claw
+-10 -10 -10 -6
+CDIJN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18319
+guy self nowhere~
+a self called nowhere~
+Some guy stands here wearing a nametag: "Hi! I'm Nowhere!"
+~
+I'm thinking of a wooden chair
+In a room at the top of the stair
+And I'm looking down the stairwell
+At the vanishing dot on the map of the spot
+Let me take you there
+The dotted line surrounding the mind
+Of a self called Nowhere
+~
+human~
+ABG 0 0 0
+34 0 10d10+1200 1d1+100 4d7+10 grep
+-11 -11 -11 -7
+CDIJN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18320
+evil twin~
+your evil twin~
+Your evil twin mimicks you. Stop it! Stop it!
+~
+My evil twin, bad weather friend
+He always wants to start when I want to begin
+It scares me so, like I scare myself
+With that book of Nostradamus up upon my shelf
+ 
+Playing hangman 'til the morning light
+Doing donuts on the neighbors' lawn
+Then sleep all through the day, get up and start again
+I can hear some sirens somewhere but I don't know why
+~
+human~
+ABG 0 -500 0
+33 0 10d10+1100 1d1+100 4d4+10 suction
+-11 -11 -11 -7
+CDIJN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18321
+racist friend~
+your racist friend~
+Your racist friend insults everybody and anybody.
+~
+This is where the party ends
+I can't stand here listening to you
+And your racist friend
+I know politics bore you
+But I feel like a hypocrite talking to you
+And your racist friend
+~
+human~
+ABGS 0 -500 0
+35 0 10d10+1300 1d1+100 4d7+11 stab
+-11 -11 -11 -11
+BCDIJN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18322
+careless santa~
+Careless Santa~
+Careless Santa is here, looking really careless.
+~
+Careless Santa, spoiled my Xmastime
+Thoughtless Santa, how can I forgive him?
+Been so good, all year long
+A bag of money, is all I asked him for
+Down the chimney it came, my one Xmas wish
+Landed on my arm and broke it...
+ 
+Careless Santa, spoiled my bankrobbing scheme
+Thoughtless Santa, how can I forgive him?
+I laid low like we planned
+A bag of money, is all he stole for me
+Down my driveway I came, place was crawling with cops
+Spotted the cast on my arm and they busted me...
+~
+human~
+ABG 0 -75 0
+35 0 10d10+1300 1d1+100 4d7+11 crush
+-11 -11 -11 -7
+CEFIN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18323
+hotel detective~
+a hotel detective~
+A hotel detective walks up and down the hall.
+~
+She's got her ears to the walls and she's tappin' the calls
+If you've got a secret, boy, forget about it
+'Cause she's a hotel detective
+Why don't you check her out
+~
+human~
+ABGT 0 0 0
+30 -1 6d12+853 1d1+100 4d6+8 beating
+-9 -9 -9 -6
+CFIN 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18324
+spy~
+a spy~
+A spy is here, spying on you.
+~
+I see you from my spy plane, baby
+I see you walking on the ground
+I see you through my spy glasses, baby
+I can see right through the ground
+If you want to be a spy, then you must really see
+And you must really see if you want to be a spy like me
+~
+human~
+ABGS 0 -100 0
+36 0 10d10+1400 1d1+100 3d10+11 pierce
+-12 -12 -12 -8
+BFIN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18325
+favorite head~
+the favorite head~
+A head floats by and smiles at you.
+~
+This head lives in the Hall of Heads, the display for all the great heads
+that ever were. Scary, huh? It's the best head they've got here, and it looks
+positively spiffy.
+~
+snake~
+ABG 0 0 0
+30 1 6d12+853 1d1+100 4d6+8 bite
+-9 -9 -9 -6
+CDFN 0 L I
+stand stand none 3000
+AGXYc ADEFKLQVX small 0 the guilds~
+#18326
+statue~
+a statue~
+A rather large statue is rather prominent here.
+~
+The statue got me high. The statue got me high.
+A monument of granite sent a beam into my eye.
+The statue made me die. The statue made me die.
+It took my hand, it killed me, then it threw me to the sky.
+~
+human~
+ABG 0 0 0
+35 0 10d10+1300 1d1+100 4d7+11 punch
+-11 -11 -11 -7
+CDFIN BH 0 0
+stand stand none 3000
+AEHJMV ABCDEFGHIJK medium stone the guilds~
+#18327
+woman~
+a woman~
+A woman stands in the dark.
+~
+A woman came up to me and said, "I'd like to poison your mind
+with wrong ideas that appeal to you, though I am not unkind."
+She looked at me, I looked at something written across her scalp
+And this is what it faintly said as I tried to call for help:
+"There's only one thing that I know how to do well
+And I've often been told that you only can do what you know how to do well
+And that's be you, be what you like, be like yourself
+And so I'm having a wonderful time but I'd rather be whistling in the dark
+There's only one thing that I like and that is whistling in the dark."
+~
+human~
+ABG 0 0 0
+32 0 10d10+1000 1d1+100 4d4+9 slash
+-10 -10 -10 -6
+CDFIN 0 0 0
+stand stand female 3000
+AGHMV ABCDEFGHIJK medium 0 the guilds~
+#18328
+folk father~
+a folk father~
+A father sits in the darkness.
+~
+He's the father of a folk family.
+~
+human~
+ABG 0 0 0
+38 0 10d10+1600 1d1+100 5d6+12 thwack
+-13 -13 -13 -9
+CFIN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18329
+folk mother~
+a folk mother~
+A mother bides her time in the darkness.
+~
+She's the mother of a folk family.
+~
+human~
+ABG 0 0 0
+36 0 10d10+1400 1d1+100 3d10+11 slap
+-12 -12 -12 -8
+CDFIN 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18330
+folk son~
+a folk son~
+A son sits around and contemplates darkness.
+~
+He's the son of a folk family.
+~
+human~
+ABG 0 0 0
+32 1 10d10+1000 1d1+100 4d4+9 pierce
+-10 -10 -10 -6
+CFIN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#18331
+folk daughter~
+a folk daughter~
+A daughter plays in the darkness.
+~
+She's the daughter of a folk family.
+~
+human~
+ABG 0 0 0
+30 1 6d12+853 1d1+100 4d6+8 slash
+-9 -9 -9 -5
+CFIN 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#18332
+filthy scarecrow~
+a filthy scarecrow~
+A filthy scarecrow mocks you.
+~
+It makes fun of you at every turn. Boy, that gets annoying fast.
+~
+doll~
+ABG 0 0 0
+35 0 10d10+1300 1d1+100 4d7+11 pound
+-11 -11 -11 -7
+CFIN ILMNPQR EILMNPQRS GHJKO
+stand stand none 3000
+EJMc ABCGHK medium 0 the guilds~
+#18333
+snowball~
+a snowball~
+A giant snowball roars and yowls!
+~
+It's a giant snowball! With a huge gaping maw... and a pair of evil eyes...
+and... oh dear, this isn't going to be enjoyable.
+~
+human~
+ABFGT D 0 0
+38 -3 10d10+1600 1d1+100 5d6+12 frbite
+-13 -13 -13 -10
+CDF IR K H
+stand stand none 3500
+AHMV ABCDEFGHIJK huge 0 the guilds~
+#18334
+person follower bells~
+a follower of the bells~
+A person mesmerized by the bells.
+~
+This person has heard the music of the bells and has come up to see.
+~
+human~
+ABG 0 0 0
+35 0 10d10+1300 1d1+100 4d7+11 grep
+-11 -11 -11 -7
+CDFIJN 0 0 0
+stand stand either 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18335
+little girl~
+a little girl~
+A little girl stands, ignoring the bells.
+~
+The girl just watches everyone transfixed by the bells. No wonder she's not
+affected by their sound: she's got cotton in her ears! Pretty soon everyone
+else is going to surround her and take the cotton from her ears and make her
+listen to the music. Until then...
+~
+human~
+ABG 0 0 0
+31 1 6d12+928 1d1+100 4d6+9 thwack
+-10 -10 -10 -6
+CFIN 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18336
+angel~
+an angel~
+An angel stands here.
+~
+When you're following an angel, does it mean you have to throw your body
+off a building?  Somewhere they're meeting on a pinhead, calling you an
+angel, calling you the nicest things.  I heard they have a space program,
+when they sing, you can't hear, there's no air.  Sometimes, I think I kind
+of like that, and other times I think I'm already there.  
+~
+human~
+ABGQ HNT 1000 0
+40 0 15d10+1850 1d1+100 4d8+13 divine
+-13 -13 -13 -10
+FIN N 0 M
+stand stand female 3000
+AHMV ABCDEFGHIJKP medium 0 the guilds~
+#18337
+devil~
+the devil~
+The devil is here, surfing for souls.
+~
+The devil.  He's the devil!  He's not in hell, not when he can get fresh
+souls elsewhere!  
+~
+human~
+ABGQ HO -1000 0
+40 0 15d10+1850 1d1+100 4d8+13 wrath
+-13 -13 -13 -9
+CEFIJN H 0 N
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18338
+beachcomber comber~
+a beachcomber~
+A beachcomber is exploring the beach.
+~
+He's dressed in short ragged pants and a short shirt and wearing sandals. He's
+looking for treasure and seashells and all sorts of nice things.
+~
+human~
+ABG 0 100 0
+34 0 10d10+1200 1d1+100 4d7+10 slap
+-11 -11 -11 -6
+CFIJN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18339
+cow~
+a cow~
+A cow wanders by and moos at you.
+~
+It's a black and white cow. Mooooo.
+~
+pig~
+ABG 0 0 0
+28 0 6d12+703 1d1+100 2d12+8 charge
+-8 -8 -8 -4
+CFIN 0 0 0
+stand stand either 3000
+AGV ACDEFHJK medium 0 the guilds~
+#18340
+cow sea~
+the cow beneath the sea~
+The cow beneath the sea greets you with "blub-moo."
+~
+I'm going down to Cowtown, the cow's a friend to me
+Lives beneath the ocean and that's where I will be
+Beneath the waves, the waves, and that's where I will be
+I'm going to see the cow beneath the sea.
+~
+pig~
+ABG 0 0 0
+34 0 10d10+1200 1d1+100 4d7+10 charge
+-11 -11 -11 -7
+CFIN 0 0 0
+stand stand either 3000
+AGV ACDEFHJK medium 0 the guilds~
+#18341
+dolphin~
+a dolphin~
+A dolphin dives through the water.
+~
+It's a large bottlenosed dolphin. It enjoys swimming through the water.
+~
+wolf~
+ABG Z 200 0
+34 0 10d10+1200 1d1+100 4d7+10 bite
+-11 -11 -11 -5
+FH 0 0 0
+stand stand either 3000
+AGV ACDEFJKQV large 0 the guilds~
+#18342
+dog~
+a dog~
+A dog moseys on by.
+~
+It's some type of dog. Large dog.
+~
+dog~
+ABG 0 100 0
+30 1 6d12+853 1d1+100 4d6+8 bite
+-9 -9 -9 -4
+CFHIN 0 0 0
+stand stand either 3000
+AGV ACDEFHJKUV medium 0 the guilds~
+#18343
+bat~
+a bat~
+A bat flutters by.
+~
+It's just a little brown bat.
+~
+bat~
+ABG TZ 0 0
+26 1 5d10+600 1d1+100 3d7+7 bite
+-7 -7 -7 -2
+FH 0 0 S
+stand stand either 3000
+AGV ACDEFHJKP small 0 the guilds~
+#18344
+koala bear~
+a koala bear~
+A koala bear hangs around.
+~
+It's a cute little koala bear!
+~
+rabbit~
+ABG 0 250 0
+25 1 5d10+550 1d1+100 2d10+7 slap
+-7 -7 -7 -2
+FHN 0 0 0
+stand stand either 3000
+AGV ACDEFHJK small 0 the guilds~
+#18345
+hog~
+a hog~
+A hog lounges around.
+~
+Mmmmmm.... baaaacon.
+~
+pig~
+ABG 0 0 0
+27 0 5d10+650 1d1+100 5d4+7 charge
+-8 -8 -8 -4
+IN 0 0 0
+stand stand either 3000
+AGV ACDEFHJK medium 0 the guilds~
+#18346
+cat~
+a cat~
+A cat mews at you.
+~
+It's a cute little pussy cat. Kill it! It's too cute to live.
+~
+cat~
+ABG Z 0 0
+29 0 6d12+778 1d1+100 2d12+8 claw
+-9 -9 -9 -4
+FH 0 0 0
+stand stand either 3000
+AGV ACDEFHJKQUV small 0 the guilds~
+#18347
+blue canary~
+the Blue Canary~
+A large blue canary flaps around the room.
+~
+Blue canary in the outlet by the light switch, who watches over you
+Make a little birdhouse in your soul
+Not to put too fine a point on it, say I'm the only bee in your bonnet
+Make a little birdhouse in your soul.
+~
+song bird~
+ABG T 0 0
+37 0 10d10+1500 1d1+100 3d10+12 peck
+-12 -12 -12 -4
+CFHIN 0 0 0
+stand stand none 3000
+AGW ACDEFHKP medium 0 the guilds~
+#18348
+bill~
+Bill~
+Bill is here.
+~
+I was born in a lighthouse, my mother was the sea
+I crawled to school each morning, when it occured to me
+That life's just a mood ring we're not allowed to see
+And this is what it said to me:
+"My room is comfortably small with rubber lining the walls
+And there's someone always calling my name
+He calls when I'm alone and he calls when I'm not home
+And he calls when I'm stuck out in the rain
+I'm insane."
+~
+human~
+ABG V 0 0
+35 0 10d10+1300 1d1+100 4d7+11 slap
+-11 -11 -11 -5
+CFIKN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18349
+man~
+a man~
+A man wanders around.
+~
+Just your average everyday man.
+~
+human~
+AG 0 0 0
+30 1 6d12+853 1d1+100 4d6+8 slash
+-9 -9 -9 -5
+CFIN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18350
+woman~
+a woman~
+A woman stands here.
+~
+Just your average everyday woman.
+~
+human~
+AG 0 0 0
+28 0 6d12+703 1d1+100 2d12+8 slash
+-8 -8 -10 -4
+CFIN 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18351
+Mister Me Mr~
+Mr. Me~
+Mister Me is here.
+~
+Once a boy named Mister Me bemoaned a great regret:
+"I've floundered in the misty sea, but can't abide its mystery,
+I wound up sad, you bet."
+So onward go and Edward Ho into the bounding main
+Enjoy the show look out below but mind the misty sea
+Or end up sad like Mister Me.
+He ended up sad, he ended up sad, he ended up really really really sad.
+He ended up sad, he ended up sad, he ended up really really really sad.
+So take the hand of Mister Me and mister, make him glad
+To swim the Mister Misty Sea and cease the Mister Mystery
+That mister, made him sad.
+He ended up sad, he ended up sad, he ended up really really really sad.
+He ended up sad, he ended up sad, he ended up really really really sad.
+~
+human~
+AB 0 0 0
+39 0 15d10+1700 1d1+100 5d6+13 thwack
+-13 -13 -13 -8
+CFIJKN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18352
+particle man~
+Particle Man~
+Particle Man is here.
+~
+Particle Man, Particle Man
+Doing the things a particle can.
+What's he like? It's not important.
+Particle Man.
+Is he a dot, or is he a speck?
+When he's underwater, does he get wet?
+Or does the water get him instead?
+Nobody knows. Particle Man.
+~
+human~
+ABGT 0 0 0
+28 -1 6d12+703 1d1+100 2d12+8 punch
+-8 -8 -8 -3
+CDFIN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK tiny 0 the guilds~
+#18353
+Person Man~
+Person Man~
+Person Man is here.
+~
+Person Man, Person Man.
+Hit in the head with a frying pan.
+Lives his life in a garbage can.
+Person Man.
+Is he a mess? Or is he depressed?
+Does he feel totally worthless?
+Who came up with Person Man?
+Degraded man. Person Man.
+~
+human~
+ABGT 0 0 0
+32 -1 10d10+1000 1d1+100 4d4+9 slash
+-10 -10 -10 -5
+CDFIN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18354
+triangle man~
+Triangle Man~
+Triangle Man is here.
+~
+Triangle Man, Triangle Man.
+Triangle Man hates Particle Man.
+They have a fight, Triangle wins.
+Triangle Man.
+ 
+Triangle Man, Triangle Man.
+Triangle Man hates Person Man.
+They have a fight, Triangle wins.
+Triangle Man.
+~
+human~
+ABGT 0 0 0
+36 -2 10d10+1400 1d1+100 3d10+11 pierce
+-12 -12 -12 -7
+CDFIN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18355
+universe man~
+Universe Man~
+Universe Man is here.
+~
+Universe Man, Universe Man.
+Size of the entire universe man.
+Usually kind to smaller man.
+Universe man.
+He's got a watch with a minute hand,
+A millenium hand and an eon hand.
+When they meet, it's a happy land.
+Powerful man, Universe Man.
+~
+human~
+ABGT 0 0 0
+40 -2 15d10+1850 1d1+100 4d8+13 wrath
+-13 -13 -13 -8
+CDEFIN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#18356
+rabid child~
+the rabid child~
+A rabid child foams at the mouth.
+~
+It's a mad child! Rabid! Foaming! Spouting "Rabbit ears!" and "Hammer down!"
+Will no one STOP this madness??
+~
+human~
+AFG 0 -450 0
+25 1 5d10+550 1d1+100 2d10+7 bite
+-7 -7 -7 -2
+IN 0 0 0
+stand stand either 3000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#18399
+foo mini-foo homonculus~
+Mini-Foo~
+A miniature version of foo is here.
+~
+All the brains. All the cunning. One eighth the size.
+~
+human~
+ABRT DJT 0 0
+1 0 2d6+10 1d1+100 1d4+0 bite
+9 9 9 9
+H B 0 0
+stand stand none 0
+ADHJMV ABCDEFGHIJKPQ small 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#18300
+spacesuit suit~
+a spacesuit~
+A suit made of extradimensional space drifts along.~
+ash~
+container 0 AD
+45 0 0 600 40
+20 0 1000 P
+A
+17 -5  
+#18301
+nightgown sullen moon~
+the nightgown of the sullen moon~
+A radiant nightgown.~
+silk~
+armor A AK
+4 5 4 1 0
+22 2 2000 P
+A
+3 -1  
+A
+19 1  
+A
+18 1  
+#18302
+bench~
+a bench~
+A wooden bench is here.~
+wood~
+furniture 0 0
+6 2500000 E 0 0
+0 0 0 P
+E
+bench~
+It's a nice wooden bench. You examine the bench, but not much can be discerned,
+other than it's still warm. Who had been sitting on it?
+~
+#18303
+lucky ball chain~
+a lucky ball and chain~
+A lucky-looking ball and chain.~
+steel~
+armor 0 AG
+8 7 7 2 0
+29 50 3400 P
+A
+18 1  
+A
+20 -2  
+A
+2 -2  
+#18304
+piano~
+a piano~
+An old wooden piano with ivory keys.~
+wood~
+furniture 0 0
+1 1500 D 0 0
+0 0 0 P
+#18305
+guitar~
+a guitar~
+A guitar lies against the walls.~
+wood~
+weapon 0 AN
+exotic 5 5 smash 0
+30 80 4500 P
+A
+19 2  
+A
+18 2  
+E
+guitar~
+Hey! Who's that playing?
+Hey! The guitar?
+Is it Jim? I don't know.
+Is it Jim? I don't know.
+Turn it up, the guitar.
+I can't hear the guitar.
+~
+#18306
+drum bodhran~
+a bodhran~
+A drum made of skin stretched across a wooden frame.~
+snakeskin~
+armor 0 AJ
+4 6 5 1 0
+28 20 3500 P
+A
+3 -2  
+A
+19 2  
+A
+18 1  
+#18307
+drumstick~
+a drumstick~
+A drumstick, perfect for beating on a drum.~
+wood~
+wand 0 AO
+25 6 6 'rukus magna' 0
+25 10 5000 P
+#18308
+beard~
+Santa's beard~
+A beard made of white hair.~
+fur~
+armor 0 AE
+5 4 4 1 0
+29 10 2000 P
+A
+9 10  
+A
+4 1  
+#18309
+money~
+money~
+Money.~
+gold~
+money 0 A
+5000 0 0 0 0
+0 100 0 P
+#18310
+bag money~
+a bag of money~
+A bag for money.~
+felt~
+container 0 AO
+250 0 0 50 15
+0 0 0 P
+#18311
+shelf~
+a shelf~
+A shelf is mounted up on the wall.~
+wood~
+container 0 0
+0 0 0 0 0
+0 0 0 P
+E
+shelf~
+It's a plain wooden shelf, just perfect for putting things on.
+~
+#18312
+bag groceries~
+a bag of groceries~
+A bag for storing stuff in.~
+canvas~
+container 0 AO
+20 0 0 200 80
+0 10 500 P
+E
+bag~
+I returned a bag of groceries, accidentally taken off the shelf
+Before the expiration date.
+I came back as a bag of groceries, accidentally taken off the shelf
+Before the date stamped on myself.
+ 
+Hmm, the date on the bag is a long way away from now... should you take it?
+~
+#18313
+hunk meat~
+a hunk of meat~
+Fresh meat! Mmmmm.~
+food~
+food 0 AO
+10 10 0 0 0
+0 10 1000 P
+#18314
+lettuce~
+lettuce~
+Some fresh lettuce.~
+food~
+food 0 AO
+8 10 0 0 0
+0 10 100 P
+#18315
+hunk cheese~
+a hunk of cheese~
+A big hunk of yummy-looking cheese.~
+food~
+food 0 AO
+12 10 0 0 0
+0 20 500 P
+#18316
+loaf bread~
+a loaf of bread~
+A loaf of bread.~
+food~
+food 0 AO
+9 9 0 0 0
+0 18 300 P
+#18317
+soup~
+some soup~
+A small container of soup.~
+food~
+food 0 AO
+8 9 0 0 0
+0 10 500 P
+#18318
+spy glasses~
+spy glasses~
+A pair of spy glasses.~
+glass~
+staff 0 AO
+35 6 6 'farsight' 0
+28 8 2500 P
+A
+3 2  
+A
+19 -1  
+#18319
+purple toupee~
+a purple toupee~
+A purple toupee that will show the way.~
+fur~
+armor 0 AE
+4 4 3 1 0
+24 10 2000 P
+A
+18 1  
+A
+19 1  
+#18320
+pair broomsticks sticks~
+a pair of broomsticks~
+A pair of wooden sticks that you can strap to your arms.~
+wood~
+armor 0 AI
+5 3 4 1 0
+27 20 3000 P
+A
+2 -2  
+A
+18 2  
+A
+1 -1  
+A
+19 1  
+#18321
+dinner bell~
+a dinner bell~
+You ring this bell when it's time for dinner.~
+gold~
+wand 0 AO
+10 6 6 'create food' 0
+10 10 2000 P
+#18322
+series bells~
+a series of bells~
+A whole lot of bells are attached to each other.~
+gold~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+bells~
+The bells are configured so that when one rings, all the other bells will
+ring soon after. They will play a haunting melody that will enchant all who
+listen to it. Ding, dong, ding, dong.
+~
+#18323
+pole metallic distant antenna~
+the distant antenna~
+A huge metallic pole sticks out of the ground here.~
+metal~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+antenna~
+The following is inscribed on the pole:
+ 
+A remote broadcast tower outside Shandalar sends its message out into the
+area. Tonight they play a recorded performance of the group Mono Puff.
+Beyond the Orange Mountains west of the city, thin night clouds settle and
+the sun's rays can no longer hold back the interference from the distant
+antennas. Against nature, a family labors to isolate the sound of Mono Puff
+from the static. Like so many others before them, they strain at the fine
+tuning knob of their receiver. Finally free, they hear and understand.
+This area is dedicated to their struggle.
+~
+#18324
+surfboard board~
+a surfboard~
+A strange wooden board.~
+wood~
+boat 0 AO
+0 0 0 0 0
+0 100 1000 P
+#18325
+metal detector~
+a metal detector~
+A metal detector sits on the ground.~
+metal~
+wand 0 AO
+35 5 5 'heat metal' 0
+30 100 4500 P
+A
+5 1  
+#18326
+seashell shell~
+a seashell~
+A seashell looks very pretty.~
+shell~
+key 0 AOY
+0 0 0 0 0
+0 0 0 P
+#18327
+blue canary~
+a blue canary~
+A small blue canary glows rather serenely.~
+energy~
+light A A
+0 0 999 0 0
+25 10 3000 P
+A
+20 -2  
+A
+18 2  
+#18328
+mockingbird bird~
+a mockingbird~
+A mockingbird mimics several people.~
+feathers~
+jukebox Y AO
+0 0 0 0 0
+0 7 0 P
+#18329
+mood ring~
+a mood ring~
+A mood ring is here, showing off pretty colours.~
+crystal~
+armor F AB
+5 4 3 3 0
+23 2 3400 P
+A
+4 -1  
+A
+18 1  
+A
+19 1  
+#18330
+bill mood~
+absolutely Bill's mood~
+Bill's mood floats by.~
+glass~
+armor B AQ
+8 7 8 3 0
+28 0 0 P
+A
+19 1  
+A
+9 10  
+#18331
+funky watch~
+a really funky watch~
+A super dooper watch with lots of hands ticks by.~
+metal~
+jewelry B AM
+0 0 0 0 0
+28 15 4500 P
+A
+18 1  
+A
+20 -2  
+A
+9 30  
+#18390
+ace spades card~
+the ace of spades~
+A card with one spade on it is here.~
+wood~
+trash T AO
+0 0 0 0 0
+0 0 0 P
+#18393
+particle accelerator gun~
+a portable particle accelerator~
+Particle Man's portable particle accelerator hums here.~
+steel~
+weapon B AN
+ranged 4 6 shbite F
+4
+24 100 3000 P
+A
+19 1  
+A
+3 2  
+#18399
+dumb weapon~
+a dumb weapon~
+It's a dumb weapon.~
+iron~
+fountain 0 0
+-1 -1 'milk' 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#18300
+Starry Void~
+You stumble as you walk along, and feel yourself falling... and falling...
+but strangely enough, you start to feel yourself float. The ground has vanished
+beneath you, and the sky surrounds you as you drift along in a great star
+filled void. You can feel yourself move gently with some unseen wind. This is
+a strange new place indeed.
+~
+0 12 1
+D0
+~
+~
+0 0 18301
+S
+#18301
+Starry Void~
+You are floating around in a dark void with small pinpoints of light
+surrounding you. All around you is this space, space, and more space. You
+feel yourself drifting along strange winds that come from both everywhere
+and nowhere.
+~
+0 8 1
+D0
+~
+~
+0 0 18302
+D2
+~
+~
+0 0 18300
+S
+#18302
+Starry Void~
+You are floating around in a dark void with small pinpoints of light
+surrounding you. All around you is this space, space, and more space. You
+feel yourself drifting along strange winds that come from both everywhere
+and nowhere.
+~
+0 8 1
+D0
+~
+~
+0 0 18303
+D1
+~
+~
+0 0 18304
+D2
+~
+~
+0 0 18301
+D3
+~
+~
+0 0 18309
+S
+#18303
+Starry Void~
+You are floating around in a dark void with small pinpoints of light
+surrounding you. All around you is this space, space and more space. You
+feel yourself drifting along strange winds that come from both everywhere
+and nowhere.
+~
+0 8 1
+D0
+~
+~
+0 0 18308
+D1
+~
+~
+0 0 18306
+D2
+~
+~
+0 0 18302
+D3
+~
+~
+0 0 18310
+S
+#18304
+Piece of Dirt~
+You are standing on a piece of dirt that drifts through the starry void.
+It slowly rotates as it meanders about, but you do not feel dizzy. The void
+is on all sides of you, but you seem to notice a silver boat off to the side..?
+~
+0 8 2
+D0
+~
+~
+0 0 18306
+D1
+~
+~
+0 0 18305
+D3
+~
+~
+0 0 18302
+S
+#18305
+The Silver Ship~
+How extraordinary! You have boarded a great silver craft that looks exactly
+like a yacht! This must be a magical yacht, for it has to navigate around
+the starry void, yet there are no waves for it to ride. The silver ship is
+docked; you wonder what it's waiting for.
+~
+0 8 0
+D3
+~
+~
+0 0 18304
+S
+#18306
+Starry Void~
+You are floating around in a dark void with small pinpoints of light
+surrounding you. All around you is this space, space and more space. You
+feel yourself drifting along strange winds that come from both everywhere
+and nowhere.
+~
+0 8 1
+D0
+~
+~
+0 0 18307
+D2
+~
+~
+0 0 18304
+D3
+~
+~
+0 0 18303
+S
+#18307
+The Constellation~
+You have come across a curious ordering of stars in the void. You squint your
+eyes to get a better look, and you realize you've come across a constellation!
+This constellation is shaped (vaguely) like a man, although it doesn't REALLY
+look like one; you have to use your imagination. As you look around the void
+around you, you could swear that the constellation moved independent of the
+sky...
+~
+0 8 1
+D2
+~
+~
+0 0 18306
+D3
+~
+~
+0 0 18308
+S
+#18308
+Spiraling Shape~
+You come across a strange site in this void. A huge spiraling something takes
+up a great expanse in the void. Many swirling colours join together as each
+ray of light spins inwards towards the centre. It's quite the sight to see...
+although all these colours start to hurt your head as you continue to watch
+the spiral continue. The void continues around you.
+~
+0 8 1
+D1
+~
+~
+0 0 18307
+D2
+~
+~
+0 0 18303
+S
+#18309
+Starry Void~
+You are floating around in a dark void with small pinpoints of light
+surrounding you. All around you is this space, space, and more space. You
+feel yourself drifting along strange winds that come from both everywhere
+and nowhere.
+~
+0 8 1
+D0
+~
+~
+0 0 18310
+D1
+~
+~
+0 0 18302
+S
+#18310
+Starry Void~
+You are floating around in a dark void with small pinpoints of light
+surrounding you. All around you is this space, space, and more space. You
+feel yourself drifting along strange winds that come from both everywhere
+and nowhere.
+~
+0 8 1
+D0
+~
+~
+0 0 18311
+D1
+~
+~
+0 0 18303
+D2
+~
+~
+0 0 18309
+D3
+~
+~
+0 0 18312
+S
+#18311
+Destination Moon~
+You come across a small chunk of rock that circles around a nearby larger
+chunk of rock... okay, the larger chunk of rock is a planet. You are therefore,
+by intelligent reason, standing on its moon. This is a nice place to
+relax from your journeys in the void before continuing onwards. It's a long
+way down to the planet... you'll have to find some way there, though. You
+don't REALLY want to jump from here!
+~
+0 8 4
+D2
+~
+~
+0 0 18310
+S
+#18312
+Starry Void~
+You are floating around in a dark void with small pinpoints of light
+surrounding you. All around you is this space, space, and more space. You
+feel yourself drifting along strange winds that come from both everywhere
+and nowhere.
+~
+0 8 1
+D0
+~
+~
+0 0 18313
+D1
+~
+~
+0 0 18310
+S
+#18313
+The World's Address~
+Well, after a lot of meandering around the star-filled void, you have found
+the location of a rest stop... a planet. This must be the world of Monotheya.
+You sort of figured that it'd be hiding, well, here. If you've ever gone
+hunting for a world, you've found one. It's a long way down, hopefully you
+won't burn yourself upon entry...
+~
+0 8 1
+D2
+~
+~
+0 0 18312
+D5
+~
+~
+0 0 18314
+S
+#18314
+A Field~
+You feel yourself falling... and falling... and you find yourself flat on your
+back in the middle of a field of beautiful flowers. It's rather unclear to
+you how you got here; either you came running along and dove into the flowers,
+or you fell from the sky, nearly burning up in the process, before having a
+nice soft landing. What IS obvious, however, is that the fresh scent of the
+flowers coupled in with the soft leaves is very relaxing; you could take a
+nap here and no one would notice...
+~
+0 4 2
+D0
+~
+~
+0 0 18315
+S
+#18315
+A Field~
+You feel yourself running through a great flower-filled field, the grass
+tickling your feet, the fresh scent wafting by your nose, the birds' songs
+filling your ears... why, you could almost swear you were flying through the
+field. You can feel yourself getting lost in the flowers, you don't ever want
+to leave...
+~
+0 0 2
+D0
+~
+~
+0 0 18316
+D2
+~
+~
+0 0 18314
+S
+#18316
+Sleeping in the Flowers~
+Your head throbs as you slowly come to your senses. You remember that you were
+crossing a field full of flowers, and that it was a wonderful sensation just
+being among the many coloured plants, breathing in their fresh scents, being
+tickled by the grass underneath... and you never wanted to leave. So,
+hypnotized by the sereness of it all, you had decided to take a quick nap in
+the field. But now, here you are, what seems to be several hours later, lying
+in a flowerbed. You figure you've been here for a while -- all afternoon at
+least! Where did the time go? Perhaps you better start moving before you take
+root... permanently.
+~
+0 0 2
+D1
+~
+~
+0 0 18317
+D2
+~
+~
+0 0 18315
+S
+#18317
+A Ramp~
+You stand on a stone ramp that overlooks an incredibly busy road. The traffic
+there is unbelievable! What's even stranger is that it seems to be made up of
+small people riding three-wheeled vehicles. How VERY odd. The fresh but sleepy
+scent of flowers wafts in from the west; you can see some form of field over
+there.
+~
+0 0 1
+D3
+~
+~
+0 0 18316
+D5
+~
+~
+0 0 18318
+S
+#18318
+Toddler Hiway~
+You stand on a well-maintained road that sees a lot of two-way traffic. Most
+of the users of this road are short people: they look a lot like little
+children, in fact. The road itself continues on for as far as you can see.
+~
+0 0 1
+D0
+~
+~
+0 0 18325
+D1
+~
+~
+0 0 18319
+D2
+~
+~
+0 0 18358
+D4
+~
+~
+0 0 18317
+S
+#18319
+Fairway~
+You are on a grassy path that leads towards a series of tents and pavilions.
+Happy sounds and calls emanate from that area. Streamers dance by you in the
+wind as you walk along.
+~
+0 0 1
+D1
+~
+~
+0 0 18320
+D3
+~
+~
+0 0 18318
+S
+#18320
+Fairway~
+You are on a grassy path that leads towards a series of tents and pavilions.
+Happy sounds and calls emanate from that area. Streamers dance by you in the
+wind as you walk along.
+~
+0 0 1
+D1
+~
+~
+0 0 18321
+D3
+~
+~
+0 0 18319
+S
+#18321
+The '64 World's Fair~
+You are standing in the center of a series of tents and pavilions at a
+fair. Everyone's really happy here! Festive music fills the air, barely
+drowning out the screams and cries you hear from the other visitors. Even so,
+you feel awfully alone here.
+~
+0 0 1
+D0
+~
+~
+0 0 18322
+D1
+~
+~
+0 0 18323
+D2
+~
+~
+0 0 18324
+D3
+~
+~
+0 0 18320
+S
+#18322
+The Dupont Pavilion~
+You are in an immense pavilion. Several benches fill the pavilion, all
+centered around a bare patch in the middle. Some form of display was going on
+here, or perhaps a show. Whatever happened, it's empty now.
+~
+0 8 0
+D2
+~
+~
+0 0 18321
+S
+#18323
+The Big Big Whoredom~
+My oh my! You are standing in a huge tent simply FILLED with gorgeous women!
+Most of them sit there and ignore you, but some of them come up to you and
+make odd cooing noises. It's quite interesting standing here, because it allows
+you to see the other side of life (heh, heh). The women, however, seem to be
+rather seedy people. Sure, you could go for the cheap thrill, but they're
+awfully disturbed looking people. In fact, it's downright scary in here.
+~
+0 8 0
+D3
+~
+~
+0 0 18321
+S
+#18324
+The Park~
+You are in a quiet park near the fairgrounds. Many bushes line the cobblestone
+pathways. A gentle breeze brushes past you. Nearby, a stone table with two
+stone benches collect bugs and people playing chess.
+~
+0 0 1
+D0
+~
+~
+0 0 18321
+S
+#18325
+Toddler Hiway~
+You stand on a well-maintained road that sees a lot of two-way traffic. Most
+of the users of this road are short people: they look a lot like little
+children, in fact. The road itself continues on for as far as you can see.
+~
+0 0 1
+D0
+~
+~
+0 0 18336
+D1
+~
+~
+0 0 18326
+D2
+~
+~
+0 0 18318
+D3
+~
+~
+0 0 18328
+S
+#18326
+Graveyard~
+The sky turns a dark, gloomy gray as you walk into this part of the land.
+The faint cry of a crow is the only sound you hear, but that is soon joined
+by the call of a vulture. A strange mist drifts along the ground. As you
+peruse the land, you nearly trip over an upright stone... which turns out, in
+fact, to be a tombstone. All around you, grave markers rest in the ground,
+indicating where someone is buried.
+~
+0 8 0
+D1
+~
+~
+0 0 18327
+D3
+~
+~
+0 0 18325
+S
+#18327
+Graveyard~
+The graveyard continues on in a similar fashion. Same gray sky with no
+weather, same mist from the ground, same hidden tombstones. It's incredibly
+dreary here. A huge display case stands in the middle of the yard.
+~
+0 8 0
+E
+case~
+The display case stands in the corner.  It appears to be magically
+sealed, and breaking in is beyond your ability.  
+~
+E
+case~
+In the middle of the yard, a large, ancient display case has been left. 
+It seems very out of place in a graveyard.  Within, you can see a large
+assortment of valuable collectibles, however it is magically locked.  The
+spell seems beyond your ability to overcome, and you will not access these
+items today.  
+~
+E
+display~
+In the middle of the yard, a large, ancient display case has been left.
+It seems very out of place in a graveyard.  Within, you can see a large
+assortment of valuable collectibles, however it is magically locked.  The
+spell seems beyond your ability to overcome, and you will not access these
+items today.
+~
+D3
+~
+~
+0 0 18326
+S
+#18328
+Bridge~
+You are standing on a bridge that goes over a softly flowing stream. The
+pure blue water contrasts nicely with the fresh green grass on the banks of the
+river. To the west, you can see a few houses in what looks like a residential
+area. To the east, you can go to the main roadway.
+Someone's written graffiti on the bridge. How dare they!
+~
+0 0 1
+E
+bridge~
+The graffiti on the bridge reads:
+ 
+"I don't want the world, I just want your half."
+~
+E
+graffiti~
+The graffiti on the bridge reads:
+ 
+"I don't want the world, I just want your half."
+~
+D1
+~
+~
+0 0 18325
+D3
+~
+~
+0 0 18329
+S
+#18329
+Residential Area~
+You are in a quiet section of the land. Birds sing at you from the trees as
+a soft breeze tickles you. The grass here is noticeably fresh and lush. A few
+houses can be seen just further west.
+~
+0 0 1
+D1
+~
+~
+0 0 18328
+D3
+~
+~
+0 0 18330
+S
+#18330
+Residential Area~
+You stand in a small hamlet in the middle of a lush green field. A few houses
+line the dirt pathway. You can hear some activity in the homes.
+~
+0 0 1
+D0
+~
+~
+0 0 18331
+D1
+~
+~
+0 0 18329
+D2
+~
+~
+0 0 18332
+D3
+~
+~
+0 0 18333
+S
+#18331
+A Broken House~
+You pause: is this house in the process of being built? You look again, and
+figure that, in fact, this house is being torn down. Beams and thatch line
+the ground in front of the house. An odd smashing sound reverberates through
+the area. Small birds fly for cover.
+~
+0 0 0
+D2
+~
+~
+0 0 18330
+S
+#18332
+An Acoustically-Imperfect House~
+The whole house shakes violently as you walk through the door! And it keeps
+shaking as strange music emanates from the internals. As you get in, you see
+a set of stools in a little cluster; this must be where the minstrels(?) sit
+when they're composing songs or playing music. However, what you hear can
+just barely be described as music.
+A huge banner hangs from the walls.
+~
+0 8 0
+E
+banner~
+"Hi! We're the Replacements!"
+~
+D0
+~
+~
+0 0 18330
+S
+#18333
+Residential Area~
+You stand in a small hamlet in the middle of a lush green field. A few houses
+line the dirt pathway. You can hear some activity in the homes.
+~
+0 0 1
+D0
+~
+~
+0 0 18334
+D1
+~
+~
+0 0 18330
+D2
+~
+~
+0 0 18335
+S
+#18334
+A House Party~
+Wow! There's a party going on in this house! It's not a very successful one,
+by the looks of things. Most people have left, and the people left are really,
+really boring. Just a few scragglers. Scummy ones too.
+~
+0 8 0
+D2
+~
+~
+0 0 18333
+S
+#18335
+A Festively-Decorated House~
+You are in a beautifully-decorated house. Soft lights glow in all corners of
+the home. Candles, their flames dancing with joy, sit atop the mantlepiece.
+A fresh-smelling pine tree occupies one corner. It's the time of year everyone
+enjoys, the Day of Putting Dead Trees In Your House! Oh boy, won't that be
+FUN??
+~
+0 8 0
+D0
+~
+~
+0 0 18333
+S
+#18336
+Toddler Hiway~
+You stand on a well-maintained road that sees a lot of two-way traffic. Most
+of the users of this road are short people: they look a lot like little
+children, in fact. The road itself continues on for as far as you can see.
+~
+0 0 1
+D0
+~
+~
+0 0 18344
+D1
+~
+~
+0 0 18340
+D2
+~
+~
+0 0 18325
+D3
+~
+~
+0 0 18337
+S
+#18337
+Store~
+You have entered a small building. It's pretty much in disarray from lack of
+use, although it's still fairly habitable. The room you stand in is lined with
+a few shelves; you figure you're in a store of some kind. A small staircase
+hides in the corner of the room and heads up to the next floor.
+~
+0 8 0
+D1
+~
+~
+0 0 18336
+D4
+~
+~
+0 0 18338
+S
+#18338
+Hotel~
+You stand on a creaking floor in a short hallway. The light that there is
+illuminates dingy decorations. Similar looking doors lead off into small rooms.
+The doors are stuck, however; you can't get in. A window overlooks the road
+outside, and a sign reading "The Hotel Inn" is within reach.
+~
+0 8 0
+D3
+~
+~
+2 0 18339
+D5
+~
+~
+0 0 18337
+S
+#18339
+Hotel Room~
+It's rather dark in this room. You realize that someone's got the lights
+off and is looking at people walking by the window. The room itself is sparsly
+furnished; there's a bed and a table. A whole lot of junk has been dumped on
+both of these items, most of it useless.
+~
+0 268959753 0
+D1
+~
+~
+2 0 18338
+M 120 H 120
+S
+#18340
+Museum Pathway~
+You are walking along a nicely decorated pathway that runs between the local
+museum and the main road. Trees line the path; they're very well maintained.
+The cobblestone under your feet makes a satisfying click-clack sound as you
+walk along. A light breeze brushes past you.
+~
+0 0 1
+D1
+~
+~
+0 0 18341
+D3
+~
+~
+0 0 18336
+S
+#18341
+Museum Entrance~
+You stand at the foot of the steps of the local Monotheyan museum. Huge marble
+pillars rise up to greet the sloping roof. Images of the many exhibits (most of
+them too weird to even begin to describe) are prominently displayed on colored
+banners that flap in the wind.
+~
+0 0 0
+D0
+~
+~
+0 0 18342
+D3
+~
+~
+0 0 18340
+S
+#18342
+Hall of Heads~
+Here in the hall of heads, you look through the keyhole.  This is the
+hall of heads, one step through the doorway.  Roll out that special head! 
+This is our favorite one!  Please don't try to leave; don't leave the hall
+of heads.  
+~
+0 8 0
+D0
+~
+~
+0 0 18343
+D2
+~
+~
+0 0 18341
+S
+#18343
+Statuary~
+You are in a beautifully-decorated room inside the museum. This is where all
+the wonderful sculptures and works of art are placed to be put on display.
+Some incredibly fantastic statues sit in the middle of the room.
+~
+0 8 0
+D2
+~
+~
+0 0 18342
+S
+#18344
+Toddler Hiway~
+You stand on a well-maintained road that sees a lot of two-way traffic. Most
+of the users of this road are short people: they look a lot like little
+children, in fact. The road itself continues on for as far as you can see.
+~
+0 0 1
+D0
+~
+~
+0 0 18352
+D2
+~
+~
+0 0 18336
+D3
+~
+~
+0 0 18345
+S
+#18345
+Darkness~
+You have been plunged into darkness! Help! You can't see anything!
+~
+0 524297 0
+D1
+~
+~
+0 0 18344
+D3
+~
+~
+0 0 18346
+S
+#18346
+Whistling In The Dark~
+It's rather dark here. You can feel your feet bumping into things as you move
+around the room, but you can't tell what you're bumping into. An odd sound
+fills the air. It sounds like... whistling. Hello? Is anyone there? But there
+is no response. You wish you could see whoever -- or whatever -- is making
+that sound.
+~
+0 524297 0
+D0
+~
+~
+0 0 18347
+D1
+~
+~
+0 0 18345
+S
+#18347
+Darkness~
+It's incredibly dark here. You can't see where you're going! Help!
+~
+0 524297 0
+D0
+~
+~
+0 0 18348
+D2
+~
+~
+0 0 18346
+D3
+~
+~
+0 0 18350
+S
+#18348
+Narrow Your Eyes~
+The darkness here is overpowering. There seems to be some form of gloom that
+creates the darkness. It's a gaseous substance that stings at your eyes, you're
+forced to close them while you look out through the dark. Not that there's
+anything to see, mind you.
+~
+0 524297 0
+D1
+~
+~
+1 0 18349
+D2
+~
+~
+0 0 18347
+S
+#18349
+Hideaway~
+My oh my!  You've found a little alcove in the darkness.  Just perfect
+for hiding away from the rest of the world.  You can sit back and relax... 
+Although it's too damn dark to even see anything!!!  
+~
+0 524297 0
+D3
+~
+~
+1 0 18348
+S
+#18350
+Where Your Eyes Don't Go~
+Where your eyes don't go, a filthy scarecrow waves its broomstick arms and
+does a parody of each unconscious thing you do. When you turn to look around
+it's gone behind you, on its face it's wearing your confused expression where
+your eyes don't go.
+ 
+(In other words, it's still dark here, folks)
+~
+0 524297 0
+D1
+~
+~
+0 0 18347
+D5
+~
+~
+0 0 18351
+S
+#18351
+Hell~
+ACK! It's incredibly hot here! You've fought your way through all that
+darkness just to find a great big fire pit! The fumes and heat are unbearable
+to your well-being. You cough as you fight off the waves of nausea. There's a
+light at the end of the tunnel, but you didn't rightly expect THIS!!!
+~
+0 12 0
+S
+#18352
+Toddler Hiway~
+You stand on a well-maintained road that sees a lot of two-way traffic. Most
+of the users of this road are short people: they look a lot like little
+children, in fact. The road itself continues on for as far as you can see
+southwards. The northern passage proceeds up a hill.
+~
+0 0 1
+D2
+~
+~
+0 0 18344
+D4
+~
+~
+0 0 18353
+S
+#18353
+Hill~
+You are standing on the steep slope of a grassy hill. You can see the land
+of Monotheya spread out before you southwards. The hill you're on continues
+upwards into the clouds, and a well-traveled road heads south from the foot.
+~
+0 0 4
+D4
+~
+~
+0 0 18354
+D5
+~
+~
+0 0 18352
+S
+#18354
+Hill~
+You stand on a higher point on a large grassy hill. You can see the land of
+Monotheya spread out to the south. The hill continues upwards, although
+you'll have to find an incline not as steep to climb; you don't really want
+to try climbing a cliff, do you? A short path heads north.
+~
+0 0 4
+D0
+~
+~
+0 0 18355
+D1
+~
+~
+0 0 18356
+D5
+~
+~
+0 0 18353
+S
+#18355
+A Lot of Bells~
+You stand on a small plateau on the grassy hill. A series of bells sit on the
+plateau. Every so often, one of them rings a beautiful melody, then another
+joins in, and sooner or later all the bells are chiming a beautiful song. You
+stand mesmerized by the sound, but suddenly realize you're not alone: several
+people have come to the bells, completely taken in by their sound!
+~
+0 0 2
+D2
+~
+~
+0 0 18354
+S
+#18356
+Hill~
+You walk along a short dirt path on the side of the huge grassy hill. The
+land of Monotheya stretches out south of you. You can see practically the
+whole land from here! It's an amazing view.
+You can continue climbing the hill here; there's space to grab hold.
+~
+0 0 4
+D3
+~
+~
+0 0 18354
+D4
+~
+~
+0 0 18357
+S
+#18357
+Distant Antenna~
+You are at the top of the hill, the highest point in all of the land. A large
+metallic pole sticks out of the ground here. A flagpole, perhaps? The land is
+all around you to the south, although to the north, you see nothing but
+blackness.
+~
+0 0 2
+D5
+~
+~
+0 0 18356
+S
+#18358
+Toddler Hiway~
+You stand on a well-maintained road that sees a lot of two-way traffic. Most
+of the users of this road are short people: they look a lot like little
+children, in fact. The road itself continues on for as far as you can see.
+~
+0 0 1
+D0
+~
+~
+0 0 18318
+D2
+~
+~
+0 0 18366
+D3
+~
+~
+0 0 18359
+S
+#18359
+Seaside~
+You stand in the soft sand on a warm beach.  The waters lazily lap at the
+shore.  A small wave crashes down on the shore every so often, but no damage
+is done by the water.  The soft roar of the ocean brings a strange
+tranquility to your mind.  
+~
+0 0 2
+D1
+~
+~
+0 0 18358
+D2
+~
+~
+0 0 18367
+D3
+~
+~
+0 0 18360
+S
+#18360
+Beach~
+You walk along a sandy beach. Every step you take kicks the gritty material
+(and there's a lot of it) into the air. It settles itself down almost
+immediately after it is disturbed. You wonder what treasures lurk beneath the
+great dunes...
+~
+0 0 2
+D0
+~
+~
+0 0 18361
+D1
+~
+~
+0 0 18359
+D3
+~
+~
+0 0 18362
+S
+#18361
+Newport~
+You stand in a rather fancy-looking city on the beach.  Several boats are
+docked at the harbor.  Huge waves rise up and crash down on the beach again
+and again.  Many of the city's inhabitants come out and watch the big event
+on the beach almost daily: surfing contests!  Some try to actually "surf,"
+although driftwood isn't the best material for it.  
+~
+0 0 1
+D2
+~
+~
+0 0 18360
+S
+#18362
+Beach~
+You walk along a sandy beach. Every step you take kicks the gritty material
+(and there's a lot of it) into the air. It settles itself down almost
+immediately after it is disturbed. You wonder what treasures lurk beneath the
+great dunes...
+~
+0 0 2
+D1
+~
+~
+0 0 18360
+D2
+~
+~
+0 0 18365
+D3
+~
+~
+0 0 18363
+S
+#18363
+Beach~
+You walk along a sandy beach. Every step you take kicks the gritty material
+(and there's a lot of it) into the air. It settles itself down almost
+immediately after it is disturbed. You wonder what treasures lurk beneath the
+great dunes...
+~
+0 0 2
+D1
+~
+~
+0 0 18362
+D2
+~
+~
+0 0 18364
+S
+#18364
+Beach~
+You walk along a sandy beach. Every step you take kicks the gritty material
+(and there's a lot of it) into the air. It settles itself down almost
+immediately after it is disturbed. You wonder what treasures lurk beneath the
+great dunes...
+~
+0 0 2
+D0
+~
+~
+0 0 18363
+D1
+~
+~
+0 0 18365
+S
+#18365
+Beach~
+You walk along a sandy beach. Every step you take kicks the gritty material
+(and there's a lot of it) into the air. It settles itself down almost
+immediately after it is disturbed. You wonder what treasures lurk beneath the
+great dunes...
+~
+0 0 2
+D0
+~
+~
+0 0 18362
+D3
+~
+~
+0 0 18364
+S
+#18366
+Toddler Hiway~
+You stand on a well-maintained road that sees a lot of two-way traffic. Most
+of the users of this road are short people: they look a lot like little
+children, in fact. The road itself continues on for as far as you can see.
+~
+0 0 1
+D0
+~
+~
+0 0 18358
+D2
+~
+~
+0 0 18370
+D3
+~
+~
+0 0 18367
+S
+#18367
+Seaside~
+You stand in the soft sand on a warm beach.  The waters lazily lap at the
+shore.  A small wave crashes down on the shore every so often, but no damage
+is done by the water.  The soft roar of the ocean brings a strange
+tranquility to your mind.  
+~
+0 0 2
+D0
+~
+~
+0 0 18359
+D1
+~
+~
+0 0 18366
+D2
+~
+~
+0 0 18378
+D3
+~
+~
+0 0 18368
+S
+#18368
+Cowtown~
+You are in a small town near the water. A few barns are scattered about.
+The residents of the town pass by you and say "moooo." Of course, the 
+inhabitants are cows, after all.
+~
+0 0 1
+D1
+~
+~
+0 0 18367
+D3
+~
+~
+0 0 18369
+S
+#18369
+Underwater~
+Splash! You have wandered into the western half of Cowtown, but it lies
+underwater. The water provides a muted serenity as you take in the submersed
+town. Sea cows swim by and moo at you.
+~
+0 8 12
+D1
+~
+~
+0 0 18368
+S
+#18370
+Toddler Hiway~
+You stand on a well-maintained road that sees a lot of two-way traffic. Most
+of the users of this road are short people: they look a lot like little
+children, in fact. The road itself continues on for as far as you can see.
+~
+0 0 1
+D0
+~
+~
+0 0 18366
+D1
+~
+~
+0 0 18371
+D2
+~
+~
+0 0 18377
+S
+#18371
+Sanctuary~
+You are on a quiet bush-lined path that heads towards a small building. Birds
+sing sweetly as you pass by their nests. It feels serene to be in this part of the land.
+~
+0 0 1
+D1
+~
+~
+0 0 18372
+D3
+~
+~
+0 0 18370
+S
+#18372
+Sanctuary~
+You walk through a bush-lined cobblestone pathway towards a small building.
+You hear the songs of birds in the air as your presence disturbs the air
+around their nests. The wind carries the fresh scent of flowers on it.
+~
+0 0 1
+D1
+~
+~
+0 0 18373
+D3
+~
+~
+0 0 18371
+S
+#18373
+Display Area~
+You are standing in front of a small building used to house some form of
+special exhibits. Small display cases of animals are scattered about in front
+of you. Strange groans can be heard from the building -- something's inside...
+~
+0 0 1
+D0
+~
+~
+0 0 18374
+D3
+~
+~
+0 0 18372
+S
+#18374
+Cage~
+You have walked into a building with steel bars lining the walls.  To
+your horror, you realize you're in a cage!  The doorway south has slammed
+shut, preventing you from escaping that way!  There's a door to the west,
+but you have no way of opening the door.  There must be a way out
+somewhere...  
+You hear splashing to the east.
+~
+0 8 0
+D1
+~
+~
+0 0 18375
+D3
+~
+~
+1 18326 18376
+S
+#18375
+Aquarium~
+Splash! You are waist-deep in a large aquarium built for holding several
+water-going beasts. Every so often something passes by you, splashing all
+the way. You feel things brush against your legs... it doesn't feel pleasant,
+that's for sure!
+A large raised platform is to the west. You can see bars on the wall.
+~
+0 8 6
+D3
+~
+~
+0 0 18374
+S
+#18376
+Out of Jail~
+Whew! You've managed to escape the evil cage and aquarium that held you for
+so long! Now all you have to do is... hmm, where ARE you? This isn't the
+outside of the building... in fact, you're in some strange tunnel that
+descends into darkness... only one way to go, too...
+~
+0 8 0
+D5
+~
+~
+0 0 18345
+S
+#18377
+Toddler Hiway~
+You stand on a well-maintained road that sees a lot of two-way traffic. Most
+of the users of this road are short people: they look a lot like little
+children, in fact. The road itself continues on for as far as you can see.
+~
+0 0 1
+D0
+~
+~
+0 0 18370
+D2
+~
+~
+0 0 18382
+D3
+~
+~
+0 0 18378
+S
+#18378
+Seaside~
+You stand in the soft sand on a warm beach.  The waters lazily lap at the
+shore.  A small wave crashes down on the shore every so often, but no damage
+is done by the water.  The soft roar of the ocean brings a strange
+tranquility to your mind.  
+~
+0 0 2
+D0
+~
+~
+0 0 18367
+D1
+~
+~
+0 0 18377
+D3
+~
+~
+0 0 18379
+S
+#18379
+Lighthouse~
+You are at the foot of a lighthouse that sits upon the shore of the
+mighty sea that stretches before you to the west.  A great beam of light
+shines from the top floor of the lighthouse and circles about, illuminating
+a good deal of the land about you.  No ships will crash into the shore,
+thanks to the lighthouse.  
+A staircase spirals its way upwards.
+~
+0 0 0
+D1
+~
+~
+0 0 18378
+D4
+~
+~
+0 0 18380
+S
+#18380
+Lighthouse~
+You stand at the top floor of the lighthouse, where the great lantern
+revolves and shines its guiding light out to sea.  To the west, you can see
+the waves crash and roll as they move eastwards.  A faint mist rises from
+the water, but you see no ships.  The lighthouse is doing a good job.  
+A small enclave lies to your east. It looks like a birdhouse(?).
+~
+0 0 0
+D1
+~
+~
+0 0 18381
+D5
+~
+~
+0 0 18379
+S
+#18381
+Birdhouse In Your Soul~
+My oh my!  You are standing inside a large wooden house perched atop a
+lighthouse.  There are several wooden perches above you in the "attic"
+(there are no floors in this house, per se).  Claw marks from some kind of
+beast have scratched the wood.  A mirror fills up the entire eastern wall. 
+You look into the mirror, and you can feel yourself looking deep into
+yourself, almost as if you're on some form of personal journey.  A bright
+flash of light reflects off this mirror and out into the sky; this must be
+the source of light for the lighthouse.  
+~
+0 8 0
+D3
+~
+~
+0 0 18380
+S
+#18382
+Toddler Hiway~
+You stand on a well-maintained road that sees a lot of two-way traffic. Most
+of the users of this road are short people: they look a lot like little
+children, in fact. The road itself continues on for as far as you can see.
+~
+0 0 0
+D0
+~
+~
+0 0 18377
+D1
+~
+~
+0 0 18387
+D3
+~
+~
+0 0 18383
+S
+#18383
+Seaside~
+You stand in the soft sand on a warm beach.  The waters lazily lap at the
+shore.  A small wave crashes down on the shore every so often, but no damage
+is done by the water.  The soft roar of the ocean brings a strange
+tranquility to your mind.  
+~
+0 0 0
+D0
+~
+~
+0 0 18378
+D1
+~
+~
+0 0 18382
+D2
+~
+~
+0 0 18384
+D3
+~
+~
+0 0 18386
+S
+#18384
+Ocean's End~
+You are at the edge of the ocean.  Before you lies water as far as the
+eye can see.  Soft rolling waves bring surf in, splashing the beach with
+water and starfish.  There's not much beach to wander around on, though. 
+It's awfully rocky around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 18383
+D3
+~
+~
+0 0 18385
+S
+#18385
+Ship~
+When the ship runs out of ocean and the vessel runs aground, land's when
+we know the boat is found.  Now there's nothing unexpected about the water
+running out; "Land's" not a word we have to shout.  But there's something
+beside the shoreline coming up from the shipwreck moving across the
+beachhead making as if to say: "Women & Men."  
+~
+0 0 0
+D1
+~
+~
+0 0 18384
+S
+#18386
+The Misty Sea~
+You are standing waist deep in the sea.  A soft mist rises from the
+water.  As a result, it's awfully foggy here!  The water itself is warm to
+the touch; you feel like going for a swim.  
+~
+0 0 6
+D1
+~
+~
+0 0 18383
+S
+#18387
+Arena~
+You are in a large arena, suitable for watching others fight or wrestle
+or whatever.  You can move about in the stands, or go into the center of the
+arena and get into the action.  
+~
+0 8 0
+D0
+~
+~
+0 0 18388
+D1
+~
+~
+0 0 18395
+D2
+~
+~
+0 0 18394
+D3
+~
+~
+0 0 18382
+S
+#18388
+Arena~
+You are in a large arena, suitable for watching others fight or wrestle
+or whatever.  You can move about in the stands, or go into the center of the
+arena and get into the action.  
+~
+0 8 0
+D1
+~
+~
+0 0 18389
+D2
+~
+~
+0 0 18387
+S
+#18389
+Arena~
+You are in a large arena, suitable for watching others fight or wrestle
+or whatever.  You can move about in the stands, or go into the center of the
+arena and get into the action.  
+~
+0 8 0
+D1
+~
+~
+0 0 18390
+D2
+~
+~
+0 0 18395
+D3
+~
+~
+0 0 18388
+S
+#18390
+Arena~
+You are in a large arena, suitable for watching others fight or wrestle
+or whatever.  You can move about in the stands, or go into the center of the
+arena and get into the action.  
+~
+0 8 0
+D2
+~
+~
+0 0 18391
+D3
+~
+~
+0 0 18389
+S
+#18391
+Arena~
+You are in a large arena, suitable for watching others fight or wrestle
+or whatever.  You can move about in the stands, or go into the center of the
+arena and get into the action.  
+~
+0 8 0
+D0
+~
+~
+0 0 18390
+D2
+~
+~
+0 0 18392
+D3
+~
+~
+0 0 18395
+S
+#18392
+Arena~
+You are in a large arena, suitable for watching others fight or wrestle
+or whatever.  You can move about in the stands, or go into the center of the
+arena and get into the action.  
+~
+0 8 0
+D0
+~
+~
+0 0 18391
+D3
+~
+~
+0 0 18393
+S
+#18393
+Arena~
+You are in a large arena, suitable for watching others fight or wrestle
+or whatever.  You can move about in the stands, or go into the center of the
+arena and get into the action.  
+~
+0 8 0
+D0
+~
+~
+0 0 18395
+D1
+~
+~
+0 0 18392
+D3
+~
+~
+0 0 18394
+S
+#18394
+Arena~
+You are in a large arena, suitable for watching others fight or wrestle
+or whatever.  You can move about in the stands, or go into the center of the
+arena and get into the action.  
+~
+0 8 0
+D0
+~
+~
+0 0 18387
+D1
+~
+~
+0 0 18393
+S
+#18395
+Arena Center~
+You are on a square stage-like platform in the middle of the arena.  This
+is where combatants face each other for their showdowns.  You can hear the
+crowd cheering on the current crop, perhaps you'd like to get into the
+action yourself?  
+~
+0 8 0
+D0
+~
+~
+0 0 18389
+D1
+~
+~
+0 0 18391
+D2
+~
+~
+0 0 18393
+D3
+~
+~
+0 0 18387
+S
+#0
+
+
+
+#SPECIALS
+M 18326 spec_breath_fire Load to: a statue
+M 18333 spec_breath_frost Load to: a snowball
+M 18336 spec_cast_cleric Load to: an angel
+M 18337 spec_cast_cleric Load to: the devil
+M 18355 spec_breath_any Load to: Universe Man
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 18338 3 2
+D 0 18339 1 2
+D 0 18348 1 1
+D 0 18349 3 1
+D 0 18374 3 2
+M 1 18300 3 18301 1
+M 1 18301 1 18305 1
+M 1 18300 3 18306 1
+M 1 18302 1 18307 1
+M 1 18300 3 18309 1
+E 0 18300 0 5
+M 1 18303 1 18311 1
+E 0 18301 0 12
+M 1 18356 5 18318 1
+M 1 18304 1 18321 1
+O 0 18302 0 18322
+M 1 18305 1 18322 1
+M 1 18307 1 18323 1
+M 1 18306 6 18323 6
+M 1 18308 1 18324 1
+M 1 18309 1 18326 1
+M 1 18310 1 18327 1
+M 1 18313 1 18331 1
+E 0 18303 0 8
+M 1 18312 1 18331 1
+M 1 18311 1 18331 1
+O 0 18304 0 18332
+M 1 18317 1 18332 1
+E 0 18307 0 17
+E 0 18306 0 11
+M 1 18316 1 18332 1
+M 1 18315 1 18332 1
+E 0 18305 0 16
+M 1 18314 1 18332 1
+M 1 18321 1 18334 1
+M 1 18320 1 18334 1
+M 1 18319 1 18334 1
+M 1 18318 1 18334 1
+M 1 18322 1 18335 1
+E 0 18308 0 6
+E 0 18310 0 17
+P 0 18309 1 18310 1
+M 1 18356 5 18336 1
+O 0 18311 0 18337
+P 0 18312 1 18311 1
+P 0 18317 1 18312 1
+P 0 18316 1 18312 1
+P 0 18315 1 18312 1
+P 0 18314 1 18312 1
+P 0 18313 1 18312 1
+M 1 18323 1 18338 1
+M 1 18324 1 18339 1
+E 0 18318 0 17
+M 1 18325 1 18342 1
+E 0 18319 0 6
+M 1 18326 1 18343 1
+M 1 18327 1 18346 1
+M 1 18331 1 18349 1
+M 1 18330 1 18349 1
+M 1 18329 1 18349 1
+M 1 18328 1 18349 1
+M 1 18332 1 18350 1
+E 0 18320 0 10
+M 1 18333 1 18351 1
+M 1 18356 5 18352 1
+O 0 18322 0 18355
+M 1 18335 1 18355 1
+E 0 18321 0 17
+M 1 18334 6 18355 6
+M 1 18334 6 18355 6
+M 1 18336 1 18357 1
+O 0 18323 0 18357
+M 1 18337 1 18361 1
+E 0 18324 0 17
+M 1 18338 2 18362 1
+M 1 18338 2 18364 1
+E 0 18325 0 17
+M 1 18356 5 18366 1
+M 1 18339 4 18368 4
+M 1 18340 1 18369 1
+M 1 18346 1 18374 1
+M 1 18345 1 18374 1
+M 1 18344 1 18374 1
+M 1 18341 1 18375 1
+E 0 18326 0 17
+M 1 18342 1 18375 1
+M 1 18343 1 18375 1
+M 1 18356 5 18377 1
+M 1 18348 1 18379 1
+E 0 18329 0 2
+E 0 18330 0 18
+M 1 18347 1 18381 1
+E 0 18327 0 0
+E 0 18328 0 17
+M 1 18349 6 18385 6
+M 1 18350 6 18385 6
+M 1 18351 1 18386 1
+M 1 18355 1 18395 1
+E 0 18331 0 15
+M 1 18354 1 18395 1
+M 1 18353 1 18395 1
+M 1 18352 1 18395 1
+E 0 18393 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

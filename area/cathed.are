@@ -1,0 +1,2106 @@
+#AREADATA
+Name Cathedral of Shandalar~
+Builders None~
+VNUMs 4400 4499
+Credits { None} Ying        Shandalar Cathedral~
+Security 1
+Xcontinent 1
+Age 11
+Questable 1
+End
+
+
+
+#MOBILES
+#4400
+Filthy beggar~
+A filthy beggar~
+A filthy beggar is here begging you for silver.
+~
+Ew, what a bum.  He should get a haircut and get a real job.  You have a
+feeling that if you approch him, he won't go away.  
+~
+human~
+AB CVZa 500 0
+1 0 1d1+19 1d1+100 1d1+0 punch
+32 32 32 32
+CFHKNU ABCEFG 0 PYZ
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4401
+Conner Macleod Highlander~
+The Highlander~
+A man in a kilt, holding a katana, seeking sanctuary
+~
+Now what is this gentleman doing here?  He is dressed crudely in a kilt
+of the clan Macleod, and holds a katana like he knows how to use it.  His
+eyes dart back and forth like he is looking for someone, or trying to avoid
+them.  
+~
+human~
+AGT DFHJNPVab 1000 0
+60 6 50d10+9500 1d1+100 8d6+28 pound
+-30 -30 -30 -30
+ABCDEFHIJKLN ABCab EF G
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4402
+bishop priest~
+the Bishop of Shandalar~
+The Bishop of Shandalar is here blessing the masses.
+~
+Its his cathedral, so be nice and quit staring at him lest he smite thee
+with all of Selina's wrath.  There, now kiss his ring.  Think he'll sell you
+an indulgence?  
+~
+human~
+ABa 0 1000 0
+60 6 50d10+9500 500d1+0 8d6+28 none
+-30 -30 -30 -30
+0 ABCDP 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 4400 100~
+#4403
+High Note~
+a high note~
+A dazed looking note stands here humming
+~
+This is your music.  This is your music on drugs.  Any questions?
+~
+modron~
+AB J 0 0
+35 3 10d10+1300 1d1+100 4d7+11 magic
+-11 -11 -11 -11
+FKQR BMNPQ HIK 0
+stand stand none 3000
+CH ABCGHJK medium air the guilds~
+#4404
+Low Note~
+a low note~
+A sad note is here crying a sad song
+~
+Does emotional music have quite an effect on you?
+Well it sure does for a down and out note.
+~
+modron~
+AB J 0 0
+35 3 10d10+1300 1d1+100 4d7+11 magic
+-11 -11 -11 -11
+FKQR BMNPQ HIK 0
+stand stand none 3000
+CH ABCGHJK medium air the guilds~
+#4405
+organist~
+the Organist~
+The Organist is sitting here playing with his organ.
+~
+The white robed man is the master of his organ.
+Probably because he is always playing with it.
+~
+human~
+A 0 1000 0
+1 0 2d6+10 1d1+100 1d4+0 punch
+9 9 9 9
+0 0 0 0
+sit stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4498
+bitch~
+Free Exp Bitch~
+Free Exp Bitch
+~
+~
+human~
+A 0 -1000 0
+60 1 1d1+0 1d1+0 1d1+0 none
+52 52 52 52
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4499
+Cash Moose~
+Cash Moose~
+Heard of a cash cow right?  How about a cash moose?
+~
+~
+bear~
+A 0 0 0
+0 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+DEO 0 EI 0
+stand stand none 500000
+AGV ABCDEFHJKUV medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#4400
+katana highlander~
+the Highlander's Katana~
+A narrow steel katana, shining with holy light~
+silver~
+weapon AIKe AN
+sword 5 7 slash CP
+50 50 20000 P
+A
+2 3  
+A
+18 5  
+#4401
+lesser indulgance~
+a lesser indulgence~
+A small favour granted by the Bishop of Shandalar awaits use~
+paper~
+scroll AI AO
+30 'bless' 'reserved' 'reserved' 'reserved'
+30 2 500 P
+#4402
+pew~
+a pew~
+A deep stained wooden pew~
+wood~
+furniture 0 0
+10 100000 EHKN 100 100
+0 10000 0 P
+#4403
+candles~
+some candles on a stand~
+A stand of candles shedding {Ylight{x~
+wax~
+light AI 0
+0 0 999 0 0
+0 1000 100 P
+#4404
+joint spliff~
+a spliff~
+A funny looking little cigar is lying on the ground.  It smells funny, but nice.~
+ash~
+staff A AO
+50 10 5 'confusion' 0
+35 1 10000 P
+#4405
+mighty organ cathdral~
+the mighty organ of the cathedral~
+The mighty organ of the cathedral waits to be played on~
+wood~
+furniture 0 0
+5 0 DG 100 100
+0 100000 10000000 P
+#4406
+greater indulgence~
+a greater indulgence~
+A boon granted by the Bishop of Shandalar awaits use~
+parchment~
+scroll AIK AO
+50 'sanctuary' 'heal' 'detect invis' 'reserved'
+50 5 10000 P
+#4494
+sign~
+A Sign~
+A sign that says '{RRosalie and Sunshine. I'm building and incog, yell incase I miss you logging on{x'~
+wood~
+furniture A A
+0 0 0 0 0
+0 0 0 P
+#4495
+throne sunshine~
+her Throne~
+The {YSun {yQueen's{x Throne~
+silver~
+furniture AI P
+1 100000 BEHKN 100 100
+0 0 0 P
+#4496
+Moose antlers~
+Moose antlers~
+Moose antlers~
+bone~
+armor 0 AE
+0 0 0 0 0
+0 10 1 P
+A
+3 15  
+#4497
+stick incence good~
+A huge stick of incense, it smells really {Cgood{x.~
+A huge stick of incence, it smells really {Cgood{x.~
+earth~
+furniture AGI 0
+0 0 0 0 0
+0 10000 1 P
+#4498
+bolt light~
+a bolt of {YBLINDING LIGHT{x!~
+Yeowch!  Where are your sunglasses!~
+iron~
+weapon 0 AN
+sword 300 1 none DEFY
+54 0 0 P
+A
+2 10  
+A
+1 10  
+A
+20 -50  
+A
+18 50  
+#4499
+ying couch~
+Ying's Couch of Light~
+A couch made out of pure {Ylight{x energy~
+energy~
+furniture ABI P
+100 100000 BEHKN 500 500
+1 5000 100000 P
+A
+13 50  
+#0
+
+
+
+#ROOMS
+#4400
+Road to the Cathedral~
+You follow a lane south off of Glory Avenue.  The large flagstones are
+lined on either side by tall willow trees.  Thier branches drooping and
+swaying in the breeze.  To the north lies the bustle of Shandalar.  To the
+south the majestic peaks and spires of the cathedral of Shandalar poke above
+the trees.  Closer you see the wrought iron fence around the cathedral.  
+ 
+~
+0 0 1
+E
+wrought iron fence~
+This decorative fence was painted black, but is now stained with rust. 
+It was put up more to mark the land belonging to the church than to keep
+anyone in or out.  
+~
+D2
+~
+~
+0 0 4401
+D4
+~
+~
+0 0 4499
+S
+#4401
+Before the Cathedral of Shandalar~
+You stand before the Cathedral of Shandalar.  The view here is awe
+inspiring.  The massive building is covered with decorative stone cuttings. 
+The flying butresses sweep grandiously.  The stair before you rise solemly
+cut from white marble.  Off to the side of the stairs you can here the
+voices of suffering crying out.  And a smell comes at you ruining the
+serenity of the moment.  To the east and west a cobblestone path stretches
+around the building.  
+~
+0 0 1
+E
+white marble stairs~
+Wow do they gleam.  A million feet have polished the stairs to a radiant
+gleam.  
+~
+D0
+~
+~
+0 0 4400
+D1
+~
+~
+0 0 4402
+D2
+~
+~
+0 0 4416
+D3
+~
+~
+0 0 4403
+D4
+~
+~
+0 0 4426
+S
+#4402
+Front of the Cathedral~
+You are headed east along the front of the cathedral on a flagstone path.
+Walking among the manicured lawns you can see the city of Shadalar to the
+north.  The drooping willow trees lend to the sence of tranquility you feel
+right now.  
+ 
+~
+0 0 1
+D1
+~
+~
+0 0 4404
+D3
+~
+~
+0 0 4401
+S
+#4403
+Front of the Cathedral~
+You are headed west around the cathedral.  It looks just a breath taking
+from here as well.  You can see the main area before the stairs to the east.
+Right now you're on the a flag stone walk among the manicured lawns.  Tall
+willow tress also grow here on the catherdrals lands.  
+~
+0 0 1
+D1
+~
+~
+0 0 4401
+D3
+~
+~
+0 0 4405
+S
+#4404
+North-East corner of the Cathedral~
+You have reached the north east side of the cathedral.  From here you can
+see the full lengthof the east side of the cathedral.  You have a urge to go
+south and view the stained glass windows.  
+~
+0 0 1
+D2
+~
+~
+0 0 4409
+D3
+~
+~
+0 0 4402
+S
+#4405
+North-West corner of the Cathedral~
+You have reached the north west side of the cathedral.  From here you can
+see the full length of the from and west sides.  You have a urge to go south
+and view the stained glass windows.  
+~
+0 0 1
+D1
+~
+~
+0 0 4403
+D2
+~
+~
+0 0 4406
+S
+#4406
+West side of the Cathedral~
+You are now along the west side of the cathedral near the north end.  The
+beautiful architecture is more apperant here.  You can view the wonderfull
+detail much better from here...  The butresses, the life like stained glass
+windows.  To the south you see more of the cathedral.  To the north is the
+corner.  
+~
+0 0 1
+E
+stained glass window~
+The glass glitters in magnificent details.  This one shows a scene of a
+dragon meeting a bloody end.  
+~
+D0
+~
+~
+0 0 4405
+D2
+~
+~
+0 0 4407
+S
+#4407
+West side of the Cathedral~
+You are now at about the middle of the cathedral on the west side.  To
+the west past the fence you can see the hustle and bustle of Shandalar. 
+However you feel removed from it all and peacefull.  The walls of the
+cathedral rise beside you, the architecture is truly amazing.  
+~
+0 0 1
+E
+stained glass window~
+The glass glitters in magnificent details.  This one shows a scene of a
+dragon meeting a bloody end.  
+~
+D0
+~
+~
+0 0 4406
+D2
+~
+~
+0 0 4408
+S
+#4408
+West side of the Cathedral~
+You are walking along the west side of the cathedral close to the
+southern end.  The sound of heavenly singing can be heard coming through the
+stately stained glass windows of the cathedral.  
+~
+0 0 1
+E
+stained glass window~
+The glass glitters in magnificent details.  This one shows a scene of a
+dragon meeting a bloody end.  
+~
+D0
+~
+~
+0 0 4407
+D2
+~
+~
+0 0 4415
+S
+#4409
+East side of the Cathedral~
+You are now along the east side of the cathedral near the north end.  The
+beautiful arcitecture is more apperant here.  You can view the wonderfull
+detail much better from here.  The butressess, the life like stained glass
+windows.  To the south you see more of the cathedral, to the north is the
+corner.  
+~
+0 0 1
+E
+stained glass window~
+The glass glitters in magnificent details.  This one shows a scene of a
+dragon meeting a bloody end.  
+~
+D0
+~
+~
+0 0 4404
+D2
+~
+~
+0 0 4410
+S
+#4410
+East side of the Cathedral~
+You are now at about the middle of the cathedral on the east side.  To
+the east past the fence you can see the hustle and bustle of Shandalar. 
+However you feel removed from it all and peacefull.  The walls of the
+cathedral rise beside you, the architecture is truely amazing.  
+~
+0 0 1
+E
+stained glass window~
+The glass glitters in magnificent details.  This one shows a scene of a
+dragon meeting a bloody end.  
+~
+D0
+~
+~
+0 0 4409
+D2
+~
+~
+0 0 4411
+S
+#4411
+East side of the Cathedral~
+You are walking along the east side of the cathedral close to the
+southern end.  To the east you feel the peace and tranquility of the nearby
+seeker outpost overwhelming the smell coming from the slums visable past the
+fence.  
+~
+0 0 1
+E
+stained glass window~
+The glass glitters in magnificent details.  This one shows a scene of a
+dragon meeting a bloody end.  
+~
+D0
+~
+~
+0 0 4410
+D2
+~
+~
+0 0 4412
+M 110 H 110
+S
+#4412
+South-East corner of the Cathedral~
+You are at the south east corner of the cathedral.  To the north stretchs
+the magnificant awe inspiring walls of the cathedral.  The stained glass
+windows, the elaborate stone carvings, the flying butresses.  To the south
+you can see the sprawling graveyard locked safetly behind a substantial
+fence.  
+~
+0 0 1
+D0
+~
+~
+0 0 4411
+D3
+~
+~
+0 0 4413
+S
+#4413
+Rear of the Cathedral~
+You are at the back of the cathedral.  Odd, the grass doesn't seem as
+green back here.  To the south is the graveyard safetly behind a iron fence.
+Just to your west you can see the gate.  You have to fight down the urge to
+shiver.  
+~
+0 0 1
+D1
+~
+~
+0 0 4412
+D3
+~
+~
+0 0 4414
+S
+#4414
+Rear of the Cathedral~
+You are at the back of the cathedral.  To the south are the gates to the
+graveyard.  Final resting place of the rich and powerfull.  To your north,
+yes, the cathedral rises above you blotting out the sky, making it feel
+extra chilly standing looking at the dead.  
+~
+0 0 1
+D1
+~
+~
+0 0 4413
+D2
+A very substantial iron gate gaurding the grave yard.  It looks like it
+has been chewed on by something.  
+~
+iron gate~
+3 0 4417
+D3
+~
+~
+0 0 4415
+S
+#4415
+South-West corner of the Cathedral~
+You are at the south west corner of the cathedral.  To the north stretchs
+the magnificant awe inspiring walls of the cathedral.  The stained glass
+windows, the elaborate stone carvings, the flying butresses.  To the south
+you can see the sprawling graveyard locked safetly behind a substantial
+fence.  
+ 
+~
+0 0 1
+D0
+~
+~
+0 0 4408
+D1
+~
+~
+0 0 4414
+S
+#4416
+Beggers Alley~
+You have slipped around beside the stairs to the source of the stink. 
+Assorted invalids and cripples are here begging for your silver.  Welcome to
+beggars alley.  
+~
+0 0 1
+D0
+~
+~
+0 0 4401
+S
+#4417
+Enterance of the graveyard~
+You are at the enterance of the grave yard.  Final resting place of those
+weathy or important enough to earn a spot.  To bad you never will.  You're
+flesh crawls just looking at the rambling sprawl of tombstones, crypts, and
+masuleums.  To the north is the iron gate letting you out of the cathederal
+graveyard.  
+~
+0 8192 1
+D0
+A very very substantial iron gate blocking your exit back onto the
+cathederal proper.  Something has been chewing on it.  
+~
+iron gate~
+3 0 4414
+D1
+~
+~
+0 0 4423
+D2
+~
+~
+0 0 4418
+D3
+~
+~
+0 0 4420
+M 50 H 50
+S
+#4418
+Graveyard~
+The ground is dead, the stones are cold.  If you're not paying respects
+to one of the deceased, what are you doing in here?  
+~
+0 8192 1
+D0
+~
+~
+0 0 4417
+D1
+~
+~
+0 0 4424
+D2
+~
+~
+0 0 4419
+D3
+~
+~
+0 0 4421
+M 50 H 50
+S
+#4419
+Graveyard~
+The ground is dead, the stones are cold.  If you're not paying respects
+to one of the deceased, what are you doing in here?  
+~
+0 8192 1
+D0
+~
+~
+0 0 4418
+D1
+~
+~
+0 0 4425
+D2
+~
+~
+0 0 4425
+D3
+~
+~
+0 0 4422
+M 50 H 50
+S
+#4420
+Graveyard~
+The ground is dead, the stones are cold.  If you're not paying respects
+to one of the deceased, what are you doing in here?  To the north of you is
+the graveyard fence, and on the other side the cathedral proper.  
+~
+0 8192 1
+D1
+~
+~
+0 0 4417
+D2
+~
+~
+0 0 4421
+D3
+~
+~
+0 0 4423
+M 50 H 50
+S
+#4421
+Graveyard~
+The ground is dead, the stones are cold.  If you're not paying respects
+to one of the deceased, what are you doing in here?  
+~
+0 8192 1
+D0
+~
+~
+0 0 4420
+D1
+~
+~
+0 0 4418
+D2
+~
+~
+0 0 4422
+D3
+~
+~
+0 0 4424
+M 50 H 50
+S
+#4422
+Graveyard~
+The ground is dead, the stones are cold.  If you're not paying respects
+to one of the deceased, what are you doing in here?  
+~
+0 8192 1
+D0
+~
+~
+0 0 4421
+D1
+~
+~
+0 0 4419
+D2
+~
+~
+0 0 4419
+D3
+~
+~
+0 0 4425
+M 50 H 50
+S
+#4423
+Graveyard~
+The ground is dead, the stones are cold.  If you're not paying respects
+to one of the deceased, what are you doing in here?  To the north of you is
+the graveyard fence, and on the other side the cathedral proper.  
+~
+0 8192 1
+D1
+~
+~
+0 0 4420
+D2
+~
+~
+0 0 4424
+D3
+~
+~
+0 0 4417
+M 50 H 50
+S
+#4424
+Graveyard~
+The ground is dead, the stones are cold.  If you're not paying respects
+to one of the deceased, what are you doing in here?  
+~
+0 8192 1
+D0
+~
+~
+0 0 4423
+D1
+~
+~
+0 0 4421
+D2
+~
+~
+0 0 4425
+D3
+~
+~
+0 0 4418
+M 50 H 50
+S
+#4425
+Graveyard~
+The ground is dead, the stones are cold.  If you're not paying respects
+to one of the deceased, what are you doing in here?  
+~
+0 8192 1
+D0
+~
+~
+0 0 4424
+D1
+~
+~
+0 0 4422
+D2
+~
+~
+0 0 4422
+D3
+~
+~
+0 0 4419
+M 50 H 50
+S
+#4426
+Top of the Cathedral Stairs~
+Climbing all those stairs was invigorating, now you're breathless. 
+Before you are the massive gilt doors of the cathedral.  The detail is
+breathtaking.  From here you have a fine view of the cathedral grounds.  
+~
+0 0 1
+D2
+The huge double doors of the cathedral.  Covered in gold leaf, with
+embosed images of various hero's of antiquity slaying great dragons.  
+~
+door~
+1 0 4427
+D5
+~
+~
+0 0 4401
+S
+#4427
+Main Enterance~
+Welcome to the cathedral of Shandalar.  You stand inside the main
+enterance of the cathedral, to the north lie the great gold gilt doors. 
+Around you the smooth stone wall rise into the dim candle light.  Against
+the walls a dozen stands of candles light the enterance.  To the east and
+west you see the balcony stairs rising into the darkness.  To the south you
+see rows of pews in the nave.  
+~
+0 8 0
+D0
+The huge double doors of the cathedral.  Covered in gold leaf, with
+embosed images of various hero's of antiquity slaying great dragons.  
+~
+door~
+1 0 4426
+D1
+~
+~
+0 0 4429
+D2
+~
+~
+0 0 4439
+D3
+~
+~
+0 0 4428
+S
+#4428
+Western Staircase~
+You are just west of the main enterance at the base of the balcony
+stairs.  The stone stairs rise into the dim darkness above.  On each side of
+the stairs a single candle burns.  
+~
+0 8 0
+D1
+~
+~
+0 0 4427
+D4
+~
+~
+0 0 4430
+S
+#4429
+Eastern Staircase~
+You are just east of the main enterance at the base of the balcony
+stairs.  The stone stairs rise into the dim darkness above.  On each side of
+the stairs a single candle burns.  
+~
+0 8 0
+D3
+~
+~
+0 0 4427
+D4
+~
+~
+0 0 4431
+S
+#4430
+Upper Western Staircase~
+~
+0 8 0
+D1
+~
+~
+0 0 4432
+D2
+~
+~
+0 0 4433
+D5
+~
+~
+0 0 4428
+S
+#4431
+Upper Eastern Staircase~
+~
+0 8 0
+D2
+~
+~
+0 0 4436
+D3
+~
+~
+0 0 4432
+D5
+~
+~
+0 0 4429
+S
+#4432
+Middle of the Balcony~
+~
+0 8 0
+D1
+~
+~
+0 0 4431
+D3
+~
+~
+0 0 4430
+S
+#4433
+Western Balcony~
+~
+0 8 0
+D0
+~
+~
+0 0 4430
+D2
+~
+~
+0 0 4434
+S
+#4434
+Western Balcony~
+~
+0 8 0
+D0
+~
+~
+0 0 4433
+D2
+~
+~
+0 0 4435
+S
+#4435
+Western Balcony~
+~
+0 8 0
+D0
+~
+~
+0 0 4434
+S
+#4436
+Eastern Balcony~
+~
+0 8 0
+D0
+~
+~
+0 0 4431
+D2
+~
+~
+0 0 4437
+S
+#4437
+Eastern Balcony~
+~
+0 8 0
+D0
+~
+~
+0 0 4436
+D2
+~
+~
+0 0 4438
+S
+#4438
+Eastern Balcony~
+~
+0 8 0
+D0
+~
+~
+0 0 4437
+S
+#4439
+The Nave~
+~
+0 8 0
+D0
+~
+~
+0 0 4427
+D1
+~
+~
+0 0 4445
+D2
+~
+~
+0 0 4440
+D3
+~
+~
+0 0 4442
+S
+#4440
+The Nave~
+~
+0 8 0
+D0
+~
+~
+0 0 4439
+D1
+~
+~
+0 0 4446
+D2
+~
+~
+0 0 4441
+D3
+~
+~
+0 0 4443
+S
+#4441
+The Nave~
+~
+0 8 0
+D0
+~
+~
+0 0 4440
+D1
+~
+~
+0 0 4447
+D2
+~
+~
+0 0 4450
+D3
+~
+~
+0 0 4444
+S
+#4442
+The Nave~
+~
+0 8 0
+D1
+~
+~
+0 0 4439
+D2
+~
+~
+0 0 4443
+S
+#4443
+The Nave~
+~
+0 8 0
+D0
+~
+~
+0 0 4442
+D1
+~
+~
+0 0 4440
+D2
+~
+~
+0 0 4444
+S
+#4444
+The Nave~
+~
+0 8 0
+D0
+~
+~
+0 0 4443
+D1
+~
+~
+0 0 4441
+D2
+~
+~
+0 0 4451
+D3
+~
+~
+0 0 4449
+S
+#4445
+The Nave~
+~
+0 8 0
+D2
+~
+~
+0 0 4446
+D3
+~
+~
+0 0 4439
+S
+#4446
+The Nave~
+~
+0 8 0
+D0
+~
+~
+0 0 4445
+D2
+~
+~
+0 0 4447
+D3
+~
+~
+0 0 4440
+S
+#4447
+The Nave~
+~
+0 8 0
+D0
+~
+~
+0 0 4446
+D1
+~
+~
+0 0 4448
+D3
+~
+~
+0 0 4441
+S
+#4448
+East Transept~
+~
+0 0 0
+D0
+~
+~
+0 0 4491
+D3
+~
+~
+0 0 4447
+M 0 H 0
+S
+#4449
+West Transpet~
+~
+0 0 0
+D1
+~
+~
+0 0 4444
+D2
+~
+~
+0 0 4492
+M 0 H 0
+S
+#4450
+The Sanctuary~
+~
+0 8 0
+D0
+~
+~
+0 0 4441
+D1
+~
+~
+0 0 4452
+D2
+~
+~
+0 0 4493
+D3
+~
+~
+0 0 4451
+S
+#4451
+The Baptistry~
+~
+0 0 0
+D0
+~
+~
+0 0 4444
+D1
+~
+~
+0 0 4450
+D2
+~
+~
+0 0 4467
+M 0 H 0
+S
+#4452
+The Choir~
+~
+0 0 0
+D2
+~
+~
+0 0 4453
+D3
+~
+~
+0 0 4450
+M 0 H 0
+S
+#4453
+The Choir~
+~
+0 0 0
+D0
+~
+~
+0 0 4452
+D1
+~
+~
+0 0 4454
+M 0 H 0
+S
+#4454
+The Organ~
+You are before the cathedral's organ.  The organ is a massive structure
+thrusting up into the rafters.  The lights of the candles reflect off the
+mighty hand polished pipes penetrating the very darkness.  The long hard
+pipes of the organ extend in profusion from the back of the massive
+multi-leveled keyboard.  The pedals beneth are beyond number to count.  Is
+it possible that just one person could operate this gargantuan organ?  
+~
+0 8 0
+D3
+~
+~
+0 0 4453
+D5
+~
+~
+0 0 4455
+S
+#4455
+In the Organ Pipes~
+~
+0 0 0
+D0
+~
+~
+0 0 4456
+D1
+~
+~
+0 0 4454
+D3
+~
+~
+0 0 4457
+D4
+~
+~
+0 0 4459
+M 0 H 0
+S
+#4456
+In the Organ Pipes~
+~
+0 0 0
+D2
+~
+~
+0 0 4455
+D3
+~
+~
+0 0 4458
+D4
+~
+~
+0 0 4460
+M 0 H 0
+S
+#4457
+In the Organ Pipes~
+~
+0 0 0
+D0
+~
+~
+0 0 4458
+D1
+~
+~
+0 0 4455
+D4
+~
+~
+0 0 4462
+M 0 H 0
+S
+#4458
+In the Organ Pipes~
+~
+0 0 0
+D1
+~
+~
+0 0 4456
+D2
+~
+~
+0 0 4457
+D4
+~
+~
+0 0 4461
+M 0 H 0
+S
+#4459
+In the Organ Pipes~
+~
+0 0 0
+D0
+~
+~
+0 0 4460
+D3
+~
+~
+0 0 4462
+D4
+~
+~
+0 0 4463
+D5
+~
+~
+0 0 4455
+M 0 H 0
+S
+#4460
+In the Organ Pipes~
+~
+0 0 0
+D2
+~
+~
+0 0 4459
+D3
+~
+~
+0 0 4461
+D4
+~
+~
+0 0 4464
+D5
+~
+~
+0 0 4456
+M 0 H 0
+S
+#4461
+In the Organ Pipes~
+~
+0 0 0
+D1
+~
+~
+0 0 4460
+D2
+~
+~
+0 0 4462
+D4
+~
+~
+0 0 4465
+D5
+~
+~
+0 0 4458
+M 0 H 0
+S
+#4462
+In the Organ Pipes~
+~
+0 0 0
+D0
+~
+~
+0 0 4461
+D1
+~
+~
+0 0 4459
+D4
+~
+~
+0 0 4466
+D5
+~
+~
+0 0 4457
+M 0 H 0
+S
+#4463
+In the Organ Pipes~
+~
+0 0 0
+D0
+~
+~
+0 0 4464
+D3
+~
+~
+0 0 4466
+D5
+~
+~
+0 0 4459
+M 0 H 0
+S
+#4464
+In the Organ Pipes~
+~
+0 0 0
+D2
+~
+~
+0 0 4463
+D3
+~
+~
+0 0 4465
+D5
+~
+~
+0 0 4460
+M 0 H 0
+S
+#4465
+In the Organ Pipes~
+~
+0 0 0
+D1
+~
+~
+0 0 4464
+D2
+~
+~
+0 0 4466
+D5
+~
+~
+0 0 4461
+M 0 H 0
+S
+#4466
+In the Organ Pipes~
+~
+0 0 0
+D0
+~
+~
+0 0 4465
+D1
+~
+~
+0 0 4463
+D5
+~
+~
+0 0 4462
+M 0 H 0
+S
+#4467
+A Dim Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 4451
+D1
+~
+~
+0 0 4493
+D2
+~
+~
+0 0 4470
+D3
+~
+~
+0 0 4468
+M 0 H 0
+S
+#4468
+temp:High priests office~
+~
+0 0 0
+D1
+~
+~
+0 0 4467
+D2
+~
+~
+0 0 4469
+M 0 H 0
+S
+#4469
+temp:High priests room~
+~
+0 0 0
+D0
+~
+~
+0 0 4468
+M 0 H 0
+S
+#4470
+temp:cloister~
+~
+0 0 0
+D0
+~
+~
+0 0 4467
+D1
+~
+~
+0 0 4471
+M 0 H 0
+S
+#4471
+temp:cloister~
+~
+0 0 0
+D3
+~
+~
+0 0 4470
+D5
+~
+~
+0 0 4472
+M 0 H 0
+S
+#4472
+The Crypt~
+~
+0 0 0
+D0
+~
+~
+0 0 4473
+D1
+~
+~
+0 0 4476
+D2
+~
+~
+0 0 4479
+D3
+~
+~
+0 0 4477
+D4
+~
+~
+0 0 4471
+M 0 H 0
+S
+#4473
+The Crypt~
+~
+0 0 0
+D0
+~
+~
+0 0 4474
+D1
+~
+~
+0 0 4475
+D2
+~
+~
+0 0 4472
+D3
+~
+~
+0 0 4478
+M 0 H 0
+S
+#4474
+North End of the Crypt~
+~
+0 0 0
+D2
+~
+~
+0 0 4473
+M 0 H 0
+S
+#4475
+The Crypt~
+~
+0 0 0
+D2
+~
+~
+0 0 4476
+D3
+~
+~
+0 0 4473
+M 0 H 0
+S
+#4476
+The Crypt~
+~
+0 0 0
+D0
+~
+~
+0 0 4475
+D3
+~
+~
+0 0 4472
+M 0 H 0
+S
+#4477
+The Crypt~
+~
+0 0 0
+D0
+~
+~
+0 0 4478
+D1
+~
+~
+0 0 4472
+M 0 H 0
+S
+#4478
+The Crypt~
+~
+0 0 0
+D1
+~
+~
+0 0 4473
+D2
+~
+~
+0 0 4477
+M 0 H 0
+S
+#4479
+The Crypt~
+~
+0 0 0
+D0
+~
+~
+0 0 4472
+D2
+~
+~
+0 0 4480
+M 0 H 0
+S
+#4480
+The Chapel of the Lost Hero~
+~
+0 9 0
+D0
+~
+~
+0 0 4479
+D1
+~
+~
+0 0 4483
+D2
+~
+~
+0 0 4482
+D3
+~
+~
+0 0 4481
+D5
+~
+~
+0 0 4484
+S
+#4481
+temp:The Tomb of some dead hero~
+~
+0 0 0
+D1
+~
+~
+0 0 4480
+M 0 H 0
+S
+#4482
+temp:The Tomb of some dead shmuck~
+~
+0 0 0
+D0
+~
+~
+0 0 4480
+M 0 H 0
+S
+#4483
+temp:The Tomb of some idjit~
+~
+0 0 0
+D3
+~
+~
+0 0 4480
+M 0 H 0
+S
+#4484
+The Lower Crypt~
+It is deathly quiet in here.  The only sound is the occasional drip of
+water hitting the floor.  You are in the lower crypt of the cathedral, here
+lie the honoured dead.  A narrow spiral stair case leads back up.  
+~
+0 9 0
+D2
+~
+~
+0 0 4485
+D4
+~
+~
+0 0 4480
+S
+#4485
+The Lower Crypt~
+It is deathly quiet in here.  The only sound is the occasional drip of
+water hitting the floor.  You are in the lower crypt of the cathedral, here
+lie the honoured dead.  Several flagstones have been torn up at the far end
+of the room.  A hole beneath heads deeper into the ground.  
+~
+0 9 0
+D0
+~
+~
+0 0 4484
+D5
+~
+~
+0 0 4486
+S
+#4486
+A Dark Tunnel~
+You are in the enterance to a narrow dark tunnel dug into the earth below
+the lower crypts.  The smell of freshly dug earth is heavy here.  
+~
+0 9 0
+D2
+~
+~
+0 0 4487
+D4
+~
+~
+0 0 4485
+S
+#4487
+A Dark Tunnel~
+You are in a narrow dark tunnel.
+I hope you're not clausterphobic.
+~
+0 9 0
+D0
+~
+~
+0 0 4486
+D5
+~
+~
+0 0 4488
+S
+#4488
+A Dark Tunnel~
+You are in a narrow dark tunnel.  
+Gross!  A worm, sheared in two, wiggles on the floor.
+~
+0 9 0
+D4
+~
+~
+0 0 4487
+D5
+~
+~
+0 0 4489
+S
+#4489
+A Dark Tunnel~
+You are in a narrow dark tunnel.
+Cold water is dripping down the back of your neck.
+~
+0 9 0
+D3
+~
+~
+0 0 4490
+D4
+~
+~
+0 0 4488
+S
+#4490
+A {rDead{x End~
+You have reached the end of the of the tunnel.  Pools of water have
+collected down here at the bottom of this excavation.  Fresh pick marks
+indicate this tunnel is still being dug.  
+~
+0 9 0
+D1
+~
+~
+0 0 4489
+S
+#4491
+The Chapel of Saint Croseus~
+~
+0 0 0
+D2
+~
+~
+0 0 4448
+M 0 H 0
+S
+#4492
+The Chapel of Saint George~
+~
+0 0 0
+D0
+~
+~
+0 0 4449
+M 0 H 0
+S
+#4493
+The Base of the Bell Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 4450
+D3
+~
+~
+0 0 4467
+D4
+~
+~
+0 0 4494
+M 0 H 0
+S
+#4494
+The Middle of the Bell Tower~
+~
+0 0 0
+D4
+~
+~
+0 0 4495
+D5
+~
+~
+0 0 4493
+M 0 H 0
+S
+#4495
+The Middle of the Bell Tower~
+~
+0 0 0
+D4
+~
+~
+0 0 4496
+D5
+~
+~
+0 0 4494
+M 0 H 0
+S
+#4496
+The Top of the Bell Tower~
+~
+0 0 0
+D4
+~
+~
+0 0 4497
+D5
+~
+~
+0 0 4495
+M 0 H 0
+S
+#4497
+{GAAAaaa... {R*SPLAT!*{G  You dummy{x~
+Who do you think you are?  "Wile E.  Coyete"?  You have to stop when you
+reach the top of the tower!  Can't type can you?  Now you've run right up
+into the clouds and fallen to earth...  Just like a fallen angel.  My hero. 
+*sigh* 
+~
+0 0 0
+D5
+~
+~
+0 0 4496
+M 0 H 0
+S
+#4498
+The {WThrone{x Room of the {YSun {yQueen{x~
+{yLight{x streams through the glass walls.  {rRed velvet curtains{x hang
+from the ceiling to the {Wwhite marble floor{x in the corners.  Against the
+far wall there is a {Dsilver throne{x with suns and moons and stars wrought
+into it.  A {rred velvet carpet{x with {Dsilver edging{x leads from the door
+to the {Dthrone{x, which gleams in the {ysunlight{x.  
+~
+0 524316 0
+D3
+~
+~
+0 0 4499
+S
+#4499
+Light Palace~
+Welcome to the {YLight Palace{x.  A building made of pure {Ylight{x
+energy.  Home of Ying, give the poor senile old sod, or is that slob? 
+Anyways giving him a place to rest between scaring the crap out of his
+friends with his mighty goto powers and actually working at imm stuff.  You
+have to admit, this place looks pretty {Cgood{x to you.  There is a big SIGN
+here with usefull info.  
+~
+0 524316 0
+E
+sign~
+Justice hall 10755
+Outpost 31092
+Kindred hall 10605
+Outpost 31089
+Seeker 10805
+Outpost 31084
+Harper 1253
+Outpost 3366
+Venari 10655
+Outpost 3362
+recall terra 3001 dominia 31000
+~
+D1
+~
+~
+0 0 4498
+D5
+~
+~
+0 0 4400
+M 1000 H 1000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#4400
+~
+A
+#0
+
+#RESETS
+D 0 4414 2 2
+D 0 4417 0 2
+D 0 4426 2 1
+D 0 4427 0 1
+M 1 4400 10 4416 10
+O 0 4403 0 4427
+O 0 4403 0 4428
+O 0 4403 0 4429
+O 0 4402 0 4439
+O 0 4402 0 4440
+O 0 4402 0 4441
+O 0 4402 0 4442
+O 0 4403 0 4442
+O 0 4402 0 4443
+O 0 4402 0 4444
+O 0 4403 0 4444
+O 0 4402 0 4445
+O 0 4403 0 4445
+O 0 4402 0 4446
+O 0 4402 0 4447
+O 0 4403 0 4447
+M 1 4402 1 4450 1
+G 0 4401 0
+G 0 4406 0
+M 1 4405 1 4454 1
+O 0 4405 0 4454
+M 1 4404 8 4455 2
+M 1 4404 8 4456 2
+M 1 4404 8 4457 2
+M 1 4404 8 4458 2
+M 1 4403 8 4463 2
+M 1 4403 8 4464 2
+M 1 4403 8 4465 2
+M 1 4403 8 4466 2
+E 0 4404 0 17
+O 0 4495 0 4498
+O 0 4499 0 4499
+O 0 4497 0 4499
+S
+
+
+
+#SHOPS
+4402 0 2 0 0 0 120 0 0 23
+0
+
+
+
+#$

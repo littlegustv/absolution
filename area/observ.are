@@ -1,0 +1,1710 @@
+#AREADATA
+Name The Observatory~
+Builders None~
+VNUMs 8100 8199
+Credits {20 30} Twilight    Observatory~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#8100
+crystal guardian guard ~
+a crystal guardian~
+A crystal guardian stands here, maintaining a silent vigil.
+~
+A large crystal statue carved in the shape of a mantis stands here.  As
+you move towards the door, it moves to stop you and seems to glare
+menacingly in your direction.  
+~
+unique~
+ABG DJVZ 0 1
+30 0 6d12+853 1d1+100 4d6+8 slash
+-9 -9 -9 -9
+CEHIKT 0 CG E
+stand stand none 20
+DJM ABC large 0 the guilds~
+#8101
+worker busy~
+an observatory worker~
+A worker scurries about, seeming very busy.
+~
+This frantic little fellow looks like he's about to collapse under the
+massive load he's carrying, or trip over something.  
+~
+gnome~
+AGH FJZ 500 2
+24 2 5d10+500 1d1+100 2d10+6 pound
+-6 -6 -6 -6
+DHJNR 0 BE HKP
+stand stand either 10
+ABHMV ABCDEFGHIJKUV small 0 the guilds~
+#8102
+librarian gnome~
+a librarian~
+A librarian sits here, nose in a book.
+~
+This little gnome seems to be very into the book he's holding.  It
+wouldn't be a good idea to disturb his reading.  
+~
+gnome~
+AG FJZ 500 2
+25 2 5d10+550 1d1+100 2d10+7 pound
+-7 -7 -7 -7
+DHR 0 BEP HK
+stand stand either 10
+ABHMV ABCDEFGHIJKUV small 0 the guilds~
+#8103
+clockwork horror fiend~
+the clockwork horror~
+A fiendish horror of steel and clockwork stands here, ticking happily away.
+~
+It looks rather content, probably because it's busy shredding the corpse
+of the fool who wound it up.  It doesn't seem to be too happy with your
+arrival either.  
+~
+unique~
+ABFG FZ 0 3
+27 0 5d10+650 1d1+100 5d4+7 stab
+-8 -8 -8 -8
+DEFHI K G 0
+stand stand none 18
+DJO ABC medium 0 the guilds~
+#8104
+scribe gnome~
+the scribe~
+The scribe is sitting at his tiny desk, scrawling away.
+~
+Pen in hand, he is furiously writing down all sorts of things.  Of
+course, you have no idea what it all means.  
+~
+gnome~
+ABGR FHJZ 500 0
+28 2 6d12+703 1d1+100 2d12+8 pound
+-8 -8 -8 -8
+DHR 0 BE HK
+stand stand male 23
+ABHMV ABCDEFGHIJKUV small 0 the guilds~
+#8105
+spark light sparkle~
+a spark of light~
+A small spark of light drifts by you.
+~
+A small spark drifts past you, eventually swallowed by the blackness.  
+~
+unique~
+ABG Z 0 4
+25 2 5d10+550 1d1+100 2d10+7 shock
+-7 -7 -7 -7
+FHR S J 0
+stand stand none 16
+DL 0 small 0 the guilds~
+#8106
+shadow demon black~
+the shadow demon~
+A towering demonic shadow looms over you.
+~
+It seems to flicker in and out of existence, the only constant its
+glowing red eyes that bore into the depths of your soul.  
+~
+unique~
+ABFG DHLQTVZ -500 5
+29 0 6d12+778 1d1+100 2d12+8 wrath
+-9 -9 -9 -9
+EFHIKMN M DEI JN
+stand stand none 23
+DLM 0 large 0 the guilds~
+#8107
+scientist gnome person~
+a scientist~
+A little person in a lab coat and glasses rushes about here.
+~
+He looks very busy, and is constantly muttering various things you don't
+understand..  What the heck is "E=mc2"?  
+~
+gnome~
+AGY FJZ 500 6
+26 2 5d10+600 1d1+100 3d7+7 pound
+-7 -7 -7 -7
+DFHJNR 0 BEK HK
+stand stand either 26
+ABHMV ABCDEFGHIJKUV small 0 the guilds~
+#8108
+gremlin green~
+the gremlin~
+A little green gremlin sits here, cackling with glee.
+~
+He looks quite pleased with himself, and is holding a smoldering welding
+torch.  I don't suppose he had anything to do with the condition of this
+room?  
+~
+goblin~
+ABCG JZ -250 0
+26 1 5d10+600 1d1+100 3d7+7 claw
+-7 -7 -7 -7
+EFHJN 0 Q C
+stand stand male 19
+AHMV ABCDEFGHIJK small 0 the guilds~
+#8198
+demon great ferocious~
+the great ferocious demon~
+A great ferocious demon is terrorizing the city!
+~
+This giant fire-breathing demon is running rampant, torching buildings
+and crushing people into a bloody pulp.
+~
+deamon~
+AT DFHJLOTVZa -1000 0
+51 5 1d10+5490 1d1+100 1d4+60 drain
+-21 -21 -21 -21
+BCDEFHIJKNO ABMQ EHKLP NS
+stand stand none 0
+ABGHMVZ ABCDEFGHIJKQVX huge 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#8100
+spear crystal~
+a crystal spear~
+A crystal spear lies here.  It is very cold to the touch.~
+crystal~
+weapon AKSY AN
+exotic 3 8 pierce B
+30 8 250 P
+A
+19 1  
+A
+1 1  
+#8101
+shard shadow darkness~
+a shard of darkness~
+A long, thin shadow is lying on the ground.~
+shadow~
+weapon AFJQS ANY
+sword 3 7 slash BC
+28 6 0 P
+A
+18 1  
+#8102
+scroll scholar neat~
+a neat scroll~
+A very neatly written little scroll lies here.~
+parchment~
+scroll 0 AO
+30 'identify' '(null)' '(null)' '(null)'
+10 1 700 P
+#8103
+book heavy~
+a heavy book~
+A really heavy book sits here, worn and tattered.~
+parchment~
+weapon 0 ANY
+exotic 2 9 smash 0
+22 50 100 P
+A
+19 2  
+A
+3 1  
+#8104
+horror eye~
+the horror's eye~
+The eye of a mechanical horror of some sort lies here.~
+steel~
+wand BJQ AO
+30 10 5 'curse' 0
+20 2 2000 P
+#8105
+forbidden scroll~
+a forbidden scroll~
+A ragged scroll covered with evil-looking writings sits here.~
+parchment~
+scroll AEU AO
+30 'demonfire' 'acid blast' 'hell blades' '(null)'
+25 1 0 P
+E
+look scroll~
+...and the world shall be plunged into darkness, and the damned shall scour the earth for the innocent~
+#8106
+scroll benedictions~
+a scroll of benedictions~
+A scroll inscribed with blessings and hopes of good will lies here.~
+parchment~
+scroll AK AO
+25 'bless' 'cure critical' 'cure critical' 'cure critical'
+20 1 0 P
+E
+look scroll~
+...and with the proclamation of the words "judicandus", miracles of healing occured.~
+#8107
+torch tiny~
+a tiny torch~
+A tiny torch sits here, flames licking the air about it.~
+metal~
+staff 0 AO
+20 5 5 'flame arrow' 0
+15 3 0 P
+#8108
+vial liquid blue~
+a blue vial~
+A tiny vial of blue liquid rolls around on the ground here.~
+glass~
+potion 0 AO
+30 'cure poison' 'cure disease' '(null)' '(null)'
+20 1 0 P
+#8109
+spark sizzling~
+a sizzling spark~
+A vibrant little spark darts about, burning brightly~
+energy~
+light ABY AO
+0 0 24 0 0
+25 2 0 P
+A
+18 1  
+A
+24 -3  
+#8110
+lens tiny~
+a tiny lens~
+A tiny lens sits on the ground...don't step on it!~
+glass~
+wand B AO
+30 10 10 'farsight' 0
+10 2 0 P
+#8111
+bookcase~
+a bookcase~
+A towering bookcase sits here.~
+oak~
+furniture 0 0
+0 500 0 0 0
+0 0 0 P
+E
+bookcase~
+It's filled with all sorts of works, all totally unintelligible to you.~
+#8112
+bookcase~
+a bookcase~
+A towering bookcase sits here.~
+oak~
+container 0 A
+600 0 0 15 75
+20 500 0 P
+E
+bookcase~
+There seems to be some interesting in here...a glowing book! Must be magical!~
+#8113
+tiny telescope~
+a tiny telescope.~
+A tiny telescope rests on a tripod, pointed towards the stars.~
+~
+furniture 0 0
+0 3 0 0 0
+0 3 0 P
+#8115
+giant telescope~
+a giant telescope.~
+A giant telescope rests here, pointed towards the stars...you could look into it.~
+~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+examine telescope~
+You see possibly the most stunning sight of your life...stars everywhere, gleaming all the shades of the rainbow.  A comet streaks by your view, its tail a brilliant sapphire.~
+#8116
+key shiny~
+a shiny key~
+A shiny key sits here.~
+metal~
+key 0 AO
+0 0 0 0 0
+0 1 0 P
+#8117
+turtle~
+a little clay turtle~
+A little clay turtle sits by the doorway.~
+clay~
+container 0 0
+100 AC 0 10 1
+0 2 0 P
+#8118
+key clay~
+a clay key~
+A tiny clay key sits here.~
+clay~
+key 0 AO
+0 0 0 0 0
+0 1 0 P
+#8119
+book secrets~
+a book of secrets~
+A tiny closed book is here..who knows what secrets it may contain?~
+parchment~
+treasure Abd AO
+0 0 0 0 0
+10 5 0 P
+A
+3 1  
+A
+4 2  
+#8120
+corpse~
+a shredded corpse~
+Hmm...must be the remains of the guy that wound up the horror.~
+~
+trash 0 AO
+0 0 0 0 0
+0 5 0 P
+#8121
+chair beanbag ~
+a beanbag chair~
+A big fluffy beanbag chair floats through time/space.~
+cloth~
+furniture 0 0
+1 0 EHK 110 100
+0 0 0 P
+#8122
+freezer~
+a freezer~
+An elegant freezer hovers obidiently here.~
+adamantite~
+container A 0
+1000 A 0 1000 0
+0 1000 0 P
+#8123
+ice cream vanilla ~
+a tub of vanilla ice cream~
+A big fat tub of yummy vanilla ice cream sits here.~
+food~
+pill 0 AO
+30 'sanctuary' 'reserved' 'reserved' 'reserved'
+0 10 0 P
+#8124
+ice cream chocolate~
+a tub of chocolate ice cream~
+A big fat tub of yummy chocolate ice cream sits here.~
+food~
+pill 0 A
+30 'giant strength' 'reserved' 'reserved' 'reserved'
+0 1 0 P
+#8125
+ice cream butterscotch ripple~
+a tub of butterscotch ripple ice cream~
+A big fat tub of yummy butterscotch ripple ice cream sits here.~
+food~
+pill 0 A
+30 'sanctuary' 'haste' 'reserved' 'reserved'
+0 10 0 P
+#8126
+ice cream cookie dough chocolate~
+a tub of chocolate cookie dough ice cream~
+A big fat tub of chocolate cookie dough ice cream sits here.~
+food~
+pill 0 A
+30 'giant strength' 'heal' 'reserved' 'reserved'
+0 10 0 P
+#8127
+ice cream mint chocolate chip~
+a tub of mint chocolate chip ice cream~
+A big fat tub of mint chocolate chip ice cream sits here.~
+food~
+pill 0 A
+30 'cure poison' 'heal' 'reserved' 'reserved'
+0 10 0 P
+#8128
+ice cream candy cane crackle~
+a tub of candy cane chocolate fudge crackle ice cream~
+A big fat tub of candy cane chocolate fudge crackle ice cream sits here.~
+food~
+pill 0 A
+30 '(null)' 'stone skin' 'frenzy' '(null)'
+0 10 0 P
+#8129
+ice cream rainbow sherbert sorbet~
+a tub of rainbow sherbert~
+A big fat tub of rainbow sherbert sits here.~
+food~
+pill 0 A
+30 'faerie fire' 'stone skin' 'mirror image' 'reserved'
+0 10 0 P
+#8130
+guest chair~
+an elegant guest chair~
+An elegant guest chair drifts about.~
+wood~
+furniture 0 0
+1 0 E 0 0
+0 50 0 P
+#8131
+fountain~
+a fountain~
+A beautiful glass fountain gushes forth something brown and frothy.~
+ice~
+fountain 0 0
+0 0 'root beer' 0 0
+0 0 0 P
+#8132
+light crystal~
+a light crystal~
+A small crystal flits about, providing illumination.~
+quartz~
+light 0 0
+0 0 999 0 0
+0 0 0 P
+#8133
+vanilla coffee~
+a cup of vanilla coffee~
+A cup of delicious vanilla coffee steams here.~
+porcelain~
+potion 0 AO
+30 '(null)' 'giant strength' 'heal' 'reserved'
+0 0 0 P
+#8140
+star essence ~
+the essence of a star~
+The blazing fury of a star, compressed and contained into a mighty blade.~
+energy~
+weapon A AN
+exotic 2 30 divine ADG
+54 0 0 P
+#8141
+pouch belt ~
+a tiny black pouch~
+A small black satin pouch flops on the ground here.~
+satin~
+container Y AL
+10000 A 0 10000 0
+54 0 0 P
+#8142
+angel fish angelfish~
+a beautiful angelfish~
+A beautiful blue-and-gold angelfish swims throught the air.~
+crystal~
+armor G AQ
+0 0 0 0 0
+54 0 0 P
+A
+12 1000  
+A
+19 4  
+A
+18 4  
+#8143
+star light fragment~
+a fragment of a star~
+A fragment of a star shimmers brightly before you.~
+wood~
+light A AO
+0 0 999 0 0
+54 0 0 P
+A
+12 1000  
+A
+18 20  
+#8144
+shimmering ring platinum~
+a shimmering platinum ring~
+An exquisite ring glows brightly here.~
+platinum~
+jewelry Y ABO
+0 0 0 0 0
+54 0 0 P
+A
+3 3  
+A
+20 -10  
+A
+19 5  
+A
+18 5  
+#8145
+bracelet platinum wrist~
+an intricately carved platinum bracelet~
+An intricately carved platinum bracelet gathers dust here.~
+platinum~
+jewelry 0 AM
+0 0 0 0 0
+54 0 0 P
+A
+20 -10  
+A
+12 500  
+A
+18 10  
+#8146
+wand effacacious destruction twilight~
+Twilight's wand of effacacious destruction~
+A tiny little platinum stick lies here.~
+platinum~
+wand Y AO
+60 200 200 'rainbow burst' 0
+54 0 0 P
+#8147
+twilight small black leather case~
+a small black leather case~
+A small black leather case, bulging at the seams, sits here~
+leather~
+container 0 AC
+10000 A 0 10000 10
+54 0 0 P
+A
+17 -400  
+A
+23 -40  
+A
+20 -40  
+#8148
+twilight glittering emerald medallion~
+a glittering emerald medallion~
+A glittering emerald medallion has carelessly been dropped here.~
+platinum~
+jewelry Y AC
+0 0 0 0 0
+54 0 0 P
+A
+13 4586  
+A
+12 5318  
+#8149
+ice cream banana twilight~
+a tub of banana ice cream~
+A big fat tub of yummy banana ice cream sits here.~
+food~
+pill 0 AO
+30 'giant insect' 'giant insect' 'giant insect' '(null)'
+0 0 0 P
+#8150
+staff sliver web twilight~
+a staff of sliverwebs~
+A long, slim green staff lies here~
+steel~
+staff 0 AO
+50 200 200 'web' 0
+54 50 0 P
+#8151
+tiny dragon pet~
+a tiny pet faerie dragon~
+A cute little faerie dragon flutters about happily.~
+energy~
+gem FY AQ
+0 0 0 0 0
+54 0 0 P
+A
+13 1000  
+A
+18 25  
+A
+19 50  
+#8152
+pinch stardust dust twilight~
+a pinch of stardust~
+A tiny pile of glittering dust lies here.~
+energy~
+pill 0 AO
+30 'sanctuary' 'haste' 'frenzy' 'reserved'
+0 0 0 P
+#8153
+twilight dart paintaball~
+a paintball dart~
+A small dart lies here.~
+ebony~
+throwing Y AO
+1 1 sting 56 'faerie fire'
+54 0 0 P
+#8154
+voucher hour~
+an hours voucher~
+This voucher entitles the holder to have 5 hours added to his pfile.~
+platinum~
+trash TY AO
+0 0 0 0 0
+0 0 0 P
+#8155
+twilight confusion dart~
+a C dart~
+A small dart lies here~
+metal~
+throwing AW AO
+1 1 pierce 20 'confusion'
+56 0 10000 P
+#8156
+twilight little spider~
+a little spider~
+A little spider sits here contentedly, spinning a web~
+diamond~
+throwing 0 AO
+1 1 pierce 20 'web'
+56 0 10000 P
+#8157
+twilight rain drop raindrop~
+a raindrop~
+A raindrop drips here.~
+wood~
+throwing 0 AO
+1 1 blast 20 'rain of tears'
+56 0 0 P
+#8158
+twilight dart loneliness lonely~
+a lonely dart~
+A lonely dart lies here all by itself~
+wood~
+throwing 0 AO
+1 1 pierce 20 'loneliness'
+0 0 0 P
+#8159
+type two gnomish cog~
+A type two gnomish cog~
+A gnomish cog lies here, spinning in place.~
+iron~
+gem 0 AY
+0 0 0 0 0
+0 10 3000 P
+#0
+
+
+
+#ROOMS
+#8199
+The Twilight Nebulae~
+Very pretty really, with all the colors and whatnot.  Of course, it's
+just reality turned inside out and hung on a little peg on the wall.  Oh
+well.  
+~
+0 268959772 0
+M 3000 H 3000
+S
+#8100
+Entrance to the Observatory~
+You stand in front of a set of sturdy polished oak doors.  Looking up,
+you can see a great dome dominating the top of the building.  Multitudes of
+stars twinkle high in the sky.  Trying the doors, you find them locked.  How
+are you going to get in here?  There is a little sign next to the door.  
+~
+0 1 1
+E
+sign~
+This area was written by Twilight, 00/00/98
+The turtle moves! :)~
+D0
+A sturdy set of oaken doors loom before you.~
+door~
+2 8118 8101
+D2
+~
+~
+0 0 8138
+S
+#8101
+The foyer~
+You stand in the foyer of the observatory.  The floor is carpeted in a
+thin plush material, and the walls and ceiling are decorated with tiny
+metallic stars arranged in the shape of various constellations.  Hallways
+branch off to the north, east and west, and there is a ladder just to your
+left.  
+~
+0 12 1
+D0
+~
+~
+0 -1 8113
+D1
+~
+~
+0 -1 8115
+D2
+~
+~
+2 -1 8100
+D3
+~
+~
+0 -1 8105
+D4
+~
+~
+0 -1 8102
+S
+#8102
+On a ladder~
+You are climbing a long, rather rickety ladder.
+Looking up, you can see the night sky much farther up, and you catch a wiff of the sweet-smelling spring evening.  You can continue up the ladder or go back down to the foyer.
+~
+0 4 0
+D4
+~
+~
+0 -1 8103
+D5
+~
+~
+0 -1 8101
+S
+#8103
+On a ladder~
+You are continuing to climb up a ladder. Just a bit further off is the night sky and fresh air.  You can climb either up or down the ladder.
+~
+0 4 0
+D4
+~
+~
+0 -1 8104
+D5
+~
+~
+0 -1 8102
+S
+#8104
+The lookout~
+After ascending the ladder, you find yourself standing on a platform overlooking the approach to the building.  You can hear crickets chirping in the distance.  Behind you, the great dome and telescope of the observatory glows in the light of the full moon.  You can stay here and admire the view or go back down the ladder
+~
+0 1 1
+D5
+~
+~
+0 -1 8103
+S
+#8105
+A hallway~
+You are walking down a wide hallway.  Some sort of plush material carpets
+the floor, and tiny metallic stars decorate the walls and ceiling.  The
+hallway continues to the west and you can return to the foyer to the east.  
+~
+0 8 0
+D1
+~
+~
+0 -1 8101
+D3
+~
+~
+0 -1 8106
+S
+#8106
+A hallway~
+You are walking down a wide hallway.  Some sort of plush material carpets
+the floor, and tiny metallic stars decorate the walls and ceiling.  The
+hallways continues to the east and west, and there is a door to the north 
+~
+0 12 0
+D0
+~
+~
+1 -1 8107
+D1
+~
+~
+0 -1 8105
+S
+#8107
+The library~
+You stand amongst rows and rows of towering bookcases.  Upon closer
+inspection, you see that each of the books is bound in black leather and
+inscribed with silver runes.  Various scrolls and tomes are scattered about.
+The library continues north and west.  
+~
+0 12 0
+D0
+~
+~
+0 -1 8108
+D2
+~
+~
+1 -1 8106
+D3
+~
+~
+0 -1 8110
+S
+#8108
+The scribe's chamber~
+A tiny wizened man is seated at a little desk here, scrawling away.  He
+notices your entrance, looks up briefly then returns to his work.  You can
+see piles and piles of scrolls and papers around him, mostly starcharts of
+sorts.  You can return to the library to the south.  
+~
+0 8 0
+E
+secret door~
+There is some sort of concealed door to the north.~
+D0
+There is some sort of concealed door here.~
+secret door~
+2 8116 8109
+D2
+~
+~
+0 -1 8107
+S
+#8109
+The scribe's room~
+You can barely fit in this room, it's so tiny.  It contains a simple
+pallet, a table with a candle upon it and a sturdy wooden trunk.  The door
+leads back to the scribe's chamber.  
+~
+0 524296 0
+D2
+~
+~
+2 -1 8108
+M 150 H 150
+S
+#8110
+The library~
+You stand amongst rows and rows of towering bookcases.  Upon closer
+inspection, you see that each of the books is bound in black leather and
+inscribed with silver runes.  Various scrolls and tomes are scattered about.
+The library continues north, east and west.  
+~
+0 8 0
+D0
+~
+~
+0 -1 8111
+D1
+~
+~
+0 -1 8107
+D3
+~
+~
+0 -1 8112
+S
+#8111
+The library~
+You stand amongst rows and rows of towering bookcases.  Upon closer
+inspection, you see that each of the books is bound in black leather and
+inscribed with silver runes.  Various scrolls and tomes are scattered about.
+The library continues to the south and west.  
+~
+0 8 0
+D2
+~
+~
+0 -1 8110
+D3
+~
+~
+0 0 8126
+S
+#8112
+The library~
+You stand amongst rows and rows of towering bookcases.  Upon closer
+inspection, you see that each of the books is bound in black leather and
+inscribed with silver runes.  Various scrolls and tomes are scattered about.
+The library continues to the east and the north.  
+~
+0 0 0
+D0
+~
+~
+0 -1 8126
+D1
+~
+~
+0 -1 8110
+S
+#8113
+A hallway~
+You are walking down a wide hallway.  Some sort of plush material carpets
+the floor, and tiny metallic stars decorate the walls and ceiling.  The
+hallway continues to the north and you can return to the foyer to the south.
+~
+0 8 0
+D0
+~
+~
+0 -1 8114
+D2
+~
+~
+0 -1 8101
+S
+#8114
+A hallway~
+You are walking down a wide hallway.  Some sort of plush material carpets
+the floor, and tiny metallic stars decorate the walls and ceiling.  The
+hallway continues to the north, and there is some sort of room to the east. 
+~
+0 12 0
+D0
+~
+~
+0 -1 8127
+D1
+~
+~
+0 -1 8118
+D2
+~
+~
+0 -1 8113
+S
+#8115
+A hallway~
+You are walking down a wide hallway.  Some sort of plush material carpets
+the floor, and tiny metallic stars decorate the walls and ceiling.  The
+hallway continues to the east and you can return to the foyer to the west.  
+~
+0 8 0
+D1
+~
+~
+0 -1 8116
+D3
+~
+~
+0 -1 8101
+S
+#8116
+A hallway~
+You are walking down a wide hallway.  Some sort of plush material carpets
+the floor, and tiny metallic stars decorate the walls and ceiling.  The
+hallway continues to the east.  
+~
+0 12 0
+D1
+~
+~
+0 -1 8117
+D3
+~
+~
+0 -1 8115
+S
+#8117
+The workshop~
+The various tables in this room are littered with all sorts of devices
+and apparatus.  You can barely move about without knocking something over or
+bumping into something.  Another shelf contains dozens of tiny lenses.  West
+leads back to the hallway.  
+~
+0 8 0
+D3
+~
+~
+0 -1 8116
+S
+#8118
+Globe of darkness~
+Wow!  You step through the door and find yourself suspended in darkness. 
+Tiny lights of some sort twinkle in the distance.  As you watch, a set of
+spiral stairs fades into existence.  You can go up the stairs or go west to
+the hallway.  
+~
+0 9 0
+D3
+~
+~
+0 -1 8114
+D4
+~
+~
+0 -1 8119
+S
+#8119
+Floating in the void~
+You are floating in a sea of infinite blackness.  Tiny lights twinkle in
+the distance.  You can continue in the four cardinal directions, or continue
+ascending the staircase.  
+~
+0 9 0
+D0
+~
+~
+0 -1 8120
+D1
+~
+~
+0 -1 8121
+D2
+~
+~
+0 -1 8122
+D3
+~
+~
+0 -1 8123
+D4
+~
+~
+0 -1 8124
+D5
+~
+~
+0 -1 8118
+S
+#8120
+Floating in the void~
+You are floating in a sea of infinite blackness.  Tiny lights twinkle in
+the distance.  You can return to the "center" to the south.  
+~
+0 1 0
+D2
+~
+~
+0 -1 8119
+S
+#8121
+Floating in the void~
+You are floating in a sea of infinite blackness.  Tiny lights twinkle in
+the distance.  You can return to the "center" to the west.  
+~
+0 1 0
+D3
+~
+~
+0 -1 8119
+S
+#8122
+Floating in the void~
+You are floating in a sea of infinite blackness.  Tiny lights twinkle in
+the distance.  You can return to the "center" to the north.  
+~
+0 1 0
+D0
+~
+~
+0 -1 8119
+S
+#8123
+Floating in the void~
+You are floating in a sea of infinite blackness.  Tiny lights twinkle in
+the distance.  You can return to the "center" to the east.  
+~
+0 1 0
+D1
+~
+~
+0 -1 8119
+S
+#8124
+Ascending a staircase~
+You continue to climb up the ethereal staircase.  It flickers and fades
+out in some places, making you nervous that it will disappear entirely and
+plunge you into darkness.  
+~
+0 5 0
+D4
+~
+~
+0 -1 8125
+D5
+~
+~
+0 -1 8119
+S
+#8125
+Plunged into darkness~
+Woah!  Suddenly the staircase disappears.  You find yourself falling for
+quite some time, and impact rather solidly on a ledge in the middle of
+nowhere.  You hear an ominous growl behind you....  
+~
+0 1 0
+D5
+~
+~
+0 -1 8124
+S
+#8126
+The library~
+You stand amongst rows and rows of towering bookcases.  Upon closer
+inspection, you see that each of the books is bound in black leather and
+inscribed with silver runes.  Various scrolls and tomes are scattered about.
+The library continues to the south and the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 8111
+D2
+~
+~
+0 -1 8112
+S
+#8127
+A nexus~
+You can proceed in several directions here.  A silvery metallic staircase
+climbs upwards, and passages lead west and south back down the hallway.  
+~
+0 8 0
+D2
+~
+~
+0 -1 8114
+D3
+~
+~
+0 -1 8136
+D4
+~
+~
+0 -1 8128
+S
+#8128
+On a staircase~
+You're quite winded from climbing this very large staircase.  Your boots
+click gently against the silvery metal.  Looking up, you can see a walkway
+of some sort.  You can continue up to it or go back down to the nexus.  
+~
+0 12 0
+D4
+~
+~
+0 -1 8129
+D5
+~
+~
+0 -1 8127
+S
+#8129
+On a catwalk~
+After climbing the stairs, you find yourself standing on a tiny catwalk
+suspended over a giant room.  A huge apparatus of some sort sits on the
+ground...  It looks like a telescope of some sort!  The catwalk continues
+east and west.  
+~
+0 8 0
+D1
+~
+~
+0 -1 8132
+D3
+~
+~
+0 -1 8130
+D5
+~
+~
+0 -1 8128
+S
+#8130
+On a catwalk~
+You are walking on a tiny catwalk suspended high above the telescope.  It
+sways unnerveingly under your weight.  The catwalk continues east and north.
+~
+0 8 0
+D0
+~
+~
+0 -1 8131
+D1
+~
+~
+0 -1 8129
+S
+#8131
+Dead end!~
+Walking along, you barely notice the fact that the walkway ends abruptly
+just in front of you.  Looking down, you can see bits of wreckage and what
+looks like a body..  Probably the remains of the person that collapsed the
+walkway.  Your only option is to return to the south.  
+~
+0 8 0
+D2
+~
+~
+0 -1 8130
+S
+#8132
+On a catwalk~
+You are walking on a tiny catwalk suspended high above the telescope.  It
+sways unnerveingly under your weight.  The catwalk continues west and north.
+~
+0 8 0
+D0
+~
+~
+0 -1 8133
+D3
+~
+~
+0 -1 8129
+S
+#8133
+On a catwalk~
+You are walking on a tiny catwalk suspended high above the telescope.  It
+sways unnerveingly under your weight.  The catwalk continues west and south.
+~
+0 8 0
+D2
+~
+~
+0 -1 8132
+D3
+~
+~
+0 -1 8134
+S
+#8134
+On a ledge~
+You stand before the barrel of the telescope.  It extends far above your
+head, through the ceiling and towards the night sky.  There is a set of
+stairs leading down towards the machinery itself.  You can go down the
+stairs or back east along the catwalk.  
+~
+0 8 0
+D1
+~
+~
+0 -1 8133
+D5
+~
+~
+0 -1 8135
+S
+#8135
+The telescope~
+You come down the stairs and find yourself in front of a multitude of
+tiny buttons and levers.  You have no idea how to work it, and the book
+laying on the floor is no help, being written in some unintelligible
+language.  The viewing port of the telescope is to your left...  You wonder
+what you'll see if you look inside....  
+~
+0 8 0
+D4
+~
+~
+0 -1 8134
+S
+#8136
+A tiny room~
+This is a little itty-bitty room.  It seems to serve no purpose whatsoever.  Then, you notice a small trapdoor in the floor.  You wonder where it leads to...
+~
+0 8 0
+D1
+~
+~
+0 -1 8127
+D5
+A small trapdoor sits at your feet.~
+door trapdoor ~
+1 -1 8137
+S
+#8137
+The cellar~
+You clamber down the tiny ladder and find yourself in a rather cramped room.  It is packed nearly to the brim with boxes, trunks and chests. 
+Everything here is covered with a fine layer of dust, as if it had lain undisturbed for a long time.
+~
+0 8 0
+D4
+~
+~
+1 -1 8136
+S
+#8138
+The Top of Gluscicevo Hill~
+You stand at the top of a tall steep hill.  There is a great view of
+the countryside from here.  To the south lies the vast Volrath 
+forest and far to west is the great city of Shandalar.  A dirt path
+to the east leads down the hill, to the north stands the Lawrygould 
+Observatory.
+~
+0 0 3
+D0
+~
+~
+0 0 8100
+D1
+~
+~
+0 0 8139
+M 100 H 0
+S
+#8139
+A Winding Path~
+You stand near the top of Gluscicevo Hill.  A strong breeze cools 
+your face.  The summit lies to the west, and a long trail to the
+south leads down toward Slemar track.
+~
+0 0 3
+D2
+~
+~
+0 0 8140
+D3
+~
+~
+0 0 8138
+S
+#8140
+A Steep Hill~
+The trees thin out as you go further up the hill.  A tall white
+building stands at its top almost obscured by the clouds.  A dirt
+path to the north continues up the hill and heads downward toward
+the south.
+~
+0 0 3
+D0
+~
+~
+0 0 8139
+D2
+~
+~
+0 0 8141
+S
+#8141
+Climbing the Gluscicevo Hill~
+This dirt path winds its way up a tall hill in the Volrath forest.
+Dense trees block any movement to the east or south.  You can return
+to the Slemr track by going west or continue upward to the north.
+~
+0 0 3
+D0
+~
+~
+0 0 8140
+D3
+~
+~
+0 0 8142
+S
+#8142
+A Wooded Path~
+You walk between old oak trees.  Many birds hop among the high
+branches.  The path up the tall hill turns sharply to the east,
+and heads down the hill to the south.
+~
+0 0 3
+D1
+~
+~
+0 0 8141
+D2
+~
+~
+0 0 8143
+S
+#8143
+A Long Path in the Woods~
+The base of Gluscicevo Hill rises to the north.  A wooden arrow with
+the words "Lawrygould's Observatory" points up the incline.  Deep
+trees grow on your east and west, and the Slemr tracks lies to the
+south.
+~
+0 0 3
+D0
+~
+~
+0 0 8142
+D2
+~
+~
+0 0 8144
+S
+#8144
+Slemr Track~
+The darkness of the Volrath forest blocks any movement to the south.
+A large dirt path leads north.  Slemr Track continues to the east and
+west.
+~
+0 0 3
+D0
+~
+~
+0 0 8143
+D1
+~
+~
+0 0 8149
+D3
+~
+~
+0 0 8145
+S
+#8145
+A Long Path~
+The Slemr track continues to run east and west through the forest.
+You hear the sound of animals moving about the deep woods just out
+of sight.  You better not hang around here too long.
+~
+0 0 3
+D1
+~
+~
+0 0 8144
+D3
+~
+~
+0 0 8146
+S
+#8146
+Through the Woods~
+A long dirt path runs east and west through this section of the
+Volrath forest.  Tall trees and dense brush prevents any movement
+to the north or south.
+~
+0 0 3
+D1
+~
+~
+0 0 8145
+D3
+~
+~
+0 0 8147
+S
+#8147
+Slemr Track~
+The deeper you walk into the Volrath forest the darker the path
+becomes.  You are careful not to stray too far off the track.  Exits
+lie to the east and west.
+~
+0 0 3
+D1
+~
+~
+0 0 8146
+D3
+~
+~
+0 0 8148
+S
+#8148
+In the Forest~
+Ivy covered oaks line both the north and south edges of the Slemr
+track.  The vines are so thick that you can not even see the trees'
+trunks.  The path continues to the east and west.
+~
+0 0 3
+D1
+~
+~
+0 0 8147
+D3
+~
+~
+0 0 10945
+S
+#8149
+A Long Dirt Path Through the Forest~
+Slemr Track continues to cut through the dense forest.  You feel safe
+travelling along it during the day, but at night when only moonlight
+shows the way, you get nervous.  The only exits lie to the east and 
+west.
+~
+0 0 3
+D1
+~
+~
+0 0 8150
+D3
+~
+~
+0 0 8144
+S
+#8150
+A Long Dirt Path~
+Merchants and traders use Slemr Track to reach their customers who
+live far from the port city of Shandalar.  The tall trees of the Volrath
+Forest prevent movement to the north, but the path continues to the
+east and west.  You can also squeeze between a couple of bushes to the
+south and enter deep into the forest.
+~
+0 0 3
+D1
+~
+~
+0 0 8151
+D2
+~
+~
+0 0 14560
+D3
+~
+~
+0 0 8149
+S
+#8151
+Along Slemr Track~
+This wide path runs east and west through the Volrath Forest.  It
+provides the fastest passage through this dense and dangerous terrain.
+~
+0 0 3
+D1
+~
+~
+0 0 8152
+D3
+~
+~
+0 0 8150
+S
+#8152
+Walking the Slemr Track~
+The path you are travelling on runs between two large pine trees.
+Heavy cones weigh down the branches and bend the trees' tops.  The
+only exits lie to the east and west.
+~
+0 0 3
+D1
+~
+~
+0 0 8153
+D3
+~
+~
+0 0 8151
+S
+#8153
+Junction of Slemr Track and Caldera Road~
+You stand in the middle of an large intersection.  Running east and
+west is the Slemr Track, and going north and south is Caldera Road.
+Both dirt paths travel through a dense forest.
+~
+0 0 3
+D0
+~
+~
+0 0 31400
+D1
+~
+~
+0 0 8154
+D2
+~
+~
+0 0 31401
+D3
+~
+~
+0 0 8152
+S
+#8154
+Slemr Track~
+Slemr track continues through the Volrath forest.  Tall pine trees line
+the north and south sides of the road, preventing movement in those directions.
+~
+0 0 3
+D1
+~
+~
+0 0 19188
+D3
+~
+~
+0 0 8153
+S
+#0
+
+
+
+#SPECIALS
+M 8198 spec_breath_fire Load to: the great ferocious demon
+M 8100 spec_guard Load to: a crystal guardian
+M 8101 spec_janitor Load to: an observatory worker
+M 8103 spec_poison Load to: the clockwork horror
+M 8104 spec_cast_mage Load to: the scribe
+M 8105 spec_breath_lightning Load to: a spark of light
+M 8106 spec_cast_undead Load to: the shadow demon
+M 8108 spec_thief Load to: the gremlin
+S
+
+
+
+#MOBPROGS
+#8100
+greet 100
+ 
+say Hello
+ 
+-
+ 
+#0
+~
+A
+#0
+
+#RESETS
+D 0 8100 0 2
+D 0 8108 0 2
+D 0 8136 5 1
+O 0 8121 0 8199
+O 0 8131 0 8199
+O 0 8132 0 8199
+O 0 8122 0 8199
+P 0 8123 1 8122 1
+P 0 8124 1 8122 1
+P 0 8125 1 8122 1
+P 0 8126 1 8122 1
+P 0 8127 1 8122 1
+P 0 8128 1 8122 1
+P 0 8129 1 8122 1
+P 0 8149 1 8122 1
+M 1 8100 2 8100 2
+E 0 8100 0 16
+M 1 8100 2 8100 2
+E 0 8100 0 0
+O 0 8117 0 8100
+P 0 8118 1 8117 1
+O 0 8113 0 8104
+M 1 8107 4 8104 1
+M 1 8101 4 8105 1
+E 0 8103 0 16
+O 0 8111 0 8107
+M 1 8102 4 8107 1
+G 0 8102 0
+M 1 8104 1 8108 1
+E 0 8103 0 16
+G 0 8102 0
+G 0 8105 0
+G 0 8106 0
+O 0 8111 0 8108
+O 0 8111 0 8110
+O 0 8111 0 8111
+M 1 8102 4 8111 1
+G 0 8102 0
+O 0 8111 0 8112
+M 1 8102 4 8112 1
+G 0 8102 0
+G 0 8159 0
+M 1 8101 4 8113 1
+E 0 8103 0 16
+M 1 8101 4 8115 1
+E 0 8103 0 16
+M 1 8103 1 8117 1
+G 0 8104 0
+O 0 8120 0 8117
+M 1 8105 5 8118 1
+E 0 8109 0 0
+M 1 8105 1 8120 1
+M 1 8105 5 8120 1
+M 1 8105 5 8121 1
+M 1 8105 5 8122 1
+M 1 8105 5 8123 1
+M 1 8106 1 8125 1
+E 0 8101 0 16
+G 0 8116 0
+O 0 8112 0 8126
+P 0 8119 99 8112 1
+M 1 8101 4 8127 1
+E 0 8103 0 16
+M 1 8107 4 8129 1
+G 0 8108 0
+M 1 8108 1 8131 1
+E 0 8107 0 17
+M 1 8107 4 8133 1
+G 0 8108 0
+O 0 8115 0 8135
+M 1 8107 4 8135 1
+G 0 8108 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

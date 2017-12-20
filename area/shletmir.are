@@ -1,0 +1,1467 @@
+#AREADATA
+Name Shlet'Mir~
+Builders Halbert~
+VNUMs 19800 19949
+Credits [ ALL ]~
+Security 1
+Xcontinent 1
+Age 0
+Questable 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#19800
+Town Square~
+You stand in a ravaged town center.  In the middle of the square lies the
+rubble of a former statue of Selina, atop of which a defaced and partially
+destroyed statue of Bosco is built.  There is abandoned contruction set up
+around a new statue to Selina.  Maybe one day it will be completed.  North
+is the old town hall, while east and west is the main road.  South is
+Selina's Shrine.  
+~
+0 0 1
+E
+statue~
+Three statues are within the square, one crushed to rubble, a statue of
+Bosco defaced, and an abandoned one of Selina only half done.  
+~
+D0
+~
+~
+0 0 19801
+D1
+~
+~
+0 0 19803
+D2
+~
+~
+0 0 19845
+D3
+~
+~
+0 0 19848
+S
+#19801
+Road to the Old Town Hall~
+The road north of the Town Square leads to the Old Town hall.  Ahead in
+the distance it is seen as a large grey stone building, seemingly derelict
+with no one in or around the building.  A large section of wall from the
+building seems to be missing ahead and parts of stone are scattered along
+the road here.  South leads back to the town square while north continues
+towards the town hall.  
+~
+0 0 1
+D0
+~
+~
+0 0 19802
+D2
+~
+~
+0 0 19800
+S
+#19802
+Before the Town Hall~
+Right before you stands a large stone building that has fallen apart in
+places.  A large section of wall is missing on the western side, and the
+doors seem to be left open and falling apart from lack of care.  South leads
+back towards the town hall and to the north begins the town hall.  
+~
+0 0 1
+D2
+~
+~
+0 0 19801
+S
+#19803
+Main Road~
+The main road runs straight through the town from East to West.  To the
+north stands the old barracks built by the dragons long ago, and to the
+south is the former armory.  The slivers seem to have taken back these
+buildings and kept them in moderate shape to be able to use for their own
+purposes.  
+~
+0 0 1
+D0
+~
+~
+0 0 19804
+D1
+~
+~
+0 0 19807
+D3
+~
+~
+0 0 19800
+S
+#19804
+Before the Barracks~
+The rubble of stone can be seen around the foundation of this barracks,
+obviously built   on top of something, a house perhaps?  There is a large
+defaced dragon head arched over the doorway to the barracks as well as a
+sign on the door.  Noises come from within, but not a very loudly, as if it
+were only a few people inside instead of an army.  
+~
+0 0 0
+E
+sign~
+The sign reads "This barracks built by Kara for the purposes of the ar ".
+With parts scratched out, the marks etched on top of that read "Freedom from
+dragons!"  
+~
+D0
+~
+~
+1 0 19805
+D2
+~
+~
+0 0 19803
+S
+#19805
+Inside the Barracks~
+Seemingly just kept in repair, this room seems to be a hall used to serve
+a mixture of purposes.  There are tables in one corner, and weapons ornament
+the walls.  Two slivers are sparring to the side.  Further north seems to
+lead outside.  To the west is a door, and there is only a window to the
+east.  
+~
+0 0 0
+E
+window~
+Looking out the window only destroyed former houses can be seen, layed
+waste long ago with nothing replacing them or built on top.  
+~
+D2
+~
+~
+1 0 19804
+D3
+~
+~
+1 0 19806
+S
+#19806
+Storage Closet~
+An old storage closet, probably for food or weapons, back when the
+barracks was in full usage.  The lack of use and people running the place
+seems to have forgotten about this closet, as about 3 inches of dust covers
+the floor.  Back to the east is the main hall of the barracks.  
+~
+0 0 0
+D1
+~
+~
+1 0 19805
+S
+#19807
+Main Road~
+The main road runs straight through the town from East to West.  The
+intersection here branches south past the armory and the new houses recently
+built to re-colonize the area.  It seems to branch out further south around
+the armory and continue south toward the city walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 19820
+D2
+~
+~
+0 0 19808
+D3
+~
+~
+0 0 19803
+S
+#19808
+An Alley~
+An alley branching south off the main road, the road here turns from
+cobblestone to dirt.  To the west the alley goes around the armory and to
+the south there are houses branching off the road and eventually the road
+ends at the city walls.  To the west the continues past the armory.  
+~
+0 0 1
+D0
+~
+~
+0 0 19807
+D2
+~
+~
+0 0 19810
+D3
+~
+~
+0 0 19809
+S
+#19809
+Alley Behind the Armory~
+An alley behind the armory.  The backdoor to the armory is directly
+north, while to the east lie houses.  To the south another alley continues
+towards the city wall.  
+~
+0 0 1
+D1
+~
+~
+0 0 19808
+D2
+~
+~
+0 0 19813
+S
+#19810
+An Alley~
+Further down the alley now, directly west lies a house.  There is another
+house visible a little further south, as well as the city wall.  To the
+north the alley turns west behind the armory and also continues to the main
+road.  
+~
+0 0 1
+D0
+~
+~
+0 0 19808
+D2
+~
+~
+0 0 19811
+S
+#19811
+An Alley~
+Further down the alley now, directly west lies a house.  There is another
+house visible a little further north, as well as the main road.  Just before
+the main road to the north the alley turns west behind the armory.  The
+alley also continues south to the city wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 19810
+D2
+~
+~
+0 0 19812
+S
+#19812
+Road Around the City~
+East from the south gate, this road runs around the whole perimeter of
+the city following the city walls.  North ahead is an alley.  To the west
+lies the south city gate and to the east the road continues around the city
+edge.  Far north the alley connects to the main east-west road.  
+~
+0 0 1
+D0
+~
+~
+0 0 19811
+D1
+~
+~
+0 0 19814
+D3
+~
+~
+0 0 19813
+S
+#19813
+Before the South Gates~
+Inside the city, a road leads east and west around the edges of the city
+wall.  To the north a road seems to connect to the back of a building. 
+Slivers slowly meander on by from the east.  Noises can be heard to the
+north and east, and the faint lapping of the waves to the west.  South is
+the city gate wile east and west the road continues.  North is the armory.  
+~
+0 0 1
+D0
+~
+~
+0 0 19809
+D1
+~
+~
+0 0 19812
+D3
+~
+~
+0 0 19841
+S
+#19814
+Road Around the City~
+Further east from the south gate, this road runs all the way around the
+edges of the city wall inside the city.  To the north new houses can be seen
+and to the west the south gate.  Further east there seems to be some rubble,
+but it is impossible to make out exactly what used to be there.  
+~
+0 0 1
+D0
+~
+~
+0 0 19816
+D1
+~
+~
+0 0 19815
+D3
+~
+~
+0 0 19812
+S
+#19815
+Before the Rubble~
+The wall road ends here as rubble completely blocks the path east.  Back
+to the west the road continues toward the south gate.  The rubble here
+blocks most of the view of anything around you to the north or east, and the
+city wall blocks the view to the south.  
+~
+0 0 1
+D3
+~
+~
+0 0 19814
+S
+#19816
+New District~
+Arriving here has brought a whole different perspective on the town. 
+This whole area seems to have been rebuilt, or in the process of, and in
+constant use, unlike many of the of the other buildings which seem to be
+falling apart from lack of care.  There are new houses lining the western
+side of the road and stores on the eastern side to supply the residents with
+what they need.  
+~
+0 0 1
+D0
+~
+~
+0 0 19817
+D2
+~
+~
+0 0 19814
+S
+#19817
+New District~
+This road seems to be freshly renewed and restored from older times. 
+This area of the city seems to be kept in good repair and in constant use. 
+Houses line the western side of the road and shops on the eastern side.  Far
+to the north this road joins the main road.  
+~
+0 0 1
+D0
+~
+~
+0 0 19818
+D2
+~
+~
+0 0 19816
+S
+#19818
+New District~
+The middle of the new district, this is the newest part of the town and
+the only section to be fully restored so far.  These house are a refresing
+change from the dilapidated sections of town.  Close by to the north the
+road joins the main east-west road, and to the south the city wall can be
+seen a little further away.  East of here lies on of the two shops lining
+the street.  
+~
+0 0 1
+D0
+~
+~
+0 0 19819
+D2
+~
+~
+0 0 19817
+S
+#19819
+Beginning of the New District~
+Completely different from the rest of the town, this whole area seems to
+be new or rebuilt from the destruction of the dragon invasion.  Houses line
+the western side of the road and there are two shops along the eastern side
+providing residents with needed goods.  
+~
+0 0 1
+D0
+~
+~
+0 0 19820
+D2
+~
+~
+0 0 19818
+S
+#19820
+Main Road~
+The main road runs east to west through the whole town.  To the east, the
+east city gate can be seen.  To the south lies the New District, and to the
+west is the town square.  
+~
+0 0 1
+D1
+~
+~
+0 0 19821
+D2
+~
+~
+0 0 19819
+D3
+~
+~
+0 0 19807
+S
+#19821
+Main Road~
+The main road runs east to west throughout the town.  From here, to the
+north lies the Old District where the citizens used to live.  To the east is
+the city gate and west leads to the town square.  Also west is the road
+which connects to the main road leading into the New District.  
+~
+0 0 1
+D0
+~
+~
+0 0 19840
+D1
+~
+~
+0 0 19822
+D3
+~
+~
+0 0 19820
+S
+#19822
+Before the East Gate~
+Directly inside the east gate is an intersection.  To the west the main
+road continues through the town and through the town square.  North and
+south are the perimeter roads that runs along the city wall.  East leads
+back out of the town.  
+~
+0 0 1
+D0
+~
+~
+0 0 19825
+D2
+~
+~
+0 0 19823
+D3
+~
+~
+0 0 19821
+S
+#19823
+Before the Rubble~
+The perimeter road ends abruptly as a large pile of rubble blocks the
+path south.  To the north the road goes back towards the east gate.  To the
+east a section of wall seems to have fallen apart leaving a hole which
+probably leads out of the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 19822
+D1
+~
+~
+0 0 19824
+S
+#19824
+Hole in the Wall~
+There seems to be a hole in the city wall here, meaning it's useless for
+defending.  Slivers occasionally come through here, but still prefer to use
+the proper gates.  It seems this would lead right outside the city to the
+east.  
+~
+0 0 3
+D3
+~
+~
+0 0 19823
+S
+#19825
+Road Around the City~
+Directly north of the east gate, this is the road that runs around the
+whole city, following the walls.  This seems to be near the Old District as
+the houses directly west are flattened to the ground.  Straight north the
+rebuilt north-east guard tower can be seen, the only one to be rebuilt.  
+~
+0 0 1
+D0
+~
+~
+0 0 19826
+D2
+~
+~
+0 0 19822
+S
+#19826
+Road Around the City~
+Further north of the east gate, the road is passing through the Old
+District.  Destroyed houses are to the west, layed waste to long ago by the
+dragons in the first invasion.  To the north the rebuilt guard tower stands,
+the only of the four to be reconstructed.  The wall here has been reinforced
+to prevent collapse as has happened in other sections of wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 19827
+D2
+~
+~
+0 0 19825
+S
+#19827
+Road Around the city~
+An intersection leads west into the Old District.  The road also
+continues north to the corner around the guard tower and to the south
+towards the east gate.  A sign stands here directing those who will look at
+it.  
+~
+0 0 1
+E
+sign~
+Guard Tower entrance relocated to the south side of the tower due to
+contruction issues.  
+ 
+                 - Farlinoth, Shelt'Mir Construction 
+~
+D0
+~
+~
+0 0 19828
+D2
+~
+~
+0 0 19826
+D3
+~
+~
+0 0 19836
+S
+#19828
+North-East Corner~
+The north-east corner of the perimeter road, this is directly below the
+guard tower overlooking most of the city.  To the south lies the Old
+District and to the west lies the north gate and the training area for the
+small portion of troops stationed here.  The wall seems to have collapsed a
+little to the west, leaving a hole in the wall that has yet to be rebuilt,
+if it ever will be.  
+~
+0 0 1
+D2
+~
+~
+0 0 19827
+D3
+~
+~
+0 0 19829
+S
+#19829
+Road Around the City~
+This road leads all the way around the city, following the city walls. 
+Directly north there is a hole in walls which slivers occasionally pass
+through, but more often they tend to take the proper gates as is the custom
+To the south is the Old District and to the west is the north gate leading
+out of the city by the coast.  
+~
+0 0 1
+D0
+~
+~
+0 0 19830
+D1
+~
+~
+0 0 19828
+D2
+~
+~
+0 0 19838
+D3
+~
+~
+0 0 19831
+S
+#19830
+Hole in the Wall~
+Over time, the wall seems to have collapsed from stress and not been
+rebuilt.  The occasional sliver wanders through, but most of them take the
+main gates and roads.  You can see right outside the city to the north and
+part of the coast on the west.  
+~
+0 0 3
+D2
+~
+~
+0 0 19829
+S
+#19831
+Before the North Gate~
+Here lies the gate that once protected the city from the north, but is
+now useless due to the wall falling apart leaving holes.  To the east and
+west runs the road that goes around the city following the wall.  Directly
+south lies the training area which the small military group uses, and past
+that lies the barracks.  
+~
+0 0 1
+D1
+~
+~
+0 0 19829
+D3
+~
+~
+0 0 19832
+S
+#19832
+Road Around the City~
+West of the noth gate, this road runs around the edge of the city
+following the wall.  To the south is the back entrance to the old town hall,
+back east is the north gate leading out of the city, and to the west the
+port approaches.  The sound of the sea waves can be heard from the west.  
+~
+0 0 1
+D1
+~
+~
+0 0 19831
+D3
+~
+~
+0 0 19833
+S
+#19833
+Road Around the City~
+The road continues along here, west of the north gate.  To the west the
+small guard house can be seen, still standing from the time when the dragons
+had built it.  South leads past the old town hall and past the destroyed
+monument to Bosco.  
+~
+0 0 1
+D1
+~
+~
+0 0 19832
+D2
+~
+~
+0 0 19846
+D3
+~
+~
+0 0 19834
+S
+#19834
+Road Around the City~
+The road is coming close to its end to the west as it approaches the
+small guard house protecting the new pier.  South of here stands the
+destroyed monument to Bosco, built long ago by the dragons when they held
+the city.  Since then, the slivers have torn down and destroyed most of it
+in the name of Selina.  Rubble parts lie all around the monument,
+indescernible as to where the pieces used to belong.  
+~
+0 0 1
+D1
+~
+~
+0 0 19833
+D2
+~
+~
+0 0 19872
+D3
+~
+~
+0 0 19835
+S
+#19835
+Before the Guard House~
+The wall road comes to an end here before the guard house.  The guard
+house protects the city from any ships that arrive at the pier, as
+everything must go through the guard house to the city.  The only ways to go
+are into the guard house, or back towards the north gate.  
+~
+0 0 1
+D1
+~
+~
+0 0 19834
+D3
+~
+~
+1 0 19870
+S
+#19836
+Before the Guard Tower~
+Between the perimeter road and the Old District is the entrance to the
+new guard tower, the only one in the city to be renewed and rebuilt.  It is
+also the largest, tall enough to look over the entire city.  High above
+sliver guards pace the tower watching for anything coming nearby.  
+~
+0 0 1
+D1
+~
+~
+0 0 19827
+D3
+~
+~
+0 0 19837
+S
+#19837
+Edge of the Old District~
+The edge of the Old Distrcit.  To the east is the city wall and entrance
+to the guard tower, and the west leads to the training area.  Directly south
+the Old District begins, characterized by the destroyed homes, the Old
+District is where the citizens first resided.  
+~
+0 0 1
+D1
+~
+~
+0 0 19836
+D2
+~
+~
+0 0 19839
+D3
+~
+~
+0 0 19838
+S
+#19838
+Between the Old District and Training Area~
+This intersection comes between the training area to the west, used by
+the small amount of troops, and the Old District to the east.  To the north
+is the city wall, characterized in this section with a hole in it.  
+~
+0 0 1
+D0
+~
+~
+0 0 19829
+D1
+~
+~
+0 0 19837
+S
+#19839
+Old District~
+The Old District, characterized by the destruction and the rubble lying
+all around.  This section of the city was razed by the dragons and never
+rebuilt.  It is left untouched as a reminder to the inhabitants of what the
+dragons have done.  Citizens go into the old houses from time to time
+looking for things of value left behind.  
+~
+0 0 1
+D0
+~
+~
+0 0 19837
+D2
+~
+~
+0 0 19840
+S
+#19840
+Old District~
+The Old District is well known in the city.  Left as a reminder to the
+people of what the dragons have done, the old houses lie in ruin, untouched
+or rebuilt.  Perhaps taking a look inside will help reveal what lies in the
+rubble all around.  
+~
+0 0 1
+D0
+~
+~
+0 0 19839
+D2
+~
+~
+0 0 19821
+S
+#19841
+Road Around the City~
+The road continues around by the city wall.  Directly north is the
+warehouses and ship building yards.  East leads to the south gate, and to
+the west is the sea shore.  North is Selina's road which goes towards the
+main road.  
+~
+0 0 1
+D0
+~
+~
+0 0 19854
+D1
+~
+~
+0 0 19813
+D3
+~
+~
+0 0 19842
+S
+#19842
+Road Around the City~
+The road ends here and a dirt path contiunes on to the sea shore to the
+west.  East leads back to the south gate, and north leads to the
+congregation area.  The slivers seem to group together there at least once a
+day.  To the south, a hole in the city wall provides an extra entrance to
+the city, although most still prefer to use the main gates to enter.  
+~
+0 0 1
+D0
+~
+~
+0 0 19853
+D1
+~
+~
+0 0 19841
+D2
+~
+~
+0 0 19843
+D3
+~
+~
+0 0 19844
+S
+#19843
+Hole in the Wall~
+There is a hole in the wall here, allowing people to move through the
+city without going through the gates.  There is a little rubble, but it is
+mostly cleared now.  Occasionally someone wander through here, but more
+often they stick to the main gates.  The hole leads south out of the city.  
+~
+0 0 3
+D0
+~
+~
+0 0 19842
+S
+#19844
+Edge of the Sea~
+The edge of the sea is here, lapping on the shores.  The city was built
+right on the edge of the sea, and over time the shoreline seems to have
+extended.  To the west it looks like some sort of building is under the
+water, as part of it sticks through.  The town is built on a slight slope,
+but no one seemed to account for the advancing shoreline.  
+~
+0 0 1
+D1
+~
+~
+0 0 19842
+D3
+~
+~
+1 0 19863
+S
+#19845
+Entrance to the Temple of Selina~
+~
+0 0 1
+D0
+~
+~
+0 0 19800
+S
+#19846
+Back Alley~
+To the north is the perimeter wall running the length of the city wall. 
+South leads to the main road, while east is the old town hall, but the
+collapsed side faces out.  West lies the old Bosco monument, but the
+entrance here has collapsed, to get in one must use the entrances on the
+north or south.  
+~
+0 0 1
+D0
+~
+~
+0 0 19833
+D2
+~
+~
+0 0 19847
+S
+#19847
+Road Between~
+Between the sea edge, the perimeter road, and the main road, right here
+is just a large intersection between everything.  North heads towards the
+city walls, south to the main road, and west to the coast.  
+~
+0 0 1
+D0
+~
+~
+0 0 19846
+D2
+~
+~
+0 0 19849
+D3
+~
+~
+0 0 19857
+S
+#19848
+Main Road~
+The main road runs the length of the city from east to west.  East is the
+town square while south leads to the imported goods storage.  To the west is
+the coastline.  The lapping of waves can be faintly heard from here, coming
+onto the shore of the city in an abrupt splash.  East leads to the town
+square while south leads towards the perimeter road.  West continues towards
+the sea.  
+~
+0 0 1
+D1
+~
+~
+0 0 19800
+D2
+~
+~
+0 0 19856
+D3
+~
+~
+0 0 19849
+S
+#19849
+Main Road~
+The main road runs east to west through the whole city to almost the
+waters edge.  West you can see the old black smith, which hasn't been
+repaired since it was destroyed, and the sound of waves grows a little
+louder here.  East leads to the town square and directly south is the new
+ship building warehouse.  North leads to the city walls, and from there the
+city gates.  
+~
+0 0 1
+D0
+~
+~
+0 0 19847
+D1
+~
+~
+0 0 19848
+D3
+~
+~
+0 0 19850
+S
+#19850
+End of the Main Road~
+The main road ends here, right before the old blacksmith, behind which is
+the coastline.  Waves can be heard quite clearly now, splashing abruptly on
+the shore.  North leads to the old Bosco monument while south leads to the
+"gathering area".  
+~
+0 0 1
+D0
+~
+~
+0 0 19857
+D1
+~
+~
+0 0 19849
+D2
+~
+~
+0 0 19851
+S
+#19851
+Old Main Road~
+Called the Old Main Road, this road runs east south.  It was at one point
+the prominent road of the city, used by the dragons, and before them the
+slivers, as the first houses were built along this road as well as the
+blacksmith, and at the northern end the Bosco monument.  Now though, the
+road is a dirt road like any other side alley.  
+~
+0 0 1
+D0
+~
+~
+0 0 19850
+D2
+~
+~
+0 0 19852
+S
+#19852
+Old Main Road~
+Further along the old main road, all that remains on this section is some
+rubble to the west, vaguely resembling an old house perhaps?  There is a
+large building on the east, but no entrance at this point.  North leads back
+to the main road, and even further along, the Bosco monument.  South leads
+to the perimeter road.  
+~
+0 0 1
+D0
+~
+~
+0 0 19851
+D2
+~
+~
+0 0 19853
+S
+#19853
+Old Main Road~
+This section of road has a mostly intact but abandoned house to the west.
+To the east is the entrance to a rather large building, emitting some type
+of energy it seems....  South leads to the perimeter road, and a hole in the
+wall can be seen.  Back north is the main road.  
+~
+0 0 1
+D0
+~
+~
+0 0 19852
+D2
+~
+~
+0 0 19842
+S
+#19854
+Selina's Road~
+The newest road in the city, named after Selina in a tribute to her,
+seeing as her re-emergence has sparked a new wave of fanatacism among the
+slivers to worship her.  This is the newest section of the town, with new
+houses built along the road to accomadate workers of the warehouses for the
+imports from the docks.  South leads to the perimeter road while ahead to
+the north is the main road.  
+~
+0 0 1
+D0
+~
+~
+0 0 19855
+D2
+~
+~
+0 0 19841
+S
+#19855
+Selina's Road~
+The newest road in the city, there are houses built along the whole road.
+The houses were built to replace those destroyed in the initial loss of the
+city and for those now lost underwater.  To the south is the perimeter road,
+and to the north the main road is just in sight.  
+~
+0 0 1
+D0
+~
+~
+0 0 19856
+D2
+~
+~
+0 0 19854
+S
+#19856
+Selina's Road~
+The newest road in the city.  It goes north-south with homes on the west
+side and a warehouse on the east side.  South continues on Selina's Road and
+north joins the main road.  
+~
+0 0 1
+D0
+~
+~
+0 0 19848
+D2
+~
+~
+0 0 19855
+S
+#19857
+Connecting Road~
+A connecting road, between the coast and town square.  The road is
+hardened dirt from having many people walk over it, never having been paved.
+To the south lies the main road, directly north is the old Bosco Monument,
+and west leads to the sea.  
+~
+0 0 1
+D0
+~
+~
+0 0 19872
+D1
+~
+~
+0 0 19847
+D2
+~
+~
+0 0 19850
+D3
+~
+~
+0 0 19858
+S
+#19858
+Flooded Road~
+This is the old area of the city, long abandoned since the first war. 
+The dragons left the west side of the city in ruin, and the sea has swept up
+and claimed it for its own.  The old shops are barely intact underneath the
+water, with some of the peaks of the larger buildings just above the water. 
+To the east is air and land, above the water.  North is an old guard house
+for the former pier, south the road continues.  
+~
+0 0 12
+D0
+~
+~
+1 0 19867
+D1
+~
+~
+0 0 19857
+D2
+~
+~
+0 0 19859
+S
+#19859
+Flooded Road~
+Part of the destroyed western edge of the city, this area has been
+claimed by the sea.  Directly west is a warehouse, long since flooded. 
+South the road continues as well as to the north.  
+~
+0 0 12
+D0
+~
+~
+0 0 19858
+D2
+~
+~
+0 0 19860
+D3
+~
+~
+0 0 19873
+S
+#19860
+Flooded Road~
+More of the western side, claimed by the sea.  A large warehouse stands
+to the west, long since emptied.  South and north the road continues
+underneath the sea, and a building blocks any view east.  
+~
+0 0 12
+D0
+~
+~
+0 0 19859
+D2
+~
+~
+0 0 19861
+D3
+~
+~
+0 0 19874
+S
+#19861
+Flooded Road~
+The west end of the city has long since been claimed by the sea, and this
+is the one road underwater still distinguishable...  To a degree.  South and
+north the road continues, and west lies the once extravagant governers
+mansion, now in ruins.  
+~
+0 0 12
+D0
+~
+~
+0 0 19860
+D2
+~
+~
+0 0 19862
+D3
+~
+~
+0 0 19875
+S
+#19862
+Flooded Road~
+The water around here floats with little pieces of wood chips and debris.
+The obvious reason for this lies to the west, an old shipbuilding yard.  Now
+underwater, the wood pieces float freely around the area.  To the north the
+road continues, while to the west lies to the old ship yard.  South leads to
+an old guard house.  
+~
+0 0 12
+D0
+~
+~
+0 0 19861
+D2
+~
+~
+1 0 19863
+D3
+~
+~
+0 0 19876
+S
+#19863
+Flooded Guard House~
+The first level of the flooded guard house in the south-west corner of
+the town.  Relatively close to the sea edge, the top of the tower peaks out
+from the water.  To the north is the flooded road, while east leads out of
+the flooded area and to dry land.  
+~
+0 0 12
+D0
+~
+~
+1 0 19862
+D1
+~
+~
+1 0 19844
+S
+#19867
+Small Guard House~
+Inside a small guard house, it is obvious there is no second level by a
+lack of stairs.  This must have been just a checkpoint between incoming
+boats with cargo and the main city.  South leads out on to the flooded road
+and north to the old pier.  
+~
+0 0 12
+D0
+~
+~
+1 0 19868
+D2
+~
+~
+1 0 19858
+S
+#19868
+Flooded Road by the Pier~
+Part of the flooded part of the city, the sea has reached up here to
+claim the old pier and surrounding area.  To the south is an old guard
+house, thoroughly flooded while north lies yet another guard horse, not
+completely flooded.  West leads to the old pier.  
+~
+0 0 12
+D0
+~
+~
+1 0 19870
+D2
+~
+~
+1 0 19867
+D3
+~
+~
+0 0 19869
+S
+#19869
+The Pier~
+The old pier is completely underwater.  The wood has long been rotting
+away slowly, and small marine plants are living on it.  The pier has been
+abandoned for a long time and will probably stay that way for a long time as
+it is underwater.  East leads to a flooded road.  
+~
+0 0 0
+D1
+~
+~
+0 0 19868
+S
+#19870
+Guard House~
+An old run down guard house is just staying together.  It seems to be
+merely a shelter now from the rain, as no one stands on duty.  The pier not
+underwater is contructed off this guard house into the sea.  To the west is
+the pier, south leads to the flooded part of the city, and east leads to the
+perimeter road.  
+~
+0 0 0
+D1
+~
+~
+1 0 19835
+D2
+~
+~
+1 0 19868
+D3
+~
+~
+1 0 19871
+S
+#19871
+Wooden Pier~
+The ships are docked and cargo is being unloaded and moved to warehouses.
+Sliver workers busily move about getting crates from one ship, and moving
+them to another.  The sea laps up against the side of the boats and the pier
+and goes back with a splash.  The only exit is to the east back inland.  
+~
+0 0 1
+D1
+~
+~
+1 0 19870
+S
+#19872
+Destroyed Bosco Monument~
+A massive former statue stands here.  It seems to resemble a dragon, at
+least partly.  Much of the statue has been taken apart and vandalized.  Any
+slivers who walk past here seem to scorn the statue with hatred and disgust.
+To the north is the perimeter road, while south leads to the main road.  
+~
+0 0 1
+D0
+~
+~
+0 0 19834
+D2
+~
+~
+0 0 19857
+S
+#19873
+Old Warehouse~
+Inside the old warehouse, everything is completely flooded, like anything
+else underwater.  There's nothing left in here.  The exits are east to the
+road and south into another section of the warehouse..  
+~
+0 0 12
+D1
+~
+~
+0 0 19859
+D2
+~
+~
+0 0 19874
+S
+#19874
+Old Warehouse~
+The warehouse is completely filled with water.  There is nothing left
+inside the warehouse, all the boxes have been emptied.  The exits are north
+into another section of warehouse and east to the road.  
+~
+0 0 12
+D0
+~
+~
+0 0 19873
+D1
+~
+~
+0 0 19860
+S
+#19875
+Flooded Mansion~
+The former Governor's Mansion, most of the inside is collapsed.  There is
+no way to reach the upper levels of the house anymore, much of the wood
+having rotted away.  The peak of the house just barely breaks the surface. 
+The southern wall has also collapsed, causing the mansion to lean.  The only
+exit is east to the road.  
+~
+0 0 12
+D1
+~
+~
+0 0 19861
+S
+#19876
+Old Shipyard~
+The old shipyard is definately noticeable with many pieces of algae
+covered wood floating around.  Wood floats freely around this whole area
+with nothing contraining it.  An old chest sits on the ground, partly
+rotted, but somehow still intact.  Must have been forgotten.  The only ext
+is east to the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 19862
+S
+#19899
+Halbert's Resting Room~
+My room of resting where I contemplate building my area.
+~
+0 260 1
+E
+test~
+Test
+~
+M 200 H 20
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 19804 0 1
+D 0 19805 2 1
+D 0 19805 3 1
+D 0 19806 1 1
+D 0 19835 3 1
+D 0 19844 3 1
+D 0 19858 0 1
+D 0 19862 2 1
+D 0 19863 0 1
+D 0 19863 1 1
+D 0 19867 0 1
+D 0 19867 2 1
+D 0 19868 2 1
+D 0 19870 1 1
+D 0 19870 3 1
+D 0 19871 1 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

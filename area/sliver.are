@@ -1,0 +1,1600 @@
+#AREADATA
+Name Sliver Hive~
+Builders Siegfried~
+VNUMs 19400 19499
+Credits { None} Siegfried   Sliver Hive~
+Security 1
+Xcontinent 1
+Age 12
+Questable 1
+End
+
+
+
+#MOBILES
+#19499
+dummy target~
+Siegfried's target dummy~
+A dummy is here, waiting to be beaten down on.
+~
+~
+tree~
+A J 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+CFH BK I H
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#19498
+no name~
+(no short description)~
+~
+wood~
+trash 0 N
+0 0 0 0 0
+0 0 0 P
+#19499
+Siegfried hattori hanzo sword god~
+Siegfried's Hattori Hanzo sword~
+A sword fit for a god lies here.~
+energy~
+weapon ABFGHISYZe ANP
+dagger 40 20 divine ABCDEGHIMNPT
+54 2 100000 P
+A
+27 500  
+A
+4 30  
+A
+3 30  
+A
+2 30  
+A
+1 30  
+A
+5 30  
+A
+30 30  
+A
+28 30  
+A
+29 30  
+A
+31 30  
+A
+32 30  
+A
+19 100  
+A
+18 100  
+A
+13 10000  
+A
+12 10000  
+A
+14 10000  
+A
+17 -400  
+A
+26 500  
+#0
+
+
+
+#ROOMS
+#19456
+A Sliver Dwelling~
+~
+0 8 0
+D3
+~
+~
+1 0 19447
+S
+#19457
+A Sliver Dwelling~
+~
+0 0 0
+D3
+~
+~
+1 0 19430
+S
+#19458
+A Dock on the Lake~
+~
+0 0 0
+D0
+~
+~
+0 0 19433
+D3
+~
+~
+0 0 19440
+S
+#19459
+A Sliver Dwelling~
+~
+0 0 0
+D0
+~
+~
+1 0 19445
+S
+#19460
+A Sliver Dwelling~
+~
+0 0 0
+D1
+~
+~
+1 0 19451
+S
+#19461
+The Sliver Vault~
+~
+0 0 0
+D3
+~
+~
+0 0 19429
+S
+#19462
+The Entrance to a Majestic Temple~
+~
+0 0 0
+D1
+~
+~
+0 0 19438
+D3
+~
+~
+0 0 19463
+S
+#19463
+In the Temple's Foyer~
+~
+0 0 0
+D1
+~
+~
+0 0 19462
+D3
+~
+~
+0 0 19465
+S
+#19464
+Descending the Grand Staircase~
+~
+0 0 0
+D4
+~
+~
+0 0 19465
+D5
+~
+~
+0 0 19466
+S
+#19465
+Before a Grand Staircase~
+~
+0 0 0
+D1
+~
+~
+0 0 19463
+D5
+~
+~
+0 0 19464
+S
+#19466
+On the Landing of the Grand Staircase~
+~
+0 0 0
+D3
+~
+~
+1 0 19467
+D4
+~
+~
+0 0 19464
+S
+#19467
+The Inner Sanctum~
+~
+0 0 0
+D1
+~
+~
+1 0 19466
+D2
+~
+~
+1 0 19474
+D3
+~
+~
+0 0 19468
+S
+#19468
+The Inner Sanctum~
+~
+0 0 0
+D0
+~
+~
+0 0 19470
+D1
+~
+~
+0 0 19467
+D2
+~
+~
+0 0 19471
+D3
+~
+~
+0 0 19472
+S
+#19469
+The Sanctum's Altar~
+~
+0 0 0
+D1
+~
+~
+0 0 19472
+D3
+~
+~
+1 0 19473
+S
+#19470
+A Prayer Room~
+~
+0 0 0
+D2
+~
+~
+0 0 19468
+S
+#19471
+A Clerical Meditation Chamber~
+~
+0 0 0
+D0
+~
+~
+0 0 19468
+S
+#19472
+The Inner Sanctum~
+~
+0 0 0
+D1
+~
+~
+0 0 19468
+D3
+~
+~
+0 0 19469
+S
+#19473
+A Shrine to the Goddess Selina~
+~
+0 524296 0
+D1
+~
+~
+1 0 19469
+S
+#19474
+The High Priest's Chambers~
+~
+0 0 0
+D0
+~
+~
+1 0 19467
+S
+#19475
+On Another Plane of Existence~
+~
+0 4 0
+D0
+~
+~
+0 0 19481
+D1
+~
+~
+0 0 19477
+D2
+~
+~
+0 0 19478
+D3
+~
+~
+0 0 19476
+S
+#19476
+On Another Plane of Existence~
+~
+0 0 0
+D1
+~
+~
+0 0 19475
+D2
+~
+~
+0 0 19480
+S
+#19477
+On Another Plane of Existence~
+~
+0 0 0
+D2
+~
+~
+0 0 19479
+D3
+~
+~
+0 0 19475
+S
+#19478
+On Another Plane of Existance~
+~
+0 0 0
+D0
+~
+~
+0 0 19475
+D1
+~
+~
+0 0 19479
+D3
+~
+~
+0 0 19480
+D5
+~
+~
+0 0 19482
+S
+#19479
+On Another Plane of Existance~
+~
+0 0 0
+D0
+~
+~
+0 0 19477
+D3
+~
+~
+0 0 19478
+D5
+~
+~
+0 0 19482
+S
+#19480
+On Another Plane of Existance~
+~
+0 0 0
+D0
+~
+~
+0 0 19476
+D1
+~
+~
+0 0 19478
+D5
+~
+~
+0 0 19482
+S
+#19481
+On the Edge of Another Plane of Existance~
+~
+0 0 0
+D2
+~
+~
+0 0 19475
+S
+#19482
+Descending the Plane of Existance~
+~
+0 0 0
+D1
+~
+~
+0 0 19483
+D2
+~
+~
+0 0 19485
+D3
+~
+~
+0 0 19484
+S
+#19483
+Descending the Plane of Existance~
+~
+0 0 0
+D1
+~
+~
+0 0 19477
+D3
+~
+~
+0 0 19482
+S
+#19484
+Descending the Plane of Existance~
+~
+0 0 0
+D1
+~
+~
+0 0 19482
+D3
+~
+~
+0 0 19476
+S
+#19485
+A Celestial Gateway~
+~
+0 0 0
+D0
+~
+~
+0 0 19482
+D2
+~
+~
+1 0 19486
+S
+#19486
+Within the Hive Mind~
+~
+0 0 0
+D0
+~
+~
+1 0 19485
+D1
+~
+~
+0 0 19487
+S
+#19487
+Within the Hive Mind~
+~
+0 0 0
+D2
+~
+~
+0 0 19489
+D5
+~
+~
+0 0 19488
+S
+#19488
+Within the Hive Mind~
+~
+0 0 0
+D3
+~
+~
+0 0 19490
+D5
+~
+~
+0 0 19489
+S
+#19489
+Within the Hive Mind~
+~
+0 0 0
+D5
+~
+~
+0 0 19487
+S
+#19490
+Within the Hive Mind~
+-
+~
+0 0 0
+D1
+~
+~
+0 0 19489
+D5
+~
+~
+0 0 19491
+S
+#19491
+Within the Hive Mind~
+~
+0 0 0
+D5
+~
+~
+0 0 19492
+S
+#19492
+Within the Hive Mind~
+~
+0 0 0
+D1
+~
+~
+0 0 19493
+D5
+~
+~
+0 0 19490
+S
+#19493
+Within the Hive Mind~
+~
+0 0 0
+D0
+~
+~
+0 0 19491
+D5
+~
+~
+0 0 19494
+S
+#19494
+Within the Hive Mind~
+~
+0 0 0
+D0
+~
+~
+0 0 19492
+D1
+~
+~
+0 0 19489
+D2
+~
+~
+0 0 19490
+D3
+~
+~
+0 0 19487
+D5
+~
+~
+0 0 19495
+S
+#19495
+The Hive Central Plexus~
+~
+0 0 0
+D0
+~
+~
+0 0 19486
+D2
+~
+~
+1 0 19496
+S
+#19496
+The Celestial Corridor~
+~
+0 0 0
+D0
+~
+~
+1 0 19495
+D2
+~
+~
+0 0 19475
+S
+#19499
+A Room in the Phantom Train~
+~
+0 805871628 0
+M 900 H 900
+S
+#19400
+Thick Bushes in the Forest~
+~
+0 4 3
+D2
+~
+~
+0 0 19401
+S
+#19401
+A Path Through the Bushes~
+~
+0 0 3
+D0
+~
+~
+0 0 19400
+D3
+~
+~
+0 0 19402
+S
+#19402
+A Clearing in the Forest~
+~
+0 0 2
+D1
+~
+~
+0 0 19401
+D2
+~
+~
+0 0 19403
+S
+#19403
+A Clearing in the Forest~
+~
+0 0 2
+D0
+~
+~
+0 0 19402
+D5
+~
+~
+0 0 19404
+S
+#19404
+A Large Hole in the Ground~
+~
+0 0 2
+D4
+~
+~
+0 0 19403
+D5
+~
+~
+0 0 19405
+S
+#19405
+Deeper in the Hole~
+~
+0 8 0
+D4
+~
+~
+0 0 19404
+D5
+~
+~
+0 0 19406
+S
+#19406
+The Bottom of the Hole~
+~
+0 8 0
+D3
+~
+~
+0 0 19407
+D4
+~
+~
+0 0 19405
+S
+#19407
+The Entrance to the Sliver Hive~
+~
+0 8 0
+D1
+~
+~
+0 0 19406
+D2
+~
+~
+0 0 19408
+S
+#19408
+Inside the Sliver Hive~
+~
+0 0 0
+D0
+~
+~
+0 0 19407
+D1
+~
+~
+0 0 19410
+D2
+~
+~
+0 0 19409
+D3
+~
+~
+0 0 19411
+S
+#19409
+A Long Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 19408
+D2
+~
+~
+0 0 19415
+D3
+~
+~
+0 0 19423
+S
+#19410
+A Tunnel~
+~
+0 8 0
+D1
+~
+~
+0 0 19412
+D3
+~
+~
+0 0 19408
+S
+#19411
+A Passageway~
+~
+0 8 0
+D1
+~
+~
+0 0 19408
+D2
+~
+~
+0 0 19426
+D3
+~
+~
+0 0 19421
+S
+#19412
+A Junction in the Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 19413
+D2
+~
+~
+0 0 19414
+D3
+~
+~
+0 0 19410
+S
+#19413
+A Storage Room~
+~
+0 8 0
+D2
+~
+~
+0 0 19412
+S
+#19414
+A Narrow Tunnel~
+~
+0 8 0
+D0
+~
+~
+0 0 19412
+D2
+~
+~
+0 0 19417
+S
+#19415
+A Long Corridor~
+~
+0 8 0
+D0
+~
+~
+0 0 19409
+D1
+~
+~
+0 0 19416
+D2
+~
+~
+0 0 19419
+S
+#19416
+A Narrow Tunnel~
+~
+0 8 0
+D1
+~
+~
+0 0 19417
+D3
+~
+~
+0 0 19415
+S
+#19417
+A Junction in the Narrow Tunnel~
+~
+0 8 0
+D0
+~
+~
+0 0 19414
+D1
+~
+~
+1 0 19418
+D3
+~
+~
+0 0 19416
+S
+#19418
+A Hatchery~
+~
+0 8 0
+D3
+~
+~
+1 0 19417
+S
+#19419
+The End of the Corridor~
+~
+0 8 0
+D0
+~
+~
+0 0 19415
+D5
+~
+~
+0 0 19420
+S
+#19420
+Descending Further into the Hive~
+~
+0 8 0
+D4
+~
+~
+0 0 19419
+D5
+~
+~
+0 0 19427
+S
+#19421
+A Bend in the Passageway~
+~
+0 8 0
+D1
+~
+~
+0 0 19411
+D2
+~
+~
+0 0 19422
+D3
+~
+~
+0 0 19425
+S
+#19422
+The Passage Turns~
+~
+0 8 0
+D0
+~
+~
+0 0 19421
+D1
+~
+~
+0 0 19423
+S
+#19423
+The Passage Widens~
+~
+0 0 0
+D1
+~
+~
+0 0 19409
+D2
+~
+~
+0 0 19424
+D3
+~
+~
+0 0 19422
+S
+#19424
+A Hatchery~
+~
+0 8 0
+D0
+~
+~
+0 0 19423
+S
+#19425
+A Storage Room~
+~
+0 8 0
+D1
+~
+~
+0 0 19421
+S
+#19426
+A Weapons Cache~
+~
+0 8 0
+D0
+~
+~
+0 0 19411
+S
+#19427
+The Entrance to the Lower Hive~
+~
+0 8 0
+D3
+~
+~
+0 0 19428
+D4
+~
+~
+0 0 19420
+S
+#19428
+Inside a Large Cavern~
+~
+0 8 0
+D0
+~
+~
+0 0 19429
+D1
+~
+~
+0 0 19427
+D2
+~
+~
+0 0 19430
+D3
+~
+~
+0 0 19432
+D4
+~
+~
+0 0 19446
+S
+#19429
+Inside a Large Cavern~
+~
+0 8 0
+D1
+~
+~
+0 0 19461
+D2
+~
+~
+0 0 19428
+D3
+~
+~
+0 0 19431
+D4
+~
+~
+0 0 19447
+S
+#19430
+Inside a Large Cavern~
+~
+0 8 0
+D0
+~
+~
+0 0 19428
+D1
+~
+~
+1 0 19457
+D3
+~
+~
+0 0 19433
+D4
+~
+~
+0 0 19445
+S
+#19431
+Inside a Large Cavern~
+~
+0 8 0
+D0
+~
+~
+0 0 19455
+D1
+~
+~
+0 0 19429
+D2
+~
+~
+0 0 19432
+D3
+~
+~
+0 0 19437
+D4
+~
+~
+0 0 19448
+S
+#19432
+Inside a Large Cavern~
+~
+0 8 0
+D0
+~
+~
+0 0 19431
+D1
+~
+~
+0 0 19428
+D2
+~
+~
+0 0 19433
+D3
+~
+~
+0 0 19436
+D4
+~
+~
+0 0 19449
+S
+#19433
+Inside a Large Cavern~
+~
+0 8 0
+D0
+~
+~
+0 0 19432
+D1
+~
+~
+0 0 19430
+D2
+~
+~
+0 0 19458
+D3
+~
+~
+0 0 19434
+D4
+~
+~
+0 0 19450
+S
+#19434
+On the Underground Lake~
+~
+0 8 7
+D0
+~
+~
+0 0 19436
+D1
+~
+~
+0 0 19433
+D2
+~
+~
+0 0 19440
+D3
+~
+~
+0 0 19435
+D4
+~
+~
+0 0 19451
+S
+#19435
+On the Underground Lake~
+~
+0 8 7
+D0
+~
+~
+0 0 19438
+D1
+~
+~
+0 0 19434
+D2
+~
+~
+0 0 19441
+S
+#19436
+Inside a Large Cavern~
+~
+0 8 0
+D0
+~
+~
+0 0 19437
+D1
+~
+~
+0 0 19432
+D2
+~
+~
+0 0 19434
+D3
+~
+~
+0 0 19438
+D4
+~
+~
+0 0 19452
+S
+#19437
+Inside a Large Cavern~
+~
+0 8 0
+D1
+~
+~
+0 0 19431
+D2
+~
+~
+0 0 19436
+D3
+~
+~
+0 0 19439
+D4
+~
+~
+0 0 19453
+S
+#19438
+Inside a Large Cavern~
+~
+0 8 0
+D0
+~
+~
+0 0 19439
+D1
+~
+~
+0 0 19436
+D2
+~
+~
+0 0 19435
+D3
+~
+~
+0 0 19462
+S
+#19439
+Inside a Large Cavern~
+~
+0 8 0
+D1
+~
+~
+0 0 19437
+D2
+~
+~
+0 0 19438
+S
+#19440
+On the Underground Lake~
+~
+0 8 7
+D0
+~
+~
+0 0 19434
+D1
+~
+~
+0 0 19458
+D3
+~
+~
+0 0 19441
+S
+#19441
+On the Underground Lake~
+~
+0 8 7
+D0
+~
+~
+0 0 19435
+D1
+~
+~
+0 0 19440
+D3
+~
+~
+0 0 19442
+S
+#19442
+On the Underground Lake~
+~
+0 8 7
+D1
+~
+~
+0 0 19441
+D2
+~
+~
+0 0 19443
+S
+#19443
+A Secluded Shore of the Lake~
+~
+0 8 0
+D0
+~
+~
+0 0 19442
+D2
+~
+~
+1 0 19444
+S
+#19444
+A Small Dwelling~
+~
+0 8 0
+D0
+~
+~
+1 0 19443
+S
+#19445
+At the Top of the Cavern~
+~
+0 8 9
+D0
+~
+~
+0 0 19446
+D2
+~
+~
+1 0 19459
+D3
+~
+~
+0 0 19450
+D5
+~
+~
+0 0 19430
+S
+#19446
+At the Top of the Cavern~
+~
+0 8 9
+D0
+~
+~
+0 0 19447
+D2
+~
+~
+0 0 19445
+D3
+~
+~
+0 0 19449
+D5
+~
+~
+0 0 19428
+S
+#19447
+At the Top of the Cavern~
+~
+0 8 9
+D1
+~
+~
+1 0 19456
+D2
+~
+~
+0 0 19446
+D3
+~
+~
+0 0 19448
+D5
+~
+~
+0 0 19429
+S
+#19448
+At the Top of the Cavern~
+~
+0 8 9
+D1
+~
+~
+0 0 19447
+D2
+~
+~
+0 0 19449
+D3
+~
+~
+0 0 19453
+D5
+~
+~
+0 0 19431
+S
+#19449
+At the Top of the Cavern~
+~
+0 8 9
+D0
+~
+~
+0 0 19448
+D1
+~
+~
+0 0 19446
+D2
+~
+~
+0 0 19450
+D3
+~
+~
+0 0 19452
+D5
+~
+~
+0 0 19432
+S
+#19450
+At the Top of the Cavern~
+~
+0 8 9
+D0
+~
+~
+0 0 19449
+D1
+~
+~
+0 0 19445
+D3
+~
+~
+0 0 19451
+D5
+~
+~
+0 0 19433
+S
+#19451
+At the Top of the Cavern~
+~
+0 8 9
+D0
+~
+~
+0 0 19452
+D1
+~
+~
+0 0 19450
+D3
+~
+~
+1 0 19460
+D5
+~
+~
+0 0 19434
+S
+#19452
+At the Top of the Cavern~
+~
+0 8 9
+D0
+~
+~
+0 0 19453
+D1
+~
+~
+0 0 19449
+D2
+~
+~
+0 0 19451
+D5
+~
+~
+0 0 19436
+S
+#19453
+At the Top of the Cavern~
+~
+0 8 9
+D0
+~
+~
+1 0 19454
+D1
+~
+~
+0 0 19448
+D2
+~
+~
+0 0 19452
+D5
+~
+~
+0 0 19437
+S
+#19454
+A Sliver Dwelling~
+~
+0 8 0
+D2
+~
+~
+1 0 19453
+S
+#19455
+A Store~
+~
+0 8 0
+D2
+~
+~
+0 0 19431
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 19456 3 1
+D 0 19457 3 1
+D 0 19459 0 1
+D 0 19460 1 1
+D 0 19466 3 1
+D 0 19467 1 1
+D 0 19467 2 1
+D 0 19469 3 2
+D 0 19473 1 2
+D 0 19474 0 1
+D 0 19485 2 2
+D 0 19486 0 2
+D 0 19495 2 2
+D 0 19496 0 2
+D 0 19417 1 1
+D 0 19418 3 1
+D 0 19430 1 1
+D 0 19443 2 1
+D 0 19444 0 1
+D 0 19445 2 1
+D 0 19447 1 1
+D 0 19451 3 1
+D 0 19453 0 1
+D 0 19454 2 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

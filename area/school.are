@@ -1,0 +1,2778 @@
+#AREADATA
+Name Mud School~
+Builders None~
+VNUMs 3700 3799
+Credits { 1  5} Hatchet     Mud School~
+Security 9
+Xcontinent 0
+Age 4
+Questable 1
+End
+
+
+
+#MOBILES
+#3700
+acolyte cleric~
+an acolyte of Grog~
+An acolyte of Grog welcome you to Bosco's academy.
+~
+She's big and bad.  Don't mess with her.
+~
+human~
+ABGQTV CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 3715 2~
+#3701
+blob~
+the blob~
+The blob is here, waiting to eat you up.
+~
+He is big, he is bad.  You don't want to fight him when he isn't chained up.
+Perhaps now would be a good time to flee from him!!!  If you don't flee, you
+would really suffer the consequences.
+~
+unique~
+ABG C 0 0
+10 -5 1d1+49 1d1+99 1d1+0 digestion
+-15 -15 -15 -15
+AN AB CD 0
+stand stand none 0
+BSc 0 large 0 the guilds~
+M random 3716 2~
+#3702
+monster~
+the monster~
+There is a monster leashed here.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+school monster~
+ABU 0 0 0
+1 0 1d1+7 1d1+99 1d3+0 claw
+10 10 10 10
+0 AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium 0 the guilds~
+M greet 3719 99~
+#3703
+monster wimpy~
+the wimpy monster~
+There is a wimpy monster leashed here.
+~
+He looks wimpy.  You feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+school monster~
+ABHU 0 0 0
+1 0 1d1+7 1d1+99 1d2+0 claw
+10 10 10 10
+O AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium 0 the guilds~
+M greet 3718 99~
+#3704
+monster aggressive~
+the aggressive monster~
+There is an aggressive monster leashed here.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+school monster~
+ABFU 0 0 0
+1 0 1d1+7 1d1+99 1d4+0 claw
+10 10 10 10
+EK AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium 0 the guilds~
+M greet 3721 99~
+#3705
+monster wimpy aggressive~
+the wimpy aggressive monster~
+There is a wimpy aggressive monster leashed here.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+school monster~
+ABFHU 0 0 0
+1 0 1d1+7 1d1+99 1d3+0 claw
+10 10 10 10
+J AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium 0 the guilds~
+M random 3720 2~
+#3706
+big creature~
+the big creature~
+There is a big creature hulking over your form.
+~
+He looks mean, and you just might have a small problem killing him, but he
+looks like a great prize!!!
+~
+school monster~
+ABU JZ 0 0
+2 1 2d2+20 1d1+99 1d4+1 claw
+8 8 8 10
+FN AB 0 C
+stand stand none 25
+AMV ABCDEFHJKQU medium 0 the guilds~
+M random 3723 2~
+M random 3724 1~
+#3707
+adept cleric~
+the adept of Daisy~
+An adept of the mighty goddess Daisy is here, contemplating your progress.
+~
+She is big and bad.  Don't mess with her.
+~
+human~
+ABGQTV CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 3717 2~
+#3708
+adept cleric~
+the adept of Litazia~
+An adept of Litazia is here, smiling at you.
+~
+She is big, beautiful and bad. Don't mess with her.
+~
+human~
+ABGQTV CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 3726 2~
+#3709
+rabbit~
+the rabbit~
+A rabbit is bouncing around here.
+~
+The rabbit smiles at you, completely harmless!
+~
+rabbit~
+AGHU 0 100 0
+1 0 1d1+10 1d1+99 1d3+0 bite
+10 10 10 10
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJK tiny 0 the guilds~
+M greet 3701 50~
+M random 3702 2~
+#3710
+lizard~
+the lizard~
+A lizard slithers up to you.
+~
+It smiles at you, and tries to eat your leg.
+~
+lizard~
+AGU 0 -100 0
+2 0 2d2+20 1d1+99 1d4+1 bite
+8 8 8 10
+R 0 L I
+stand stand either 0
+AGXc ACDEFHKQV small 0 the guilds~
+M random 3703 2~
+#3711
+boar~
+the boar~
+A boar tries to run you over.
+~
+It grunts at you.
+~
+pig~
+AGU 0 0 0
+3 1 3d3+30 1d1+99 1d6+1 charge
+7 7 7 9
+CDFR 0 0 0
+stand stand either 0
+AGV ACDEFHJK medium 0 the guilds~
+M fight 3708 30~
+M greet 3707 50~
+M random 3706 2~
+M random 3709 2~
+M random 3710 2~
+M random 3711 2~
+M random 3712 2~
+#3712
+fox~
+the fox~
+A fox is here staring at you.
+~
+It's fur might be worth money.
+~
+fox~
+AGHU Z 100 0
+1 1 1d1+12 1d1+99 1d3+1 bite
+8 8 8 10
+FHNR 0 0 0
+stand stand either 0
+AGV ACDEFHJKQV small 0 the guilds~
+M random 3704 2~
+#3713
+snail~
+the snail~
+A snail is trying to get out of your way.
+~
+You don't see much but slime about it.
+~
+unique~
+AGU 0 0 0
+0 0 1d1+0 1d1+99 1d1+0 digestion
+10 10 10 10
+0 KZ 0 0
+stand stand none 0
+AGQc AFHM tiny 0 the guilds~
+M kill 3705 99~
+#3714
+beast~
+the beast~
+A beast tries to feed off of you.
+~
+It looks mean.  You'd better run.
+~
+school monster~
+AFTU Z 0 0
+5 1 5d5+55 1d1+99 1d6+3 bite
+5 5 5 8
+EKM AB HI CD
+stand stand none 50
+AMV ABCDEFHJKQU large 0 the guilds~
+M greet 3730 99~
+M random 3729 2~
+#3715
+bear~
+the bear~
+A bear is here growling at you.
+~
+The bear must be bigger than you!  It wants to rip your head off.
+~
+bear~
+AGU 0 0 0
+4 1 4d4+44 1d1+99 1d6+2 claw
+6 5 6 7
+CDEOR 0 EI D
+stand stand either 0
+AGV ABCDEFHJKUV large 0 the guilds~
+M random 3727 2~
+#3716
+Wolf~
+the wolf~
+A wolf is here snarling at you.
+~
+The wolf doesn't want to be bothered.
+~
+wolf~
+AGU YZ 0 0
+4 0 4d4+44 1d1+99 1d6+2 bite
+7 7 7 10
+FHNR 0 0 D
+stand stand either 0
+AGV ACDEFJKQV medium 0 the guilds~
+M random 3728 2~
+#3717
+adept cleric~
+the adept of Galad~
+An adept of Galad is here, grinning and selling you things.
+~
+~
+human~
+ABCQTV Z 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-5 -5 -5 -5
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 3722 99~
+#3718
+adept cleric~
+the adept of Delstar~
+An adept of Delstar is here, training young students.
+~
+~
+human~
+ABJQTV CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 3713 99~
+#3719
+priest cleric~
+the priest of Maclav~
+The priest of Maclav is ready to help you practice.
+~
+~
+human~
+ABCKQTV CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 3714 99~
+#3720
+diploma beast~
+the diploma beast~
+The hideous diploma beast is here, holding your graduation present!
+~
+This horrible creature is your final test for mud school.  Kill him, and the
+diploma is yours.
+~
+school monster~
+ABU J 0 0
+3 1 2d4+30 1d1+99 1d6+1 claw
+8 8 8 10
+EFN AB 0 C
+stand stand none 30
+AMV ABCDEFHJKQU medium 0 the guilds~
+M greet 3725 100~
+#3721
+earth elemental~
+an earth elemental~
+An earth elemental is here, waiting for its master's orders.
+~
+A large pile of pure soil takes on a rather humanoid form.
+~
+human~
+ABT Z 0 0
+1 20 1d1+1 1d1+1 1d1+1 slice
+0 0 0 0
+EFLNU 0 ABFH J
+stand stand none 0
+AHMV ABCDEFGHIJK medium earth the guilds~
+#3722
+Air Elemental~
+an air elemental~
+An air elemental is here, awaiting its master's instructions.
+~
+A semi-translucent tornadoish being is here.
+~
+human~
+ABT Z 0 0
+1 20 1d1+1 1d1+1 1d1+1 slice
+0 0 0 0
+EFLNU 0 ABFH J
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#3723
+Fire elemental~
+a fire elemental~
+A fire elemental is here, waiting for its orders.
+~
+An elemental being is here, burning and sparking on its own fumes.
+It seems to be a ball of fire, but it has a humanoid shape.
+~
+human~
+AT ILN 0 0
+1 1 1d1+1 1d1+1 0d0+0 flame
+-10 -10 -10 -10
+EFLNU 0 HJS I
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#3724
+Water elemental~
+a water elemental~
+A water elemental is here, waiting for instructions.
+~
+A being made out of water stands here.
+~
+human~
+AT U 0 0
+1 1 1d1+1 1d1+1 0d0+0 slice
+0 0 0 0
+EFLNU 0 LOQ HI
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#3725
+Giant Insect~
+a giant insect~
+An oversized insect is here, buzzing around your head.
+~
+An oversized bug with large green eyes stands in front of you.
+Eight large furry legs and a stinger, ready to poison it's victims.
+~
+centipede~
+AT TZ 0 0
+20 1 1d1+1 1d1+1 0d0+0 sting
+-10 -10 -10 -10
+FLNU 0 FI E
+stand stand none 0
+ABGHMOV ACDEFKLP tiny 0 the guilds~
+#3726
+Phantom Monster~
+Phantom Monster~
+A phantom monster is here, waiting for orders.
+~
+A large translucent phantom monster is here.  It looks down at you,
+peering into your soul.
+~
+human~
+AT JUZ 0 0
+1 1 1d1+1 1d1+1 0d0+0 slice
+-10 -10 -10 -10
+EFLN 0 E 0
+stand stand none 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#3727
+wrath spirit~
+A wrath spirit~
+A wrath spirit is here, waiting for instructions.
+~
+An odd black sinuous spiritual form swirls around. Red eyes glare out
+at you from within the darkness of the form. A great toothy maw opens
+up, and a terrifying hissing sound, a sound unlike any sound
+ever heard by mortal ear, emanates from within. Odd images form
+themselves in your mind; all you can feel is pain, despair,
+loneliness, deceit, and, above all, revenge.
+~
+human~
+AT DEFHUZ 0 0
+1 1 1d1+1 1d1+1 0d0+0 slice
+0 0 0 0
+EFN B LOQ HI
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#3728
+rugged dwarf~
+a rugged-looking dwarf~
+A rugged looking dwarf is here, building a tunnel.
+~
+You see a rugged looking dwarf slowly picking away at the wall to one
+side of the room.  He has a full set of digging gear about him; while it
+won't be very useful in your unskilled hands, he seems to be digging a
+tunnel!  I wonder where it goes.  
+~
+dwarf~
+ABGU J 0 0
+1 0 2d6+10 1d1+100 1d4+0 knock
+9 9 9 9
+I 0 LQ R
+stand stand none 50
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#3729
+bumbling magician~
+a bumbling magician~
+A bumbling magician is trying to teach himself a new spell.
+~
+You see a extremely tall and extremely fat elf standing here.  He is
+peering through his thick glasses at some parchment and is completely
+ignoring you.  He is muttering quietly under his breath as he reads.  A
+small flash of light appears, and the scroll glows a strange colour, then
+stops.  The elf acts surprised and stares at the scroll in confusion.  He
+obviously has no idea what it does or how it works.  
+~
+elf~
+ABGU J 0 0
+1 0 2d5+8 10d10+50 1d4+0 magic
+9 9 9 9
+0 0 B Z
+stand stand none 15
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#3700
+mace sub merc~
+a sub issue mace~
+You see a sub issue mace here.~
+bronze~
+weapon U AN
+mace 1 6 pound 0
+1 60 250 P
+A
+18 1  
+E
+mace~
+You see a mace of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3701
+dagger sub merc~
+a sub issue dagger~
+You see a sub issue dagger here.~
+bronze~
+weapon U AN
+dagger 1 4 pierce 0
+0 10 210 P
+A
+18 1  
+E
+dagger~
+You see a dagger of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3702
+sword sub merc~
+a sub issue sword~
+You see a sub issue sword here.~
+bronze~
+weapon U AN
+sword 1 4 slash 0
+1 30 360 P
+A
+18 1  
+E
+sword~
+You see a sword of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3703
+vest sub merc~
+a sub issue vest~
+You see a sub issue vest here.~
+leather~
+armor U AD
+1 1 1 0 0
+0 50 144 P
+E
+vest~
+You see a vest of great but cheap craftsmanship.  Stamped on the side is:
+Redemption Industries
+~
+#3704
+shield sub merc~
+a sub issue shield~
+You see a sub issue shield here.~
+wood~
+armor U AJ
+1 1 1 0 0
+0 30 108 P
+E
+shield~
+You see a shield of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3705
+cloak sub merc~
+a sub issue cloak~
+You see a sub issue cloak here.~
+cloth~
+armor U AC
+1 1 1 0 1
+0 40 72 P
+E
+cloak~
+You see a cloak of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3706
+helmet sub merc~
+a sub issue helmet~
+You see a sub issue helmet here.~
+leather~
+armor U AE
+1 1 1 0 0
+0 30 72 P
+E
+helmet~
+You see a helmet of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3707
+leggings sub merc~
+a pair of sub issue leggings~
+You see a pair of sub issue leggings here.~
+leather~
+armor U AF
+1 1 1 0 0
+0 30 72 P
+E
+leggings~
+You see leggings of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3708
+boots sub merc~
+a pair of sub issue boots~
+You see a pair of sub issue boots here.~
+leather~
+armor U AG
+1 1 1 0 0
+0 30 72 P
+E
+boots~
+You see boots of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3709
+gloves sub merc~
+a pair of sub issue gloves~
+You see a pair of sub issue gloves here.~
+leather~
+armor U AH
+1 1 1 0 0
+0 10 72 P
+E
+gloves~
+You see gloves of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3710
+sleeves sub merc~
+a pair of sub issue sleeves~
+You see a pair of sub issue sleeves here.~
+leather~
+armor U AI
+1 1 1 0 0
+0 20 72 P
+E
+sleeves~
+You see sleeves of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3711
+cape sub merc~
+a sub issue cape~
+You see a sub issue cape here.~
+cloth~
+armor U AK
+1 1 1 0 0
+0 20 72 P
+E
+cape~
+You see a cape of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3712
+belt sub merc~
+a sub issue belt~
+You see a sub issue belt here.~
+leather~
+armor U AL
+1 1 1 0 0
+0 10 72 P
+E
+belt~
+You see a belt of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3713
+bracer sub merc~
+a sub issue bracer~
+You see a sub issue bracer here.~
+bronze~
+armor U AM
+0 1 1 0 0
+0 10 48 P
+E
+bracer~
+You see a bracer of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3714
+key~
+a key~
+You see a very important key here!~
+brass~
+key P A
+0 0 0 0 0
+0 10 0 P
+#3715
+mud diploma~
+a mud school diploma~
+You see a mud school diploma here.~
+vellum~
+treasure GU AO
+0 0 0 0 0
+0 10 1140 P
+A
+5 1  
+A
+4 1  
+E
+diploma~
+This document shows that you have graduated from Mud School.
+It also has magical effects on your abilities if you hold it!
+
+Redemption Industries
+~
+#3716
+banner war merc~
+a war banner~
+A war banner is on the floor here.~
+cloth~
+light AG A
+0 0 200 0 0
+0 20 380 P
+A
+20 -1  
+A
+17 -1  
+E
+banner~
+This is the official Redemption war banner to see you through the darkest realm!
+~
+#3717
+spear sub merc~
+a sub issue spear~
+You see a sub issue spear here.~
+wood~
+weapon U AN
+staff 1 4 thrust 0
+1 50 111 P
+A
+18 1  
+E
+spear~
+You see a spear of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3718
+staff sub merc~
+a sub issue staff~
+You see a sub issue staff here.~
+wood~
+weapon U AN
+staff 1 4 pound F
+1 40 290 P
+A
+19 1  
+A
+18 2  
+E
+staff~
+You see a staff of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3719
+axe sub merc~
+a sub issue axe~
+You see a sub issue axe here.~
+bronze~
+weapon U AN
+axe 1 4 chop 0
+1 50 350 P
+A
+18 1  
+E
+axe~
+You see an axe of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3720
+flail sub merc~
+a sub issue flail~
+You see a sub issue flail here.~
+bronze~
+weapon U AN
+flail 1 4 crush 0
+1 50 310 P
+A
+19 1  
+E
+flail~
+You see a flail of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3721
+whip sub merc~
+a sub issue whip~
+You see a sub issue whip here.~
+leather~
+weapon U AN
+whip 1 4 whip 0
+1 20 330 P
+A
+18 2  
+E
+whip~
+You see a whip of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3722
+glaive sub merc~
+a sub issue glaive~
+You see a sub issue glaive here.~
+wood~
+weapon U AN
+polearm 1 4 slash F
+1 80 183 P
+A
+19 1  
+E
+glaive~
+You see a glaive of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#3723
+Piece of Earth~
+piece of earth~
+A piece of earth.~
+~
+weapon SUZ AN
+exotic 1 1 crush H
+1 100 0 P
+#3724
+raging storm~
+raging storm~
+a raging storm~
+~
+weapon SUZ AN
+exotic 1 1 none G
+1 100 0 P
+#3725
+burning flame~
+a soft burning flame~
+a soft burning flame~
+~
+weapon SUZ AN
+exotic 1 1 flame A
+1 100 0 P
+#3726
+water drop~
+water drop~
+a small water drop~
+~
+weapon SUZ AN
+exotic 1 1 grep B
+1 100 0 P
+#3727
+wrath implement~
+a wrath implement~
+a wrath implement is on the floor.~
+~
+weapon HPSUZ AN
+exotic 1 1 grep 0
+1 100 0 P
+#3728
+knuckle sub merc~
+a pair of sub issue knuckles~
+You see a pair of sub issue knuckles here.~
+bronze~
+weapon U AN
+exotic 1 6 knock 0
+1 30 250 P
+A
+18 2  
+#3729
+katana sub merc~
+a sub issue great katana~
+You see a plain dull great katana here.~
+bronze~
+weapon U AN
+katana 1 10 slice 0
+1 30 250 P
+A
+18 2  
+#3730
+wand colour spray~
+a wand of colour spray~
+A wand of colour spray is lying on the ground.~
+crystal~
+wand 0 AOc
+5 15 15 'colour spray' 0
+1 10 0 P
+E
+colour~
+Wear this wand and then zap an enemy to cast the aggresive and
+damage-dealing spell "colour spray" on them!
+~
+E
+wand~
+Wear this wand and then zap an enemy to cast the aggresive and
+damage-dealing spell "colour spray" on them!
+~
+#3731
+pill speed~
+a pill of speed~
+This pill will speed you up, helping you hit more often.~
+food~
+pill Y Ac
+40 'haste' 'reserved' 'reserved' 'reserved'
+0 10 50 P
+#3732
+pill offense~
+a pill of offense~
+Eating this pill will make your offenses stronger.~
+food~
+pill Y Ac
+40 'frenzy' 'reserved' 'reserved' 'reserved'
+0 10 50 P
+#0
+
+
+
+#ROOMS
+#3700
+Welcome to Redemption!~
+Welcome to Redemption!
+ 
+~
+0 12 0
+E
+mist~
+Redemption is a series of rooms laid out in 6 directions: North, south,
+east, west, up and down.  To move around, you type the name of the
+direction, and then hit enter.  If you're new to Redemption or MUDding in
+general, please head north, read the room descriptions (instructions) as
+they appear, and feel encouraged to ask questions at any time, using the
+following syntax: 
+? <question>
+~
+D0
+~
+~
+0 0 17179
+D2
+Exit ~
+door~
+1 -1 3744
+D5
+~
+~
+0 0 3001
+S
+#3701
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The exits are west and south.  A small plaque is on the
+wall.
+~
+0 131084 0
+E
+plaque~
+This zone (Mud School) is created by Hatchet for any Rom Mud.
+Copyright 1992, 1993.
+~
+E
+sign~
+Equipment check time!  Type 'EQUIPMENT' to see your current equipment.  Right
+now, you have just a vest, a shield, and a weapon.  As you go through Mud
+School you will acquire a complete set of equipment.
+
+To pick up items on the ground as you see them, type 'GET item'.
+To wear a piece of armor, type 'WEAR item'.
+To hold a light source, type 'HOLD item'.
+To wield a weapon, type 'WIELD weapon'.
+To wear, hold, and wield everything you have, type 'WEAR ALL'.
+To stop using a piece of equipment, type 'REMOVE item'.
+Finally, to see the items in your inventory, type 'INVENTORY'.
+
+When you are ready to continue, go west.
+~
+D2
+Exit ~
+~
+0 -1 3757
+D3
+Exit ~
+~
+0 -1 3702
+S
+#3702
+The Center Room~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits lead in ALL directions.
+~
+0 131084 0
+E
+sign~
+This is the direction practicing room.  The directions you can go in any
+room are: north, south, east, west, up, or down.  Of course, not all rooms
+have all exits available.
+
+To see the obvious exits in a room, type 'EXITS'.
+
+Sometimes doors are closed, or locked, or secret.  Then you have to notice
+clues in the room description, or try going into that direction and seeing
+if you bump into a door.
+
+Try going into each direction from here.  When you are done, go NORTH.
+~
+D0
+Exit ~
+~
+0 0 3703
+D1
+Exit ~
+~
+0 0 3701
+D2
+Exit ~
+~
+0 0 3705
+D3
+Exit ~
+~
+0 0 3704
+D4
+Exit ~
+~
+0 0 3708
+D5
+Exit ~
+~
+0 0 3707
+S
+#3703
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits lead north and south.
+~
+0 131084 0
+E
+sign~
+Since you are here, let us have another lesson.  You can see the statistics on
+yourself by typing 'SCORE'.  Do that right now.  At higher levels, 'SCORE'
+gives you more information.
+~
+D0
+Exit ~
+~
+0 -1 3709
+D2
+Exit ~
+~
+0 0 3702
+S
+#3704
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is east.
+~
+0 131084 0
+E
+sign~
+Just go east to the central room.
+~
+D1
+Exit ~
+~
+0 0 3702
+S
+#3705
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is north.
+~
+0 131084 0
+E
+sign~
+Just go north to the central room.
+~
+D0
+Exit ~
+~
+0 0 3702
+S
+#3706
+Mob Creation Containment Center~
+This room is holding place for most creatures that are used as 
+a summoning group.
+~
+0 828424 0
+D3
+Exit ~
+door~
+0 0 3760
+S
+#3707
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is up.
+~
+0 131084 0
+E
+sign~
+Just go up to the central room.
+~
+D4
+Exit ~
+~
+0 0 3702
+S
+#3708
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is down.
+~
+0 131084 0
+E
+sign~
+Just go down to the central room.
+~
+D5
+Exit ~
+~
+0 0 3702
+S
+#3709
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits reach west and down.
+~
+0 131084 0
+E
+sign~
+Welcome to combat training.
+
+The first lesson is knowing whom to fight.  Use the command 'CONSIDER' to
+consider killing a monster.  Avoid fighting monsters that will kill you
+easily.
+
+The second lesson is running away.  There is a monster in the room down.
+He is too strong for you to kill, but he won't kill you.  So go 'DOWN' from
+here, then 'CONSIDER' him, then 'KILL' him.  After a while, type 'FLEE' to
+escape from him.
+
+You can also set your character to flee automatically with the 'WIMPY' command.
+Type 'HELP WIMPY' to find out more about 'WIMPY'.
+
+After you flee, you will be back in this room.  When you are ready to go on
+to the next station, go 'WEST'.
+~
+D3
+Exit ~
+~
+0 -1 3711
+D5
+Exit ~
+~
+0 0 3710
+S
+#3710
+The Blob Cage~
+You are in a smelly cage.  Strangely, the walls are still clean!
+You see a sign here.  The only exit is up.
+~
+0 131080 0
+E
+sign~
+Remember, don't fight the blob to the finish!  Just type 'KILL BLOB', then
+when you are fighting, type 'FLEE', until you flee and are out of here.
+~
+D4
+Exit ~
+~
+0 0 3709
+S
+#3711
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.
+~
+0 131084 0
+E
+sign~
+Welcome to the next station.  Here, you will actually fight real monsters,
+without fleeing!  Kill every mob, since they hold some equipment you need.
+To start, go down.
+~
+D1
+Exit ~
+~
+0 0 3709
+D5
+Exit ~
+~
+0 0 3712
+S
+#3712
+The Cage Room~
+You are in the cage room.  All around are 4 cages.  Light fluoresces off the
+ceiling in soft white tones.  Of course, there is a big sign on the wall.
+Exits lead into the cardinal directions plus down.
+~
+0 132108 0
+E
+sign~
+Welcome to the cage room.  The adepts of mud school have captured some
+monsters for you to kill.  In the four cages are four monsters of various
+types.  Kill them all!
+
+After you kill each monster, get all of the equipment from their corpses
+with the command 'GET ALL CORPSE'.  You can then use the command 'WEAR ALL'
+to wear your newly won equipment.
+
+When you are done with the corpse, 'SACRIFICE CORPSE' to give it to your God.
+God will reward you for this.
+
+Between combat, you may need to rest or sleep to regenerate hit points.
+You can 'REST' to regenerate hit points, or you can 'SLEEP'.  'SLEEP' will
+refresh you faster than 'REST', but you will be less aware of your
+surroundings.
+~
+D0
+Exit ~
+~
+0 -1 3713
+D1
+Exit ~
+~
+0 -1 3716
+D2
+Exit ~
+~
+0 -1 3715
+D3
+Exit ~
+~
+0 -1 3714
+D5
+Exit ~
+~
+0 -1 3717
+M 150 H 150
+S
+#3713
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is south.
+~
+0 131080 0
+E
+sign~
+There is an aggressive monster in this room.  Kill him and get out of here
+fast!  Remember to loot and sacrifice the corpse.
+~
+D2
+Exit ~
+~
+0 -1 3712
+S
+#3714
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is east.
+~
+0 131080 0
+E
+sign~
+There is a wimpy, aggressive monster in this room.  Kill him and get out of
+here fast!  Remember to loot and sacrifice the corpse.
+~
+D1
+Exit ~
+~
+0 -1 3712
+S
+#3715
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is north.
+~
+0 131080 0
+E
+sign~
+There is a wimpy monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+D0
+Exit ~
+~
+0 -1 3712
+S
+#3716
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is west.
+~
+0 131080 0
+E
+sign~
+There is a monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+D3
+Exit ~
+~
+0 -1 3712
+S
+#3717
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no
+windows.  Light fluoresces off the ceiling in soft white tones.  Of course,
+there is a sign on the wall.  You notice the outline of a door to the east;
+who knows what adventures might lay beyond if you were to open it?  
+~
+0 131084 0
+E
+sign~
+There are channels here on Redemption to learn about.  The main ones
+are as the following:
+ 
+1- Gossip, short form for gossip is '.'
+Try: Gossip hello, I am a newbie.
+ 
+2- OOC, short form of this is ']'
+Try: OOC what does OOC stand for?
+ 
+Try not to swear on the channels as it's considered rude and ignorant,
+but if you have questions use these channels to find out what you need
+as most players are helpful with newbies.
+~
+D1
+Exit ~
+door~
+1 -1 3719
+D2
+Exit ~
+~
+0 0 3718
+D4
+Exit ~
+~
+0 -1 3712
+S
+#3718
+The Store in Mud School~
+You are in a cramped room.  Stacked neatly on shelves everywhere are
+items and packages.  Light fluoresces off the ceiling in soft white tones. 
+Of course, there is a sign on the wall.  There is an exit to the north, and
+you can see a dark tunnel leading downwards; make sure you have a light with
+you!  
+~
+0 131080 0
+E
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+           that item.
+   Sell  - Sell that item to the storekeeper.
+~
+D0
+Exit ~
+~
+0 0 3717
+D5
+~
+~
+0 0 3764
+S
+#3719
+A Room in Mud School~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The exits are north and west, with a door to the east.
+~
+0 131084 0
+E
+sign~
+North of you is a dark room.  I hope you still have the lantern!  If not,
+you have to back to the store and buy one.
+
+In the room is a monster with a key that you need.  After killing the
+monster and getting the key, come back here, UNLOCK EAST, OPEN EAST,
+and continue east.
+~
+D0
+Exit ~
+~
+0 0 3720
+D1
+Exit ~
+door~
+2 3714 3721
+D3
+Exit ~
+door~
+1 -1 3717
+S
+#3720
+The Darkened Room~
+This room was purposefully darkened so that you would need to hold on to a
+light source to go through.  The walls are, of course, blank, and white.
+The only exit is south.
+~
+0 131081 0
+D2
+Exit ~
+~
+0 0 3719
+S
+#3721
+The End of Mud School!~
+This is a very bright room, with a marble pedestal in the center.  Behind
+the pedestal stands a person cloaked in Silver.  Tapestries flow from every
+wall, and you feel very happy to be here right now.  There is a big sign here.
+The only exit is on the other side of the gate north of you.
+~
+0 131080 0
+E
+sign~
+You have graduated from Mud School!  Take your diploma...if you can.
+Go 'NORTH' from here to visit our arena.  There are plenty of low-level
+monsters, but DON'T attack other players.
+
+If you want to go directly back to the temple at any time, type 'RECALL'.
+
+Don't forget to type save to protect your character.  You won't be saved after
+quitting until you reach level 2, so also type save before you type quit.
+
+If you need more help during the game, type 'HELP'.  If you see something
+wrong or have comments, use 'BUG', 'IDEA', or 'TYPO' to report them.
+
+May your visit here be ... mercenary.
+~
+D0
+Exit ~
+gate~
+1 -1 3722
+S
+#3722
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3729
+D1
+Exit ~
+~
+0 0 3725
+D3
+Exit ~
+~
+0 0 3723
+D4
+Exit ~
+~
+0 0 3760
+S
+#3723
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3728
+D1
+Exit ~
+~
+0 0 3722
+D3
+Exit ~
+~
+0 0 3724
+D4
+Exit ~
+~
+0 0 3760
+S
+#3724
+South West Corner of Arena~
+You are in the Arena.  There is a trap door below you.  Remember, if you 
+wish to get out of this Arena, just go up.  Ceilings can barely be seen in 
+this huge Arena.  You feel as if you are being watched by some divine 
+being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3727
+D1
+Exit ~
+~
+0 0 3723
+D4
+Exit ~
+~
+0 0 3760
+D5
+Exit ~
+door~
+1 0 3747
+S
+#3725
+South Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3730
+D1
+Exit ~
+~
+0 0 3726
+D3
+Exit ~
+~
+0 0 3722
+D4
+Exit ~
+~
+0 0 3760
+S
+#3726
+South East Corner of Arena~
+You are in the Arena.  There is a trap door below you.  Remember, if you 
+wish to get out of this Arena, just go up.  Ceilings can barely be seen in 
+this huge Arena.  You feel as if you are being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3731
+D3
+Exit ~
+~
+0 0 3725
+D4
+Exit ~
+~
+0 0 3760
+D5
+Exit ~
+door~
+1 0 3763
+S
+#3727
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3732
+D1
+Exit ~
+~
+0 0 3728
+D2
+Exit ~
+~
+0 0 3724
+D4
+Exit ~
+~
+0 0 3760
+S
+#3728
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3733
+D1
+Exit ~
+~
+0 0 3729
+D2
+Exit ~
+~
+0 0 3723
+D3
+Exit ~
+~
+0 0 3727
+D4
+Exit ~
+~
+0 0 3760
+S
+#3729
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3734
+D1
+Exit ~
+~
+0 0 3730
+D2
+Exit ~
+~
+0 0 3722
+D3
+Exit ~
+~
+0 0 3728
+D4
+Exit ~
+~
+0 0 3760
+S
+#3730
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3735
+D1
+Exit ~
+~
+0 0 3731
+D2
+Exit ~
+~
+0 0 3725
+D3
+Exit ~
+~
+0 0 3729
+D4
+Exit ~
+~
+0 0 3760
+S
+#3731
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3736
+D2
+Exit ~
+~
+0 0 3726
+D3
+Exit ~
+~
+0 0 3730
+D4
+Exit ~
+~
+0 0 3760
+S
+#3732
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3737
+D1
+Exit ~
+~
+0 0 3733
+D2
+Exit ~
+~
+0 0 3727
+D4
+Exit ~
+~
+0 0 3760
+S
+#3733
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3738
+D1
+Exit ~
+~
+0 0 3734
+D2
+Exit ~
+~
+0 0 3728
+D3
+Exit ~
+~
+0 0 3732
+D4
+Exit ~
+~
+0 0 3760
+S
+#3734
+Center of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.  There is a BIG SIGN here.
+~
+0 8 0
+E
+sign~
+Those with high bravery or low senses of cautiousness might wish to go below
+to the Dungeon.  However, know that there are aggressive monsters down there,
+and there is no quick escape back out of here when you are in the dungeon.
+~
+D0
+Exit ~
+~
+0 0 3739
+D1
+Exit ~
+~
+0 0 3735
+D2
+Exit ~
+~
+0 0 3729
+D3
+Exit ~
+~
+0 0 3733
+D4
+Exit ~
+~
+0 0 3760
+D5
+Exit ~
+grate~
+1 -1 3748
+S
+#3735
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3740
+D1
+Exit ~
+~
+0 0 3736
+D2
+Exit ~
+~
+0 0 3730
+D3
+Exit ~
+~
+0 0 3734
+D4
+Exit ~
+~
+0 0 3760
+S
+#3736
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3741
+D2
+Exit ~
+~
+0 0 3731
+D3
+Exit ~
+~
+0 0 3735
+D4
+Exit ~
+~
+0 0 3760
+S
+#3737
+West Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3742
+D1
+Exit ~
+~
+0 0 3738
+D2
+Exit ~
+~
+0 0 3732
+D4
+Exit ~
+~
+0 0 3760
+S
+#3738
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3743
+D1
+Exit ~
+~
+0 0 3739
+D2
+Exit ~
+~
+0 0 3733
+D3
+Exit ~
+~
+0 0 3737
+D4
+Exit ~
+~
+0 0 3760
+S
+#3739
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3744
+D1
+Exit ~
+~
+0 0 3740
+D2
+Exit ~
+~
+0 0 3734
+D3
+Exit ~
+~
+0 0 3738
+D4
+Exit ~
+~
+0 0 3760
+S
+#3740
+Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3745
+D1
+Exit ~
+~
+0 0 3741
+D2
+Exit ~
+~
+0 0 3735
+D3
+Exit ~
+~
+0 0 3739
+D4
+Exit ~
+~
+0 0 3760
+S
+#3741
+East Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3746
+D2
+Exit ~
+~
+0 0 3736
+D3
+Exit ~
+~
+0 0 3740
+D4
+Exit ~
+~
+0 0 3760
+S
+#3742
+North West Corner of Arena~
+You are in the Arena.  There is a trap door below you.  Remember, if you 
+wish to get out of this Arena, just go up.  Ceilings can barely be seen in 
+this huge Arena.  You feel as if you are being watched by some divine being.
+~
+0 8 0
+D1
+Exit ~
+~
+0 0 3743
+D2
+Exit ~
+~
+0 0 3737
+D4
+Exit ~
+~
+0 0 3760
+D5
+Exit ~
+door~
+1 0 3761
+S
+#3743
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  You can barely see the ceiling.  You feel as if you are being watched
+by some divine being.
+~
+0 8 0
+D1
+Exit ~
+~
+0 0 3744
+D2
+Exit ~
+~
+0 0 3738
+D3
+Exit ~
+~
+0 0 3742
+D4
+Exit ~
+~
+0 0 3760
+S
+#3744
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D1
+Exit ~
+~
+0 0 3745
+D2
+Exit ~
+~
+0 0 3739
+D3
+Exit ~
+~
+0 0 3743
+D4
+Exit ~
+~
+0 0 3760
+S
+#3745
+North Wall of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D1
+Exit ~
+~
+0 0 3746
+D2
+Exit ~
+~
+0 0 3740
+D3
+Exit ~
+~
+0 0 3744
+D4
+Exit ~
+~
+0 0 3760
+S
+#3746
+North East Corner of Arena~
+You are in the Arena.  There is a trap door below you.  Remember, if you 
+wish to get out of this Arena, just go up.  Ceilings can barely be seen in 
+this huge Arena.  You feel as if you are being watched by some divine being.
+~
+0 8 0
+D2
+Exit ~
+~
+0 0 3741
+D3
+Exit ~
+~
+0 0 3745
+D4
+Exit ~
+~
+0 0 3760
+D5
+Exit ~
+door~
+1 0 3762
+S
+#3747
+Below South West Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+door~
+0 0 3761
+D1
+Exit ~
+door~
+0 0 3763
+D4
+Exit ~
+door~
+1 0 3724
+S
+#3748
+The Center of the Dungeon~
+You are in the center of a large room.  A faint light from above shows that
+the floors are all covered with slime.  A feeling of dread comes over you as
+you notice that this is NOT a great place to go.  Exits go in all directions.
+Of special note is the one that brings you back up!!!
+~
+0 8 0
+D0
+Exit ~
+~
+0 0 3750
+D1
+Exit ~
+~
+0 0 3753
+D2
+Exit ~
+~
+0 0 3755
+D3
+Exit ~
+~
+0 0 3752
+D4
+Exit ~
+grate~
+1 -1 3734
+S
+#3749
+The North West Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D1
+Exit ~
+~
+0 0 3750
+D2
+Exit ~
+~
+0 0 3752
+S
+#3750
+The North Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D1
+Exit ~
+~
+0 0 3751
+D2
+Exit ~
+~
+0 0 3748
+D3
+Exit ~
+~
+0 0 3749
+S
+#3751
+The North East Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D2
+Exit ~
+~
+0 0 3753
+D3
+Exit ~
+~
+0 0 3750
+S
+#3752
+The West Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+Exit ~
+~
+0 0 3749
+D1
+Exit ~
+~
+0 0 3748
+D2
+Exit ~
+~
+0 0 3754
+S
+#3753
+The East Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+Exit ~
+~
+0 0 3751
+D2
+Exit ~
+~
+0 0 3756
+D3
+Exit ~
+~
+0 0 3748
+S
+#3754
+The South West Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+Exit ~
+~
+0 0 3752
+D1
+Exit ~
+~
+0 0 3755
+S
+#3755
+The South Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+Exit ~
+~
+0 0 3748
+D1
+Exit ~
+~
+0 0 3756
+D3
+Exit ~
+~
+0 0 3754
+S
+#3756
+The South East Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+Exit ~
+~
+0 0 3753
+D3
+Exit ~
+~
+0 0 3755
+S
+#3757
+A Half-Constructed School~
+You have just stepped into a large room, with implements of war all
+around you.  Swords, axes, daggers, and maces line the walls.  Tomes of lore
+and magical wands sit on tables all around, and you can see many people who
+are ready to help you learn to use them.  First though, you must learn more
+about yourself.  You may head to the west into Delstar's Training room to
+determine where your personal strengths may lie and improve on them, and to
+the east Maclav's Training Room is the perfect place to upgrade your skills.
+ 
+In the room is a sign that you may read, to help teach you about
+moving around this world effectively.
+~
+0 131084 1
+E
+sign~
+To find out your attributes, type 'score'.  You can improve your
+attributes in Delstar's Training Room to the west.  You can practice your
+skills and spells in Maclav's Guild Room to the east.  You can continue
+through mud school by going north.
+ 
+If you are a new character, you should go west first to improve
+your hit points and stats. Then, come back here, and then go east to
+improve your skills, especially your main weapon. Then, come back
+and head north into the rest of the academy!
+~
+D0
+Exit ~
+~
+0 0 3701
+D1
+Exit ~
+~
+0 0 3759
+D3
+Exit ~
+~
+0 0 3758
+D5
+~
+~
+0 0 5379
+S
+#3758
+Delstar's Training Room~
+You are in Delstar's Training Room.  Around you are all sorts of physical
+and mental training tools.  The whole room is filled with magic, holiness, 
+and sweat.  There is a sign on the wall.
+~
+0 131084 1
+E
+sign~
+Welcome to Delstar's Training Room.  Here you can train your attributes.  To
+train an attribute, you need enough practices.  To find out how many practice
+sessions you have, type 'train' while you are in this room.  To train for a 
+specific attribute, type 'train <attr>' where attr is the first 3 letters of
+the attribute you want increased.  Type 'help train' for more information.
+~
+D1
+Exit ~
+~
+0 0 3757
+S
+#3759
+Maclav's Guild Room~
+You are in a room filled with weapons, books, and many combat dummies, some
+cut and stabbed many times, others burnt to a crisp.  The room is filled with
+sweat and an aura of magic.  There is a sign on the wall.
+~
+0 131084 1
+E
+sign~
+Welcome to Maclav's Guild Room.  Here you will learn your skills and spells.
+To find out what skills and spells you can practice and how many practice
+sessions you have, type 'practice'.  To practice the specific skill, type
+'practice <skill>', where 'skill' is the skill or spell you wish to practice.
+Practicing increases the amount you know of that skill or spell, up to a
+certain maximum.  When you have practiced all you wish to practice, go west.
+~
+D3
+Exit ~
+~
+0 0 3757
+S
+#3760
+A Safe Room~
+~
+0 12 0
+D4
+Exit ~
+~
+0 0 3001
+S
+#3761
+Below North West Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D1
+Exit ~
+door~
+0 0 3762
+D2
+Exit ~
+door~
+0 0 3747
+D4
+Exit ~
+door~
+1 0 3742
+S
+#3762
+Below North East Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D2
+Exit ~
+door~
+0 0 3763
+D3
+Exit ~
+door~
+0 0 3761
+D4
+Exit ~
+door~
+1 0 3746
+S
+#3763
+Below South East Corner of Arena~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0 8 0
+D0
+Exit ~
+door~
+0 0 3762
+D3
+Exit ~
+door~
+0 0 3747
+D4
+Exit ~
+door~
+1 0 3726
+S
+#3764
+A Dark Tunnel~
+You have entered a dark tunnel that is barely tall enough for you to
+stand in.  It's very dark, so you need a light in order to see what is
+around you.  If the dark frightens you, you can either return up, or recall
+to leave this area.  There is, as always, a sign on the wall.  
+~
+0 131081 0
+E
+sign~
+Remember that the 'RECALL' command can always be used to return you back
+to the main city on either continent.  Redemption has two continents, which
+are completely seperated from each other.  You can get from one to the other
+by using the 'warp' station south and west from recall, by walking to the
+breach by the sea, or using the spells portal or nexus.  
+~
+D1
+~
+~
+0 0 3765
+D4
+~
+~
+0 0 3718
+S
+#3765
+An Abandoned Laboratory~
+You have stepped into an old but recently-excavated room within the mud
+school.  It appears that this room used to be used as a laboratory but
+magicians who were trying to test out their new abilities.  Tables full of
+notes and jars of strange substances line the walls.  Who knows what you
+might be able to find here?  Surprisingly, a clean and clearly marked sign
+is still hanging from the wall.  
+~
+0 131080 0
+E
+sign~
+There are many magical items that let you cast spells you don't have, such
+as wands, scrolls and staves.
+Wands and staves have to be worn to be used, and can be used multiple times.
+Scrolls can only be used once, but don't have to be worn.
+Wands are used using "zap",
+Staves are used using "brandish",
+Scrolls are used using "recite <scrollname>".
+Each of these items will work more frequently if you are better with the
+appropriate skill, be it your skill in wands, staves or scrolls.
+Type "skill" to see how good you currently are.
+~
+D3
+~
+~
+0 0 3764
+S
+#0
+
+
+
+#SPECIALS
+M 3707 spec_cast_adept Load to: the adept of Daisy
+M 3708 spec_cast_adept Load to: the adept of Litazia
+M 3714 spec_fido Load to: the beast
+M 3725 spec_poison Load to: a giant insect
+S
+
+
+
+#MOBPROGS
+#3726
+say The time has finally come to graduate and head out into the world.
+~
+A
+#3725
+if level $n < 2
+ emote grunts, 'Puny beings such as you are no match for me!'
+else
+ if level $n < 3
+  emote grunts, 'So you think you have enough skill to defeat me?'
+ else
+  if level $n < 4
+   emote grunts, 'You are talented but do you really believe you can beat me?'
+  else
+   if level $n < 5
+    emote grunts, 'Come take your prize if you think you can little one!'
+   else
+    emote grunts, 'Let us finish this once and for all.'
+   endif
+  endif
+ endif
+endif
+ 
+~
+A
+#3724
+emote licks its lips and waits for you to make a move.
+~
+A
+#3723
+emote begins stalking towards you.
+~
+A
+#3722
+if sex $n == 1
+ say Sir might I interest you in some provisions?
+endif
+if sex $n == 2
+ say Fair lady perhaps you are in need of some provisions?
+endif
+if sex $n == 0
+ say Hmmm... can I interest you in some provisions?
+endif
+~
+A
+#3721
+if ispc $n
+ emote breaks free of its chain and pounces on you!
+ kill $n
+endif
+~
+A
+#3720
+emote watches you closely and waits for a chance to strike.
+~
+A
+#3719
+if ispc $n
+ emote strains against its chain trying to get at you!
+endif
+~
+A
+#3718
+if ispc $n
+ emote cowers in fear at the sight of you.
+endif
+~
+A
+#3717
+say You are doing well. At this rate you will soon be ready to move on.
+~
+A
+#3716
+emote slowly oozes towards you and prepares to engulf you.
+~
+A
+#3715
+smile
+say Luck be with you friend.
+~
+A
+#3708
+emote squeals in pain as you strike it.
+~
+A
+#3707
+if ispc $n
+ emote snorts derisively and prepares to charge at you!
+endif
+~
+A
+#3706
+if mobhere 3709
+ emote watches a rabbit closely and tries to decide whether or not to charge.
+endif
+~
+A
+#3705
+if ispc $n
+ MOB ECHOAT $n Slime spews out of the snail and covers you from head to toe.
+endif
+~
+A
+#3704
+emote sneaks up to you and snaps at your leg.
+~
+A
+#3712
+if mobhere 3711
+ emote grunts at a nearby boar.
+endif
+~
+A
+#3703
+emote flicks its tongue out at you.
+~
+A
+#3702
+emote twitches its nose at you.
+~
+A
+#3701
+if race $n giant
+ emote frantically tries to hop out of your way.
+endif
+if race $n dragon
+ emote frantically tries to hop out of your way.
+endif
+if race $n sliver
+ emote watches you as if puzzled by your awkward physical features.
+endif
+if race $n troll
+ emote suddenly freezes in its tracks hoping you do not notice it.
+endif
+if race $n human
+ emote lifts its ears into the air as you approach.
+endif
+if race $n elf
+ emote hops over to your feet and appears to be quite at ease.
+endif
+if race $n dwarf
+ emote hops over to your feet and looks up at you with big bunny eyes.
+endif
+~
+A
+#3709
+if mobhere 3710
+ emote walks over and takes a good look at a lizard to see if it is edible.
+endif
+~
+A
+#3713
+if ispc $n
+ say Train diligently $n and some day you will be without equal.
+endif
+~
+A
+#3711
+if mobhere 3713
+ snort snail
+endif
+~
+A
+#3710
+if mobhere 3712
+ emote stamps its hooves and prepares to charge at a fox.
+endif
+~
+A
+#3714
+if ispc $n
+ say Practice your skills here $n so that your talents do not go to waste.
+endif
+~
+A
+#3727
+if mobhere 3716
+ emote rears up on its back legs and roars at a nearby wolf.
+endif
+~
+A
+#3728
+howl
+~
+A
+#3729
+emote snarls at you.
+~
+A
+#3730
+if ispc $n
+ MOB ECHOAT $n A trail of drool drips down from the mouth of the beast.
+endif
+~
+A
+#0
+
+#RESETS
+D 0 3700 2 1
+D 0 3717 1 1
+D 0 3719 1 2
+D 0 3719 3 1
+D 0 3721 0 1
+D 0 3724 5 1
+D 0 3726 5 1
+D 0 3734 5 1
+D 0 3742 5 1
+D 0 3746 5 1
+D 0 3747 4 1
+D 0 3748 4 1
+D 0 3761 4 1
+D 0 3762 4 1
+D 0 3763 4 1
+M 1 3700 1 3701 1
+M 1 3724 1 3706 1
+M 1 3721 1 3706 1
+M 1 3723 1 3706 1
+M 1 3725 1 3706 1
+M 1 3722 1 3706 1
+M 1 3726 1 3706 1
+M 1 3701 1 3710 1
+M 1 3707 1 3712 1
+M 1 3704 1 3713 1
+C 50 percent for next reset
+G 0 3731 0
+E 0 3707 0 7
+E 0 3712 0 13
+M 1 3705 1 3714 1
+C 50 percent for next reset
+G 0 3732 0
+E 0 3708 0 8
+E 0 3713 0 14
+M 1 3703 1 3715 1
+C 50 percent for next reset
+G 0 3731 0
+E 0 3706 0 6
+E 0 3711 0 12
+M 1 3702 1 3716 1
+C 50 percent for next reset
+G 0 3732 0
+E 0 3705 0 3
+E 0 3705 0 4
+M 1 3717 1 3718 1
+G 0 3009 0
+G 0 3031 0
+G 0 3138 0
+M 1 3706 1 3720 1
+E 0 3709 0 9
+E 0 3710 0 10
+E 0 3714 0 17
+E 0 3713 0 14
+M 1 3720 1 3721 1
+E 0 3715 0 17
+M 1 3708 1 3721 1
+M 1 3713 6 3724 1
+M 1 3712 3 3726 1
+M 1 3709 7 3734 4
+M 1 3710 1 3742 1
+M 1 3711 3 3746 1
+M 1 3713 3 3747 2
+M 1 3713 6 3747 2
+M 1 3714 1 3749 1
+M 1 3715 2 3751 2
+M 1 3716 2 3754 2
+M 1 3718 1 3758 1
+M 1 3719 1 3759 1
+M 1 3710 7 3761 2
+M 1 3710 7 3761 2
+M 1 3711 3 3762 2
+M 1 3711 3 3762 2
+M 1 3712 7 3763 2
+M 1 3712 7 3763 2
+M 1 3728 1 3764 1
+M 1 3729 1 3765 1
+E 0 3730 0 17
+S
+
+
+
+#SHOPS
+3717 1 15 17 19 0 100 100 0 23
+0
+
+
+
+#$

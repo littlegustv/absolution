@@ -1,0 +1,3516 @@
+#AREADATA
+Name Divided Loyalties~
+Builders Stryder~
+VNUMs 13300 13399
+Credits { None} Tolken      Divided Loyalties~
+Security 1
+Xcontinent 1
+Age 12
+Questable 1
+End
+
+
+
+#MOBILES
+#13300
+Krellion illusionist~
+Krellion, the Insane Illusionist~
+Krellion, a twisted illusionist, stands here amused with himself.
+~
+Krellion appears here only to laugh at his doings. He was once the advisor
+to the leaders of Emerald Moor, a strong and humble homestead. He used
+his mysticism to confine the whole homestead and create an exact opposite
+to it. The dark minions of his alternate world thrive to find a way to
+break free and slaughter all of Emerald Moor. And, of course, he spends
+most of his days cackling with a twisted glee.
+~
+human~
+AOR HJTUV -1000 0
+54 5 50d10+6500 1d1+100 7d6+22 none
+-24 -24 -24 -24
+AFH ABPb A N
+stand stand male 4300
+ACHIMV ABCDEFGHIJK medium 0 the guilds~
+M grall 13300 100~
+#13301
+Dendroid Sapling~
+Dendoid Sapling~
+A Denroid Sapling is sleeping here, soaking in the sun and air.
+~
+The dendroid youth stares at you with a simple look. If not for the sad
+lines on its face, you'd think it was little smarter than a twig. His soft
+bark and small size reveal that he can't be very old, his simple look
+must be a proclaimation of his innocence.
+~
+tree~
+A JR 500 0
+41 4 25d10+2000 1d1+100 4d8+14 squeeze
+-14 -14 -14 -14
+CFHO BLRX I H
+stand stand none 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13302
+Dendroid Guardian~
+Dendroid Guardian~
+A mighty dendroid stands here, hidden and ready to defend their home.
+~
+This creature's stiff face presses even harder together at the sight of you.
+While he evaluates your presence, you try hard to make out his whole form
+from amongst the common forest trees. You assess that it couldn't possibly
+move quick enough to fight any real battles, but these guardians are
+moreso an ambush fighter.
+~
+tree~
+AG JPQ 500 0
+46 4 25d10+3250 1d1+100 6d6+16 squeeze
+-16 -16 -16 -16
+CFHU BX I H
+stand stand none 1800
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13303
+Mr.Money Bags~
+Mr. Money Bags~
+Mr. Money Bags offers his life for your wealth.
+~
+This guy is loaded! Get him!
+~
+human~
+AH 0 -1000 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand none 1000000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13304
+Centaur Guard~
+Centaur Guard~
+A centaur is here, guarding his home selflessly.
+~
+You look at the centaur, and he looks back at you without moving anything
+but his eyes. As he watches your every move, you look him over well. You can
+tell that his body is his weapon, his arms are large and pulsate with
+anticipation for battle. He stands on tall, thick legs waiting patiently
+to defend his home.
+~
+human~
+AGT a 500 0
+43 4 25d10+2500 1d1+100 3d12+15 pound
+-15 -15 -15 -15
+D 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13305
+Cahor Centuar Captain~
+Cahor, the Captain Centaur~
+Cahor, the Captain Centaur, shouts out orders while protecting the main gate from intruders.
+~
+Cahor's presence is felt amongst each of the warriors around him. You,
+yourself can feel his authority in them. He wears a band of gold adorned with
+rubies on a massive bicep, and his hair can do nothing to hide his raging
+chest muscles. His eyes are filled with a cunning fierceness, but he looks
+on you with little condemnation.
+~
+human~
+ABT Va 500 0
+45 4 25d10+3000 1d1+100 8d4+16 beating
+-15 -15 -15 -15
+DHI B EN 0
+stand stand male 800
+AHMNV ABCDEFGHIJK large 0 the guilds~
+#13306
+Battle Dwarf~
+Battle Dwarf~
+A stout dwarf stands here, half out his mind and dying to fight!
+~
+When you notice the short clump of power, you walk away from it immediately.
+He grunts at you, turns his shaggy face of hair and hacks a wad of phlem
+sending it flying to the dirt. After the splatter he looks you up and
+down and grins with a glazed and crazy look in his eyes. You dismiss it
+as battle frenzy.
+~
+dwarf~
+A JZ 500 0
+44 4 25d10+2750 1d1+100 8d4+15 none
+-15 -15 -15 -15
+0 0 LQ R
+stand stand male 1900
+AHMV ABCDEFGHIJK small 0 the guilds~
+#13307
+Corblin dwarf cleric~
+Corblin, the dwarven cleric~
+Corblin scuttles around on his short legs, preparing his medicines for war.
+~
+Corblin looks strong and healthy, at least he is clean and has a
+gracious smile on his face as he runs about his tasks. He is not like the
+rest of the dwarves around here, that is probably why he is in this
+healing profession. You consider asking him for aid.
+~
+dwarf~
+ABGQa HJLPVa 1000 0
+45 4 25d10+3000 1d1+100 8d4+16 slaughter
+-15 -15 -15 -15
+CDFHIK 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 13301 100~
+#13308
+Elven Archer~
+Elven Archer~
+Standing silently, the elf holds a bow ready in hand.
+~
+The elf stands in place, skillfully silent. Sharp eyes survey the lands,
+you have the feeling nothing can get past them. You admire his elite
+aura, and respect his gracious presence. Although he seems gentle, you
+know that the bow would be aimed, loaded, and ready to fire in a moments
+breath.
+~
+elf~
+AB J 500 0
+45 4 25d10+3000 1d1+100 8d4+16 none
+-15 -15 -15 -15
+U 0 B Z
+stand stand male 1400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13309
+Jenova Grand Elf~
+Jenova, the Grand Elf Hero~
+Jenova, a Grand Elf hero of Emerald Moor, gives signals to her archers.
+~
+Jenova is a young, slender elf. Her dark brown hair curls below her shoulders,
+her high, soft cheeks are flushed by warm, rushing blood. A breeze blows
+in your direction from her and you catch a subtle sweetness. Her clothes
+are thick and dulled by wear, but resourceful. This hero demands obedience
+by beauty alone; however, her signals are diliberate and the archers
+across the way jump at her commands.
+~
+elf~
+ABT HJV 600 0
+48 4 25d10+3750 1d1+100 6d6+18 pound
+-18 -18 -18 -18
+ACFHJ 0 BE JZ
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13310
+Silver Pegasus~
+Silver Pegasus~
+A pegasus flies about your head, romping in the air.
+~
+The creature seems quite intellegent for an animal, but lacks any real
+comprehension. Its body is covered in pure, white hair which reflects
+light so powerfully that it has a silver shine. Wings spread wide from its
+torso, as it navigates the air; its hooves are grey and great for battle.
+~
+song bird~
+AB T 500 0
+42 4 25d10+2250 1d1+100 3d12+14 knock
+-14 -14 -14 -14
+FHU 0 0 0
+stand stand female 100
+AGMW ACDEFHKP medium 0 the guilds~
+#13311
+Bartender Garith~
+Garith, the bartender~
+Garith, the bartender, helps you sort between the bull while trying to booze you up.
+~
+You look at the pathetic creature, trying not to make your gawking an
+obvious act. He stands one foot taller than his bar, just enough to reach
+his stubby arms to collect remains of passing travellers. In one hand he
+holds a cloth which he uses for his mugs religiously. You feel the need
+to suddenly pray yourself, to thank God that he hasn't used that cloth
+on his moist, green face. His beady eyes look gleefully at you as he
+rambles on, it would seem he provides a mercenary service.
+~
+kobold~
+ABV J 0 0
+51 5 50d10+5000 1d1+100 5d8+20 chew
+-21 -21 -21 -21
+0 0 L CI
+stand stand male 50000
+ABGHMVXc ABCDEFGHIJKQV medium 0 the guilds~
+M grall 13303 100~
+#13312
+Morphi Orcish Hero~
+Morphi, the Orcish Hero~
+Morphi bounces around, telling of his perilous journies.
+~
+When you saw Morphi standing on top of the table, all three feet of him,
+you were impressed. He had so much to say and no one could shut him up.
+You were certain that he would be beneficial to your cause....
+How does it feel to be wrong?
+~
+orc~
+AHI J 0 0
+32 3 10d10+1000 1d1+100 4d4+9 chew
+-10 -10 -10 -10
+0 0 Q S
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13313
+Solmyst Draconian Heroe~
+Solmyst, the Draconian Hero~
+Solmyst stands ready to fight, with fangs shining.
+~
+Solmyst looks as if he just crawled from a swamp of deficated remains,
+which tells you that he's tolerant and a good fighter, he can do anything.
+You are hoping he will do you dirty work, and he seems somewhat focused...
+His yellowed fangs come out at each his, you just try and hold your breath.
+~
+lizard~
+AI IV 0 0
+34 3 10d10+1200 1d1+100 4d7+10 acbite
+-11 -11 -11 -11
+0 0 L I
+stand stand male 0
+AGXc ACDEFHKQV medium 0 the guilds~
+#13314
+Nameless Warrior~
+A Nameless Warrior~
+A huge, dark figure hides behind the hood of his garment.
+~
+While you were gathering information about all the heroes and listening
+to the bartender, you saw a huge figure, far from the crowd, warming
+himself at the small hearth. You approached him and asked his name,
+he remained silent. Looking down in his massive hand you see a blood
+splotched boulder, his impliment of destuction. As you begin to walk
+away  from him he utters a number, that must be his price.
+~
+giant~
+AIT PVa 0 0
+36 3 10d10+1400 1d1+100 3d10+11 none
+-12 -12 -12 -12
+DHI 0 HI J
+stand stand none 0
+AHMV ABCDEFGHIJK huge 0 the guilds~
+#13315
+Jergen Tamer~
+Jergen, apt Pegasus Tamer~
+Jergen blows his silver whistle, calling the Pegasus to their commands.
+~
+Jergen runs atop the rock, hooting and blowing his whistle so that
+the Pegasus do as he wishes. He is a tall, slender man with dark hair,
+dark eyes and a constant smile. He obvously loves what he is doing and
+does it with pleasure. When a Pegasus is before him, they sniff and bump
+into him; he is treated like a father with loving children.
+~
+human~
+AB 0 500 0
+48 4 25d10+3750 1d1+100 6d6+18 punch
+-18 -18 -18 -18
+0 0 0 0
+stand stand male 4500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13316
+Mordecai Supreme Unicorn~
+Mordecai, the Supreme Unicorn~
+The supreme unicorn, Mordecai, stands surveying the area.
+~
+Mordecai is extremely large, his body is an untamed force. Gazing at his
+horn you see many scratches and chips; the color has faded from it some
+indicating that he is not a youth. His hair is a dull grey with random
+speckles of black and white, and around each of his ankles are leather
+bands with the Sword and Horn Symbol.
+~
+cat~
+ABT Z 500 0
+51 5 50d10+5000 1d1+100 5d8+20 stomp
+-21 -21 -21 -21
+FH 0 0 0
+stand stand male 2500
+AGV ACDEFHJKQUV medium 0 the guilds~
+M grall 13302 100~
+#13317
+Female Unicorn~
+A beautiful Female Unicorn~
+A slender female unicorn stands here, reflecting utter beauty.
+~
+She is dwarfed in size, compared to the males running about; her power
+is in her agility and ability to use her horn to the fullest. The
+length of the horn is longer than the males, and it comes to a sharper
+point making her a force beyond contention. Her slender form and smooth,
+white mane almost mask her promise of death vanquish.
+~
+cat~
+A Z 500 0
+46 4 25d10+3250 1d1+100 6d6+16 gore
+-16 -16 -16 -16
+FH 0 0 0
+stand stand female 1800
+AGV ACDEFHJKQUV medium 0 the guilds~
+#13318
+Male Unicorn~
+Male Unicorn~
+A husky male unicorn lies at rest, waiting for battle.
+~
+The face of the male is broader than the females; comparing his horn
+to one of the females, you notice it is shorter, blunter, and has taken
+far more damage. Their size is nearly half more a females which makes
+them seem a bit slower; you can't determine which is the weaker sex.
+~
+cat~
+AB Z 500 0
+44 4 25d10+2750 1d1+100 8d4+15 force
+-15 -15 -15 -15
+FH 0 0 0
+stand stand male 1300
+AGV ACDEFHJKQUV medium 0 the guilds~
+#13319
+Bar Maid~
+Bar Maid~
+A stunning Bar Maid floats by, serving the people.
+~
+A graceful young human passes by with a platter of food and drink, she
+wears a never ending smile and works fast while keeping the customers
+happy. She wears a dark green velvet dress that flows behind her as she
+seemingly floats by; her hair is tied up with a few strands falling
+to the sides of her blushed cheeks. She wears a simple ring of gold
+where a wedding band belongs and flashes it proudly.
+~
+human~
+AB 0 0 0
+51 5 50d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -21
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 13304 100~
+#13320
+Human Apprentice~
+Unknown Human Apprentice~
+A Human Apprentice busies himself, sorting shelves.
+~
+The young man works diligently, scrubbing shelves, organizing goods, and
+studying scrolls passionately. His head is shaved except for growth of swirl
+near his forehead, and around his neck is a tight leather band. The band
+is a sign of a bond servant, a slave by choice and pleasure, it also seems
+so tight that it serves as a constant reminder of silence.
+~
+human~
+AB 0 0 0
+51 5 50d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -21
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 13305 100~
+#13321
+Elven Apprentice~
+Elven Apprentice~
+The Elven Apprentice rarely looks away from his studies.
+~
+This guy is a total book worm, but when he does lay it down he gives
+you a great and welcoming smile. He wear a gold chain drooped around his
+ears across his forehead, on his feet are wooden sandals that clack when
+they hit the floor. You are glad you met the lad, his curtesy permissed
+the other apprentice's detachment.
+~
+elf~
+AB J 0 0
+51 5 50d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -21
+0 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 13306 100~
+#13322
+Eustace Head Advisor~
+Eustace, Head Advisor~
+Eustace is here resting, well, mostly here.
+~
+From what you gathered from the Apprentices below, Eustace is quite
+a fine sorceror, but the recent events have plagued him and old age
+attacked his body. He was once Krellion's Apprentice, until Krellion
+placed his curse on Emerald Moor. Now he moans all day about the unfair
+events in life; yet, he will never abandon his people. He is a devoted
+four and a half foot sack of wrinkles, and he packs a mystical punch.
+~
+human~
+ABR CHNT 700 0
+52 5 50d10+5500 1d1+100 6d7+20 slap
+-22 -22 -22 -22
+AFG 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK small 0 the guilds~
+M grall 13307 100~
+#13323
+Lady Servant~
+Lady Servant of Coronius~
+A Lady Servant is here, playing flirt tag.
+~
+A cute lady runs back and forth, attending to her tasks; however, she takes
+time out to taunt her male friend with small, sweet kisses and "accidental"
+rubbing. She prances with an intentional bounce and walks with a sway
+to her hips, as she does you catch a breif scent of honey blossom from
+her hair.
+~
+human~
+ACG 0 0 0
+30 3 6d12+853 1d1+100 4d6+8 none
+-9 -9 -9 -9
+0 0 0 0
+stand stand female 10
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13324
+Male Servant~
+Male Servant of Coronius~
+A male servant looks around for his sweet temptation.
+~
+Playing the willing fool, this male servant looks around for his female
+companion. He looks half dazed and you can't help but notice the drool
+trying to leak from his ajar mouth. The guy reminds you of a puppy dog
+following its owner who holds a tasty morsel for a treat. Heh, he is also
+panting as would a dog. Poor guy.
+~
+human~
+ACG 0 0 0
+30 3 6d12+853 1d1+100 4d6+8 none
+-9 -9 -9 -9
+0 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13325
+Nimbus~
+Nimbus, the Metal Master~
+Nimbus is sweating like a pig, smelling up his shop.
+~
+Nimbus is hard at work and his briefness with you makes it hard to
+determine whwther he is friendly or an rude shopkeep. He pours sweat
+from every inch of his small, stout body...and smells awful. You catch
+grints as he lugs metal chunks aroung the room, and unhappy sighs as
+he forms his items of war.
+ 
+~
+dwarf~
+AB J 0 0
+51 5 50d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -21
+0 0 LQ R
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 13308 100~
+#13326
+Master Coronius~
+Coronius, Master of Emerald Moor~
+Coronius stands in deep contemplation, planning his defense.
+~
+Coronius is an abnormally massive human; his face is set and strong. You are
+amazed at the width of his broad chest, he is the form of warrior perfection.
+Although he has great wealth, his clothing is simple and purposeful; he
+naturally wields a long sceptre, which is equipped with a jagged jewel. He
+spends his time watching his home land for invasion, considering what he will
+do to defend and destroy his enemies.
+~
+human~
+ABT HLNOVa 650 0
+60 6 50d10+9500 1d1+100 8d6+28 crush
+-30 -30 -30 -30
+ACDEFHKO Bb EF a
+stand stand male 10000
+AHMV ABCDEFGHIJK large 0 the guilds~
+M fight 13310 100~
+#13327
+Umbreich Greeter~
+Umbreich, town greeter~
+Umbreich walks the streets, welcoming all the visitors.
+~
+Umbreich wanders through the walk ways and buildings of the Homestead, smiling
+and welcoming any new faces. He is a gangly man, over six feet tall, and
+has a sharp witted sense of humor. His forceful friendship wakens your
+suspicions and you become convinced that he works directly for the
+Master of Emerald Moor, as his ears and eyes. It is most likely his job
+to sort strangers and report anything that seems threatening.
+~
+human~
+AC 0 500 0
+45 4 25d10+3000 1d1+100 8d4+16 none
+-15 -15 -15 -15
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 13309 100~
+#13328
+Kirre Guard~
+Kirre Guardian of Coronius~
+A silent guardian hides within the homestead, protecting Coronius.
+~
+You have heard rumors of such an agile and fierce creature; you were told
+they are amazingly cunning in their ways of fighting. While most have been
+said to avoid other races, this one willingly seeks battle. She is slender
+and her body appears tight and strong, and her skin is clothed with a
+silky, black fur. Just as it gleams, you lose sight of the unique creature.
+~
+kirre~
+AT BJPQVZab 500 0
+51 5 50d10+5000 1d1+100 5d8+20 skinning
+-21 -21 -21 -21
+DFHNT 0 J I
+stand stand female 0
+AGHV ABCDEFGHIJKQUV medium 0 the guilds~
+#13329
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13350
+troglodyte captain kernel~
+Troglodyte Captain, Kernel~
+A vicious looking troglodyte captain stands out from the rest, squealing orders.
+~
+A troglodyte stands with his feet planted in the dirt as if he can not be
+moved from his station. His sharp rowed teeth flash each time he hisses and
+screeches orders to his fellow peon soldiers. You look down on the ridiculous
+creature, half the size of an average man, and notice his natural weapons.
+The dome of his reptile skull is a hammer within itself, and his small, razor
+like teeth are randomly scattered throughout his wide, large mouth. On his
+thin arms and small bands of metal, hardly large enough for a mouses neck.
+~
+troll~
+ABT JVa -500 0
+45 4 25d10+3000 1d1+100 8d4+16 chew
+-15 -15 -15 -15
+DEHJR 0 Q H
+stand stand male 1000
+BHMQZ ABCDEFGHIJKLPQUVWX small 0 the guilds~
+#13351
+Infernal Troglodyte~
+Infernal Troglodyte~
+A scaley, half-pint troglodyte jitters with frenzied anticipation 
+~
+It is hard to believe that this creature is competant, seeing as how he has
+all but sniffed your butt. He climbs every surface in his path leaving a trail
+of saliva behind him. His short panting breaths resemble that of a small dog,
+his beady eyes seem empty, distant, and void. The only thing he seems to know
+is that he wants to make dinner out of Emerald Moor.
+~
+troll~
+AFT J -500 0
+44 4 25d10+2750 1d1+100 8d4+15 knock
+-15 -15 -15 -15
+0 0 Q H
+stand stand male 1500
+BHMZ ABCDEFGHIJKLPQUVWX large 0 the guilds~
+#13352
+Scorpicore Guardian~
+Scorpicore Guardian~
+Hiding in the air, a mighty scopicore is lying in wait.
+~
+Before you stands a creature unlike you have ever seen; although it
+strongly resembles a large lion, its tail is that of a scorpion and
+in the center of its back are a set of medium-sized wings. Just being in its 
+presence, you can feel it demands to be feared. It stands focused on you
+and eager to kill.
+~
+snake~
+ABF T -500 0
+46 4 25d10+3250 1d1+100 6d6+16 none
+-16 -16 -16 -16
+FHR 0 L I
+stand stand female 2500
+AGVXYc ACDEFHJKLQUVX large 0 the guilds~
+#13353
+Manicore~
+Manicore~
+Protecting himself, this manicore is ready for blood.
+~
+Although this manicore is dwarfed by the stature of the mighty guardian
+scopicore, you would not trust it if you wandered into its den. Before
+you roused the beast, he was in a peaceful slumber and at your appearance
+he let out a huge yawn followed by a threatening growl. The lathal tail
+stands poised in position and is ready to strike at any foe, you decide
+that it would be wiser if you weren't the one to take the blow.
+~
+snake~
+AB HT -500 0
+42 4 25d10+2250 1d1+100 3d12+14 none
+-14 -14 -14 -14
+DE K L I
+stand stand male 1000
+AGXYc ADEFKLQVX medium 0 the guilds~
+#13354
+Harpy Hag~
+Harpy Hag~
+A filthy, shaggy Harpy Hag wanders around
+~
+Not sure if this vulture type bird will attack, you approach it
+with caution. This filthy, vile bird roams the tunnels looking for
+any left-over rotten edibles. You periodically see one of these hags
+dive-bomb an unsuspecting troglodyte. The dive-bomb within itself is a 
+cowardly but effective tactic.
+~
+orc~
+A JT -500 0
+45 4 25d10+3000 1d1+100 8d4+16 none
+-15 -15 -15 -15
+FH 0 Q S
+stand stand female 0
+AGHMVW ABCDEFGHIJKP medium 0 the guilds~
+#13355
+Aenain Beholder Commander~
+Aenain, the beholder commander~
+Aenain, the beholder commander, walks about causing problems.
+~
+This evolved beholder is far larger than the others; it has many 
+additional tentacles and his head is covered with uncaountable eyes.
+By the way the lesser beholders approach him, stand at attention 
+and hover to their next task you figure telepathy is his way of
+giving orders to his peons.
+~
+snake~
+ABT HTV -500 0
+48 4 25d10+3750 1d1+100 6d6+18 thrust
+-18 -18 -18 -18
+CDEFJKR ABKPb LQ HI
+stand stand male 10000
+ABGHMXYZc ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M grall 13312 100~
+#13356
+Beholder~
+Beholder~
+An evil-eyed beholder keeps watch hoping to engage in battle.
+~
+Taking a second glance you realize your eyes are not deceiving you,
+hovering before you is a squid-like creature. It's body contists of a large   
+head with one eye in the center, no mouth, no ears only tentancles that keep 
+it elevated. As they move and shift down the dark tunnels, you hear
+crackles of engery and see sparks of light. They only seem to understand 
+each other, one can only assume they communicate through telepathy.
+~
+deamon~
+A DFJT -500 0
+45 4 25d10+3000 1d1+100 8d4+16 none
+-15 -15 -15 -15
+CFH B H NS
+stand stand none 3500
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+M grall 13313 100~
+#13357
+Monere Guardian Tree~
+Monere, the Guardian of the Tree~
+A strong, burly creature stands before the tree guarding its fruit
+~
+Before you stands a creature of great strength. He will risk his life
+to proctect the tree of Knowledge of Good and Evil. Given orders not to allow 
+any man or being eat of its fruit, this creature will attack without any given
+notice.
+~
+troll~
+AB BJNVa -500 0
+48 4 25d10+3750 1d1+100 6d6+18 slash
+-18 -18 -18 -18
+DFJ AB Q H
+stand stand male 6500
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M grall 13313 100~
+#13358
+Thunar Hero Underworld~
+Thunar, the Hero of the Underworld~
+This hero of the underworld sits here going over statergies.
+~
+Consumed with configuring a new stratergy too enter and defeat
+Emerald Moor, this large scorpicore hero is to busy to be bothered
+by any petty requests. Looking forward to getting back on the battle
+field, this great warrior carefully examines and re-examines all the 
+possibilities of defeating the world above.
+~
+deamon~
+ABT DFJT -500 0
+48 4 25d10+3750 1d1+100 6d6+18 crush
+-18 -18 -18 -18
+CDEFHO B EHI BNS
+stand stand male 3500
+ABGVZ ABCDEFHJKQUVX large 0 the guilds~
+#13359
+Ignissa Artillery Dealer~
+Ignissa, Artillery Dealer~
+Ignissa, a retired warrior, is here to sell you artillery supplies.
+~
+With her brown hair pulled up in a tight bun, this retired warrior
+has set up a small artillery dealership to help her fellow commrades.
+She spends her day checking her inventory and reminiscing of the days
+she spent on the battle field. 
+~
+deamon~
+ABV DFJT -500 0
+54 5 50d10+6500 1d1+100 7d6+22 none
+-24 -24 -24 -24
+CFH AB H NS
+stand stand female 0
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#13360
+Synica Guardian Underworld~
+Synica, the Guardian of the Underworld~
+Synica, guardian of the underworld is here preparing for battle.
+~
+Before you stands a woman of great beauty; you gawk with an enchanted,
+glazed stare at the superb creation, not realizing that this seductress packs
+a pertinent punch. Her silken, alburn hair flows across her rouged, olive
+cheeks. With lush, red lips tightly pressed together, she rubs the
+holster for her axe, which hangs loosely about her hips.
+~
+human~
+ABFT HJNTV -1000 0
+58 5 50d10+8500 1d1+100 5d10+25 cleave
+-28 -28 -28 -28
+ACDEFHIK ABb LPQb HIT
+stand stand female 6500
+ABDGHJMVXYZc ABCDEFGHIJKLPQUVWX large 0 the guilds~
+M grall 13311 100~
+#13361
+Fiur Hyrda Keeper~
+Fiur, the keeper of the Hydras.~
+(no long description)
+~
+~
+troll~
+AB J -500 0
+48 4 25d10+3750 1d1+100 6d6+18 punch
+-18 -18 -18 -18
+0 0 Q H
+stand stand male 100
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13362
+Chaos Hydra~
+Chaos Hydra~
+A massive Hydra screeches, darting its long heads out in a chaotic way.
+~
+Amazed by the size of the three-headed creature, you ensure its chains
+are in place before you approach it. The body on this enormous beast is
+the size of a large dragon's, but this beast is coated in a slimey, wet
+mess. All three of the long necks move with quick striking sputs of energy,
+as they hiss and screech at your intusion.
+~
+wyvern~
+AB DFT -500 0
+49 4 50d10+4000 1d1+100 4d10+18 bite
+-19 -19 -19 -19
+CFHR ABL R S
+stand stand none 700
+ABGWZ ACDEFHJKPQVX huge 0 the guilds~
+#13363
+Living Water~
+Living Water~
+An embodiment of living water is here, sloshing about.
+~
+You can hear an occasional slosh of water, but you are having a hard time
+finding the exact size and location of this creature. Through it is the blur
+of the other side of the room; it moves fast and could easily dodge whatever
+you have to deal out. There is nothing your eyes can see aside from the mass
+of prancing water, this could be a truly formidable foe.
+~
+water fowl~
+ABQ BPQTV -500 0
+52 5 50d10+5500 1d1+100 6d7+20 splatter
+-22 -22 -22 -22
+FGH 0 R 0
+stand stand none 0
+AGW ACDEFHKP medium 0 the guilds~
+#13364
+troglodyte hatchling~
+Troglodyte Hatchling~
+A freshly hatched troglodyte jitters and 'coos' at you.
+~
+A small, slimey troglodyte crawls around adjusting to its body as it creeps
+about. After encountering the larger ones you are tempted to smash it under
+your boot, but being the professional you are, you avoid doing so. It will
+often start digging into any surface it finds as it scuffles about for food.
+~
+troll~
+AB J -500 0
+35 3 10d10+1300 1d1+100 4d7+11 none
+-11 -11 -11 -11
+0 0 Q H
+stand stand none 700
+BHMZ ABCDEFGHIJKLPQUVWX small 0 the guilds~
+#13365
+Two Headed Hydra~
+Two Headed Hydra~
+A two headed Hydra snaps at you, despite the loss of a head.
+~
+This Hydra is in far worse shape than the others; his slimey coat has dried
+and caused his skin to break open in wide cracks, his large body is missing
+a head, and one its mouths looks bashed in with a few loose teeth. He
+still holds his own and displays his strength; it is possible that it has
+been primed in the art of war and is numb to the affects of pain.
+~
+wyvern~
+A DFTV -500 0
+49 4 50d10+4000 1d1+100 4d10+18 none
+-19 -19 -19 -19
+CFHR L 0 S
+stand stand none 700
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#13366
+Man Priest Cedric~
+Cedric, the ugliest known priest~
+The ugliest man you have ever seen has his arms open wide with hopes of embrace.
+~
+Curious about just how ugly Cedric the Priest is, you examine him well. His
+teeth are sharp and pointed, they jut out from his close lips; his head is
+bald but glistening from the shine of filthy sweat. His entire face
+is covered in circling tattoos which make his eyes look like small black
+marbles in the setting of marble rock. He seems friendly, however, and
+is very anxious to give you a long, loving hug...That bothers you because
+he is roughly over feet tall.
+~
+human~
+ABa 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 ABa 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13367
+Cedric Child~
+Cedric's Pitiful Children~
+Another one of Cedric's love children runs about.
+~
+Poor child. Poor, poor child. So ugly, no hope of love...Maybe you should
+introduce the idea of marrying trolls, or of hiding in a dark cave for life.
+Maybe you wouldn't be so harsh if one wasn't drooling all over your foot
+and another gnawing your thigh. Pitiful creatures, maybe you ought to
+put them out of their certain future misery.
+~
+human~
+AB HOV -500 0
+35 3 1d10+0 1d1+100 4d7+11 slime
+-11 -11 -11 -11
+0 0 0 0
+stand stand none 2000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#13368
+nanna saint bernard dog~
+Nanna, dog guardian~
+A tired saint bernard rests on a hatch.
+~
+This dog is beat, why would anyone expect it to watch over children? When
+you approach, Nanna raises a limp mangled ear and looks lazily upon you.
+After one quick bark, she flops her head back down and continues her rest.
+During that mighty defensive bark, you noticed she was missing all her teeth.
+What is Nanna gonna do? Chew you to death? Something tells you she is more
+than she appears.
+~
+dog~
+AB 0 -500 0
+10 1 2d7+121 1d1+100 2d4+2 chew
+1 1 1 1
+H BCD 0 0
+stand stand none 25
+AGV ACDEFHJKUV medium 0 the guilds~
+#13369
+Evil Spirit of Secrets~
+Evil Spirit of Secrets~
+An evil spirit wanders these halls, whispering secrets.
+~
+You can hardly make out its form, but you see enough to know that these
+spirits rejoice in destruction and desire to bring the living within their
+ranks. They linger throughout Emerald Moor to gather news and secrets 
+to reveal to Synica, they hope for many deaths. Their moanings and
+whispers cause your stomach to turn, but you continue on.
+~
+undead~
+A BUZ -500 0
+45 4 25d10+3000 1d1+100 8d4+16 none
+-15 -15 -15 -15
+CFH B HI HNS
+stand stand none 0
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#13370
+Sculptor Priest~
+Sculptor Priest~
+A priest is devotedly sculpting entricate designs into Tolken's statue.
+~
+An elven priest garmed in a brilliant white robe, which is tied back by a
+golden sash around his waist, goes about healing any in need. He does not
+leave his sculptor's tools behind while he attends the wounds. About his head
+is a twisted branch of an olive tree, a proclamation of Tolken's peace
+upon you. He moves out of sight to attend to his tasks.
+~
+elf~
+ABa J 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 ABa B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13371
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#13300
+Throne Cloud~
+{WThrone of Clouds{x~
+A {WThrone of Clouds{x floats here, illuminated by Tolken's Radiance.~
+sponge~
+furniture 0 0
+1000 1000 ACDEHIJKLMNOPQRSTUVWXYZabcdef 500 500
+0 0 0 P
+#13301
+Sweet Cloud~
+Sweet Cloud~
+A small cloud floats by you, leaving a {ysweet scent{x behind.~
+sponge~
+fountain 0 0
+0 0 'lemonade' 0 0
+0 0 0 P
+#13302
+Bright Glass Mirror~
+Bright Glass Mirror~
+A bright, glass surface reflects your image from behind some vines.~
+glass~
+portal 0 0
+0 0 0 13302 0
+0 0 0 P
+#13303
+Dull Marble Mirror~
+Dull Marble Mirror~
+A dull, marble surface reflects your image from behind some vines.~
+marble~
+portal 0 0
+0 0 0 13350 0
+0 0 0 P
+#13304
+Tolken Fury~
+{BT{Co{cl{Bk{Ce{bn{c'{Bs {CF{bu{cr{By{x~
+Here lies a hidden power, Tolken's deepest rage.~
+energy~
+weapon IMT AN
+sword 10 3 slash ADGM
+54 1 1 P
+A
+20 -30  
+#13305
+gems~
+{MG{Cl{mi{rs{Yt{Ge{Mn{Ci{mn{rg {YG{Ge{Mm{Cs{x~
+A handful of valuable gems lie here.~
+stone~
+gem 0 AP
+0 0 0 0 0
+0 1 7500 P
+#13306
+Gap~
+Gap~
+There is a gap here, between the boulders of the wall.~
+granit~
+portal 0 0
+0 0 0 13315 0
+0 0 0 P
+#13307
+Square wooden box.~
+square wooden box~
+Buried carelessly, a square, wooden box juts out of the mud.~
+wood~
+container 0 0
+50 AC 0 10 25
+0 0 0 P
+#13308
+Scroll Krellion~
+Scroll of Krellion~
+This muddy scroll is a piece of Krellion's magic, probably before his rebellion.~
+paper~
+scroll BF AO
+20 'simulacrum' '(null)' '(null)' '(null)'
+17 1 100 P
+#13309
+Gem Pond~
+Gem Pond~
+A glorious pond, littered with valuable gems, catches your eye and your greed.~
+water~
+portal 0 0
+0 0 0 13311 0
+0 0 0 P
+#13310
+Ruby Armband~
+Ruby Armband~
+The ruby armband of Cahor lies here, it is a mark of authority.~
+gold~
+armor BKbd AI
+4 4 4 7 0
+21 10 6500 P
+A
+19 1  
+A
+18 3  
+#13311
+Shroud Element Tolken~
+{CShroud of Elements{x~
+Tolken's Protection, withing which she lives.~
+energy~
+armor T AD
+100 100 100 100 0
+54 1 1000 P
+A
+18 50  
+A
+19 50  
+A
+13 999  
+A
+12 999  
+A
+4 10  
+A
+5 8  
+A
+2 10  
+A
+3 8  
+A
+1 9  
+#13312
+Waterfall Fountain~
+Waterfall Fountain~
+A tall rock sprouts from the earth, spewing water and creating a magical waterfall.~
+water~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+#13313
+Mist~
+Mist~
+The mist here is drenching you! You can't even see the center of the fall.~
+wate~
+portal 0 0
+0 0 0 13317 0
+0 0 0 P
+#13314
+Crystal Shard~
+Crystal Shard~
+A sharp and jagged shard of crystal rests on the floor.~
+crystal~
+weapon HKMS AN
+dagger 7 5 pierce P
+48 11 2200 P
+A
+19 1  
+A
+12 30  
+#13315
+Shroud Illusions~
+Shroud of Illusions~
+You see a shroud lying here, or do you?~
+wool~
+container FGJ AK
+30 A 0 400 60
+50 130 1000 P
+A
+13 25  
+A
+12 45  
+#13316
+Eye Dragon~
+Eye of a Dragon~
+From the ground, a large eye stares up at you.~
+copper~
+armor BEbd AB
+1 1 1 1 0
+22 20 700 P
+A
+19 1  
+A
+18 2  
+#13317
+demken ring~
+{CDem{Mken {xRing~
+This ring symbolizes True Love: Perserverance though all by God.~
+gold~
+armor T AB
+100 100 100 100 0
+54 50 2200 P
+A
+19 200  
+A
+18 200  
+#13318
+Mist~
+Mist~
+The cloud of mist conceals the exit.~
+water~
+portal 0 0
+0 0 0 13316 0
+0 0 0 P
+#13319
+Silver Whistle~
+Silver Whistle~
+A whistle glistens and shine in the light.~
+silve~
+wand B AO
+25 3 3 'tame animal' 0
+20 20 1000 P
+#13320
+Water Hole~
+Spewing, Bubbling Water Hole~
+A hole spews out water in bubbling surges here.~
+rock~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+#13321
+Horn Sword Symbol~
+A Unicorn Horn and Sword Symbol~
+A symbol of a horn clashing with a sword is on a silver chain.~
+iron~
+key P A
+0 0 0 0 0
+1 10 100 P
+#13322
+Leather Band~
+Leather Band of Mordecai~
+A leather band bearing a sword and horn lies on the floor.~
+leather~
+armor BKc AI
+2 2 2 1 0
+25 10 300 P
+A
+5 1  
+A
+4 1  
+#13323
+Bread~
+Warm, soft loaf of Bread~
+Someone left a fresh loaf of bread here.~
+wood~
+food 0 0
+8 1 0 0 0
+30 10 250 P
+#13324
+Mug Orange Juice~
+Mug of Orange Juice~
+Someone left a Mug of Orange Juice here.~
+canvas~
+drink 0 A
+10 10 'orange juice' 0 0
+10 10 250 P
+#13325
+Dendroid Root~
+Root of Dendroid~
+A small piece of moist, creamy root is in the dirt.~
+wood~
+pill 0 A
+5 'animal growth' '(null)' '(null)' '(null)'
+15 10 1500 P
+#13326
+Pine Branch~
+Branch of Pine~
+A small Branch from a Pine tree is lying here.~
+wood~
+wand 0 AO
+8 1 1 'reach elemental' 0
+20 10 1500 P
+#13327
+Maple Leaf Scroll~
+Maple Leaf Scroll~
+Resting on the floor, there is a Maple Leaf.~
+paper~
+scroll 0 0
+4 'create rose' 'create rose' '(null)' '(null)'
+0 0 500 P
+#13328
+Grain Scroll~
+Scroll of Grain~
+A Scroll made from Grain looks good enough to eat!~
+parchme~
+scroll 0 A
+15 'create food' '(null)' '(null)' '(null)'
+15 10 1500 P
+#13329
+Stave Resting~
+Stave of Resting~
+The Stave looks as if it is asleep or Resting.~
+wood~
+staff 0 AO
+15 7 7 'refresh' 0
+10 30 2000 P
+#13330
+Flesh Dendroid~
+Living Flesh of a Dendroid~
+A piece of Flesh like bark squiggles on the ground.~
+wood~
+pill 0 A
+25 'bark skin' '(null)' '(null)' '(null)'
+30 10 2500 P
+#13331
+Thin Vial~
+Thin Vial~
+Hmm, a Thin Vial is on the floor...~
+glass~
+potion 0 AO
+10 'poison' 'giant strength' 'haste' 'blindness'
+5 10 1500 P
+#13332
+Plague Old Age~
+The Plague of Age~
+"Oh, my weary bones, achey hip, and...what was I saying?", says the Plague of Age.~
+bone~
+armor Gab AK
+-2 -2 -2 1 0
+29 50 0 P
+A
+9 30  
+#13333
+Ball Energy~
+Crackling Energy~
+A Ball of raw, crackling energy hovers wearily in the center of the room.~
+ener~
+portal 0 0
+0 0 0 13301 0
+0 0 0 P
+#13334
+Bear Skin~
+Bear Skin~
+A large Bear Skin lies sprawled on the floor by the hearth.~
+fur~
+furniture 0 0
+5 5000 ACDEHIJKLMNOPQRSTUVWXYZabcdef 120 120
+0 0 0 P
+#13335
+Long Sofa~
+Long Sofa~
+A Long Sofa sits, curved around the fire.~
+fur~
+furniture 0 0
+5 5000 ACDEHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+#13336
+Preparation Table.~
+Preparation Table~
+There is a huge, wooden table for preparing food here.~
+wood~
+furniture 0 0
+0 5000 ACDEHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+#13337
+Womans Undergarment~
+Woman's Undergarment~
+A small piece of lacey material, made for a Woman, entices you.~
+velvet~
+armor HLS AK
+0 0 0 0 0
+0 20 700 P
+A
+13 -25  
+A
+12 25  
+#13338
+Plain Dagger~
+Plain Dagger~
+A plain dagger was discarded in the dirt.~
+iron~
+weapon B AN
+dagger 6 5 pierce 0
+35 20 4000 P
+#13339
+Simple Sword~
+Simple Sword~
+A simple sword has been discarded in the dirt.~
+iron~
+weapon B AN
+sword 6 5 slash 0
+35 100 4000 P
+#13340
+Ordinary Axe~
+Ordinary Axe~
+An ordinary axe has been discarded in the dirt.~
+iron~
+weapon B AN
+axe 6 5 cleave 0
+35 90 4000 P
+#13341
+Emerald Moor~
+Emerald of Moor~
+A sceptre is here, mounted with a serrated Emerald which exhales a cold frost.~
+ice~
+weapon KLST AN
+polearm 9 4 clobber I
+49 150 3000 P
+A
+19 2  
+A
+18 2  
+A
+13 10  
+#13342
+Emerald Key~
+Emerald Key~
+There is a key here, made of an emerald, metallic material.~
+steel~
+key P A
+0 0 0 0 0
+5 10 100 P
+#13343
+Wooden Greaves~
+Wooden Greaves~
+Wooden greaves lay tossed aside on the ground.~
+wood~
+armor B AF
+7 7 7 7 0
+27 40 400 P
+A
+2 1  
+A
+19 1  
+A
+18 1  
+#13344
+Skeleton Key~
+Skeleton Key~
+A strange key was carelessly dropped here.~
+iron~
+key P AO
+0 0 0 0 0
+30 10 50000 P
+A
+4 1  
+A
+5 1  
+#13345
+Hole~
+Hole in the ground~
+There is a hole in the ground, just large enough for you to enter.~
+earth~
+portal 0 0
+0 0 0 13364 0
+0 0 0 P
+#13346
+Kirre Claw~
+Claws of a Kirre~
+A razor sharp set of claws catches your eye.~
+fur~
+armor Iac AH
+8 8 8 10 0
+39 30 1100 P
+A
+20 -3  
+A
+19 2  
+#13347
+Blanket~
+Blanket covered Bed~
+A bed is in the center of the room, covered in blankets.~
+wool~
+portal 0 0
+0 0 0 13343 0
+0 0 0 P
+#13350
+Wall Torch~
+Wall Torch~
+A pair of torches billow black fumes, while fending off the dark.~
+tar~
+container 0 0
+100 0 0 15 0
+0 0 0 P
+#13351
+Burning Tar~
+Burning Lump of Tar~
+A fiery lump of tar blazes furiously before you.~
+tar~
+armor ITa AQ
+1 1 1 3 0
+16 10 11 P
+A
+19 2  
+A
+2 1  
+A
+13 -5  
+#13352
+Troglodyte Armband~
+Troglodyte Armband~
+A small band of gold is sitting on the ground~
+gold~
+armor 0 AB
+0 0 0 0 0
+0 20 500 P
+A
+13 -150  
+A
+12 100  
+#13353
+Infernal Spear~
+Infernal Spear~
+Here lies a long, rusted spear in the dirt~
+iron~
+weapon CJMad AN
+staff 4 9 pierce AF
+40 70 1500 P
+#13354
+rusty hydra leash~
+Rusty Hydra's Leash~
+A rusty chain leash has been strewn in the dirt.~
+steel~
+armor JTad AC
+8 8 8 7 0
+25 100 300 P
+A
+12 25  
+A
+2 1  
+A
+5 1  
+#13355
+Beholder's Tentacle~
+Beholder's Tentacle~
+A beholder's tentacle lies writhing on the floor.~
+slime~
+weapon CHJMad AN
+whip 2 18 whip G
+48 70 4500 P
+#13356
+Eye Beholder~
+Eye of a Beholder~
+An eye of a beholder rolls around in the dirt.~
+jelly~
+armor CFJM AQ
+0 0 0 0 0
+10 50 1000 P
+A
+3 1  
+A
+5 1  
+#13357
+tree~
+A fruit bearing tree~
+A lush tree is firmly established here, drinking deep of the earth.~
+wood~
+container 0 0
+100 0 0 15 0
+0 0 0 P
+#13358
+fruit myrkor~
+Fruit of Myrkor~
+A soft piece of fruit makes you mouth water.~
+food~
+pill T A
+25 'reserved' 'blur' 'bark skin' 'reserved'
+20 20 1000 P
+#13359
+Shredded Pants~
+Shredded Pants~
+A pair of pants lie in the dirted, shredded to pieces.~
+wool~
+armor CJbd AF
+6 6 6 5 0
+29 20 200 P
+A
+2 2  
+A
+1 1  
+#13360
+Small Wooden Ballista~
+A Small, Wooden Ballista~
+A small wooden ballista is cocked and ready to fire.~
+wood~
+throwing Cad AO
+3 7 thwack 40 'curse'
+35 20 2500 P
+#13361
+Medic Pill Heal~
+A Medic's Pill of Heal~
+A small, red pill is humming with condenced power.~
+food~
+pill B A
+30 'heal' 'invisibility' 'cloak of mind' 'reserved'
+22 10 9000 P
+#13362
+Wand ambition~
+Wand of Ambition~
+A long, irridescent wand glistens before you.~
+wood~
+wand ad AO
+25 5 5 'taunt' 0
+22 30 3500 P
+#13363
+Scroll Enchantment~
+Scroll of Enchantment~
+A small piece of paper lies crumplied in the dirt.~
+paper~
+scroll ad AO
+41 'enchant armor' 'reserved' 'reserved' 'reserved'
+20 10 2500 P
+#13364
+Mud Moat~
+Moat of Mud~
+A devouring moat of mud desires to swallow you whole. ~
+water~
+portal 0 0
+0 0 0 13379 0
+0 0 0 P
+#13365
+mud ceiling~
+Swirling Ceiling of Mud~
+Above you is a swirling ceiling of mud.~
+water~
+portal 0 0
+0 0 0 13371 0
+0 0 0 P
+#13366
+Tooth Hydra~
+Hydra's Tooth~
+An ivory tooth is on the floor.~
+ivory~
+key 0 AO
+0 0 0 0 0
+25 10 5000 P
+A
+3 1  
+A
+5 2  
+A
+4 -1  
+#13367
+Book of Chonicles of the Underworld~
+The Chronicles of the Underworld~
+A book from the Underworld desires to bless you.~
+paper~
+wand CMad AO
+45 8 8 'bless' 0
+40 20 2500 P
+#13368
+Axe Syn~
+Axe of Syn~
+An axe formed from ocean rock lies in the dirt.~
+coral~
+weapon CJad AN
+axe 7 5 none M
+48 50 7000 P
+A
+18 2  
+A
+1 1  
+A
+2 2  
+#13369
+harpy nest~
+Harpy Nest~
+A scrap pile is gathered here, in formation of a nest.~
+wood~
+container 0 0
+100 0 0 1 0
+0 0 0 P
+#13370
+Harpy Egg~
+Hapry Egg~
+A large egg catches your stomach's eye.~
+food~
+pill 0 A
+30 'poison' 'plague' 'blindness' 'reserved'
+1 10 0 P
+#13371
+lake~
+an Illuminated Lake~
+A large pool of illuminated water fills the cavern.~
+water~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#13372
+strand living water~
+Strand of Living Water~
+A long strand of water rests on the ground, and without soaking away.~
+water~
+weapon BI AN
+whip 7 5 splatter M
+45 20 3500 P
+A
+19 2  
+A
+18 3  
+A
+1 -3  
+A
+13 25  
+#13373
+scorpicore wing~
+Scorpicore Wing~
+A bloody, severed wing of a scorpicore twitches on the floor.~
+snakesk~
+pill 0 A
+35 'fly' 'infravision' 'reserved' 'reserved'
+25 10 500 P
+#13374
+hole~
+Hole~
+There is a hole dug into ceiling, leading to the unknown.~
+Dirt~
+portal 0 0
+0 0 0 13342 0
+0 0 0 P
+#13375
+Gigantic Mushroom~
+Gigantic Mushroom~
+A gigantic mushroom is jutting out from the earth.~
+food~
+food 0 A
+5 5 0 0 0
+0 10 0 P
+#13376
+Aenain Tentacle~
+Aenain's Tentacle~
+A beholder's tentacle lies writhing on the floor.~
+slime~
+weapon JMbc AN
+whip 5 8 whip G
+48 20 700 P
+#13377
+Oak Table~
+Oak Table~
+An unshapely oak table is before you.~
+wood~
+furniture 0 0
+0 10 N 0 0
+0 0 0 P
+#13378
+Map Emerald Moor~
+Map of Emerald Moor~
+An enchanted map glows before you.~
+paper~
+scroll 0 AO
+25 'teleport' 'reserved' 'reserved' 'reserved'
+15 1 1000 P
+#13379
+Toothless Gums~
+Toothless Dog Gums~
+Oh no! Nanna's Gums fell out!~
+sponge~
+weapon M AN
+exotic 1 1 clobber 0
+15 20 500 P
+#13380
+Dark Spirit Portal~
+Dark Spirit Portal~
+Spirits are exiting from the castle through this portal.~
+stone~
+portal 0 0
+0 0 0 13301 0
+0 0 0 P
+#13381
+Dark Spirit Portal~
+Dark Spirit Portal~
+Spirits are coming into the castle through this portal.~
+stone~
+portal 0 0
+0 0 0 13350 0
+0 0 0 P
+#13382
+Main Entrance Tube~
+Main Entrance Tube~
+You see the {rMain Entrance Tube{x jutting from the wall.~
+wood~
+portal 0 0
+0 0 0 13382 0
+0 0 0 P
+#13383
+Tolken Fountain~
+a fountain statue of Tolken~
+A statue of Tolken sprays streams of refreshing liquid.~
+wood~
+fountain 0 0
+-1 -1 'lemonade' 0 0
+0 0 0 P
+#13384
+Big Ball~
+Big Colorful Ball~
+A big ball is rolling on the floor here.~
+plastic~
+throwing P AO
+5 5 none 25 'rainbow burst'
+40 10 0 P
+#13385
+Small Ball~
+Small Colorful Ball~
+A small colorful ball is rolling about.~
+plastic~
+throwing P AO
+2 3 none 7 'rainbow burst'
+0 10 0 P
+#13386
+massive ball pit~
+A Massive Ball Pit~
+A massive ball pit spills its balls all over.~
+wood~
+container 0 0
+-1 0 0 -1 0
+0 0 0 P
+#13387
+tube~
+A tube~
+A tube in the ceiling leads up into the next room.~
+wood~
+portal 0 0
+0 0 0 13391 0
+0 0 0 P
+#13388
+picture tolken~
+A picture of Tolken~
+You stand in awe at a beautiful picture of Tolken painted on the tube's surface.~
+wood~
+portal 0 0
+0 0 0 13393 0
+0 0 0 P
+#13389
+no name~
+(no short description)~
+~
+wood~
+recall_crystal 0 0
+BCFKMN A A 0 0
+15 10 500 P
+#13390
+honey bunchas tolken~
+{yH{Yo{yn{Ye{yy {Yb{yu{Yn{yc{Yh{ya{Ys {y'{YO{y' {YT{yo{Yl{yk{Ye{yn{x~
+Yum...Honey bunchas 'o' Tolken.~
+food~
+pill 0 A
+20 'bark skin' 'blur' 'stone skin' 'reserved'
+0 10 0 P
+#0
+
+
+
+#ROOMS
+#13312
+Gem Pond.~
+You were right when you guessed that there was a body of water ahead. The
+pond here is huge and the sands consist of many colors. Looking through
+the flawlessly clear waters you see small gems of every color. You stop
+staring because the reflective glints from the sun's light begin to hurt
+your eyes. You figure it wouldn't be a bad idea to make use of this
+natural wonder.
+~
+0 0 6
+D2
+~
+~
+0 0 13311
+S
+#13313
+Within the Homestead.~
+Whoa! You feel as though you are in a great dream, all around many different
+creatures look you over and give you a welcoming smile. The outter walls
+only protect from anything outside the forest, and inside is a forest even
+more beautiful. The buildings are simple, made from wood, clay, and thatched
+hay; the natural glory is what is so awesome. There is a fountain, reaching
+into the heavens up north, with pegasus whirling all around it. The only thing
+taller than it is a building to the east, and to the west are groups of small
+buildings. There is a ladder leading up to a hidden hatch.
+~
+0 0 0
+D0
+~
+~
+0 0 13316
+D1
+~
+~
+0 0 13318
+D2
+~
+~
+1 0 13302
+D3
+~
+~
+0 0 13320
+D4
+~
+~
+1 0 13330
+S
+#13314
+Small Clearing.~
+Moving the bushes aside and investigating the sound, you look ahead at
+a small clearing. The field is wide and open, with a small murky stream
+running through lush grass. Near the stream a single tree sways in a
+relaxed nature, taking advantage of its enviroment.
+~
+0 0 2
+D0
+~
+~
+1 0 13310
+S
+#13315
+Under the Tower.~
+You squeeze yourself through the small gap in the wall, the dirt beneath
+your feet descends gradually. As you pass completely through the gap you enter
+a small, dark room. The air is thick with moisture and the ground is soft and
+wet. Within a few moments your eyes adjust just enough for you to see that
+someone has hidden a half buried treasure in the gooey mud.
+~
+0 524293 0
+S
+#13316
+Waterfall Fountain.~
+Your neck starts to cramp while you stare up to the top of the waterfall,
+but the Pegasus are amazing. Occasionally, a rider will fly low and swoop
+by, all you feel are swift breezes. The water falls from high, creating a
+dense mist around the small pond at the bottom. You can hardly hear the
+bustle and noise of the town over the roaring, but you see many people
+going in and out of the building to the north. What ever it is, it is an
+important gathering location.
+~
+0 0 2
+D0
+~
+~
+1 0 13326
+D2
+~
+~
+0 0 13313
+S
+#13317
+In the Mist, behind the Fall.~
+Passing through the mist, nearly drowning in it, you come to a firm
+stone floor. You clear your eyes of the water and blink a couple times
+observing the massive cave. The ceiling drips heavily with water and the
+rock is covered on every front with moss. Your feet slide a little as
+you walk, the moss and water make a risky combination.
+Carved from the rock wall are some steps leading up into the light.
+~
+0 8 0
+D4
+~
+~
+0 0 13331
+S
+#13318
+Below the Mage Guild.~
+You stand in awe of the heighth of the building to the north, it is three
+sections high, each one about fifteen men high. All around the outside of
+the building are small incantations, of which you don't know the meaning.
+In one of the tallest round windows, there is a glow, surging every now
+and then. To the east is one of the towers of the main wall, it stands a bit
+higher than the mage guild.
+~
+0 0 3
+D0
+~
+~
+1 0 13319
+D1
+~
+~
+0 0 13324
+D3
+~
+~
+0 0 13313
+S
+#13319
+Lower Guild Section.~
+You step through the front door, getting overwhelmed by the smell of herbs
+and other natural fragments. The room is small and a youthful human runs about
+cleaning and setting things in order, he speaks only when necessary. There are
+few items here, mostly nick-nacs.
+~
+0 8 0
+D2
+~
+~
+1 0 13318
+D4
+~
+~
+0 0 13336
+S
+#13320
+Outside the Tavern.~
+A small tavern beckons your weary feet to come and rest; from inside you
+can hear overlapping laughter and innocent rivaling. The smell of fresh
+bread grabs you by surprise; the more you think about eating some, the
+lighter your head becomes. It would probably be wise to stop and refresh
+yourself before going on.
+~
+0 0 3
+D0
+~
+~
+1 0 13321
+D1
+~
+~
+0 0 13313
+D3
+~
+~
+0 0 13334
+S
+#13321
+Tavern of Heroes and Tales.~
+All around you see male and female creatures wielding anything from sticks
+to exotic battle blades. Some of them are dirtied from travel, some reek
+from a severe lack of hygene, and some are well groomed and civil. Who
+knows how powerful each is, but each seems to be trying to convince the
+other that he is a far superior war heroe by getting louder and louder.
+The bartender snickers at the bickering and returns to wiping out his
+large, pewter mugs. Bar maids go to and fro the bartender, keeping the
+guests cheerful...and quite drunk.
+~
+0 4104 0
+D2
+~
+~
+1 0 13320
+D4
+~
+~
+0 0 13335
+S
+#13322
+Pet Holding.~
+~
+0 268959748 0
+S
+#13323
+Western Tower.~
+You can see all around the homestead from here. The forest is endless, an
+illusion most likely. Your head starts to feel light in these heights.
+Peering over the edge you see a first aid tent, centaur and dwarven
+fighters, and a stationary guard at the door.
+The two archers look at you briefly, then quickly turn their eyes to
+scouting the surroundings.
+~
+0 0 1
+D5
+~
+~
+0 0 13334
+S
+#13324
+Under the Eastern Tower.~
+Here is one of the two towers of the homestead's wall, a set of rock steps
+protrude from the side of the wall, making a convienient path to the top
+of the tower. The area some small hills in the north which have short wooden
+doors and a few murky, round windows. There is a metal tube jutting from
+the hill with a black smoke billowing out into the skies. Inside there
+is a faint glow.
+~
+0 0 3
+D0
+~
+~
+1 0 13341
+D3
+~
+~
+0 0 13318
+D4
+~
+~
+0 0 13325
+S
+#13325
+South East Tower.~
+You can see all around the homestead from here. The forest is endless, an
+illusion most likely. Your head starts to feel light in these heights.
+You hold to the stone edge of the wall, looking down below. To the south you
+see an empty clearing with a solitary tree, and off to the east is a mud pile
+and a blinding body of water.
+An archer turns towards you and evaluates your presence.
+~
+0 0 1
+D5
+~
+~
+0 0 13324
+S
+#13326
+Town Hall of Emerald Moor.~
+As you enter through the front doors of the Town Hall, you see where the
+people go about their business. Reaping the havest of overheard conversation,
+you gather people come here to offer their loyalty to Land and Leader in
+these times of hardship. The walls have simple red banners hanging on
+them, and every surface is cut from the trees of the encompassing forest.
+You can't avoid the loud, hollow sound of your feet as they move across the
+hard, wood floor. To the north is another set of door, locked from the inside.
+~
+0 8 0
+D0
+~
+~
+1 13342 13327
+D2
+~
+~
+1 0 13316
+S
+#13327
+Home of Clavius, Leader of Emerald Moor.~
+Finding an alternatice way past the lock doors, you find yourself in another
+wooden surfaced room, but this one is decorated with furniture and has a
+hearth glowing with dull, red timbers. On the floor is a grey fur, spread
+wide on the floor; next to the rock hearth is a long sofa, made for hordes
+to rest on during long nights of weary council. A set of stairs leads up
+to a door which is ajar; peering east you can see the movement of shadows and
+you hear murmurs and chuckles coming from there too.
+~
+0 8 0
+D1
+~
+~
+0 0 13339
+D2
+~
+~
+1 0 13326
+D4
+~
+~
+1 0 13328
+S
+#13328
+Master Chamber~
+This is room is loft like, but is definately equipped as a bedroom. In
+the center of the room is a bed with a wooden frame and plush feather
+pillows. On the walls are murals depicting the glory of these people and
+their history. On bare portions of the wood walls, there are exotic weapons
+of every kind. The wide doors are open in the south, leading to a balcony.
+~
+0 8 0
+D2
+~
+~
+0 0 13329
+D5
+~
+small~
+1 0 13327
+M 0 H 0
+S
+#13329
+The Balcony.~
+This balcony is where Coronius spends much of his day, keeping an eye on
+the safety of his land and planning how upcoming battles should be fought. The
+bustle and hustle of the town below is muffled by the heighth, and the sound
+is a pleasant, flowing noise; the night's air and day's light are gentle
+companions for Coronius as he thinks.
+~
+0 0 1
+D0
+~
+~
+0 0 13328
+S
+#13330
+Above the Main Gates.~
+In the east two archers stand pose and ready to take aim, and towards the west
+two more stand almost as replicates to the other two. At Jenova's whistles and
+hand signals, they snap to action. Looking down you see a great centaur,
+ordering centaurs and dwarves to and fro. He occasionally looks up and shouts
+to his comrade commander.
+~
+0 0 1
+D5
+~
+~
+1 0 13313
+S
+#13331
+Amongst the Pegasus.~
+You stand atop the massive waterfall, only from up here it seems more
+like a thin and tall mountain. There are a couple small shrubs and three
+tall pines, between the three grouped pines is a hole where water spews
+out indulgedly and runs off the side of the rock plateu. You are careful
+to watch your step, some of the rock is covered in a slick moss, while
+most of it is clothed in a lush grass.
+~
+0 0 0
+D5
+~
+~
+0 0 13317
+M 0 H 0
+S
+#13332
+Side of the Tavern.~
+From here the tower in the south looks down on you. The Tavern is
+to the east, from here you can see in a small, round side window. A
+small Orc wobbles around socializing with his guests. To the north
+is a huge, dense clump of forest with two short white pillars at
+the entrance. As you approach the pillars, you see a magicial
+shield blocking the way in. There must be a way to undo it.
+~
+0 0 3
+D0
+~
+shield~
+3 13321 13333
+D2
+~
+~
+0 0 13334
+S
+#13333
+Unicorn Glade.~
+You pass through the two pillars after forcing the shield open by the
+Symbol of the Horn and Sword. Within this sanctuary are groups of
+Unicorns, conversing with each other in their own tongue. One starts
+towards you as you gaze around, the area is filled with sparkling ponds,
+fresh water streams, thick grass and encompassing fern trees. The back
+of the retreat is aglow with the various colors of more ferns. This
+place is perfect for meditation.
+~
+0 0 3
+D2
+~
+~
+3 13321 13332
+S
+#13334
+At the Tower.~
+You stand at the base of the tower, looking around you see a set of
+stone stairs leading up the side of the wall to the top of the tower.
+You wonder what its purpose is. Looking towrds the east you see a
+pair tumbling out of the tavern, happy for no reason at all. North from
+here is the side of the tavern.
+~
+0 0 3
+D0
+~
+~
+0 0 13332
+D1
+~
+~
+0 0 13320
+D4
+~
+~
+0 0 13323
+S
+#13335
+Upstairs Loft.~
+You walk up the stairs to find even more boasting, what a surprise! Off
+to the right a stunning Bar Maid serves refreshments, not with the best
+of ease with the men flirting, but she fends them off with a constant
+smile. It is much hotter up here and you begin to sweat; you decide
+to get what you need and get out.
+~
+0 8 0
+D5
+~
+~
+0 0 13321
+S
+#13336
+Second Guild Floor.~
+This floor is much nicer, this apprentice is far friendlier. The elven lad
+goes about the room frequently, but most of his attention is to his books
+and scrolls. The room has a sweeter scent to it, and from here you see a
+room aglow up the stairs. On the shelves are some useful items, perhaps you
+should store some for yourself.
+~
+0 8 0
+D4
+~
+~
+0 0 13338
+D5
+~
+~
+0 0 13319
+S
+#13338
+Highest Guild Floor.~
+A withered mage is slumped in a large, comfy chair in front of a radiant
+ball of energy. You try to avoid staring at him too much, your eyes can't
+handle the brightness of the source. Quickly glancing out of the small
+window behind you, you see the Pegasus training. A light wind catches your
+body and gives you a slight chill, but it goes almost unnoticed as your
+skin is tingling with prickles from the raw magical currents.
+~
+0 8 0
+D5
+~
+~
+0 0 13336
+S
+#13339
+Servant's Quarters.~
+Excitedly flirting, a couple finishes the last of their cleaning in this room
+in between chaste kisses. The room is plain; against the wall is a warmed
+fireplace with a hanging pot, near it is a large table for preparing food, and
+of in a corner are large shelves with various cloths, cleaners, and dishes.
+~
+0 8 0
+D3
+~
+~
+0 0 13327
+D5
+~
+~
+4 13344 13342
+S
+#13340
+~
+~
+0 4 0
+S
+#13341
+Nimbus' Metal Crafts.~
+This small room is formed by hollowing out a hill and supporting the
+walls and cieling with wooden beams. There is a furnace in one side of
+the wall, which burns fiercely making the room extremely hot. A bulky
+dwarf walks about crafting different armor types and making weapons from
+the raw materials of the forest. The cieling is low and forces you to
+hunch over, you can't wait to leave.
+~
+0 1073741824 0
+D2
+~
+~
+1 0 13324
+S
+#13342
+Dirt Basement.~
+You found the small hatch that leads down to this...Well, I guess a type
+of basement. It isn't used often, as told by the dense spider webs. Aside
+from a rank odor, thick dust, and alot of dirt you see nothing...Except
+for a hole in the ground!
+Behind the piles of dirt is a small, buggy critter.
+~
+0 8 0
+D4
+~
+~
+4 0 13339
+S
+#13343
+Hiding Under the Covers.~
+*Snicker* No one can see you! You witty sneak! What a genius you are; who
+would think to look under the covers! Your pride swells due to self admiration
+and you know in this moment that no one will ever beat your intelligence. Even
+if it is hot and hard to breath under here, you know that your skills of
+stealth beat any that existed before.
+~
+0 12 0
+M 120 H 120
+S
+#13350
+Under World Entrance.~
+This place is entirely darkened; except for the mouth of a cave in the near
+south, all the surroundings are a smooth rock wall. The temperature, however,
+is just right; there is a gentle warmth a the feeling of slight moisture. You
+gather yourself together and proceed.
+~
+0 9 0
+D2
+~
+~
+0 0 13351
+S
+#13351
+Rock Tunnels.~
+This room has two small torches glowing in the dreadfully dark cavern,
+you see no other light except for your own. There is a southern exit which
+is concealed by a boulder, to the east and west the tunnel you stand in
+continues without a visible end. You toss a small stone ahead of you into
+the tunnel, but the darkness devours the stone before it flies 10 feet.
+There is a dark figure standing post at the boulder in the south.
+~
+0 8 0
+D0
+~
+~
+0 0 13350
+D1
+~
+~
+0 0 13352
+D2
+~
+boulder~
+1 0 13360
+D3
+~
+~
+0 0 13356
+S
+#13352
+Long, Dark Tunnel.~
+Your light is consumed by the strength of the surrounding darkness as you
+walk down the extremely dark tunnel. Occasionally, you catch a glimpse of
+a scaley creature crawling along the walls and ceiling; you noticed
+that the creature's passing is accompanied by frantic jittering. The only 
+sure thing is that your discomfort is growing despite your confidence.
+~
+0 9 0
+D1
+~
+~
+0 0 13353
+D3
+~
+~
+0 0 13351
+S
+#13353
+Below a Nest.~
+The ceiling opens up a few feet here, and high within the rock surface
+is a small slit with small fragments of a harpy nest hanging out. The
+slit is to small for even a dwarf or an elf to fit through, but the
+harpies squeeze their bird like bodies through without difficulty. Even
+though you cannot get to the nest, the harpies look angrily upon you.
+~
+0 9 0
+D1
+~
+~
+0 0 13354
+D3
+~
+~
+0 0 13352
+S
+#13354
+A Turn in the Tunnel.~
+The tunnel takes a sharp turn towards the south and leads into an even
+darker tunnel. From the south the smell of fresh water waves your way;
+on the ground is some water coming from the main southern source. Bending
+down, you gather a small amount of water on your fingertips and put it to
+your tongue; the water is sweet and sends a tingle through your senses.
+~
+0 9 0
+D2
+~
+~
+0 0 13355
+D3
+~
+~
+0 0 13353
+S
+#13355
+Illuminated Lake.~
+As you enter in the large cavern, you immediately notice the water here is
+a source of light in its own. Apparently, the water soaks through the ceiling
+and comes dripping off of long rock cones. Within the bright waters you notice
+an awkward shift; you swear the waters are alive, but can't see anything
+obvious. Decidedly, if you are going to drink, you should do so cautiously.
+~
+0 8 0
+D0
+~
+~
+0 0 13354
+S
+#13356
+Long, Dark Tunnel.~
+Your light is consumed by the strength of the surrounding darkness as you
+walk down the extremely dark tunnel. Occasionally, you catch a glimpse of
+a scaley creature crawling along the walls and ceiling; you noticed
+that the creature's passing is accompanied by frantic jittering. The only
+sure thing is that your discomfort is growing despite your confidence.
+~
+0 9 0
+D1
+~
+~
+0 0 13351
+D3
+~
+~
+0 0 13357
+S
+#13357
+Harpy Loft.~
+While scanning the walls of the tunnel for surprise troglodyte attacks,
+your feet are snagged on the debris of a large nest; you all but fall
+on your face. Taking a better look through the darkness, you spot harpies
+fluttering about while keeping a sharp eye on you. You understand their
+glares as a threat and realize that you had better proceed away from the
+nest unless you are looking for a heated scuffle.
+~
+0 9 0
+D1
+~
+~
+0 0 13356
+D3
+~
+~
+0 0 13358
+S
+#13358
+Moist Cave.~
+You finally reach the end of the tunnel; however, you are exhausted and
+take a moment to rest and search the room. The air is dense with
+a smell of stale moisture, making it hard to breath. Instead of the
+water vapors being a relieving coolness, they create an uncomfortable
+warmth. The wall to the south is heavily wrapped in moss, it looks
+thick enough to hack though. Water pours from the base of the moss
+wall, soaking your feet with sloppy stagnation.
+~
+0 9 0
+D1
+~
+~
+0 0 13357
+D2
+~
+moss~
+1 0 13359
+S
+#13359
+Dense Cavern.~
+In here, you practically swim through the air. You can see about 25 feet
+into the air, but you cannot see an end to the mists in here. You can hear
+a subtle growling off to your left, and just as your head turns to search
+the source you are knock with a potent force from behind. You have
+wandered into a manicore lair!
+~
+0 524297 0
+D0
+~
+~
+1 0 13358
+S
+#13360
+Grand Cavern of Myrkor.~
+Stepping past the boulder to the north, you enter into a massive cavern;
+it reaches well over 100 feet into the air and opens wide into the west
+and east. The floors and walls have small rooms carved out of them, and all
+the bustle of a common surface dweller's city is down here. The darkness of
+the outter hall ceases due to the light escaping to freedom for the various
+windows and street torches. The feeling of the pressing darkness leaves
+you somewhat, but you know this is a hostile domain.
+~
+0 9 0
+D0
+~
+~
+1 0 13351
+D1
+~
+~
+0 0 13361
+D2
+~
+~
+0 0 13371
+D3
+~
+~
+0 0 13366
+S
+#13361
+Busy Street.~
+Humans are far less common here than in Emerald Moor, you see creatures of
+many oddities down here; troglodytes, manicores, and beholders are the main
+core of the population. In these busy areas the beholders stand out the most
+as they go about threatening anything that they can without punishment. Unless
+you are looking for a hard time, it is best that you remain out of plain
+sight as you go about your business. To the side of the road is a shop and
+from it creatures are going to and fro.
+~
+0 9 0
+D1
+~
+~
+0 0 13362
+D2
+~
+~
+1 0 13365
+D3
+~
+~
+0 0 13360
+S
+#13362
+Amongst some Undergrowth.~
+The warm, moist air of this underground fortification is joined with the 
+strong scent of grass. The vegetation grows richer, fuller, and greener as
+it presses south. However, there is a small dirt pile, much like a large ant
+hill, covered by a pile of dried bark. You consider your path before you go
+on, trying hard to spot the Beholders before they spot you.
+~
+0 9 0
+D2
+~
+~
+0 0 13363
+D3
+~
+~
+0 0 13361
+D5
+~
+bark~
+1 0 13364
+S
+#13363
+Fruitful Garden.~
+After following the small pathway around Ignissa's shop, you wander upon
+this recluded garden. The rock ceiling hangs low, maybe 20 feet high; there
+is a crack in it which provides the garden with the light it needs to grow.
+There are several small bushes, sprinkled with berries and a few lesser trees,
+but what you mainly notice is the large tree in the center of the garden which
+takes up most of the room allowing for few bodies to enter in.
+~
+0 512 3
+D0
+~
+~
+0 0 13362
+M 110 H 110
+S
+#13364
+Mushroom Ring.~
+Your mouth begins to water as you spot the clumps of mushrooms bustling
+from the ground; that is, until you notice the troglodyte hatchlings are
+crawling about them leaving trails of feces and urine all over. After a
+moan of disgust you notice that some troglodytes have been extremely busy
+digging through the ceiling...But where does it lead?
+~
+0 9 0
+D4
+~
+~
+1 0 13362
+S
+#13365
+Ignissa's House of War~
+Many different creatures are in and out of this shop; it is a room filled with
+a variety of items that prove worthy during war time. A sudden realization
+siezes you: all of these creatures intend to fight. It would be a good idea to
+test these goods, but from the glare of Ignissa's sharp eyes you had better
+buy first and touch later. 
+~
+0 8 0
+D0
+~
+~
+1 0 13361
+S
+#13366
+Before the Fire Wall.~
+As you enter into this room, you are blinded by the fire wall to the south.
+To your amazement, there is no heat coming from it so you decide to put a
+hand up to it....nothing. You resolve that it is a simple illusion and must
+be there for a reason; whoever put it there has the desire to remain descret
+or maybe even hidden. Who knows what lies beyond the flame.
+~
+0 8 0
+D1
+~
+~
+0 0 13360
+D2
+~
+fire~
+1 0 13367
+D3
+~
+~
+0 0 13370
+S
+#13367
+Through the Fire.~
+You pass through the fire unscathed; never the less, you couldn't keep
+yourself from breaking out into a sweat even though you were confident in
+your choice to venture in. Before you is an extremely odd little man. His
+teeth are jagged and serrated as he welcomes you to his sanctuary with a
+smile. You try to hide the look of disgust from him.
+~
+0 8 0
+D0
+~
+~
+1 0 13366
+D5
+~
+~
+0 0 13368
+S
+#13368
+A Long, Dark Corridor.~
+You enter into this vertical corridor, at the bottom is a pathetic looking
+beast resting over a wooden hatch in the floor. Who knows what lies below?
+Looking upward you see Cedric looking down on you with a strange grin.
+You proceed, dispite the unsettling feelings.
+~
+0 8 0
+D4
+~
+~
+0 0 13367
+D5
+~
+hatch~
+1 0 13369
+S
+#13369
+A Small, Hidden Room.~
+This is where Cedric keeps his children, frightening thought. Of course,
+they are quite ugly; perhaps, with time, they will be even worse off than
+Cedric. The room is small with wooden walls and floors. There is a small
+hatch on the ceiling, where the kids were lowered in.
+~
+0 9 0
+D4
+~
+~
+1 0 13368
+S
+#13370
+End of the Road.~
+You finally come to the end of this underground road, and aside from the
+many troglodytes roaming the area, there is nothing. It would be best for you
+to turn around and continue your journey throughout the maze of caverns and
+tunnels. This dark dead end will be shortly remembered.
+~
+0 9 0
+D1
+~
+~
+0 0 13366
+S
+#13371
+Moat and Drawbridge. ~
+Deeper within this underground dwelling is the heart of the land, the castle
+of the kingdom, if you will; this heart is a blackened and cold one. To the
+south is a massive castle, which is unreachable due to the mud filled moat
+and locked drawbridge. The large rock walls are clothed in large spikes
+for the purpose of preventing climbers, and much to your surprise the wall is
+warm and half grown over by briars and menacing thorns.
+~
+0 8 0
+D0
+~
+~
+0 0 13360
+D2
+~
+drawbridge~
+3 13366 13372
+S
+#13372
+Within the Castle.~
+This is far from the rich glories of Emerald Moor, but you feel a
+potent strength of a different kind within these halls. There is
+no light and you here moaning all around you. You see the source of the
+moans when you turn quickly towards one and your light shows the vague
+form of spirits. They chitter and whisper constantly and you often hear
+the words Emerald Moor.
+~
+0 9 0
+D0
+~
+~
+3 0 13371
+D1
+~
+~
+0 0 13376
+D2
+~
+~
+0 0 13373
+D3
+~
+~
+0 0 13375
+D4
+~
+~
+1 0 13377
+S
+#13373
+Stairway to the Unknown.~
+You quickly pass by the undead voices and make your way to this stairway.
+It is a long stairway leading into great darkness, but would it be better
+to remain with the dead? Peering intently before making your choice,
+you can see a dull glow from within the room.
+~
+0 9 0
+D0
+~
+~
+0 0 13372
+D5
+~
+~
+0 0 13374
+S
+#13374
+The Forbidden Room of the UnderWorld.~
+This room is too dark to see more than twenty feet; luckily, it is a small
+room. An unshapely oak table sits directly in the middle with a small,
+glowing parchment on it. The walls are solid marble which breath an icey
+cold which pinches your spine giving you chills. There are murmurs and
+whispers all about you, each revealing information about Emerald Moor. These
+are the voices of the dead and restless, Synica's only friends.
+~
+0 9 0
+D4
+~
+~
+0 0 13373
+S
+#13375
+Incoming Portal.~
+On the west wall is a wide, stone archway. Between its frame is a black layer
+of a swirling mist. You see many spirits using it for their daily deeds.
+From this portal, spirits are coming into the castle. The only way of
+knowing where it leads, is by entering though it.
+~
+0 0 0
+D1
+~
+~
+0 0 13372
+S
+#13376
+Outgoing Portal.~
+On the east wall is a wide, stone archway. Between its frame is a black layer
+of a swirling mist. You see many spirits using it for their daily deeds.
+Spirits seem to be using it to leave the castle and go gather their
+information for their dark arts. The only way to know where it leads is
+to enter through it.
+~
+0 0 0
+D3
+~
+~
+0 0 13372
+S
+#13377
+Hidden Room.~
+Here is where Synica orders Thunar to stand watch over her. He is loyal,
+but not a friend. This room has become his home and where he finds peace
+from her rage. It is a cold and empty room, but Thunar is content. Scraps
+of food lie before him on the floor, and he sits thoughtfully.
+Until a call for help echos through the halls to him, he will not move.
+~
+0 9 0
+D5
+~
+~
+1 0 13372
+S
+#13378
+~
+~
+0 4 0
+S
+#13379
+Within the Moat~
+Much to your amazement, you fall through the moat without a spot of mud or
+grime on your clothes. Although you are impressed by your cleanliness, you
+instantly take notice of your surroundings; above you is the swirling mess of
+mud you entered through, and in the near east is an overgrowth of roots from
+above vegetation. It is unclear what magical forces created this oddity, but
+you determine to scout the area and find something of meaning.
+~
+0 8 0
+D1
+~
+root~
+1 13366 13380
+S
+#13380
+Lair of the Hydras~
+After knocking down some of the vines back in the west, you passed into this
+room filled by dragon-like creatures. The walls are built by blocks of carved
+rock and lit with torches which are randomly mounted through the room. You 
+also notice there are large chains which go through the stone walls; in a
+quick revelation you decide that the chains are most likely set to be loosed
+within a momnets notice. This well formed moat defense was created for a
+powerful surprise attack against any enemies.
+~
+0 8 0
+D3
+~
+~
+1 13366 13379
+S
+#13381
+{CWelcome to {MTolken's {CPlay Land.{x~
+So wanderer, you have chosen to take part in the festivities? Well, this is 
+my Playland, and aside from everyone trying to kill you, it is all fun
+and games. Every good playland has {Rhiding places{x, {Ywinding tunnels{x,
+and {Ga lot of balls{x. So have at it, explore and learn all of these
+nifty nooks and crannies. Oh, wanderer...try to stay alive please.
+{REnter the tube to begin{x.
+~
+0 1049856 0
+D5
+~
+~
+1 0 13300
+S
+#13382
+{WGreater Ball Pit{x~
+~
+0 269484048 0
+D0
+~
+~
+0 0 13386
+D1
+~
+~
+0 0 13385
+D2
+~
+~
+0 0 13384
+D3
+~
+~
+0 0 13383
+D5
+~
+~
+1 0 13394
+S
+#13383
+{RRed Ball Pit{x~
+~
+0 269484048 0
+D0
+~
+~
+0 0 13387
+D1
+~
+~
+0 0 13382
+D2
+~
+~
+0 0 13388
+S
+#13384
+{GGreen Room{x~
+~
+0 269484048 0
+D0
+~
+~
+0 0 13382
+S
+#13385
+{BBlue Ball Pit{x~
+~
+0 269484048 0
+D0
+~
+~
+0 0 13390
+D2
+~
+~
+0 0 13389
+D3
+~
+~
+0 0 13382
+S
+#13386
+{YYellow Room{x~
+~
+0 269484048 0
+D2
+~
+~
+0 0 13382
+S
+#13387
+{RRed Ball Pit{x~
+~
+0 269484048 0
+D2
+~
+~
+0 0 13383
+S
+#13388
+{RRed Ball Pit{x~
+~
+0 269484048 0
+D0
+~
+~
+0 0 13383
+S
+#13389
+{BBlue Ball Pit{x~
+~
+0 269484048 0
+D0
+~
+~
+0 0 13385
+S
+#13390
+{BBlue Ball Pit{x~
+~
+0 269484048 0
+D2
+~
+~
+0 0 13385
+S
+#13391
+On the Ropes~
+~
+0 269484048 0
+D2
+~
+~
+0 0 13392
+S
+#13392
+Dead End Tube~
+~
+0 269484048 0
+D0
+~
+~
+0 0 13391
+D5
+~
+~
+0 0 13382
+S
+#13393
+Within Tolken's Picture~
+~
+0 270008336 0
+D5
+~
+~
+0 0 13382
+S
+#13394
+Hiding Under the Balls~
+~
+0 269484048 0
+D4
+~
+~
+1 0 13382
+S
+#13300
+{MTolken's {CClouds{X~
+You find yourself suddenly summoned high within the clouds, below you see
+a small fortification busy, with everyday life.  Glancing around the vast,
+blue horizon you see soft, white clouds.  Just then you see a prismatic beam
+of light streak across the sky to an organized clump of clouds.  The cluster
+becomes a radiant rainbow aura, glowing with a magnificent beauty.  This
+must be Tolken's fabled settling, why are you here?  
+~
+0 269000708 9
+D4
+~
+~
+1 0 13381
+D5
+~
+~
+0 0 13301
+M 500 H 500
+S
+#13301
+Choose your Destiny~
+After trudging through the forest all day, you are exhausted.  Looking
+ahead you notice the area is blocked by dense foliage.  Turning back you see
+that the brush has closed in on you and you are stuck.  Brisking turning you
+see a certain, but translucent, image of a man.  His eyes are wise and
+twisted as he gazes at you, judging your presence.  Through him you see some
+vines nearly covering all of a rock wall; something glistens from behind it.
+~
+0 4 3
+D4
+~
+~
+0 0 13300
+S
+#13302
+Homestead of Emerald Moor~
+As you stand before the great gates of Emerald Moor, the fresh and crisp
+air causes every of your senses to come alive.  As your body adjusts to the
+strong magic in this woodland retreat, you gaze at the huge wooden
+drawbridge to the north.  It is secured and it would seem there are no
+intentions to open it soon.  Beside the drawbridge you spot a small door.. 
+The cool rock walls stand ten men high and extend out to the west and east,
+it stands firmly and proclaims it's own strength.  
+~
+0 0 3
+D0
+~
+~
+1 0 13313
+D1
+~
+~
+0 0 13308
+D3
+~
+~
+0 0 13303
+S
+#13303
+Against the Wall~
+~
+0 0 3
+D1
+~
+~
+0 0 13302
+D3
+~
+~
+0 0 13304
+S
+#13304
+Slit in the Wall~
+The wall is much the same here; it stands facing the south forest glades.
+Examining the walls of the fortification you see a small slit, and in it
+nothing but darkness. You can feel the tension of war in the air, all
+around the fortress are various creatures of war, focused and ready for
+any surprises that may arise.
+~
+0 0 3
+D1
+~
+~
+0 0 13303
+D3
+~
+~
+0 0 13305
+S
+#13305
+South West Tower~
+There are wide, circular towers at each end of the wall, supporting it. 
+On this tower is a red banner with a thin, white trim, but it bears no
+symbol.  On the ground round a small shrub covers a gap between the rocks. 
+Your attention is quickly stolen away when a Pegasus bearing a man on its
+back rips across the sky and into the homestead.  
+~
+0 0 3
+D0
+~
+~
+0 0 13306
+D1
+~
+~
+0 0 13304
+S
+#13306
+Around the Side of the Homestead~
+You follow the perimeter of the homestead, looking for anything that
+could help you.  This whole place is trapped within the forest, surely the
+doing of Krellion.  The rock wall continues to the north, and to the south
+is the corner tower.  There is a small first aid tent here, leaning against
+the wall.  
+~
+0 0 3
+D0
+~
+~
+0 0 13307
+D2
+~
+~
+0 0 13305
+S
+#13307
+End of the Wall~
+Here, the rock wall is enveloped by the trees, blocking the way to the
+north.  You are unsure if the wall continued to the north or simply ended
+here.  The trail continues back the way you came, to the south.  
+~
+0 0 3
+D2
+~
+~
+0 0 13306
+S
+#13308
+Against the wall.~
+The rock wall towers over you, making you feel extremely small.
+You put your hand near the wall, and feel a cool breath come off the stone, giving you the impression that this whole place is alive.
+~
+0 0 3
+D1
+~
+~
+0 0 13309
+D3
+~
+~
+0 0 13302
+S
+#13309
+Slit in the Wall.~
+The wall is much the same here; it stands facing the south forest glades.
+Examining the walls of the fortification you see a small slit, and in its
+darkness you see a pair of keen eyes fixed straight on you. The air is rich
+with magical flows, but tense with suspicions of war.
+~
+0 0 3
+D1
+~
+~
+0 0 13310
+D3
+~
+~
+0 0 13308
+S
+#13310
+South East Tower~
+Supporting the wall, there are wide, circular towers at each end. On the
+top of the grand tower is a red banner with white trim, flowing in the
+subtle breezes. You stand there gawking at its size when you hear a snap
+in the forest behind you, you quickly turn towards the south and peer into
+the forest...and see nothing. It must be your imagination.
+~
+0 0 3
+D0
+~
+~
+0 0 13311
+D2
+~
+bushes~
+1 0 13314
+D3
+~
+~
+0 0 13309
+S
+#13311
+Standing in the mud.~
+The ground turns to mud here, looking further into the north you see a
+glistening off of a small pond. You stop staring when you realize you have
+to keep move in order to avoid sinking. Your legs are covered in grime
+and mud; your only choice is to go towards the the waters in the north or
+back towards the front of the homestead because the eastern side is
+trapped completely by the forest.
+~
+0 0 12
+D0
+~
+~
+0 0 13312
+D2
+~
+~
+0 0 13310
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#13310
+~
+A
+#13309
+tip
+~
+A
+#13308
+emote grunts abruptly during his toilsome labor.
+~
+A
+#13307
+say Never, I'll fight to the end!
+confus
+say Eh, er...What was I saying?
+~
+A
+#13306
+smile
+say Hello friends! Oh, you must try this thin vial! Oh yes, it has helped many lose weight.
+~
+A
+#13305
+bow
+~
+A
+#13301
+say Welcome Visitor! Come, come...what can I do for you?
+~
+A
+#13300
+say From my magnificent and twisted mind, I have created a twisted and magnificent world. The beginning of my world will be the end of theirs. You, weary wanderer, choose their fate. Whom shall you fight?
+~
+A
+#13302
+bow
+say You carry the Symbol, but you aren't from around here, stranger.
+~
+A
+#13303
+chuck
+say Don't mind the locals. What can I do for you, need a fighter? Refreshments are upstairs.
+~
+A
+#13304
+emote flashes a wedding band around the room.
+say G'day, what would you like?
+~
+A
+#13311
+say Leave here! Now!
+mutter
+say Fool! You shall die!
+~
+A
+#13312
+emote hisses and glares at you with utmost hatred.
+~
+A
+#13313
+emote begins licking his lips hungrily at your intrusion.  
+~
+A
+#0
+
+#RESETS
+D 0 13313 2 1
+D 0 13313 4 1
+D 0 13314 0 1
+D 0 13316 0 1
+D 0 13318 0 1
+D 0 13319 2 1
+D 0 13320 0 1
+D 0 13321 2 1
+D 0 13324 0 1
+D 0 13326 0 2
+D 0 13326 2 1
+D 0 13327 2 2
+D 0 13327 4 1
+D 0 13328 5 1
+D 0 13330 5 1
+D 0 13332 0 2
+D 0 13333 2 2
+D 0 13339 5 2
+D 0 13341 2 1
+D 0 13342 4 2
+D 0 13351 2 1
+D 0 13358 2 1
+D 0 13359 0 1
+D 0 13360 0 1
+D 0 13361 2 1
+D 0 13362 5 1
+D 0 13364 4 1
+D 0 13365 0 1
+D 0 13366 2 1
+D 0 13367 0 1
+D 0 13368 5 1
+D 0 13369 4 1
+D 0 13371 2 2
+D 0 13372 0 2
+D 0 13372 4 1
+D 0 13377 5 1
+D 0 13379 1 1
+D 0 13380 3 1
+D 0 13381 5 1
+D 0 13382 5 1
+D 0 13394 4 1
+D 0 13300 4 1
+D 0 13302 0 1
+D 0 13310 2 1
+O 0 13305 0 13312
+O 0 13309 0 13312
+M 1 13327 1 13313 1
+E 0 13342 0 17
+M 1 13301 1 13314 1
+O 0 13307 0 13315
+P 0 13308 1 13307 1
+O 0 13312 0 13316
+O 0 13313 0 13316
+O 0 13318 0 13317
+M 1 13320 1 13319 1
+G 0 13325 0
+G 0 13326 0
+G 0 13327 0
+M 1 13311 1 13321 1
+M 1 13312 1 13322 1
+M 1 13313 1 13322 1
+M 1 13314 1 13322 1
+M 1 13308 4 13323 2
+M 1 13308 4 13325 2
+O 0 13334 0 13327
+O 0 13335 0 13327
+M 1 13328 1 13328 1
+E 0 13346 0 9
+O 0 13347 0 13328
+M 1 13326 1 13329 1
+E 0 13341 0 16
+E 0 13343 0 7
+M 1 13309 1 13330 1
+E 0 13314 0 16
+O 0 13320 0 13331
+M 1 13315 1 13331 1
+E 0 13319 0 17
+M 1 13310 3 13331 3
+E 0 13321 0 3
+M 1 13316 1 13333 1
+E 0 13322 0 10
+M 1 13318 1 13333 1
+M 1 13317 1 13333 1
+M 1 13319 1 13335 1
+G 0 13323 0
+G 0 13324 0
+M 1 13321 1 13336 1
+G 0 13328 0
+G 0 13329 0
+G 0 13330 0
+G 0 13331 0
+M 1 13322 1 13338 1
+E 0 13332 0 5
+O 0 13333 0 13338
+O 0 13336 0 13339
+O 0 13337 0 13339
+M 1 13323 1 13339 1
+M 1 13324 1 13339 1
+M 1 13325 1 13341 1
+G 0 13338 0
+G 0 13339 0
+G 0 13340 0
+G 0 13344 0
+O 0 13345 0 13342
+M 1 13364 3 13342 1
+O 0 13350 0 13351
+P 0 13351 1 13350 1
+M 1 13350 1 13351 1
+E 0 13352 0 10
+E 0 13353 0 16
+M 1 13351 4 13352 2
+M 1 13354 2 13353 1
+O 0 13371 0 13355
+M 1 13363 1 13355 1
+E 0 13372 0 16
+M 1 13351 4 13356 2
+M 1 13354 2 13357 1
+O 0 13369 0 13357
+P 0 13370 3 13369 1
+M 1 13353 2 13359 2
+M 1 13352 1 13359 1
+E 0 13373 0 5
+M 1 13355 1 13360 1
+E 0 13376 0 16
+M 1 13356 4 13361 1
+E 0 13356 0 6
+M 1 13356 4 13362 1
+E 0 13355 0 16
+O 0 13357 0 13363
+P 0 13358 2 13357 2
+M 1 13357 1 13363 1
+O 0 13374 0 13364
+M 1 13364 3 13364 2
+O 0 13375 0 13364
+M 1 13359 1 13365 1
+G 0 13360 0
+G 0 13361 0
+G 0 13362 0
+G 0 13363 0
+M 1 13356 4 13366 1
+E 0 13356 0 6
+M 1 13366 1 13367 1
+M 1 13368 1 13368 1
+E 0 13379 0 16
+M 1 13367 5 13369 5
+M 1 13356 4 13370 1
+E 0 13355 0 16
+O 0 13364 0 13371
+M 1 13360 1 13374 1
+E 0 13367 0 17
+E 0 13359 0 7
+E 0 13368 0 16
+O 0 13377 0 13374
+O 0 13378 0 13374
+M 1 13369 2 13375 1
+O 0 13381 0 13375
+M 1 13369 2 13376 1
+O 0 13380 0 13376
+M 1 13358 1 13377 1
+O 0 13365 0 13379
+O 0 13365 0 13379
+M 1 13362 3 13380 3
+E 0 13354 0 3
+M 1 13365 1 13380 1
+E 0 13366 0 6
+M 1 13370 1 13381 1
+O 0 13383 0 13381
+O 0 13382 0 13381
+O 0 13386 0 13382
+P 0 13384 5 13386 5
+O 0 13385 0 13383
+O 0 13387 0 13384
+O 0 13385 0 13385
+O 0 13387 0 13386
+O 0 13385 0 13387
+O 0 13385 0 13388
+O 0 13385 0 13389
+O 0 13385 0 13390
+O 0 13388 0 13392
+O 0 13300 0 13300
+O 0 13301 0 13300
+O 0 13302 0 13301
+O 0 13303 0 13301
+M 1 13300 1 13301 1
+E 0 13315 0 5
+E 0 13316 0 1
+M 1 13305 1 13302 1
+E 0 13310 0 10
+M 1 13304 4 13303 1
+M 1 13306 2 13304 1
+O 0 13306 0 13305
+M 1 13304 4 13305 1
+M 1 13307 1 13306 1
+M 1 13302 3 13307 3
+M 1 13304 4 13308 1
+M 1 13306 2 13309 1
+M 1 13304 4 13310 1
+S
+
+
+
+#SHOPS
+13319 19 17 0 0 0 100 100 0 23
+13320 26 3 2 0 100 100 100 6 22
+13321 2 4 26 10 0 100 100 5 24
+13325 0 5 5 5 18 100 100 0 23
+13359 35 26 3 2 100 100 0 0 23
+0
+
+
+
+#$

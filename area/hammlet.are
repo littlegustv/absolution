@@ -1,0 +1,2386 @@
+#AREADATA
+Name Village of Hammlet~
+Builders Haver~
+VNUMs 13000 13249
+Credits { None} Haver   Village of Hommlet~
+Security 0
+Xcontinent 1
+Age 12
+End
+
+
+
+#MOBILES
+#13001
+Inn of the Welcome Wench~
+Joe Splinter~
+A dust covered man is using a splitting axe on a log.
+~
+~
+human~
+AB 0 0 0
+6 0 2d7+71 1d1+100 1d7+1 none
+4 4 4 4
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+M speech 13002 rumor~
+M grall 13001 99~
+#13002
+comely welcome wench~
+Welcome Wench~
+A comely wench holds a tray full of drinks, weaving her way through the crowd.
+~
+~
+human~
+AB 0 1000 0
+5 0 2d6+60 1d1+100 1d6+1 none
+5 5 5 5
+0 0 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0
+#13003
+bartender~
+gruff bartender~
+A gruff bartender stands behind the bar, wiping a goblet out.
+~
+~
+human~
+ABU 0 1000 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#13004
+baldric bard~
+Baldric the Bard~
+A lean bard sits by the fire and strumms his lyre.
+~
+Although he plays with great skill and passion, this man doesn't seem to 
+enjoy playing the lyre as much as most bards do. Something about him is 
+strange, but you can't put your finger on what.
+~
+elf~
+ABGR DFJT 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+BEFHIJK ABLMPQ BE Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#13005
+covenant sage~
+Covenant, the sage~
+A wise looking sage sits beside a cluttered table.
+~
+~
+human~
+AB 0 1000 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+M speech 13005 moathouse~
+M speech 13004 hello~
+M grall 13003 99~
+#13006
+blacksmith smithy dwarf~
+the blacksmith~
+A barrel chested dwarf acts as the village's smithy.
+~
+~
+dwarf~
+AB J 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 LQ R
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#13007
+armor bornhald gnome~
+Bornhald~
+An elderly gnome is a craftsman in the art of making armour.
+~
+~
+gnome~
+AB FJ 1000 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+D 0 BELQ HKR
+stand stand none 0
+ABHMV ABCDEFGHIJKUV medium 0
+#13008
+Ellesmere banker~
+Ellesmere~
+A tall scrawny man with greased hair peers over his nose to greet you.
+~
+~
+human~
+ABe 0 -1000 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#13009
+Corath baker~
+Corath~
+A plump little man works as the baker.
+~
+~
+human~
+AB 0 800 0
+10 1 2d7+121 1d1+100 2d4+2 none
+1 1 1 1
+0 0 0 0
+stand stand none 400
+AHMV ABCDEFGHIJK medium 0
+#13010
+healer~
+the healer~
+A healer is here, selling spells. 
+~
+Although retired from adventuring, the healer still lends a hand. 
+Type 'heal' to see a listing of spells. 
+~
+elf~
+ABQVa DFHJ 1000 0
+40 0 1d1+999 1d1+999 2d4+30 none
+-15 -15 -15 -15
+FHIK ABCD BE Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#13011
+gypsy wizard Aleeia~
+the gypsy Aleeia~
+An old lady, Aleeia still is able to deal out powerful magic.
+~
+The gypsy looks old and senile, and yet she looks like a very powerful 
+wizard. She is equipped with fine clothing, and is wearing many fine 
+rings and bracelets. 
+~
+human~
+AB D 900 0
+23 0 1d1+999 1d1+999 1d8+32 none
+-15 -15 -15 -15
+AF ABCD 0 0
+stand stand male 15000
+AHMV ABCDEFGHIJK medium 0
+#13012
+guard~
+the Guard Captain~
+A rather bulking individual, he has sworn his life to protection of the gate.
+~
+~
+giant~
+AB L 1000 0
+10 1 2d7+121 1d1+100 2d4+2 none
+1 1 1 1
+P 0 HI JP
+stand stand none 0
+AHMV ABCDEFGHIJK large 0
+M give 13007 letter~
+M grall 13006 99~
+#13013
+kobold~
+a kobold warrior~
+With scaly skin and horned heads, this kobold looks dangerous for his size
+~
+~
+kobold~
+A J -500 0
+5 0 2d6+60 1d1+100 1d6+1 none
+5 5 5 5
+P 0 L C
+stand stand none 100
+ABHMV ABCDEFGHIJKQ small 0
+#13014
+alligator~
+an alligator~
+A large alligator slithers through the filthy water.
+~
+~
+lizard~
+AB 0 -500 0
+10 1 2d7+121 1d1+100 2d4+2 none
+1 1 1 1
+0 0 L I
+stand stand none 200
+AGXc ACDEFHKQV medium 0
+#13015
+temple guard~
+a temple guard~
+A guardian of the temple patrols this area.
+~
+~
+human~
+AB 0 -1000 0
+5 0 2d6+60 1d1+100 1d6+1 none
+5 5 5 5
+0 0 0 0
+stand stand none 200
+AHMV ABCDEFGHIJK medium 0
+#13016
+member road crew~
+road crew~
+A member of the road crew is replacing a missing brick.
+~
+~
+human~
+AB 0 0 0
+5 0 2d6+60 1d1+100 1d6+1 none
+5 5 5 5
+0 0 0 0
+stand stand none 40
+AHMV ABCDEFGHIJK medium 0
+#13019
+guard~
+a Gate Guard~
+A guard stands here, waiting the strike from an enemy
+~
+~
+giant~
+AB L 1000 0
+9 0 2d6+110 1d1+100 1d8+2 none
+2 2 2 2
+P 0 HI JP
+stand stand none 0
+AHMV ABCDEFGHIJK large 0
+#13020
+temple priest~
+a temple priest~
+A scowling man wears the robes of a priest of Elemental Evil.
+~
+~
+human~
+ABQ 0 -1000 0
+8 0 2d7+96 1d1+100 1d7+2 none
+3 3 3 3
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#13021
+beetle~
+a giant black beetle~
+A giant black beetle scurries out of the cask.
+~
+~
+centipede~
+AB MPQZ -300 0
+4 0 2d7+46 1d1+100 1d5+1 none
+6 6 6 6
+P 0 FGI E
+stand stand none 0
+ABGO ACK medium 0
+#13022
+bugbear~
+a bugbear~
+A cross between a beetle and a bear, this would make an impressive trophy.
+~
+~
+bear~
+A 0 0 0
+9 0 2d6+110 1d1+100 1d8+2 none
+2 2 2 2
+DEO 0 EI 0
+stand stand none 0
+AGV ABCDEFHJKUV medium 0
+#13023
+green slime~
+a green slime~
+A green slime the color of mucus drips from the ceiling.
+~
+~
+human~
+AB DT -1000 0
+7 0 2d6+85 1d1+100 1d8+1 acbite
+4 4 4 4
+0 K GIJ EH
+stand stand none 400
+ABHMSV ABCDEFGHIJK large 0
+#13024
+broken skeleton~
+a broken skeleton~
+A clattering, broken skeleton approaches you.
+~
+~
+human~
+A 0 -1000 0
+7 0 2d6+85 1d1+100 1d8+1 none
+4 4 4 4
+0 BIJ F E
+stand stand none 200
+AHMV ABCDEFGHIJK medium 0
+#13025
+executioner~
+the executioner~
+A hooded man swishes a hangman's noose slowly.
+~
+~
+human~
+AB Db -1000 0
+10 1 2d7+121 1d1+100 2d4+2 none
+1 1 1 1
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0
+M random 13008 15~
+#13026
+lubash ogre~
+Lubash the ogre~
+A grumpy looking ogre smacks his lips with hunger.
+~
+~
+giant~
+A 0 -500 0
+9 0 2d6+110 1d1+100 1d8+2 none
+2 2 2 2
+C 0 HI JP
+stand stand none 900
+AHMV ABCDEFGHIJK large 0
+M grall 13009 99~
+M entry 13010 99~
+M give 13011 all~
+M random 13010 10~
+#13027
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#13051
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+5 0 2d6+60 1d1+100 1d6+1 none
+5 5 5 5
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#13001
+axe splitting~
+splitting axe~
+A sharp wedge shaped splitting axe is on the ground.~
+iron~
+weapon 0 AN
+axe 3 3 cleave 0
+6 30 150 P
+#13002
+drink tray wooden platter~
+drink tray~
+A wooden platter that serves as a drink tray is here.~
+wood~
+container 0 A
+10 0 0 2 100
+0 40 100 P
+#13003
+beer stein~
+beer stein~
+A lidded beer stein is here.~
+porcelain~
+drink 0 A
+3 3 'beer' 0 0
+2 20 200 P
+#13004
+wine goblet~
+wine goblet~
+A small crystal wine goblet is here.~
+crystal~
+drink 0 A
+2 2 'red wine' 1 0
+2 10 250 P
+#13005
+steak kidney pie~
+steak and kidney pie~
+A steamy steak and kidney pie looks scrumptious.~
+food~
+food 0 A
+6 6 0 0 0
+0 10 20 P
+#13006
+long table~
+a long oak table~
+A long rough-hewn oak table occupies the floor.~
+wood~
+furniture O 0
+6 60000 D 0 0
+0 5000 0 P
+#13007
+letter~
+a letter of permission~
+This short note states that you are a emissary of Convenant.~
+paper~
+key PU A
+0 0 0 0 0
+0 10 0 P
+#13008
+gatehouse key~
+a gatehouse key~
+A rusted key lies here.~
+iron~
+key 0 A
+0 0 0 0 0
+5 10 0 A
+#13009
+war hammer~
+guard's war hammer~
+A long handled hammer lies here.~
+steel~
+weapon 0 AN
+mace 2 4 crush 0
+8 60 1000 P
+A
+18 1
+A
+19 1
+#13010
+guard chain shirt~
+guard's chain shirt~
+A well-built chain shirt lies here.~
+steel~
+armor A AD
+4 4 4 1 0
+8 40 800 P
+#13011
+guard's shield~
+guard's shield~
+A very sturdy shield glares in the light.~
+steel~
+armor 0 AJ
+3 4 4 2 0
+8 40 700 P
+#13012
+club~
+a club~
+A rough wooden club lies rotting here.~
+wood~
+weapon 0 AN
+mace 2 3 crush 0
+4 30 0 W
+#13013
+bastard sword~
+a bastard sword~
+A sword with a long thin blade lies here.~
+steel~
+weapon 0 AN
+sword 2 4 slash 0
+5 60 150 P
+A
+19 1
+A
+18 -1
+#13014
+chain mail~
+a chain mail shirt~
+A chain mail shirt looks protective.~
+steel~
+armor 0 AK
+3 4 5 1 0
+5 40 400 P
+#13015
+moathouse key~
+a moathouse key~
+A moathouse key lies rusting here.~
+iron~
+key U A
+0 0 0 0 0
+0 5000 0 P
+#13016
+armoire chest cabinet~
+oak armoire~
+A sturdy looking oak armoire is standing by the wall.~
+wood~
+furniture O 0
+0 0 0 0 0
+0 0 0 P
+#13017
+bookshelf~
+maple bookshelf~
+An intricately decorated maple bookcase is by the door.~
+wood~
+furniture O 0
+0 0 0 0 0
+0 0 0 P
+#13018
+baldric bard~
+Baldric the Bard~
+A lean bard sits by the fire and strumms his lyre.~
+wood~
+jukebox 0 0
+0 0 0 0 0
+50 0 0 P
+#13019
+poster bed~
+a four poster bed~
+A huge four poster bed is piled high with warm quilts and pillows.~
+wood~
+furniture 0 0
+2 10000 GJ 40 0
+0 0 0 P
+#13020
+bathtub~
+a copper bathtub~
+A large shiny copper bathtub with running water is here.~
+wood~
+furniture 0 0
+2 10000 DGJ 0 40
+0 0 0 P
+#13021
+axe hand~
+a hand axe~
+A small hand axe lies on the floor.~
+iron~
+weapon 0 AN
+axe 1 4 chop 0
+3 50 310 G
+A
+18 1
+#13022
+axe battle~
+a battle axe~
+A double headed battle axe rests on the floor.~
+steel~
+weapon 0 AN
+axe 2 4 chop 0
+8 90 650 P
+A
+19 1
+#13023
+dagger~
+a dagger~
+A dagger lies in the dust.~
+steel~
+weapon G AN
+dagger 1 4 pierce 0
+3 20 590 P
+A
+18 1
+A
+19 1
+E
+dagger~
+You see a dagger of great craftsmanship.  Imprinted on the side is: 
+Merc Industries 
+~
+#13024
+halberd~
+a halberd~
+A long handled halberd rests on the ground.~
+steel~
+weapon 0 AN
+polearm 1 6 chop 0
+0 80 400 P
+#13025
+hammer~
+a war hammer~
+A deadly war hammer lies here.~
+iron~
+weapon A AN
+mace 2 4 smash F
+7 240 660 P
+#13026
+scimitar~
+a scimitar~
+A curved scimitar gleams here.~
+steel~
+weapon a AN
+sword 2 4 slash 0
+8 100 490 P
+A
+18 1
+#13027
+sword short~
+a short sword~
+There lies a short sword.~
+steel~
+weapon 0 AN
+sword 1 5 pierce 0
+4 40 540 P
+#13028
+jerkin leather~
+a leather jerkin~
+A hardened leather jerkin lies neglected on the floor.~
+leather~
+armor 0 AD
+4 3 4 2 0
+3 50 250 P
+#13029
+scale sleeve~
+a pair of scale sleeves~
+A set of metal scale sleeves lie here.~
+steel~
+armor 0 AI
+3 4 3 1 0
+6 40 400 P
+#13030
+heavy boots~
+a pair of heavy boots~
+A pair of heavy boots with good treads lie here.~
+leather~
+armor 0 AG
+3 5 3 0 0
+8 50 600 P
+A
+14 10
+#13031
+iron cap~
+an iron cap~
+An iron cap lies forgotten on the floor.~
+iron~
+armor 0 AE
+3 3 2 2 0
+8 30 500 P
+#13032
+leggings~
+a pair of banded leggings~
+A pair of leggings made from bands of steel riveted to leather lies here.~
+steel leather~
+armor 0 AF
+4 4 4 2 0
+8 70 700 P
+#13033
+elfin chain shirt~
+an elfin chain shirt~
+An intricately woven elfin shirt of mithril lies here.~
+mithril~
+armor 0 AK
+6 6 6 3 0
+18 30 6000 P
+A
+2 2
+#13034
+rolling pin~
+a rolling pin~
+A rolling pin covered in flour lies here.~
+wood~
+weapon 0 0
+exotic 2 5 smash 0
+10 10 80 P
+#13035
+wand burning~
+wand of burning hands~
+A short piece of charred wood, with carved fingers at one end.~
+wood~
+wand 0 AO
+2 6 5 'burning hands' 0
+2 20 800 P
+#13036
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#13037
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+12 'identify' '(null)' '(null)' '(null)'
+6 10 890 P
+E
+scroll identify~
+The scroll has a magic formula drawn upon it: 
+	  ??? 
+	 ?   ? 
+		 ? 
+		? 
+		? 
+		* 
+~
+#13038
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#13039
+potion armor~
+a potion of armor~
+A potion of armor is here.~
+glass~
+potion G AO
+10 'armor' '(null)' '(null)' '(null)'
+0 10 1000 P
+#13040
+escape portal~
+an escape from the marsh~
+An escape from the marsh can be seen through the reeds.~
+energy~
+portal O 0
+0 0 0 13022 0
+0 0 0 P
+#13041
+corpse~
+a hung corpse~
+The corpse of a hanging victim rots here.~
+bone~
+npc_corpse 0 0
+0 0 0 0 0
+0 800 0 P
+#13042
+number four bedroom key~
+Lord's bedroom key~
+A key marked 'number four' lies here.~
+steel~
+key 0 AO
+0 0 0 0 0
+5 10 0 P
+#13043
+flail elements~
+a flail of the elements~
+A flail with symbols of earth, air, fire and water glows here.~
+iron~
+weapon A AN
+flail 2 5 smash 0
+8 60 400 P
+A
+1 1
+#13044
+symbol element~
+a symbol of the elements~
+A symbol with runes of earth, air, fire and water is here.~
+ebony~
+armor A AC
+3 3 3 0 0
+8 10 600 P
+A
+20 -1
+#13045
+cask~
+a wooden cask~
+An old oak cask stands on the floor here.~
+wood~
+furniture 0 0
+3 100000 A 0 0
+0 5000 0 P
+#13046
+length chain~
+a length of chain~
+A length of rusty chain lies here.~
+steel~
+weapon 0 AN
+whip 3 3 whip 0
+7 20 100 P
+A
+19 1
+#13047
+executioner hood~
+an executioner's hood~
+A black hood worn by an executioner lies on the floor.~
+cloth~
+armor 0 AE
+5 4 5 1 0
+10 10 550 P
+A
+5 1
+A
+4 -1
+#13048
+hangman noose~
+a hangman's noose~
+A piece of hemp rope fashioned into a noose lies here.~
+hemp~
+weapon 0 AN
+whip 2 5 none 0
+10 10 100 P
+#13051
+keg brandy~
+a keg of brandy~
+An expensive keg of brandy lies forgotten here.~
+wood~
+drink 0 A
+100 80 'brandy' 0 0
+5 400 3000 P
+#13052
+key cell~
+a cell key~
+A key lies in the dirt.~
+iron~
+key 0 AO
+0 0 0 0 0
+5 10 0 P
+#13053
+coin~
+a pile of coins~
+A small pile of coins lies here.~
+silver~
+money 0 A
+1 0 0 0 0
+0 10 10 P
+#0
+
+
+
+#ROOMS
+#13000
+Path though the hills~
+A small valley leads out of the mountains and a path leads through the hills
+here.  Travel gets easier as you head to the east, with some measure of
+upkeep turning the loose stones underfoot to a proper cart path.
+~
+0 4 4
+D1
+The path continues.
+~
+~
+0 0 13001
+M 80 H 80
+S
+#13001
+Path through the woods~
+The cart path from the west continues through this area.  Trees start to 
+close in on the sides as a small patch of an old growth forest rises out
+of the hills to the east.
+~
+0 0 4
+D1
+The path continues.
+~
+~
+0 0 13002
+D3
+The path continues.
+~
+~
+0 0 13000
+M 70 H 70
+S
+#13002
+Path through the woods~
+The small area of old growth continues out of the west here.  The cart
+path leads to the east, where a small village can be seen.
+~
+0 0 3
+D1
+A small village gate lies to the east.
+~
+~
+0 0 13003
+D3
+The path continues.
+~
+~
+0 0 13001
+M 70 H 70
+S
+#13003
+Entrance to the Village of Hommlet~
+You enter the tiny village of Hommlet.  All seems quiet as small children
+play in a nearby creek, and men and women go about their daily chores.
+Still, looks can be deceiving.
+The creek runs to the north where it passes by a mill, where a carpenter
+has set up shop.  To the south is the largest building in the village, 
+the 'Inn of the Welcome Wench'.
+~
+0 0 1
+D0
+A mill serves as a carpenter shop.
+~
+~
+0 0 13007
+D1
+The Main Road continues east.
+~
+~
+0 0 13004
+D2
+The entrance to the Inn is here.
+~
+~
+0 0 13008
+D3
+A path leads out through the valley.
+~
+~
+0 0 13002
+M 70 H 70
+S
+#13004
+Main Road~
+The road is better paved here with cobblestones.  There are a couple of 
+stores in the area.  To the north, smoke can be seen billowing out of the
+chimney on the low stone structure serving as a Smithy.  To the south is a 
+converted barn, now hanging a shingle declaring 'Bornhald's Armoury'.
+~
+0 0 1
+D0
+The smithy lies to the north.
+~
+~
+0 0 13016
+D1
+The main road continues east.
+~
+~
+0 0 13005
+D2
+A sign tells you Bornhald's Armoury is to the south.
+~
+~
+0 0 13017
+D3
+The main road continues west.
+~
+~
+0 0 13003
+M 70 H 70
+S
+#13005
+Main Road~
+The road is better paved here with cobblestones.  There are a couple of
+stores in the area.  A small building to the north is well protected with a
+solid steel door and bars on the window.  A gold plate plaque over the door
+reads 'Town Vault'.  Smells from the south can leave no doubt in your mind
+that the bakery lies behind the gingerbread house door.  
+~
+0 0 1
+D0
+The Town Vault lies to the north.
+~
+door~
+1 0 13018
+D1
+The main road continues east.
+~
+~
+0 0 13006
+D2
+A small bakery lies to the south.
+~
+~
+0 0 13019
+D3
+The main road continues west.
+~
+~
+0 0 13004
+M 70 H 70
+S
+#13006
+Main Road~
+The road is better paved here with cobblestones.  There are a couple of 
+stores in the area.  To the north is a newly erected Temple of Selena.
+It is rumored that the owner of the church came from the area of the new
+volcano on Dominia.  Across the street from it is a permanent tent with a 
+sign on a tripod reading 'Madame Aleeia's Fortunes'.
+~
+0 0 1
+D0
+A temple lies to the north.
+~
+~
+0 0 13020
+D1
+The main road continues east.
+~
+~
+0 0 13022
+D2
+The flap of a tent is open to the south.
+~
+~
+0 0 13021
+D3
+The main road continues west.
+~
+~
+0 0 13005
+M 70 H 70
+S
+#13007
+Carpenter Shop~
+The sound of the watermill-run bandsaw as it cuts raw lumber is nearly
+deafening.  Heaps of sawdust are piled in all corners of the building
+and the smell of fresh sawn maple hangs in the air.  In the front of the
+shop can be found the wares of the Carpenter.
+~
+0 8 0
+D2
+The Main Road of the village is here.
+~
+~
+0 0 13003
+M 60 H 60
+S
+#13008
+Inn of the Welcome Wench~
+You enter the common room of the inn.  The place is bright and cheerful,
+and it contains several rough-hewn tables, chairs and benches.  
+A group of people are here, eating and drinking.
+~
+0 8 0
+D0
+The Main Road of the village is here.
+~
+~
+0 0 13003
+D3
+A rowdy common room is to the west.
+~
+~
+0 0 13009
+M 60 H 60
+S
+#13009
+Common Room~
+This room serves as the barroom and general meeting area, not only for the
+inn, but for the entire small village.  The fireplace is always lit, and
+the gruff bartender is constantly busy.  Even though the village is small
+the supplies that are brought in are of the best quality, for a reasonable
+price.
+~
+0 1032 0
+D1
+The dining area is to the east.
+~
+~
+0 0 13008
+D4
+The rooms of the Inn lie upstairs.
+~
+stairs~
+0 0 13010
+M 60 H 60
+S
+#13010
+Inn Hallway~
+The hallway upstairs from the common room is very quiet, considering all 
+the noise that was coming out of that bard.  Well, at least you should
+be able to get some sleep here.
+The hallway continues to the west.  To the north is a room in the inn.
+To the south is a door marked 'Office'.
+~
+0 8 0
+D0
+An Inn room is to the north.
+~
+door~
+1 0 13012
+D2
+Covenant's office lies to the south.
+~
+door~
+1 0 13015
+D3
+The hallway continues to the west.
+~
+~
+0 0 13011
+D5
+A rowdy common room is down the stairs.
+~
+stairs~
+0 0 13009
+M 30 H 30
+S
+#13011
+Inn Hallway~
+The glow of the polished hardwood floor shows the love that the owner and
+staff of the inn put into their business.  No where else would this seem
+out of the ordinary, but with this being a small farming community, it
+does seem a little odd.
+~
+0 8 0
+D0
+An Inn room is to the north.
+~
+door~
+1 0 13013
+D1
+The hallway continues to the east.
+~
+~
+0 0 13010
+D2
+An Inn room is to the south.
+~
+door~
+1 0 13014
+M 30 H 30
+S
+#13012
+Room at the Inn~
+This cozy room just makes you feel right at home.  The furnishings are
+rather plain, but they are comfortable.  The large four poster bed is big
+enough to sleep a dragon, piled high with warm quilts.  A copper lined tub
+has running water for your pleasure.  
+~
+0 1544 0
+D2
+A hallway lies to the south.
+~
+door~
+1 0 13010
+M 130 H 130
+S
+#13013
+Room at the Inn~
+This cozy room just makes you feel right at home.  The furnishings are
+rather plain, but they are comfortable.  The large four poster bed is big
+enough to sleep a dragon, piled high with warm quilts.  A copper lined tub
+has running water for your pleasure.  
+~
+0 1544 0
+D2
+A hallway lies to the south.
+~
+~
+1 0 13011
+M 130 H 130
+S
+#13014
+Room at the Inn~
+This cozy room just makes you feel right at home.  The furnishings are
+rather plain, but they are comfortable.  The large four poster bed is big
+enough to sleep a dragon, piled high with warm quilts.  A copper lined tub
+has running water for your pleasure.  
+~
+0 1544 0
+D0
+A hallway lies to the north.
+~
+~
+1 0 13011
+M 130 H 130
+S
+#13015
+Covenant's Office~
+This room used to be one of the rooms of the Inn, but Covenant has converted
+it to be his personal office and workspace.
+~
+0 268436488 0
+D0
+A hallway lies to the north.
+~
+~
+1 0 13010
+S
+#13016
+The Smithy~
+The smithy is located inside a small stone building, yet the inside area
+is deceivingly large.  The smell of burning wood and hot metal fills the
+area.  The heat soon has you sweating profusely.  A collection of weapons
+hang from hooks on the walls.  
+~
+0 8 0
+D2
+The Main Road for the village is to the south.
+~
+~
+0 0 13004
+M 60 H 60
+S
+#13017
+Bornhald's Armoury~
+The rough timbers of old trees are the exposed framework for this old
+barn.  Ever since Bornhald moved into the village, there has been a steady
+supply of armour being made.  Though local sales are not very high, it is
+said that the armor worn by the guards of Shandalar travel here to have
+their armor custom crafted by Bornhald.  
+~
+0 8 0
+D0
+The Main Road for the village is to the north.
+~
+~
+0 0 13004
+M 60 H 60
+S
+#13018
+Town Vault~
+This well built stone building is well decorated.  The marble floor and
+solid wood panelling makes you wonder where the banker got the money for the
+construction.  Then you notice the sign.  It reads "All lost bank notes will
+default to the property of the bank".  Be careful with yours!  
+~
+0 1032 0
+D2
+The Main Road for the village is to the south.
+~
+door~
+1 0 13005
+M 60 H 60
+S
+#13019
+Corath's Provisions~
+This brightly lit building is always bustling with the activity of
+baking.  Even the Inn gets a lot of its pastry from Corath.  Why try to
+compete with the best baker in town?  
+~
+0 8 0
+D0
+The Main Road for the village is to the north.
+~
+~
+0 0 13005
+M 60 H 60
+S
+#13020
+Temple of Selena~
+Built on the site of an older temple, this new sanctuary still smells of
+fresh sawdust.  The altar is made from a single block of oak, cut from what
+must have been a massive tree.  A stained glass window shows the Venari
+driving the last dragons from the continent.  
+~
+0 1032 0
+D2
+The Main Road for the village is to the south.
+~
+~
+0 0 13006
+S
+#13021
+Madame Aleeia's Fortunes~
+At one time a gypsy, the aging Aleeia decided to set her tent down on
+this lot of ground permanently.  While the village does not have a lot of
+business for her these days, it is rumored that she made her fortune in a
+city on Terra.  
+~
+0 263176 0
+D0
+The Main Road for the village is to the north.
+~
+~
+0 0 13006
+M 50 H 50
+S
+#13022
+Before the Gate~
+The road through the village ends abruptly here, before a tall gate.  The
+fortifications surrounding this gate could easily stave off an army of
+considerable size for quite some time.  To the north and south can be found
+watch towers filled with guards.  
+~
+0 0 1
+D0
+A guard tower lies to the north.
+~
+~
+0 0 13023
+D1
+Large gates lie to the east.
+~
+gate~
+4 13015 13025
+D2
+A guard tower lies to the south.
+~
+~
+0 0 13024
+D3
+The main road continues west.
+~
+~
+0 0 13006
+M 50 H 50
+S
+#13023
+North Tower~
+An extension of the village's fortifications, this small tower is also
+used by the guards as a barracks.  
+~
+0 0 0
+D2
+The gate area is to the south.
+~
+~
+0 0 13022
+M 50 H 50
+S
+#13024
+South Tower~
+An extension of the village's fortifications, this small tower is also
+used by the guards as a barracks.  
+~
+0 0 0
+D0
+The gate area is to the north.
+~
+~
+0 0 13022
+M 0 H 0
+S
+#13025
+Track through swamps~
+The contrast between the small village and the swamps that surround you
+is very drastic.  A confusion of small rivers and streams run everywhere,
+but there seems to be a track running east-west here.  
+~
+0 4 2
+D2
+A track ambles south.
+~
+~
+0 0 13027
+D3
+The gates of the village are closed.
+~
+gate~
+4 0 13022
+M 30 H 30
+S
+#13027
+Track through swamps~
+Swamp is all that you can see in all directions.  The smell of the water
+is putrid, and the cold of it saps your strength as your struggle your way
+through it.  Reeds and stunted cedars are the only living things here that
+you can see, but something is making a sound around here.  
+~
+0 0 2
+D0
+A track leads north.
+~
+~
+0 0 13025
+D2
+A track leads south.
+~
+~
+0 0 13028
+M 30 H 30
+S
+#13028
+Track through swamps~
+Swamp is all that you can see in all directions.  The smell of the water
+is putrid, and the cold of it saps your strength as your struggle your way
+through it.  Reeds and stunted cedars are the only living things here that
+you can see, but something is making a sound around here.  
+~
+0 0 2
+D0
+A track leads north.
+~
+~
+0 0 13027
+D2
+A track leads south.
+~
+~
+0 0 13029
+M 30 H 30
+S
+#13029
+Path through swamp~
+The ground of the swamp seems to have solidified a little bit and the
+muck is not sucking at your feet so much.  In fact, you can see footprints
+left in the soil.  Unfortunately, there are a lot of them.  
+~
+0 0 2
+D0
+A track leads north.
+~
+~
+0 0 13028
+D1
+A path leads to the east.
+~
+~
+0 0 13030
+M 30 H 30
+S
+#13030
+Path through swamp~
+The ground of the swamp seems to have solidified a little bit and the
+muck is not sucking at your feet so much.  In fact, you can see footprints
+left in the soil.  Unfortunately, there are a lot of them.  
+~
+0 0 2
+D0
+A path leads north.
+~
+~
+0 0 13031
+D3
+A path leads to the west.
+~
+~
+0 0 13029
+M 30 H 30
+S
+#13031
+Path through swamp~
+The ground of the swamp seems to have solidified a little bit and the
+muck is not sucking at your feet so much.  In fact, you can see footprints
+left in the soil.  Unfortunately, there are a lot of them.  
+~
+0 0 2
+D1
+A path leads east.
+~
+~
+0 0 13032
+D2
+A path leads south.
+~
+~
+0 0 13030
+M 30 H 30
+S
+#13032
+Path through swamp~
+The ground of the swamp seems to have solidified a little bit and the
+muck is not sucking at your feet so much.  In fact, you can see footprints
+left in the soil.  Unfortunately, there are a lot of them.  
+~
+0 0 2
+D2
+A path leads south.
+~
+~
+0 0 13033
+D3
+A path leads west.
+~
+~
+0 0 13031
+M 30 H 30
+S
+#13033
+Path through swamp~
+The ground of the swamp seems to have solidified a little bit and the
+muck is not sucking at your feet so much.  In fact, you can see footprints
+left in the soil.  Unfortunately, there are a lot of them.  
+~
+0 0 2
+D0
+A path leads north.
+~
+~
+0 0 13032
+D2
+A path leads south.
+~
+~
+0 0 13034
+M 30 H 30
+S
+#13034
+Track through swamps~
+Swamp is all that you can see in all directions.  The smell of the water
+is putrid, and the cold of it saps your strength as your struggle your way
+through it.  Reeds and stunted cedars are the only living things here that
+you can see, but something is making a sound around here.  
+~
+0 0 2
+D0
+A track leads north.
+~
+~
+0 0 13033
+D2
+A track leads south.
+~
+~
+0 0 13035
+M 30 H 30
+S
+#13035
+Track to Moathouse~
+A scrub of thorns, thistles, shrubs and weeds grow along the edge of the
+track which lead to the ruins.  Even the track is mostly overgrown and
+cluttered with fallen branches and trees.  Here and there it is washed out
+and in other places obscured in mire.  
+~
+0 4 2
+D0
+A track leads north.
+~
+~
+0 0 13034
+D2
+The choked track leads south.
+~
+~
+0 0 13036
+M 30 H 30
+S
+#13036
+The Drawbridge~
+At last, you arrive at the crumbling remains of the old moathouse.  The
+moathouse was built on a small rocky island that rises out of the swamp.  A
+crumbling drawbridge appears to be the only way across the moat which
+seperates the island from the swamps.  
+~
+0 0 2
+D0
+A path leads into the swamps.
+~
+~
+0 0 13035
+D1
+Off the side of the drawbridge is a festering moat.
+~
+~
+0 0 13037
+D2
+The gatehouse lies to the south.
+~
+~
+0 0 13039
+D3
+Off the side of the drawbridge is a festering moat.
+~
+~
+0 0 13038
+M 30 H 30
+S
+#13037
+Stagnant Moat~
+A stagnant ditch of filthy water serves as a moat.  A terrible stench
+rises out of it and gags you.  But you have more serious things to worry
+about now...  
+~
+0 0 6
+D3
+A crumbling drawbridge crosses the moat to the west.
+~
+~
+0 0 13036
+M 30 H 30
+S
+#13038
+Stagnant Moat~
+A stagnant ditch of filthy water serves as a moat.  A terrible stench
+rises out of it and gags you.  But you have more serious things to worry
+about now...  
+~
+0 0 6
+D1
+A crumbling drawbridge crosses the moat to the east.
+~
+~
+0 0 13036
+M 30 H 30
+S
+#13039
+Gate House~
+The gates of this once strong gate house lay sundered and in ruins.  But
+the large number of footprints tell you that the ruins are not empty.  Not
+by a long shot.  
+~
+0 0 0
+D0
+A crumbling drawbridge crosses the moat.
+~
+~
+0 0 13036
+D2
+Passage through the gate leads into the moathouse.
+~
+gate~
+1 13008 13040
+M 30 H 30
+S
+#13040
+Courtyard~
+This large courtyard is overgrown with weeds and cluttered with rubble. 
+At one time, this area was used for training of the fort's troops, judging
+from the rotting training devices.  Now, garrotting platforms can be seen to
+the south.  
+~
+0 0 1
+D0
+The gatehouse lies to the north.
+~
+~
+1 0 13039
+D1
+The courtyard continues east.
+~
+~
+0 0 13041
+D2
+A garrotting platform lies to the south.
+~
+~
+0 0 13043
+D3
+The courtyard continues west.
+~
+~
+0 0 13045
+M 50 H 50
+S
+#13041
+Courtyard~
+This large courtyard is overgrown with weeds and cluttered with rubble. 
+At one time, this area was used for training of the fort's troops, judging
+from the rotting training devices.
+~
+0 0 1
+D2
+The courtyard continues to the south.
+~
+~
+0 0 13042
+D3
+The courtyard continues to the west.
+~
+~
+0 0 13040
+M 30 H 30
+S
+#13042
+Courtyard~
+This large courtyard is overgrown with weeds and cluttered with rubble. 
+At one time, this area was used for training of the fort's troops, judging
+from the rotting training devices.  
+~
+0 0 1
+D0
+~
+~
+0 0 13041
+D3
+~
+~
+0 0 13043
+M 30 H 30
+S
+#13043
+Courtyard~
+This large courtyard is overgrown with weeds and littered with rubble.  A
+recently erected set of hanging gallows stands here.  Corpses that have been
+cut down rot here.  You search the bodies but find nothing.  
+~
+0 0 1
+D0
+The courtyard continues north.
+~
+~
+0 0 13040
+D1
+The courtyard continues east.
+~
+~
+0 0 13042
+D3
+The courtyard continues west.
+~
+~
+0 0 13044
+M 30 H 30
+S
+#13044
+Courtyard~
+This large courtyard is overgrown with weeds and cluttered with rubble. 
+At one time, this area was used for training of the fort's troops, judging
+from the rotting training devices.  
+~
+0 0 1
+D0
+The courtyard continues north.
+~
+~
+0 0 13045
+D1
+The courtyard continues east.
+~
+~
+0 0 13043
+M 30 H 30
+S
+#13045
+Courtyard~
+This large courtyard is overgrown with weeds and cluttered with rubble. 
+At one time, this area was used for training of the fort's troops, judging
+from the rotting training devices.  
+~
+0 0 1
+D1
+The courtyard continues east.
+~
+~
+0 0 13040
+D2
+The courtyard continues south.
+~
+~
+0 0 13044
+D3
+A passage leads into the moathouse castle.
+~
+~
+0 0 13046
+M 30 H 30
+S
+#13046
+Littered Audience Chambre~
+This was once the great audience chamber, as shown by the tattered
+banners and tapestries on the walls, destroyed furniture and heaps of
+rotting cloth thrown into corners.  Once richly appointed, it has been
+thoroughly sacked and despoiled.  Leaves and dirt cover the floor, and
+cobwebs hang from the walls.  
+~
+0 8 1
+D0
+A doorway leads into the barracks.
+~
+door~
+1 0 13054
+D1
+A courtyard is under the open sky.
+~
+~
+0 0 13045
+D3
+A hall leads further into the ruins.
+~
+~
+0 0 13047
+M 50 H 50
+S
+#13047
+The main hall~
+This is the main hall of the moathouse proper.  Old woven carpets lay
+threadbare and molding on the floors still, damaged beyond value.  Doors
+lead north and south.  The hall continues west.  
+~
+0 8 1
+D0
+A doorway leads north.
+~
+door~
+1 0 13050
+D1
+A hallway leads to the east.
+~
+~
+0 0 13046
+D2
+A doorway leads south.
+~
+door~
+1 13042 13049
+D3
+The hall continues to the west.
+~
+~
+0 0 13048
+M 50 H 50
+S
+#13048
+The main hall~
+This is the main hall of the moathouse proper.  Old woven carpets lay
+threadbare and molding on the floors still, damaged beyond value.  Doors
+lead north, south and west.
+~
+0 8 1
+D0
+A doorway leads north.
+~
+door~
+1 0 13053
+D1
+~
+~
+0 0 13047
+D2
+A doorway leads south.
+~
+door~
+1 0 13051
+D3
+A doorway leads west.
+~
+door~
+1 0 13052
+M 50 H 50
+S
+#13049
+The Lord's bedroom~
+This chamber was once the quarters of the former lord of the keep.  The
+chamber is floored in black flagstones, and has ebony-colored wall hangings
+(now burnt and tattered).  
+~
+0 8 0
+D0
+A doorway leads back to the main hall.
+~
+door~
+1 13042 13047
+M 50 H 50
+S
+#13050
+The Kitchen~
+This room seems to be a kitchen.  The remains of moldering foodstuffs and
+kitchen work tables remain.  There is a cask near the north wall by the
+fireplace.  
+~
+0 8 0
+D2
+A doorway leaves south.
+~
+door~
+1 0 13047
+M 50 H 50
+S
+#13051
+Sitting room~
+Once an opulent room, this place is now a disaster.  Broken bits of
+furntiure are strewn about the floor, and deep scorch marks mar the walls.  
+~
+0 520 0
+D0
+A doorway leads back into the main hall.
+~
+door~
+1 0 13048
+M 50 H 50
+S
+#13052
+Choked Staircase~
+A littered staircase leads into the upper and lower levels of the
+fortress proper.  A set of double doors at the top of the stairs leading
+down lie borken.  One lies flat on the floor, the other sundered.  The
+stairs leading up are choked with rubble.  There is no way that you can get
+up there.  
+~
+0 8 0
+D1
+A doorway leads into the main hall.
+~
+door~
+1 0 13048
+D5
+A stairway leads into the darkness.
+~
+~
+0 0 13055
+M 50 H 50
+S
+#13053
+Trophy Room~
+This room may once have been a trophy room.  A few antlers and stuffed
+heads remain.  
+~
+0 8 0
+D2
+A doorway leads into the main hall.
+~
+door~
+1 0 13048
+M 50 H 50
+S
+#13054
+Barracks~
+This room's former use is now obliterated in refuse and grafitti. 
+Makeshift beds are scattered about.  The smell of unwashed flesh reeks in
+the air.  
+~
+0 8 0
+D2
+A doorway leads south.
+~
+door~
+1 0 13046
+M 50 H 50
+S
+#13055
+Stairway to moathouse~
+You have entered the damp dungeon below the moathouse.  The sounds of
+scurrying and squeaking rats make you look around sharply.  Your light
+creates strange shadows on the moss covered walls.  
+~
+0 8 0
+D2
+A passageway leads into the prison area.
+~
+~
+0 0 13057
+D3
+~
+door~
+1 0 13056
+D4
+A dark stairway leads into the moathouse.
+~
+~
+0 0 13052
+M 50 H 50
+S
+#13056
+Supply Closet~
+This closet seems to be a supply room.  In addition to the crates of
+foodstuffs and tools, a large keg of brandy rests here.  
+~
+0 3081 0
+D1
+A doorway leads east.
+~
+~
+1 0 13055
+M 90 H 80
+S
+#13057
+Prison Area~
+This area is where the lord kept his prisoners while awaiting their
+transfer to the courts in Shandalar.  Of course, the priests of the temple
+use it for far more sinister purposes.  
+~
+0 8 0
+D0
+A passageway leads north.
+~
+~
+0 0 13055
+D1
+A blood trail leads under the door.
+~
+door~
+1 0 13063
+D2
+A hall leads to more prison cells.
+~
+~
+0 0 13059
+D3
+A doorway leads to a cell.
+~
+door~
+1 13052 13058
+M 50 H 50
+S
+#13058
+Prison Cell~
+This seems to be a prison cell.  Blood cakes the floor where prisoners
+were beaten to their deaths, rather than convert to the evil of the priests'
+faith.  
+~
+0 8 0
+D1
+The doorway leads to freedom.
+~
+~
+1 0 13057
+M 30 H 30
+S
+#13059
+Prison Area~
+Rats scurry away from you as you enter this area.  Scraping sounds carry
+to your ears from the east.  
+~
+0 8 0
+D0
+A hall leads to more cells.
+~
+~
+0 0 13057
+D1
+A glow of fire comes from the east.
+~
+~
+0 0 13061
+D2
+A doorway leads into a cell.
+~
+door~
+1 13052 13060
+D3
+A doorway leads into a cell.
+~
+door~
+1 13052 13062
+M 50 H 50
+S
+#13060
+Prison Cell~
+The moldering remains of a skeleton lie here.  You shudder to think of
+the pain the victim must have suffered, what with the broken bones.  But
+there is an occupant...  
+~
+0 8 0
+D0
+Freedom lies beyond the door.
+~
+door~
+1 0 13059
+M 30 H 30
+S
+#13061
+Torture Room~
+This room is filled with various mechanical devices.  Upon closer
+examination, you realize the devices are implements of torture.  Skeletons
+hang from the walls and dark stains can be seen on the floor and walls.  A
+fire used to heat brands and oil burns brightly in the center of the room.  
+~
+0 8 0
+D3
+To the west are the cells.
+~
+~
+0 0 13059
+M 50 H 50
+S
+#13062
+Prison Cell~
+Scraps of moldering clothing litter the floor of this cell.  Maggots
+crawl all over a scrap of a victim.  
+~
+0 8 0
+D1
+The door leads to freedom.
+~
+door~
+1 0 13059
+M 30 H 30
+S
+#13063
+Smelly Hall~
+The stench in this room is so bad, you are forced to breath through your
+mouth.  A deep growl in the back of the room causes your eyes to narrow.  
+~
+0 8 0
+D1
+~
+~
+0 0 13064
+D3
+A doorway leads west.
+~
+door~
+1 0 13057
+M 40 H 50
+S
+#13064
+Lubash's Lair~
+Lubash's lair is a wretched place indeed.  Trash of all sorts is strewn
+about the room.  In the corner, a heap of old clothes form the bedding for
+the ogre.  
+~
+0 8 0
+D1
+~
+door~
+1 0 13065
+D3
+A passageway leads west.
+~
+~
+0 0 13063
+M 50 H 50
+S
+#13065
+~
+~
+0 0 0
+D3
+~
+~
+1 0 13064
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 13023 spec_breath_acid Load to: a green slime
+S
+
+
+
+#MOBPROGS
+#13005
+if ispc $n
+ say Ah, yes.  We have barred the gates and set guards. 
+ MOB OLOAD 13007
+ give letter $n
+ say Give this to the guard, and he will open the gate for you.
+endif
+~
+#13004
+if ispc $n
+ say I am Covenant, a local farmer and sage.  This village needs your help.  Please let me explain.
+ say I am sure you are aware of the stories and legends surrounding the Temple of Elemental Evil.  Well, if you will recall, those legends say the temple was sealed by the priest of Selina, and would never again pose a threat to the world.
+ say I'm afraid this may no longer be the case.
+ say Whole herds of cattle and sheep began to disappear.  Farmers began to turn up, butchered, in their fields for no apparent reason.  Soon, entire farmhouses began burning, the families trapped inside.
+ say I began to investigate the matter, but could find no culprit, nothing.  At last, I got my first lead.
+ say I saw a group of six soldiers, carrying a deer with them.  I followed the men for some time.  At last, they led me to the ruins of the old Moathouse south of Hommlet.
+ say I had always believed that old place had been abandoned years ago.  It used to be an outpost for the Temple of Elemental Evil before the sacking.
+ say If the Moathouse is active once more, perhaps the Temple is as well.  I don't know for sure, but what I do know is, whoever is terrorizing Hommlet is operating out of the old Moathouse.
+endif
+~
+#13003
+if ispc $n
+ say Hello, and well met.
+endif
+~
+#13001
+if ispc $n
+ say Welcome to my shop.  If you see anything that may be of interest, ask me.
+endif
+~
+#13002
+if ispc $n
+ say Rumors?  Yes actually, I have heard that the Temple of Elemental Evil is active once more, up in the mountains.  I have witnessed a steady stream of troops moving through the valley.  I bet that is their destination.
+endif
+~
+#13006
+if ispc $n
+ say No one passes these gates without permission.
+endif
+~
+#13007
+if ispc $n
+say Ah, I see that you have been to Covenant.  Very well.
+mob oload 13015
+unlock east
+open east
+mob junk letter
+mob delay
+say Quickly, before the kobalds attack!!
+emote pushes you through the gate!
+mob gforce $n east
+close east
+mob at 13022 emote yells Good Luck!!
+lock east
+drop letter
+drop key
+mob junk key
+endif
+~
+#13008
+say Who's next for the rack?  Har! har! har!
+~
+#13009
+if ispc $n
+ yell Lubash mad!
+endif
+~
+#13010
+say Lubash hungry!
+~
+#13011
+if has $i food
+mob oload 13053
+drop coin
+emote points at the coins.
+emote slaps you on the shoulder.
+eat $o
+emote belches.  Ahh, that was good.
+endif
+~
+#0
+
+#RESETS
+D 0 13005 0 1
+D 0 13010 0 1
+D 0 13010 2 1
+D 0 13011 0 1
+D 0 13011 2 1
+D 0 13012 2 1
+D 0 13013 2 1
+D 0 13014 0 1
+D 0 13015 0 1
+D 0 13018 2 1
+D 0 13022 1 2
+D 0 13025 3 2
+D 0 13039 2 2
+D 0 13040 0 2
+D 0 13046 0 1
+D 0 13047 0 1
+D 0 13047 2 2
+D 0 13048 0 1
+D 0 13048 2 1
+D 0 13048 3 1
+D 0 13049 0 2
+D 0 13050 2 1
+D 0 13051 0 1
+D 0 13052 1 1
+D 0 13053 2 1
+D 0 13054 2 1
+D 0 13055 3 1
+D 0 13056 1 1
+D 0 13057 1 1
+D 0 13057 3 2
+D 0 13058 1 2
+D 0 13059 2 2
+D 0 13059 3 2
+D 0 13060 0 2
+D 0 13062 1 2
+D 0 13063 3 1
+D 0 13064 1 1
+D 0 13065 3 1
+M 1 13016 3 13005 3
+M 1 13001 1 13007 1
+E 0 13001 0 16
+O 0 13016 0 13007
+O 0 13017 0 13007
+M 1 13002 2 13008 1
+E 0 13002 0 17
+P 0 13003 1 13002 1
+O 0 13006 0 13008
+O 0 13018 0 13009
+M 1 13003 1 13009 1
+E 0 13004 0 0
+E 0 13004 0 0
+E 0 13003 0 0
+E 0 13005 0 0
+O 0 13006 0 13009
+M 1 13002 2 13009 1
+O 0 13020 0 13012
+O 0 13019 0 13012
+O 0 13019 0 13013
+O 0 13020 0 13013
+O 0 13020 0 13014
+O 0 13019 0 13014
+M 1 13005 1 13015 1
+M 1 13006 1 13016 1
+E 0 13021 0 0
+E 0 13027 0 0
+E 0 13026 0 0
+E 0 13025 0 0
+E 0 13024 0 0
+E 0 13023 0 0
+E 0 13022 0 0
+E 0 13021 0 0
+M 1 13007 1 13017 1
+E 0 13033 0 0
+E 0 13033 0 0
+E 0 13032 0 0
+E 0 13031 0 0
+E 0 13030 0 0
+E 0 13029 0 0
+E 0 13028 0 0
+M 1 13008 1 13018 1
+M 1 13009 1 13019 1
+E 0 13034 0 16
+M 1 13010 1 13020 1
+M 1 13011 1 13021 1
+E 0 13039 0 0
+E 0 13039 0 0
+E 0 13038 0 0
+E 0 13037 0 0
+E 0 13036 0 0
+E 0 13035 0 0
+M 1 13019 6 13022 2
+E 0 13009 0 16
+E 0 13010 0 5
+E 0 13011 0 11
+M 1 13012 1 13022 1
+E 0 13009 0 16
+E 0 13010 0 5
+E 0 13011 0 11
+M 1 13019 6 13023 2
+E 0 13009 0 16
+E 0 13010 0 5
+E 0 13011 0 11
+M 1 13019 6 13024 2
+E 0 13009 0 16
+E 0 13010 0 5
+E 0 13011 0 11
+O 0 13040 0 13025
+M 1 13013 15 13029 3
+E 0 13012 0 16
+M 1 13013 15 13030 3
+E 0 13012 0 16
+M 1 13013 15 13031 3
+E 0 13012 0 16
+M 1 13013 15 13032 3
+E 0 13012 0 16
+M 1 13013 15 13033 3
+E 0 13012 0 16
+M 1 13014 2 13037 1
+M 1 13014 2 13038 1
+M 1 13015 20 13039 1
+E 0 13013 0 16
+E 0 13014 0 0
+M 1 13015 20 13039 1
+E 0 13013 0 16
+E 0 13014 0 0
+E 0 13008 0 0
+M 1 13015 20 13040 2
+E 0 13013 0 16
+E 0 13014 0 0
+O 0 13041 0 13043
+O 0 13041 0 13043
+M 1 13015 20 13044 1
+E 0 13013 0 16
+E 0 13014 0 5
+M 1 13015 20 13045 2
+E 0 13013 0 16
+E 0 13014 0 5
+M 1 13015 20 13047 1
+E 0 13013 0 16
+E 0 13014 0 5
+E 0 13042 0 0
+M 1 13015 20 13048 1
+E 0 13013 0 16
+E 0 13014 0 5
+O 0 13019 0 13049
+M 1 13015 20 13049 1
+E 0 13013 0 16
+E 0 13014 0 5
+M 1 13020 20 13049 1
+E 0 13043 0 16
+E 0 13044 0 3
+E 0 13032 0 7
+O 0 13045 0 13050
+M 1 13021 3 13050 3
+M 1 13015 20 13052 1
+E 0 13013 0 16
+E 0 13014 0 5
+M 1 13022 1 13053 1
+M 1 13015 20 13054 2
+E 0 13013 0 16
+E 0 13014 0 5
+M 1 13020 20 13054 1
+E 0 13043 0 16
+E 0 13044 0 3
+E 0 13032 0 7
+M 1 13023 1 13055 1
+E 0 13051 0 0
+M 1 13020 20 13057 1
+E 0 13043 0 16
+E 0 13044 0 3
+E 0 13032 0 7
+E 0 13052 0 0
+M 1 13024 2 13060 1
+E 0 13046 0 16
+M 1 13025 1 13061 1
+E 0 13047 0 6
+E 0 13048 0 16
+M 1 13024 2 13062 1
+E 0 13046 0 16
+M 1 13026 1 13064 1
+S
+
+
+
+#SHOPS
+13003 0 0 0 0 0 100 70 0 23
+13006 0 0 0 0 0 120 65 0 2300
+13007 0 0 0 0 0 120 75 0 23
+13011 2 3 4 10 26 200 40 0 23
+0
+
+
+
+#$

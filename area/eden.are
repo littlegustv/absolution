@@ -1,0 +1,363 @@
+#AREADATA
+Name Eden Clan Hall~
+Builders None~
+VNUMs 10600 10607
+Credits { All }         Eden Clan~
+Security 9
+Xcontinent 0
+End
+
+
+
+#MOBILES
+#10600
+Clan Goon~
+Goon~
+A clan goon is here, protecting the door to the north. 
+~
+A clan goon is here, stairing out into the open, in a zombie fashion. 
+~
+orc~
+ABCGT DHJQVZb 0 0
+60 6 50d10+9500 1d1+100 8d6+28 punch
+-30 -30 -30 -30
+CDEFIKNRU AB EFGQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+#10601
+brother Anderson healer~
+Brother Anderson~
+Brother Anderson stands ready to heal your wounds.  
+~
+Brother Anderson is a younger member of the brotherhood who 
+volunteered his services to Father Gabriel as Eden's clan 
+healer.  He is a friendly looking man who smiles as you ask 
+him for a spell.  
+~
+human~
+ABQVa DZ 1000 0
+40 0 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#10602
+sister sarah Clan Store keeper~
+Sister Sarah~
+Sister Sarah stands here smiling, ready to assist you. 
+~
+Sister Sarah is a young girl with a sparkle in her eye, 
+and a grin that dances on her face.  You feel warmed by  
+ her presence, and comfortable at her side.
+ 
+~
+human~
+ABQR DZ 1000 0
+1 0 1d1+999 1d1+999 10d10+10 magic
+-15 -15 -15 -15
+FGH ABCDQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#10603
+slasher jezebel~
+Jezebel~
+Jezebel is here.
+~
+The Jezebel is here.
+~
+human~
+ABCGJT DZ 0 0
+60 0 10d10+1400 17d9+100 4d7+11 punch
+-10 -10 -10 -10
+FU ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+#10604
+Clan Goon~
+Goon~
+A clan goon is here, protecting the door to the north.
+~
+A clan goon is here, stairing out into the open, in a zombie fashion.
+~
+orc~
+ABCGT DHJQVZb 0 0
+60 6 50d10+9500 1d1+100 8d6+28 punch
+-30 -30 -30 -30
+CDEFKRU AB Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+#10605
+Clan Goon~
+Goon~
+A clan goon is here, protecting the door to the north.
+~
+A clan goon is here, stairing out into the open, in a zombie fashion.
+~
+orc~
+ABCGT DHJQVZb 0 0
+60 6 50d10+9500 1d1+100 8d6+28 punch
+-30 -30 -30 -30
+CDEFKRU AB Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+#10606
+clan goon~
+a clan goon~
+A clan goon is here, protecting the door to the north. 
+~
+A clan goon is here, stairing out into the open, in a zombie fashion. 
+~
+orc~
+ABCGT DQVZ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+CDEFKRU AB Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+#10607
+clan goon~
+a clan goon~
+A clan goon is here, protecting the door to the north. 
+~
+A clan goon is here, stairing out into the open, in a zombie fashion. 
+~
+orc~
+ABCGT DHQZ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+CDEFKRU AB Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+#0
+
+
+
+#OBJECTS
+#10600
+amazon hall key~
+Amazon hall key~
+The key of Amazon clan hall is on the ground~
+~
+key PU AO
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to Amazon of the world of Redemption. 
+~
+#10601
+amazon hall key~
+Amazon hall key~
+The fake key of Amazon clan hall is on the ground~
+~
+key PU AO
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to Amazon of the world of Redemption.
+~
+#10602
+dagger bosco~
+a Bosco dagger~
+An expensive dagger is on the floor.~
+oldstyle~
+weapon FGHPTU AN
+dagger 7 6 stab AB
+50 20 450 P
+A
+19 5
+#0
+
+
+
+#ROOMS
+#10600
+Amazon Leader's Room~
+This room was an accident and is not connected to clan hall.
+~
+0 4 0
+S
+#10601
+Welcome to the Jungle~
+The strangest thing lies outside of the backdoor of John's cabin...  A dense 
+jungle.  As you journey forward, you hear women's shrieks of war and 
+men’s screams of  terror and pain.  Dare you enter?  For those that 
+belong here, notice a small, deer path to the west while everyone else 
+must go forward to enter.
+~
+0 12 0
+D0
+Exit ~
+door~
+0 0 10603
+D2
+~
+~
+0 -1 6010
+D3
+Exit ~
+door~
+0 0 10602
+S
+#10602
+Amazon Passage Way~
+Jezebel ussers all Amazons into their clan hall safely.  She ignores
+the pleas of others to open the gates.  Those who do not belong here
+must return to the east.
+~
+0 138674188 0
+D1
+Exit ~
+door~
+0 0 10601
+S
+#10603
+The Gates of The Valkyre's Stronghold~
+Looming before you are the largest, most impressive gates that you have
+ever seen... However, you wonder aloud, "Why are there these large gates
+in the middle of a dense wilderness" At that moment, you see from above, 
+women in armor diving in for the kill.
+~
+0 262156 0
+D0
+Exit ~
+door~
+4 10600 10604
+D2
+Exit ~
+door~
+0 -1 10601
+S
+#10604
+The Temple of Hera~
+You see before you a large statue of the patron Deity of the Amazons,
+Hera.  In her full, regal gown she stares down looking at you with an
+imposing visage.  You would not wish to do anything not according to her
+dictates inside of this room.  A small, bloodied altar is set up here
+devoted to Hera, where women of the Amazon culture place 'pieces' of the
+males that they slay.  
+~
+0 407109644 0
+D0
+Exit ~
+door~
+0 0 10605
+D2
+Exit ~
+door~
+0 0 10603
+D3
+Exit ~
+door~
+0 0 10606
+D5
+Exit~
+door~
+0 0 10607
+S
+#10605
+A clearing in the Jungle~
+As you walk ahead, you see a handful of women in different degrees of 
+dress, drinking out of what looks like a pool of red wine.  You feel a 
+strong camaraderie here and it makes you feel stronger, more alive.  
+Beware any non Amazon males who enter this grove, for it may mean 
+your destruction.
+~
+0 407109644 0
+E
+2~
+Generic extended description. 
+~
+D2
+Exit ~
+door~
+0 0 10604
+M 300 H 300
+S
+#10606
+The Marketplace~
+There are many stores in this area.  Only one, however, catches your 
+eye.  It seems to have everything imaginable, from the magical to the 
+mundane.  This is where you buy scraps of leather or potions with 
+unbelievable qualities.  Though the store owners prices may be extreme, 
+her cordial nature makes up for it.
+~
+0 407109644 0
+D1
+Exit ~
+door~
+0 0 10604
+S
+#10607
+The River Styx~
+You come to a large body of water appears to be flowing into the forever.  
+Tunnels expand out in every direction.  On a small Skiff stands a shrouded 
+figure, wielding only an oar.  Hand out stretched, he beckons for you to 
+come to him and asks where you wish to go.  Beware, do not pay him your 
+gold coin or you may never return.
+~
+0 407109644 0
+D0
+~
+~
+0 0 3405
+D4
+Exit~
+door~
+0 0 10604
+S
+#0
+
+
+
+#SPECIALS
+M 10600 spec_goon_kindred Load to: Goon
+M 10601 spec_cast_adept_kindred Load to: Brother Anderson
+M 10603 spec_doorman_kindred Load to: Jezebel
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 10603 0 2
+M 1 10603 1 10602 1
+M 1 10604 1 10603 1
+E 0 10601 0 17
+E 0 10602 0 16
+M 1 10605 1 10603 1
+E 0 10601 0 0
+E 0 10602 0 16
+M 1 10600 1 10603 1
+E 0 10600 0 17
+E 0 10602 0 16
+M 1 10606 1 10603 1
+E 0 10602 0 16
+M 1 10607 1 10603 1
+E 0 10602 0 16
+M 1 10601 1 10604 1
+O 0 3010 0 10604
+O 0 3135 0 10605
+M 1 10602 1 10606 1
+G 0 3032 0
+G 0 3009 0
+G 0 3138 0
+G 0 9573 0
+G 0 3081 0
+G 0 3080 0
+G 0 3041 0
+G 0 3379 0
+S
+
+
+
+#SHOPS
+10602 0 0 0 0 0 90 190 0 23
+0
+
+
+
+#$

@@ -1,0 +1,2638 @@
+#AREADATA
+Name Fishing Hole~
+Builders None~
+VNUMs 9900 9999
+Credits { 5 20} Cauthon     Fishing Hole~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#9900
+shop shopkeeper fish fisherman retired man~
+A retired fisherman~
+An old fisherman is here, waiting to sell you something.
+~
+An old man is sitting behind the counter, dozing. As you walk in, a little bell
+attached to the door rings, and he is startled awake. Noticing the coin
+purse attached to your belt, he straightens himself up, and begins showing
+you around the shop: To the various types of tackle he sells, fishing rods
+you can rent, and other objects you might want to buy.
+~
+human~
+ABG HJTZ 200 0
+50 0 10d2+100 1d25+50 0d0+0 pound
+-300 -300 -300 -200
+0 ACDPZa 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#9901
+minnow fish~
+a minnow~
+A minnow swims by here, trying not to be eaten.
+~
+Swimming underneath the surface of the pond, you spot a tiny little fish.
+It is darting around the pond, nibbling on little bits of plants,
+trying desperately not to get eaten by a larger fish. You debate on
+whether or not catching this tiny little fellow is really worth your while.
+~
+lizard~
+AG JPT 950 0
+6 0 2d7+71 1d1+100 1d7+1 bite
+4 4 4 4
+F 0 LR I
+stand stand either 150
+AGHXbc ABCDEFHKOQVX small 0 the guilds~
+#9902
+fish trout small~
+a small trout~
+A small but delicious looking trout swims by here.
+~
+A medium sized fish is swimming around here. It swims through a small
+rock formation, the stops to look at you for a moment. At this time, you
+realise that this fish is a trout, and also that you are feeling quite
+hungry. Almost sensing this in you, the fish quickly darts off, in search
+of other prey.
+~
+lizard~
+AG J 950 0
+5 0 2d6+60 1d1+100 1d6+1 bite
+5 5 5 5
+F 0 LR I
+stand stand either 200
+AGHXbc ABCDEFHKOQVX small 0 the guilds~
+#9903
+scavenger fish~
+a scavenger fish~
+A scavenger fish swims along the bottom of the pond.
+~
+You notice a small movement on the floor of the pond. Trying to track it,
+you quickly realise that there is a small little fish at the bottom of
+the pond, trying to feed off the droppings of the other fish. You notice
+how small this fish is compared to all the other fish, and also that the
+other fish seem to largely leave it alone.
+~
+lizard~
+ACGH JT 500 0
+4 0 2d7+46 1d1+100 1d5+1 digestion
+6 6 6 6
+0 0 LR I
+stand stand male 0
+AGHMVXc ABCDEFHKOQVX small 0 the guilds~
+#9904
+small mouth smallmouth bass~
+a smallmouth bass~
+A smallmouth bass swims by here.
+~
+This seems to be a fairly large fish, as far as fish go in this pond. You
+manage to identify this is a bass, which is a fairly popular fish to try
+and catch. You wonder whether anything you have on you right now might be
+able to attract this fellow into becoming a tasty morsel for your lunch.
+~
+lizard~
+AG JT 900 0
+8 0 2d7+96 1d1+100 1d7+2 thwack
+3 3 3 3
+0 0 LR I
+stand stand either 225
+AGHXbc ABCDEFHKOQVX medium 0 the guilds~
+#9905
+sturgeon~
+a sturgeon~
+A sturgeon swims around the pond.
+~
+A fairly large fish is floating around here. You notce that this fish,
+beyond being just normally large, is really quite bloated, as if it's
+carrying some extra weight. It's moving quite slowly, and would probably
+be quite easy to catch, it would simply take a while to kill.
+~
+lizard~
+AG DJT 750 0
+11 5 5d8+120 1d1+100 2d5+2 pound
+-20 -25 -20 -10
+0 0 LR I
+stand stand female 375
+AGHXbc ABCDEFHKOQVX medium 0 the guilds~
+#9906
+electric eel~
+an electric eel~
+An electric eel is here, looking quite shocking.
+~
+A long, snake like thing is slithering through the water. You watch, 
+fascinated, as it whips it's tail back and forth to propel itself around
+the pond. You notice, also that most of the fish seem to avoid it. One
+unlucky fish fails to notice it, and is quickly zapped by a jolt of
+electricity. You decide to give this creature a little extra space.
+~
+lizard~
+AG JPT -200 0
+9 3 3d8+90 1d1+100 3d4+5 shbite
+-40 -40 -40 -10
+MN 0 JLR I
+stand stand either 150
+AGHXbc ABCDEFHKQV small 0 the guilds~
+#9907
+salmon fish~
+a salmon~
+A salmon looks at you, then swims by.
+~
+A fish is swimming around here, looking around at the scenery. It swims
+through a beam of light, and it reflects off its silvery scales. It
+swims by you, completely oblvious to your presence. Perhaps you
+could use this to your advantage when you try to catch it.
+~
+lizard~
+AG JT 700 0
+10 7 3d20+115 1d5+100 4d3+4 bite
+-35 -30 -35 -15
+0 0 LR I
+stand stand male 250
+AGHXbc ABCDEFHKOQVX medium 0 the guilds~
+#9908
+tuna fish tunafish~
+a tuna fish~
+A tuna fish swims slowly by.
+~
+A fairly large fish is slowly swimming by here. You notice a few other fish
+look over at the fish and then turn away, deciding that trying to kill
+such a large fish is simply not worth it. You look at your own weapon,
+and realise that it would take quite a while to bring down this fish. Is
+it really worth the effort to scale and clean it?
+~
+lizard~
+AG JTZ 600 0
+13 8 4d15+200 -11244d-5356+-9916 2d6+5 pound
+-40 -45 -45 -20
+C 0 LR I
+stand stand either 300
+AGHXbc ABCDEFHKOQVX medium 0 the guilds~
+#9909
+shark~
+a shark~
+A shark grins evilly at you.
+~
+A very dangerous looking shark swims by here. It looks at you at begins to head towards you, knowing it has found an easy meal. Just before it approches you, it gets the scent of blood, and head off in another direction.
+~
+lizard~
+AFG DJTZ -500 0
+16 12 10d5+200 1d1+100 3d3+8 blast
+-60 -60 -60 -39
+CDFM 0 LR IJ
+stand stand male 400
+AGHXbc ABCDEFHKOQV large 0 the guilds~
+M grall 9909 100~
+#9910
+oyster~
+an oyster~
+A gleaming oyster is here, closed tightly shut.
+~
+You notice a single, white shellfish lying in the sand here. It gleams
+slightly in the slight bit of light which manages to penetrate this far
+underwater. This is a single, live oyster. You seem to remember that
+sometimes, oysters can have pearls inside of them. You wonder whether
+or not this particular one may have a pearl inside of it.
+~
+unique~
+ABG HTZ 800 0
+9 0 2d6+110 1d1+100 1d6+1 pound
+-1 -1 -1 -1
+0 0 FG JO
+sit sit either 0
+ABGHQbc 0 small 0 the guilds~
+#9911
+statue soldier~
+a statue~
+A statue is standing against the wall.
+~
+An ancitent stone statue is standing here against the wall. As you watch
+it, you notice that the eyes seem to move occasionally, almost as if it
+is constantly scanning the room for something. The cobwebs which cover it,
+whoever, completely eliminate any idea that this thing is alive. It
+couldn't possibly be, after all these years. Could it?
+ 
+~
+human~
+ABFG T 400 0
+15 1 3d9+208 1d1+100 2d6+3 pound
+-2 -2 -2 -2
+CE 0 0 0
+stand stand none 600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#9912
+clam shell fish~
+a clam~
+A clam is lying on the ground here.
+~
+You notice a small, black oval shaped shell lying on the ground.
+Examining it closer, you realise that it is a tightly sealed clam
+shell, still alive. You've never seen a live clam before, but remember
+having eaten a few at a restaurant in Shandalar. You think you might
+like to try and catch this one to have for a quick snack.
+~
+lizard~
+ABG 0 650 0
+7 0 2d5+80 1d1+100 1d7+1 chomp
+2 2 2 2
+0 0 L I
+stand stand none 300
+AGXc ACDEFHKQV medium 0 the guilds~
+#9913
+stingray ray fish~
+a stingray~
+A stingray is here, lying in wait.
+~
+A fairly large, blocky rectangular fish is floating here. It doesn't seem
+to be moving at all. It almost seems as if it is waiting for some
+prey to come for it to kill. You notice a wicked looking thing coming
+out of its back, and realize that if you were to be hit with this, it
+would probably hurt, a lot. Perhaps it may be best to avoid this
+particular fish.
+~
+lizard~
+AG Q 750 0
+11 1 2d8+134 1d1+100 1d10+2 shbite
+1 1 1 1
+F 0 L I
+stand stand none 500
+AGXc ACDEFHKQVX medium 0 the guilds~
+#9914
+fish pike~
+a pike~
+A pike is swimming around here.
+~
+You notice a really long fish swimming by here. As you watch it, you
+see that as it tries to eat some smaller fish it has very large teeth
+supported by a very strong jaw. Perhaps staying away from this particular
+fish might be a good idea, as those tooth look fairly nasty.
+~
+lizard~
+AG DV 800 0
+14 1 2d10+190 1d1+100 1d12+3 frbite
+0 0 0 0
+0 0 L I
+stand stand none 700
+AGXc ACDEFHKQVX medium 0 the guilds~
+#9915
+child fishing human boy~
+a boy~
+A boy is here, ready to go fishing.
+~
+A young boy is sitting here, waiting to go fishing. He seems to be very
+excited to go fishing, as if this is some rare and spectacular event
+for him. He has all his fishing equipment ready about him, though it doesn't
+look like very good quality stuff, and you certainly wouldn't want to
+use it. His boat, on the other hand, looks perfectly sturdy.
+~
+human~
+ABG D 999 0
+13 1 2d10+170 1d1+100 2d5+3 beating
+-1 -1 -1 -1
+DFN 0 0 0
+sit sit male 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#9916
+statue old healer~
+an old statue~
+An old statue is sitting here, gathering dust.
+~
+An old statue is standing here. It has a lot of dust covering it, as
+if no one has been in this room for a very long time. The statue seems
+to be that of a priest. There is a robe over his shoulders, and in his
+hand is extended a crystal globe. As you look closer, it looks as if the
+globe still has some sort of magical essence in it.
+~
+gargoyle~
+ABa JT 0 0
+25 2 5d10+550 1d1+100 2d10+7 none
+-7 -7 -7 -7
+0 ABCDa P LQ
+stand stand none 0
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#9900
+worm worms can~
+a can for worms~
+A can for worms sits here.~
+glass~
+container 0 AO
+10 AC 0 10 100
+1 3 50 P
+#9901
+worm worms~
+some worms~
+A few worms wriggle here.~
+~
+food 0 AO
+1 1 0 0 0
+1 1 40 P
+#9902
+fish finder fishfinder~
+a fishfinder~
+A fishfinder is here, helping you find a fish to catch.~
+metal~
+wand AGKT AO
+45 2 3 'locate object' 0
+34 5 12000 P
+A
+12 -25  
+#9903
+rod fish fishing fishingrod~
+a fishing rod~
+A fishing rod is here.~
+~
+weapon 0 AN
+polearm 2 3 pierce 0
+8 8 1500 P
+A
+18 -1  
+A
+19 3  
+#9904
+tackle box tacklebox~
+a tackle box~
+A tackle box is open here.~
+~
+container 0 AO
+30 A 0 2 100
+4 50 500 P
+#9905
+boat fish fishing~
+a fishing boat~
+A fishing boat floats here.~
+~
+boat 0 AO
+0 0 0 0 0
+2 300 1000 P
+#9906
+seaweed sea weed~
+some seaweed~
+Some seaweed is here, tangling you up.~
+weed~
+trash 0 AO
+0 0 0 0 0
+0 5 0 P
+#9907
+coral reef~
+some coral reef~
+Some coral is on the bottom of the pond.~
+~
+furniture AO 0
+0 0 0 0 0
+0 8 0 P
+#9908
+old shoe very~
+an old shoe~
+A very old shoe is rotting on the floor.~
+leather~
+armor 0 AG
+-1 -1 -1 -1 0
+0 40 20 P
+#9909
+fisherman man fisher hat fisherman's~
+a fisherman's hat~
+A fisherman's hat is here, waiting to be worn.~
+cloth~
+treasure K AE
+0 0 0 0 0
+7 50 1250 P
+A
+9 4  
+#9910
+eggs caviar sturgeon~
+some sturgeon eggs~
+Some sturgeon has laid its eggs here.~
+food~
+food 0 AO
+1 1 0 0 0
+5 1 5000 P
+#9911
+rocks~
+some rocks~
+Some rocks are here, waiting to be kicked.~
+stone~
+trash 0 AO
+0 0 0 0 0
+0 50 0 P
+#9912
+pearl~
+a pearl~
+A beatiful pearl is here.~
+gem~
+treasure A AO
+0 0 0 0 0
+1 1 8000 P
+#9913
+drift wood driftwood piece~
+a piece of driftwood~
+A piece of driftwood has settled here.~
+~
+trash 0 0
+0 0 0 0 0
+0 30 0 P
+#9914
+waterfall water fall~
+a waterfall~
+~
+water~
+portal 0 0
+0 0 0 9975 0
+0 99999 0 P
+#9915
+fountain~
+a fountain~
+An old fountain is here, still pouring water.~
+wood~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+#9916
+cauthon~
+Cauthon's weapon~
+Cauthon's weapon is here.~
+wood~
+weapon HTYe AN
+dagger 300 1 crush ACDLNPQRST
+59 0 0 P
+A
+30 4  
+A
+31 4  
+A
+29 4  
+A
+32 4  
+A
+28 4  
+A
+13 300  
+A
+20 -50  
+A
+19 30  
+A
+18 30  
+A
+17 -250  
+A
+1 5  
+A
+2 5  
+A
+5 5  
+A
+3 5  
+A
+4 5  
+A
+12 250  
+#0
+
+
+
+#ROOMS
+#9900
+A path through the woods~
+You are walking along a small path that penetrates into the woods. The
+path is fairly wide, and has had deep ruts made by many passing carts.
+The trees overhead offer some shade during the midday sun, though they keep
+well away from the path.
+~
+0 0 3
+D0
+~
+~
+0 0 9902
+D1
+~
+~
+0 0 10927
+S
+#9902
+A path through the woods~
+You are walking along a small path that penetrates into the woods. The
+path is fairly wide, and has had deep ruts made by many passing carts.
+The trees overhead offer some shade during the midday sun, though they keep
+well away from the path.
+~
+0 0 3
+D0
+~
+~
+0 -1 9903
+D2
+~
+~
+0 -1 9900
+S
+#9903
+A path through the woods~
+You are walking along a small path that penetrates into the woods. The
+path is fairly wide, and has had deep ruts made by many passing carts.
+The trees overhead offer some shade during the midday sun, though they keep
+well away from the path.
+~
+0 0 3
+D2
+~
+~
+0 -1 9902
+D3
+~
+~
+0 -1 9904
+S
+#9904
+A path through the woods~
+You are walking along a small path that penetrates into the woods. The
+path is fairly wide, and has had deep ruts made by many passing carts.
+The trees overhead offer some shade during the midday sun, though they keep
+well away from the path. You notice that the trees have begun to thin slightly,
+and you see a small building ahead and to the right. You also see
+the shimmer of water in the not too far distance.
+~
+0 0 3
+D1
+~
+~
+0 -1 9903
+D3
+~
+~
+0 -1 9905
+S
+#9905
+A clearing in the forest~
+The path has now widened into a small clearing. To the south of you are
+some more trees, though you can see nothing of interest in that direction.
+In front of you you can now see that the water is a small pond, with a
+waterfall at the far end. To the north of you is a rustic looking
+log cabin, with a sign hanging from it depicting a large worm.
+~
+0 0 2
+D0
+~
+~
+1 -1 9907
+D1
+~
+~
+0 -1 9904
+D3
+~
+~
+0 -1 9906
+S
+#9906
+By the pond~
+You are now standing directly in front of the large pond. You notice how
+clean and cool the water looks, as it is constantly being refreshed by
+the waterfall at the far end of the pond. To the north and south of you the
+path has widened as it approaches the pond, creating a large clearing up
+against the edge of the water. You can return eastward to the
+tackle shop and the rest of civilization.
+~
+0 4 2
+D0
+~
+~
+0 -1 9910
+D1
+~
+~
+0 -1 9905
+D2
+~
+~
+0 -1 9909
+D3
+~
+~
+0 -1 9908
+S
+#9907
+A tackle shop~
+As you enter the shop, you notice that from the inside it looks just as
+old and rundown as it had from the outside. The noise you make as you
+walk in has startled the fisherman awake. Noticing the change
+purse you carry, he quickly directs your attention to the fine display of
+fishing poles that line one wall. He then brings your attention to the
+wide variety of lures he sells, and any other gadget you may wish to
+help you fish.
+~
+0 8 0
+D2
+~
+~
+1 -1 9905
+S
+#9908
+The pond~
+You have just entered the pond. You shiver as the cold water laps up
+against your legs, but you soon adjust to it. If the water is too cold
+for you, or you are afraid of the little fish that live here, you can
+climb back out to the east. Otherwise, you can swim to the west into the
+deeper section of the pond, or wade north or south.
+~
+0 0 6
+D0
+~
+~
+0 -1 9912
+D1
+~
+~
+0 -1 9906
+D2
+~
+~
+0 -1 9911
+D3
+~
+~
+0 -1 9913
+S
+#9909
+By the pond~
+To the west of you is the beautiful, sparkling pond. As you watch, you can
+see several small fish swimming below the surface of the pond. Before
+your eyes, you see a fish leap out of the air and back into the
+water. In the distance, you can hear the sound of the waterfall gently
+crashing down into the pond. To the north of you, this little clearing
+extends back towards the path from which you came.
+~
+0 0 2
+D0
+~
+~
+0 -1 9906
+D3
+~
+~
+0 -1 9911
+S
+#9910
+By the pond~
+To the west of you is the beautiful, sparkling pond. As you watch, you can
+see several small fish swimming below the surface of the pond. Before
+your eyes, you see a fish leap out of the air and back into the
+water. In the distance, you can hear the sound of the waterfall gently
+crashing down into the pond. To the south of you, this little clearing
+extends back towards the path from which you came.
+~
+0 0 2
+D2
+~
+~
+0 -1 9906
+D3
+~
+~
+0 -1 9912
+S
+#9911
+The pond~
+You have just entered the pond. You shiver as the cold water laps up
+against your legs, but you soon adjust to it. If the water is too cold
+for you, or you are afraid of the little fish that live here, you can
+climb back out to the west. Otherwise, you can swim to the west into the
+deeper section of the pond, or wade north or south.
+~
+0 0 6
+D0
+~
+~
+0 -1 9908
+D1
+~
+~
+0 -1 9909
+D2
+~
+~
+0 -1 9914
+D3
+~
+~
+0 -1 9916
+S
+#9912
+The pond~
+You have just entered the pond. You shiver as the cold water laps up
+against your legs, but you soon adjust to it. If the water is too cold
+for you, or you are afraid of the little fish that live here, you can
+climb back out to the east. Otherwise, you can swim to the west into the
+deeper section of the pond, or wade north or south.
+~
+0 0 6
+D0
+~
+~
+0 -1 9921
+D1
+~
+~
+0 -1 9910
+D2
+~
+~
+0 -1 9908
+D3
+~
+~
+0 -1 9920
+S
+#9913
+A deeper section of the pond~
+You notice here that you can no longer wade in the water. You are treading
+water here, or else flying just above the surface of the water. There are
+plenty of fish about you, wondering what this strange creature is which is
+invading their territory. The water is so deep that you can't
+see all the way to the bottom. If you like, you can head underwater,
+to try and see what's down there.
+~
+0 0 6
+D0
+~
+~
+0 -1 9920
+D1
+~
+~
+0 -1 9908
+D2
+~
+~
+0 -1 9916
+D3
+~
+~
+0 -1 9928
+D5
+~
+~
+0 -1 9919
+S
+#9914
+The pond~
+You are standing in knee deep water, at the edge of the pond. The ground
+around you has risen up so you cannot climb out of the pond here,
+although it seems to slope down towards the north. The rest of the pond is
+around you, getting deeper towards the west.
+~
+0 0 6
+D0
+~
+~
+0 -1 9911
+D3
+~
+~
+0 -1 9915
+S
+#9915
+A deeper section of the pond~
+You notice here that you can no longer wade in the water. You are treading
+water here, or else flying just above the surface of the water. There are
+plenty of fish about you, wondering what this strange creature is which is
+invading their territory. The water is so deep that you can't
+see all the way to the bottom. If you like, you can head underwater,
+to try and see what's down there.
+~
+0 0 6
+D0
+~
+~
+0 -1 9916
+D1
+~
+~
+0 -1 9914
+D3
+~
+~
+0 -1 9930
+D5
+~
+~
+0 -1 9917
+S
+#9916
+A deeper section of the pond~
+You notice here that you can no longer wade in the water. You are treading
+water here, or else flying just above the surface of the water. There are
+plenty of fish about you, wondering what this strange creature is which is
+invading their territory. The water is so deep that you can't
+see all the way to the bottom. If you like, you can head underwater,
+to try and see what's down there.
+~
+0 0 12
+D0
+~
+~
+0 -1 9913
+D1
+~
+~
+0 -1 9911
+D2
+~
+~
+0 -1 9915
+D3
+~
+~
+0 -1 9929
+D5
+~
+~
+0 -1 9918
+S
+#9917
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fish that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D0
+~
+~
+0 -1 9918
+D3
+~
+~
+0 -1 9932
+D4
+~
+~
+0 -1 9915
+S
+#9918
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fish that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D0
+~
+~
+0 -1 9919
+D2
+~
+~
+0 -1 9917
+D3
+~
+~
+0 -1 9933
+D4
+~
+~
+0 -1 9916
+S
+#9919
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fishes that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D0
+~
+~
+0 -1 9923
+D2
+~
+~
+0 -1 9918
+D3
+~
+~
+0 -1 9935
+D4
+~
+~
+0 -1 9913
+S
+#9920
+A deeper section of the pond~
+You notice here that you can no longer wade in the water. You are treading
+water here, or else flying just above the surface of the water. There are
+plenty of fish about you, wondering what this strange creature is which is
+invading their territory. The water is so deep that you can't
+see all the way to the bottom. If you like, you can head underwater,
+to try and see what's down there.
+~
+0 0 6
+D0
+~
+~
+0 -1 9922
+D1
+~
+~
+0 -1 9912
+D2
+~
+~
+0 -1 9913
+D3
+~
+~
+0 -1 9927
+D5
+~
+~
+0 -1 9923
+S
+#9921
+The pond~
+You are standing in knee deep water, at the edge of the pond. The ground
+around you has risen up so you cannot climb out of the pond here,
+although it seems to slope down towards the south. The rest of the pond is
+around you, getting deeper towards the west.
+~
+0 0 6
+D2
+~
+~
+0 -1 9912
+D3
+~
+~
+0 -1 9922
+S
+#9922
+A deeper section of the pond~
+You notice here that you can no longer wade in the water. You are treading
+water here, or else flying just above the surface of the water. There are
+plenty of fish about you, wondering what this strange creature is which is
+invading their territory. The water is so deep that you can't
+see all the way to the bottom. If you like, you can head underwater,
+to try and see what's down there.
+~
+0 0 6
+D1
+~
+~
+0 -1 9921
+D2
+~
+~
+0 -1 9920
+D3
+~
+~
+0 -1 9925
+D5
+~
+~
+0 -1 9924
+S
+#9923
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fish that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D0
+~
+~
+0 -1 9924
+D2
+~
+~
+0 -1 9919
+D3
+~
+~
+0 -1 9936
+D4
+~
+~
+0 -1 9920
+S
+#9924
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fishes that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D2
+~
+~
+0 -1 9923
+D3
+~
+~
+0 -1 9937
+D4
+~
+~
+0 -1 9922
+S
+#9925
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9926
+D1
+~
+~
+0 -1 9922
+D2
+~
+~
+0 -1 9927
+D3
+~
+~
+0 -1 9943
+D5
+~
+~
+0 -1 9937
+S
+#9926
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D2
+~
+~
+0 -1 9925
+D3
+~
+~
+0 -1 9942
+D5
+~
+~
+0 -1 9938
+S
+#9927
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9925
+D1
+~
+~
+0 -1 9920
+D2
+~
+~
+0 -1 9928
+D3
+~
+~
+0 -1 9944
+D5
+~
+~
+0 -1 9936
+S
+#9928
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9927
+D1
+~
+~
+0 -1 9913
+D2
+~
+~
+0 -1 9929
+D3
+~
+~
+0 -1 9945
+D5
+~
+~
+0 -1 9935
+S
+#9929
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9928
+D1
+~
+~
+0 -1 9916
+D2
+~
+~
+0 -1 9930
+D3
+~
+~
+0 -1 9946
+D5
+~
+~
+0 -1 9933
+S
+#9930
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9929
+D1
+~
+~
+0 -1 9915
+D2
+~
+~
+0 -1 9931
+D3
+~
+~
+0 -1 9947
+D5
+~
+~
+0 -1 9932
+S
+#9931
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9930
+D3
+~
+~
+0 -1 9948
+D5
+~
+~
+0 -1 9934
+S
+#9932
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fish that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D0
+~
+~
+0 -1 9933
+D1
+~
+~
+0 -1 9917
+D2
+~
+~
+0 -1 9934
+D3
+~
+~
+0 -1 9954
+D4
+~
+~
+0 -1 9930
+S
+#9933
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to dive beneath the pond. Around you, you see many colourful varieties
+of fish that you couldn't see on the surface. You realize that the
+floor of the pond of not directly beneath you, but is rather somewhere
+in the dark depths even further below, where the light doesn't penetrate.
+Do you want to try going that far down?
+~
+0 0 12
+D0
+~
+~
+0 -1 9935
+D1
+~
+~
+0 -1 9918
+D2
+~
+~
+0 -1 9932
+D3
+~
+~
+0 -1 9953
+D4
+~
+~
+0 -1 9929
+D5
+~
+~
+0 -1 9939
+S
+#9934
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fish that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D0
+~
+~
+0 -1 9932
+D3
+~
+~
+0 -1 9955
+D4
+~
+~
+0 -1 9931
+S
+#9935
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to dive beneath the pond. Around you, you see many colourful varieties
+of fish that you couldn't see on the surface. You realize that the
+floor of the pond of not directly beneath you, but is rather somewhere
+in the dark depths even further below, where the light doesn't penetrate.
+Do you want to try going that far down?
+~
+0 0 12
+D0
+~
+~
+0 -1 9936
+D1
+~
+~
+0 -1 9919
+D2
+~
+~
+0 -1 9933
+D3
+~
+~
+0 -1 9952
+D4
+~
+~
+0 -1 9928
+D5
+~
+~
+0 -1 9940
+S
+#9936
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to dive beneath the pond. Around you, you see many colourful varieties
+of fish that you couldn't see on the surface. You realize that the
+floor of the pond of not directly beneath you, but is rather somewhere
+in the dark depths even further below, where the light doesn't penetrate.
+Do you want to try going that far down?
+~
+0 0 12
+D0
+~
+~
+0 -1 9937
+D1
+~
+~
+0 -1 9923
+D2
+~
+~
+0 -1 9935
+D3
+~
+~
+0 -1 9951
+D4
+~
+~
+0 -1 9927
+D5
+~
+~
+0 -1 9941
+S
+#9937
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fish that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D0
+~
+~
+0 -1 9938
+D1
+~
+~
+0 -1 9924
+D2
+~
+~
+0 -1 9936
+D3
+~
+~
+0 -1 9950
+D4
+~
+~
+0 -1 9925
+S
+#9938
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fish that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D2
+~
+~
+0 -1 9937
+D3
+~
+~
+0 -1 9949
+D4
+~
+~
+0 -1 9926
+S
+#9939
+The bottom of the pond~
+You have made it all the way to the very, very bottom of the pond. It's
+very cold down here, and your light only makes a very small patch of light
+in the gloom. Down here you see a lot of very strange fish and plants
+which wouldn't normally live closer to the sun. It may be a better idea
+to start going back up towards the sun a bit.
+~
+0 1 12
+D0
+~
+~
+0 -1 9940
+D3
+~
+~
+0 -1 9958
+D4
+~
+~
+0 -1 9933
+S
+#9940
+The bottom of the pond~
+You have made it all the way to the very, very bottom of the pond. It's
+very cold down here, and your light only makes a very small patch of light
+in the gloom. Down here you see a lot of very strange fish and plants
+which wouldn't normally live closer to the sun. It may be a better idea
+to start going back up towards the sun a bit.
+~
+0 1 12
+D0
+~
+~
+0 -1 9941
+D2
+~
+~
+0 -1 9939
+D3
+~
+~
+0 -1 9957
+D4
+~
+~
+0 -1 9935
+S
+#9941
+The bottom of the pond~
+You have made it all the way to the very, very bottom of the pond. It's
+very cold down here, and your light only makes a very small patch of light
+in the gloom. Down here you see a lot of very strange fish and plants
+which wouldn't normally live closer to the sun. It may be a better idea
+to start going back up towards the sun a bit.
+~
+0 1 12
+D2
+~
+~
+0 -1 9940
+D3
+~
+~
+0 -1 9956
+D4
+~
+~
+0 -1 9936
+S
+#9942
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D1
+~
+~
+0 -1 9926
+D2
+~
+~
+0 -1 9943
+D5
+~
+~
+0 -1 9949
+S
+#9943
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9942
+D1
+~
+~
+0 -1 9925
+D2
+~
+~
+0 -1 9944
+D3
+~
+~
+0 -1 9965
+D5
+~
+~
+0 -1 9950
+S
+#9944
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9943
+D1
+~
+~
+0 -1 9927
+D2
+~
+~
+0 -1 9945
+D3
+~
+~
+0 -1 9964
+D5
+~
+~
+0 -1 9951
+S
+#9945
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9944
+D1
+~
+~
+0 -1 9928
+D2
+~
+~
+0 -1 9946
+D3
+~
+~
+0 -1 9963
+D5
+~
+~
+0 -1 9952
+S
+#9946
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9945
+D1
+~
+~
+0 -1 9929
+D2
+~
+~
+0 -1 9947
+D3
+~
+~
+0 -1 9962
+D5
+~
+~
+0 -1 9953
+S
+#9947
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9946
+D1
+~
+~
+0 -1 9930
+D2
+~
+~
+0 -1 9948
+D3
+~
+~
+0 -1 9961
+D5
+~
+~
+0 -1 9954
+S
+#9948
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9947
+D1
+~
+~
+0 -1 9931
+D3
+~
+~
+0 -1 9960
+D5
+~
+~
+0 -1 9955
+S
+#9949
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fish that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D1
+~
+~
+0 -1 9938
+D2
+~
+~
+0 -1 9950
+D4
+~
+~
+0 -1 9942
+S
+#9950
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fish that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D0
+~
+~
+0 -1 9949
+D1
+~
+~
+0 -1 9937
+D2
+~
+~
+0 -1 9951
+D3
+~
+~
+0 -1 9970
+D4
+~
+~
+0 -1 9943
+S
+#9951
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to dive beneath the pond. Around you, you see many colourful varieties
+of fish that you couldn't see on the surface. You realize that the
+floor of the pond is not directly beneath you, but is rather somewhere
+in the dark depths even further below, where the light doesn't penetrate.
+Do you want to try going that far down?
+~
+0 0 12
+D0
+~
+~
+0 -1 9950
+D1
+~
+~
+0 -1 9936
+D2
+~
+~
+0 -1 9952
+D3
+~
+~
+0 -1 9969
+D4
+~
+~
+0 -1 9944
+D5
+~
+~
+0 -1 9956
+S
+#9952
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to dive beneath the pond. Around you, you see many colourful varieties
+of fish that you couldn't see on the surface. You realize that the
+floor of the pond is not directly beneath you, but is rather somewhere
+in the dark depths even further below, where the light doesn't penetrate.
+Do you want to try going that far down?
+~
+0 0 12
+D0
+~
+~
+0 -1 9951
+D1
+~
+~
+0 -1 9935
+D2
+~
+~
+0 -1 9953
+D3
+~
+~
+0 -1 9968
+D4
+~
+~
+0 -1 9945
+D5
+~
+~
+0 -1 9957
+S
+#9953
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to dive beneath the pond. Around you, you see many colourful varieties
+of fish that you couldn't see on the surface. You realize that the
+floor of the pond is not directly beneath you, but is rather somewhere
+in the dark depths even further below, where the light doesn't penetrate.
+Do you want to try going that far down?
+~
+0 0 12
+D0
+~
+~
+0 -1 9952
+D1
+~
+~
+0 -1 9933
+D2
+~
+~
+0 -1 9954
+D3
+~
+~
+0 -1 9967
+D4
+~
+~
+0 -1 9946
+D5
+~
+~
+0 -1 9958
+S
+#9954
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fish that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D0
+~
+~
+0 -1 9953
+D1
+~
+~
+0 -1 9932
+D2
+~
+~
+0 -1 9955
+D3
+~
+~
+0 -1 9966
+D4
+~
+~
+0 -1 9947
+S
+#9955
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fishes that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D0
+~
+~
+0 -1 9954
+D1
+~
+~
+0 -1 9934
+D4
+~
+~
+0 -1 9948
+S
+#9956
+The bottom of the pond~
+You have made it all the way to the very, very bottom of the pond. It's
+very cold down here, and your light only makes a very small patch of light
+in the gloom. Down here you see a lot of very strange fish and plants
+which wouldn't normally live closer to the sun. It may be a better idea
+to start going back up towards the sun a bit.
+~
+0 1 12
+D1
+~
+~
+0 -1 9941
+D2
+~
+~
+0 -1 9957
+D3
+~
+~
+0 -1 9959
+D4
+~
+~
+0 -1 9951
+S
+#9957
+The bottom of the pond~
+You have made it all the way to the very, very bottom of the pond. It's
+very cold down here, and your light only makes a very small patch of light
+in the gloom. Down here you see a lot of very strange fish and plants
+which wouldn't normally live closer to the sun. It may be a better idea
+to start going back up towards the sun a bit.
+~
+0 1 12
+D0
+~
+~
+0 -1 9956
+D1
+~
+~
+0 -1 9940
+D2
+~
+~
+0 -1 9958
+D4
+~
+~
+0 -1 9952
+S
+#9958
+The bottom of the pond~
+You have made it all the way to the very, very bottom of the pond. It's
+very cold down here, and your light only makes a very small patch of light
+in the gloom. Down here you see a lot of very strange fish and plants
+which wouldn't normally live closer to the sun. It may be a better idea
+to start going back up towards the sun a bit.
+~
+0 1 12
+D0
+~
+~
+0 -1 9957
+D1
+~
+~
+0 -1 9939
+D4
+~
+~
+0 -1 9953
+S
+#9959
+An underwater cave~
+You are deep below the water in an underwater cave.  Despite your light,
+you can barely see anything around the room, beyond that the ceiling is low,
+the walls are close around you, and you want to get out of here.  
+~
+0 1 12
+D1
+~
+~
+0 -1 9956
+M 130 H 100
+S
+#9960
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9961
+D1
+~
+~
+0 -1 9948
+S
+#9961
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9962
+D1
+~
+~
+0 -1 9947
+D2
+~
+~
+0 -1 9960
+D3
+~
+~
+0 -1 9971
+D5
+~
+~
+0 -1 9966
+S
+#9962
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9963
+D1
+~
+~
+0 -1 9946
+D2
+~
+~
+0 -1 9961
+D3
+~
+~
+0 -1 9972
+D5
+~
+~
+0 -1 9967
+S
+#9963
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9964
+D1
+~
+~
+0 -1 9945
+D2
+~
+~
+0 -1 9962
+D3
+~
+~
+0 -1 9973
+D5
+~
+~
+0 -1 9968
+S
+#9964
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 -1 9965
+D1
+~
+~
+0 -1 9944
+D2
+~
+~
+0 -1 9963
+D3
+~
+~
+0 -1 9974
+D5
+~
+~
+0 -1 9969
+S
+#9965
+A deeper section of the pond~
+You're on the surface of the pond, either treading water or somehow flying
+just above the surface of the pond. You notice many, many fish swimming just
+beneath the surface, and debate whether any of these are worth catching.
+If you want to, you can head deeper underwater, and see if there are any
+larger fish below the waves.
+~
+0 0 6
+D0
+~
+~
+0 0 31473
+D1
+~
+~
+0 -1 9943
+D2
+~
+~
+0 -1 9964
+D5
+~
+~
+0 -1 9970
+S
+#9966
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fish that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D0
+~
+~
+0 -1 9967
+D1
+~
+~
+0 -1 9954
+D4
+~
+~
+0 -1 9961
+S
+#9967
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fish that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D0
+~
+~
+0 -1 9968
+D1
+~
+~
+0 -1 9953
+D2
+~
+~
+0 -1 9966
+D4
+~
+~
+0 -1 9962
+S
+#9968
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fishes that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D0
+~
+~
+0 -1 9969
+D1
+~
+~
+0 -1 9952
+D2
+~
+~
+0 -1 9967
+D4
+~
+~
+0 -1 9963
+S
+#9969
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fish that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D0
+~
+~
+0 -1 9970
+D1
+~
+~
+0 -1 9951
+D2
+~
+~
+0 -1 9968
+D4
+~
+~
+0 -1 9964
+S
+#9970
+Underwater~
+Your curiosity has obviously gotten the better of you, as you have decided
+to hold your breath and dive beneath the surface of the pond. Down here,
+you can see various fish that are quite colourfully decorated, as
+well as many plants which look fairly exotic. The seaweed threatens to
+entangle you, but you manage to keep free of it.
+~
+0 0 12
+D1
+~
+~
+0 -1 9950
+D2
+~
+~
+0 -1 9969
+D4
+~
+~
+0 -1 9965
+S
+#9971
+The pond~
+The ground on the shore next to you is too steep for you to scramble up,
+and the trees are too thick for you to scramble up. You can feel a bit
+of a current that gently seems to pull you towards the other side of the
+pond. You notice the waterfall just ahead of you. The fish are swimming
+in and out of the seaweed, making them difficult to catch.
+~
+0 0 6
+D0
+~
+~
+0 -1 9972
+D1
+~
+~
+0 -1 9961
+S
+#9972
+The pond~
+You are directly in front of the waterfall. The water here is just too
+steep for you to stand in, so falling off this waterfall would likely
+lead to an untimely death. The seaweed beneath you threatens to entangle you.
+As you look at the waterfall, it seems like there is a dark
+patch in it somewhere, like you could enter the waterfall and go into
+some hidden cavern.
+~
+0 0 6
+D0
+~
+~
+0 -1 9973
+D1
+~
+~
+0 -1 9962
+D2
+~
+~
+0 -1 9971
+S
+#9973
+The pond~
+You are directly in front of the waterfall. The water here is just too
+steep for you to stand in, so falling off this waterfall would likely
+lead to an untimely death. The seaweed beneath you threatens to entangle you.
+As you look at the waterfall, you notice that it seem like there is a dark
+patch in it somewhere, like you could enter the waterfall and go into
+some hidden cavern.
+~
+0 0 6
+D0
+~
+~
+0 -1 9974
+D1
+~
+~
+0 -1 9963
+D2
+~
+~
+0 -1 9972
+S
+#9974
+The pond~
+The ground on the shore next to you is too steep for you to scramble up,
+and the trees are too thick for you to scramble up. You can feel a bit
+of a current that gently seems to pull you towards the other side of the
+pond. You notice the waterfall just ahead of you. The fish are swimming
+in and out of the seaweed, making them difficult to catch.
+~
+0 0 6
+D1
+~
+~
+0 -1 9964
+D2
+~
+~
+0 -1 9973
+S
+#9975
+Behind the waterfall~
+You have stepped behind the waterfall. The cavern here is somewhat damp,
+and you hear the occasional sharp drip from the wall of the cave. Behind
+you, the waterfall cascades majestically downward, and a rainbow effect
+is created. Lining the walls of the caves are many pictures of faces and
+people that you don't recognize. There are a few places for torches to be
+held and a few inset ledges where vases may once have stood. You feel
+an air of solemnity about this place, a certain feeling of peace that you
+may be disturbing. Perhaps turning around and leaving would be the
+best idea.
+~
+0 5 0
+D1
+~
+~
+0 0 9973
+D3
+~
+~
+0 0 9976
+S
+#9976
+A long passage~
+You have entered from the more natural looking cave into an obviously
+man-made tunnel. There are loops at regular intervals in which you could
+put a torch. On the walls are shelves for pottery of some sort, which have
+long been pillaged. Tattered remains of tapestries line the walls,
+and there are many, many inscriptions on the walls. They depict what
+seems to be at times combat, at times peace, at times normal life, or
+prayer. There seems to be in all of them a figure with a halo around
+his head... though you do not recognize whoever this figure is supposed
+to represent.
+~
+0 1 0
+D1
+~
+~
+0 0 9975
+D3
+~
+~
+0 0 9977
+S
+#9977
+A long passage~
+You have entered from the more natural looking cave into an obviously
+man-made tunnel. There are loops at regular intervals in which you could
+put a torch. On the walls are shelves for pottery of some sort, which have
+long been pillaged. Tattered remains of tapestries line the walls,
+and there are many, many inscriptions on the walls. They depict what
+seems to be at times combat, at times peace, at times normal life, or
+prayer. There seems to be in all of them a figure with a halo around
+his head... though you do not recognize whoever this figure is supposed
+to represent.
+~
+0 1 0
+D1
+~
+~
+0 0 9976
+D3
+~
+~
+0 0 9978
+S
+#9978
+A long passage~
+You have entered from the more natural looking cave into an obviously
+man-made tunnel. There are loops at regular intervals in which you could
+put a torch. On the walls are shelves for pottery of some sort, which have
+long been pillaged. Tattered remains of tapestries line the walls,
+and there are many, many inscriptions on the walls. They depict what
+seems to be at times combat, at times peace, at times normal life, or
+prayer. There seems to be in all of them a figure with a halo around
+his head... though you do not recognize whoever this figure is supposed
+to represent.
+~
+0 1 0
+D1
+~
+~
+0 0 9977
+D3
+~
+~
+0 0 9979
+S
+#9979
+A long passage~
+You have reached a small, comfortable looking room. Despite being ancient
+and now unfurnished, the room still contains an aura of calm and relaxation.
+You feel as if you are being watched, but by a safe, comforting pair of
+eyes. There's is a long stone bench inset into one wall, and it still looks as
+if it is quite comfortable. There is a large tapestry, somehow unfaded at
+all, of some figure which you do not recognize. He seems to have a halo
+around him, and he radiates a certain feeling of power, even from within the
+tapestry. It is these eyes which you feel watching over you, from thousands
+of years ago, to give you a feeling of peace and security.
+ 
+~
+0 536870916 0
+D1
+~
+~
+0 0 9978
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#9909
+if hpcnt $n <= 80
+mob echo The shark is incensed by the scent of blood.
+mob kill $n
+endif
+
+~
+A
+#0
+
+#RESETS
+M 1 9900 1 9907 1
+G 0 9902 0
+G 0 9901 0
+G 0 9903 0
+G 0 9904 0
+G 0 9909 0
+G 0 9900 0
+M 1 9915 1 9908 1
+O 0 9905 0 9908
+M 1 9901 8 9911 1
+M 1 9904 7 9912 1
+M 1 9902 7 9913 1
+M 1 9913 8 9914 1
+M 1 9904 7 9915 1
+M 1 9912 6 9916 1
+O 0 9907 0 9917
+M 1 9902 7 9918 1
+O 0 9911 0 9918
+M 1 9903 4 9919 1
+O 0 9906 0 9919
+M 1 9901 8 9920 1
+M 1 9902 7 9921 1
+M 1 9907 7 9922 1
+M 1 9908 7 9923 1
+M 1 9906 6 9923 1
+O 0 9913 0 9923
+M 1 9913 8 9924 1
+O 0 9907 0 9924
+M 1 9903 4 9925 1
+M 1 9913 8 9926 1
+M 1 9902 7 9927 1
+M 1 9908 7 9928 1
+M 1 9901 8 9929 1
+M 1 9901 8 9929 1
+M 1 9907 7 9930 1
+M 1 9914 6 9931 1
+M 1 9904 7 9931 1
+M 1 9913 8 9932 1
+O 0 9913 0 9932
+O 0 9913 0 9932
+O 0 9913 0 9932
+M 1 9914 6 9933 1
+M 1 9906 6 9934 1
+O 0 9908 0 9934
+O 0 9909 0 9934
+M 1 9906 6 9935 1
+M 1 9901 8 9936 1
+M 1 9906 6 9937 1
+O 0 9906 0 9937
+M 1 9905 1 9937 1
+G 0 9910 0
+M 1 9912 6 9938 1
+M 1 9902 7 9938 1
+O 0 9911 0 9938
+M 1 9912 6 9939 1
+M 1 9909 1 9939 1
+M 1 9913 8 9940 1
+M 1 9914 6 9941 1
+M 1 9907 7 9941 1
+M 1 9914 6 9942 1
+M 1 9901 8 9942 1
+M 1 9904 7 9943 1
+M 1 9908 7 9944 1
+M 1 9907 7 9946 1
+M 1 9902 7 9947 1
+M 1 9901 8 9948 1
+M 1 9908 7 9949 1
+O 0 9908 0 9949
+O 0 9913 0 9949
+M 1 9907 7 9950 1
+O 0 9911 0 9950
+M 1 9904 7 9952 1
+M 1 9904 7 9954 1
+O 0 9907 0 9954
+M 1 9908 7 9955 1
+O 0 9907 0 9955
+M 1 9903 4 9956 1
+M 1 9905 2 9957 1
+M 1 9906 6 9957 1
+M 1 9908 7 9958 1
+M 1 9910 1 9959 1
+E 0 9912 0 17
+M 1 9912 6 9960 1
+M 1 9913 8 9960 1
+M 1 9914 6 9962 1
+M 1 9907 7 9964 1
+M 1 9902 7 9965 1
+M 1 9903 4 9966 1
+O 0 9906 0 9966
+M 1 9908 7 9967 1
+O 0 9913 0 9967
+M 1 9913 8 9968 1
+O 0 9911 0 9968
+M 1 9912 6 9969 1
+O 0 9906 0 9969
+M 1 9906 6 9970 1
+O 0 9913 0 9970
+M 1 9914 6 9971 1
+M 1 9913 8 9971 1
+M 1 9901 8 9972 1
+O 0 9914 0 9972
+M 1 9904 7 9973 1
+O 0 9914 0 9973
+M 1 9912 6 9974 1
+M 1 9907 7 9974 1
+M 1 9911 6 9976 2
+M 1 9911 6 9977 2
+M 1 9911 6 9978 2
+M 1 9916 1 9979 1
+O 0 9915 0 9979
+S
+
+
+
+#SHOPS
+9900 19 0 0 0 0 175 50 0 24
+0
+
+
+
+#$

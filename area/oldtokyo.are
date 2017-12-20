@@ -1,0 +1,1649 @@
+#AREADATA
+Name Old Tokyo~
+Builders Tommy~
+VNUMs 8200 8299
+Credits [ None] Tommy   Old Tokyo~
+Security 1
+Xcontinent 0
+End
+
+
+
+#MOBILES
+#8200
+vendor shopkeeper~
+a vendor~
+A Vendor is here, selling his wares
+~
+This greedy man is selling potions and trinkets to the fans and as well
+as the contestants..  If you run out, he is the man to see.  I would suggest
+that you stock up now, he will not be in the arena when the fighting begins.
+He is kind of expensive, but those potions are worth it in a bind.  
+~
+human~
+AB HS -1000 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#8201
+cleric healer arena~
+a healer~
+The Arena's cleric is here, selling spells.
+~
+Although retired from adventuring, the healer still lends a hand for a
+large price.  Type 'heal' to see what he has to offer.  
+~
+human~
+ABa DFH 0 0
+40 0 1d1+999 1d1+999 2d4+30 none
+-15 -15 -15 -15
+FHIK ABCDK 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium 0
+#8202
+the Champion of the Arena~
+the Champion of the Arena~
+The Champion of the Arena
+~
+The ultimate warrior.  A master of all forms of combat.  To tangle with
+him is to tangle with death.  He is larger then Tetragon, and more nasty. 
+If you see him, go the other way 
+~
+giant~
+AHST CDFHVa -1000 0
+60 56 15d200+2000 55d10+100 19d19+65 wrath
+-17 -17 -17 -17
+ABC ABC HI JP
+stand stand male 30000
+AHMV ABCDEFGHIJK giant 0
+#0
+
+
+
+#OBJECTS
+#8200
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion GNW AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 5000 P
+#8201
+white off potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 1000 P
+#8202
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 5000 P
+#8203
+potion true sight~
+a potion of true sight~
+A potion of true sight is here.~
+glass~
+potion G AO
+10 'detect invis' 'detect magic' '(null)' '(null)'
+4 10 2000 P
+#8204
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 5000 P
+#8205
+a silver marble~
+a small silver marble~
+A small marble is here~
+silver~
+throwing 0 AO
+4 2 pierce 20 'invisibility'
+10 1 500 P
+#8206
+a Tommy doll~
+a Tommy doll~
+A Tommy doll~
+cloth~
+gem T AO
+0 0 0 0 0
+1 0 5500 P
+#0
+
+
+
+#ROOMS
+#8200
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8201
+S
+#8201
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8204
+D1
+~
+~
+0 0 8203
+D2
+~
+~
+0 0 8200
+D3
+~
+~
+0 0 8202
+S
+#8202
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D1
+~
+~
+0 0 8201
+S
+#8203
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D3
+~
+~
+0 0 8201
+S
+#8204
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8205
+D2
+~
+~
+0 0 8201
+S
+#8205
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8208
+D1
+~
+~
+0 0 8207
+D2
+~
+~
+0 0 8204
+D3
+~
+~
+0 0 8206
+S
+#8206
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8209
+D1
+~
+~
+0 0 8205
+S
+#8207
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8210
+D3
+~
+~
+0 0 8205
+S
+#8208
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8213
+D1
+~
+~
+0 0 8210
+D2
+~
+~
+0 0 8205
+D3
+~
+~
+0 0 8209
+S
+#8209
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8214
+D1
+~
+~
+0 0 8208
+D2
+~
+~
+0 0 8206
+D3
+~
+~
+0 0 8211
+S
+#8210
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8215
+D1
+~
+~
+0 0 8212
+D2
+~
+~
+0 0 8207
+D3
+~
+~
+0 0 8208
+S
+#8211
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8216
+D1
+~
+~
+0 0 8209
+S
+#8212
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8217
+D3
+~
+~
+0 0 8210
+S
+#8213
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8220
+D1
+~
+~
+0 0 8215
+D2
+~
+~
+0 0 8208
+D3
+~
+~
+0 0 8214
+S
+#8214
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8222
+D1
+~
+~
+0 0 8213
+D2
+~
+~
+0 0 8209
+D3
+~
+~
+0 0 8216
+S
+#8215
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8221
+D1
+~
+~
+0 0 8217
+D2
+~
+~
+0 0 8210
+D3
+~
+~
+0 0 8213
+S
+#8216
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8224
+D1
+~
+~
+0 0 8214
+D2
+~
+~
+0 0 8211
+D3
+~
+~
+0 0 8218
+S
+#8217
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8223
+D1
+~
+~
+0 0 8219
+D2
+~
+~
+0 0 8212
+D3
+~
+~
+0 0 8215
+S
+#8218
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8225
+D1
+~
+~
+0 0 8216
+S
+#8219
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8226
+D3
+~
+~
+0 0 8217
+S
+#8220
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8237
+D1
+~
+~
+0 0 8221
+D2
+~
+~
+0 0 8213
+D3
+~
+~
+0 0 8222
+D5
+~
+~
+0 0 8257
+S
+#8221
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8236
+D1
+~
+~
+0 0 8223
+D2
+~
+~
+0 0 8215
+D3
+~
+~
+0 0 8220
+S
+#8222
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8239
+D1
+~
+~
+0 0 8220
+D2
+~
+~
+0 0 8214
+D3
+~
+~
+0 0 8224
+S
+#8223
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8241
+D1
+~
+~
+0 0 8226
+D2
+~
+~
+0 0 8217
+D3
+~
+~
+0 0 8221
+S
+#8224
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8240
+D1
+~
+~
+0 0 8222
+D2
+~
+~
+0 0 8216
+D3
+~
+~
+0 0 8225
+S
+#8225
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8242
+D1
+~
+~
+0 0 8224
+D2
+~
+~
+0 0 8218
+D3
+~
+~
+0 0 8232
+S
+#8226
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8243
+D1
+~
+~
+0 0 8227
+D2
+~
+~
+0 0 8219
+D3
+~
+~
+0 0 8223
+S
+#8227
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D1
+~
+~
+0 0 8228
+D3
+~
+~
+0 0 8226
+S
+#8228
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8229
+D1
+~
+~
+0 0 8231
+D2
+~
+~
+0 0 8230
+D3
+~
+~
+0 0 8227
+S
+#8229
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D2
+~
+~
+0 0 8228
+S
+#8230
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8228
+S
+#8231
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D3
+~
+~
+0 0 8228
+S
+#8232
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D1
+~
+~
+0 0 8225
+D3
+~
+~
+0 0 8233
+S
+#8233
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8235
+D1
+~
+~
+0 0 8232
+D2
+~
+~
+0 0 8234
+D3
+~
+~
+0 0 8238
+S
+#8234
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8233
+S
+#8235
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D2
+~
+~
+0 0 8233
+S
+#8236
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8245
+D1
+~
+~
+0 0 8241
+D2
+~
+~
+0 0 8221
+D3
+~
+~
+0 0 8237
+S
+#8237
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8244
+D1
+~
+~
+0 0 8236
+D2
+~
+~
+0 0 8220
+D3
+~
+~
+0 0 8239
+S
+#8238
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D1
+~
+~
+0 0 8233
+S
+#8239
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8246
+D1
+~
+~
+0 0 8237
+D2
+~
+~
+0 0 8222
+D3
+~
+~
+0 0 8240
+S
+#8240
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8247
+D1
+~
+~
+0 0 8239
+D2
+~
+~
+0 0 8224
+D3
+~
+~
+0 0 8242
+S
+#8241
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8248
+D1
+~
+~
+0 0 8243
+D2
+~
+~
+0 0 8223
+D3
+~
+~
+0 0 8236
+S
+#8242
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D1
+~
+~
+0 0 8240
+D2
+~
+~
+0 0 8225
+S
+#8243
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D2
+~
+~
+0 0 8226
+D3
+~
+~
+0 0 8241
+S
+#8244
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8249
+D1
+~
+~
+0 0 8245
+D2
+~
+~
+0 0 8237
+D3
+~
+~
+0 0 8246
+S
+#8245
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8250
+D1
+~
+~
+0 0 8248
+D2
+~
+~
+0 0 8236
+D3
+~
+~
+0 0 8244
+S
+#8246
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8251
+D1
+~
+~
+0 0 8244
+D2
+~
+~
+0 0 8239
+D3
+~
+~
+0 0 8247
+S
+#8247
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D1
+~
+~
+0 0 8246
+D2
+~
+~
+0 0 8240
+S
+#8248
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D2
+~
+~
+0 0 8241
+D3
+~
+~
+0 0 8245
+S
+#8249
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8252
+D1
+~
+~
+0 0 8250
+D2
+~
+~
+0 0 8244
+D3
+~
+~
+0 0 8251
+S
+#8250
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D2
+~
+~
+0 0 8245
+D3
+~
+~
+0 0 8249
+S
+#8251
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D1
+~
+~
+0 0 8249
+D2
+~
+~
+0 0 8246
+S
+#8252
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8253
+D2
+~
+~
+0 0 8249
+S
+#8253
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8256
+D1
+~
+~
+0 0 8255
+D2
+~
+~
+0 0 8252
+D3
+~
+~
+0 0 8254
+S
+#8254
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D1
+~
+~
+0 0 8253
+S
+#8255
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D3
+~
+~
+0 0 8253
+S
+#8256
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D2
+~
+~
+0 0 8253
+S
+#8257
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8263
+D1
+~
+~
+0 0 8259
+D2
+~
+~
+0 0 8262
+D3
+~
+~
+0 0 8258
+D4
+~
+~
+0 0 8220
+S
+#8258
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8265
+D1
+~
+~
+0 0 8257
+D2
+~
+~
+0 0 8266
+D3
+~
+~
+0 0 8260
+S
+#8259
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8264
+D1
+~
+~
+0 0 8261
+D2
+~
+~
+0 0 8269
+D3
+~
+~
+0 0 8257
+S
+#8260
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D1
+~
+~
+0 0 8258
+S
+#8261
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D3
+~
+~
+0 0 8259
+S
+#8262
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8257
+D1
+~
+~
+0 0 8269
+D2
+~
+~
+0 0 8267
+D3
+~
+~
+0 0 8266
+S
+#8263
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8268
+D1
+~
+~
+0 0 8264
+D2
+~
+~
+0 0 8257
+D3
+~
+~
+0 0 8265
+S
+#8264
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D2
+~
+~
+0 0 8259
+D3
+~
+~
+0 0 8263
+S
+#8265
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D1
+~
+~
+0 0 8263
+D2
+~
+~
+0 0 8258
+S
+#8266
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8258
+D1
+~
+~
+0 0 8262
+S
+#8267
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8262
+S
+#8268
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D2
+~
+~
+0 0 8263
+S
+#8269
+The Arena~
+This room dampens out most of your senses.  You can hear little except
+for the loud, endless roaring of the crowd.  You can smell only the blood
+and gore of the last contestants in this menagerie of death.  You can see
+only a few feet in front of you.  This is going to make for an interesting
+battle, if you can survive to see it's end.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8259
+D3
+~
+~
+0 0 8262
+S
+#8282
+Tommy's Domain~
+~
+0 12 0
+O tommy~
+S
+#8283
+The Ready Room~
+~
+0 268443672 0
+D1
+~
+~
+0 0 8220
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+M 1 8201 1 8283 1
+M 1 8200 1 8283 1
+G 0 8200 0
+G 0 8201 0
+G 0 8202 0
+G 0 8203 0
+G 0 8204 0
+G 0 8206 0
+S
+
+
+
+#SHOPS
+8200 10 10 0 0 0 200 25 0 23
+0
+
+
+
+#$

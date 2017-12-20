@@ -1,0 +1,2282 @@
+#AREADATA
+Name Beach~
+Builders Cicada~
+VNUMs 1900 1999
+Credits { 5 15} Grog        The Beach~
+Security 9
+Xcontinent 1
+Age 15
+End
+
+
+
+#MOBILES
+#1900
+scavenger~
+a scavenger~
+A scavenger is here, looking for seashells.
+~
+Smudges of dirt cover its forehead, cheeks and hands.  Long brittle,
+dirty hair hangs down to its shoulders.  There is a curve in its posture.  
+~
+human~
+ACGW 0 -999 0
+9 -1 2d5+90 1d1+100 1d6+2 punch
+2 2 2 8
+EFNU 0 0 0
+stand stand either 50
+AHMV ABCDEFGHIJK medium 0
+#1901
+louie~
+Louie the cook~
+Louie, the ferry's cook, is here slaving over a hot stove.
+~
+His head is very large and very bald.  From the size of him, there is a
+very good chance he samples more of his cooking than he sells.  
+~
+human~
+ABG 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1902
+casino dealer~
+a casino dealer~
+The casino dealer offers to let you in the game.
+~
+The dealer is dressed in a dark black tux with a fresh pressed white shirt.
+His hands move so fast that you can't tell if he is cheating or not.
+~
+human~
+ABGLV HN 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 AB 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0
+#1903
+old man~
+an old man~
+An old man is sitting here, waiting to sell you a ferry ticket.
+~
+The old man has a grizzly beard and wears a sailor's cap.
+~
+human~
+ABG 0 0 0
+54 5 50d10+6500 1d1+100 7d6+22 none
+-24 -24 -24 -24
+0 ABP 0 0
+sit stand none 0
+AHMV ABCDEFGHIJK medium 0
+#1904
+troll pirates leader~
+the pirates leader~
+The leader of the troll pirates is here, planning his next raid.
+~
+There is a black patch covering his right eye.  A grumbling sound is
+coming from him.  His leather-like hide has numerous scars.  
+~
+troll~
+ABG JO -600 0
+25 -2 5d8+450 1d1+100 2d8+6 smash
+-7 -7 -7 -2
+EFN 0 Q H
+stand stand male 1100
+BHMZ ABCDEFGHIJKLPQUVWX huge 0
+#1905
+troll pirate~
+a troll pirate~
+A troll pirate is here, looking for some loot.
+~
+Long claws stick out of the end of the pirate's gauntlets.  He searches
+the room and says, 'Whar be me treasure!  ' A fierce foe indeed.  
+~
+troll~
+ACGY JZ -300 0
+11 0 2d6+104 1d1+100 1d8+2 claw
+1 1 1 8
+EFNU 0 Q H
+stand stand male 400
+BHMZ ABCDEFGHIJKLPQUVWX huge 0
+#1906
+mountain gruff~
+a mountain gruff~
+A mountain gruff is here, searching for some food.
+~
+Large fangs protrude from the creature's open mouth.  There is gray fur
+covering the body of this animal.  Two horns stick up from its head.  
+~
+rabbit~
+ACGW 0 -500 0
+7 -1 2d5+65 1d1+100 1d6+1 bite
+4 4 4 9
+FHU 0 0 0
+stand stand either 40
+AGV ACDEFHJK medium 0
+#1907
+baby gruff~
+a baby gruff~
+A baby gruff is here, looking for its mother.
+~
+The animal is covered with short white fur.  Two tiny horns poke out of
+its head.  Its mouth is open, revealing a set of sharp teeth.  
+~
+rabbit~
+AGW 0 -300 0
+5 -1 2d5+40 1d1+100 1d4+1 scratch
+5 5 5 10
+FHR 0 0 0
+stand stand either 20
+AGV ACDEFHJK small 0
+#0
+
+
+
+#OBJECTS
+#1900
+large tapestry couch~
+a large tapestry couch~
+A large tapestry couch is here.~
+wood~
+furniture Y 0
+4 4000 EHK 100 100
+0 0 0 P
+#1901
+comfy overstuffed chair~
+a very comfy, overstuffed chair~
+A comfy, overstuffed chair is here.~
+wood~
+furniture Y 0
+1 1000 EHK 100 100
+0 0 0 P
+E
+comfy overstuffed chair~
+It looks very comfortable.  A great place to take a nap.  
+~
+#1902
+couch~
+a very comfortable couch~
+A small couch is here, with its back to the rest of the room.~
+wood~
+furniture Y 0
+2 2000 EHK 100 100
+0 0 0 P
+#1903
+large oak table~
+a large oak table~
+A large oak table is here, set with linens for a meal.~
+wood~
+furniture Y 0
+10 10000 DGJ 100 100
+0 0 0 P
+E
+large oak table~
+The table is set with expensive linens.  A great place for a meal.  
+~
+#1904
+hard wooden bench~
+a hard wooden bench~
+A hard wooden bench, which the crew sits on to row the ferry, is here.~
+wood~
+furniture Y 0
+2 2000 EHK 100 100
+0 0 0 P
+E
+hard wooden bench~
+The bench looks very uncomfortable.  It has quite a few splinters.  
+~
+#1905
+large bed~
+a very large bed~
+A very large bed is here, luckily the captain isn't in it.~
+wood~
+furniture Y 0
+2 2000 EHK 100 100
+0 0 0 P
+E
+bed~
+The bed is made from dark wood.  It is covered with soft blankets.  
+~
+#1906
+chair~
+a small chair~
+A small chair rests in the corner of the room.~
+wood~
+furniture Y 0
+1 1000 EH 100 100
+0 0 0 P
+E
+chair~
+The chair is small and doesn't look too comfortable.
+~
+#1907
+small metal pipe~
+a small metal pipe~
+Water trickles from a small metal pipe into a large sink.~
+metal~
+fountain Y 0
+1000 1000 'water' 0 0
+0 0 0 P
+E
+sink~
+Don't drink the dirty sink water! Drink from the pipe.
+~
+#1908
+bowl fish stew~
+a bowl of fish stew~
+A bowl of fish stew is steaming here.~
+food~
+food 0 A
+20 40 0 0 0
+0 20 22 P
+#1909
+breadstick~
+a breadstick~
+Someone has dropped a breadstick here.~
+food~
+food 0 A
+8 10 0 0 0
+0 10 11 P
+#1910
+yummy yummers~
+some yummy yummers~
+Someone has foolishly dropped something yummy here.~
+food~
+food 0 A
+25 50 0 0 0
+0 20 60 P
+#1911
+bertha big slot~
+a slot labelled 'Big Bertha'~
+A slot machine labelled 'Big Bertha' is in the corner.~
+wood~
+slot_machine O 0
+5 500 3 1 0
+30 1000 0 P
+#1912
+yellow sandstone~
+a yellow sandstone~
+A yellow sandstone lies on the ground here.~
+sandstone~
+gem G AQ
+0 0 0 0 0
+5 10 550 P
+A
+1 1  
+#1913
+piece red coral~
+a piece of red coral~
+A piece of red coral lies here.~
+coral~
+gem G AQ
+0 0 0 0 0
+5 10 550 P
+A
+3 1  
+#1914
+crab shell crabshell~
+a crabshell~
+The shell of a crab has been dropped here.~
+shell~
+weapon G AN
+dagger 2 3 slice 0
+8 10 590 P
+A
+19 1  
+A
+18 1  
+#1915
+sea crystal~
+a sea crystal~
+A crystal twinkles on the ground here.~
+crystal~
+gem G AQ
+0 0 0 0 0
+5 10 550 P
+A
+4 1  
+#1916
+white sandstone~
+a white sandstone~
+A white sandstone has been left here.~
+sandstone~
+gem G AQ
+0 0 0 0 0
+5 10 550 P
+A
+2 1  
+#1917
+pearl seashell~
+a pearl seashell~
+A pearl seashell twinkles on the ground.~
+shell~
+gem G AQ
+0 0 0 0 0
+5 10 550 P
+A
+5 1  
+#1918
+divining rod wooden~
+a divining rod~
+A small wooden rod lies here.~
+wood~
+wand G AO
+15 2 2 'identify' 0
+5 20 900 P
+#1919
+piece driftwood~
+a piece of driftwood~
+A piece of driftwood has washed ashore here.~
+wood~
+staff G AO
+15 1 1 'charm person' 0
+9 20 1100 P
+A
+2 -2  
+#1920
+conch shell~
+a conch shell~
+A conch shell has been dropped here.~
+shell~
+staff G AO
+13 3 3 'cure critical' 0
+9 50 2500 P
+#1921
+aged sea chart~
+an aged sea chart~
+An aged sea chart is rolled up here.~
+parchment~
+scroll G A
+25 'enchant weapon' '(null)' '(null)' '(null)'
+8 40 1200 P
+#0
+
+
+
+#ROOMS
+#1900
+Staging Area for Bosco's Breach~
+This is the staging area for Bosco's new invasion of Dominia.  He has
+forged a path through the skies and seas to allow his creatures easier
+access to Dominia.  Those paths lead here.  All around you, you see a
+gathering of Bosco's creatures, all preparing to head east, into Dominia. 
+Up above, you can see the air bridge which crosses the continents, and below
+you in the sea, you glimpse the underwater path the marids took.  Off to one
+side you notice a small, ruined hut where the ferryman used to work.  This
+is only the first casualty of the war about to come.  
+~
+0 262148 2
+D1
+~
+~
+0 0 1901
+D4
+~
+~
+0 0 4363
+D5
+~
+~
+0 0 4377
+S
+#1901
+On The Beach~
+A wide band of sand stretches to the north and south.  It seperates the
+ocean from the mountains to the east.  Directly west stands the dock of
+Dominia.  To the east, a small path winds its way through sand dunes towards
+the mountains.  
+~
+0 0 10
+D0
+~
+~
+0 0 1917
+D1
+~
+~
+0 0 1936
+D2
+~
+~
+0 0 1902
+D3
+~
+~
+0 0 1900
+S
+#1902
+On The Beach~
+Golden sands lie below you.  To the east, large boulders combine with
+sand dunes to prevent travel.  A vast ocean covers the horizon to the west. 
+The beach continues to the north and south.  
+~
+0 0 10
+D0
+~
+~
+0 0 1901
+D2
+~
+~
+0 0 1903
+S
+#1903
+On The Beach~
+Waves from the ocean to the west pound onto the beach.  The sands below
+you continue to the north, south and east.  A large mountain range can be
+seen above the beach to the distant east.  
+~
+0 0 10
+D0
+~
+~
+0 0 1902
+D1
+~
+~
+0 0 1905
+D2
+~
+~
+0 0 1904
+S
+#1904
+On The Beach~
+A tremendous cliff rises high above to the south.  The cliff towers above
+the sea, which lies west, and continues eastward into the mountains.  The
+beach reaches north and follows at the base of the cliff heading east.  
+~
+0 0 10
+D0
+~
+~
+0 0 1903
+D1
+~
+~
+0 0 1906
+S
+#1905
+On The Beach~
+Large rocks and sand dunes form a barrier to the north.  The sea can be
+seen to the far west.  A group of mountains rise above the beach to the
+distant east.  The sand continues to the west, east and south.  
+~
+0 0 10
+D1
+~
+~
+0 0 1910
+D2
+~
+~
+0 0 1906
+D3
+~
+~
+0 0 1903
+S
+#1906
+On The Beach~
+A vast ocean is visible on the western horizon.  Looking south and east,
+a small group of mountains can be seen beyond the beach.  The golden sands
+below you continue in every direction.  
+~
+0 0 10
+D0
+~
+~
+0 0 1905
+D1
+~
+~
+0 0 1909
+D2
+~
+~
+0 0 1907
+D3
+~
+~
+0 0 1904
+S
+#1907
+On The Beach~
+A sheer cliff rises above to the south and west, preventing travel in
+those directions.  The sands of the beach continue north and east.  
+~
+0 0 10
+D0
+~
+~
+0 0 1906
+D1
+~
+~
+0 0 1908
+D2
+~
+~
+0 0 13456
+S
+#1908
+On The Beach~
+A large cliff stands directly to the south.  To the east, the beginning
+of a large mountain range rises high above you.  The sand is sparse here,
+beneath it a large slab of sandstone is visible.  The beach continues to the
+north and west.  
+~
+0 0 10
+E
+slab sandstone~
+The stone is tremendous, there appear to be hinges on one side!  
+~
+D0
+~
+~
+0 0 1909
+D2
+~
+~
+0 0 13455
+D3
+~
+~
+0 0 1907
+D5
+~
+sandstone~
+1 0 1935
+S
+#1909
+On The Beach~
+A large mountain range rises up along the eastern border.  The golden
+sands of the beach continue to the north, south and west.  
+~
+0 0 10
+D0
+~
+~
+0 0 1910
+D2
+~
+~
+0 0 1908
+D3
+~
+~
+0 0 1906
+S
+#1910
+On The Beach~
+To the east, mountains reach high into the clouds.  To the distant west,
+a vast ocean is visible.  The sands of the beach continue to the north,
+south, and west.  
+~
+0 0 10
+D0
+~
+~
+0 0 1911
+D2
+~
+~
+0 0 1909
+D3
+~
+~
+0 0 1905
+S
+#1911
+By The Dunes~
+Large sand dunes combine with tremendous rocks to form a barrier to the
+west.  To the east, a large mountain range rises high above you.  The beach
+continues to the south, a small path through the dunes lies north.  
+~
+0 0 10
+D0
+~
+~
+0 0 1912
+D2
+~
+~
+0 0 1910
+S
+#1912
+By The Dunes~
+A wide path of sand runs from north to south.  The western side of the
+path is lined with large sand dunes and boulders.  A group of mountains rise
+up along the eastern perimeter.  
+~
+0 0 10
+D0
+~
+~
+0 0 1913
+D2
+~
+~
+0 0 1911
+S
+#1913
+By The Dunes~
+A path of golden sand winds its way through the sand dunes and the
+mountains.  The only directions possible to travel are north and south.  
+~
+0 0 10
+D0
+~
+~
+0 0 1914
+D2
+~
+~
+0 0 1912
+S
+#1914
+By The Dunes~
+A large mountain range rises up from the beach to the north and east. 
+The sandy path below you runs south between the mountains and sand dunes,
+and west towards the ocean.  
+~
+0 0 10
+D2
+~
+~
+0 0 1913
+D3
+~
+~
+0 0 1915
+S
+#1915
+By The Dunes~
+Large dunes of sand combine with rocks to form barriers to the north and
+south of the path.  The golden sands lead west towards the sea and east
+towards the mountains.  
+~
+0 0 10
+D1
+~
+~
+0 0 1914
+D3
+~
+~
+0 0 1916
+S
+#1916
+On The Beach~
+Waves, from the ocean to the west, crash onto the beach.  A small path of
+sand leads west between some dunes.  The beach stretches on to the north and
+south.  
+~
+0 0 10
+D0
+~
+~
+0 0 1918
+D1
+~
+~
+0 0 1915
+D2
+~
+~
+0 0 1917
+S
+#1917
+On The Beach~
+The vast Dragon Sea, to the west, sends its waves to the beach.  A
+combination of rocks and sand dunes prevent passage to the east.  The beach
+continues to the north and south.  
+~
+0 0 10
+D0
+~
+~
+0 0 1916
+D2
+~
+~
+0 0 1901
+M 100 H 10
+S
+#1918
+On The Beach~
+A sheer cliff rises up to the east of the beach.  To the west, a vast
+ocean stretches as far as the eye can see.  The golden sands of the beach
+continue to the north and south.  
+~
+0 0 10
+D0
+~
+~
+0 0 1919
+D2
+~
+~
+0 0 1916
+S
+#1919
+Half Moon Cove~
+You are at the southern point of a half circle of the shoreline.  The
+cove continues to the east.  Directly north is a small bay beyond which lies
+the northern portion of the cove.  The Dragon Sea lies to the west.  
+~
+0 0 10
+D1
+~
+~
+0 0 1920
+D2
+~
+~
+0 0 1918
+D3
+~
+~
+0 0 4827
+S
+#1920
+Half Moon Cove~
+A small bay lies to the northwest.  Beyond the bay, the vast Dragon Sea
+is visible.  The shoreline is shaped in a semicircle, hence the name of the
+cove.  The golden sands continue north and west.  
+~
+0 0 10
+D0
+~
+~
+0 0 1921
+D3
+~
+~
+0 0 1919
+S
+#1921
+Half Moon Cove~
+A large cliff lines the eastern side of the beach here.  A small bay lies
+to the west.  The cove continues to the north and south.  
+~
+0 0 10
+D0
+~
+~
+0 0 1922
+D2
+~
+~
+0 0 1920
+S
+#1922
+Half Moon Cove~
+A tremendous cliff prevents travel to the east.  Gentle waves roll onto
+the shoreline from the bay to the southwest.  The cove continues to the
+north, south and west.  
+~
+0 0 10
+D0
+~
+~
+0 0 1925
+D2
+~
+~
+0 0 1921
+D3
+~
+~
+0 0 1923
+S
+#1923
+Half Moon Cove~
+Waves roll onto the beach from the sea to the west.  Smaller waves also
+arrive from the bay which lies south.  The cove continues to the north and
+east.  
+~
+0 0 10
+D0
+~
+~
+0 0 1924
+D1
+~
+~
+0 0 1922
+S
+#1924
+Half Moon Cove~
+To the north, a large mountain rises out of the sea and continues to the
+east.  The Dragon Sea lies to the west.  The golden sands which cover the
+cove stretch to the east and south.  
+~
+0 0 10
+D1
+~
+~
+0 0 1925
+D2
+~
+~
+0 0 1923
+S
+#1925
+Half Moon Cove~
+Large mountains stand to the north and east of the beach.  At the base of
+the eastern mountain, a tremendous black shiny boulder rests.  The cove
+continues to the west and south.  
+~
+0 0 10
+E
+black shiny boulder~
+The boulder appears to be some type of petrified onyx.  
+~
+D1
+~
+boulder~
+1 0 1926
+D2
+~
+~
+0 0 1922
+D3
+~
+~
+0 0 1924
+S
+#1926
+The Secret Cave~
+This aged cave has been carved into the base of the mountain.  The sound
+of waves crashing can be heard from the west.  The air is cool and damp. 
+Condensation drips down the dark stone walls.  
+~
+0 9 0
+D3
+~
+boulder~
+1 0 1925
+D5
+~
+~
+0 0 1927
+S
+#1927
+The Secret Tunnel~
+The ground here is solid rock, as are the walls and the ceiling.  This
+small tunnel has been carved into the base of the mountain.  The air is
+heavy and quite damp.  
+~
+0 9 0
+D2
+~
+~
+0 0 1928
+D4
+~
+~
+0 0 1926
+S
+#1928
+The Secret Tunnel~
+You are in a narrow passageway which has been carved into the earth. 
+Solid rock lies in every direction, with the exception of north and south.  
+~
+0 9 0
+D0
+~
+~
+0 0 1927
+D2
+~
+~
+0 0 1929
+S
+#1929
+The Secret Tunnel~
+The narrow passage is quite rounded here.  The dark tunnel curves slowly
+from north to east.  It is difficult to see in either direction.  
+~
+0 9 0
+D0
+~
+~
+0 0 1928
+D1
+~
+~
+0 0 1930
+S
+#1930
+The Secret Tunnel~
+You have reached a straightaway in the tunnel.  The passage widens out
+here, allowing easier movement.  The dark tunnel continues to the east and
+west.  
+~
+0 9 0
+D1
+~
+~
+0 0 1931
+D3
+~
+~
+0 0 1929
+S
+#1931
+The Secret Tunnel~
+The tunnel has become quite narrow here and curves sharply from west to
+south.  Small rocks and pebbles from the tunnel's construction cover the
+ground.  
+~
+0 9 0
+D2
+~
+~
+0 0 1932
+D3
+~
+~
+0 0 1930
+S
+#1932
+The Secret Tunnel~
+The ceiling of the tunnel is quite high here.  The air is fresher and
+cooler than other parts of the tunnel.  The passage continues to the north
+and south.  
+~
+0 9 0
+D0
+~
+~
+0 0 1931
+D2
+~
+~
+0 0 1933
+D4
+~
+trapdoor~
+1 0 1948
+S
+#1933
+The Secret Tunnel~
+The tunnel curves sharply from north to west here.  A slight breeze flows
+from the north.  The air is damp and condensation covers the walls and
+ceiling.  
+~
+0 9 0
+D0
+~
+~
+0 0 1932
+D3
+~
+~
+0 0 1934
+S
+#1934
+The Secret Tunnel~
+The passageway, carved through solid rock, is quite narrow here.  The
+dark tunnel continues to the east and west.  
+~
+0 9 0
+D1
+~
+~
+0 0 1933
+D3
+~
+~
+0 0 1935
+S
+#1935
+The Secret Tunnel~
+Stone walls have been built to protect this room from the sand.  To the
+east, a large hole has been cut into the solid rock which is the base of the
+mountains above.  
+~
+0 9 0
+D1
+~
+~
+0 0 1934
+D4
+~
+sandstone~
+1 0 1908
+S
+#1936
+Between the Dunes~
+Large sand dunes combine with boulders to form natural barriers to the
+north and south.  To the east, a large tunnel has been carved into the base
+of a mountain.  To the west, a beach of golden sand can be seen and beyond
+that the dock of Dominia.  
+~
+0 0 10
+D1
+~
+~
+0 0 1937
+D3
+~
+~
+0 0 1901
+S
+#1937
+A Tunnel Through The Mountains~
+This enormous tunnel has been carved right through the center of a
+mountain.  There is a distinct slope to it.  The lower end leads to the
+west, while the higher end leads up.  
+~
+0 9 0
+D3
+~
+~
+0 0 1936
+D4
+~
+~
+0 0 1938
+S
+#1938
+A Trail Through The Mountains~
+Large mountains reach high into the sky all around you.  A tunnel has
+been carved into one leading down.  There is a well traveled path running
+from north to south.  
+~
+0 0 5
+D0
+~
+~
+0 0 1939
+D2
+~
+~
+0 0 1945
+D5
+~
+~
+0 0 1937
+S
+#1939
+A Trail Through The Mountains~
+Tremendous mountains lie in every direction.  They rise so high into the
+sky that their peaks are covered by clouds.  The trails winds its way from
+the south to the east.  
+~
+0 0 5
+D1
+~
+~
+0 0 1940
+D2
+~
+~
+0 0 1938
+S
+#1940
+A Trail Through The Mountains~
+Large mountains line the north and south of the trail here.  The trail
+narrows as is squeezes between them.  The path continues to the west and
+east.  
+~
+0 0 5
+D1
+~
+~
+0 0 1941
+D3
+~
+~
+0 0 1939
+S
+#1941
+A Trail Through The Mountains~
+The trail splits into three directions here.  The main route curves
+around the mountains from west to south.  A smaller path branches out and
+leads to a tunnel carved into a mountain to the east.  
+~
+0 0 5
+D1
+~
+~
+0 0 1946
+D2
+~
+~
+0 0 1942
+D3
+~
+~
+0 0 1940
+S
+#1942
+A Trail Through The Mountains~
+Mountains rise up to the east and west of the trail.  The path is rather
+wide at this point and runs from north to south.  
+~
+0 0 5
+D0
+~
+~
+0 0 1941
+D2
+~
+~
+0 0 1943
+S
+#1943
+A Trail Through The Mountains~
+The trail winds is way through the mass of mountains all around you.  The
+well traveled path curves from the north to the west.  
+~
+0 0 5
+D0
+~
+~
+0 0 1942
+D3
+~
+~
+0 0 1944
+S
+#1944
+A Trail Through The Mountains~
+The trail widens out here, stretching to the north and south until it
+reaches a mountain in both directions.  The path runs from east to west.  
+~
+0 0 5
+D1
+~
+~
+0 0 1943
+D3
+~
+~
+0 0 1945
+S
+#1945
+A Trail Through The Mountains~
+The trail weaves its way around the mountains.  The peaks of the
+mountains reach high into the sky.  The path continues to the north and
+east.  
+~
+0 0 5
+D0
+~
+~
+0 0 1938
+D1
+~
+~
+0 0 1944
+S
+#1946
+A Tunnel Through The Mountains~
+This long tunnel has been carved through the center of this mountain.  It
+is quite dark within it, even with the help of a light.  The darkness is
+less black to the west and east.  
+~
+0 9 0
+D1
+~
+~
+0 0 1947
+D3
+~
+~
+0 0 1941
+S
+#1947
+A Narrow Trail~
+A narrow trail winds its way through the mountains.  The main trail runs
+north and south.  A smaller trail branches off and leads to a tunnel to the
+west.  
+~
+0 0 5
+D0
+~
+~
+0 0 1948
+D2
+~
+~
+0 0 1949
+D3
+~
+~
+0 0 1946
+S
+#1948
+A Dead End~
+The path below you comes to an abrupt end here.  Mountains block the
+north, west and east.  The ground is covered with loose dirt.  The trail
+continues to the south.  
+~
+0 0 5
+D2
+~
+~
+0 0 1947
+D5
+~
+trapdoor~
+1 0 1932
+S
+#1949
+A Narrow Trail~
+Mountains cover the landscape, they rise so high that what lies beyond
+cannot be seen.  The trail squeezes its way through the peaks.  The path
+curves from north to east.  
+~
+0 0 5
+D0
+~
+~
+0 0 1947
+D1
+~
+~
+0 0 1950
+S
+#1950
+A Narrow Trail~
+Large mountains lie to the north and south of the trail.  Fallen stones
+from the mountains sit by the roadside.  The thin path continues to the west
+and east.  
+~
+0 0 5
+D0
+~
+~
+0 0 700
+D1
+~
+~
+0 0 1951
+D3
+~
+~
+0 0 1949
+S
+#1951
+A Narrow Trail~
+Fallen rocks from the mountains cover the ground here.  A large hole has
+been dug into the ground.  There is a narrow trail leading to the west.  
+~
+0 0 5
+D3
+~
+~
+0 0 1950
+D5
+~
+~
+0 0 1952
+S
+#1952
+A Dark Tunnel~
+A large gust of air rushes through the tunnel.  Sound are obscured by the
+wind.  The tunnel slopes downwards from its opening above to the east.  
+~
+0 9 0
+D0
+~
+~
+0 0 1250
+D1
+~
+~
+0 0 1953
+D4
+~
+~
+0 0 1951
+S
+#1953
+The Road to Shandalar~
+A large mountain range covers the western front.  A tunnel has been
+carved into the solid rock directly west.  To the distant east, the vast
+walls of the legendary city of Shandalar are visible.  
+~
+0 0 1
+D1
+~
+~
+0 0 10942
+D3
+~
+~
+0 0 1952
+S
+#1954
+The Fore Deck Landing~
+You are at the forwardmost point of the ferry.  A combination of steel
+and wood form a small gate, which only the crew can open, to allow
+passengers to board or depart the ship.  Elaborate rope workings lead from
+the deck to the sails in the center of the ship.  
+~
+0 268443680 1
+E
+sign~
+Stay here to exit the ferry when it lands in port.
+~
+E
+gate~
+The gate is secured with a lock that only the crew can open.  
+~
+D3
+~
+~
+0 0 1955
+S
+#1955
+The Fore Deck ~
+A harden wooden deck is below you.  Directly east is the Fore Deck
+Landing where passengers board and leave the ship.  To the west, a large
+wooden door leads to the Main Cabin.  The deck continues to the north and
+south.  
+~
+0 268443680 1
+D0
+~
+~
+0 0 1956
+D1
+~
+~
+0 0 1954
+D2
+~
+~
+0 0 1957
+D3
+~
+door~
+1 0 1971
+S
+#1956
+The Fore Deck Port Side~
+A large wooden railing, topped with iron, forms the port side perimeter. 
+The hardwood deck below you continues to the south.  A narrow walkway runs
+west along the side of the ship.  
+~
+0 268443680 1
+D2
+~
+~
+0 0 1955
+D3
+~
+~
+0 0 1963
+S
+#1957
+The Fore Deck Starboard Side~
+A railing of iron and wood lines the starboard side of the ship.  The
+hardwood deck below you continues to the north.  A large iron plate with
+hinges is built into the deck.  A wooden walkway runs along the starboard
+side to the west.  
+~
+0 268443680 1
+E
+large iron plate~
+The holddoor appears to be very heavy.
+~
+D0
+~
+~
+0 0 1955
+D3
+~
+~
+0 0 1958
+D5
+~
+holddoor~
+1 0 1991
+S
+#1958
+The Starboard Side Walkway~
+The outer bulkhead of the Main Cabin is to the north.  Pulleys and ropes
+line the railing to the south, leading up to the sails.  The wooden walkway
+below you leads east to the Fore Deck and west towards the rear of the
+ferry.  
+~
+0 268443680 1
+D1
+~
+~
+0 0 1957
+D3
+~
+~
+0 0 1959
+S
+#1959
+The Starboard Side Walkway~
+A porthole is set into the wall to the north.  A mass of pulleys and
+ropes line the railing to the south.  The walkway continues to the west and
+east.  
+~
+0 268443680 1
+E
+porthole~
+The porthole is covered with dried salt from the air.  You can't see a
+thing through it.  
+~
+D1
+~
+~
+0 0 1958
+D3
+~
+~
+0 0 1960
+S
+#1960
+The Starboard Side Walkway~
+The outer bulkhead of the Main Cabin is to the north.  A combination of
+wood and iron form a railing to the south.  The walkway continues to the
+west and east.  
+~
+0 268443680 1
+D1
+~
+~
+0 0 1959
+D3
+~
+~
+0 0 1961
+S
+#1961
+The Starboard Side Walkway~
+Ropes run from the railing to the south to the sails high above.  A
+bulkhead lines the northern side of the walkway.  The deck continues to the
+west and east.  
+~
+0 268443680 1
+D1
+~
+~
+0 0 1960
+D3
+~
+~
+0 0 1962
+S
+#1962
+The Starboard Side Walkway~
+The outer bulkhead of the ferry's galley is to the north.  A railing
+lines the south of the walkway.  To the west lies the Aft Deck.  The
+hardwood deck continues to the east.  
+~
+0 268443680 1
+D1
+~
+~
+0 0 1961
+D3
+~
+~
+0 0 1970
+S
+#1963
+The Port Side Walkway~
+A myriad of ropes run from the railing on the north side up to the sails
+high above.  The outer bulkhead of the Main Cabin is to the south.  To the
+east lies the Fore Deck.  The narrow passage continues to the west.  
+~
+0 268443680 1
+D1
+~
+~
+0 0 1956
+D3
+~
+~
+0 0 1964
+S
+#1964
+The Port Side Walkway~
+A salt covered porthole is set into the bulkhead to the south.  A railing
+of iron and wood lies to the north.  The deck below you continues to the
+west and east.  
+~
+0 268443680 1
+E
+porthole~
+It is covered with dried salt from the sea air.
+~
+D1
+~
+~
+0 0 1963
+D3
+~
+~
+0 0 1965
+S
+#1965
+The Port Side Walkway~
+Ropes and pulleys run from the railing on the north side to the sails
+high above.  A bulkhead lines the south.  The hardwood below you runs on to
+the east and west.  
+~
+0 268443680 1
+D1
+~
+~
+0 0 1964
+D3
+~
+~
+0 0 1966
+S
+#1966
+The Port Side Walkway~
+Beyond the railing to the north, the vast Dragon Sea stretches on.  A
+bulkhead lies to the south.  The deck continues to the east and west.  
+~
+0 268443680 1
+D1
+~
+~
+0 0 1965
+D3
+~
+~
+0 0 1967
+S
+#1967
+The Port Side Walkway~
+Ropes and pulleys run from the railing to the north to the sails high
+above.  The outer bulkhead of the ship's galley is to the south.  The Aft
+Deck can be seen to the west.  The walkway continues to the east.  
+~
+0 268443680 1
+D1
+~
+~
+0 0 1966
+D3
+~
+~
+0 0 1968
+S
+#1968
+The Aft Deck~
+A railing runs along the north and west, preventing passengers from
+falling overboard.  A large metal door has been built into the solid wooden
+deck.  A narrow passageway runs east, along the port side of the ship.  The
+Aft Deck continues to the south.  
+~
+0 268443680 1
+E
+large metal door~
+The door has rusted rivets on it.  It looks quite heavy.  
+~
+D1
+~
+~
+0 0 1967
+D2
+~
+~
+0 0 1969
+D5
+~
+door~
+1 0 1982
+S
+#1969
+The Aft Deck~
+The Dragon Sea rages beyond the railing which lines the rear of the ship
+to the west.  An iron stairwell against the bulkhead to the east leads up. 
+The wooden deck below you continues to the north and south.  
+~
+0 268443680 1
+D0
+~
+~
+0 0 1968
+D2
+~
+~
+0 0 1970
+D4
+~
+~
+0 0 1992
+S
+#1970
+The Aft Deck~
+The dark waters of the sea lie beyond the railing which stands to the
+west and south.  A narrow walkway leads to the east, along the starboard
+side of the vessel.  The Aft Deck continues to the north.  
+~
+0 268443680 1
+D0
+~
+~
+0 0 1969
+D1
+~
+~
+0 0 1962
+S
+#1971
+The Main Cabin~
+A large sign above the door to the east reads 'Fore Deck and Landing
+Area'.  The Main Cabin is tremendous.  The walls are decorated with colorful
+silks and numerous pictures, giving the room a rather pleasant atmosphere.  
+~
+0 268443688 1
+D0
+~
+~
+0 0 1972
+D1
+~
+door~
+1 0 1955
+D2
+~
+~
+0 0 1973
+D3
+~
+~
+0 0 1975
+S
+#1972
+The Main Cabin~
+You are in the northeast corner of the Main Cabin.  A small porthole in
+set into the bulkhead to the north.  An aged picture depicting various
+ferries throughout the ages hangs on the eastern wall.  The cabin stretches
+on to the west and south.  
+~
+0 268443688 1
+E
+porthole~
+The porthole is covered with sea salt on the outside.  You can't see a
+thing through it and it appears to be rusted shut.  
+~
+E
+picture~
+This picture shows ferry boats from ancient times till present.  
+~
+D2
+~
+~
+0 0 1971
+D3
+~
+~
+0 0 1976
+S
+#1973
+The Main Cabin~
+You are in the southeast corner of the Main Cabin.  Tapestries, colored
+with warm earth tones, give the corner a cozy feeling.  The cabin continues
+to the north and west.  
+~
+0 268443688 1
+D0
+~
+~
+0 0 1971
+D3
+~
+~
+0 0 1974
+S
+#1974
+The Main Cabin~
+Elaborate carpets cover the wooden deck here.  The cabin is decorated
+much like a ballroom.  It is easy to forget this room is on a ship.  The
+cabin continues to the north, west and east.  
+~
+0 268443688 1
+D0
+~
+~
+0 0 1975
+D1
+~
+~
+0 0 1973
+D3
+~
+~
+0 0 1979
+S
+#1975
+The Main Cabin~
+A tremendous aged candle ring sways above you in the center of the cabin.
+The room is decorated quite elaborately.  The floor is covered with finely
+detailed carpets.  The cabin continues on in every direction, save for up
+and down.  
+~
+0 268443688 1
+D0
+~
+~
+0 0 1976
+D1
+~
+~
+0 0 1971
+D2
+~
+~
+0 0 1974
+D3
+~
+~
+0 0 1978
+S
+#1976
+The Main Cabin~
+Overstuffed furniture and comfy chairs are scattered about the cabin. 
+Colorful silks and tapestries absorb most of the noise here.  The cabin
+continues to the south, west and east.  
+~
+0 268443688 1
+D1
+~
+~
+0 0 1972
+D2
+~
+~
+0 0 1975
+D3
+~
+~
+0 0 1977
+S
+#1977
+The Main Cabin~
+You are in the northwest corner of the Main Cabin.  The furniture here is
+facing the bulkheads, for those passengers who do not desire to mingle.  The
+cabin continues to the south and east.  
+~
+0 268443688 1
+D1
+~
+~
+0 0 1976
+D2
+~
+~
+0 0 1978
+S
+#1978
+The Main Cabin~
+A large door is set into the bulkhead to the west.  A sign above the door
+reads 'Casino'.  The majestic cabin continues on to the north, south and
+east.  
+~
+0 268443688 1
+D0
+~
+~
+0 0 1977
+D1
+~
+~
+0 0 1975
+D2
+~
+~
+0 0 1979
+D3
+~
+door~
+1 0 1998
+S
+#1979
+The Main Cabin~
+You are in the southwest corner of the Main Cabin.  A porthole covered
+with sea salt on the outside is set into the bulkhead to the south.  The
+cabin continues to the north and east.  
+~
+0 268443688 1
+E
+porthole~
+It appears to be rusted shut.  You can't see a thing through it.  
+~
+D0
+~
+~
+0 0 1978
+D1
+~
+~
+0 0 1974
+S
+#1980
+The Dining Cabin~
+Portholes are set into the northern and southern bulkheads.  A large
+hatch is set into the western bulkhead, the sign above it reads 'Galley'. 
+To the east, a sign above the doorway reads 'Casino'.  
+~
+0 268443688 1
+D1
+~
+door~
+1 0 1998
+D3
+~
+hatch~
+1 0 1981
+S
+#1981
+The Galley~
+Marvelous smells waft through the air here.  It is also extremely warm. 
+A large oven and stove are against the western bulkhead.  Portholes to the
+north and south are clouded over with steam.  The only exit is the hatchway
+to the east.  
+~
+0 268443688 1
+E
+stove~
+Flames rise up from its burners.  The stovetop is covered with stains.  
+~
+E
+oven~
+Intense heat eminantes from the oven.
+~
+D1
+~
+hatch~
+1 0 1980
+S
+#1982
+Below the Aft Deck~
+The wooden hull of the ferry creaks from the stress of the water outside
+it.  Coils of rope and spare sails are stored here.  A heavy metal door
+leads up to the Aft Deck.  
+~
+0 268443689 1
+D1
+~
+~
+0 0 1983
+D4
+~
+door~
+1 0 1968
+S
+#1983
+The Aft Row Room~
+When the wind is not strong enough to fill the ship's sails, the crew
+comes here and begins rowing.  Small oarholes have been built into the
+northern hull.  The large room continues to the south.  
+~
+0 268443688 1
+E
+oarholes~
+You can see the ocean outside.
+~
+D2
+~
+~
+0 0 1984
+D3
+~
+~
+0 0 1982
+S
+#1984
+The Aft Row Room~
+Oarholes are built into the ship's hull directly south.  This is where
+the crew comes to move the ship when the sails fail.  The Row Room continues
+to the north.  A darkened passage lies east.  
+~
+0 268443688 1
+E
+oarholes~
+You can see the Dragon Sea through it.
+~
+D0
+~
+~
+0 0 1983
+D1
+~
+~
+0 0 1985
+S
+#1985
+A Dark Passage~
+This crawlspace is dark and damp.  A small pool of water sways back and
+forth with the ship's motion.  Light can be seen to the west and east.  
+~
+0 268443689 1
+D1
+~
+~
+0 0 1986
+D3
+~
+~
+0 0 1984
+S
+#1986
+The Forward Row Room~
+Small slots are built into the ship's hull, to allow the crew to row the
+boat when there is no wind.  The room is quite warm and the air is humid. 
+The cargo hold lies to the east, a dark passageway to the west.  
+~
+0 268443688 1
+D0
+~
+~
+0 0 1987
+D1
+~
+~
+0 0 1988
+D3
+~
+~
+0 0 1985
+S
+#1987
+The Forward Row Room~
+Small slots and oarlocks are built into the hull here.  When the wind
+fails to fill the ship's sails, the crew comes here and rows the ferry.  The
+room continues to the south.  
+~
+0 268443688 1
+D2
+~
+~
+0 0 1986
+S
+#1988
+The Cargo Hold~
+You are in the center of the ship's cargo hold.  A small puddle of water
+moves from north to south with the swaying of the ferry.  The hold continues
+to the north and south.  
+~
+0 268443689 1
+D0
+~
+~
+0 0 1989
+D2
+~
+~
+0 0 1990
+D3
+~
+~
+0 0 1986
+S
+#1989
+The Cargo Hold~
+There are no openings in the ship's hull here.  The hold is dark and the
+air is very thick.  The wooden hull creaks as the ferry rolls in the ocean. 
+~
+0 268443689 1
+D2
+~
+~
+0 0 1988
+S
+#1990
+The Cargo Hold~
+The cargo hold is dark and the air extremely thick.  The swaying of the
+ship can be felt quite strongly here.  The hold continues to the north and
+east.  
+~
+0 268443689 1
+D0
+~
+~
+0 0 1988
+D1
+~
+~
+0 0 1991
+S
+#1991
+The Cargo Hold~
+You are in the forward section of the cargo hold.  The wooden hull of the
+ship creaks and groans under the stress of the sea outside.  The hold is
+dark and the air stale.  
+~
+0 268443689 1
+D3
+~
+~
+0 0 1990
+D4
+~
+holddoor~
+1 0 1957
+S
+#1992
+Outside the Wheel House~
+You are at the top of an iron stairwell which leads down to the aft deck.
+Looking in every direction, save east, the vast Dragon Sea can be seen. 
+Directly east is the Wheel House.  
+~
+0 268443680 1
+D1
+~
+hatch~
+1 0 1993
+D5
+~
+~
+0 0 1969
+S
+#1993
+The Wheel House~
+A large table is set against the southern bulkhead.  It is covered with
+maps and navigation devices.  Directly north is the Captain's Cabin.  You
+can exit the Wheel House to the west, or travel further into it to the east.
+~
+0 268443688 1
+E
+table~
+Everything on it looks very important to the running of the ferry.  It
+would probably be wise to leave everything in place.  
+~
+D0
+~
+door~
+1 0 1997
+D1
+~
+~
+0 0 1994
+D3
+~
+hatch~
+1 0 1992
+S
+#1994
+The Wheel House~
+A large window facing the bow of the ferry allows a clear view of what
+lies ahead.  A tremendous spoked wooden wheel, which guides the ship, stands
+before the window.  The ferry's lookout posts lie to the north and south.  
+~
+0 268443688 1
+E
+tremendous spoked wooden wheel~
+It's the wheel the crew uses to steer the ship.
+~
+E
+window~
+You can see where the ferry is headed.
+~
+D0
+~
+~
+0 0 1995
+D2
+~
+~
+0 0 1996
+D3
+~
+~
+0 0 1993
+S
+#1995
+The Port Lookout~
+This is where the crew scans the horizon for obstacles.  Large windows
+allow for a full view of every direction except the starboard side.  The
+only available exit is to the south.  
+~
+0 268443688 1
+D2
+~
+~
+0 0 1994
+S
+#1996
+The Starboard Lookout~
+The crew uses this part of the bridge to visually identify the ship's
+position.  Every direction, with the exception of the port side, has a clear
+view in fair weather.  The only exit is north to the Wheel House.  
+~
+0 268443688 1
+D0
+~
+~
+0 0 1994
+S
+#1997
+The Captain's Cabin~
+This is where the captain of the ferry comes to catch a few winks.  A
+locked cabinet stands against one wall.  Sea charts and paintings of
+ferocious sea monsters hang on the others.  The only exit is the doorway to
+the south.  
+~
+0 268443688 1
+E
+cabinet~
+Better not touch it, if the Captain caught you, he might throw you
+overboard.  
+~
+E
+sea charts~
+The sea charts look quite confusing.  The captain must have studied for
+years to understand them.  
+~
+E
+paintings~
+The ferocious sea monsters look very scary!!
+~
+D2
+~
+door~
+1 0 1993
+S
+#1998
+The Ferry Casino~
+The room is painted with dark colors, but is well lit by ornate
+candlestands placed throughout the room.  An intricate carpet covers the
+deck.  A sign above the eastern door reads 'Main Cabin'.  Above the western
+door the sign reads 'Dining Room'.  The room continues to the north.  
+~
+0 268443688 1
+D0
+~
+~
+0 0 1999
+D1
+~
+door~
+1 0 1978
+D3
+~
+door~
+1 0 1980
+S
+#1999
+The Ferry Casino~
+Ornate candlestands provide light for the room.  The walls are a dark,
+somber color, not quite a match for the festive atmosphere.  The casino
+continues to the south.  
+~
+0 268443688 1
+D2
+~
+~
+0 0 1998
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 1908 5 1
+D 0 1925 1 1
+D 0 1926 3 1
+D 0 1932 4 1
+D 0 1935 4 1
+D 0 1948 5 1
+D 0 1955 3 1
+D 0 1957 5 1
+D 0 1968 5 1
+D 0 1971 1 1
+D 0 1978 3 1
+D 0 1980 1 1
+D 0 1980 3 1
+D 0 1981 1 1
+D 0 1982 4 1
+D 0 1991 4 1
+D 0 1992 1 1
+D 0 1993 0 1
+D 0 1993 3 1
+D 0 1997 2 1
+D 0 1998 1 1
+D 0 1998 3 1
+M 1 1900 9 1904 1
+E 0 1914 0 16
+E 0 1918 0 17
+M 1 1900 9 1905 1
+E 0 1914 0 16
+E 0 1919 0 17
+M 1 1900 9 1907 1
+E 0 1914 0 16
+E 0 1920 0 17
+M 1 1900 9 1908 1
+E 0 1914 0 16
+E 0 1912 0 18
+M 1 1900 9 1914 1
+E 0 1914 0 16
+E 0 1913 0 18
+M 1 1900 9 1919 1
+E 0 1914 0 16
+M 1 1900 9 1920 1
+E 0 1914 0 16
+G 0 1921 0
+M 1 1900 9 1922 1
+E 0 1914 0 16
+E 0 1916 0 18
+M 1 1900 9 1924 1
+E 0 1914 0 16
+E 0 1915 0 18
+M 1 1904 1 1926 1
+G 0 1917 0
+M 1 1905 3 1928 1
+M 1 1905 3 1931 1
+M 1 1905 3 1933 1
+M 1 1906 4 1940 1
+M 1 1906 4 1943 1
+M 1 1906 4 1945 1
+M 1 1907 2 1948 1
+M 1 1906 4 1949 1
+M 1 1907 2 1951 1
+O 0 1900 0 1972
+O 0 1901 0 1973
+O 0 1902 0 1977
+O 0 1901 0 1979
+O 0 1900 0 1979
+O 0 1903 0 1980
+O 0 1907 0 1981
+M 1 1901 1 1981 1
+G 0 1910 0
+G 0 1908 0
+G 0 1909 0
+O 0 1904 0 1983
+O 0 1904 0 1984
+O 0 1904 0 1986
+O 0 1904 0 1987
+O 0 1905 0 1997
+O 0 1906 0 1997
+M 1 1902 1 1998 1
+O 0 1911 0 1999
+S
+
+
+
+#SHOPS
+1901 0 0 0 0 0 110 100 0 24
+1903 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

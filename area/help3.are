@@ -1,0 +1,1328 @@
+#HELPS  
+
+0 THRUST~ 
+
+Ruby dragons have a special skill. Should their parry be successful, they  
+receive the chance to thrust their weapon at their foe, earning them an  
+extra attack.   
+
+This is a remort skill only. 
+~ 
+
+0 CLAN REPORT CLANREPORT~
+
+Syntax: clanreport 
+Syntax: clanreport <clan>
+Syntax: clanreport  clear (for level 59+ IMMs only)
+
+ 
+
+Clanreport is a command which allows you to see particular pkill information
+about each clan. It is broken down into how many pkills a clan has achieved,
+how many times members have been pkilled, as well as who the best (and worst)
+pkiller is.
+
+No arguments after the command will show you every clan, whereas putting a clan
+afterward will show you that particular clan's information.
+
+Clanreport clear will reset the report form.
+~
+ 
+
+0 'DRAGON BITE' BITE~ 
+Fire dragons have the ability to bite their victim, should their dodge be  
+successful. This earns them an extra attack.  
+
+This is a remort skill only. 
+~   
+
+0 WORSHIP~ 
+
+Syntax: worship <cr>         - Gives you your worship stats.         
+        worship <god name>   - Sets the God you wish to worship.         
+        worship none         - Sacrifice for silver again.         
+        worship claim        - Claim your deity favors.            
+        worship cost         - Lists the Gods and their favors.  
+
+Worship lets you offer sacrifices to Gods of your choice.  Each time you sacrifice 
+a corpse, you gain deity points which you can use to claim your God's favors.  If 
+you change Gods you LOSE the deity points you have accumulated up til then.  
+
+The favors are as follows:  
+
+pacifism:  While under the effect of "pacifism", you are safe from any player's 
+attacks.  KILLERS and THIEVES can walk around without worries of other players.  
+Same goes for any clanner actually.  pacifism = I'm safe from players.   
+
+injustice:  injustice lets you attack players without getting a (KILLER) flag.  
+The level restrictions are the same mind you.  Also, people can attack you without 
+getting a KILLER flag (This is so that after you hit them, their hit doesn't cause 
+them to get a flag).   
+
+gullivers travel: Allows you to "recall dominia" or  "recall terra".  This is the 
+only inter-continental ability we will grant.   
+
+detect all:  The name says it all.  invis, hide, sneak, you name it.  They only 
+thing safe from detect all is wizi and incog.   
+
+surge:  extends the life of your spells.  Basically, while you are under the 
+effect of surge, only the ticks for "surge" go down in the "affect" of your char. 
+~  
+
+0 TAIL 'TAIL ATTACK'~ 
+
+All remort dragons have gained the ability to use their long tails in combat. 
+During combat, the dragon can automatically lash out his tail like a whip, doing 
+a fair amount of damage should there be contact.  
+
+This is a remort skill only. 
+~  
+
+0 'CONE OF FEAR' CONE FEAR~ 
+
+Syntax: cast 'cone of fear' <character>  
+
+A sapphire dragon instills fear in their victims with this spell. Their  
+opponent becomes panicked at the thought of fighting them, and flees the  
+scene.  
+
+This is a remort skill only. 
+~  
+
+0 SCALEMAIL~ 
+
+Syntax: cast scalemail  
+
+Fire dragons can add to their endurance in fights with scalemail, 
+lowering  their natural armor class.  
+
+This is a remort spell only. 
+~  
+
+0 GEMOLOGY~ 
+
+Syntax: gemology <gem>  
+
+Sapphire dragons have the ability to convert precious stones into goods  
+designed to injure their opponents when thrown.  
+
+This is a remort spell only. 
+~  
+
+0 'HUNTING SPEAR'~ 
+Syntax: cast 'hunting spear' <opponent>  
+
+Sky dragons can conjure up a magical spear to hurl at their opponents from  
+adjoining rooms.  
+
+This is a remort spell only. 
+~  
+
+0 HAILSTORM 'RAIN OF TEARS'~ 
+
+Syntax: cast 'hailstorm' 
+Syntax: cast 'rain of tears'  
+
+Abyssal slivers have the power to call forth great storms that will buffet a 
+room with torrential rains. Hailstorm and rain of tears will create a pounding 
+storm of ice pellets that will drench and crush all who stand in the room.
+ 
+Hailstorm is the spell that the nonclanner abyssal will receive, thus it will 
+only affect any monsters in the room. Clanner abyssals will receive rain of tears, 
+which will affect both monsters and other clanners. Damage from the storm is taken 
+every combat round. Note that the abyssals will refuse to damage their brethren with 
+these spells, so these spells are useless towards slivers (ie, slivers are immune to  
+these spells.)  
+
+This is a remort spell only. 
+~  
+
+0 WEB~ 
+
+Syntax: cast 'web'  
+
+Stinging slivers have the ability to create silk strands like spiders. The web spell, 
+when used, creates many sticky silk threads that weave together into a web that then 
+drapes itself across the room. This makes moving through a room a lot harder, as one 
+can find himself stuck on the threads of the web.  
+
+This is a remort spell only. 
+~  
+
+0 'DRAIN CORPSE'~  
+
+Stinging slivers have found that they can supplement their diets by forcibly draining 
+all nutrients from a body they have just slain. Draining a corpse will restore health 
+to the sliver, however such a corpse will become unsuitable for butchering.  Drain 
+Corpse kicks in automatically when the corpse is sacrificed.  
+
+This is a remort skill only. 
+~  
+
+0 TELEPATHY~ 
+
+Remort slivers gain a new affinity with the collective hive. Telepathy lets these 
+slivers know when a new sliver has entered the realm (in OOC terms, it lets the sliver 
+know when another sliver logs in).  
+
+This is a remort skill only. 
+~  
+
+0 REGROWTH~ 
+
+Troll remorts have an improved regeneration system. If dealt enough damage in combat, 
+the troll's body parts will be severed. These body parts will soon reattach themselves 
+to the host's body. While they are free form, the severed limbs will act as charmies 
+to the troll.  
+
+This is a remort skill only. 
+~  
+
+0 PRESENCE~ 
+
+Sky and pearl dragons have the ability to detect whether an enemy is in  
+their vincinity through their deity-given abilities.  
+
+This is a remort skill only. 
+~  
+
+0 WAIL~ 
+
+Syntax: cast wail <opponent>  
+
+Emerald dragons have loud, robust voices, and can deafen their opponents.  
+The voice of an emerald dragon can not only deal damage, it can remove saves 
+and dexterity from their victim.  
+
+This is a remort spell only. 
+~  
+
+0 'SHIFTING SAND' SHIFTING SAND~ 
+
+Syntax: cast 'shifting sand' <victim>  
+
+Earth dragons can change the texture of the ground beneath an enemy's feet,  
+rendering his footing unstable, and removing some of their hitroll and  
+damroll.  
+
+This is a remort spell only. 
+~  
+
+0 SHED SHEDDING~ 
+
+Syntax: shed  
+
+Pearl dragons have a high tolerance for pain, as proven by their ability to  
+remove their own scales. These dragons can shed their scales at will, and  
+consequently use them to throw at their opponents.  
+
+This is a remort skill only. 
+~  
+
+0 DISCORDANCE~ 
+Syntax: cast discordance <character>  
+
+Mist dragons can be tricky. They have the ability to turn a group of  
+attacking charmies against their owner.  
+
+This is a remort spell only. 
+~  
+
+0 'CLOUD OF POISON' CLOUD~ 
+
+Syntax: cast 'cloud of poison'   
+
+Onyx dragons, having bad breath, can expel a cloud of poison that surrounds  
+them and poisons their attackers.  
+
+This is a remort spell only. 
+~  
+
+0 RETREAT~ 
+
+Syntax: retreat  
+
+Onyx dragons, when engaged in a fight, can use the skill retreat to fool any 
+enemy into thinking they have fled the scene. This also halts the fight.  
+
+This is a remort skill only. 
+~  
+
+0 'CREATE SHADOW'~ 
+
+Syntax: cast 'create shadow'  
+
+Shadow dragons, being of the tricky sort, can create a charmie with the same 
+name and short description as themselves. Attackers beware!  
+
+This is a remort spell only. 
+~  
+
+0 BREW~ 
+
+Syntax: brew <potion>  
+
+Forest elves have trained and studied alchemy. They now possess the ability  
+to brew three different types of potions for their own personal use.  
+
+This is a remort skill only. 
+~  
+
+0 'PRIMAL RAGE' PRIMAL RAGE~ 
+
+Syntax: cast 'primal rage'   
+
+Drow elves can whip themselves into such a state of fury that they return 
+to their baser instincts. This in turn means that they will hit harder and 
+take less damage.  
+
+This is a remort spell only. 
+~  
+
+0 'TURN MAGIC' TURN~ 
+
+Syntax: cast 'turn magic' <charmer>  
+
+Grey dwarves have learned how to control other people's charmies. Turn magic 
+lets them steal charmies from an offending person's group and add it to their 
+own group.  
+
+This is a remort spell only. 
+~  
+
+0 CONVERSION CONVERT~ 
+
+Syntax: convert <item>  
+
+Mountain dwarves, being a penny-pinching type, have learned how to convert  
+objects and equipment into silver. Careful of becoming too greedy... you  
+might destroy some valuable objects.  
+
+This is a remort skill only. 
+~  
+
+0 ENLARGEMENT ENLARGE~ 
+
+Syntax: enlargement  
+
+Grey dwarves defend themselves by appearing larger than they really are.  
+This skill adds to their hitpoints and saves, while taking away from their  
+dexterity.  
+
+This is a remort skill only. 
+~  
+
+0 ROBUSTNESS~ 
+
+Syntax: cast robustness  
+
+Hill giants can add to their endurance by casting robustness, therefore  
+adding to their current hitpoints.  
+
+This is a remort spell only. 
+~  
+
+0 SHAPESHIFT~ 
+
+Syntax: shapeshift <mob>  
+
+Dopplegangers can change their appearance to that of a mob in the room with  
+them. They cannot retain this form when attacked, nor for too long a time.  
+While shifted, they get an extra +hit/+dam for the first round of attack.  
+
+This is a remort skill only. 
+~  
+
+0 'BLOCK EXIT' BLOCK~ 
+
+Syntax: block exit  
+
+Hill giants can overpower a victim so much that while in combat, the other  
+person cannot flee.  
+
+This is a remort skill only. 
+~  
+
+0 'CALL CAVE BEAR' 'CAVE BEAR' 'CALL CAVE' 'CALL BEAR'~ 
+
+Syntax: cast 'call cave bear'  
+
+Cave giants have made peace with the bears who share their territory, and 
+as such, they have worked out an agreement. Should a cave giant need to, he 
+can call upon 1-4 cave bears to protect him. However, cave bears cannot be  
+summoned if the giant in question already has outside help.  
+
+This is a remort spell only. 
+~  
+
+0 'GRANITE STARE' GRANITE STARE~ 
+
+Syntax: cast 'granite stare' <mob>  
+
+Medusas have had too many problems with people who look at them turning  
+into stone. Therefore, they have harnessed their powers so that they can  
+turn mobs into stone at will. Beware... the stone mob can yield no gold, or  
+equipment.  
+
+This is a remort spell only. 
+~  
+
+0 BITE 'TROLL BITE'~ 
+
+Syntax: bite <victim>  
+
+Two-headed trolls have little fear of death, and launch temselves into 
+combat biting whoever comes closest.  A troll bite is filthy and could 
+infect those bitten with the plague.  
+
+This is a remort spell only. 
+~  
+
+0 SPEAK 'TROLL SPEAK'~ 
+
+Syntax: speak <message>  
+
+Two-headed trolls can talk out of either their primary head by using "say" 
+or out of their second head by using "speak".  
+
+This is a remort spell only. 
+~  
+
+0 'SNAKE BITE' SNAKE BITE~  
+
+Medusas still have snakes on their heads, and these snakes don't like being  
+disturbed. When a medusa is in a fight, the snakes will lash out and poison  
+anyone who is fighting them.  
+
+This is a remort skill only. 
+~  
+
+0 MELIOR~ 
+
+Syntax: cast 'melior' <character>         
+        cast 'melior' <mob>          
+
+Mist dragons like to mess with a person's alignment. This spell will turn  
+their victim's alignment to good.  
+
+This is a remort spell only. 
+~  
+
+0 DRAKOR~ 
+
+Syntax: cast 'drakor' <character>         
+        cast 'drakor' <mob>  
+
+Earth dragons like to mess with a person's alignment. This spell will turn  
+their victim's alignment to evil.  
+
+This is a remort spell only. 
+~  
+
+0 TASTE~ 
+
+Syntax: taste <food>         
+        taste <drink>  
+
+All remorts can taste a small amount of any food or drink in order to  
+determine whether or not it is poisoned. 
+
+This is a remort ability only.
+~ 
+ 
+0 BUTCHER~ 
+
+Syntax: butcher corpse  
+
+All remorts can turn a corpse into food for anyone to eat. 
+~  
+
+0 'DARK VISION' DARKVISION~  
+
+This ability allows remort dwarves and other races to see clearly in  
+the dark, eliminating the need for light sources. 
+~  
+
+0 BEHEAD~  
+
+This giant remort-only skill offers giant remorts the ability to lunge at
+their opponent's necks in an attempt to killing them quicker. 
+~  
+
+0 STONE SLEEP~
+
+All gargoyle remorts learn how to channel their healing energies while
+asleep. Stone sleep regenerates damage and energy faster, but will only
+work if the gargoyle succumbs to sleep. WARNING: Stone sleep is not an
+easily controlled power, and can overcome a gargoyle's better judgement,
+causing him to fall asleep at the most inopportune times!
+
+This is a remort skill only.
+~
+
+0 MASS PROTECT 'MASS PROTECT'~
+Syntax: cast 'mass protect'
+
+With this spell, a remort gargoyle can protect his entire group (including
+himself) with a simple chant.
+
+This is a remort spell only.
+~
+
+0 SHRIEK~
+Syntax: cast 'shriek' <victim>
+
+Haunting gargoyles have mournful voices, similar to the call of a banshee.
+They can direct their voice at an enemy, causing the victim to keel over
+in pain. The shriek is so powerful, though, that it can cause objects to
+start vibrating or explode, unless proper precautions are taken.
+
+This is a remort spell only.
+~
+
+0 DISPLACE~
+Syntax: cast 'displace' <victim>
+
+Haunting gargoyles have an uncanny ability to transfer themselves to
+another location. When they displace, they open a gateway to a nearby
+creature, and then exchange places with that being.
+
+This is a remort spell only.
+~
+
+0 GORE~
+
+Sentinel gargoyles have grown long horns to make them look more
+intimidating. These horns also have a good use in combat: they can be
+thrust into the belly of whatever creature the gargoyle happens to be
+fighting.
+
+This is a remort skill only.
+~
+
+0 HOMONCULUS~
+Syntax: cast 'homonculus'
+
+Sentinel gargoyles can create a small being in the form of themselves.
+These creatures are nasty fighters and have a severe attitude problem.
+Killing a homonculus will invariably hurt its creator.
+
+This is a remort spell only.
+~
+
+1 GAMES GAMBLE~ 
+
+Syntax: game slots <slot name> 
+Syntax: game highdice <bet>  
+
+For information on these games type:  Slot Machine Help - type 'help slots' 
+                                      High Dice Help    - type 'help highdice' 
+~  
+
+1 SLOTS 'SLOT MACHINE'~ 
+
+Syntax: game slots <slot name>  
+
+<slot name> is the name of the slot machine in your current room that you  
+wish to play.  Each slot machine costs a certain amount of gold to play.  
+Slot machines can be 3 bar or 5 bar slot machines.  Each bar has 10 different 
+items on it. If all bars match then you win the jackpot. If partial winning is on,  
+you can still win some gold by matching just some of the bars. If freeze jackpot 
+is on, then no matter how much you play, the jackpot never increases or decreases 
+unless the jackpot is won.    
+
+To see how a slot machine is set up, type 'examine <jackpot name>' 
+~  
+
+1 HIGHDICE 'HIGH DICE'~ 
+
+Syntax: game highdice <bet>  
+
+<bet> is how much, in gold you wish to bet (10 to 1,000)  
+
+In highdice, a dice dealer must be in the room with you. You and the dealer  
+both will roll two dice (automatically) and whoever has the highes total  
+wins. In the case of a tie the dealer will win. 
+~  
+
+0 'CARVE BOULDER' CARVE BOULDER~ 
+
+Syntax: carve boulder  
+
+All giant remorts can carve boulders while in forests, fields, hills,  
+mountains, and deserts. They can then throw these boulders at their  
+opponents to cause them damage. 
+~  
+
+0 WATERWALK~  
+
+This ability allows human remorts to walk on water, thereby eliminating the  
+need for a boat or fly spell. 
+
+This is a remort ability.
+~  
+
+0 DETONATION~ 
+
+Syntax: cast 'detonation' <opponent>  
+
+This spell causes the victim's weapon to blow up, destroying it, and  
+burning the victim's hands so badly that they cannot wear another  
+weapon for one tick.  
+
+This is a remort spell only. 
+~  
+
+0 'CALL TO ARMS' ARMS~ 
+
+Syntax: cast 'call to arms'  
+
+This spell will summon all of your charmies to you.  
+
+This is a remort spell only. 
+~  
+
+0 WEAPONSMITH~ 
+
+Syntax: cast 'weaponsmith' <target>  
+
+This spell will create an average, unflagged weapon suitable for the target 
+to use.   
+
+This is a remort spell only. 
+~  
+
+0 SUBSTITUTE~ 
+
+Syntax: substitute <mob>         
+        substitute <character>  
+
+This skill allows you to change the mob or person that you are attacking,  
+if you are in a fight with more than one person or mob.  
+
+This is a remort skill only. 
+~  
+
+0 DRAG~ 
+
+Syntax: drag corpse <direction>  
+
+No, this isn't a character dressing up in another gender's clothes. This  
+skill allows a character to drag a corpse from room to room at twice the  
+normal amount of movement.  
+
+This is a remort skill only. 
+~   
+
+0 GRAVITATION~ 
+
+Syntax: cast 'gravitate' <target>  
+
+Many characters have a second object slot, where a magically floating object 
+can orbit around the person. With the gravitate spell, the caste can attempt 
+to steal an object in this position by attempting to bring it towards him. 
+
+WARNING: Gravitating is the same as stealing, and will earn you a THIEF flag 
+if unsuccessful.  
+
+This is a remort spell only. 
+~  
+
+0 BASHDOOR~ 
+
+Syntax: bashdoor <direction>  
+
+Some doors refuse to open. With bashdoor, the character can attempt to force 
+open a door by bashing it.  Giants get this skill for free upon creation. 
+Otherwise, it is accessible only for warrior remorts. 
+
+~  
+
+0 RETRIBUTION~ 
+
+Syntax: retribution  
+
+Retribution is a powerful skill. When applied, the user automatically  
+attacks any KILLERs and THIEFs s/he detects in the room with him.  
+
+This is a remort only skill. 
+~  
+
+0 FAMILIAR~ 
+
+Syntax: cast familiar  
+
+Spectral trolls have the ability to call a spirit guard from another plane.  
+Casting familiar calls the guard and leaves him standing in  the room to alert 
+all when any player walks by.  
+
+This is a remort only spell. 
+~  
+
+0 FEAR~ 
+
+Syntax: cast fear <victim>  
+
+Spectral trolls are tormented by the memory of life and can make any living 
+creature fear death.  By casting fear on its victims, the troll does little 
+damage but causes its opponets to do less damage during fights.  
+
+This is a remort only spell. 
+~  
+
+0 MATERIALIZE~ 
+
+Syntax: cast 'materialize' <object>  
+
+By using the materialize spell, the caster can force an object to become visible
+to all beings. In other words, the caster can remove an invis flag from an object.  
+
+This is a remort only spell. 
+~  
+
+0 'WILD SWING'~  
+
+Wild swing is the special fighting ability of remort dwarves. When it activates 
+in combat, the dwarf will be able to hit all monsters that it is fighting during 
+combat. Note that the dwarf has to be fighting more than one being for this skill 
+to take effect.  
+
+This is a remort only skill. 
+~  
+
+0 OUTPOST 'OUT POST'~  
+
+On the continent of Dominia, clans which are not based there maintain outposts.  
+Outposts can not purchase extra rooms.  
+
+Outpost upgrades:   
+
++10% hp upgrade              - 25000, max 250%   
++10% mana upgrade            - 25000, max 250%   
+fountain                     - 5000   
+donation pit                 - 5000   
+portal room                  - 5000 (max 5 portals)   
+portal                       - see "help portal price"   
+healer                       - 200000 (start at level 43)   
+healer upgrades              - 100000 per level, max level 45   
+shop keeper                  - 200000 (can not sell more than 15 items)   
+shop keeper price cuts       - 100000 per 10%, max 150% (start at 200%)   
+add an item to store         - item cost * 1000, round to nearest hundred
+                               i.e.: sanctuary potion (costs 8000 silver)
+                               80 * 1000= 80000 gold (you can only add items
+                               to your store which are currently for sale), all
+                               items will at least cost 1,000 gold
+
+Outpost Goon Upgrades:   
+
+basic mob                    - 50000, (start at level 51) max 2     
+upgrade mob                  - 5000 per level, max level 60   
+flag added                   - 20000, i.e.: dodge, parry, berserk,
+                               sanctuary, etc.   
+area attack                  - 150000   
+resistance                   - 20000, i.e.: slashing, acid, etc.   
+resistance magic             - 200000   
+resistance weapons           - 200000   
+immunity 'rain of tears'     - 20000   
+other immunities             - dream on   
+weapons                      - you provide it and pay 1000 * average damage
+                               +10000 per weapon flag it has, un-enchanted. 
+~  
+
+0 BUNNIES BUNNY~  
+
+The Bunnies of Redemption.  Many decades ago, I was born. I was a poor defenseless 
+little bunny girl, with no friends, no family and no real hope in life. Then one 
+day as I traveled through a forest, or meadow.  I forget now it has been so long, 
+I met some other rabbits who were like myself, helpful, but lonely and looking for 
+a family. So we all joined together and built a big burrow up in the Stoneridgian 
+forest to stay warm on those cold winter nights, and we also found that we could 
+help others better this way.  We got a better nights rest because we felt protected 
+and we always had enough to eat because of our healthy vegetable garden.  
+
+ We, the Bunnies of Redemption always welcome others into our burrow if they: 
+- Have something to offer, the 5K if costs to move you in would be nice. 
+- Are willing to help, especially other bunnies. 
+- Vow never to kill a rabbit, hare or bunny including with charmies.  
+  This includes the Killer Bunny in the Zoo. 
+- Vow never to eat any part of a rabbit, hare or bunny. 
+- And you gotta be very very very cute to be a bunny! 
+~  
+
+0 GUILDS NONCLANNER GUILD~  
+
+Guilds are non-clanner associations established to provide its members 
+with companionship and regen rooms.  Any non-clanner who would like to 
+start a guild may submit a help file to Jotarou for approval.  These 
+guilds are currently on Redemption:  
+
+- HIGH EMBASSY FROM THE LANDS OF PALANKCAREN (HELP) 
+- BUNNIES OF REDEMPTION  
+- MERCHANTS OF REDEMPTION
+- THE FELLOWSHIP
+- IMPERIAL EMPIRE
+- Treasure Hunter Guild
+
+(see also 'help townhomes') 
+~  
+0 TREASURE HUNTER GUILD~
+
+The story of the Treasure Hunter Guild began long ago.  The first of 
+the Hunters goes by the name of Reptile, who is a decendant of a 
+well known red dragon.   Story knows his Great Grandfather by the
+name of Smauge.  Smauge was a red dragon that lived in Lonely 
+Mountain filled with the finest TREASURE and GOLD.  Such is the
+want of their kind.  Like his Great Grandfather, Reptile desired
+these things.
+ 
+Reptile knew alone he could only gain as much wealth as his 
+ancestor.  So he went in search of others with his desire of gold 
+and treasure.   While on his journies he came across a human by
+the name of Galiant.  Galiant and Reptile were both accomplished
+conjurers and together they trained and sought out wealth from the
+land.  Together they amassed great wealth and rare treasures.
+ 
+They soon had more than the two of them could ever carry.  They 
+needed some place to call home and store their treasure.  Galiant
+had given up hope on finding a location to store their booty
+after 2 long years,  however Reptile knew of only one such place
+LONELY MOUNTAIN.
+ 
+Together the Red Dragon and the Human combined their magic and
+consentrated their summoning powers together on a task to bring
+the mountain to them.  After days of cantations and conjuring there
+was a great trembling of the earth.  The ground split open and Lonley
+Mountain appeared.
+ 
+They both rested for many years to recover from such feats, but they
+are both now awake and opening the mountain to others of their kind
+....not just dragons and humans but any with the ability to help them
+in their quest for gold and treasure.   There numbers (and treasures)
+grow everyday.  They are an elite group of Men and Beasts that have
+become known as TREASURE HUNTERS.
+         XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+To be considered to enter into the Guild you must:
+ 
+1. be at least level 10 (unless remort/reclass or either or)
+ 
+2. Donate 1/2 your level in thousands of gold (exm. level 10
+    = 5k and level 17 = 8.5k)
+                            -or-
+   Donate 5k and also several hard to obtain objects (exm.
+    Lemmings, Christmas Presents.....) that the King approves of
+ 
+RANKS
+King: His duties include collecting donations and items from new
+  and current Guild members and is incharge of upgrading the hall.
+Currently held by:  Reptile
+ 
+Prince: The duties of the Prince are the same as the King except all
+          upgrades and donations must be approved by the King.
+Currently held by: Galiant
+ 
+Grand Hunter: Those that have donated 100k or more(including
+            entrance donations)
+ 
+Master Hunter:  Those who have donated more than 50k(including
+             entrance donations)
+ 
+Antique Dealer:  those new members who have yet to donate more
+             than 50k (including entrance donations)
+ 
+****RULES****
+1. Must have guild name in title or rp title
+ 
+2. Must continually try to help guild improve
+ 
+3. You have no obligations to help anyone, but may help everyone
+   you can set your own prices.  (but  must still donate to guild per
+   rule number 2)
+ 
+For new membership contact Reptile or Galiant
+~
+
+0 IMPERIAL EMPIRE GUILD~
+
+Imperial Empire [Imperial]
+
+HISTORY
+
+  On the day of the Moon, in the month of the Apocalypse, The Empires
+ of the Noble Lord Balor rallied on the battlefield against the troops
+ of the Evil Lord Magnus in the hills of New Thalos on a mid-spring day,
+ the two armies charged, arrows and magic bolts flew through the skies
+ and rained down upon the soldiers mortally wounding many and killing
+ others.
+
+  After the battle had settled the two armies had both eradicated one
+ another leaving few men alive, those men were worn down and could not
+ go on seeing so many friends fall that they decided to take command.
+
+  Lord Balor had been killed in combat, and Lord Magnus was slain by the
+ Champion of the Noble lords Empire, the remaining few survivors
+ banded together under new leadership their successors were Kanzeil, and
+ Logek who had later on pledged loyalty to Kanzeil, both brave souls
+ daring to take on new adventures sought out to build an empire.
+
+  One decade later they had grown to an Empire, and the story continues....
+
+RANKS/JOBS
+
+King of the Imperial Empire:
+ He is the Empire at heart, and has the power to Assign anyone deemed
+ fit to the Rank acquired.  
+He is responsible for all funds raised, and
+ has the final word on all affairs of the Empire.
+  The King is: Kanzeil
+
+Champion of the Imperial Empire:
+ The Champion is Declared by the King, he is also his Official advisor
+ and assigned as second in command. He has the ability to recruit, 
+ and his jobs are to Assist the King, and keep the empire in order.
+  The Champion is: Logek
+
+Crusaders of the Imperial Empire:
+ 
+ They are the Elites of the Empire, they are the bravest of warriors,
+ and will protect the Empire in anyway fit.  One can attain
+ this Rank only as directed from the King and the Champion.
+
+Captain of the Knights of the Imperial Empire:
+ The Commander of the Knights, he is to train the knights in
+ anyway needed, and is the Advisor to the Knights.  He may make
+  recommendations to the Champion on any affairs of the Knights.
+
+Knight of the Imperial Empire:
+ Knight is the most important factors to the force of the Empire,
+ they are commanded by the Captain of the Knights and are the
+ primary fighters of the Empire. One can attain this rank by a
+ recommendation from the Captain and approved by the King.
+
+Defenders of the Imperial Empire:
+ The Defenders are the Guards of our Empire they are equal to
+ the Knights, but instead they are commanded by the Champion
+ directly on all actions.
+
+Squire of the Imperial Empire:
+ 
+ A Squire is one who has been in the Empire and has served a
+ consecutive term, only then will he be given the chance to
+ advance to either become a Knight of the Empire or become a
+ Defender of the Empire.
+
+Apprentice of the Imperial Empire:
+ An Apprentice is one who has just joined the Empire and is
+ still learning his way around and how to fit in, afterwords
+ he must learn how to become an effective role then he is to
+ be promoted to the rank of Squire.
+
+
+RULES
+ 
+1. No quarreling amongst each other, it will not be tolerated.
+
+2. Members are to provide assistance to whom they wish, if they
+     feel the right not to, its their choice.
+
+REQUIREMENTS
+
+   Members must be atleast level 15, and meet these
+  requirements.
+    a) Have knowledge about the mud, and areas within the mud.
+ 
+    b) They are to have a well kept reputation.
+    c) Must pledge 6,000 Gold to the Empire to show that they
+       are willing to help each other out.
+
+BENEFITS
+
+By Being in the Imperial Empire, We will help out one another
+ to become stronger.
+
+1. Free Spellups and Equipment.
+
+2. Hall on Terra with Regen rates
+     Dominian Hall Coming Soon
+
+REQUEST to Join
+
+The King must accept your request, speak with him or write a note.
+~
+
+0 'TAME ANIMAL' TAME ANIMAL~ 
+
+Syntax: cast 'tame animal' <mob>  
+
+This spell allows the caster to charm certain types of animals and have  
+them as pets.  
+
+This is a remort spell only. 
+~
+
+0 MYSTATS~
+
+Syntaz: mystats
+
+MYSTATS shows you a brief view of some of the most important score
+information.
+~
+
+0 'PLAYERS COUNCIL' COUNCIL CONSTITUTION PC~
+
+** Players Council Constitution **
+
+1. Player Council made up of 9 members.  1 member choosen from each clan, 2 
+   nonclanners, and 2 players choosen-at-large from mud population.  A player
+   who has an Immortal character can NOT serve on the Player Council.  No player
+   can have more than 1 character on the Player Council.
+
+2. Serve for a term of 3 months.  New Council members elected in August, 
+   November, February, and May.  No one can serve on 2 consecutive terms of
+   the council.
+
+3. The Players Council will elect 1 of its members to serve as president of
+   the council until next election.
+
+4. Players Council can meet as often as it wishes to discuss mud affairs, and
+   with simple majority votes present ideas/suggestions to the Immortal staff.
+   Any suggestions presented by the Players Council will be answered, either 
+   with an agreement by the IMMs to make the change, a request for further
+   thought or clarification, or rejection accompanied by an explaination. 
+   Any rejections can be appealed if the Council vote unanmiously to ask 
+   the IMMs to reconsider.
+
+5. Players Council will also be called to vote on certain important subjects.
+   With issues like picking new IMMs, voting on new clans, major changes to
+   the code, etc. thpe Council will have the opportunity to vote.  The majority
+   decision reached by the Player Council will be treated the same a that of a
+   high level IMM.
+
+6. Changes to the Players Council Constitution can be made by an unamious vote 
+   of the Council with the agreement of the IMPs.
+~
+
+0 RUNIST~
+
+The runist considers flashy magic to be crude and basic.
+Striving for a ideal unintelligible to most magic users,
+the runist focuses on using magic indirectly in order to
+empower themselves and their equipment to supernatural
+levels.
+
+The runist's skills include using magical tattoos and 
+runes for both offense and defense to supplement their
+combat abilities. An interesting feature of this class
+is how their powers will change over time as their
+tattoos and runes fade away and are replaced by others.
+
+The runist is a distantly related subclass of the thief
+sharing only a few basic characteristics.
+
+RUNIST BASICS:
+Spear: Runists favour long pole weapons.
+
+RUNIST DEFAULT:
+Dodge: The act of not being there when it counts.
+Parry: Simply blocking the attacks of your opponent.
+Dirt Kicking: Sneaky yet effective way to blind foes.
+Second Attack: The chance at a second attack each round.
+Trip: Keeping foes off balance.
+Meditation: Concentrating helps replenish mana stores.
+Tattoo Magic: Tattoos replace equipment and offer 
+advantages.
+Rune Magic: Runes for empowering equipment and protecting 
+rooms.
+Illusion Magic: Indirect magic common to most runists.
+~
+
+0 RUNIST ZEALOT~
+
+The Zealot is a maniac with no fear of death. Relishing the
+thrill of combat, an injured Zealot's rage knows no bounds.
+Empowered with magical tattoos and armed to the teeth with
+runic magic, the Zealot is a fearsome figure. During combat,
+the zealot often loses control and finds themselves unable
+to determine when to fight and when to flee.
+
+-Martial Arts: Addition hand to hand training, including parry 
+and stun.
+-Jump: A long distance leap across two rooms.
+-Push: The muscle to choose your own battleground.
+-Symbol: A sigil of warding which can protect your equipment.
+-Zeal: Become more powerful as your hp decreases.
+-Hurl: Throw weapons at distant targets.
+-Death Rune: Your death could prove fatal to your killer.
+~
+
+0 RUNIST PSION~
+
+The Psion continues to develope their own runic skills in 
+seclusion. They have learned how to channel their energies 
+into blades of solid energy, and how to focus the energy 
+contained within their own bodies more effectively. This 
+heavy reliance of spiritual energy means the psion will 
+become less effective as his mana stores are depleted.
+
+-Jump: A long distance leap across two rooms.
+-Push: The muscle to choose your own battleground.
+-Symbol: A sigil of warding which can protect your equipment.
+-Iron Vigil: Survive for long periods without food or water.
+-Soul Blade: Creates a solid blade of spiritual energy.
+-Fury: Able to charge up their attacks for a short time.
+-Trance: Able to charge up magical resistance for a short time.
+~
+
+0 PAINT TATTOO LESSER GREATER POWER~
+
+syntax: paint lesser, paint greater, paint power
+
+Tattoos are usable only by runists. When you use the appropriate paint
+skill and have an equipment slot free, it will become occupied by a
+tattoo. Tattoos can appear on the following equipment slots:
+Torso, head, arms, right wrist, left wrist. When you paint a tattoo,
+the first empty slot from among those listed will be tattooed.
+
+Tattoos essentially replace equipment in those slots. Tattoos are 
+similar to regular equipment, but they cannot be removed, and vanish
+when you die. They are semi-permanent, lasting several hours real time
+before crumbling into dust.
+
+Almost all tattoos affect your stats like equipment does, however the
+bonuses are totally random. The number of bonuses a tattoo can grant is
+related to your level. Sometimes you will have tattoos substantially
+more useful than regular equipment, but sometimes they be mostly useless.
+You can only remove tattoos by using the "destroy tattoo" spell, or by
+dying.
+
+The differences between the tattoo types breaks down as follows:
+
+paint lesser: Has the greatest number of bonuses, however each one is small.
+paint greater: Fewer number of bonuses, but each bonus is much greater.
+paint power: Fewest number of bonuses, can grant an additional power that
+is unique to tattoos. See "help power tattoo".
+~
+
+0 POWER TATTOO~
+
+These are the highest level tattoos for runists. In addition to granting
+bonuses on attributes like all tattoos, these tattoos also give an additional
+bonus that cannot be acquired in any other way. Each power tattoo can have
+at most one of these bonuses.
+
+-A chance that each spell cast will not cost mana, and instead use a 
+ smaller amount of movement to power the spell.
+-Tattoo animates as a charmed creature relative to your level. You can have
+ multiple animated tattoos. They are animated by typing "animate".
+-Increases the healing rate of the runist no matter where she goes.
+-Increases the mana regeneration rate of the runist no matter where 
+ she goes.
+-Regain some hp for each kill you make.
+-Regain some mana for each kill you make.
+-Gain more deity points for each sacrifice.
+-Reduces all damage taken from physical sources.
+-Reduces all damage taken from magical sources.
+-Grants temporarily knowledge of any spell you don't already know.
+-Raises the effectiveness of all your spells.
+
+In general, all bonuses from tattoos are cumulative and stack. Having
+multiples of the same power tattoo can be extremely useful.
+~
+
+0 FIRE RUNE~
+
+syntax: cast 'fire rune'
+
+The runist is able to scribe a fiery rune on the exits of the current
+room. Anyone entering the room will be engulfed in flames. Any number
+of victims may be burned by the fire rune, however they can only be
+burned once per tick for as long as the fire rune persists. Anyone
+within the grouping range of the runist is vulnerable to this rune.
+~
+
+0 SHACKLE RUNE~
+
+The runist can fashion mystical chains across the exits of the current
+room. Anyone in the runist's grouping range who enters the room will
+become entangled in the shackles. The shackles are short lived, but
+they make movememt extremely difficult. The shackles will work on
+everyone who passes by, but the affects are not cumulative.
+~
+
+0 ALARM RUNE~
+
+The runist can leave a personalized marking on a room. Anyone who
+passes by will disturb the pattern and the runist will be notified.
+This useful rune can be used defensively or offensively to keep
+track of people. You may only place one alarm rune at a time.
+~
+
+0 BURST RUNE~
+
+The runist is able to empower their weapons with magical symbols.
+The burst rune is the most powerful symbol a runist has, allowing
+their weapons to discharge violent blasts of magical energy.
+The magical is difficult to control, and the runist has no control
+over which effect the rune will produce, but all of the common
+magical attacks are available. This rune may be combined with a 
+blade rune to provide a runist with devastatingly powerful weapons.
+Only runists may wield weapons bearing a burst rune.
+
+Possible effects:
+Acid Blast
+Flamestrike
+Tsunami
+Blast of Rot
+Lightning Bolt
+Ice Bolt
+~
+
+0 BLADE RUNE~
+
+The runist is able to empower their weapons with magical symbols.
+The blade rune provides a variety of unique modifiers on weapons
+which substantially improve the combat abilities of runists.
+The magic is difficult to control, and the runist is unable to
+control which effect his blade rune will have. This rune may be 
+combined with a burst rune to provide a runist with devastatingly 
+powerful weapons. Only runists may wield weapons bearing a burst 
+rune.
+
+Possible effects:
+Shielding: Greatly boosts armor class.
+Accuracy: Hits are more difficult to avoid.
+Slaying: Boosts damage roll and becomes vorpal.
+Speed: Strikes more often.
+Deflection: Blocks incoming attacks.
+Piercing: Greatly boosts hit roll.
+~
+
+0 BALANCE RUNE~
+
+The runist is able to counteract the effects of magical enchantments
+using this rune. When cast on a weapon or armor, the balance rune 
+will cancel out the destructive forces of a failed enchantment, 
+allowing weapons and armor to receive additional enchantments. Balance 
+runes are severely limited. Each casting, there is a chance the balancing
+forces will destroy the weapon as surely as a failed enchant, as well,
+the balance rune will persist for only a very short time.
+~
+
+0 WIZARD MARK~
+
+Each soul has a unique aura, and runists are no exception. Runists
+are able to design a unique and easily visible mark to place upon
+their equipment. Such benefits are very minor, the item will lose
+any no_locate flags, and will now bear the runist's name. Any items
+which bear a wizard mark are distinctly noticeable by their runic
+aura. A wizard mark is a permanent thing, and once placed, cannot
+be removed in any way. The rune is powerful enough to stop non-runist 
+from using any wizard marked eq.
+~
+
+0 SOUL RUNE~
+
+Each soul has a unique aura, and runists are no exception. As an
+extension of the power of a wizard mark, high level runists are
+able to bind pieces of equipment directly to their souls. Such
+equipment appears ghostly and transparent, and is extremely
+difficult to seperate from the runist. The soul rune is powerful
+enough to persist even through death, allowing runists to carry
+on selective possessions into their next life.
+~
+
+0 DESTROY TATTOO~
+
+Magical tattoos created by runists are extremely durable and tough.
+No regular magic can seperate them from their wearer, only death
+causes them to vanish. The highest level runists possess sufficient 
+skill in tattoo magic to be able to forcibly remove tattoos from 
+their own bodies. The arts of tattooing have unpredictable results,
+and it may frequently be desirable to remove an unwanted tattoo 
+in order to replace it with something better. Destroying tattoos
+will not always work, and when successful, the runist will suffer
+fierce burns as the tattoo inks are purged from his skin.
+~
+
+0 SOUL BLADE~
+
+Psions are capable of focusing their inner powers into solid blades
+of energy which they can wield as weapons. Like many runist
+abilities, soul blades are far from predictable. The soul blade
+formed will assume a shape from among the weapons the user is
+most competent with, and at an appropriate level of power. The
+magical enhancements on a soul blade are random and dependent on
+the level of the psion. These weapons are powerful enough to
+outshine most conventional weaponry, however they are temporary
+and randomly generated.
+
+Known by:
+Psion
+~
+
+0 FURY~
+
+Psions are able to channel their inner powers through their own
+muscles, pushing their bodies beyond normal limits. Fury is a
+charged-up skill, the psion must reuse it several times for the
+fury to increase more and more. The psion is only able to use
+their fury this way in short bursts, but the results are quite
+remarkable. All the psion's hits will deal substantially more
+damage while under the effect of fury.
+
+Known by:
+Psion
+~
+
+0 TRANCE~
+
+Similar to Fury, the Psion is able to channel their energy 
+defensively as well. Using their energy to shield their minds 
+by entering a trance during combat, the psion can ingnore most 
+types of magical damage. This is a charge-up skill that can be 
+used repeatedly for increased effect. Such a deep trance cannot 
+be maintained for long.
+
+Known by:
+Psion
+~
+
+0 HURL~
+
+Exerting a frightening level of concentration, the Zealot is 
+able to maintain a deadly level of accuracy even a long ranges. 
+This skill is identical to throw, however it has a range of 
+greater than 1 room. You must be holding a throwing weapon in 
+order to use this skill.
+
+Known by:
+Zealot
+~
+
+0 ZEAL~
+
+The Zealot has the unique ability to channel the pain of his 
+injuries back into his own attacks. Rather than growing weaker 
+as he nears death, the Zealot grows more and more powerful with 
+each injury inflicted.
+
+Learned by:
+Zealot
+~
+
+0 DEATH RUNE~
+
+The many runes learned by Runists are powerful spells bound 
+into inanimate objects, and cannot directly target living things. 
+This also holds true for the Death Rune, until of course the 
+Zealot's body is no longer animated by his spirit. As a Zealots 
+lifeless body falls to the ground, the Death Rune will finally 
+take effect, blastinq the Zealot's slayer with a force akin to 
+a Meteor Swarm.
+
+Learned by:
+Zealot
+~
+   
+0 $~  
+
+#$     

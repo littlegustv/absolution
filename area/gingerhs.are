@@ -1,0 +1,4232 @@
+#AREADATA
+Name Gingerbread House~
+Builders None~
+VNUMs 18900 18999
+Credits { All } Kraken      Gingerbread House~
+Security 9
+Xcontinent 1
+Age 12
+Questable 1
+Control Kenshi~
+End
+
+
+
+#MOBILES
+#18900
+tourney mob~
+one of Kraken's Legionairs~
+A mighty Legionair is here, ready to destroy everything in its path.
+~
+This is a very big, very angry looking warrior.  It has been well trained
+in the arts of war.  It has endured through endless battles against time. 
+And it is now ready to do at is has been trained to do...  Bring about the
+Armageddon fortold in ages past!  
+~
+human~
+AFQRSTV CDFHTVZab 0 0
+60 16 1d1+255 1d1+100 1d1+63 divine
+-22 -22 -22 -22
+ABCFGKMNU ABLQTab 0 S
+stand stand none 0
+ABGHMVZ ABCDEFGHIJKQVX giant snakeskin the guilds~
+M grall 18902 100~
+M death 18901 100~
+#18901
+tiger~
+a tiger~
+A tiger is here.
+~
+It's a large, powerful cat with black, white, and orange stripes.  
+~
+cat~
+AB Z 0 0
+1 0 2d6+10 1d1+100 1d4+0 claw
+9 9 9 9
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQUV medium fur the guilds~
+#18902
+wolf~
+a wolf~
+A wolf is here.
+~
+It's a large, powerful beast with long black and silver fur.  
+~
+wolf~
+AB Z 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQUV medium 0 the guilds~
+#18903
+mud monster~
+a mud monster~
+A mud monster is here, preparing to slime you with goop.
+~
+It looks surprisingly like a gingerbread cookie.  The gingerbread man
+must have dropped it in the mud in his hurry to run away.  After all these
+years, it has become a hideous mud monster.  
+~
+human~
+AB BCDFHV 0 0
+10 1 2d7+121 1d1+100 2d4+2 splatter
+1 1 1 1
+AFHKMO ABJTZ ERS 0
+stand stand either 500
+AEHJMVc ABCDEFGHIJK medium mud the guilds~
+#18904
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+3 0 2d6+35 1d1+99 1d6+0 flbite
+7 7 7 7
+0 ABO EILMNPQRS OS
+stand stand none 275
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18905
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+6 0 2d7+71 1d1+99 1d7+1 flbite
+4 4 4 4
+0 AB EILMNPQRS OS
+stand stand none 450
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18906
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+9 0 2d6+110 1d1+99 1d8+2 flbite
+2 2 2 2
+0 AB EILMNPQRS OS
+stand stand none 675
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18907
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+12 0 2d10+150 1d1+99 1d10+3 flbite
+0 0 0 0
+0 AB EILMNPQRS OS
+stand stand none 450
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18908
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+15 0 3d9+208 1d1+99 2d6+3 flbite
+-2 -2 -2 -2
+0 AB EILMNPQRS OS
+stand stand none 1125
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18909
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+18 0 3d9+283 1d1+99 2d7+4 flbite
+-3 -3 -3 -3
+0 AB EILMNPQRS OS
+stand stand none 1350
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18910
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+21 0 4d10+360 1d1+99 4d4+5 flbite
+-5 -5 -5 -5
+0 AB EILMNPQRS OS
+stand stand none 1575
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18911
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+24 0 5d10+500 1d1+99 2d10+6 flbite
+-6 -6 -6 -6
+0 AB EILMNPQRS OS
+stand stand none 1800
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18912
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+27 0 5d10+650 1d1+99 5d4+7 flbite
+-8 -8 -8 -8
+0 AB EILMNPQRS OS
+stand stand none 2025
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18913
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+30 0 6d12+853 1d1+99 4d6+8 flbite
+-9 -9 -9 -9
+F AB EILMNPQRS OS
+stand stand none 1500
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18914
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+33 0 10d10+1100 1d1+99 4d4+10 flbite
+-11 -11 -11 -11
+F AB EILMNPQRS OS
+stand stand none 1650
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18915
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+36 0 10d10+1400 1d1+99 3d10+11 flbite
+-12 -12 -12 -12
+F AB EILMNPQRS OS
+stand stand none 2700
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18916
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+39 0 15d10+1700 1d1+99 5d6+13 flbite
+-13 -13 -13 -13
+F AB EILMNPQRS OS
+stand stand none 2925
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18917
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+42 0 25d10+2250 1d1+99 3d12+14 flbite
+-14 -14 -14 -14
+F AB EILMNPQRS OS
+stand stand none 3150
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18918
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+45 0 25d10+3000 1d1+99 8d4+16 flbite
+-15 -15 -15 -15
+F AB EILMNPQRS OS
+stand stand none 3675
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18919
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+48 0 25d10+3750 1d1+99 6d6+18 flbite
+-18 -18 -18 -18
+F AB EILMNPQRS OS
+stand stand none 3600
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18920
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFIT -1000 0
+51 0 50d10+5000 1d1+99 5d8+20 flbite
+-21 -21 -21 -21
+F AB EILMNPQRS OS
+stand stand none 3525
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18921
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFITV -1000 0
+54 0 50d10+6500 1d1+99 7d6+22 flbite
+-24 -24 -24 -24
+DFK AB EILMNPQRS OS
+stand stand none 4050
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18922
+phoenix~
+a lost little phoenix cookie~
+A lost little phoenix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+A lost little phoenix cookie is here, unable to find its way out, dying
+in hopelessness but endlessly being reborn again.  
+~
+doll~
+AB DFITVb -1000 0
+58 0 50d10+8500 1d1+99 5d10+25 flbite
+-28 -28 -28 -28
+DFIN AB EILMNPQRS OS
+stand stand none 4500
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18923
+pheonix~
+a lost little pheonix cookie~
+A lost little pheonix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+~
+doll~
+AB DFIT -1000 0
+39 0 15d10+1700 1d1+99 5d6+13 flbite
+-13 -13 -13 -13
+F AB EILMNPQRS OS
+stand stand none 1950
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18924
+pheonix~
+a lost little pheonix cookie~
+A lost little pheonix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+~
+doll~
+AB DFIT -1000 0
+41 0 25d10+2000 1d1+99 4d8+14 flbite
+-14 -14 -14 -14
+F AB EILMNPQRS OS
+stand stand none 2050
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18925
+pheonix~
+a lost little pheonix cookie~
+A lost little pheonix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+~
+doll~
+AB DFIT -1000 0
+43 0 25d10+2500 1d1+99 3d12+15 flbite
+-15 -15 -15 -15
+F AB EILMNPQRS OS
+stand stand none 2150
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18926
+pheonix~
+a lost little pheonix cookie~
+A lost little pheonix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+~
+doll~
+AB DFIT -1000 0
+45 0 25d10+3000 1d1+99 8d4+16 flbite
+-15 -15 -15 -15
+F AB EILMNPQRS OS
+stand stand none 2250
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18927
+pheonix~
+a lost little pheonix cookie~
+A lost little pheonix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+~
+doll~
+AB DFITV -1000 0
+47 0 25d10+3500 1d1+99 6d6+17 flbite
+-17 -17 -17 -17
+DFI AB EILMNPQRS OS
+stand stand none 2350
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18928
+pheonix~
+a lost little pheonix cookie~
+A lost little pheonix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+~
+doll~
+AB DFITV -1000 0
+49 0 50d10+4000 1d1+99 4d10+18 flbite
+-19 -19 -19 -19
+DFI AB EILMNPQRS OS
+stand stand none 2450
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18929
+pheonix~
+a lost little pheonix cookie~
+A lost little pheonix cookie is here, unable to find its way out, dying in hopelessness but endlessly being reborn again.
+~
+~
+doll~
+AB DFITV -1000 0
+51 0 50d10+5000 1d1+99 5d8+20 flbite
+-21 -21 -21 -21
+DFI AB EILMNPQRS JOS
+stand stand none 2550
+ABEGHJMVZc ABCDEFGHIJKQVX tiny fire the guilds~
+#18930
+blind old oracle~
+a blind old oracle~
+A blind old oracle is here, helping those who become lost and injured.
+~
+She's an old human woman.  At least a few hundred years old.  Here eyes
+have been torn out by someone or something a long time ago.  Now she just
+sits here, helping whomever and whatever she can.  
+~
+human~
+ABa DEFHLNOZ 0 0
+30 3 6d12+853 1d1+299 4d6+8 divine
+-9 -9 -9 -9
+ABFGHK ABCDEFGHIJKLMNOPQRTXYZab 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium skin the guilds~
+#18931
+gingerbread croquet~
+a croquet playing gingerbread cookie~
+A croquet playing gingerbread cookie is here, swinging in vain at a croquet ball.
+~
+Its not that big and its aim is considerably off.  It gets uneasy when it
+notices you watching it.  You shouldn't mess with a cookie wielding a
+croquet mallet.  
+~
+human~
+AB DEFHLVZab 1000 0
+20 1 3d9+333 1d1+99 2d8+5 smash
+-4 -4 -4 -4
+U AB S 0
+stand stand either 1500
+AEHJMVc ABCDEFGHIJK medium food the guilds~
+#18932
+gingerbread dancer~
+a dancing gingerbread cookie~
+A dancing gingerbread cookie is here, spinning around in perfect syncricy.
+~
+It dances as though it had been dancing its whole life.  Twirling and
+jumping.  You could stay here and watch, but there are better things that
+you could do.  
+~
+doll~
+AB HNOVY -1000 0
+15 0 4d10+300 1d1+100 1d5+2 gore
+-2 -2 -2 -2
+FHKU ABILMNPQR EILMNPQRS O
+stand stand none 750
+EJMc ABCGHK medium food the guilds~
+#18933
+gingerbread coat attendant~
+a gingerbread coat attendant~
+A gingerbread coat attendant is here, waiting to take your things.
+~
+It stands here, waiting for you to dump your load of travel gear on it.  
+~
+doll~
+AB Yd -1000 0
+30 1 6d12+853 1d1+99 4d6+8 gore
+-9 -9 -9 -9
+0 0 EILMNPQRS GO
+stand stand none 1500
+EJMc ABCGHK medium food the guilds~
+#18934
+gingerbread servant~
+a gingerbread servant~
+A gingerbread servant is here, waiting for orders.
+~
+It stands here, waiting for its master to come and tell it what to do.  
+~
+doll~
+AB Yd -1000 0
+30 1 6d12+853 1d1+99 4d6+8 gore
+-9 -9 -9 -9
+0 ILMNPQR EILMNPQRS HO
+stand stand none 1500
+EJMc ABCGHK medium 0 the guilds~
+#18935
+gingerbread waiter~
+a gingerbread waiter~
+A gingerbread waiter is here, setting the table for the next meal.
+~
+It stands here, quietly going about its duty of meticulously placing
+dishes, utensils, napkins, etc.  
+~
+doll~
+AB Yd -1000 0
+30 1 6d12+853 1d1+99 4d6+8 gore
+-9 -9 -9 -9
+0 0 EILMNPQRS JO
+stand stand none 1500
+EJMc ABCGHK medium food the guilds~
+#18936
+gingerbread baker~
+a gingerbread baker~
+The Gingerbread Baker is here, covered with flour.
+~
+This baker is an expert in his art.  His skills are second only to the
+Gingerbread Man himself.  You should show him proper respects.  
+~
+doll~
+ABV L 1000 0
+30 3 6d12+853 1d1+99 4d6+8 gore
+-9 -9 -9 -9
+0 ABILMNPQRab EILMNPQRS O
+stand stand male 60000
+EJMc ABCGHK medium food the guilds~
+#18937
+gingerbread vampire~
+a gingerbread vampire~
+A gingerbread vampire is here, lurking about and looking for cookies to suck the sugar out of.
+~
+It lurks about, dark hollow eyes darting back and forth, looking for
+another victim.  
+~
+bat~
+AB TYZd -1000 0
+30 1 6d12+853 1d1+99 4d6+8 drain
+-9 -9 -9 -9
+FH MNP S KS
+stand stand none 1500
+AEGJMVc ABCDEFGHJKP medium food the guilds~
+#18938
+gingerbread man~
+the {c*** {yGingerbread Man {c***{x~
+The {c*** {yGingerbread Man {c***{x is here, protecting his home.
+~
+He's a huge, fearsome cookie.  You can tell just by looking at him that
+you're not welcome here.  Especially not in HIS bedroom.  You had better
+leave before he really gets angry.  
+~
+human~
+ABCOQRST BDEFHLNOTVZab 1000 0
+60 0 100d100+10000 100d100+1000 10d10+10 divine
+-30 -30 -30 -30
+ABEFJKMO ABLQab DS 0
+stand stand male 5000
+AEHJMVc ABCDEFGHIJK giant food the guilds~
+M death 18972 100~
+#18939
+gingerbread hamster~
+a hamster~
+A hamster is here, running on a wheel.
+~
+It's a chubby little thing.  It runs around and around on its wheel,
+providing power for all the little machines.  You know the Gingerbread Man
+must feed it well for it to be running around so happily.  
+~
+pig~
+AB DFHNOTUV 0 0
+1 0 2d6+10 1d1+99 1d4+0 chomp
+9 9 9 9
+AH A 0 B
+stand stand none 0
+AGV ACDEFHJK medium flesh the guilds~
+#18940
+gingerbread house keeper~
+a gingerbread house keeper~
+A gingerbread house keeper is here... cleaning house!!
+~
+~
+doll~
+AB 0 -1000 0
+35 0 10d10+1300 1d1+99 4d7+11 clobber
+-11 -11 -11 -11
+0 0 EILMNPQRS O
+stand stand female 5000
+EJMc ABCGHK medium food the guilds~
+#18941
+soap sud gremlin~
+the soap sud gremlin~
+The soap sud gremlin is here, waiting for someone to step into its bubble bath.
+~
+It's a nasty little hairy beast.  It has long hooked claws and wicked
+curved fangs.  Maybe it's just hungry?  Or maybe it wants to strip you of
+your flesh and gnaw on your bones...  
+~
+gnome~
+AB DFJ -1000 0
+60 6 50d10+9500 1d1+99 8d6+28 skewer
+-30 -30 -30 -30
+D AB BE HK
+stand stand none 5000
+ABEHJMVc ABCDEFGHIJKUV medium food the guilds~
+#18942
+squeaky mouse~
+a squeaky mouse~
+A tiny little squeaky mouse is here, sniffing the air.
+~
+It's a tiny little thing.  Barely the size of a thimble.  It squeaks at
+you as though it wants your attention.  
+~
+human~
+AB LZ 1000 0
+0 0 6d12+853 1d1+100 4d6+8 none
+-9 -9 -9 -9
+0 ABILMNPQRab ES GHJKO
+stand stand male 8000
+AEHJMVc ABCDEFGHIJK medium flesh the guilds~
+#18943
+suicidal gingerbread~
+a suicidal gingerbread cookie~
+A gingerbread cookie is here, standing on top of the statue.
+~
+It appears as though it's getting ready to jump to its death.  It must be
+quite a suicidal cookie.  It looks to you and says, "Why'd you do it?  Why'd
+you come here and destroy our peaceful place?"  
+~
+human~
+AB 0 -1000 0
+40 0 15d10+1850 1d1+99 4d8+13 smite
+-13 -13 -13 -13
+0 0 ES 0
+stand stand none 0
+AEHJMVc ABCDEFGHIJK medium food the guilds~
+M death 18972 5~
+#18944
+drunk gingerbread~
+a drunk gingerbread cookie~
+A drunken gingerbread cookie is here, stumbling about.
+~
+It looks a little bit intoxicated.  You could easily rob it blind and it
+would never know.  Then again, you can never tell what a cookie might do.  
+~
+human~
+AB 0 -750 0
+45 0 25d10+3000 1d1+99 8d4+16 beating
+-15 -15 -15 -15
+IN 0 ES 0
+stand stand none 0
+AEHJMVc ABCDEFGHIJK medium food the guilds~
+#18945
+buffed gingerbread~
+a buffed up gingerbread cookie~
+A buffed up gingerbread cookie is here, lifting weights.
+~
+It completely ignores you, too busy with pumping iron to give you the
+time of day.  It could crush you like a bug, given the opportunity.  
+~
+human~
+AB 0 -1000 0
+45 0 25d10+3000 1d1+99 8d4+16 slaughter
+-15 -15 -15 -15
+0 0 ES 0
+stand stand none 2750
+AEHJMVc ABCDEFGHIJK medium food the guilds~
+#18946
+gingerbread security guard~
+a gingerbread security guard~
+A gingerbread security guard is here, protecting the vault.
+~
+It's a big, tough cookie.  It marches back and forth, taking notice of
+every little thing that moves.  Even if it's just a spec of dust floating in
+the air.  
+~
+human~
+AB VY -1000 0
+45 -1 25d10+3000 1d1+100 8d4+16 slaughter
+-15 -15 -15 -15
+FKU ABab DS 0
+stand stand none 2750
+AEHJMVc ABCDEFGHIJK medium food the guilds~
+#18947
+decomposing corpse~
+a decomposing corpse~
+A decomposing corpse is here... well... decomposing...
+~
+It's a corpse.  What more can you say.  Though it seems a bit odd that it
+would wandering about, poking and biting anything that moves.  
+~
+deamon~
+AB DFJTV -1000 0
+45 -1 25d10+3000 1d1+99 8d4+16 drain
+-15 -15 -15 -15
+CFHKU ABLab H NS
+stand stand none 2750
+ABEGJMZc ABCDEFGHJKQVX medium flesh the guilds~
+#18948
+gingerbread~
+a gingerbread cookie~
+A gingerbread cookie is here, waiting to be eaten!
+~
+It's just sitting there, waiting for someone to come along and eat it.  
+~
+human~
+AB DFTV -1000 0
+45 -1 25d10+3000 1d1+99 8d4+16 gutting
+-15 -15 -15 -15
+FHKU ABab ES 0
+stand stand none 2250
+ABEGHJMVZc ABCDEFGHIJKQVX medium food the guilds~
+#18949
+gingerbread technician~
+a gingerbread technician~
+A gingerbread technician is here, running tests.
+~
+It wanders between various panels around the room, pressing buttons and
+flicking levers.  It must be building something nasty.  You'd best be
+leaving before you get hurt.  
+~
+human~
+AB CDEFHNOTVZ -1000 0
+1 0 2d6+10 1d1+99 1d4+0 gutting
+9 9 9 9
+FGHK ABab JS 0
+stand stand none 0
+ABEGHJMVZc ABCDEFGHIJKQVX tiny food the guilds~
+#18950
+mutant gingerbread~
+a mutant gingerbread cookie~
+A mutant gingerbread cookie is here, destroying everything in sight.
+~
+It's a hideously deformed cookie.  It spues fire from its nostrils, acid
+drips from it's teeth, and its eyes glow with an eerie light.  
+~
+deamon~
+ABQRST DFHJTVZab 0 0
+50 -1 50d10+4500 1d1+99 5d8+19 flame
+-20 -20 -20 -20
+ABCEFHKMNO AB H NS
+stand stand none 0
+ABGZ ACDEFHJKQVX medium food the guilds~
+M grall 18950 100~
+#18951
+gingerbread sentry~
+a gingerbread sentry~
+A gingerbread sentry is here, guarding the path through the forest.
+~
+He's a large, fearsome cookie.  He could rip you in half, eat you alive,
+and pick his teeth with your bones without a second thought.  The
+gingerbread man certainly made a good choice for a forest guard.  
+~
+human~
+ABG DEFHJNOVZab 0 0
+60 6 50d10+9500 1d1+100 8d6+28 strangle
+-30 -30 -30 -30
+ABEFGHJKMO ABLQab S 0
+stand stand male 0
+AEHJMVc ABCDEFGHIJK giant food the guilds~
+M speech 18952 I declare my loyalty to Krakachu and the Kukymon kind.~
+M grall 18951 100~
+M give 18955 all~
+M delay 18956 100~
+#0
+
+
+
+#OBJECTS
+#18900
+kraken divine essence~
+a hint of {DKraken's {Wdivine {gessence{x~
+A hint of {DKraken's {Wdivine {gessence{x is here.~
+food~
+potion ABTYe AP
+30 'cure blindness' 'remove curse' 'cure disease' 'reserved'
+1 0 10000 P
+#18901
+fresh meat~
+some fresh meat~
+Some fresh meat is here, dripping blood.~
+food~
+pill AGTY A
+10 'animal growth' 'haste' 'frenzy' 'reserved'
+0 1 0 P
+#18902
+mud ball~
+a mud ball~
+A mud ball is here, dripping bits of mud.~
+earth~
+weapon GI AN
+staff 3 2 splatter M
+10 1 1000 P
+#18903
+pile leaves needles~
+a pile of leaves and needles~
+A pile of leaves and needles is here.~
+parchment~
+portal G P
+0 0 0 18941 0
+0 0 0 P
+#18904
+croquet mallet~
+a croquet mallet~
+A croquet mallet is here.~
+iron~
+weapon I AN
+mace 3 6 smash FJ
+20 1 2000 P
+#18905
+intricately woven cotton candy dress~
+an intricately woven cotton candy dress~
+An intricately woven cotton candy dress is here, giving off a cherry-like incense.~
+food~
+armor AG AD
+6 6 5 4 0
+15 1 1500 P
+A
+20 -2  
+A
+12 10  
+#18906
+fairy fountain~
+a fairy fountain~
+A fairy fountain is here with a large griffon statue in the center, spewing a sparkling black liquid.~
+marble~
+fountain A P
+100000 100000 'milk' 0 0
+0 0 0 P
+#18907
+whip strand red licorice~
+a strand of red licorice~
+A strand of red licorice is here, getting dirty.~
+food~
+weapon GISYe AN
+whip 1 10 whip DE
+15 1 1500 P
+A
+1 1  
+A
+2 1  
+A
+19 -1  
+A
+18 -1  
+#18908
+coat rack~
+a coat rack~
+A coat rack is here.~
+wood~
+container 0 P
+1000 0 0 1000 100
+0 0 0 P
+#18909
+black riding cloak~
+a black riding cloak~
+A black riding cloak is here, absorbing the light, creating a shroud of darkness.~
+velvet~
+armor SYe AC
+6 6 5 2 0
+30 1 3000 P
+A
+1 2  
+A
+2 2  
+#18910
+tall black riding boots~
+a pair of tall black riding boots~
+A pair of tall black riding boots are here, absorbing the light, creating a dark space in the room.~
+snakeskin~
+armor SYe AG
+9 9 8 7 0
+30 1 3000 P
+A
+2 3  
+#18911
+pool table~
+a pool table~
+A pool table is here.~
+wood~
+container 0 P
+1000 ACD 18912 1000 100
+0 0 0 P
+#18912
+magic coin~
+a magic coin~
+A magic coin is here.~
+platinum~
+armor FG AO
+0 0 0 0 0
+0 1 0 P
+A
+12 5  
+#18913
+cue ball~
+a cue ball~
+A cue ball is here, glowing brightly.~
+porcelain~
+throwing A AOY
+5 6 divine 45 'confusion'
+30 1 3000 P
+#18914
+eight ball~
+an eight ball~
+An eight ball is here, absorbing the light.~
+porcelain~
+throwing A AO
+5 6 divine 35 'blindness'
+30 1 3000 P
+#18915
+roast gingerbread turkey~
+a roasted gingerbread turkey~
+A roasted gingerbread turkey is here, slowly hypnotising you with a pungent spicy smell.~
+food~
+container 0 A
+5 0 0 5 100
+0 1 0 P
+#18916
+gingerbread stuffing~
+some gingerbread stuffing~
+Some gingerbread stuffing is here, giving off a very spicy aroma.~
+wood~
+pill A A
+45 'cure poison' 'cure disease' 'reserved' 'reserved'
+30 1 3000 P
+#18917
+broiler oven~
+a broiler oven~
+A broiler oven is here, slowly turning food into a black and charred mess.~
+iron~
+container A P
+1000 AC 0 1000 90
+0 10000 0 P
+#18918
+flame broiled elfkabob~
+a flame broiled elfkabob~
+A flame broiled elfkabob is here, giving off a juicy, almost intoxicating smell.~
+food~
+pill GS A
+10 'stone skin' 'shield' 'reserved' 'reserved'
+0 1 2500 P
+#18919
+gingerbread cookie~
+a gingerbread cookie~
+A gingerbread cookie is here, luring you in with an irresistable aroma.~
+food~
+pill GS A
+10 'bark skin' 'pass door' 'reserved' 'reserved'
+10 1 2500 P
+#18920
+cookie containment breadbox~
+a mysterious glowing breadbox~
+A mysterious glowing breadbox is here, bearing a label that reads as follows: "Warning - Cookie Containment - Do NOT Open"~
+iron~
+container AG P
+1000 ACD 18952 1000 1
+0 1000 0 P
+#18921
+crispy cookie~
+a crispy cookie~
+A crispy cookie is here. It's been baked way too long.~
+wood~
+trash AGS A
+0 0 0 0 0
+0 1 0 P
+#18922
+big bag sugar~
+a BIG bag of sugar~
+A BIG bag of sugar is here, slowly leaking. The sugar has a strange white glow.~
+hemp~
+recall_crystal AIS AO
+BEJLO AC AC 0 0
+0 1 0 P
+#18923
+giant freezy~
+a giant freezy~
+A giant freezy is here. It's got all the flavours you could possibly imagine.~
+ice~
+recall_crystal AIS AO
+BFJLO AC AC 0 0
+0 1 0 P
+#18924
+toilet~
+a toilet~
+A toilet is here, repeatedly flushing itself.~
+porcelain~
+recall_crystal AIS AO
+ACDEFGHILO AC AC 0 0
+0 1 0 P
+#18925
+bottle rocket fuel~
+a bottle of rocket fuel~
+A bottle of rocket fuel is here. But what's it doing here??~
+plastic~
+recall_crystal AIS AO
+CEFJLO AC AC 0 0
+0 1 0 P
+#18926
+gingerbread man space time distortion~
+the gingerbread man's space/time distortion~
+The gingerbread man's space/time distortion is here, making the world look all slow and wavey.~
+energy~
+container AISYe AQ
+150 AC 0 150 25
+25 1 0 P
+#18927
+stinky cookie cutter~
+a stinky cookie cutter~
+This cookie cutter seems to be growing some sort of fungus. There's also a sticky goo covering the edges.~
+tin~
+trash AGI A
+0 0 0 0 0
+51 1 0 P
+A
+20 -1  
+#18928
+pneumatic cookie cutter~
+a pneumatic cookie cutter~
+This cookie cutter has a self contained power source and can imprint cookie shapes into iron sheets. It seems to be leaking fluid from a crack in the pneumatic press.~
+steel~
+trash AGI A
+0 0 0 0 0
+51 1 0 P
+A
+20 -1  
+#18929
+flaming ice cookie cutter~
+a flaming ice cookie cutter~
+This cookie cutter is made of red ice and is engulfed in blue flames.~
+ice~
+trash AGI A
+0 0 0 0 0
+51 1 0 P
+A
+20 -1  
+#18930
+mechanical motorized cookie cutter~
+a mechanical motorized cookie cutter~
+This cookie cutter has many gears and moving parts along with a motor attached to the top. It seems to be leaking a corrosive liquid.~
+steel~
+trash AGI A
+0 0 0 0 0
+51 1 0 P
+A
+20 -1  
+#18931
+tree shape cookie cutter~
+a tree shaped cookie cutter~
+A tree shaped cookie cutter is here.~
+iron~
+trash AGI A
+0 0 0 0 0
+51 1 0 P
+A
+20 -1  
+#18932
+coral fish shape cookie cutter~
+a coral fish shaped cookie cutter~
+A coral fish shaped cookie cutter is here.~
+coral~
+trash AGI A
+0 0 0 0 0
+51 1 0 P
+A
+20 -1  
+#18933
+lightning bolt shape cookie cutter~
+a lightning bolt shaped cookie cutter~
+A lightning bolt shaped cookie cutter is here.~
+energy~
+trash AGI A
+0 0 0 0 0
+51 1 0 P
+A
+20 -1  
+#18934
+serpent shape cookie cutter~
+a serpent shaped cookie cutter~
+A serpent shaped cookie cutter is here.~
+snakeskin~
+trash AGI A
+0 0 0 0 0
+51 1 0 P
+A
+20 -1  
+#18935
+spider shape cookie cutter~
+a spider shaped cookie cutter~
+A spider shaped cookie cutter is here.~
+wood~
+trash AGI A
+0 0 0 0 0
+51 1 0 P
+A
+20 -1  
+#18936
+star shape cookie cutter~
+a star shaped cookie cutter~
+A star shaped cookie cutter is here.~
+fire~
+trash AGI A
+0 0 0 0 0
+51 1 0 P
+A
+20 -1  
+#18937
+black ebony pentagram imprint cookie cutter~
+a black ebony cookie cutter~
+A black ebony cookie cutter is here. A pentagram is imprinted into the surface.~
+ebony~
+trash AGI A
+0 0 0 0 0
+51 1 0 P
+A
+20 -1  
+#18938
+dull rust cookie cutter~
+a dull rusting cookie cutter~
+A dull rusting cookie cutter is here.~
+metal~
+trash AGI A
+0 0 0 0 0
+51 1 0 P
+A
+20 -1  
+#18939
+gingerbread man shape cookie cutter~
+a gingerbread man shaped cookie cutter~
+A gingerbread man shaped cookie cutter is here... but this is no ordinary cookie cutter. It has a unique aura surrounding it.~
+metal~
+trash AGI A
+0 0 0 0 0
+51 1 0 P
+A
+20 -1  
+#18940
+shiny velvet tie~
+a shiny velvet tie~
+A shiny velvet tie is here. The sparkling pattern reflecting off of it are almost hypnotic.~
+velvet~
+staff AI AO
+12 10 10 'charm person' 0
+6 1 0 P
+#18941
+hamster wheel~
+a hamster wheel~
+A hamster wheel is here, spinning really really fast.~
+wood~
+weapon AI AN
+exotic 1 1 slice AE
+0 1 0 P
+A
+18 1  
+A
+12 -25  
+#18942
+skimpy maid outfit~
+a skimpy maid's outfit~
+A skimpy maid's outfit is here.~
+silk~
+armor FI AK
+0 0 0 0 0
+20 1 10000 P
+A
+13 20  
+A
+9 -20  
+#18943
+multi studded ring vanity~
+a multi-studded ring~
+A sparkling ring is here. It has all sorts of gems embedded into its surface.~
+vanity~
+armor 0 AB
+1 1 1 1 0
+7 1 10000 P
+A
+2 -1  
+A
+1 -1  
+A
+5 1  
+A
+3 1  
+#18944
+multi studded brooch vanity~
+a multi-studded brooch~
+A sparkling brooch is here. It has all sorts of gems embedded into its surface.~
+gem~
+armor 0 AC
+1 1 1 1 0
+3 1 10000 P
+A
+2 -1  
+A
+1 -1  
+A
+5 1  
+A
+3 1  
+#18945
+multi studded bracelet vanity~
+a multi-studded bracelet~
+A sparkling bracelet is here. It has all sorts of gems imbedded into its surface.~
+gem~
+armor 0 AM
+1 1 1 1 0
+5 1 10000 P
+A
+2 -1  
+A
+1 -1  
+A
+5 1  
+#18946
+multi studded tiara vanity~
+a multi-studded tiara~
+A sparkling tiara is here. It has all sorts of gems imbedded into its surface.~
+gem~
+armor 0 AE
+1 1 1 1 0
+4 1 10000 P
+A
+2 -1  
+A
+1 -1  
+A
+5 1  
+A
+3 1  
+#18947
+multi studded mirror vanity~
+a multi-studded mirror~
+A sparkling mirror is here. It has all sorts of gems imbedded into its surface.~
+gem~
+armor 0 AO
+1 1 1 1 0
+1 1 10000 P
+A
+2 -1  
+A
+1 -1  
+A
+5 1  
+A
+4 1  
+#18948
+aura vanity~
+an aura of vanity~
+An aura of vanity is here. By just looking at it, you feel you aren't good enough.~
+gem~
+armor 0 AQ
+1 1 1 1 0
+7 1 10000 P
+A
+2 -1  
+A
+1 -1  
+A
+5 1  
+A
+4 1  
+A
+3 1  
+#18949
+gingerbread house secret treasure~
+the gingerbread house's secret treasure~
+The gingerbread house's secret treasure is here. You have no clue what it is or what it does.~
+gem~
+treasure AF A
+0 0 0 0 0
+0 1 10000 P
+#18950
+hang glider~
+a hang glider~
+A hang glider is here. It's huge glowing wings look like they can take you anywhere.~
+wood~
+recall_crystal A AO
+ADFJLO BD BD 0 0
+0 1 0 P
+#18951
+huge bottomless keg~
+a huge bottomless keg~
+A huge bottomless keg is here. It has a small tap plugged into its base which slowly drips a sweet smelling brew.~
+wood~
+drink 0 AY
+100 100 'beer' 1 0
+0 250 0 P
+#18952
+vault key~
+a vault key~
+A key is here. It has an interesting design on on side and some strange writing on the other.~
+diamond~
+key A A
+0 0 0 0 0
+0 1 0 P
+#18953
+plasma sponge~
+a plasma sponge~
+A plasma sponge is here, sucking up little bits of radioactive goop.~
+sponge~
+weapon AHM AN
+exotic 1 1 suction K
+0 1 0 P
+#18954
+spicy gingerbread crumb~
+a spicy gingerbread crumb~
+A bread crumb is here, smelling noticably spicy.~
+food~
+food A A
+9 1 0 A 0
+0 1 10 P
+#18955
+mark kukymon tatoo~
+the mark of the Kukymon~
+A piece of torn leather is here. It bears a deep stain outlining a Kukymon.~
+leather~
+armor AIYe AI
+13 13 13 13 0
+51 1 10000 P
+A
+20 -1  
+A
+18 2  
+A
+19 2  
+#18956
+portal gate exit~
+the exit from the maze~
+The exit glows brightly here, leading back into the forest.~
+energy~
+portal BO 0
+0 0 0 18917 0
+0 0 0 P
+#18957
+note crumpled~
+a small crumpled up note~
+A crumpled up note is here, there seems to be something written on it...~
+paper~
+trash 0 A
+0 0 0 0 0
+0 10 0 P
+E
+note~
+Written on this small scrap of paper in very small writing is
+the following:
+ 
+My cookie cutters are gone now, and forever broken. The
+only weapons which are comparable in power are listed here if
+you ever need to craft them.
+ 
+"oozing pile driver"
+"crescent shaped plasma blade"
+"crystal shard"
+"spiked chain of nergal"
+"arcing lightning bolt"
+"holy water sprinkler"
+"song of the angelic choir"
+ 
+Each of these weapons requires an equipment voucher and 50
+diamonds from midgaard to be crafted. Good luck!
+ 
+Signed,
+The Gingerbread Man
+~
+#18958
+ginormous gingerbread cookie~
+a {cginormous {ygingerbread {xcookie~
+The gingerbread sentry's ginormous gingerbread cookie lies here with a bite taken out of it.~
+food~
+food PTYe AO
+0 0 0 0 0
+0 15 0 P
+E
+cookie~
+Carved into the bottom of the cookie, it says:
+ 
+Take this to the Gingerbread Sentry, and declare your loyalty.
+~
+E
+ginourmous~
+Carved into the bottom of the cookie, it says:
+ 
+Take this to the Gingerbread Sentry, and declare your loyalty.
+~
+E
+gingerbread~
+Carved into the bottom of the cookie, it says:
+ 
+Take this to the Gingerbread Sentry, and declare your loyalty.
+~
+#18998
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#18999
+firecracker american independence~
+a {Rfirecracker{x~
+A {Rfirecracker{x has been dropped here to celebrate {RA{Wm{Be{Rr{Wi{Bc{Ra{Wn {BI{Rn{Wd{Be{Rp{We{Bn{Rd{We{Bn{Rc{We{B!{x~
+gem~
+gem TW A
+0 0 0 0 0
+0 1 10000 P
+#0
+
+
+
+#ROOMS
+#18900
+Kraken's Personal Space~
+You have entered Kraken's personal space.  What gives you the right to
+invade on his home.  Wait...  The sound of someone's footsteps...  Getting
+closer.  You'd better leave now while you still can.  
+~
+0 269000708 0
+M 500 H 500
+S
+#18901
+A Well Traveled Path~
+You are on a well traveled path.  There is sufficient light coming from
+outside the forest to show you the way.  To one side of the path is a sign. 
+The path continues to the north and south.  
+~
+0 4 3
+E
+sign~
+A sign is here, mounted onto a large, sturdy wooden post.
+It reads as follows:
+ 
+*************************************************
+*                                               *
+*       Welcome to the Gingerbread House!       *
+*     Come one, come all this area is safe      *
+*           for all levels to enjoy.            *
+*                                               *
+*************************************************
+ 
+say I declare my loyalty to Krakachu and the Kukymon kind.
+~
+D0
+~
+~
+1 0 18902
+D2
+~
+~
+0 0 10888
+S
+#18902
+A Bend in the Path~
+You are on a well traveled path.  There is still a slight amount of light
+coming from outside the forest.  Enough to show you a sharp bend in the
+path.  The path widens to the east, where you can see a sunray penetrating
+through the forest canopy.  The path continues to the south.  
+~
+0 1 3
+D1
+~
+~
+0 0 18903
+D2
+~
+~
+1 0 18901
+S
+#18903
+A Clearing in the {gForest{x~
+You are in a clearing in the forest.  Lining the clearing are sets of
+bushes.  The only breaks in the bushes are to the west and east, where the
+path gets narrower and much darker.  
+~
+0 0 3
+D0
+A large group of bushes.
+~
+bush~
+1 0 18906
+D1
+~
+~
+0 0 18904
+D2
+A large group of bushes.
+~
+bushes~
+1 0 18908
+D3
+~
+~
+0 0 18902
+S
+#18904
+A Bend in the Path~
+You are on a well traveled path.  The forest canopy above blocks out all
+light, making it impossible to see where you're going.  However, you can
+still manage to find your way by following the dirt path.  The path
+continues to the north and widens to the west, where you can detect faint
+traces of light.  
+~
+0 1 3
+D0
+~
+~
+0 0 18905
+D3
+~
+~
+0 0 18903
+S
+#18905
+A Well Traveled Path~
+You are on a well traveled path.  The forest canopy above blocks out all
+light, making it impossible to see where you're going.  However, you can
+still manage to find your way by following the dirt path.  The path
+gradually becomes mud as you progress eastward, but remains dry to the
+south.  
+~
+0 1 3
+D1
+~
+~
+0 0 18910
+D2
+~
+~
+0 0 18904
+S
+#18906
+Outside a Cave~
+You are outside a cave.  It looks to be very deep and very dark.  A large
+group of bushes blocks your path to the south.  If you think you can handle
+the dark, narrow confines of the cave, proceed west.  
+~
+0 1 3
+D2
+A large group of bushes.
+~
+bushes~
+1 0 18903
+D3
+~
+~
+0 0 18907
+S
+#18907
+In a Deep {dDark{x Cave~
+You are in a deep dark cave.  It's so dark in here, you can't even see
+the floor that you're standing on.  The only exit is towards the faint
+traces of light to the east.  
+~
+0 1 0
+D1
+~
+~
+0 0 18906
+S
+#18908
+Outside a Cave~
+You are outside a cave.  It looks to be very deep and very dark.  A large
+group of bushes blocks your path to the north.  If you think you can handle
+the dark, narrow confines of the cave, proceed east.  
+~
+0 1 3
+D0
+A large group of bushes.
+~
+bushes~
+1 0 18903
+D1
+~
+~
+0 0 18909
+S
+#18909
+In a Deep {dDark{x Cave~
+You are in a deep dark cave.  It's so dark in here, you can't even see
+the floor that you're standing on.  The only exit is towards the faint
+traces of light to the west.  
+~
+0 1 0
+D3
+~
+~
+0 0 18908
+S
+#18910
+A Large Mud-Hole~
+You are at the edge of a large mud-hole.  You can't help but to wonder
+how so much mud can gather in one spot.  You can see some bubbles rising
+slowly from the mud.  There's a narrow path around the mud hole and a break
+in the trees to one side.  The only exits are on the path to the north and
+west.  
+~
+0 1 4
+D0
+~
+~
+0 0 18911
+D3
+~
+~
+0 0 18905
+S
+#18911
+Entrance to a Grassy Plain~
+You are at the edge of the forest.  At this point, the forest completely
+disappears into an endless expanse of grass.  In almost a perfect line, the
+edge of the forest continues to the east and west.  The dirt path from the
+south gradually disappears into the grass.  
+~
+0 0 2
+D0
+~
+~
+0 0 18946
+D1
+~
+~
+0 0 18918
+D2
+~
+~
+0 0 18910
+D3
+~
+~
+0 0 18912
+S
+#18912
+The South-West Corner of the Grassy Plain~
+You are at the edge of the forest.  This appears to be one corner of the
+field of grass.  The forest edge is so thick that there's no going through
+it.  The only real exits from here are to the north and east along the edge
+of the forest.  
+~
+0 0 2
+D0
+~
+~
+0 0 18913
+D1
+~
+~
+0 0 18911
+S
+#18913
+The Edge of the {gForest{x~
+You are at the edge of the forest.  To one side of you, you can see an
+endless expanse of grass.  To the other, nothing but trees.  The edge of the
+forest continues to the north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 18914
+D2
+~
+~
+0 0 18912
+S
+#18914
+The North-West Corner of the Grassy Plain~
+You are at the edge of the forest.  This appears to be one corner of the
+field of grass.  The forest edge is so thick that there's no going through
+it.  The only real exits from here are to the east and south along the edge
+of the forest.  
+~
+0 0 2
+D1
+~
+~
+0 0 18915
+D2
+~
+~
+0 0 18913
+S
+#18915
+The Edge of the {gForest{x~
+You are at the edge of the forest.  To one side of you, you can see and
+endless expanse of grass...  And a large object off in the distance.  To the
+other, nothing but trees.  The edge of the forest continues to the east and
+west.  You might want to check out that thing way off to the south.  
+~
+0 0 2
+D1
+~
+~
+0 0 18916
+D2
+A small set of Gingerbread doors.
+~
+door~
+1 0 18955
+D3
+~
+~
+0 0 18914
+S
+#18916
+The North-East Corner of the Grassy Plain~
+You are at the edge of the forest.  This appears to be one corner of the
+field of grass.  The forest edge is so thick that there's no going through
+it.  The only real exits from here are to the south and west along the edge
+of the forest.  
+~
+0 0 2
+D2
+~
+~
+0 0 18917
+D3
+~
+~
+0 0 18915
+S
+#18917
+The Edge of the {gForest{x~
+~
+0 0 2
+D0
+~
+~
+0 0 18916
+D2
+~
+~
+0 0 18918
+S
+#18918
+The South-East Corner of the Grassy Plain~
+You are at the edge of the forest.  This appears to be one corner of the
+field of grass.  The forest edge is so thick that there's no going through
+it.  The only real exits from here are to the south and west along the edge
+of the forest.  
+~
+0 0 2
+D0
+~
+~
+0 0 18917
+D3
+~
+~
+0 0 18911
+S
+#18919
+A Dark Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  There is almost no light in this room. 
+You can't seem to find a way out.  No matter where you go, you always end up
+back at that dias.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18922
+D1
+~
+~
+1 0 18920
+D2
+~
+~
+1 0 18925
+D3
+~
+~
+1 0 18921
+D4
+~
+~
+1 0 18937
+D5
+~
+~
+1 0 18928
+S
+#18920
+A Dimly Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  The light in this room seems to be
+dimmer than in the others.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18923
+D1
+~
+~
+1 0 18921
+D2
+~
+~
+1 0 18926
+D3
+~
+~
+1 0 18919
+D4
+~
+~
+1 0 18938
+D5
+~
+~
+1 0 18929
+S
+#18921
+A Dark Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  There is almost no light in this room. 
+You can't seem to find a way out.  No matter where you go, you always end up
+back at that dias.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18924
+D1
+~
+~
+1 0 18919
+D2
+~
+~
+1 0 18927
+D3
+~
+~
+1 0 18920
+D4
+~
+~
+1 0 18939
+D5
+~
+~
+1 0 18930
+S
+#18922
+A Dimly Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  The light in this room seems to be
+dimmer than in the others.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18925
+D1
+~
+~
+1 0 18923
+D2
+~
+~
+1 0 18919
+D3
+~
+~
+1 0 18924
+D4
+~
+~
+1 0 18940
+D5
+~
+~
+1 0 18931
+S
+#18923
+A Well Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  Tunnels lead in all directions.  The
+tunnel leading up stands out from the others.  There seems to be something
+at the other end of that tunnel.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18926
+D1
+~
+~
+1 0 18924
+D2
+~
+~
+1 0 18920
+D3
+~
+~
+1 0 18922
+D4
+~
+~
+1 0 18941
+D5
+~
+~
+1 0 18932
+S
+#18924
+A Dimly Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  The light in this room seems to be
+dimmer than in the others.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18927
+D1
+~
+~
+1 0 18922
+D2
+~
+~
+1 0 18921
+D3
+~
+~
+1 0 18923
+D4
+~
+~
+1 0 18942
+D5
+~
+~
+1 0 18933
+S
+#18925
+A Dark Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  There is almost no light in this room. 
+You can't seem to find a way out.  No matter where you go, you always end up
+back at that dias.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18919
+D1
+~
+~
+1 0 18926
+D2
+~
+~
+1 0 18922
+D3
+~
+~
+1 0 18927
+D4
+~
+~
+1 0 18943
+D5
+~
+~
+1 0 18934
+S
+#18926
+A Dimly Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  The light in this room seems to be
+dimmer than in the others.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18920
+D1
+~
+~
+1 0 18927
+D2
+~
+~
+1 0 18923
+D3
+~
+~
+1 0 18925
+D4
+~
+~
+1 0 18944
+D5
+~
+~
+1 0 18935
+S
+#18927
+A Dark Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  There is almost no light in this room. 
+You can't seem to find a way out.  No matter where you go, you always end up
+back at that dias.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18921
+D1
+~
+~
+1 0 18925
+D2
+~
+~
+1 0 18924
+D3
+~
+~
+1 0 18926
+D4
+~
+~
+1 0 18945
+D5
+~
+~
+1 0 18936
+S
+#18928
+A Dark Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  There is almost no light in this room. 
+You can't seem to find a way out.  No matter where you go, you always end up
+back at that dias.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18931
+D1
+~
+~
+1 0 18929
+D2
+~
+~
+1 0 18934
+D3
+~
+~
+1 0 18930
+D4
+~
+~
+1 0 18919
+D5
+~
+~
+1 0 18937
+S
+#18929
+A Dimly Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  The light in this room seems to be
+dimmer than in the others.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18932
+D1
+~
+~
+1 0 18930
+D2
+~
+~
+1 0 18935
+D3
+~
+~
+1 0 18928
+D4
+~
+~
+1 0 18920
+D5
+~
+~
+1 0 18938
+S
+#18930
+A Dark Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  There is almost no light in this room. 
+You can't seem to find a way out.  No matter where you go, you always end up
+back at that dias.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18933
+D1
+~
+~
+1 0 18928
+D2
+~
+~
+1 0 18936
+D3
+~
+~
+1 0 18929
+D4
+~
+~
+1 0 18921
+D5
+~
+~
+1 0 18939
+S
+#18931
+A Dimly Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  The light in this room seems to be
+dimmer than in the others.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18934
+D1
+~
+~
+1 0 18932
+D2
+~
+~
+1 0 18928
+D3
+~
+~
+1 0 18933
+D4
+~
+~
+1 0 18922
+D5
+~
+~
+1 0 18940
+S
+#18932
+A Well Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  Tunnels lead in all directions.  The
+tunnel leading down stands out from the others.  There seems to be something
+at the other end of that tunnel.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18935
+D1
+~
+~
+1 0 18933
+D2
+~
+~
+1 0 18929
+D3
+~
+~
+1 0 18931
+D4
+~
+~
+1 0 18923
+D5
+~
+~
+1 0 18941
+S
+#18933
+A Dimly Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  The light in this room seems to be
+dimmer than in the others.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18936
+D1
+~
+~
+1 0 18931
+D2
+~
+~
+1 0 18930
+D3
+~
+~
+1 0 18932
+D4
+~
+~
+1 0 18924
+D5
+~
+~
+1 0 18942
+S
+#18934
+A Dark Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  There is almost no light in this room. 
+You can't seem to find a way out.  No matter where you go, you always end up
+back at that dias.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18928
+D1
+~
+~
+1 0 18935
+D2
+~
+~
+1 0 18931
+D3
+~
+~
+1 0 18936
+D4
+~
+~
+1 0 18925
+D5
+~
+~
+1 0 18943
+S
+#18935
+A Dimly Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  The light in this room seems to be
+dimmer than in the others.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18929
+D1
+~
+~
+1 0 18936
+D2
+~
+~
+1 0 18932
+D3
+~
+~
+1 0 18934
+D4
+~
+~
+1 0 18926
+D5
+~
+~
+1 0 18944
+S
+#18936
+A Dark Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  There is almost no light in this room. 
+You can't seem to find a way out.  No matter where you go, you always end up
+back at that dias.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18930
+D1
+~
+~
+1 0 18934
+D2
+~
+~
+1 0 18933
+D3
+~
+~
+1 0 18935
+D4
+~
+~
+1 0 18927
+D5
+~
+~
+1 0 18945
+S
+#18937
+A Dimly Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  The light in this room seems to be
+dimmer than in the others.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18940
+D1
+~
+~
+1 0 18938
+D2
+~
+~
+1 0 18943
+D3
+~
+~
+1 0 18939
+D4
+~
+~
+1 0 18928
+D5
+~
+~
+1 0 18919
+S
+#18938
+A Well Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  Tunnels lead in all directions.  The
+tunnel leading north stands out from the others.  There seems to be
+something at the other end of that tunnel.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18941
+D1
+~
+~
+1 0 18939
+D2
+~
+~
+1 0 18944
+D3
+~
+~
+1 0 18937
+D4
+~
+~
+1 0 18929
+D5
+~
+~
+1 0 18920
+S
+#18939
+A Dimly Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  The light in this room seems to be
+dimmer than in the others.  Tunnels lead in all directions.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18942
+D1
+~
+~
+1 0 18937
+D2
+~
+~
+1 0 18945
+D3
+~
+~
+1 0 18938
+D4
+~
+~
+1 0 18930
+D5
+~
+~
+1 0 18921
+S
+#18940
+A Well Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  Tunnels lead in all directions.  The
+tunnel leading east stands out from the others.  There seems to be something
+at the other end of that tunnel.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 18943
+D1
+~
+~
+1 0 18941
+D2
+~
+~
+1 0 18937
+D3
+~
+~
+1 0 18942
+D4
+~
+~
+1 0 18931
+D5
+~
+~
+1 0 18922
+S
+#18941
+The Altar of Light~
+You are in the labrynth.  This room is different from all the others.  It
+has a force that keeps you on the floor.  There is a dias in the center of
+the room.  At the top of the dias is an altar of sorts.  Light spues forth
+from the altar like a fountain, reflecting off the walls.  There is a small
+sign at the base of the dias.  Tunnels lead in all directions.  And all
+tunnels look exactly the same.  Which is the real way out?  Is there a way
+out?  
+~
+0 268959752 0
+E
+sign~
+A sign is here, half broken on the ground.
+It reads as follows:
+****************************************
+*                                      *
+*This Oracle is an advocate of Krakachu*
+*  Ask for help and you shall have it  *
+*                                      *
+****************************************
+~
+D0
+~
+~
+1 0 18944
+D1
+~
+~
+1 0 18942
+D2
+~
+~
+1 0 18938
+D3
+~
+~
+1 0 18940
+D4
+~
+~
+1 0 18932
+D5
+~
+~
+1 0 18923
+S
+#18942
+A Well Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  Tunnels lead in all directions.  The
+tunnel leading west stands out from the others.  There seems to be something
+at the other end of that tunnel.  
+~
+0 8 0
+D0
+~
+~
+1 0 18945
+D1
+~
+~
+1 0 18940
+D2
+~
+~
+1 0 18939
+D3
+~
+~
+1 0 18941
+D4
+~
+~
+1 0 18933
+D5
+~
+~
+1 0 18924
+S
+#18943
+A Dimly Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  The light in this room seems to be
+dimmer than in the others.  Tunnels lead in all directions.  
+~
+0 8 0
+D0
+~
+~
+1 0 18937
+D1
+~
+~
+1 0 18944
+D2
+~
+~
+1 0 18940
+D3
+~
+~
+1 0 18945
+D4
+~
+~
+1 0 18934
+D5
+~
+~
+1 0 18925
+S
+#18944
+A Well Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  Tunnels lead in all directions.  The
+tunnel leading south stands out from the others.  There seems to be
+something at the other end of that tunnel.  
+~
+0 8 0
+D0
+~
+~
+1 0 18938
+D1
+~
+~
+1 0 18945
+D2
+~
+~
+1 0 18941
+D3
+~
+~
+1 0 18943
+D4
+~
+~
+1 0 18935
+D5
+~
+~
+1 0 18926
+S
+#18945
+A Dimly Lit Chamber in the Labrynth~
+You are in the labrynth.  The walls must be made from some sort of
+crystals...  Reflecting the light.  The light in this room seems to be
+dimmer than in the others.  Tunnels lead in all directions.  
+~
+0 8 0
+D0
+~
+~
+1 0 18939
+D1
+~
+~
+1 0 18943
+D2
+~
+~
+1 0 18942
+D3
+~
+~
+1 0 18944
+D4
+~
+~
+1 0 18936
+D5
+~
+~
+1 0 18927
+S
+#18946
+The Croquet Field~
+You are on the croquet field.  There's rings all over the place!  You'd
+best be moving along, otherwise a stray croquet ball might hit you in the
+head.  You can see a large golden-brown house to the north.  The forest edge
+is to the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 18947
+D2
+~
+~
+0 0 18911
+S
+#18947
+Outside the {yGingerbread {cHouse{x~
+You are outside the gingerbread house.  The walls are made from the most
+perfect golden-brown gingerbread.  They are held together by a special
+icing, and encrusted with rainbow sprinkles.  You could live forever by just
+feeding on this house!  A large grassy expanse is to the south.  A set of
+steps lead up to the front doors.  
+~
+0 0 2
+D2
+~
+~
+0 0 18946
+D4
+~
+~
+0 0 18948
+S
+#18948
+Top of the {MPepper{Gmint{x Stairway~
+You are at the top of the peppermint stairway.  You find yourself
+absent-mindedly drooling at the smells coming from this house.  Immediately
+to your north is a huge set of gingerbread doors.  If you go down the
+stairs, you'll be just outside the gingerbread house.  
+~
+0 8 0
+D0
+A huge set of Gingerbread doors.
+~
+door~
+1 0 18949
+D5
+~
+~
+0 0 18947
+S
+#18949
+The {dC{wh{de{wc{dk{we{dr{we{dd {CCandy{x Dance Floor~
+You are on the checkered candy dance floor.  You have to wonder how the
+gingerbread man managed to get a solid sheet of candy formed into such
+perfect squares.  A large fountain is to your north.  To the east and west,
+there are walkways made of a clear blue substance that seems to wobble
+slightly.  A large set of gingerbread doors to the south lead outside.  
+~
+0 8 0
+D0
+~
+~
+0 0 18950
+D1
+~
+~
+0 0 18958
+D2
+A huge set of Gingerbread doors.
+~
+door~
+1 0 18948
+D3
+~
+~
+0 0 18952
+S
+#18950
+The {WFairy{x Fountain~
+You are at the fairy fountain.  The liquid sparkles with a mysterious
+black tint, while at the same time absorbing light.  It spues forth from the
+mouth of a griffon statue, wings spread, wielding a large, sinister looking
+spike.  A red carpet with many ridges leads to the north.  To the east and
+west, there are walkways made of a clear blue substance that seems to wobble
+slightly.  A checkered candy dance floor spreads out to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 18951
+D1
+~
+~
+0 0 18957
+D2
+~
+~
+0 0 18949
+D3
+~
+~
+0 0 18953
+S
+#18951
+On the {RRed{x Licorice Carpet~
+You are on the red licorice carpet.  It smells like.......  CHERRIES!!! 
+This carpet is made of finely woven strands of red licorice.  The top of the
+gingerbread stairway is above you.  The fairy fountain is to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 18950
+D4
+~
+~
+0 0 18967
+S
+#18952
+The South-West End of the {BBlue{X Jello Walkway~
+You are on the blue jello walkway.  It wobbles under your feet, making it
+hard to keep your balance.  Be careful not to slip.  It would be a shame to
+ruin perfect jello.  The walkway continues to the north.  The checkered
+candy dance floor is to the east.  The gingerbread coatroom is through a
+door to the west.  
+~
+0 8 0
+D0
+~
+~
+0 0 18953
+D1
+~
+~
+0 0 18949
+D3
+A clear candy door.
+~
+door~
+1 0 18959
+S
+#18953
+On the {BBlue{x Jello Walkway~
+You are on the blue jello walkway.  It wobbles under your feet, making it
+hard to keep your balance.  Be careful not to slip.  It would be a shame to
+ruin perfect jello.  The walkway continues to the north and south.  The
+fairy fountain is to the east.  The gingerbread wreckroom is through a door
+to the west.  
+~
+0 8 0
+D0
+~
+~
+0 0 18954
+D1
+~
+~
+0 0 18950
+D2
+~
+~
+0 0 18952
+D3
+A clear candy door.
+~
+door~
+1 0 18960
+S
+#18954
+The North-West End of the {BBlue{X Jello Walkway~
+You are on the blue jello walkway.  It wobbles under your feet, making it
+hard to keep your balance.  Be careful not to slip.  It would be a shame to
+ruin perfect jello.  The gingerbread kitchen is through a door to the north.
+A door leading outside is underneath the gingerbread staircase to the east. 
+The blue jello walkway continues to the south.  The gingerbread dining room
+is through a door to the west.  
+~
+0 8 0
+D0
+A clear candy door.
+~
+door~
+1 0 18962
+D1
+~
+~
+0 0 18955
+D2
+~
+~
+0 0 18953
+D3
+A clear candy door.
+~
+2.door~
+1 0 18961
+S
+#18955
+The Back Door~
+You are at the back door.  Going north through the door will lead you to
+behind the gingerbread house.  Blue jello walkways are to the east and west.
+A large spiral stairway leads up and down.  
+~
+0 8 0
+D0
+A small set of Gingerbread doors.
+~
+door~
+1 0 18915
+D1
+~
+~
+0 0 18956
+D3
+~
+~
+0 0 18954
+D4
+A hidden trapdoor.
+~
+door~
+1 0 18981
+D5
+A hidden trapdoor.
+~
+trapdoor~
+1 0 18986
+S
+#18956
+The North-East End of the {BBlue{X Jello Walkway~
+You are on the blue jello walkway.  It wobbles under your feet, making it
+hard to keep your balance.  Be careful not to slip.  It would be a shame to
+ruin perfect jello.  The gingerbread pantry is through a door to the north. 
+The gingerbread freezer is through a door to the east.  The blue jello
+walkway continues to the south.  A door leading outside is underneath the
+gingerbread staircase to the west.  
+~
+0 8 0
+D0
+A clear candy door.
+~
+door~
+1 0 18963
+D1
+A clear candy door.
+~
+2.door~
+1 0 18964
+D2
+~
+~
+0 0 18957
+D3
+~
+~
+0 0 18955
+S
+#18957
+On the {BBlue{x Jello Walkway~
+You are on the blue jello walkway.  It wobbles under your feet, making it
+hard to keep your balance.  Be careful not to slip.  It would be a shame to
+ruin perfect jello.  The walkway continues to the north and south.  The
+gingerbread washroom is through a door to the east.  The fairy fountain is
+to the west.  
+~
+0 8 0
+D0
+~
+~
+0 0 18956
+D1
+A clear candy door.
+~
+door~
+1 0 18965
+D2
+~
+~
+0 0 18958
+D3
+~
+~
+0 0 18950
+S
+#18958
+The South-East End of the {BBlue{X Jello Walkway~
+You are on the blue jello walkway.  It wobbles under your feet, making it
+hard to keep your balance.  Be careful not to slip.  It would be a shame to
+ruin perfect jello.  The walkway continues to the north.  The gingerbread
+storage closet is through a door to the east.  The checkered candy dance
+floor is to the west.  
+~
+0 8 0
+D0
+~
+~
+0 0 18957
+D1
+A clear candy door.
+~
+door~
+1 0 18966
+D3
+~
+~
+0 0 18949
+S
+#18959
+In the {yGingerbread {cCoatroom{x~
+You are in the gingerbread coatroom.  Coats and shoes...  Coats and
+shoes...  Nothing but coats and shoes!  The blue jello walkway is through a
+door to the east.  
+~
+0 8 0
+D1
+A clear candy door.
+~
+door~
+1 0 18952
+S
+#18960
+In the {yGingerbread {cRec-room{x~
+You are in the gingerbread rec-room.  Wow!  The gingerbread man has
+everything!  Pool table, slot machine, a magic box with moving pictures! 
+The blue jello walkway is through a door to the east.  
+~
+0 8 0
+D1
+A clear candy door.
+~
+door~
+1 0 18953
+S
+#18961
+{wIn the {yGingerbread {cDining room{x~
+You are in the gingerbread dining room.  This is the biggest dining room
+you've ever seen.  The room is lit by a million fireflies, trapped in a mesh
+in the ceiling.  The dishes are all made of diamonds, rubies, emeralds, and
+sapphires.  They wouldn't notice if one or two plates went missing....  The
+blue jello walkway is through a door to the east.  
+~
+0 8 0
+D1
+A clear candy door.
+~
+door~
+1 0 18954
+S
+#18962
+In the {yGingerbread {cKitchen{x~
+You are in the gingerbread kitchen.  You can smell something sizzling in
+a blazing fire.  It smells SO good.  You've got to have some!  You notice
+something baking in the oven.  GINGERBREAD COOKIES!  Wait...  what's that in
+the corner?  A glowing breadbox?  The blue jello walkway is through a door
+to the south.  
+~
+0 8 0
+D2
+A clear candy door.
+~
+door~
+1 0 18954
+S
+#18963
+In the {yGingerbread {cPantry{x~
+You are in the gingerbread pantry.  This is where the gingerbread man
+keeps all the things that he cooks with.  The blue jello walkway is through
+a door to the south.  
+~
+0 8 0
+D2
+A clear candy door.
+~
+door~
+1 0 18956
+S
+#18964
+In the {yGingerbread {cFreezer{x~
+You are in the gingerbread freezer.  This is where the gingerbread man
+keeps all the things that have to stay cold.  The blue jello walkway is
+through a door to the west.  
+~
+0 8 0
+D3
+A clear candy door.
+~
+door~
+1 0 18956
+S
+#18965
+In the {yGingerbread {cWashroom{x~
+You are in the gingerbread washroom.  This must be the guest washroom. 
+The blue jello walkway is through a door to the west.  
+~
+0 8 0
+D3
+A clear candy door.
+~
+door~
+1 0 18957
+S
+#18966
+In the {yGingerbread {cStorage Closet{x~
+You are in the gingerbread storage closet.  This is where the gingerbread
+keeps all the cleaning supplies.  The blue jello walkway is through a door
+to the west.  
+~
+0 8 0
+D3
+A clear candy door.
+~
+door~
+1 0 18958
+S
+#18967
+Top of the {yGingerbread {cStairway{x~
+You are at the top of the gingerbread stairway.  You can see everything
+in the house from up here.  The chocolate wafer balcony leads east and west.
+~
+0 8 0
+D1
+~
+~
+0 0 18968
+D3
+~
+~
+0 0 18970
+D5
+~
+~
+0 0 18951
+S
+#18968
+The Eastern Side of the Chocolate Wafer Balcony~
+You are on the chocolate wafer balcony.  The balcony overlooks everything
+on the first floor.  The gingerbread man's bedroom is through a door to the
+north.  The chocolate wafer balcony continues to the south.  The top of the
+gingerbread stairway is to the west.  
+~
+0 8 0
+D0
+A door made from solid rock candy.
+~
+door~
+1 0 18972
+D2
+~
+~
+0 0 18969
+D3
+~
+~
+0 0 18967
+S
+#18969
+Eastern Balcony overlooking the Dance Floor~
+You are on the chocolate wafer balcony.  The balcony overlooks everything
+on the first floor.  The chocolate wafer balcony continues to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 18968
+S
+#18970
+The Western Side of the Chocolate Wafer Balcony~
+You are on the chocolate wafer balcony.  The balcony overlooks everything
+on the first floor.  A bathroom is through a door to the north.  The top of
+the gingerbread stairway is to the east.  The chocolate wafer balcony
+continues to the south.  A guest room is through a door to the west.  
+~
+0 8 0
+D0
+A door made from solid rock candy.
+~
+door~
+1 0 18978
+D1
+~
+~
+0 0 18967
+D2
+~
+~
+0 0 18971
+D3
+A door made from solid rock candy.
+~
+2.door~
+1 0 18977
+S
+#18971
+Western Balcony overlooking the Dance Floor~
+You are on the chocolate wafer balcony.  The balcony overlooks everything
+on the first floor.  The chocolate wafer balcony continues to the north.  A
+guest room is through a door to the west.  
+~
+0 8 0
+D0
+~
+~
+0 0 18970
+D3
+A door made from solid rock candy.
+~
+door~
+1 0 18976
+S
+#18972
+The {yGingerbread Man's {cBedroom{x~
+You are in the gingerbread man's bedroom.  You shouldn't be in here.  The
+gingerbread man might see you in his bedroom and flip out.  You never know
+what a flipped out cookie man might do.  The gingerbread man's closet is to
+the east.  
+~
+0 8 0
+D1
+A clear candy door.
+~
+2.door~
+1 0 18973
+D2
+A door made from solid rock candy.
+~
+door~
+1 0 18968
+S
+#18973
+The {yGingerbread Man's {cCloset{x~
+You are in the gingerbread man's closet.  You'd think he'd have more than
+just suits and ties in here.  A cold draft seems to be coming from
+somewhere.  The gingerbread man's bedroom is to the west.  
+~
+0 8 0
+D2
+A clothes rack.
+~
+rack~
+1 0 18974
+D3
+A clear candy door.
+~
+2.door~
+1 0 18972
+S
+#18974
+A Narrow Tunnel~
+You are in a narrow tunnel.  This tunnel is quite small.  You'd have to
+be a child to fit through.  The gingerbread man's closet is to the north. 
+The gingerbread man's secret lab is to the south.  
+~
+0 9 0
+D0
+A clothes rack.
+~
+rack~
+1 0 18973
+D2
+~
+~
+0 0 18975
+S
+#18975
+The {yGingerbread Man's {cSecret Lab{x~
+You are in the gingerbread man's secret lab.  Beakers and canisters are
+all over the place.  A large chunk of slate rock is hung on one wall,
+covered with all sorts of mathematical calculations.  A funny looking box is
+on the other wall, flashing lights and making beeping noises.  A narrow
+tunnel is to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 18974
+S
+#18976
+A Guest Room~
+You are in a guest room.  This is quite a simple room.  One bed, one
+closet, one light.  A door to the east leads onto the chocolate wafer
+balcony.  
+~
+0 8 0
+D1
+A door made from solid rock candy.
+~
+door~
+1 0 18971
+S
+#18977
+A Guest Room~
+You are in a guest room.  This is quite a simple room.  One bed, one
+closet, one light.  A door to the east leads onto the chocolate wafer
+balcony.  
+~
+0 8 0
+D1
+A door made from solid rock candy.
+~
+door~
+1 0 18970
+S
+#18978
+The Upstairs Bathroom~
+You are in the upstairs bathroom.  Look at the size of that hot tub! 
+There's a wall size mirror covering one wall.  The lights above are almost
+blinding.  The door to the south leads onto the chocolate wafer balcony.  
+~
+0 268959752 0
+D1
+~
+~
+0 0 18979
+D2
+A door made from solid rock candy.
+~
+door~
+1 0 18970
+S
+#18979
+A Linen Closet~
+You are in the linen closet.  The towels and blankets in here are the
+softest, fluffiest you've ever found.  The upstairs bathroom is to the west.
+~
+0 8 0
+D1
+A shelf covered with clean towels.
+~
+shelf~
+1 0 18980
+D3
+~
+~
+0 0 18978
+S
+#18980
+A Hole in the Wall~
+You are in a hole in the wall.  Hmm...  It's a hole in the wall.  That's
+all it is.  All except for the powdery stuff lining the wall.  The linen
+closet is to the west.  
+~
+0 268435464 0
+D3
+A shelf covered with clean towels.
+~
+shelf~
+1 0 18979
+S
+#18981
+On a Spiral Stairway~
+You are on the spiral stairway.  It just keeps going around and around
+and around.  How far does this thing go?  The roof is up the stairs.  The
+back doors are down the stairs.  
+~
+0 8 0
+D4
+~
+~
+0 0 18982
+D5
+A hidden trapdoor.
+~
+door~
+1 0 18955
+S
+#18982
+On the {yGingerbread {cRoof{x~
+You are on the gingerbread roof.  The roof has a lot of flat, empty
+space.  There's a volleyball net strung up between two posts.  Just be
+careful that you don't fall off the edge.  A large statue of a dragon is to
+the south.  A tower is to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 18984
+D2
+~
+~
+0 0 18983
+D5
+~
+~
+0 0 18981
+S
+#18983
+A {dStatue{x of an {dAncient{x Dragon {WGod{x~
+You are at the statue of an ancient dragon god.  It's HUGE!  If it were a
+real dragon, you would probably be dead by now.  As you move, you notice
+that its eyes follow you.  You had best be leaving before something wierd
+happens.  The main portion of the roof is to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 18982
+S
+#18984
+Inside the Tower~
+You are inside the tower.  A set of stairs spiral up to the top, where
+you can see a large bell.  A thick rope hangs down in the middle.  If you go
+up the steps, you'll be at the top of the tower.  The main portion of the
+roof is to the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 18982
+D4
+~
+~
+0 0 18985
+S
+#18985
+Top of the Belltower~
+You are at the top of the belltower.  You can see EVERYTHING from up
+here.  The bell in the middle just seems to swing back and forth, ringing
+even though there's nobody pulling on the rope.  Going down the steps will
+put you at the bottom of the tower.  But wait...  there's a strange looking
+set of wings hanging from the ceiling.  
+~
+0 0 0
+D5
+~
+~
+0 0 18984
+S
+#18986
+On a Spiral Stairway~
+You are on the spiral stairway.  It just keeps going around and around
+and around.  How far does this thing go?  The back doors are up the stairs. 
+The basement is down the stairs.  
+~
+0 8 0
+D4
+A hidden trapdoor.
+~
+trapdoor door~
+1 0 18955
+D5
+~
+~
+0 0 18987
+S
+#18987
+In the {yGingerbread {cBasement{x~
+You are in the gingerbread basement.  The gingerbread man must have some
+neat stuff hidden down here.  It seems to be well kept because there are no
+cobwebs anywhere.  A spiral staircase leads up the to back door.  You can
+see a large court to the east.  Some huge kegs to the south give off some
+pungent alcohol fumes.  
+~
+0 8 0
+D1
+A large Gingerbread door.
+~
+door~
+1 0 18990
+D2
+A large Gingerbread door.
+~
+opening~
+1 0 18988
+D4
+~
+~
+0 0 18986
+S
+#18988
+The {yGingerbread Man's {cBrewery{x~
+You are in the gingerbread man's brewery.  The kegs in here are HUGE! 
+This guy must have the best wine and beer in the whole world.  The fumes
+coming from it are almost intoxicating.  The entrance to the basement is to
+the north.  A cellar for storing the brew is to the south.  
+~
+0 8 0
+D0
+A large Gingerbread door.
+~
+door~
+1 0 18987
+D2
+~
+~
+0 0 18989
+S
+#18989
+The {yGingerbread Man's {cWine Cellar{x~
+You are in the gingerbread man's wine cellar.  This is where he keeps all
+his best brews.  There must be thousands of bottles in here.  Some of them
+date back more than a million years.  Might as well sit back and enjoy it
+while you can.  The gingerbread mans' brewery is to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 18988
+S
+#18990
+The {yGingerbread Man's {cPrivate Gym{x~
+You are in the gingerbread man's private gym.  This explains how the
+gingerbread man can run so fast.  Weights, tredmills, everything.  There's a
+big circular door on the far wall.  The entrance to the basement is to the
+west.  
+~
+0 8 0
+D1
+A door woven from sugar strings.
+~
+door~
+4 0 18991
+D3
+A large Gingerbread door.
+~
+door~
+1 0 18987
+S
+#18991
+The {yGingerbread Man's {cVault{x~
+You are in the gingerbread man's vault.  This place is sealed tight. 
+Nothing gets in, nothing gets out.  There's different sections for all kinds
+of stuff.  A collection chamber is to the north.  A playground is to the
+east.  A testing room is to the south.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 18992
+D1
+~
+~
+0 0 18995
+D2
+~
+~
+0 0 18994
+D3
+A door woven from sugar strings.
+~
+door~
+4 0 18990
+S
+#18992
+The {yGingerbread Man's {cCollection Chamber{x~
+You are in the gingerbread man's collection chamber.  This is quite odd
+compared to the rest of the gingerbread house.  The floor is covered with
+blood.  There are piles of severed body parts, corpses, and other things
+around the room.  This is a little creepy.  Why would the gingerbread man
+have something like this in his basement?  A cookie stash is to the east. 
+The entrance to the vault is to the south.  
+~
+0 268435465 0
+D1
+~
+~
+0 0 18993
+D2
+~
+~
+0 0 18991
+S
+#18993
+The {yGingerbread Man's {cCookie Stash{x~
+You are in the gingerbread man's cookie stash.  This room is nothing but
+cookies.  Wall to wall, row upon row, going from floor to ceiling.  Why
+would anyone need so many cookies?  The collection chamber is to the west.  
+~
+0 268435464 0
+D3
+~
+~
+0 0 18992
+S
+#18994
+The {yGingerbread Man's {cTesting Room{x~
+You are in the gingerbread man's testing room.  There's a stuffed dummy
+at one end.  A brick wall at the other.  Piles of scrap gingerbread pieces. 
+And a silly looking cart with a smoking cannon hovers in one corner.  The
+entrance to the vault is to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 18991
+D5
+~
+~
+1 0 18941
+S
+#18995
+The {yGingerbread Man's {cPlayground{x~
+You are in the gingerbread man's playground.  This room has all sorts of
+neat toys in it.  The most prominent is a big tether ball in the center of
+the room.  Though this isn't any ordinary tether ball.  There's no rope and
+the ball seems to multiply each time it gets hit.  The gingerbread man's
+obstacle course is to the east.  A launch site is to the south.  
+~
+0 8 0
+D1
+~
+~
+0 0 18997
+D2
+~
+~
+4 0 18996
+D3
+~
+~
+0 0 18991
+S
+#18996
+The {yGingerbread Man's {cLaunch Site{x~
+You are in the gingerbread man's launch site.  There's a large spear
+shaped thing pointed at an opening in the ceiling.  Written on the side in
+big red letters are the words, "This Is Your Redemption".  The gingerbread
+man's playground is to the north.  
+~
+0 268959752 0
+D0
+~
+~
+4 18952 18995
+S
+#18997
+The {yGingerbread Man's {cObstacle Course{x~
+You are in the gingerbread man's obstacle course.  This is followed by a
+wall with a window, a field of wooden rings, a set of hanging bars, and a
+set of alternately placed posts.  The obstacle course continues to the
+north.  The gingerbread man's playground is to the west.  
+~
+0 8 0
+D0
+~
+~
+0 0 18998
+D3
+~
+~
+0 0 18995
+S
+#18998
+A Sharp Turn in the Obstacle Course~
+You are at a sharp turn in the obstacle course.  The course starts at the
+south and bends to the east.  You see a rope mesh, a big wooden wall, a
+short wooden wall, a balancing beam, a set of giant steps, and a narrow
+tunnel.  The obstacle course continues to the east and south.  
+~
+0 8 0
+D1
+~
+~
+0 0 18999
+D2
+~
+~
+0 0 18997
+S
+#18999
+A {dBlack{x and {dCharred{x part of the Obstacle Course~
+You are at a black and charred part of the obstacle course.  What
+happened here?  After that rope bridge and mine field, all that's left is a
+big pit in the ground.  How are you going to get out?  There's no way you'll
+make it back to the west.  
+~
+0 12 0
+S
+#0
+
+
+
+#SPECIALS
+M 18900 spec_breath_any Load to: one of Kraken's Legionairs
+M 18903 spec_executioner Load to: a mud monster
+M 18938 spec_breath_any Load to: the {c*** {yGingerbread Man {c***{x
+M 18939 spec_breath_lightning Load to: a hamster
+M 18951 spec_executioner Load to: a gingerbread sentry
+S
+
+
+
+#MOBPROGS
+#18972
+mob oload 18958 0
+~
+A
+#18902
+mob echoat $n {GA Legionair's eyes turn a hellish shade of blood red as he grins at you menacingly!{x
+mob kill $n
+~
+A
+#18901
+mob zecho {BOne of Kraken's Legionairs lets out a battle cry, inviting its comrads to join the fight!{x
+mob mload 18900
+mob mload 18900
+~
+A
+#18929
+mob mload 18929
+~
+A
+#18928
+mob mload 18928
+~
+A
+#18926
+mob mload 18926
+~
+A
+#18925
+mob mload 18925
+~
+A
+#18924
+mob mload 18924
+~
+A
+#18923
+mob mload 18923
+~
+A
+#18922
+mob mload 18922
+~
+A
+#18921
+mob mload 18921
+~
+A
+#18920
+mob mload 18920
+~
+A
+#18919
+mob mload 18919
+~
+A
+#18918
+mob mload 18918
+~
+A
+#18917
+mob mload 18917
+~
+A
+#18916
+mob mload 18916
+~
+A
+#18915
+mob mload 18915
+~
+A
+#18914
+mob mload 18914
+~
+A
+#18913
+mob mload 18913
+~
+A
+#18912
+mob mload 18912
+~
+A
+#18927
+mob mload 18927
+~
+A
+#18911
+mob mload 18911
+~
+A
+#18910
+mob mload 18910
+~
+A
+#18909
+mob mload 18909
+~
+A
+#18908
+mob mload 18908
+~
+A
+#18907
+mob mload 18907
+~
+A
+#18906
+mob mload 18906
+~
+A
+#18905
+mob mload 18905
+~
+A
+#18900
+north
+mob transfer $n tourney
+mob goto $n
+mob kill $n
+~
+A
+#18904
+mob mload 18904
+~
+A
+#18938
+mob oload 18926
+open space
+mob oload 18927
+mob oload 18928
+mob oload 18929
+mob oload 18930
+mob oload 18931
+mob oload 18932
+mob oload 18933
+mob oload 18934
+mob oload 18935
+mob oload 18936
+mob oload 18937
+mob oload 18938
+put all.cutter space
+close space
+drop space
+~
+A
+#18951
+mob zecho {GA gingerbread sentry yells, "Alert the Gingerbread Man! $n is approaching the forest!"{x
+say Please state the password.
+~
+A
+#18952
+if ispc $n
+if control $n
+say Greetings $N.  We appreciate your role in our defence!
+else
+if carries $i 18958
+if istarget $n
+say Ah, so you have spoken to the Big Man?  Very well.
+say I now recognize you as defender of all Kukymon.
+mob control_chr $q
+mob junk all.cookie
+mob zecho {gThe loyalty of the Gingerbread House has shifted.{x
+mob forget
+else
+mob zecho {BA gingerbread sentry yells, "Welcome, $N, to the forest of the Kukymon!"{x
+open north
+endif
+else
+mob zecho {BA gingerbread sentry yells, "Welcome, $N, to the forest of the Kukymon!"{x
+open north
+endif
+endif
+endif
+~
+A
+#18950
+say I've got you now my pretty, and your little dog too!
+kill $n
+~
+A
+#18930
+mob echoat $n A blind old oracle says, "Good. You admit that you are not as strong as you would have others think. For this, you shall be redeemed."
+mob transfer $n 18901
+~
+A
+#18903
+east
+mob transfer $n tourney
+mob goto $n
+mob kill $n
+~
+A
+#18953
+south
+mob transfer $n tourney
+mob goto $n
+mob kill $n
+~
+A
+#18954
+west
+mob transfer $n tourney
+mob goto $n
+mob kill $n
+~
+A
+#18955
+if vnum $o == 18958
+mob remember $n
+mob delay 3
+else
+give $o $n
+endif
+~
+A
+#18956
+mob at $q give cookie $q
+mob forget
+~
+A
+#0
+
+#RESETS
+D 0 18901 0 1
+D 0 18902 2 1
+D 0 18903 0 1
+D 0 18903 2 1
+D 0 18906 2 1
+D 0 18908 0 1
+D 0 18915 2 1
+D 0 18919 0 1
+D 0 18919 1 1
+D 0 18919 2 1
+D 0 18919 3 1
+D 0 18919 4 1
+D 0 18919 5 1
+D 0 18920 0 1
+D 0 18920 1 1
+D 0 18920 2 1
+D 0 18920 3 1
+D 0 18920 4 1
+D 0 18920 5 1
+D 0 18921 0 1
+D 0 18921 1 1
+D 0 18921 2 1
+D 0 18921 3 1
+D 0 18921 4 1
+D 0 18921 5 1
+D 0 18922 0 1
+D 0 18922 1 1
+D 0 18922 2 1
+D 0 18922 3 1
+D 0 18922 4 1
+D 0 18922 5 1
+D 0 18923 0 1
+D 0 18923 1 1
+D 0 18923 2 1
+D 0 18923 3 1
+D 0 18923 4 1
+D 0 18923 5 1
+D 0 18924 0 1
+D 0 18924 1 1
+D 0 18924 2 1
+D 0 18924 3 1
+D 0 18924 4 1
+D 0 18924 5 1
+D 0 18925 0 1
+D 0 18925 1 1
+D 0 18925 2 1
+D 0 18925 3 1
+D 0 18925 4 1
+D 0 18925 5 1
+D 0 18926 0 1
+D 0 18926 1 1
+D 0 18926 2 1
+D 0 18926 3 1
+D 0 18926 4 1
+D 0 18926 5 1
+D 0 18927 0 1
+D 0 18927 1 1
+D 0 18927 2 1
+D 0 18927 3 1
+D 0 18927 4 1
+D 0 18927 5 1
+D 0 18928 0 1
+D 0 18928 1 1
+D 0 18928 2 1
+D 0 18928 3 1
+D 0 18928 4 1
+D 0 18928 5 1
+D 0 18929 0 1
+D 0 18929 1 1
+D 0 18929 2 1
+D 0 18929 3 1
+D 0 18929 4 1
+D 0 18929 5 1
+D 0 18930 0 1
+D 0 18930 1 1
+D 0 18930 2 1
+D 0 18930 3 1
+D 0 18930 4 1
+D 0 18930 5 1
+D 0 18931 0 1
+D 0 18931 1 1
+D 0 18931 2 1
+D 0 18931 3 1
+D 0 18931 4 1
+D 0 18931 5 1
+D 0 18932 0 1
+D 0 18932 1 1
+D 0 18932 2 1
+D 0 18932 3 1
+D 0 18932 4 1
+D 0 18932 5 1
+D 0 18933 0 1
+D 0 18933 1 1
+D 0 18933 2 1
+D 0 18933 3 1
+D 0 18933 4 1
+D 0 18933 5 1
+D 0 18934 0 1
+D 0 18934 1 1
+D 0 18934 2 1
+D 0 18934 3 1
+D 0 18934 4 1
+D 0 18934 5 1
+D 0 18935 0 1
+D 0 18935 1 1
+D 0 18935 2 1
+D 0 18935 3 1
+D 0 18935 4 1
+D 0 18935 5 1
+D 0 18936 0 1
+D 0 18936 1 1
+D 0 18936 2 1
+D 0 18936 3 1
+D 0 18936 4 1
+D 0 18936 5 1
+D 0 18937 0 1
+D 0 18937 1 1
+D 0 18937 2 1
+D 0 18937 3 1
+D 0 18937 4 1
+D 0 18937 5 1
+D 0 18938 0 1
+D 0 18938 1 1
+D 0 18938 2 1
+D 0 18938 3 1
+D 0 18938 4 1
+D 0 18938 5 1
+D 0 18939 0 1
+D 0 18939 1 1
+D 0 18939 2 1
+D 0 18939 3 1
+D 0 18939 4 1
+D 0 18939 5 1
+D 0 18940 0 1
+D 0 18940 1 1
+D 0 18940 2 1
+D 0 18940 3 1
+D 0 18940 4 1
+D 0 18940 5 1
+D 0 18941 0 1
+D 0 18941 1 1
+D 0 18941 2 1
+D 0 18941 3 1
+D 0 18941 4 1
+D 0 18941 5 1
+D 0 18942 0 1
+D 0 18942 1 1
+D 0 18942 2 1
+D 0 18942 3 1
+D 0 18942 4 1
+D 0 18942 5 1
+D 0 18943 0 1
+D 0 18943 1 1
+D 0 18943 2 1
+D 0 18943 3 1
+D 0 18943 4 1
+D 0 18943 5 1
+D 0 18944 0 1
+D 0 18944 1 1
+D 0 18944 2 1
+D 0 18944 3 1
+D 0 18944 4 1
+D 0 18944 5 1
+D 0 18945 0 1
+D 0 18945 1 1
+D 0 18945 2 1
+D 0 18945 3 1
+D 0 18945 4 1
+D 0 18945 5 1
+D 0 18948 0 1
+D 0 18949 2 1
+D 0 18952 3 1
+D 0 18953 3 1
+D 0 18954 0 1
+D 0 18954 3 1
+D 0 18955 0 1
+D 0 18955 4 1
+D 0 18955 5 1
+D 0 18956 0 1
+D 0 18956 1 1
+D 0 18957 1 1
+D 0 18958 1 1
+D 0 18959 1 1
+D 0 18960 1 1
+D 0 18961 1 1
+D 0 18962 2 1
+D 0 18963 2 1
+D 0 18964 3 1
+D 0 18965 3 1
+D 0 18966 3 1
+D 0 18968 0 1
+D 0 18970 0 1
+D 0 18970 3 1
+D 0 18971 3 1
+D 0 18972 1 1
+D 0 18972 2 1
+D 0 18973 2 1
+D 0 18973 3 1
+D 0 18974 0 1
+D 0 18976 1 1
+D 0 18977 1 1
+D 0 18978 2 1
+D 0 18979 1 1
+D 0 18980 3 1
+D 0 18981 5 1
+D 0 18986 4 1
+D 0 18987 1 1
+D 0 18990 1 1
+D 0 18990 3 1
+D 0 18991 3 1
+D 0 18994 5 1
+D 0 18995 2 2
+D 0 18996 0 2
+M 1 18951 1 18901 1
+M 1 18901 1 18907 1
+G 0 18901 0
+M 1 18902 1 18909 1
+G 0 18901 0
+M 1 18903 1 18910 1
+E 0 18902 0 16
+O 0 18903 0 18913
+O 0 18903 0 18917
+M 1 18904 1 18919 1
+M 1 18905 1 18920 1
+M 1 18906 1 18921 1
+M 1 18907 1 18922 1
+M 1 18908 1 18923 1
+M 1 18909 1 18924 1
+M 1 18910 1 18925 1
+M 1 18911 1 18926 1
+M 1 18912 1 18927 1
+M 1 18913 1 18928 1
+M 1 18914 1 18929 1
+M 1 18915 1 18930 1
+M 1 18916 1 18931 1
+M 1 18917 1 18932 1
+M 1 18918 1 18933 1
+M 1 18919 1 18934 1
+M 1 18920 1 18935 1
+M 1 18921 1 18936 1
+M 1 18922 8 18937 1
+M 1 18922 8 18938 1
+M 1 18922 8 18939 1
+M 1 18922 8 18940 1
+M 1 18930 1 18941 1
+O 0 18956 0 18941
+M 1 18922 8 18942 1
+M 1 18922 8 18943 1
+M 1 18922 8 18944 1
+M 1 18922 8 18945 1
+M 1 18931 8 18946 8
+E 0 18904 0 16
+M 1 18932 10 18949 10
+E 0 18905 0 12
+O 0 18906 0 18950
+O 0 18907 0 18951
+M 1 18933 1 18959 1
+O 0 18908 0 18959
+P 0 18909 1 18908 1
+P 0 18910 1 18908 1
+M 1 18934 1 18960 1
+E 0 18912 0 0
+O 0 18911 0 18960
+P 0 18913 1 18911 1
+P 0 18914 1 18911 1
+M 1 18935 1 18961 1
+E 0 18915 0 17
+P 0 18916 1 18915 1
+M 1 18936 1 18962 1
+G 0 18918 0
+G 0 18919 0
+O 0 18917 0 18962
+P 0 18918 -1 18917 1
+P 0 18919 -1 18917 1
+O 0 18920 0 18962
+P 0 18921 -1 18920 1
+M 1 18937 4 18963 1
+O 0 18922 0 18963
+M 1 18937 4 18964 1
+O 0 18923 0 18964
+M 1 18937 4 18965 1
+O 0 18924 0 18965
+M 1 18937 4 18966 1
+O 0 18925 0 18966
+M 1 18938 1 18972 1
+E 0 18955 0 10
+E 0 18957 0 17
+O 0 18940 0 18973
+M 1 18939 15 18975 15
+E 0 18941 0 16
+M 1 18940 2 18976 1
+E 0 18942 0 5
+E 0 18943 0 2
+E 0 18945 0 15
+M 1 18940 2 18977 1
+E 0 18942 0 5
+E 0 18944 0 3
+E 0 18946 0 6
+M 1 18941 1 18978 1
+M 1 18942 1 18980 1
+G 0 18954 0
+G 0 18948 0
+G 0 18943 0
+G 0 18944 0
+G 0 18945 0
+G 0 18946 0
+M 1 18943 1 18983 1
+E 0 18949 0 17
+O 0 18950 0 18985
+M 1 18944 4 18988 2
+O 0 18951 0 18988
+M 1 18944 4 18989 2
+M 1 18945 1 18990 1
+E 0 18947 0 17
+E 0 18948 0 18
+M 1 18946 10 18991 10
+M 1 18947 10 18992 10
+M 1 18948 10 18993 10
+M 1 18949 1 18996 1
+E 0 18953 0 16
+O 0 18952 0 18996
+M 1 18950 1 18999 1
+S
+
+
+
+#SHOPS
+18936 0 0 0 0 0 100 60 0 24
+18942 9 5 3 4 2 120 20 1 24
+0
+
+
+
+#$

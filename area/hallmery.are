@@ -1,0 +1,3399 @@
+#AREADATA
+Name Halls of Mercy~
+Builders None~
+VNUMs 11500 11599
+Credits { 1 53} Kraken      Halls of Mercy~
+Security 9
+Xcontinent 1
+Age 13
+Questable 1
+End
+
+
+
+#MOBILES
+#11500
+crow~
+a crow~
+A crow perches on a tree branch, glaring at you.
+~
+It is a large black bird with evil glaring eyes that seem to pierce your soul.
+~
+song bird~
+ABCG DEFJTVZ -250 0
+1 0 2d6+10 1d1+100 1d4+0 peck
+9 9 9 9
+FGH 0 HIKLMNQ JOS
+stand stand either 0
+ABGW ACDEFHJKPQU tiny feathers the guilds~
+#11501
+skeletal sentry~
+a skeletal sentry~
+A skeletal sentry stands here, guarding the entrance.
+~
+A skeletal sentry stands here, guarding the entrance.  It's made entirely
+out of bone and sends a chill through all who see it.  
+~
+deamon~
+ABGOT BDFJLTZ -1000 0
+5 -1 2d6+60 1d1+100 1d6+1 drain
+5 5 5 5
+CEFHK B HIKLMNQ JNOS
+stand stand none 0
+ABCGHIMZ ABCDEFGHIJKQUVWX medium bone the guilds~
+#11502
+battered corpse~
+a battered corpse~
+A battered corpse is here, moving about slowly.
+~
+It has been beaten until it died, and then animated to serve it's captors.  
+~
+human~
+AFGOSW CIXYd -500 0
+5 0 2d6+60 1d1+100 1d6+1 chill
+5 5 5 5
+U Z HIKLMNQ JO
+stand stand either 0
+ABCGHIMVc ABCDEFGHIJK medium flesh the guilds~
+#11503
+crossway guard~
+a crossway guard~
+A crossway guard is standing here, watching the halls.
+~
+A crossway guard is standing here, watching the halls.  It's a big
+muscular troll that looks like it could pummel you in half a second.  It
+glances about the room uttering muffled grunts and growls at nothing in
+particular.  
+~
+troll~
+ABFGT DEFJQZ -750 0
+15 -1 3d9+208 1d1+100 2d6+3 crush
+-2 -2 -2 -2
+CEFIJKNRU 0 HIKLMNQ HJO
+stand stand either 1000
+ABGHMZc ABCDEFGHIJKLPQUVWXY large snakeskin the guilds~
+#11504
+shackled prisoner~
+a shackled prisoner~
+A shackled prisoner is sitting here, contemplating death.
+~
+A shackled prisoner is sitting here, contemplating death.  Almost nothing
+is left on it except skin and bones.  It appears it's fate will be sealed by
+starvation.  
+~
+human~
+ABG ACIXYd -500 0
+5 0 2d6+60 1d1+100 1d6+1 punch
+5 5 5 5
+0 0 HIKLMNQ JO
+sit sit either 0
+AGHMV ABCDEFGHIJK medium leather the guilds~
+#11505
+apprentice torturer~
+an apprentice torturer~
+An apprentice torturer stands here next to the table, cleaning the torture devices.
+~
+An apprentice torturer stands here next to the table, cleaning the
+torture devices.  He's a short, disgusting little troll dressed in robes. 
+He grins and cackles at nothing in particular as he goes about his duties.  
+~
+troll~
+ABFGQ DEFJXZ -1000 0
+15 0 3d9+208 1d1+100 2d6+3 slash
+-2 -2 -2 -2
+BFHJR 0 HIKLMNQ HJO
+stand stand male 1500
+ABGHMZc ABCDEFGHIJKLPQUVWX medium snakeskin the guilds~
+#11506
+executioner~
+the executioner~
+The executioner stands here, sharpening his axe for the next victim.
+~
+The executioner stands here, sharpening his axe for the next victim. 
+He's a huge black troll who seems to enjoy his work.  Just don't make him
+angry by asking to see his little collection.  
+~
+troll~
+ABFGT DEFJZd -1000 0
+15 -1 3d9+208 1d1+100 2d6+3 slash
+-2 -2 -2 -2
+CEFIJKNR 0 HIKLMNQ HJO
+stand stand male 1500
+ABGHMZc ABCDEFGHIJKLPQUVWXY medium snakeskin the guilds~
+M grall 11505 10~
+#11507
+hallway guard~
+a hallway guard~
+A hallway guard is standing here, watching the halls.
+~
+A hallway guard is standing here, watching the halls.  It's a big
+muscular troll that looks like it could pummel you in half a second.  It
+glances about the room uttering muffled grunts and growls at nothing in
+particular.  
+~
+troll~
+AFGT DEFJZ -750 0
+15 -1 3d9+208 1d1+100 2d6+3 crush
+-2 -2 -2 -2
+CEFIJKNRU 0 HIKLMNQ HJO
+stand stand either 1000
+ABGHMZc ABCDEFGHIJKLPQUVWX large snakeskin the guilds~
+#11508
+vicious talon~
+a vicious talon~
+A vicious talon is here, drooling over a piece of meat.
+~
+A vicious talon is here, drooling over a piece of meat.  It snaps at the
+air, attempting to guard it's food against potention competition.  It would
+be better not to get too close.  
+~
+bat~
+ACFGOWc DEFJQTUVZab -1000 0
+15 1 3d9+208 1d1+100 2d6+3 acbite
+-2 -2 -2 -2
+EFHKMRU 0 HIKLMNQ JOS
+stand stand either 0
+AGIVW ACDEFHJKLPQUVW small fur the guilds~
+#11509
+frightened prisoner~
+a frightened prisoner~
+A frightened prisoner is standing here, worried about how to get out of this place.
+~
+A frightened prisoner is standing here, worried about how to get out of
+this place.  It's been starved and thrown in this dungeon and looks like
+it's lost all sense of sanity.  It's best not to bother it, because you can
+never know what it might do.  
+~
+human~
+AGHW CUYZ -250 0
+15 1 3d9+208 1d1+100 2d6+3 punch
+-2 -2 -2 -2
+FIJNRU KZ HIKLMNQ JNO
+stand stand either 0
+AGHMV ABCDEFGHIJK medium leather the guilds~
+#11510
+prisoner hero~
+the prisoner hero~
+The prisoner hero is here, leading his people in their best chance for survival.
+~
+The prisoner hero is here, leading his people in their best chance for
+survival.  He's a tall muscular man dressed in holy robes.  He chants as he
+mixes various healing implements together, hoping for a way to heal his
+people.  
+~
+human~
+ABCGQW FHVZab 0 0
+20 0 3d9+333 1d1+100 2d8+5 divine
+-4 -4 -4 -4
+AEFGHIJKR 0 HIKLMNQ JO
+sit stand male 2000
+AGHMV ABCDEFGHIJK medium leather the guilds~
+#11511
+dominant talon~
+the dominant talon~
+The dominant talon is here, shredding anything it sees.
+~
+The dominant talon is here, shredding anything it sees.  It's a very big
+beast with razor sharp claws and has a face that not even it's mother could
+love.  It glances at you with an ear to ear grin.  It would be best to back
+away slowly, otherwise it might decide to gore you.  
+~
+bat~
+ABCFGOW DEFJTVZab -1000 0
+20 1 3d9+333 1d1+100 2d8+5 acbite
+-4 -4 -4 -4
+EFGHMR 0 HIKLMNQ JOS
+stand stand male 2000
+AGHIVW ACDEFHJKLPQUWY medium fur the guilds~
+#11512
+hunchback gatekeeper~
+a hunchback gatekeeper~
+A hunchback gatekeeper is standing here, watching the gates.
+~
+A hunchback gatekeeper is standing here, watching the gates.  It's a very
+loyal and dilligent troll and goes about it's work in such a mindless
+fashion that it hardly pays attention to anything else.  
+~
+troll~
+AGTW BDEFJUZ -500 0
+20 -1 3d9+333 1d1+100 2d8+5 smash
+-4 -4 -4 -4
+CEFIJKRU 0 HIKLMNQ HJO
+stand stand either 2000
+BGHMZc ABCDEFGHIJKLPQUVWX medium snakeskin the guilds~
+#11513
+torture master~
+the torture master~
+The torture master is here, cackling gleefully at the thought of what he's going to do today.
+~
+The torture master is here, cackling gleefully at the thought of what
+he's going to do today.  He's a large muscular troll who enjoys his work and
+knows many ways to make someone scream.  He glances at you for an instant
+and gets an ear to ear grin on his face, revealing a set of gruesome teeth. 
+~
+troll~
+ABFGO DEFHJVZ -1000 0
+25 0 5d10+550 1d1+100 2d10+7 slash
+-7 -7 -7 -7
+ACEFHIJKNR 0 HIKLMNQ HJO
+stand stand male 2500
+ABGHMZc ABCDEFGHIJKLPQUVWXY medium snakeskin the guilds~
+#11514
+torture master tailor~
+the torture master's tailor~
+The torture master's tailor is here, mending some damaged clothes for his master.
+~
+The torture master's tailor is here, mending some damaged clothes for his
+master.  He's a short, ugly little troll who would love to have a dress form
+to work on.  He looks up at you and grins menacingly.  
+~
+troll~
+ABFGQ DEFHJVZa -750 0
+25 0 5d10+550 1d1+100 2d10+7 slice
+-7 -7 -7 -7
+BCEFHIJKNR 0 HIKLMNQ HJO
+stand stand male 2500
+ABGHMZc ABCDEFGHIJKLPQUVWX medium snakeskin the guilds~
+#11515
+torture master servant~
+the torture master's servant~
+The torture master's servant is here, polishing the display cases.
+~
+The torture master's servant is here, polishing the display cases.  He's
+a tall, ugly troll who's been looking for a new duster for quite some time. 
+He looks up at you and grins menacingly.  
+~
+troll~
+ABFGR DEFHJVZa -750 0
+25 1 5d10+550 1d1+100 2d10+7 claw
+-7 -7 -7 -7
+BCEFHIJKNR 0 HIKLMNQ HJO
+stand stand male 2500
+ABGHMZc ABCDEFGHIJKLPQUVWX medium snakeskin the guilds~
+#11516
+captain guard~
+the Captain of the Guard~
+The Captain of the Guard is here, getting ready for a day of pain and suffering.
+~
+The Captain of the Guard is here, getting ready for a day of pain and
+suffering.  He's a monstrous troll who got where he is today by being the
+most ruthless troll in the whole camp.  Don't mess with him unless you want
+to get beaten to a bloody pulp.  
+~
+troll~
+ABFGT DEFHJVZa -1000 0
+25 -1 5d10+550 1d1+100 2d10+7 smash
+-7 -7 -7 -7
+ACEFHIJKNR 0 HIKLMNQ HJO
+stand stand male 2500
+BGHMZc ABCDEFGHIJKLPQUVWX medium snakeskin the guilds~
+#11517
+elite armor guard~
+the Elite Armor Guard~
+The Elite Armor Guard stands here, preparing for battle.
+~
+The Elite Armor Guard stands here, preparing for battle.  He's a
+monstrous troll who gives his property the best of care.  He looks up at you
+with an evil grin.  
+~
+troll~
+ABFGT DEFHJVZa -750 0
+25 -1 5d10+550 1d1+100 2d10+7 smash
+-7 -7 -7 -7
+CEFHIJKNR 0 HIKLMNQ HJO
+stand stand male 2500
+BGHMVZc ABCDEFGHIJKLPQUVWX medium snakeskin the guilds~
+#11518
+blacksmith~
+the blacksmith~
+The blacksmith is standing here, pounding some metal plates.
+~
+The blacksmith is standing here, pounding some metal plates.  He's a
+monstrous troll who takes out his aggression in the easiest way possible,
+pounding metal.  He looks up at you and grins menacingly.  
+~
+troll~
+ABFGQ DEFHJVZa -750 0
+25 0 5d10+550 1d1+100 2d10+7 crush
+-7 -7 -7 -7
+CEFHIJKNR 0 HIKLMNQ HJO
+stand stand male 2500
+ABGHMZc ABCDEFGHIJKLPQUVWX medium snakeskin the guilds~
+#11519
+wraith club~
+a wraith of the clubs~
+A wraith of the clubs is here, mindlessly swinging.
+~
+A wraith of the clubs is here, mindlessly swinging.  It can barely be
+detected in the dark haziness of the hallway.  
+~
+deamon~
+ABFG DEFJLQTVZ -500 0
+20 1 3d9+333 1d1+100 2d8+5 pound
+-4 -4 -4 -4
+ACEFHKNRU B HIKLMNQ JNOS
+stand stand none 0
+ABCGIKZ ACDEFHJKQVX medium energy the guilds~
+M entry 11504 5~
+#11520
+wraith blade~
+a wraith of the blades~
+A wraith of the blades is here, mindlessly falling.
+~
+A wraith of the blades is here, mindlessly falling.  It can barely be
+detected in the dark haziness of the hallway.  
+~
+deamon~
+ABFG DEFJLQTVZ -500 0
+20 1 3d9+333 1d1+100 2d8+5 slash
+-4 -4 -4 -4
+ACEFHKNRU B HIKLMNQ JNOS
+stand stand none 0
+ABCGIKZ ACDEFHJKQVX medium energy the guilds~
+M entry 11504 5~
+#11521
+wraith dart~
+a wraith of the darts~
+A wraith of the darts is here, mindlessly crossing.
+~
+A wraith of the darts is here, mindlessly crossing.  It can barely be
+detected in the dark haziness of the hallway.  
+~
+deamon~
+ABFG DEFJLQTVZ -500 0
+20 1 3d9+333 1d1+100 2d8+5 pierce
+-4 -4 -4 -4
+ACEFHKNRU B HIKLMNQ JNOS
+stand stand none 0
+ABCGIKZ ACDEFHJKQVX medium energy the guilds~
+M entry 11504 5~
+#11522
+interrogator~
+the interrogator~
+The interrogator stands here, thinking of ways to get what he wants from people.
+~
+The interrogator stands here, thinking of ways to get what he wants from
+people.  He's a large troll who has ways of making you talk.  You had better
+not make him angry.  
+~
+troll~
+ABFGQ BDEFHJQVZ -1000 0
+30 0 6d12+853 1d1+100 4d6+8 claw
+-9 -9 -9 -9
+BEFGHIJKNR 0 HIKLMNQ HJO
+stand stand male 3000
+ABGHMZ ABCDEFGHIJKLPQUVWX medium snakeskin the guilds~
+#11523
+satanic alchemist~
+the satanic alchemist~
+The satanic alchemist is here, brewing up something nasty.
+~
+The satanic alchemist is here, brewing up something nasty.  He's a short
+little troll with a volatile temper who doesn't like you in his workspace. 
+Try not to touch anything and he might let you leave alive.  
+~
+troll~
+ABCFGQ DEFHJQVZ -1000 0
+30 0 6d12+853 1d1+100 4d6+8 acbite
+-9 -9 -9 -9
+AEFJKR 0 HIKLMNQ HJO
+stand stand male 3000
+ABGHMZc ABCDEFGHIJKLPQUVWX medium snakeskin the guilds~
+#11524
+stuffed dummy~
+a stuffed dummy~
+A stuffed dummy stands here, waiting to be horribly and inexplicably beaten and incinerated.
+~
+A stuffed dummy stands here, waiting to be horribly and inexplicably
+beated and incinerated.  It's a big roll of cloth, stuffed with wool, and
+hung from the ceiling.  For the moment, it looks completely harmless.  But
+you'd better keep an eye on it.  There's no telling what kind of huge beast
+it might turn into.  
+~
+doll~
+ABFGOQRST DEFJVZ -250 0
+30 -1 7d13+854 1d1+100 3d5+7 beating
+-9 -9 -9 -9
+EFGHKU ILMNPQR EHIKLMNPQRS FGHJKO
+stand stand none 0
+EJMc ABCGHK medium cloth the guilds~
+#11525
+deformed brute~
+a deformed brute~
+A deformed brute stands here, waiting to pummel anyone who come near.
+~
+A deformed brute stands here, waiting to pummel anyone who come near. 
+He's mean, ugly, and BIG!  Not to mention the stuff oozing from his body at
+various different places.  
+~
+giant~
+ABFGT BCDEFIJTZ 0 0
+35 -3 10d10+1300 1d1+100 4d7+11 crush
+-11 -11 -11 -11
+ACEFIKN ABE HIKLMNQ JO
+stand stand male 0
+AGHMV ABCDEFGHIJK giant flesh the guilds~
+#11526
+mythic phylosopher~
+a mythic phylosopher~
+A mythic phylosopher stands here, pondering all meaning.
+~
+A mythic phylosopher stands here, pondering all meaning.  He's smart and
+he doesn't like you much.  You'd better leave while you still can.  
+~
+wyvern~
+ABFGQ BCDEFIJTZ 0 0
+35 -2 10d10+1300 1d1+100 4d7+11 shbite
+-11 -11 -11 -11
+ACEFGHK ABELO HIKLMNQ JOS
+stand stand male 0
+ABGHMVZ ABCDEFGHIJKQVX giant leather the guilds~
+#11527
+psychophobic polymorph~
+a psychophobic polymorph~
+A psychophobic polymorph is here, showing you your worst fears.
+~
+A psychophobic polymorph is here, showing you your worst fears.  It
+shifts from one thing to another, probing your mind, and showing you
+whatever would make you vulnerable.  Escape from this beast might be
+impossible at best.  
+~
+deamon~
+ABFGR BCDEFIJTZ 0 0
+40 -1 15d10+1850 1d1+100 4d8+13 drain
+-13 -13 -13 -13
+ACEFGHIJKMNO ABRTXYZa HIKLMNQ JNOS
+stand stand none 0
+ABGHZ ACDEFHJKQVX giant energy the guilds~
+#11528
+shadow self~
+a shadow of yourself~
+A shadow of yourself is here, duplicating your every movement.
+~
+A shadow of yourself is here, duplicating your every movement.  In the
+pitch blackness, it's almost invisible.  You can feel it's presence.  Always
+in front of you.  Always doing the exact same as you, but in a mirrorlike
+fashion.  There is no escape.  
+~
+deamon~
+ABFGOQRST BCDEFJTZa 0 0
+40 -2 15d10+1850 1d1+100 4d8+13 wrath
+-13 -13 -13 -13
+ACEFGHK AB HIKLMNQ JNOS
+stand stand none 0
+ABGHZ ACDEFHJKQVX giant glass the guilds~
+#11529
+holy advocate~
+the holy advocate~
+The holy advocate is here, guarding the entrance to the shrine.
+~
+The holy advocate is here, guarding the entrance to the shrine.  Its fur
+is silver in colour.  Its eyes show wisdom from ages past.  Its presence
+itself is enough to purify even the most ravaged of souls.  
+~
+wolf~
+ABG DEFHJLVZ 1000 0
+60 0 50d10+9500 1d1+100 8d6+28 divine
+-30 -30 -30 -30
+AFGHIK ABa EFGHIKLMNPQRTXYZb JO
+stand stand none 6000
+AGJV ACDEFJKQV medium fur the guilds~
+M bribe 11502 10000~
+M grall 11501 100~
+#11530
+earth~
+the earth~
+The earth is here, providing a base for all existence.
+~
+The earth is here, providing a base for all existence.  It swirls and
+shifts, showing you every type of terrain possible.  
+~
+deamon~
+ABFG DEFHJLTVZ 0 0
+45 -2 25d10+3000 1d1+100 8d4+16 blast
+-15 -15 -15 -15
+ACEFGHJK ABC HIKLMNQ JNOS
+stand stand none 0
+ABGZ ACDEFHJKQVX giant earth the guilds~
+M grall 11503 100~
+#11531
+wind~
+the wind~
+The wind is here, encouraging change to all existence.
+~
+The wind is here, encouraging change to all existence.  It swirls around
+you with a screeching intensity, showing you its full force.  
+~
+deamon~
+ABFG DEFHJLTVZ 0 0
+50 -1 50d10+4500 1d1+100 5d8+19 blast
+-20 -20 -20 -20
+ACEFGHKO ABC HIKLMNQ JNOS
+stand stand none 0
+ABGZ ACDEFHJKQVX giant wind the guilds~
+M grall 11503 100~
+#11532
+water~
+the water~
+The water is here, providing a means of change, more common and yet unlike all else.
+~
+The water is here, providing a means of change, more common and yet
+unlike all else.  It swirls around you, sinking deep into all that it
+touches.  
+~
+deamon~
+ABFG DEFHJLTVZ 0 0
+55 -1 50d10+7000 1d1+100 10d4+23 blast
+-25 -25 -25 -25
+ACEFGHKN ABC HIKLMNQ JNOS
+stand stand none 0
+ABGZ ACDEFHJKQVX giant water the guilds~
+M grall 11503 100~
+#11533
+fire~
+the fire~
+The fire is here, providing heat for all existence.
+~
+The fire is here, providing heat for all existence.  It swirls around you
+with a blazing intensity, scorching everything that is.  
+~
+deamon~
+ABFG DEFHJLTVZ 0 0
+60 0 50d10+9500 1d1+100 8d6+28 blast
+-30 -30 -30 -30
+ACEFGHIK ABC HIKLMNQ JNOS
+stand stand none 0
+ABGZ ACDEFHJKQVX giant fire the guilds~
+M grall 11503 100~
+#11534
+peace~
+the peace~
+The peace is here, existing in pure tranquility.
+~
+The peace is here, existing in pure tranquility.  
+~
+deamon~
+ABFG DEFHJLOTVZ 1000 0
+45 -2 25d10+3000 1d1+100 8d4+16 divine
+-15 -15 -15 -15
+ACEFGHK ABC HIKLNQ JMNOS
+stand stand none 0
+ABGZ ACDEFHJKQVX giant peace the guilds~
+M grall 11503 100~
+#11535
+war~
+the war~
+The war is here, existing in pure chaos.
+~
+The war is here, existing in pure chaos.  
+~
+deamon~
+ABFG DEFHJLNTVZ -1000 0
+45 -2 25d10+3000 1d1+100 8d4+16 drain
+-15 -15 -15 -15
+ACEFGHK ABC HIKLMQ JNOS
+stand stand none 0
+ABGZ ACDEFHJKQVX giant war the guilds~
+M grall 11503 100~
+#11536
+bounty~
+the bounty~
+The bounty is here, providing for everyone.
+~
+The bounty is here, providing for everyone.  It holds up a sign that
+reads, "Feast and enjoy."  
+~
+deamon~
+ABFG DEFHJLOTVZ 1000 0
+50 -1 50d10+4500 1d1+100 5d8+19 divine
+-20 -20 -20 -20
+ACEFGHK ABC HIKLNQ JMNOS
+stand stand none 0
+ABGZ ACDEFHJKQVX giant bounty the guilds~
+M grall 11503 100~
+#11537
+famine~
+the famine~
+The famine is here, taking from you all that you are.
+~
+The famine is here, taking from you all that you are.  
+~
+deamon~
+ABFG DEFHJLNTVZ -1000 0
+50 -1 50d10+4500 1d1+100 5d8+19 drain
+-20 -20 -20 -20
+ACEFGHK ABC HIKLMQ JNOS
+stand stand none 0
+ABGZ ACDEFHJKQVX giant famine the guilds~
+M grall 11503 100~
+#11538
+health~
+the health~
+The health is here, ensuring a long existence.
+~
+The health is here, ensuring a long existence.  
+~
+deamon~
+ABFG DEFHJLOTVZ 1000 0
+55 -1 50d10+7000 1d1+100 10d4+23 divine
+-25 -25 -25 -25
+ACEFGHK AB HIKLNQ JMNOS
+stand stand none 0
+ABGZ ACDEFHJKQVX giant health the guilds~
+M grall 11503 100~
+#11539
+pestilence~
+the pestilence~
+The pestilence is here, forcing you into decay.
+~
+The pestilence is here, forcing you into decay.  
+~
+deamon~
+ABFG DEFHJLNTVZ -1000 0
+55 -1 50d10+7000 1d1+100 10d4+23 drain
+-25 -25 -25 -25
+ACEFGHK ABC HIKLMQ JNOS
+stand stand none 0
+ABGZ ACDEFHJKQVX giant pestilence the guilds~
+M grall 11503 100~
+#11540
+life~
+the life~
+The life is here, spreading sentience through all.
+~
+The life is here, spreading sentience through all.  
+~
+deamon~
+ABFG DEFHJLOTVZ 1000 0
+60 0 50d10+9500 1d1+100 8d6+28 divine
+-30 -30 -30 -30
+ACEFGHK ABC HIKLNQ JMNOS
+stand stand none 0
+ABGZ ACDEFHJKQVX giant life the guilds~
+M grall 11503 100~
+#11541
+death~
+the death~
+The death is here, tearing away your existence.
+~
+The death is here, tearing away your existence.  
+~
+deamon~
+ABFG DEFHJLNTVZ -1000 0
+60 0 50d10+9500 1d1+100 8d6+28 drain
+-30 -30 -30 -30
+ACEFGHK ABC HIKLMQ JNOS
+stand stand none 60
+ABGZ ACDEFHJKQVX giant death the guilds~
+M grall 11503 100~
+#0
+
+
+
+#OBJECTS
+#11500
+rotten twig~
+a rotten twig~
+A rotten twig lies here, almost invisible in the darkness.~
+wood~
+key G AO
+0 0 0 0 0
+1 10 0 P
+#11501
+glinting nothing~
+a glinting piece of nothing~
+A glinting piece of nothing is here, cutting through the shadows.~
+energy~
+light A AO
+0 0 999 0 0
+1 1 0 P
+#11502
+golden tooth~
+a golden tooth~
+A golden tooth shines here, inviting those who notice it to claim it for themselves.~
+gold~
+wand AG AO
+10 5 5 'lightning bolt' 0
+5 10 1000 P
+#11503
+deflection plates~
+some deflection plates~
+Some deflection plates are here, impervious to all forces.~
+adamantite~
+armor AEac AF
+3 4 2 6 0
+15 100 1500 P
+A
+4 2  
+#11504
+rusting shackles~
+some rusting shackles~
+Some rusting shackles are here, wearing away with time.~
+iron~
+weapon bd AN
+whip 2 1 whip H
+5 50 500 W
+#11505
+scalpel mercy~
+the scalpel of mercy~
+The scalpel of mercy is here, enticing you with deceit.~
+bone~
+weapon EG AN
+axe 4 2 slice C
+15 150 1500 P
+#11506
+torture table~
+a torture table~
+A heavy wooden torture table is here. Stained on it's surface, trailing off at the end in a long smear, is the word 'mercy'.~
+wood~
+furniture CE P
+-1 -1 EHK 125 125
+1 1000 0 P
+#11507
+pile rancid body part~
+a pile of rancid body parts~
+A pile of rancid body parts is here, decomposing into dust.~
+slime~
+pill 0 AO
+25 'protection evil' 'protection good' 'reserved' 'reserved'
+15 100 0 D
+#11508
+impaled head~
+an impaled head~
+An impaled head is here, slowly leaking liquified grey matter.~
+bone~
+container 0 AE
+10 0 0 10 75
+5 100 0 W
+#11509
+executioner axe~
+the executioner's axe~
+The executioner's axe is here, dripping with blood.~
+iron~
+weapon E AN
+axe 5 2 slice F
+15 100 1500 P
+#11510
+guillotine~
+a guillotine~
+A large guillotine is here, mounted firmly to it's base.~
+wood~
+container 0 0
+100 A 0 100 100
+1 1000 0 A
+#11511
+guillotine blade~
+a bloody guillotine blade~
+A bloody guillotine blade is here, still dripping from its previous use.~
+iron~
+throwing EGac AOY
+3 4 chop 25 'clenched fist'
+15 370 1500 P
+#11512
+reflection plates~
+some reflection plates~
+Some reflection plates are here, impervious to all forces.~
+adamantite~
+armor AEac AI
+3 4 2 6 0
+15 100 1500 P
+A
+3 2  
+#11513
+rusting iron gate key~
+a rusting iron gate key~
+A rusting iron gate key is here, oxidizing into dust.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 10 0 A
+#11514
+sharp stick~
+a sharp stick~
+A sharp stick is here, looking not very deadly . . . but appearances can be deceiving.~
+wood~
+weapon 0 AN
+staff 4 2 thrust D
+15 50 500 P
+#11515
+holy rod zeus~
+the holy rod of Zeus~
+The holy rod of Zeus is here, glowing with an energetic aura.~
+glass~
+weapon AGIad AN
+mace 4 3 divine G
+20 200 2000 P
+#11516
+pungent balm~
+some pungent balm~
+Some pungent balm is here, giving the room a pleasant smell.~
+balm~
+pill G AO
+25 'stone skin' 'grandeur' 'reserved' 'reserved'
+20 20 200 P
+#11517
+talon claw~
+a talon's claw~
+A talon's claw is here, gleaming in the darkness, covered with blood.~
+bone~
+weapon 0 AN
+dagger 4 2 stab C
+15 25 500 P
+#11518
+unholy helmet Ti-Ayl Tqorha~
+the unholy helmet of Ti-Ayl Tqorha~
+The unholy helmet of Ti-Ayl Tqorha is here, infecting and empowering those who wear it with the spirit of the ancient sorcerer.~
+stone~
+armor AEG AE
+8 8 8 4 0
+25 250 2500 P
+A
+12 -10  
+A
+4 2  
+#11519
+unholy gauntlets Ti-Ayl Tqorha~
+the unholy gauntlets of Ti-Ayl Tqorha~
+The unholy gauntlets of Ti-Ayl Tqorha are here, conforming the actions of those who wear them with the ideals of the ancient sorcerer.~
+stone~
+armor AEG AH
+8 8 8 4 0
+25 250 2500 P
+A
+12 -10  
+A
+1 2  
+#11520
+unholy boots Ti-Ayl Tqorha~
+the unholy boots of Ti-Ayl Tqorha~
+The unholy boots of Ti-Ayl Tqorha are here, forcing those who wear them to carry out the purposes of the ancient sorcerer.~
+stone~
+armor AEG AG
+8 8 8 4 0
+25 250 2500 P
+A
+12 -10  
+A
+2 2  
+#11521
+equipment rack~
+an equipment rack~
+An equipment rack hangs here, designed to hold whatever you put on it.~
+wood~
+container 0 P
+10000 0 0 100 10
+1 1000 0 P
+#11522
+dragon scale vest~
+the dragon scale vest of the ancient troll king~
+A glittering multicoloured vest made of dragon scales, given to the ancient troll king as a prize for his great victory, is here.~
+snakeskin~
+armor G AKY
+8 10 7 1 0
+25 250 2500 P
+A
+5 3  
+A
+20 -1  
+#11523
+unholy shield Ti-Ayl Tqorha~
+the unholy shield of Ti-Ayl Tqorha~
+The unholy shield of Ti-Ayl Tqorha is here, keeping safe those who wear it.~
+stone~
+armor AEG AJ
+8 8 8 4 0
+25 250 2500 P
+A
+12 -10  
+A
+5 2  
+#11524
+unholy staff Ti-Ayl Tqorha~
+the unholy staff of Ti-Ayl Tqorha~
+The unholy staff of Ti-Ayl Tqorha is here, drawing in the life energy of it's surroundings and bestowing it upon it's owner.~
+stone~
+weapon AEG AN
+mace 5 3 blast CF
+25 250 2500 P
+A
+12 -10  
+A
+3 2  
+#11525
+bunk bed~
+the guards' bunk bed~
+The guards' bunk bed is here, smelling of sweat and vomit.~
+wood~
+container 0 P
+1000 0 0 100 25
+1 1000 0 P
+#11526
+troll captain pet sliver~
+the troll captain's pet sliver~
+The troll captain's pet sliver is here, greedily devouring everything in sight.~
+shell~
+container ADHY AQ
+100 ABCD 11528 100 40
+10 10 100 P
+#11527
+spoils war~
+the troll captain's spoils of war~
+The troll captain's spoils of war are here, glittering as though they had just been made.~
+gold~
+money 0 A
+20000 0 0 0 0
+1 0 0 P
+#11528
+unholy talisman Ti-Ayl Tqorha~
+the unholy talisman of Ti-Ayl Tqorha~
+The unholy talisman of Ti-Ayl Tqorha is here, ressonating with the evil powers of the ancient sorcerer.~
+stone~
+jewelry AH AO
+0 0 0 0 0
+38 10 10 P
+A
+12 25  
+A
+20 -1  
+#11529
+furnace~
+a blazing hot furnace~
+Slime mold juice flows from a blazing hot furnace, draining into the depths of hell.~
+stone~
+fountain AG P
+10000 10000 'slime mold juice' 0 0
+1 1000 0 P
+#11530
+huge anvil~
+a huge anvil~
+A huge anvil is here, still ringing from it's previous usage.~
+iron~
+recall_crystal BGY AO
+CFIKLN B B 0 0
+1 1000 100 A
+#11531
+blacksmith hammer~
+a blacksmith's hammer~
+A blacksmith's hammer is here, covered with various dents.~
+iron~
+weapon 0 AN
+mace 6 3 pound 0
+25 25 2500 P
+#11532
+tailor scissors~
+a pair of tailoring scissors~
+A pair of tailoring scissors is here, gleaming and covered with blood.~
+iron~
+weapon 0 AN
+dagger 6 3 stab 0
+25 25 2500 P
+#11533
+glass case~
+a glass case~
+A glass case is here. An odd looking insignia is on its surface.~
+glass~
+container A P
+100 0 0 0 0
+1 100 0 P
+#11534
+unholy insignia Ti-Ayl Tqorha~
+the unholy insignia of Ti-Ayl Tqorha~
+The unholy insignia of Ti-Ayl Tqorha is here, containing the evil spirit of the ancient sorcerer.~
+stone~
+wand AG AO
+30 5 5 'curse' 0
+25 25 2500 P
+#11535
+bloody cauldron~
+a bloody cauldron~
+A large iron cauldron is here, covered with blood.~
+iron~
+drink 0 A
+1000 100 'blood' 0 0
+1 1000 0 P
+#11536
+pedestal~
+a mysterious pedestal~
+A mysterious pedestal is here, seeming to shift in and out of existence.~
+iron~
+portal 0 0
+10 0 0 1900 0
+1 10 0 P
+#11537
+head~
+a bloody head~
+A bloody head is here, seeming to shift in and out of existence.~
+bone~
+portal 0 0
+10 0 0 31000 0
+1 10 0 P
+#11538
+mutilated corpse~
+a leathery mutilated corpse~
+A leathery mutilated corpse is here, gathering maggots as it decomposes.~
+leather~
+npc_corpse 0 A
+0 0 0 0 0
+1 1000 0 B
+#11539
+dummy fluff~
+some dummy fluff~
+Some dummy fluff is here, floating aimlessly through the air.~
+feathers~
+pill FG A
+35 'faerie fog' 'reserved' 'reserved' 'reserved'
+35 1 0 G
+#11540
+bottle red stuff~
+a bottle of red stuff~
+A bottle of red stuff is here.~
+glass~
+potion AG A
+45 'giant strength' 'reserved' 'reserved' 'reserved'
+30 10 0 P
+#11541
+bottle green stuff~
+a bottle of green stuff~
+A bottle of green stuff is here.~
+glass~
+potion AG A
+45 'animal growth' 'reserved' 'reserved' 'reserved'
+30 10 0 P
+#11542
+bottle blue stuff~
+a bottle of blue stuff~
+A bottle of blue stuff is here.~
+glass~
+potion AG A
+45 'haste' 'reserved' 'reserved' 'reserved'
+30 10 0 P
+#11543
+bottle black stuff~
+a bottle of black stuff~
+A bottle of black stuff is here.~
+glass~
+potion AG A
+45 'minimation' 'reserved' 'reserved' 'reserved'
+30 10 0 P
+#11544
+bottle white stuff~
+a bottle of white stuff~
+A bottle of white stuff is here.~
+glass~
+potion AG A
+45 'grandeur' 'reserved' 'reserved' 'reserved'
+30 10 0 P
+#11545
+energy spike~
+a spike of crackling energy~
+A spike of crackling energy is here. Its raw ancient power creates tears in reality.~
+energy~
+recall_crystal ABG AOY
+BGIKLN B B 0 0
+1 1 0 P
+#11546
+energy ball~
+a ball of crackling energy~
+A ball of crackling energy is here.  Its raw ancient power engulfs everything near it.~
+energy~
+armor ABG AOY
+6 5 6 2 0
+43 1 20000 P
+A
+19 2  
+A
+12 25  
+A
+18 -1  
+A
+2 -1  
+#0
+
+
+
+#ROOMS
+#11500
+Outside the Jungle~
+You are at the edge of the jungle.  It is densely overgrown with moss and
+vines.  There is a rotten stump in the middle of a mud puddle, bubbles
+oozing from every sunken crack.  A small iron sign is in the mud in front of
+the stump.  To the north is a cleared dirt path and to the west is what
+remains of someone's swamp boat.  The boat looks like it was torn to pieces
+by some hideous beast.  
+~
+0 0 12
+E
+sign~
+A small iron sign is here, coursing with energy.
+Engraved on it's face is the message:
+*----------------------------------------------------------*
+|        Beneath this soil is a place of pure evil.        |
+| Those who chose to procede, do so without my permission. |
+|           Few who venture forth return alive.            |
+|                                                          |
+|                          --- Zeus                        |
+*----------------------------------------------------------*
+~
+E
+stump~
+A stump rests here in the muck, rotting away.
+~
+D3
+~
+~
+0 0 31450
+D5
+A stump rests here in the muck, rotting away.  
+~
+stump~
+1 11500 11501
+S
+#11501
+The Rotten Stump~
+You are inside the rotten stump.  A foul smell rises from below you, and
+escapes to the light outside.  The walls of the stump are covered with tiny
+insects, eating holes through the stump.  
+~
+0 9 12
+E
+stump~
+A stump rests here in the muck, rotting away.
+~
+D4
+A stump rests here in the muck, rotting away.
+~
+stump~
+1 11500 11500
+D5
+~
+~
+0 0 11502
+S
+#11502
+End of the Stump~
+You are just outside the stump.  The ground beneath you is litterally
+made of corpses.  They look as though they've been whipped, beaten, and cut
+until they died from pain.  Above you, the faintest trace of light from
+either sun, moon, or stars can barely be detected.  A piece of wood wrapped
+in oily cloth burns on the wall beside you.  An odd green glow emanates from
+the north and east.  The walls seem to be made of solid stone.  It's cold to
+the touch and very smooth.  
+~
+0 0 12
+D0
+~
+~
+0 0 11503
+D1
+~
+~
+0 0 11504
+D4
+~
+~
+0 0 11501
+S
+#11503
+The Corpse Pit~
+You are in a pit of corpses.  The volatile stench is almost sickening. 
+The same green glow fills the room.  The walls are made from smooth black
+rocks.  This seems to continue for a long way to the north.  To the south,
+only the faintest natural light can be seen.  
+~
+0 0 12
+D0
+~
+~
+0 0 11505
+D2
+~
+~
+0 0 11502
+S
+#11504
+The Corpse Pit~
+You are in a pit of corpses.  The volatile stench is almost sickening. 
+The same green glow fills the room.  The walls are made from smooth black
+rocks.  This seems to continue for a long way to the east.  To the west,
+only the faintest natural light can be seen.  
+~
+0 0 12
+D1
+~
+~
+0 0 11506
+D3
+~
+~
+0 0 11502
+S
+#11505
+The Corpse Pit~
+You are in a pit of corpses.  The volatile stench is now beyond
+sickening.  There is a bright green glow coming from an underground river
+running through the pit.  The walls are made from smooth black rocks.  The
+walls stretch for a long way to the north and south.  
+~
+0 0 12
+D0
+~
+~
+0 0 11507
+D2
+~
+~
+0 0 11503
+S
+#11506
+The Corpse Pit~
+You are in a pit of corpses.  The volatile stench is now beyond
+sickening.  There is a bright green glow coming from an underground river
+running through the pit.  The walls are made from smooth black rocks.  The
+walls stretch for a long way to the east and west.  
+~
+0 0 12
+D1
+~
+~
+0 0 11508
+D3
+~
+~
+0 0 11504
+S
+#11507
+The Corpse Pit~
+You are in a pit of corpses.  The volatile stench is almost sickening. 
+The same green glow fills the room.  The walls are made from smooth black
+rocks.  This seems to continue for a long way to the south.  To the north,
+the light of a torch can be seen.  
+~
+0 0 12
+D0
+~
+~
+0 0 11509
+D2
+~
+~
+0 0 11505
+S
+#11508
+The Corpse Pit~
+You are in a pit of corpses.  The volatile stench is almost sickening. 
+The same green glow fills the room.  The walls are made from smooth black
+rocks.  This seems to continue for a long way to the west.  To the east, the
+light of a torch can be seen.  
+~
+0 0 12
+D1
+~
+~
+0 0 11510
+D3
+~
+~
+0 0 11506
+S
+#11509
+The Landing of the Corpse Pit~
+You are at the landing for a flight of stairs.  The smell is not so bad
+here.  There is a large torch fixed to the wall burning brightly, shedding
+light on the entire room.  The walls here are made from sharp, jagged black
+rocks.  A long hallway stretches to the east, with something along both
+walls.  To the south, an odd green glow fills the air.  
+~
+0 0 12
+D1
+~
+~
+0 0 11511
+D2
+~
+~
+0 0 11507
+S
+#11510
+The Landing of the Corpse Pit~
+You are at the landing for a flight of stairs.  The smell is not so bad
+here.  There is a large torch fixed to the wall burning brightly, shedding
+light on the entire room.  The walls are made from sharp, jagged black
+rocks.  A long hallway stretches to the north, with something along both
+walls.  To the south, an odd green glow fills the air.  
+~
+0 0 12
+D0
+~
+~
+0 0 11512
+D3
+~
+~
+0 0 11508
+S
+#11511
+The Trophy Hall~
+You are in a tall hallway.  Rows of wooden stakes stick out from the
+walls.  The heads from thousands of prisoners hang impaled on those stakes. 
+To the west, the light of a torch can be seen.  To the east, another hallway
+crosses this one.  
+~
+0 9 0
+D1
+~
+~
+0 0 11513
+D3
+~
+~
+0 0 11509
+S
+#11512
+The Trophy Hall~
+You are in a tall hallway.  Rows of wooden stakes stick out from the
+walls.  The heads from thousands of prisoners hang impaled on those stakes. 
+To the south, the light of a torch can be seen.  To the north, another
+hallway crosses this one.  
+~
+0 9 0
+D0
+~
+~
+0 0 11514
+D2
+~
+~
+0 0 11510
+S
+#11513
+A Guard Post~
+You are in a crossway.  The room itself is rounded on all sides.  There
+are tiny holes in the ceiling where water drips through.  Small streams of
+blood soak through the walls, mixing with the water and forming pools on the
+floor.  Exits lead in all cardinal directions.  
+~
+0 9 0
+E
+shadows~
+The pitch blackness of the shadows show no depth.
+~
+D0
+~
+~
+0 0 11521
+D1
+The pitch blackness of the shadows show no depth.
+~
+shadows~
+1 11501 11517
+D2
+The pitch blackness of the shadows show no depth.
+~
+shadows~
+1 11501 11515
+D3
+~
+~
+0 0 11511
+S
+#11514
+A Guard Post~
+You are in a crossway.  The room itself is rounded on all sides.  There
+are tiny holes in the ceiling where water drips through.  Small streams of
+blood soak through the walls, mixing with the water and forming pools on the
+floor.  Exits lead in all cardinal directions.  
+~
+0 9 0
+E
+shadows~
+The pitch blackness of the shadows show no depth.
+~
+D0
+The pitch blackness of the shadows show no depth.
+~
+shadows~
+1 11501 11518
+D1
+~
+~
+0 0 11522
+D2
+~
+~
+0 0 11512
+D3
+The pitch blackness of the shadows show no depth.
+~
+shadows~
+1 11501 11516
+S
+#11515
+A Room of Shackles~
+You are in a room of shackles.  Short lengths of chain with clasps on the
+ends are fixed all over the walls.  The arm of a prisoner is still bound by
+one of the upper clasps.  A bright light can be seen to the south.  To the
+north, another hallway crosses this one.  
+~
+0 9 0
+E
+shadows~
+The pitch blackness of the shadows show no depth.
+~
+D0
+The pitch blackness of the shadows show no depth.
+~
+shadows~
+1 11501 11513
+D2
+~
+~
+0 0 11519
+M 50 H 50
+S
+#11516
+A Room of Shackles~
+You are in a room of shackles.  Short lengths of chain with clasps on the
+ends are fixed all over the walls.  The leg of a prisoner is still bound by
+one of the lower clasps.  A bright light can be seen to the west.  To the
+south, another hallway crosses this one.  
+~
+0 8 0
+E
+shadows~
+The pitch blackness of the shadows show no depth.
+~
+D1
+The pitch blackness of the shadows show no depth.
+~
+shadows~
+1 11501 11514
+D3
+~
+~
+0 0 11519
+M 50 H 50
+S
+#11517
+The Trophy Hall~
+You are in a tall hallway.  Rows of wooden stakes stick out from the
+walls.  The heads from thousands of prisoners hang impaled on those stakes. 
+To the west, another hallway crosses this one.  A glint of metal comes from
+the east.  
+~
+0 9 0
+E
+shadows~
+The pitch blackness of the shadows show no depth.
+~
+D1
+~
+~
+0 0 11520
+D3
+The pitch blackness of the shadows show no depth.
+~
+shadows~
+1 11501 11513
+S
+#11518
+The Trophy Hall~
+You are in a tall hallway.  Rows of wooden stakes stick out from the
+walls.  The heads from thousands of prisoners hang impaled on those stakes. 
+To the south, another hallway crosses this one.  A glint of metal comes from
+the north.  
+~
+0 9 0
+E
+shadows~
+The pitch blackness of the shadows show no depth.
+~
+D0
+~
+~
+0 0 11520
+D2
+The pitch blackness of the shadows show no depth.
+~
+shadows~
+1 11501 11514
+S
+#11519
+Torture Chamber~
+You are in a brightly lit room.  A blazing fire heats the room from an
+alcove in the southwest corner.  An assortment of torture devices hang on
+the walls.  Rancid body parts lie in separate piles on the floor.  A heavy
+wooden table is mounted to a stone platform in the center of the room. 
+Rooms of shackles are to the north and east.  
+~
+0 8 0
+D0
+~
+~
+0 0 11515
+D1
+~
+~
+0 0 11516
+M 25 H 25
+S
+#11520
+The Beheading Room~
+You are in a darkened room.  A stage rests in the middle of the room. 
+Fixed to the stage is a large guillotine.  The blade, resting in place atop
+the shaft, is covered with blood and gleaming in the darkness.  To the south
+and west, something can be seen protruding from the walls.  
+~
+0 9 0
+D2
+~
+~
+0 0 11518
+D3
+~
+~
+0 0 11517
+M 25 H 25
+S
+#11521
+A Long Bloody Hallway~
+You are in a long narrow hallway.  The walls are covered with blood. 
+Blood drips from the ceiling.  Blood forms into shallow pools on the floor. 
+The same pitch darkness continues to the north.  To the south, another
+hallway crosses this one.  
+~
+0 9 0
+D0
+~
+~
+0 0 11523
+D2
+~
+~
+0 0 11513
+S
+#11522
+A Long Bloody Hallway~
+You are in a long narrow hallway.  The walls are covered with blood. 
+Blood drips from the ceiling.  Blood forms into shallow pools on the floor. 
+The same pitch darkness continues to the east.  To the west, another hallway
+crosses this one.  
+~
+0 9 0
+D1
+~
+~
+0 0 11524
+D3
+~
+~
+0 0 11514
+S
+#11523
+A Long Bloody Hallway~
+You are in a long narrow hallway.  The walls are covered with blood. 
+Blood drips from the ceiling.  Blood forms into shallow pools on the floor. 
+The same pitch darkness continues to the south.  To the north, another
+hallway crosses this one.  
+~
+0 9 0
+D0
+~
+~
+0 0 11525
+D2
+~
+~
+0 0 11521
+S
+#11524
+A Long Bloody Hallway~
+You are in a long narrow hallway.  The walls are covered with blood. 
+Blood drips from the ceiling.  Blood forms into shallow pools on the floor. 
+The same pitch darkness continues to the west.  To the east, another hallway
+crosses this one.  
+~
+0 9 0
+D1
+~
+~
+0 0 11526
+D3
+~
+~
+0 0 11522
+S
+#11525
+A Guard Post~
+You are in a crossway.  The room itself is rounded on all sides.  There
+are tiny holes in the ceiling where water drips through.  Small streams of
+blood soak through the walls, mixing with the water and forming pools on the
+floor.  Exits lead in all cardinal directions.  
+~
+0 1 0
+E
+gate~
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+D0
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11551
+D1
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11553
+D2
+~
+~
+0 0 11523
+D3
+~
+~
+0 0 11527
+S
+#11526
+A Guard Post~
+You are in a crossway.  The room itself is rounded on all sides.  There
+are tiny holes in the ceiling where water drips through.  Small streams of
+blood soak through the walls, mixing with the water and forming pools on the
+floor.  Exits lead in all cardinal directions.  
+~
+0 9 0
+E
+door~
+A small wooden door seals the entrance.
+~
+D0
+A small wooden door seals the entrance.
+~
+door~
+1 0 11554
+D1
+A small wooden door seals the entrance.
+~
+door~
+1 0 11552
+D2
+~
+~
+0 0 11528
+D3
+~
+~
+0 0 11524
+S
+#11527
+Entrance to the Feeding Grounds~
+You are just outside a large hallway.  The room here seems to be rather
+clean.  A heavy iron gate guards the way to the west.  To the east, another
+hallway crosses this one.  
+~
+0 1 0
+D1
+~
+~
+0 0 11525
+D3
+~
+~
+0 0 11529
+S
+#11528
+Entrance to the Gauntlet Hall~
+You are at the entrance to the gauntlet hall.  Wooden steps lead up to a
+boarded walkway.  Nothing but complete blackness can be seen above.  The
+walls of the hall ahead widen to about twice the width to the south.  To the
+north, another hallway crosses this one.  
+~
+0 9 0
+D0
+~
+~
+0 0 11526
+D2
+~
+~
+0 0 11530
+S
+#11529
+Edge of the Slaughter~
+You are in the corner of the hall.  Compared to others, this room seems
+to be the cleanest.  Absolutely no blood can be seen anywhere.  The shredded
+leg of a prisoner rolls into the room from the north.  A heavy iron gate
+guards the way to the east.  
+~
+0 1 0
+D0
+~
+~
+0 0 11531
+D1
+~
+~
+0 0 11527
+S
+#11530
+A Slanting Corner Room~
+You are in a slanting corner room.  The wooden floor is covered with
+slime and is quite slippery.  The walls seem to be full of hollows and the
+ceiling doesn't even appear to exist.  The wooden floor slopes downward to
+the east where slight, constant movement can be seen.  To the west, the
+wooden walkway dissappears after a few short steps.  
+~
+0 9 0
+D0
+~
+~
+0 0 11528
+D1
+~
+~
+0 0 11532
+S
+#11531
+A Feeding Frenzy~
+You are in a long, wide hallway.  Hardly a single stone block can be
+seen, not covered with shredded flesh.  The limbs of prisoners lie scattered
+everywhere along the floor.  The same carnage continues to the north.  To
+the south, the hallway turns to the east.  
+~
+0 1 0
+D0
+~
+~
+0 0 11533
+D2
+~
+~
+0 0 11529
+M 125 H 125
+S
+#11532
+Swinging Clubs~
+You are in the gauntlet hall.  The floor is covered with slime and is
+quite slippery.  The ceiling cannot be seen and there are narrow recessions
+along the wall.  Huge heavy clubs made of iron swing back and forth from
+these recessions.  More obstacles can be observed to the east.  To the west,
+the room slants slightly up to the north.  
+~
+0 9 0
+D1
+~
+~
+0 0 11534
+D3
+~
+~
+0 0 11530
+M 75 H 75
+S
+#11533
+A Chaotic Slaughter~
+You are in a chaotic hallway.  Shredded flesh covers everything, even the
+ceiling.  The floor is soft and mushy, almost as though the dead had been
+piling up for years.  This appears to be the worst part of the slaughter. 
+The same carnage continues to the north and south.  
+~
+0 1 0
+D0
+~
+~
+0 0 11535
+D2
+~
+~
+0 0 11531
+M 125 H 125
+S
+#11534
+Falling Blades~
+You are in the gauntlet hall.  The floor is covered with slime and is
+quite slippery.  The ceiling cannot be seen except for slight starry glints.
+Sharp iron blades fall from the ceiling, only to evaporate and instant
+later.  More obstacles can be observed to the east and west.  
+~
+0 9 0
+D1
+~
+~
+0 0 11536
+D3
+~
+~
+0 0 11532
+M 75 H 75
+S
+#11535
+A Feeding Frenzy~
+You are in a long, wide hallway.  Hardly a single stone block can be
+seen, not covered with shredded flesh.  The limbs of prisoners lie scattered
+everywhere along the floor.  The same carnage continues to the south.  To
+the north, the hallway turns to the east.  
+~
+0 1 0
+D0
+~
+~
+0 0 11537
+D2
+~
+~
+0 0 11533
+M 125 H 125
+S
+#11536
+Darts Crossfire~
+You are in the gauntlet hall.  The floor is covered with slime and is
+quite slippery.  The ceiling cannot be seen and there are small holes
+scattered along the walls.  More obstacles can be seen to the west but
+nothing can be seen to the east.  
+~
+0 9 0
+D1
+~
+~
+0 0 11538
+D3
+~
+~
+0 0 11534
+M 75 H 75
+S
+#11537
+A Turn in the Chaotic Hallway~
+You are at the corner of the chaotic hallway.  A pile of shredded corpses
+lie in the corner, mangled beyond recognition.  The stone from the wall
+seems to have been smashed into rubble.  Savage carnage lies to the east and
+south.  
+~
+0 1 0
+D1
+~
+~
+0 0 11539
+D2
+~
+~
+0 0 11535
+M 150 H 150
+S
+#11538
+Chasm Ledge~
+You are at the chasm ledge.  The ledge is very narrow curving north and
+west.  Nothing else can be seen anywhere except an intermittent glistening
+from the other side of the chasm.  
+~
+0 9 0
+D0
+~
+~
+0 0 11540
+D3
+~
+~
+0 0 11536
+D5
+~
+~
+0 0 1801
+M 50 H 50
+S
+#11539
+A Feeding Frenzy~
+You are in a long, wide hallway.  Hardly a single stone block can be
+seen, not covered with shredded flesh.  The limbs of prisoners lie scattered
+everywhere along the floor.  The same carnage continues to the east.  To the
+west, the hallway turns to the south.  
+~
+0 1 0
+D1
+~
+~
+0 0 11541
+D3
+~
+~
+0 0 11537
+M 125 H 125
+S
+#11540
+Darts Crossfire~
+You are in the gauntlet hall.  The floor is covered with slime and is
+quite slippery.  The ceiling cannot be seen and there are small holes
+scattered along the walls.  More obstacles can be seen to the north, but
+nothing can be seen to the south.  
+~
+0 9 0
+D0
+~
+~
+0 0 11542
+D2
+~
+~
+0 0 11538
+M 75 H 75
+S
+#11541
+A Chaotic Slaughter~
+You are in a chaotic hallway.  Shredded flesh covers everything, even the
+ceiling.  The floor is soft and mushy, almost as though the dead had been
+piling up for years.  This appears to be the worst part of the slaughter. 
+The same carnage continues to the east and west.  
+~
+0 1 0
+D1
+~
+~
+0 0 11543
+D3
+~
+~
+0 0 11539
+M 125 H 125
+S
+#11542
+Falling Blades~
+You are in the gauntlet hall.  The floor is covered with slime and is
+quite slippery.  The ceiling cannot be seen except for slight starry glints.
+Sharp iron blades fall from the ceiling, only to evaporate an instant later.
+More obstacles can be observed to the east and west.  
+~
+0 9 0
+D0
+~
+~
+0 0 11544
+D2
+~
+~
+0 0 11540
+M 75 H 75
+S
+#11543
+A Feeding Frenzy~
+You are in a long, wide hallway.  Hardly a single stone block can be
+seen, not covered with shredded flesh.  The limbs of prisoners lie scattered
+everywhere along the floor.  The same carnage continues to the west.  To the
+east, the hallway turns to the south.  
+~
+0 1 0
+D1
+~
+~
+0 0 11545
+D3
+~
+~
+0 0 11541
+M 125 H 125
+S
+#11544
+Swinging Clubs~
+You are in the gauntlet hall.  The floor is covered with slime and is
+quite slippery.  The ceiling cannot be seen and there are narrow recessions
+along the wall.  Huge heavy clubs made of iron swing back and forth from
+these recessions.  More obstacles can be observed to the south.  To the
+north, the room slants slightly up to the west.  
+~
+0 9 0
+D0
+~
+~
+0 0 11546
+D2
+~
+~
+0 0 11542
+M 75 H 75
+S
+#11545
+Edge of the Slaughter~
+You are in the corner of the hall.  Compared to others, this room seems
+to be the cleanest.  Absolutely no blood can be seen anywhere.  The shredded
+limb of a prisoner rolls into the room from the west.  A heavy iron gate
+guards the way to the south.  
+~
+0 1 0
+D2
+~
+~
+0 0 11547
+D3
+~
+~
+0 0 11543
+S
+#11546
+A Slanting Corner Room~
+You are in a slanting corner room.  The wooden floor is covered with
+slime and is quite slippery.  The walls seem to be full of hollows and the
+ceiling doesn't even appear to exist.  The wooden floor slopes downward to
+the south where slight, constant movement can be seen.  To the west, the
+wooden walkway disappears after a few short steps.  
+~
+0 9 0
+D2
+~
+~
+0 0 11544
+D3
+~
+~
+0 0 11548
+S
+#11547
+Entrance to the Feeding Grounds~
+You are just outside a large hallway.  The room here seems to be rather
+clean.  A heavy iron gate guards the way to the north.  To the south,
+another hallway crosses this one.  
+~
+0 1 0
+D0
+~
+~
+0 0 11545
+D2
+~
+~
+0 0 11549
+S
+#11548
+Entrance to the Gauntlet Hall~
+You are at the entrance to the gauntly hall.  Wooden steps lead up to a
+boarded walkway.  Nothing but complete blackness can be seen above.  The
+walls of the hall ahead widen to about twice the width to the east.  To the
+west, another hallway crosses this one.  
+~
+0 9 0
+D1
+~
+~
+0 0 11546
+D3
+~
+~
+0 0 11550
+S
+#11549
+A Guard Post~
+You are in a crossway.  The room itself is rounded on all sides.  There
+are tiny holes in the ceiling where water drips through.  Small streams of
+blood soak through the walls, mixing with the water and forming pools on the
+floor.  Exits lead in all cardinal directions.  
+~
+0 1 0
+E
+gate~
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+D0
+~
+~
+0 0 11547
+D1
+~
+~
+0 0 11563
+D2
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11557
+D3
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11555
+S
+#11550
+A Guard Post~
+You are in a crossway.  The room itself is rounded on all sides.  There
+are tiny holes in the ceiling where water drips through.  Small streams of
+blood soak through the walls, mixing with the water and forming pools on the
+floor.  Exits lead in all cardinal directions.  
+~
+0 9 0
+E
+door~
+A small wooden door seals the entrance.
+~
+D0
+~
+~
+0 0 11564
+D1
+~
+~
+0 0 11548
+D2
+A small wooden door seals the entrance.
+~
+door~
+1 0 11556
+D3
+A small wooden door seals the entrance.
+~
+door~
+1 0 11558
+S
+#11551
+South Entrance to the Prisoner Cage~
+You are at the south entrance to the prisoner cage.  The heavy iron bars
+of the gate show signs of a brutal assault .......  But on the outside?!? 
+The large bends and deep gashes in the metal must have been made by an
+enraged animal of some sort.  A trail of blood leads from the bars to a
+gnawed off arm on the floor down the hall to the south.  To the north, there
+is nothing but darkness.  
+~
+0 1 0
+E
+gate~
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+D0
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11559
+D2
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11525
+M 50 H 50
+S
+#11552
+The Guards' Armory~
+You are in the guards' armory.  An assortment of weapons and armor cover
+the walls.  Mounted to the walls are a series of racks designed to hold
+specific types of equipment.  In one corner is a large wooden bench, fixed
+to the floor.  In the opposite corner, a heavy wooden table rests, showing
+signs of abuse.  It might possibly be that a short scuffle took place here. 
+The guards' quarters are to the east.  To the west, another hallway crosses
+this one.  
+~
+0 8 0
+E
+door~
+A small wooden door seals the entrance.
+~
+D1
+~
+~
+0 0 11560
+D3
+A small wooden door seals the entrance.
+~
+door~
+1 0 11526
+M 150 H 150
+S
+#11553
+West Entrance to the Talon Cage~
+You are at the west entrance to the talon cage.  The heavy iron bars of
+the gate show signs of a brutal assault.  The deep gashes and large bends in
+the metal must have been made by an enraged animal of some sort.  A trail of
+blood leads past the bars to a gnawed off arm on the floor to the east.  To
+the west, another hallway crosses this one.  
+~
+0 1 0
+E
+gate~
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+D1
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11561
+D3
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11525
+M 50 H 50
+S
+#11554
+The Torture Master's Dressing Room~
+You are in the torture master's dressing room.  A glass case is
+positioned against the west wall.  On the east wall, a rack is set to hold
+various different types of weapons.  A large round rug is set in the center
+of the floor.  A stuffed dummie hangs from the ceiling directly above the
+rug, bearing damage from many lashings.  The torture master's quarters is to
+the north.  To the south, another hallway crosses this one.  
+~
+0 8 0
+E
+door~
+A small wooden door seals the entrance.
+~
+D0
+~
+~
+0 0 11562
+D2
+A small wooden door seals the entrance.
+~
+door~
+1 0 11526
+M 150 H 150
+S
+#11555
+East Entrance to the Prisoner Cage~
+You are at the east entrance to the prisoner cage.  The heavy iron bars
+of the gate show signs of a brutal assault .......  But on the outside?!? 
+The large bends and deep gashes in the metal must have been made by an
+enraged animal of some sort.  A trail of blood leads from the bars to a
+gnawed off arm on the floor down to hall to the east.  To the west, there is
+nothing but darkness.  
+~
+0 1 0
+E
+gate~
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+D1
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11549
+D3
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11559
+M 50 H 50
+S
+#11556
+The Guards' Forge~
+You are in the guards' forge.  A rack with hooks rests on the wall.  In
+the corner sits a table with a bench, suitable for sharpening blades.  In
+the other corner, sunken into the wall, is a large furnace, where the
+blacksmith heats the metal before shaping it.  In the center of the room is
+a huge anvil, used for shaping the weapons.  Beside the anvil is a large
+water barrel, fixed to the floor, used to cool the metal after shaping it. 
+The guards' quarters is to the south.  To the north, another hallway crosses
+this one.  
+~
+0 8 0
+E
+door~
+A small wooden door seals the entrance.
+~
+D0
+A small wooden door seals the entrance.
+~
+door~
+1 0 11550
+D2
+~
+~
+0 0 11560
+M 150 H 150
+S
+#11557
+North Entrance to the Talon Cage~
+You are at the north entrance to the talon cage.  The heavy iron bars of
+the gate show signs of a brutal assault.  The deep gashes and large bends in
+the metal must have been made by an enraged animal of some sort.  A trail of
+blood leads past the bars to a gnawed off leg on the floor to the south.  To
+the north, another hallway crosses this one.  
+~
+0 1 0
+E
+gate~
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+D0
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11549
+D2
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11561
+M 50 H 50
+S
+#11558
+The Torture Master's Display Room~
+You are in the torture master's display room.  Apparently, the torture
+master takes pride in his work.  The head of the last torture master rests
+on a pedestal centered in the middle of the room.  A well lit glass case
+lines each wall.  The torture master's quarters are to the west.  To the
+east, another hallway crosses this one.  
+~
+0 8 0
+E
+door~
+A small wooden door seals the entrance.
+ 
+~
+D1
+A small wooden door seals the entrance.
+~
+door~
+1 0 11550
+D3
+~
+~
+0 0 11562
+M 150 H 150
+S
+#11559
+The Prisoner Cage~
+You are in a very messy room.  Whatever lives here must be a very untidy
+eater.  There is a very very big pool of excrement in the center of the
+room.  In the corner is a very very very huge pile of compost slop.  In the
+other corner is a very very very very very huge pile of stinking, rotting
+corpses.  To the east and south are heavy iron gates used to seal this room
+from the outside.  
+~
+0 1 0
+E
+gate~
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+D1
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11555
+D2
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11551
+M 25 H 25
+S
+#11560
+The Guards' Quarters~
+You are in the guards' quarters.  Rows of tripled up bunk beds fill the
+room.  The faint odor of troll sweat induces some slight nausea.  The
+guards' armory is to the west and the guards' forge is to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 11556
+D3
+~
+~
+0 0 11552
+S
+#11561
+The Talon Cage~
+You are in a really bloody room.  Whatever lives here must be a really
+messy eater.  There is a really really big pool of blood in the center of
+the room.  In the corner is a really really really huge pile of regurgitated
+fleshy mush.  In the other corner is a really really really really really
+huge pile of broken, bleached bones.  To the north and west are heavy iron
+gates used to seal this room from the outside.  
+~
+0 1 0
+E
+gate~
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+D0
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11557
+D3
+A heavy iron gate used to seal the passage is here, rusting away.
+~
+gate~
+1 11513 11553
+M 25 H 25
+S
+#11562
+The Torture Master's Quarters~
+You are in the torture master's quarters.  A huge bed of spikes sits in
+the far corner.  A large fireplace is sunken into the near corner wall.  A
+blazing fire heats a cauldron of water.  In the center of the room, a small
+round table with a few chairs waits for use.  The torture master's display
+room is to the east.  The torture master's dressing room is to the south.  
+~
+0 8 0
+D1
+~
+~
+0 0 11558
+D2
+~
+~
+0 0 11554
+M 175 H 175
+S
+#11563
+A Long Bloody Hallway~
+You are in a long narrow hallway.  The walls are covered with blood. 
+Blood drips from the ceiling.  Blood forms into shallow pools on the floor. 
+The same pitch darkness continues to the east.  To the west, another hallway
+crosses this one.  
+~
+0 9 0
+D1
+~
+~
+0 0 11565
+D3
+~
+~
+0 0 11549
+S
+#11564
+A Long Bloody Hallway~
+You are in a long narrow hallway.  The walls are covered with blood. 
+Blood drips from the ceiling.  Blood forms into shallow pools on the floor. 
+The same pitch darkness continues to the north.  To the south, another
+hallway crosses this one.  
+~
+0 9 0
+D0
+~
+~
+0 0 11566
+D2
+~
+~
+0 0 11550
+S
+#11565
+A Long Bloody Hallway~
+You are in a long narrow hallway.  The walls are covered with blood. 
+Blood drips from the ceiling.  Blood forms into shallow pools on the floor. 
+The same pitch darkness continues to the west.  To the east, another hallway
+crosses this one.  
+~
+0 9 0
+D1
+~
+~
+0 0 11567
+D3
+~
+~
+0 0 11563
+S
+#11566
+A Long Bloody Hallway~
+You are in a long narrow hallway.  The walls are covered with blood. 
+Blood drips from the ceiling.  Blood forms into shallow pools on the floor. 
+The same pitch darkness continues to the south.  To the north, another
+hallway crosses this one.  
+~
+0 9 0
+D0
+~
+~
+0 0 11568
+D2
+~
+~
+0 0 11564
+S
+#11567
+A Guard Post~
+You are in a crossway.  The room itself is rounded on all sides.  There
+are tiny holes in the ceiling where water drips through.  Small streams of
+blood soak through the walls, mixing with the water and forming pools on the
+floor.  Exits lead in all cardinal directions.  
+~
+0 9 0
+E
+bars~
+A set of tempered steel bars here form a large sturdy door.
+~
+D0
+~
+~
+0 0 11575
+D1
+A set of tempered steel bars here form a large sturdy door.
+~
+bars~
+1 0 11571
+D2
+A set of tempered steel bars here form a large sturdy door.
+~
+bars~
+1 0 11569
+D3
+~
+~
+0 0 11565
+S
+#11568
+A Guard Post~
+You are in a crossway.  The room itself is rounded on all sides.  There
+are tiny holes in the ceiling where water drips through.  Small streams of
+blood soak through the walls, mixing with the water and forming pools on the
+floor.  Exits lead in all cardinal directions.  
+~
+0 9 0
+E
+bars~
+A set of tempered steel bars here form a large sturdy door.
+~
+D0
+A set of tempered steel bars here form a large sturdy door.
+~
+bars~
+1 0 11572
+D1
+~
+~
+0 0 11576
+D2
+~
+~
+0 0 11566
+D3
+A set of tempered steel bars here form a large sturdy door.
+~
+bars~
+1 0 11570
+S
+#11569
+The West Hall Training Room~
+You are in the west hall training room.  This looks like the room where
+the talons are trained.  A few mangled dummies lie in a crumpled pile in the
+center of the room.  Their necks and torsos have been ripped to pieces. 
+Dummie fluff fills the air, giving the impression that this room is used
+quite often and that the talons of these halls aren't to be messed with. 
+The interrogation room is to the south.  To the north, another hallway
+crosses this one.  
+~
+0 8 0
+E
+bars~
+A set of tempered steel bars here form a large sturdy door.
+~
+D0
+A set of tempered steel bars here form a large sturdy door.
+~
+bars~
+1 0 11567
+D2
+~
+~
+0 0 11573
+S
+#11570
+The South Hall Training Room~
+You are in the south hall training room.  A few mangled dummies stand in
+the center of the room.  It seems that this is where the guards train.  The
+limbs of dummies are scattered throughout the room.  Dummie fluff fills the
+air, leading to the conclusion that this room is used frequently and that
+the guards of these halls are very well trained.  The interrogation room is
+to the west.  To the east, another hallway crosses this one.  
+~
+0 8 0
+E
+bars~
+A set of tempered steel bars here form a large sturdy door.
+~
+D1
+A set of tempered steel bars here form a large sturdy door.
+~
+bars~
+1 0 11568
+D3
+~
+~
+0 0 11573
+S
+#11571
+The North Hall Training Room~
+You are in the north hall training room.  A few charred, blackened,
+frozen, shattered, melting, and glowing dummies stand in the center of the
+room.  The raw energy expelled here can be easily felt in the room.  Dummie
+fluff fills the air, though it isn't apparent where it all comes from.  The
+alchemy chamber is to the east.  To the west, another hallway crosses this
+one.  
+~
+0 8 0
+E
+bars~
+A set of tempered steel bars here form a large sturdy door.
+~
+D1
+~
+~
+0 0 11574
+D3
+A set of tempered steel bars here form a large sturdy door.
+~
+bars~
+1 0 11567
+S
+#11572
+The East Hall Training Room~
+You are in the east hall training room.  A few perfectly formed dummies
+stand in the middle of the room.  Some of them are even moving about on
+their own.  It is completely unclear as to what this room is used for. 
+Dummie fluff fills the air, even when there are no dismembered or shredded
+dummies anywhere in the room.  The alchemy room is to the north.  To the
+south, another hallway crosses this one.  
+~
+0 8 0
+E
+bars~
+A set of tempered steel bars here form a large sturdy door.
+~
+D0
+~
+~
+0 0 11574
+D2
+A set of tempered steel bars here form a large sturdy door.
+~
+bars~
+1 0 11568
+S
+#11573
+The Interrogation Room~
+You are in the interrogation room.  A bright light shines down from the
+ceiling onto a large table.  The table itself has leather straps on the
+corners for holding a prisoner in place.  A small shelf, hanging on the side
+of the table, holds placers for a series of odd shaped scalpels, hooks, and
+clamps.  Below the table, a small drain allows blood to flow from the room. 
+Training rooms lie to the north and east.  
+~
+0 8 0
+D0
+~
+~
+0 0 11569
+D1
+~
+~
+0 0 11570
+S
+#11574
+The Alchemy Chamber~
+You are in the alchemy chamber.  A large sunken furnace in the center of
+the floor heats some huge cauldrons directly above.  The walls are lined
+with shelves, each holding many bottles of different shapes, sizes, and
+materials.  An entrancing smell flows through the air in this room. 
+Training rooms lie to the south and west.  
+~
+0 8 0
+D2
+~
+~
+0 0 11572
+D3
+~
+~
+0 0 11571
+S
+#11575
+Entrance to the Trial Hall~
+You are in the entrance to the trial hall.  An array of physically,
+mentally, and spiritually calming objects fill the room.  Beds of spikes,
+tables for accupuncture, paintings of geometrically impossible shapes, and
+hanging incense sticks, all of masterful craftmanship, allow you to prepare
+for your judgement.  The trials commence to the north.  To the south,
+another hallway crosses this one.  
+~
+0 8 0
+D0
+~
+~
+0 0 11577
+D2
+~
+~
+0 0 11567
+S
+#11576
+Entrance to the Trial Hall~
+You are in the entrance to the trial hall.  An array of physically,
+mentally, and spiritually calming objects fill the room.  Beds of spikes,
+tables for accupuncture, paintings of geometrically impossible shapes, and
+hanging incense sticks, all of masterful craftmanship, allow you to prepare
+for your judgement.  The trials commence to the east.  To the west, another
+hallway crosses this one.  
+~
+0 8 0
+D1
+~
+~
+0 0 11578
+D3
+~
+~
+0 0 11568
+S
+#11577
+Trial of Strength~
+You are in the trial of strength.  The spiked walls gradually close
+inward, crushing anything between.  A control for the gears is clicking away
+on the far wall.  The only way to get out alive is to trigger the control
+before the walls close in.  The trial of wisdom is to the east.  The
+entrance to the trial hall is to the south.  
+~
+0 268443656 0
+D1
+~
+~
+0 0 11579
+D2
+~
+~
+0 0 11575
+S
+#11578
+Trial of Strength~
+You are in the trial of strength.  The spiked walls gradually close
+inward, crushing anything between.  A control for the gears is clicking away
+on the far wall.  The only way to get out alive is to trigger the control
+before the walls close in.  The trial of wisdom is to the north.  The
+entrance to the trial hall is to the west.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 11580
+D3
+~
+~
+0 0 11576
+S
+#11579
+Trial of Wisdom~
+You are in the trial of wisdom.  The room is literally a maze of switches
+and moving walls.  Each switch is a puzzle in itself.  Water gradually fills
+the room from a crack in the ceiling.  Unless you get through in time, you
+will drown.  The trial of courage is to the east.  The trial of strength is
+to the west.  
+~
+0 268443656 0
+D1
+~
+~
+0 0 11581
+D3
+~
+~
+0 0 11577
+S
+#11580
+Trial of Wisdom~
+You are in the trial of wisdom.  The room is literally a maze of switches
+and moving walls.  Each switch is a puzzle in itself.  Water gradually fills
+the room, from a crack in the ceiling.  Unless you get through in time, you
+will drown.  The trial of courage is to the north.  The trial of strength is
+to the west.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 11582
+D2
+~
+~
+0 0 11578
+S
+#11581
+Trial of Courage~
+You are in the trial of courage.  The room ends at a ledge.  The floor at
+the ledge gradually falls away, pushing you further and further into the
+fire.  A switch controlling the floor rests in the center of the fire.  You
+must go through the fire in order to flip the switch and stop the floor on
+both sides of the pit from falling away.  The abyss is to the east.  The
+trial of wisdom is to the west.  
+~
+0 268443656 0
+D1
+~
+~
+0 0 11583
+D3
+~
+~
+0 0 11579
+S
+#11582
+Trial of Courage~
+You are in the trial of courage.  The room ends at a ledge.  The floor at
+the ledge gradually falls away, pushing you further and further into the
+fire.  A switch controlling the floor rests in the center of the fire.  You
+must go through the fire in order to flip the switch and stop the floor on
+both sides of the pit from falling away.  The abyss is to the north.  The
+trial of wisdom is to the south.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 11584
+D2
+~
+~
+0 0 11580
+S
+#11583
+Abyss~
+You are in the abyss.  The chill silence and pitch darkness is
+unsettling.  The floating nothingness pulls at you in all directions.  The
+loneliness drives you toward insanity.  An eerie presence saps at your free
+will.  Oblivion is all that is left to you.  The sacrificial altar is to the
+east.  The trial of courage is to the west.  
+~
+0 268443649 9
+D1
+~
+~
+0 0 11585
+D3
+~
+~
+0 0 11581
+S
+#11584
+Abyss~
+You are in the abyss.  The chill silence and pitch darkness is
+unsettling.  The floating nothingness pulls at you in all directions.  The
+loneliness drives you toward insanity.  An eerie presence saps at your free
+will.  Oblivion is all that is left to you.  The sacrificial altar is to the
+north.  The trial of courage is to the south.  
+~
+0 268443649 9
+D0
+~
+~
+0 0 11585
+D2
+~
+~
+0 0 11582
+S
+#11585
+The Sacrificial Altar~
+You are at the sacrificial altar.  A pit of blazing raw energy is in the
+center of the room.  A blue light emanates from the pit.  This looks like
+the end of your suffering.  The abyss is to the south and west.  
+~
+0 268435464 0
+E
+portal~
+A pit of blazing raw energy is in the center of the room.
+~
+D2
+~
+~
+0 0 11584
+D3
+~
+~
+0 0 11583
+S
+#11586
+Earth~
+You are in the earth.  All that can be seen from horizon to horizon is
+dirt.  Everything else is nothing but pitch blackness.  
+~
+0 268443649 9
+E
+portal~
+A pit of blazing raw energy is in the center of the room.
+~
+D0
+~
+~
+0 0 11587
+D1
+~
+~
+0 0 11588
+D4
+~
+~
+0 0 11585
+S
+#11587
+Peace~
+You are in peace.  The total tranquility calms your being.  The thought
+of conflict seems outright futile and impossible.  Utopia reins supreme.  
+~
+0 268443649 9
+D1
+~
+~
+0 0 11589
+D2
+~
+~
+0 0 11586
+S
+#11588
+War~
+You are in war.  The absolute savagery of the chaotic melee entices you
+to fight and kill with no pity or remorse.  The apocalypse reins supreme.  
+~
+0 268443649 9
+D0
+~
+~
+0 0 11589
+D3
+~
+~
+0 0 11586
+S
+#11589
+Wind~
+You are in the wind.  The only sensation you feel is the chill air,
+lashing at you, seeping the heat from your body.  Everything else is nothing
+but pitch blackness.  
+~
+0 268443649 9
+D0
+~
+~
+0 0 11590
+D1
+~
+~
+0 0 11591
+D2
+~
+~
+0 0 11588
+D3
+~
+~
+0 0 11587
+S
+#11590
+Bounty~
+You are in bounty.  In this place, food and drink is plentiful.  Enough
+even to support all life for all time.  That drawn from evil, turns to good,
+and feeds the righteous.  Utopia reins supreme.  
+~
+0 268443649 9
+D1
+~
+~
+0 0 11592
+D2
+~
+~
+0 0 11589
+S
+#11591
+Famine~
+You are in famine.  The complete lack of sustainance forces you further
+and further toward starvation.  The apocalypse reins supreme.  
+~
+0 268443649 9
+D0
+~
+~
+0 0 11592
+D3
+~
+~
+0 0 11589
+S
+#11592
+Water~
+You are in the water.  The freezing liquid surrounds you, pulling you
+into submission.  Everything else is nothing but pitch blackness.  
+~
+0 268443649 9
+D0
+~
+~
+0 0 11593
+D1
+~
+~
+0 0 11594
+D2
+~
+~
+0 0 11591
+D3
+~
+~
+0 0 11590
+S
+#11593
+Health~
+You are in health.  A complete feeling of wellbeing drawn from evil,
+heals all that is good.  Utopia reins supreme.  
+~
+0 268443649 9
+D1
+~
+~
+0 0 11595
+D2
+~
+~
+0 0 11592
+S
+#11594
+Pestilence~
+You are in pestilence.  In this place, disease conquers all life.  The
+only thing that lives is the sickness that kills.  The apocalypse reins
+supreme.  
+~
+0 268443649 9
+D0
+~
+~
+0 0 11595
+D3
+~
+~
+0 0 11592
+S
+#11595
+Fire~
+You are in the fire.  The blazing pyre blackens your flesh as it engulfs
+you.  Everything else is nothing but pitch blackness.  
+~
+0 268443649 9
+D0
+~
+~
+0 0 11596
+D1
+~
+~
+0 0 11597
+D2
+~
+~
+0 0 11594
+D3
+~
+~
+0 0 11593
+S
+#11596
+Life~
+You are in life.  No dead things exist here.  All that is, ever was, and
+ever will be, thrives in this place.  The throbbing life force drawn from
+evil, empowers all that is good.  Utopia reins supreme.  
+~
+0 268443649 9
+D1
+~
+~
+0 0 11598
+D2
+~
+~
+0 0 11595
+S
+#11597
+Death~
+You are in death.  No life exists here.  All that is, ever was, and ever
+will be, is dead.  That overbearing death draws your life force from you,
+leaving you weak and helpless.  The apocalypse reins supreme.  
+~
+0 268443649 9
+D0
+~
+~
+0 0 11598
+D3
+~
+~
+0 0 11595
+S
+#11598
+The Diamond Pedestal~
+You are at the diamond pedestal.  The streaming mineral water from a
+light in the ceiling solidifies to form riches of which few have ever seen. 
+A huge diamond pedestal has formed in the center of the room from that
+stream.  The pedestal gradually widens towards the top into a basin of
+sorts.  The light from the ceiling shines through the pedestal, forming
+patterns of rainbow prisms on the walls.  
+~
+0 268443656 0
+D2
+~
+~
+0 0 11597
+D3
+~
+~
+0 0 11596
+D4
+~
+~
+0 0 11599
+S
+#11599
+The Mineral Pool~
+You are in the mineral pool.  The mineral water from the ceiling gathers
+in the pedestal basin to form a pool of rainbow colors.  A faint glittering
+can be seen at the bottom of the pool.  
+~
+0 8 0
+D5
+~
+~
+0 0 11598
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#11505
+mob echoat $n The executioner takes a wild swing at you with his axe.
+mob transfer $n 31000
+~
+A
+#11504
+mob echoat $n Due to your lack of awareness, you get knocked flat on your face by a hidden trap.
+mob transfer $n 11538
+~
+A
+#11502
+mob echoat $n A fading voice says, "Mwahaha! Fool you are!"
+mob transfer $n 11586
+~
+A
+#11501
+mob echoat $n For one hundred gold coins, you may enter the Existential Shrine.
+mob echoat $n Do so with caution, for few who enter ever return.
+~
+A
+#11500
+if mobhere 11509
+mob emote begins to salivate as its eyes turn blood red.
+mob kill prisoner
+endif
+~
+A
+#11503
+mob damage $n 10 20 lethal
+mob kill $n
+~
+A
+#0
+
+#RESETS
+D 0 11500 5 2
+D 0 11501 4 2
+D 0 11513 1 2
+D 0 11513 2 2
+D 0 11514 0 2
+D 0 11514 3 2
+D 0 11515 0 2
+D 0 11516 1 2
+D 0 11517 3 2
+D 0 11518 2 2
+D 0 11525 0 2
+D 0 11525 1 2
+D 0 11526 0 1
+D 0 11526 1 1
+D 0 11549 2 2
+D 0 11549 3 2
+D 0 11550 2 1
+D 0 11550 3 1
+D 0 11551 0 2
+D 0 11551 2 2
+D 0 11552 3 1
+D 0 11553 1 2
+D 0 11553 3 2
+D 0 11554 2 1
+D 0 11555 1 2
+D 0 11555 3 2
+D 0 11556 0 1
+D 0 11557 0 2
+D 0 11557 2 2
+D 0 11558 1 1
+D 0 11559 1 2
+D 0 11559 2 2
+D 0 11561 0 2
+D 0 11561 3 2
+D 0 11567 1 1
+D 0 11567 2 1
+D 0 11568 0 1
+D 0 11568 3 1
+D 0 11569 0 1
+D 0 11570 1 1
+D 0 11571 3 1
+D 0 11572 2 1
+M 1 11500 1 11500 1
+E 0 11500 0 17
+M 1 11501 1 11502 1
+E 0 11501 0 0
+M 1 11502 30 11503 5
+M 1 11502 30 11504 5
+M 1 11502 30 11505 5
+M 1 11502 30 11506 5
+M 1 11502 30 11507 5
+E 0 11502 0 17
+M 1 11502 30 11508 5
+E 0 11502 0 17
+M 1 11503 32 11513 4
+E 0 11503 0 7
+M 1 11503 32 11514 4
+E 0 11503 0 7
+M 1 11504 8 11515 4
+E 0 11504 0 16
+M 1 11504 8 11516 4
+E 0 11504 0 16
+O 0 11508 0 11517
+O 0 11508 0 11518
+O 0 11506 0 11519
+O 0 11507 0 11519
+M 1 11505 1 11519 1
+E 0 11505 0 16
+O 0 11510 0 11520
+P 0 11511 1 11510 1
+M 1 11506 1 11520 1
+E 0 11509 0 16
+M 1 11507 16 11521 2
+E 0 11512 0 10
+M 1 11507 16 11522 2
+E 0 11512 0 10
+M 1 11507 16 11523 2
+E 0 11512 0 10
+M 1 11507 16 11524 2
+E 0 11512 0 10
+M 1 11512 2 11525 1
+E 0 11513 0 17
+M 1 11503 32 11525 4
+E 0 11503 0 7
+M 1 11503 32 11526 4
+E 0 11503 0 7
+M 1 11519 6 11532 3
+M 1 11520 6 11534 3
+M 1 11521 6 11536 3
+M 1 11521 6 11540 3
+M 1 11520 6 11542 3
+M 1 11519 6 11544 3
+M 1 11512 2 11549 1
+E 0 11513 0 17
+M 1 11503 32 11549 4
+E 0 11503 0 7
+M 1 11503 32 11550 4
+E 0 11503 0 7
+M 1 11509 18 11551 5
+E 0 11514 0 16
+M 1 11517 1 11552 1
+E 0 11518 0 6
+E 0 11519 0 9
+E 0 11520 0 8
+O 0 11521 0 11552
+P 0 11522 1 11521 1
+M 1 11508 18 11553 5
+E 0 11517 0 16
+M 1 11514 1 11554 1
+E 0 11532 0 16
+O 0 11533 0 11554
+P 0 11534 1 11533 1
+M 1 11509 18 11555 5
+E 0 11514 0 16
+M 1 11518 1 11556 1
+E 0 11531 0 16
+O 0 11530 0 11556
+O 0 11529 0 11556
+M 1 11508 18 11557 5
+E 0 11517 0 16
+M 1 11515 1 11558 1
+O 0 11536 0 11558
+O 0 11537 0 11558
+M 1 11510 1 11559 1
+E 0 11515 0 16
+E 0 11516 0 17
+M 1 11509 18 11559 8
+E 0 11514 0 16
+O 0 11525 0 11560
+P 0 11528 1 11525 1
+M 1 11516 1 11560 1
+E 0 11523 0 11
+E 0 11524 0 16
+E 0 11526 0 18
+P 0 11527 1 11526 1
+M 1 11511 1 11561 1
+M 1 11508 18 11561 8
+E 0 11517 0 16
+M 1 11513 1 11562 1
+O 0 11535 0 11562
+M 1 11507 16 11563 2
+E 0 11512 0 10
+M 1 11507 16 11564 2
+E 0 11512 0 10
+M 1 11507 16 11565 2
+E 0 11512 0 10
+M 1 11507 16 11566 2
+E 0 11512 0 10
+M 1 11503 32 11567 4
+E 0 11503 0 7
+M 1 11503 32 11568 4
+E 0 11503 0 7
+M 1 11524 16 11569 4
+O 0 11539 0 11569
+M 1 11524 16 11570 4
+O 0 11539 0 11570
+M 1 11524 16 11571 4
+O 0 11539 0 11571
+M 1 11524 16 11572 4
+O 0 11539 0 11572
+M 1 11522 1 11573 1
+O 0 11538 0 11573
+M 1 11523 1 11574 1
+G 0 11540 0
+G 0 11541 0
+G 0 11542 0
+G 0 11543 0
+G 0 11544 0
+M 1 11525 2 11577 1
+M 1 11525 2 11578 1
+M 1 11526 2 11579 1
+M 1 11526 2 11580 1
+M 1 11527 2 11581 1
+M 1 11527 2 11582 1
+M 1 11528 2 11583 1
+M 1 11528 2 11584 1
+M 1 11529 1 11585 1
+E 0 11545 0 17
+M 1 11530 1 11586 1
+M 1 11534 1 11587 1
+M 1 11535 1 11588 1
+M 1 11531 1 11589 1
+M 1 11536 1 11590 1
+M 1 11537 1 11591 1
+M 1 11532 1 11592 1
+M 1 11538 1 11593 1
+M 1 11539 1 11594 1
+M 1 11533 1 11595 1
+M 1 11540 1 11596 1
+M 1 11541 1 11597 1
+O 0 11546 0 11599
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

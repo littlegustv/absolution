@@ -1,0 +1,9485 @@
+#AREADATA
+Name Stoneridge~
+Builders Avacar Teldin Aql~
+VNUMs 11000 11399
+Credits { 1 51} Grog        Stoneridge~
+Security 9
+Xcontinent 0
+Age 11
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#11000
+gatekeeper~
+the Gatekeeper~
+The Gatekeeper of the Grand Gates stands watch here.
+~
+He doesnt blink. He doesnt flinch. He barely seems to breath.
+~
+human~
+ABGT 0 1000 0
+1 0 2d6+10 1d1+100 1d4+0 beating
+9 9 9 9
+0 AB 0 0
+stand stand male 0
+ABHMVZ ABCDEFGHIJK large 0 the guilds~
+#11001
+liesbet~
+Liesbet~
+Liesbet is smiling behind the glass counter.
+~
+Liesbet is quite pretty. Long red hair hangs down to her waistline. Her
+hair frames an angelice face of lily white skin. She is extremely thin
+due to the fact that she is running around the shop all day.
+~
+human~
+ABV 0 0 0
+51 0 50d10+5000 1d1+499 5d8+20 none
+-20 -20 -20 -16
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 11003 100~
+#11002
+melahat~
+Melahat~
+Melahat stands here looking over the works of the shop.
+~
+Melahat is short and stocky. Melahat means business. Short black hair
+surrounds a rounded face with a nose that appears to have been broken
+more than once. She wipes the sweat from her brow with a darkened rag.
+~
+human~
+ABV 0 0 0
+51 0 50d10+4500 1d1+499 5d8+20 none
+-9 -9 -9 -7
+0 ABCD 0 0
+stand stand female 90000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11003
+liam~
+Liam~
+Liam the tavernkeep is humming a little tune here.
+~
+Liam is a stout old bald-headed human. His face is quite round and both
+his nose and face are red. His belly is also quite rounded. Liam's physical
+appearance is testimony that the food and drink here is quite good.
+~
+human~
+ABV 0 0 0
+51 0 50d10+5000 1d1+499 5d8+20 none
+-21 -21 -21 -18
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11004
+town watchguard~
+a town watchguard~
+A town watchguard is patrolling the streets here.
+~
+The training to become a town watchguard is quite vigorous, as can be seen
+by looking at this man. Not an ounce of fat anywhere on him. His slow gait
+is similiar to that of a cat stalking its prey.
+~
+human~
+AGTW DFV 500 0
+31 0 6d12+928 1d1+499 4d6+9 blast
+-10 -10 -10 -7
+CDEHKPT 0 0 0
+stand stand male 1700
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11005
+tikal~
+Tikal~
+Tikal the proprietor of the pub stands in front of a bubbling cauldron.
+~
+Pointed little ears stick up beside straight light brown hair. Tikal
+wears the clothes of a magic user. There is a wry grin on his face.
+~
+elf~
+ABRV DFJ 0 0
+51 0 50d10+5000 1d1+499 5d8+20 none
+-21 -21 -21 -18
+0 ABCD BE Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 11006 no~
+M speech 11005 yes~
+M grall 11004 100~
+#11006
+lonnigan~
+Lonnigan~
+Lonnigan is here, ready to buy and sell weapons.
+~
+Long straight black hair frames his rigid face. A thin scar runs from his
+chin to his left ear. There is a somewhat smaller scar on his forehead.
+~
+human~
+ABV DF 0 0
+51 0 50d10+5000 1d1+499 5d8+20 none
+-21 -21 -21 -18
+0 ABCD 0 0
+stand stand male 900000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 11007 100~
+#11007
+ailee~
+Ailee~
+Ailee is here, looking to make a deal.
+~
+Long bangs of black hair hang down over her eyes. Her shoulder length
+hair is pulled together behind her head. She appears to be smirking.
+~
+human~
+ABV 0 0 0
+51 0 50d10+5000 1d1+499 5d8+20 none
+-21 -21 -21 -18
+0 ABCD 0 0
+stand stand female 900000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11008
+raif~
+Raif~
+Raif, the keeper of magic, paces back and forth in front of the shelves.
+~
+The look on his face never changes. He perpetually seems to be thinking
+of an answer. A small wrinkle on his forehead attests to this.
+~
+human~
+ABV DF 0 0
+51 0 50d10+5000 1d1+499 5d8+20 none
+-21 -21 -21 -18
+0 ABCD 0 0
+stand stand male 900000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11009
+tarla~
+Tarla~
+Tarla, the tavern maid, is strolling through the room.
+~
+Her long black hair hangs down to her hips. She is wearing a rather low cut
+tavern maid's dress. Her mouth is curved up in a sultry smile.
+~
+human~
+AVY 0 0 0
+52 0 50d10+5500 1d1+499 6d7+20 none
+-22 -22 -22 -18
+0 ABCD 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11010
+tomas~
+Tomas the proprietor~
+Tomas, the proprietor, is here watching the patrons and counting his money.
+~
+Short dark hair and a large frame, for a human, his dark eyes search
+the entire area in a single glance. He returns his gaze to the hearth.
+~
+human~
+ABV 0 0 0
+52 0 50d10+5500 1d1+499 6d7+20 none
+-22 -22 -22 -18
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK large 0 the guilds~
+#11011
+dark magician man~
+a dark magician~
+A man, who blends into the shadows, stands in the corner of the room.
+~
+Darkness surrounds this man wherever he walks. His lean, gaunt face looks
+at nothing and everything at once. He murmurs something.
+~
+human~
+ABGR JQ -400 0
+35 0 10d10+1300 5d10+700 4d7+11 magic
+-11 -11 -11 -9
+P A 0 0
+stand stand male 3400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11012
+dust covered traveller~
+a dust covered traveller~
+A traveller from foreign lands eyes each step carefully.
+~
+This humans clothes are covered with dirt from travel. The tell tale signs of a
+voyage are evident. A smudge on the left cheek, hair askew, a tired gait.
+~
+human~
+AGY 0 500 0
+36 0 10d10+1400 1d1+499 3d10+11 punch
+-12 -12 -12 -8
+DFHK 0 0 0
+stand stand either 3700
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11013
+shifty eyed peddler~
+a shifty eyed peddler~
+A shifty eyed peddler is here, looking for odds and ends.
+~
+Tall and thin, long black hair is bunched in a braid down his back. His beady
+eyes dart left and right, searching the ground for objects.
+~
+human~
+ACG V 500 0
+34 0 10d10+1200 1d1+499 4d7+10 thwack
+-11 -11 -11 -7
+EFHK 0 0 0
+stand stand male 2200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11014
+retired dwarven soldier noble dwarf~
+a noble dwarf~
+A retired dwarven soldier is meandering around here.
+~
+His face has the look of one that has seen many a battle. Although an older
+dwarf, he has kept himself fit over the years.
+~
+dwarf~
+AG J 600 0
+37 0 10d10+1500 1d1+499 3d10+12 pound
+-12 -12 -12 -10
+DEFHJKU 0 LQ R
+stand stand male 3900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11015
+darlana~
+Darlana~
+Darlana, the keeper of the Blue Diamond, is here.
+~
+An elderly woman, her grey hair is neatly pulled back from her face by a
+blue bow behind her head. Around her neck she wears a large blue diamond.
+~
+human~
+ABV 0 0 0
+52 0 50d10+5500 1d1+499 6d7+20 none
+-22 -22 -22 -18
+0 ABCD 0 0
+stand stand female 900000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11016
+robber man~
+a robber~
+A man with a saddened look on his face, hangs his head down.
+~
+His gaunt face is riddled with despair. The look in his eyes shows nothing
+but hopelessness. Yet, there is also a look of determination to him.
+~
+human~
+ABGS PQV 300 0
+38 3 10d10+1600 1d1+100 5d6+12 punch
+-13 -13 -13 -9
+BEFHK 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11017
+tragar~
+Tragar~
+A very old man is resting in a rocking chair here.
+~
+Long grey hair is tied in a ponytail behind his back. His face is extremely
+wrinkled with age. He seems to blend in with the stone walls.
+~
+human~
+ABV 0 0 0
+53 5 50d10+6000 1d1+100 6d7+21 none
+-21 -21 -21 -21
+0 ABCD 0 0
+stand stand male 99000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11018
+visionary man~
+a visionary~
+A man, proclaiming the glory of the fall, is here.
+~
+This man wears tattered rags which are worthless. He is barefoot and has
+shaved his head. He has chosen a life of poverty.
+~
+human~
+AGQ V 400 0
+39 3 15d10+1700 1d1+100 5d6+13 wrath
+-13 -13 -13 -10
+FHKNU 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M entry 11006 100~
+#11019
+philosopher man~
+a philosopher~
+A man with long grey hair is thinking deeply here.
+~
+Long grey hair hangs loosely on his shoulders. His forehead is wrinkled.
+There is a blank look on his face, he seems oblivious to all around him.
+~
+human~
+AGR TV 400 0
+40 4 15d10+1850 1d1+499 4d8+13 slap
+-13 -13 -13 -10
+FHKN 0 0 0
+stand stand male 2700
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11020
+silfen sants groag~
+Silfen~
+Silfen, the renowned importer/exporter, is here.
+~
+While not the tallest importer in the world, Silfen is certainly one of the
+wealthiest. He is dressed in fine clothes and speaks with a strange accent.
+~
+human~
+AB 0 0 0
+55 5 50d10+7000 1d1+100 10d4+23 none
+-23 -23 -23 -23
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11021
+jenna~
+Jenna the Changer~
+Jenna the Money Changer is sitting behind a large wooden desk.
+~
+Long brown hair frames an angelic face of lily white skin. Her dark
+brown eyes are mesmorizing. She is a very beautiful woman.
+~
+human~
+ABVde 0 0 0
+55 5 50d10+7000 1d1+100 10d4+23 none
+-23 -23 -23 -23
+0 ABCD 0 0
+stand stand female 99000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11022
+black wraith shadow~
+a black wraith~
+A dark shadow is slowly drifting closer towards you.
+~
+Most details of this creature are hidden in the darkness which swells around
+it. You can make out a face twisted and contorted with pain and anguish.
+~
+human~
+AFGOQW DFTV -500 0
+48 4 25d10+3750 1d1+499 6d6+18 wrath
+-18 -18 -18 -14
+EFHKP AB 0 0
+stand stand none 1900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11023
+werebat bat~
+a vicious werebat~
+An enormous and somewhat deformed bat is flying around the bells.
+~
+The black is dark brown in color. It appears to have bits of hair growing
+about it in various places. Its wingspan is tremendous.
+~
+bat~
+ABG TZ -400 0
+49 4 50d10+4000 1d1+100 4d10+18 frbite
+-19 -19 -19 -15
+FH AB 0 S
+stand stand none 1200
+AGV ACDEFHJKP medium 0 the guilds~
+#11024
+commander ramon~
+Commander Ramon~
+Ramon, the Commander of the Crusaders, is gazing over the town.
+~
+A very large human. His face bears numerous scars, a few have not quite
+healed yet. His jet black eyes match his lengthened hair. Although his
+stature is grand, he moves with the stealth of a nightwing.
+~
+human~
+ABCT HV 700 0
+57 5 50d10+8000 1d1+100 6d8+24 charge
+-25 -25 -25 -20
+CDEFHJKN A B 0
+stand stand male 14000
+AHMV ABCDEFGHIJK large 0 the guilds~
+#11025
+rion~
+Captain Rion~
+Rion, the Captain of the Crusaders, is carefully eyeing the room.
+~
+Stout, rough and tough. He has the look of a dwarf who has seen many a battle.
+The campaign veteran would make a worthy opponent for most seasoned fighters.
+~
+dwarf~
+AGTY HJV 400 0
+51 9 50d10+5000 1d1+100 5d8+20 beating
+-21 -21 -21 -21
+CEFHIJK ABCa LQ R
+stand stand male 4800
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11026
+veteran crusader~
+a veteran crusader~
+A veteran crusader is here, contemplating his last battle.
+~
+A tall, strong human. The look upon his face is one of dedication and
+determination. There is a smudge of blood on the right side of his face.
+~
+human~
+AGSY 0 400 0
+50 5 50d10+4500 1d1+100 5d8+19 blast
+-20 -20 -20 -15
+EFHIJKP 0 0 0
+stand stand male 3400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11027
+crusader~
+a crusader~
+A crusader is here, ready to fight for his cause.
+~
+He moves with slow cat like steps, searching around him for any dangers.
+He is in a battle ready stance, at all times.
+~
+human~
+AGY 0 400 0
+46 4 25d10+3250 1d1+100 6d6+16 punch
+-16 -16 -16 -10
+EFHKP A 0 0
+stand stand male 2700
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11028
+young crusader~
+a young crusader~
+A young crusader is here, waiting for his call to battle.
+~
+He holds his head high. His olive skin is a fitting match for his dark eyes.
+While his stance is not as learned as more aged crusaders, he still carries
+himself as one who has been trained for battle.
+~
+human~
+AGT 0 300 0
+42 4 25d10+2250 1d1+100 3d12+14 punch
+-14 -14 -14 -9
+DEFHKP 0 0 0
+stand stand male 2200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11029
+organist elderly man~
+an organist~
+An elderly man is standing by the organ.
+~
+An aged, wrinkled face is surrounded by thinning gray hair. His posture is
+rather poor, he is hunching over a bit. His long fingers are brittle with age.
+~
+human~
+AB 0 300 0
+43 4 25d10+2500 1d1+100 3d12+15 slap
+-13 -13 -13 -8
+HN AB 0 0
+stand stand male 2300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11030
+choir leader~
+the choir leader~
+A choir leader is here, wondering when the choir will show up.
+~
+Long light brown hair is tied in a braid. Light blue eyes are set in a
+rather fair skinned face, which has an extremely stoic look to it.
+~
+human~
+AB 0 300 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -8
+H 0 0 0
+stand stand none 2100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11031
+petitioner~
+a petitioner~
+A petitioner of the Cathedral is contemplating here.
+~
+The petitioners head is bowed low. They seem lost in thought and prayer.
+You can hear jumbled words about the fall from its mouth.
+~
+human~
+AGY 0 300 0
+37 3 10d10+1500 1d1+100 3d10+12 smash
+-12 -12 -12 -7
+D 0 0 0
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11032
+soul stealer~
+a soul stealer~
+A stealer of souls is looking for some new corpses.
+~
+Blank eyes stare out of deep eye sockets. The face of this creature is
+overly pale and gaunt. It seems to be sniffing the air for a scent.
+~
+human~
+AFGO BDV -400 0
+48 4 25d10+3750 1d1+100 6d6+18 punch
+-18 -18 -18 -18
+FHKP AB 0 0
+stand stand none 2200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11033
+nightwing~
+a nightwing~
+A nightwing is silently flapping its wings here.
+~
+A huge black creature, it blends in with the darkness and is almost unseen.
+Its wings are moving, but the sound from the is almost imperceptable.
+~
+wyvern~
+ABFY DFTV -400 0
+45 4 25d10+3000 1d1+100 8d4+16 smash
+-15 -15 -15 -9
+CFH ABL 0 S
+stand stand none 2300
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#11034
+lieutenant sanchez~
+Lieutenant Sanchez~
+Lieutenant Sanchez is patrolling the watch here.
+~
+His moustache grows down into his well trimmed beard. Both are black, as
+are his eyes. He appears young, but has a confident smirk on his face.
+~
+human~
+AGTY 0 300 0
+38 3 10d10+1600 1d1+100 5d6+12 punch
+-15 -15 -15 -10
+DEHNP 0 0 0
+stand stand male 2300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11035
+vicar~
+the Vicar~
+The Vicar of the Cathedral is lost in prayer here.
+~
+A tall man with a very pious face. His head is slightly bowed. His hair
+is somewhat gray and there is a peaceful look in his eyes.
+~
+human~
+ABCQ V 500 0
+49 4 50d10+4000 1d1+500 4d10+18 divine
+-19 -19 -19 -12
+E AB 0 0
+stand stand male 3900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11036
+nightwing~
+a nightwing~
+A nightwing is silently flapping its wings here.
+~
+A huge black creature, it blends in with the darkness and is almost unseen.
+Its wings are moving, but the sound from the is almost imperceptable.
+~
+wyvern~
+AGY DFTV -400 0
+45 4 25d10+3000 1d1+100 8d4+16 smash
+-15 -15 -15 -9
+CFHP L 0 S
+stand stand none 2300
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#11037
+nightwing~
+a nightwing~
+A nightwing is silently flapping its wings here.
+~
+A huge black creature, it blends in with the darkness and is almost unseen.
+Its wings are moving, but the sound from the is almost imperceptable.
+~
+wyvern~
+AGY DFTV -400 0
+45 4 25d10+3000 1d1+100 8d4+16 smash
+-15 -15 -15 -9
+CFHP L 0 S
+stand stand none 2300
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#11038
+crusader~
+a crusader~
+A crusader is here, ready to fight for his cause.
+~
+He moves with slow cat like steps, searching around him for any dangers.
+He is in a battle ready stance, at all times.
+~
+human~
+AGY 0 400 0
+46 4 25d10+3250 1d1+100 6d6+16 punch
+-16 -16 -16 -10
+EFHKP A 0 0
+stand stand male 2700
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11039
+crusader~
+a crusader~
+A crusader is here, ready to fight for his cause.
+~
+He moves with slow cat like steps, searching around him for any dangers.
+He is in a battle ready stance, at all times.
+~
+human~
+AGY 0 400 0
+46 4 25d10+3250 1d1+100 6d6+16 punch
+-16 -16 -16 -10
+EFHKP A 0 0
+stand stand male 2700
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11040
+veteran crusader~
+a veteran crusader~
+A veteran crusader is here, contemplating his last battle.
+~
+A tall, strong human. The look upon his face is one of dedication and
+determination. There is a smudge of blood on the right side of his face.
+~
+human~
+AGSY 0 400 0
+50 5 50d10+4500 1d1+100 5d8+19 blast
+-20 -20 -20 -15
+EFHIJKP 0 0 0
+stand stand male 3400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11041
+philosopher man~
+a philosopher~
+A man with long grey hair is thinking deeply here.
+~
+Long grey hair hangs loosely on his shoulders. His forehead is wrinkled.
+There is a blank look on his face, he seems oblivious to all around him.
+~
+human~
+AGR TV 400 0
+40 4 15d10+1850 1d1+499 4d8+13 slap
+-13 -13 -13 -10
+FHKN 0 0 0
+stand stand male 2700
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11042
+mad squirrel~
+a mad squirrel~
+A mad squirrel is here, running around in circles.
+~
+The squirrel is foaming at the mouth.  Its small tail waves with fury.  
+~
+fox~
+AGUW Z 0 0
+1 0 2d6+10 1d1+100 1d4+0 bite
+9 9 9 13
+FHR A 0 0
+stand stand either 200
+AGV ACDEFHJKQV tiny 0 the guilds~
+#11043
+mad squirrel~
+a mad squirrel~
+A mad squirrel is here, running around in circles.
+~
+The squirrel is foaming at the mouth.  Its small tail waves with fury.  
+~
+fox~
+AGUW Z 0 0
+1 0 2d6+10 1d1+100 1d4+0 bite
+9 9 9 13
+FHR 0 0 0
+stand stand either 200
+AGV ACDEFHJKQV tiny 0 the guilds~
+#11044
+wild hare~
+a wild hare~
+A wild hare is here, angrily hopping around.
+~
+Tall ears top its furry brown head which tops its furry brown body.
+~
+rabbit~
+AGUW 0 0 0
+4 0 2d7+46 1d1+100 1d5+1 chomp
+6 6 6 10
+FHR 0 0 0
+stand stand either 200
+AGV ACDEFHJK small 0 the guilds~
+#11045
+wily weasel~
+a wily weasel~
+A wily weasel is here, scampering about.
+~
+The weasel moves its head about with quick jerking motions.  Sharp claws
+extend from the ends of its tiny legs.  Its eyes blink two times.  
+~
+rabbit~
+AGUW 0 0 0
+3 0 2d6+35 1d1+100 1d6+0 claw
+7 7 7 11
+FHR 0 0 0
+stand stand either 200
+AGV ACDEFHJK small 0 the guilds~
+#11046
+black crow~
+a black crow~
+A black crow is here, cawwing for its friends.
+~
+Its feathers are as black as night.  Beady little eyes surround its beak.  
+~
+song bird~
+AGUW T 0 0
+1 0 2d6+10 1d1+100 1d4+0 peck
+9 9 9 13
+FHR 0 0 0
+stand stand either 100
+AGW ACDEFHKP tiny 0 the guilds~
+#11047
+baby rat~
+a baby rat~
+A baby rat is scurrying along the ground here.
+~
+The small critter squeaks and shakes its body.
+~
+fido~
+AGUY J 0 0
+2 0 2d7+21 1d1+100 1d5+0 bite
+8 8 8 12
+FR 0 0 C
+stand stand either 100
+ABGV ACDEFHJKQV tiny 0 the guilds~
+#11057
+large rat~
+a large rat~
+A large rat is here, looking after its young.
+~
+Small sharp fangs stick out of its fur covered head. 
+~
+fido~
+AGUY 0 0 0
+3 0 2d6+35 1d1+100 1d6+0 bite
+7 7 7 11
+FR 0 0 C
+stand stand either 200
+ABGV ACDEFHJKQV small 0 the guilds~
+#11058
+lovely maiden~
+a lovely maiden~
+A lovely maiden stands behind the bar, waiting to quench your thirst.
+~
+Her dark hair flows down to her bare shoulders.  Her slender hands rest
+on her narrow waist.  She is garbed in a shoulderless tavern dress, which is
+cut rather low in the front, showing a vast expanse of cleavage.  Her deep
+brown eyes twinkle as she smiles at you with her ruby red lips.  
+~
+human~
+AB D 0 0
+55 5 50d10+7000 1d1+100 10d4+23 none
+-25 -25 -25 -25
+0 ABCD 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11059
+linder mage~
+Linder~
+An aged mage is here, reciting incantations.
+~
+Long grey hair frames a small elven face.  Dark red eyes scan the room
+and you.  He is dressed in long, silken, dark robes.  
+~
+elf~
+ABGQVa DFJ 0 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 ABCD BE Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11060
+captain town watchguard~
+the captain of the town watchguards~
+The captain of the town watchguards is patrolling the area.
+~
+A tall, sturdy human, his thin face is covered with a thick black beard. 
+His eyes take in all around him, not many will escape his scrutiny.  
+~
+human~
+AGT 0 0 0
+31 3 6d12+928 1d1+100 4d6+9 blast
+-10 -10 -10 -7
+CDEHJKPT 0 0 0
+stand stand male 2100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M delay 11001 100~
+M random 11000 50~
+#11061
+merchant vendor storekeeper shopkeeper keeper~
+The merchant vendor~
+An old merchant hobbles around, offering to sell you his many wares.
+~
+An old man dressed in expensive clothing is here, trying to sell you many
+things.  
+~
+human~
+ABQR DZ 1000 0
+1 0 1d1+999 1d1+999 10d10+10 none
+-15 -15 -15 -15
+FGH ABCDQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11062
+empty vnum~
+empty vnum~
+A helpful old man stands here, offering you items.
+~
+An old man dressed in expensive clothing is here, trying to sell you many
+things.  
+~
+human~
+ABGQR DZ 1000 0
+1 0 1d1+999 1d1+999 10d10+10 none
+-15 -15 -15 -15
+FGH ABCDQZ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11063
+Joestar~
+Joestar~
+Joestar tugs patiently at some thorny vines in the walls as he waits for your order.
+~
+Before you is one of the largest elves you've ever seen, weighing in at a
+good 150 pounds.  He pair of small glasses rest upon his nose, and a notepad
+in his back pocket in case he suddenly realizes he needs to order something
+new for the shop in which you stand.  As you look at him, he looks over his
+glasses over you, and raises an eyebrow, wondering if you are going to
+purchase anything.  
+~
+elf~
+ABG J 0 0
+50 5 50d10+4500 1d1+100 5d8+19 punch
+-20 -20 -20 -20
+0 ABCD B Z
+stand stand male 100000
+AHMV ABCDEFGHIJK medium gold the guilds~
+#11064
+guild treasurer~
+the guild treasurer~
+The guild treasurer is here.
+~
+The treasurer sells items belonging to the guild, provided you are
+willing to pay for them.  The price may not be cheap, but the convenience
+cannot be argued with!  
+~
+human~
+AB 0 0 0
+60 6 50d10+9500 1d1+99 8d6+28 crush
+-30 -30 -30 -30
+0 AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11301
+dave~
+dave~
+A dirty dealer named "Dave".
+~
+A dodgey dealer named Dave stands infront of you, ready to share his
+warez.  If its brown, drink it down, if its black...  send it back!  Known
+across the band for his suspicious interactions with certain fellows such as
+Cadavre, Laios and Mooshi, Dave is certainly a person you should stay away
+from!  
+~
+human~
+AB 0 0 0
+23 2 5d10+450 1d1+100 3d6+6 none
+-6 -6 -6 -6
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11306
+indentured servant~
+an indentured servant~
+An indentured servant begs you to use him as you will.
+~
+A man bows before you, offering his services to you.  "I am not much, but
+use my skills as you see fit."  He says.  He had the misfortune of running up
+a large debt to the guild, but his loyalty is unquestionable, for if not
+him, then his children would have to pay the price...  After his execution. 
+He obediently rubs your feet, and pours salves on your wounds and helps you
+sit relaxing on Acaykath's large cushioned throne and bathe in the golden
+water of the royal bath.  
+~
+human~
+Aa 0 0 0
+48 4 25d10+3000 1d1+99 8d4+16 none
+-15 -15 -15 -15
+0 ABCDLQa 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#11000
+crystal fountain~
+a fountain made of sparkling crystal~
+A beautiful crystal fountain is calmly bubbling here.~
+crystal~
+fountain GY 0
+1000 1000 'water' 0 0
+0 0 0 P
+E
+beautiful~
+What a beautiful fountain!
+~
+E
+fountain~
+What a beautitul fountain!
+~
+E
+crystal~
+What a beautiful fountain!
+~
+#11001
+huge bed~
+a very comfortable bed~
+A huge bed is here, it could probably even fit a few dragons.~
+wood~
+furniture 0 0
+5 5000 EHK 100 100
+0 0 0 P
+#11002
+large sign~
+a town homes sign~
+A large sign is hanging above the doorway to the north.~
+metal~
+furniture Y 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+Yes! You can now purchase your own home.
+Be the king or queen of the castle of 
+your dreams. Please go north and tour
+a model home, which could soon be yours.
+Please note Avacar on the personal board
+with all inquiries.
+~
+#11003
+regal armchair chair~
+a regal armchair~
+A regal armchair decorated with tapestry and eagle talon claws rests here.~
+cloth~
+furniture 0 0
+1 900 FI 100 100
+0 0 0 P
+#11004
+fountain children~
+the Fountain of the Children~
+The Fountain of the Children is spraying water high into the air.~
+stone~
+fountain 0 0
+1000 1000 'water' 0 0
+0 0 0 P
+E
+fountain~
+Huge stone sculptures of the five children of Bosco are in the center
+of this large fountain. Each statue, depicted as adults not children,
+shows great detail and was worked by fine craftsmen. The placement of
+the statues was also well planned, each of Bosco's children has their
+back to the other four.
+~
+#11005
+tasty cassoulet~
+a tasty cassoulet~
+Delicious smells waft from a stone crock.~
+food~
+food N A
+25 50 0 0 0
+0 10 55 P
+#11006
+smoked ham~
+a piece of smoked ham~
+Someone has dropped a piece of ham here.~
+food~
+food 0 A
+20 40 0 0 0
+0 10 20 P
+#11007
+asparagus~
+some marinated asparagus~
+Some vegetables are sitting in a bowl here.~
+food~
+food 0 A
+5 10 0 0 0
+0 10 7 P
+#11008
+blue cheese~
+a wedge of blue cheese~
+Someone has tossed away a perfectly good piece of cheese.~
+food~
+food 0 AO
+20 35 0 0 0
+0 10 15 P
+E
+cheese~
+The label reads, Another fine product brought to you by Silfen Importers.
+~
+#11009
+wingwasp~
+a wingwasp~
+A vicious wingwasp is laying here.~
+metal~
+throwing N AO
+3 7 sting 30 'lightning bolt'
+20 20 2200 P
+#11010
+pewter sack~
+a pewter sack~
+A small bag made of metal is gathering dust here.~
+pewter~
+throwing N AO
+3 7 blast 37 'acid blast'
+30 20 3500 P
+#11011
+forged dagger~
+a forged dagger~
+A well forged dagger lays in the dirt.~
+copper~
+throwing N AO
+2 11 pierce 40 'flame arrow'
+48 30 7200 P
+#11012
+fragment ball lead~
+a fragment ball~
+Someone has dropped a small lead ball here.~
+lead~
+throwing N AOY
+2 9 blast 17 'general purpose'
+10 40 1700 P
+#11013
+grand ballroom key~
+the Grand Ballroom key~
+The key to the Grand Ballroom is laying here!~
+silver~
+key T A
+0 0 0 0 0
+0 10 1 P
+#11014
+frosty mug~
+a frosty mug~
+A frosty mug has been left here.~
+glass~
+drink 0 AO
+18 18 'dark ale' 0 0
+0 10 6 P
+#11015
+bottle framboise~
+a bottle of framboise~
+A bottle of framboise has been left here.~
+glass~
+drink 0 A
+32 32 'framboise' 0 0
+0 20 15 P
+#11016
+wooden round table~
+a large wooden round table~
+A large wooden round table rests in the center of the room.~
+wood~
+furniture GY 0
+10 5000 DGJ 100 100
+0 0 0 P
+#11017
+plate game hen~
+a plate of Stoneridge game hen~
+Some tasty looking game hen is on a plate here.~
+food~
+food 0 A
+20 40 0 0 0
+0 10 19 P
+#11018
+leg roast rabbit~
+a leg of roast rabbit~
+A very dark rabbit leg is here.~
+food~
+food 0 A
+22 22 0 0 0
+0 10 10 P
+#11019
+watchguards sword~
+a watchguard's sword~
+A sword, with the symbol of Stoneridge on its handle, lies here.~
+iron~
+weapon 0 AN
+sword 3 9 slice 0
+30 160 1200 P
+#11020
+town watchguard armbands~
+a pair of town watchguard armbands~
+A pair of armbands sits on the ground.~
+cloth~
+armor 0 AI
+7 7 7 2 0
+30 10 2000 P
+#11021
+town watchguard watchguards cloak~
+a town watchguard's cloak~
+A dark woolen cloak has been left here.~
+wool~
+armor 0 AK
+7 7 7 1 0
+31 20 1100 P
+#11022
+town watchguard watchguards helm~
+a town watchguard's helm~
+A helm bearing the crest of Stoneridge has been left here.~
+mithril~
+armor 0 AE
+7 7 7 2 0
+31 50 1700 P
+#11023
+town watchguard watchguards boots~
+a pair of watchguard's boots~
+Someone has left their boots here.~
+metal~
+armor G AG
+8 8 8 5 0
+31 50 2400 P
+A
+2 1  
+#11024
+gauntlets watchguards~
+a pair of watchguard's gauntlets~
+A heavy set of gauntlets are here.~
+lead~
+armor 0 AH
+7 7 7 1 0
+29 60 1000 P
+#11025
+blue shot glass~
+a blue shot glass~
+Someone has left a blue shot glass here.~
+glass~
+drink 0 A
+4 4 'vodka' 0 0
+0 10 20 P
+#11026
+red shot glass~
+a red shot glass~
+A little red glass is sitting here.~
+glass~
+drink 0 A
+4 4 'brandy' 0 0
+0 10 30 P
+#11027
+black bottle~
+a black bottle~
+A small black bottle is laying on its side here.~
+glass~
+drink 0 A
+5 5 'water' 1 0
+0 10 45 P
+#11028
+beer mug~
+a mug of beer~
+Someone has left a beer mug here.~
+glass~
+drink 0 A
+16 16 'beer' 0 0
+0 10 7 P
+#11029
+small sabre~
+a small saber~
+A small saber reflects light into your eyes.~
+steel~
+weapon 0 AN
+sword 1 5 slice 0
+6 50 820 P
+#11030
+woodsmans axe~
+a woodman's axe~
+A small steel axe is on the ground.~
+steel~
+weapon 0 AN
+axe 2 6 chop 0
+14 90 890 P
+#11031
+silver spear~
+a silver spear~
+A long spear made of silver is on the ground here.~
+silver~
+weapon 0 AN
+staff 3 6 thrust 0
+20 70 990 P
+#11032
+field workers gloves~
+a pair of field worker's gloves~
+A pair of gloves have been dropped here.~
+canvas~
+armor 0 AH
+4 4 4 1 0
+8 10 800 P
+#11033
+dragon fountain~
+the fountain of the Dragon~
+A large fountain is here, pouring forth lemonade.~
+stone~
+fountain 0 0
+1000 1000 'lemonade' 0 0
+0 0 0 P
+#11034
+silver bracer~
+a silver bracer~
+A bit of silver shimmers on the ground in this place.~
+silver~
+armor 0 AM
+4 5 5 2 0
+9 30 1200 P
+#11035
+iron shield~
+an iron shield~
+Someone has left a shield here which was too heavy to carry.~
+iron~
+armor 0 AJ
+5 4 4 2 0
+8 130 1000 P
+#11036
+masonite helm~
+a masonite helm~
+Someone has left an odd looking helm here.~
+copper~
+armor G AE
+4 4 4 1 0
+8 20 1300 P
+A
+1 1  
+#11037
+scroll green~
+a scroll of green paper~
+Something green blends into the ground here.~
+paper~
+scroll G A
+9 'create food' 'reserved' 'reserved' 'reserved'
+5 10 600 P
+#11038
+scroll faded~
+a scroll with faded writing~
+A scroll lies here, but the writing on it has faded.~
+paper~
+scroll G A
+15 'detect invis' 'cure serious' 'reserved' 'reserved'
+10 10 720 P
+#11039
+wand blue~
+a blue wand~
+A small blue wand lies here.~
+clay~
+wand G AO
+20 3 2 'invisibility' 0
+15 20 1120 P
+#11040
+stone staff~
+a stone-topped staff~
+A staff with a stone atop it has been left here.~
+wood~
+staff G AO
+37 5 4 'faerie fog' 0
+31 20 4100 P
+#11041
+pint sized glass~
+a pint-sized glass~
+A thick glass has been tossed down here.~
+glass~
+drink 0 A
+32 32 'ale' 0 0
+0 10 9 P
+#11042
+silver wine goblet~
+a silver wine goblet~
+A beautiful goblet made of silver has been left here.~
+silver~
+drink 0 AO
+6 6 'red wine' 0 0
+0 30 1200 P
+#11043
+porcelain cup~
+a porcelain cup~
+A small porcelain cup is about to get stepped on.~
+porcelain~
+drink 0 A
+6 6 'tea' 0 0
+0 10 15 P
+#11044
+elf kabob meat~
+an elf kabob~
+Some tasty looking meat is on a skewer.~
+food~
+food 0 A
+8 10 0 0 0
+0 10 8 P
+#11045
+oysters half shell fish~
+some oysters on a half shell~
+There is a fish in a shell here.~
+food~
+food 0 AO
+20 20 0 0 0
+0 10 50 P
+#11046
+plate vegetables~
+a plate of roasted vegetables~
+Someone left all their vegetables on a plate!~
+food~
+food 0 A
+8 10 0 0 0
+0 10 10 P
+#11047
+roast pheasant bird~
+a roast pheasant~
+There is a dead bird here and it has already been cooked.~
+food~
+food 0 A
+20 40 0 0 0
+0 20 22 P
+#11048
+duck bird~
+some New Thalion duck~
+A very crispy, very tasty bird is here.~
+food~
+food 0 A
+20 40 0 0 0
+0 20 50 P
+#11049
+keg~
+a keg of fine ale~
+There is a large keg in the corner of the room.~
+metal~
+fountain GY 0
+1000 1000 'dark ale' 0 0
+0 0 0 P
+#11050
+bar~
+a very cool mahogany bar~
+An aged bar made of dark wood is here.~
+wood~
+furniture GY 0
+8 1000 DGJ 500 500
+0 0 0 P
+#11051
+robes night satin~
+the robes of the night~
+A pile of black satin has been dropped here.~
+satin~
+armor GJ AKY
+9 9 9 3 0
+35 40 2300 P
+A
+2 2  
+#11052
+circle darkness~
+a circle of darkness~
+There is a dark circle on the ground.~
+leather~
+armor FGJ ALY
+10 10 10 4 0
+34 40 4300 P
+#11053
+burnt parchment~
+a burnt parchment~
+Something burnt to a crisp has been left here.~
+parchment~
+armor GJbd AO
+4 4 4 3 0
+34 10 3200 P
+A
+19 1  
+#11054
+crimson sleeves~
+a pair of crimson sleeves~
+A pair of crimson sleeves are here.~
+velvet~
+armor GJ AI
+9 9 9 2 0
+34 20 3200 P
+#11055
+black headband~
+a black headband~
+A black piece of cloth is laying here.~
+cloth~
+armor ABGJbd AE
+9 9 9 2 0
+32 10 2700 P
+#11056
+velvet sheathes~
+a pair of velvet sheathes~
+Someone has dropped a ball of velvet here.~
+velvet~
+armor J AFY
+9 9 9 3 0
+33 200 2200 P
+A
+2 1  
+A
+4 1  
+#11057
+electrum boots~
+a pair of electrum boots~
+Someone has left some shiny boots here.~
+electrum~
+armor AGac AG
+10 10 10 2 0
+37 250 4400 P
+A
+19 1  
+#11058
+wolf headed cane~
+a wolf headed cane~
+A cane with a wolf's head atop it lies here.~
+ebony~
+weapon BG AN
+staff 5 6 thrust 0
+36 40 3100 P
+A
+19 1  
+#11059
+electrum shield~
+an electrum shield~
+A large shield made of shiny metal is here.~
+electrum~
+armor 0 AJ
+10 10 10 6 0
+37 400 3900 P
+#11060
+dwarven breast plate~
+a dwarven breast plate~
+A breast plate with detailed carvings on it is here.~
+mithril~
+armor G AD
+9 9 9 3 0
+36 250 2900 P
+A
+1 1  
+A
+19 1  
+#11061
+electrum sleeves~
+electrum sleeves~
+Some sleeves made of shiny metal are on the floor.~
+electrum~
+armor 0 AI
+10 10 10 2 0
+37 250 3200 P
+#11062
+electrum gauntlets~
+electrum gauntlets~
+Some gauntlets made of a shiny metal are on the floor.~
+electrum~
+armor G AH
+9 9 9 2 0
+35 200 3200 P
+A
+18 1  
+A
+1 1  
+#11063
+a town watchguard lantern~
+a town watchguard lantern~
+A small metal lantern is here.~
+metal~
+light G A
+0 0 999 0 0
+11 30 700 P
+A
+19 1  
+#11064
+dusty cloak linen~
+a dusty cloak~
+A piece of linen has been rolled up into a ball and dropped here.~
+linen~
+armor G AC
+9 9 9 4 0
+36 40 2900 P
+A
+18 2  
+#11065
+blood stained flail~
+a blood stained flail~
+A small flail, stained with blood, is here.~
+bronze~
+weapon G AN
+flail 3 10 sting H
+36 60 2900 P
+A
+19 2  
+#11066
+tarnished sleeves~
+tarnished sleeves~
+A pair of tarnished brass sleeves have been left here.~
+brass~
+armor 0 AI
+9 9 9 3 0
+35 80 1400 P
+#11067
+flowing brown cloak~
+a flowing brown cloak~
+A brown cloak has been dropped on the ground.~
+cloth~
+armor G AK
+9 9 9 4 0
+34 100 2300 P
+A
+1 1  
+#11068
+grey chainmail gloves~
+a pair of grey chainmail gloves~
+A pair of grey metal gloves are here.~
+metal~
+armor 0 AH
+9 9 9 5 0
+34 200 2200 P
+#11069
+black dirk~
+a black dirk~
+A small black dirk has been left here.~
+iron~
+weapon G AN
+dagger 5 6 pierce 0
+35 40 1500 P
+A
+19 1  
+#11070
+large suitcase~
+a large suitcase~
+Someone has left a large suitcase here.~
+snakeskin~
+weapon 0 AN
+exotic 5 6 smash 0
+34 200 3200 P
+#11071
+wide brimmed hat~
+a wide brimmed hat~
+A hat with a very wide brim has been dropped here.~
+cloth~
+armor 0 AEY
+9 9 9 2 0
+32 20 1800 P
+#11072
+ragged coat~
+a ragged coat~
+A well worn coat has been left here.~
+wool~
+armor 0 AK
+9 9 9 2 0
+32 100 900 P
+#11073
+beaded bracelet~
+a beaded bracelet~
+A small bracelet made of ivory beads has been tossed here.~
+ivory~
+armor 0 AM
+7 7 7 1 0
+30 10 1100 P
+#11074
+peddler peddlers boots~
+a pair of peddler's boots~
+A pair of well used boots sit in the corner.~
+leather~
+armor G AG
+8 8 8 2 0
+30 50 1700 P
+A
+14 50  
+#11075
+large bed~
+a bed covered with beautiful silks~
+A bed, covered with beautiful linens and silks, is here.~
+wood~
+furniture Y 0
+2 2000 EHK 100 100
+0 0 0 P
+#11076
+silken robes silk~
+silken robes~
+A ball of silk has been dropped here.~
+silk~
+armor 0 AK
+10 10 10 4 0
+40 50 2400 P
+#11077
+yellow stone~
+a yellow stone~
+A small yellow stone has been left here.~
+sandstone~
+gem G AO
+0 0 0 0 0
+35 30 2000 P
+A
+3 1  
+A
+1 1  
+A
+17 -7  
+#11078
+candlestand candle stand~
+a candlestand~
+A candlestand is here with rows of votive candles on it.~
+metal~
+furniture Y 0
+0 0 0 0 0
+0 0 0 P
+E
+candlestand~
+Row upon row of small votive candles. Some are lit, some not. Some are
+almost extinguished, some have just begun to burn. 
+~
+#11079
+bells~
+the bells of the Cathedral~
+The huge iron bells of the Cathedral hang from the ceiling.~
+iron~
+furniture Y 0
+0 0 0 0 0
+0 0 0 P
+E
+bells~
+The bells are tremendous, their huge weight is supported by chains from the
+ceiling. They are made of solid iron and crowd the entire room.
+~
+#11080
+skeleton key~
+a small skeleton key~
+A very small skeleton key has been dropped here.~
+brass~
+key P A
+0 0 0 0 0
+0 10 0 P
+#11081
+small puddle~
+a small puddle~
+A small puddle has formed on the ground here.~
+water~
+fountain Y 0
+1000 1000 'salt water' 0 0
+0 0 0 P
+#11082
+holy lance~
+a holy lance~
+A long lance made of shiny metal has been dropped here.~
+platinum~
+weapon GIK AN
+staff 3 11 stab 0
+38 90 3600 P
+A
+19 1  
+A
+18 1  
+#11083
+shield crusade~
+a shield of the crusade~
+A shield bearing the crest of the crusaders has been left here.~
+silver~
+armor GK AJ
+10 10 10 9 0
+47 300 4100 P
+A
+18 3  
+A
+19 1  
+#11084
+mural~
+a colorful mural~
+A mural depicting a sunset over the Cathedral is on the wall.~
+wood~
+portal 0 0
+0 0 0 11204 0
+0 0 0 P
+#11085
+minature wood carving~
+a minature wood carving~
+A minature wood carving of Bosco is sitting on the ground.~
+wood~
+key 0 A
+0 0 0 0 0
+0 10 0 P
+#11086
+onyx dagger~
+an onyx hilted dagger~
+A dagger with black stone on the handle is here.~
+steel~
+weapon G AN
+dagger 6 6 pierce 0
+46 30 3200 P
+A
+19 2  
+#11087
+sword ri talir~
+the sword of Ri Talir~
+A sword with odd inscriptions on it lies here.~
+steel~
+weapon FGHac AN
+sword 5 8 blast A
+48 150 4100 P
+A
+18 1  
+A
+19 1  
+#11088
+crusader ring~
+a crusader ring~
+A ring with an odd symbol on it is gathering dust here.~
+silver~
+armor AG AB
+3 4 4 0 0
+38 10 3200 P
+A
+20 -1  
+A
+18 1  
+A
+19 2  
+#11089
+ice fountain~
+a magical ice fountain~
+A fountain, built entirely of ice, pours forth cool water.~
+ice~
+fountain AGY 0
+1000 1000 'water' 0 0
+0 0 0 P
+#11090
+beautiful fountain~
+a beautiful stone fountain~
+A beautiful stone fountain bubbles forth a dark liquid.~
+stone~
+fountain Y 0
+1000 1000 'root beer' 0 0
+0 0 0 P
+#11091
+large tapestry couch~
+a large tapestry couch~
+A large tapestry couch, embroidered with the crest of ChibiUsa, rests here.~
+wood~
+furniture Y 0
+5 5000 EHK 100 100
+0 0 0 P
+#11092
+lost dragons tail~
+a lost dragon's tail~
+Someone has foolishly left a dragon's tail here.~
+food~
+pill 0 A
+32 'heal' 'mirror image' 'shield' '(null)'
+0 10 0 P
+#11093
+shimmering sash~
+a shimmering sash~
+A sash shimmers on the ground before you.~
+electrum~
+container GYac AL
+500 0 0 10 25
+45 50 4300 P
+A
+18 1  
+A
+19 1  
+A
+4 -2  
+#11094
+crusaders chainmail skirt~
+a crusader's chainmail skirt~
+A heavy skirt of chainmail lies here.~
+metal~
+armor G AF
+10 10 10 4 0
+48 100 3400 P
+A
+19 2  
+A
+4 -2  
+#11095
+blackjack iron~
+a blackjack~
+A small piece of iron has been dropped here.~
+iron~
+weapon G AN
+exotic 6 5 pound 0
+38 40 2100 P
+A
+18 2  
+A
+19 1  
+#11096
+woven leather bracelet~
+a woven leather bracelet~
+A bracelet, made of intricately woven leather, has been dropped here.~
+leather~
+clothing GY AM
+0 0 0 0 0
+47 10 3600 P
+A
+17 -10  
+A
+2 1  
+A
+19 2  
+A
+18 2  
+A
+1 1  
+#11097
+runed sword~
+a runed sword~
+A sword covered with ancient runes lies on the ground.~
+steel~
+weapon G ANY
+sword 5 8 slice 0
+50 150 4200 P
+A
+19 4  
+A
+18 2  
+A
+13 10  
+E
+sword~
+This rune blade was wielded by Commander Ramon, but he only understands
+the basics of its use.  He is using it as a crude slashing weapon without
+any understanding of its function.  Empowered with the correct gems, this
+runed blade could become a powerful "humming voidblade" with terrible energy
+draining properties.  Naturally, the construction of such a blade is
+exceptionally difficult, and requires 4 Gems of False Prophecy which must be
+bound into the blade in pairs, using the power of a vaccuum.  
+~
+#11098
+ancient battle axe~
+an ancient battle-axe~
+A large axe rests in the corner of the room.~
+steel~
+weapon 0 AN
+axe 5 8 chop 0
+46 100 2000 P
+A
+18 2  
+A
+19 2  
+#11099
+quest item~
+a quest item~
+A quest item~
+crystal~
+jewelry TWY AO
+0 0 0 0 0
+0 10 10000 P
+#11100
+acorn~
+a small acorn~
+A small acorn has fallen here.~
+food~
+container GTY A
+5 AC 0 2 100
+0 10 0 P
+#11101
+seedling~
+a seedling~
+A small seedling has fallen on barren ground.~
+food~
+pill T A
+10 'animal growth' '(null)' '(null)' '(null)'
+0 10 0 P
+#11102
+potion cure blindness~
+a potion of cure blindness~
+A potion of cure blindness is here.~
+glass~
+potion G AO
+13 'cure blindness' '(null)' '(null)' '(null)'
+0 10 1150 P
+#11103
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#11104
+potion true sight~
+a potion of true sight~
+A potion of true sight is here.~
+glass~
+potion G AO
+10 'detect invis' 'detect magic' '(null)' '(null)'
+4 10 1450 P
+#11105
+potion antidote bottle~
+a bottle of antidote~
+A bottle of antidote is here.~
+clay~
+potion G AO
+14 'cure poison' 'cure light' 'cure disease' '(null)'
+8 10 2750 P
+#11106
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#11107
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 4000 P
+#11108
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#11109
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#11110
+white off potion~
+an off white potion~
+An off white potion lies here.~
+glass~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#11111
+garnet gem~
+a garnet~
+A garnet catches your eye.~
+gem~
+gem W AO
+0 0 0 0 0
+0 1 500 P
+#11112
+opal~
+an opal~
+A lustrous opal reminds you of far-off places.~
+gem~
+gem W AO
+0 0 0 0 0
+0 1 2000 P
+#11113
+emerald gem~
+an emerald~
+A deep green emerald winks at you.~
+gem~
+gem W AO
+0 0 0 0 0
+0 1 5000 P
+#11114
+ruby gem~
+a ruby~
+A beautiful, if small, ruby is here.~
+gem~
+gem W AO
+0 0 0 0 0
+0 1 6000 P
+#11115
+diamond gem~
+a diamond~
+A diamond catches and reflects the lighting.~
+gem~
+gem NW A
+0 0 0 0 0
+0 1 10000 P
+#11116
+laundry basket~
+a laundry basket~
+Someone has dropped an important basket here.~
+energy~
+container ABY AO
+1000 0 0 100 100
+0 10 0 P
+#11117
+bottle wine~
+a bottle of fine red wine~
+A dark bottle has been dropped here.~
+~
+drink 0 A
+30 30 'red wine' 0 0
+0 10 250 P
+E
+bottle~
+The label reads, "Bottled by the Carolindian Order of Lords."
+~
+#11118
+bar~
+a very cool mahogany bar~
+A small bar in the corner.~
+wood~
+furniture GY 0
+10 10000 DGJ 100 100
+0 0 0 P
+#11119
+bottle grog~
+a bottle of grog~
+A bottle, made of dark glass, has been dropped here.~
+glass~
+drink 0 A
+16 16 'dark ale' 0 0
+0 10 8 P
+E
+bottle~
+The label reads, "Brewed by the Carolindian Order of Lords."
+~
+#11120
+Palankcarian silver goblet~
+Palankcarian goblet~
+A finely crafted silver goblet has been left here.~
+silver~
+drink 0 A
+16 16 'cordial' 0 0
+0 10 50 P
+#11121
+sauna bath haver~
+a steamy sauna~
+A steamy sauna sits in the corner, puffing steam.~
+wood~
+furniture 0 0
+5 0 FIL 100 100
+0 0 0 P
+#11122
+carved marble statue~
+a statue of the beautiful goddess Litazia~
+An intricately carved marble statue of Litazia is here.~
+marble~
+furniture AY 0
+0 0 0 0 0
+0 100 10 P
+E
+statue~
+This exquisite work of art depicts the beloved drow warrior-mage Litazia
+standing tall and confident in a flowing robe.  Its eyes almost seem alive
+as you feel it gaze upon you as if judging your very soul.  
+~
+#11123
+refrigerator~
+ChibiUsa's refrigerator~
+ChibiUsa's capacious humming, gleaming, sparkling, dazzling {Wwhite{x refrigerator is here.~
+metal~
+container Y 0
+1000 AC 0 10 5000
+1 1 0 P
+E
+refrigerator~
+ChibiUsa's capacious humming, gleaming, sparkling, dazzling {Wwhite{x
+refrigerator is here humming at you in an inviting way.  You sure are
+hungry.  
+~
+#11124
+roast beef plate~
+a plate of roast beef~
+A juicy slice of roast beef is served on a large plate.~
+organic~
+food 0 A
+12 12 0 0 0
+1 30 260 P
+#11125
+bunny salad lettuce~
+some bunny salad~
+A large bowl of lettuce lies here.~
+food~
+food A A
+3 5 0 0 0
+0 10 0 P
+#11126
+table~
+a really, long, mahogany table~
+A long mahogany table, ingraved with bunnies, stretches the length of the room.~
+wood~
+furniture Y 0
+20 50000 DGJ 100 100
+0 0 0 P
+#11127
+moon rock~
+a moon rock~
+Sparkling water sits upon a small rock in the corner.~
+stone~
+fountain A 0
+1000 1000 'milk' 0 0
+0 0 0 P
+#11128
+comfy chair~
+a comfy, {Wgiant-sized{x chair~
+A comfy, giant-sized chair is here.~
+wood~
+furniture Y 0
+1 3000 EHK 100 100
+0 0 0 P
+#11129
+bed covered satin sheets~
+a {Cbed {Wcovered{x in {Bsatin {Csheets{x~
+A {Cbed {Wcovered{x in {Bsatin {Csheets{x is here.~
+wood~
+furniture 0 P
+2 50000 EHK 100 100
+0 30000 0 P
+#11130
+stone fountain lemonade~
+{WA {Dstone{W fountain{x~
+{WA {Dstone{W fountain carved out of the wall is here, spouting {ylemonade{W.{x~
+marble~
+fountain O P
+100000 100000 'lemonade' 0 0
+0 0 0 P
+#11131
+satin bed~
+a {Gbed{X covered in {Rsatin {Bsheets{X~
+A {Gbed{X covered in {Rsatin {Bsheets{X is here.~
+satin~
+furniture 0 P
+999 -1 BEHKN 0 0
+0 9999999 0 P
+#11132
+giant silk pillow~
+a {Rgiant {Csilk {Wpillow{x~
+A {Rgiant {Csilk {Wpillow{x is here.~
+wood~
+furniture 0 P
+99 9999999 EHKN 0 0
+0 0 0 P
+#11133
+sign high embassy lands palakcaren help~
+a sign~
+A sign pointing you to the HELP Guild stands here.~
+wood~
+trash O 0
+0 0 0 0 0
+0 500 0 P
+E
+sign~
+To get to the {REmbassy of the Lands of Palankcaren{x open the gates,
+and walk forth into the city.  The Embassay lies 2 north and 1 west
+from here.
+~
+#11134
+sigh high embassy from the Lands of Palankcaren Help~
+a sign~
+A sign from the {RHigh Embassy from the Lands of Palankcaren{x stands here.~
+wood~
+trash O 0
+0 0 0 0 0
+0 500 0 P
+E
+sign~
+You are right outside the {RHigh Embassy from the Lands of Palankcaren.{x
+Just head west into the Embassy!
+~
+#11135
+bed~
+a {bsoft{x bed~
+A {bsoft{x bed made of {Wfeathers{x, covered with {Dblack {Wsilk{x sheets.~
+wood~
+furniture 0 P
+99 99999 EHK 0 0
+0 0 0 P
+#11136
+nica milk fountain~
+Nica's {Wmilk{x fountain~
+Nica's {Wmilk{x fountain is here.~
+stone~
+fountain 0 P
+999999 999999 'milk' 0 0
+0 0 0 P
+#11137
+nica cowboy~
+{CNica's {WCowboy{x~
+{CNica's {WCowboy{x is here.~
+wood~
+furniture 0 P
+1 9999 EH 100 100
+0 30000 0 P
+#11138
+clan couch~
+a red {RA{rmbassadorial{x couch~
+A fine red {RP{ralankcarian{x couch waits to be sat upon.~
+cloth~
+furniture O 0
+8 50 BEHKN 100 100
+0 0 0 P
+#11139
+statue doppleganger thief~
+a statue of a doppleganger thief~
+A statue of a Doppleganger Thief is here.~
+wood~
+fountain 0 0
+-1 -1 'lemonade' 0 0
+0 0 0 P
+#11140
+crystal coffee table~
+a {CCry{cst{Bal {DCo{Wff{Dee {RT{rable{X~
+A {CCry{cst{Bal {DCo{Wff{Dee {RT{rable{X is here.~
+wood~
+furniture 0 P
+99 99 ABDEGHJKMNO 100 100
+0 0 0 P
+#11141
+obsidian couch~
+an {WOb{Dsi{Wdi{Dan {gCo{ru{Wc{gh{X~
+An {WOb{Dsi{Wdi{Dan {gCo{ru{Wc{gh{X is here.~
+obsidian~
+furniture 0 P
+99 99 ABDEGHJKMN 100 100
+0 0 0 P
+#11142
+imperial fountain youth~
+The {WI{Dm{Wp{Der{Wi{Da{Wl{x Fountain of Youth~
+The {WI{Dm{Wp{Der{Wi{Da{Wl{x Fountain of Youth is here looking youthful.~
+stone~
+fountain 0 P
+9999 9999 'lemonade' 0 0
+0 0 0 P
+#11143
+big red butgrooved couch~
+A big {Rred{X buttgrooved couch lies here~
+A big {Rred{X buttgrooved couch lies here waiting to be rested on.~
+wood~
+furniture 0 P
+100 5000 ABCDEFGHIJKLMNOP 100 100
+0 0 0 P
+#11144
+crimson hammock~
+a {RC{Wrimson {RH{Wammock{x~
+A crimson hammock is here, swinging gently.~
+rope~
+furniture 0 P
+100 5000 DEFGHIJKL 100 100
+0 0 0 P
+#11145
+fountain vodka~
+a vodka fountain~
+A fountain flows here, filled with {Dvodka{x~
+stone~
+fountain 0 P
+1000 1000 'vodka' 0 0
+0 0 0 P
+#11146
+sofa couch~
+a sofa~
+A sofa is here.~
+wood~
+furniture 0 P
+99 99 BEHK 100 100
+0 0 0 P
+#11147
+silken sheets sofa couch~
+Silken Sheets~
+Piles of Silken Sheets beckon you to rest.~
+silk~
+furniture O P
+99 99 BEHK 100 100
+0 0 0 P
+#11148
+overpriced poorly manufactured merchants couch sofa~
+{xthe {Goverpriced, {Ypoorly manufactured {bMerchant's {Rcouch{x~
+{xThe {Goverpriced, {YPoorly manufactured {bMerchant's {Rcouch{x.~
+cloth~
+furniture IO 0
+8 10000 BEHKN 100 100
+0 0 0 P
+#11149
+golden waterfall fountain lemonade~
+A {YGolden {xwaterfall~
+A {YGolden{x waterfall pours into a fountain basin.~
+marble~
+fountain O P
+100000 100000 'lemonade' 0 0
+0 0 0 P
+#11150
+easter egg~
+A colourful {RE{Ba{rs{bt{Re{Br{x {YE{Gg{Mg{x~
+A colourful {RE{Ba{rs{bt{Re{Br{x {YE{Gg{Mg{x lies here.~
+glass~
+container QTY AY
+100 AC 0 10 100
+0 10 0 G
+#11151
+throne couch sofa~
+A large {rT{Yh{rro{Yn{re{x~
+A {rT{Yh{rro{Yn{re{x large enough to be a couch lies here.~
+gold~
+furniture 0 P
+99 99 BEHKN 100 100
+0 0 0 P
+#11152
+blank scroll _unused_~
+a blank scroll~
+A blank scroll is here.~
+paper~
+scroll 0 AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#11153
+vial potion empty _unused_~
+an empty potion vial~
+An empty potion vial is here.~
+wood~
+potion W AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#11154
+defeathered chicken~
+a defeathered chicken~
+A defeathered chicken is here on the floor.~
+oldstyle~
+food 0 A
+16 16 0 0 0
+0 50 10 P
+#11155
+figurine blank_fig~
+a blank figurine~
+A blank figurine is here, waiting for a soul.~
+wood~
+wand 0 AO
+0 1 1 'figurine spell' 0
+0 0 100 P
+#11156
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#11157
+white off potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#11158
+figurine mist~
+mist figurine~
+A misty figurine lays on the ground.~
+oldstyle~
+wand AG AO
+45 3 3 'gate' 0
+40 30 11800 P
+A
+14 75  
+#11159
+vial black ink~
+a vial of black ink~
+A vial of black writing ink sits here.~
+cream~
+potion 0 AO
+25 'remove curse' 'blur' '(null)' '(null)'
+25 1 3000 P
+#11160
+white pill~
+a white pill~
+A white pill with the letter 'C' stamped on it.~
+none~
+pill 0 A
+35 'frenzy' 'giant strength' 'reserved' 'reserved'
+35 0 5000 P
+#11161
+love potion number nine 9 fountain lemonade~
+Love potion number 9~
+A fountain flows here, filled with a strange, intoxicating substance. Oh wait, its just lemonade!~
+stone~
+fountain 0 P
+1000 1000 'lemonade' 0 0
+0 0 0 P
+#11162
+table sofa couch masseusses~
+a masseuses' table~
+A long table for giving and receiving massages stands here.~
+wood~
+furniture 0 P
+99 99 BEHK 100 100
+0 0 0 P
+#11163
+jacuzzi heart shaped~
+a {rH{Re{ra{Rr{rt{x-{Rs{rh{Ra{rp{Re{rd{x Jacuzzi~
+A heart shaped jacuzzi waits invitingly for you.~
+wood~
+furniture 0 P
+99 99 CFIL 100 100
+0 0 0 P
+#11164
+rizi statue~
+A life sized statue of Rizi~
+A statue of Rizi stands here.~
+wood~
+furniture 0 P
+2 9999 EH 100 100
+0 30000 0 P
+E
+rizi~
+An incredibly life-like statue of Rizi stands guard just inside the
+entrance of Kourin's bedroom.  Standing tall and proud in only the skimpiest of
+loinclothes, you see Kourin's attention to detail by making this impressive statue anatomically correct.With axe in hand and bloodthirsty gleam in his eyes this statue 
+scares away all would be intruders as Kourin slumbers peacefully nearby dreaming of
+ her strong husband.  So life-like you almost wonder if it is in fact Rizi himself standing there.  On second thought, perhaps you should just leave before finding out
+ first hand!
+~
+E
+statue~
+An incredibly life-like statue of Rizi stands guard just inside the
+entrance of Kourin's bedroom.  Standing tall and proud in only the skimpiest
+of loinclothes, you see Kourin's attention to detail by making this
+impressive statue anatomically correct.  With axe in hand and bloodthirsty
+gleam in his eyes this statue scares away all would be intruders as Kourin
+slumbers peacefully nearby dreaming of her strong husband.  So life-like you
+almost wonder if it is in fact Rizi himself standing there.  On second
+thought, perhaps you should just leave before finding out first hand!  
+~
+#11165
+tent~
+a sturdy canvas tent~
+A sturdy canvas tent is here.~
+canvas~
+container S A
+70 A 0 10 100
+1 25 150 P
+#11166
+bath lemonade fountain royal water~
+a {rRoyal {CBath{x~
+A {rRoyal {CBath{x is here. Its {Bwater{x is too {YRich {xfor you.~
+stone~
+fountain 0 P
+1000 1000 'lemonade' 0 0
+0 0 0 P
+#11167
+wand detect invis~
+a wand of glinting yellow~
+A wand of glinting yellow lies here.~
+oldstyle~
+wand G AO
+1 15 15 'detect invis' 0
+5 10 1800 P
+E
+wand~
+You see a shape slowly fading into exsistance at the base of this wand.
+~
+#11168
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#11169
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#11170
+huge four poster bed~
+a very comfortable bed~
+A huge bed is here, it could probably even fit a few dragons.~
+wood~
+furniture 0 0
+5 5000 EHK 100 100
+0 0 0 P
+#11171
+huge creaking printing press~
+a huge creaking printing press~
+A large printing press is here, cranking out newspapers for your amusement.~
+wood~
+furniture 0 0
+5 5000 EHK 100 100
+0 0 0 P
+#11172
+vial psychedelic ink~
+a vial of psychedelic ink~
+A vial of multicolored ink.~
+cream~
+potion 0 AO
+5 'invisibility' 'pass door' '(null)' '(null)'
+1 1 500 P
+#11173
+large thich plush couch~
+a large couch~
+A large, thick, plush couch beckons you to relax on it.~
+leather~
+furniture IO 0
+4 1200 EHK 100 100
+0 700 0 P
+#11174
+white off potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#11175
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#11176
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#11240
+lemonade fountain ornate tea set~
+an ornate tea set~
+A tea set sits in the corner, each cup filled with a pale pink liquid.~
+stone~
+fountain 0 P
+1000 1000 'lemonade' 0 0
+0 0 0 P
+#11282
+lemonade fountain~
+a {Ylemonade fountain{x~
+A fountain flows here, filled with {Ylemonade{x~
+marble~
+fountain O 0
+0 0 'lemonade' 0 0
+0 0 0 P
+#11283
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#11284
+gingerbread cookie~
+a gingerbread cookie~
+A gingerbread cookie is here, luring you in with an irresistable aroma.~
+food~
+pill GS A
+10 'bark skin' 'pass door' 'reserved' 'reserved'
+10 1 2500 P
+#11298
+statue~
+a statue~
+A tall statue of a once great Imperial leader stands here.~
+stoe~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+statue~
+This statue is built in the likeness of one of our greatest leaders,
+Hexnar.  It stands 15 feet high, he faces out over the rest of the castle
+with his axe on his shoulder.  With his other hand he points out over the
+land with a look of strength in his eyes, you can tell he'd be your doom if
+he was still here...  
+~
+#11299
+starcrossed finger trap sheath~
+a clever fingertrap with {YStarcrossed's{R severed finger{x still in it~
+A clever fingertrap with {YStarcrossed's{R severed finger{x still in it.~
+bone~
+sheath TYe AD
+sword 7 'crushing hand' 0
+51 10 200000 P
+A
+17 -10  
+A
+19 2  
+A
+4 2  
+A
+1 2  
+#11300
+halcyon leveling pill~
+Halcyon's leveling pill~
+Halcyon's leveling pill has been left here.~
+food~
+pill 0 A
+30 'animal growth' 'bark skin' 'sanctuary' 'reserved'
+0 5 0 P
+#11301
+young blonde girl sofa couch~
+A young naked {Yblonde{X girl~
+A young busty {Yblonde{X stands here, looking for her clothes.~
+silk~
+furniture T 0
+10 1000 EHK 100 100
+0 500 0 P
+#11302
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 5000 P
+#11303
+lemonade skin buffalo~
+a buffalo skin of lemonade~
+A bloated dead buffalo is on the floor.~
+leather~
+drink 0 A
+64 64 'lemonade' 0 0
+0 40 50 G
+#11304
+tent~
+a sturdy canvas tent~
+A sturdy canvas tent is here.~
+canvas~
+container S A
+70 A 0 10 100
+1 25 150 P
+#11305
+vial psychedelic ink~
+a vial of psychedelic ink~
+A vial of multicolored ink.~
+cream~
+potion 0 AO
+5 'invisibility' 'pass door' '(null)' '(null)'
+1 1 500 P
+#11306
+vial black ink~
+a vial of black ink~
+A vial of black writing ink sits here.~
+cream~
+potion 0 AO
+25 'remove curse' 'blur' '(null)' '(null)'
+25 1 3000 P
+#11307
+barrel beer~
+a barrel of beer~
+A beer barrel has been left here.~
+wood~
+drink 0 A
+300 300 'beer' 0 0
+0 160 75 P
+#11308
+whiskey shot~
+a shot of whiskey~
+A shot of whiskey is on the table.~
+oldstyle~
+drink 0 A
+2 2 'whisky' 0 0
+0 10 12 P
+#11309
+kamikaze easter bunny~
+a {RK{ra{RM{ri{RK{ra{RZ{re {MEaster bunny{X~
+A kamikaze easter bunny is here, waiting for the right momemt to eXpLoDe!~
+wood~
+pill 0 A
+30 'death rune' 'reserved' 'reserved' 'reserved'
+1 0 10000 P
+#11310
+upholstered loveseat~
+a loveseat~
+A beautifully upholstered loveseat is beckoning you to sit on it.~
+wood~
+furniture 0 0
+12 1000 BEHKO 100 100
+0 1000 0 P
+#11311
+flame broiled elfkabob~
+a flame broiled elfkabob~
+A flame broiled elfkabob is here, giving off a juicy, almost intoxicating smell.~
+food~
+pill GS A
+10 'stone skin' 'shield' 'reserved' 'reserved'
+0 1 2500 P
+#11312
+easter egg~
+an {ME{Ba{Ms{Bt{Me{Br {ME{Bg{Mg{x~
+An Easter egg has been dropped here.~
+energy~
+pill 0 A
+20 'haste' 'frenzy' 'reserved' 'reserved'
+0 0 300 P
+#11313
+squirming spider~
+a squirmy {Dspider{x~
+One of Cicada's {Dspiders{x escaped.. wait what's that paper stuck to it?~
+spider~
+pill 0 A
+25 'animal growth' 'heal' 'stone skin' 'reserved'
+1 0 1000 P
+E
+stuck~
+{MHappy Easter!!!!{x
+For this special week-end, Imm staff is glad to let you
+craft your own {Measter bunny ears{x !
+You will need:
+5 colourful Easter eggs
+1 Rabbit tail
+~
+E
+paper~
+{MHappy Easter!!!!{x
+For this special week-end, Imm staff is glad to let you
+craft your own {Measter bunny ears{x !
+You will need:
+5 colourful Easter eggs
+1 Rabbit tail
+~
+E
+spider~
+{MHappy Easter!!!!{x
+For this special week-end, Imm staff is glad to let you
+craft your own {Measter bunny ears{x !
+You will need:
+5 colourful Easter eggs
+1 Rabbit tail
+~
+E
+paper~
+{MHappy Easter!!!!{x
+For this special week-end, Imm staff is glad to let you
+craft your own {Measter bunny ears{x !
+You will need:
+5 colourful Easter eggs
+1 Rabbit tail
+~
+#11314
+chocolate bunny~
+a {ychocolate {Cbunny{x~
+A cute chocolate bunny has been left here.~
+food~
+pill T A
+10 'haste' 'animal growth' 'reserved' 'reserved'
+0 0 200 P
+#11315
+wand detect invis~
+a wand of glinting yellow~
+A wand of glinting yellow lies here.~
+oldstyle~
+wand G AO
+1 15 15 'detect invis' 0
+5 10 1800 P
+E
+wand~
+You see a shape slowly fading into exsistance at the base of this wand.
+~
+#11316
+tent~
+a sturdy canvas tent~
+A sturdy canvas tent is here.~
+canvas~
+container S A
+70 A 0 10 100
+1 25 150 P
+#11317
+white off potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#11318
+blank scroll _unused_~
+a blank scroll~
+A blank scroll is here.~
+paper~
+scroll 0 AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#11319
+vial empty potion _unused_~
+an empty potion vial~
+An empty potion vial is here.~
+wood~
+potion W AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#11320
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#11399
+buggy portal~
+a buggy portal~
+A buggy portal is flickering~
+wood~
+portal 0 0
+0 0 16 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#11264
+In The Forest~
+Mighty timbers grow tall in every direction.  The forest growth in the
+western and southern directions is far too dense to allow travel.  To the
+north and east, one may travel through the trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 11263
+D1
+~
+~
+0 0 11261
+S
+#11265
+In The Forest~
+In every direction, save south, large fallen trees, long since petrified,
+lie beside healthy aged growing ones.  The fallen trees have made the exits
+unusable.  
+~
+0 0 3
+D0
+~
+door~
+1 0 11236
+D2
+~
+~
+0 0 11263
+D5
+~
+rathole~
+1 0 11266
+S
+#11266
+A Rat's Nest~
+This place is damp and dark.  Small pieces of earth fall from the ceiling
+as you enter.  The air is quite stale and full of unpleasant odors.  
+~
+0 9 0
+D3
+~
+~
+0 0 11270
+D4
+~
+rathole~
+1 0 11265
+S
+#11267
+A Small Rathole~
+Dirt surrounds you on every side.  Roots from the massive trees above
+poke through the damp earth.  The air is quite stale and musty.  
+~
+0 9 0
+D1
+~
+~
+0 0 11268
+D4
+~
+rathole~
+1 0 11256
+S
+#11268
+A Dark Tunnel~
+This tunnel is quite small and a very tight squeeze.  Its rounded walls
+of dirt have been burrowed out of the ground.  A small puddle of mud covers
+the bottom of the tunnel.  
+~
+0 9 0
+D0
+~
+~
+0 0 11269
+D3
+~
+~
+0 0 11267
+S
+#11269
+A Dark Tunnel~
+Moisture drips from the ceiling and walls, forming a puddle of mud on the
+bottom of the tunnel.  The tunnel is extremely small and very uncomfortable.
+~
+0 9 0
+D0
+~
+~
+0 0 11270
+D2
+~
+~
+0 0 11268
+S
+#11270
+A Dark Tunnel~
+This rounded tunnel is quite a tight squeeze.  Roots from the ancient
+trees above ground poke through the earthen ceiling.  Condensation drips
+from the dirt walls, and the floor is covered with wet dirt.  
+~
+0 9 0
+D1
+~
+~
+0 0 11266
+D2
+~
+~
+0 0 11269
+S
+#11271
+The Back Room~
+In this room are many boxes and shelves filled with odds and ends.  It
+would appear as though all the items ever collected by the master of this
+house were taken and placed into this room until they were needed again.  
+~
+0 805306380 0
+D2
+~
+~
+0 0 11233
+S
+#11272
+The Tomb of Wasabi~
+Intense fumes cause your eyes to tear and your throat to burn.  The acrid
+air is difficult to breathe.  Solid stone walls surround every side, save
+for the stone which tops the tomb.  
+~
+0 524809 0
+D4
+~
+stone~
+1 0 11216
+S
+#11273
+The Shrine of Litazia~
+From far and wide travelers from across the land have embarked on
+pilgrimages to this very spot in search of enlightenment.  Day after day
+guild members await the arrival of their patron goddess hoping she will some
+day grace them with her radiant beauty and boundless knowledge.  Until that
+blissful day her faithful followers among the guild wait patiently for a
+divine sign.  The room itself is decorated with trinkets and other small
+offerings which cover the ground around a central statue of the beloved
+deity.  
+~
+0 805306380 0
+D0
+~
+~
+0 0 11138
+S
+#11274
+Linder's Hall~
+Dark wooden panels cover the walls.  The smell of incense fills the air. 
+Small candles burn throughout the room.  Looking south, Calle de Sants can
+be seen through the doorway.  
+~
+0 805306380 1
+D2
+~
+~
+0 0 11025
+S
+#11275
+Chibi's Bathroom~
+You walk into ChibiUsa's bathroom and once again you are nearly blinded. 
+Everything is a sparklingly sanitary white with gold trim, except the floor
+and the tiles that line the walls which are black marble.  In a corner of
+the room is a large box filled with rubber duckies and tiny little boats and
+other fun things to play with while in the bathtub.  
+~
+0 805306381 1
+D2
+~
+~
+0 0 11238
+S
+#11276
+The Dining Room~
+A formally dressed 20-foot long table spans across the room, ready to
+serve many.  At the end of the table is a large throne-like chair with the
+shape of a bunnies head carved into that back of it.  This is obviously the
+spot where {MChibiUsa{x, the Most Beloved Bunny in the Whole World, sits.
+From the doors at the far end of the dining room seeps the scents of
+what is probably going to be the best meal of your life.
+~
+0 805306380 0
+D1
+~
+~
+0 0 11277
+D2
+~
+~
+0 0 11237
+S
+#11277
+ChibiUsa's Kitchen~
+All around this large oval room are rows of wooden cupboards where
+ChibiUsa stores her dishes.  A cooking fireplace gently roasts a large chunk
+of meet in the centre of the room, and in a little nook there lies a
+capacious humming, gleaming, sparkling, dazzling white refrigerator.  
+~
+0 805306380 0
+D3
+~
+~
+0 0 11276
+M 0 H 0
+S
+#11278
+The Living Room~
+You find yourself standing on a carpet of dark green moss so soft that it
+squishes between your toes.  You blink your eyes in amazement as you realize
+that you're in someone's secret treehouse, perched in the uppermost fork of
+an ancient banyan tree.  Green vines hang down all around you, and you hear
+the chitter of animals below you and the cacophony of birds in the distance.
+As the sunlight filters hazily down through the canopy, you catch a glimpse
+through a gap in the branches, of the rainforest that surrounds you, and you
+feel a sense of tranquility steal upon you and you wish you never had to
+leave.  
+~
+0 805306380 0
+O acehilm lufia angelique rosalie cicada caterina tyger deszaras proemeth~
+D4
+~
+~
+0 0 11279
+D5
+~
+treetop~
+1 0 11256
+S
+#11279
+The HP room~
+Hp's hover about the room, maybe you can catch some if you sleep.  
+~
+0 805306380 0
+D4
+~
+~
+0 0 11280
+D5
+~
+~
+0 0 11278
+S
+#11280
+The Star Observatory~
+This marvelous stand provides a spectacular view of the sky.  Nothing but
+treetops can be seen below.  There is no better vantage point for viewing
+the stars at night or spending some time in the sun.
+~
+0 805306372 1
+D5
+~
+~
+0 0 11279
+M 180 H 170
+S
+#11281
+The Entrance to Grimstone Keep~
+Though still under a great deal of construction and cluttered with
+materials and tools, the room is awe-inspiring by its sheer size - even
+considering that it is being built for a giant.  Though it is not complete,
+the room has the feel of existing for a purpose, not simply for appearances.
+To the west is a barred door, and to the east a set of huge bronze doors
+lead to the yet unfinished dining hall.  Two massive staircases curve up
+either side of the foyer to unfinished rooms on the second level, and a door
+between them leads to the manor lord's study.  
+~
+0 402653196 0
+O Teagan Samhaim Hirosho Kryan Styer Itangast Lissa Caterina Cassannova avacar imter derakus Tantrum Kaiya cherry celesta deszaras sylus~
+D0
+~
+door~
+1 0 11282
+D2
+~
+~
+1 0 11011
+S
+#11282
+The Study~
+~
+0 805306380 0
+D2
+~
+door~
+1 0 11281
+D3
+~
+chamberdoor~
+1 0 11283
+D4
+~
+~
+0 0 11323
+M 250 H 220
+S
+#11283
+The Sanctum~
+You have happened upon Chikara's private sanctum, his respite from the
+world.  Before you lies a meticulously well-tended garden with a high
+hedgerow surrounding it and paths of white crushed stone leading to and
+around a shallow pool in the middle.  In the middle of the pool is a large,
+rather horrifying statue - it depicts an unidentifiable, screaming figure,
+on its knees chained hand and foot to a post in the earth, being tortured
+and run through by angels with spears.  The plaque reads, "The time of
+judgement draws near."  Through the water in the pool, you strain to see a
+door of some kind.  
+~
+0 805306380 0
+D1
+~
+chamberdoor~
+1 0 11282
+S
+#11284
+The Private Office.~
+Welcome, you have made it to the private retreat of the leaders of this
+guild.  Relax, no one can find you here, you are quiet safe.  You are in a
+magically sealed room, with windows looking out upon the world.  There is a
+desk to work upon, and a bookcase to read from.  There is a door to the
+east, leading back to the guilds main room.  
+~
+0 805306372 0
+O jotarou kimi cid avacar cicada~
+D1
+~
+~
+1 0 11240
+S
+#11285
+Rendalth's Mansion~
+Welcome to Rendalth's mansion, better known as the Merchants guild hall.  
+~
+0 805306380 0
+D0
+~
+~
+3 0 11287
+D1
+~
+~
+0 0 11286
+D2
+~
+~
+0 0 11312
+D3
+~
+~
+0 0 11288
+D5
+~
+~
+0 0 11292
+S
+#11286
+Rendalth's Mansion~
+You are in Rendalth's Mansion.  It is huge!  Which way do you want to go
+next?  
+~
+0 805306380 0
+D0
+~
+~
+1 0 11290
+D2
+~
+~
+0 0 11311
+D3
+~
+~
+0 0 11285
+S
+#11287
+Rendalth's Private Quarters~
+How did you get in here?  This is Rendalth's private quarters!  In the
+middle of the room you see a large bed, covered with satin sheets.  You feel
+right at home in here.  
+~
+0 805306380 0
+O tsongas rendalth nica~
+D2
+~
+~
+3 0 11285
+S
+#11288
+Further in Rendalth's Mansion~
+You are in a large mansion, owned by Rendalth.  The walls seem to be
+covered in a solid substance...  Perhaps gold?  You feel right at home in
+here.  
+~
+0 805306380 0
+D0
+~
+~
+0 0 11289
+D1
+~
+~
+0 0 11285
+D2
+~
+~
+1 0 11291
+S
+#11289
+Rendalth's Guest Quarters~
+You are in Rendalth's Guest Quarters.  You feel at home here.  The walls
+are covered with portraits of the dear friends of Rendalth.  In the middle
+of the room, you notice a bed covered in satin sheets...  Just like the one
+in Rendalth's Quarters.  Pleasant dreams!  
+~
+0 805306380 0
+D2
+~
+~
+0 0 11288
+S
+#11290
+Rendalth's Shrine~
+You are in Rendalth's Shrine.  Statues stand of all the friends of
+Rendalth.  In the middle of the room is a giant silk pillow that looks
+extremely comfortable.  
+~
+0 805306380 0
+D2
+~
+~
+1 0 11286
+S
+#11291
+{CNica{x's {WSanctuary{x~
+A lovely room filled with candles and flowers.  Forest trees have been
+lovely painted on the walls, giving the sanctuary a real taste of peace.  A
+painting representing a couple and a new born baby can be seen.  
+~
+0 805306380 0
+O lufia tsongas rendalth nica mordis cauthon avacar~
+D0
+~
+~
+1 0 11288
+S
+#11292
+The Healing Room of the Merchants~
+You are in a room filled with gold and gems. Being in this room
+you feel a strange feeling flowing through you, giving you extra
+strength. There is a painting of Nica and Rendalth on one of the
+walls. Looking up a ladder you notice the direction to go to the
+rest of the shelter.
+~
+0 805306380 0
+D4
+~
+~
+0 0 11285
+M 250 H 250
+S
+#11293
+{DCy{Wdra{Xmyr's {WWay {DIn!{x~
+As you approach the strange building, a welcoming aura flows past you,
+leading you inside.  Looking around, you notice a calm serene environment as
+various birds and eagles perch themselves on the vines that weed through the
+white marble walls.  Before the great stone statue fountain, is an envgraved
+image on the ground you stand on.  A {Bblue{X dragon with wings open to full
+span symbolizes the honour and just of this home's owner.  The main foyer is
+much too breathtaking to leave, but a luring sense overcomes you, inviting
+you further into the grand estate of Cydramyr.  
+~
+0 805306380 1
+D2
+~
+~
+0 0 11294
+D3
+~
+~
+0 0 11009
+S
+#11294
+{gSer{Waph {rKni{Wght's {DLiv{ging {rRo{gom{x~
+The sounds of your footsteps echo off the pearl walls as you travel
+deeper into the dwelling.  With the exquisite art displayed in the main
+foyer, this room shows no waning of the artistic architecture.  With a
+majestic green carpeting, and ivory pillars running along the sides, the
+living room, despite its small size displays an ever growing story of the
+resident.  A masterful painting of Cydramyr is hung, framed in silver.  He
+is donning a black suit of armor, lined with gold, white light reflecting of
+in a glimmer that captured his heroic essence.  Sheathed on his back, a
+silver katana is seen, with a chain hanging from the handle, crafted by an
+artisan in Shandalar.  
+~
+0 805306380 1
+D0
+~
+~
+0 0 11293
+D4
+~
+~
+0 0 11295
+S
+#11295
+{DBed{Wroom {rFit {Rfor {Wa {YDeity{x~
+A stunning view flashes before your eyes as you finish climbing the
+crystal stairway.  Here in the Seraph Knight's bedroom, is a single king
+sized bed and a lush carpet underneath, painted on with various depictions
+of war and battle.  The room is surrounded by five full length windows,
+making the room one large pentagon with a breath-taking view.  You can see
+the beautiful forests of Terra to the majestic HELP Guild not far from the
+house.  
+~
+0 805306380 1
+O tsongas cydramyr jotarou~
+D5
+~
+~
+0 0 11294
+M 120 H 100
+S
+#11296
+{WI{Dm{Wp{Der{Wi{Da{Wl{X Courtyard~
+There are training dummies all over the place, several warriors huddled
+around playing war games to hone and test their skills, and a large banner
+with the Imperial colours on it.  To the north is the gate to the castle,
+and to the east stands a small shack with a shopkeeper.  
+~
+0 805306380 1
+O meryl ranm joreli kourin ashki aquila hexnar zelrith dauthi nydus mordrid raa synth arkonn trista rumalth alfar moigan giagnor kivan ricu aquinias calion diadnor orthos emmanuel rikkus presto cadavre ginver kyz dauthi kyzrath samhaim rikishi ransom~
+D0
+~
+~
+0 0 11298
+D1
+~
+~
+0 0 11297
+D3
+~
+~
+0 0 11093
+S
+#11297
+A Small Shack~
+You're standing in a small shack with a few shelves holding items for sale. 
+The shopkeeper stands behind a small counter smiling at you, he points at a 
+sign which has the prices, and begins cleaning up the small area of work space
+which he has.  On the north wall are potions of all sorts, and the east wall 
+has food, and pills, and stuff.  The south wall holds other items of interest, 
+such as wands and staffs.  The shopkeeper turns back to you and smiles once 
+more before he sits down.
+~
+0 805306380 1
+D3
+~
+~
+0 0 11296
+S
+#11298
+Within the Castle Walls~
+Here and there lie pieces of armor set out of the way, and shields with short
+swords with them hang on the walls.  There's a small bustle in the middle of
+the room where there lies a couch, and a fountain, mysteriously spouting some
+lemonade.  From the door to the couch is a velvet red carpet, and on the walls
+are murals depicting the battles and hero's of the past. The couch
+looks nice and comfy, a wonderful place to sit.
+~
+0 805306380 1
+D2
+~
+~
+0 0 11296
+M 230 H 140
+S
+#11299
+{GGuest Hall{x~
+You seem to have entered the mansion's grand hall.  It is here where the
+Lord And Duke entertain their guests.  The room is quite large, all the
+walls are painted in white, and huge windows surround the place, giving the
+room a lot of light.  The room is furnished with luxury sofas, made of silk
+and velvet, and an oak tree table, also quite expensive.  Protraits of the
+owners' ancestors hang on the walls, as well as paintings made by famous
+artists.  There is a warm fireplace in the back of the room, the fireplace
+is working on pure magic, so no logs are needed.  A large persian carpet is
+on the floor, decorated with beautful drawings.  The servants and maids of
+the mansion are here to fulfill your every wise and command, and to make
+sure you are never hungry or thirsty.  Indeed, it seems to be a lovely
+dream-house.  
+~
+0 805306380 1
+D0
+~
+~
+0 0 11300
+D2
+~
+~
+0 0 11066
+C fellowship~
+S
+#11300
+The Corridor~
+You find yourself standing in a long well lit corridor.  You are standing
+on a red velvet carpet, which seems to streatch from here to the end of the
+long corridor.  Along the corridor there are many doors, each leading to a
+room in a mansion, some of them are occupied by the Lord and Duke themself,
+and some by their mates and loved ones.  
+~
+0 805306380 1
+D0
+~
+~
+0 0 11301
+D1
+~
+~
+1 0 16023
+D2
+~
+~
+0 0 11299
+D3
+~
+~
+1 0 16024
+C fellowship~
+S
+#11301
+{RThe Hall of Power{x~
+You have stepped into the most important and well guarded room of the
+mansion.  This is the holy place, where the Duke and the Lord regen their
+strength.  Magical runes uttered by the Duke Karmon himself embodies the
+walls, enhancing the essance of the room, and allows it's users to enjoy an
+increase in power and might.  If you are here, it means you have been
+invited.  
+~
+0 939524108 1
+D1
+~
+~
+1 0 16026
+D2
+~
+~
+0 0 11300
+D5
+~
+~
+1 0 16025
+M 250 H 120
+C fellowship~
+S
+#11302
+Home of the Avide Sisters~
+~
+0 805306380 0
+O lufia valeska nightfire jaina cicada natalia~
+D4
+~
+~
+0 0 11009
+D5
+~
+~
+0 0 11303
+S
+#11303
+Social Dining Room~
+~
+0 805306380 0
+D4
+~
+~
+0 0 11302
+D5
+~
+~
+0 0 11304
+S
+#11304
+Sweet Dreams and Perfect Rest~
+As you stand between the massive statues of the Avide sisters on either
+side of the room, a fierce sleepiness siezes you and you begin slouching
+from the weight of your own body.  You eyes grow heavy with exhaustion as
+your body becomes fearfully lifeless; as you slump into the silken sheets,
+you swear to yourself that the statues are cackling at your demise...  More
+human than stone.  
+~
+0 805306380 0
+D4
+~
+~
+0 0 11303
+M 210 H 100
+S
+#11305
+Lonely Mountain Entrance~
+You have entered the sacred halls of the Treasure Hunter hall.
+~
+0 939524100 0
+D0
+~
+~
+0 0 11011
+D1
+~
+~
+0 0 11307
+D3
+~
+~
+0 0 11306
+C treasure hunter~
+S
+#11306
+{YThrone {yRoom{x~
+A vast chambers surrounds you, filling you with awe.  A large throne sits
+at one end of the chamber, towering above you.  
+~
+0 805306372 0
+D1
+~
+~
+0 0 11305
+M 250 H 250
+S
+#11307
+{rT{Yr{reasu{Yr{re{x {DRoom{x~
+You see a vast sea of treasures and gold littering the ground.  
+ 
+A sign explains the portals.
+~
+0 805306372 0
+E
+sign~
+A sign reads:
+ 
+North - Istanbul
+Down  - Hell
+East  - Bosco's Breach
+~
+D0
+~
+~
+0 0 22268
+D1
+~
+~
+0 0 4393
+D3
+~
+~
+0 0 11305
+D5
+~
+~
+0 0 10401
+S
+#11308
+{yShadow of the Old Oak{x~
+The Old Oak.  Higher then the tallest tower in all of Stoneridge,
+reaching, it seems, to the very clouds themselves - no, to the very heavens!
+It's trunk older then dirt, harder then concrete.  Much of it is bare, only
+the upper half having thick, spreading boughs and branches to lend their
+cooling shade.  The trunk itself does that duty; the majority of the field
+is permanently darkened due to the massive, stalwart Tree.  Thick roots are
+occasionally visible near the hilly base of the tree, gnarled and worn from
+age yet still strong, some as thick as a wagon.  The very life of the land
+itself seems to hum beneath its roots, tapping into the soul of the earth. 
+Grey, though, are some aspects of the lower portions of the Oak- some
+sections seem dead and lifeless, where many are a spritely brown and green. 
+Time waits for noone, human or plant.  Small rooms are set into the Oak's
+trunk.  
+~
+0 805306372 0
+D0
+~
+~
+1 0 11127
+D2
+~
+~
+0 0 11309
+D3
+~
+~
+0 0 11310
+D5
+~
+~
+1 0 11321
+S
+#11309
+{yLair of the Mirkwood King{x~
+It's almost impossible to pick one's path through this chamber in the oak
+tree - it's completely full of old items and belongings from an age gone by.
+It does, however, seem to be a meeting chamber of some kind - at the far end
+of the round room sits a plain wooden chair.  Though ragged and torn, it
+looks comfortable enough, a small footstool and a wooden end table next to
+it.  Paintings and sculptures also abound in this room, of so many things it
+boggles the mind.  Plants, animals, people, places, landscapes..  Not as
+much for show as for simple storage.  What is most impressive, however, is
+the large collection of books and tomes; several dozen thick and dusty works
+piled up on a heavy table along one wall.  
+~
+0 805306372 0
+O kourin lufia cicada~
+D0
+~
+~
+0 0 11308
+M 120 H 110
+S
+#11310
+{ySoul Chamber of the Oak{x~
+The heart of the tree remains in this dark, oppressive chamber..  And
+where the Mirkwood King apparently gets his powers and longevity, as well as
+that of the tree itself.  A throbbing, warm knot of wood sits in the center
+of the circular room, held in place by two root-strands above and below. 
+The whisper of voices can be faintly heard upon entry, as well..  But what
+they say, is anyone's guess.  Nothing else seems to be out of the ordinary
+visually in the chamber, other then the block of wood and a smooth channel
+running around the base of it, in the floor.  There also appears to be a
+round, wooden stool along the far wall, propped up.  
+~
+0 805306372 0
+D1
+~
+~
+0 0 11308
+D4
+~
+~
+1 0 11320
+S
+#11311
+Merchants Back Door~
+You've stepped into Merchants back entrance.  It looks like it used to be
+an old storeroom with a trapdoor in the ceiling.  It sure is dusty in here,
+maybe you should clean it up a little!  
+~
+0 805306380 0
+O lufia rendalth antigone cirdan maevos flare aesculapius kalaman glacier beth jadedlady cojeme nica cydramyr tantrum nica thunderwing tolarian fey arishwad heratio scimitar raino icki jahid chikara murdoc aimee mimik~
+D0
+~
+~
+0 0 11286
+D4
+~
+~
+3 0 11013
+S
+#11312
+Merchants Entrance Hallway~
+This building looks new, in stark contrast to the rest of the mansions
+around you.  North lies the main chambers of the old mansion, and south lies
+the bustling city streets.  
+~
+0 805306380 0
+O lufia rendalth antigone cirdan maevos flare kalaman glacier beth jadedlady cojeme nica cydramyr tantrum nica thunderwing tolarian fey arishwad heratio scimitar raino icki jahid chikara murdoc aimee mimik avacar~
+D0
+~
+~
+0 0 11285
+D2
+~
+~
+3 0 11013
+S
+#11313
+Trydin and Tyriun's Home~
+You've entered a quaint little shack that seems fit for a king...  If the
+king were suddenly to become poor and blind and lose all sense of fashion
+sense and good taste.  
+~
+0 268435468 0
+O trydin tyriun~
+D1
+~
+~
+0 0 11314
+D2
+~
+~
+0 0 11315
+D3
+~
+~
+0 0 11079
+S
+#11314
+The Smoking Lounge~
+Smoke clouds your vision in this room, you can barely see 2 feet in front
+of you!  Coughing noises coming from the corners seem to indicate that
+you're not alone, but you can't see anybody with all this smoke in here!  
+~
+0 268435468 0
+D3
+~
+~
+0 0 11313
+S
+#11315
+The Keg Room~
+Several kegs of are strewn about this massive room.  If only you had a
+tap.  
+~
+0 268435468 0
+D0
+~
+~
+0 0 11313
+S
+#11316
+A Hollowed Out Tree~
+You have stepped out from the under the sky into this hollowed out elm
+tree.  There isn't a lot of room to stand here, although the tree is quite
+wide.  There is a blanket of leaves on the floor of this tree, making the
+floor seem almost carpeted.  You can detect no other holes in the bark of
+the tree except for a hole to the south.  
+~
+0 805306372 0
+D1
+~
+~
+1 0 11317
+D2
+~
+~
+1 0 11254
+S
+#11317
+The Foyer~
+You are standing in the foyer of what seems to be a home.  A few leaves
+are strewn about the floor which have come in through the entrance-way,
+though it is for the most part clean.  There is a small bench to one side
+where you can sit to remove your shoes, and a coatrack in one corner.  You
+can leave this house to the west, or enter it to the north.  
+~
+0 805306372 0
+D0
+~
+~
+0 0 11318
+D3
+~
+~
+1 0 11316
+S
+#11318
+The Grand Entrance~
+This is the main entrance to the house, and it is kept spotless.  You can
+see paintings upon the walls which seem like original works of art from very
+famous painters.  A large ornate staircase leads away to the north, and the
+hallway extends to the east and west.  This place truly does look like quite
+a mansion.  
+~
+0 805306380 0
+D0
+~
+~
+0 0 16007
+D1
+~
+~
+0 0 11319
+D2
+~
+~
+0 0 11317
+S
+#11319
+A Hallway~
+You are in a long hallway with a high, cathedral ceiling supported by
+large marble columns which line walls.  Inset between the column are shelves
+which hold ornate urns, detailed sculptures, or rare artifacts.  There is a
+row of stained glass windows running along the upper portion of the southern
+wall, which shines a prismatic display of light along the northern wall. 
+Towards the west is a wall adorned by many detailed artworks, with an
+archway openning into the entranceway beyond.  The hallway leads eastward,
+further into the house.  A large, heavy wooden door opens into a room to the
+north.  
+~
+0 805306380 0
+D0
+~
+~
+0 0 11322
+D3
+~
+~
+0 0 11318
+S
+#11320
+{yUpper Boughs of the Old Oak{x~
+The wind rustles through the leaves here, the dankness of the inner trunk
+now no longer stifling.  Thick, sturdy branches reach off in all directions
+nearly as far as the eye can see, green and leafy.  It's home to an
+impressive number of wildlife - squirrels and birds abound in the upper part
+of the Mirkwood King's home.  Just don't look down; the ground is very, very
+far from where you stand.  A platform of sorts has been set up here, along
+one of the broader and flatter branches.  A plain wooden stool, carved in
+the shape of a large tree stump, rests against one vertical branch, and a
+small carved end-table remains near it.  
+~
+0 805306372 0
+D5
+~
+~
+1 0 11310
+S
+#11321
+Non-Clanner News Headquarters~
+So this is where the magic happens.  You've stumbled across the room
+where the NcN gets put together, published, written, and then delivered
+straight to you.  Be careful not to get any ink on yourself.  The NcN has
+been in business since November 18, 2002.  Since that day is has been
+providing non-clanners everywhere with a sense of news and entertainment.  
+~
+0 805306372 0
+D4
+~
+~
+1 0 11308
+S
+#11322
+A Large Sitting Room~
+This is a very large room designed to put those who enter here at ease. 
+The paint on the wall is a soft beige, and the paintings on the wall are
+originals drawings of nature scenes and portraits of various people.  A
+large fireplace along the northern wall casts a warm, cheery glow throught
+the room.  Several couches and chairs are scattered in groups around the
+room to encourage relaxed conversation.  A cathedral ceiling is intricately
+painted with vines and trees which wrap and weaves around themselves.  The
+room continues to the east, and a door to the hallway is embedded into the
+south wall.  
+~
+0 805306380 0
+D2
+~
+~
+0 0 11319
+S
+#11323
+A Hole in the Wall~
+You step through the opening in the crumbling wall, and into a room of
+empty space.  A myriad of ghostly shapese surround you, wandering about the
+room unaware of your presence.  You can hear the whispers of these spirits,
+their presence giving you a sense of curiosity and longing for adventure. 
+The floor is caked with the dust of ages past, as you step towards a
+darkening shadow in the wall, your footsteps leave marks in the dust,
+marking your steps.  The shadow feels to stretch itself towards you, and you
+reach out and step into the shadow's embrace, you find yourself in a whole
+new land...  Away from the forgotten dusty chamber.  
+~
+0 805306380 0
+D5
+~
+~
+0 0 11282
+S
+#11000
+The Path to Stoneridge~
+Rolling green fields stretch as far as the eye can see on either side
+of a well trodden dirt path. To the north, you can make out the grand
+architecture of Stoneridge. The path runs north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 11001
+D2
+~
+~
+0 0 11154
+S
+#11001
+Before the Grand Gates of Stoneridge~
+To the north lies the entrance to Stoneridge. Massive iron gates are
+set into a huge stone wall. The wall extends for miles to the east and
+west. Towering in the background, behind the wall, you see the ancient
+spires of the town reaching into the sky.
+~
+0 0 1
+D0
+~
+gate~
+1 0 11002
+D2
+~
+~
+0 0 11000
+S
+#11002
+Inside the Grand Gates~
+The intricate iron gates of the town rise high above you. Victory
+Boulevard lies to the north leading towards the heart of the city.
+Grande Route lies to the east and west of here. The road out of the
+city is to the south.
+~
+0 0 1
+D0
+~
+~
+0 0 11009
+D1
+~
+~
+0 0 11003
+D2
+~
+gate~
+1 0 11001
+D3
+~
+~
+0 0 11013
+X midi/equinox4.mid~
+S
+#11003
+Along Grande Route~
+A cobblestone street lies between the buildings to the north and the
+huge stone wall along the south. An open door north leads to a model
+home. The Grand Gates of Stoneridge are to the west. The cobblestone
+path continues east.
+~
+0 0 1
+D0
+~
+~
+1 0 11004
+D1
+~
+~
+0 0 11007
+D3
+~
+~
+0 0 11002
+S
+#11004
+A Comfy Sitting Room~
+A brick fireplace is framed by a magnificent marble mantlepiece. A large
+skylight of stained glass sits atop the high ceiling. Beautiful tapestries,
+of different shapes and colors, hang on all the walls. The exit to the street 
+is south. Doorways are east and west.
+~
+0 268435468 1
+D1
+~
+~
+1 0 11006
+D2
+~
+~
+1 0 11003
+D3
+~
+~
+1 0 11005
+S
+#11005
+A Cozy Corner of the Castle~
+Long silk curtains frame detailed stained glass windows. While the walls
+are made of stone, there is a certain warmth to this chamber. The sounds
+of the city and the world outside seem to vanish within this room. This
+would probably be a good place to take a catnap. The only exit is east
+to the sitting room.
+~
+0 268435468 1
+D1
+~
+~
+1 0 11004
+S
+#11006
+A Quiet Corner of the Castle~
+The only light in this room comes from hundreds of candles burning throughout
+it. Colorful murals adorn all the walls. They depict magic users of old in
+various ceremonies and gatherings. The marble tile floor intensifies every
+sound in the room. The only exit is west to the sitting room.
+~
+0 268435468 1
+D3
+~
+~
+1 0 11004
+S
+#11007
+Along Grande Route~
+From the building to the north, you hear the sounds of construction.
+The workmen have piled up debris in front of the doorway and there appears
+to be no way in. The road continues along the wall to the east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11088
+D3
+~
+~
+0 0 11003
+S
+#11008
+Along Grande Route~
+From the sawing and hammering sounds coming from the north, they must be
+building something big.  The exterior of the building shows it age by way of
+its antique architecture.  Grande Route runs east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 11049
+D3
+~
+~
+0 0 11078
+S
+#11009
+Victory Boulevard~
+Detailed gold statues adorn the buildings to the east and west.  The
+buildings, built of stone and reaching far above you, are black with age. 
+Yet the gold statues appear to be untarnished.  Workmen are busy in the shop
+to the east.  Above the doorway to the west is a huge crest belonging to the
+High Embassy of the Lands of Palankcaren.  Victory Boulevard continues to
+the north.  To the south, you can see the Grand Gates.  
+~
+0 0 1
+D0
+~
+~
+0 0 11010
+D1
+~
+~
+0 0 11293
+D2
+~
+~
+0 0 11002
+D3
+~
+~
+0 0 11138
+D5
+~
+~
+0 0 11302
+S
+#11010
+Victory Boulevard and Manor Road~
+You stand at the intersection of Victory Boulevard and Manor Road. The
+sparkling pavement of Victory Boulevard continues north and south. To
+the east and west you can see the majestic homes which line Manor Road.
+~
+0 0 1
+D0
+~
+~
+0 0 11016
+D1
+~
+~
+0 0 11014
+D2
+~
+~
+0 0 11009
+D3
+~
+~
+0 0 11011
+S
+#11011
+Manor Road~
+A beautiful stone building lies to the north. Statues of angels stand along
+its roof. To the south lies an identical building although the statues on
+its roof are devils. Both houses are still being worked on. The brick path
+of Manor Road continues west. To the east lies the intersection of Victory
+Boulevard and Manor Road.
+~
+0 0 1
+D0
+~
+~
+1 0 11281
+D1
+~
+~
+0 0 11010
+D2
+~
+~
+0 0 11305
+D3
+~
+~
+0 0 11052
+S
+#11012
+Manor Road~
+A large manor sits atop a sprawling hill to the north. South you can
+see a large mansion set behind green lawns and large trees. The brick
+path of Manor Road continues east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11054
+D3
+~
+~
+0 0 11080
+S
+#11013
+Along Grande Route~
+The fine building to the north is inhabited by the Merchants
+Guild.  The stone wall to the south continues east and west, as
+done Grande Route.
+~
+0 0 1
+D0
+~
+~
+3 0 11312
+D1
+~
+~
+0 0 11002
+D3
+~
+~
+0 0 11048
+D5
+~
+~
+3 0 11311
+S
+#11014
+Manor Road~
+An amazing building with a large iron gate and castle-like turrets along
+its roof lies to the north.  To the south lies a similiar home, yet its roof
+is patterned with gargoyles.  To the west lies the intersection of Victory
+Boulevard and Manor Road.  The brick path of Manor Road continues east.  
+~
+0 0 1
+D0
+~
+gate~
+1 0 11233
+D1
+~
+~
+0 0 11015
+D3
+~
+~
+0 0 11010
+S
+#11015
+Manor Road~
+Massive manors built of stone sit on the hills to the north and south of the
+road. Huge iron gates, with intricate detail, block the roadways leading up to
+their entrances. Manor Road continues east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11094
+D3
+~
+~
+0 0 11014
+S
+#11016
+Victory Boulevard~
+The pavement of the road twinkles and sparkles. It almost seems as if
+there are diamonds in it. Workmen are busy in the buildings east and
+west. There is scaffolding along the facades of both buildings.
+The shining road runs north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11017
+D2
+~
+~
+0 0 11010
+S
+#11017
+Victory Boulevard and Ravenhurst Road~
+This is the intersection of Victory Boulevard and Ravenhurst Road. The
+sparkling path of Victory Boulevard leads north to the old city center and
+south towards the Grand Gates. Tall dark mansions stare down ominously
+on the paths east and west of here.
+~
+0 0 1
+D0
+~
+~
+0 0 11022
+D1
+~
+~
+0 0 11020
+D2
+~
+~
+0 0 11016
+D3
+~
+~
+0 0 11018
+S
+#11018
+Ravenhurst Road~
+Tall dark mansions that look as though they have been here for centuries
+are to the north and south. There actually appears to be something 
+working inside them. To the east lies Victory Boulevard. The dark path
+of Ravenhurst Road continues west.
+~
+0 0 1
+D1
+~
+~
+0 0 11017
+D3
+~
+~
+0 0 11056
+S
+#11019
+Ravenhurst Road~
+Tall weeds cover the hills to the north and south. A house could probably
+be built here, if someone wanted to. Overgrown bushes line the sides of the
+road here. Ravenhurst Road continues east and west.
+~
+0 1 1
+D1
+~
+~
+0 0 11058
+D3
+~
+~
+0 0 11082
+M 80 H 80
+S
+#11020
+Ravenhurst Road~
+A huge stone building lies to the north. Its roof is peppered with
+gargoyle statues. Workmen in very dark clothing scurry about the building. 
+To the south lies an equally grim structure. The same men appear to 
+be working there also. To the west you can see Victory Boulevard. The
+dark path of Ravenhurst Road continues east.
+~
+0 0 1
+D1
+~
+~
+0 0 11021
+D3
+~
+~
+0 0 11017
+S
+#11021
+Ravenhurst Road~
+Rigged structures of blackened stone are to the north and south. The
+paths to them are guarded by tall iron gates locked by rust over the ages.
+Ravenhurst Road continues east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11103
+D3
+~
+~
+0 0 11020
+S
+#11022
+Victory Boulevard~
+The tall buildings to the east and west appear to house shops of some
+type, but they are under construction at the moment. The diamond studded
+path of Victory Boulevard continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11023
+D2
+~
+~
+0 0 11017
+S
+#11023
+The Old City Center~
+You are in the heart of the Old City. A huge green lawn surrounds an
+enormous fountain. Trees are strategically positioned around the square
+to provide shade during the daylight hours. To the north and south you
+can see Victory Boulevard. Calle de Sants is to the east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 11024
+D1
+~
+~
+0 0 11028
+D2
+~
+~
+0 0 11022
+D3
+~
+~
+0 0 11025
+S
+#11024
+Victory Boulevard~
+Enormous trees, hundreds of years old, line both sides of the street.
+A large park lies beyond the trees to both the east and west. However,
+the brush is too thick to enter the park from here. The Old City Center
+is to the south. Victory Boulevard continues north.
+~
+0 0 1
+D0
+~
+~
+0 0 11031
+D2
+~
+~
+0 0 11023
+S
+#11025
+Calle de Sants~
+Colorful flowers and small trees stand between the roadway and the
+buildings.  The buildings themselves are decorated with ornate gold and
+silver workings.  Liesbet's Place lies to the south.  Linder's Hall is to
+the north.  Called de Sants continues west.  The Old City Center is east of
+here.  
+~
+0 0 1
+D0
+~
+~
+0 0 11274
+D1
+~
+~
+0 0 11023
+D2
+~
+~
+0 0 11027
+D3
+~
+~
+0 0 11026
+S
+#11026
+Calle de Sants~
+An astounding variety of flowers, of every color of the rainbow, decorate
+the roadside. The sign above the shop to the south shows a large silver
+shield on a red background. The shop to the north bears a sign depicting
+a diamond. Calle de Sants continues east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 11152
+D1
+~
+~
+0 0 11025
+D2
+~
+~
+0 0 11137
+D3
+~
+~
+0 0 11060
+S
+#11027
+Liesbet's Place~
+Smoked hams hang from every spare corner of the ceiling. The smells
+of various foods being prepared is overwhelming. Glass cases provide
+patrons an opportunity to view an astounding selection of the finest
+delicacies. 
+~
+0 8 1
+E
+glass~
+All sorts of fine tasting food are within the glass counter.
+Liesbet's homemade cassoulet, a tasty looking smoked ham, an
+assortment of vegetables, and many wheels and wedges of cheese
+are but a few.
+~
+E
+ham~
+A smoked ham hangs from the ceiling. It looks delicious!
+~
+D0
+~
+~
+0 0 11025
+S
+#11028
+Calle de Sants~
+Calle de Sants is one of the oldest streets in the city. But it is
+also one of the most beautiful. The ancient narrow roadway between the
+tremendous works of architecture makes for quite a sight. The Old City
+Center is to the west. Called de Sants continues to the East. North lies
+a shop bearing the sign, "Melahat's Metalworks". The sign over the shop
+to the south reads, "Lonnigans".
+~
+0 0 1
+D0
+~
+~
+0 0 11030
+D1
+~
+~
+0 0 11029
+D2
+~
+~
+0 0 11136
+D3
+~
+~
+0 0 11023
+S
+#11029
+Calle de Sants~
+The finely detailed architecture of the buildings causes many a traveller
+to stop and gaze. To the north is Raif's Magic Shop. The store to the south
+is closed for renovations. The narrow roadway continues east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 11142
+D1
+~
+~
+0 0 11104
+D3
+~
+~
+0 0 11028
+S
+#11030
+Melahat's Metalworks~
+The sounds of hammers pounding on steel echo through the shop from
+the workroom in the back. The heat from the workroom furnaces can be
+felt even here. The smell of molten metal is thick in the air.
+~
+0 8 1
+D2
+~
+~
+0 0 11028
+S
+#11031
+Victory Boulevard and Forest Avenue~
+A dense forest is on all four of the surrounding corners. The growth of
+the flora is too dense to enter the forest from here. The shining path
+of Victory Boulevard continues north and south. To the east and west you
+can see Forest Avenue running through the park.
+~
+0 0 1
+D0
+~
+~
+0 0 11036
+D1
+~
+~
+0 0 11034
+D2
+~
+~
+0 0 11024
+D3
+~
+~
+0 0 11032
+S
+#11032
+Forest Avenue~
+North lies a rolling hill covered with flowers and trees. There is a
+small cottage at the top of the hill. South lies a large amount of massive
+century old trees. Victory Boulevard is to the east. Forest Avenue
+continues west.
+~
+0 0 1
+D1
+~
+~
+0 0 11031
+D3
+~
+~
+0 0 11033
+S
+#11033
+Forest Avenue~
+South lie the ancient trees which make up the town's park.  North is a
+small hill covered with small trees and flowers.  Forest Avenue continues to
+the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 11032
+D3
+~
+~
+0 0 11064
+S
+#11034
+Forest Avenue~
+All around are vast forests that make up the eastern part of the park.
+Small animals can be seen scurrying amongst the trees.  The north slopes
+upwards to form a small hill, upon which stands a mansion.  to the south, it slopes downward creating a tiny valley.
+This is an excellent place to view the park.  Victory Boulevard is
+~
+0 0 1
+D0
+~
+~
+0 0 16017
+D1
+~
+~
+0 0 11035
+D3
+~
+~
+0 0 11031
+S
+#11035
+Forest Avenue~
+The treelined hilltop to the north presents a fantastic view of the city.
+Fallen trees have blocked the route up the hill.  To the south, a large
+group of trees marks one of the parks entrances.  Forest Avenue continues
+east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 11114
+D2
+~
+~
+0 0 11257
+D3
+~
+~
+0 0 11034
+S
+#11036
+Victory Boulevard~
+The tremendous trees of the park stand tall to the east and west of the
+shimmering roadway. Tiny creatures peer out at the street from behind the
+trees. Victory Boulevard continues north to the Stoneroad of the Cathedral
+and south towards the Old City Center.
+~
+0 0 1
+D0
+~
+~
+0 0 11037
+D2
+~
+~
+0 0 11031
+S
+#11037
+The Stoneroad and Victory Boulevard~
+This is the largest intersection in the entire town. Beneath you massive
+slabs of granite combine with the diamonds of Victory Boulevard to form
+a mosaic in the face of Bosco. Although it has been worn with age, the
+intricate workmanship still shows fine detail. Victory Boulevard continues
+north and south. The Stoneroad of the Cathedral lies east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 11038
+D1
+~
+~
+0 0 11046
+D2
+~
+~
+0 0 11036
+D3
+~
+~
+0 0 11044
+S
+#11038
+Victory Boulevard~
+Sprawling plains lie to the east and west. Nothing there but field bushes
+swaying in the breeze. Delicate colorful flowers border the roadway here.
+To the north you can see the huge stone wall surrounding Stoneridge.
+South lies the Stoneroad of the Cathedral.
+~
+0 0 1
+D0
+~
+~
+0 0 11039
+D2
+~
+~
+0 0 11037
+S
+#11039
+Along Grande Route~
+An opening has been cut out of the stone wall that surrounds the
+town.  A stone courtyard seems to lie to the north.  The towering
+stone walls runs east and west, as does Grande Route.  To the South
+lies Victory Boulevard.
+~
+0 0 1
+D0
+~
+~
+0 0 23400
+D1
+~
+~
+0 0 11042
+D2
+~
+~
+0 0 11038
+D3
+~
+~
+0 0 11040
+S
+#11040
+Along Grande Route~
+This is the uppermost point of the city. All can be seen from here, the
+Old City Center, the Cathedral, even the Grand Gates can be seen to the
+distant south. Grande Route continues east and west along the great wall.
+~
+0 0 1
+D1
+~
+~
+0 0 11039
+D3
+~
+~
+0 0 11041
+S
+#11041
+Along Grande Route~
+The view from here astounds even the most weathered of travellers. 
+The entire city can be seen from this vantage point. To the south
+is a vacant lot of grass. Grande Route continues east and west as 
+does the great wall of Stoneridge.
+~
+0 0 1
+D1
+~
+~
+0 0 11040
+D3
+~
+~
+0 0 11072
+S
+#11042
+Along Grande Route~
+From this vantage point, high above the town, one can see all. The spires
+of the Cathedral are quiet evident even from this distance. A small group
+of trees lies to the south. Grande Route continues east and west along
+the huge stone wall surrounding the town.
+~
+0 0 1
+D1
+~
+~
+0 0 11043
+D3
+~
+~
+0 0 11039
+S
+#11043
+Along Grande Route~
+Directly south lies an undeveloped plot of land. It is speckled with
+bushes and weeds, but the soil is quite fine. The Cathedral can be seen
+quite clearly from here, as can most of the city. The huge wall of the 
+city continues east and west with Grande Route trailing it.
+~
+0 0 1
+D1
+~
+~
+0 0 11116
+D3
+~
+~
+0 0 11042
+S
+#11044
+The Stoneroad of the Cathedral~
+Giant slabs of granite make up the roadway here. The slabs have been
+cleverly positioned so as to form an arrow pointing east. To the south
+lies a treelined hill. North is an empty hill gently sloping upwards to
+the stone wall of the city. The Stoneroad continues to the west, east
+lies the shining path of Victory Boulevard.
+~
+0 0 1
+D1
+~
+~
+0 0 11037
+D3
+~
+~
+0 0 11045
+S
+#11045
+The Stoneroad of the Cathedral~
+Stones of every possible shape and size have been used here to create
+the roadway. North lies a gentle hill leading up to the stone wall of
+the city, however the underbrush has made the route impassable. South
+lies the thick brush of the park. The Stoneroad continues to the east
+and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11044
+D3
+~
+~
+0 0 11068
+S
+#11046
+The Stoneroad of the Cathedral~
+Large stones made of granite have been laid end to end to form the 
+road here. Intricate inlays in the stone form an arrow pointing to
+the east. South lies the vast greeness of the park. West is Victory
+Boulevard. The Stoneroad continues east.
+~
+0 0 1
+D1
+~
+~
+0 0 11047
+D3
+~
+~
+0 0 11037
+S
+#11047
+The Stoneroad of the Cathedral~
+The ingenious architecture of the Cathedral is now within sight. Spires
+reaching high into the sky, the gargoyles along its perimeter can be
+vaguely recognized from here. Intricate inlays within the road below 
+point eastward. The Stoneroad continues east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11127
+D3
+~
+~
+0 0 11046
+S
+#11048
+Along Grande Route~
+An amazing work of architecture stands to the north. Suprisingly it
+appears to be vacant. Grande Route continues east and west as does
+the stone wall surrounding the city.
+~
+0 0 1
+D1
+~
+~
+0 0 11013
+D3
+~
+~
+0 0 11050
+S
+#11049
+Grande Route and Parallel West~
+The tall wall of the town lies to the south. Grande Route follows it
+east and west. North lies the dusty trail known as Parallel West.
+~
+0 0 1
+D0
+~
+~
+0 0 11051
+D1
+~
+~
+0 0 11050
+D3
+~
+~
+0 0 11008
+S
+#11050
+Along Grande Route~
+A large vacant building lies to the north. The workmanship of its
+detailed woodwork must have taken years to complete. The huge stone
+wall of the town continues east and west, as does Grande Route.
+~
+0 0 1
+D1
+~
+~
+0 0 11048
+D3
+~
+~
+0 0 11049
+S
+#11051
+Parallel West~
+Tall buildings tower above to the east and west.  Gold and silver
+workings decorate the facades of both buildings.  The western entrance
+appears to be blocked from within.  Parallel West continues north.  South
+lies the Grande Route.  A sign over the eastern doorway indicates that it is
+the entrance to the Traveller's Rest Guild.  
+~
+0 0 1
+D0
+~
+~
+0 0 11054
+D1
+~
+~
+0 0 16004
+D2
+~
+~
+0 0 11049
+D3
+~
+~
+0 0 16020
+S
+#11052
+Manor Road~
+Beautiful mansions are under construction to the north and south. Large
+stores of stone and wood are piled up around the structures. The brick
+path of Manor Road continues east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11011
+D3
+~
+~
+0 0 11053
+S
+#11053
+Manor Road~
+Stately manors are to the north and south.  They are currently undergoing
+rennovations and the workers supplies make the routes to them unusable. 
+These two are among the oldest structures in town.  Manor Road continues
+east.  To the west lies Parallel West.  To the south, a narrow doorway leads
+to The Traveller's Rest guild.  
+~
+0 0 1
+D0
+~
+~
+0 0 16008
+D1
+~
+~
+0 0 11052
+D2
+~
+~
+0 0 16011
+D3
+~
+~
+0 0 11054
+S
+#11054
+Parallel West and Manor Road~
+On the four corners of the intersection, you can see the huge manors which
+are the namesakes of Manor Road. East and west the brick path of Manor Road
+is visible. Parallel West continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11055
+D1
+~
+~
+0 0 11053
+D2
+~
+~
+0 0 11051
+D3
+~
+~
+0 0 11012
+S
+#11055
+Parallel West~
+East and west are dark hills sloping upwards. Trees and brush dot the
+hilltops. Prickly bushes peppered with flowers line the roadway here.
+Parallel West continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11058
+D1
+~
+~
+0 0 16013
+D2
+~
+~
+0 0 11054
+S
+#11056
+Ravenhurst Road~
+Trees, centuries old, stand to the north and south protecting dark
+mansions. Little detail of the mansions can be seen due to the trees.
+The visible parts of the buildings look ancient. The dark path of
+Ravenhurst Road continues west and east.
+~
+0 0 1
+D1
+~
+~
+0 0 11018
+D3
+~
+~
+0 0 11057
+S
+#11057
+Ravenhurst Road~
+Thick black trees line the north and south of the roadway. It is 
+impossible to see beyond the first row of the woods. Ravenhurst Road
+continues west and east.
+~
+0 0 1
+D1
+~
+~
+0 0 11056
+D3
+~
+~
+0 0 11058
+S
+#11058
+Parallel West and Ravenhurst Road~
+The ground is covered with a black gravel here. Large black trees stare
+down at the intersection from each side of the roadway. The dark path of
+Ravenhurst Road continues east and west. Parallel West continues north
+and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11059
+D1
+~
+~
+0 0 11057
+D2
+~
+~
+0 0 11055
+D3
+~
+~
+0 0 11019
+S
+#11059
+Parallel West~
+Long rolling fields lie to the east and west of the roadway. Little
+field creatures can be seen skirting in and out of the waving greens.
+Parallel West continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11061
+D2
+~
+~
+0 0 11058
+S
+#11060
+Calle de Sants~
+Colorful trees and flowers stand by the roadside here. There is a huge
+tavern to the north, the sign above it shows a regal coat of arms. In large
+black letters at the bottom of the sign are the words, "The King's Arms".
+To the south, a small pub can be seen. Above it is a sign depicting an aged
+man in long cloaks with a wry grin on his face. Calle de Sants continues to
+the east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 11128
+D1
+~
+~
+0 0 11026
+D2
+~
+~
+0 0 11132
+D3
+~
+~
+0 0 11061
+S
+#11061
+The Four Corners~
+Large cornerwalls have been built on the four corners of the intersection.
+Built of stone, mortar and colorful crystals, the crystals emit a dazzling
+array of colors which can be seen day or night. Parallel West lies to the
+north and south. Calle de Sants is east and west.
+~
+0 0 1
+E
+corner~
+Stone and mortar hold beautiful crystals of every shape, size and
+color imaginable. There is a strange warmth coming from them!
+~
+E
+cornerwall~
+Stone and mortar hold beautiful crystals of every shape, size and
+color imaginable. There is a strange warmth coming from them!
+~
+D0
+~
+~
+0 0 11063
+D1
+~
+~
+0 0 11060
+D2
+~
+~
+0 0 11059
+D3
+~
+~
+0 0 11062
+M 120 H 120
+S
+#11062
+Calle de Sants~
+Small green trees stand by the roadside here. The exteriors of the shops
+to the north and south are as ancient as the roadway. The shop to the south
+bears a sign with a picture of a box of gold coins. The sign above the shop
+to the north, simply reads, "Tragars". Calle de Sants continues east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 11153
+D1
+~
+~
+0 0 11061
+D2
+~
+~
+0 0 11162
+D3
+~
+~
+0 0 11084
+S
+#11063
+Parallel West~
+The massive greenbelt of the town lies to the east and west of the road.
+The growth of bushes and trees is too dense to enter here. Parallel West
+continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11065
+D2
+~
+~
+0 0 11061
+S
+#11064
+Forest Avenue~
+Thick brush covers the hill to the north.  To the south, an ancient
+covered bridge can be seen.  Parallel West lies to the west.  Forest Avenue
+continues to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 11033
+D2
+~
+~
+0 0 11241
+D3
+~
+~
+0 0 11065
+S
+#11065
+Parallel West and Forest Avenue~
+The two southern corners barely hold back the vast expanse of the city's
+park. The northern sides contain a lesser amount of trees and extend
+upwards forming small hills. Parallel West continues north and south.
+To the east and west is Forest Road.
+~
+0 0 1
+D0
+~
+~
+0 0 11067
+D1
+~
+~
+0 0 11064
+D2
+~
+~
+0 0 11063
+D3
+~
+~
+0 0 11066
+S
+#11066
+Forest Avenue~
+Tremendous trees that have been here for ages reach high into the sky
+to the north and south. Fallen trees block the paths north and south.
+East you can see Parallel West. To the west you see the stone wall of
+the city.
+~
+0 0 1
+D0
+~
+~
+0 0 11299
+D1
+~
+~
+0 0 11065
+D3
+~
+~
+0 0 11086
+S
+#11067
+Parallel West~
+The dirt packed road has been hardened by the travel of many voyagers
+over the years. Even so, dust still seems to rise from it. Small hills
+sit on the east and west. Parallel West continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11069
+D2
+~
+~
+0 0 11065
+S
+#11068
+The Stoneroad of the Cathedral~
+An extremely varied collection of stones have been combined here to
+form the roadway. Colorful rocks have been cut and laid in the road to
+form an arrow pointing east. North lies a hill leading up to the stone
+wall surrounding the city. The Stoneroad continues east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11045
+D3
+~
+~
+0 0 11069
+S
+#11069
+The Stoneroad and Parallel West~
+Most intersections of Parallel West give way to the old dirt trail. Not
+so here, The Stoneroad is one of the oldest streets in the city. Stones
+and rocks of every type make up the entire intersection. Parallel West
+lies north and south. The Stoneroad continues east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 11071
+D1
+~
+~
+0 0 11068
+D2
+~
+~
+0 0 11067
+D3
+~
+~
+0 0 11070
+S
+#11070
+The Stoneroad of the Cathedral~
+An innumerable amount of stones have been molded together to form the
+surface of the road. Craftmanship of this sort has been unknown for ages.
+A steep hill lies north, leading up to the stone wall of the city.
+The Stoneroad continues to the east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11069
+D3
+~
+~
+0 0 11076
+S
+#11071
+Parallel West~
+The path is steeper here than at any other point along its route. Beside
+the road hills lead up, north towards the stone wall surrounding the city.
+Parallel West runs north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 11073
+D2
+~
+~
+0 0 11069
+S
+#11072
+Along Grande Route~
+The wall of the town seems minimized by the panoramic view of the town from
+here. This section of Grande Route runs along the uppermost point of the city.
+Directly south is a steep hill. Grande Route runs east and west along the
+wall.
+~
+0 0 1
+D1
+~
+~
+0 0 11041
+D3
+~
+~
+0 0 11073
+S
+#11073
+Along Grande Route~
+The city is quite a sight from here. Directly south is a very steep
+dirt trail known as Parallel West. The immense town wall surrounding
+the city lies directly to the north. Grande Route continues east and
+west.
+~
+0 0 1
+D1
+~
+~
+0 0 11072
+D2
+~
+~
+0 0 11071
+D3
+~
+~
+0 0 11074
+S
+#11074
+Along Grande Route~
+To the south is a downwards sloping hill, untouched for centuries.
+Immediately past the hill you see the great Stoneroad. Beyond that 
+lies the city in all its grandeur. Grande Route continues east and
+west along the wall of the town.
+~
+0 0 1
+D1
+~
+~
+0 0 11073
+D3
+~
+~
+0 0 11075
+S
+#11075
+The Northwest Corner of Grande Route~
+You are at the northwest corner of Grande Route and the stone wall
+surrounding the city. You can travel east along the northern portion
+of the great wall of south down the steep path following the wall.
+~
+0 0 1
+D1
+~
+~
+0 0 11074
+D2
+~
+~
+0 0 11077
+S
+#11076
+The Stoneroad and Grande Route~
+Brilliant shining stones inlaid in darker ones, not only form the road,
+but also an arrow pointing eastward. North lies a steep hill following
+the stone wall upwards. South, the stone wall continues, as does Grande
+Route.
+~
+0 0 4
+D0
+~
+~
+0 0 11077
+D1
+~
+~
+0 0 11070
+D2
+~
+~
+0 0 11087
+S
+#11077
+Along Grande Route~
+You are on a vast hill stretching up and down along Grande Route. On one
+side lies an ancient piece of ground untouched for ages, on the other side
+lies the great wall surrounding the city. Grande Route runs north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 11075
+D2
+~
+~
+0 0 11076
+S
+#11078
+The Southwest Corner of Grande Route~
+The southern and western parts of the stone wall surrounding the city
+meet here. Grande Route continues north and east following the great
+wall.
+~
+0 0 1
+D0
+~
+~
+0 0 11079
+D1
+~
+~
+0 0 11008
+S
+#11079
+Along Grande Route~
+On on side of you is the stone wall of the city, on the other sits
+a large mansion surrounded by green trees and rolling lawns. You can
+travel north or south along Grande Route.
+~
+0 0 1
+D0
+~
+~
+0 0 11080
+D1
+~
+~
+0 0 11313
+D2
+~
+~
+0 0 11078
+S
+#11080
+Grande Route and Manor Road~
+Looking down the brick road to the east, you can see large mansions
+on either side of the street. The stone wall runs north and south here
+as does Grande Route.
+~
+0 0 1
+D0
+~
+~
+0 0 11081
+D1
+~
+~
+0 0 11012
+D2
+~
+~
+0 0 11079
+S
+#11081
+Along Grande Route~
+The tall wall and a small hill sit on opposite sides of the road here.
+To the south you can see the bright brick path of Manor Road. The view
+north shows Grande Route meeting Ravenhurst Road.
+~
+0 0 1
+D0
+~
+~
+0 0 11082
+D2
+~
+~
+0 0 11080
+S
+#11082
+Grande Route and Ravenhurst Road~
+To the east lies the dark path of Ravenhurst Road. It seems to cast
+darkness no matter what hour of the day. The stone wall of the city
+runs north and south with Grande Route following it.
+~
+0 0 1
+D0
+~
+~
+0 0 11083
+D1
+~
+~
+0 0 11019
+D2
+~
+~
+0 0 11081
+S
+#11083
+Along Grande Route~
+Traveling along the great wall, a small field lies off the side of the road.
+To the south lies Ravenhurst Road, north you can see the ancient road of
+Calle de Sants.
+~
+0 0 1
+D0
+~
+~
+0 0 11084
+D2
+~
+~
+0 0 11082
+S
+#11084
+Grande Route and Calle de Sants~
+You are at the midpoint of the stone wall on the western side of the
+city. From here, the wall seems to extend endlessly to the north and
+south. Grande Route continues north and south. To the east lies the
+colorful treelined ancient road known as Calle de Sants.
+~
+0 0 1
+D0
+~
+~
+0 0 11085
+D1
+~
+~
+0 0 11062
+D2
+~
+~
+0 0 11083
+S
+#11085
+Along Grande Route~
+The stone wall of the city is on one side of the road.  A vast forest
+lies on the opposite side.  To the north, the road is surrounded by trees
+and the stone wall.  To the south is the ancient route of Calle de Sants.  A
+doorway is visible towards the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 11086
+D1
+~
+door~
+1 0 16001
+D2
+~
+~
+0 0 11084
+S
+#11086
+Grande Route and Forest Avenue~
+You are travelling along the western part of the great stone wall.
+A small crack in the base of the wall looks big enough to crawl
+through.  To the east you see vast woods on either side of Forest
+Avenue.  The stone wall continues north and south with Grande Route
+at its base.
+~
+0 0 1
+D0
+~
+~
+0 0 11087
+D1
+~
+~
+0 0 11066
+D2
+~
+~
+0 0 11085
+D3
+~
+~
+0 0 5700
+S
+#11087
+Along Grande Route~
+The path along Grande Route is extremely steep here. The stone wall
+is on one side of the road, a very steep hill on the other. Grande Route
+continues north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 11076
+D2
+~
+~
+0 0 11086
+S
+#11088
+Along Grande Route~
+The building to the north is extravagant in design. It appears to be
+unused at the moment. The door to it is hidden behind some overgrown vines.
+Grande Route continues east and west along the wall.
+~
+0 0 1
+D1
+~
+~
+0 0 11089
+D3
+~
+~
+0 0 11007
+S
+#11089
+Grande Route and Parallel East~
+You are at the southernmost point of the dirt path known as Parallel East.
+Although it is dirt, centuries of travellers have trodden the route into
+hard road. The huge stone wall continues east and west with Grande Route
+below it.
+~
+0 0 1
+D0
+~
+~
+0 0 11093
+D1
+~
+~
+0 0 11090
+D3
+~
+~
+0 0 11088
+S
+#11090
+Along Grande Route~
+A large architectural wonder sits to the north. Ancient stone has been
+shaped into a variety of statues on the face of the structure. The stone
+wall surrounding the town runs east and west along Grande Route.
+~
+0 0 1
+D1
+~
+~
+0 0 11091
+D3
+~
+~
+0 0 11089
+S
+#11091
+The Southeast Corner of Grande Route~
+You are at the juncture where the eastern and southern walls meet. Stone
+and mortar combine to reach high into the sky. Grande Route follows the wall
+north and west.
+~
+0 0 1
+D0
+~
+~
+0 0 11092
+D3
+~
+~
+0 0 11090
+S
+#11092
+Along Grande Route~
+There is a large stone building on one side of the road and the huge
+wall on the other. There appears to be no entrance to the building from
+here. Grande Route follows the stone wall north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11096
+D2
+~
+~
+0 0 11091
+S
+#11093
+Parallel East~
+Wide field grains drift back and forth to the east and west of the
+road. To the south, you can see the huge stone wall of the town. North
+lies Manor Road.
+~
+0 0 1
+D0
+~
+~
+0 0 11095
+D1
+~
+~
+0 0 11296
+D2
+~
+~
+0 0 11089
+S
+#11094
+Manor Road~
+Large stone homes are set back behind trees and high upon the hills to the
+north and south. Even from this distance, the age and detail of the structures
+shows a workmanship long lost. Manor Road continues east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11095
+D3
+~
+~
+0 0 11015
+S
+#11095
+Parallel East and Manor Road~
+Large structures rest atop the hills on the four corners surrounding the
+intersection. The newer path of Manor Road is broken here to give way to
+the aged dirt trail of Parallel East. Manor Road lies east and west. To
+the north and south, Parallel East continues.
+~
+0 0 1
+D0
+~
+~
+0 0 11098
+D1
+~
+~
+0 0 11097
+D2
+~
+~
+0 0 11093
+D3
+~
+~
+0 0 11094
+S
+#11096
+Grande Route and Manor Road~
+The stone wall of the city towers above all here. East lies the path
+known as Manor Road. Grande Route trails the wall to the north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11099
+D2
+~
+~
+0 0 11092
+D3
+~
+~
+0 0 11097
+S
+#11097
+Manor Road~
+Huge vacant hills, covered with flowers and shrubs, are to the north
+and south. An excellent place to build. Manor Road continues to the east
+and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11096
+D3
+~
+~
+0 0 11095
+S
+#11098
+Parallel East~
+Wide plains, barren of any growth, sit on either side of the road. Beyond
+the fields, brush filled hills grow from the valley. To the north, you can
+see the intersection of Parallel East and Ravenhurst Road. South lies the
+intersection of Parallel East and Manor Road.
+~
+0 0 1
+D0
+~
+~
+0 0 11101
+D2
+~
+~
+0 0 11095
+M 10 H 100
+S
+#11099
+Along Grande Route~
+On one side of the road are dark ominous hills, on the other is the
+giant wall which surrounds Stoneridge. The only viable path is to the 
+north or south along Grande Route.
+~
+0 0 1
+D0
+~
+~
+0 0 11100
+D2
+~
+~
+0 0 11096
+S
+#11100
+Grande Route and Ravenhurst Road~
+The dark path of Ravenhurst Road lies to the west. In the distance,
+mansions loom ominously over the roadway. The huge stone wall rises high
+above to the north and south, Grande Route follows the wall.
+~
+0 0 1
+D0
+~
+~
+0 0 11107
+D2
+~
+~
+0 0 11099
+D3
+~
+~
+0 0 11102
+S
+#11101
+Parallel East and Ravenhurst Road~
+To the west, the dark mansions of Ravenhurst Road can be seen. To
+the east, along the black path, barren hills skirt the road. Parallel
+East continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11105
+D1
+~
+~
+0 0 11102
+D2
+~
+~
+0 0 11098
+D3
+~
+~
+0 0 11103
+S
+#11102
+Ravenhurst Road~
+Barren hills, dark as night, lie to the north and south of the road.
+Not even weeds grow by the roadside. This place is lifeless. The black
+path continues east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11100
+D3
+~
+~
+0 0 11101
+M 70 H 70
+S
+#11103
+Ravenhurst Road~
+Grim looking houses sit behind dark shrubs and trees, the homes are almost
+hidden from view. To the east lies the Parallel. The dark path of Ravenhurst
+continues west.
+~
+0 0 1
+D1
+~
+~
+0 0 11101
+D3
+~
+~
+0 0 11021
+S
+#11104
+Calle De Sants~
+Colorful flowers and small trees line the side of the road. Beyond the
+rows of flowers, to the north, lies an old building, the sign above its
+doorway reads, "The Black Fox". To the south lies a building under
+construction. Called de Sants continues east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 11143
+D1
+~
+~
+0 0 11106
+D3
+~
+~
+0 0 11029
+S
+#11105
+Parallel East~
+Long rolling fields stretch as far as the eye can see to the east and
+west. Dust rises off the hard packed dirt trail. Parallel East continues
+to the north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11106
+D2
+~
+~
+0 0 11101
+S
+#11106
+Calle de Sants and Parallel East~
+The dirt trail of Parallel East gives way to the aged cobblestone path of
+Calle de Sants at this intersection. To the east and west, colorful flowers
+and trees line the route of Calle de Sants. Parallel East continues north
+and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11112
+D1
+~
+~
+0 0 11109
+D2
+~
+~
+0 0 11105
+D3
+~
+~
+0 0 11104
+S
+#11107
+Along Grande Route~
+Three small hills surround a small valley on one side of the roadway. The
+stone wall of the town rises high on the other. The wall continues to the
+north and south with Grande Route at its base.
+~
+0 0 1
+D0
+~
+~
+0 0 11108
+D2
+~
+~
+0 0 11100
+S
+#11108
+Calle de Sants and Grande Route~
+The ancient cobblestone path of Calle de Sants begins here and leads
+west. Although it is centuries old, it is still in excellent condition.
+Spots of newer stones laid to repair the route are visible here and there.
+Grande Route continues to the north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11110
+D2
+~
+~
+0 0 11107
+D3
+~
+~
+0 0 11109
+S
+#11109
+Calle de Sants~
+Flowers of every variety imaginable cover the hills north and south of
+the street. Trimmed green grass seperates the edge of the road from the
+bottom of the hills. To the west is the intersection of Calle de Sants and
+Parallel East. Looking east, the wall of the city rises up.
+~
+0 0 1
+D1
+~
+~
+0 0 11108
+D3
+~
+~
+0 0 11106
+S
+#11110
+Along Grande Route~
+The stone wall of the city reaches high into the sky on one side of the
+road. A vast forest of century old trees sits on the opposite side. Grande
+Route continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11111
+D2
+~
+~
+0 0 11108
+S
+#11111
+Grande Route and Forest Avenue~
+The vast expanse of the town's park can be seen on either side of the
+road leading west. The amount of trees are more than the eye can count.
+Grande Route follows the stone wall north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11120
+D2
+~
+~
+0 0 11110
+D3
+~
+~
+0 0 11115
+S
+#11112
+Parallel East~
+To the east and west of the dirt trail, you see an endless amount of trees.
+They represent a portion of the town's park. The aged dirt trail of Parallel
+East runs north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11113
+D2
+~
+~
+0 0 11106
+S
+#11113
+Parallel East and Forest Avenue~
+Massive forests edge the four corners of the intersection. To the
+east and west, Forest Avenue continues through the city's greenbelt.
+The dirt trail of Parallel East continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11121
+D1
+~
+~
+0 0 11115
+D2
+~
+~
+0 0 11112
+D3
+~
+~
+0 0 11114
+S
+#11114
+Forest Avenue~
+The ground to the north slopes upward sharply and is covered with trees.
+To the south, on much flatter ground, lies an uncountable number of ancient
+woods. Parallel East can be seen eastward. Forest Avenue continues east and
+west.
+~
+0 0 1
+D1
+~
+~
+0 0 11113
+D3
+~
+~
+0 0 11035
+S
+#11115
+Forest Avenue~
+Massive trees line the hilltop to the north and the flatlands to the south.
+Small forest creatures can be seen peering out at the roadway from behind
+many of the trees. Forest Avenue cuts through the park to the east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11111
+D3
+~
+~
+0 0 11113
+S
+#11116
+Along Grande Route~
+South lies a large hill sloping downwards sharply. It affords a
+spectacular view of the Cathedral, and the entire town as well. The
+stone wall runs east and west here with Grande Route following it.
+~
+0 0 1
+D1
+~
+~
+0 0 11117
+D3
+~
+~
+0 0 11043
+S
+#11117
+Along Grande Route~
+This portion of Grande Route runs along the northern, and uppermost,
+part of the city. From here, most of the town is within view. South a
+steep hill begins the dirt trail known as Parallel East. The stone wall
+continues east and west with Grande Route at its base.
+~
+0 0 4
+D1
+~
+~
+0 0 11118
+D2
+~
+~
+0 0 11123
+D3
+~
+~
+0 0 11116
+S
+#11118
+Along Grande Route~
+Directly south is a steep grass covered downward grade. It leads to a
+small green valley. The view of the town from here is quite astounding.
+Grande Route follow the stone wall to the east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11119
+D3
+~
+~
+0 0 11117
+S
+#11119
+The Northeast Corner of Grande Route~
+This is the northeastern corner of Grande Route and the city. To the west
+and south, Grande Route, and the wall seem to continue endlessly. The stone
+wall rises high above the steep hill leading south and the level path to
+the west.
+~
+0 0 1
+D2
+~
+~
+0 0 11122
+D3
+~
+~
+0 0 11118
+S
+#11120
+Along Grande Route~
+A large group of trees lines one side of the road, which is quite steep
+at this point. To the north, the Stoneroad can be seen. To the south lies
+Forest Avenue.
+~
+0 0 4
+D0
+~
+~
+0 0 11124
+D2
+~
+~
+0 0 11111
+S
+#11121
+Parallel East~
+Large aged trees cover the hills to the east and west of the road. The
+forests on both sides of the roadway are quite dense here. To the north
+lies the Stoneroad of the Cathedral. To the south, Forest Avenue cut its
+way through the park.
+~
+0 0 1
+D0
+~
+~
+0 0 11126
+D2
+~
+~
+0 0 11113
+S
+#11122
+Along Grande Route~
+The incline of the road here is extremely steep. A large hill is on one
+side of the road and the huge stone wall of the city on the other. Grande
+Route follows the stone wall north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 11119
+D2
+~
+~
+0 0 11124
+S
+#11123
+Parallel East~
+Steep hills are on both sides of the road here. There is a fine view of
+the Cathedral from this position. The Stoneroad of the Cathedral can be
+seen to the south. Looking north, the stone wall surrounding the town can
+be seen.
+~
+0 0 4
+D0
+~
+~
+0 0 11117
+D2
+~
+~
+0 0 11126
+S
+#11124
+The Stoneroad and Grande Route~
+The natural steep incline of the hill has been somewhat leveled here to
+form the eastern end of the grand Stoneroad. Stones of every shape, size
+and color have been molded together, using a long lost art, to form the
+road which leads west. The stone wall continues north and south along the
+steep hill with Grande Route following it.
+~
+0 0 4
+D0
+~
+~
+0 0 11122
+D2
+~
+~
+0 0 11120
+D3
+~
+~
+0 0 11125
+S
+#11125
+The Stoneroad of the Cathedral~
+To the north lies a gentle green valley at the base of a steep hill. To
+the south, large trees line the roadway. Beyond the treeline, you can
+see a vast forest which comprises a portion of the city's park. This
+part of the Stoneroad is made up of large granite slabs, inlaid with 
+white stones forming an arrow pointing to the west. The Stoneroad runs
+east and west from here.
+~
+0 0 1
+D1
+~
+~
+0 0 11124
+D3
+~
+~
+0 0 11126
+S
+#11126
+The Stoneroad and Parallel East~
+The architectural wonder of the Cathedral can be seen to the west. The
+road here is made up of an innumerable amount of stones. The Stoneroad
+has superceded Parallel East at this point. Parallel East lies to the
+north and south. The Stoneroad continues east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 11123
+D1
+~
+~
+0 0 11125
+D2
+~
+~
+0 0 11121
+D3
+~
+~
+0 0 11127
+S
+#11127
+The Stoneroad of the Cathedral~
+Squares of dark marble have been laid end to end here to form the
+road. To the north, you see the steps to the Cathedral and then the
+Cathedral itself. The splendor and detail of its architecture causes
+even the most weathered of travellers to stare in awe. The road made
+of stones continues to the east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 11134
+D1
+~
+~
+0 0 11126
+D2
+~
+~
+1 0 11308
+D3
+~
+~
+0 0 11047
+S
+#11128
+The King's Arms Welcome Room~
+Bright colors adorn the stone walls of the welcome room. Vivid paintings
+hang in various places around the room. The exit of the tavern is south. To
+the north a huge doorway leads to the main hall. A staircase covered with 
+a maroon carpet leads up to the reception room.
+~
+0 8 0
+D0
+~
+~
+0 0 11129
+D2
+~
+~
+0 0 11060
+D4
+~
+~
+0 0 11130
+S
+#11129
+The King's Arms Main Hall~
+Large wooden beams stretch across the ceiling of this huge room from
+wall to wall. The stone walls of this smoke filled room are decorated with
+many faded tapestries and a wide assortment of coats of arms. On the wall
+behind the bar is a large regal coat of arms. The only exit from here lies
+south.
+~
+0 8 0
+E
+coat~
+It's a very colorful coat of arms. It could only belong to a king.
+~
+D2
+~
+~
+0 0 11128
+S
+#11130
+The King's Arms Reception Room~
+The reception room is where guests attending functions can get a bit of air
+or wait for the affair to begin. Large leadened windows look out over Calle
+de Sants. On the north side of the room, large golden doors are framed by an
+ornate mahogany doorway. There is a SIGN framed to the left of the doorway.
+A stairway leads down to the welcome room of the tavern.
+~
+0 8 0
+E
+sign~
+North lies the Grand Ballroom.
+          Know all who enter it, that no
+          violence is permitted within it.
+          For here is where we celebrate life.
+ 
+ 
+~
+D5
+~
+~
+0 0 11128
+S
+#11131
+The Grand Ballroom~
+The Grand Ballroom is tremendous. On one wall hangs a beautiful tapestry.
+The other walls, made of stone, sparkle and shine from the crystals imbedded
+within them. In the center of the room is a large dancefloor made of oak.
+From the ceiling hands a beautiful chandelier made from diamonds. It holds
+what seems like a thousand candles which provide enough light to make the
+room seem to always be in daylight.
+~
+0 269485324 0
+E
+tapestry~
+This colorfully detailed tapestry depicts a scene from ages long gone.
+Bosco is seated at a table surrounded by his children. They appear to be
+celebrating. The children and Bosco all are smiling and seem at peace.
+~
+S
+#11132
+Entrance to The Laughing Mage~
+Candles line the walls and tables here, the smell of incense is strong.
+Heavy velvet curtains drape the walls, framing the candles set into the walls.
+North, you can see the busy avenue of Calle de Sants. South leads further
+into the pub.
+~
+0 8 0
+D0
+~
+~
+0 0 11060
+D2
+~
+~
+0 0 11133
+S
+#11133
+The Laughing Mage~
+Small tables appear to be suspended in mid air. The room is cloaked in
+darkness. The walls are lined with various items of magic which also seem
+to be suspended in air. The smell of incense is quite heavy here. You can
+see light to the north.
+~
+0 9 0
+D0
+~
+~
+0 0 11132
+D5
+~
+~
+1 0 11150
+S
+#11134
+The Steps of the Cathedral~
+Massive steps made of stone lead up to the front of the Cathedral. Tall
+spiked iron fences line the sides of the steps and the perimeter of the
+Cathedral. To the south, lies the Stoneroad.
+~
+0 0 1
+D2
+~
+~
+0 0 11127
+D4
+~
+~
+0 0 11135
+S
+#11135
+Before the Cathedral~
+You are before the architectural wonder known as the Cathedral. Built of
+ancient stone, not found in the world today, the structure is enormous.
+Large stone statues in the form of gargoyles glare down ominously from the
+facade of the building. The spires of the Cathedral reach high into the sky.
+Stone carvings, depicting Bosco and his children before and after the fall,
+frame the huge wood and black iron doors to the north. The steps of the
+Cathedral are down.
+~
+0 0 1
+D0
+~
+door~
+1 0 11158
+D5
+~
+~
+0 0 11134
+S
+#11136
+Lonnigan's~
+Weapons of almost every type can be found here. The walls are filled
+with many different varieties both new and used. On the wall behind
+Lonnigan, antique blades and swords, centuries old, can be seen.
+~
+0 8 0
+D0
+~
+~
+0 0 11028
+S
+#11137
+Ailee's Armory~
+Armor of all types are hanging on the walls of the shop. On the wall behind
+Ailee hang shields which date back to the origin of the city itself.
+~
+0 8 0
+D0
+~
+~
+0 0 11026
+S
+#11138
+Entrance hall to the embassy.~
+You stand before the entrance to the High Embassy of the Lands of
+Palankcaren.  The building is more like a castle.  {WA marble statue of
+{BHELP{W's founders stands here, greeting all who enter.  {x To the west, it
+towers above you, with a moat encircling it.  Fortunately the drawbridge is
+down.  It has a very large tower that you can see climbing up to the sky. 
+There is an east and west wing, containing various rooms and offices.  Above
+you is a giant portal, probably back to Palankcaren, although you can't be
+certain.  To the south, there is a shrine to the Goddess of Litazia.  The
+shrine is not actually part of the Embassy, but is a pleasant attraction to
+visit none the less.  
+~
+0 805306380 0
+E
+statue~
+{WThis is a statue of {BHELP{W's founders - {RA{rvacar,{R C{rid and
+{RI{rtay{x
+~
+E
+plaque~
+High Lord - Kimi - Mage
+          Head Steward - Avacar - Mage
+          Grand Warrior - Itay
+          Grand Mage - Cid
+          Lady Mage - Nica
+          Grand Cleric - Argos
+          Grand Druid - Arven
+          Grand Conjurer - Brightblade
+          Mage - Siegfried
+~
+D1
+~
+~
+0 0 11009
+D2
+~
+~
+0 0 11273
+D3
+~
+~
+0 0 11139
+D4
+~
+~
+0 0 11240
+S
+#11139
+Entrance hall to the embassy.~
+You quickly discover that Palankcarians aren't cheap with their
+embassies.  You stand in the entrance hall to the embassy.  There are large
+pillars, made of pure gold supporting the buildings structure, with large,
+stained glass windows at various intervals.  On one wall is a large map of
+Palankcaren.  There are many small desks and tables lining this hall, with
+secritaries and other social workers ready to do you biding on behalf of the
+embassy.  To the west is a large staircase mounting up to a door marked
+'Private.  ' That is obviously the true embassy, where only the ambassadors
+may enter.  The room slopes slightly toward the northern exit, where to
+large double doors lead into the Party Hall.  
+~
+0 805306380 0
+D0
+~
+~
+0 0 11140
+D1
+~
+~
+0 0 11138
+D3
+~
+~
+0 0 11240
+S
+#11140
+The Party Hall.~
+From the south exit of this room, there is a large staircase, which
+splits and spirals down on both sides, down into the Party Hall.  This is
+the largest room you have seen yet.  It could entertain thousands.  There
+are large glass chandeliers hanging down from the ceiling, illuminating the
+hall.  The walls have very large windows, with velvet curtains in front.  In
+the far corner of the room, you can make out a small bar, with a barmaid to
+serve you.  The centre of the floor has tables at one end, and a very large
+dance floor on the other.  The hall would be perfect for anything from
+weddings to Masquerade balls.  
+~
+0 805306380 0
+D2
+~
+~
+0 0 11139
+M 100 H 250
+S
+#11141
+High in the tower.~
+Now much higher up, you begin to feel light headed in the lower oxygen
+content.  This is the meeting chamber of the Tribunal, where the energy of
+the focus point below is concentrated so as to make it easiest to open a
+portal back to Palankcaren.  There is a balcony on the eastern side of the
+room, looking down over the gates and moat.  There are small windows on the
+other sides, letting light in.  Upon the walls are pictures of the various
+Ambassadors.  The spiral staircase that led you here continues higher,
+climbing up into the Great Portal itself.  
+~
+0 268435468 0
+D4
+~
+~
+0 0 16027
+D5
+~
+~
+0 0 11240
+M 250 H 100
+S
+#11142
+Raif's Magic Shop~
+Large shelves fill the back wall of the shop from floor to ceiling. A
+large movable ladder is attached to the woodwork. The shelves are filled
+with an abundance of magical items, many covered in dust.
+~
+0 8 0
+D2
+~
+~
+0 0 11029
+S
+#11143
+Entrance to The Black Fox~
+This is the entrance to the tavern known as The Black Fox. Sawdust covers
+the stone floor. To the south, two small leadened windows sit on either side
+of the doorway leading to the street. There is an open door leading north
+to the courtyard.
+~
+0 8 0
+D0
+~
+~
+1 0 11144
+D2
+~
+~
+0 0 11104
+S
+#11144
+The Courtyard of The Black Fox~
+A carpet-like green lawn covers the floor of the courtyard. The large stone
+walls of the tavern enclose all sides except for above. The doorway south
+leads to the entrance of the tavern. Doors east and west lead to the heart
+of The Black Fox.
+~
+0 0 1
+D1
+~
+~
+1 0 11149
+D2
+~
+~
+1 0 11143
+D3
+~
+~
+1 0 11145
+S
+#11145
+The Black Fox~
+Pleasant smells of roasting food fill the room. The friendly banter of
+patrons can be heard to the north. Sawdust covers the stone floor. West leads
+to the courtyard. A doorway framed with heavy dark beams is to the north.
+~
+0 8 0
+D0
+~
+~
+0 0 11146
+D1
+~
+~
+1 0 11144
+S
+#11146
+The Black Fox~
+Large dark beams line the ceiling. The ever present sawdust covers the
+floor. Although the room is smoke filled, the aroma of the taverns fare is
+strong here. 
+~
+0 8 0
+D1
+~
+~
+0 0 11147
+D2
+~
+~
+0 0 11145
+S
+#11147
+The Black Fox~
+The tasty aromas are stongest here. Meats, of all sorts, turn on spits
+in the fireplace. There are also pots full of vegetables in the hearth. To
+the south, a window looks out into the courtyard. The tavern continues east
+and west.
+~
+0 8 0
+E
+window~
+You see the green grass of the courtyard.
+~
+E
+fireplace~
+Delicious looking meats turn on spits over a low fire.
+Small pots of vegetables cook next to the spits.
+~
+E
+hearth~
+Pots of vegetables cook beside meats turning on spits.
+~
+D1
+~
+~
+0 0 11148
+D3
+~
+~
+0 0 11146
+S
+#11148
+The Black Fox~
+Sturdy wooden beams run across the ceiling here. The north wall is covered
+with the petrified heads of a variety of beasties. The doorway south is framed
+with the same wooden beams which line the ceiling. East you can see a
+fireplace.
+~
+0 8 0
+E
+wall~
+The head of a minotaur is mounted on a plaque.
+The head of a mutant fido is mounted on a plaque.
+The head of a bat is mounted on a plaque!
+Various heads of drow are mounted on a big plaque.
+Many heads of creatures from hell are mounted on plaques.
+The heads go on and on!
+~
+D2
+~
+~
+0 0 11149
+D3
+~
+~
+0 0 11147
+S
+#11149
+The Black Fox~
+Tall dark beams frame a path to the north. Sawdust covers the floor here.
+The room is filled with smoke, but you can detect the aroma of various foods
+cooking. The doorway west leads to the courtyard.
+~
+0 8 0
+D0
+~
+~
+0 0 11148
+D3
+~
+~
+1 0 11144
+S
+#11150
+Beneath the Laughing Mage~
+Cobwebs fill the corners and the air is damp and musky. Pipes run along
+all walls leading up to the bar and down to the unknown. The floor above
+is creaking.
+~
+0 9 0
+D0
+~
+~
+0 0 11151
+D4
+~
+~
+1 0 11133
+S
+#11151
+Beneath the Laughing Mage~
+The stone walls of this cellar sweat with moisture. In addition to the
+water, a strange mold covers portions of the walls. A large puddle has
+formed in the center of the room.
+~
+0 9 0
+E
+puddle~
+There is a lot of water in here!
+~
+E
+mold~
+It is green and very disgusting!
+~
+D2
+~
+~
+0 0 11150
+S
+#11152
+The Blue Diamond~
+A quiet little shop, the sounds of the street can hardly be heard here.
+Paintings in gold gilded frames hang on the walls. There is a small wooden
+case with a glass top displaying the gems of the shop.
+~
+0 8 0
+E
+diamond~
+The blue diamond sparkles and shines from the pendant around Darlana's neck.
+~
+E
+blue~
+A beautiful pendant around Darlana's neck holds a blue diamond.
+~
+E
+case~
+Gems and jewels of all colors sparkle before your eyes.
+~
+E
+painting~
+It's an exquisite work of art!
+~
+D2
+~
+~
+0 0 11026
+S
+#11153
+Tragar's Potion Shop~
+Bottles and vials of all sorts line the oaken shelves behind Tragar.
+Some have labels, some do not, many are covered with dust and cobwebs.
+While the building is extremely old, it is in fine condition.
+~
+0 8 0
+D2
+~
+~
+0 0 11062
+S
+#11154
+A dirt path~
+Rolling green fields surround the path. Field bushes line the road here.
+Dust rises from the aged road, filling the air around. A small animal
+scurries off the road into the brush. The path continues to the north and
+to the west.
+~
+0 0 2
+D0
+~
+~
+0 0 11000
+D3
+~
+~
+0 0 11166
+S
+#11155
+A dirt path~
+North lies a large field of wild greens. To the west, a vast forest blocks
+all entry. The well trodden dirt path continues east and south.
+~
+0 0 2
+D1
+~
+~
+0 0 11166
+D2
+~
+~
+0 0 11156
+S
+#11156
+A dusty path~
+This dirt path has been beaten down into hard road over the years. Even
+so, dust still seems to rise from it, no matter what the weather. To the
+east lies barren land. To the west, a vast impenetrable forest. The trail
+continues north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 11155
+D2
+~
+~
+0 0 11157
+S
+#11157
+A dusty trail~
+The well trodden dirt path to the north seems to extend endlessly. Vast
+wastelands lie on either side of the road. To the south you can see the oft
+travelled Eastern Road.
+~
+0 0 2
+D0
+~
+~
+0 0 11156
+D2
+~
+~
+0 0 3528
+S
+#11158
+The Entrance Hall of the Cathedral~
+Aged, but colorful, murals cover the ceiling. Huge stone pillars line the
+entrance hall. The main section of the Cathedral is to the north. South are
+the huge doors of the Cathedral. The Entrance Hall continues east and west.
+~
+0 8 0
+D0
+~
+~
+0 0 11168
+D1
+~
+~
+0 0 11160
+D2
+~
+door~
+1 0 11135
+D3
+~
+~
+0 0 11159
+X wav/bosco.wav~
+S
+#11159
+The Entrance Hall of the Cathedral~
+Colorful murals line the wall and ceiling. Large stone pillars support
+the enormous weight of the Cathedral. To the north, you see endless rows
+of wooden pews. The Entrance Hall continues east.
+~
+0 8 0
+D0
+~
+~
+0 0 11169
+D1
+~
+~
+0 0 11158
+S
+#11160
+The Entrance Hall of the Cathedral~
+Massive stone pillars support the Cathedral here. The ceiling is covered
+with an old, yet vivid, mural. To the north are rows of wooden pews. A small
+wooden door is to the east. The Entrance Hall continues west.
+~
+0 8 0
+D0
+~
+~
+0 0 11170
+D1
+~
+door~
+1 0 11161
+D3
+~
+~
+0 0 11158
+S
+#11161
+Bottom of a Spiral Staircase~
+Small stone steps wind in a circle upwards. The steps are extremely narrow.
+The smooth windowless stone walls rise high above. There is a doorway to the
+west.
+~
+0 9 0
+D3
+~
+door~
+1 0 11160
+D4
+~
+~
+0 0 11163
+S
+#11162
+A Chest of Gold~
+The walls of the room are decorated with ancient currencies no longer in
+use. There is a curtain behind Jenna leading to a back room. You can hear
+voices coming from behind it. Numerous candles throughout the room provide
+more than adequate light.
+~
+0 8 0
+D0
+~
+~
+0 0 11062
+S
+#11163
+Top of a Spiral Staircase~
+A very narrow staircase, made of stone, circles downwards here. The room has
+no natural light due to the fact that the stone walls are without windows.
+There is a door to the west.
+~
+0 9 0
+D3
+~
+door~
+1 0 11164
+D5
+~
+~
+0 0 11161
+S
+#11164
+The Choir Loft~
+Benches made of darkened wood, with tall intricately carved backs, stand
+waiting for the members of the choir. The benches and the loft continue to
+the west. A doorway lies east.
+~
+0 8 0
+D1
+~
+door~
+1 0 11163
+D3
+~
+~
+0 0 11165
+S
+#11165
+The Choir Loft~
+Ornately wood carved benches sit vacant. Their tall backs depict various
+heroes of ancient legend. There is a large stained glass window above the
+bench. The loft continues east and west.
+~
+0 8 0
+D1
+~
+~
+0 0 11164
+D3
+~
+~
+0 0 11167
+S
+#11166
+A dirt path~
+To the north lie rolling green fields. To the south barren land. Small
+field brush line either side of the road here. The path continues east
+and west.
+~
+0 0 2
+D1
+~
+~
+0 0 11154
+D3
+~
+~
+0 0 11155
+S
+#11167
+The Choir Loft~
+A huge pipe organ is standing against the wall. Its large pipes reaching up
+to the tall stone ceiling. The end of the carved choir benches reaches into
+the room. The loft continues east.
+~
+0 8 0
+D1
+~
+~
+0 0 11165
+S
+#11168
+Among the Pews~
+You are near the southernmost point of the Cathedral. Huge stone pillars
+line the south, beyond which lies the entrance hall. Rows of mahogany pews
+stretch to the east and west. A wide aisle is north, between the pews.
+~
+0 8 0
+D0
+~
+~
+0 0 11171
+D1
+~
+~
+0 0 11170
+D2
+~
+~
+0 0 11158
+D3
+~
+~
+0 0 11169
+S
+#11169
+Among the Pews~
+Stone pillars divide the pews from the entrance hall to the south. The
+stone ceiling high above is covered with colorful murals. Directly west,
+the stone wall is covered with small statuettes. 
+~
+0 8 0
+D0
+~
+~
+0 0 11172
+D1
+~
+~
+0 0 11168
+D2
+~
+~
+0 0 11159
+S
+#11170
+Among the Pews~
+Vivid murals cover the stone ceiling high above. The Cathedral is quite
+spacious. Directly south, huge stone pillars seperate the pews from the
+entrance hall. North and west lie an endless amount of pews.
+~
+0 8 0
+D0
+~
+~
+0 0 11173
+D2
+~
+~
+0 0 11160
+D3
+~
+~
+0 0 11168
+S
+#11171
+Among the Pews~
+A large aisle runs north and south, surrounded by carved mahogany pews.
+The stone ceiling is high above, yet the murals on it still show detail,
+even from this distance. The wooden seats go on to the east and west.
+~
+0 8 0
+D0
+~
+~
+0 0 11174
+D1
+~
+~
+0 0 11173
+D2
+~
+~
+0 0 11168
+D3
+~
+~
+0 0 11172
+S
+#11172
+Among the Pews~
+Rows and rows of wooden benches lie north and south. The immense ceiling
+rises high above. Directly east is a large aisle, across from it are more
+wooden pews.
+~
+0 8 0
+D0
+~
+~
+0 0 11175
+D1
+~
+~
+0 0 11171
+D2
+~
+~
+0 0 11169
+S
+#11173
+Among the Pews~
+Carved wooden pews continue to the north and south almost endlessly.
+The stone wall east is covered with stone statuettes depicting various
+heroes of ages gone by. To the west, a great aisle seperates the rows of
+pews.
+~
+0 8 0
+D0
+~
+~
+0 0 11176
+D2
+~
+~
+0 0 11170
+D3
+~
+~
+0 0 11171
+S
+#11174
+Among the Pews~
+Rows of carved dark wooden pews are to the left and right of a large aisle.
+The benches continue to the east and west. The aisle divides the benches to
+the south. To the north, you can see the main altar area.
+~
+0 8 0
+D0
+~
+~
+0 0 11179
+D1
+~
+~
+0 0 11176
+D2
+~
+~
+0 0 11171
+D3
+~
+~
+0 0 11175
+S
+#11175
+Among the Pews~
+You are in the midst of innumerable rows of dark wooden pews. The altar
+area is visible to the north, but cannot be reached from here as the path
+is blocked by a large wooden railing and numerous candlestands. To the east,
+a large aisle divides the rows of pews. To the west, you can see the Alcove
+of Hope. Rows of pews continue southward.
+~
+0 8 0
+D1
+~
+~
+0 0 11174
+D2
+~
+~
+0 0 11172
+D3
+~
+~
+0 0 11177
+S
+#11176
+Among the Pews~
+The altar area is to the north.  It cannot be reached from here for the
+route is blocked by a large wooden railing.  The rows of wooden benches
+continue to the south.  To the west, a large aisle seperates the pews.  
+~
+0 8 0
+D2
+~
+~
+0 0 11173
+D3
+~
+~
+0 0 11174
+S
+#11177
+The Alcove of Hope~
+Murals line the entire curved surface of the alcove. They depict Bosco and
+his children, in various events, before and after the fall. The Alcove was
+added to the Cathedral after the fall, by those who hoped and prayed for
+peace in the world.
+~
+0 8 0
+D1
+~
+~
+0 0 11175
+S
+#11178
+The Wedding Chapel~
+Banners made of flowers line the borders of the ceiling. The walls of
+the chapel have been painted with bright colors. Colorful satins hang
+throughout the room. Beautiful, huge flower arrangements are everywhere.
+~
+0 269485324 0
+S
+#11179
+The Altar~
+The stone walls are covered with plaster here, which has been painted with
+vivid murals. The ceiling here is higher than at any point in the Cathedral.
+On the north wall, high above, is a huge stained glass window. The pews of
+the Cathedral lie south. East and west the altar area continues.
+~
+0 8 0
+D1
+~
+~
+0 0 11180
+D2
+~
+~
+0 0 11174
+D3
+~
+~
+0 0 11181
+S
+#11180
+East Side of The Altar~
+You are east of the main altar. To the south lie candlestands and various
+ornaments of the Cathedral, beyond which you can see the rows of wooden 
+benches leading to the rear of the Cathedral.
+~
+0 8 0
+D1
+~
+door~
+1 0 11184
+D3
+~
+~
+0 0 11179
+S
+#11181
+West Side of The Altar~
+The north wall is plastered over and covered with colorful murals. There
+is a large wooden rail to the south, which makes that route unusable. Beyond
+the rail, you can see rows of dark wooden pews that fill the Cathedral.
+~
+0 8 0
+D1
+~
+~
+0 0 11179
+D3
+~
+door~
+1 0 11182
+S
+#11182
+The Sacristy~
+Candles of all shapes and sizes line one wall. Another wall is covered
+with bottles of wine and vials of incense. Books, with bright colorful
+covers guilded in gold, fill yet another wall. There is a doorway to the
+east.
+~
+0 8 0
+D1
+~
+door~
+1 0 11181
+D5
+~
+trap~
+1 11085 11183
+S
+#11183
+A Storage Room~
+Crates and cartons of various shapes and sizes clutter the room. Some contain
+candles, others hold objects used bt the keepers of the Cathedral. The only
+exit appears to be through the trap door above.
+~
+0 8 0
+D4
+~
+trap~
+1 11085 11182
+S
+#11184
+The Base of The Bell Tower~
+The stone walls surrounding you rise high above. It is not possible to
+see the top of the tower from here. Long ropes hang down in the center of
+the room. There is a ladder along one wall leading up.
+~
+0 8 0
+D3
+~
+door~
+1 0 11180
+D4
+~
+~
+0 0 11185
+S
+#11185
+In the Bell Tower~
+Smooth stone walls run up and down here. Ropes hang from up above to down
+below. A ladder on the wall continues up and down.
+~
+0 8 4
+D4
+~
+~
+0 0 11186
+D5
+~
+~
+0 0 11184
+S
+#11186
+In the Bell Tower~
+A metal ladder is built into one wall. Thick ropes lead from the bells high
+above to down below. Neither the top of the tower nor the bottom can be seen
+from here. The ladder continues up and down.
+~
+0 8 4
+D4
+~
+~
+0 0 11187
+D5
+~
+~
+0 0 11185
+S
+#11187
+The Bell Tower Landing~
+A wooden landing has been built around the perimeter of the stone walls. A
+large open square has been left in the center to allow the thick ropes to run
+up and down. There is a metal ladder attached to one wall leading down.
+~
+0 8 2
+D2
+~
+door~
+2 11080 11190
+D3
+~
+door~
+2 11080 11203
+D4
+~
+~
+0 0 11188
+D5
+~
+~
+0 0 11186
+S
+#11188
+In The Bell Tower~
+Smooth stone walls rise up and down here. Thick hemp ropes lead up to
+the bells and down the tower. Directly below, you can see the Bell Tower
+landing. Above, you can see the bells.
+~
+0 8 9
+D4
+~
+~
+0 0 11189
+D5
+~
+~
+0 0 11187
+S
+#11189
+By the Bells~
+Large openings have been built into the stone walls here, allowing the toll
+of the bells to be heard throughout the town. The space is quite cramped due to
+the enormous size of the bells.
+~
+0 8 9
+D5
+~
+~
+0 0 11188
+S
+#11190
+The Stone Catwalk~
+You are on a narrow stone catwalk high above the ground. The roof of the
+Cathedral lies on one side, massive stone gargoyles on the other. The catwalk
+continues to the south.
+~
+0 0 1
+D0
+~
+door~
+2 0 11187
+D2
+~
+~
+0 0 11191
+S
+#11191
+The Stone Catwalk~
+A narrow path of stone runs to the north and south. The view of the city
+from here is spectacular. The Eastern Road southwest of the Grand Gates can
+even be seen in the distance. The roof of the Cathedral slopes upwards on one
+side of the catwalk, large stone gargoyles line the other.
+~
+0 0 1
+D0
+~
+~
+0 0 11190
+D2
+~
+~
+0 0 11192
+S
+#11192
+The Stone Catwalk~
+The tiled roof of the Cathedral slopes up on one side of the catwalk,
+large stone gargoyles stare down at the ground on the other. The narrow
+stone path continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11191
+D2
+~
+~
+0 0 11193
+S
+#11193
+The Stone Catwalk~
+The southern and eastern corners of the top of the Cathedral meet here. The
+massive roof continues rising above the catwalk. Large gargoyles line the outer
+perimeter. One larger than the others sits facing outward on the corner.
+~
+0 0 1
+D0
+~
+~
+0 0 11192
+D3
+~
+~
+0 0 11194
+S
+#11194
+The Stone Catwalk~
+Large statues of heroes of legend, as well as gargoyles, line the southern
+perimeter of the catwalk. The northern side has the roof of the Cathedral
+slanting upwards towards its peak. The catwalk continues to the east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11193
+D3
+~
+~
+0 0 11195
+S
+#11195
+The Stone Catwalk~
+The roof of the Cathedral reaches its apex high above you to the north. To
+the south the entire city and lands beyond can be seen. Stone gargoyles and
+other statues are on the southern side. The narrow stone path continues to
+the east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11194
+D3
+~
+~
+0 0 11196
+S
+#11196
+The Stone Catwalk~
+The southern and western parts of the catwalk meet here. The path is quite
+narrow. There are stone statues on both exterior perimeters. A large stone
+gargoyle, larger than the others, rests on the corner looking outwards. The
+catwalk continues north and east.
+~
+0 0 1
+D0
+~
+~
+0 0 11197
+D1
+~
+~
+0 0 11195
+S
+#11197
+The Stone Catwalk~
+To the east, the tiled roof of the Cathedral slopes upwards to it peak.
+Looking west, the western half of the city is all within sight, especially
+the great park. The catwalk continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11198
+D2
+~
+~
+0 0 11196
+S
+#11198
+The Stone Catwalk~
+Frozen gargoyles of stone glare down at the ground on one side, the roof of
+the Cathedral slopes of the other. Beyond the gargoyles, the entire west of
+the city can be seen. The narrow path continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11200
+D2
+~
+~
+0 0 11197
+S
+#11199
+The Recovery Room~
+Ornately detailed beams line the ceiling. The beams continue down the
+sidewalls. Candles, set in iron wrought holders throughout the room, give
+off a soft light. There is gentle music drifting through the room, but its
+source is undetectable. There is a large portrait behind the bar and a 
+picture on one of the walls.
+~
+0 268476428 0
+O grog galad daisy delstar~
+E
+picture~
+The immortal Galad has finally been captured in paint! He is wearing
+his finest dress uniform, and is flocked by a numerous amount of young
+maidens who gaze at him dreamily. 
+~
+E
+portrait~
+A colorful portrayal of Daisy and Delstar is framed in solid gold.
+A lord and lady, regal in manner and deed. Smoopiedom at its finest.
+~
+M 500 H 500
+S
+#11200
+The Stone Catwalk~
+Stone gargoyles, frozen forever in time, stare down at the ground along
+one side of the catwalk. The huge dome of the Cathedral rises up upon the
+other. The catwalk runs north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11201
+D2
+~
+~
+0 0 11198
+S
+#11201
+The Stone Catwalk~
+The western and northern routes of the catwalk meet here. To the north, the
+western spire of the Cathedral towers high. Stone statues of gargloyles line the
+western perimeter of the catwalk. The narrow path continues south and east.
+~
+0 0 1
+D0
+~
+spire~
+1 0 11220
+D1
+~
+~
+0 0 11202
+D2
+~
+~
+0 0 11200
+S
+#11202
+The Stone Catwalk~
+You are on the northern side of the Cathedral. To the northwest and northeast,
+the towering spires of the Cathedral rise up high into the sky. Directly south
+lies the dome of the Cathedral. The stone path continues east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11203
+D3
+~
+~
+0 0 11201
+S
+#11203
+The Stone Catwalk~
+The top of the bell tower rises above you to the east. The large dome which
+covers the Cathedral lies to the south. To the north, the eastern spire of the
+Cathedral rises high into the sky. The catwalk continues to the west.
+~
+0 0 1
+D1
+~
+door~
+2 0 11187
+D3
+~
+~
+0 0 11202
+S
+#11204
+The Cathedral Catacombs~
+It is very cool here. The walls are built of stone and mortar. The floor
+has an ever so slight downward slope to it. You can hear the sound of water
+dripping, but its source is undetectable.
+~
+0 268443657 0
+D2
+~
+~
+0 0 11205
+S
+#11205
+The Cathedral Catacombs~
+The sound of water dripping slowly echoes through the catacombs. There is
+a slight draft here, it appears to be coming from the floor. The stone and
+mortar walls form a curve from north to east.
+~
+0 268443657 0
+D0
+~
+~
+0 0 11204
+D1
+~
+~
+0 0 11206
+D5
+~
+stone~
+1 0 11209
+S
+#11206
+The Cathedral Catacombs~
+The catacombs are quite cool and damp here. The dripping water can be heard
+echoing through the tunnels. The dark path through the stone and mortar leads
+east and west.
+~
+0 268443657 0
+D1
+~
+~
+0 0 11207
+D3
+~
+~
+0 0 11205
+S
+#11207
+The Cathedral Catacombs~
+This is the source of the dripping water. Condensation is forming small drops
+on the ceiling. Every few seconds, a drop falls from the ceiling into a small
+puddle that has formed on the floor. The tunnel continues east and west.
+~
+0 268443657 0
+D1
+~
+~
+0 0 11208
+D3
+~
+~
+0 0 11206
+S
+#11208
+The Cathedral Catacombs~
+It is extremely damp, dark and musky here. The stone and mortar walls
+surround all exits except the west. There is a large metal grate built
+into the floor here.
+~
+0 268443657 0
+D3
+~
+~
+0 0 11207
+D5
+~
+grate~
+1 0 11219
+S
+#11209
+The Cathedral Catacombs~
+Sealed tombs lie to the north, east and west. They have been closed using
+stone, mortar and crystal. There is no way to enter them. There is a slight
+downward grade leading to the south.
+~
+0 268435465 0
+D2
+~
+~
+0 0 11210
+D4
+~
+stone~
+1 0 11205
+S
+#11210
+The Cathedral Catacombs~
+Impenetrable tombs lie to the east and west. Cobwebs line the ceiling and
+dust rises off the floor. The tunnel continues with a slight upward slope to
+the north and an easy downward grade to the south.
+~
+0 268435465 0
+D0
+~
+~
+0 0 11209
+D2
+~
+~
+0 0 11211
+S
+#11211
+The Cathedral Catacombs~
+There is a pause in the rows of tombs in this section of the catacombs.
+The walls here are made of mortar and stone. Cobwebs and dust abound. The
+graded path continues upwards to the north and downwards to the south.
+~
+0 268435465 0
+D0
+~
+~
+0 0 11210
+D2
+~
+~
+0 0 11212
+S
+#11212
+The Cathedral Catacombs~
+The stone and mortar walls form a sharp curve from north to east here.
+The air is thick with dust. The upward slope to the north turns to level
+ground here and continues east.
+~
+0 268435465 0
+D0
+~
+~
+0 0 11211
+D1
+~
+~
+0 0 11213
+S
+#11213
+The Cathedral Catacombs~
+The north and south walls are lined from floor to ceiling with sealed tombs.
+They are covered with dust and cobwebs, but their seals seem quite impenetrable.
+Darkness lies to the east and west.
+~
+0 268435465 0
+D1
+~
+~
+0 0 11214
+D3
+~
+~
+0 0 11212
+S
+#11214
+The Cathedral Catacombs~
+There is a stone wall to the south. It is covered with cobwebs, as is the
+ceiling. Darkness lies to the north, east and west.
+~
+0 268435465 0
+D0
+~
+~
+0 0 11216
+D1
+~
+~
+0 0 11215
+D3
+~
+~
+0 0 11213
+S
+#11215
+The Cathedral Catacombs~
+Tombs, centuries old, line the eastern and southern walls here. They have
+remained undisturbed since they were sealed. There are stone carvings around
+the tombs, showing the names and dates of death of the occupants. To the north
+and west, darkness lies.
+~
+0 268435465 0
+D0
+~
+~
+0 0 11217
+D3
+~
+~
+0 0 11214
+S
+#11216
+The Cathedral Catacombs~
+Mortar and stone form a curved wall to the north and west. Beneath you,
+a large stone marks a tremendous grave. The name upon the stone has been
+worn away over the years. To the south and east, there is darkness.
+~
+0 268435465 0
+D1
+~
+~
+0 0 11217
+D2
+~
+~
+0 0 11214
+D5
+~
+stone~
+1 0 11272
+S
+#11217
+The Cathedral Catacombs~
+The stone and mortar of the catacombs, cover the eastern wall, ceiling
+and floor here. The ever present cobwebs and dust also occupy the same
+areas. No details can be made out looking in other directions.
+~
+0 268435465 0
+D0
+~
+~
+0 0 11218
+D2
+~
+~
+0 0 11215
+D3
+~
+~
+0 0 11216
+S
+#11218
+The Cathedral Catacombs~
+One wall is lined with tombs from floor to ceiling. They are sealed and
+seem quite impenetrable. The opposite wall is simply made of mortar and
+stone. Only darkness can be seen to the north and south from here.
+~
+0 268435465 0
+D0
+~
+~
+0 0 11219
+D2
+~
+~
+0 0 11217
+S
+#11219
+The Cathedral Catacombs~
+Walls made of mortar and stone lie to the north, west and east. There are
+cobwebs everywhere. Above you, there is a large metal grate. From this point,
+all that can be seen to the south is darkness.
+~
+0 268435465 0
+D2
+~
+~
+0 0 11218
+D4
+~
+grate~
+1 0 11208
+S
+#11220
+The Western Spire~
+You are inside the western spire of the Cathedral. Metal combines with
+stone to form the interior here. There are metal beams everywhere. Above
+you can see only darkness.
+~
+0 268435465 0
+D1
+~
+door~
+1 0 11225
+D2
+~
+door~
+1 0 11201
+D4
+~
+~
+0 0 11221
+S
+#11221
+The Western Spire~
+Intricate metal lathes combine with stone to form the circular wall of
+the spire. Beams, made of metal, lead into the darkness above and below.
+~
+0 268435465 9
+D4
+~
+~
+0 0 11222
+D5
+~
+~
+0 0 11220
+S
+#11222
+The Western Spire~
+The circular wall, made of stone and metal, is becoming quite narrow. 
+The span of the wall is less at the top of the room than at the bottom. 
+From here, only darkness can be seen above and below.  
+~
+0 268435465 9
+D4
+~
+~
+0 0 11223
+D5
+~
+~
+0 0 11221
+S
+#11223
+The Western Spire~
+You can hear the wind whipping around the outside of the spire. Metal beams
+run up and down into the darkness. The circular wall of the spire is getting
+rather narrow. Moving up will be a tight squeeze.
+~
+0 268435465 9
+D4
+~
+~
+0 0 11224
+D5
+~
+~
+0 0 11222
+S
+#11224
+The Western Spire~
+You have reached the top of the western spire of the Cathedral. The space
+here is extremely narrow and cramped. The circular wall rises to form a cone
+above you. Below lies darkness.
+~
+0 268435465 9
+D5
+~
+~
+0 0 11223
+S
+#11225
+A Tiny Crawlspace~
+Stone surrounds you on all sides except for the east and west. The air here
+is very stale and musty. To the west, lies a door built to look as though it
+is a part of the wall. To the east, the darkness continues.
+~
+0 268435465 0
+D1
+~
+~
+0 0 11226
+D3
+~
+door~
+1 0 11220
+M 0 H 0
+S
+#11226
+A Tiny Crawlspace~
+Every wall here is made of cold hard stones. The crawlspace is quite narrow.
+It is also quite quiet. The only exits are east and west, into the darkness.
+~
+0 268435465 0
+D1
+~
+~
+0 0 11227
+D3
+~
+~
+0 0 11225
+S
+#11227
+A Tiny Crawlspace~
+The silence here is overwhelming. The walls are made of cold stone. The
+route east appears to be blocked by something. West, from here, only the
+darkness can be seen.
+~
+0 268435465 0
+D1
+~
+door~
+1 0 11228
+D3
+~
+~
+0 0 11226
+S
+#11228
+The Eastern Spire~
+You are inside the eastern spire of the Cathedral. The circular wall of stone
+continues upwards. It is too dark to make out the details of what lies above.
+There is a door, built into the wall and made of stone, to the west.
+~
+0 268435465 0
+D3
+~
+door~
+1 0 11227
+D4
+~
+~
+0 0 11229
+S
+#11229
+The Eastern Spire~
+The circular wall, which makes up the spire, becomes narrower as you move
+higher. The wall is a combination of metal lathes, stone and mortar. The spire
+is too dark to make out what lies above or below.
+~
+0 268435465 9
+D4
+~
+~
+0 0 11230
+D5
+~
+~
+0 0 11228
+S
+#11230
+The Eastern Spire~
+The circular wall of the spire continues to narrow as you move higher.
+Large, curved pieces of metal follow the wall around the room. There are
+also large beams running up and down, into the darkness.
+~
+0 268435465 9
+D4
+~
+~
+0 0 11231
+D5
+~
+~
+0 0 11229
+S
+#11231
+The Eastern Spire~
+The air is rather thin up here. The circular wall, made of metal lathe,
+mortar and stone, continues getting smaller as you rise. Above and below,
+only darkness can be seen.
+~
+0 268435465 9
+D4
+~
+~
+0 0 11232
+D5
+~
+~
+0 0 11230
+S
+#11232
+The Eastern Spire~
+You have reached the top of the eastern spire of the Cathedral. The circular
+wall comes to a point in the center of the ceiling. Large, metal beams lead
+down the wall into the darkness below.
+~
+0 268435465 9
+D5
+~
+~
+0 0 11231
+S
+#11233
+The Castle of Strahd~
+Dark pillars of magical ice meet at the peak of the great domed roof. 
+The cold beauty of this room is stunning.  Light fractures on the ice
+forming rainbows in the hearts of each pillar.  It warms your heart.  An
+aura of magic seeps through this room causing a physical cold that numbs
+your body.  This is a perfect place for a being of ice.  
+~
+0 805306380 0
+D0
+~
+~
+0 0 11271
+D1
+~
+~
+0 0 11234
+D2
+~
+gate~
+1 0 11014
+D3
+~
+~
+0 0 11235
+S
+#11234
+The Workshop~
+Strange items are strewn about great tables built of ice.  It is obvious
+that the owner of this castle has great intrest in the arcane.  On each
+table is a different artifact and a note book penned in a strange script. 
+The experiments which take place here must be of a dangerous sort, for one
+wall has been charred and blasted on numerous occasions.  
+~
+0 805306380 0
+D3
+~
+~
+0 0 11233
+S
+#11235
+The Study~
+There is no light in this room.  But you can still see clearly.  As you
+look around you see thousands of books in shelves and across tables.  A
+faint smell of ozone fills the room.  Black waxed and black flamed candles
+fill the room.  You wonder where they came from and what they do.  The
+feeling of magic is over powering in this room.  
+~
+0 805306380 0
+O tsongas grog strahd~
+D1
+~
+~
+0 0 11233
+S
+#11236
+The Home of ChibiUsa~
+You have entered the beautiful home of ChibiUsa.  The walls have been
+painted with colorful murals depicting ChibiUsa in battles around the world.
+Ornate woodwork lines the doorways to the east and west.  
+~
+0 805306380 0
+O lufia arishwad chrome zendes chibiusa synth hexna mordis maz candy lothario lollie arack talos kramer xelnagroth shandril coralinth nyara candii morath citan beth kauden kedielia mordrid rikkus ginver shusky nightclaw mimik~
+D1
+~
+~
+0 0 11237
+D2
+~
+door~
+1 0 11265
+S
+#11237
+The Living Room~
+Entering this room you first think that they forgot to put in a wall. 
+The east, north and south walls are all made of clear glass, giving you a
+beautiful view of the lively forest.  A large stone fireplace burns brightly
+making the room both cozy and warm for ChibiUsa's guests.  Comfortable
+looking chairs are placed for conversation around an elegant carved wooden
+coffee table.  
+~
+0 805306380 0
+E
+fireplace~
+It's a fireplace. Warm embers dance within it.
+~
+E
+picture~
+It is a picture of ChibiUsa and Akira.
+She looks so beautiful.
+He looks so handsome.
+~
+D0
+~
+~
+0 0 11276
+D3
+~
+~
+0 0 11236
+D4
+~
+~
+0 0 11238
+S
+#11238
+ChibiUsa's Bedroom~
+As you enter the large room you are momentarily blinded by the bright
+pinkness of the room.  The walls are pink, the carpet is pink, even the
+furniture is a soft pink.  A large canopy bed is along the south wall,
+covered in purple, blue, and pink sheets of the finest silk, and little
+velvet pillows.  Sitting up with the pillows are cute teddy bears and
+stuffed bunnies, the whole room is filled with bunnies!  From the little
+trinkets on the nightstands to the pattern on the curtains, they really are
+everywhere you look.  A tiny little white spiral staircase runs up to
+ChibiUsa's private balcony.  You try to fit up, but it is only big enough
+for a little bunny to fit up.  Both of these rooms are obviously very
+private, so please stay out if you have not been invited.  
+~
+0 805306380 0
+D0
+~
+~
+0 0 11275
+D1
+~
+~
+0 0 11239
+D5
+~
+~
+0 0 11237
+S
+#11239
+The Balcony~
+The view of the town is astounding from here.  An ornate wrought iron
+fence lines the balcony.  The fence is covered with beautiful flowers and
+small vines.  A well built roof provides cover from bad weather, without
+blocking the sight of the city.  
+~
+0 805306372 0
+D3
+~
+~
+0 0 11238
+M 250 H 250
+S
+#11240
+The Tower of Power~
+You are now in a medium sized, circular room, which forms the base of the
+tower you saw before from outside.  There is a fireplace the north side of
+the room, and various tables and bookcases throughout.  The floor has a
+spiraled tile pattern, which meets in the middle.  This is the focus point
+for all the magical power coming through the portal from Palankcaren.  If
+you were to sleep in the centre of the spiral, you would absorb power much
+faster.  A small door to the east leads back to the Entrance Hall, a door to
+the west leads deeper into the embassy, and a small, spiral staircase which
+circles the circumference of the room, leads up, higher into the tower.  To
+the south are a set of heavy steel doors, leading to the Embassy Vault.  
+~
+0 939524108 0
+D1
+~
+~
+0 0 11139
+D2
+~
+~
+0 0 16012
+D3
+~
+~
+1 0 11284
+D4
+~
+~
+0 0 11141
+M 250 H 250
+C help~
+S
+#11241
+A Covered Stone Bridge~
+This aged stone bridge has a wooden roof which affords shelter in bad
+weather.  A small stream can be seen running under the bridge from east to
+west.  North lies Forest Avenue.  To the south, a small wooded path beckons.
+~
+0 8 0
+E
+stream~
+Small fish swim to and fro in the stream!
+~
+D0
+~
+~
+0 0 11064
+D2
+~
+~
+0 0 11242
+S
+#11242
+A Small Wooded Path~
+Large ancient trees which make up the town's park line the east and west
+of the path.  Heavy shrubs and prickly bushes rest at the base of the trees,
+making travel in those directions impossible.  A covered stone bridge can be
+seen to the north.  The park continues to the south.  
+~
+0 0 3
+D0
+~
+~
+0 0 11241
+D2
+~
+~
+0 0 11243
+S
+#11243
+Amidst the Trees~
+Tremendous trees tower high into the sky.  A countless number stand tall
+to the west, blocking passage in that direction.  The dense green belt
+continues to the south.  A small clearing can be seen to the east.  
+~
+0 0 3
+D0
+~
+~
+0 0 11242
+D1
+~
+~
+0 0 11248
+D2
+~
+~
+0 0 11244
+S
+#11244
+Amidst the Trees~
+The ancient large trees that make up the forest surround you.  Small
+twigs, leaves and other forest debris cover the ground.  The forest to the
+west is too dense to pass.  A small clearing can be seen to the east.  
+~
+0 0 3
+D0
+~
+~
+0 0 11243
+D1
+~
+~
+0 0 11247
+D2
+~
+~
+0 0 11245
+D3
+~
+~
+0 0 16014
+S
+#11245
+Amidst the Trees~
+Aged trees abound everywhere.  The trees combine with shrubs and bushes
+to the west and south, blocking those routes.  The massive forest allows
+passage to the east and north.  
+~
+0 0 3
+D0
+~
+~
+0 0 11244
+D1
+~
+~
+0 0 11246
+S
+#11246
+Amidst the Trees~
+The massive ancient trees which make up the green belt of the town
+surround you.  Immense branches and fallen tree trunks block the route to
+the south.  To the north, there is a break in the trees and a small clearing
+is visible.  
+~
+0 0 3
+D0
+~
+~
+0 0 11247
+D1
+~
+~
+0 0 11251
+D3
+~
+~
+0 0 11245
+S
+#11247
+A Small Clearing~
+Rolling green grass covers the ground here.  This appears to be a natural
+break in the vast forest.  The west and south are lined with large trees. 
+At the base of the trees, small flowers of many shapes and sizes color the
+borders.  The clearing continues to the north and east.  
+~
+0 0 3
+D0
+~
+~
+0 0 11248
+D1
+~
+~
+0 0 11250
+D2
+~
+~
+0 0 11246
+D3
+~
+~
+0 0 11244
+S
+#11248
+A Small Clearing~
+A sprawling green lawn blankets the ground here.  To the north and west,
+large ancient trees border the clearing.  The underbrush to the north is too
+thick to travel in that direction.  The clearing continues to the south and
+east.  
+~
+0 0 3
+D1
+~
+~
+0 0 11249
+D2
+~
+~
+0 0 11247
+D3
+~
+~
+0 0 11243
+S
+#11249
+A Small Clearing~
+Rows and rows of aged trees border the north edge of the clearing.  To
+the south, in the center of the clearing, sits a small circle of colorful
+flowers.  The grass of the clearing continues south, east and west.  
+~
+0 0 3
+E
+circle flowers~
+Hundreds of flowers, every color of the rainbow!
+~
+D1
+~
+~
+0 0 11254
+D2
+~
+~
+0 0 11250
+D3
+~
+~
+0 0 11248
+S
+#11250
+A Small Clearing~
+A small circle of flowers is on the northern edge of the grass here.  To
+the south, large trees border the clearing.  Rolling green grass continues
+to the north, east and west.  
+~
+0 0 3
+E
+circle flowers~
+Hundreds of flowers, every color of the rainbow!
+~
+D0
+~
+~
+0 0 11249
+D1
+~
+~
+0 0 11253
+D2
+~
+~
+0 0 11251
+D3
+~
+~
+0 0 11247
+S
+#11251
+Amidst the Trees~
+All around you tall trees stretch as high as the eye can see.  The ground
+is covered with a mix of forest debris.  To the south, the growth is too
+thick to allow entry into the heart of the forest.  A small clearing can be
+seen to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 11250
+D1
+~
+~
+0 0 11252
+D3
+~
+~
+0 0 11246
+S
+#11252
+Amidst the Trees~
+The massive forest has grown less dense at this point.  There are
+numerous trees about you.  The southern route is blocked by large fallen
+branches and trees.  A small clearing is visible to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 11253
+D1
+~
+~
+0 0 11256
+D3
+~
+~
+0 0 11251
+S
+#11253
+A Small Clearing~
+Green grass covers the ground here.  This appears to be a natural break
+in the vast forest.  Immense trees line the eastern and southern borders. 
+The clearing continues to the north and west.  
+~
+0 0 3
+D0
+~
+~
+0 0 11254
+D1
+~
+~
+0 0 11255
+D2
+~
+~
+0 0 11252
+D3
+~
+~
+0 0 11250
+S
+#11254
+A Small Clearing~
+An innumerable amount of trees line the northern and eastern borders of
+the clearing.  The ground is covered with a sprawling green lawn which
+stretches to the south and west.  
+~
+0 0 3
+D0
+~
+~
+1 0 11316
+D2
+~
+~
+0 0 11253
+D3
+~
+~
+0 0 11249
+S
+#11255
+Amidst The Trees~
+Large ancient trees stretch high above.  Small twigs and fallen leaves
+cover the ground.  The growth to the north and east is too dense to allow
+passage.  A small clearing can be seen to the west.  
+~
+0 0 3
+D2
+~
+~
+0 0 11256
+D3
+~
+~
+0 0 11253
+S
+#11256
+Amidst the Trees~
+Huge aged trees reach to the sky in every direction.  New fallen leaves
+loosely cover the ground.  Small animals scurry away as you arrive.  Large
+prickly bushes block the routes to the west and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 11255
+D3
+~
+~
+0 0 11252
+D4
+~
+treetop~
+1 0 11278
+D5
+~
+rathole~
+1 0 11267
+S
+#11257
+A Tree Covered Path~
+Tall trees come together over this dirt path.  The trees combine so as to
+protect the path from all the elements.  The tunnel of trees allows no sky
+to be seen.  To the north, lies Forest Avenue.  To the south, a small path
+can be seen.  
+~
+0 12 3
+D0
+~
+~
+0 0 11035
+D2
+~
+~
+0 0 11258
+S
+#11258
+A Small Path in the Forest~
+A small dirt path winds its way through the tremendous trees on either
+side.  To the north, a dense group of trees form a tunnel of sorts.  To the
+south, the vast forest continues.  
+~
+0 0 3
+D0
+~
+~
+0 0 11257
+D2
+~
+~
+0 0 11259
+S
+#11259
+In The Forest~
+All around you, aged trees, centuries old, stretch high into the sky. 
+Large prickly bushes and fallen branches block the way east.  To the north,
+a small path can be seen.  
+~
+0 0 3
+D0
+~
+~
+0 0 11258
+D2
+~
+~
+0 0 11260
+D3
+~
+~
+0 0 11262
+S
+#11260
+In The Forest~
+Massive timbers rise high above in every direction.  The forest growth at
+the base of the trees on the eastern and southern fronts is too thick to
+pass.  The only viable routes through the trees are north and west.  
+~
+0 0 3
+D0
+~
+~
+0 0 11259
+D3
+~
+~
+0 0 11261
+S
+#11261
+In The Forest~
+Small forest creatures scurry away, almost as if they sensed your
+arrival.  The ground is covered with fallen leaves and small twigs.  Large
+trees rise up in every direction.  The plant and tree growth to the south is
+too dense to travel in that direction.  
+~
+0 0 3
+D0
+~
+~
+0 0 11262
+D1
+~
+~
+0 0 11260
+D3
+~
+~
+0 0 11264
+S
+#11262
+In The Forest~
+The ancient trees which make up the town's park surround you.  The ground
+is covered with forest debris.  The northern route has been blocked by
+fallen trees which have petrified.  The paths west, east and south are
+passable.  
+~
+0 0 3
+D1
+~
+~
+0 0 11259
+D2
+~
+~
+0 0 11261
+D3
+~
+~
+0 0 11263
+S
+#11263
+In The Forest~
+Tremendous trees reach high into the sky in every direction.  Fallen
+leaves cover the ground.  Large bushes and a multitude of forest flora make
+passage to the west impossible.  
+~
+0 0 3
+D0
+~
+~
+0 0 11265
+D1
+~
+~
+0 0 11262
+D2
+~
+~
+0 0 11264
+S
+#0
+
+
+
+#SPECIALS
+M 11000 spec_gatekeeper Load to: the Gatekeeper
+M 11004 spec_guard Load to: a town watchguard
+M 11011 spec_cast_mage Load to: a dark magician
+M 11013 spec_janitor Load to: a shifty eyed peddler
+M 11016 spec_thief Load to: a robber
+M 11018 spec_cast_cleric Load to: a visionary
+M 11019 spec_cast_mage Load to: a philosopher
+M 11022 spec_cast_cleric Load to: a black wraith
+M 11026 spec_thief Load to: a veteran crusader
+M 11035 spec_cast_cleric Load to: the Vicar
+M 11059 spec_cast_adept Load to: Linder
+S
+
+
+
+#MOBPROGS
+#11007
+if carries $n ceremonial dagger
+ mob echoat $n Lonnigan says 'I've heard you own a ceremonial dagger, $n.'
+ mob echoat $n Lonnigan says 'I've been looking for one for some time now.'
+ mob echoat $n Lonnigan says 'I'd pay a nice sum of gold for one.'
+ mob echoat $n Lonnigan pokes you in the ribs.
+ else
+ if wears $n ceremonial dagger
+ mob echoat $n Lonnigan looks at you.
+ mob echoat $n Lonnigan says 'Nice ceremonial you have there, $n.'
+ mob echoat $n Lonnigan says 'I'd pay dearly for one, never enough in stock.'
+ mob echoat $n Lonnigan sighs.
+endif
+~
+A
+#11006
+mob echo {wA visionary yells, 'Repent, for the end is near!'{x
+~
+A
+#11005
+say Well it isn't free, I do need to make a living.
+~
+A
+#11004
+if ispc $n
+ mob echoat $n Tikal falls down laughing.
+ mob echoat $n Tikal says, 'Care to sample some of my brew, $n?'
+endif
+~
+A
+#11003
+if ispc $n
+ mob echoat $n Liesbet smiles at you.
+ mob echoat $n Liesbet says, 'Welcome to my shop, $n.'
+ mob echoat $n Liesbet says, 'The cassoulet is fresh from the oven.'
+ mob echoat $n Liesbet nods at you in agreement.
+endif
+~
+A
+#11001
+if hastarget $i
+ say Perhaps you shall heed my warning next time, $q.
+ kill $q
+ else
+mob forget
+ 
+~
+A
+#11000
+if isdelay $i
+ break
+ else
+ if iskiller $r 
+ mob remember $r
+ mob goto $q
+ mob echoat $q The captain of the watchguard's has arrived.
+ mob echoaround $q The captain of the watchguard's has arrived.
+ say The crusaders do not allow killers in Stoneridge, $q.
+ say I suggest you leave promptly.
+ mob delay 3
+ else
+ if isthief $r
+ mob remember $r 
+ mob goto $q
+ mob echoat $q The captain of the watchguard's has arrived.
+ mob echoaround $q The captain of the watchguard's has arrived.
+ say The crusaders do not welcome thieves in Stoneridge, $q.
+ say I suggest you leave immediately.
+ mob delay 3
+endif
+~
+A
+#0
+
+#RESETS
+D 0 11265 0 1
+D 0 11265 5 1
+D 0 11266 4 1
+D 0 11267 4 1
+D 0 11272 4 1
+D 0 11278 5 1
+D 0 11281 0 1
+D 0 11281 2 1
+D 0 11282 2 1
+D 0 11282 3 1
+D 0 11283 1 1
+D 0 11284 1 1
+D 0 11285 0 1
+D 0 11286 0 1
+D 0 11287 2 1
+D 0 11288 2 1
+D 0 11290 2 1
+D 0 11291 0 1
+D 0 11300 1 1
+D 0 11300 3 1
+D 0 11301 1 1
+D 0 11301 5 1
+D 0 11308 0 1
+D 0 11308 5 1
+D 0 11310 4 1
+D 0 11311 4 1
+D 0 11312 2 1
+D 0 11316 1 1
+D 0 11316 2 1
+D 0 11317 3 1
+D 0 11320 5 1
+D 0 11321 4 1
+D 0 11001 0 1
+D 0 11002 2 1
+D 0 11011 0 1
+D 0 11013 0 1
+D 0 11013 5 1
+D 0 11014 0 1
+D 0 11085 1 1
+D 0 11127 2 1
+D 0 11133 5 1
+D 0 11135 0 1
+D 0 11144 1 1
+D 0 11144 3 1
+D 0 11145 1 1
+D 0 11149 3 1
+D 0 11150 4 1
+D 0 11158 2 1
+D 0 11160 1 1
+D 0 11161 3 1
+D 0 11163 3 1
+D 0 11164 1 1
+D 0 11180 1 1
+D 0 11181 3 1
+D 0 11182 1 1
+D 0 11182 5 2
+D 0 11183 4 2
+D 0 11184 3 1
+D 0 11187 2 2
+D 0 11187 3 2
+D 0 11190 0 2
+D 0 11201 0 1
+D 0 11203 1 2
+D 0 11205 5 1
+D 0 11208 5 1
+D 0 11209 4 1
+D 0 11216 5 1
+D 0 11219 4 1
+D 0 11220 1 1
+D 0 11220 2 1
+D 0 11225 3 1
+D 0 11227 1 1
+D 0 11228 3 1
+D 0 11233 2 1
+D 0 11236 2 1
+D 0 11240 3 1
+D 0 11254 0 1
+D 0 11256 4 1
+D 0 11256 5 1
+M 1 11045 2 11264 1
+M 1 11046 3 11264 1
+M 1 11047 2 11266 1
+M 1 11057 1 11266 1
+M 1 11047 2 11267 1
+O 0 3010 0 11273
+O 0 11122 0 11273
+M 1 11059 1 11274 1
+O 0 11126 0 11276
+O 0 11123 0 11277
+P 0 11124 3 11123 1
+P 0 11125 5 11123 1
+O 0 11127 0 11280
+O 0 11310 0 11282
+O 0 11128 0 11282
+O 0 11282 0 11282
+M 1 11063 1 11283 1
+G 0 11311 0
+G 0 11176 0
+G 0 11175 0
+G 0 11174 0
+G 0 11283 0
+G 0 11284 0
+O 0 11129 0 11287
+O 0 11137 0 11287
+O 0 11136 0 11287
+M 1 11061 1 11288 1
+G 0 11153 0
+G 0 11152 0
+G 0 11154 0
+G 0 11155 0
+G 0 11156 0
+G 0 11157 0
+G 0 11158 0
+G 0 11159 0
+G 0 11160 0
+G 0 11165 0
+O 0 11131 0 11289
+O 0 11132 0 11290
+O 0 11135 0 11291
+O 0 11136 0 11291
+O 0 11148 0 11292
+O 0 11130 0 11292
+O 0 11139 0 11293
+O 0 11140 0 11294
+O 0 11141 0 11294
+O 0 11144 0 11295
+O 0 11142 0 11298
+O 0 11143 0 11298
+O 0 11298 0 11298
+O 0 11146 0 11299
+O 0 11145 0 11301
+O 0 11301 0 11301
+M 1 11301 1 11301 1
+G 0 11302 0
+G 0 11303 0
+G 0 11304 0
+G 0 11305 0
+G 0 11306 0
+G 0 11307 0
+G 0 11028 0
+G 0 11308 0
+O 0 11130 0 11303
+O 0 11147 0 11304
+O 0 11149 0 11305
+M 1 11064 1 11305 1
+G 0 11284 0
+G 0 11306 0
+G 0 11316 0
+G 0 11302 0
+G 0 11315 0
+G 0 11319 0
+G 0 11318 0
+G 0 11317 0
+G 0 11320 0
+O 0 11151 0 11306
+O 0 11166 0 11306
+M 1 11306 1 11306 1
+O 0 11161 0 11308
+O 0 11170 0 11309
+O 0 11162 0 11310
+O 0 11163 0 11320
+O 0 11171 0 11321
+O 0 11173 0 11322
+O 0 11133 0 11001
+M 1 11000 1 11002 1
+O 0 11002 0 11003
+O 0 11000 0 11004
+O 0 11001 0 11005
+O 0 11003 0 11006
+O 0 11134 0 11009
+M 1 11004 15 11009 2
+E 0 11019 0 16
+E 0 11020 0 10
+E 0 11021 0 12
+E 0 11022 0 6
+E 0 11024 0 9
+E 0 11063 0 0
+M 1 11004 15 11013 1
+E 0 11019 0 16
+E 0 11020 0 10
+E 0 11021 0 12
+E 0 11024 0 9
+E 0 11063 0 0
+M 1 11013 5 11013 1
+E 0 11070 0 16
+E 0 11071 0 6
+E 0 11072 0 12
+E 0 11073 0 14
+E 0 11074 0 8
+M 1 11004 15 11017 1
+E 0 11019 0 16
+E 0 11020 0 10
+E 0 11022 0 6
+E 0 11063 0 0
+M 1 11019 4 11018 1
+E 0 11076 0 12
+O 0 11004 0 11023
+M 1 11016 3 11025 1
+E 0 11069 0 16
+M 1 11013 5 11025 1
+E 0 11070 0 16
+E 0 11071 0 6
+E 0 11072 0 12
+E 0 11073 0 14
+E 0 11074 0 8
+M 1 11001 1 11027 1
+G 0 11005 0
+G 0 11006 0
+G 0 11008 0
+G 0 11007 0
+M 1 11002 1 11030 1
+G 0 11011 0
+G 0 11010 0
+G 0 11009 0
+G 0 11012 0
+M 1 11018 5 11033 1
+M 1 11013 5 11037 1
+E 0 11070 0 16
+E 0 11071 0 6
+E 0 11072 0 12
+E 0 11073 0 14
+E 0 11074 0 8
+M 1 11004 15 11039 2
+E 0 11019 0 16
+E 0 11021 0 12
+E 0 11022 0 6
+E 0 11024 0 9
+E 0 11063 0 0
+M 1 11004 15 11049 1
+E 0 11019 0 16
+E 0 11021 0 12
+E 0 11022 0 6
+E 0 11063 0 0
+M 1 11004 15 11061 1
+E 0 11019 0 16
+E 0 11020 0 10
+E 0 11021 0 12
+E 0 11023 0 8
+E 0 11024 0 9
+E 0 11063 0 0
+M 1 11014 5 11061 1
+E 0 11057 0 8
+E 0 11058 0 16
+E 0 11059 0 11
+E 0 11062 0 9
+M 1 11019 4 11065 1
+E 0 11076 0 12
+M 1 11014 5 11072 1
+E 0 11057 0 8
+E 0 11058 0 16
+E 0 11059 0 11
+E 0 11061 0 10
+E 0 11062 0 9
+E 0 11060 0 5
+M 1 11018 5 11075 1
+M 1 11004 15 11076 1
+E 0 11019 0 16
+E 0 11020 0 10
+E 0 11024 0 9
+E 0 11022 0 6
+E 0 11063 0 0
+M 1 11018 5 11080 1
+M 1 11004 15 11089 2
+E 0 11019 0 16
+E 0 11021 0 12
+E 0 11024 0 9
+E 0 11063 0 0
+M 1 11019 4 11091 1
+E 0 11076 0 12
+M 1 11014 5 11100 1
+E 0 11057 0 8
+E 0 11058 0 16
+E 0 11059 0 11
+E 0 11060 0 5
+M 1 11004 15 11106 2
+E 0 11019 0 16
+E 0 11021 0 12
+E 0 11024 0 9
+E 0 11063 0 0
+M 1 11013 5 11106 1
+E 0 11070 0 16
+E 0 11071 0 6
+E 0 11072 0 12
+E 0 11073 0 14
+E 0 11074 0 8
+M 1 11018 5 11108 1
+M 1 11019 4 11115 1
+E 0 11076 0 12
+M 1 11013 5 11119 1
+E 0 11070 0 16
+E 0 11071 0 6
+E 0 11072 0 12
+E 0 11073 0 14
+E 0 11074 0 8
+M 1 11004 15 11124 2
+E 0 11019 0 16
+E 0 11020 0 10
+E 0 11021 0 12
+E 0 11022 0 6
+E 0 11063 0 0
+M 1 11018 5 11126 1
+M 1 11014 5 11127 1
+E 0 11057 0 8
+E 0 11058 0 16
+E 0 11059 0 11
+E 0 11061 0 10
+E 0 11060 0 5
+O 0 11016 0 11129
+M 1 11003 1 11129 1
+G 0 11017 0
+G 0 11018 0
+G 0 11015 0
+G 0 11014 0
+M 1 11012 3 11132 1
+E 0 11065 0 16
+E 0 11066 0 10
+E 0 11067 0 12
+E 0 11068 0 9
+E 0 11064 0 3
+M 1 11005 1 11133 1
+G 0 11027 0
+G 0 11026 0
+G 0 11025 0
+G 0 11028 0
+M 1 11011 3 11133 1
+E 0 11052 0 13
+E 0 11054 0 10
+E 0 11055 0 6
+M 1 11006 1 11136 1
+G 0 11019 0
+G 0 11031 0
+G 0 11030 0
+G 0 11029 0
+M 1 11016 3 11136 1
+E 0 11069 0 16
+M 1 11007 1 11137 1
+G 0 11024 0
+G 0 11034 0
+G 0 11036 0
+G 0 11032 0
+G 0 11035 0
+O 0 11033 0 11139
+O 0 11118 0 11140
+M 1 11058 1 11140 1
+G 0 11117 0
+G 0 11120 0
+G 0 11119 0
+O 0 31113 0 11141
+M 1 11008 1 11142 1
+G 0 11040 0
+G 0 11039 0
+G 0 11038 0
+G 0 11037 0
+M 1 11014 5 11143 1
+E 0 11058 0 16
+E 0 11059 0 11
+E 0 11061 0 10
+E 0 11060 0 5
+M 1 11012 3 11143 1
+E 0 11065 0 16
+E 0 11066 0 10
+E 0 11067 0 12
+E 0 11068 0 9
+M 1 11012 3 11145 1
+E 0 11066 0 10
+E 0 11067 0 12
+E 0 11065 0 16
+E 0 11068 0 9
+M 1 11011 3 11146 1
+E 0 11052 0 13
+E 0 11055 0 6
+E 0 11056 0 7
+M 1 11016 3 11146 1
+E 0 11069 0 16
+M 1 11010 1 11147 1
+G 0 11048 0
+G 0 11045 0
+G 0 11047 0
+G 0 11046 0
+G 0 11044 0
+M 1 11009 1 11148 1
+G 0 11042 0
+G 0 11041 0
+G 0 11043 0
+M 1 11041 1 11149 1
+E 0 11076 0 12
+E 0 11077 0 18
+M 1 11011 3 11151 1
+E 0 11052 0 13
+E 0 11051 0 12
+E 0 11053 0 17
+M 1 11015 1 11152 1
+G 0 11115 0
+G 0 11114 0
+G 0 11113 0
+G 0 11112 0
+G 0 11111 0
+M 1 11017 1 11153 1
+G 0 11110 0
+G 0 11108 0
+G 0 11107 0
+G 0 11106 0
+G 0 11105 0
+G 0 11104 0
+G 0 11103 0
+G 0 11102 0
+G 0 11109 0
+M 1 11021 1 11162 1
+M 1 11030 1 11165 1
+M 1 11029 1 11167 1
+M 1 11028 2 11169 1
+E 0 11082 0 16
+M 1 11028 2 11170 1
+E 0 11082 0 16
+M 1 11031 2 11175 1
+M 1 11031 2 11176 1
+O 0 11078 0 11177
+M 1 11035 1 11182 1
+G 0 11085 0
+O 0 11084 0 11183
+M 1 11034 1 11184 1
+E 0 11088 0 1
+E 0 11095 0 16
+M 1 11027 1 11187 1
+O 0 11079 0 11189
+M 1 11023 1 11189 1
+G 0 11080 0
+M 1 11022 3 11190 1
+M 1 11022 3 11193 1
+M 1 11024 1 11196 1
+E 0 11096 0 14
+E 0 11097 0 16
+O 0 11049 0 11199
+O 0 11050 0 11199
+M 1 11020 1 11199 1
+M 1 11022 3 11202 1
+M 1 11026 1 11205 1
+E 0 11098 0 16
+O 0 11081 0 11207
+M 1 11032 3 11208 1
+M 1 11032 3 11209 1
+M 1 11040 1 11212 1
+M 1 11025 1 11215 1
+E 0 11083 0 11
+E 0 11087 0 16
+E 0 11093 0 13
+E 0 11094 0 7
+M 1 11032 3 11219 1
+M 1 11038 1 11220 1
+M 1 11036 1 11224 1
+M 1 11033 1 11226 1
+M 1 11039 1 11228 1
+E 0 11086 0 16
+M 1 11037 1 11232 1
+O 0 11089 0 11233
+O 0 11090 0 11236
+O 0 11091 0 11237
+O 0 11075 0 11238
+O 0 11138 0 11240
+O 0 11240 0 11240
+M 1 11043 3 11242 1
+M 1 11044 3 11242 1
+M 1 11042 1 11245 1
+G 0 11100 0
+P 0 11101 15 11100 1
+M 1 11044 3 11249 1
+M 1 11044 3 11251 1
+M 1 11043 3 11254 1
+M 1 11043 3 11256 1
+M 1 11045 2 11258 1
+M 1 11046 3 11258 1
+M 1 11046 3 11260 1
+S
+
+
+
+#SHOPS
+11301 0 0 0 0 0 100 180 0 24
+11001 19 19 0 0 0 100 25 0 23
+11002 35 35 35 35 35 100 25 0 23
+11003 0 0 0 0 0 100 100 0 23
+11005 0 0 0 0 0 100 100 10 23
+11006 5 5 5 5 5 100 60 0 23
+11007 9 9 9 9 9 100 70 0 23
+11008 2 3 4 3 2 100 30 0 23
+11009 0 0 0 0 0 100 100 0 23
+11010 0 0 0 0 0 100 75 0 23
+11015 32 32 8 33 30 110 100 0 24
+11017 10 10 0 0 0 200 25 0 24
+11021 10 10 10 10 10 200 25 0 23
+11058 0 0 0 0 0 150 100 0 24
+11061 0 0 0 0 0 150 100 0 23
+11062 0 0 0 180 0 0 100 0 23
+11063 0 0 0 0 0 200 200 0 23
+11064 0 0 0 0 0 150 100 0 23
+0
+
+
+
+#$

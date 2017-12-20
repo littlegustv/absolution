@@ -1,0 +1,139 @@
+#AREADATA
+Name Penzance~
+Builders Rayden Mierauch~
+VNUMs 14900 14999
+Credits { None} Rayden  Penzance~
+Security 1
+Xcontinent 1
+Age 12
+End
+
+
+
+#MOBILES
+#14900
+Jannet girlfriend~
+Jannet, Rayden's true love~
+Jannet, probably the only person who can keep Rayden sane from this crazy world.
+~
+~
+human~
+AG 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#14901
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#14902
+Blue Beard~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 0
+#0
+
+
+
+#OBJECTS
+#14900
+Rayden Lightning Bolt~
+Rayden's {yLighting Bolt{x~
+This bolt of energy appears from the skies in Rayden's darkest moments.~
+energy~
+weapon ACEIa AN
+mace 50 50 pierce DGI
+1 2 400 P
+#14901
+Pirate Sabre~
+(no short description)~
+(no description)~
+iron~
+weapon H AN
+axe 6 8 none 0
+1 0 0 P
+A
+0 12
+A
+0 12
+A
+0 4
+A
+0 4
+A
+0 12
+#14902
+pirate leg~
+(no short description)~
+A small sword lies here.~
+iron~
+armor 0 0
+0 0 0 0 0
+0 0 0 P
+A
+0 3
+#0
+
+
+
+#ROOMS
+#14900
+Rayden's House of Pain~
+This is the house that Rayden built.  This is where he comes to
+contemplate decisions on life in general.  He also has a TV, Mortal Kombat
+II Video game in the corner.  As well there is a leather love seat so that
+Rayden can cuddle up and spend some time with his woman.  
+~
+0 262148 0
+M 400 H 400
+S
+#14901
+~
+~
+0 0 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+M 1 14900 1 14900 1
+E 0 14900 0 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

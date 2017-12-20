@@ -1,0 +1,2419 @@
+#AREADATA
+Name Capture the Flag~
+Builders Cicada~
+VNUMs 2600 2699
+Credits { None} Cicada      Capture the Flag~
+Security 9
+Xcontinent 1
+Age 5
+Questable 1
+End
+
+
+
+#MOBILES
+#2600
+arena monster~
+an arena monster~
+An arena monster is here, making life difficult.
+~
+~
+deamon~
+ABF DEFJTZ 0 0
+45 4 25d10+3000 1d1+100 8d4+16 crush
+-15 -15 -15 -15
+CFH AB H NS
+stand stand none 0
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#2601
+Jarsyl~
+Jarsyl~
+Jarsyl is here to heal your wounds.
+~
+~
+human~
+ABa 0 0 0
+55 5 50d10+7000 1d1+100 10d4+23 none
+-25 -25 -25 -25
+0 BCFGHIJKLMNOPQRSTXYZab 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#2603
+red jailkeeper keeper jail redkeeper~
+the {RRed{x Jail Keeper{x~
+The {RRed{x Jail Keeper guards the prisoners.
+~
+~
+lizard~
+ABG J -800 0
+45 4 25d10+3000 1d1+99 8d4+16 none
+-15 -15 -15 -15
+0 ABa L I
+stand stand none 3000
+AGXc ACDEFHKQV medium 0 the guilds~
+M death 2633 100~
+#2604
+blue jailkeeper bluekeeper jail keeper~
+the {BBlue{x Jail Keeper~
+The {BBlue{x Jail Keeper guards the prisoners.
+~
+~
+lizard~
+ABG J -800 0
+45 4 25d10+3000 1d1+99 8d4+16 none
+-15 -15 -15 -15
+0 ABZa L I
+stand stand none 3000
+AGXc ACDEFHKQV medium 0 the guilds~
+M death 2634 100~
+#2605
+empty vnum~
+empty vnum~
+In one corner, an old man mumbles to himself.
+~
+Having been captured years ago by the red team, this player never managed
+to escape from jail.  His tattered blue uniform hang loosely around his bony
+body.  
+~
+human~
+ABGI 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M exall 2614 0~
+#2606
+empty vnum~
+empty vnum~
+In one corner, a skeleton rots, still in shackles.
+~
+The skeleton has been here for many years, shackled to the wall and
+forgotten.  
+~
+human~
+ABGI 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M exall 2614 2~
+#2607
+Jail Master~
+empty vnum~
+The Jail Master stand ready to lock the jails (wizi)
+~
+~
+human~
+ABIZa 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 BD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#2608
+Game Master~
+empty vnu~
+The Game Master stands ready to reset or start the game.
+~
+The game master will reset the flags, call the jailcheck prog
+and purge this room.
+~
+human~
+ABI 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 CD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 2619 game start~
+M speech 2619 Game start~
+M speech 2619 Game Start~
+M speech 2618 Game Reset~
+M speech 2618 Game reset~
+M speech 2618 game reset~
+#2609
+ryznar~
+Ryznar~
+Ryznar is here, feeling lost and alone in this massive maze.
+~
+Ryznar is comfortably sitting here with his belongings.  He has given up
+all hope of ever getting out of this tangling mess and sells items to buy
+food from other passersby.  One wonders why he doesn't pay them to help him
+get out.  
+~
+sliver~
+AB D 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+U BCDPa B DKY
+sit sit male 100000
+BGHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#2610
+Jayge~
+Jayge~
+Jayge, the portly bar keeper is here serving drinks.
+~
+Jayge looks at you warily with his one wonky eye.
+Despite his portly appearance he strikes you as
+the type to be quick with a blade.
+~
+human~
+AB DZ 900 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+CDF ABCDEHIKLQa 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#2650
+empty vnum~
+empty vnum~
+The {Rred{x flag is here.
+~
+You see the flag flutter about in the breeze.  It doesn't seem to do
+much, other than sit there.  
+~
+human~
+ABG DFPTZa 0 0
+60 0 1d1+31999 1d1+99 1d1+1 impale
+-30 -30 -30 -30
+0 ABCDEFHIJKLMNOPQRSTXYZab 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+M entry 2606 100~
+M speech 2609 Flag~
+M delay 2601 100~
+M speech 2602 North~
+M speech 2602 north~
+M speech 2603 East~
+M speech 2603 east~
+M speech 2604 south~
+M speech 2604 South~
+M speech 2605 West~
+M speech 2605 west~
+M kill 2600 100~
+#2651
+empty vnum~
+empty vnum~
+The {Bblue{x flag is here.
+~
+You see the flag flutter about in the breeze.  It doesn't seem to do
+much, other than sit there.  
+~
+human~
+ABG DFPTZa 0 0
+60 0 1d1+31999 1d1+99 1d1+1 none
+-30 -30 -30 -30
+0 ABCDEFHIJKLMNOPQRSTXYZab 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+M entry 2607 100~
+M speech 2609 Flag~
+M delay 2601 100~
+M speech 2602 North~
+M speech 2602 north~
+M speech 2603 East~
+M speech 2603 east~
+M speech 2604 south~
+M speech 2604 South~
+M speech 2605 West~
+M speech 2605 west~
+M kill 2600 100~
+#2652
+empty vnum~
+empty vnum~
+The Blue Gamekeeper (wizi)
+~
+The Blue gamekeeper sits here.
+~
+human~
+ABGIZ DFPTZa 0 0
+60 0 1d1+31999 1d1+99 1d1+1 none
+-30 -30 -30 -30
+0 ABCDEFHIJKLMNOPQRSTXYZab 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+#2653
+gamekeeper~
+empty vnum~
+The Red Gamekeeper (wizi)
+~
+The Red Gamekeeper is here.
+~
+human~
+ABGIZ DFPTZa 0 0
+60 0 1d1+31999 1d1+99 1d1+1 none
+-30 -30 -30 -30
+0 ABCDEFHIJKLMNOPQRSTXYZab 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+#2668
+blue jailkeeper keeper jail bluekeeper~
+the {BBlue{x Jail Keeper~
+The {BBlue{x Jail Keeper guards the prisoners.
+~
+~
+lizard~
+ABG J -800 0
+51 0 50d10+5000 1d1+100 5d8+15 none
+-21 -21 -21 -12
+0 ABa L I
+stand stand none 3000
+AGXc ACDEFHKQV medium 0 the guilds~
+M death 2634 100~
+#0
+
+
+
+#OBJECTS
+#2600
+hadmaster~
+{x~
+~
+wood~
+trash FHPSTYZe A
+0 0 0 0 0
+0 0 0 P
+#2601
+isfight~
+{x~
+~
+wood~
+trash FHPSTYZe A
+0 0 0 0 0
+0 0 0 P
+#2602
+flaghere~
+{x~
+~
+wood~
+trash FHPSTYZe A
+0 0 0 0 0
+0 0 0 P
+#2603
+Blue point~
+A {BBlue Point{x~
+The {BBlue Team{x has a point.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2604
+red point~
+A {RRed Point{x~
+The {RRed Team{x has a point.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2605
+swap object~
+An old man~
+In one corner, an old man mumbles to himself.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+old~
+Having been captured years ago by the red team, this player never managed
+to escape from jail.  His tattered blue uniform hang loosely around his bony
+body.  
+~
+E
+man~
+Having been captured years ago by the red team, this player never managed
+to escape from jail.  His tattered blue uniform hang loosely around his bony
+body.  
+~
+#2606
+swap object~
+A rotting skeleton~
+In one corner, a skeleton rots, still in shackles.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+skeleton~
+The skeleton has been here for many years, shackled to the wall and
+forgotten.  
+~
+E
+rotting~
+The skeleton has been here for many years, shackled to the wall and
+forgotten.  
+~
+#2607
+ctf key ctfkey~
+THE capture the flag area key~
+The capture the flag area key has fallen to the ground... ack!  how did it stay even loaded in the game long enough?~
+wood~
+key P AO
+0 0 0 0 0
+0 0 0 P
+#2608
+Ultimate Throw Item~
+ultimate throwing item~
+Ultimate throwing item~
+silver~
+throwing T AO
+50 1 smite 60 'rainbow burst'
+0 0 0 P
+#2610
+fresh meat~
+some fresh meat~
+Some fresh meat is here, dripping blood.~
+food~
+pill AGTY A
+10 'animal growth' 'haste' 'frenzy' 'reserved'
+0 1 3000 P
+#2611
+raft~
+a raft~
+A raft has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 750 400 A
+E
+raft~
+The raft looks very primitive. 
+~
+#2612
+potion haste~
+a potion of haste~
+A haste potion has been dropped here.~
+glass~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#2613
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#2614
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 4000 P
+#2615
+potion sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#2616
+sign~
+a sign~
+A sign is here, listing you team.~
+wood~
+container 0 0
+1000 0 0 10 20
+0 0 0 P
+E
+sign~
+Caspian
+Kriket
+Marduk
+Valtyz
+Nogusto
+Spinal
+Ambrosia
+Saffron
+Chozan
+Moruth
+Chronic
+~
+#2617
+sign~
+a sign~
+A sign is here, listing you team.~
+wood~
+container 0 0
+10 0 0 10 20
+0 0 0 P
+E
+sign~
+Pariah
+Lightcloud
+Nurlam
+Fizor
+Tathran
+Xaelin
+Salvia
+Ginver
+Morbid
+Haevin
+Halberet
+
+~
+#2618
+bag~
+a bag~
+~
+wood~
+container 0 0
+1000 0 0 100 0
+0 0 0 P
+#2619
+Red flag~
+{RRed{x flag~
+The {RRed{x flag is here.~
+wood~
+trash T A
+0 0 0 0 0
+0 0 0 P
+#2620
+Blue flag~
+{BBlue{x flag~
+The {BBlue{x flag is here.~
+wood~
+trash T A
+0 0 0 0 0
+0 0 0 P
+#2622
+bag~
+a bag~
+~
+wood~
+container 0 A
+1000 0 0 100 0
+0 0 0 P
+#2698
+fountain blood~
+(no short description)~
+~
+wood~
+container 0 0
+0 0 0 0 0
+0 0 0 P
+#2699
+Statue Amerz~
+This Statue is made to keep Nogusto wife happy with him.~
+A {Btower {CStatue{x of {gNogusto {Rbeloved {MAmerz{x stands here.~
+marble~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+statue~
+A {Btowering {CStatue{x of {gNogusto {xmost {Rbeloved{x his here.  The
+{Bstatue{x seems to {rfeed{x you collected {Rsouls{x making you feel
+refreshed.  
+~
+#0
+
+
+
+#ROOMS
+#2600
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  West leads to
+the west wing, north and east lead elsewhere.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2614
+D1
+~
+~
+0 0 2605
+D3
+~
+~
+0 0 2620
+S
+#2601
+Red flag room~
+Here sits the red flag unless it has been stolen.  Red's mission is to
+protect it at all costs, capture the blue flag and return it here.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2603
+D1
+~
+~
+0 0 2602
+S
+#2602
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2604
+D3
+~
+~
+0 0 2601
+S
+#2603
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2604
+D2
+~
+~
+0 0 2601
+S
+#2604
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2605
+D1
+~
+~
+0 0 2612
+D2
+~
+~
+0 0 2602
+D3
+~
+~
+0 0 2603
+S
+#2605
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2606
+D2
+~
+~
+0 0 2604
+D3
+~
+~
+0 0 2600
+S
+#2606
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  East leads to
+the east wing, west and north lead elsewhere.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2607
+D1
+~
+~
+0 0 2632
+D3
+~
+~
+0 0 2605
+S
+#2607
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  
+~
+0 268443664 0
+D2
+~
+~
+0 0 2606
+D4
+~
+~
+0 0 2608
+S
+#2608
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  
+~
+0 268443664 0
+D3
+~
+~
+0 0 2609
+D5
+~
+~
+0 0 2607
+S
+#2609
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2608
+D3
+~
+~
+0 0 2610
+S
+#2610
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  Down the south
+hall it is easy to see the upper level ends, but maybe there is a way to
+jump down?  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2664
+D1
+~
+~
+0 0 2609
+D2
+~
+~
+0 0 2619
+D3
+~
+~
+0 0 2611
+S
+#2611
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  
+~
+0 268443668 0
+D1
+~
+~
+0 0 2610
+D3
+~
+~
+0 0 2669
+S
+#2612
+Before the prison~
+The dark musky prison holding all of blue's defeated members lies beyond.  
+~
+0 268443664 0
+D3
+~
+~
+0 0 2604
+S
+#2613
+Red's prison~
+You have been eliminated and are stuck here until your team members
+manage you rescue you.  As time slowly ticks by you wonder if they will ever
+be able to.  
+~
+0 8212 0
+S
+#2614
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  
+~
+0 268443664 0
+D2
+~
+~
+0 0 2600
+D4
+~
+~
+0 0 2669
+S
+#2615
+Arena center~
+The thick aura of concentration is in the air as both teams thrive for
+victory.  Your hearts races as you wonder whose going to come around the
+corner.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2626
+D2
+~
+~
+0 0 2664
+D3
+~
+~
+0 0 2616
+D5
+~
+~
+3 0 2660
+S
+#2616
+West wing of the arena~
+The thick aura of concentration is in the air as both teams thrive for
+victory.  Your hearts races as you wonder whose going to come around the
+corner.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2615
+D2
+~
+~
+0 0 2617
+S
+#2617
+West wing of the arena~
+The thick aura of concentration is in the air as both teams thrive for
+victory.  Your hearts races as you wonder whose going to come around the
+corner.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2616
+D3
+~
+~
+0 0 2618
+S
+#2618
+West wing of the arena~
+The thick aura of concentration is in the air as both teams thrive for
+victory.  Your hearts races as you wonder whose going to come around the
+corner.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2617
+D3
+~
+~
+0 0 2622
+S
+#2619
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2610
+D2
+~
+~
+0 0 2625
+S
+#2620
+West wing of the arena~
+The screams of people elsewhere in the arena can be heard; the stench of
+pouring sweet smelt.  The game is vigorous, who will come out victorious?  
+~
+0 268443664 0
+D2
+~
+~
+0 0 2621
+S
+#2621
+West wing of the arena~
+The screams of people elsewhere in the arena can be heard; the stench of
+pouring sweet smelt.  The game is vigorous, who will come out victorious?  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2620
+D2
+~
+~
+0 0 2622
+S
+#2622
+West wing of the arena~
+The screams of people elsewhere in the arena can be heard; the stench of
+pouring sweet smelt.  The game is vigorous, who will come out victorious?  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2621
+D1
+~
+~
+0 0 2618
+D2
+~
+~
+0 0 2623
+S
+#2623
+West wing of the arena~
+The screams of people elsewhere in the arena can be heard; the stench of
+pouring sweet smelt.  The game is vigorous, who will come out victorious?  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2622
+D2
+~
+~
+0 0 2624
+S
+#2624
+West wing of the arena~
+The screams of people elsewhere in the arena can be heard; the stench of
+pouring sweet smelt.  The game is vigorous, who will come out victorious?  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2623
+S
+#2625
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2619
+D5
+~
+~
+0 0 2605
+S
+#2626
+Arena center~
+The thick aura of concentration is in the air as both teams thrive for
+victory.  Your hearts races as you wonder whose going to come around the
+corner.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2638
+D2
+~
+~
+0 0 2627
+D3
+~
+~
+0 0 2615
+S
+#2627
+Arena center~
+The thick aura of concentration is in the air as both teams thrive for
+victory.  Your hearts races as you wonder whose going to come around the
+corner.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2626
+D1
+~
+~
+0 0 2628
+D3
+~
+~
+0 0 2664
+D5
+~
+~
+3 0 2656
+S
+#2628
+East wing of the arena~
+The thick aura of concentration is in the air as both teams thrive for
+victory.  Your hearts races as you wonder whose going to come around the
+corner.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2629
+D3
+~
+~
+0 0 2627
+S
+#2629
+East wing of the arena~
+The thick aura of concentration is in the air as both teams thrive for
+victory.  Your hearts races as you wonder whose going to come around the
+corner.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2630
+D2
+~
+~
+0 0 2628
+S
+#2630
+East wing of the arena~
+The thick aura of concentration is in the air as both teams thrive for
+victory.  Your hearts races as you wonder whose going to come around the
+corner.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2634
+D3
+~
+~
+0 0 2629
+S
+#2631
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  East leads to
+the east wing, west and south lead elsewhere.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2636
+D2
+~
+~
+0 0 2643
+D3
+~
+~
+0 0 2644
+S
+#2632
+East wing of the arena~
+The screams of people elsewhere in the arena can be heard; the stench of
+pouring sweet smelt.  The game is vigorous, who will come out victorious?  
+~
+0 268443664 0
+D2
+~
+~
+0 0 2633
+S
+#2633
+East wing of the arena~
+The screams of people elsewhere in the arena can be heard; the stench of
+pouring sweet smelt.  The game is vigorous, who will come out victorious?  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2632
+D2
+~
+~
+0 0 2634
+S
+#2634
+East wing of the arena~
+The screams of people elsewhere in the arena can be heard; the stench of
+pouring sweet smelt.  The game is vigorous, who will come out victorious?  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2633
+D2
+~
+~
+0 0 2635
+D3
+~
+~
+0 0 2630
+S
+#2635
+East wing of the arena~
+The screams of people elsewhere in the arena can be heard; the stench of
+pouring sweet smelt.  The game is vigorous, who will come out victorious?  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2634
+D2
+~
+~
+0 0 2636
+S
+#2636
+East wing of the arena~
+The screams of people elsewhere in the arena can be heard; the stench of
+pouring sweet smelt.  The game is vigorous, who will come out victorious?  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2635
+S
+#2637
+East wing of the arena~
+The screams of people elsewhere in the arena can be heard; the stench of
+pouring sweet smelt.  The game is vigorous, who will come out victorious?  
+~
+0 268443668 0
+S
+#2638
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  Down the north
+hall it is easy to see the upper level ends, but maybe there is a way to
+jump down?  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2639
+D1
+~
+~
+0 0 2641
+D2
+~
+~
+0 0 2626
+D3
+~
+~
+0 0 2649
+S
+#2639
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2640
+D2
+~
+~
+0 0 2638
+S
+#2640
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  
+~
+0 268443664 0
+D2
+~
+~
+0 0 2639
+D5
+~
+~
+0 0 2644
+S
+#2641
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2642
+D3
+~
+~
+0 0 2638
+S
+#2642
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  
+~
+0 268443664 0
+D3
+~
+~
+0 0 2641
+D5
+~
+~
+0 0 2643
+S
+#2643
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2631
+D4
+~
+~
+0 0 2642
+S
+#2644
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  
+~
+0 268443668 0
+D0
+~
+~
+0 0 2650
+D1
+~
+~
+0 0 2631
+D3
+~
+~
+0 0 2663
+S
+#2645
+Before the prison~
+The dark musky prison holding all of red's defeated members lies beyond.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2650
+S
+#2646
+Blue's prison~
+You have been eliminated and are stuck here until your team members
+manage you rescue you.  As time slowly ticks by you wonder if they will ever
+be able to.  
+~
+0 268444692 0
+S
+#2647
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2663
+D4
+~
+~
+0 0 2648
+S
+#2648
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2649
+D5
+~
+~
+0 0 2647
+S
+#2649
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2638
+D3
+~
+~
+0 0 2648
+S
+#2650
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2652
+D1
+~
+~
+0 0 2653
+D2
+~
+~
+0 0 2644
+D3
+~
+~
+0 0 2645
+S
+#2651
+Blue flag room~
+Here sits the blue flag unless it has been stolen.  Blue's mission is to
+protect it at all costs, capture the red flag and return it here.  
+~
+0 268443664 0
+D2
+~
+~
+0 0 2653
+D3
+~
+~
+0 0 2652
+S
+#2652
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2651
+D2
+~
+~
+0 0 2650
+S
+#2653
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2651
+D3
+~
+~
+0 0 2650
+S
+#2654
+Arena~
+The tangling mess of arena rooms lies around you with foes lurking
+everywhere.  Which way will you go?  
+~
+0 268443668 0
+D0
+~
+~
+0 0 2657
+D1
+~
+~
+0 0 2655
+S
+#2655
+Arena~
+The tangling mess of arena rooms lies around you with foes lurking
+everywhere.  Which way will you go?  
+~
+0 268443668 0
+D0
+~
+~
+0 0 2658
+D1
+~
+~
+0 0 2656
+D3
+~
+~
+0 0 2654
+S
+#2656
+Arena~
+The tangling mess of arena rooms lies around you with foes lurking
+everywhere.  Which way will you go?  
+~
+0 268443668 0
+D0
+~
+~
+0 0 2659
+D3
+~
+~
+0 0 2655
+D4
+~
+~
+3 0 2627
+S
+#2657
+Arena~
+The tangling mess of arena rooms lies around you with foes lurking
+everywhere.  Which way will you go?  
+~
+0 268443668 0
+D0
+~
+~
+0 0 2660
+D1
+~
+~
+0 0 2658
+D2
+~
+~
+0 0 2654
+S
+#2658
+Arena~
+The tangling mess of arena rooms lies around you with foes lurking
+everywhere.  It looks as if Ryznar has been lost here a long time, and
+gotten comfortable.  His bag sits on the floor beside him.  Which way will
+you go?  
+~
+0 268443668 0
+D0
+~
+~
+0 0 2661
+D1
+~
+~
+0 0 2659
+D2
+~
+~
+0 0 2655
+D3
+~
+~
+0 0 2657
+S
+#2659
+Arena~
+The tangling mess of arena rooms lies around you with foes lurking
+everywhere.  Which way will you go?  
+~
+0 268443668 0
+D0
+~
+~
+0 0 2662
+D2
+~
+~
+0 0 2656
+D3
+~
+~
+0 0 2658
+S
+#2660
+Arena~
+The tangling mess of arena rooms lies around you with foes lurking
+everywhere.  Which way will you go?  
+~
+0 268443668 0
+D1
+~
+~
+0 0 2661
+D2
+~
+~
+0 0 2657
+D4
+~
+~
+3 0 2615
+S
+#2661
+Arena~
+The tangling mess of arena rooms lies around you with foes lurking
+everywhere.  Which way will you go?  
+~
+0 268443668 0
+D1
+~
+~
+0 0 2662
+D2
+~
+~
+0 0 2658
+D3
+~
+~
+0 0 2660
+S
+#2662
+Arena~
+The tangling mess of arena rooms lies around you with foes lurking
+everywhere.  Which way will you go?  
+~
+0 268443668 0
+D2
+~
+~
+0 0 2659
+D3
+~
+~
+0 0 2661
+S
+#2663
+Blue's base~
+The blue lights flashing above let you know you are in the blue base, the
+most dangerous place for a red team member to go wandering.  West leads to
+the west wing, east and south lead elsewhere.  
+~
+0 268443664 0
+D1
+~
+~
+0 0 2644
+D2
+~
+~
+0 0 2647
+D3
+~
+~
+0 0 2624
+S
+#2664
+Arena center~
+The thick aura of concentration is in the air as both teams thrive for
+victory.  Your hearts races as you wonder whose going to come around the
+corner.  
+~
+0 268443664 0
+D0
+~
+~
+0 0 2615
+D1
+~
+~
+0 0 2627
+D2
+~
+~
+0 0 2610
+S
+#2665
+Preparation room~
+It is here mighty competitors from the red team do whatever they can to
+prepare for the game, capture the flag; please read the sign for
+instructions and rules while you wait for the go signal.  Good luck!  
+~
+0 268443668 0
+S
+#2666
+Preparation room~
+It is here mighty competitors from the blue team do whatever they can to
+prepare for the game, capture the flag; please read the sign for
+instructions and rules while you wait for the go signal.  Good luck!  
+~
+0 268443668 0
+S
+#2667
+Flag Holding Area~
+This room is to hold the flags for 1 round to cancel combat.  If you are here
+you shouldn't be.  Request Imm help.
+~
+0 524308 0
+S
+#2668
+The ScoreBoard~
+The Score will appear in this room!
+ 
+This room also receives Jail closing announcements.
+ 
+Dead {BBLUE{x players go to {B2613{x
+Dead {RRED{x players go to {R2646{x
+ 
+Simply say '{YGame reset{x' in this room to reset the game.
+{BBlue Team{x's pre-game prep room is 2666.
+{RRed Team{x's pre-game prep room is 2665.
+Simply say '{YGame Start{x in this room to unlock prep rooms and begin the game.
+~
+0 1605636 0
+S
+#2669
+Red's base~
+The red lights flashing above let you know you are in the red base, the
+most dangerous place for a blue team member to go wandering.  
+~
+0 268443668 0
+D1
+~
+~
+0 0 2611
+D5
+~
+~
+0 0 2614
+S
+#2670
+Flag Training Zone~
+This area helps you learn how to control the flags.  There should be a
+few red and blue flags wandering around the area.  To take control of a
+flag, simply attack it.  Once it declares its master that person may control
+the flag.  To control the flag, simply speak the direction you wish to move,
+and the flag will move that way.  Be warned, flags have sneak!  If flags of
+the opposite colour bump into each other, they will panic and flee.  They
+will also forget their master.  When you are done learning about flags, head
+out of this area through a door to the north.  
+~
+0 1835024 0
+D0
+~
+~
+0 0 2674
+D1
+~
+~
+0 0 2671
+D3
+~
+~
+0 0 2672
+S
+#2671
+Flag Training Zone~
+This area helps you learn how to control the flags.  There should be a
+few red and blue flags wandering around the area.  To take control of a
+flag, simply attack it.  Once it declares its master that person may control
+the flag.  To control the flag, simply speak the direction you wish to move,
+and the flag will move that way.  Be warned, flags have sneak!  If flags of
+the opposite colour bump into each other, they will panic and flee.  They
+will also forget their master.  When you are done learning about flags, head
+out of this area through a door to the north.  
+~
+0 1572880 0
+D0
+~
+~
+0 0 2673
+D3
+~
+~
+0 0 2670
+S
+#2672
+Flag Training Zone~
+This area helps you learn how to control the flags.  There should be a
+few red and blue flags wandering around the area.  To take control of a
+flag, simply attack it.  Once it declares its master that person may control
+the flag.  To control the flag, simply speak the direction you wish to move,
+and the flag will move that way.  Be warned, flags have sneak!  If flags of
+the opposite colour bump into each other, they will panic and flee.  They
+will also forget their master.  When you are done learning about flags, head
+out of this area through a door to the north.  
+~
+0 1572880 0
+D0
+~
+~
+0 0 2675
+D1
+~
+~
+0 0 2670
+S
+#2673
+Flag Training Zone~
+This area helps you learn how to control the flags.  There should be a
+few red and blue flags wandering around the area.  To take control of a
+flag, simply attack it.  Once it declares its master that person may control
+the flag.  To control the flag, simply speak the direction you wish to move,
+and the flag will move that way.  Be warned, flags have sneak!  If flags of
+the opposite colour bump into each other, they will panic and flee.  They
+will also forget their master.  When you are done learning about flags, head
+out of this area through a door to the north.  
+~
+0 1572880 0
+D2
+~
+~
+0 0 2671
+D3
+~
+~
+0 0 2674
+S
+#2674
+Flag Training Zone~
+This area helps you learn how to control the flags.  There should be a
+few red and blue flags wandering around the area.  To take control of a
+flag, simply attack it.  Once it declares its master that person may control
+the flag.  To control the flag, simply speak the direction you wish to move,
+and the flag will move that way.  Be warned, flags have sneak!  If flags of
+the opposite colour bump into each other, they will panic and flee.  They
+will also forget their master.  When you are done learning about flags, head
+out of this area through a door to the north.  
+There is a large door to the north.
+~
+0 1835024 0
+D0
+~
+~
+1 0 2676
+D1
+~
+~
+0 0 2673
+D2
+~
+~
+0 0 2670
+D3
+~
+~
+0 0 2675
+S
+#2675
+Flag Training Zone~
+This area helps you learn how to control the flags.  There should be a
+few red and blue flags wandering around the area.  To take control of a
+flag, simply attack it.  Once it declares its master that person may control
+the flag.  To control the flag, simply speak the direction you wish to move,
+and the flag will move that way.  Be warned, flags have sneak!  If flags of
+the opposite colour bump into each other, they will panic and flee.  They
+will also forget their master.  When you are done learning about flags, head
+out of this area through a door to the north.  
+~
+0 1572880 0
+D1
+~
+~
+0 0 2674
+D2
+~
+~
+0 0 2672
+S
+#2676
+Jail Training Room~
+North of here is a jail.  You can't get in, your teammates can't get out.
+To break the jail, kill the jail keeper!  When you're done, head East.  
+~
+0 1572880 0
+D0
+~
+~
+0 0 2677
+D1
+~
+~
+0 0 2678
+D2
+~
+~
+1 0 2674
+S
+#2677
+In the Jail~
+You have broken into the jail.  Congrats.  Your teammates would be free.  
+~
+0 1572880 0
+D2
+~
+~
+0 0 2676
+S
+#2678
+The Waiting Room~
+That's it!  Now just wait for the immortal running this tourney to trans
+you to your waiting room.  Good luck!  
+~
+0 1048852 0
+S
+#2698
+The {mUnderworld {RPrison{x~
+{rWelcome{x to the {RPrison{x of the {mUnderworld{x.  If your here you
+did something you should {RNOT{x have done.  A Cage sits in the center of
+this room over packed with {ymortals{x!  The smell of them {rDieing{x is
+{yhoffific{x.  One's arm lashes out from the cage and grabs your leg
+"{mPlease, please show {Rmercy{M!  Kill me now{M!  {x" 
+~
+0 270016772 11
+S
+#2699
+{gNogusto's {mUnderwold {rLair{x~
+The walls in this room begin to dance wildly with bursting intense flames
+The floor seems to be ice cold stone and a transparent carpet seems to lead
+to a massive throne of dead bodies that is sticted together by rusted wires.
+An odour of rotting flesh and whimpers of moaning come from the south.
+ 
+ 
+ 
+A {MKitten{x is here, licking scabs from its rotting flesh.
+~
+0 524297 11
+E
+kitten~
+A {MKitten{x is here.  Its eyes seem to be soan shut and it barely has
+fur left on its body.  What fur it has seems to be burnt into its flesh. 
+The kitten is here purring as it licks scabs from its rotting flesh.  
+~
+D2
+~
+~
+0 0 2698
+M 350 H 350
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#2623
+if carries redflag 2602
+mob call 2608
+endif
+say DEBUG
+~
+A
+#2622
+mob echo As the Jail Keeper dies, the prison opens with a resounding thud.
+~
+A
+#2619
+mob goto 2666
+unlock south
+open south
+mob goto 2665
+unlock north
+open north
+mob goto 2668
+mob zecho {RTHE GAME HAS BEGUN!{x
+~
+A
+#2618
+if isimmort $n
+mob goto blueflag
+mob echo The {BBlue Flag{x disappears in a puff of smoke.
+mob transfer blueflag 2651
+mob at blueflag mob echo The {BBlue Flag{x appears in the room with a puff of smoke.
+mob goto redflag
+mob echo The {RRed Flag{x disappears in a puff of smoke.
+mob transfer redflag 2601
+mob at redflag mob echo The {RRed Flag{x appears in the room with a puff of smoke.
+mob call 2617
+mob goto 2666
+close south
+lock south
+mob goto 2665
+close north
+lock north
+mob goto 2668
+mob purge
+say Game Reset!
+endif
+~
+A
+#2613
+if mobhere 2651
+mob zecho The {RRed Team{x scores a point!
+mob transfer Blueflag 2651
+mob echo The {BBlue Flag{x disappears in a puff of smoke.
+mob at blueflag mob echo The {BBlue Flag{x appears in the room with a puff of smoke.
+mob goto redflag
+mob echo The {RRed Flag{x has been returned to base.
+mob transfer redflag 2601
+mob at redflag mob echo The {RRed Flag{x appears in the room with a puff of smoke.
+mob goto 2668
+mob oload 2604 0
+mob goto 2601
+endif
+mob junk flaghere
+~
+A
+#2611
+if carries $i 2602
+else
+if mobhere 2651
+mob zecho The {RRed Team{x is about to score!
+mob oload 2602 0
+mob delay 6
+endif
+endif
+~
+A
+#2612
+if mobhere 2650
+mob zecho {BBlue Team{x scores a point!
+mob transfer redflag 2601
+mob echo The {RRed Flag{x disappears in a puff of smoke.
+mob at redflag mob echo The {RRed Flag{x appears in the room with a puff of smoke.
+mob goto blueflag
+mob echo The {BBlue Flag{x has been returned to base.
+mob transfer blueflag 2651
+mob at blueflag mob echo The {BBlue Flag{x appeasr in the room with a puff of smoke.
+mob goto 2668
+mob oload 2603 0
+mob goto 2651
+endif
+mob junk flaghere
+~
+A
+#2610
+if carries $i 2602
+else
+if mobhere 2650
+mob oload 2602 0
+mob zecho The {BBlue Team{x is about to score!
+mob delay 6
+endif
+endif
+~
+A
+#2609
+if isnpc $n
+if vnum $n == 2650
+or vnum $n == 2651
+if vnum $i == 2650
+mob echo {yThe {Rred {yflag says 'AAAAHHHH!!'{x
+else
+mob echo {yThe {Bblue {yflag says 'AAAAHHHH!!'{x
+endif
+point flag
+mob oload 2602 0
+mob delay 1
+endif
+endif
+~
+A
+#2607
+if room $i == 2601
+mob echo {yThe {Bblue{y flag says 'This is it!'{x
+else
+if room $i == 2651
+if mobhere 2650
+mob echo {yThe {Bblue {yflag says 'Stop the {RRed Flag{y!'{x
+endif
+else
+if mobhere 2650
+say {yIt's the {RRed Flag!{x
+point red
+mob oload 2602 0
+mob delay 1
+endif
+endif
+endif
+~
+A
+#2606
+if room $i == 2651
+mob echo {yThe {Rred{y flag says 'This is it!'{x
+else
+if room $i == 2601
+if mobhere 2651
+mob echo {yThe {Rred{y flag says 'Stop the {BBlue Flag{y!'{x
+endif
+else
+if mobhere 2651
+say {yIt's the {BBlue Flag{y!
+point blue
+mob oload 2602 0
+mob delay 1
+endif
+endif
+endif
+~
+A
+#2605
+if carries $i 2600
+if istarget $n
+if isfollow $n
+mob force $n follow $n
+endif
+west
+endif
+endif
+~
+A
+#2604
+if carries $i 2600
+if istarget $n
+if isfollow $n
+mob force $n follow $n
+endif
+south
+endif
+endif
+~
+A
+#2603
+if carries $i 2600
+if istarget $n
+if isfollow $n
+mob force $n follow $n
+endif
+east
+endif
+endif
+~
+A
+#2602
+if carries $i 2600
+if istarget $n
+if isfollow $n
+mob force $n follow $n
+endif
+north
+endif
+endif
+~
+A
+#2601
+if carries $i 2601
+mob junk isfight
+mob goto $q
+if vnum $i == 2650
+mob echo {yThe {Rred{y flag says '$q is my master!'{x
+else
+mob echo {yThe {Bblue{y flag says '$q is my master!'{x
+endif
+endif
+if carries $i 2600
+else
+mob oload 2600 0
+endif
+if carries $i 2602
+mob junk flaghere
+mob call 2608 $i
+endif
+~
+A
+#2600
+If carries $i 2601
+else
+if ispc $n
+mob oload 2601 0
+mob echo $I begins to look for a new master.
+mob remember $n
+mob damage $n 50 150
+mob goto 2667
+mob delay 1
+endif
+endif
+~
+A
+#2649
+mob remember $n
+mob cancel
+mob goto $n
+~
+A
+#2650
+if name $q == $n
+sa ok?
+endif
+sa ok
+~
+A
+#2608
+mob echo $I panics and flees!
+mob forget
+if rand 25
+if rand 25
+north
+else
+if rand 33
+east
+else
+if rand 50
+south
+else
+west
+endif
+endif
+endif
+else
+if rand 33
+if rand 25
+south
+else
+if rand 33
+east
+else
+if rand 50
+north
+else
+west
+endif
+endif
+endif
+else
+if rand 50
+if rand 25
+west
+else
+if rand 33
+south
+else
+if rand 50
+north
+else
+east
+endif
+endif
+endif
+else
+if rand 25
+east
+else
+if rand 33
+south
+else
+if rand 50
+west
+else
+north
+endif
+endif
+endif
+endif
+endif
+endif
+~
+A
+#2614
+mob echoat $n The Jail is locked, and there's nothing you can do about it.
+mob echoaround You watch as $n makes a pathetic attempt to break out of the jail.
+~
+A
+#2615
+mob echo As the Jail Keeper dies, the prison opens with a resounding thud.
+mob goto 2646
+mob echo You hear the sounds of battle to the south, and suddenly the jail door {RSWINGS OPEN!!{x
+mob purge bluejail
+if objhere 2606
+else
+mob oload 2606 0
+endif
+mob goto 2645
+~
+A
+#2616
+mob echo As the Jail Keeper dies, the prison opens with a resounding thud.
+mob goto 2613
+mob echo You hear the sounds of battle to the south, and suddenly the jail door {RSWINGS OPEN!  RUN FOR IT!!{x
+mob purge redjail
+if objhere 2605
+else
+mob oload 2605 0
+endif
+mob goto 2612
+~
+A
+#2617
+mob goto 2613
+if mobhere 2605
+if objhere 2605
+mob purge swap
+endif
+else
+mob mload 2605
+mob purge swap
+mob echo The door swings shut with a resounding THUD!
+endif
+mob goto 2612
+if mobhere 2603
+else
+mob mload 2603
+mob echo A jail keeper coalesces into existence and begins guarding the door.
+Mob echo The door swings shut with a resounding THUD!
+endif
+ 
+mob goto 2646
+if mobhere 2606
+if objhere 2606
+mob purge swap
+endif
+else
+mob mload 2606
+mob purge swap
+mob echo The door swings shut with a resounding THUD!
+endif
+mob goto 2645
+if mobhere 2604
+else
+mob mload 2604
+mob echo A jail keeper coalesces into existence and begins guarding the door.
+Mob echo The door swings shut with a resounding THUD!
+endif
+mob goto 2668
+say JAILS CHECKED.
+mob goto 2667
+~
+A
+#2620
+Mob force blueflag mob echo The {Bblue{x flag panics and flees!
+Mob force blueflag mob forget
+if rand 25
+if rand 25
+Mob force blueflag north
+else
+if rand 33
+Mob force blueflag  east
+else
+if rand 50
+Mob force blueflag  south
+else
+Mob force blueflag west
+endif
+endif
+endif
+else
+if rand 33
+if rand 25
+Mob force blueflag  south
+Mob force blueflag else
+if rand 33
+Mob force blueflag east
+else
+if rand 50
+Mob force blueflag north
+else
+Mob force blueflag west
+endif
+endif
+endif
+else
+if rand 50
+if rand 25
+Mob force blueflag west
+else
+if rand 33
+Mob force blueflag south
+else
+if rand 50
+Mob force blueflag north
+else
+endif
+endif
+endif
+else
+if rand 25
+Mob force blueflag east
+else
+if rand 33
+Mob force blueflag south
+else
+if rand 50
+Mob force blueflag west
+else
+Mob force blueflag north
+endif
+endif
+endif
+endif
+endif
+endif
+~
+A
+#2621
+Mob force redflag mob echo The {Rred{x flag panics and flees!
+Mob force redflag mob forget
+if rand 25
+if rand 25
+Mob force redflag north
+else
+if rand 33
+Mob force redflag  east
+else
+if rand 50
+Mob force redflag  south
+else
+Mob force redflag west
+endif
+endif
+endif
+else
+if rand 33
+if rand 25
+Mob force redflag  south
+else
+if rand 33
+Mob force redflag east
+else
+if rand 50
+Mob force redflag north
+else
+Mob force redflag west
+endif
+endif
+endif
+else
+if rand 50
+if rand 25
+Mob force redflag west
+else
+if rand 33
+Mob force redflag south
+else
+if rand 50
+Mob force redflag north
+else
+endif
+endif
+endif
+else
+if rand 25
+Mob force redflag east
+else
+if rand 33
+Mob force redflag south
+else
+if rand 50
+Mob force redflag west
+else
+Mob force redflag north
+endif
+endif
+endif
+endif
+endif
+endif
+ 
+~
+A
+#2633
+mob goto 2612 
+mob mload 2603
+mob echo The dead jailor clambers to his feet and brushes himself off.
+mob goto 2667
+ 
+~
+A
+#2634
+mob goto 2645
+mob mload 2604
+mob echo The dead jailor clambers to his feet and brushes himself off.
+mob goto 2667
+~
+A
+#0
+
+#RESETS
+D 0 2615 5 2
+D 0 2627 5 2
+D 0 2656 4 2
+D 0 2660 4 2
+M 1 2603 1 2612 1
+M 1 2604 1 2645 1
+M 1 2609 1 2658 1
+G 0 2611 0
+G 0 2612 0
+G 0 2613 0
+G 0 2614 0
+G 0 2615 0
+O 0 2618 0 2658
+O 0 2699 0 2699
+S
+
+
+
+#SHOPS
+2609 0 0 0 0 0 200 80 0 23
+0
+
+
+
+#$

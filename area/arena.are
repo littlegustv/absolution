@@ -1,0 +1,3219 @@
+#AREADATA
+Name Arena~
+Builders None~
+VNUMs 8200 8299
+Credits { None} Tommy       The Arena~
+Security 1
+Xcontinent 0
+Age 1
+Questable 1
+End
+
+
+
+#MOBILES
+#8200
+vendor shopkeeper~
+a vendor~
+A Vendor is here, selling his wares
+~
+This greedy man is selling potions and trinkets to the fans and as well
+as the contestants..  If you run out, he is the man to see.  I would suggest
+that you stock up now, he will not be in the arena when the fighting begins.
+He is kind of expensive, but those potions are worth it in a bind.  
+~
+human~
+AB HS -1000 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8201
+cleric healer arena~
+a healer~
+The Arena's cleric is here, selling spells.
+~
+Although retired from adventuring, the healer still lends a hand for a
+large price.  Type 'heal' to see what he has to offer.  
+~
+human~
+ABa DFH 0 0
+40 0 1d1+999 1d1+999 2d4+30 none
+-15 -15 -15 -15
+FHIK ABCDK 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8202
+the Champion of the Arena~
+the Champion of the Arena~
+The Champion of the Arena
+~
+The ultimate warrior.  A master of all forms of combat.  To tangle with
+him is to tangle with death.  He is larger then Tetragon, and more nasty. 
+If you see him, go the other way 
+~
+giant~
+AHST CDFHVa -1000 0
+60 56 15d200+2000 55d10+100 19d19+65 wrath
+-17 -17 -17 -17
+ABC ABC HI JP
+stand stand male 30000
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#8210
+Katherine~
+Katherine~
+Katherine is here greeting those who enter the maze.
+~
+~
+human~
+ABGI DFHJ 1000 0
+56 5 50d10+7500 1d1+100 10d4+24 none
+-26 -26 -26 -26
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 8210 99~
+#8211
+goldfish~
+a goldfish~
+A tiny goldfish is here swimming around in circles.
+~
+This little goldfish is probably the smallest fish in the ocean.  It
+swims around in endless circles searching for bits of food to nibble on. 
+Such a tiny fish does not have to worry much about the other fish trying to
+eat it.  It swims along oblivious to the fact that the ocean is filled with
+ravenous creatures searching for worthy prey.  
+~
+snake~
+AG J 0 0
+8 0 2d7+96 1d1+100 1d7+2 chomp
+3 3 3 3
+0 AB L I
+stand stand none 0
+AGHXYbc ADEFKLQVX small 0 the guilds~
+M random 8211 3~
+#8212
+minnow~
+a minnow~
+A tiny minnow is here taunting the other fish.
+~
+This tiny minnow darts back and forth taunting all the other fish.  The
+minnow thinks it is far more intelligent than the other fish in the ocean. 
+The minnow fails to realize it is nothing more than a tasty snack for most
+of the other fish.  
+~
+snake~
+AG J 0 0
+9 0 2d6+110 1d1+100 1d8+2 chomp
+2 2 2 2
+0 AB L I
+stand stand none 0
+AGHXYbc ADEFKLQVX small 0 the guilds~
+M grall 8212 99~
+#8213
+lobster~
+a lobster~
+A lobster is here trying to pinch you.
+~
+This bright red lobster is walking along the ocean bottom keeping an eye
+out for a mate.  It takes a quick look at you and realizes you are no
+crustacean.  It raises its pincers in an aggressive fashion and prepares to
+pinch you to death.  
+~
+snake~
+ABG J 0 0
+10 1 2d7+121 1d1+100 2d4+2 claw
+1 1 1 1
+0 AB L I
+stand stand none 0
+AGHQXYc ADEFKLMQUVX small 0 the guilds~
+M random 8213 3~
+#8214
+seahorse jazlyn~
+a seahorse~
+A seahorse is here watching your every move.
+~
+A little seahorse drifts towards you and inspects your belongings.  It
+might be a good idea to make sure it has not lifted anything out of your
+backpack.  This curious little creature seems quite interested in you. 
+Lucky for you it is not an aggressive animal or there might be trouble.  
+~
+snake~
+AG J 0 0
+11 1 2d8+134 1d1+100 1d10+2 peckb
+1 1 1 1
+0 AB L I
+stand stand none 0
+AGHXYbc ADEFKLQVX small 0 the guilds~
+M random 8214 3~
+#8215
+starfish~
+a starfish~
+A starfish is here crawling along the ocean bottom.
+~
+This colourful starfish is slowly crawling along the bottom of the ocean
+floor.  It looks like something tried to take a bite out of it as two of its
+arms are slowly growing back in.  The starfish looks docile so as long as
+you do not harass it there should be no problem.  
+~
+snake~
+AG J 0 0
+20 2 3d9+333 1d1+100 2d8+5 sting
+-4 -4 -4 -4
+0 AB L I
+stand stand none 0
+AGHXYbc ADEFKLQVX small 0 the guilds~
+#8216
+sea turtle~
+a sea turtle~
+A large sea turtle is here drifting through the water.
+~
+This large sea turtle swims along quietly through the water.  Its large
+flippers silently maneuver it around the ocean.  The sea turtle keeps its
+distance from you hoping to avoid a confrontation.  By the look of the
+turtle it would probably be well protected from your attacks however.  Its
+shell is heavily marked from encounters with sharks and squids.  The turtle
+remains safe all physical danger so long as it remains in its protective
+shell.  
+~
+snake~
+AG J 0 0
+22 2 5d10+400 1d1+100 4d4+6 none
+-5 -5 -5 -5
+0 ABD L I
+stand stand none 0
+AGHXYac ABCDEFKLQVX large 0 the guilds~
+M random 8216 3~
+#8217
+angel fish~
+an angel fish~
+An angel fish is here swimming around in circles.
+~
+This angel fish is a beautiful specimen.  It swims along in all its
+splendor.  It is quite a fair size as well looking like a big dish floating
+through the water.  The angel fish does not seem very concerned with your
+presence and it might be best if you do not draw its attention.  
+~
+snake~
+AG J 0 0
+21 2 4d10+360 1d1+100 4d4+5 none
+-5 -5 -5 -5
+0 AB L I
+stand stand none 0
+AGHXYbc ADEFKLQVX medium 0 the guilds~
+M random 8217 3~
+#8218
+mermaid~
+a mermaid~
+A mermaid sits here basking in the sun.
+~
+A beautiful mermaid is resting here on the coral reef.  She is one of the
+children of Neptune as he considers all creatures of the sea his offspring. 
+She seems to be enjoying a moment in the sun at the moment.  If you approach
+her she may be able to help you in your search for treasure.  
+~
+human~
+ABG DFHJ 1000 0
+30 3 6d12+853 1d1+100 4d6+8 slap
+-9 -9 -9 -9
+0 AB 0 0
+rest rest female 0
+AHMVb ABCDEFGHIJK medium 0 the guilds~
+M give 8253 silverpellet~
+M give 8251 goldpellet~
+M give 8252 copperpellet~
+M grall 8217 99~
+#8219
+electric eel~
+an electric eel~
+An electric eel is here waiting to attack you!
+~
+This eel has one thing on its mind at the moment and that is ripping you
+to pieces.  As you appear to have intruded on its home you have no choice
+but to face it to the death now.  The eel shines in the darkness of the
+chasm.  If the razor sharp teeth in its mouth do not finish you then the
+electrical current probably will.  
+~
+snake~
+ABF DFJLQV -800 0
+51 0 50d10+5000 25d9+100 5d8+20 shbite
+-21 -21 -21 3
+FHU ABJ L IS
+stand stand none 0
+ABGHMXYc ADEFKLQVX medium 0 the guilds~
+M grall 8219 99~
+#8220
+shark~
+a shark~
+A great white shark is here circling you ominously.
+~
+A great white shark eases its way through the water towards you.  You
+expect a fight from the start but the shark seems to be more interested in
+sizing you up first.  It waits for its chance to strike at you.  There is no
+telling what kind of damage this thing can do to you.  You should move on
+before it decides to go for the kill.  
+~
+snake~
+AB DFJV 0 0
+53 5 50d10+6000 1d1+100 6d7+21 bite
+-23 -23 -23 -23
+DFHU AB LP I
+stand stand none 0
+AGHXYbc ADEFKLQVX large 0 the guilds~
+M delay 8215 99~
+M grall 8220 99~
+#8221
+squid~
+a squid~
+A ravenous squid is here looking for fresh meat.
+~
+This ugly squid was in search of food but since you have arrived it turns
+its attention towards you.  It darts at you with blinding speed and rips a
+chunk of flesh from you with its mouth.  Lost in a feeding frenzy it
+continues to dive at you and rip you to shreds.  
+~
+snake~
+AB DFJV -300 0
+40 0 15d10+1850 20d9+100 4d8+13 bite
+-13 -13 -13 5
+FHU AB L I
+stand stand none 0
+AGHXYc ADEFKLNQVX medium 0 the guilds~
+M delay 8231 99~
+M grall 8221 99~
+#8222
+octopuss~
+an octopuss~
+An octopuss is here flailing its tentacles around.
+~
+A gigantic octopuss is here flailing its tentacles around in search of
+food.  It catches sight of you and moves towards you.  The suction cups of
+the creature are huge with large thorny spikes sticking out of their
+centers.  The tentacles begin to wrap around you and squeeze you with great
+force.  As you black out you realize that maybe you should not have barged
+in on the octopuss after all.  
+~
+snake~
+ABFG QV 0 0
+40 -2 15d10+1850 15d10+1850 4d8+13 suction
+-13 -13 -13 -13
+DFHKNO AB L I
+stand stand none 0
+AGHXYbc ABCDEFGHIJKLQVX giant 0 the guilds~
+M grall 8222 99~
+#8223
+skeletal captain~
+the skeletal captain~
+The skeletal captain is here watching you.
+~
+The skeletal remains of the captain are here keeping watch over the
+sunken ship.  His corpse has been picked clean and now all that remains are
+the bones of the poor fellow.  The captain does not move much but it seems
+that his spirit still remains intact as the skeleton keeps its empty eye
+sockets centered on you.  The captain might be of some assistance to you if
+you can convince him to help you out.  
+~
+human~
+AB DFH 0 0
+55 -1 50d10+7000 50d10+7000 10d4+23 pound
+-25 -25 -25 -25
+FN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M give 8240 bottlerum~
+M grall 8223 99~
+#8224
+giant pike~
+a giant pike~
+A giant pike is here preparing to swallow you whole.
+~
+A giant pike swims along quietly and works its way towards you.  The
+empty stare of its eyes fills you with a very uneasy feeling.  The pike has
+set its sights on you for its next meal.  A fish that size could probably do
+a lot of damage to you if you are not careful.  
+~
+snake~
+AB DFJVZ 0 0
+45 30 1d1+3999 1d1+499 5d4+40 chomp
+-25 -25 -25 -15
+DFHO ABP CDHIL I
+stand stand none 0
+AGHXYbc ADEFKLQVX huge 0 the guilds~
+M delay 8228 99~
+M grall 8224 99~
+#8225
+Justice grog litazia maclav~
+Justin the {BMighty{x~
+Justin the {BMighty{x is here caught in some snaggleweed.
+~
+Justin the {BMighty{x is an exceptional swimmer but somehow he has
+managed to get himself entangled in some snaggleweed.  There is no telling
+how long he has been stuck here but it seems safe to say it has been quite
+some time.  Obviously he was not paying very close attention to his
+surroundings and ended up caught in the weeds.  It would be a good idea to
+keep your distance.  The last thing you need is him grabbing hold of you and
+getting you tangled up as well.  
+~
+human~
+ABT HJV 500 0
+56 5 50d10+7500 1d1+100 10d4+24 none
+-26 -26 -26 -26
+CDEFHIJKO BP E 0
+stand stand male 100
+AHMV ABCDEFGHIJK large 0 the guilds~
+M grall 8225 99~
+#8226
+Neptune~
+Neptune~
+Neptune rests here atop his oyster throne.
+~
+Regal as always Neptune sits here atop his oyster throne and surveys his
+surroundings.  The king of the ocean watches over his kingdom with a keen
+eye.  Those who offend him by attacking his children in his presence are
+dealt with swiftly by his hand.  Neptune welcome visitors to his ocean but
+expects guests to show the respect due to him.  
+~
+snake~
+ABIR DFHN 1000 0
+59 0 50d10+8500 59d9+100 10d4+24 punch
+-28 -28 -28 -9
+R ABCD L I
+sit stand male 0
+AGHMVXYc ABCDEFGHIJKLQVX giant 0 the guilds~
+M exall 8243 0~
+M grall 8226 99~
+#8227
+dolphin~
+a dolphin~
+A mischievous dolphin is here playing in the water.
+~
+This friendly dolphin seems to be no threat.  Though you notice it is
+perhaps a bit too interested in you.  It begins to nose about your
+belongings and tries to swim off with some of your things.  It would be wise
+to keep a close eye on this playful creature otherwise you might find
+yourself losing all the treasure you may have found so far.  
+~
+snake~
+AH JNPV 1000 0
+60 6 50d10+12000 1d1+100 1d1+1 chomp
+-30 -30 -30 -30
+CFHU AB CDEL I
+stand stand either 0
+AGHVXYc ADEFKLQVX large 0 the guilds~
+M give 8254 pellet~
+M fight 8234 99~
+M delay 8230 99~
+M grall 8227 99~
+#8229
+skeletal parrot polly~
+a skeletal parrot~
+A skeletal parrot is here keeping the captain company.
+~
+The skeletal parrot is the captain's only source of entertainment these
+days.  It talks without end and you wish it would just shut up.  Since the
+captain seems to enjoy the parrot's company though it would be best to not
+torment the bird in any way.  The captain probably would not appreciate you
+harassing his pet at all.  
+~
+song bird~
+AB DFJTV 0 0
+51 0 50d10+5000 25d9+100 5d8+20 none
+-21 -21 -21 3
+FH AB 0 S
+stand stand male 0
+AGHW ACDEFHKP small 0 the guilds~
+M fight 8237 99~
+M random 8236 3~
+M random 8235 3~
+#8230
+giant squid~
+a giant squid~
+A giant squid is here flailing about wildly.
+~
+A giant squid is here flailing its tentacles about wildly looking for
+something to grab hold of.  Tales of giant squids have been told for ages. 
+Up until now you may have believe them to be nothing more than stories to
+frighten children away from a life at sea.  Seeing is believing however and
+this giant squid is very real.  
+~
+snake~
+ABG DJLVZ -1000 0
+58 0 1d1+17999 1d1+999 5d11+28 acbite
+-28 -28 -28 -28
+CDFHK ABP CDL I
+stand stand none 0
+AGHXYbc ADEFKLNQUVX huge 0 the guilds~
+M exall 8233 0~
+M grall 8232 99~
+#8231
+shark~
+a shark~
+A great white shark is here circling you ominously.
+~
+A great white shark eases its way through the water towards you.  You
+expect a fight from the start but the shark seems to be more interested in
+sizing you up first.  It waits for its chance to strike at you.  There is no
+telling what kind of damage this thing can do to you.  You should move on
+before it decides to go for the kill.  
+~
+snake~
+AB DFJV 0 0
+53 5 50d10+6000 1d1+100 6d7+21 none
+-23 -23 -23 -23
+DFHU AB LP I
+stand stand none 0
+AGHXYbc ADEFKLQVX large 0 the guilds~
+M grall 8220 99~
+M delay 8215 99~
+#8232
+electric eel~
+an electric eel~
+An electric eel is here waiting to attack you!
+~
+This eel has one thing on its mind at the moment and that is ripping you
+to pieces.  As you appear to have intruded on its home you have no choice
+but to face it to the death now.  The eel shines in the darkness of the
+chasm.  If the razor sharp teeth in its mouth do not finish you then the
+electrical current probably will.  
+~
+snake~
+ABF DFJLQV -800 0
+51 0 50d10+5000 25d9+100 5d8+20 none
+-21 -21 -21 3
+FHU ABJ L IS
+stand stand none 0
+ABGHMXYc ADEFKLQVX medium 0 the guilds~
+M grall 8219 99~
+#8233
+merman~
+a merman~
+A merman is here observing the schools of fish.
+~
+This happy merman is one of the children of Neptune.  He swims along
+happily observing the schools of fish swimming around the ocean.  He looks
+harmless.  As a child of Neptune it would probably be very dangerous to
+attack him in the presence of the lord of the ocean himself.  
+~
+human~
+AB DFV 1000 0
+23 0 5d10+450 11d9+100 3d6+6 thrust
+-6 -6 -6 6
+FU AB 0 0
+stand stand male 0
+AHMVb ABCDEFGHIJKQX medium 0 the guilds~
+M grall 8238 99~
+#8234
+merman~
+a merman~
+A merman is here observing the schools of fish.
+~
+This happy merman is one of the children of Neptune.  He swims along
+happily observing the schools of fish swimming around the ocean.  He looks
+harmless.  As a child of Neptune it would probably be very dangerous to
+attack him in the presence of the lord of the ocean himself.  
+~
+human~
+AB DFV 1000 0
+23 0 5d10+450 11d9+100 3d6+6 none
+-6 -6 -6 6
+FU AB 0 0
+stand stand male 0
+AHMVb ABCDEFGHIJKQX medium 0 the guilds~
+M fight 8239 99~
+M grall 8238 99~
+#8235
+giant wave~
+a giant wave~
+A giant wave is here pulling you along in its undertow.
+~
+This giant wave is carrying you along in its undertow.  You can only hope
+it does not end up crashing you upon some rocky shore somewhere.  For now
+all you can do is go along for the ride as it drags you onwards.  
+~
+human~
+ABI CDFJZ 1000 0
+57 30 1d1+19999 1d1+499 5d4+40 crush
+-20 -20 -20 -10
+DFHKO ABCDP 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK large 0 the guilds~
+M delay 8242 99~
+M grall 8241 99~
+#8236
+Katherine~
+Katherine~
+Katherine is here mourning over your death.
+~
+Katherine mourns your death but have no fear.  She can help bring you
+back to the world of the living.  She informs you that you can recall or
+gate out from here or if you wish just say the word 'restart' and she can
+set you back to the entrance of the maze.  The choice is yours to make.  
+~
+human~
+ABGI DFHJ 1000 0
+56 5 50d10+7500 1d1+100 10d4+24 none
+-26 -26 -26 -26
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 8250 restart~
+#8241
+Katherine~
+Katherine~
+Katherine is here congratulating those who finish the maze.
+~
+Katherine sits here awaiting those who have made it to the end of the
+aquatic quest maze.  She smiles at you pleasantly and waves as you enter the
+crow's nest.  She is always happy to see people find their way to the exit
+of the maze.  
+~
+human~
+ABGI DFHJ 1000 0
+56 5 50d10+7500 1d1+100 10d4+24 pound
+-26 -26 -26 -26
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 8246 yes~
+M speech 8245 no~
+M grall 8244 99~
+#8275
+mad alchemist~
+{ra mad alchemist{x~
+A mad alchemist is here dropping potions.
+~
+This mad alchemist is here causing trouble in the middle of the tourney. 
+He distracts you by dropping odd brews on the ground every now and then. 
+The only problem is some of these brews are not the kind you would want to
+quaff.  It might be a good idea to avoid using these unless you happen to
+enjoy living dangerously.  
+~
+human~
+ABGI J 0 0
+56 5 50d10+7500 1d1+100 10d4+24 none
+-26 -26 -26 -26
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 8275 10~
+#8276
+healer~
+the healer~
+A healer is here, selling spells. 
+~
+Although retired from adventuring, the healer still lends a hand. 
+Type 'heal' to see a listing of spells. 
+~
+human~
+ABQVa DFH 1000 0
+40 0 1d1+999 1d1+999 2d4+30 none
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#8200
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion GNW AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 5000 P
+#8201
+white off potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 1000 P
+#8202
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 5000 P
+#8203
+potion true sight~
+a potion of true sight~
+A potion of true sight is here.~
+glass~
+potion G AO
+10 'detect invis' 'detect magic' '(null)' '(null)'
+4 10 2000 P
+#8204
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 5000 P
+#8205
+a silver marble~
+a small silver marble~
+A small marble is here~
+silver~
+throwing 0 AO
+4 2 pierce 20 'invisibility'
+10 1 500 P
+#8206
+a Tommy doll~
+a Tommy doll~
+A Tommy doll~
+cloth~
+gem T AO
+0 0 0 0 0
+1 0 5500 P
+#8207
+arena key~
+the Arena key~
+The Arena key has been dropped here.~
+wood~
+key 0 AO
+0 0 0 0 0
+0 5 0 P
+#8208
+a Portal Home~
+a Portal Home~
+A Portal Home~
+energy~
+portal ABGOT P
+-1 0 0 3014 0
+0 -31072 0 P
+#8209
+plaque~
+a plaque~
+A plaque is embedded in the ground before the maze entrance.~
+wood~
+trash 0 P
+0 0 0 0 0
+0 0 0 P
+E
+plaque~
+~
+#8210
+copperpellet pellet~
+a pellet of copper~
+A small pellet of copper looks like it might be worth something.~
+gem~
+gem W A
+0 0 0 0 0
+0 1 500 P
+#8211
+silverpellet pellet~
+a pellet of silver~
+A pellet of silver looks like it might be worth something.~
+pearl~
+gem W A
+0 0 0 0 0
+0 1 1000 P
+#8212
+goldpellet pellet~
+a pellet of gold~
+A pellet of gold looks like it might be worth something.~
+gem~
+gem W A
+0 0 0 0 0
+0 1 2000 P
+#8213
+giant pearl~
+a giant pearl~
+A giant pearl taken from a large oyster looks valuable.~
+gem~
+gem W A
+0 0 0 0 0
+0 1 10000 P
+#8214
+lobster tail~
+a lobster tail~
+A lobster tail like this might be a good snack if you like seafood.~
+food~
+food 0 A
+25 25 0 0 0
+0 30 14 P
+#8215
+giant oyster~
+a giant oyster~
+A giant oyster is here refusing to open.~
+wood~
+container 0 P
+50 ABCD 8238 0 0
+0 0 0 P
+#8216
+locker~
+Davy Jones' locker~
+Davy Jones' locker is here sitting at the bottom of the trench.~
+wood~
+container 0 P
+50 ABCD 8237 0 0
+0 0 0 P
+#8217
+brass chest~
+a brass treasure chest~
+A brass treasure chest is here.~
+wood~
+container 0 P
+50 ABCD 8230 0 0
+0 0 0 P
+#8218
+silver chest~
+a silver treasure chest~
+A silver treasure chest is here.~
+wood~
+container 0 P
+50 ABCD 8231 0 0
+0 0 0 P
+#8219
+gold chest~
+a gold treasure chest~
+A gold treasure chest is here.~
+wood~
+container 0 P
+50 ABCD 8232 0 0
+0 0 0 P
+#8220
+hero medal~
+a hero's medal~
+This hero's medal was awarded to Justin the {RMighty{x for his bravery.~
+wood~
+gem 0 A
+0 0 0 0 0
+0 0 20000 P
+#8221
+gold coin~
+a gold coin~
+A solid gold coin is here stuck in the mud.~
+gem~
+gem W A
+0 0 0 0 0
+0 1 6000 P
+#8222
+oyster~
+an oyster~
+An oyster is here in the mud.~
+food~
+food 0 A
+25 25 0 0 0
+0 30 14 P
+#8223
+weeds~
+some weeds~
+Some weeds are here growing out of the ocean floor.~
+wood~
+trash 0 P
+0 0 0 0 0
+0 0 0 P
+#8224
+coral~
+some coral~
+Some coral is here growing out of the ocean floor.~
+wood~
+trash 0 P
+0 0 0 0 0
+0 0 0 P
+#8225
+coral~
+some coral~
+Some coral is here growing out of the ocean floor.~
+wood~
+container 0 P
+50 AC 0 50 0
+0 1 0 P
+#8226
+weeds~
+some weeds~
+Some weeds are here growing out of the ocean floor.~
+wood~
+container 0 P
+2 AC 0 0 0
+0 0 0 P
+#8227
+mouth~
+the mouth of the whale~
+{x~
+wood~
+container 0 P
+50 AC 0 50 0
+0 0 0 P
+E
+mouth~
+You decide to risk your life and take a look inside the whale's mouth.
+~
+#8228
+wooden chest~
+a wooden chest~
+A wooden chest lies here on the floor.~
+wood~
+container 0 P
+50 ABCD 8233 0 0
+0 0 0 P
+#8229
+snaggleweed~
+some snaggleweed~
+Some snaggleweed is here trying to entangle you.~
+wood~
+trash 0 P
+0 0 0 0 0
+0 0 0 P
+#8230
+brass key~
+a brass key~
+A brass key is here in the mud.~
+brass~
+key TU A
+0 0 0 0 0
+60 1 0 P
+#8231
+silver key~
+a silver key~
+A silver key is here in the mud.~
+silver~
+key TU A
+0 0 0 0 0
+60 1 0 P
+#8232
+gold key~
+a gold key~
+A gold key is here in the mud.~
+gold~
+key TU A
+0 0 0 0 0
+60 1 0 P
+#8233
+captain key~
+the captain's key~
+The key to the captain's chest is here.~
+wood~
+key T P
+0 0 0 0 0
+60 0 0 P
+#8234
+rusty key~
+a rusty key~
+A rusty key is here in the mud.~
+steel~
+key TU A
+0 0 0 0 0
+60 1 0 P
+#8235
+bronze key~
+a bronze key~
+A bronze key is here in the mud.~
+bronze~
+key TU A
+0 0 0 0 0
+60 1 0 P
+#8236
+bottlerum rum~
+a bottle of rum~
+A bottle of rum is here in the mud.~
+brass~
+drink TU A
+64 64 'rum' 0 0
+60 40 24 G
+#8237
+key locker~
+a locker key~
+A locker key is here in the mud.~
+steel~
+key TU A
+0 0 0 0 0
+60 1 0 P
+#8238
+oyster shucker~
+a giant oyster shucker~
+A giant oyster shucker is here in the mud.~
+wood~
+key TU A
+0 0 0 0 0
+60 1 0 P
+#8239
+mushroom~
+a mushroom~
+A disgusting looking mushroom is lying here.~
+wood~
+food 0 A
+0 0 0 0 0
+0 0 0 P
+#8240
+wooden wagon wheel~
+a wooden wagon wheel~
+A wooden wagon wheel is here with bite marks all over it.~
+wood~
+trash 0 A
+0 0 0 0 0
+0 100 0 P
+#8241
+skeletal remains~
+the skeletal rremains~
+The skeletal remains of a drowned adventurer are stuck in the mud here.~
+bone~
+trash 0 P
+0 0 0 0 0
+0 0 0 P
+#8242
+bulletin~
+a bulletin containing quest maze hints and tips~
+A bulletin of quest maze hints and tips is posted here.~
+wood~
+trash 0 P
+0 0 0 0 0
+0 0 0 P
+E
+bulletin~
+To those about to enter the maze keep these things in mind:
+1) Many objects in the maze are meltdrop so be careful.
+2) Watch the room descs as they may contain useful information.
+3) If a mob asks you a question it may pay off to answer.
+4) When talking to mobs use lower case letters and no punctuation.
+5) If you die do not worry. The maze is all part of the arena.
+6) Store valuable equipment in a container to avoid loss or damage.
+ 
+Good luck to you!
+~
+#8243
+boat oar~
+a wooden oar from a boat~
+A wooden oar from a boat with bite marks on it is here.~
+wood~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#8244
+squid~
+some partially digested squid~
+Some partially digested squid is here in the mud.~
+food~
+food 0 A
+25 25 0 0 0
+0 30 14 P
+#8245
+gruff gold coin~
+a large gold coin~
+A large gold coin with the image of a gruff on it is here.~
+gold~
+gem 0 A
+0 0 0 0 0
+0 100 20000 P
+#8246
+slip paper~
+a slip of paper~
+A slip of paper has the words 'Free IMM Enchant' written on it.~
+parchment~
+trash Y AP
+0 0 0 0 0
+0 1 0 P
+#8247
+slip paper~
+a slip of paper~
+This slip of paper entitles you to a free object from any area in the game excluding Bosco equipment.~
+parchment~
+trash Y AP
+0 0 0 0 0
+0 1 0 P
+#8248
+gruff award~
+an award~
+A small award with the image of a gruff on it is here.~
+gold~
+gem 0 A
+0 0 0 0 0
+0 100 30000 P
+#8249
+wooden key~
+a wooden key~
+A wooden key is here in the mud.~
+wood~
+key TU A
+0 0 0 0 0
+60 1 0 P
+#8274
+pill~
+cloak pill~
+A cloak of mind pill.~
+wood~
+pill 0 A
+51 'cloak of mind' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#8275
+sack~
+a sack of potions~
+A sack of potions is here containing mysterious brews.~
+wood~
+container 0 AO
+20 A 0 20 10
+1 10 0 P
+#8276
+alchemist potion~
+an {Ralchemist's{x potion~
+This alchemist's potion might just save your life... or end it.~
+wood~
+potion HMPTZ A
+56 'heal' 'reserved' 'reserved' 'reserved'
+1 10 0 P
+#8277
+alchemist potion~
+an {Ralchemist's{x potion~
+This alchemist's potion might just save your life... or end it.~
+wood~
+potion T A
+56 'giant strength' 'bark skin' 'haste' 'reserved'
+1 10 0 P
+#8278
+alchemist potion~
+an {Ralchemist's{x potion~
+This alchemist's potion might just save your life... or end it.~
+wood~
+potion T A
+56 'shield' 'stone skin' 'mirror image' 'reserved'
+1 10 0 P
+#8279
+alchemist potion~
+an {Ralchemist's{x potion~
+This alchemist's potion might just save your life... or end it.~
+wood~
+potion T A
+56 'robustness' 'enlargement' 'primal rage' 'reserved'
+1 10 0 P
+#8280
+alchemist potion~
+an {Ralchemist's{x potion~
+This alchemist's potion might just save your life... or end it.~
+wood~
+potion T A
+56 'rainbow burst' 'rainbow burst' 'rainbow burst' 'reserved'
+1 10 0 P
+#8281
+alchemist potion~
+an {Ralchemist's{x potion~
+This alchemist's potion might just save your life... or end it.~
+wood~
+potion T A
+56 'faerie fog' 'create food' 'create spring' 'reserved'
+1 10 0 P
+#8282
+alchemist potion~
+an {Ralchemist's{x potion~
+This alchemist's potion might just save your life... or end it.~
+wood~
+potion T A
+56 'mass healing' 'mass healing' 'mass healing' 'reserved'
+1 10 0 P
+#8283
+alchemist potion~
+an {Ralchemist's{x potion~
+This alchemist's potion might just save your life... or end it.~
+wood~
+potion T A
+56 'cloud of poison' 'taunt' 'animal growth' 'reserved'
+1 10 0 P
+#8284
+alchemist potion~
+an {Ralchemist's{x potion~
+This alchemist's potion might just save your life... or end it.~
+wood~
+potion T A
+56 'loneliness' 'blindness' 'scramble' 'reserved'
+1 10 0 P
+#8285
+alchemist potion~
+an {Ralchemist's{x potion~
+This alchemist's potion might just save your life... or end it.~
+wood~
+potion T A
+56 'dispel magic' 'tsunami' 'blur' 'reserved'
+1 10 0 P
+#8286
+alchemist potion~
+an {Ralchemist's{x potion~
+This alchemist's potion might just save your life... or end it.~
+wood~
+potion T A
+56 'heal' 'cure critical' 'cure light' 'reserved'
+1 10 0 P
+#8287
+Lemonade Fountain Stone Angel~
+a stone fountain of {ylemonade{x~
+A fountain in the center of the room has a stone angel pouring {ylemonade{x from a bucket.~
+stone~
+fountain 0 0
+0 0 'lemonade' 0 0
+0 3000 0 P
+#8299
+diamond gem~
+a diamond~
+A diamond catches and reflects the lighting.~
+gem~
+gem TW A
+0 0 0 0 0
+0 1 10000 P
+#0
+
+
+
+#ROOMS
+#8200
+Outside the Entrance to the Quest Maze~
+You stand outside the entrance to the quest maze.  Those who go in have a
+chance to find riches beyond belief.  Finding the treasures might not be as
+easy as one would think however.  The maze is a complicated set of
+passageways with guards and puzzles to bypass.  Getting to the end in itself
+would be an accomplishment.  Finding the prizes is an added bonus for those
+observant enough to locate the hidden secrets of the maze.  
+~
+0 268443672 0
+D2
+~
+~
+0 0 8201
+S
+#8201
+Entrance to the Aquatic Maze~
+You stand at the entrance to the maze itself.  A long dark hole leads
+down into darkness from this point.  There is no telling what things may lie
+in wait down there.  Best to make sure you are fully prepared for the
+journey that lies ahead before venturing forth.  
+~
+0 268443672 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8200
+D5
+~
+~
+1 0 8202
+S
+#8202
+Falling Down the Hole~
+Jumping into the hole leading to the quest maze you find yourself falling
+for what seems a very long time.  As you continue to plummet you begin to
+wonder what awaits you at the bottom of the hole.  Hopefully it will be a
+nice soft landing.  
+~
+0 268443673 0
+D5
+~
+~
+0 0 8203
+S
+#8203
+{BSplash Down!!{x~
+Finally after falling for what seemed forever you splash into a large
+body of water.  You begin to panic when you realize you are nowhere near the
+surface any longer and the air in your lungs can only last so long.  To your
+surprize you have no difficult breathing however.  Apparently the gods have
+smiled upon you and given you the gift of water breathing temporarily.  
+~
+0 268443673 0
+D0
+~
+~
+0 0 8204
+D4
+~
+~
+0 0 8202
+S
+#8204
+Deep Underwater~
+Swimming along gracefully you begin to realize just how beautiful the
+undersea world is.  The cool water is calm and peaceful as you move along
+the ocean bottom.  The variety of life is astounding.  A wide range of fish
+species swim around you to get a closer look of you.  Strange surface
+dwellers do not often come to visit their world such as you are doing now.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8205
+D1
+~
+~
+0 0 8226
+D2
+~
+~
+0 0 8203
+S
+#8205
+Approaching the Kelp Beds~
+As you swim along you begin to notice the growing beds of weeds and kelp.
+The beds reach all the way from the sea floor up to the surface.  As the
+beds become more and more dense the chances of getting lost in the twisting
+patches becomes greater.  It might be a good idea to proceed with caution. 
+The last thing you want is to end up trapped in the kelp beds for the rest
+of your life.  Off to the west there appears to be a small rock outcropping.
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8209
+D2
+~
+~
+0 0 8204
+D3
+~
+~
+0 0 8206
+S
+#8206
+A Small Rock Outcropping~
+Moving along you notice a small rock formation along the ocean bottom. 
+Or at least it looked like rocks.  Upon closer inspection you notice that
+these are in fact oyster beds.  The beds reach on for quite a distance. 
+Unfortunately it does not look like the majority of these oysters contain
+pearls or any other forms of treasure.  At least they make a tasty snack.  
+~
+0 268443673 0
+E
+message~
+There is a phrase written in the dirt here. It reads as follows:
+     "United we stand
+      divided we fall."
+~
+E
+dirt~
+There is a phrase written in the dirt here. It reads as follows:
+ 
+     "United we stand
+      divided we fall."
+~
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8207
+D1
+~
+~
+0 0 8205
+S
+#8207
+The Oyster Beds~
+The oyster beds continue of for quite a distance.  A greedy person might
+think that there is a huge stash of pearls around here somewhere. 
+Unfortunately there is no such booty to be had here.  Aside from a tasty
+snack most of these oysters are not of much use to you.  Nothing beats fresh
+seafood though so at least you have found yourself a free meal.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D2
+~
+~
+0 0 8206
+D3
+~
+~
+0 0 8208
+S
+#8208
+The Giant Oyster~
+After much searching you stumble upon this enormous find.  A giant oyster
+is here mocking you with its concealed treasure.  What lies inside that
+impenetrable shell only time will tell.  One thing is for sure.  There is no
+way you are going to be able to pry that thing open without something big.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D1
+~
+~
+0 0 8207
+S
+#8209
+Lost In the Kelp Beds~
+Throwing caution to the wind you have plunged yourself into the kelp beds
+in search of treasure.  Sadly all you have found is an endless maze of
+weeds.  The kelp reaches all the way up to the surface obscuring all light. 
+The weeds are so dense that there is no way to possibly force your way
+through them.  All you can do is try to find your way back out again and
+hope that nothing hungry is lurking among the weeds.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8211
+D1
+~
+~
+0 0 8211
+D2
+~
+~
+0 0 8205
+S
+#8210
+Lost In the Kelp Beds~
+Throwing caution to the wind you have plunged yourself into the kelp beds
+in search of treasure.  Sadly all you have found is an endless maze of
+weeds.  The kelp reaches all the way up to the surface obscuring all light. 
+The weeds are so dense that there is no way to possibly force your way
+through them.  All you can do is try to find your way back out again and
+hope that nothing hungry is lurking among the weeds.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8212
+D1
+~
+~
+0 0 8213
+D2
+~
+~
+0 0 8211
+D3
+~
+~
+0 0 8212
+S
+#8211
+Lost In the Kelp Beds~
+Throwing caution to the wind you have plunged yourself into the kelp beds
+in search of treasure.  Sadly all you have found is an endless maze of
+weeds.  The kelp reaches all the way up to the surface obscuring all light. 
+The weeds are so dense that there is no way to possibly force your way
+through them.  All you can do is try to find your way back out again and
+hope that nothing hungry is lurking among the weeds.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8210
+D1
+~
+~
+0 0 8209
+D2
+~
+~
+0 0 8212
+D3
+~
+~
+0 0 8209
+S
+#8212
+Lost In the Kelp Beds~
+Throwing caution to the wind you have plunged yourself into the kelp beds
+in search of treasure.  Sadly all you have found is an endless maze of
+weeds.  The kelp reaches all the way up to the surface obscuring all light. 
+The weeds are so dense that there is no way to possibly force your way
+through them.  All you can do is try to find your way back out again and
+hope that nothing hungry is lurking among the weeds.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8211
+D1
+~
+~
+0 0 8210
+D2
+~
+~
+0 0 8210
+D3
+~
+~
+0 0 8209
+S
+#8213
+Lost In the Kelp Beds~
+Throwing caution to the wind you have plunged yourself into the kelp beds
+in search of treasure.  Sadly all you have found is an endless maze of
+weeds.  The kelp reaches all the way up to the surface obscuring all light. 
+The weeds are so dense that there is no way to possibly force your way
+through them.  All you can do is try to find your way back out again and
+hope that nothing hungry is lurking among the weeds.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D1
+~
+~
+0 0 8214
+D2
+~
+~
+4 8215 8209
+D3
+~
+~
+0 0 8210
+S
+#8214
+Outside of the Kelp Beds~
+You finally manage to find your way out of the kelp beds and away from
+the weed patches.  The timing could not have been better as you were
+beginning to feel a little claustrophobic in there with the kelp closing in
+all around you.  Hopefully you did not miss anything of importance in there
+that would make you have to return to that maze of vegetation.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D1
+~
+~
+0 0 8215
+D3
+~
+~
+0 0 8213
+S
+#8215
+Above a Tiny Chasm~
+Looking down on the ocean floor you can make out a small crack on the
+bottom.  It is much too small for you to pass through at the moment.  There
+does appear to be a larger opening to the chasm but there is an odd looking
+grate blocking the way below.  If only you had a key to open it and see what
+lies down below in the depths of the chasm.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8216
+D1
+~
+~
+0 0 8223
+D5
+~
+~
+4 8235 8222
+S
+#8216
+Swimming Along the Ocean Bottom~
+The colourful ocean fish continue to leave you in awe of their beauty. 
+Fish with flashing lights and flourescent colours draw your attention. 
+There are giant ones with huge eyes and others that seem to have no eyes at
+all.  Such diversity of life is a marvel to behold.  In a place where many
+would be surprised that anything could even survive you are seeing some of
+the most amazing things you imagined possible.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8217
+D1
+~
+~
+0 0 8224
+D2
+~
+~
+0 0 8215
+S
+#8217
+Swimming Along the Ocean Bottom~
+As you paddle along the gentle tides wash over you massaging your weary
+muscles.  This visit to the maze is turning out to be quite a relaxing
+experience.  If you did not know better you might think you were on vacation
+here.  You begin to realize that the tranquility of this underwater world is
+beyond anything you had ever imagined possible.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D2
+~
+~
+0 0 8216
+D3
+~
+~
+0 0 8218
+S
+#8218
+Swimming Along the Ocean Bottom~
+Taking a moment to look around you begin to realize just how peaceful
+things are on the bottom of the ocean.  Little fish swim around without a
+sound and nibble away at little chunks of plant matter floating freely in
+the water.  The ocean floor appears as if it were a beautiful beach of fine
+sand that beckons you.  Taking a handful of the grains you release them in
+the water and watch them scatter like feathers caught in a gentle breeze.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D1
+~
+~
+0 0 8217
+D2
+~
+~
+0 0 8219
+S
+#8219
+Above a Tiny Chasm~
+Looking down on the ocean floor you can make out a small crack on the
+bottom.  It is much too small for you to pass through at the moment.  There
+does appear to be a larger opening to the chasm but there is an odd looking
+grate blocking the way below.  If only you had a key to open it and see what
+lies down below in the depths of the chasm.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8218
+D5
+~
+~
+4 8235 8220
+S
+#8220
+Deep Within the Chasm~
+Entering the chasm you delve down into its depths to see what secrets it
+holds.  The sides of the chasm expand greatly once you have gone beneath the
+initial opening.  The chasm continues down into darkness and you can only
+wonder just how deep it actually is.  This little enclosed area would be an
+ideal place for certain creatures of the deep to hide out and wait for prey
+to come along so you might want to be careful.  
+~
+0 268705817 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D2
+~
+~
+0 0 8221
+D4
+~
+~
+4 0 8219
+D5
+~
+~
+3 0 8257
+S
+#8221
+At the Center of the Chasm~
+The walls of the chasm are at their widest distance apart here.  This
+section of the chasm seems to have a large number of small holes in the rock
+surface along both sides.  Upon closer inspection they appear to be worn
+smooth inside as if something had worn the roughness out of the surfaces. 
+Most likely these are little tunnels for some sea creature to live in. 
+Judging by the number of holes there must be a fair sized colony of whatever
+lives in them.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8220
+D2
+~
+~
+0 0 8222
+S
+#8222
+Deep Within the Chasm~
+Entering the chasm you delve down into its depths to see what secrets it
+holds.  The sides of the chasm expand greatly once you have gone beneath the
+initial opening.  The chasm continues down into darkness and you can only
+wonder just how deep it actually is.  This little enclosed area would be an
+ideal place for certain creatures of the deep to hide out and wait for prey
+to come along so you might want to be careful.  
+~
+0 268705817 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8221
+D4
+~
+~
+4 0 8215
+S
+#8223
+A Patch of Snaggleweed~
+A small patch of snaggleweed is growing here trapping unsuspecting
+bypassers.  The thin weeds would prove no problem for anyone of substance
+but for certain weak individuals who fall into the clutches of snaggleweed
+there is no hope for escape.  The weeds are very frail so there is no fear
+of them catching hold of you.  Usually this variety of weed only snags tiny
+fish and other insignificant lifeforms.  
+~
+0 268443677 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D2
+~
+~
+0 0 8235
+S
+#8224
+Approaching an Underwater Cave~
+As you swim along you come upon a what appears to be a small cave to the
+east.  Trying to approach with caution you notice there are a couple long
+tentacles huge tentacles sticking out of the cave with giant suction cups
+attached to them.  You have heard tales of giant sea creatures that live in
+such caves waiting for ships to pass by only to be dragged down in to the
+ocean depths.  It might be wise to proceed with caution.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D1
+~
+~
+0 0 8225
+D3
+~
+~
+0 0 8216
+S
+#8225
+Caught In the Tentacles of the Octopuss~
+Feeling brave you venture into the small cave to see what this strange
+tentacled beast might be.  Unfortunately your worst fears are realized. 
+This giant octopuss has been watching you from inside the cave waiting for
+you to approach.  Now it has you in its tentacles and there is no hope for
+you.  Your peaceful visit to the ocean floor has been cut short abruptly
+thanks to this monster from the deep.  
+~
+0 268443677 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+E
+ladder~
+This ladder seems to be in bad condition but might still be able to hold
+together long enough for you to climb to the top.  
+~
+D3
+~
+~
+0 0 8224
+S
+#8226
+Deep Underwater~
+You swim along happily in search of treasure and a little adventure. 
+Thoughts begin to fill your head of sunken ships with chests of gold and
+jewels the likes of which no one has ever seen.  With such booty the whole
+world could be yours.  Of course finding any of this sunken treasure is an
+entirely different matter.  Only those with patience will be leaving with
+any of the real spoils to be found in this ocean.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D1
+~
+~
+0 0 8227
+D3
+~
+~
+0 0 8204
+S
+#8227
+Caught in the Wake~
+Your happy swimming voyage is suddenly cut short as you find yourself
+caught in the wake of something very big.  You feel the irresistible force
+drawing you up to the north.  The size of whatever is pulling you in must be
+gigantic.  The weeds all pull violently towards whatever is passing by and
+the ocean floor is thrown into a massive screen of debris obscuring your
+vision of the approaching behemoth.  Whatever it is hopefully it is not
+aggressive.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8228
+D3
+~
+~
+0 0 8226
+S
+#8228
+Alongside the Great Whale~
+You find yourself swimming alongside of a gigantic whale.  This is
+without doubt the largest creature you have ever seen in your life.  The
+whale extends off beyond your scope of vision to the east and west.  You
+would never believe that a creature of this size could exist if you had not
+seen it with your own eyes.  Luckily it does not appear to be interested in
+you at all.  Otherwise you might yourself caught in the belly of the whale. 
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D1
+~
+~
+0 0 8229
+D2
+~
+~
+0 0 8227
+D3
+~
+~
+0 0 8231
+S
+#8229
+At the Tail of the Great Whale~
+Swimming along to the tail end of the whale you feel the force of the
+creature's wake pulling you in.  Such a massive creature must devour a huge
+amount of food to survive.  The tail moves slowly through the water in a
+constant motion.  It almost has a majestic look to it as it gently navigates
+through the ocean.  The tail swishes by you and barely misses hitting you. 
+You decide that this might not be the safest place to be swimming.  
+~
+0 268443673 0
+D1
+~
+~
+0 0 8230
+D3
+~
+~
+0 0 8228
+S
+#8230
+Approaching the Heart of the Ocean~
+Off to the north you spot what appears to be a giant merman sitting on
+an oyster throne. He is surrounded by schools of fish circling him
+endlessly. Though it is hard to say for certain from this distance it
+is very likely that you have reached the home of Neptune at the heart
+of the ocean. It might be wise to stay on your best behavior as you
+are after all a guest in his kingdom under the sea.
+~
+0 268443673 0
+D0
+~
+~
+0 0 8232
+D3
+~
+~
+0 0 8229
+S
+#8231
+At the Head of the Great Whale~
+You swim up to the head of the whale and take a look at it.  The head of
+the creature alone is monstrous in size.  Its huge mouth is held open by
+massive jaws as it gently glides through the water scooping up everything in
+its path.  It seems strange that such a giant animal lives by eating tiny
+vegetation in the water.  One would think it would need large amounts of
+fish to survive but it seems quite happy to be going along as it is and
+screening out plant matter from the water.  The whale sets one of its huge
+eyes upon you and momentarily contemplates your existence then returns to
+its feeding.  
+~
+0 268443673 0
+D1
+~
+~
+0 0 8228
+S
+#8232
+The Heart of the Ocean~
+You arrive at the heart of the ocean.  Before you sits Neptune the ruler
+of these waters atop an oyster throne.  Neptune is happy to welcome visitors
+to his kingdom so long as they obey his laws.  It would be unwise to anger
+him.  The heart of the ocean is filled with fish of every colour you ever
+imagined.  They all swim around Neptune for his entertainment.  Even the
+monsters of the deep know enough to show Neptune the respect he is due. 
+From here he watches over the waters of the world and ensures swift vengence
+falls upon those who show disrespect for his kingdom.  
+~
+0 268443677 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8234
+D1
+~
+~
+0 0 8233
+D2
+~
+~
+0 0 8230
+D3
+~
+~
+0 0 8235
+S
+#8233
+Approaching the Heart of the Ocean~
+Off to the west you spot what appears to be a giant merman sitting on an
+oyster throne.  He is surrounded by schools of fish circling him endlessly. 
+Though it is hard to say for certain from this distance it is very likely
+that you have reached the home of Neptune at the heart of the ocean.  It
+might be wise to stay on your best behavior as you are after all a guest in
+his kingdom under the sea.  
+~
+0 268443673 0
+D1
+~
+~
+0 0 8236
+D3
+~
+~
+0 0 8232
+S
+#8234
+Approaching the Heart of the Ocean~
+Off to the south you spot what appears to be a giant merman sitting on an
+oyster throne.  He is surrounded by schools of fish circling him endlessly. 
+Though it is hard to say for certain from this distance it is very likely
+that you have reached the home of Neptune at the heart of the ocean.  It
+might be wise to stay on your best behavior as you are after all a guest in
+his kingdom under the sea.  
+~
+0 268443673 0
+D0
+~
+~
+0 0 8243
+D2
+~
+~
+0 0 8232
+S
+#8235
+Approaching the Heart of the Ocean~
+Off to the east you spot what appears to be a giant merman sitting on an
+oyster throne.  He is surrounded by schools of fish circling him endlessly. 
+Though it is hard to say for certain from this distance it is very likely
+that you have reached the home of Neptune at the heart of the ocean.  It
+might be wise to stay on your best behavior as you are after all a guest in
+his kingdom under the sea.  
+~
+0 268443673 0
+D0
+~
+~
+0 0 8223
+D1
+~
+~
+0 0 8232
+S
+#8236
+Swimming Along in the Ocean~
+You continue to paddle your way through the deep blue waters searching
+for your hidden fortune.  The ocean seems to be somewhat uncooperative in
+revealing its secrets to you.  If you are determined to come out of the
+quest maze with new found wealth you will have to continue your search.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D1
+~
+~
+0 0 8237
+D3
+~
+~
+0 0 8233
+S
+#8237
+In Front of the Lair~
+You swim up to the front of a rather large lair.  It seems that it is the
+lair of a squid but considering the size of the entrance it would have to be
+a fairly large one.  This particular area is completely lacking in aquatic
+life.  There are no fish anywhere to be seen.  Perhaps the fish know
+something you do not about this place.  There is a very strong current to
+the north of here also.  Going that way might not be any better of a choice
+than going towards the lair.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8239
+D2
+~
+~
+0 0 8238
+D3
+~
+~
+0 0 8236
+S
+#8238
+The Lair of the Kraken~
+This is the lair of the Kraken.  The evil creature normally only returns
+here when it has finished feasting on whales and sharks.  The lair is
+littered with skeletal remains of what appear to be mermen as well.  Neptune
+would not be happy if he saw this.  The Kraken will eat just about anything
+and the debris in this place proves it.  Even the mast of a ship is here
+half devoured by the ravenous monster.  
+~
+0 268443673 0
+D0
+~
+~
+0 0 8237
+S
+#8239
+Caught in the Undertow~
+You find yourself caught up in the undertow of a huge wave.  The water
+has become frothy and the pull is too great to fight.  At this point all you
+can do is take it easy and let the current take you where it may.  You find
+yourself swept along towards a small coral reef in shallow waters.  The
+beauty of the reef is astounding.  Small creatures peek out from little
+alcoves to watch you as you are whisked along by the undertow.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8240
+S
+#8240
+The Coral Reef~
+You enter some shallow sections of water around a coral reef.  The reef
+continues up beyond the water surface allowing you a chance to get out of
+the water for the first time since entering the quest maze.  The reef itself
+is quite interesting to look upon.  Being made up of tiny skeletons it is
+eerily disturbing yet fascinating at the same time.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D3
+~
+~
+0 0 8242
+D4
+~
+~
+0 0 8241
+S
+#8241
+Basking on the Coral Reef~
+Emerging from the water you now have an opportunity to relax in the
+brilliant sun.  Other creatures have crawled their way up above the surface
+to bask in the sun with you.  The waves gently lap at you atop the reef and
+coax you into returning to the water.  Having had your thirst for sunlight
+quenched you decide maybe it is time to return to your search for treasure. 
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D5
+~
+~
+0 0 8240
+S
+#8242
+Approaching the Coral Reef~
+You find yourself nearing a large coral reef to the east.  The reef is
+full of life.  Tiny fish dart in and out between the sections of the reef. 
+A variety of plants sway in the water currents nearby like trees in the
+wind.  The reef looks like the jagged coral may be very sharp and dangerous
+to maneuver around.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D1
+~
+~
+0 0 8240
+D2
+~
+~
+0 0 8243
+D3
+~
+~
+0 0 8245
+S
+#8243
+At a Cloud of Blood~
+Swimming along you suddenly find yourself engulfed in a cloud of blood
+mixed water.  Something must have died a grizzly death nearby.  Considering
+you are in the ocean depths and there is no telling what kinds of monsters
+are lurking down here it might be wise to proceed with caution.  The last
+thing you want is for there to be a cloud of your own blood in the water.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8242
+D1
+~
+~
+0 0 8244
+D2
+~
+~
+0 0 8234
+S
+#8244
+Caught in a Feeding Frenzy~
+You stumble upon a group of sharks tearing apart the body of a small
+porpoise in a wild feeding frenzy.  Blood spills into the water leaving the
+ocean in a deep red cloud.  Vicious teeth grab hold of your flesh and begin
+to rip you to shreds.  Your visit to the ocean has come to an end thanks to
+these killing machines.  You will never be able to eat seafood again after
+this horrific episode.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D3
+~
+~
+0 0 8243
+S
+#8245
+Above the Trench~
+You find yourself above a small trench leading down into the darkness. 
+Trying to see how far down it extends you begin to make out the outline of a
+small locker down at the bottom.  Though it seems like an odd place to put
+treasure there is no telling what loot may lie down there.  This may be your
+opportunity to make good and finally receive the fame and wealth you so
+strongly believe you deserve.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8247
+D1
+~
+~
+0 0 8242
+D5
+~
+~
+0 0 8246
+S
+#8246
+The Resting Place of Davey Jones' Locker~
+The fabled locker of the one known as Davey Jones is here before you. 
+Used as a tale to frighten dwarf children into obeying their seniors the
+story of the dwarf Davey Jones extends beyond documented history.  Rumoured
+to have been shackled in a locker and dumped overboard a ship when he
+refused to comply with his father's demands Davey Jones appears to have
+finally been located after all these years.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D4
+~
+~
+0 0 8245
+S
+#8247
+Alongside a Sunken Ship~
+You swim up to a sunken ship on the ocean bottom.  The ship looks like it
+had the bottom ripped right out of it by some huge beast.  Most of the loot
+has probably been scattered all over this quest maze but maybe there are
+still a few valuable items waiting to be claimed in the cargo hold of the
+ship.  If you can get to it then the treasure is yours to keep.  Easier said
+than done.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+0 0 8249
+D2
+~
+~
+0 0 8245
+S
+#8248
+In the Cargo Hold of the Sunken Ship~
+After searching around for the key to the cargo hold you finally find it
+and enter the hull to see what treasures await you.  Lucky is with you this
+day.  A few chests remain intact here.  The true prizes of the maze are
+yours for the taking if you have the keys to unlock them.  As they are now
+they do nothing but taunt you from within their secure chests.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D0
+~
+~
+4 8218 8249
+D4
+~
+~
+4 0 8249
+S
+#8249
+On the Deck of a Sunken Ship~
+You swim over the deck of the sunken ship and look around to see what
+treasure might remain for you to claim.  Unfortunately the deck seems to
+have been swept clean by the currents leaving nothing for you.  The wood of
+the ship remains solid so there is no way for you to break through to the
+cargo hold to examine its contents.  All you can do is try to find the key
+to gain access to what lies below the decks.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D2
+~
+~
+0 0 8247
+D3
+~
+~
+0 0 8250
+D4
+~
+~
+4 8249 8251
+D5
+~
+~
+4 8234 8248
+S
+#8250
+In the Captain's Quarters~
+You swim in through the entry way to the captain's private quarters. 
+Looking around there does not appear to be anything of value.  The captain
+remained true to the motto and went down with his ship however.  He sits
+here guarding what remains of his posessions.  If you could win him over to
+your side there might be a chance of gaining access to other locations in
+the quest maze.  
+~
+0 268443673 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D1
+~
+~
+0 0 8249
+S
+#8251
+In the Crow's Nest~
+You climb your way up to the crow's nest and raise your hand in victory. 
+You have found the exit to this quest maze.  How much of the treasure you
+managed to pick up along the way is the true test of your success.  The maze
+has many hidden treasures that are not so easily found as the exit however. 
+If you were unable to find them this time through just try harder the next
+time you enter.  Sooner or later you are bound to strike it rich.  
+~
+0 268435485 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+D5
+~
+~
+4 0 8249
+S
+#8252
+Slipping Into Unconsciousness~
+Well one way or another you have ended up at this point by making a very
+bad judgement decision.  Your hopes for finding treasure have now come to an
+end as you slowly begin to black out.  If only you had been more careful
+moments ago.  It is too late now to worry about such things though.  As you
+slip into unconsciousness you can only hope for things to work out better
+next time.  
+~
+0 268435485 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+S
+#8253
+Reception Room~
+The reception room is for those waiting to be transferred back to the
+world outside the maze.  For those desperate to return the option to recall
+to Midgaard or gate out is available from this location.  If you refuse to
+go home without a restore and a transfer then start yelling for an IMM.  
+~
+0 29 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+S
+#8254
+Overboard~
+Finding yourself thrown off the ship and cursed by the skeletal captain
+you notice your ability to breath underwater has disappeared.  You thrash
+about in the water gasping for air but only ocean water pours into your
+lungs.  You drown a horrible death and have no one to blame but yourself. 
+If only you had not been so eager to harass the skeletal parrot things may
+have gone differently.  
+~
+0 268435485 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+S
+#8255
+none~
+~
+0 268443677 0
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+S
+#8256
+none~
+~
+0 268443676 0
+S
+#8257
+Decisions~
+Your heart pounds as you race through the arena.  Are those footsteps you
+hear behind you?  The smell of fresh blood and sweat is thick in the air. 
+You wonder if you will escape this madness.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8263
+D1
+~
+~
+0 0 8259
+D2
+~
+~
+0 0 8262
+D3
+~
+~
+0 0 8258
+S
+#8258
+Decisions~
+Your heart pounds as you race through the arena.  Are those footsteps you
+hear behind you?  The smell of fresh blood and sweat is thick in the air. 
+You wonder if you will escape this madness.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8265
+D1
+~
+~
+0 0 8257
+D2
+~
+~
+0 0 8266
+D3
+~
+~
+0 0 8260
+S
+#8259
+Decisions~
+Your heart pounds as you race through the arena.  Are those footsteps you
+hear behind you?  The smell of fresh blood and sweat is thick in the air. 
+You wonder if you will escape this madness.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8264
+D1
+~
+~
+0 0 8261
+D2
+~
+~
+0 0 8269
+D3
+~
+~
+0 0 8257
+S
+#8260
+A Dead End~
+~
+0 268444696 0
+D1
+~
+~
+0 0 8258
+S
+#8261
+A Dead End~
+~
+0 268443672 0
+D3
+~
+~
+0 0 8259
+S
+#8262
+Decisions~
+Your heart pounds as you race through the arena.  Are those footsteps you
+hear behind you?  The smell of fresh blood and sweat is thick in the air. 
+You wonder if you will escape this madness.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8257
+D1
+~
+~
+0 0 8269
+D2
+~
+~
+0 0 8267
+D3
+~
+~
+0 0 8266
+S
+#8263
+Decisions~
+Your heart pounds as you race through the arena.  Are those footsteps you
+hear behind you?  The smell of fresh blood and sweat is thick in the air. 
+You wonder if you will escape this madness.  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8268
+D1
+~
+~
+0 0 8264
+D2
+~
+~
+0 0 8257
+D3
+~
+~
+0 0 8265
+S
+#8264
+Judgment~
+The time has come to face your weaknesses.  Your knees quiver and your
+body shakes at the though of dying.  Will you be just another blood stain on
+the floor, or will you emerge victorious?  
+~
+0 268443672 0
+D2
+~
+~
+0 0 8259
+D3
+~
+~
+0 0 8263
+S
+#8265
+Judgment~
+The time has come to face your weaknesses.  Your knees quiver and your
+body shakes at the thought of dying.  Will you be just another blood stain
+on the floor, or will you emerge victorious?  
+~
+0 268443672 0
+D1
+~
+~
+0 0 8263
+D2
+~
+~
+0 0 8258
+S
+#8266
+Judgment~
+The time has come to face your weaknesses.  Your knees quiver and your
+body shakes at the though of dying.  Will you be just another blood stain on
+the floor, or will you emerge victorious?  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8258
+D1
+~
+~
+0 0 8262
+S
+#8267
+A Dead End~
+~
+0 268443672 0
+D0
+~
+~
+0 0 8262
+S
+#8268
+A Dead End~
+~
+0 268443672 0
+D2
+~
+~
+0 0 8263
+S
+#8269
+Judgment~
+The time has come to face your weaknesses.  Your knees quiver and your
+body shakes at the though of dying.  Will you be just another blood stain on
+the floor, or will you emerge victorious?  
+~
+0 268443672 0
+D0
+~
+~
+0 0 8259
+D3
+~
+~
+0 0 8262
+S
+#8282
+Tommy's Domain~
+~
+0 12 0
+O tommy~
+M 1000 H 1000
+S
+#8283
+The Ready Room~
+~
+0 268443672 0
+D1
+~
+~
+0 0 8220
+S
+#8298
+In the Face of Death~
+You stand in the middle of large arena filled with screaming fans who
+want to see blood. There is no way to leave this room except by
+slaying your foe.  Today is the day you prove your worth.
+~
+0 268443668 3
+E
+thanks~
+Thanks to Eiram for helping work out the Grammar and spelling.  Hey, i'm
+a Lit major..  What do I know about silly stuff like that?  :) 
+~
+S
+#8299
+Waiting Room~
+You stand in a white room waiting for your turn to enter the arena.  You
+can hear screams of terror coming from the north as you get ready to face
+your demons.  
+~
+0 269492508 0
+D0
+~
+~
+0 0 8257
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#8254
+say Coral has many secrets.
+~
+A
+#8253
+say Weeds can be a nuisance but sometimes they are very interesting.
+~
+A
+#8252
+say Sharks will eat anything. You would be surprised what they have in them.
+~
+A
+#8243
+if ispc $n
+ say That path is much too dangerous $n! I must insist you go another route.
+endif
+~
+A
+#8242
+if hastarget $i
+ emote carries you along with it as it proceeds to the north.
+ MOB FORCE $q north
+ else
+ mob forget
+endif
+~
+A
+#8234
+FLEE
+~
+A
+#8233
+emote wraps its tentacles around you and prevents you from escaping!
+~
+A
+#8275
+drop potion
+~
+A
+#8237
+if ispc $n
+ emote squawks, 'Help captain! Help!'
+ MOB ECHOAT $n The skeletal captain becomes enraged and throws you overboard.
+ MOB TRANSFER $n 8254
+endif
+ 
+~
+A
+#8236
+emote squawks at you, 'Ye be a landlubber matey! Walk the plank!'
+~
+A
+#8235
+emote squawks, 'Yo ho ho. Yo ho ho.'
+~
+A
+#8232
+if ispc $n
+ emote dives towards you and circles around to block the exit.
+ MOB KILL $n
+endif
+~
+A
+#8231
+if hastarget $i
+ emote squirts some ink at you and swims towards you.
+ MOB KILL $q
+ else
+ mob forget
+endif
+~
+A
+#8230
+if hastarget $i
+ emote playfully bumps you and knocks some of your belongings loose.
+ MOB FORCE $q drop pellet
+ MOB PURGE pellet
+ else
+ mob forget
+endif
+~
+A
+#8229
+if ispc $n
+ say what do you think you're doing here?
+ snort $n
+ say you trying to sneak out of here without permission? not with me on duty!
+endif
+~
+A
+#8228
+if hastarget $i
+ emote closes in for the kill!
+ MOB KILL $q
+ else
+ mob forget
+endif
+~
+A
+#8227
+if isdelay $i
+ break
+ else
+ MOB ECHOAT $n $I takes an interest in your belongings and begins to circle around you.
+MOB ECHOAROUND $n $I takes an interest in $n's belongings and begins to circle around.
+ mob remember $n
+ mob delay 3
+endif
+~
+A
+#8226
+if ispc $n
+ say Welcome to my kingdom $n! All that I ask is that you do not harm my children.
+endif
+~
+A
+#8225
+if ispc $n
+ emote flails around wildly.
+ say Do not worry about me adventurer. I am perfectly fine.
+ emote lets out a hearty laugh.
+endif
+~
+A
+#8224
+if isdelay $i
+ break
+ else
+ MOB ECHOAT $n $I begins to circle you.
+ MOB ECHOAROUND $n $I begins to circles around $n in an aggressive manner.
+ mob remember $n
+ mob delay 5
+endif
+~
+A
+#8223
+if ispc $n
+ say Arr don't worry Polly. I'll protect ye if the lubber tries anything.
+ emote turns its skeletal head towards you.
+ say Matey what I wouldn't do for a drink right now.
+endif
+~
+A
+#8222
+if ispc $n
+ emote wraps it's tentacles around you and squeezes the life out of you.
+ MOB TRANSFER $n 8252
+endif
+~
+A
+#8221
+if isdelay $i
+ break
+ else
+ MOB ECHOAT $n $I begins to circle around you.
+ MOB ECHOAROUND $n $I begins to circle around $N.
+ mob remember $n
+ mob delay 2
+endif
+~
+A
+#8220
+if isdelay $i
+ break
+ else
+ MOB ECHOAT $n $I circles around you in a threatening manner.
+ MOB ECHOAROUND $n $I circles around $N in a threatening manner.
+ mob remember $n
+ mob delay 5
+endif
+~
+A
+#8219
+if ispc $n
+ emote catches sight of you and darts out at you!
+ MOB KILL $n
+endif
+~
+A
+#8218
+if ispc $n
+ say You are the most unusual fish I have ever seen. Where are your gills?
+endif
+~
+A
+#8217
+emote swims to a safe distance and takes a good look at you.
+say Don't kill me! I'm useful to have around you know? Maybe we can make a deal?
+~
+A
+#8216
+emote glides through the water gracefully.
+~
+A
+#8215
+if hastarget $i
+ emote closes in for the kill.
+ MOB KILL $q
+ else
+ mob forget
+endif
+~
+A
+#8214
+emote drifts towards you to take a closer look.
+~
+A
+#8213
+emote snaps its pincers at you aggressively.
+~
+A
+#8212
+if ispc $n
+ emote darts towards some rocks and hides in a nook.
+endif
+~
+A
+#8211
+emote nibbles at a speck of plant matter floating by.
+~
+A
+#8210
+if ispc $n
+ say Welcome to the Aquatic Quest Maze adventurer!
+ shake $n
+ say Word of warning to you. Things generally circle their prey before attacking so watch out.
+endif
+~
+A
+#8238
+if ispc $n
+ emote spots you approaching and waves happily.
+endif
+~
+A
+#8239
+if ispc $n
+ emote screams in terror as you attack him.
+ MOB ECHOAT $n Neptune is infuriated by your arrogance and unleashes the full force of the ocean upon you!
+ MOB TRANSFER $n 8252
+endif
+~
+A
+#8240
+if ispc $n
+ say Aye you be a good chum then!
+ drink bottlerum
+ hic
+ say I'll give thee a hand in your search matey. Take this.
+ unlock chest
+ open chest
+endif
+~
+A
+#8241
+if isdelay $i
+ break
+ else
+ mob ECHOAT $n $I surges up out of the water.
+ mob remember $n
+ mob delay 1
+endif
+~
+A
+#8247
+if ispc $n
+ grunt $n
+ say unless you know the password you might as well move along
+ emote stands tall and stares at you.
+endif
+~
+A
+#8244
+if ispc $n
+ say Congratulations $n! I am glad you have made it out.
+ smile $n
+ say Do you wish to leave the aquatic quest maze now?
+endif
+~
+A
+#8245
+say Very well. I will leave you to further explore then. I will reward you for finishing the maze when you return to me.
+wave
+~
+A
+#8246
+if ispc $n
+ MOB OLOAD 8248
+ say Very well $n. I hope you enjoyed your visit!
+ give award $n
+ MOB TRANSFER $n 8253
+endif
+~
+A
+#8248
+say what I wouldn't do to get out of this place!
+emote looks for something to take his frustrations out on. RUN FOR IT!!
+close west
+lock west
+~
+A
+#8249
+if ispc $n
+ say you there! $n !
+ emote waddles over to you.
+ say Katherine forgot to give this to you. It may be of use.
+ MOB OLOAD 8236
+ give key $n
+ wave $n
+endif
+~
+A
+#8250
+if ispc $n
+ say Oh wonderful $n! I will return you to the beginning then. Good luck!
+ MOB TRANSFER $n 8200
+endif
+~
+A
+#8251
+say Some creatures have big mouths. You should try looking in some.
+~
+A
+#0
+
+#RESETS
+D 0 8201 5 1
+D 0 8213 2 2
+D 0 8215 5 2
+D 0 8219 5 2
+D 0 8220 4 2
+D 0 8220 5 2
+D 0 8222 4 2
+D 0 8248 0 2
+D 0 8248 4 2
+D 0 8249 4 2
+D 0 8249 5 2
+D 0 8251 5 2
+O 0 8242 0 8200
+M 1 8210 1 8201 1
+M 1 8212 3 8204 1
+G 0 8210 0
+M 1 8213 2 8204 1
+G 0 8214 0
+O 0 8223 0 8205
+O 0 8222 0 8206
+O 0 8222 0 8207
+M 1 8227 2 8207 1
+G 0 8212 0
+O 0 8215 0 8208
+P 0 8237 1 8215 1
+P 0 8213 1 8215 1
+M 1 8214 2 8208 1
+G 0 8210 0
+O 0 8223 0 8209
+O 0 8221 0 8209
+M 1 8217 2 8209 1
+G 0 8211 0
+O 0 8226 0 8210
+P 0 8234 1 8226 1
+O 0 8223 0 8211
+M 1 8212 3 8211 1
+G 0 8210 0
+O 0 8223 0 8212
+M 1 8216 1 8212 1
+G 0 8211 0
+O 0 8223 0 8213
+M 1 8224 1 8213 1
+G 0 8245 0
+G 0 8212 0
+O 0 8223 0 8214
+M 1 8215 2 8214 1
+G 0 8211 0
+O 0 8223 0 8215
+M 1 8212 3 8218 1
+G 0 8210 0
+O 0 8223 0 8219
+M 1 8219 3 8221 3
+G 0 8212 0
+M 1 8232 1 8221 1
+G 0 8212 0
+G 0 8230 0
+O 0 8229 0 8223
+M 1 8225 1 8223 1
+E 0 8220 0 17
+O 0 8221 0 8224
+O 0 8223 0 8225
+M 1 8222 1 8225 1
+O 0 8221 0 8226
+O 0 8241 0 8227
+M 1 8213 2 8227 1
+G 0 8214 0
+M 1 8220 4 8229 1
+G 0 8240 0
+G 0 8212 0
+M 1 8211 3 8230 1
+G 0 8210 0
+O 0 8227 0 8231
+P 0 8249 1 8227 1
+M 1 8233 3 8231 1
+G 0 8211 0
+O 0 8221 0 8232
+M 1 8234 1 8232 1
+G 0 8211 0
+M 1 8226 1 8232 1
+M 1 8217 2 8233 1
+G 0 8211 0
+M 1 8233 3 8235 1
+G 0 8211 0
+O 0 8223 0 8236
+M 1 8221 2 8236 1
+G 0 8212 0
+M 1 8214 2 8236 1
+G 0 8210 0
+O 0 8224 0 8237
+O 0 8221 0 8237
+M 1 8221 2 8237 1
+G 0 8212 0
+M 1 8230 1 8238 1
+G 0 8232 0
+O 0 8223 0 8238
+M 1 8235 2 8239 1
+O 0 8225 0 8239
+P 0 8235 1 8225 1
+O 0 8224 0 8240
+M 1 8211 3 8240 1
+G 0 8210 0
+M 1 8218 1 8241 1
+O 0 8224 0 8242
+M 1 8233 3 8242 1
+G 0 8211 0
+M 1 8215 2 8243 1
+G 0 8211 0
+M 1 8220 4 8244 3
+G 0 8244 0
+G 0 8212 0
+G 0 8243 0
+M 1 8231 1 8244 1
+G 0 8212 0
+G 0 8244 0
+G 0 8236 0
+M 1 8227 2 8245 1
+G 0 8212 0
+O 0 8221 0 8246
+O 0 8216 0 8246
+P 0 8231 1 8216 1
+O 0 8223 0 8247
+O 0 8217 0 8248
+P 0 8245 6 8217 2
+O 0 8218 0 8248
+P 0 8246 1 8218 1
+O 0 8219 0 8248
+P 0 8247 1 8219 1
+O 0 8228 0 8250
+P 0 8238 1 8228 1
+M 1 8223 1 8250 1
+E 0 8233 0 17
+M 1 8229 1 8250 1
+M 1 8211 3 8250 1
+G 0 8210 0
+M 1 8241 1 8251 1
+M 1 8236 2 8252 1
+M 1 8236 2 8254 1
+M 1 8275 1 8256 1
+M 1 8201 1 8283 1
+M 1 8200 1 8283 1
+G 0 8200 0
+G 0 8201 0
+G 0 8202 0
+G 0 8203 0
+G 0 8204 0
+G 0 8206 0
+M 1 8276 1 8299 1
+O 0 8287 0 8299
+S
+
+
+
+#SHOPS
+8200 0 0 0 0 0 200 25 0 23
+0
+
+
+
+#$

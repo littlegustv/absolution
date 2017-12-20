@@ -1,0 +1,3205 @@
+#AREADATA
+Name The King's Way~
+Builders None~
+VNUMs 10851 10999
+Credits { All } Daisy       The King's Way~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#10900
+gnome~
+a short gnome~
+A short gnome is hiding in the forest.
+~
+This little man is wearing short pants, a white shirt with puffy
+sleeves, and a tiny red hat.
+~
+elf~
+ACW J 750 0
+3 0 2d6+35 1d1+100 1d6+0 slap
+7 7 7 7
+0 T BE Z
+stand stand none 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+#10901
+wood elf~
+a wood elf~
+A small wood elf dances here.
+~
+This small elf looks happy to be in the forest.  He is dancing to
+music that only he can hear.
+~
+elf~
+ABW J 800 0
+5 0 2d6+60 1d1+100 1d6+1 slap
+5 5 5 5
+0 0 BE Z
+stand stand none 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+#10902
+Lawrygould knight~
+a knight of Lawrygould~
+One of the King's knights guards the road from invaders.
+~
+This fellow is a member of one of the best order on the continent.  Dedicated,
+loyal, and effiicient, he is the epitome of truth and justice.
+~
+human~
+ABT 0 1000 0
+12 -1 2d10+150 1d1+100 1d10+3 punch
+0 0 0 0
+CDEKLTU KZ C 0
+stand stand either 150
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#10903
+cougar wild cat~
+a cougar~
+A large wild cat slinks around the room.
+~
+This yellow cat looks strong and mean.  You must be careful not
+to get in its way.
+~
+cat~
+ABF LZ 0 0
+35 3 10d10+1300 1d1+100 4d7+11 bite
+-11 -11 -11 -11
+FH 0 0 0
+stand stand either 10
+AGV ACDEFHJKQUV medium 0 the guilds~
+#10904
+black snake~
+a BIG black snake~
+A BIG black snake is upset at your intrusion.
+~
+There isn't enough room at the bottom of this small pit for you and
+this extremely large snake.
+~
+snake~
+ABFG b -800 0
+45 0 25d10+3000 1d1+100 8d4+16 bite
+-15 -15 -15 -15
+CEMO B L I
+stand stand either 40
+AGXYc ADEFKLQVX medium 0 the guilds~
+#10905
+big hairy spider~
+a big hairy spider~
+A large spider blocks the path.
+~
+This black spider has six long hairy legs.  It seems to be looking for
+food.
+~
+centipede~
+ABF Z -100 0
+16 1 3d9+233 1d1+100 2d6+4 bite
+-2 -2 -2 -2
+0 0 FI E
+stand stand either 50
+ABGO ACK small 0 the guilds~
+#10906
+familiar~
+a familiar~
+A familiar guards this area.
+~
+A ghostly familiar shimmers in the shadows.
+~
+human~
+AB DFVZ 0 0
+15 0 3d6+200 1d1+100 1d8+2 none
+2 2 2 2
+F AB 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#10907
+vine green~
+a thorny vine~
+A long, thorny vine grabs ahold of you and won't let go.
+~
+This green vine has tons of little, sharp stickers in it.
+~
+tree~
+ABF J 0 0
+22 0 5d10+400 1d1+100 4d4+6 none
+-5 -5 -5 -5
+CFH B IS H
+stand stand none 0
+AEHJMVc ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#10900
+wedding cake~
+a piece of wedding cake~
+A slice of Daisy's and Delstar's wedding cake has been dropped here.~
+food~
+pill T A
+60 'heal' 'sanctuary' 'haste' 'frenzy'
+1 3 0 P
+#10901
+small stone~
+a small stone~
+A small stone lies in the middle of the room.~
+wood~
+throwing 0 AO
+1 3 smash 1 'magic missile'
+2 5 0 P
+#10902
+crown dwarf king~
+the {YCrown{x of the Dwarf King~
+The {YCrown{x of the Dwarf King has been dropped here.~
+gold~
+trash T AE
+0 0 0 0 0
+1 5 0 P
+#10903
+dragon leash~
+a {ygolden{x dragon leash~
+A {ygolden{x dragon leash is rare item.~
+wood~
+armor FTYe AOZ
+10 10 10 8 0
+51 30 1500 P
+A
+1 3  
+A
+18 2  
+A
+19 2  
+#10904
+garland ivy~
+a garland of ivy~
+A garland of ivy is growing here.~
+hemp~
+treasure G AC
+0 0 0 0 0
+3 10 75 P
+A
+5 1  
+#10905
+bounty hunter eyes~
+a bounty hunters eyes~
+A bounty hunter's eyes bore into you.~
+wood~
+orb 0 AO
+A A 0 0 0
+1 0 0 P
+#10906
+golden leaf~
+a golden leaf~
+A golden leaf dances in the wind.~
+gold~
+jewelry BI AQZ
+0 0 0 0 0
+30 10 200 P
+A
+13 10  
+A
+9 10  
+A
+12 10  
+#10907
+dragon soul~
+a dragon soul~
+The trapped soul of a dragon floats here.~
+quartz~
+armor AGKMad AQY
+3 3 3 0 1
+3 20 400 G
+A
+4 1  
+A
+2 1  
+A
+3 1  
+#10908
+thorn~
+a thorn~
+A sharp little thorn lies on the ground.~
+wood~
+throwing 0 AO
+3 6 impale 30 'poison'
+20 30 15 P
+#10910
+selina boots~
+Selina's swift boots~
+A light pair of boots gives off a soft glow.~
+leather~
+armor GTYe AG
+11 11 11 8 0
+50 100 2500 P
+A
+19 2  
+A
+18 2  
+A
+20 -2  
+A
+13 20  
+A
+14 100  
+#10911
+selina fire~
+Selina's fire~
+A bright, massive fire lights up the sky.~
+fire~
+light AGTYe A
+0 0 999 0 0
+51 20 1000 P
+A
+19 3  
+A
+20 -5  
+A
+18 5  
+#10912
+selina belt~
+Selina's belt~
+A thin leather belt sparkles like gold.~
+leather~
+container FGTYe AL
+700 A 0 50 25
+51 30 3200 P
+A
+19 2  
+A
+18 2  
+#10913
+selina might weapon~
+Selina's Might~
+The glint of gold flashes from a weapon.~
+gold~
+weapon ABFTYe ANY
+exotic 6 7 divine I
+51 120 8500 P
+A
+19 3  
+A
+18 3  
+A
+1 3  
+E
+selina might weapon~
+This weapon is but one aspect of the power of Selina. You can
+tap into what is left of her power by using this weapon as a starting
+point and crafting it together with 5 sets of furry gloves and 3
+belts of strength. Together they will be crafted into "mighty titan mitts"
+which give the wearer supernatural strength.
+ 
+Good luck!
+~
+#10914
+selina wings~
+Selina's Wings~
+A pair of large white wings has fallen to the ground.~
+feather~
+armor ATYe AK
+12 12 12 10 0
+51 50 4500 P
+A
+2 3  
+A
+19 3  
+A
+20 -3  
+#10915
+christmas morning slippers~
+a pair of {RC{Gh{Rr{Gi{Rs{Gt{Rm{Ga{Rs{x morning slippers~
+This pair of slippers can only be gotten through participating in Daisy's {RC{Gh{Rr{Gi{Rs{Gt{Rm{Ga{Rs{x hide and seek quest.~
+cloth~
+armor TW AG
+3 2 1 0 0
+5 30 0 P
+A
+5 1  
+#10916
+Bingo Card~
+a Bingo Card~
+A bingo card has been dropped here.~
+paper~
+key TY AO
+0 0 0 0 0
+1 1 1 P
+E
+card~
+B   I   N   G   O
+-------------------
+ 08  29  34  60  70
+ 04  19  42  59  62
+ 02  26  **  58  72
+ 09  17  45  56  74
+ 14  21  39  57  71
+~
+#10917
+Bingo Card~
+a Bingo Card~
+A bingo card has been dropped here.~
+paper~
+key TY AO
+0 0 0 0 0
+1 1 1 P
+E
+???~
+Riding in on a {yshooting star{x, StarCrossed steps lightly to the ground.~
+E
+card~
+B   I   N   G   O
+-------------------
+ 02  26  40  49  68
+ 14  29  43  47  70
+ 12  16  **  57  66
+ 01  21  37  59  75
+ 15  30  32  58  67
+~
+#10918
+Bingo Card~
+a Bingo Card~
+A bingo card has been dropped here.~
+paper~
+key TY AO
+0 0 0 0 0
+1 1 1 P
+E
+???~
+Riding in on a {yshooting star{x, StarCrossed steps lightly to the ground.~
+E
+card~
+B   I   N   G   O
+-------------------
+ 10  30  37  53  61
+ 14  20  35  59  63
+ 13  25  **  52  66
+ 11  22  38  46  64
+ 06  23  40  56  73
+~
+#10919
+Bingo Card~
+a Bingo Card~
+A bingo card has been dropped here.~
+paper~
+key TY AO
+0 0 0 0 0
+1 1 1 P
+E
+???~
+Riding in on a {yshooting star{x, StarCrossed steps lightly to the ground.~
+E
+card~
+B   I   N   G   O
+-------------------
+ 06  28  40  59  73
+ 15  26  37  58  64
+ 14  29  **  49  74
+ 10  19  41  56  61
+ 11  21  34  54  75
+~
+#10920
+Bingo Card~
+a Bingo Card~
+A bingo card has been dropped here.~
+paper~
+key TY AO
+0 0 0 0 0
+1 1 1 P
+E
+???~
+Riding in on a {yshooting star{x, StarCrossed steps lightly to the ground.~
+E
+card~
+B   I   N   G   O
+-------------------
+ 10  24  36  52  74
+ 06  19  34  59  68
+ 03  29  **  46  73
+ 13  26  33  49  62
+ 04  27  37  54  61
+~
+#10921
+Bingo Card~
+a Bingo Card~
+A bingo card has been dropped here.~
+paper~
+key TY AO
+0 0 0 0 0
+1 1 1 P
+E
+???~
+Riding in on a {yshooting star{x, StarCrossed steps lightly to the ground.~
+E
+card~
+08  25  41  48  71
+ 01  22  45  50  75
+ 02  30  **  58  64
+ 14  17  35  57  66
+ 12  21  38  56  65
+~
+#10922
+thanksgiving turkey~
+a roasted Thanksgiving Turkey~
+This Thanksgiving Turkey can be crafted with stuffing and cranberry sauce for a quest prize.~
+food~
+container T AY
+100 AC 0 10 100
+0 10 0 G
+#10923
+thanksgiving stuffing~
+Thanksgiving stuffing~
+Thanksgiving stuffing can be sold at the jewellers or crafted with turkey and cranberry sauce for a quest prize.~
+food~
+gem TW AY
+0 0 0 0 0
+0 1 10000 P
+#10924
+skill voucher~
+a skill voucher~
+Turn this voucher in to CAUTHON or STARCROSSED to have 2% added to any skill you already have.~
+paper~
+trash T A
+0 0 0 0 0
+0 10 0 P
+#10925
+thanksgiving cranberry sauce~
+Thanksgiving cranberry sauce~
+Thanksgiving cranberry sauce can be sold at the jewellers or crafted with turkey and stuffing for a quest prize.~
+food~
+gem TW AY
+0 0 0 0 0
+0 1 10000 P
+#10950
+spring tulip~
+a pretty spring {Rtulip{x~
+You call sell the spring {Rtulip{x at the Jewellers for cash.~
+gem~
+gem NTW A
+0 0 0 0 0
+0 1 10000 P
+#10951
+spring daisy yellow~
+a pretty spring {Ydaisy{x~
+You call sell the spring {Ydaisy{x at the Jewellers for cash.~
+gem~
+gem TW AO
+0 0 0 0 0
+0 1 6000 P
+#10952
+spring flower violet~
+a spring {BViolet{x~
+You can sell a spring {BViolet{x at the Jewellers for cash.~
+gem~
+gem TW AO
+0 0 0 0 0
+0 1 2000 P
+#10953
+firecracker american independence~
+a {Rfirecracker{x~
+A {Rfirecracker{x has been dropped here to celebrate {RA{Wm{Be{Rr{Wi{Bc{Ra{Wn {BI{Rn{Wd{Be{Rp{We{Bn{Rd{We{Bn{Rc{We{B!{x~
+gem~
+gem TW A
+0 0 0 0 0
+0 1 10000 P
+#10954
+Leveling Tool~
+a leveling tool~
+A tool for leveling has been dropped here.~
+wood~
+treasure 0 AO
+0 0 0 0 0
+1 0 0 P
+#10955
+statue gargnath~
+a statue of the wizard Gargnath~
+A statue of the mighty troll wizard, Gargnath, stands here in tribute.~
+granite~
+furniture BO 0
+0 0 0 0 0
+0 100000 2000 P
+E
+statue~
+You stare up at the statue of the troll wizard Gargnath.
+You notice he is using something rather unusual as a shield: A book!
+ 
+ 
+The giant tome is almost the size of a tower shield, but it must be
+quite light to be held in one hand. You could fashion a similar shield
+for yourself to provide good protection against magic.
+ 
+ 
+The "gods tome" will require a wizards tome, a heavy book and the
+bane of the gods to be fused together.
+~
+#10956
+turkey~
+some leftover turkey~
+A slice of leftover turkey has been dropped here.~
+meat~
+pill T A
+30 'fly' 'call creature' 'bark skin' 'reserved'
+0 2 0 P
+#10957
+type one gnomish cog~
+A type one gnomish cog~
+A gnomish cog lies here, spinning in place.~
+iron~
+gem 0 AY
+0 0 0 0 0
+0 10 2000 P
+#10960
+flag~
+a tourney flag~
+A tournament flag has been dropped here.~
+cloth~
+trash Ye AQ
+0 0 0 0 0
+0 0 0 P
+#10961
+egg nog~
+a glass of egg nog~
+A tall glass of egg nog has been left here.~
+glass~
+potion T AO
+35 'stone skin' 'giant insect' 'protection evil' 'invisibility'
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#10851
+A Steep Incline~
+This hill runs upward toward the south.  No grass or trees can grow
+along its rocky slope.  Large boulders seem to totter next to the path.
+You can enter the woods by going east.
+~
+0 0 3
+D1
+~
+~
+0 0 10852
+D2
+~
+~
+0 0 10998
+S
+#10852
+Into the Woods~
+The trees are very tall in this section of the forest.  They must
+be extremely old.  There is a steep upward slope to the west, and a
+gravel path runs east.  
+~
+0 0 3
+D1
+~
+~
+0 0 10853
+D3
+~
+~
+0 0 10851
+S
+#10853
+Tall Trees~
+The branches of these great forest trees lay far above your head.  They
+cast a thick shade over the ground.  The woods continue to the west and
+east.  A deep pit lies to the north.
+~
+0 0 3
+D0
+~
+~
+0 0 10856
+D1
+~
+~
+0 0 10854
+D3
+~
+~
+0 0 10852
+S
+#10854
+In the Mighty Volrath Forest~
+Far above your head the wind rustles the tree leaves.  There is not a tree
+in this section of the woods that you could encircle with your arms.  The
+forest continues to the north and west.  Large boulders block any movement
+to the south or east.
+~
+0 0 3
+D0
+~
+~
+0 0 10855
+D3
+~
+~
+0 0 10853
+S
+#10855
+Between Two Tall Trees~
+You stand between two of the tallest trees you have ever seen.  They
+appear to be unclimbable.  A deep dark pit lies to the west and the 
+forest continues to the east and the south.
+~
+0 0 3
+D1
+~
+~
+0 0 10857
+D2
+~
+~
+0 0 10854
+D3
+~
+~
+0 0 10856
+S
+#10856
+A Deep, Dark Pit~
+You stand at the bottom of a deep stone pit.  The walls are slick and have
+no hand-holds.   There is no clear exit.
+~
+0 4 3
+S
+#10857
+Deep in the Forest~
+This section of the forest looks strange and unfamiliar.  You do not
+recognized any landmarks.  The tall trees block any view of the horizon.
+Exits lie to the north and west.  A big brush pile stands to the east.
+~
+0 0 3
+D0
+~
+~
+0 0 10858
+D1
+~
+~
+0 0 31440
+D3
+~
+~
+0 0 10855
+S
+#10858
+The Great Tree of Rath~
+Before you stands the immortal tree of Rath which poets have written
+about for a thousand years.  Legend says that those who give offerings
+to the tree will be rewarded by the spirits.  You are tempted to rest here.
+The only exits lie to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 1801
+D2
+~
+~
+0 0 10857
+S
+#10859
+The Edge of the Forest~
+You stand on a newly built road that runs through the Evermoor Forest.  Dense
+trees line the north and west edges of the path.  The road continues to the
+south.   The King's Way lies to the east.
+~
+0 0 3
+D1
+~
+~
+0 0 10929
+D2
+~
+~
+0 0 10861
+D3
+~
+~
+0 0 10860
+S
+#10860
+The Evermoor Forest~
+Thick trees and dense shurbs fill this section of the woods.  Dead leaves
+cover the ground, who knows what lies beneath them.  A dirt path lies to
+east and south.
+~
+0 0 3
+D1
+~
+~
+0 0 10859
+D2
+~
+~
+0 0 10862
+S
+#10861
+A Path Through the Woods~
+This dirt road was recently built by the King's craft's men.  It cuts through
+the dark woods of the Evermoor forest.  Exits lie to the north and west.
+~
+0 0 3
+D0
+~
+~
+0 0 10859
+D3
+~
+~
+0 0 10862
+S
+#10862
+The Evermoor Path~
+This dirt path run east and west through the woods.  Green brush lines the
+southern edge of the path.  There is a thick grove of trees to the north.
+~
+0 0 3
+D0
+~
+~
+0 0 10860
+D1
+~
+~
+0 0 10861
+D3
+~
+~
+0 0 10863
+S
+#10863
+In the Woods~
+You stand on a long dirt path.  Tall trees tower above you allowing little
+light to filter through.  The path continues to the east and west.  Another
+path branches off to the north.
+~
+0 0 3
+D0
+~
+~
+0 0 7500
+D1
+~
+~
+0 0 10862
+D3
+~
+~
+0 0 10864
+S
+#10864
+In the Evermoor Forest~
+Tall trees grow along both the north and south sides of the path.  A long
+cobweb is stretched high above your head.  The path continues to the east
+and west.
+~
+0 0 3
+D1
+~
+~
+0 0 10863
+D3
+~
+~
+0 0 10865
+S
+#10865
+On a Long Path~
+It is cool in this section of the forest.  It is quiet and calm here and you
+feel far away from city problems.  A patch of wild grass grows to north, the
+path continues to the east and west.
+~
+0 0 3
+D0
+~
+~
+0 0 10868
+D1
+~
+~
+0 0 10864
+D3
+~
+~
+0 0 10866
+S
+#10866
+A Path in the Woods~
+The dark dirt of the path reminds you of a newly tilled field.  Brush and
+tall, thin trees line the southern edge of the path.  A small patch of green
+grass lies to the north.  The road goes to the east and west.
+~
+0 0 3
+D0
+~
+~
+0 0 10867
+D1
+~
+~
+0 0 10865
+D3
+~
+~
+0 0 10869
+S
+#10867
+A Grassy Patch~
+This small clearing in the Evermoor forest appears to be a good spot to
+rest.  The clearing continues to the east.  A dirt path lies to the south.
+~
+0 0 3
+D1
+~
+~
+0 0 10868
+D2
+~
+~
+0 0 10866
+S
+#10868
+In the Tall Grass~
+It is surprising to find this grassy clearing in the middle of the forest.
+Dense trees lie to the north and east.  More grass lies to the west and a
+long path runs to the south.
+~
+0 0 3
+D2
+~
+~
+0 0 10865
+D3
+~
+~
+0 0 10867
+S
+#10869
+A Turn in the Path~
+This road in the Evermoor forest turns north from the east.  Song birds hop 
+from limb to limb far above your head.  Thick bushes block any movement to 
+the west and south.
+~
+0 0 3
+D0
+~
+~
+0 0 11878
+D1
+~
+~
+0 0 10866
+S
+#10870
+In a Grassy Field~
+You stand on a dirt path in the middle of a grassy field.  Several
+hills lie to your north and the path continues to the south.
+~
+0 0 2
+D0
+~
+~
+0 0 10871
+D2
+~
+~
+0 0 8501
+S
+#10871
+Rolling Hills~
+You stand on a wide dirt path that runs through the rolling hills
+north of Shandalar.  Deep green grass lies to the north and east of
+road.  The path continues through the hills to the west, and levels 
+off to the south.
+~
+0 0 4
+D2
+~
+~
+0 0 10870
+D3
+~
+~
+0 0 10872
+S
+#10872
+A Path Through the Hills~
+You stand on a dirt path that curves through the rolling hills
+of Dominia.  A slight breeze ruffles you hair and cools the sweat
+on your brow.  The path continues to the north and east.
+~
+0 0 4
+D0
+~
+~
+0 0 10873
+D1
+~
+~
+0 0 10871
+S
+#10873
+Among the Grass-Covered Hills~
+Tall green hills line the east and west sides of a dirt path.  Dark
+shadows from the surrounding hills make you shiver.  The only exits
+lies to the north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 10874
+D2
+~
+~
+0 0 10872
+S
+#10874
+Bottom of a Steep Hill~
+You are surrounded by several large hills that lie north of the city
+of Shandalar. A dirt path leads up a steep hill to the north and
+south through a valley of shadows.  A grassy walkway curves around
+several smaller hills to the east and west.
+~
+0 0 4
+D0
+~
+~
+0 0 10880
+D1
+~
+~
+0 0 10875
+D2
+~
+~
+0 0 10873
+D3
+~
+~
+0 0 10881
+S
+#10875
+A Grassy Path~
+You stand in the middle of a grassy path that winds through the low
+hills of Dominia.  High rocks block any movement to the north or south.
+The grass covered path continues to the east and a dirt path lies to
+the west.
+~
+0 0 4
+D1
+~
+~
+0 0 10876
+D3
+~
+~
+0 0 10874
+S
+#10876
+Between the Hills~
+Low grass covered hills surround you.  The wind whistles overhead but
+can not reach you.  The only exits lie to the east and west.
+~
+0 0 4
+D1
+~
+~
+0 0 10877
+D3
+~
+~
+0 0 10875
+S
+#10877
+Walking Through the Hills~
+You stand on a grassy path that winds through the hills north of
+Shandalar.  There are no trees to block out the sun, but the hills
+cast shadows over most of the path.  Large rocks block any movement
+to the south and east.  The path continues to the north and west.
+~
+0 0 4
+D0
+~
+~
+0 0 10878
+D3
+~
+~
+0 0 10876
+S
+#10878
+Within the Hills of Dominia~
+You stand on a grassy path that runs through a maze of low hills.  Your
+steps echo throughout the area.  Large rocks prevent any movement to the
+east and west.  The path continues to the north and south.
+~
+0 0 4
+D0
+~
+~
+0 0 10879
+D2
+~
+~
+0 0 10877
+S
+#10879
+On a Grassy Path~
+You stand on a grass covered path that weaves through a large hilly
+area.  Large rocks block any movement to the north or west.  The grassy
+path continues to the south.  The King's Way lies to the east.
+~
+0 0 4
+D1
+~
+~
+0 0 10963
+D2
+~
+~
+0 0 10878
+S
+#10880
+Half-Way to the Top~
+You are on a dirt path that leads up a large rocky hill.  At the top
+of the hill you can see some type of man-made structure.  You can
+climb further up or head back down the path to the south.
+~
+0 0 4
+D2
+~
+~
+0 0 10874
+D4
+~
+~
+0 0 3800
+S
+#10881
+At the Base of a Mountain~
+You stand on a grassy path at the base of a tall mountain range.
+There appears to be several handholds cut into the rock making
+it possible to climb up the mountain.  The grassy path winds east
+through several large hills.
+~
+0 0 4
+D1
+~
+~
+0 0 10874
+D4
+~
+~
+0 0 10882
+S
+#10882
+On a Mountain Side~
+You are high up on the side of a tall mountain.  Climbing is getting
+more difficult as handholds are coming further and further
+apart.  You can continue up the mountain or climb down toward
+safety.
+~
+0 0 5
+D4
+~
+~
+0 0 10883
+D5
+~
+~
+0 0 10881
+S
+#10883
+High on a Mountain Side~
+You are near the top of the mountain, but you can see no way to
+continue up.  A light snow has begun to fall on your shoulders.
+You can climb down the mountain or try to walk along a thin
+ledge to the north.
+~
+0 0 5
+D0
+~
+~
+0 0 10884
+D5
+~
+~
+0 0 10882
+S
+#10884
+A Thin Ledge~
+You stand on a thin rock ledge, high on a mountain top.  Any
+false move from here would mean certain death.  You can continue
+along the ledge to the north or try grabbing a handhold to the
+south.
+~
+0 0 5
+D0
+~
+~
+0 0 10885
+D2
+~
+~
+0 0 10883
+S
+#10885
+The Ledge Widens~
+The mountain ledge you are standing on is wide enough for two
+people to walk side by side.  To the north the ledge turns into a
+rocky road, to the south it narrows dangerously.  A steep incline
+prevents any movement to either the east or west.
+~
+0 0 5
+D0
+~
+~
+0 0 19001
+D2
+~
+~
+0 0 10884
+S
+#10886
+Through the Volrath Forest~
+You stand on a narrow path that runs east and west through the Volrath
+Forest.  The path appears to be covered with cookie crumbs and the
+smell of baked goods wafts in from the north.  Large trees prevent any
+movement to the north or south.
+~
+0 0 3
+D1
+~
+~
+0 0 10887
+D3
+~
+~
+0 0 10946
+S
+#10887
+Bend in the Forest Path~
+This narrow path runs through the heart of the largest forest on
+Dominia.  You stand at a major bend.  One section leads north
+and another section leads west.  Cookie crumbs cover much of the
+area.  Thick shurbs and tall trees prevent any movement to the
+south or east.
+~
+0 0 3
+D0
+~
+~
+0 0 10888
+D3
+~
+~
+0 0 10886
+S
+#10888
+A Narrow Path in the Forest~
+Cookie crumbs cover this section ofthe forest floor.  Tall trees and 
+heavy brush prevent any movement to the east and west.  The only exits
+like to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 18901
+D2
+~
+~
+0 0 10887
+S
+#10889
+A Forgotten Path~
+You have found a long lost path through the Volrath forest.  This
+pathway was once frequently used during the Dragon Wars, but 
+has been abandoned for several generations.  Tall grass has begun 
+to grow along the north and south edges of the path.  The path
+continues to the east, while the Zoo Road lies to the west.
+~
+0 0 3
+D1
+~
+~
+0 0 10890
+D3
+~
+~
+0 0 10969
+S
+#10890
+A Grassy Path~
+You are deep in the Volrath forest.  This part of Dominia has not
+been frequently visted since the Dragon Wars.  Thick shrubs and 
+tall grees block any movement to the north and south.  The path
+continues to the east and west.
+~
+0 0 3
+D1
+~
+~
+0 0 10891
+D3
+~
+~
+0 0 10889
+S
+#10891
+An Old Seldom Used Path~
+You stand in the Volrath forest.  Tall trees and heavy brush
+block any movement to the north.  A dense thicket of thorns
+lies to the south, and the grassy path continues to the
+east and west.
+~
+0 0 3
+D1
+~
+~
+0 0 17779
+D2
+~
+~
+0 0 10892
+D3
+~
+~
+0 0 10890
+S
+#10892
+A Patch of Thorns~
+You have stumbled into a patch of thorns.  They tear at your
+cloths and your exposed flesh.  The only exits lie to the north
+and south.
+~
+0 0 3
+D0
+~
+~
+0 0 10891
+D2
+~
+~
+0 0 13710
+S
+#10893
+Southern King's Way~
+This is the main road in Dominia.  It connects three of the most
+significant of the continent's landmarks-- Shandalar, Selina's Crypt,
+and King Lawrygould's castle.  Thousands of feet have traveled this
+road in search of money and adventure.  You can continue to the north
+and the south.
+~
+0 0 1
+D0
+~
+~
+0 0 10933
+D2
+~
+~
+0 0 10894
+S
+#10894
+On a North-South Road~
+Tall, old-growth forests lie on both sides of the road.  The
+trees here have been around for hundreds of years and have 
+witnessed both the joys and the horrors of history.  You wonder
+what tales they would speak if some magic could make them talk.
+The road continues to the north and the south.
+~
+0 0 1
+D0
+~
+~
+0 0 10893
+D2
+~
+~
+0 0 10895
+S
+#10895
+Along the King's Way~
+Dust from the road covers your clothing.  You will probably
+find more dust caking your weapons and armor.  You are getting
+sick of the dust.  The road continues to the north and the
+south.
+~
+0 0 1
+D0
+~
+~
+0 0 10894
+D2
+~
+~
+0 0 10896
+S
+#10896
+The Southern Side of the King's Way~
+This is the longest road you've ever had to travel.  You wonder
+if anyone has died along the side of the road from being worn
+out from walking.  The road continues to the north and the south.
+A short path leads into the woods to your west.
+~
+0 0 1
+D0
+~
+~
+0 0 10895
+D2
+~
+~
+0 0 10897
+D3
+~
+~
+0 0 10898
+S
+#10897
+Along the Southern End of the King's Way~
+The road has been closed down for repairs.  The only exit lies
+to the north.
+~
+0 0 1
+D0
+~
+~
+0 0 10896
+S
+#10898
+A Short Path in the Woods~
+This short path in the woods is strewn with trash and broken
+equipment.  Whoever has been here recently obviously didn't care
+about maintaining the beauty of the area.  A larger boulder lies
+to the west, while the King's Way is to the east.
+~
+0 0 3
+E
+boulder~
+The large boulder seems to cover the entrance to a cave.
+~
+D1
+~
+~
+0 0 10896
+D3
+~
+boulder~
+1 0 10899
+S
+#10899
+Inside a Dark Cave~
+You are in a dark cave.  The floor is covered with trash, but
+the walls are full of writings.  They have faded over the years,
+but they appear to be written in the native language of the
+troll.  There is a narrow hole in the floor and a large boulder
+lies to the east.
+~
+0 8 0
+E
+boulder~
+The boulder seems to block the exit to the cave.
+~
+D1
+~
+boulder~
+1 0 10898
+D5
+~
+~
+0 0 2901
+S
+#10900
+Rocky Ledge~
+You balance on a thin ledge.  To the east lies a small circle of rocks,
+a strange force, however, prevents you from entering it.  Below lies a
+sea of black and white tiles, and above floats a thick fog.
+~
+0 0 3
+D1
+~
+~
+0 0 10970
+D4
+~
+~
+0 0 10941
+D5
+~
+~
+0 0 11400
+S
+#10901
+Outside the City~
+You stand in the middle of a well maintained east-west road.  Grass
+covered hills lie to the north.  A large stone building lies to the south. 
+To the west shine the gates of Shadalar.  
+~
+0 0 2
+E
+stone building~
+The building is built of dark stones.  Three large stones, each engraved
+with a letter, stand above the entrance.  As you look closer, you can see
+the letters upon each stone.  C O L 
+~
+D1
+~
+~
+0 0 10902
+D3
+~
+~
+0 0 31019
+S
+#10902
+The Road to Shandalar~
+This dirt road has been cleared of rocks and packed down hard from the
+weight of many feet.  Running between grass covered hills, it connects the
+city of Shandalar to the King's Way.
+~
+0 0 3
+D1
+~
+~
+0 0 10903
+D3
+~
+~
+0 0 10901
+S
+#10903
+The King's Way~
+The King's Way is the most famous and well-maintained road in all of
+Dominia.  Regularly patrolled by the King's knights, it connects the royal
+castle to Selina's Crypt.  An iron gate stands open to the north.  A brass
+plaque on the gate reads: Shandalar Playground.  The King's Way continues to
+the north and south.  The road to Shandalar lies to the west.
+~
+0 0 3
+D0
+~
+~
+0 0 10904
+D1
+~
+~
+0 0 15341
+D2
+~
+~
+0 0 10919
+D3
+~
+~
+0 0 10902
+S
+#10904
+The King's Way~
+This road is maintained by the King to provide safe travel through Dominia.
+Pretty hills are to the west and a dense forest lies to the east.  The King's
+Way continues to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 10905
+D2
+~
+~
+0 0 10903
+S
+#10905
+The King's Way~
+This long road runs north and south along the green hills of Dominia.  You
+are struck by the beauty around you.  The forest of Volrath lies to the east
+and the city of Shandalar lies beyond the western hills.
+~
+0 0 3
+D0
+~
+~
+0 0 10906
+D2
+~
+~
+0 0 10904
+S
+#10906
+The King's Way~
+This road was constructed many years ago by decree of the King.  It
+connects all the 'civilized' parts of the continent.  The Way continues
+north toward Selina's Crypt and south towards King Lawrygould's castle.
+~
+0 0 3
+D0
+~
+~
+0 0 10907
+D2
+~
+~
+0 0 10905
+S
+#10907
+The King's Way~
+You stand on a long, straight road that runs north and south.  To your west
+lie some green hills and to the east stands the Forest of Volrath.  It is
+easy to travel quickly because the road has been cleared of all obstacles.
+~
+0 0 3
+D0
+~
+~
+0 0 10908
+D2
+~
+~
+0 0 10906
+S
+#10908
+Along the King's Way~
+This gravel road is lined with rocks and a flower border.  The King's own
+gardeners tend to the landscaping.  The Way continues to the north and
+south.
+~
+0 0 3
+D0
+~
+~
+0 0 10909
+D2
+~
+~
+0 0 10907
+S
+#10909
+Intersection with Slemr Track~
+This section of the King's Way intersects with Slemr Track.  While the
+Way continues to the north and south, the track winds through the Forest
+of Volrath to the east.
+~
+0 0 3
+D0
+~
+~
+0 0 10944
+D1
+~
+~
+0 0 10910
+D2
+~
+~
+0 0 10908
+S
+#10910
+Slemr Track~
+This path is much narrower than the King's Way.  It runs through the dark
+forest of Volrath.  Tall trees line the sides of the track and very little
+sunshine comes through their covering.  You can continue east or west.
+~
+0 0 3
+D1
+~
+~
+0 0 10911
+D3
+~
+~
+0 0 10909
+S
+#10911
+On Slemr Track~
+Rocks and branches are strewn along this path through the woods.  Thick
+bushes and tall trees block any movement to the north or south.  The track
+continues to the east and west.
+~
+0 0 3
+D1
+~
+~
+0 0 10912
+D3
+~
+~
+0 0 10910
+S
+#10912
+In the Forest of Volrath~
+You stand on the Slemr Track that runs east and west through the woods.
+Thick brush grows along the roadside and small animals scamper through
+the growth.
+~
+0 0 3
+D1
+~
+~
+0 0 10913
+D3
+~
+~
+0 0 10911
+S
+#10913
+The Slemr Track~
+This long, narrow path runs through a heavily over-grown section of
+the Volrath Forest.  Large bushes and tall grass prevents you from seeing
+what lies to the north and south.  The track continues to the east and west.
+~
+0 0 3
+D1
+~
+~
+0 0 10914
+D3
+~
+~
+0 0 10912
+S
+#10914
+Deep in the Volrath Forest~
+The Slemr Track widens a bit in this section of the woods.  It looks like
+you could squeeze through the trees to the north.  The path continues to the
+east and west.
+~
+0 0 3
+D0
+~
+~
+0 0 10915
+D1
+~
+~
+0 0 10945
+D3
+~
+~
+0 0 10913
+S
+#10915
+A Beaten Down Trail~
+The tall grass and brush has been beaten down by the weight of some man
+or animal travelling through the woods.  This grassy trail continues to
+west and east.  A dirt-covered path lies beyond the trees to your south.
+~
+0 1 3
+D1
+~
+~
+0 0 10917
+D2
+~
+~
+0 0 10914
+D3
+~
+~
+0 0 10916
+S
+#10916
+Thick Brush~
+You get tangled in the brush and tall grass growing here.  Long thorns 
+snag your clothes and scratch your face.  The trees are growing too close
+together to travel north, south, or west.  The only exit is to the east.
+~
+0 1 3
+D1
+~
+~
+0 0 10915
+S
+#10917
+Grassy Trail~
+A faint path runs through the tall trees of the Volrath Forest.  The grass
+has grown so high that you can barely see where you are walking.  The trail
+continues to the east and west.
+~
+0 1 3
+D1
+~
+~
+0 0 10918
+D3
+~
+~
+0 0 10915
+S
+#10918
+A Faint Path~
+It must have been a long time since someone has traveled in this direction,
+because you can barely make out a grassy path through the woods.  A large
+clearing lies to the north and the trail heads to the west.
+~
+0 1 3
+D0
+~
+~
+0 0 5400
+D3
+~
+~
+0 0 10917
+S
+#10919
+On the King's Way~
+This long road runs the length of Dominia connecting King Lawrygould's
+castle to great walled city of Shandalar and to Selina's Crypt.  A dark
+forest lies to the east, and rolling hills stand to the west.  The road
+continues to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 10903
+D2
+~
+~
+0 0 10920
+S
+#10920
+Along the King's Way~
+You stand in the middle of the only state-maintained road in the Kingdom.
+It is covered with gravel and lined with large smooth stones.  To the west
+are some rolling hills and to the east is the dense Forest of Volrath.  The
+Way continues to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 10919
+D2
+~
+~
+0 0 10921
+S
+#10921
+The King's Way~
+This north-south road is one of the safest in Dominia.  It is regularly
+patrolled by the King's guards.  Even Lawrygould's mighty knights, however,
+can not keep you safe in the Volrath Forest.
+~
+0 0 3
+D0
+~
+~
+0 0 10920
+D2
+~
+~
+0 0 10922
+S
+#10922
+A Long Straight Road~
+A light breeze brushes over your face as you stroll along the King's Way.
+The great walls of Shandalar lie past the hills to your west, and the
+dark Forest of Volrath grows to the east.  The road continues to the north
+and south.
+~
+0 0 3
+D0
+~
+~
+0 0 10921
+D2
+~
+~
+0 0 10923
+S
+#10923
+A Gravel Road~
+The King's Way has recently been raked smooth and packed down by large
+horse-drawn rollers.  Heavy stones line the edge of the roadside.  On
+the west side of the road lies a steep river bank.  The Way continues to
+the north and a wooden bridge lies to the south.
+~
+0 0 3
+D0
+~
+~
+0 0 10922
+D2
+~
+~
+0 0 10924
+D3
+~
+~
+0 0 31471
+S
+#10924
+A Wooden Bridge~
+The bridge creaks loudly as you travel over it.  Below you lies a deep
+river that flows west towards the sea.  The King's Way continues to the
+north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 10923
+D2
+~
+~
+0 0 10925
+S
+#10925
+The King's Way~
+You stand on a long, straight road that runs between the Forest of Volrath
+and the Evermoor Forest.  Far to the north lies Selina's Crypt and far to
+the south is King Lawrygould's castle.  To the west is a short path down
+to the river.
+~
+0 0 3
+D0
+~
+~
+0 0 10924
+D2
+~
+~
+0 0 10926
+D3
+~
+~
+0 0 31469
+S
+#10926
+On the King's Way~
+This long road runs north and south through the dark forests of Dominia.
+You shiver at the thought of getting lost in the dangerous woods that lie
+to the east and west.
+~
+0 0 3
+D0
+~
+~
+0 0 10925
+D2
+~
+~
+0 0 10927
+S
+#10927
+A North-South Road~
+The King's Way is the largest, most well-maintained road in all of Dominia.
+Gardeners in the King's employment plant flowers every spring beside the
+road.  The Volrath Forest sets to the east and the Evermoor Forest lies
+to the west.  A carved sign points to the west.
+~
+0 0 3
+E
+sign~
+The sign reads {GFishing Hole{x.
+~
+D0
+~
+~
+0 0 10926
+D2
+~
+~
+0 0 10928
+D3
+~
+~
+0 0 9900
+S
+#10928
+A Long North-South Road~
+The King's Way is built on top of an old track used by wandering nomads.
+It runs the length of Dominia and is a major travel route for peddlers and
+merchants.
+~
+0 0 3
+D0
+~
+~
+0 0 10927
+D1
+~
+~
+0 0 23200
+D2
+~
+~
+0 0 10929
+S
+#10929
+Along the King's Way~
+This road is bound to the east and west by two great forests.  They look
+charming and harmless, but you know that many terrors lurk deep within
+their depths.  A newly built dirt path leads to the west, the King's
+Way continues to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 10928
+D2
+~
+~
+0 0 10930
+D3
+~
+~
+0 0 10859
+S
+#10930
+The King's Way~
+You stand on a long road maintained by the King to provide safe travel
+through Dominia.  It runs between the Evermoor Forest and the Volrath
+forest.  A narrow dirt path lies to the east.  The Way continues to the
+north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 10929
+D1
+~
+~
+0 0 10946
+D2
+~
+~
+0 0 10931
+S
+#10931
+A Gravel Road~
+It took many years of hard labor for the King's workers to haul the gravel
+that covers this road up from the sea.  These white rocks have felt the 
+weight of many armies and adventurers.  The King's Way continues to the
+north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 10930
+D2
+~
+~
+0 0 10932
+S
+#10932
+A Gravel Road~
+You stand on a long, straight road that runs between the Evermoor Forest to
+your west and the Volrath Forest to your east.  It is easy to travel fast
+since the road is so well-maintained.  The King's Way continues to the 
+north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 10931
+D2
+~
+~
+0 0 10933
+S
+#10933
+The King's Way~
+You stand on a well-maintained road that connects the royal castle to
+Selina's Crypt.  A small path leads east into the Volrath Forest, and the
+Way continues to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 10932
+D1
+~
+~
+0 0 10934
+D2
+~
+~
+0 0 10893
+S
+#10934
+A Light Mist~
+A thin mist has descended on this section of the forest making you feel
+slightly cold and damp.  You can see big water drops on the leaves of the
+nearby trees and bushes.  The King's Way lies to the west and the fog gets
+thicker to the east.
+~
+0 0 3
+D1
+~
+~
+0 0 10935
+D3
+~
+~
+0 0 10933
+S
+#10935
+A Rolling Mist~
+A thick fog has moved into this section of the forest and blocks your view
+of the terrain.  Your skin starts to prickle at the thought of wandering
+into a deep hole or a rabid animal.
+~
+0 0 3
+D2
+~
+~
+0 0 10936
+D3
+~
+~
+0 0 10934
+S
+#10936
+A Heavy Mist~
+This entire section of woods is hidden by a thick, wet mist.  Your light
+can not penetrate the dense covering, and you forget from which direction
+you just came.
+~
+0 0 3
+D0
+~
+~
+0 0 10935
+D1
+~
+~
+0 0 10937
+S
+#10937
+A Heavy Mist~
+You stand in the middle of a thick fog.  The trees and bushes of the forest
+are concealed behind it.  It is easy to become confused since you can not
+see very far into the distance.
+~
+0 0 3
+D0
+~
+~
+0 0 10938
+D2
+~
+~
+0 0 10940
+D3
+~
+~
+0 0 10936
+S
+#10938
+Wall of Fog~
+It feels like you have walked into a wall of fog.  Everything is hidden
+by a thick, wet cloud.  It is difficult to see where you are going.
+~
+0 0 3
+D1
+~
+~
+0 0 10939
+D2
+~
+~
+0 0 10937
+S
+#10939
+Surrounded by Fog~
+A heavy mist covers this section of the forest hiding all familiar
+landmarks.  It is impossible to see more than five feet in front of you.
+~
+0 0 3
+D1
+~
+~
+0 0 10971
+D3
+~
+~
+0 0 10938
+S
+#10940
+Mist Filled Woods~
+Your view is obscured by a thick, wet fog.  Shadows play tricks on your
+eyes, and it is difficult to determine what is a tree and what is a woodland
+creature.
+~
+0 0 3
+D0
+~
+~
+0 0 10937
+D1
+~
+~
+0 0 10941
+S
+#10941
+Mist-Covered Crevasse~
+A light fog hovers above a deep fissure in the rocky ground.  It appears
+that the earth was split open by some great force many years ago.  Wide
+ledges lead down into the dark crevasse.
+~
+0 0 3
+D3
+~
+~
+0 0 10940
+D5
+~
+~
+0 0 10900
+S
+#10942
+The Road to Shandalar~
+You stand in the middle of an east-west road that runs between Shandalar
+and a large mountain range.  Talls trees line both sides of the road and a
+crisp breeze cools your face.
+~
+0 0 3
+D1
+~
+~
+0 0 10943
+D3
+~
+~
+0 0 1953
+S
+#10943
+The Road to Shandalar~
+This well-maintained road runs between a great mountain range and the
+tall walls of Shandalar.  You wonder if all the stories you've heard about
+the goddess Selina and her hatred of Dragons were true.  The road continues
+to the west and east, and tall trees lies to the north and south.
+~
+0 0 0
+D1
+~
+~
+0 0 31018
+D3
+~
+~
+0 0 10942
+M 100 H 200
+S
+#10944
+Along the King's Way~
+The aged path known as The King's Way is below you.  While ancient, it is
+rigorously maintained by the king's subjects.  Large rolling hills lie to
+the west.  A vast forest is directly east.  The road continues to the north
+and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 10955
+D2
+~
+~
+0 0 10909
+S
+#10945
+Slemr Track~
+The track continues through the Volrath forest.  Tall trees and shurbs
+line the southern edge of the road.  There is a small clearing to the
+north.  Exits lie to the east and west.
+~
+0 0 3
+D0
+~
+~
+0 0 10651
+D1
+~
+~
+0 0 8148
+D3
+~
+~
+0 0 10914
+S
+#10946
+On a Narrow Path~
+You stand on a narrow path that runs through the Volrath Forest.  Thick
+shurbs and large trees block any movement to the north or south.  The King's
+Way lies to the west.  A trail of cookie crumbs leads to the east.
+~
+0 0 3
+D1
+~
+~
+0 0 10886
+D3
+~
+~
+0 0 10930
+S
+#10947
+A Dirt Path~
+This dirt path heads north through a grassy field.  It looks like a safe
+walk since there appears to be no hiding places.  The road that circles
+Shandalar lies to the south.
+~
+0 0 2
+D0
+~
+~
+0 0 10948
+D2
+~
+~
+0 0 31104
+S
+#10948
+A Path Through the Field~
+You stand on a narrow dirt path that runs north and south through a field.
+The city of Shandalar towers to the south, and some flat grasslands lie to
+the north, east, and west.
+~
+0 0 2
+D0
+~
+~
+0 0 10949
+D2
+~
+~
+0 0 10947
+S
+#10949
+A Stone Wall~
+For some reason, a tall stone wall running east and west has been built on
+this part of the field.  It is too high to climb over, but you can walk
+around it by going east or west.  The grand city of Shanadalar lies to the
+south.
+~
+0 0 2
+D1
+~
+~
+0 0 10954
+D2
+~
+~
+0 0 10948
+D3
+~
+~
+0 0 10950
+S
+#10950
+A Dirt Path~
+This dirt path goes north through a grassy field or east along a stone wall.
+You can hear the sounds of small creatures and see wild flowers growing to
+the west, but you can't reach them.
+~
+0 0 2
+D0
+~
+~
+0 0 10951
+D1
+~
+~
+0 0 10949
+S
+#10951
+A Narrow Path~
+You stand on a dirt path that runs south through a grassy field and east
+along a stone wall.  A growth of ivy is stretched along the path providing
+a pretty border to the walkway.
+~
+0 0 2
+D1
+~
+~
+0 0 10952
+D2
+~
+~
+0 0 10950
+S
+#10952
+Behind a Stone Wall~
+A tall stone wall blocks any movement toward the south.  You can continue
+through the field by heading north, or walk around the wall by going east
+or west.
+~
+0 0 2
+D0
+~
+~
+0 0 8500
+D1
+~
+~
+0 0 10953
+D3
+~
+~
+0 0 10951
+S
+#10953
+A Path Through a Field~
+This path goes south through a field or west along a stone wall.  A strong
+breeze blows the waist high grass against you.  Far to the south you can see
+the city of Shandalar.
+~
+0 0 2
+D2
+~
+~
+0 0 10954
+D3
+~
+~
+0 0 10952
+S
+#10954
+A Dirt Path~
+This path travels east along the stone wall and north through the grassy
+field.  It appears that this section of the path has been traversed more 
+frequently than the one on the other end of the of the wall.
+~
+0 0 2
+D0
+~
+~
+0 0 10953
+D3
+~
+~
+0 0 10949
+S
+#10955
+Along the King's Way~
+You are travelling along the route known as The King's Way.  Sprawling
+hills covered with colorful flowers and small shrubs line the western side
+of the road.  Tremendous trees, too thick to pass through, lie to the east. 
+King's Way continues to the north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 10956
+D2
+~
+~
+0 0 10944
+S
+#10956
+Along the King's Way~
+Rolling hills lie to the west of the road.  The vast Forest of Volrath
+borders the eastern perimeter.  The route continues to the north and south. 
+~
+0 0 3
+D0
+~
+~
+0 0 10957
+D2
+~
+~
+0 0 10955
+S
+#10957
+Along the King's Way~
+The ancient path called The King's Way lies below you.  To the east of
+the road, dense trees make up the Forest of Volrath.  Along the western
+side, flowers and shrubs speckle rolling green hills.  The road continues to
+the north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 10958
+D2
+~
+~
+0 0 10956
+S
+#10958
+Along the King's Way~
+The King's Way runs from north to south here.  It seperates the hills
+along the west, from the dense forest to the east.  A tremendous stone
+structure is visible to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 10959
+D2
+~
+~
+0 0 10957
+S
+#10959
+A Monument to the Dragon War~
+A large stone statue has been built here to memorialize the sacrifice of
+many lives to drive the dragons from Dominia.  This representation of Selina,
+King Lawrygould, and the Wizard Gargnath seems to be protecting the
+continent from harm.
+~
+0 0 3
+D0
+~
+~
+0 0 10960
+D2
+~
+~
+0 0 10958
+S
+#10960
+Along the King's Way~
+Small stones have been meticulously placed along either side of the road.
+The road divides the small hills to the west and the Forest of Volrath to
+the east.  Looking south, a massive stone statue can be seen.  The King's
+Way continues north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 10961
+D2
+~
+~
+0 0 10959
+S
+#10961
+Along the King's Way~
+Rolling hills rise up to the west of The King's Way.  Small shrubs and
+flowers cover the hills.  The Forest of Volrath lies directly east, its
+growth is too dense to allow passage from here.  The aged road continues to
+the north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 10962
+D2
+~
+~
+0 0 10960
+S
+#10962
+Along the King's Way~
+The ancient road known as The King's Way lies below you.  While aged, it
+is dutifully maintained by the king's subjects.  The Forest of Volrath sits
+to the east of the road.  Green hills, covered with wild fields, are to the
+west.  The Way continues north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 10963
+D2
+~
+~
+0 0 10961
+S
+#10963
+Along the King's Way~
+Stones and flowers have been placed along the roadside here.  Beyond the
+border to the east lies the vast Forest of Volrath.  To the west, hills of
+green gently rise above the road.  The King's Way continues to the north and
+south.  
+~
+0 0 3
+D0
+~
+~
+0 0 10964
+D2
+~
+~
+0 0 10962
+D3
+~
+~
+0 0 10879
+S
+#10964
+Intersection with Zoo Road~
+This section of the King's Way intersects with Zoo Road.  While the
+Way continues to the north and south, zoo road leads east into the
+Volrath Forest.  A dirt path that runs between the hills of Shandalar
+~
+0 0 3
+D0
+~
+~
+0 0 14705
+D1
+~
+~
+0 0 10965
+D2
+~
+~
+0 0 10963
+D3
+~
+~
+0 0 4559
+S
+#10965
+Zoo Road~
+You stand in the middle of the road that leads to the Shandalar Zoo.  The
+King taxed his citizens to pay for the capture and maintenanmce of the
+animals, therefore admission is free.  The zoo lies to the east and the
+King's Way is to the west.
+~
+0 0 3
+D1
+~
+~
+0 0 10966
+D3
+~
+~
+0 0 10964
+S
+#10966
+A Dirt Road~
+This road runs through the Volrath Forest towards the Zoo of Shandalar. 
+Tall trees grow close together along the northern edge of the road preventing
+you from seeing into the animal cages.  The road continues east and west.
+~
+0 0 3
+D1
+~
+~
+0 0 10967
+D3
+~
+~
+0 0 10965
+S
+#10967
+A Dirt Road~
+The road you stand on runs east and west through the forest.  The trees
+on both sides of the road have been cut back, making a wide clear path.
+It is easy to feel safe walking here.
+~
+0 0 3
+D1
+~
+~
+0 0 10968
+D3
+~
+~
+0 0 10966
+S
+#10968
+Zoo Road~
+This road is heavily traveled by the many families who visit the zoo every
+day.  It is especially busy on warm and sunny days.  You can reach the zoo
+by going east or return to the King's Way by traveling west.
+~
+0 0 3
+D1
+~
+~
+0 0 10969
+D3
+~
+~
+0 0 10967
+S
+#10969
+Outside the Zoo~
+From this section of the road, you begin to hear the crys of caged animals.
+The Shandalar Zoo lies to the north and the dirt road continues to the west.
+To the east there appears to be a break in the shrubs, through which you
+can squeeze through.
+~
+0 0 3
+D0
+~
+~
+0 0 2400
+D1
+~
+~
+0 0 10889
+D3
+~
+~
+0 0 10968
+S
+#10970
+A Circle of Rocks~
+You stand in the middle of a large circle of rocks.  There are no clues,
+however, that hint about the history of this place.  You wonder if it was 
+used for witchcraft ceremonies.  Just standing here sends a shiver of fear
+down your back.  The only exit lies to the west.
+~
+0 8 3
+O daisy cauthon~
+D3
+~
+~
+0 0 10900
+M 300 H 300
+S
+#10971
+A Thick Cloud~
+A heavy mist covers the woods making it impossible to see very far in
+front of you.  Leaves russle all around, but you think you are alone.
+~
+0 0 3
+D1
+~
+~
+0 0 10972
+D3
+~
+~
+0 0 10939
+S
+#10972
+A Thin Mist~
+The fog begins to lighten in this section of the forest.  You begin
+to distinguish individual trees and bushes.  The mist is thicker to
+west and indiscernable to the east.
+~
+0 0 3
+D1
+~
+~
+0 0 10973
+D3
+~
+~
+0 0 10971
+S
+#10973
+A Path Through the Woods~
+A grassy path winds through the tall trees of the Volrath Forest.
+Large evergreens block any movement to the north or south.  The path
+continues to the east and west.
+~
+0 0 3
+D1
+~
+~
+0 0 10974
+D3
+~
+~
+0 0 10972
+S
+#10974
+A Dead Tree~
+A large dead oak tree has fallen on the ground blocking any movement
+to the east.  Thick evergreens grow along the northern edge of the path,
+but you could squeeze through a small gap.  Other exits lie to the west
+and south.
+~
+0 0 3
+D0
+~
+~
+0 0 10995
+D2
+~
+~
+0 0 10975
+D3
+~
+~
+0 0 10973
+S
+#10975
+A Grass Path~
+You walk through the Volrath Forest between tall oak and maple trees.
+Yellow wildflowers grow along the sides of the path.  You can continue
+to the north or the east.
+~
+0 0 3
+D0
+~
+~
+0 0 10974
+D1
+~
+~
+0 0 10976
+S
+#10976
+A Rocky Cliff~
+The grass path runs in front of a high rock cliff.  A few boulders
+have rolled off the top and been pushed aside by earlier explorers.
+The only exits lie to the west and south.
+~
+0 0 3
+D2
+~
+~
+0 0 10977
+D3
+~
+~
+0 0 10975
+S
+#10977
+A Tall Rock Cliff~
+The path continues along the side of a rocky cliff.  Although there
+are some handholds in the face of the rock, it looks like a dangerous 
+climb.  You can exit to the north or south.
+~
+0 0 3
+D0
+~
+~
+0 0 10976
+D2
+~
+~
+0 0 10978
+D3
+~
+~
+0 0 10984
+S
+#10978
+Tunnel Entrance~
+You stand before a tunnel that leads into the cliffside.  It is dark,
+narrow, and a little frightening.  The grassy path continues to the north
+and south.
+~
+0 0 3
+D0
+~
+~
+0 0 10977
+D1
+~
+~
+0 0 10979
+D2
+~
+~
+0 0 10987
+S
+#10979
+Inside a Tunnel~
+Many tons of dirt and rock have been carved out the cliffside to
+create this tunnel.  It is cool and damp in here.  The tunnel continues
+to the south and east, and a bright light shines to the west.
+~
+0 9 0
+D1
+~
+~
+0 0 10988
+D2
+~
+~
+0 0 10980
+D3
+~
+~
+0 0 10978
+S
+#10980
+A Tunnel Through the Cliff~
+Water drips off the ceiling and walls of the tunnel forming shallow
+pools on the floor.  The tunnel continues to the north and south.
+~
+0 9 0
+D0
+~
+~
+0 0 10979
+D2
+~
+~
+0 0 10981
+S
+#10981
+Inside a Tunnel~
+This tunnel runs through a rocky cliff.  You can hear water dripping
+to the north, and a bright light shines from the south.
+~
+0 9 0
+D0
+~
+~
+0 0 10980
+D2
+~
+~
+0 0 10982
+S
+#10982
+Outside a Tunnel~
+You stand in the southern section of the Volrath Forest.  A tall,
+unclimbable cliff runs to the north.  The forest continues to the
+east.
+~
+0 0 3
+D0
+~
+~
+0 0 10981
+D1
+~
+~
+0 0 10983
+S
+#10983
+Before Johnny's Field~
+The woods open up into a wide field.  Tall grasses cover the entire
+area.  You can reach the field by going east.  A grass path lies to
+the west.
+~
+0 0 3
+D1
+~
+~
+0 0 5638
+D3
+~
+~
+0 0 10982
+S
+#10984
+Deep in the Woods~
+You squeeze through a couple of tall oak trees and are caught in
+an overgrown section of the forest.  Thorns and brambles tear at
+your clothing and scratch your skin. Exits like to the east and the
+south.
+~
+0 0 3
+D1
+~
+~
+0 0 10977
+D2
+~
+~
+0 0 10985
+S
+#10985
+The Dark Woods~
+Trees and brush grow so close together in this section of the forest,
+you can barely move.  The branches overhead are thick and little light
+shines through.  You can travel to the north or south.
+~
+0 0 3
+D0
+~
+~
+0 0 10984
+D2
+~
+~
+0 0 10986
+S
+#10986
+Caught in the Woods~
+You begin to feel trapped in this part of the Volrath Forest.  The 
+trees and bushes seem to be reaching out to grab you.  The only exits
+lie to the north and the east.
+~
+0 0 3
+D0
+~
+~
+0 0 10985
+D1
+~
+~
+0 0 10987
+D2
+~
+~
+0 0 19691
+S
+#10987
+Deep in the Forest~
+The grassy path ends here and you are surrounded on three sides by
+thick trees and brush.  It looks like someone could squeeze through
+the oaks growing to the west, but why would anyone want to?  The path
+continues to the north.
+~
+0 0 3
+D0
+~
+~
+0 0 10978
+D3
+~
+~
+0 0 10986
+S
+#10988
+A Narrow Cave~
+This cave was created by mother-nature unlike the man-made tunnel to your
+east.  The stone walls and ceiling drip with cold water.  A chill settles
+into your bones.  The cave continues to the west.
+~
+0 9 0
+D1
+~
+~
+0 0 10989
+D3
+~
+~
+0 0 10979
+S
+#10989
+A Dark Cave~
+You shiver uncontrollably as the cold overcomes your senses.  No light
+can penatrate this deep into the cave.  Exits lie to the east and west.
+~
+0 9 0
+D1
+~
+~
+0 0 10990
+D3
+~
+~
+0 0 10988
+S
+#10990
+Inside the Stone Cave~
+Dripping water echos throughout the dark cave.  A slight breeze from the
+south ruffles your hair.  The tunnel contines to the east and west, and
+a small room lies to the south.
+~
+0 9 0
+D1
+~
+~
+0 0 10991
+D2
+~
+~
+0 0 10992
+D3
+~
+~
+0 0 10989
+S
+#10991
+An East-West Tunnel~
+The tunnel starts to narrow here and you can barely squeeze through the
+opening.  A small dot of light shines from the east.
+~
+0 9 0
+D1
+~
+~
+0 0 10993
+D3
+~
+~
+0 0 10990
+S
+#10992
+An Animal Den~
+You've stumbled into a dirty lair of some wild animal.  Fur and wet
+leaves cover the floor.  A small hole in the north wall leads into a 
+long tunnel.
+~
+0 9 0
+D0
+~
+~
+0 0 10990
+S
+#10993
+Inside a Dark Tunnel~
+Above you a bright light shines through a small hole in the ceiling.
+You can try to squeeze out of the cave by going up, or you can head into
+the darkness to the west.
+~
+0 9 0
+D3
+~
+~
+0 0 10991
+D4
+~
+~
+0 0 10994
+S
+#10994
+Deep in the Woods~
+Large trees branch out over your head.  Thick brush and shurbs prevent
+movement in all directions except north.  A small hole in the ground
+appears to lead into a cave.
+~
+0 0 3
+D0
+~
+~
+0 0 800
+D5
+~
+~
+0 0 10993
+S
+#10995
+A Tangle of Trees~
+Many large tree limbs and branches have fallen in this section of the
+forest.  Thick moss grows on the underside of some large boulders
+and the smell of decay fills the air.  A small walking path runs north
+and south.
+~
+0 0 3
+D0
+~
+~
+0 0 10996
+D2
+~
+~
+0 0 10974
+S
+#10996
+A Vine-Covered Oak~
+A tall straight tree, with deep green ivy covering its entire trunk, 
+dominates this section of the forest.  Thick thorny branches prevents
+movement toward the north and west.  A faint dirt path heads south and
+east.
+~
+0 0 3
+D1
+~
+~
+0 0 10997
+D2
+~
+~
+0 0 10995
+S
+#10997
+Before a Rocky Cliff~
+The Volrath forest gives way to a high rock cliff.  Steep man-made steps
+climb up its granite front.  Think trees line the north and south sides of a
+dirt path heading west.
+~
+0 0 3
+D3
+~
+~
+0 0 10996
+D4
+~
+~
+0 0 10998
+S
+#10998
+A High Plateau~
+You stand along the edge of a tall flat cliff.  The wind is ferocious
+and swirls strongly about your legs.  The plateau continues to the north and
+east.  Some downward steps have been carved into the western side of the
+ledge.
+~
+0 0 3
+D0
+~
+~
+0 0 10851
+D1
+~
+~
+0 0 10999
+D5
+~
+~
+0 0 10997
+S
+#10999
+Rock Outcropping~
+This high rock ledge over looks the tree tops of the Volrath Forest.
+You can hear the rustling of leaves and the cries of birds, but see no
+movement.  The cliff ledge ends in a deadly drop-off to the north, south,
+and east.  The plateau continues ot the west.
+~
+0 0 3
+D3
+~
+~
+0 0 10998
+S
+#0
+
+
+
+#SPECIALS
+M 10902 spec_guard Load to: a knight of Lawrygould
+M 10904 spec_poison Load to: a BIG black snake
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 10898 3 1
+D 0 10899 1 1
+M 1 10904 1 10856 1
+M 1 10905 1 10864 1
+M 1 10907 1 10892 1
+G 0 10908 0
+M 1 10902 8 10907 1
+M 1 10900 3 10911 1
+E 0 10901 0 17
+G 0 10957 0
+M 1 10900 3 10916 1
+E 0 10901 0 17
+M 1 10902 8 10921 2
+M 1 10902 8 10928 1
+E 0 10907 0 17
+M 1 10902 8 10932 1
+M 1 10900 3 10934 1
+E 0 10901 0 17
+M 1 10901 2 10945 1
+M 1 10901 2 10953 1
+E 0 10904 0 3
+M 1 10902 8 10958 1
+O 0 10955 0 10959
+M 1 10902 8 10962 2
+M 1 10903 1 10992 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

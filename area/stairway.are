@@ -1,0 +1,1472 @@
+#AREADATA
+Name Zoso~
+Builders None~
+VNUMs 700 799
+Credits {20 30} Grog        Zoso~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#700
+something gold~
+some gold~
+Something shines brightly before you.
+~
+A bright yellowish color twinkles before you.
+~
+human~
+AGW 0 -300 0
+24 0 5d10+500 1d1+100 2d10+6 thwack
+-6 -6 -6 0
+FHKR 0 0 0
+stand stand none 1900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#701
+something gold~
+some gold~
+Something shines brightly before you.
+~
+A bright yellowish color twinkles before you.
+~
+human~
+AGW 0 -300 0
+24 0 5d10+500 1d1+100 2d10+6 thwack
+-6 -6 -6 0
+FHKR AB 0 0
+stand stand none 1900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#702
+black dog zoso~
+a black dog~
+A black dog is here, prowling around.
+~
+It is black, shaking, sweating, and rhythmically moving its paws.  
+~
+dog~
+AGY 0 -300 0
+25 0 5d10+550 1d1+100 2d10+7 bite
+-7 -7 -7 -2
+DFHK 0 0 0
+stand stand either 1200
+AGV ACDEFHJKUV medium 0 the guilds~
+#703
+songbird~
+a songbird~
+A songbird is singing among the branches.
+~
+Colorful feathers cover this proud bird.  Its beak swings from side to
+side in quick motions.  It ruffles its feathers momentarily.  
+~
+song bird~
+ABG HTV -300 0
+26 1 5d10+600 1d1+100 3d7+7 peck
+-7 -7 -7 -2
+EFHK 0 0 0
+stand stand either 1100
+AGW ACDEFHKP tiny 0 the guilds~
+#704
+spirit~
+a crying spirit~
+A spirit is crying for leaving.
+~
+The spirit's gender is indeterminable by looking.  A gaunt face is hidden
+beneath a dark cloak.  Frail fingers poke out from oversized sleeves.  
+~
+human~
+ABGW T -350 0
+27 0 5d10+650 1d1+100 5d4+7 wrath
+-8 -8 -8 -2
+EFHK 0 0 0
+stand stand either 1900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#705
+rings smoke~
+a ring of smoke~
+Rings of smoke float through the air.
+~
+An eerie white ring hovers above the ground.
+~
+human~
+AGW TV -400 0
+28 0 6d12+703 1d1+100 2d12+8 chill
+-8 -8 -8 -3
+FHKU 0 0 0
+stand stand none 2100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#706
+voice~
+a voice~
+The voices of those who stand looking are here.
+~
+A shimmer of energy and sound. It flurries about.
+~
+human~
+AGW T -400 0
+28 0 6d12+703 1d1+100 2d12+8 sting
+-8 -8 -8 -3
+EFHKP 0 0 0
+stand stand none 2100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#707
+tune~
+a tune~
+A tune is here, waiting to be called.
+~
+The air is vibrating and your view through it is muddled.
+~
+human~
+AGY V -400 0
+29 0 6d12+778 1d1+100 2d12+8 charge
+-9 -9 -9 -4
+EFHK 0 0 0
+stand stand either 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#708
+piper~
+the piper~
+The piper is here, frantically pointing to the north.
+~
+His hair is short and blonde.  Bangs hang down his forehead somewhat
+covering his blue-gray eyes.  His lips are curved upward in a tight smile.  
+~
+human~
+ABG DFHV -400 0
+29 0 6d12+778 1d1+100 2d12+8 punch
+-9 -9 -9 -3
+CDEFHJKN 0 0 0
+stand stand male 2200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#709
+man those~
+those who stand long~
+A man is here, standing long.
+~
+He has been standing here for a very long time.
+~
+human~
+ABG J -400 0
+29 2 6d12+778 1d1+100 2d12+8 punch
+-9 -9 -9 -4
+CEFKNP 0 0 0
+stand stand male 2200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#710
+man those~
+those who stand long~
+A man is here, standing long.
+~
+He has been standing here for a very long time.
+~
+human~
+ABG JQ -400 0
+29 0 6d12+778 1d1+100 2d12+8 punch
+-9 -9 -9 -4
+CEFKNP 0 0 0
+stand stand male 2200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#711
+laughter ech~
+an echo of laughter~
+Laughter echoes through the air here.
+~
+It is a combination of sound and energy.  It is difficult to see.  
+~
+human~
+AGW T -500 0
+30 1 6d12+853 1d1+100 4d6+8 wrath
+-9 -9 -9 -4
+EFKU 0 0 0
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#712
+bustle~
+a bustle~
+There appears to be a bustle in this hedgerow.
+~
+It is quite a bundle of energy, rapidly moving to and fro.
+~
+human~
+AGR HJV -450 0
+30 1 6d12+853 1d1+100 4d6+8 sting
+-9 -9 -9 -4
+0 A 0 0
+stand stand none 2300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#713
+may queen~
+the May Queen~
+The May Queen is here, tidying up the room.
+~
+Red ribbons flow through her long blonde hair.  While her coloring is
+pale, she radiates beauty and warmth.  Her frame is thin, yet shapely.  
+~
+human~
+ABGQ HV -500 0
+32 0 10d10+1000 1d1+100 4d4+9 scratch
+-10 -10 -10 -5
+FKN 0 0 0
+stand stand female 2300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#714
+dog~
+a dog of doom~
+A dog of doom is howling more.
+~
+Its eyes are bright yellow, its coat is jet black.  Large fangs poke from
+its open jowl.  Sharp claws protrude from the ends of its oversized paws.  
+~
+dog~
+AFGW V -500 0
+33 0 10d10+1100 1d1+100 4d4+10 claw
+-11 -11 -11 -6
+DEFHJK 0 0 0
+stand stand either 1900
+AGV ACDEFHJKUV medium 0 the guilds~
+#715
+dog~
+a dog of doom~
+A dog of doom is howling more.
+~
+Its eyes are bright yellow, its coat is jet black.  Large fangs poke from
+its open jowl.  Sharp claws protrude from the ends of its oversized paws.  
+~
+dog~
+AFGW V -500 0
+33 0 10d10+1100 1d1+100 4d4+10 bite
+-11 -11 -11 -6
+DEFHJK 0 0 0
+stand stand either 1900
+AGV ACDEFHJKUV medium 0 the guilds~
+#716
+stairway~
+your stairway~
+A stairway leads from here to the unknown.
+~
+They appear to be made of blackened steel.  There is a humming sound
+eminating from them.  Each step is moving in a wave-like motion.  
+~
+human~
+ABG TV -500 0
+34 0 10d10+1200 1d1+100 4d7+10 smash
+-11 -11 -11 -6
+FHK 0 0 0
+stand stand none 2100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#717
+shadows souls~
+the shadow~
+Shadows taller than souls drift aimlessly down the road.
+~
+A silhouette that absorbs all light.  Darkness in the shape of a human
+being.  Any remnants of humanity left this creature long ago.  
+~
+human~
+AGW TV -500 0
+35 0 10d10+1300 1d1+100 4d7+11 blast
+-11 -11 -11 -6
+CDEFHP 0 0 0
+stand stand either 2300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#718
+lady~
+a lady we all know~
+A lady we all know is walking here.
+~
+A beautiful woman, long curled dark locks frame her face coming to rest
+just below her shoulders.  A bright light shines around and from her.  
+~
+human~
+ABG HV -500 0
+35 0 10d10+1300 1d1+100 4d7+11 divine
+-11 -11 -11 -6
+CEFHIJKN AB 0 0
+stand stand female 2400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#719
+rock~
+a rock that will not roll~
+A large rock stands here.
+~
+This rock stands tall and narrow.  The shape of it is most unusual.  It
+almost resembles the frame of a human.  It most certainly cannot be rolled. 
+~
+human~
+ABG V -500 0
+35 0 10d10+1300 1d1+100 4d7+11 crush
+-11 -11 -11 -4
+CEFHKNO 0 0 0
+stand stand none 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#700
+waterfall~
+a magical waterfall~
+A waterfall flows down the face of the cliff, vanishing into the earth below.~
+water~
+portal Y 0
+0 0 0 746 0
+0 0 0 P
+#701
+word~
+a word~
+A word sometimes has two meanings.~
+energy~
+key U AQ
+0 0 0 0 0
+20 10 0 P
+A
+19 1  
+#702
+iron strongbox~
+an iron strongbox~
+An iron strongbox sits in the corner of the room.~
+iron~
+container Y 0
+1000 ACD 701 5 100
+0 0 0 P
+#703
+blue parchment~
+a blue parchment~
+A piece of blue parchment with odd markings on it is here.~
+parchment~
+scroll G A
+25 'cryogenesis' '(null)' '(null)' '(null)'
+20 10 1900 P
+#704
+golden lyre~
+a golden lyre~
+A golden lyre is resting against the wall.~
+gold~
+staff G AO
+25 4 3 'faerie fog' 0
+20 30 2300 P
+#705
+tangerine fruit~
+a tangerine~
+A small piece of fruit has fallen from someone's pocket.~
+food~
+pill 0 A
+30 'cure disease' 'cure poison' '(null)' '(null)'
+20 10 1900 P
+#706
+scorched lantern~
+a scorched lantern~
+A lantern, blackened by fire, rests in the corner.~
+metal~
+light M A
+0 0 500 0 0
+20 30 1000 P
+A
+18 -2  
+A
+19 -2  
+A
+1 -2  
+#707
+misgiven thought~
+a misgiven thought~
+A misgiven thought passes through your mind.~
+energy~
+weapon 0 AN
+exotic 4 4 thrust D
+25 50 2100 P
+A
+18 1  
+A
+19 1  
+#708
+tartan kilt cloth~
+a tartan kilt~
+A tartan cloth is piled on the floor here.~
+cloth~
+armor 0 AF
+8 8 8 3 0
+29 50 3500 P
+A
+19 2  
+A
+5 -1  
+#709
+feathered cap~
+a feathered cap~
+A cap with a feather stuck in it rests on a hook.~
+felt~
+armor 0 AE
+9 9 9 3 0
+29 30 2100 P
+#710
+pile four sticks~
+four sticks~
+A pile of sticks is bundled in the corner of the room.~
+wood~
+weapon A AN
+exotic 4 6 smash 0
+29 150 2300 P
+A
+18 2  
+A
+19 2  
+#711
+thorned vine~
+a thorned vine~
+A vine, covered with prickly thorns, is rolled in a coil here.~
+earth~
+weapon AT AN
+whip 2 13 whip I
+30 70 2300 P
+A
+18 1  
+#712
+piece flint rock~
+a piece of flint~
+A small rock is laying here.~
+flint~
+key 0 A
+0 0 0 0 0
+0 10 0 P
+#713
+staff light~
+a staff of light~
+A staff, eminating light, leans against the wall here.~
+energy~
+weapon A AN
+staff 4 7 thrust 0
+35 90 3200 P
+A
+19 3  
+A
+18 1  
+A
+4 -1  
+#714
+stone music~
+a stone of music~
+This small stone is humming a melody!~
+crystal~
+recall_crystal B AO
+FGHIJN A A 0 0
+20 20 2100 P
+#715
+pile sunflower seeds~
+some sunflower seeds~
+A small pile of seeds have been poorly planted here.~
+food~
+pill 0 A
+15 'infravision' '(null)' '(null)' '(null)'
+8 10 1100 P
+#716
+circle ring clover~
+a ring of clover~
+A small circle of clover is growing here.~
+earth~
+jewelry AI AB
+0 0 0 0 0
+7 40 1600 P
+A
+4 1  
+A
+3 1  
+E
+circle ring clover~
+This small circle of green glows eerily.
+~
+#0
+
+
+
+#ROOMS
+#700
+Before the Mountain Range~
+A massive mountain range rises high into the sky to the north.  The peaks
+of the mountains are obscured by white clouds.  There are no paths or
+valleys to travel through the mountains.  
+~
+0 0 2
+D2
+~
+~
+0 0 1950
+D4
+~
+~
+0 0 701
+S
+#701
+Over the Hills and Far Away~
+You are in the huge white clouds which cover the peaks of the mountain
+range.  Peaks can be seen poking through openings in the cloud to the north.
+Below lies the base of the range.  
+~
+0 0 9
+D0
+~
+~
+0 0 702
+D5
+~
+~
+0 0 700
+S
+#702
+Over the Hills and Far Away~
+A small white fog surrounds you.  Peaks from the mountains rise up
+through the cloud to the east and west.  The dense cloud continues to the
+south.  To the north, it begins to dissipate.  
+~
+0 0 9
+D0
+~
+~
+0 0 703
+D2
+~
+~
+0 0 701
+S
+#703
+All That Glitters~
+Rolling fields of wild brush wave in the breeze to the north and west of
+the small stone path which has appeared below you.  They stretch as far as
+the eye can see.  A large cloud lies to the south.  
+~
+0 0 2
+D1
+~
+~
+0 0 704
+D2
+~
+~
+0 0 702
+S
+#704
+All That Glitters~
+Sprawling fields of green lie to the north of this well trodden path. 
+The southern side seems to vanish into a tremendous white cloud.  Mountain
+peaks can be seen poking through parts of the cloud.  
+~
+0 0 2
+D1
+~
+~
+0 0 705
+D3
+~
+~
+0 0 703
+S
+#705
+All That Glitters~
+Mountain tops rise up through the large white cloud to the south.  The
+path below you curves from west to north.  Large rolling fields stretch as
+far as the eye can see to the east.  The fields continue on either side of
+the path heading north.  
+~
+0 0 2
+D0
+~
+~
+0 0 706
+D3
+~
+~
+0 0 704
+S
+#706
+All That Glitters~
+Large fields of green sway in the breeze to the left and right of the
+path below you.  A large group of buildings stretch along the northern
+perimeter of the fields.  The path continues to the south.  
+~
+0 0 2
+D0
+~
+door~
+1 701 707
+D2
+~
+~
+0 0 705
+S
+#707
+The Stores~
+Large beams made from dark wood line the ceiling.  Wooden shelves cover
+one wall and border the sides of the doorways.  The shelves are completely
+empty except for dust and cobwebs.  
+~
+0 8 0
+D1
+~
+door~
+1 0 709
+D2
+~
+door~
+1 701 706
+D3
+~
+door~
+4 701 708
+S
+#708
+The Stores~
+There is a large counter against one wall.  Open crates and wooden boxes,
+now empty, are strewn throughout the room.  The only exit is the doorway to
+the east.  
+~
+0 8 0
+D1
+~
+door~
+4 701 707
+S
+#709
+The Stores~
+Large bookshelves line the northern and southern walls of this room.  The
+shelves contain a few scattered books and scrolls, crumbling and covered
+with dust.  Ornately detailed doorways lie to the west and east.  
+~
+0 8 0
+D1
+~
+door~
+1 0 710
+D3
+~
+door~
+1 0 707
+S
+#710
+The Stores~
+Faded tapestries hang from the walls of this aged shop.  Bolts of cloth
+and empty spools rest in the corners of the room.  A large iron gate is set
+into the northern wall.  The only other exit is the doorway to the west.  
+~
+0 8 0
+D0
+~
+gate~
+1 701 711
+D3
+~
+door~
+1 0 709
+S
+#711
+By The Brook~
+Tall sturdy trees line the east and west of this small path.  Colorful
+flowers encircle the trees.  The sound of rushing water can be heard coming
+from the north.  
+~
+0 0 2
+D0
+~
+~
+0 0 712
+D2
+~
+gate~
+1 701 710
+S
+#712
+By The Brook~
+A babbling brook rushes below from east to west.  Cool clear water
+splashes onto the river bank to the south, which leads to a small path. 
+Small shrubs and bushes line the northern bank.  
+~
+0 0 7
+D1
+~
+~
+0 0 714
+D2
+~
+~
+0 0 711
+D3
+~
+~
+0 0 713
+S
+#713
+By The Brook~
+A small brook flows rapidly from the east and curves to the south.  A
+mass of fallen trees cover the river to the south, preventing passage in
+that direction.  A small path can be seen to the west.  
+~
+0 0 7
+D1
+~
+~
+0 0 712
+D3
+~
+~
+0 0 717
+S
+#714
+By The Brook~
+A sheer cliff rises high to the east.  Water flows down the face of the
+cliff, forming a small brook which flows to the west.  Small shrubs lie to
+the south of the brook.  A tremendous tree rises up on the northern side.  
+~
+0 0 7
+D0
+~
+treetrunk~
+1 0 715
+D3
+~
+~
+0 0 712
+S
+#715
+In A Tree~
+A large portion of the inside of this tree has been hollowed out.  While
+the area is quite cramped, is is possible to move higher.  Cool air drifts
+through the space from above.  
+~
+0 9 0
+D2
+~
+treetrunk~
+1 0 714
+D4
+~
+~
+0 0 716
+S
+#716
+In A Tree~
+Massive branches from this aged tree stem out in every direction.  Much
+of the view is obscured by the leaves.  Far below, a bubbling brook can be
+seen.  To the east, a sheer cliff face rises high above the tree.  
+~
+0 0 3
+D5
+~
+~
+0 0 715
+S
+#717
+To The West~
+A narrow dirt path begins here and winds its way westward.  The trail
+spilts a massive forest which lies to its north and south.  The tree growth
+is far too dense to allow travel.  Rushing water can be heard coming from
+the east.  
+~
+0 0 3
+D1
+~
+~
+0 0 713
+D3
+~
+~
+0 0 718
+S
+#718
+To The West~
+The small dirt path below you comes to an end here.  The branches from
+the trees above form a canopy which prevents seeing the sky.  The forest
+growth to the south is too thick to allow passage in that direction.  
+~
+0 8 3
+D0
+~
+~
+0 0 719
+D1
+~
+~
+0 0 717
+D3
+~
+~
+0 0 720
+S
+#719
+Through The Trees~
+Large aged trees surround you.  The ground is covered with fallen twigs
+and branches.  Thorned bushes and vines block the northern and eastern
+routes.  You can make your way through the trees to the west and south.  
+~
+0 0 3
+D2
+~
+~
+0 0 718
+D3
+~
+~
+0 0 721
+S
+#720
+Through The Trees~
+Tremendous trees, centuries old, rise to the sky all around you.  Fallen
+leaves, rotting branches and other forest debris cover the ground.  The
+forest growth is too thick to the south and west to allow travel.  
+~
+0 0 3
+D0
+~
+~
+0 0 721
+D1
+~
+~
+0 0 718
+S
+#721
+Through The Trees~
+Trees abound in every direction.  There is almost a symmetry to them. 
+The sky is barely visible through the canopy of branches.  Every direction
+looks the same, and the forest never seems to end.  
+~
+0 0 3
+D0
+~
+~
+0 0 722
+D1
+~
+~
+0 0 719
+D2
+~
+~
+0 0 720
+D3
+~
+~
+0 0 723
+S
+#722
+Through The Trees~
+You are in the midst of a tremendous forest.  Vines wrapped from tree to
+tree prevent travel to the north and east.  The routes through the trees to
+the south and west are passable.  
+~
+0 0 3
+D2
+~
+~
+0 0 721
+D3
+~
+~
+0 0 724
+S
+#723
+Through The Trees~
+Aged trees rise high into the sky all around you.  Prickly bushes and
+other forest plants block the southern and western directions.  The only
+viable routes of passage are to the north and east.  
+~
+0 0 3
+D0
+~
+~
+0 0 724
+D1
+~
+~
+0 0 721
+S
+#724
+Through The Trees~
+Tremendous trees stand tall everywhere.  Small twigs and forest debris
+cover the ground here.  The tree growth to the west is too thick to allow
+passage.  There is a small cavern to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 725
+D1
+~
+~
+0 0 722
+D2
+~
+~
+0 0 723
+S
+#725
+The Land of Wonder~
+The trees of the forest give way to a tremendous, unusual cavern.  Vivid
+murals, real as life, cover every inch of the cave.  Billowing clouds cover
+a beautiful blue sky.  Rainbows can be seen to the distant east and west,
+towering above rolling green hills.  
+~
+0 8 3
+D0
+~
+~
+0 0 726
+D2
+~
+~
+0 0 724
+S
+#726
+The Land of Wonder~
+Rolling green hills stretch on endlessly in every direction.  Colorful
+flowers line the roadside.  From this part of the valley, it is difficult to
+tell what lies beyond the hills to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 727
+D2
+~
+~
+0 0 725
+S
+#727
+Reason~
+The plants and trees on opposite sides of the path below you are
+identical images of each other.  Each cloud in the sky also has a mirror
+image.  The hill to the south is matched by a hill to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 728
+D2
+~
+~
+0 0 726
+S
+#728
+A New Day's Dawn~
+Rows of trees line the roadside here.  Their branches come together above
+you to form a tunnel of sorts.  A small hill lies to the south.  To the
+east, the sun can be seen rising at the end of the tree tunnel.  
+~
+0 8 3
+D1
+~
+~
+0 0 729
+D2
+~
+~
+0 0 727
+S
+#729
+The Forests~
+You have entered a massive forest.  Trees abound in every direction.  The
+trees form a small tunnel to the west.  Thick vines and bushes intermingle
+with the trees to the south, making travel in that direction impossible.  
+~
+0 0 3
+D0
+~
+~
+0 0 732
+D1
+~
+~
+0 0 730
+D3
+~
+~
+0 0 728
+S
+#730
+The Forests~
+The forest seems to go on forever.  Fallen leaves and branches cover the
+ground.  Vines have grown amongst the trees to the south, making that route
+unusable.  Fallen trees, long since petrified, block the way east.  
+~
+0 0 3
+D0
+~
+~
+0 0 731
+D3
+~
+~
+0 0 729
+S
+#731
+The Forests~
+Tremendous fallen trees have blocked the route through the trees to the
+east.  Various forest debris covers the ground here.  Tall aged trees rise
+to the sky in every direction.  
+~
+0 0 3
+D0
+~
+~
+0 0 736
+D2
+~
+~
+0 0 730
+D3
+~
+~
+0 0 732
+S
+#732
+The Forests~
+The forest seems endless.  Large ancient trees stand tall as far as the
+eye can see.  Travel through the trees is possible to the north, south, east
+and west.  
+~
+0 0 3
+D0
+~
+~
+0 0 735
+D1
+~
+~
+0 0 731
+D2
+~
+~
+0 0 729
+D3
+~
+~
+0 0 733
+S
+#733
+The Forests~
+Century old trees reach far above in every direction.  The growth to the
+south and west is too dense to allow travel.  This massive green belt seems
+to continue endlessly.  
+~
+0 0 3
+D0
+~
+~
+0 0 734
+D1
+~
+~
+0 0 732
+S
+#734
+The Forests~
+The trees of the forest are everywhere.  They tower above a large
+hedgerow to the north.  The only viable routes through the trees appear to
+be south and east.  
+~
+0 0 3
+D0
+~
+hedgerow~
+1 0 738
+D1
+~
+~
+0 0 735
+D2
+~
+~
+0 0 733
+S
+#735
+The Forests~
+You are surrounded by the aged trees which make up this magical forest. 
+Large prickly bushes and vines block the way north through the trees. 
+Travel through the trees is possible to the south, west or east.  
+~
+0 0 3
+D1
+~
+~
+0 0 736
+D2
+~
+~
+0 0 732
+D3
+~
+~
+0 0 734
+S
+#736
+The Forests~
+Vines have grown amidst the trees to the north, preventing travel in
+that direction.  Small twigs and various forest debris covers the ground. 
+The tremendous forest continues as far as the eye can see.  
+~
+0 0 3
+D1
+~
+~
+0 0 737
+D2
+~
+~
+0 0 731
+D3
+~
+~
+0 0 735
+S
+#737
+The Forests~
+Tall aged trees reach to the sky all around you.  The forest growth is
+too thick to the north and south to travel in those directions.  A small
+house, decorated with lively earth tones, lies to the east.  
+~
+0 0 3
+D1
+~
+door~
+1 712 739
+D3
+~
+~
+0 0 736
+S
+#738
+The Hedgerow~
+You are inside a large row of hedges.  The sweet scent of evergreens fill
+the air here.  Fallen needles from the hedgerow cover the ground.  
+~
+0 8 0
+D2
+~
+hedgerow~
+1 0 734
+S
+#739
+The Spring Clean~
+Everything in this tiny one room house is neat and tidy.  The windows are
+crystal clear, a small bed is perfectly made in the corner and there is not
+a speck of dust anywhere.  
+~
+0 8 0
+E
+bed~
+This bed is perfectly made, one would certainly not want to sleep on it.
+~
+D3
+~
+door~
+1 712 737
+D5
+~
+trapdoor~
+1 0 740
+S
+#740
+Two Paths~
+You are below a small cottage built on large wooden stilts.  Sheer rock
+lies to the west and south.  Massive wooden beams, supporting the house lie
+to the east.  A dirt path lies to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 741
+D4
+~
+trapdoor~
+1 0 739
+S
+#741
+Two Paths~
+A large forest stands to the north, stopping travel in that direction. 
+One dirt path leads east through the trees.  A smaller stone path leads into
+a cave to the west.  Looking south, a small colorful cottage is built on
+stilts.  
+~
+0 0 3
+D1
+~
+~
+0 0 745
+D2
+~
+~
+0 0 740
+D3
+~
+~
+0 0 742
+S
+#742
+Two Paths~
+The small stone path below you winds its way through the cave.  The
+darkness here is overwhelming, it is difficult to see anything.  The
+darkness turns to gray to the north and east.  
+~
+0 9 0
+D0
+~
+~
+0 0 743
+D1
+~
+~
+0 0 741
+S
+#743
+The Long Run~
+Tall trees line the east and west of the small stone path.  A small cave
+can be seen to the south.  This section of the path seems to go on
+endlessly.  You can still return from whence you came.  
+~
+0 0 3
+D0
+~
+~
+0 0 744
+D2
+~
+~
+0 0 742
+S
+#744
+The Long Run~
+The stone path below you comes to an end here.  Trees surround every
+direction except to the south.  There is still time to change the road you
+are on.  
+~
+0 0 3
+D2
+~
+~
+0 0 743
+S
+#745
+Two Paths~
+The small dirt path comes to an end here.  Rows of trees line the north
+and south of the path.  To the east, a sheer cliff face rises high above
+you.  
+~
+0 0 3
+D3
+~
+~
+0 0 741
+S
+#746
+Your Head Is Humming~
+This room appears to be spinning.  The result of this makes most
+travellers rather dizzy and generally disoriented.  Cool air drifts down
+from above.  
+~
+0 268443656 0
+D4
+~
+~
+0 0 747
+S
+#747
+The Whispering Wind~
+You are flying amidst a large group of clouds.  Darkness lies below. 
+Only clouds can be seen in any other direction.  A cool breeze whispers
+calmly.  
+~
+0 0 9
+D2
+~
+~
+0 0 748
+D5
+~
+~
+0 0 746
+S
+#748
+The Whispering Wind~
+Fluffy white clouds billow in every direction.  The air is cool and
+fresher than ever before.  A breeze rushes by you, it sounds as though
+someone is whipering in your ear.  
+~
+0 0 9
+D0
+~
+~
+0 0 747
+D5
+~
+cloud~
+1 0 749
+S
+#749
+Down The Road~
+A large cloud is directly above you.  The path below you slowly winds
+through rolling fields gently swaying in the breeze.  The fields continue on
+as far as the eye can see.  
+~
+0 0 2
+D2
+~
+~
+0 0 750
+D4
+~
+cloud~
+1 0 748
+S
+#750
+Down The Road~
+The road gently curves from north to east as it cuts through the fields. 
+The fields bend slightly due to the wind.  They seem to go on forever.  
+~
+0 0 2
+D0
+~
+~
+0 0 749
+D1
+~
+~
+0 0 751
+S
+#751
+Down The Road~
+The route through the fields slowly winds from east to south.  The plains
+stretch on as far as the eye can see.  The tall field greens gently dance in
+the wind.  
+~
+0 0 2
+D2
+~
+~
+0 0 752
+D3
+~
+~
+0 0 750
+S
+#752
+Down The Road~
+The road ends here.  A huge stone rises up to the west.  Endless rows of
+fields lie to the south and east.  The fields sway to and fro in the wind.  
+~
+0 0 2
+D0
+~
+~
+0 0 751
+D3
+~
+rock~
+1 0 753
+S
+#753
+A Rock~
+This is a large gray rock.  It is hollow, with very thick walls.  The
+shape of it guarantees it will not roll.  
+~
+0 9 0
+D1
+~
+rock~
+1 0 752
+S
+#0
+
+
+
+#SPECIALS
+M 708 spec_thief Load to: the piper
+M 712 spec_cast_mage Load to: a bustle
+M 713 spec_cast_cleric Load to: the May Queen
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 706 0 2
+D 0 707 1 1
+D 0 707 2 2
+D 0 707 3 2
+D 0 708 1 2
+D 0 709 1 1
+D 0 709 3 1
+D 0 710 0 2
+D 0 710 3 1
+D 0 711 2 2
+D 0 714 0 1
+D 0 715 2 1
+D 0 734 0 1
+D 0 737 1 2
+D 0 738 2 1
+D 0 739 3 2
+D 0 739 5 1
+D 0 740 4 1
+D 0 748 5 1
+D 0 749 4 1
+D 0 752 3 1
+D 0 753 1 1
+M 1 700 1 704 1
+M 1 701 1 706 1
+E 0 701 0 18
+O 0 702 0 708
+P 0 703 99 702 1
+P 0 704 99 702 1
+P 0 705 99 702 1
+P 0 706 99 702 1
+P 0 715 99 702 1
+M 1 702 1 709 1
+M 1 703 1 716 1
+E 0 707 0 16
+M 1 704 1 717 1
+M 1 706 1 719 1
+M 1 705 2 720 1
+M 1 705 2 724 1
+M 1 707 1 725 1
+M 1 708 1 726 1
+E 0 708 0 7
+E 0 709 0 6
+E 0 710 0 16
+M 1 709 1 728 1
+M 1 710 2 728 2
+M 1 710 2 728 2
+M 1 711 3 730 1
+M 1 711 3 734 1
+M 1 711 3 737 1
+M 1 712 1 738 1
+E 0 711 0 16
+G 0 712 0
+M 1 713 1 739 1
+E 0 716 0 1
+M 1 714 1 741 1
+M 1 715 1 743 1
+O 0 700 0 745
+M 1 716 1 747 1
+M 1 717 2 749 1
+M 1 717 2 751 1
+M 1 718 1 752 1
+E 0 713 0 16
+E 0 714 0 17
+M 1 719 1 753 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

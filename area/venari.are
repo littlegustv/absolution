@@ -1,0 +1,1662 @@
+#AREADATA
+Name Venari Clan Hall~
+Builders Teldin Aql Atropos~
+VNUMs 10650 10699
+Credits { All }             Venari Clan~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#10650
+high priest clan goon venari hall~
+a high priest of Selina's Order~
+{xA {Whigh priest {xof {cSelina's{x Order guards the gates.
+~
+A tall figure stands here, arms crossed before you.  His grey robes bear
+many sigils of protection, and he wears the armament of his own faith and
+Selina's power.  Only a chosen few may pass. 
+~
+orc~
+ABG HJVZ 0 0
+60 6 50d10+9500 1d1+99 8d6+28 punch
+-30 -30 -30 -30
+ADFJKRU ABab Q S
+stand stand none 0
+AHMV ABCDEFGHIJK giant 0 venari~
+#10651
+venari hall healer ordained selina~
+the ordained avatar of Selina~
+The ordained avatar of Selina is here.
+~
+Standing proudly, the avatar of Selina awaits to purge your soul fro the
+onslaught that awaits you.  
+~
+human~
+ABQVa DHZ 1000 0
+43 4 25d10+2500 1d1+99 3d12+15 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 venari~
+#10652
+clan store keeper rashana relic hunter venari hall~
+Rashana, the relic hunter of Venari~
+A dark figure awaits your tradings.
+~
+Clad in richly adorned robes, Rashana pledgs his loyalty to Venari.  His
+dark eyes and strong build all but make you trust him.  
+~
+human~
+ABQR DUZ 1000 0
+1 0 1d1+999 1d1+999 10d10+10 magic
+-15 -15 -15 -15
+FGH ABCDQ 0 0
+stand stand male 300000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#10653
+slasher tax collector~
+the tax collector~
+A tax collector wants your money.
+~
+The Statue of Taelisan warns you not to stay in this room.
+~
+human~
+ABCGT DZ 0 0
+60 0 10d10+1400 17d9+100 4d7+11 punch
+-10 -10 -10 -10
+FU ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 venari~
+#10654
+high priest clan goon venari hall~
+a high priest of Selina's Order~
+{xA {Whigh priest {xof {cSelina's{x Order guards the gates.
+~
+A tall figure stands here, arms crossed before you.  His grey robes bear
+many sigils of protection, and he wears the armament of his own faith and
+Selina's power.  Only a chosen few may pass. 
+~
+orc~
+ABG HJVZ 0 0
+60 6 50d10+9500 1d1+99 8d6+28 none
+-30 -30 -30 -30
+ADFJKRU ABab Q S
+stand stand none 0
+AHMV ABCDEFGHIJK giant 0 venari~
+#10655
+high priest clan goon venari hall~
+a high priest of Selina's Order~
+{xA {Whigh priest {xof {cSelina's{x Order guards the gates.
+~
+A tall figure stands here, arms crossed before you.  His grey robes bear
+many sigils of protection, and he wears the armament of his own faith and
+Selina's power.  Only a chosen few may pass. 
+~
+orc~
+ABG HJVZ 0 0
+60 6 50d10+9500 1d1+99 8d6+28 slash
+-30 -30 -30 -30
+ADFJKRU ABab Q S
+stand stand none 0
+AHMV ABCDEFGHIJK giant 0 venari~
+#10656
+high priest clan goon venari hall~
+a high priest of Selina's Order~
+{xA {Whigh priest {xof {cSelina's{x Order guards the gates.
+~
+A tall figure stands here, arms crossed before you.  His grey robes bear
+many sigils of protection, and he wears the armament of his own faith and
+Selina's power.  Only a chosen few may pass. 
+~
+orc~
+ABG HJVZ 0 0
+60 6 50d10+9500 1d1+99 8d6+28 none
+-30 -30 -30 -30
+ADFJKRU ABab Q S
+stand stand none 0
+AHMV ABCDEFGHIJK giant 0 venari~
+#10657
+high priest clan goon venari hall~
+a high priest of Selina's Order~
+{xA {Whigh priest {xof {cSelina's{x Order guards the gates.
+~
+A tall figure stands here, arms crossed before you.  His grey robes bear
+many sigils of protection, and he wears the armament of his own faith and
+Selina's power.  Only a chosen few may pass. 
+~
+orc~
+ABG HJVZ 0 0
+60 6 50d10+9500 1d1+99 8d6+28 none
+-30 -30 -30 -30
+ADFJKRU ABab Q S
+stand stand none 0
+AHMV ABCDEFGHIJK giant 0 venari~
+#0
+
+
+
+#OBJECTS
+#10650
+venari hall key~
+Venari hall key~
+The key to Venari clan hall is on the ground.~
+~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the Clan_B of the world of Redemption. 
+~
+#10651
+eye~
+the eye of Venari~
+The eye of Venari scans the countryside looking for dragons.~
+stone~
+portal 0 0
+0 0 0 10658 0
+0 5000 0 P
+#10652
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 155 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#10653
+prenuptual agreement~
+a prenuptual agreement~
+A prenuptual agreement lies here.~
+oldstyle~
+scroll 0 A
+51 'cure blindness' '(null)' 'shield' '(null)'
+11 10 2400 P
+#10654
+skull red eyes fossilized~
+a fossilized skull~
+A fossilized skull with red eyes focuses on you from the ground below.~
+~
+portal ORT 0
+0 0 0 10673 0
+0 0 0 G
+#10655
+off white potion~
+an off white potion~
+An off white potion is here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#10656
+deep blue pill~
+a deep blue pill~
+A deep blue pill with the letter 'E' stamped on it.~
+food~
+pill 0 A
+53 'frenzy' 'heal' 'reserved' 'reserved'
+50 0 15000 P
+#10657
+potpie pot pie~
+a big pot pie~
+A big pot pie has been left here.~
+food~
+food 0 A
+20 40 0 0 0
+0 20 22 P
+#10658
+vial black ink~
+a vial of black ink~
+A vial of black writing ink sits here.~
+cream~
+potion 0 AO
+25 'remove curse' 'blur' '(null)' '(null)'
+25 1 3000 P
+#10659
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#10660
+figurine blank_fig~
+a blank figurine~
+A blank figurine is here, waiting for a soul.~
+wood~
+wand 0 AO
+0 1 1 'figurine spell' 0
+0 0 100 P
+#10661
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 4000 P
+#10662
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#10663
+tent~
+a sturdy canvas tent~
+A sturdy canvas tent is here.~
+canvas~
+container S A
+70 A 0 10 100
+1 25 150 P
+#10664
+dark blue pill~
+a dark blue pill~
+A dark blue pill with a capital 'E' on it sits here.~
+food~
+pill 0 A
+37 'frenzy' 'heal' 'reserved' 'reserved'
+30 1 12000 P
+#10665
+skin water buffalo~
+a buffalo water skin~
+A bloated dead buffalo is on the floor.~
+leather~
+drink 0 A
+64 64 'water' 0 0
+0 40 24 G
+#10666
+necromantic tome~
+a necromantic tome~
+A small book detailing the ritual of Cuthalion is here.~
+parchment~
+scroll CE A
+20 'cryogenesis' 'reserved' 'reserved' 'reserved'
+20 10 1000 P
+E
+necromantic tome~
+This seems to be an odd thing to be carried by a priest. This small black book details
+the gruesome rituals used to preserve the scalp of Amroth Cuthalion, a once legendary
+warlord who attempted to capture Thalos and failed. Some necromancers of Thalos attempted
+to capture his incredible leadership abilities, and created a relic,
+"warlord scalp amroth cuthalion" which you can also make for yourself if you walk the
+dark pathes of necromancer. You will need:
+ 
+-69 severed heads of your foes
+-1 bloody tooth from a faraway land
+-a blonde wig
+-3 servant souls
+-50 midgaard diamonds
+ 
+Good luck!
+~
+#10667
+raft~
+a raft~
+A raft has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 750 400 A
+E
+raft~
+The raft looks very primitive. 
+~
+#10668
+venari hall key~
+Venari hall key~
+The key to Venari clan hall is on the ground.~
+wood~
+trash PU AC
+0 0 0 0 0
+0 100 0 P
+#10669
+tetragon sabre power selina faithful~
+the Power of Selina's Faithful~
+A powerful scimitar of the faithful.~
+adamantite~
+weapon ABIPUV AN
+sword 5 7 cleave EF
+42 450 5600 P
+E
+scimitar blade~
+It is quite heavy.  The blade is made of some metal that you can't even 
+spell.  The edge of the blade looks as if it could cut through anything 
+or anyone. 
+~
+#10670
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 3255 P
+#10671
+figurine mist~
+mist figurine~
+A misty figurine lays on the ground.~
+oldstyle~
+wand AG AO
+45 3 3 'gate' 0
+40 30 11800 P
+A
+14 75  
+#10672
+Statue of Selina~
+A statue of Selina shelters you from the outside world.~
+A statue of Selina shelters you from the outside world.~
+stone~
+portal OT 0
+0 0 0 10658 0
+0 0 0 P
+E
+couch~
+A couch made of {wWhite{x, {GGreen{x, {BBlue{x, {RRed{x, and {DBlack{x dragon skin is waiting for you to rest on it.
+~
+E
+statue~
+An entrance to the unknown lies open before the statue.
+~
+#10673
+potion vial empty _unused_~
+an empty potion vial~
+An empty potion vial is here.~
+wood~
+potion W AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#10674
+blank scroll _unused_~
+a blank scroll~
+A blank scroll is here.~
+paper~
+scroll 0 AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#10675
+pewter sack~
+a pewter sack~
+A small bag made of metal is gathering dust here.~
+pewter~
+throwing N AO
+3 7 blast 37 'acid blast'
+30 20 3500 P
+#10676
+skull red eyes fossilized~
+a fossilized skull~
+A fossilized skull with red eyes focuses on you from the ground below.~
+wood~
+portal O 0
+0 0 0 10655 0
+0 0 0 R
+#10677
+dart~
+a strange dart~
+You see a little dart here.~
+wood~
+throwing 0 AO
+1 6 pierce 15 'burning hands'
+0 10 510 P
+#10678
+scroll identify~
+a scroll of identify~
+A scroll has been carelessly left here.~
+vellum~
+scroll G AO
+12 'identify' '(null)' '(null)' '(null)'
+7 10 890 P
+#10679
+incredible potion strength~
+an incredible potion of strength~
+An incredible potion of strength has been dropped here.~
+glass~
+potion C AO
+25 'giant strength' 'slow' '(null)' '(null)'
+20 10 3000 P
+E
+incredible~
+Poua! It smell awfull. Yon don't want really drink it ?
+~
+#10680
+malevolus evil dart~
+the Malevolus~
+An evil-looking dart sits here.~
+mithril~
+throwing C AO
+7 5 bite 50 'curse'
+45 1 3000 P
+#10681
+scroll recognition~
+a scroll of recognition~
+A scroll lies here, it seems to be written on a high quality parchment.~
+parchment~
+scroll G AO
+30 'detect magic' 'detect invis' '(null)' '(null)'
+0 20 1900 P
+E
+scroll recognition~
+As you read the scroll of recognition, you are filled with
+uh, recognition, that the scroll contains more than simple
+magic spells, but is also the key to a powerful crafted
+artifact for spellcasters known as the "blessed
+token of the moon light" which can substantially increase
+their magical powers.
+ 
+To craft this artifact will require:
+a glowing moonstone
+7 flaming feathers
+circlets of wonder
+50 midgaard diamonds
+ 
+Good Luck!
+~
+#10682
+eye~
+the eye of Venari~
+The eye of Venari scans the countryside looking for dragons.~
+stone~
+portal 0 0
+0 0 0 10662 0
+0 5000 0 P
+#10683
+stormbringer bringer dart~
+a stormbringer~
+A storm-painted dart lies here.~
+silver~
+throwing 0 AO
+6 3 sting 28 'hurricane'
+25 1 2000 P
+#10684
+figurine green dragon~
+a figurine of a green dragon~
+You see a small figurine of a green dragon on the ground.~
+oldstyle~
+wand AG AO
+45 10 10 'gas breath' 0
+40 30 37800 P
+#10685
+gingerbread cookie~
+a gingerbread cookie~
+A gingerbread cookie is here, luring you in with an irresistable aroma.~
+food~
+pill GS A
+10 'bark skin' 'pass door' 'reserved' 'reserved'
+10 1 2500 P
+#10686
+skull red eyes fossilized~
+a fossilized skull~
+A fossilized skull with red eyes focuses on you from the ground below.~
+~
+portal OR 0
+0 0 0 10674 0
+0 0 0 G
+#10687
+clear pill~
+a clear pill~
+A cute clear pill has the letter 'S' stamped on it.~
+glass~
+pill 0 A
+30 'haste' 'reserved' 'reserved' 'reserved'
+20 0 2500 P
+#10688
+wand detect invis~
+a wand of glinting yellow~
+A wand of glinting yellow lies here.~
+oldstyle~
+wand G AO
+1 15 15 'detect invis' 0
+5 10 1800 P
+E
+wand~
+You see a shape slowly fading into exsistance at the base of this wand.
+~
+#10689
+jewel encrusted chest pit~
+the donation pit~
+A large jewel encrusted chest rests in the corner, awaiting your donation. ~
+~
+container OT 0
+10000 0 0 1000 100
+0 0 0 P
+E
+pit~
+This is where you put money and items to help Doz expand this shrine and 
+convert more people to the belief of Bosco, lord of the gods. 
+~
+#10690
+fountain lemonade cool~
+a fountain of lemonade~
+A fountain tapping into the Elemental Plane of Lemonade is here.~
+~
+fountain OR 0
+0 0 'lemonade' 0 0
+0 0 0 G
+#10691
+loaf bread~
+a HUGE loaf of bread~
+This loaf of bread would fill you up for a day!
+~
+food~
+food 0 A
+24 24 0 0 0
+1 3 25 P
+#10692
+pumice fountain aquarium~
+a pumice fountain~
+{x~
+metal~
+portal OT 0
+0 0 0 10666 0
+50 0 15000 P
+E
+fountain~
+A pummice fountain collects water in a basin entering from the Shandalar River.
+~
+#10693
+potion of fortitude~
+potion of fortitude~
+A potion of fortitude.~
+glass~
+potion 0 A
+35 'giant strength' 'sanctuary' 'reserved' 'reserved'
+40 10 5000 P
+#10694
+lime potion~
+a lime potion~
+A greenish vial is here.~
+wood~
+potion 0 A
+25 'detect invis' 'detect magic' 'reserved' 'reserved'
+40 10 2000 P
+#10695
+incredible pill feeling~
+an incredible pill of feeling~
+An incredible pill of feeling has been dropped here.~
+food~
+pill e AO
+15 'detect invis' 'infravision' 'loneliness' '(null)'
+15 10 1000 P
+E
+~
+~
+E
+incredible pill feeling~
+This pill isn't appetizing.
+~
+#10696
+figurine winged horse pegasus~
+a figurine of a winged horse~
+You see a small figurine of a winged horse on the ground.~
+wood~
+wand AG AO
+45 25 25 'fly' 0
+20 30 16600 P
+#10697
+high gloss onyx casket~
+a high gloss onyx casket~
+A high gloss onyx casket is set into the ground here.~
+onyx~
+portal OT 0
+0 0 0 10666 0
+20 1 2500 P
+#10698
+ancient chest rusted~
+an ancient chest~
+An ancient chest with rusted off hinges sits in front of you.~
+wood~
+portal O 0
+0 0 0 10664 0
+0 5000 0 P
+#10699
+pumice fountain aquarium~
+a pumice fountain~
+A pumice fountain stands in the middle of the aquarium.~
+metal~
+fountain OT 0
+0 0 'water' 0 0
+50 0 15000 P
+#0
+
+
+
+#ROOMS
+#10650
+{CInside a {GSwirling {CVortex of {RC{Co{Gl{Yo{Bu{Mr{Ws{x~
+You see the Crown of Command to the north.
+~
+0 973340684 0
+D0
+~
+~
+0 0 11878
+S
+#10651
+The Way In!~
+You can hardly believe you've found it! The lair of the Venari lies
+just ahead. You can already imagine the wealth that will be yours if
+you can find a way in.  You suddenly feel very nervous.  "They" are
+probably watching you right now...looking for the right time to strike.
+~
+0 0 0
+D0
+~
+door~
+0 0 10653
+D2
+~
+~
+0 0 10945
+D3
+~
+door~
+0 0 10652
+S
+#10652
+Nothing Is Free~
+A horrible sense of loss wrenches at the core of your being as you arrive
+here. Something is taking everything you have worked so hard for. But,
+that is, after all, the price of being alive.
+~
+0 973341708 0
+D1
+~
+door~
+0 0 10651
+C venari~
+S
+#10653
+The Front Door~
+A beautifully carved wooden door is all that stands in between you
+and the wealth that lies within. It is made of sturdy oak, to be
+sure, but is carved with tiny bas-reliefs of unicorns, dragons,
+gryphons and other mystical creatures. There is only one way in, and
+it will not be an easy task. 
+~
+0 0 0
+D0
+~
+door~
+4 10650 10657
+D2
+~
+~
+0 0 10651
+S
+#10654
+The Great Hall~
+This dimly lit chamber is illuminated with nothing but a few candles
+resting on a massive central table. The room is dark and eerily silent,
+and danger seems to lurk just outside the reach of your senses. Large
+tapestries cover the walls, depicting everything from vicious battles
+to wonderous romances. All are of the finest quality.
+~
+0 839122956 0
+D0
+~
+~
+0 0 10655
+D1
+~
+~
+0 0 10660
+D2
+~
+door~
+0 0 10657
+D3
+~
+~
+0 0 10659
+D4
+~
+~
+0 0 10653
+D5
+~
+~
+0 0 31000
+C venari~
+S
+#10655
+The Lair of the Venari~
+This room strangely reminds you of home, with the sweet smell of
+dreams in the air. Pillows lay all over the plush carpets, and a pile of
+blankets stand on a night table in the corner of the room. Through a
+wall of silk you notice rows of beds, and you relax on one as a feeling
+of helplessness overcomes you. As you take another look around you
+notice the pictures on the wall, of ancestors and heros. Of Bosco,
+father of Taelisan. You pay your respects to the world and nod off to
+a land of dreams and peace.
+~
+0 839122956 0
+E
+2~
+Generic extended description. 
+~
+D1
+~
+~
+0 0 10672
+D2
+~
+~
+0 0 10654
+D3
+~
+~
+0 0 10656
+M 150 H 150
+C venari~
+S
+#10656
+The Vault~
+Treasures upon treasures are piled in this room. Mounds of gold and
+silver coins shine brightly, gems sparkle, and other wonderous
+treasures are organized neatly on shelves. An older man stands
+in the center of the vault, wielding a quill and ledger, ready
+to serve you.
+~
+0 839122956 0
+D1
+~
+~
+0 0 10655
+D3
+~
+~
+0 0 10672
+C venari~
+S
+#10657
+The Outer Cloister~
+Four tall granite roofed corridors fashioned in cathedral architecture
+surround the central courtyard of Venari.  These holy structures prevent any
+access from the outside world, sealing you inside a beautiful open skied
+terrarium.  A small path leads you though a multitude of small gardens
+filled with butterflies and songbirds.  Coming to the midpoint of the
+cloister, you look up upon a sculpture of Selina.  It seems as if this small
+figure itself is holding up the sky above, keeping it from crashing down
+upon you.  The figurine is smiling, happy to hold the weight of the world on
+her shoulders.  
+~
+0 839122956 0
+C venari~
+S
+#10658
+The Catacombs of the Venari~
+You stand encompassed by the ancient subterranean passageways of the
+Venari.  Each hallway appears identical , astronomic archways of stone set
+with skulls stretch paths as far as the eye can see.  The black granite
+floors glint down the hallways, and the flicker of the flames beckons you
+onwards.  Built during the Great War, this hall helped the members of the
+Venari safe from the invading dragon force.  It now looms before you, its
+secret long forgotten.  Which exit leads you to your destination?  
+~
+0 839122956 0
+D0
+~
+~
+0 0 10673
+D1
+~
+~
+0 0 10673
+D2
+~
+~
+0 0 10673
+D3
+~
+~
+0 0 10673
+D4
+~
+~
+0 0 10660
+D5
+~
+~
+0 0 10659
+C venari~
+S
+#10659
+The Catacombs of the Venari~
+You stand encompassed by the ancient subterranean passageways of the
+Venari.  Each hallway appears identical , astronomic archways of stone set
+with skulls stretch paths as far as the eye can see.  The black granite
+floors glint down the hallways, and the flicker of the flames beckons you
+onwards.  Built during the Great War, this hall helped the members of the
+Venari safe from the invading dragon force.  It now looms before you, its
+secret long forgotten.  Which exit leads you to your destination?  
+~
+0 839122956 0
+D0
+~
+~
+0 0 10677
+D1
+~
+~
+0 0 10673
+D2
+~
+~
+0 0 10673
+D3
+~
+~
+0 0 10676
+D4
+~
+~
+0 0 10673
+D5
+~
+~
+0 0 10673
+C venari~
+S
+#10660
+The Catacombs of the Venari~
+You stand encompassed by the ancient subterranean passageways of the
+Venari.  Each hallway appears identical , astronomic archways of stone set
+with skulls stretch paths as far as the eye can see.  The black granite
+floors glint down the hallways, and the flicker of the flames beckons you
+onwards.  Built during the Great War, this hall helped the members of the
+Venari safe from the invading dragon force.  It now looms before you, its
+secret long forgotten.  Which exit leads you to your destination?  
+~
+0 839122956 0
+D0
+~
+~
+0 0 10662
+D1
+~
+~
+0 0 10661
+D2
+~
+~
+0 0 10673
+D3
+~
+~
+0 0 10673
+D4
+~
+~
+0 0 10673
+D5
+~
+~
+0 0 10673
+C venari~
+S
+#10661
+The Catacombs of the Venari~
+You stand encompassed by the ancient subterranean passageways of the
+Venari.  Each hallway appears identical , astronomic archways of stone set
+with skulls stretch paths as far as the eye can see.  The black granite
+floors glint down the hallways, and the flicker of the flames beckons you
+onwards.  Built during the Great War, this hall helped the members of the
+Venari safe from the invading dragon force.  It now looms before you, its
+secret long forgotten.  Which exit leads you to your destination?  
+~
+0 839122956 0
+D0
+~
+~
+0 0 10673
+D1
+~
+~
+0 0 10673
+D2
+~
+~
+0 0 10673
+D3
+~
+~
+0 0 10673
+D4
+~
+~
+0 0 10673
+D5
+~
+~
+0 0 10663
+C venari~
+S
+#10662
+The Catacombs of the Venari~
+You stand encompassed by the ancient subterranean passageways of the
+Venari.  Each hallway appears identical , astronomic archways of stone set
+with skulls stretch paths as far as the eye can see.  The black granite
+floors glint down the hallways, and the flicker of the flames beckons you
+onwards.  Built during the Great War, this hall helped the members of the
+Venari safe from the invading dragon force.  It now looms before you, its
+secret long forgotten.  Which exit leads you to your destination?  
+~
+0 839122956 0
+D0
+~
+~
+0 0 10673
+D1
+~
+~
+0 0 10673
+D2
+~
+~
+0 0 10673
+D3
+~
+~
+0 0 10673
+D4
+~
+~
+0 0 10673
+D5
+~
+~
+0 0 10673
+C venari~
+S
+#10663
+The Catacombs of the Venari~
+You stand encompassed by the ancient subterranean passageways of the
+Venari.  Each hallway appears identical , astronomic archways of stone set
+with skulls stretch paths as far as the eye can see.  The black granite
+floors glint down the hallways, and the flicker of the flames beckons you
+onwards.  Built during the Great War, this hall helped the members of the
+Venari safe from the invading dragon force.  It now looms before you, its
+secret long forgotten.  Which exit leads you to your destination?  
+~
+0 839122956 0
+D0
+~
+~
+0 0 10673
+D1
+~
+~
+0 0 10673
+D2
+~
+~
+0 0 10675
+D3
+~
+~
+0 0 10673
+D4
+~
+~
+0 0 10673
+D5
+~
+~
+0 0 10673
+C venari~
+S
+#10664
+The Inner Sanctum~
+Hundreds of the most horrible creatures imaginable stand before you
+petrified in stone.  Given to Venari by Selina after the Great War, these
+statues depict the battle between the forces of Terra and Dominia long past.
+A single massive map stretches across the circular wall, with various
+waypoints and directions marked upon each continent.  Under the midpoint of
+the great map sits a long round table with papers dispersed about it.  There
+is also a chess game in progress, white currently holds black in check with
+their queen.  
+~
+0 839122956 0
+D2
+~
+~
+0 0 10655
+D5
+~
+~
+1 0 10665
+C venari~
+S
+#10665
+The Aquarium of Venari~
+Descending the staircase you look around and find yourself in the
+artificial aquatic ecosystem of Venari.  The floor consists of sand and
+multi-coloured glass beads, with monster stargrass weeds growing scattered
+around you.  In a flash a giant school of tropical neon fish envelopes you
+and the vibrant visuals cause your eyes to squint.  As you open them, you
+notice a shimmering crystal statue pouring water into a pumice fountain
+before you.  It continually replenishes the supply of water here,
+maintaining a perfect environment for marine species.  
+~
+0 839122956 12
+D4
+~
+~
+1 0 10664
+C venari~
+S
+#10666
+The Catacombs of the Venari ~
+A large spiral staircase with exits leading every which way descends
+into the depths of the catacombs.  Water drips from the ceiling above and
+pools on the soft stone floors beneath your feet.  Chambers of the most
+notorious members of Venari stand in front of you, however the humid
+conditions have eroded the names carved in the stone past recognition.  
+~
+0 839122956 0
+D0
+~
+~
+0 0 10667
+D1
+~
+~
+0 0 10668
+D2
+~
+~
+0 0 10669
+D3
+~
+~
+0 0 10670
+C venari~
+S
+#10667
+The Catacombs of the Venari~
+This resting place is very modest for the elite of Venari.  The worn
+flagstone floor cracks under the pressure of your step.  The walls are
+beginning to crumble around you, giving you a sense of uneasiness.  The
+casket in front of you is in immaculate condition for its age.  Made of
+solid onyx, its surface is hard and smooth.  When gazed upon, the flawless
+casket easily reflects the image of the person back into the room.  
+~
+0 839122956 0
+C venari~
+S
+#10668
+The Catacombs of the Venari~
+This resting place is very modest for the elite of Venari.  The worn
+flagstone floor cracks under the pressure of your step.  The walls are
+beginning to crumble around you, giving you a sense of uneasiness.  The
+casket in front of you is in immaculate condition for its age.  Made of
+solid onyx, its surface is hard and smooth.  When gazed upon, the flawless
+casket easily reflects the image of the person back into the room.  
+~
+0 839122956 0
+C venari~
+S
+#10669
+The Catacombs of the Venari~
+This resting place is very modest for the elite of Venari.  The worn
+flagstone floor cracks under the pressure of your step.  The walls are
+beginning to crumble around you, giving you a sense of uneasiness.  The
+casket in front of you is in immaculate condition for its age.  Made of
+solid onyx, its surface is hard and smooth.  When gazed upon, the flawless
+casket easily reflects the image of the person back into the room.  
+~
+0 839122956 0
+C venari~
+S
+#10670
+The Catacombs of the Venari~
+This resting place is very modest for the elite of Venari.  The worn
+flagstone floor cracks under the pressure of your step.  The walls are
+beginning to crumble around you, giving you a sense of uneasiness.  The
+casket in front of you is in immaculate condition for its age.  Made of
+solid onyx, its surface is hard and smooth.  When gazed upon, the flawless
+casket easily reflects the image of the person back into the room.  
+~
+0 839122956 0
+C venari~
+S
+#10671
+The Catacombs of the Venari~
+You stand encompassed by the ancient subterranean passageways of the
+Venari.  Each hallway appears identical , astronomic archways of stone set
+with skulls stretch paths as far as the eye can see.  The black granite
+floors glint down the hallways, and the flicker of the flames beckons you
+onwards.  Built during the Great War, this hall helped the members of the
+Venari safe from the invading dragon force.  It now looms before you, its
+secret long forgotten.  Which exit leads you to your destination?  
+~
+0 839122956 0
+D0
+~
+~
+0 0 10673
+D1
+~
+~
+0 0 10673
+D2
+~
+~
+0 0 10673
+D3
+~
+~
+0 0 10651
+D4
+~
+~
+0 0 10673
+D5
+~
+~
+0 0 10673
+C venari~
+S
+#10672
+The Treasury~
+This depository is more than luxurious.  Long sheets of the finest silk
+line every wall, while riches of every colour are scattered across the
+ground.  Oil lamps of every shape and size give the room light and heat,
+while incense burn endlessly filling the room with a constant pleasant
+aroma.  Beautifully forged swords stand proudly set in pedestals of stone,
+and full sets of armour fill the racks placed beside them.  A gorgeous young
+elf plucks at a majestic golden harp to the sweetest tune you have ever
+heard.  You feel compelled to leave a tip in the chest close by.  
+~
+0 839122956 0
+D1
+~
+~
+0 0 10656
+D3
+~
+~
+0 0 10655
+C venari~
+S
+#10673
+The Catacombs of the Venari~
+You stand encompassed by the ancient subterranean passageways of the
+Venari.  Each hallway appears identical , astronomic archways of stone set
+with skulls stretch paths as far as the eye can see.  The black granite
+floors glint down the hallways, and the flicker of the flames beckons you
+onwards.  Built during the Great War, this hall helped the members of the
+Venari safe from the invading dragon force.  It now looms before you, its
+secret long forgotten.  Which exit leads you to your destination?  
+~
+0 839122956 0
+D0
+~
+~
+0 0 10673
+D1
+~
+~
+0 0 10673
+D2
+~
+~
+0 0 10673
+D3
+~
+~
+0 0 10673
+D4
+~
+~
+0 0 10673
+D5
+~
+~
+0 0 10673
+C venari~
+S
+#10674
+The Catacombs of the Venari~
+You stand encompassed by the ancient subterranean passageways of the
+Venari.  Each hallway appears identical , astronomic archways of stone set
+with skulls stretch paths as far as the eye can see.  The black granite
+floors glint down the hallways, and the flicker of the flames beckons you
+onwards.  Built during the Great War, this hall helped the members of the
+Venari safe from the invading dragon force.  It now looms before you, its
+secret long forgotten.  Which exit leads you to your destination?  
+~
+0 839122956 0
+D0
+~
+~
+0 0 10673
+D1
+~
+~
+0 0 10673
+D2
+~
+~
+0 0 10673
+D3
+~
+~
+0 0 10673
+D4
+~
+~
+0 0 10673
+D5
+~
+~
+0 0 10673
+C venari~
+S
+#10675
+The Catacombs of the Venari~
+You stand encompassed by the ancient subterranean passageways of the
+Venari.  Each hallway appears identical , astronomic archways of stone set
+with skulls stretch paths as far as the eye can see.  The black granite
+floors glint down the hallways, and the flicker of the flames beckons you
+onwards.  Built during the Great War, this hall helped the members of the
+Venari safe from the invading dragon force.  It now looms before you, its
+secret long forgotten.  Which exit leads you to your destination?  
+~
+0 839122956 0
+D0
+~
+~
+0 0 10673
+D1
+~
+~
+0 0 10673
+D2
+~
+~
+0 0 10673
+D3
+~
+~
+0 0 10673
+D4
+~
+~
+0 0 10673
+D5
+~
+~
+0 0 10673
+C venari~
+S
+#10676
+The Catacombs of the Venari~
+You stand encompassed by the ancient subterranean passageways of the
+Venari.  Each hallway appears identical , astronomic archways of stone set
+with skulls stretch paths as far as the eye can see.  The black granite
+floors glint down the hallways, and the flicker of the flames beckons you
+onwards.  Built during the Great War, this hall helped the members of the
+Venari safe from the invading dragon force.  It now looms before you, its
+secret long forgotten.  Which exit leads you to your destination?  
+~
+0 839122956 0
+D0
+~
+~
+0 0 10673
+D1
+~
+~
+0 0 10673
+D2
+~
+~
+0 0 10673
+D3
+~
+~
+0 0 10673
+D4
+~
+~
+0 0 10673
+D5
+~
+~
+0 0 10673
+C venari~
+S
+#10677
+The Catacombs of the Venari~
+You stand encompassed by the ancient subterranean passageways of the
+Venari.  Each hallway appears identical , astronomic archways of stone set
+with skulls stretch paths as far as the eye can see.  The black granite
+floors glint down the hallways, and the flicker of the flames beckons you
+onwards.  Built during the Great War, this hall helped the members of the
+Venari safe from the invading dragon force.  It now looms before you, its
+secret long forgotten.  Which exit leads you to your destination?  
+~
+0 839122956 0
+D0
+~
+~
+0 0 10673
+D1
+~
+~
+0 0 10673
+D2
+~
+~
+0 0 10673
+D3
+~
+~
+0 0 10673
+D4
+~
+~
+0 0 10671
+D5
+~
+~
+0 0 10673
+C venari~
+S
+#10678
+unused vnum~
+CAUTION - old portal room.
+ 
+If you delete these exits CHECK THE OTHER SIDE to make sure you don't delete
+a real link accidently.
+~
+0 839122956 0
+D2
+~
+~
+0 0 13501
+C venari~
+S
+#10679
+unused vnum~
+CAUTION - old portal room.
+ 
+If you delete these exits CHECK THE OTHER SIDE to make sure you don't delete
+a real link accidently.
+~
+0 839122956 0
+D3
+~
+~
+0 0 11500
+C venari~
+S
+#10681
+unused vnum~
+The alley ends here as do the footprints you had noticed earlier.
+~
+0 973340685 1
+S
+#10682
+unused vnum~
+You have entered some sort of temporal vortex.  There is nothing but
+serenity piercing your thoughts.  Phantom winds attempt to spin you around
+and around.  Selina's blessed sense of direction has given you new light,
+unseen by others.  Everything is black, yet is laced periodically with
+random flashes of light, allowing you only glimpses of the path that lies
+before you.  
+~
+0 973340684 0
+S
+#10683
+unused vnum~
+Upon entering this room you get a feeling of hushing, around your feet
+are the puddles of sweat and blood showing you the hard work of the
+hierarchy.  To the right of you is the Triangular Table, set for those who
+are asked upon to make decisions of great importance.  The paintings of
+great past or present hierarchy are all surrounding you on the walls, you
+feel a great history with Venari when you step into this room.  
+~
+0 973340684 0
+D1
+~
+~
+0 0 10684
+S
+#10684
+unused vnum~
+A triangular table sits in the center of this room set there by a great
+Leader of the past, to bring the hierarchy of Venari together in making
+choices for the better of the clan.  Inside this little dwelling in the Lair
+of Venari holds the key to Venari's existance.  The fact that Venari stands
+by one another unconditionally, as if they were all a family.  It truely
+makes the difference, and you can feel this while you stand in this room. 
+All the hard work has paid off.  
+~
+0 973340684 0
+D3
+~
+~
+0 0 10683
+S
+#10685
+unused vnum~
+Before you is the great Shine dedicated to the goddess Selina.  Large
+marble pillars stand on either side of the gold figurine of this beautiful
+goddess.  This room is very clean and empty, except for the center of this
+shrine which lies a fountain.  You feel an odd presence in this room.  As if
+an omnipresent force is watching over her children.  
+~
+0 973340684 12
+M 260 H 170
+S
+#10686
+unused vnum~
+CAUTION - old portal room.
+ 
+If you delete these exits CHECK THE OTHER SIDE to make sure you don't delete
+a real link accidently.
+~
+0 839122956 0
+D1
+~
+~
+0 0 800
+C venari~
+S
+#10687
+unused vnum~
+CAUTION - old portal room.
+ 
+If you delete these exits CHECK THE OTHER SIDE to make sure you don't delete
+a real link accidently.
+~
+0 839122956 0
+D2
+~
+~
+0 0 1801
+C venari~
+S
+#10688
+unused vnum~
+CAUTION - old portal room.
+ 
+If you delete these exits CHECK THE OTHER SIDE to make sure you don't delete
+a real link accidently.
+~
+0 839122956 0
+D3
+~
+~
+0 0 20700
+C venari~
+S
+#10689
+unused vnum~
+CAUTION - old portal room.
+ 
+If you delete these exits CHECK THE OTHER SIDE to make sure you don't delete
+a real link accidently.
+~
+0 839122956 0
+D0
+~
+~
+0 0 700
+C venari~
+S
+#10690
+unused vnum~
+CAUTION - old portal room.
+ 
+If you delete these exits CHECK THE OTHER SIDE to make sure you don't delete
+a real link accidently.
+~
+0 839122956 0
+D1
+~
+~
+0 0 19612
+C venari~
+S
+#10691
+unused vnum~
+CAUTION - old portal room.
+ 
+If you delete these exits CHECK THE OTHER SIDE to make sure you don't delete
+a real link accidently.
+~
+0 839122956 0
+D2
+~
+~
+0 0 14600
+C venari~
+S
+#10692
+unused vnum~
+CAUTION - old portal room.
+ 
+If you delete these exits CHECK THE OTHER SIDE to make sure you don't delete
+a real link accidently.
+~
+0 839122956 0
+D0
+~
+~
+0 0 2901
+D3
+~
+~
+0 0 14500
+C venari~
+S
+#0
+
+
+
+#SPECIALS
+M 10650 spec_goon Load to: a high priest of Selina's Order
+M 10651 spec_cast_adept Load to: the ordained avatar of Selina
+M 10653 spec_doorman Load to: the tax collector
+M 10654 spec_goon Load to: a high priest of Selina's Order
+M 10655 spec_goon Load to: a high priest of Selina's Order
+M 10656 spec_goon Load to: a high priest of Selina's Order
+M 10657 spec_goon Load to: a high priest of Selina's Order
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 10653 0 2
+D 0 10664 5 1
+D 0 10665 4 1
+O 0 10682 0 10650
+M 1 10653 1 10652 1
+M 1 10650 1 10653 1
+E 0 10668 0 3
+M 1 10655 1 10653 1
+E 0 10668 0 3
+M 1 10654 1 10653 1
+E 0 10668 0 3
+M 1 10656 1 10653 1
+E 0 10668 0 3
+M 1 10657 1 10653 1
+E 0 10650 0 3
+M 1 10651 1 10654 1
+O 0 10690 0 10655
+M 1 10652 1 10656 1
+G 0 10666 0
+G 0 10691 0
+G 0 10659 0
+G 0 10670 0
+G 0 10693 0
+G 0 10681 0
+G 0 10653 0
+G 0 10658 0
+G 0 10677 0
+G 0 10687 0
+G 0 10656 0
+O 0 10672 0 10657
+O 0 10654 0 10658
+O 0 10654 0 10659
+O 0 10654 0 10660
+O 0 10654 0 10661
+C 100 percent for next reset
+O 0 10654 0 10662
+C 100 percent for next reset
+O 0 10654 0 10663
+O 0 10699 0 10665
+O 0 10692 0 10665
+O 0 10698 0 10666
+O 0 10697 0 10667
+O 0 10697 0 10668
+O 0 10697 0 10669
+O 0 10697 0 10670
+O 0 10654 0 10671
+O 0 10698 0 10672
+O 0 10689 0 10672
+O 0 10654 0 10673
+C 100 percent for next reset
+O 0 10676 0 10674
+C 100 percent for next reset
+O 0 10686 0 10675
+C 100 percent for next reset
+O 0 10654 0 10676
+C 100 percent for next reset
+O 0 10654 0 10677
+O 0 10682 0 10687
+O 0 10682 0 10688
+O 0 10651 0 10689
+O 0 10651 0 10690
+O 0 10651 0 10691
+O 0 10651 0 10692
+S
+
+
+
+#SHOPS
+10652 5 9 32 3 4 200 50 0 23
+0
+
+
+
+#$

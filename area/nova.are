@@ -1,0 +1,2862 @@
+#AREADATA
+Name Nova Veesa~
+Builders None~
+VNUMs 18100 18299
+Credits { 0 50} Delstar     Nova Veesa~
+Security 9
+Xcontinent 0
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#18101
+sea spawn~
+a sea spawn~
+A hideous sea spawn is floating about.
+~
+The sea spawn is a hideous looking creature with green mucous oozing from its pores. You don't want to touch it let alone fight it.
+~
+snake~
+ABFG V -900 18100
+30 3 6d12+853 6d12+85 4d6+8 slash
+-9 -9 -9 -2
+D ABK L I
+stand stand male 100
+AGHMVXYc ADEFJKLQVX tiny 0 the guilds~
+#18102
+psionic leech~
+a psionic leech~
+A psionic leech casts mental energies in your direction.
+~
+The leech is a deformed old humanoid with impressive mental abilities.
+~
+kobold~
+ABGO J -500 18100
+35 3 10d10+1300 10d10+130 4d7+11 suction
+-11 -11 -11 -2
+G ABH L C
+stand stand male 300
+ABHMV ABCDEFGHIJKQ medium 0 the guilds~
+#18103
+radiant spirit undead~
+a radiant spirit~
+A radiant spirit floats above the ground.
+~
+The radiant spirit blinds you from the light emanating from him.
+~
+human~
+ABG 0 0 18100
+40 4 15d10+1850 15d10+185 4d8+13 grep
+-13 -13 -13 -2
+0 AB I 0
+stand stand male 350
+AEHJMV ABCDEFGHIJK tiny energy the guilds~
+#18104
+mist golem~
+a mist golem~
+A mist golem stands guard protecting the dolmens.
+~
+The mist golem is a smoky creature which seems not to have any cohesion. Perhaps it is only an illusion...
+~
+human~
+ABG 0 -300 18100
+35 3 10d10+1300 10d10+130 4d7+11 bite
+-11 -11 -11 -2
+0 ABJ 0 0
+stand stand male 0
+AEHJMV ABCDEFGHIJK huge mist the guilds~
+#18105
+kantorian knight~
+a Kantorian knight~
+A Kantorian knight is here keeping the peace.
+~
+The knight seems out of place in Kantor. He is part of an ancient society which kept alive the ancient traditions.
+~
+human~
+ABCH DFJVb 500 18100
+46 4 25d10+3250 1d1+100 6d6+16 slice
+-16 -16 -16 -5
+ADEFRTU 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18106
+prince othmar~
+Prince Othmar~
+Prince Othmar is here dreaming of a better Empire.
+~
+Prince Othmar is the Ruler of Kantor. Unfortunately, the awakenings of Sachmet have turned the villagers against him.
+~
+human~
+ABCG HV 600 18100
+43 4 25d10+2500 25d10+250 3d12+15 slice
+-15 -15 -15 -2
+0 ABG 0 0
+stand stand male 525
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18107
+first awakening sachment ghost undead~
+the first awakening of Sachmet~
+The first awakening of Sachmet is here.
+~
+The ghost of Sachmet is projected out against infidels who seek her tomb.
+~
+human~
+ABFG Vb -300 18100
+35 3 10d10+1300 10d10+130 4d7+11 slice
+-11 -11 -11 -2
+ACEFN AB 0 0
+stand stand female 0
+AEHJMV ABCDEFGHIJK medium mist the guilds~
+#18108
+second awakening sachmet ghost undead~
+the second awakening of Sachmet~
+The second ghost of Sachmet is here.
+~
+Sachmet, whoever she is, does not want you to loot her tomb.
+~
+human~
+ABCFG Vb -300 18100
+40 4 15d10+1850 15d10+185 4d8+13 bite
+-13 -13 -13 -2
+ACEF ABI 0 0
+stand stand female 0
+AEHJMV ABCDEFGHIJK medium mist the guilds~
+#18109
+chezna thief~
+Chezna~
+Chezna the head of the thieves is here.
+~
+Chezna is a grubby young woman. She does not appear to be dangerous. At first glance that is...
+~
+human~
+ABG HV 1000 18100
+38 3 10d10+1700 10d10+170 5d6+12 slice
+-13 -13 -13 -2
+AEFIJP AB 0 0
+sit sit female 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+#18110
+bandit~
+a bandit~
+A bandit from Chezna's group is here.
+~
+The bandit looks like a master at his art. You barely noticed his presence when you walked by.
+~
+human~
+ABG QVb 0 18100
+32 3 10d10+1000 10d10+100 6d4+9 slice
+-10 -10 -10 -2
+ABEFJP 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18111
+goapal snake~
+a goapal snake~
+A goapal snake is here hisssssssing at you.
+~
+The goapal snake has the venomous tail of a scorpion,.
+~
+snake~
+ABFG Vb -300 18100
+34 3 10d10+1200 10d10+120 4d7+10 bite
+-11 -11 -11 -2
+EFG AB L I
+stand stand either 0
+AGXYc ADEFKLQVX tiny 0 the guilds~
+#18112
+rabid wolf~
+a rabid wolf~
+A rabid wolf is here waiting to bite you.
+~
+The rabid wolf is a large mammal with a foaming mouth. .
+~
+wolf~
+ABFG VZb -300 18100
+35 3 10d10+1300 10d10+130 4d7+11 bite
+-11 -11 -11 -2
+AEFHI AB 0 I
+stand stand male 0
+AGV ACDEFJKQV medium 0 the guilds~
+#18113
+fenhound~
+a fenhound~
+A fenhound is here looking for his master.
+~
+The fenhound is haunted by his master's spirit. He will hunt his master's foes until his spirit can rest.
+~
+dog~
+ABG HV -600 18100
+45 4 25d10+3000 25d10+300 8d4+16 bite
+-15 -15 -15 -2
+ADFHIJ AB 0 0
+stand stand male 0
+AGV ACDEFHJKUV medium 0 the guilds~
+#18114
+flea madness~
+a flea of madness~
+A flea of madness is here waiting to attack you.
+~
+The flea of madness seems like an innocent creature. Its strength comes from numbers.
+~
+centipede~
+ABG OZb -100 18100
+30 3 6d12+853 6d12+85 4d6+8 bite
+-9 -9 -9 -2
+ACGJKRU AB FI E
+stand stand male 0
+ABGO ACK tiny 0 the guilds~
+#18115
+gremishka~
+a gremishka~
+A gremishka is here screaming its hatred of you.
+~
+The gremishka is a doglike figure with huge fangs and claws.
+~
+modron~
+ABGO HJVb -800 18100
+50 5 50d10+4500 50d10+450 5d8+19 slice
+-20 -20 -20 -3
+CDEFIJNQR ABMNPQ HIK 0
+stand stand male 1250
+H ABCGHJK tiny 0 the guilds~
+#18116
+rushlight undead~
+a rushlight~
+A rushlight is floating nearby.
+~
+The rushlight is a luminescent globe which appear to have facial features.
+~
+unique~
+ABCG N 200 18100
+45 4 25d10+3000 25d10+300 8d4+16 suction
+-15 -15 -15 -2
+AFKO ABK JL 0
+stand stand male 0
+0 0 tiny 0 the guilds~
+#18117
+third awakening undead sachmet ghost~
+the third awakening of Sachmet~
+Once again the ghost of Sachmet appears before you.
+~
+This is the Third awakening of Sachmet. You feel as if your encounters with the ghost are getting more and more difficult.
+~
+human~
+ABCFG HVb -1000 18100
+50 5 50d10+4500 50d10+450 5d8+19 crush
+-20 -20 -20 -3
+ACDEFGIJ AB 0 0
+stand stand female 0
+AEHJMV ABCDEFGHIJK medium mist the guilds~
+#18118
+fourth awakening sachmet ghost undead~
+the fourth awakening of Sachmet~
+For the fourth time, Sachmet appears in front of you.
+~
+The ghost of Sachmet is definitely getting harder at each encounter. Better beware.
+~
+human~
+ABCFG HVb -1000 18100
+52 5 50d10+5500 50d10+550 6d7+20 pierce
+-22 -22 -22 -3
+ADEFGIJ ABKa 0 0
+stand stand none 0
+AEHJMV ABCDEFGHIJK medium mist the guilds~
+#18119
+sachmet mummy undead~
+Sachmet's Mummy~
+The mummy of Sachmet slowly crawls out of its tomb.
+~
+The decomposed humanoid shape smells of rotting flesh.
+~
+human~
+ABCFG HOVb -1000 18100
+55 5 50d10+7000 50d10+700 10d4+23 claw
+-25 -25 -25 -3
+ACDEFGIJO ABFKLQ 0 0
+stand stand female 6526
+ABHMV ABCDEFGHIJK medium 0 the guilds~
+#18120
+shadow asp~
+a shadow asp~
+A shadow asp is here looking to poison someone.
+~
+The shadow asp is a well camouflaged snake with huge fangs.
+~
+snake~
+ABG V -300 18100
+43 4 25d10+2500 25d10+250 3d12+15 bite
+-15 -15 -15 -2
+CEFGO AK L I
+stand stand male 0
+AGXYc ADEFKLQVX small 0 the guilds~
+#18121
+skeletal archer undead~
+a skeletal archer~
+A skeletal archer here standing guard.
+~
+The skeletal archer is no more than a pile of standing bones with a bow.
+~
+human~
+ABCG 0 -400 18100
+45 4 25d10+3000 25d10+300 8d4+16 slice
+-15 -15 -15 -2
+ADEFG AB 0 0
+stand stand male 525
+AEHJMV ABCDEFGHIJK medium bone the guilds~
+#18122
+skin thief~
+a skin thief~
+A smelly skin thief is here sniffing you up.
+~
+The skin thief is a rancid smelling quadruped who feeds on the skin of other beings.
+~
+wolf~
+ABG VZ -700 18100
+42 4 25d10+2250 25d10+225 3d12+14 claw
+-14 -14 -14 -2
+ADEFH 0 I X
+stand stand male 0
+AGV ACDEFJKQV medium 0 the guilds~
+#18123
+psionic spirit~
+a psionic spirit~
+A psionic spirit is here casting energies at you.
+~
+The psionic spirit is a translucent humanoid with powerful telepathic weapons.
+~
+human~
+ABG V -500 18100
+45 4 25d10+3000 25d10+300 8d4+16 slice
+-15 -15 -15 -2
+EFGIJ 0 0 0
+stand stand male 850
+AHMV ABCDEFGHIJK large 0 the guilds~
+#18124
+undead cloaker~
+an undean cloaker~
+An undead cloaker is here blocking your way.
+~
+The cloaker is an actual cloak but is equipped with a mouthful of teeth and a mind of its own...
+~
+wyvern~
+ABG DFTVb -600 18100
+48 4 25d10+3750 25d10+375 6d60+18 grep
+-18 -18 -18 -2
+CDFGH L 0 S
+stand stand male 0
+ABGZ ACDEFHJKQVX large 0 the guilds~
+#18125
+skeletal cat undead~
+a skeletal cat~
+A skeletal cat is here rotting before your eyes.
+~
+The skeletal cat is an undead feline which seems to have escaped his burial.
+~
+cat~
+ABFG VZb -500 18100
+37 3 10d10+1500 10d10+150 3d10+12 bite
+-12 -12 -12 -2
+FHIJK ABC 0 0
+stand stand male 0
+AGV ACDEFHJKQUV small 0 the guilds~
+#18126
+cadash~
+cadash~
+Cadash the dealer of magic is here.
+~
+Cadash is a small old man who deals in magical items.
+~
+human~
+ABG Vb 1000 18100
+60 6 50d10+9500 50d10+950 8d6+28 slash
+-30 -30 -30 -3
+CDEFGHIJ ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK tiny 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#18101
+magical imprint~
+a magical imprint~
+A magical imprint is on the floor.~
+oldstyle~
+key PY AO
+0 0 0 0 0
+0 10 10 P
+#18102
+scroll insanity~
+a scroll of insanity~
+An insane looking scroll is on the floor.~
+oldstyle~
+scroll J AO
+20 'frenzy' '(null)' '(null)' '(null)'
+15 10 10 P
+#18103
+eye vortak gem gloomy~
+eye of Vortak~
+A gloomy looking gem is on the floor.~
+oldstyle~
+wand 0 AO
+18 3 3 'ray of truth' 0
+30 10 650 P
+#18104
+axe troika~
+the axe of Troika~
+A jewel encrusted axe is on the floor.~
+oldstyle~
+weapon B AN
+axe 4 7 slash D
+35 50 450 P
+A
+1 1  
+A
+3 -1  
+A
+18 2  
+A
+19 2  
+#18105
+shield kevlarian~
+the Kevlarian shield~
+A shield marked "Dupont" is on the floor.~
+oldstyle~
+armor ABI AJ
+5 5 0 0 0
+46 10 325 P
+A
+12 15  
+A
+13 20  
+A
+18 1  
+A
+19 1  
+A
+20 5  
+#18106
+flail wonders~
+the Flail of Wonders~
+A glowing flail is on the floor.~
+oldstyle~
+weapon ABI AN
+flail 6 6 slash C
+46 60 350 P
+A
+18 3  
+A
+19 2  
+#18107
+robes sacred~
+sacred burial robes~
+Sacred burial robes are lying on the floor.~
+oldstyle~
+clothing GMU AK
+AB AB AB AB 0
+37 30 275 P
+A
+13 30  
+#18108
+club undead~
+the club of the undead~
+A life draining club is on the floor.~
+oldstyle~
+weapon 0 ANY
+mace 5 7 slice C
+44 100 325 P
+E
+club undead~
+This large club seems rather weak now, but you could awaken
+its full power by inserting a brain stone into the handle. The self-aware
+club would become the 'star strike tetsubo club'.
+ 
+Good luck!
+~
+#18109
+cape covenant~
+the cape of the covenant~
+A white cape emits a strange halo.~
+oldstyle~
+clothing KL AC
+AB C D A 0
+32 30 450 P
+A
+5 2  
+A
+12 15  
+A
+13 -5  
+#18110
+shoes monarchy~
+shoes of monarchy~
+Regal looking shoes are on the floor.~
+oldstyle~
+clothing A AG
+C C C AB 0
+40 40 320 P
+A
+12 5  
+A
+13 10  
+A
+18 1  
+A
+19 2  
+#18111
+scarf gypsy~
+the scarf of a gypsy~
+A scarf adorned with tarot signs is on the floor.~
+oldstyle~
+clothing GU AC
+AB AB AB C 0
+31 10 225 P
+A
+18 1  
+A
+19 1  
+#18112
+ice pick~
+an ice pick~
+An ice pick is on the floor.~
+oldstyle~
+weapon HM AN
+dagger 5 7 pierce E
+49 20 700 P
+A
+19 5  
+A
+20 3  
+#18113
+whip deceit~
+the whip of deceit~
+A weird looking rope has been discarded here.~
+oldstyle~
+weapon J AN
+whip 6 6 whip G
+46 30 600 P
+A
+13 10  
+#18114
+bone fragment piece~
+a bone fragment~
+A piece of bone is lying on the floor.~
+oldstyle~
+trash HMU AOY
+0 0 0 0 0
+37 10 0 P
+A
+12 -10  
+A
+17 -5  
+A
+18 -3  
+A
+19 -3  
+#18115
+tail gremishka~
+the tail of a gremishka~
+A tail has been ripped off of a strange creature.~
+oldstyle~
+weapon I AN
+whip 6 5 pound H
+39 120 425 P
+A
+13 10  
+A
+20 -6  
+#18116
+globe radiating~
+a radiating globe~
+A strange globe glows on the ground.~
+oldstyle~
+light ABU A
+0 0 999 0 0
+30 30 250 P
+A
+12 10  
+A
+13 10  
+A
+18 3  
+#18117
+decaying linen~
+decaying linen~
+A strand of linen from a mummy's tomb is on the floor.~
+oldstyle~
+clothing KU AE
+C ABC C AB 0
+47 10 375 P
+A
+1 2  
+A
+4 -1  
+A
+13 10  
+#18118
+ancient jewel~
+an ancient jewel~
+A long forgotten sacred jewel is on the floor.~
+oldstyle~
+gem 0 AO
+0 0 0 0 0
+0 10 1200 P
+#18119
+dagger ceremonial~
+a ceremonial dagger~
+A ceremonial dagger oozes blood on the floor.~
+oldstyle~
+weapon FG ANY
+dagger 6 6 stab AB
+48 20 450 P
+A
+19 5  
+#18120
+spear sacrificial~
+a sacrificial spear~
+A blood stained spear is leaning against the wall.~
+oldstyle~
+weapon ABI AN
+exotic 4 6 pierce C
+32 80 1250 P
+#18121
+death cloak~
+the cloak of death~
+A black cloak has been discarded here.~
+oldstyle~
+clothing ABJLU AC
+A AB AB C 0
+44 120 2500 P
+A
+4 -2  
+A
+17 -5  
+A
+19 1  
+#18122
+wand salk~
+the Salk wand~
+A wand adorned with a red crescent is on the floor.~
+oldstyle~
+wand G AO
+30 3 3 'cure disease' 0
+20 30 3500 P
+#18123
+mister freeze~
+a blue flavored Mr. freeze~
+A frozen mister freeze is melting on the floor.~
+oldstyle~
+wand 0 AO
+20 5 5 'frost breath' 0
+15 10 850 P
+#18124
+voodoo chicken~
+a voodoo chicken foot~
+A chicken foot is on the floor.~
+oldstyle~
+wand 0 AO
+40 3 3 'call creature' 0
+30 10 10000 P
+#18125
+armourer manual~
+an armorer's manual~
+An apprentice dropped a book here.~
+oldstyle~
+scroll 0 AO
+40 'enchant armor' '(null)' '(null)' '(null)'
+20 10 6000 P
+#18126
+kaleidoscopic stone~
+a kaleidoscopic stone~
+A kaleidoscopic stone is on the floor.~
+oldstyle~
+gem AB AQ
+0 0 0 0 0
+40 10 1500 P
+A
+2 2  
+A
+12 15  
+#18127
+hand puppet~
+a hand puppet~
+A hand puppet has been discarded here.~
+oldstyle~
+wand 0 AO
+35 3 3 'heal' 0
+35 10 2000 P
+#18128
+pill miracle max~
+a chocolate coated pill from Miracle Max~
+A chocolate coated pill inscribed "he's only mostly dead" is in the floor.~
+oldstyle~
+pill 0 A
+40 'heal' '(null)' '(null)' '(null)'
+35 1 8000 P
+#18129
+president choice~
+The President's Choice~
+A weapon marked "President's Choice" is on the floor.~
+oldstyle~
+weapon 0 0
+exotic 100 100 blast ABCDEFGH
+55 10 10 P
+#18130
+tomb key~
+a tomb key~
+An ancient key lies on the floor.~
+oldstyle~
+key AP AO
+0 0 0 0 0
+1 10 0 P
+#18131
+can jolt cola~
+a can of Jolt! cola~
+A can of Jolt! cola is on the floor.~
+glass~
+potion 0 AO
+25 'heal' 'frenzy' 'blur' 'reserved'
+0 0 0 P
+#18132
+cheezy poofs~
+Cheezy Poofs!~
+Some Cheezy Poofs are on the ground.~
+glass~
+pill T AO
+25 'heal' 'frenzy' 'blur' 'reserved'
+0 0 0 P
+#18133
+winter orb~
+a winter orb~
+A winter orb is on the ground.~
+wood~
+orb 0 AO
+AC AC 0 0 0
+0 10 1000 P
+#0
+
+
+
+#ROOMS
+#18101
+On The Water~
+As you sail further and further from the main land you see more and more 
+fog. The air is filled with the stench of decomposed flesh.
+~
+0 0 6
+D1
+to the East you see more water
+~
+east~
+0 -1 18102
+D3
+~
+~
+0 -1 9789
+S
+#18102
+The Aquatic Fork~
+You are sailing on a sea of fog. The current seems to drag you further 
+East. A small cave opening appears to the North.
+~
+0 0 6
+D0
+to the North you see a sea cave
+~
+north~
+0 -1 18103
+D1
+to the East you see more water
+~
+east~
+0 -1 18110
+D3
+to the West you see more water
+~
+west~
+0 -1 18101
+S
+#18103
+The Entrance To The Sea Cave~
+You have entered a cave with dimly lit walls. It seems that the moss 
+covering the cave gently glows in the dark.
+~
+0 8 12
+D0
+to the North you see further in the cave
+~
+north~
+0 -1 18104
+D2
+to the South you see more water
+~
+south~
+0 -1 18102
+S
+#18104
+The Sea Cave~
+You are exploring the sea cave. More and more you feel like this place 
+could be the lair of some kind of beast.
+~
+0 8 12
+D0
+to the North you see more of the sea cave
+~
+north~
+0 -1 18105
+D2
+to the South you see the cave
+~
+south~
+0 -1 18103
+S
+#18105
+The Sea Cave~
+This cave does not seem to have an end. Small puddles of water are on the 
+ground. Various bacteria infect the water making it poisonous.
+~
+0 8 12
+D1
+to the East you see further in the cave
+~
+east~
+0 -1 18106
+D2
+to the South you see the cave
+~
+south~
+0 -1 18104
+S
+#18106
+The Sea Cave~
+You are exploring further in the cave. You finally start hearing faint 
+noises coming from the North. Unfortunately, these sounds do not appear 
+friendly...
+~
+0 8 12
+D0
+to the North you see the cave
+~
+north~
+0 -1 18107
+D3
+to the West you see the cave
+~
+west~
+0 -1 18105
+S
+#18107
+The Sea Cave~
+You are definitely on the trail of something. Grunting noises are coming 
+from the West while the sea cave walls appear to emit more and more light.
+~
+0 8 12
+D2
+to the South you see the cave
+~
+south~
+0 -1 18106
+D3
+to the West you see the cave
+~
+west~
+0 -1 18108
+S
+#18108
+The Sea Cave~
+You are almost at the end of the cave. There is a corridor going West 
+which leads to the source of all this noise. You wonder if it isn't too 
+late for you to turn back.
+~
+0 8 12
+D1
+to the East you see the cave
+~
+east~
+0 -1 18107
+D3
+to the West you see the lair of the sea spawn
+~
+west~
+0 -1 18109
+S
+#18109
+The Lair Of The Sea Spawn~
+You have entered the lair of the sea spawn. Foul smells of rotten flesh 
+fill the air. A collection of skulls of various creatures lies on a shelf.
+~
+0 8 12
+D1
+to the East you see the cave
+~
+east~
+0 -1 18108
+S
+#18110
+The Shore of the Island~
+You are navigating towards the shores of the Island of Terror. Smelly mist 
+emerges from the water while unattractive aquatic fauna lurks at you from 
+beneath the waters.
+~
+0 0 6
+D1
+to the East you see the island of terror
+~
+east shore~
+0 -1 18111
+D3
+to the West you see water
+~
+west~
+0 -1 18102
+S
+#18111
+The Bloody Shores~
+You are standing on the shores of the Island of Terror.  Blood gushes from 
+the sand as you walk on the beach.  To the east you see a large granite 
+structure.
+~
+0 0 0
+D0
+to the North you see more sand
+~
+north~
+0 -1 18121
+D1
+to the East you see a narrow passage
+~
+east~
+0 -1 18112
+D2
+to the South you see more sand
+~
+south~
+0 -1 18124
+D3
+to the West you see water
+~
+west~
+0 -1 18110
+S
+#18112
+Western Deathway~
+You are walking along the western deathway.  Cobble stones pave the way 
+between the shores of the island and the stone temple.
+~
+0 0 0
+D1
+to the East you see a stone temple
+~
+east~
+0 -1 18113
+D3
+to the West you see the shore
+~
+west~
+0 -1 18111
+S
+#18113
+The Stone Temple~
+Ancient stone structures surround you. Various ancient rituals have been 
+performed here. Now, only these forgotten structures remain. At the exact 
+center point of the room is a hole of some sort leading under the temple.
+~
+0 0 0
+D0
+to the North you see Northern Deathway
+~
+north~
+0 -1 18122
+D1
+to the East you see Eastern Deathway
+~
+east~
+0 -1 18114
+D2
+to the South you see Southern Deathway
+~
+south~
+0 -1 18125
+D3
+to the West you see Western Deathway
+~
+west~
+0 -1 18112
+D5
+looking Down you see down the hole
+~
+down~
+0 -1 18132
+X midi/calyp1gs.mid~
+S
+#18114
+Eastern Deathway~
+You are walking along the eastern deathway.  Cobble stones pave the way 
+between the shores of the island and the stone temple.
+~
+0 0 0
+D1
+to the East you see the shore
+~
+east~
+0 -1 18115
+D3
+to the West you see the stone temple
+~
+west~
+0 -1 18113
+S
+#18115
+The Eastern Shore~
+You are on the eastern shore of the Island of Terror. Sand sifts through 
+your toes while waves crash towards you. You feel that future adventures 
+may someday lie in that direction.
+~
+0 0 0
+D0
+to the North you see the shore
+~
+north~
+0 -1 18123
+D2
+to the South you see the shore
+~
+south~
+0 -1 18126
+D3
+to the West you see Eastern Deathway
+~
+west~
+0 -1 18114
+S
+#18116
+The Northwest Quadrant~
+You are standing at the North West corner of the island of terror.
+Nauseous gases emanate from the waves licking the shore.  You feel the
+water is uninviting and decide against going for a swim.  You notice a path
+that leads north towards an old chateau.
+~
+0 0 0
+D0
+~
+~
+0 0 4900
+D1
+to the East you see the shore
+~
+east~
+0 -1 18117
+D2
+to the South you see the shore
+~
+south~
+0 -1 18121
+S
+#18117
+The Northern Shore~
+You are on the northern shore of the Island of Terror. Sand sifts through 
+your toes while waves crash towards you. You feel that future adventures 
+may someday lie in that direction.
+~
+0 0 0
+D1
+to the East you see the shore
+~
+east~
+0 -1 18118
+D3
+to the West you see the north west quadrant
+~
+west~
+0 -1 18116
+S
+#18118
+The Northern Shore~
+You are walking further along the northern shore. To the south you see a 
+large stone temple, while more sand lies to the east and west.
+~
+0 0 0
+D1
+to the East you see sand
+~
+east~
+0 -1 18119
+D2
+to the South you see Northern Deathway
+~
+south~
+0 -1 18122
+D3
+to the West you see sand
+~
+west~
+0 -1 18117
+S
+#18119
+The Northern Shore~
+You feel there is no end to all this sand. A rock face blocks the 
+southward direction while to the north, the raging sea spews waves at you.
+~
+0 0 0
+D1
+to the East you see the north east quadrant
+~
+east~
+0 -1 18120
+D3
+to the West you see sand
+~
+west~
+0 -1 18118
+S
+#18120
+The Northeast Quadrant~
+You are standing at the North East corner of the island of terror. 
+Nauseous gases emanate from the waves licking the shore. You feel the 
+water is uninviting and decide against going for a swim.
+~
+0 0 0
+D2
+to the South you see a shore
+~
+south~
+0 -1 18123
+D3
+to the West you see the shore
+~
+west~
+0 -1 18119
+S
+#18121
+The Western Shore~
+You are walking on a bloody beach. Carcasses of dead aquatic fauna litter 
+the sand. Putrid smelling waves crash onto the beach. More sand leads to 
+the North and South.
+~
+0 0 0
+D0
+to the North you see the north west quadrant
+~
+north~
+0 -1 18116
+D2
+to the South you see more sand
+~
+south~
+0 -1 18111
+S
+#18122
+The Northern Deathway~
+You are walking along the northern deathway.  Cobble stones pave the way 
+between the shores of the island and the stone temple.
+~
+0 0 0
+D0
+to the North you see sand
+~
+north~
+0 -1 18118
+D2
+to the South you see the stone temple
+~
+south~
+0 -1 18113
+S
+#18123
+The Eastern Shore~
+You are walking on a bloody beach. Carcasses of dead aquatic fauna litter 
+the sand. Putrid smelling waves crash onto the beach. More sand leads to 
+the North and South.
+~
+0 0 0
+D0
+to the North you see the north east quadrant
+~
+north~
+0 -1 18120
+D2
+to the South you see sand
+~
+south~
+0 -1 18115
+S
+#18124
+The Western Shore~
+You are walking on a bloody beach. Carcasses of dead aquatic fauna litter 
+the sand. Putrid smelling waves crash onto the beach. More sand leads to 
+the North and South.
+~
+0 0 0
+D0
+to the North you see sand
+~
+north~
+0 -1 18111
+D2
+to the South you see the south west quadrant
+~
+south~
+0 -1 18127
+S
+#18125
+The Southern Deathway~
+You are walking along the southern deathway.  Cobble stones pave the way 
+between the shores of the island and the stone temple.
+~
+0 0 0
+D0
+to the North you see the stone temple
+~
+north~
+0 -1 18113
+D2
+to the South you see sand
+~
+south~
+0 -1 18129
+S
+#18126
+The Eastern Shore~
+You are walking on a bloody beach. Carcasses of dead aquatic fauna litter 
+the sand. Putrid smelling waves crash onto the beach. More sand leads to 
+the North and South.
+~
+0 0 0
+D0
+to the North you see sand
+~
+north~
+0 -1 18115
+D2
+to the South you see the south east quadrant
+~
+south~
+0 -1 18131
+S
+#18127
+The Southwest Quadrant~
+You are standing at the South West corner of the island of terror. 
+Nauseous gases emanate from the waves licking the shore. You feel the 
+water is uninviting and decide against going for a swim.
+~
+0 0 0
+D0
+to the North you see sand
+~
+north~
+0 -1 18124
+D1
+to the East you see sand
+~
+east~
+0 -1 18128
+S
+#18128
+The Southern Shore~
+You feel there is no end to all this sand. A rock face blocks the 
+northward direction while to the south, the raging sea spews waves at you.
+~
+0 0 0
+D1
+to the East you see sand
+~
+east~
+0 -1 18129
+D3
+to the West you see the south west quadrant
+~
+west~
+0 -1 18127
+S
+#18129
+The Southern Shore~
+You are walking further along the southern shore. To the north you see a 
+large stone temple, while more sand lies to the east and west.
+~
+0 0 0
+D0
+to the North you see southern deathway
+~
+north~
+0 -1 18125
+D1
+to the East you see sand
+~
+east~
+0 -1 18130
+D3
+to the West you see sand
+~
+west~
+0 -1 18128
+S
+#18130
+The Southern Shore~
+You feel there is no end to all this sand. A rock face blocks the 
+northward direction while to the south, the raging sea spews waves at you.
+~
+0 0 0
+D1
+to the East you see the south east quadrant
+~
+east~
+0 -1 18131
+D3
+to the West you see sand
+~
+west~
+0 -1 18129
+S
+#18131
+The Southeast Quadrant~
+You are standing at the South East corner of the island of terror. 
+Nauseous gases emanate from the waves licking the shore. You feel the 
+water is uninviting and decide against going for a swim.
+~
+0 0 0
+D0
+to the North you see sand
+~
+north~
+0 -1 18126
+D3
+to the West you see sand
+~
+west~
+0 -1 18130
+S
+#18132
+The Gate to Kantor~
+You are standing at the bottom of the entrance. The soft clay does not 
+allow you to climb back up. Thankfully, the gate to the city of Kantor 
+lies to the South. Do you have the key?.
+~
+0 8 0
+D2
+to the South you see a gate
+~
+south door gate~
+1 18101 18134
+S
+#18133
+The Dead End~
+You are at a dead end. High walls surround you while glowing eyes peer at 
+you from small windows. You think to yourself that this is the perfect 
+place for an ambush.
+~
+0 8 0
+D1
+to the East you see the entrance
+~
+east~
+0 -1 18134
+S
+#18134
+The Entrance to Kantor~
+You are standing at the entrance of the underground city of Kantor. Local 
+cave dwellers busy themselves about not paying much attention to you.
+~
+0 8 0
+D0
+to the North you see a gate
+~
+north~
+0 -1 18132
+D1
+to the East you see Kanja Road
+~
+east~
+0 -1 18135
+D3
+to the West you see a dead end
+~
+west~
+0 -1 18133
+S
+#18135
+Kimpa Way~
+You are walking along Kimpa Way, the busiest street of Kantor. Local 
+villagers are starting to pay attention to your presence. Kantorian 
+knights patrol the streets looking for signs of trouble.
+~
+0 8 0
+D1
+to the East you see a road
+~
+east~
+0 -1 18136
+D3
+to the West you see a road
+~
+west~
+0 -1 18134
+S
+#18136
+Kimpa Way~
+As you walk further along Kimpa way, you notice that the villagers now 
+avoid you inconspicuously. You don't feel in any danger at this time but 
+definitely feel that the level of tension has risen.
+~
+0 262144 0
+D1
+to the East you see Kimpa-Noona
+~
+east~
+0 -1 18137
+D3
+to the West you see a road
+~
+west~
+0 -1 18135
+S
+#18137
+Kimpa-Noona~
+This seems to be the busiest place in town. After all, Kimpa-Noona in 
+Kantorian mean "busy street". To the North you see a small shop while a 
+house lies to the South.
+~
+0 8 0
+D0
+to the North you see a shop
+~
+north~
+0 -1 18207
+D1
+to the East you see a road
+~
+east~
+0 -1 18140
+D2
+to the South you see a house
+~
+south~
+0 -1 18145
+D3
+to the West you see a road
+~
+west~
+0 -1 18136
+S
+#18140
+Kimpa Road~
+Kimpa Road continues along in an eastern direction towards a large 
+structure. Many knights roam this area for it is the Imperial Palace or 
+Kantor. Perhaps someone there can help you in your journey. Large doors 
+stand between you and the palace.
+~
+0 8 0
+D1
+to the East you see the palace
+~
+east gate door~
+1 -1 18141
+D3
+to the West you see Kimpa-Noona
+~
+west~
+0 -1 18137
+S
+#18141
+The Palace Ballroom~
+You are standing in a room filled with luxurious paintings and expensive 
+vases. Unfortunately for you, they have been nailed to the furniture which 
+in turn has been nailed to the floor. Exits lead in all directions.
+~
+0 8 0
+D0
+to the North you see a gazebo
+~
+north~
+0 -1 18143
+D1
+to the East you see the throne room
+~
+east~
+0 -1 18142
+D2
+to the South you see a study
+~
+south~
+0 -1 18144
+D3
+to the West you see the entrance
+~
+west~
+1 -1 18140
+S
+#18142
+The Throne Room~
+You are standing in the throne room of Prince Othmar, ruler of Kantor. 
+Although his empire is small, prince Othmar deserves respect. Should you 
+not show some respect, Prince Othmar will teach you some...
+~
+0 8 0
+D3
+to the West you see the ballroom
+~
+west~
+0 -1 18141
+S
+#18143
+The Gazebo~
+A grandiose gazebo extends outwards from the palace. Plants and flowers 
+adorn the hand rails bordering the gazebo. This is the private refuge of 
+Prince Othmar.
+~
+0 8 0
+D2
+to the South you see the ballroom
+~
+south~
+0 -1 18141
+S
+#18144
+The Study~
+This room brings back bad memories to Prince Othmar. The Prince's late 
+wife, Princess Peacock, was murdered in this room by the Colonel Mustard 
+with a Candlestick.
+~
+0 520 0
+D0
+to the North you see the ballroom
+~
+north~
+0 -1 18141
+S
+#18145
+The Municipal Arboretum~
+Flowers trees and plants thrive here. Colorful birds fly from tree to tree 
+in a concert of sounds. You are amazed that such a flora can grow from 
+beneath the earth. A large tree dominates the view. A large hole has been 
+carved in the tree.
+~
+0 8 0
+D0
+to the North you see Kimpa-Noona
+~
+north~
+0 -1 18137
+D2
+to the South you see inside the tree
+~
+south hole tree~
+1 -1 18146
+S
+#18146
+Inside the Tree~
+You are standing inside the large tree. You have precariously placed your 
+feet on a small ledge carved on the interior wall of the tree's bark. Upon 
+looking at the ledge, you notice that a long ladder has been carved down 
+the tree's roots.
+~
+0 9 0
+D0
+to the North you see the arboretum
+~
+north~
+1 -1 18145
+D5
+looking Down you see darkness
+~
+down~
+0 -1 18147
+S
+#18147
+The Bottom of the Tree~
+You are at the bottom of the tree ladder. Looking up you can hear some 
+Kantorian chants while all around you, Briarweed forest envelops the 
+horizon.
+~
+0 0 3
+D2
+to the South you see the forest
+~
+south~
+0 -1 18150
+D4
+looking Up you see Kantor
+~
+up~
+0 -1 18146
+S
+#18148
+The Broken Path~
+The beaten path seems to end here. Musty smells of hickory are coming from 
+the north. Unfortunately, your only option lies east.
+~
+0 0 3
+D1
+to the East you see a path
+~
+east~
+0 -1 18149
+S
+#18149
+A Fork in the Path~
+A decision lies ahead of you. The beaten path continues to the east and 
+west, while a dimly lit path branches to the south. You hear Latin chants 
+and the crackle of a fireplace nearby.
+~
+0 0 3
+D1
+to the East you see a path
+~
+east~
+0 -1 18150
+D2
+to the South you don't see much
+~
+south~
+0 -1 18152
+D3
+to the West you see a path
+~
+west~
+0 -1 18148
+S
+#18150
+The Northern Path~
+A beaten path stands before you. The path extends east and west while the 
+tree ladder stands to the north. Little furry critters walk along the path 
+wondering what kind of creature you are.
+~
+0 0 3
+D0
+to the North you see the tree ladder
+~
+north~
+0 -1 18147
+D1
+to the East you see a path
+~
+east~
+0 -1 18151
+D3
+to the West you see a path
+~
+west~
+0 -1 18149
+S
+#18151
+Briarweed Corner~
+The beaten path in Briarweed forest bends from west to south. From this 
+vantage point you can hear these chants better and better. Perhaps you 
+should go check it out.
+~
+0 0 3
+D2
+to the South you see a path
+~
+south~
+0 -1 18153
+D3
+to the West you see a path
+~
+west~
+0 -1 18150
+S
+#18152
+Through the Woods~
+You slowly progress through the tick vegetation. You wish you had brought 
+a machete for this trip. The chants to the south are growing louder and 
+louder...
+~
+0 0 3
+D0
+to the North you see a path
+~
+north~
+0 -1 18149
+D2
+to the South you see nothing
+~
+south~
+0 -1 18154
+S
+#18153
+More Woods~
+You slowly progress through the tick vegetation. You wish you had brought 
+a machete for this trip. The chants to the south are growing louder and 
+louder...
+~
+0 0 3
+D0
+to the North you see a path
+~
+north~
+0 -1 18151
+D2
+to the South you see more woods
+~
+south~
+0 -1 18156
+S
+#18154
+A Clearing in the Woods~
+You are coming into a clearing in the woods. Sharp vines still scratch you 
+as you walk through the vegetation. The Latin chants grow more and more 
+intense as you walk in the Southern direction.
+~
+0 0 3
+D0
+to the North you see more woods
+~
+north~
+0 -1 18152
+D2
+to the South you see a path
+~
+south~
+0 -1 18157
+S
+#18155
+The Latin Chapel~
+You are standing in a small chapel built out of the raw materials provided 
+by the forest. Chezna and her thieves must be good people deep down. 
+Still, you feel something is not right. On the floor you see a praying 
+platform.
+~
+0 8 3
+D2
+to the South you see a camp site
+~
+south~
+0 -1 18158
+D5
+looking Down you don't see much
+~
+down trap door platform~
+1 -1 18161
+S
+#18156
+A Clearing in the Woods~
+You are coming into a clearing in the woods. Sharp vines still scratch you 
+as you walk through the vegetation. The Latin chants grow more and more 
+intense as you walk in the Southern direction.
+~
+0 0 3
+D0
+to the North you see woods
+~
+north~
+0 -1 18153
+D2
+to the South you see a path
+~
+south~
+0 -1 18159
+S
+#18157
+The Western Latin Path~
+As you approach, the chants suddenly stop. Seems like your sneaking skills 
+are not as developed as you wished. All of a sudden, the hunter becomes 
+the hunted. Proceed carefully.
+~
+0 0 3
+D0
+to the North you see a clearing
+~
+north~
+0 -1 18154
+D1
+to the East you see a camp site
+~
+east~
+0 -1 18158
+S
+#18158
+Chezna's Campsite~
+You have barged in on the campsite of thieves. Chezna the head of the 
+thieves orders her men to proceed with the implementation of your demise. 
+In a glimpse of good sense, you consider turning back.
+~
+0 0 0
+D0
+to the North you don't see much
+~
+north~
+0 -1 18155
+D1
+to the East you see a path
+~
+east~
+0 -1 18159
+D2
+~
+~
+0 -1 18160
+D3
+to the West you see a path
+~
+west~
+0 -1 18157
+S
+#18159
+The Eastern Latin Path~
+As you approach, the chants suddenly stop. Seems like your sneaking skills 
+are not as developed as you wished. All of a sudden, the hunter becomes 
+the hunted. Proceed carefully.
+~
+0 0 3
+D0
+to the North you see a clearing
+~
+north~
+0 -1 18156
+D3
+to the West you see a camp site
+~
+west~
+0 -1 18158
+S
+#18160
+A Large Corridor~
+You discover an ancient corridor leading to forgotten tomb of Sachmet. It 
+appears that Chezna and her gang were guarding the entrance so they could 
+steal the ceremonial burial treasure. It is up to you now to defeat 
+Sachmet.
+~
+0 8 2
+D0
+to the North you see a camp site
+~
+north~
+0 -1 18158
+D4
+looking Up you see a long corridor
+~
+up~
+0 -1 18205
+S
+#18161
+The Loot~
+You thought so. Chezna and her gang could not have been saints. You have 
+discovered the thieves' cache! A mountain of treasure and weapons fill the 
+room. You think to yourself that for once in your life you feel greedy and 
+selfish...
+~
+0 524809 2
+D4
+looking Up you see a chapel
+~
+up~
+0 -1 18155
+S
+#18162
+The End of Highway to Hell~
+You are at the end of Highway to Hell. You feel cheated to have to come 
+back. Perhaps an adventure lies elsewhere. But wait! are those foot steps 
+you hear coming from behind you?.
+~
+0 8 0
+D2
+to the South you see a highway
+~
+south~
+0 -1 18163
+S
+#18163
+The Highway to Hell~
+You are walking along the Highway to Hell. Dust and dirt attack your 
+nostrils as you walk in these deserted hallways. You hear howls coming 
+from all directions but are not sure if you should be afraid. Perhaps you 
+should.
+~
+0 8 0
+D0
+to the North you see a highway
+~
+north~
+0 -1 18162
+D2
+to the South you see a highway
+~
+south~
+0 -1 18164
+S
+#18164
+The Highway to Hell~
+You are walking along the Highway to Hell. The howling becomes more and 
+more intense as you approach the southward direction. Your concerns now 
+turn to fear as you hear your name uttered through the howling.
+~
+0 8 0
+D0
+to the North you see a highway
+~
+north~
+0 -1 18163
+D2
+to the South you see a highway
+~
+south~
+0 -1 18165
+S
+#18165
+The Highway to Hell~
+You are walking along the Highway to Hell. The never ending howling now 
+overpowers your brain. You can't seem to concentrate enough to to realize 
+that you are in big trouble.
+~
+0 8 0
+D0
+to the North you see a highway
+~
+north~
+0 -1 18164
+D2
+to the South you see a highway
+~
+south~
+0 -1 18167
+S
+#18166
+Cul-De-Sac~
+You are at a dead end. After carefully examining the walls you realize 
+that you really have no where else to go but East. Perhaps the engineers 
+that built this tomb were more resourceful than you imagined.
+~
+0 8 0
+D1
+to the East you see a path
+~
+east~
+0 -1 18167
+S
+#18167
+Check Point Charlie~
+You are facing yet another decision. The path runs East and West while to 
+the North lies the infamous Highway to Hell. No one has ever returned to 
+tell what lies at the end of the highway.
+~
+0 8 0
+D0
+to the North you see a highway
+~
+north~
+0 -1 18165
+D1
+to the East you see a path
+~
+east~
+0 -1 18168
+D3
+to the West you see a path
+~
+west~
+0 -1 18166
+S
+#18168
+The Path to Glory~
+You are walking along a path carved out of solid rock. You can't help but 
+wonder how the engineers of Sachmet could have constructed such a place.
+~
+0 8 0
+D1
+to the East you see a path
+~
+east~
+0 -1 18169
+D3
+to the West you see a path
+~
+west~
+0 -1 18167
+S
+#18169
+The Path to Glory~
+You are walking along a path carved out of solid rock. The path continues 
+East and West while a strange structure lies to the South.
+~
+0 8 0
+D1
+to the East you see a path
+~
+east~
+0 -1 18186
+D2
+to the South you see the Colimacon
+~
+south~
+0 -1 18170
+D3
+to the West you see a path
+~
+west~
+0 -1 18168
+S
+#18170
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D0
+to the North you see a path
+~
+north~
+0 -1 18169
+D2
+to the South you see the Colimacon
+~
+south~
+0 -1 18171
+S
+#18171
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D0
+to the North you see the Colimacon
+~
+north~
+0 -1 18170
+D2
+to the South you see the Colimacon
+~
+south~
+0 -1 18172
+S
+#18172
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D0
+to the North you see the Colimacon
+~
+north~
+0 -1 18171
+D2
+to the South you see the Colimacon
+~
+south~
+0 -1 18173
+S
+#18173
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D0
+to the North you see the Colimacon
+~
+north~
+0 -1 18172
+D2
+to the South you see the Colimacon
+~
+south~
+0 -1 18171
+D3
+to the West you see the Colimacon
+~
+west~
+0 -1 18174
+S
+#18174
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D1
+to the East you see the Colimacon
+~
+east~
+0 -1 18173
+D3
+to the West you see the Colimacon
+~
+west~
+0 -1 18175
+S
+#18175
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D1
+to the East you see the Colimacon
+~
+east~
+0 -1 18174
+D2
+to the South you see the Colimacon
+~
+south~
+0 -1 18181
+D3
+to the West you see the Colimacon
+~
+west~
+0 -1 18176
+S
+#18176
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D0
+to the North you see the Colimacon
+~
+north~
+0 -1 18177
+D1
+to the East you see the Colimacon
+~
+east~
+0 -1 18175
+D3
+to the West you see the Colimacon
+~
+west~
+0 -1 18174
+S
+#18177
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D0
+to the North you see the Colimacon
+~
+north~
+0 -1 18178
+D2
+to the South you see the Colimacon
+~
+south~
+0 -1 18176
+S
+#18178
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D0
+to the North you see the Colimacon
+~
+north~
+0 -1 18179
+D2
+to the South you see the Colimacon
+~
+south~
+0 -1 18177
+S
+#18179
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D1
+to the East you see the Colimacon
+~
+east~
+0 -1 18180
+D2
+to the South you see the Colimacon
+~
+south~
+0 -1 18178
+D3
+to the West you see the Colimacon
+~
+west~
+0 -1 18175
+S
+#18180
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D1
+to the East you see the Colimacon
+~
+east~
+0 -1 18181
+D3
+to the West you see the Colimacon
+~
+west~
+0 -1 18179
+S
+#18181
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D1
+to the East you see the Colimacon
+~
+east~
+0 -1 18180
+D2
+to the South you see the Colimacon
+~
+south~
+0 -1 18182
+D3
+to the West you see the Colimacon
+~
+west~
+0 -1 18180
+S
+#18182
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D0
+to the North you see the Colimacon
+~
+north~
+0 -1 18181
+D2
+to the South you see the Colimacon
+~
+south~
+0 -1 18183
+S
+#18183
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D0
+to the North you see the Colimacon
+~
+north~
+0 -1 18182
+D3
+to the West you see the Colimacon
+~
+west~
+0 -1 18184
+S
+#18184
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D0
+to the North you see the Colimacon
+~
+north~
+0 -1 18185
+D1
+to the East you see the Colimacon
+~
+east~
+0 -1 18183
+S
+#18185
+The Colimacon~
+You are in a strange structure which resembles the interior of a snail's 
+shell. From the shape of the walls, you can't seem to determine where you 
+are. It seems you are lost my friend. Welcome to the Colimacon.
+~
+0 8 0
+D2
+to the South you see the Colimacon
+~
+south~
+0 -1 18184
+S
+#18186
+The Path to Glory~
+The path of glory extends east to west leading to a misty swirl. A strange 
+room lies to the North. From this vantage point, you cannot find anything 
+particular to the room. Perhaps you should investigate.
+~
+0 8 0
+D0
+to the North you see a room
+~
+north~
+0 -1 18187
+D1
+to the East you see a path
+~
+east~
+0 -1 18188
+D3
+to the West you see a path
+~
+west~
+0 -1 18169
+S
+#18187
+The Room~
+You have entered The Room. The Room happens to be a universe of its own 
+for no visible structure serves as boundary. Another clever ploy from 
+Sachmet's engineers.
+~
+0 8 0
+D0
+to the North you see The Room
+~
+north~
+0 -1 18187
+D1
+to the East you see The Room
+~
+east~
+0 -1 18187
+D2
+to the South you see The Room
+~
+south~
+0 -1 18187
+D3
+to the West you see The Room
+~
+west~
+0 -1 18187
+D4
+looking Up you see The Room
+~
+up~
+0 -1 18187
+D5
+looking Down you see The Room
+~
+down~
+0 -1 18187
+S
+#18188
+The Path to Glory~
+You are walking along a path carved out of solid rock. You can't help but 
+wonder how the engineers of Sachmet could have constructed such a place.
+~
+0 8 0
+D1
+to the East you see a path
+~
+east~
+0 -1 18189
+D3
+to the West you see a path
+~
+west~
+0 -1 18186
+S
+#18189
+The Path to Glory~
+The path of Glory extends beyond the limit of the imagination. The path 
+branches off to the South towards a possible end to this madness. Will the 
+sarcophagus of Sachmet ever be found?.
+~
+0 8 0
+D1
+to the East you see a path
+~
+east~
+0 -1 18202
+D2
+to the South you see another path
+~
+south~
+0 -1 18190
+D3
+to the West you see a path
+~
+west~
+0 -1 18188
+S
+#18190
+Precision Drive~
+You are walking along a path leading to small ruins. Seems like Sachmet 
+arranged for servants to live in her tomb to take care of her sarcophagus. 
+The ruins used to house these servants. An investigation is in order.
+~
+0 8 0
+D0
+to the North you see a path
+~
+north~
+0 -1 18189
+D2
+to the South you see a turn off point
+~
+south~
+0 -1 18191
+S
+#18191
+The Turn-Off Point~
+You are at a fork in the road. To the East are sports field that were used 
+as recreation to the servants. The path branches off to the East towards 
+Navy Bay.
+~
+0 8 0
+D0
+to the North you see Precision Drive
+~
+north~
+0 -1 18190
+D1
+to the East you see a road
+~
+east~
+0 -1 18201
+D2
+to the South you see the floral gardens
+~
+south~
+0 -1 18192
+S
+#18192
+The Floral Gardens~
+You have entered an area which used to be covered by lush vegetation. 
+Dried up roots are now the only remnants of this marvel of smells and 
+sights.
+~
+0 8 0
+D0
+to the North you see the turning point
+~
+north~
+0 -1 18191
+D3
+to the West you see the commandants house
+~
+west~
+0 -1 18193
+S
+#18193
+The Commandant's House~
+You are standing in front of a glorious house surrounded by a fence made 
+out of thousands of pickets. The man commanding the Tomb guards used to 
+live here.
+~
+0 8 0
+D1
+to the East you see a garden
+~
+east~
+0 -1 18192
+D2
+to the South you see a monument
+~
+south~
+0 -1 18194
+S
+#18194
+The Mark IV~
+A large monument fills the view. A shrine of some sort has been placed 
+here. It does not appear to be part of Sachmet's reign but shows the mark 
+of a religious object. The words Mark IV are inscribed in the monument.
+~
+0 8 0
+D0
+to the North you see a house
+~
+north~
+0 -1 18193
+D1
+to the East you see a guard house
+~
+east~
+0 -1 18195
+S
+#18195
+The Guard House~
+You are standing at a guard post that used to be occupied by Sachmet's 
+guards since this area was deemed to be protected, perhaps you are 
+approaching your goal.
+~
+0 8 0
+D1
+to the East you see an elevator
+~
+east~
+0 -1 18196
+D3
+to the West you see a monument
+~
+west~
+0 -1 18194
+S
+#18196
+The Elevator~
+You have reached another milestone in your journey. A magical elevator 
+stands to the South ready to bring you to the next step of this adventure. 
+Are YOU ready though...
+~
+0 8 0
+D1
+to the East you see a guard post
+~
+east~
+0 -1 18198
+D2
+to the South you see the elevator
+~
+south~
+0 -1 18197
+D3
+to the West you see a guard post
+~
+west~
+0 -1 18195
+S
+#18197
+In The Elevator~
+You are now in the magical elevator. Like other traps in the tomb, the 
+elevator marks a point of no return. You ask yourself if you made the 
+right decision by venturing so foolishly through the elevator.
+~
+0 8 0
+D5
+looking Down you see the tomb site
+~
+down~
+0 -1 18206
+S
+#18198
+The Guard Post~
+You are standing at a guard post that used to be occupied by Sachmet's 
+guards since this area was deemed to be protected, perhaps you are 
+approaching your goal.
+~
+0 8 0
+D0
+to the North you see the marina
+~
+north~
+0 -1 18199
+D3
+to the West you see the elevator
+~
+west~
+0 -1 18196
+S
+#18199
+The Marina~
+Although Sachmet entombed her servants with her, they were allowed to live 
+in luxury. The entire structure included an interior lake with magical 
+winds that could carry small sailboats on recreational journeys.
+~
+0 8 0
+D0
+to the North you see Slow Poke
+~
+north~
+0 -1 18200
+D2
+to the South you see a guard post
+~
+south~
+0 -1 18198
+S
+#18200
+Slow Poke~
+Here is the heart of Sachmet's tomb. A small nuclear reactor leaked its 
+guts here. It would appear that this site used to provide the power 
+necessary to keep alive Sachmet's servants.
+~
+0 8 0
+D2
+to the South you see the marina
+~
+south~
+0 -1 18199
+D3
+to the West you see sports fields
+~
+west~
+0 -1 18201
+S
+#18201
+The Sports Fields~
+Large plains extend to the North. You would not know what these fields 
+were for if it weren't for the goal posts still standing erect. Sachmet's 
+servants must have played competitive sports on these fields.
+~
+0 8 0
+D1
+to the East you see the reactor
+~
+east~
+0 -1 18200
+D3
+to the West you see the turn off
+~
+west~
+0 -1 18191
+S
+#18202
+The Path to Glory~
+The path of Glory extends beyond the limit of the imagination. The path 
+branches off to the North towards a possible end to this madness. Will the 
+sarcophagus of Sachmet ever be found?.
+~
+0 8 0
+D0
+to the North you see a path
+~
+north~
+0 -1 18205
+D1
+to the East you see a path
+~
+east~
+0 -1 18203
+D3
+to the West you see a path
+~
+west~
+0 -1 18189
+S
+#18203
+The Path to Glory~
+You are approaching the end of the path to glory. Will this path lead you 
+to the achievement you desire so much? While you dream of successes to 
+come, you fail to notice that the path grown narrower and narrower.
+~
+0 8 0
+D1
+to the East you see a path
+~
+east~
+0 -1 18204
+D3
+to the West you see a path
+~
+west~
+0 -1 18202
+S
+#18204
+The Glory~
+You are at the end of the path to glory. It would appear that Sachmet's 
+engineers have lured you here to pull you away from the path to Sachmet's 
+sarcophagus. You find yourself wondering where you should have turned.
+~
+0 0 0
+D3
+to the West you see a path
+~
+west~
+0 -1 18203
+S
+#18205
+Dragon Pass~
+A rope bridge stands before you. This unstable obstacle stands between you 
+and the ancient treasure of Sachmet. Shall you proceed onwards or cower 
+back to where you came from?.
+~
+0 8 0
+D2
+to the South you see a path
+~
+south~
+0 -1 18202
+D5
+looking Down you see Briarweed forest
+~
+down~
+0 -1 18160
+S
+#18206
+The Tomb of Sachmet~
+Your journey is at an end. You have reached the tomb of Princess Sachmet. 
+Before you lies an ancient Egyptian sarcophagus. You feel a cold shiver 
+running down you back as you prepare yourself to open this eternal resting 
+place.
+~
+0 12 0
+S
+#18207
+Cadash's Magical Emporium~
+Welcome to the Magical Emporium. Cadash the marketing wizard stands here 
+to sell you advanced magical artifacts. Not all items are worth your time. 
+You must chose wisely.
+~
+0 8 0
+D2
+to the South you see Kimpa way
+~
+south~
+0 -1 18137
+S
+#0
+
+
+
+#SPECIALS
+M 18101 spec_cast_mage Load to: a sea spawn
+M 18105 spec_executioner Load to: a Kantorian knight
+M 18106 spec_cast_cleric Load to: Prince Othmar
+M 18108 spec_breath_fire Load to: the second awakening of Sachmet
+M 18109 spec_thief Load to: Chezna
+M 18115 spec_cast_judge Load to: a gremishka
+M 18116 spec_cast_mage Load to: a rushlight
+M 18117 spec_breath_any Load to: the third awakening of Sachmet
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 18132 2 2
+D 0 18145 2 1
+D 0 18146 0 1
+D 0 18155 5 1
+M 1 18101 1 18104 1
+M 1 18102 3 18109 1
+G 0 18101 0
+M 1 18125 10 18109 1
+E 0 18114 0 16
+M 1 18104 10 18112 1
+G 0 18103 0
+E 0 18104 0 16
+M 1 18104 10 18114 1
+G 0 18103 0
+E 0 18104 0 16
+M 1 18103 10 18116 1
+G 0 18102 0
+M 1 18103 10 18120 1
+G 0 18102 0
+M 1 18104 10 18122 1
+G 0 18103 0
+E 0 18104 0 16
+M 1 18104 10 18125 1
+G 0 18103 0
+E 0 18104 0 16
+M 1 18103 10 18127 1
+G 0 18102 0
+M 1 18103 10 18131 1
+G 0 18102 0
+M 1 18107 10 18136 1
+M 1 18105 10 18142 1
+E 0 18105 0 11
+E 0 18106 0 16
+E 0 18107 0 12
+M 1 18105 10 18142 1
+E 0 18105 0 11
+E 0 18106 0 16
+E 0 18107 0 12
+M 1 18106 10 18142 1
+E 0 18108 0 16
+E 0 18109 0 3
+E 0 18110 0 8
+G 0 18130 0
+M 1 18105 10 18143 1
+E 0 18105 0 11
+E 0 18106 0 16
+E 0 18107 0 12
+M 1 18105 10 18144 1
+E 0 18105 0 11
+E 0 18106 0 16
+E 0 18107 0 12
+M 1 18113 10 18148 1
+M 1 18123 10 18151 1
+M 1 18111 10 18153 1
+M 1 18112 10 18154 1
+M 1 18112 10 18154 1
+M 1 18109 1 18155 1
+E 0 18124 0 17
+E 0 18111 0 3
+M 1 18110 3 18155 3
+M 1 18110 3 18155 3
+M 1 18110 3 18155 3
+M 1 18108 10 18158 1
+O 0 18125 0 18161
+M 1 18114 20 18162 1
+M 1 18114 20 18162 1
+M 1 18114 20 18162 1
+M 1 18114 20 18162 1
+M 1 18114 20 18162 1
+M 1 18114 20 18162 1
+M 1 18114 20 18162 1
+M 1 18114 20 18162 1
+M 1 18114 20 18162 1
+M 1 18114 20 18162 1
+M 1 18125 10 18164 1
+E 0 18114 0 16
+M 1 18116 10 18165 1
+E 0 18116 0 16
+M 1 18121 10 18166 1
+E 0 18120 0 16
+G 0 18122 0
+M 1 18116 10 18169 1
+E 0 18116 0 16
+M 1 18120 10 18176 1
+M 1 18120 10 18183 1
+M 1 18115 10 18185 1
+E 0 18115 0 16
+M 1 18117 5 18191 1
+E 0 18113 0 16
+M 1 18116 10 18193 1
+E 0 18116 0 16
+M 1 18122 20 18194 1
+M 1 18118 5 18197 1
+E 0 18112 0 16
+M 1 18122 20 18198 1
+M 1 18125 10 18200 1
+E 0 18114 0 16
+M 1 18121 10 18200 1
+E 0 18120 0 16
+G 0 18122 0
+M 1 18122 20 18201 1
+M 1 18125 10 18203 1
+E 0 18114 0 16
+M 1 18121 10 18204 1
+E 0 18120 0 16
+G 0 18122 0
+M 1 18119 5 18206 1
+E 0 18117 0 3
+G 0 18118 0
+G 0 18118 0
+G 0 18118 0
+E 0 18119 0 16
+M 1 18126 3 18207 1
+G 0 18121 0
+G 0 18126 0
+S
+
+
+
+#SHOPS
+18126 2 3 4 10 26 130 50 8 22
+0
+
+
+
+#$

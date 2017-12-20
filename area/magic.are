@@ -1,0 +1,608 @@
+#AREADATA
+Name Magic~
+Builders Starcrossed~
+VNUMs 10100 10399
+Credits { ??? } Starx   Realms of Magic~
+Security 1
+Xcontinent 1
+Age 15
+End
+
+
+
+#MOBILES
+#10100
+sad grey donkey ass~
+a sad looking grey ass~
+A sad looking grey donkey rests here in the straw.
+~
+With big watery eyes and a dull expression, this donkey looks quite sad
+and cute all at once.  
+~
+pig~
+AB J -500 0
+34 0 30d10+1100 10d10+100 5d5+10 bite
+-9 -9 -9 0
+IL 0 Q 0
+rest stand either 1600
+AGV ACDEFHJK large flesh
+#10101
+hollow mage wizard ordenon~
+the hollow mage Ordenon~
+The dark magician Ordenon stares at you with hollow eyes.
+~
+Dressed all in grey drab clothing, this man seems to be so devoid of
+meaning that he can only suck it out of others to fill the endless
+hollowness within himself.  But even that relief is only temporary...  He
+will seek new victims soon.  
+~
+human~
+ABR DFV -650 0
+42 0 20d30+1900 10d20+500 5d7+13 punch
+-5 -5 -5 2
+L BP 0 0
+stand stand male 1800
+AHMV ABCDEFGHIJK medium 0
+M death 10101 100~
+M grall 10100 100~
+#10102
+dog faced guardian beast demon~
+a dog-headed guardian beast~
+A dog-headed guardian beasts protects the gates.
+~
+A powerfully muscled body stands nearly seven feet tall, topped by a
+savage looking dog head.  Its eyes gleam with intelligence, but it does not
+seem to be able to speak.  
+~
+deamon~
+AB DFJT -1000 0
+35 0 10d20+1200 1d1+99 4d6+10 pobite
+0 0 0 0
+CFHL B H NS
+stand stand none 2000
+ABGZ ACDEFHJKQVX large 0
+#10103
+embracing male statue perverse~
+embracing male statue~
+A perverse male statue is here, groping about.
+~
+This statue is made of a solid piece of some basaltic stone.  It is
+clearly male, with exagerrated genitals.  It appears to be caught in some
+comprimising situation with the female statue.  
+~
+human~
+AB V -700 0
+40 2 20d20+1900 1d1+99 3d10+15 pound
+-10 -10 -10 -2
+CER 0 0 E
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0
+#10104
+embracing female statue perverse~
+embracing female statue~
+A perverse female statue is here, ambling behind the male one.
+~
+This statue is made of a solid piece of some basaltic stone.  It is
+obviously female, with enlarged genitalia and breasts.  It is quite happily
+engaged in some activity with the male statue.  
+~
+human~
+AB V -700 0
+40 2 20d20+1900 1d1+99 3d10+15 pound
+-10 -10 -10 -2
+CER 0 0 E
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#10100
+trough water~
+a trough of fresh water~
+An old wooden trough is here, filled with water.~
+wood~
+fountain O P
+0 0 'water' 0 0
+0 1000 0 P
+#10101
+hollow dagger~
+the {mHollow{x dagger~
+A dagger hangs here, pulsing with need.~
+metal~
+weapon AGYbc AN
+dagger 8 2 drain C
+26 20 2100 P
+A
+19 3
+A
+5 -2
+#10102
+portal gate void gaping~
+a gaping void~
+A gaping void is here, beckoning you the enter it.~
+paper~
+portal O 0
+0 0 0 10104 0
+0 1 1 P
+#10103
+forged trident~
+a forged trident~
+A six foot long shaft topped by a powerful fork rests here.~
+iron~
+weapon ac AN
+polearm 5 5 impale B
+35 30 3500 P
+A
+18 -2
+A
+19 2
+A
+1 2
+#10104
+dark metal key~
+a key made of dark coloured metal~
+A key made of dark coloured metal sits here.~
+metal~
+key C A
+0 0 0 0 0
+0 5 0 P
+#10105
+chip basaltic stone black~
+a chip of basalt~
+A small chip of black stone lies on the ground.~
+stone~
+armor Y AQ
+6 6 6 3 0
+35 10 500 P
+A
+1 1
+A
+19 1
+#10106
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10107
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10108
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10109
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10110
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10111
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10112
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10113
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10114
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10115
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10116
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10117
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10118
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10119
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10120
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure 0 0
+0 0 0 0 0
+0 1 1 P
+#10121
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10122
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10123
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10124
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10125
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10126
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10127
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure 0 0
+0 0 0 0 0
+0 1 1 P
+#10128
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10129
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#10130
+no name~
+(no short description)~
+(no description)~
+paper~
+treasure WY AP
+0 0 0 0 0
+0 1 1 P
+#0
+
+
+
+#ROOMS
+#10100
+A peaceful meadow~
+The grass here rises well to your waist, but with the bright sun shining
+it doesn't even occur to you that it might conceal some hidden foe.  A
+narrow path winds its way through the field, snaking north towards a small
+cabin of some sort.  You wonder what kind of strange person would live so
+far away from the safety of Shandalar.  
+~
+0 0 2
+D0
+~
+~
+0 0 10101
+S
+#10101
+In front of a cabin~
+As you approach the front of the cabin the mystery only deepens.  The
+windows are covered over with years worth of dust and cobwebs.  A few have
+been smashed in but then boarded up.  You aren't even sure the cabin is
+inhabited.  To the west is a half-collapsed version of some sort of stable
+for animals.  
+~
+0 0 2
+D0
+~
+~
+1 0 10103
+D2
+~
+~
+0 0 10100
+D3
+~
+~
+0 0 10102
+S
+#10102
+Away in a manger...~
+Although from the outside this structure looks practically ruined, the
+inside seems quite comfortable.  Someone seems to take good care of this
+stable, for the smell of animals barely taints the air.  One end of the
+stable is properly secured and soft hay fills it.  The trough before it is
+even filled with fresh water, suggesting at least one animal must make their
+home here.  
+~
+0 513 0
+D1
+~
+~
+0 0 10101
+M 120 H 120
+S
+#10103
+The cabin of infinity~
+Although the cabin door opened easily, as soon as you enter, it slams
+shut behind you, sealing you in!  You sense a powerful magic at work in the
+room here, something you are powerless against!  There is a huge gaping... 
+Void in the ground here.  It glows a strange shade of purple as it seeks to
+draw you into it hungrily.  You turn away for a moment and meet the eyes of
+the cabin's occupant instead...  But they tug at your soul no less
+mercilessly.  
+~
+0 805314564 0
+S
+#10104
+The other side~
+The void hungrily swallows you, pulling you into this strange place.  You
+aren't sure where you are anymore.  You appear to be suspended somewhere above
+the ground, but somehow aren't falling.  Below you spread out you spy an
+unusual plane with several unusual beings wandering around.  
+ 
+~
+0 4 9
+D5
+~
+~
+0 0 10105
+S
+#10105
+Hovering mid-air~
+You descend a little bit lower.  You can see some kind of strange plane
+below you, with twisting pathways extending in various directions.  They
+weave and twine around eachother forming a graceful structure on which the
+inhabitants walk and live.  
+~
+0 4 9
+D4
+~
+~
+0 0 10104
+D5
+~
+~
+0 0 10106
+S
+#10106
+Above the gates~
+As you descend even farther you can see you the gates of some type of
+stronghold below you, along with several oddly shaped guards.  This would
+seem to be the time to prepare yourself to meet the denizens of this place
+and find out their intentions.  
+~
+0 4 9
+D4
+~
+~
+0 0 10105
+D5
+~
+~
+0 0 10107
+S
+#10107
+Gates of the Fortress~
+You finally touch down.  The ground is made of hard tiles which appear to
+be made of some kind of dark metal.  The same metal makes up the heavy gates
+of the fortress to the east.  A pair of strange dog-headed guards stand
+before the gate.  They eye you warily, but say nothing.  You can proceed
+across to the north or west from here if you wish.  
+~
+0 0 4
+D1
+~
+~
+1 10104 10108
+D4
+~
+~
+0 0 10106
+S
+#10108
+Entranceway~
+Just beyond the iron gates lies this chamber.  It extends for some
+distance to the east, dimly lit by guttering torches which line the
+cast-iron walls.  After the bizarre guardians outside, you have no idea what
+strange denizens would live in such a place as this.  
+~
+0 268443648 0
+D1
+~
+~
+0 0 10109
+D3
+~
+~
+1 10104 10107
+S
+#10109
+Foyer~
+From here the dark iron corridors stretch forth like the limbs of some
+mechanical beast.  Two strange statues perch here in the foyer, barely
+humanoid.  Limbs twined around eachother in a perverse embrace, these
+statues make a grating sound as they shuffle around the room slowly in
+search of...  You.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 10110
+D3
+~
+~
+0 0 10108
+S
+#10110
+North Hallway~
+As you wander the iron corridors of the fortress, you can hear the sounds
+of a crowd somewhere ahead of you.  You are curious to see what strange
+event could cause a large crowd to gather here...  Wherever here is.  
+To the south lies the foyer.
+~
+0 268443648 0
+D0
+~
+~
+0 0 10111
+D2
+~
+~
+0 0 10109
+S
+#10111
+North Hallway~
+The iron corridor extends to the north and south of you.  To the north
+you can distinctly hear the sounds of a large crowd, and see a large chamber
+opening up.  
+~
+0 268443648 0
+D2
+~
+~
+0 0 10110
+S
+#0
+
+
+
+#SPECIALS
+M 10101 spec_cast_mage Load to: the hollow mage Ordenon
+S
+
+
+
+#MOBPROGS
+#10101
+say Your soul will yet be mine!!
+~
+#10100
+emote cackles insanely at your arrival.
+say Welcome to my...home. Won't you stay awhile!!!
+~
+#0
+
+#RESETS
+D 0 10101 0 1
+D 0 10107 1 2
+D 0 10108 3 2
+O 0 10100 0 10102
+M 1 10100 1 10102 1
+M 1 10101 1 10103 1
+E 0 10101 0 16
+O 0 10102 0 10103
+M 1 10102 2 10107 2
+E 0 10103 0 16
+M 1 10102 2 10107 2
+E 0 10103 0 16
+G 0 10104 0
+M 1 10103 1 10109 1
+M 1 10104 1 10109 1
+E 0 10105 0 17
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

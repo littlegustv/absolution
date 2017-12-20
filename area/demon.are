@@ -1,0 +1,3183 @@
+#AREADATA
+Name Shackled Demon~
+Builders None~
+VNUMs 19600 19699
+Credits {43 51} Cicada      Shackled Demon~
+Security 9
+Xcontinent 1
+Age 10
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#19600
+torturer~
+the torturer~
+The torturer is here, licking blood off a knife.
+~
+There is nothing the torturer enjoys more than hurting people with blades
+and spells.  There is a long black cloak draped on his rotting dead body and
+he has a huge grin on his face, as he loves to cause more pain 
+~
+red dragon~
+ABF DHJTU 0 0
+53 -3 50d10+6000 1d1+100 6d7+21 slaughter
+-23 -23 -23 -23
+CFK H BEH INS
+stand stand male 4000
+ABHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M grall 19600 20~
+#19601
+Prison guard~
+Prison guard~
+The prison guard is here preforming his duties, even in death.
+~
+~
+green dragon~
+AB JTU 200 0
+53 -3 50d10+6000 1d1+100 6d7+21 skinning
+-23 -23 -23 -23
+0 0 BEL J
+stand stand male 0
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#19602
+drakyre king ghost~
+Drakyre~
+Drakyre, the mighty dragon king, stands before you ready to slay all those who threaten his kingdom.
+~
+Drakyre, the mighty dragon king, stands before you.  Though time has won
+this battle his ghost is just as large, ugly and powerful as he was in life.
+He fights melee or long range with the same quality and was only defeated
+after more then ten men fought him at once.  It would not be smart to
+threaten him.  
+~
+white dragon~
+ABGT DHJLTVZa 200 0
+58 8 50d10+8500 1d1+100 6d10+30 gore
+-28 -28 -28 -28
+ABCDEFHIKN ABPab BCDEIR H
+stand stand male 5000
+ABHMVZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+#19603
+guard ghost dragon~
+a guard~
+The ghost of a dragon guard walks the passageways.
+~
+The ghost of the guard will continue to walk the halls for all eternity
+protecting the kingdom.  He is clearly tired and worn but still prepared to
+fight for his king.  
+~
+blue dragon~
+AGO JTU 200 0
+51 -2 50d10+5000 1d1+100 5d8+15 bite
+-21 -21 -21 -12
+C 0 BEJL IK
+stand stand male 3000
+ABGHMXZc ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#19604
+guard ghost dragon~
+a guard~
+The ghost of a dragon guard walks the passageways.
+~
+The ghost of the guard will continue to walk the halls for all eternity
+protecting the kingdom.  He is clearly tired and worn but still prepared to
+fight for his king.  
+~
+black dragon~
+AGO JTUZ 200 0
+51 -2 50d10+5000 1d1+100 5d8+15 bite
+-21 -21 -21 -12
+C 0 BEJKL IKL
+stand stand male 3000
+ABGHMXZc ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#19605
+guard ghost dragon~
+a guard~
+The ghost of a dragon guard walks the passageways.
+~
+The ghost of the guard will continue to walk the halls for all eternity
+protecting the kingdom.  He is clearly tired and worn but still prepared to
+fight for his king.  
+~
+white dragon~
+AGO JTU 200 0
+51 -2 50d10+5000 1d1+100 5d8+15 bite
+-21 -21 -21 -12
+C 0 BEIJL HIK
+stand stand male 3000
+ABGHMXZc ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#19606
+guard ghost dragon~
+a guard~
+The ghost of a dragon guard walks the passageways.
+~
+The ghost of the guard will continue to walk the halls for all eternity
+protecting the kingdom.  He is clearly tired and worn but still prepared to
+fight for his king.  
+~
+red dragon~
+AGO JTU 200 0
+51 -2 50d10+5000 1d1+100 5d8+15 bite
+-21 -21 -21 -12
+C 0 BEHJL IK
+stand stand male 3000
+ABGHMXZc ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#19607
+vulture~
+a vulture~
+A vulture is here in search of food.
+~
+You can see the bones of this ugly black bird.  He hasn't eaten well
+lately because most of the remains in Shackled Demon have long since been
+cleared out.  
+~
+bat~
+ACG JTVZ 1000 0
+45 -4 25d10+3000 22d9+100 8d4+16 peck
+-15 -15 -15 4
+CEFHNU 0 H NS
+stand stand male 5000
+ABGHMVZ ABCDEFGHIJKPQVX medium 0 the guilds~
+#19608
+hunter~
+a hunter~
+The hunter is here trying to fight his way out.
+~
+This hunter came into shackled demon with a band of fellow hunters, sadly
+they were slaughtered by the demons.  He fights for his life, and his
+freedom, trying to get home alive.  
+~
+human~
+ABF J 400 0
+42 -3 25d10+2250 21d9+100 3d12+14 stab
+-14 -14 -14 4
+DEFNU 0 0 T
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19609
+Skeleton ~
+a living skeleton~
+A skeleton is here, clambering by.
+~
+Clankety clank, dry bones rustle dust filled pathways in search of
+living flesh.
+~
+undead~
+ABC Z 0 0
+48 -4 25d10+3750 1d1+100 6d6+18 none
+-18 -18 -18 -18
+CF B I HNS
+stand stand none 4000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19610
+guard ghost dragon~
+a guard~
+The ghost of a dragon guard walks the passageways.
+~
+The ghost of the guard will continue to walk the halls for all eternity
+protecting the kingdom.  He is clearly tired and worn but still prepared to
+fight for his king.  
+~
+green dragon~
+AGO JTU 200 0
+51 -2 50d10+5000 1d1+100 5d8+15 bite
+-21 -21 -21 -12
+C 0 BEIJL HIJK
+stand stand male 3000
+ABGHMXZc ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#19611
+Drizzt scientist~
+Drizzt~
+The scientist is here, working away.
+~
+Drizzt's hair is long and straggly, his beard messy and untrimmed.  He is
+dressed in a white lab coat.  
+~
+human~
+ABFT V 0 0
+52 -5 50d10+5500 1d1+100 6d7+15 none
+-22 -22 -22 -12
+CFHKMN 0 LR I
+stand stand male 5900
+AGHMVWXYc ABCDEFGHIJKLPQVX giant 0 the guilds~
+#19612
+insane man~
+an insane man~
+An insane man runs around screaming incoherently.
+~
+The man is filthy and has ripped out most of his hair.  His clothes are
+ripped so bad it's surprising that he is still wearing them.  He should be
+put away somewhere. 
+~
+human~
+ABF Pab 200 0
+50 -20 50d10+4500 1d1+100 5d8+19 none
+-20 -20 -20 -11
+BEJNU 0 0 0
+stand stand male 3900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19613
+advisor ghost~
+an advisor~
+The ghost of the advisor is here, waiting.
+~
+Dressed in a long black cloak, the advisor is here waiting patiently for
+the king to call upon his services.  Don't let him see you or he will follow
+his duties and kill you for intruding.  
+~
+blue dragon~
+ABDR HJTUV 400 0
+47 -2 25d10+3500 1d1+100 6d6+17 magic
+-17 -17 -17 -17
+EFHNU 0 BEJ K
+stand stand male 5000
+ABGHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#19614
+small dragon~
+small dragon~
+The ghost of a small baby dragon is here.
+~
+~
+red dragon~
+AB HJTVZ 0 0
+45 -3 25d10+3000 1d1+100 8d4+16 tear
+-15 -15 -15 -15
+CF B BEHI HINS
+stand stand male 0
+ABHMVZ ABCDEFGHIJKLPQUVWX small 0 the guilds~
+#19615
+sorka healer~
+Sorka~
+Sorka is here sorting through her many spells.
+~
+Sorka is very easy on the eyes.  She wanders shackled demon looking for
+adventurers who are in need of healing.  Type 'heal' to see the spells she
+is willing to share with others.  
+~
+human~
+Aa HU 0 0
+45 4 25d10+3000 1d1+100 8d4+16 none
+-15 -15 -15 -15
+0 ABCDa 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19616
+half eaten arm~
+the half eaten arm~
+A half eaten arm is here.
+~
+The arm is alive. But how? Where's the rest of it?!
+~
+giant~
+AT L 100 0
+50 -3 50d10+4500 50d10+4500 5d8+19 scratch
+-20 -20 -20 -20
+CEU a HI HJP
+stand stand none 5000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#19620
+faranath~
+Faranath~
+Faranath, the mother dragon is here.
+~
+Faranath sits here to protect but also to warm all the eggs.  If they
+were threatened she would risk her life to save them.  When they weren't
+threatened she was the sweetest gentlest dragon you could every come across.
+She, like the rest of the kingdom, is dead now, but her ghost continues her
+job.  
+~
+black dragon~
+ABFR HJTZ 400 0
+54 -3 50d10+6500 1d1+100 7d6+22 gore
+-24 -24 -24 -24
+FHU 0 BEK L
+stand stand female 5000
+ABGHMWZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+#19621
+pile guts~
+a pile of guts~
+A pile of guts is here, oozing forth.
+~
+~
+undead~
+A JZ 200 0
+48 -4 25d10+3750 24d9+100 6d6+18 digestion
+-18 -18 -18 3
+CEFHNU B HI HNS
+stand stand none 5000
+ABGHMVZ ABCDEFGHIJK huge 0 the guilds~
+#19650
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19697
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#19600
+Envenomed Spider's Fang~
+CiCaDa's Spider Fang~
+Here lies CiCaDa's Spider Fang~
+silver~
+weapon MPY AN
+dagger 8 13 none P
+54 0 0 P
+A
+18 1  
+A
+18 100  
+#19601
+body kolo~
+Kolo's body~
+The body of Kolo is here, staring blankly.~
+flesh~
+container 0 P
+1000 0 0 1000 0
+50 8000 0 P
+#19602
+Kolo's Journal~
+Kolo's Journal~
+Kolo's Journal lies here.~
+paper~
+treasure 0 A
+0 0 0 0 0
+0 1 0 P
+E
+journal~
+Day 1
+-In just 4 hours I depart for my journey into Shackled Demon, the
+great dragon kingdom.  My purpose is to determine their chain of command and
+how they function so the races of Dominia can come and destroy them.  I feel
+honored that I, a petty thief, was chosen for this act.  
+Day 2 
+-I've been hiding in a dark nook not too far from the entrance, yet to be
+caught. I've seen many dragons march by, always on guard, though I've 
+noticed they don't speak much.  
+Day 3 -Now, deep inside, I've discovered that they are plotting
+to take over Dominia and kill anyone that gets in their way.  I've yet to
+find a weakness we could exploit, I'm not even sure they have one anymore. 
+They are strong and orderly.  
+Day 4 
+-Walking down the corridor the floor gave way, plunging down I broke my
+ankle.  Regardless, I see no visible exits.  I was so close to the answers!!  
+Hopefully, one of my mates will come when they realize I've been gone so
+long.  I only have enough food for one more day.  
+Day 5 
+-I can hear the faint sounds of swords clanging together,
+spells being cast and people screaming.  It seems my mates have arrived to
+attack without awaiting my return.  With the strength and numbers I've
+discovered here I doubt they will get very far.  Unless they win, I'm a dead
+man.  
+Day 6 
+-The noises are getting fewer, I fear that my comrades are
+losing Why did they even try without a battle plan?!  The dragons are double
+their size and strength.  I haven't eaten since yesterday, I'm starving!  I
+don't mind dying here; it's where I belong, with the rest of my people.  I
+just hope I'm not caught and thrown into the dungeon to live the rest of my
+life in excruciating agony.  Please Selina, don't let that happen!! 
+Day 7
+-I'm still here...  Almost all noise has stopped.  I'm tired, very very
+tired......  Must write...  So people know.......  
+~
+#19603
+tobacco pipe~
+tobacco pipe~
+Here lies an ancient, hand-carved tobacco pipe.~
+carved wood~
+gem I AO
+0 0 0 0 0
+30 20 10000 P
+A
+13 10  
+#19604
+large broken blade~
+broken blade~
+A large broken blade is here, waiting to draw more blood.~
+steel~
+weapon 0 AN
+sword 6 6 slice 0
+45 250 10000 P
+A
+19 3  
+#19605
+comfortable wooden desk~
+the desk~
+A comfortable wooden desk is here.~
+wood~
+container 0 P
+10000 ACD 19606 10000 20
+0 0 0 P
+#19606
+skeleton key~
+a skeleton key~
+A skeleton key is here.~
+brass~
+key 0 A
+0 0 0 0 0
+0 10 0 P
+#19607
+coins gold gcash~
+gold coins~
+A pile of gold coins.~
+gold~
+money 0 A
+2500 0 0 0 0
+0 10 0 P
+#19608
+piece flint~
+a piece of flint~
+A piece of flint lies here.~
+flint~
+jewelry B AQ
+0 0 0 0 0
+10 10 3200 P
+A
+9 10  
+#19609
+skull pole statue dragon~
+statue~
+A pole, with three skulls mounted artistically, is here.~
+wood~
+trash 0 P
+0 0 0 0 0
+0 0 0 P
+E
+pole~
+One is the skull of a sliver, one the skull of a troll and one the skull
+of a human.  This pole is here to show everyone what the kingdom is capable
+of doing to people who they dislike.
+~
+E
+statue~
+One is the skull of a sliver, one the skull of a troll and one the skull
+of a human.  This pole is here to show everyone what the kingdom is capable
+of doing to people who they dislike.
+~
+E
+skull~
+One is the skull of a sliver, one the skull of a troll and one the skull
+of a human.  This pole is here to show everyone what the kingdom is capable
+of doing to people who they dislike.
+~
+#19610
+fossilized dragon egg~
+Dragon egg~
+The fossilized egg rests here, trying to keep warm.~
+egg~
+treasure AT AOY
+0 0 0 0 0
+45 50 10000 P
+A
+3 2  
+A
+2 -1  
+#19611
+dragon scales~
+dragon scales~
+Thick red dragon scales catch your eye.~
+hard scales~
+armor KT ADY
+11 11 11 0 0
+48 200 20000 P
+A
+13 30  
+E
+scale~
+Dragon scale armor is light of weight and strong.  Because of these
+properties it is much sought after, but slaying a powerful ancient dragon is
+near impossible.  It is usually easier to search for an existing one.  One
+should be careful wearing it near dragons though, however, paticularly red
+ones.  
+~
+E
+dragon~
+Dragon scale armor is light of weight and strong.  Because of these
+properties it is much sought after, but slaying a powerful ancient dragon is
+near impossible.  It is usually easier to search for an existing one.  One
+should be careful wearing it near dragons though, however, paticularly red
+ones.  
+~
+#19612
+hollowed log~
+hollowed log~
+This hollowed log is home to a small animal.~
+wood~
+container 0 P
+100 0 0 100 100
+0 0 0 P
+#19613
+sharp dragon talon~
+dragon talon~
+A sharp dragon talon is here, careful!~
+claw~
+weapon T ANY
+staff 6 7 stab 0
+49 50 30000 P
+A
+18 3  
+#19614
+porcupine droppings~
+porcupine droppings~
+Some porcupine droppings are here.~
+droppings~
+pill 0 A
+10 'poison' 'haste' 'reserved' 'reserved'
+0 20 0 P
+#19615
+set tattered clothes black~
+tattered clothes~
+A set of tattered clothes is here, stained black.~
+clothing~
+clothing 0 AK
+0 0 0 0 0
+0 10 0 P
+#19616
+shimmering gold medallion~
+medallion~
+The shimmering gold grabs your attention, what could it be?~
+gold~
+treasure 0 A
+0 0 0 0 0
+20 60 6000 P
+#19617
+hole~
+a hole~
+There is a hole in the ground here.~
+parchment~
+portal G P
+0 0 0 19686 0
+0 0 0 P
+E
+hole~
+A perfectly round hole is in the ground.  You try to peer through it but
+it's pitch black.  It is unclear where it leads.  
+~
+#19618
+paper~
+a piece of paper~
+A piece of paper is here.~
+parchment~
+trash T AY
+0 0 0 0 0
+0 0 0 P
+E
+paper~
+Sir Drakyre,
+ 
+While testing in my laboratory I discovered something marvelous!
+ 
+I raced this letter to you so that you would be the first to know, as you
+could benefit greatly from the "small baby dragon" I have created.
+You could even fight the Dominian races again, and reclaim this once glorious
+continent.
+ 
+Here is what you will need:
+-1 elixir of life, the super active solvent.
+-3 eyes of the dragon
+-2 copies of your journal on battle tactics
+-3 fossilized dragon eggs
+-2 dragon talons
+-3 dragon scale shields
+-a copy of this note, finely chopped!
+ 
+Good luck!
+~
+#19619
+bottle unknown~
+an unknown substance~
+A bottle of unknown substance is here.~
+glass~
+potion A AOY
+40 'haste' 'blur' 'bark skin' 'reserved'
+32 1 5000 P
+#19620
+cloak black long mage~
+a long black cloak~
+The robe of a mage is here.~
+cotton~
+armor B AK
+5 10 10 5 0
+50 10 2500 P
+A
+13 -50  
+A
+12 75  
+#19621
+glowing orb key~
+Orb~
+A glowing orb is here, its purpose is unknown.~
+glass~
+key 0 AO
+0 0 0 0 0
+0 12 0 P
+E
+orb~
+~
+#19622
+pouch bane dragon dragonbane cloth~
+a pouch of dragonsbane~
+A small cloth pouch is here.~
+cloth~
+container 0 AO
+5 A 0 100 0
+30 50 3400 P
+#19623
+white powder~
+powder~
+The light reflects off the white powder that is here.~
+wood~
+pill T A
+35 'frenzy' 'animal growth' 'armor' 'poison'
+30 0 5000 P
+#19624
+human flesh~
+human flesh~
+A piece of human flesh, which appears to be some sort of armor is here.~
+flesh~
+armor 0 AK
+9 8 9 3 0
+40 50 3000 P
+A
+19 1  
+A
+18 2  
+E
+flesh~
+Made from human skin and treated with the blood of a noble dragon, this
+armor emits the stench of bitter death.  
+~
+E
+human~
+Made from human skin and treated with the blood of a noble dragon, this
+armor emits the stench of bitter death.  
+~
+#19625
+fire tooth glistening object~
+fire tooth~
+Here lies a glistening object.~
+tooth~
+throwing 0 AO
+2 11 none 45 'fireball'
+45 0 0 P
+E
+fire~
+This throwing knife is imbued with magical fire, and was supposedly
+carved from an extracted dragon tooth.  
+~
+E
+tooth~
+This throwing knife is imbued with magical fire, and was supposedly
+carved from an extracted dragon tooth.  
+~
+#19626
+solid dragon helm~
+dragon helm~
+A solid looking dragon scale helm is here.~
+scale~
+armor T AE
+8 8 8 8 0
+43 200 4000 P
+A
+12 30  
+E
+helm~
+The skillful hand of the armorer carefully worked several dragon skulls
+into this powerful helmet.  
+~
+#19627
+chain link girdle~
+a chain link girdle~
+The light reflects off the silvery chains of the girdle.~
+chain~
+container 0 AL
+500 A 0 20 25
+45 20 7000 P
+A
+18 2  
+A
+5 -2  
+#19628
+dragon force huge mace~
+dragon force~
+A huge mace is here, collecting dust.~
+stone~
+weapon 0 AN
+mace 5 8 pierce 0
+49 100 7500 P
+A
+1 1  
+A
+18 1  
+A
+19 2  
+#19629
+shiny ring~
+a shiny ring~
+A ring with the insignia of Shackled Demon is here.~
+gold~
+jewelry AT AB
+0 0 0 0 0
+44 10 6000 P
+A
+19 2  
+#19630
+dragon bow~
+a dragon's bow~
+A dragon's bow, used only by the master archers of the kingdom, lies here.~
+wood~
+weapon TY ANY
+ranged 4 10 pierce A
+3
+48 150 10000 P
+A
+18 5  
+A
+19 2  
+E
+bow~
+This bow was contructed to be used only by the master archers of Shackled
+Demon.  
+~
+#19631
+ball life energy faranath~
+Faranath's life energy~
+A glowing ball of life energy is here.~
+light~
+light A AY
+0 0 999 0 0
+48 70 12000 P
+A
+19 2  
+A
+18 3  
+#19632
+light stick burning~
+burning stick~
+The flame is flickering on the burning stick.~
+wood~
+light T A
+0 0 300 0 0
+11 20 4500 P
+A
+4 1  
+A
+5 1  
+#19633
+pile gold coins~
+a pile of gold coins~
+A large pile of gold coins has been dropped here.~
+gold~
+money 0 A
+5000 0 0 0 0
+0 50 0 P
+#19634
+rusted ancient armor~
+ancient armor~
+This rusted set of armor must be centuries old.~
+rust~
+armor 0 AD
+4 4 4 0 0
+10 10 400 P
+A
+5 1  
+E
+armor~
+From what you can make of it, it must have once been a magnificent set of
+platemail armor.  
+~
+#19635
+flask dragon blood~
+a flask of dragon blood~
+A flask of dark red liquid is here.~
+lead~
+potion T AOY
+0 'poison' 'heal' 'reserved' 'reserved'
+50 50 4500 P
+E
+blood~
+This is a flask of blood taken from a dragon.  The blood is unusually
+heavy and swirls in a peculiar manner.  
+~
+#19636
+dark dragon egg~
+tainted dragon egg~
+A dark egg is here, it doesn't look like a normal dragon egg.~
+egg~
+pill 0 AO
+10 'bark skin' 'blur' 'reserved' 'reserved'
+5 10 300 P
+E
+egg~
+A demon's touch has fouled this egg, killing the unborn dragon within.  
+~
+E
+dragon~
+A demon's touch has fouled this egg, killing the unborn dragon within.  
+~
+#19637
+white claw dagger drakyre~
+the claw of Drakyre~
+Here lies a bright white claw.~
+iron~
+weapon A AN
+dagger 4 10 stab 0
+49 60 7000 P
+A
+18 2  
+A
+19 2  
+E
+claw~
+Little is known about this item, other than that the claw itself was
+taken from the corpse of the great king Drakyre.  
+~
+#19638
+shield dragon scale~
+dragon scale shield~
+Something red, green and white lies on the ground.~
+scales~
+armor 0 AJY
+12 10 8 5 0
+50 200 15000 P
+A
+18 3  
+A
+13 -20  
+A
+12 20  
+E
+white~
+Crafted by the talented armorer, the shield consists of red dragon skin
+stretched out over a frame.  Green and white dragon scales adorn the red
+backroung in a pattern that, when looked at in the right way reveals the
+face of Drakyre himself.  
+~
+E
+red~
+Crafted by the talented armorer, the shield consists of red dragon skin
+stretched out over a frame.  Green and white dragon scales adorn the red
+backroung in a pattern that, when looked at in the right way reveals the
+face of Drakyre himself.  
+~
+E
+scale~
+Crafted by the talented armorer, the shield consists of red dragon skin
+stretched out over a frame.  Green and white dragon scales adorn the red
+backroung in a pattern that, when looked at in the right way reveals the
+face of Drakyre himself.  
+~
+E
+shield~
+Crafted by the talented armorer, the shield consists of red dragon skin
+stretched out over a frame.  Green and white dragon scales adorn the red
+backroung in a pattern that, when looked at in the right way reveals the
+face of Drakyre himself.  
+~
+#19639
+small bone white key~
+a small bone~
+A small white bone is here.~
+bone~
+key P AO
+0 0 0 0 0
+0 10 0 P
+#19640
+super active solvent potion~
+{rElixir {wof {rLife{x~
+A sparkling potion with mysterious power lies on the floor.~
+wood~
+potion T AOYZ
+55 'frenzy' 'sanctuary' 'stone skin' 'reserved'
+50 70 50000 P
+#19641
+small baby dragon~
+a {Dsmall {rdragon{x~
+A baby dragon wanders around looking for her master.~
+dragon~
+armor AGTY AQYZ
+3 3 3 0 0
+51 400 200000 P
+A
+18 1  
+A
+19 1  
+A
+13 35  
+A
+12 35  
+#19642
+armor rack~
+armor rack~
+A wooden armor rack is here.~
+wood~
+container 0 P
+1000 AC 0 1000 0
+0 0 0 P
+#19643
+eye dragon ring~
+the eye of the dragon~
+From the ground, a large eye stares up at you.~
+copper~
+armor BEbd AB
+1 1 1 1 0
+22 20 700 P
+A
+18 2  
+#19644
+eye dragon~
+the eye of the dragon~
+The eye of a dragon seems to be watching you.~
+eye~
+recall_crystal 0 AOY
+EHKLO B AB 0 0
+30 60 0 P
+#19645
+old tresure chest~
+an old tresure chest~
+The rubies on the chest glow vibrantly.~
+wood~
+container FT APT
+1000 D 19648 400 0
+0 100000 0 P
+E
+chest~
+The chest is made of wood and decorated with many different rubies.  It
+is larger than any chest you've ever seen before.  It looks very old but you
+are sure you could get a pretty penny for it in town.  That is until you
+realize it's way too heavy for one to pick up.  
+~
+#19646
+king book tactics battle journal~
+the king's battle tactics~
+A journal, written by the king, lies dusty on the floor.~
+paper~
+scroll 0 AOY
+20 'reach elemental' 'reserved' 'reserved' 'reserved'
+10 20 4500 P
+E
+journal~
+This big book is falling apart in your hands.  As you flip the pages you
+discover the kings secret battle tatics.  
+~
+#19647
+golden amulet power~
+a golden amulet of power~
+A golden object lies untouched in the corner.~
+gold~
+jewelry T AC
+0 0 0 0 0
+50 140 45000 P
+A
+12 20  
+#19648
+key~
+a key~
+A key is here.~
+stone~
+key F AO
+0 0 0 0 0
+50 10 0 P
+#19649
+skeleton key~
+a skeleton key~
+The skeleton key is rusting, it hasn't been used in a long time.~
+steel~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#19650
+back~
+{DCiCaDa's {xnew back.~
+{DCiCaDa's{x new back~
+wood~
+clothing 0 AD
+0 0 0 0 0
+54 0 0 P
+#19666
+no name~
+(no short description)~
+~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#19670
+squirming spider~
+a squirming {Dspider{x~
+One of Cicada's {Dspiders{x has escaped and is running across the floor!~
+spider~
+pill 0 A
+25 'animal growth' 'heal' 'stone skin' 'reserved'
+1 0 1000 P
+#19671
+outdoor party pack~
+an outdoor party pack~
+An outdoor part pack is here, ready to let you party it up!~
+cloth~
+pill Y AO
+51 'animal growth' 'create food' 'create spring' 'reserved'
+2 0 1000 P
+#19690
+dragonfire blast ring of bosco~
+{mBosco's{x {cBlast-Ring{x named {R"Dragonfire"{x~
+A ruby red ring of blasting hovers here.~
+ruby~
+armor ABTYe ABZ
+4 4 4 1 0
+54 5 100000 P
+A
+12 10  
+A
+13 10  
+A
+18 -2 N
+A
+19 -2 N
+A
+3 1  
+A
+4 1  
+A
+27 3  
+#19691
+spider shield Cicada~
+a shield of spiders~
+A solid protective wall of spiders~
+Spiders~
+armor C AJ
+100 100 100 100 0
+54 1 1 P
+#19692
+cloak cicada~
+Cicada's Spidery cloak~
+A shabby cloak~
+silken webs~
+armor C AK
+100 100 100 100 0
+54 1 1 P
+#19693
+psycho dagger doom corech test immortal only~
+{rPsycho {BDagger{x of {WDOOM!{x~
+This weapon looks positively {WLETHAL{x~
+metal~
+weapon HM AN
+dagger 50 50 none ABCDEGHIJKLMNPQRSTWXY
+54 50 0 P
+A
+27 100  
+A
+26 100  
+A
+4 5  
+A
+1 5  
+A
+2 5  
+A
+5 5  
+A
+3 5  
+A
+32 7  
+A
+30 7  
+A
+29 7  
+A
+31 7  
+A
+31 7  
+A
+28 5  
+A
+20 -50  
+A
+18 100  
+A
+19 100  
+#19695
+cicada fang int~
+Spider fang~
+Cicada's spider fang is here~
+quicksilver~
+weapon U ANZ
+dagger 10 10 sting Y
+54 0 0 P
+#19696
+shedded skin dragon~
+the shedded skin of a dragon~
+A faded dragon skin, long ago shedded off, lies on the ground.~
+skin~
+trash 0 AD
+0 0 0 0 0
+0 50 40 P
+#19697
+no name~
+(no short description)~
+~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#19699
+shadow night force~
+a shadow of night~
+Pure shadow force cloaks you.~
+silk~
+armor CT AKY
+10 9 10 4 0
+48 10 8000 P
+A
+13 50  
+#0
+
+
+
+#ROOMS
+#19600
+Bone Filled Junction~
+The corridor opens into a large clearing.  The walls are rough and made
+of stone, the floor, dark compacted dirt.  There are mounds of bones on the
+floor, too many for the eye to distinguish one corpse from the next.  The
+smell of death is in the air.  Paths are visible in all directions.  
+~
+0 8205 3
+D0
+~
+~
+0 0 19603
+D1
+~
+~
+0 0 19653
+D2
+~
+~
+0 0 19601
+D3
+~
+~
+0 0 19606
+S
+#19601
+River of lava~
+Inspecting the ground proves to be interesting.  It seems a river of
+lava once ran across this part of the passageway, and probably around part
+of Shackled Demon.  This is what allowed the dragons to live in cold caves
+but still have the warmth they loved so much.  Exits lead north and south.  
+~
+0 9 0
+D0
+~
+~
+0 0 19600
+D2
+~
+~
+0 0 19634
+S
+#19602
+Meeting chamber~
+A round table sits in the middle of the room with nine chair sets around it. 
+One chair for the king, and one for each of his councilmen.  It is here they
+sat to discuss important matters.  The only exit is to the west.  
+~
+0 9 0
+D3
+~
+~
+1 0 19647
+D4
+~
+~
+1 0 19695
+S
+#19603
+Dark passage~
+Here, there are etchings of more recent battles.  Beside them is
+something written on the wall followed by an insignia of the royal crest of
+Dominia.  Exits lead north and south.  
+~
+0 8 0
+E
+insignia~
+It reads:
+"Never again shall we be ruled by the fear of dragons!!!!"
+-The almighty King Lawrygould.
+~
+E
+etchings~
+It reads:
+"Never again shall we be ruled by the fear of dragons!!!!"
+-The almighty King Lawrygould.
+~
+E
+wall~
+It reads:
+"Never again shall we be ruled by the fear of dragons!!!!"
+-The almighty King Lawrygould.
+~
+D0
+~
+~
+0 0 19604
+D2
+~
+~
+0 0 19600
+S
+#19604
+Dark passage~
+The walls are covered from top to bottom with etchings.  They depict most
+of the victories and moments of great achievement by this once fine and
+thriving kingdom.  More recent glories are south.  
+~
+0 13 0
+E
+north~
+The north wall has a strange circular hole in it.  If you can find
+something that fits, maybe it will open a door.  
+~
+D0
+~
+~
+1 19621 19605
+D2
+~
+~
+0 0 19603
+S
+#19605
+The eye of the dragon~
+It is in these rooms that each of the king's advisors stands and waits to
+be called to the meeting chamber.  These rooms are off limits to anyone
+except the advisors and the king himself.  There is evidence on the walls of
+the powerful magic they use to blast away all who disobey this restriction. 
+Concealed by shadows is a ladder leading up.  Other exits lead south and
+west.  
+~
+0 268435465 0
+E
+wall~
+The whole wall is marred with magical damage.  Many spells were cast here
+and many missed their targets.  There is a hole, almost in the exact centre
+of the room, wish appears to be the result of a powerful acid blast.  The
+only way to know more about this wall would be to spend a lifetime studying
+it.  
+~
+E
+ladder~
+The old wooden ladder is beaten.  It looks unsafe, as if the wood will
+fall apart in no time at all.  
+~
+D2
+~
+~
+1 0 19604
+D3
+~
+~
+1 0 19629
+D4
+~
+~
+1 0 19627
+D5
+~
+~
+1 0 19628
+S
+#19606
+Down a dark passage~
+The walls narrow as the passage unexpectedly splits.  Exits are
+north and east.  
+~
+0 8 0
+D0
+~
+~
+0 0 19624
+D1
+~
+~
+0 0 19600
+D3
+~
+~
+0 0 19607
+S
+#19607
+Down a dark passage~
+A forty foot tall marble statue of the mighty king is before you, looking
+as if he could rip you apart with one quick swipe of his claws.  Guards could
+easily hide behind it unseen and slay unexpected guests.  Exits are to the
+east and to the west.  
+~
+0 9 0
+E
+statue~
+There is a message written across one of the legs. It reads:
+"Drakyre is dead! there is no need to fear him any longer!!!"
+~
+D1
+~
+~
+0 0 19606
+D3
+~
+~
+0 0 19608
+S
+#19608
+Down a dark passage~
+The stench of death is in the air no matter which way you turn. 
+Something cracks beneath your feet as you walk, looking down you see you are
+crunching the remains of dozens of creatures.  Inspecting them, you can see
+they are the bones of dragons, slivers, trolls, humans, and other races. 
+Exits lead to the north, to the east and to the west.  
+~
+0 9 0
+D0
+~
+~
+0 0 19620
+D1
+~
+~
+0 0 19607
+D3
+~
+~
+0 0 19609
+S
+#19609
+The opening to the cave~
+This cavern is huge!  Bits of sunlight are sneaking in, letting you see
+everything.  The ground is scattered with rocks and lose dirt that
+through the years has fallen from the ceiling.  The air is musty and
+unnerving.  Dark passages break off into many directions.  Passable exits
+are east and west.  
+~
+0 4 0
+D1
+~
+~
+0 0 19608
+D3
+~
+~
+0 0 19610
+S
+#19610
+Outside the cave~
+Birds are chirping and animals are scurrying around the trees and
+flowers.  It's a picture perfect nature scene.  The opening to the cave is
+before you.  It's too dark to tell what's inside but you imagine it's
+probably home to some of the wildlife.  To the north and east is the forest,
+to the west is the cave entrance.  
+~
+0 4 3
+D0
+~
+~
+0 0 19618
+D1
+~
+~
+0 0 19609
+D3
+~
+~
+0 0 19611
+S
+#19611
+A thick forest~
+A beaten path, almost large enough to be called a road leads the way
+through the massive trees. Exits are east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 19610
+D3
+~
+~
+0 0 19612
+S
+#19612
+A thick forest~
+A beaten path, almost large enough to be called a road leads the way
+through the massive trees.  A hill leads up, the forest path continues south,
+east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 19611
+D2
+~
+~
+0 0 19623
+D3
+~
+~
+0 0 19613
+D4
+~
+~
+0 0 19614
+S
+#19613
+A thick forest~
+A beaten path, almost large enough to be called a road leads the way
+through the massive trees. Exits are east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 19612
+D3
+~
+~
+0 0 19698
+S
+#19614
+The hill~
+Trees are all around you, the small overgrown path is barely visible. 
+Through an opening in the branches you see the steep hill which seems to go
+all the way up a mountain.  Your muscles burn because the hill is so steep. 
+Exits lead up and down.  
+~
+0 0 3
+D4
+~
+~
+0 0 19615
+D5
+~
+~
+0 0 19612
+S
+#19615
+Top of the hill~
+You are at the peak of the hill.  A cliff on either side forces
+you to choose one of two directions.  Before you is an opening to the cave. 
+Exits are down and east.  
+~
+0 0 3
+D1
+~
+~
+0 0 19616
+D5
+~
+~
+0 0 19614
+S
+#19616
+The Ledge~
+The ledge is only a few feet wide and over looks the large caverns far
+below.  It appears to be a dragon graveyard.  The sun from outside is
+bringing in enough light so you can see many decomposed corpses and bones
+laying scattered on the floor.  If you continue east you would tumble to
+your death, the only safe exit is west.  
+~
+0 0 0
+D1
+~
+~
+0 0 19617
+D3
+~
+~
+0 0 19615
+S
+#19617
+Falling~
+It seems like your falling forever, you try to grab the walls but they
+are too far away.  You try to think of something to save yourself but your
+mind is racing.  There is nothing you can do.  
+~
+0 5 0
+S
+#19618
+A thick forest~
+A beaten path, almost large enough to be called a road leads the way
+through the massive trees.  Exits are north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 19619
+D2
+~
+~
+0 0 19610
+S
+#19619
+A thick forest~
+The beaten path stops here.  There is no where to go but south.  
+~
+0 0 3
+D2
+~
+~
+0 0 19618
+S
+#19620
+Dark passage~
+The light from outside is no longer seen.  Without a light, everything
+would be pitch black though under the circumstances, that might be desired. 
+The passage leads north and south.  
+~
+0 9 0
+D0
+~
+~
+0 0 19621
+D2
+~
+~
+0 0 19608
+S
+#19621
+Dark passage~
+There are many bones and decomposed corpses scattered about the ground. 
+Most of the corpses have been looted over the years and there is nothing left
+of value.  There seems to be a way to go down, or you could just go back
+south.  
+~
+0 9 0
+D2
+~
+~
+0 0 19620
+D5
+~
+~
+0 0 19622
+S
+#19622
+Dark passage~
+There is nothing of interest here.  The only exit is up.  
+~
+0 9 0
+D4
+~
+~
+0 0 19621
+S
+#19623
+A thinner forest~
+There are a few trees growing peacefully around.  The birds are singing
+from their homes up high.  It is a beautiful sight.  Far to the south you
+can see a huge river, there is a gigantic boulder stopping you from going
+that way.  The only exit is north.  
+~
+0 0 3
+E
+river~
+The river is flowing peacefully, it is clearly home to many sea animals. 
+The boulder blocking your way looks as if it fell from atop the moutain to
+the east.  It appears to have been here for many years blocking the way.  
+~
+D0
+~
+~
+0 0 19612
+S
+#19624
+Dark passage~
+The walls are deteriorating, like any other passage around.  Long ago
+someone carelessly drew things on the wall in blood.  The images are
+impossible to make out.  Exits are north and south.  
+~
+0 8 0
+E
+blood~
+The blood is brown with age.  The image looks like a childs drawing and
+it is impossible to tell what it once was.  
+~
+D0
+~
+~
+0 0 19625
+D2
+~
+~
+0 0 19606
+S
+#19625
+Dark passage~
+The passage comes to an end.  Hardly visible is a way down, there is also
+an exit south.  
+~
+0 8 0
+D2
+~
+~
+0 0 19624
+D5
+~
+~
+0 0 19626
+S
+#19626
+Dark passage~
+This appears to be dead end.  These passages are so confusing, they were
+clearly designed so that intruders would be caught and slain long before
+they got anywhere of importance.  The exit is up.  
+~
+0 13 0
+D4
+~
+~
+0 0 19625
+S
+#19627
+The eye of the dragon~
+It is in these rooms that each of the king's advisors stands and waits to
+be called to the meeting chamber.  These rooms are off limits to anyone
+except the advisors and the king himself.  There is evidence on the walls of
+the powerful magic they use to blast away all who disobey this restriction. 
+The ladder leads back down.  Another exit leads west.  
+~
+0 268435465 0
+D3
+~
+~
+1 0 19632
+D5
+~
+~
+1 0 19605
+S
+#19628
+The eye of the dragon~
+There is no evidence of a magical fight here.  When the Dominion races
+invade they found most of the hidden rooms, but not this one.  It would have
+been a good place to store some secret treasures.  There appears to be a
+small beaten door to the west, another exit is up the ladder.  
+~
+0 268435465 0
+D3
+~
+~
+1 0 19633
+D4
+~
+~
+1 0 19605
+S
+#19629
+The eye of the dragon~
+It is in these rooms that each of the king's advisors stands and waits to
+be called to the meeting chamber.  These rooms are off limits to anyone
+except the advisors and the king himself.  There is evidence on the walls of
+the powerful magic they use to blast away all who disobey this restriction. 
+Exits are to the west and to the east.  
+~
+0 268435465 0
+D1
+~
+~
+1 0 19605
+D3
+~
+~
+1 0 19630
+S
+#19630
+The eye of the dragon~
+It is in these rooms that each of the king's advisors stands and waits to
+be called to the meeting chamber.  These rooms are off limits to anyone
+except the advisors and the king himself.  There is evidence on the walls of
+the powerful magic they use to blast away all who disobey this restriction. 
+Exits are to the west and to the east.  
+~
+0 268435465 0
+D1
+~
+~
+1 0 19629
+D3
+~
+~
+1 0 19631
+S
+#19631
+The eye of the dragon~
+It is in these rooms that each of the king's advisors stands and waits to
+be called to the meeting chamber.  These rooms are off limits to anyone
+except the advisors and the king himself.  There is evidence on the walls of
+the powerful magic they use to blast away all who disobey this restriction. 
+Concealed by shadows a ladder leads up.  Another exit leads east.  
+~
+0 268435465 0
+D1
+~
+~
+1 0 19630
+D4
+~
+~
+1 0 19632
+D5
+~
+~
+1 0 19633
+S
+#19632
+The eye of the dragon~
+It is in these rooms that each of the king's advisors stands and waits to
+be called to the meeting chamber.  These rooms are off limits to anyone
+except the advisors and the king himself.  There is evidence on the walls of
+the powerful magic they use to blast away all who disobey this restriction. 
+The ladder leads back down. Another exit leads east.
+~
+0 9 0
+D1
+~
+~
+1 0 19627
+D5
+~
+~
+1 0 19631
+S
+#19633
+The eye of the dragon~
+There is no evidence of a magical fight here.  When the Dominion races
+invade they found most of the hidden rooms, but not this one.  It would have
+been a good place to store some secret treasures.  There appears to be a
+small beaten door to the east, another exit is up the ladder.  
+~
+0 268435465 0
+D1
+~
+~
+1 0 19628
+D4
+~
+~
+1 0 19631
+S
+#19634
+Dark passage~
+A tapestry showing the great dragon king has been half torn off the wall
+and ruined with ink scribbles.  It appears nothing else is here.  Exits lead
+north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 19601
+D2
+~
+~
+0 0 19635
+S
+#19635
+Death's Junction~
+The pungent smell of decay is stronger here.  Upon closer inspection, you see
+a rotting, mutilated corpse speared to the far wall by the rusting sword
+that took its life.  Obscured by shadows is an exit leading south.  Another
+exit is north.  
+~
+0 9 0
+D0
+~
+~
+0 0 19634
+D2
+~
+~
+0 0 19636
+D3
+~
+~
+0 0 19637
+S
+#19636
+Check point~
+Everyone wanting to pass must go through this checkpoint.  For security
+reasons, the kingdom had a guard posted here in case an intruder got past
+the patrolling guards.  Exits are north, east and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 19635
+D1
+~
+~
+0 0 19641
+D2
+~
+~
+0 0 19638
+S
+#19637
+Check point~
+Everyone wanting to pass must go through this checkpoint.  For security
+reasons, the kingdom had a guard posted here in case an intruder got past
+the patrolling guards.  Exits are west, east and south.  
+~
+0 8 0
+D1
+~
+~
+0 0 19635
+D2
+~
+~
+0 0 19661
+D3
+~
+~
+0 0 19664
+S
+#19638
+Shadowy passage~
+Somehow preserved, the body of a dominian fighter lies across the hall. 
+Evidence shows he was beaten to death, apparently it was done by the
+oversized muscle of a dragon.  Exits are north and south.  
+~
+0 9 0
+D0
+~
+~
+0 0 19636
+D2
+~
+~
+0 0 19639
+S
+#19639
+Shadowy passage~
+The floor is soft and mushy, be careful not to lose your shoe!  Exits are
+north and south.  
+~
+0 9 0
+D0
+~
+~
+0 0 19638
+D2
+~
+~
+0 0 19640
+S
+#19640
+Dead end~
+This part of the passage is slowly flooding.  The ground is wetter than
+before.  From the looks of it, the passage used to continue south, but the
+river on top has eroded its way through and flooded a large section of the
+hall.  In little time, this whole place will be underwater.  The only exit
+is north.  
+~
+0 9 0
+D0
+~
+~
+0 0 19639
+S
+#19641
+Small passage~
+Stagnant water covers the whole floor; there is no way to avoid them. 
+The retched smell is almost unbearable.  You try to hold your breath as you
+continue on.  Exits lead to the north, south and to the west.  
+~
+0 5 0
+D0
+~
+~
+0 0 19643
+D2
+~
+~
+0 0 19642
+D3
+~
+~
+0 0 19636
+S
+#19642
+Small passage~
+The ceilings are low here, forcing adventurers to crawl.  Shallow puddles
+of freezing stagnant water are scattered about.  To avoid them would be
+nearly impossible.  Exits lead to the north, and to the east.  
+~
+0 1 0
+D0
+~
+~
+0 0 19641
+D1
+~
+~
+0 0 19644
+S
+#19643
+Small passage~
+The ceiling is barely high enough for a young child to walk standing
+straight, although there is head room in certain parts where the ceiling has
+collapsed.  In the corner you see a way you could crawl up, other exits lie
+east and south.  
+~
+0 5 0
+D1
+~
+~
+0 0 19645
+D2
+~
+~
+0 0 19641
+D4
+~
+~
+1 0 19650
+S
+#19644
+Dark passage~
+The walls are slowly crumbling away, making this room larger every day. 
+Huge rocks look as if they could fall at any moment, which could be dangerous
+to anyone in the room.  The only visible exit is west.  
+~
+0 9 0
+D1
+~
+~
+3 0 19679
+D3
+~
+~
+0 0 19642
+S
+#19645
+Bloody skull~
+In the center of the room is a huge dragon skull mounted on a pole.  The
+skull is painted red with what appears to be blood.  It is clearly a warning
+to go no further.  To go up the stairs would mean to ignore the warning and
+continue on, to proceed west would mean to turn and go back.  
+~
+0 9 0
+D3
+~
+~
+0 0 19643
+D4
+~
+~
+0 0 19646
+S
+#19646
+Dark passage~
+Soft voices are heard; you think they are warning you away.  You want to
+turn back, but at the same time, you feel cold hands on your shoulders,
+pushing you forward.  Exits lead north and down.  
+~
+0 9 0
+D0
+~
+~
+0 0 19647
+D5
+~
+~
+0 0 19645
+S
+#19647
+Dark passage~
+The voices are louder, telling you to go no further unless you wish to meet
+your death.  The unpleasant smell that is permeating throughout seems to be
+a little fainter here and you can see faint flickers of light to the north. 
+Exits lead north and south.  
+~
+0 13 0
+D0
+~
+~
+0 0 19648
+D1
+~
+~
+1 0 19602
+D2
+~
+~
+0 0 19646
+S
+#19648
+Throne room~
+Before you is the biggest throne you've ever seen.  It is made of gold
+and decorated with rubies and other precious stones.  On either side is a
+hand carved post with a burning torch mounted on top.  The smell of decay
+that has followed you everywhere, is not in this room, and you notice that
+everything is clean.  It's hard to believe you're still in Shackled Demon. 
+The only clear exit is south.  
+~
+0 268435464 0
+D2
+~
+~
+0 0 19647
+D3
+~
+~
+3 19639 19657
+D4
+~
+~
+3 19649 19649
+S
+#19649
+Treasure room~
+You've found the treasure room!  Your eyes twinkle as you day dream about
+the wonderful things you are going to do with all the riches in here.  In the
+center of the room is a sparkling treasure chest, you wonder what's inside. 
+The exit leads down.  
+~
+0 8 0
+D5
+~
+~
+3 0 19648
+S
+#19650
+Another passageway~
+This room is just like the rest of the passages, dark, stinky and
+unpleasant.  The room appears to be empty at first, until something white
+grabs your eye.  There is a trap door leading down, and an exit leading
+to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 19651
+D5
+~
+~
+1 0 19643
+S
+#19651
+Another passageway~
+This room is just like the rest of the passages, dark, stinky and
+unpleasant.  Beside you lies a half-eaten leg, it seems whatever killed this
+man tore him to bits and scattered him about the halls.  Exits lead north
+and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 19652
+D2
+~
+~
+0 0 19650
+S
+#19652
+Another passageway~
+This room is just like the rest of the passages, dark, stinky and
+unpleasant.  Before you lay the upper half of a man, with a horrid
+expression on his face.  He appears to be missing one arm.  Brutal!  Exits
+are barely seen, but lie south and west.  
+~
+0 8 0
+D2
+~
+~
+0 0 19651
+D3
+~
+~
+0 0 19653
+S
+#19653
+Another passageway~
+This room is just like the rest of the passages, dark, stinky and
+unpleasant.  On the ground lies a decomposing arm, which appears to have
+been ripped off of a body.  Exits lead in all directions.  
+~
+0 9 0
+D0
+~
+~
+0 0 19655
+D1
+~
+~
+0 0 19652
+D2
+~
+~
+0 0 19654
+D3
+~
+~
+0 0 19600
+S
+#19654
+Another passageway~
+This room is just like the rest of the passages, dark, stinky and
+unpleasant.  There is a large axe stuck in the wall, and a blade broken on
+the floor.  It appears to be the site of a tiring battle that took place in
+the last days of the kingdom.  The only exit leads north.  
+~
+0 9 0
+D0
+~
+~
+0 0 19653
+S
+#19655
+Another passageway~
+This room is just like the rest of the passages, dark, stinky and
+unpleasant.  In the center of the room is a old rope tied to a rock, if you
+wanted to you could climb down to the room below.  Exits lead down and
+south.  
+~
+0 9 0
+D2
+~
+~
+0 0 19653
+D5
+~
+~
+0 0 19656
+S
+#19656
+Death's doorstep~
+Letting go of the rope, and jumping down, you fall into a large puddle. 
+At first glance the room appears to be empty, but something in the corner
+catches your eye.  There is a preserved human body, you wonder if there is
+anything in his pockets.  The only exit is back up the rope.  
+~
+0 9 0
+D4
+~
+~
+0 0 19655
+S
+#19657
+Shadowy passage~
+To most, this room is hidden and un-findable.  There doesn't seem to be
+anything here.  The only exit is east.  
+~
+0 8 0
+D1
+~
+~
+3 0 19648
+D3
+~
+~
+1 0 19658
+S
+#19658
+Shadowy passage~
+This room is dark and empty, there are no visible exits.  
+~
+0 8 0
+D1
+~
+~
+1 0 19657
+D3
+~
+~
+1 0 19659
+S
+#19659
+Laboratory~
+Beakers, test tubs and other interesting instruments are placed along the
+many work benches.  A small filthy scrap of paper has been negligently left.
+It is here the scientist developed new and interesting things to benefit the
+kingdom.  East leads back through the shadowy passage.  
+~
+0 8 0
+E
+scrap~
+A small scrap of paper lies on the bench.  It appears to be Drizzt's notes.
+It reads: I have created an odd liquid, though I am still unsure of it's
+power, I believe it will be marvelous.  I call it my "super active solvent." 
+The ingredients are as follows: 
+-bottle of unknown substance
+-the life energy of a dragon
+-a super healing potion
+-3 flasks of dragon blood
+-a free sample potion
+-a free sample potion
+~
+E
+paper~
+A small scrap of paper lies on the bench.  It appears to be Drizzt's notes.
+It reads: I have created an odd liquid, though I am still unsure of it's
+power, I believe it will be marvelous.  I call it my "super active solvent." 
+The ingredients are as follows: 
+-bottle of unknown substance
+-the life energy of a dragon
+-a super healing potion
+-3 flasks of dragon blood
+-a free sample potion
+-a free sample potion
+~
+E
+bench~
+A small scrap of paper lies on the bench.  It appears to be Drizzt's notes.
+It reads: I have created an odd liquid, though I am still unsure of it's
+power, I believe it will be marvelous.  I call it my "super active solvent potion." 
+The ingredients are as follows: 
+-bottle of unknown substance
+-the life energy of a dragon
+-a super healing potion
+-3 flasks of dragon blood
+-a free sample potion
+-a free sample potion
+~
+D1
+~
+~
+1 0 19658
+S
+#19660
+Twisting passage~
+You stumble into an underground warren, every direction looks the same. 
+Be very careful not to get yourself lost in all these twisting passages! 
+The exit is west.  
+~
+0 8 0
+D3
+~
+~
+0 0 19690
+S
+#19661
+Weaponry~
+Swords and other weapons sit assorted on racks, easily accessible if
+needed.  Unfinished weapons lay atop a workbench on the north wall.  It
+seems the weapon smith was almost done creating some new lethal designs. 
+Exits are to the north and to the west.  
+~
+0 9 0
+D0
+~
+~
+0 0 19637
+D3
+~
+~
+0 0 19662
+S
+#19662
+Armory~
+This is where all the armor is stored, whether hand crafted by the
+armorer or stolen from raids and conquests.  It is sorted on racks in the
+same manner as the weapons.  Exits are east and west.  
+~
+0 9 0
+D1
+~
+~
+0 0 19661
+D3
+~
+~
+0 0 19663
+S
+#19663
+Practice circle~
+A spacious circle lays inset in the sand.  Brave warriors and recruits
+alike used this circle day and night to become the best warrior in the land.
+It hasn't been used in so long that only a few footprints mar the surface. 
+The exit is east.  
+~
+0 1 0
+D1
+~
+~
+0 0 19662
+S
+#19664
+Cadaverous Junction~
+Parts of the ground have worn away into huge holes, and pieces of the
+wall are crumbling off before your eyes.  This room isn't going to be
+passable much longer: when it collapses, the corpses in the corner will
+never be seen again.  Exits lead north, south, east and a staircase leads
+up.  
+~
+0 9 0
+D0
+~
+~
+0 0 19674
+D1
+~
+~
+0 0 19637
+D2
+~
+~
+0 0 19665
+D4
+~
+~
+0 0 19670
+S
+#19665
+The wall~
+There are well worn hand holds all the way up the wall.  It is safe to
+assume the dragons flew up while they forced their chained prisoners to
+climb up to the hell that would be the rest of their lives.  Exits are up
+and north.  
+~
+0 8 0
+D0
+~
+~
+0 0 19664
+D4
+~
+~
+0 0 19666
+S
+#19666
+Prison Guard's Office~
+The room is empty, except for the desk in the center.  It is here the
+prison guard stood watch as the prisoners met their destiny.  Behind the
+desk is a large steel door leading down into the dungeon.  Another exit
+leads west.  
+~
+0 9 0
+D3
+~
+~
+0 0 19667
+D5
+~
+~
+0 0 19665
+S
+#19667
+Dungeon~
+The smell of blood is overpowering, the walls are stained red.  There are
+bodies shackled to the wall, sliced and pulverized from head to toe.  This
+room was once home to many prisoners, who were brutally tortured deep inside
+the caves where escape was impossible.  The green mile is west, the prison
+guard's office to the east.  
+~
+0 9 0
+D1
+~
+~
+0 0 19666
+D3
+~
+~
+0 0 19668
+S
+#19668
+Green Mile~
+Prisoners are thrown here when the torturer gets bored with them.  No
+food is brought to them and they slowly starve to death.  Some skeletons
+still rest here, the dragons never had the chance to remove them for the
+next batch.  The pit for the dead is down, the dungeon east.  
+~
+0 9 0
+D1
+~
+~
+0 0 19667
+D5
+~
+~
+0 0 19669
+S
+#19669
+The Pit~
+This is where all the dead were put.  Pile of bones, rotting clothes, and
+worthless personal possessions lay dispersed around the pit.  If a prisoner
+fell in they would die here no matter how loud they screamed.  Orginally
+there was no way out; but, with the walls slowly caving in now, there seems
+to be a way up.  
+~
+0 9 0
+D4
+~
+~
+0 0 19668
+S
+#19670
+Gothic arches~
+Large, carved, beautiful gothic arches line the way to the dining hall. 
+There is some damage that has resulted from a magical battle, most likely
+between a sliver mage and a dragon mage.  Exits lead to the west and down
+the stairs.  
+~
+0 8 0
+D3
+~
+~
+0 0 19671
+D5
+~
+~
+0 0 19664
+S
+#19671
+Dining hall~
+This gigantic room once served as a dining hall to the kingdom. 
+Collapsing tables and benches fill the room.  There is a rotting dragon
+corpse on one of the tables that looks as if his wings were torn off and his
+talons pulled out.  Numerous torches once lit the room but have since lost
+their flames.  The main exit is to the east, a small door leads west to the
+kitchen.  
+~
+0 9 0
+D1
+~
+~
+0 0 19670
+D3
+~
+~
+0 0 19672
+S
+#19672
+Kitchen~
+Humungous fire pits are placed around the room.  The dead carcasses of
+many animals were prepared here to feed everyone.  Scraps were fed to the
+prisoners, sometimes.  Considering how hot this room must get when the fires
+are burning, the job of chef must be a punishment of some sort.  Down is the
+kitchen midden, east lays the dining hall.  
+~
+0 9 0
+D1
+~
+~
+0 0 19671
+D5
+~
+~
+0 0 19673
+S
+#19673
+Kitchen midden~
+It is here the animal scraps were put with other garbage to rot away. 
+Piles of old bones fill the room; it's not a very pleasant place to be. 
+There is a metal ladder to allow you to crawl back up.  
+~
+0 9 0
+D4
+~
+~
+0 0 19672
+S
+#19674
+Shadowy passage~
+Dust untouched for years billows in the wake of your footsteps.  A
+rotting stairway leads up, another exits leads south.  
+~
+0 8 0
+D2
+~
+~
+0 0 19664
+D4
+~
+~
+0 0 19675
+S
+#19675
+Sleeping chambers~
+The floor of this huge room is covered in soft sand that was once heated
+by a river of lava.  There are many large divots that mark exactly where
+the dragons slept.  Exits are west and down.  
+~
+0 8 0
+D3
+~
+~
+0 0 19676
+D5
+~
+~
+0 0 19674
+S
+#19676
+Sleeping chambers~
+This sandy floor once served as sleeping chambers for the large dragons. 
+They had little need for warmth from body heat as they had the river of lave
+that once flowed to keep them content.  There are more sleeping chambers
+east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 19675
+D3
+~
+~
+0 0 19677
+S
+#19677
+Sleeping chambers~
+This huge sand sleeping chamber is cold with death.  It has been many
+years since a creature of any type as slept here.  Exits are east and down. 
+~
+0 8 0
+D1
+~
+~
+0 0 19676
+D5
+~
+~
+0 0 19678
+S
+#19678
+Shadowy passage~
+There is a small hole in the west wall.  Nothing larger then raccoon could
+squeeze through.  This hole makes it possible to see parts of the paths
+outside.  It could likely give someone a tactical advantage.  The exit is up.
+~
+0 8 0
+E
+hole~
+This hole makes it possible to see parts of the paths outside.  It can be
+used as a great tactical advantage.  
+~
+D4
+~
+~
+0 0 19677
+S
+#19679
+Twisting passage~
+You stumble into an underground warren, every direction looks the same. 
+Be very careful not to get yourself lost in all these twisting passages! 
+Exits lead in all directions.  
+~
+0 12 0
+D0
+~
+~
+0 0 19679
+D1
+~
+~
+0 0 19680
+D2
+~
+~
+0 0 19679
+D3
+~
+~
+3 0 19644
+S
+#19680
+Twisting passage~
+You stumble into an underground warren, every direction looks the same. 
+Be very careful not to get yourself lost in all these twisting passages! 
+Exits lead in all directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 19681
+D1
+~
+~
+0 0 19679
+D2
+~
+~
+0 0 19679
+D3
+~
+~
+0 0 19679
+S
+#19681
+Twisting passage~
+You stumble into an underground warren, every direction looks the same. 
+Be very careful not to get yourself lost in all these twisting passages! 
+Exits lead in all directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 19679
+D1
+~
+~
+0 0 19679
+D2
+~
+~
+0 0 19679
+D3
+~
+~
+0 0 19682
+S
+#19682
+Twisting passage~
+You stumble into an underground warren, every direction looks the same. 
+Be very careful not to get yourself lost in all these twisting passages! 
+Exits lead in all directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 19683
+D1
+~
+~
+0 0 19679
+D2
+~
+~
+0 0 19683
+D3
+~
+~
+0 0 19679
+S
+#19683
+Twisting passage~
+You stumble into an underground warren, every direction looks the same. 
+Be very careful not to get yourself lost in all these twisting passages! 
+Exits lead in all directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 19679
+D1
+~
+~
+0 0 19684
+D2
+~
+~
+0 0 19679
+D3
+~
+~
+0 0 19679
+S
+#19684
+Twisting passage~
+You stumble into an underground warren, every direction looks the same. 
+Be very careful not to get yourself lost in all these twisting passages! 
+Exits lead in all directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 19679
+D1
+~
+~
+0 0 19685
+D2
+~
+~
+0 0 19679
+D3
+~
+~
+0 0 19679
+S
+#19685
+Twisting passage~
+You stumble into an underground warren, every direction looks the same. 
+Be very careful not to get yourself lost in all these twisting passages! 
+Exits lead in all directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 19679
+D1
+~
+~
+0 0 19679
+D2
+~
+~
+0 0 19687
+D3
+~
+~
+0 0 19679
+S
+#19686
+Hatchery~
+Soft warm cushioning covers the floor of this clearance.  Here the eggs
+were laid and hatched.  The mother dragon sat close to her babies to
+protect them and keep them warm.  There are many fossilized eggs, and sadly
+even some broken ones.  The only exit is west back into the twisting
+passages.  
+~
+0 13 0
+E
+broken~
+Broken eggs are mixed within the fossilized ones, they contain the remains
+of unhatched dragons.  The pieces have hardened together and almost seem to
+be part of the floor.  
+~
+E
+eggs~
+Broken eggs are mixed within the fossilized ones, they contain the remains
+of unhatched dragons.  The pieces have hardened together and almost seem to
+be part of the floor.  
+~
+E
+cushioning~
+The cushioning is a sandy color and made of an unknown mossy substance.  
+~
+D1
+~
+~
+0 0 19660
+S
+#19687
+Twisting passage~
+You stumble into an underground warren, every direction looks the same. 
+Be very careful not to get yourself lost in all these twisting passages! 
+Exits lead in all directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 19679
+D1
+~
+~
+0 0 19679
+D2
+~
+~
+0 0 19688
+D3
+~
+~
+0 0 19679
+S
+#19688
+Twisting passage~
+You stumble into an underground warren, every direction looks the same. 
+Be very careful not to get yourself lost in all these twisting passages! 
+Exits lead in all directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 19679
+D1
+~
+~
+0 0 19689
+D2
+~
+~
+0 0 19679
+D3
+~
+~
+0 0 19679
+S
+#19689
+Twisting passage~
+You stumble into an underground warren, every direction looks the same. 
+Be very careful not to get yourself lost in all these twisting passages! 
+Exits lead in all directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 19690
+D1
+~
+~
+0 0 19679
+D2
+~
+~
+0 0 19679
+D3
+~
+~
+0 0 19679
+S
+#19690
+Twisting passage~
+You stumble into an underground warren, every direction looks the same. 
+Be very careful not to get yourself lost in all these twisting passages! 
+Exits lead in all directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 19679
+D1
+~
+~
+0 0 19660
+D2
+~
+~
+0 0 19679
+D3
+~
+~
+0 0 19679
+S
+#19691
+Behind a Large Tree~
+This large tree is growing up against the side of a rocky cliff.  If
+you climb it, you can reach some handholds on the mountainside.  The only
+other exit is north back into the Volrath forest.
+~
+0 0 3
+D0
+~
+~
+0 0 10986
+D4
+~
+~
+0 0 19692
+S
+#19692
+On the Side of the Cliff~
+You are clinging to the side of a rocky cliff.  The cold wind pushes
+you forward.  Below you is a tree that would get you safely back to the
+ground.  Handholds along the cliff continue to the south.
+~
+0 0 5
+D2
+~
+~
+0 0 19693
+D5
+~
+~
+0 0 19691
+S
+#19693
+Clinging to the Cliff~
+You cling to the side of a cliff far above the Volrath forest.  There is
+no safe way to the ground from this point.  If you lose your balance, death
+surely awaits you.  Handholds continue to the north and south.
+~
+0 0 5
+D0
+~
+~
+0 0 19692
+D2
+~
+~
+0 0 19694
+S
+#19694
+A Steep Cliff~
+Your fingers begin to ache from gripping the rock on the side of the cliff
+so tightly.  A large boulder lies just a few feet below you.  You can jump
+down to it, or use the handholds in cliff to the north.
+~
+0 0 5
+D0
+~
+~
+0 0 19693
+D5
+~
+~
+0 0 19696
+S
+#19695
+Secret Tunnel~
+You stumble into a secret tunnel.  The dragons must have used this to get
+out of the kingdom fast and fight from different points of the continent
+even when enemies crowded the cave entrance.  
+~
+0 0 0
+D4
+~
+~
+1 0 4557
+D5
+~
+~
+1 0 19602
+S
+#19696
+On Top of a Boulder~
+You stand on the top of a large, rust colored boulder.  Thick, tall trees
+block your view to the north and south.  To the west is a large stone cliff. 
+If you jump up, you can reach some handholds on the rocky cliff side.  If you
+jump down, you'll be on a path through the forest.
+~
+0 0 0
+D4
+~
+~
+0 0 19694
+D5
+~
+~
+0 0 19697
+S
+#19697
+A Large Clearing~
+You stand in the middle of a large clearing in the forest.  It is strange
+that thick forests and rocky cliffs surround this grassy landing.  It seems
+like the easiest way to reach this point would be to fly in on the back of
+a dragon.  A large boulder lies on the western edge of the clearing and a
+path heads to the south.
+~
+0 0 3
+D2
+~
+~
+0 0 19698
+D4
+~
+~
+0 0 19696
+S
+#19698
+Deep in the Volrath Forest~
+The forest is very old here.  Tall, thick trees surround you, making it
+very difficult to see more than a few feet in any direction.  A large
+clearing lies to the north and a path heads east.
+~
+0 0 3
+D0
+~
+~
+0 0 19697
+D1
+~
+~
+0 0 19613
+S
+#19699
+CiCaDa's Spider Cavern~
+~
+0 268992516 0
+S
+#0
+
+
+
+#SPECIALS
+M 19602 spec_breath_any Load to: Drakyre
+S
+
+
+
+#MOBPROGS
+#19600
+emote moves on to the next culprit.
+~
+A
+#0
+
+#RESETS
+D 0 19602 3 1
+D 0 19602 4 1
+D 0 19604 0 2
+D 0 19605 2 2
+D 0 19605 3 1
+D 0 19605 4 1
+D 0 19605 5 1
+D 0 19627 3 1
+D 0 19627 5 1
+D 0 19628 3 1
+D 0 19628 4 1
+D 0 19629 1 1
+D 0 19629 3 1
+D 0 19630 1 1
+D 0 19630 3 1
+D 0 19631 1 1
+D 0 19631 4 1
+D 0 19631 5 1
+D 0 19632 1 1
+D 0 19632 5 1
+D 0 19633 1 1
+D 0 19633 4 1
+D 0 19643 4 1
+D 0 19644 1 1
+D 0 19647 1 1
+D 0 19648 3 2
+D 0 19648 4 2
+D 0 19649 5 2
+D 0 19650 5 1
+D 0 19657 1 2
+D 0 19657 3 1
+D 0 19658 1 1
+D 0 19658 3 1
+D 0 19659 1 1
+D 0 19679 3 1
+D 0 19695 4 1
+D 0 19695 5 1
+M 1 19609 5 19600 1
+M 1 19621 2 19601 1
+M 1 19603 2 19603 1
+G 0 19621 0
+M 1 19613 8 19605 1
+G 0 19648 0
+M 1 19607 4 19606 1
+O 0 19632 0 19607
+O 0 19634 0 19608
+M 1 19607 4 19610 1
+O 0 19612 0 19619
+P 0 19614 1 19612 5
+M 1 19610 2 19621 1
+G 0 19638 0
+M 1 19609 5 19622 1
+M 1 19612 1 19625 1
+G 0 19639 0
+O 0 19636 0 19626
+M 1 19613 8 19627 1
+E 0 19620 0 12
+M 1 19613 8 19628 1
+E 0 19620 0 12
+M 1 19613 8 19629 1
+E 0 19620 0 12
+G 0 19644 0
+M 1 19613 8 19630 1
+E 0 19620 0 12
+E 0 19637 0 16
+M 1 19613 8 19631 1
+E 0 19620 0 12
+G 0 19649 0
+M 1 19613 8 19632 1
+E 0 19620 0 12
+G 0 19613 0
+M 1 19613 8 19633 1
+G 0 19613 0
+M 1 19604 2 19634 1
+E 0 19626 0 6
+M 1 19606 2 19637 1
+E 0 19626 0 6
+M 1 19609 5 19638 1
+O 0 19616 0 19640
+M 1 19610 2 19640 1
+E 0 19638 0 11
+M 1 19603 2 19641 1
+M 1 19609 5 19644 1
+O 0 19609 0 19645
+M 1 19605 2 19646 1
+E 0 19629 0 1
+M 1 19602 1 19648 1
+G 0 19606 0
+G 0 19618 0
+E 0 19630 0 16
+O 0 19645 0 19649
+P 0 19646 5 19645 1
+P 0 19648 1 19645 1
+M 1 19616 1 19650 1
+M 1 19604 2 19652 1
+E 0 19626 0 6
+O 0 19604 0 19654
+M 1 19608 1 19654 1
+E 0 19627 0 13
+O 0 19601 0 19656
+P 0 19603 1 19601 1
+M 1 19607 4 19656 1
+P 0 19602 1 19601 1
+P 0 19608 5 19601 1
+M 1 19606 2 19658 1
+E 0 19626 0 6
+M 1 19611 1 19659 1
+E 0 19628 0 16
+O 0 19619 0 19659
+O 0 19617 0 19660
+O 0 19642 0 19662
+P 0 19624 1 19642 1
+M 1 19601 1 19666 1
+E 0 19606 0 17
+O 0 19605 0 19666
+P 0 19607 1 19605 1
+G 0 19635 0
+M 1 19600 1 19667 1
+E 0 19625 0 16
+M 1 19609 5 19669 1
+O 0 19615 0 19669
+M 1 19605 2 19670 1
+E 0 19629 0 1
+M 1 19621 2 19672 1
+M 1 19607 1 19673 1
+M 1 19615 1 19677 1
+O 0 19622 0 19678
+P 0 19623 1 19622 1
+M 1 19614 1 19686 1
+G 0 19611 0
+O 0 19610 0 19686
+M 1 19620 1 19686 1
+E 0 19631 0 0
+O 0 19696 0 19697
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

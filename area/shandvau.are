@@ -1,0 +1,5994 @@
+#AREADATA
+Name Shandalar Vaults~
+Builders Teldin~
+VNUMs 14200 14399
+Credits {45 51} Khell       The Vault~
+Security 9
+Xcontinent 1
+Age 15
+Questable 0
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#14200
+Rufus knight shandalar captain~
+Rufus, the Captain of the Shandalar Knights~
+Rufus, the Captain of the Shandalar Knights, stands here guarding the west entrance.
+~
+Rufus is a tall, barrel-chested figure well known in the city of
+Shandalar for his strict pursuit of the law.  Thus far, he's here to guard
+the western broken section of wall from people who really shouldn't be
+wandering down this way.  
+~
+human~
+ABGIST CDFGHZ 500 0
+50 2 5d10+4500 1d1+100 5d8+20 punch
+-20 -20 -20 -20
+0 BCDLQab 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M exit 14200 3~
+M grall 14276 100~
+M random 14226 4~
+#14201
+filthy skulking lizard troglodyte~
+a filthy, skulking troglodyte~
+A lizard-like troglodyte is here, glaring.
+~
+A troglodyte is a tall, man-like lizard with barely enough intelligence
+to use weapons and wear vague sorts of armor.  They tend to gather
+underground where there's plenty of garbage to eat, and stink to high hell. 
+~
+lizard~
+ACH 0 -1000 0
+48 4 50d10+3600 1d1+99 6d6+8 pound
+-10 -12 -9 -7
+CIMNR A LQ HI
+stand stand none 6200
+AGXc ACDEFHKQV large 0 the guilds~
+M random 14227 5~
+M death 14201 40~
+#14202
+troglodyte chieftain~
+the troglodyte chieftain~
+The chieftain of the troglodytes stands here, hissing dangerously.
+~
+He's much bigger than the rest of the troglodytes, and seems far more
+intelligent - he wears a set of ornate leather armor decorated with feathers
+and bones, and carries a tall staff made from some underground root.  
+~
+lizard~
+ABFQT DHOZ -1000 0
+52 4 50d10+5500 1d1+99 7d7+20 claw
+-24 -26 -28 -30
+CFHJK AB CL I
+stand stand male 7500
+AGXc ACDEFHKQV medium 0 the guilds~
+M greet 14300 100~
+M fight 14228 6~
+#14203
+hulking two headed ettin giant huge~
+a hulking, two-headed ettin~
+A huge, two-headed giant squats here, blocking the tunnel.
+~
+It's a variety of giant-kind known as an ettin: a twoheaded breed that
+are notoriously stupid, even for the normally obtuse giant species.  They
+often tend to just sit in one spot and not move unless forced to move or
+they run out of food.  
+~
+giant~
+ABT FZ -800 0
+53 5 50d10+7000 1d1+99 10d5+26 crush
+-24 -24 -24 -24
+ACDF AB HI J
+stand stand male 5300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 14229 5~
+M exit 14202 0~
+#14204
+buzzing cave insect~
+a buzzing cave insect~
+A large, buzzing insect of some kind is here.
+~
+The insects that live in the Vault are varied - no two even seem to be
+very much alike.  However, one thing they all have in common is that they
+dislike strangers.  
+~
+centipede~
+AFHTU Z -349 0
+44 3 25d10+2750 1d1+99 8d4+10 sting
+-15 -15 -15 -5
+FHJN 0 FI EH
+stand stand none 0
+ABGO ACK small 0 the guilds~
+M death 14303 30~
+#14205
+cave river shark~
+a blind cave shark~
+A long, sleek cave shark is here.
+~
+The cave shark is blind, of course, as are most animals that have to live
+underground with no light.  It's scales are a light pinkish color from lack
+of pigment, but its got several rows of dangerously sharp teeth.  
+~
+snake~
+AF AT -1000 0
+51 6 50d10+5000 1d1+99 5d8+35 bite
+-21 -21 -21 -5
+DFR 0 L I
+stand stand none 500
+AGXYc ADEFKLQVX medium 0 the guilds~
+M death 14307 60~
+#14206
+onyx golem hulking guardian~
+a hulking onyx golem~
+A jet-black onyx golem is here, standing silently.
+~
+Essentially, the golem is simply a vaguely man-shaped statue carved out
+of solid onyx rock, the blackness of it just barely reflecting the light. 
+It stands roughly eight feet high and doesn't look particularly friendly.  
+~
+doll~
+ABFST 0 -800 0
+55 10 5d10+7500 1d1+99 10d4+32 punch
+-30 -30 -30 -45
+ADEFJLN LNQ EGIKLMNPQRS JO
+stand stand none 7500
+EJMc ABCGHK medium 0 the guilds~
+#14207
+statue canji drow wizard~
+a statue of Canji, the drow wizard~
+A statue in the shape of a drow wizard stands here, covered in dust.
+~
+This fairly small-sized statue looks no less impressive for its lack of
+immensity.  It looks remarkably well-carved, as if it were a person simply
+turned to stone instead of created from the earth itself.  
+~
+human~
+ABOQR DFNOTZ -750 0
+56 7 5d10+8000 1d1+99 6d8+44 magic
+-44 -45 -41 -30
+AF ALQ BCD 0
+stand stand none 12000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14208
+gnome gnomish short inventor sneeble~
+Sneeble, the gnomish inventor~
+A short, bespectacled gnome is here, mumbling to himself.
+~
+He's a short, grubby little gnome with a wild tangle of grey hair and a
+tiny pair of spectacles perched upon his bulbous nose.  An array of tools
+hangs on his dirty smock.  
+~
+dwarf~
+AB J 500 0
+45 5 10d50+4000 1d1+99 5d5+20 punch
+-20 -20 -20 -20
+0 ABCDLQab LQ R
+stand stand male 85000
+AHMV ABCDEFGHIJK small 0 the guilds~
+M random 14274 5~
+#14209
+massive dwarven forge~
+a massive dwarven forge~
+A massive dwarven forge is here, billowing flames.
+~
+The forge is huge!  It takes up probably half of the entire room.  The
+billowing flames are in a steady rythmn, however, so you could probably run
+up to toss something inside and watch it melt into slag.  
+~
+human~
+AB DFIJZ 0 0
+60 0 10d50+9500 1d1+99 8d6+40 flame
+-120 -120 -120 -120
+FK ABCDLQab 0 0
+stand stand none 2500
+AHJMV ABCDEFGHIJK medium 0 the guilds~
+M give 14206 all~
+#14210
+huge tunnel drill machine~
+the tunnel drill machine~
+A huge, man-shaped machine is here, drilling against solid rock.
+~
+The machine is huge!  It's probably about thirty feet high, with a pair
+of roller wheels instead of feet and solid steel construction.  Massive
+steel plates cover much of its massive body.  A pair of enormous drills are
+attached to the thing's wrists.  
+~
+human~
+ABSTU DFVZ 0 0
+60 12 10d50+12500 1d1+999 8d8+55 thrust
+-34 -25 -32 -5
+ABCDEFHIJK ABQb CD 0
+stand stand none 6500
+AHJMV ABCDEFGHIJK medium 0 the guilds~
+M death 14203 100~
+M fight 14207 5~
+M random 14204 25~
+M fight 14230 10~
+#14211
+statue warrior brave~
+the Warrior Statue~
+A statue depicting a brave warrior stands here.
+~
+The tall, broad statue carries a large weapon, and doesn't seem about to
+let anyone pass unless they're a warrior.  
+~
+human~
+ABOT HNO 1000 0
+60 15 10d50+12500 1d1+99 8d6+40 slash
+-75 -75 -74 -30
+CDEFJKN AB CD 0
+stand stand none 0
+AHMV ABCDEFGHIJK huge 0 the guilds~
+M exall 14209 0~
+M speech 14208 let me pass~
+#14212
+cleric statue~
+the cleric statue~
+A statue of a serene cleric is standing here, blocking the tunnel.
+~
+Like the other statues, this one's big. And mean-looking.
+~
+human~
+ABQ DFHZ 1000 0
+60 12 10d50+12500 1d1+99 6d8+35 crush
+-50 -50 -50 -50
+DFHIK ABLQ CD 0
+stand stand none 500
+AHMV ABCDEFGHIJK huge 0 the guilds~
+M exall 14209 0~
+M speech 14210 let me pass~
+#14213
+thief statue~
+the thief statue~
+A statue of a skulking thief is crouching in the middle of the passage.
+~
+Like the other statues, this one's fairly large and nasty-looking, and
+blocks the tunnel completely.  
+~
+human~
+ABS DFHJZ 1000 0
+60 0 10d50+12500 1d1+99 5d6+30 slice
+-50 -50 -50 -50
+ABFIKN ABLQ 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK huge 0 the guilds~
+M speech 14211 let me pass~
+M exall 14209 0~
+#14214
+mage statue~
+the mage statue~
+A statue of an old mage stands here, guarding the passage.
+~
+This seems to be the final statue.  The statue depicts an old,
+white-beared man leaning heavily on a worn staff.  
+~
+human~
+ABR DFHJVZ 1000 0
+60 12 10d50+12500 1d1+99 6d8+55 magic
+-50 -50 -50 -50
+FK ABLQ CD 0
+stand stand none 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M exall 14209 0~
+M speech 14212 let me pass~
+#14215
+kirre tomb guardian~
+a kirre tomb guardian~
+An undead kirre is here, guarding the tomb.
+~
+It looks like a kirre - all multiple legs and long, catlike body. 
+However, it reeks of death and is covered in old, moldy bandages.  How
+pleasant.  
+~
+cat~
+ABFOQT DJVZ -950 0
+60 15 10d50+9500 1d1+99 9d9+45 claw
+-45 -45 -45 -45
+ADEFHKMN ABab HLQ I
+stand stand none 12000
+AGIV ACDEFHJKQUV medium 0 the guilds~
+M fight 14231 10~
+#14216
+sliver tomb guardian~
+a sliver tomb guardian~
+A tall, chittering sliver is here, covered in bandages.
+~
+This sliver certainly looks long-dead.  Parts of its boney carapace have
+rotted away, and it's covered in old, moldy bandages.  
+~
+sliver~
+ABFOST DJVZc -850 0
+60 0 10d50+9750 1d1+99 8d8+45 thrust
+-65 -45 -30 -20
+ACDEFHINO ABQab BFILP EK
+stand stand none 12000
+ABGHMOZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M fight 14232 9~
+#14217
+gargoyle tomb guardian~
+a gargoyle tomb guardian~
+A tall, ancient-looking gargoyle stinks of death.
+~
+Phew.  This elderly gargoyle is covered in moss and lichen, and certainly
+looks like an unpleasant fellow to boot.  He stinks of decay and rot.  
+~
+human~
+ABFOT DHJTVZc -850 0
+60 7 10d50+9800 1d1+99 8d8+60 punch
+0 0 0 0
+ACDEFHIJKMNO ABab GIL LQ
+stand stand none 6500
+AHMV ABCDEFGHIJK large 0 the guilds~
+M fight 14233 10~
+#14218
+troll tomb guardian~
+a troll tomb guardian~
+A troll is here, covered in rotting bandages and smelling like a cesspool.
+~
+The troll is almost to hideous to look at.  He's covered in aging
+bandages and smells like he's been dead for centuries.  Which, as the case
+may be, is true.  
+~
+troll~
+ABFOT DFJVc -850 0
+60 12 10d50+10000 1d1+99 7d7+56 claw
+-45 -40 -50 -55
+ACDFHJKN ABLQab EGQ H
+stand stand none 5500
+ABHIMVZ ABCDEFGHIJKLPQUVWX large 0 the guilds~
+M fight 14234 8~
+#14219
+mirror golem~
+a {Rm{yi{Mr{Gr{co{Wr{x golem~
+A two-dimensional figure made entirely of mirrors slinks around.
+~
+The mirror golem is a strange beast, indeed.  It looks much like a piece
+of paper animated to move about, but, of course, is much larger.  It is
+vaguely man-shaped, with two long, bladed arms that it uses as weapons.  
+~
+human~
+AFQRU DFHZ 0 0
+58 5 10d50+8500 1d1+99 5d10+40 slash
+-30 -30 -30 -75
+ABCDEFKNOU ABLPQ FGHIJMNOR T
+stand stand none 15000
+AHJMV ABCDEFGHIJK medium 0 the guilds~
+M death 14285 50~
+#14220
+massive bug giant lightning stirge~
+a giant lightning stirge~
+A massive, electrical bug buzzes about in the air.
+~
+It looks like a huge mosquito, really.  It has a long, spikey probiscus
+that no doubt would be painful to be stabbed with, and crackling bursts of
+electricity surround the strange creature.  
+~
+centipede~
+AFGT DFTVZ -790 0
+53 5 10d50+6000 1d1+99 7d7+55 thrust
+-26 -26 -26 -26
+FHINO AJL BFI EK
+stand stand none 14000
+ABGO ACK huge 0 the guilds~
+M random 14236 4~
+#14221
+giant bug insect flames flaming stirge~
+a giant flaming stirge~
+A giant, buzzing insect is here, ignited in flames.
+~
+This looks like a gigantic mosquito - probably ten feet long from the end
+of its probiscus to its hind legs and wings.  It seems somehow surrounded in
+crackling flames.  
+~
+centipede~
+AFGST DFVZ -850 0
+55 6 5d10+7000 1d1+99 10d4+30 pierce
+-30 -30 -30 -30
+AFHIJKN ABHL BFGI EI
+stand stand none 5500
+ABGO ACK medium 0 the guilds~
+M random 14235 4~
+M death 14313 20~
+#14222
+glowing ball light will-o-wisp~
+a will-o-wisp~
+A faintly glowing ball of light hovers in mid-air.
+~
+Whoever made these creatures must have been very talented.  They look
+similar to ordinary balls of continual light, but much bigger and floating
+about with a kind of moderate intelligence.  They shock with minor jolts of
+electricity when angered.  
+~
+human~
+AFGRU BDEFHPTVZ 0 0
+57 20 50d10+8000 1d1+99 10d10+65 shock
+-70 -35 -35 -10
+AFO ABJO CD 0
+stand stand none 5700
+ACHJLMV ABCDEFGHIJK huge 0 the guilds~
+M grall 14254 100~
+#14223
+ghost black knight carnas paladin mandorian~
+the ghost of Mandorian, the Paladin of Carnas~
+The wavering ghost of a black knight stands here, moping about.
+~
+Mandorian was a tall, somewhat elderly-looking gentleman with a handlebar
+moustache and carefully combed black hair.  He still wears his ghostly black
+armor and carries a massive black tower shield, but all of it is wavering
+and insubstantial.  
+~
+human~
+ABe DJTZ -700 0
+48 5 25d10+3800 1d1+99 6d6+18 punch
+-25 -25 -25 -25
+FK ABCDLQ 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 14214 100~
+M random 14213 3~
+M random 14214 3~
+M random 14215 2~
+M give 14216 14237~
+#14224
+statue troll wizard gargnath~
+the statue of Gargnath~
+A statue of the ancient troll wizard Gargnath stands here resolutely.
+~
+The troll looks fairly ugly, though that's natural considering most
+trolls are, indeed, fairly grotesque looking.  The statue is extremely
+well-carved- it even looks like he's wearing a set of stone robes.  
+~
+troll~
+ABQR DFHJNOTVc 850 0
+60 6 50d10+15000 1d1+999 8d8+40 magic
+-45 -45 -45 -50
+AFHKO ABab CDQ H
+stand stand male 20000
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M speech 14239 continue~
+M speech 14244 tower~
+M speech 14243 velar~
+M speech 14242 gargnath~
+M speech 14241 dominia~
+M speech 14240 shandalar~
+M speech 14329 vault~
+M speech 14238 list topics~
+M grall 14237 50~
+M death 14222 100~
+M speech 14245 transport me~
+#14225
+statue ch'kq'at sliver druid~
+the statue of Ch'kq'at~
+A statue of an ancient-looking sliver stands here serenely.
+~
+This sliver must have been old even when the statue was made.  There's a
+mottled grey pattern on the statue's stone surface, and a number of mosses
+and lichens have resolutely clung to the outer surface in spots.  
+~
+centipede~
+ABQR DFHJTVZ 150 0
+60 6 50d10+14000 1d1+99 8d8+50 thrust
+-60 -60 -60 -60
+ADEFGHJK ABLQab CDFI E
+stand stand male 12500
+ABGO ACK medium 0 the guilds~
+M death 14225 100~
+M grall 14246 80~
+M speech 14247 list topics~
+M speech 14248 shandalar~
+M speech 14249 dominia~
+M speech 14250 slivers~
+M speech 14251 druids~
+M speech 14252 garden~
+M speech 14253 transport me~
+#14226
+avatar goddess selina~
+the Avatar of Selina~
+A glowing avatar of the goddess Selina stands here, bathed in light.
+~
+This figure is almost impossible to see - the glowing aura of light that
+surrounds it is blinding to the eye.  It is vaguely human-shaped, but much
+larger, but little other details than that can be seen.  
+~
+human~
+ABGQT DHJNOPTUVZc 1000 0
+60 25 50d10+22000 1d1+99 9d10+82 divine
+-94 -75 -33 -50
+ABCDEFHIJKLNO ABHILQab CD 0
+stand stand female 35000
+AHMV ABCDEFGHIJK huge 0 the guilds~
+M random 14262 4~
+M random 14263 5~
+M bribe 14295 1000000~
+M grall 14286 60~
+M speech 14294 shrine~
+M speech 14293 portal~
+M speech 14292 vault~
+M speech 14291 dragons~
+M speech 14290 dominia~
+M speech 14289 bosco~
+M speech 14288 selina~
+M speech 14287 list topics~
+M death 14223 100~
+#14227
+statue massive gargoyle warrior velar warlord~
+the statue of Velar, the Gargoyle Warlord~
+A statue of a massive gargoyle warrior stands silently here.
+~
+This guy's huge!  Judging by the rippling muscles defined on the statue,
+he must have been one hell of a fighter.  He wears little in the form of
+armor, but it's not as if someone who's as close to rock as can be really
+needs any.  
+~
+human~
+ABST DHJTUVZ 750 0
+60 20 50d10+16500 1d1+99 8d9+36 claw
+-50 -50 -50 -50
+ACDEFHIJKNO ABLQ CD 0
+stand stand male 25000
+AHMV ABCDEFGHIJKP large 0 the guilds~
+M death 14224 100~
+M grall 14255 60~
+M speech 14256 list topics~
+M speech 14257 vault~
+M speech 14258 dominia~
+M speech 14259 war~
+M speech 14260 dragons~
+M speech 14261 red dragon bottle~
+#14228
+portal guardian statue iron portaltrigg~
+the Portal Guardian~
+A huge, iron-clad statue stands here, guarding the glowing portal.
+~
+This massive, armored menace guards the huge grey portal that leads to
+who-knows-where.  He certainly looks too difficult to attack in any way.  
+~
+human~
+ABGI HNTU 500 0
+60 6 50d10+9500 1d1+99 8d6+28 punch
+-30 -30 -30 -30
+FK ABCDLQab 0 0
+stand stand none 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 14221 2~
+M grall 14219 40~
+M speech 14220 hail selina~
+#14229
+trigdude~
+the Trigdude~
+This is the trigger monster. Please do NOT move him from this room or change too many of his stats.
+~
+~
+human~
+ABGc 0 0 0
+1 0 10d10+10 1d1+999 1d1+10 punch
+0 0 0 0
+0 ABCDLQ 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 14269 15~
+#14230
+elder treant massive tree~
+an elder treant~
+An enormous tree stands here, moving slowly about.
+~
+The tree is a treant - but a huge variety never seen before.  This one
+must be ancient; its craggy surface is pockmarked with lichen and rock-hard
+bark.  It has two enormous branches for grabbing and pummeling, and a
+rough-hewn face peering out from its trunk.  
+~
+tree~
+ABT DJNVZac 880 0
+60 12 50d10+11000 1d1+99 8d8+28 beating
+-35 -35 -35 -10
+ACDFHIKLOU B CDI H
+stand stand either 7500
+ACHJMV ABCDEFGHIJKMN medium 0 the guilds~
+#14248
+Ystradgynlais dragon king ghost serpent slithering~
+the ghost of Ystradgynlais, King of Dragons~
+A slithering, serpent-like ghost protects the Kingsword.
+~
+The creature is massive!  The ghostly shape fits into the chamber just
+barely, and even so its wings and tail vanish outside the walls in certain
+places when it moves.  Whatever color it must have been is anyone's guess. 
+Its exact shape is fairly difficult to discern, since it wavers, fades, and
+changes shape moment by moment.  
+~
+human~
+ABGQRST DFHJNOPQTUVZ 0 0
+60 100 50d50+16500 1d1+999 12d12+85 claw
+-75 -66 -55 -75
+ABCDEFGHIJKLMNO ABLQab CD 0
+stand stand none 55000
+AHMVZ ABCDEFGHIJKPQUVX giant 0 the guilds~
+M fight 14267 10~
+M fight 14265 5~
+M fight 14266 10~
+M grall 14264 100~
+M fight 14270 6~
+M death 14268 100~
+M random 14272 100~
+#14249
+Ystradgynlais dragon king ghost elder wyrm secondform~
+Ystradgynlais, the Elder Wyrm~
+The Elder Wyrm Ystradgynlais is here, ghostlike and slithering.
+~
+In his advanced form, Ystradgynlais certainly looks much nastier.  He's
+more solid this time, giving the impression of almost lingering opaqueness. 
+He seems covered in spikes and much thicker scales, and is much, much
+bigger.  Not a good sign.  
+~
+human~
+ABGOQRST DFHJNOPQTUVZ 0 0
+60 25 50d50+24000 1d1+999 15d14+95 drain
+-44 -45 -47 -99
+ACDFHIKO ABLQab CDEFGIJKMNOPRT 0
+stand stand none 55000
+AHIMVZ ABCDEFGHIJKPQUVX huge 0 the guilds~
+M random 14273 5~
+M death 14271 100~
+M fight 14270 8~
+M fight 14273 6~
+#14250
+feral sliver~
+a feral sliver~
+A dirty, wild-looking sliver is here, prowling.
+~
+The sliver has obviously been down in the Vaults for an incredibly long
+time.  It's extremely dirty, and doesn't seem to be too friendly.  
+~
+centipede~
+ABST Z -450 0
+51 12 50d10+5000 1d1+99 5d8+30 thrust
+-18 -18 -18 -5
+FIN A BFIP EK
+stand stand either 5600
+ABGO ABCDEFGHKQUXY medium 0 the guilds~
+#14251
+kurnus legendary dwarf dwarven hero~
+Kurnus, the Legendary Hero~
+An ancient-looking dwarf mutters and grumbles to himself here.
+~
+Kurnus is old.  Extremely old, even for the considerable lifespans that
+dwarves have.  His long hair is completely white with age, though his beard
+and moustache are neatly combed.  He's dressed in ancient-looking armor,
+scarred and tattered with age and constant fighting.  Kurnus also reeks of
+Dwarven booze.  
+~
+dwarf~
+ABGST DHJVZc 750 0
+52 7 50d20+5000 1d1+99 7d7+25 punch
+-32 -32 -32 -8
+CDEFHIJKNS AB CLQ R
+stand stand male 6500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 14284 dance~
+M speech 14283 quaff~
+M speech 14281 enter~
+M speech 14282 commands~
+M speech 14280 drop all~
+M speech 14279 wear~
+M speech 14278 follow~
+M grall 14277 100~
+#14252
+selina's high priest willim grey old man robes~
+Selina's High Priest, Willim the Grey~
+An old man in long, flowing robes stands here serenely.
+~
+The old man is, well, old.  His hair is long and white, trailing in the
+faint breeze of the Shrine.  His robes are of utter white as well,
+unwrinkled even considering his age.  Perhaps the man's not even alive at
+all, but a mere enchantment like the rest of the Vault.  
+~
+human~
+ABGa DFHJTZc 1000 0
+56 100 50d50+9500 1d1+999 10d10+10 punch
+-50 -50 -50 -50
+0 ABCDLQ 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14253
+swinging battle axe trap~
+a swinging battle axe~
+A long, deadly battle axe swings from the ceiling.
+~
+This large, nasty-looking axe swings from side to side in the passage
+from a chain in the ceiling far above.  Judging by the pile of bones beneath
+it, others have tried to go past and failed.  Perhaps if you were hasted you
+could zip through without being killed by it.  
+~
+human~
+ABIO DF 0 0
+60 6 50d10+9500 1d1+99 8d6+28 slice
+-30 -30 -30 -30
+0 ABCDLQ 0 0
+stand stand none 0
+AHIJMV ABCDEFGHIJK small 0 the guilds~
+M exall 14296 0~
+#14254
+gnome sage blurgindal~
+Blurgindal, the gnome sage~
+An old, wizened gnome is here, wandering about the Vault corridors.
+~
+The sage is a terribly old, wrinkled gnome with a small pair of
+spectacles perched on his long nose.  He wears a pair of dirty pants and a
+worn leather jerkin, and carries an enormous book.  Perhaps if you {ggave{x
+him something, he would give you some information about it.  He only knows
+the history of items from the Vault, however.  
+~
+dwarf~
+AHQR DFJZ 440 0
+51 10 10d10+5000 1d1+99 7d7+12 punch
+-25 -25 -25 -25
+0 AB CLQ R
+stand stand male 6500
+AHMV ABCDEFGHIJK small 0 the guilds~
+M random 14298 75~
+M give 14299 all~
+M give 14297 all~
+#14255
+Jinna elven ranger elf grungy female~
+Jinna, the Elf Ranger~
+A grungy female elf is here, calmly skinning a dead troglodyte.
+~
+She doesn't look particularly old, but judging by the scars upon her
+she's been down here for quite a long time.  Her leather armor is dirty, her
+weapons mildly rusted, but her hunter's knife is sharp and gleaming.  If you
+gave her a pelt, no doubt she could make something grand out of it.  
+~
+elf~
+ABSTY DFJZ 500 0
+45 5 10d30+2500 1d1+99 3d12+5 punch
+-5 -5 -5 -5
+CFK BCDLQ B Z
+stand stand female 6500
+AHMV ABCDEFGHIJK small 0 the guilds~
+M give 14302 14200~
+M grall 14301 100~
+M random 14298 75~
+M give 14304 14274~
+M give 14306 14276~
+M give 14314 14278~
+#14256
+homeless hank dirty old man~
+Homeless Hank~
+A dirty old man is here, mumbling to himself.
+~
+This dirty old man has obviously been down here for a long time.  He's
+got a ragged, wild-looking beard with bugs crawling around in it, and a few
+pieces of old chicken.  He's carrying around a wooden horse he must have
+found in the garbage, and wears a ragged, torn top hat.  The smell coming
+off him is indescribable.  
+~
+human~
+ACH 0 150 0
+44 5 10d10+2600 1d1+99 3d12+8 punch
+-20 -21 -22 -6
+BFIJ 0 Q R
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 14305 8~
+#14257
+jet black sphinx statue guardian~
+a jet-black sphinx statue~
+A tall, sleek, sphinx made of black stone sits blocking the passage.
+~
+The statue is huge.  It's a sphinx; a catlike creation enchanted by magic
+and animated to protect the passageway.  They usually give riddles out to
+anyone before they let them pass.  This one is made of solid black onyx.  
+~
+dog~
+ABOST DFHJTVZ -760 0
+56 10 100d10+7500 1d1+99 10d7+34 claw
+-45 -42 -45 -10
+CDFHIKL ABLQ CD 0
+stand stand none 8500
+AGV ACDEFHJKPQUV huge 0 the guilds~
+M grall 14308 100~
+M speech 14309 coffin~
+M speech 14310 candle~
+M speech 14311 stable~
+M exall 14312 0~
+#0
+
+
+
+#OBJECTS
+#14200
+troglodyte skin~
+a troglodyte skin~
+The skin of a troglodyte is here. Gross.~
+skin~
+trash W AK
+0 0 0 0 0
+43 70 4500 P
+A
+18 3  
+#14201
+short black troglodyte spear~
+a black troglodyte spear~
+A short, black troglodyte spear lies on the ground.~
+wood~
+weapon CE AN
+staff 9 4 pierce F
+46 60 3000 P
+A
+19 2  
+#14202
+black troglodyte leggings leather~
+black troglodyte leggings~
+A set of leggings made of unidentifiable leather lie here.~
+leather~
+armor C AF
+8 8 6 3 0
+47 40 3800 P
+A
+19 2  
+#14203
+black troglodyte helmet~
+a black troglodyte helmet~
+A black helmet is here, lying on the ground.~
+iron~
+armor B AE
+6 8 8 2 0
+44 30 3600 P
+A
+20 -2  
+A
+18 1  
+#14204
+ancient dragonskin belt~
+an ancient dragonskin belt~
+An ancient-looking belt made of dragonskin sits in the dirt.~
+leather~
+armor 0 AL
+8 6 8 3 0
+48 20 3200 P
+A
+19 1  
+A
+18 2  
+A
+4 -1  
+#14205
+bag fried insects leather~
+a bag of fried insects~
+A small leather bag sits here, smelling fairly disgusting.~
+leather~
+container 0 AO
+50 0 0 10 75
+40 50 3400 P
+A
+9 25  
+#14206
+handful fried insects~
+a handful of fried insects~
+A handful of old dried cave insects is here. Yuck.~
+insects~
+pill U A
+42 'frenzy' 'reserved' 'reserved' 'reserved'
+42 5 1000 P
+#14207
+black handled shaman staff~
+a black-handled shaman staff~
+A long, black-handled staff is here, covered in old bones.~
+bone~
+light EGJ AO
+0 0 999 0 0
+49 90 8400 P
+A
+3 2  
+A
+12 30  
+A
+4 1  
+#14208
+massive stalactite stone club~
+a massive stalactite club~
+A huge slab of stone is here on the ground.~
+stone~
+weapon 0 AN
+mace 7 6 thwack F
+50 250 2300 P
+A
+1 2  
+A
+18 -8  
+#14209
+decayed explorer skeleton~
+a skeleton~
+The decaying skeleton of an adventurer lies in a heap on the ground.~
+unknown~
+container 0 P
+100 0 0 100 100
+0 0 0 P
+#14210
+gleaming silver crossbow heartseeker~
+a gleaming silver crossbow named "{rHeartseeker{x"~
+A crossbow made of gleaming silver lies here on the ground.~
+silver~
+weapon AK AN
+ranged 6 7 sting F
+2
+47 200 6000 P
+A
+18 3  
+#14211
+massive onyx scimitar~
+a massive onyx scimitar~
+An enormous scimitar carved entirely from onyx lies here.~
+onyx~
+weapon AJ AN
+sword 8 5 slash F
+50 200 6000 P
+A
+19 4  
+A
+18 -6  
+#14212
+massive onyx warhammer hammer~
+a massive onyx warhammer~
+A huge hammer made entirely of onyx lies in the dirt.~
+onyx~
+weapon AL AN
+mace 7 6 smash F
+51 300 5000 P
+A
+18 2  
+A
+19 4  
+#14213
+huge onyx spear~
+a huge onyx spear~
+A nine-foot long onyx spear lies on the ground.~
+onyx~
+weapon AJ AN
+staff 8 5 stab F
+50 250 5000 P
+A
+2 -2  
+A
+18 3  
+#14214
+black onyx dragon scale shield scale~
+an onyx dragon-scale shield~
+A shield in the shape of a huge black scale lies on the ground.~
+onyx~
+armor AC AJ
+6 6 6 2 0
+50 200 4000 P
+A
+20 -3  
+A
+17 -10  
+#14215
+wand shandalar court wizard~
+the wand of the Shandalar Court Wizard~
+A long, narrow wand of black oak is here, glowing gently.~
+oak~
+wand ABY AO
+45 1 1 'chain lightning' 0
+50 120 2500 P
+A
+4 1  
+A
+3 2  
+A
+12 15  
+#14216
+gnomish hand drill~
+a gnomish hand drill~
+A bracer is here, with a large drill bit on the end of it.~
+steel~
+armor C AM
+6 6 6 2 0
+44 100 3500 P
+A
+18 -5  
+A
+19 3  
+#14217
+explorer hat light~
+an explorer's hat~
+A hard explorer's hat is here, with a light shining from the top.~
+brass~
+armor 0 AE
+5 5 5 5 0
+43 70 1600 P
+A
+3 1  
+A
+20 -2  
+#14218
+blueprint echo bell~
+a blueprint labeled "Echo Bell"~
+A blueprint lies here on the ground, a little smudged.~
+paper~
+map Y AY
+0 0 0 0 0
+1 45 850 P
+E
+blueprint echo bell~
+The blueprint is pretty straightforward, written in the
+srawling script of the gnomes.
+ 
+----------------------------------------------------------
+The echo bell is a very useful tool. With help from the
+dwarves, we've discovered that with the bell we can
+detect sizeable rock formations through solid earth,
+and can ring it much louder to carve tunnels into the
+ground, or knock down your neighbour's house. Fun!
+ 
+The only way to make it (that we know of!) is to take
+ten sheets of steel and combine them with this very
+blueprint. Then you can make the "gnomish echo bell"!
+ 
+ ----------------------------------------------------------
+~
+#14219
+gnomish blowtorch~
+a gnomish blowtorch~
+A long, narrow blowtorch is here, spitting fire.~
+unknown~
+wand Y AO
+20 6 6 'demonfire' 0
+35 10 3000 P
+A
+4 -4  
+#14220
+dragon skeleton~
+a dragon skeleton~
+A huge dragon skeleton is set up against the wall.~
+unknown~
+container Y P
+1000 0 0 1000 100
+0 30000 0 P
+#14221
+dragon curved tooth canine~
+a curved dragon tooth~
+A dragon's canine tooth is here, lying on the ground.~
+bone~
+weapon Y AN
+exotic 5 8 bite I
+47 100 5000 P
+A
+18 2  
+#14222
+pile rubble~
+a pile of rubble~
+A large pile of old rubble is lying on the ground.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#14223
+long slim book sliver lore~
+the Book of Sliver Lore~
+A long, slim book rests serenely here.~
+paper~
+map Y AO
+0 0 0 0 0
+4 30 1000 P
+A
+5 -3  
+A
+3 -3  
+A
+9 5  
+E
+book sliver lore~
+The book seems to detail the earliest known history
+of the sliver race during their time upon the
+continent of Dominia. It's fairly thorough, describing
+the various Sliver kings there have been over the
+centuries, as well as the numerous sliver heros
+down through the ages. Interesting.
+~
+#14224
+massive iron plate~
+a massive plate of iron~
+A huge sheet of blank iron stands here.~
+iron~
+trash Y A
+0 0 0 0 0
+53 750 2500 P
+#14225
+huge tunnel drill machine wreckage steaming~
+the steaming wreckage of the drill machine~
+A huge pile of steaming wreckage lies here.~
+metal~
+portal Ye P
+0 0 0 14272 0
+0 0 0 P
+E
+huge pile steaming wreckage drill machine~
+Looks like it's smashed a hole in the floor below.. perhaps you can
+{center wreckage{x to climb down deeper into the Vault.
+~
+#14226
+sheet steel plate~
+a sheet of steel plate~
+A carefully forged plate of pure steel lies here.~
+unknown~
+trash 0 AY
+0 0 0 0 0
+30 300 5000 P
+#14227
+gnomish echo bell~
+a gnomish {YE{ycho {CB{cell{x~
+A small, brass bell is here, humming fiercely.~
+brass~
+wand ABGY AOZ
+60 12 12 'earthquake' 0
+45 120 9000 P
+A
+3 3  
+#14228
+amulet cat baast~
+an amulet of Baast~
+An amulet depicting a reclining cat lies on the ground.~
+bronze~
+treasure AGLY AC
+0 0 0 0 0
+49 120 9000 P
+A
+3 2  
+A
+4 2  
+A
+13 -25  
+A
+12 5  
+#14229
+shield north wind~
+the Shield of the North Wind~
+A shield is here, depicting a swirling breeze.~
+air~
+armor ABY AJY
+12 12 12 8 0
+51 100 9000 P
+A
+18 3  
+A
+19 2  
+A
+13 10  
+#14230
+helm south wind~
+the Helm of the South Wind~
+A helm is here, with a pattern of swirling winds upon it.~
+air~
+armor ABEJ AEY
+9 9 9 5 0
+51 100 9000 P
+A
+19 2  
+A
+20 -5  
+#14231
+breastplate east wind~
+the Breastplate of the East Wind~
+A huge bronze breastplate is here, depicting swirling winds.~
+bronze~
+armor ABL ADY
+10 10 10 7 0
+51 100 9000 P
+A
+17 -3  
+A
+20 -3  
+A
+13 15  
+#14232
+green dragon scale boots~
+a pair of green dragonscale boots~
+A pair of old, green dragonscale boots lie in the dirt.~
+scale~
+armor ABJ AG
+7 7 7 3 0
+51 30 4000 P
+A
+2 1  
+A
+18 2  
+A
+19 1  
+#14233
+armbands west wind~
+the Armbands of the West Wind~
+A pair of gleaming silver armbands are here, patterned in vague wind shapes.~
+unknown~
+armor ABJL AIY
+8 8 8 3 0
+51 90 9000 P
+A
+3 2  
+A
+4 2  
+A
+12 5  
+A
+1 -2  
+#14234
+snaga sender blades no return~
+{xSnaga, the Blades of No Return~
+A massive butterfly-bladed axe is here, humming violently.~
+onyx~
+weapon ACEY AN
+polearm 5 8 drain CD
+51 100 7500 P
+#14235
+serrated cold steel blade arktisbrande~
+a cold steel blade named "{cArktisbrande{x"~
+A long, serrated steel blade lies on the ground, in a pile of snow.~
+ice~
+weapon AB AN
+dagger 5 8 frbite B
+51 50 8500 P
+A
+18 3  
+A
+19 3  
+#14236
+flail skulls carnas legacy~
+a flail made of skulls named "{DCarnas' Legacy{x"~
+An enormous flail with three heads lies in the dirt.~
+bone~
+weapon ABCEGJL AN
+flail 5 8 drain FH
+51 70 6500 P
+A
+12 15  
+A
+18 3  
+A
+19 2  
+#14237
+amulet carnas slaughter~
+the Amulet of Carnas~
+An amulet is here, depicting slaughter and bloodshed.~
+bone~
+treasure AL AC
+0 0 0 0 0
+10 50 4000 P
+A
+9 6  
+A
+13 -15  
+#14238
+ghostly glowing rune mark carnas~
+the Mark of Carnas~
+A ghostly, glowing rune hums in the air.~
+runic~
+potion ABY AE
+53 'sanctuary' 'frenzy' 'giant strength' 'reserved'
+51 10 3500 P
+A
+18 2  
+A
+19 1  
+#14239
+staff arcane might~
+the Staff of Arcane Might~
+A glowing, humming staff lies here in the dirt.~
+gold~
+weapon ABGHY AN
+exotic 5 8 magic G
+50 15 25000 P
+A
+4 1  
+A
+12 50  
+#14240
+ring regeneration~
+the Ring of Regeneration~
+A glowing golden ring is here, humming.~
+gold~
+gem ABGKY ABR
+0 0 0 0 0
+50 1 1 'lesser revitalize' 0
+51 10 7000 P
+A
+12 20  
+A
+13 20  
+#14241
+ball white light~
+a ball of white light~
+A ball of white light shimmers here.~
+light~
+light A AO
+0 0 999 0 0
+50 10 5000 P
+A
+12 35  
+A
+17 -15  
+#14242
+wooden hatched grovewarder~
+a wooden hatchet named "{gGrovewarder{x"~
+A long, smooth wooden hatchet lies on the ground. Oddly, flowers have sprung up around it.~
+wood~
+weapon ABJKd AN
+axe 5 8 wrath BH
+51 25 5000 P
+A
+3 2  
+A
+4 2  
+#14243
+circlet sun~
+the Circlet of the Sun~
+A circlet woven of golden fibres is here, glowing silently.~
+gold~
+gem ABJKY AE
+0 0 0 0 0
+51 10 5000 P
+A
+4 5  
+#14244
+blue crystal ring tears moon~
+a blue crystal ring named "{BTears of the Moon{x"~
+A glowing blue crystal ring lies on the ground.~
+crystal~
+drink ABJKY AB
+500 500 'water' 0 0
+51 10 9000 P
+A
+12 25  
+A
+4 2  
+#14245
+word selina scroll~
+the Word of Selina~
+A small scroll is here, with a single word written on it.~
+paper~
+scroll GY A
+50 'holy word' 'haste' 'heal' 'reserved'
+45 10 5500 P
+E
+word selina scroll~
+The word is almost too small to be seen..  maybe you should
+recite it aloud and see what happens?
+~
+#14246
+royal crown dominia~
+the Royal Crown of Dominia~
+A glowing, gem-studded crown sits here discarded.~
+gold~
+armor ABCFGY AE
+4 4 4 4 0
+51 80 8000 P
+A
+4 2  
+A
+13 10  
+A
+12 10  
+A
+26 2  
+#14247
+massive silver tower shield defender~
+a massive silver tower shield named '{gDefender{x'~
+A huge silver shield is on the ground here.~
+silver~
+armor AB AJ
+10 10 10 5 0
+51 100 9000 P
+A
+13 15  
+A
+19 2  
+A
+17 -20  
+#14248
+tiny red dragon bottle~
+a tiny {rred{x dragon in a bottle~
+Strange.. a small bottle is here, containing a tiny baby dragon.~
+glass~
+treasure ABY AQ
+0 0 0 0 0
+46 50 2500 P
+A
+20 -4  
+A
+2 1  
+#14249
+glowing onyx key~
+a glowing {Donyx{x key~
+A glowing onyx key is here, floating in midair.~
+void~
+key P A
+0 0 0 0 0
+55 1 1 P
+#14250
+glowing amethyst key~
+a glowing {camethyst{x key~
+A glowing amethyst key is here, floating in midair.~
+unknown~
+key P A
+0 0 0 0 0
+55 1 1 P
+#14251
+glowing opal key~
+a glowing {Dopal{x key~
+A glowing opal key sits here.~
+unknown~
+key P A
+0 0 0 0 0
+55 1 1 P
+#14252
+glowing emerald key~
+a glowing {gemerald{x key~
+A glowing emerald key lies here.~
+unknown~
+key P A
+0 0 0 0 0
+55 1 1 P
+#14253
+glowing grey portal~
+a glowing grey portal~
+{cA tall, glowing grey archway is here.{x~
+unknown~
+trash Y P
+0 0 0 0 0
+0 0 0 P
+E
+tall glowing grey archway portal~
+The tall, glowing archway is, it seems, a portal to somewhere nearby.
+However, it doesn't currently look active. Perhaps the guardian that
+stands nearby could transfer you if you said 'hail selina'. Only do
+this after all four statues have been defeated at the same time,
+however.
+~
+#14254
+glowing doorway midair portal~
+a glowing doorway~
+A glowing doorway hovers in midair. Perhaps it will take you back to the Vault.~
+unknown~
+portal 0 0
+0 0 0 14319 0
+0 0 0 P
+#14255
+glowing doorway portal~
+a glowing doorway~
+A glowing doorway stands here in mid-air.~
+iron~
+portal Ye P
+0 0 0 14321 0
+0 0 0 P
+#14256
+spring water~
+a spring of water~
+A broad spring flows through the room.~
+unknown~
+fountain Y P
+999 999 'water' 0 0
+0 0 0 P
+#14257
+handful silver cherries~
+a handful of silver cherries~
+A handful of silvery cherries lies on the ground. Yum!~
+fruit~
+pill Y A
+55 'infravision' '(null)' 'reserved' 'reserved'
+45 1 5500 P
+#14258
+copper vine blossom~
+a copper vine blossom~
+A copper-coloured vine blossom is here in the dirt.~
+fruit~
+pill Y A
+42 'frenzy' 'faerie fire' 'reserved' 'reserved'
+45 1 5500 P
+#14259
+shrieking raspberries~
+some shrieking raspberries~
+How strange. These raspberries appear to be shrieking loudly!~
+unknown~
+pill Y A
+42 'shield' 'stone skin' 'invisibility' 'reserved'
+45 1 5500 P
+#14260
+golden apples~
+the golden apples~
+A small pile of apples are here, gleaming of gold.~
+unknown~
+pill Y A
+42 'heal' 'sanctuary' 'protection evil' 'reserved'
+44 1 7500 P
+#14261
+black-hilted sword townsaver~
+a black-hilted sword called "Townsaver"~
+A black-hilted sword is here. Looks like there's engravings on the hilt.~
+steel~
+weapon AGHM AN
+sword 9 4 pierce D
+50 90 2500 P
+A
+19 3  
+A
+13 -25  
+A
+18 2  
+E
+black-hilted sword townsaver engravings hilt~
+{x     Long roads the Sword of Fury makes,
+{x           Hard walls it builds around the soft.
+{x     The fighter who Townsaver takes,
+{x           Can bid farewell to home and croft.
+~
+#14262
+blue crystal pillar sword dominian kingsword~
+blue crystal pillar~
+{cA tall, blue crystal pillar stands here. The Kingsword rests on top.{x~
+unknown~
+trash Y P
+0 0 0 0 0
+0 0 0 P
+E
+blue crystal pillar dominian kingsword~
+The Kingsword is a tall, sleek-looking weapon with a hilt covered in
+jewels and gems.  It hums faintly in the air, as if anxious to leave this
+resting place.  However, taking it is certainly not as easy as merely
+plucking it from the pillar.  
+~
+#14263
+decayed remains adventurer skeleton corpse~
+a skeleton~
+The decaying remains of an adventurer lies in a heap on the ground.~
+bone~
+container 0 P
+100 0 0 100 100
+0 0 0 P
+#14264
+iron chain whip~
+an iron chain~
+A long length of chain is formed into a deadly whip.~
+iron~
+weapon H AN
+whip 9 4 whip 0
+48 56 4500 P
+A
+2 1  
+A
+18 2  
+A
+19 2  
+#14265
+lost axe dwarven rage battleaxe steel~
+the lost axe, '{rDwarven Rage{x'~
+A violently humming steel battleaxe lies here.~
+steel~
+weapon ABK AN
+axe 6 6 chop D
+51 60 5200 P
+A
+19 3  
+A
+5 2  
+A
+1 2  
+#14266
+glowing reflective glass shield magebane~
+the Magebane shield~
+A glassy, reflective shield named Magebane lies on the ground.~
+glass~
+armor ABFSa AJ
+4 4 4 15 0
+51 70 6500 P
+A
+20 -7  
+A
+5 2  
+#14267
+breastplate sliver shell leather~
+a breastplate made of sliver shell~
+A leathery breastplate made of hardened sliver shell lies here.~
+leather~
+armor SY AD
+9 10 8 3 0
+50 65 7500 P
+A
+13 10  
+A
+20 -3  
+A
+17 -15  
+#14268
+long jagged glass mirror shard~
+a long, jagged shard of glass~
+A shard of mirror golem is here, lying on the ground.~
+glass~
+weapon JK AN
+dagger 6 6 stab DO
+50 12 1200 P
+A
+18 7  
+A
+19 3  
+#14269
+glowing shimmering portal doorway~
+a shimmering portal~
+A glowing, shimmering portal hangs in mid-air.~
+unknown~
+portal Ye P
+0 0 0 14322 0
+0 0 0 P
+#14270
+glass weapon case~
+a weapon case~
+A long, narrow glass weapons case sits at the end of the Shrine.~
+glass~
+container Y P
+1000 AC 0 1000 100
+0 10000 0 P
+#14271
+silver mace selina's legacy~
+a silver mace named '{cSelina's Legacy{x'~
+A gleaming silver mace lies discarded on the ground.~
+silver~
+weapon ABILY AN
+mace 7 5 wrath I
+51 70 9000 P
+A
+19 5  
+A
+4 2  
+A
+3 2  
+#14272
+troglodyte skin boots~
+a pair of troglodyte-skin boots~
+A pair of gross-smelling troglodyte-skin boots lie here.~
+leather~
+armor SY AG
+6 7 5 6 0
+45 35 12000 P
+A
+2 2  
+A
+19 1  
+#14273
+dominian kingsword sword long narrow blade~
+{yThe Dominian Kingsword{x~
+A long, narrow {yblade{x lies on the ground.~
+gold~
+weapon ABGHI ANR
+sword 5 9 divine D
+50 1 1 'thorn mantle' 0
+51 100 15000 P
+A
+19 6  
+A
+13 40  
+A
+1 2  
+#14274
+hollow cave insect shell carapace~
+a cave insect shell~
+The hollow shell of a cave bug is here.~
+slime~
+trash 0 A
+0 0 0 0 0
+40 20 7500 P
+#14275
+pair exoskeleton gloves insect~
+insect exoskeleton gloves~
+A pair of gloves made of insect shells is here.~
+shell~
+armor SY AH
+9 7 3 5 0
+48 50 9500 P
+A
+13 24  
+A
+1 2  
+A
+20 -1  
+#14276
+shark skin scales~
+a shark skin~
+A shark skin is here, covered in tiny scales.~
+unknown~
+trash P A
+0 0 0 0 0
+1 10 5500 P
+#14277
+potion vial shark bite~
+a potion labeled "Shark Bite"~
+A vial is here, labeled "Shark Bite".~
+slime~
+potion AY A
+48 'infravision' 'frenzy' 'reserved' 'reserved'
+51 1 7500 P
+#14278
+fiery stinger fire stirge~
+a fire stirge's stinger~
+A long, narrow, fiery stinger lies smoldering on the ground.~
+chitin~
+weapon AP AN
+dagger 6 6 sting A
+48 24 8500 P
+A
+19 3  
+#14279
+flame-encased war-spear "ragnarok" ragnarok~
+a flame-encased war-spear named '{rRagnarok{x'~
+A long, fiery war-spear lies on the ground, smoldering.~
+fire~
+weapon ABJL AN
+staff 5 8 flame F
+51 30 9500 P
+A
+19 3  
+A
+18 3  
+#14280
+decayed explorer skeleton~
+a skeleton~
+The decaying skeleton of an adventurer lies in a heap on the ground.~
+unknown~
+container 0 P
+100 0 0 100 100
+0 0 0 P
+#14281
+decayed explorer skeleton~
+a skeleton~
+The decaying skeleton of an adventurer lies in a heap on the ground.~
+unknown~
+container 0 P
+100 0 0 100 100
+0 0 0 P
+#14282
+decayed explorer skeleton~
+a skeleton~
+The decaying skeleton of an adventurer lies in a heap on the ground.~
+unknown~
+container 0 P
+100 0 0 100 100
+0 0 0 P
+#14283
+decayed explorer skeleton~
+a skeleton~
+The decaying skeleton of an adventurer lies in a heap on the ground.~
+unknown~
+container 0 P
+100 0 0 100 100
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#14336
+A Rocky Ledge~
+The ledge is large and can, thankfully, support a great deal of weight. 
+It's not yet near the top of the cliff itself, however, but merely a
+resting-place carved into the sheer rock of the enormous vertical tunnel. 
+Carvings of various scenes are marked into the walls in various places -
+battles between armies, wizards casting great magics, great cities crumbling
+and falling into the ocean.  A new set of stairs heads up higher through the
+tunnel.  
+~
+0 9 0
+D1
+~
+~
+0 0 14335
+D4
+~
+~
+0 0 14337
+S
+#14337
+Up the Stairs~
+The stairs continue to head slowly upwards out of the tunnel.  It's very
+difficult to maneuver through the staircase itself, since the steps aren't
+terribly wide and there is no railing to speak of.  Also, a low, deep
+humming of wind occasionally threatens to drag travellers back down to the
+bottom of the tunnel itself.  
+~
+0 9 0
+D4
+~
+~
+0 0 14338
+D5
+~
+~
+0 0 14336
+S
+#14338
+Up the Stairs~
+Near the top!  The staircase begins here, trailing in a loop around the
+outer wall of the enormous vertical tunnel.  It's so wide that it's nearly
+impossible to even see the other end of the gorge, and the curve is barely
+noticeable when one is travelling upon the steps.  
+~
+0 9 0
+D4
+~
+~
+0 0 14222
+D5
+~
+~
+0 0 14337
+S
+#14339
+Selina's Shrine~
+The Shrine is a simple, octagonal gazebo with a thick, stout wooden roof.
+Eight sturdy marble pillars surround the shrine, forming a sort of barrier
+to the outside world.  And what a world it is!  There is nothing, as far as
+the eye can see, except rolling clouds surrounding and blue skies above. 
+It's as if the entire Shrine is floating miles above the land!  The clouds
+form a dense valley below as well, blocking sight of the land.  The wind
+rustles mildly, smelling faintly of roses.  It is a calm, quiet spot,
+perfect for relaxing and resting.  
+~
+0 270008324 0
+M 150 H 150
+S
+#14200
+Shandalar Cemetery~
+The old Shandalar Cemetery is a grim and featureless expanse of fields
+and gravestones.  Largely unnoticed by the populace at large, the gates were
+only recently opened to the public after many years of renovations.  A worn
+dirt path meanders through the rolling hills, up towards a much larger,
+somewhat imposing stone crypt, to the north.  
+~
+0 0 4
+D0
+~
+~
+0 0 14201
+D2
+~
+~
+0 0 31252
+S
+#14201
+Inside the Crypt~
+The dank, dingy crypt is cramped tightly with old, dusty coffins and
+cairns.  Definately not a place to remain for long.  The musty scent of mold
+and mildew permeates the room, the floor a crumbled marble tile.  The names
+on the tombs and crypts seem to have all been smudged out over time -
+obviously whoever's been interred here have layed in peace for aeons.  To
+the west, however, is a gaping hole in the rock wall.  Interesting.  
+~
+0 268435465 0
+D2
+~
+~
+0 0 14200
+D3
+~
+~
+0 0 14202
+S
+#14202
+Rubble-Strewn Chamber~
+The bodies stuck into the wall alcoves here seem much further apart, as
+if the builders and diggers were loathe to proceed any further then they had
+do, down here in the murk and gloom.  Odd noises come from the shadows, and
+faint trails of some creature is left in the dust.  At the far corner of the
+room appears to be a hole, as if a great rent were merely torn directly into
+the floor.  
+~
+0 9 0
+D1
+~
+~
+0 0 14201
+D5
+~
+~
+0 0 14203
+S
+#14203
+Bottom of the Passage~
+The catacombs here trail into plain underground tunnels, with little to
+no sign of previous civilized habitation.  In fact, they now appear to crawl
+with various odd subterranean animals, some of which no doubt want to eat
+such a warm-blooded creature like yourself for breakfast.  Southwards the
+tunnel continues, though the dirt appears to change to mostly buried natural
+rock.  
+~
+0 9 0
+D2
+~
+~
+0 0 14204
+D4
+~
+~
+0 0 14202
+S
+#14204
+Before the Vault~
+The catacomb tunnel abruptly ends here, and rather than the ordinary
+blank stone of the catacomb walls, the floor, ceiling, and walls meld into a
+form of odd steel, all coming together in the shape of a massive doorway. 
+The door itself looks ancient - writing along the outer rim is completely
+undecipherable from age.  However, it still looks to be in good enough
+repair to enter.  There is, however, one legible sign pasted to the front: 
+ 
+{x                  {cVault One{x
+~
+0 9 0
+D0
+~
+~
+0 0 14203
+D2
+~
+~
+1 0 14205
+S
+#14205
+Above the Stairs~
+A metal catwalk winds down into the darkness, though various dark and
+disturbing shapes are eventually revealed to you by the flickering light of
+torches.  A massive, darkness-shrouded hall opens up somewhere far below, so
+far that it's impossible to see the walls or ceiling, just the metallic,
+grated floor.  A somewhat musty scent wafts through, and there is the sound
+of restless moving, of chittering, of odd voices echoing from the gloom. 
+Eerie.  
+~
+0 9 0
+D0
+~
+~
+1 0 14204
+D5
+~
+~
+0 0 14206
+S
+#14206
+Bottom of the Stairs~
+Eerie remnants of the past lie here in piles of refuse.  A huge, rusty
+pile of metal beams lays against the far wall, scattering the light into
+gleaming reflections.  Crates and boxes lay sprawled in the corners of the
+room as well, and odd underground creatures peer at from around them.  Cold
+white eyes stare from various darkened corners.  A sense of malevolence
+permeates the Vault; a definite feeling that strangers are not welcome.  
+~
+0 9 0
+D0
+~
+~
+0 0 14207
+D4
+~
+~
+0 0 14205
+S
+#14207
+Entrance to Guard Barracks~
+A narrow tunnel heads both north and south, though it appears that it
+doesn't remain as a tunnel for long.  The sound of restless movement echoes
+easily from the north, though it's far too dark to detect what, precisely,
+might be lurking there.  This place must have been sealed for a tremendously
+long time, however - the few items of interest are worn down to nothing.  
+~
+0 9 0
+D0
+~
+~
+0 0 14208
+D2
+~
+~
+0 0 14206
+S
+#14208
+Guard Barracks~
+This was, rather obviously, a guardhouse for the earliest protectors of
+the Vault.  On the west side of the large, rectangular chamber is a number
+of ancient-looking beds, most of them beyond all possible recognition.  A
+number of guard stations are placed about the massive chamber, likely in
+case of attacks so they could defend it easily.  The rest of the room has
+deteriorated far too much to be recognizable.  
+~
+0 9 0
+D0
+~
+~
+0 0 14211
+D1
+~
+~
+0 0 14210
+D2
+~
+~
+0 0 14207
+D3
+~
+~
+0 0 14209
+S
+#14209
+Guard Barracks~
+On this west side of the chamber appears to be the living quarters of the
+old Vault guards - though now, it is home to a number of large, ugly
+troglodytes.  Their nests and lairs are so hidden, it might be impossible to
+clear the entire place for very long before they just come back again. 
+Definately not a pleasant place to live, unless you're a troglodyte.  
+~
+0 9 0
+D0
+~
+~
+0 0 14212
+D1
+~
+~
+0 0 14208
+S
+#14210
+Guard Barracks~
+Large, ancient piles of metal and decayed wood are piled up along the
+walls, though judging by the amount of rust and mold covering everything,
+there is nothing at all of value worth scrounging.  Old guard houses have
+long since been abandoned to time and the insects that run rampant through
+the barracks.  
+~
+0 9 0
+D0
+~
+~
+0 0 14213
+D3
+~
+~
+0 0 14208
+S
+#14211
+Guard Barracks~
+This was, rather obviously, a guardhouse for the earliest protectors of
+the Vault.  On the west side of the large, rectangular chamber is a number
+of ancient-looking beds, most of them beyond all possible recognition.  A
+number of guard stations are placed about the massive chamber, likely in
+case of attacks so they could defend it easily.  The rest of the room has
+deteriorated far too much to be recognizable.  Troglodytes seem to have
+destroyed anything of interest, as well.  Maybe there will be more items
+deeper in the Vault.  
+~
+0 9 0
+D0
+~
+~
+0 0 14214
+D1
+~
+~
+0 0 14213
+D2
+~
+~
+0 0 14208
+D3
+~
+~
+0 0 14212
+S
+#14212
+Guard Barracks~
+The central western section of the guard chamber is largely empty, save
+for the combined refuse of hundreds of years of troglodyte owners.  Whatever
+remained of the guard's furniture has mainly gone to the creation of the
+troglodyte's nests and weapons.  Judging by the amount of insects scuttling
+about, they even have plenty to eat.  
+~
+0 9 0
+D0
+~
+~
+0 0 14215
+D1
+~
+~
+0 0 14211
+D2
+~
+~
+0 0 14209
+S
+#14213
+Guard Barracks~
+Large, ancient piles of metal and decayed wood are piled up along the
+walls, though judging by the amount of rust and mold covering everything,
+there is nothing at all of value worth scrounging.  Old guard houses have
+long since been abandoned to time and the insects that run rampant through
+the barracks.  
+~
+0 9 0
+D0
+~
+~
+0 0 14216
+D2
+~
+~
+0 0 14210
+D3
+~
+~
+0 0 14211
+S
+#14214
+Guard Barracks~
+This was, rather obviously, a guardhouse for the earliest protectors of
+the Vault.  On the west side of the large, rectangular chamber is a number
+of ancient-looking beds, most of them beyond all possible recognition.  A
+number of guard stations are placed about the massive chamber, likely in
+case of attacks so they could defend it easily.  The rest of the room has
+deteriorated far too much to be recognizable.  To the north, however, the
+tunnel narrows drastically.  An exit or an entrance?  
+~
+0 9 0
+D0
+~
+~
+0 0 14217
+D1
+~
+~
+0 0 14216
+D2
+~
+~
+0 0 14211
+D3
+~
+~
+0 0 14215
+S
+#14215
+Guard Barracks~
+The corner section of the guard barracks is much like the rest of it. 
+The blank stone walls are bare of all ornaments, and the only light shining
+in the gloom comes from the illumination of subterranean insects.  The
+troglodytes have trashed this place beyond all recognition and it's been
+long since looted of anything of value, unfortunately.  
+~
+0 9 0
+D1
+~
+~
+0 0 14214
+D2
+~
+~
+0 0 14212
+S
+#14216
+Guard Barracks~
+Large, ancient piles of metal and decayed wood are piled up along the
+walls, though judging by the amount of rust and mold covering everything,
+there is nothing at all of value worth scrounging.  Old guard houses have
+long since been abandoned to time and the insects that run rampant through
+the barracks.
+~
+0 9 0
+D2
+~
+~
+0 0 14213
+D3
+~
+~
+0 0 14214
+S
+#14217
+Smooth Passageway~
+The great hall here narrows quickly, down into a barely lit hallway.  The
+walls are a dusty, smudged brown, the metal grating of the floor trailing
+off into a strange off-white tile.  The sounds of the creatures spawned here
+grows louder, the further one goes.  However, it most certainly does appear
+man-made and not a natural tunnel - the walls, ceiling and floor are
+perfectly square and very smooth to the touch, when slime or mold isn't in
+the way, that is.  
+~
+0 8 0
+D0
+~
+~
+0 0 14218
+D2
+~
+~
+0 0 14214
+S
+#14218
+Iron Staircase~
+An enormous iron staircase abruptly appears down the smooth tunnel,
+slowly curving its way up a massive hole in the stone ceiling.  There is
+very little light to illuminate the path upwards, and thus the tunnel in
+that direction is perfectly dark.  The sounds of the Vault's occupants
+echoes into one eerie, continues background noise.  Unpleasant, to say the
+least.  
+~
+0 9 0
+D2
+~
+~
+0 0 14217
+D4
+~
+~
+0 0 14219
+S
+#14219
+Around the Well~
+While the iron staircase heads down into the darkness, a much more
+impressive sight is to the north.  Past a frightfully short stone ledge, the
+rock simply..  ends.  An enormous tunnel heading straight up and down
+appears to simply carve straight through the earth.  It is so staggeringly
+huge that no light can pierce all the way to the opposite side.  A narrow
+pathway leads, however, around the outer rim of it.  
+~
+0 8 0
+D1
+~
+~
+0 0 14220
+D5
+~
+~
+0 0 14218
+S
+#14220
+Around the Well~
+The narrow path is just that - extremely narrow.  On the south side is
+the comforting face of the rock wall, but to the north is the expanse of
+empty air.  Judging by the low moaning of the wind coming from it, it
+wouldn't be safe to simply fly into it, even with magic or wings.  Its
+purpose is inexplicable, at least for now.  
+~
+0 8 0
+D1
+~
+~
+0 0 14221
+D3
+~
+~
+0 0 14219
+S
+#14221
+Around the Well~
+The path ledge curves here, heading in a slow, meandering path to both
+the north and the west.  Only the faintest of lights illuminates the stone
+ledge - the light of annoying underground insects that buzz here and there. 
+Not surprisingly, none of them seem too eager to fly out into the massive
+void of the well to the northwest.  
+~
+0 8 0
+D0
+~
+~
+0 0 14222
+D3
+~
+~
+0 0 14220
+S
+#14222
+Around the Well~
+The narrow path is just that - extremely narrow.  On the east side is the
+comforting face of the rock wall, but to the west is the expanse of empty
+air.  Judging by the low moaning of the wind coming from it, it wouldn't be
+safe to simply fly into it, even with magic or wings.  Its purpose is
+inexplicable, at least for now.  
+~
+0 8 0
+D0
+~
+~
+0 0 14223
+D2
+~
+~
+0 0 14221
+D5
+~
+~
+0 0 14338
+S
+#14223
+Around the Well~
+The path ledge curves here, heading in a slow, meandering path to both
+the south and the west.  Only the faintest of lights illuminates the stone
+ledge - the light of annoying underground insects that buzz here and there. 
+Not surprisingly, none of them seem too eager to fly out into the massive
+void of the well to the southwest.  
+~
+0 8 0
+D2
+~
+~
+0 0 14222
+D3
+~
+~
+0 0 14224
+S
+#14224
+Around the Well~
+The narrow path is just that - extremely narrow.  On the north side is
+the comforting face of the rock wall, but to the south is the expanse of
+empty air.  Judging by the low moaning of the wind coming from it, it
+wouldn't be safe to simply fly into it, even with magic or wings.  Its
+purpose is inexplicable, at least for now.  
+~
+0 8 0
+D1
+~
+~
+0 0 14223
+D3
+~
+~
+0 0 14225
+S
+#14225
+Stone Bridge~
+The eastern stone ledge leads towards another fissure in the rock, though
+not nearly as large as the huge one to the south.  The northern path seems
+to lead to a wide, arching stone bridge without guard rails or even supports
+beneath it.  Beyond the edge is only empty air; it's impossible to tell how
+deep the thing is.  Best not to fall off.  
+~
+0 8 0
+D0
+~
+~
+0 0 14226
+D1
+~
+~
+0 0 14224
+S
+#14226
+On the Stone Bridge~
+The enormous stone bridge heads both north and south, arching
+considerably near the apex of the curve.  Whatever it arches over is a
+mystery, for the blackness of the tunnel is complete at those distances. 
+The chittering of subterranean insects and spiders, however, are certainly
+no mystery.  
+~
+0 8 0
+D0
+~
+~
+0 0 14227
+D2
+~
+~
+0 0 14225
+S
+#14227
+On the Stone Bridge~
+The enormous stone bridge heads both north and south, arching
+considerably near the apex of the curve.  Whatever it arches over is a
+mystery, for the blackness of the tunnel is complete at those distances. 
+The chittering of subterranean insects and spiders, however, are certainly
+no mystery.  
+~
+0 8 0
+D0
+~
+~
+0 0 14228
+D2
+~
+~
+0 0 14226
+S
+#14228
+On the Stone Bridge~
+The enormous stone bridge heads both north and south, arching
+considerably near the apex of the curve.  Whatever it arches over is a
+mystery, for the blackness of the tunnel is complete at those distances.
+The chittering of subterranean insects and spiders, however, are certainly
+no mystery.
+~
+0 8 0
+D0
+~
+~
+0 0 14229
+D2
+~
+~
+0 0 14227
+S
+#14229
+On the Stone Bridge~
+The enormous stone bridge heads both north and south, arching
+considerably near the apex of the curve.  Whatever it arches over is a
+mystery, for the blackness of the tunnel is complete at those distances.
+The chittering of subterranean insects and spiders, however, are certainly
+no mystery.
+~
+0 8 0
+D0
+~
+~
+0 0 14230
+D2
+~
+~
+0 0 14228
+S
+#14230
+Stone Ledge~
+The ledge of stone finally ends here, heading to an even narrower tunnel
+heading deeper down into the Vault.  Ancient markings line the walls nearby,
+though they're so old and covered in mosses that it's impossible to tell
+what they might have said.  Down leads into the darkness, south heads back
+out onto the stone ledge.  
+~
+0 1032 0
+D2
+~
+~
+0 0 14229
+D5
+~
+~
+0 0 14231
+S
+#14231
+Bottom of the Ledge~
+Strange.  The stone tunnel here ends, the smooth slope travelling back up
+towards the stone bridge.  That, however, isn't what's strange; the rock
+wall, instead of continuing to be ordinary rock, seems to meld into a form
+of coral, or shell - very similar, in fact, to a snail's shell, only much,
+much harder.  The tunnel spirals around in a circle, starting to the north. 
+~
+0 9 0
+D0
+~
+~
+0 0 14232
+D4
+~
+~
+0 0 14230
+S
+#14232
+Travelling the Spire~
+The coral-like rock of the spire is omnipresent.  Even the floor and the
+ceiling are made of the same blank whitish material that glows slightly in
+any sort of light.  It's oddly like travelling through a snail's shell. 
+There doesn't appear to be much of interest down the entire spiral except
+for whatever strange creatures live here.  The faint sound of running water
+echoes from somewhere down below.  
+~
+0 9 0
+D2
+~
+~
+0 0 14231
+D3
+~
+~
+0 0 14233
+S
+#14233
+Travelling the Spire~
+The coral-like rock of the spire is omnipresent.  Even the floor and the
+ceiling are made of the same blank whitish material that glows slightly in
+any sort of light.  It's oddly like travelling through a snail's shell. 
+There doesn't appear to be much of interest down the entire spiral except
+for whatever strange creatures live here.  The faint sound of running water
+echoes from somewhere down below.  
+~
+0 9 0
+D1
+~
+~
+0 0 14232
+D2
+~
+~
+0 0 14234
+S
+#14234
+Travelling the Spire~
+The coral-like rock of the spire is omnipresent.  Even the floor and the
+ceiling are made of the same blank whitish material that glows slightly in
+any sort of light.  It's oddly like travelling through a snail's shell.
+There doesn't appear to be much of interest down the entire spiral except
+for whatever strange creatures live here.  The faint sound of running water
+echoes from somewhere down below.
+~
+0 9 0
+D0
+~
+~
+0 0 14233
+D1
+~
+~
+0 0 14235
+S
+#14235
+Travelling the Spire~
+The coral-like rock of the spire is omnipresent.  Even the floor and the
+ceiling are made of the same blank whitish material that glows slightly in
+any sort of light.  It's oddly like travelling through a snail's shell. 
+There doesn't appear to be much of interest down the entire spiral except
+for whatever strange creatures live here.  The faint sound of running water
+echoes from somewhere down below.  
+~
+0 9 0
+D0
+~
+~
+0 0 14236
+D3
+~
+~
+0 0 14234
+S
+#14236
+Travelling the Spire~
+The coral-like rock of the spire is omnipresent.  Even the floor and the
+ceiling are made of the same blank whitish material that glows slightly in
+any sort of light.  It's oddly like travelling through a snail's shell.
+There doesn't appear to be much of interest down the entire spiral except
+for whatever strange creatures live here.  The faint sound of running water
+echoes from somewhere down below.
+~
+0 9 0
+D2
+~
+~
+0 0 14235
+D3
+~
+~
+0 0 14237
+S
+#14237
+Travelling the Spire~
+The coral-like rock of the spire is omnipresent.  Even the floor and the
+ceiling are made of the same blank whitish material that glows slightly in
+any sort of light.  It's oddly like travelling through a snail's shell.
+There doesn't appear to be much of interest down the entire spiral except
+for whatever strange creatures live here.  The faint sound of running water
+echoes from somewhere down below.
+~
+0 9 0
+D1
+~
+~
+0 0 14236
+D2
+~
+~
+0 0 14238
+S
+#14238
+Stairs before the Waterfall~
+The coral rock of the spiral tunnel ends abruptly here, fading once more
+into blank grey rock.  However, from a grate above this small chamber comes
+a torrent of murky brown water, sloshing through in an endless stream
+through the rested metal bars.  It pours down just in front of a spiralling
+metal staircase that travels downwards.  Doesn't look particularly safe,
+however.  
+~
+0 9 0
+D0
+~
+~
+0 0 14237
+D5
+~
+~
+0 0 14239
+S
+#14239
+Down the Waterfall~
+The roaring water pours forth from the tunnel roof far above,
+occasionally spattering the staircase with droplets of brownish water.  The
+staircase itself seems to be in very good condition considering that it
+should have rusted straight through many years before now.  The staircase
+heads both up and down.  
+~
+0 9 0
+D4
+~
+~
+0 0 14238
+D5
+~
+~
+0 0 14240
+S
+#14240
+Underground River~
+This is where all that water's gone, it would seem.  To the north lies a
+massive underwater river travelling east and west, occasionally rising
+higher than the ceiling and sloshing over the stone ledge that overlooks it.
+Certainly not a pleasant thing to travel within unless you can breathe in
+water.  The current looks very strong, too.  Otherwise, the only other path
+leads back up the metal stairs.  
+~
+0 9 0
+D0
+~
+~
+0 0 14241
+D4
+~
+~
+0 0 14239
+S
+#14241
+Flooded Passage~
+The blank stone passageway is worn smooth from the passage of millions of
+gallons of the brownish, murky water.  Odd cave fish - blind and
+white-scaled - occasionally drift through, unconcerned with strangers.  The
+occasional drowned corpse of a subterranean animal or creature floats past
+as well, nibbled on by a variety of carnivorous underwater life.  The river
+heads constantly to the east, though there doesn't seem to be an ending
+anywhere in the distance.  
+~
+0 8 12
+D1
+~
+~
+0 0 14242
+D3
+~
+~
+0 0 14247
+S
+#14242
+Flooded Passage~
+The blank stone passageway is worn smooth from the passage of millions of
+gallons of the brownish, murky water.  Odd cave fish - blind and
+white-scaled - occasionally drift through, unconcerned with strangers.  The
+occasional drowned corpse of a subterranean animal or creature floats past
+as well, nibbled on by a variety of carnivorous underwater life.  The river
+heads constantly to the east, though there doesn't seem to be an ending
+anywhere in the distance.
+~
+0 8 12
+D1
+~
+~
+0 0 14243
+D3
+~
+~
+0 0 14241
+S
+#14243
+Flooded Passage~
+The blank stone passageway is worn smooth from the passage of millions of
+gallons of the brownish, murky water.  Odd cave fish - blind and
+white-scaled - occasionally drift through, unconcerned with strangers.  The
+occasional drowned corpse of a subterranean animal or creature floats past
+as well, nibbled on by a variety of carnivorous underwater life.  The river
+heads constantly to the east, though there doesn't seem to be an ending
+anywhere in the distance.
+~
+0 8 12
+D1
+~
+~
+0 0 14244
+D3
+~
+~
+0 0 14242
+S
+#14244
+Flooded Passage~
+The blank stone passageway is worn smooth from the passage of millions of
+gallons of the brownish, murky water.  Odd cave fish - blind and
+white-scaled - occasionally drift through, unconcerned with strangers.  The
+occasional drowned corpse of a subterranean animal or creature floats past
+as well, nibbled on by a variety of carnivorous underwater life.  The river
+heads constantly to the east, though there doesn't seem to be an ending
+anywhere in the distance.
+~
+0 8 12
+D1
+~
+~
+0 0 14245
+D3
+~
+~
+0 0 14243
+S
+#14245
+Flooded Passage~
+The blank stone passageway is worn smooth from the passage of millions of
+gallons of the brownish, murky water.  Odd cave fish - blind and
+white-scaled - occasionally drift through, unconcerned with strangers.  The
+occasional drowned corpse of a subterranean animal or creature floats past
+as well, nibbled on by a variety of carnivorous underwater life.  The river
+heads constantly to the east, though there doesn't seem to be an ending
+anywhere in the distance.
+~
+0 8 12
+D1
+~
+~
+0 0 14249
+D3
+~
+~
+0 0 14244
+D5
+~
+~
+1 0 14246
+S
+#14246
+Secret Tunnel~
+Aha!  A small side-tunnel is here, draining out the water from the
+massive river above.  The catch is very hard to find, however.  In any case,
+the passageway is fairly damp, but still easy to navigate down.  The slope
+heads downwards into darkness, and upwards if anyone has the urge to dive
+back into the river.  
+~
+0 9 0
+D4
+~
+~
+1 0 14245
+D5
+~
+~
+0 0 14250
+S
+#14247
+Flooded Passage~
+The blank stone passageway is worn smooth from the passage of millions of
+gallons of the brownish, murky water.  Odd cave fish - blind and
+white-scaled - occasionally drift through, unconcerned with strangers.  The
+occasional drowned corpse of a subterranean animal or creature floats past
+as well, nibbled on by a variety of carnivorous underwater life.  The river
+heads constantly to the east, though there doesn't seem to be an ending
+anywhere in the distance.
+~
+0 8 12
+D1
+~
+~
+0 0 14241
+D3
+~
+~
+0 0 14249
+S
+#14248
+Mobprog Room~
+~
+0 269001740 0
+S
+#14249
+Flooded Passage~
+The blank stone passageway is worn smooth from the passage of millions of
+gallons of the brownish, murky water.  Odd cave fish - blind and
+white-scaled - occasionally drift through, unconcerned with strangers.  The
+occasional drowned corpse of a subterranean animal or creature floats past
+as well, nibbled on by a variety of carnivorous underwater life.  The river
+heads constantly to the east, though there doesn't seem to be an ending
+anywhere in the distance.
+~
+0 8 12
+D1
+~
+~
+0 0 14247
+D3
+~
+~
+0 0 14245
+S
+#14250
+Fork in the Road~
+Deeper down in the Vault, this place seems to be somewhat more man-made
+and kept in better condition than the rest of it.  For the large part,
+globes of continual light are placed in containers on the ceilings and
+walls, illuminating the grey stone walls and casting deep shadows over what
+tangled remains of furniture still stand.  Large piles of rubbish and rubble
+lay scattered here and there.  The stream of water from above drains into a
+grate in the floor, though the passage itself splits to the north and south.
+The north seems much darker than the south passage.  
+~
+0 9 0
+D0
+~
+~
+0 0 14252
+D2
+~
+~
+0 0 14251
+D4
+~
+~
+0 0 14246
+S
+#14251
+Well-Lit Corridor~
+This corridor is well-lit, from a number of yellow-glowing balls of
+continual light that float serenely in midair near the white stone ceiling. 
+The place is well-kept, though by whom is anyone's guess.  Otherwise, the
+corridor is fairly uninteresting.  It heads off farther to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 14250
+D2
+~
+~
+0 0 14260
+S
+#14252
+Dark Corridor~
+Darkness permeates this stone corridor, though judging by the tiles that
+crunch underfoot it still remains man-made.  The continual light spells
+appear to have not been quite so continual after all, since little, if
+anything, can illuminate too much of the winding hallway.  The sound of
+moving creatures can be clearly heard, though, so it still is probably not a
+very safe place to remain for very long.  
+~
+0 9 0
+D2
+~
+~
+0 0 14250
+D3
+~
+~
+0 0 14253
+S
+#14253
+Dark Corridor~
+Darkness permeates this stone corridor, though judging by the tiles that
+crunch underfoot it still remains man-made.  The continual light spells
+appear to have not been quite so continual after all, since little, if
+anything, can illuminate too much of the winding hallway.  The sound of
+moving creatures can be clearly heard, though, so it still is probably not a
+very safe place to remain for very long.  The passageway itself curves to
+the north and to the east.  
+~
+0 9 0
+D0
+~
+~
+0 0 14254
+D1
+~
+~
+0 0 14252
+S
+#14254
+Dark Passageway~
+Darkness permeates this stone corridor, though judging by the tiles that
+crunch underfoot it still remains man-made.  The continual light spells
+appear to have not been quite so continual after all, since little, if
+anything, can illuminate too much of the winding hallway.  The sound of
+moving creatures can be clearly heard, though, so it still is probably not a
+very safe place to remain for very long.  To the north appears a large door,
+to the south the hallway continues on.  
+~
+0 9 0
+D0
+~
+~
+0 0 14255
+D2
+~
+~
+0 0 14253
+S
+#14255
+Iron Doors~
+The darkened hallway continues to the north and south.  However, it ends
+abruptly down the northern half of the corridor, terminating in a massive,
+ironbound door.  The hinges seem to be in good condition, at least.  Dozens
+of glowing letters are interspersed on the doorway itself, as well as around
+its outer edge.  Warning signs, perhaps?  
+~
+0 9 0
+D0
+~
+~
+1 0 14256
+D2
+~
+~
+0 0 14254
+S
+#14256
+Artifacts Storage~
+Shelves and crates are stacked up in every direction, as far as the eye
+can see.  This, no doubt, was one of the main storage chambers of the Vault
+itself.  Massive heaps of garbage are piled every which way without any
+order at all.  Most of the items have long since rotted away, though easily
+discernable in the rubble are a half dozen or so huge, hulking stone statues
+standing silent vigil over the belongings.  
+~
+0 9 0
+D0
+~
+~
+0 0 14257
+D2
+~
+~
+1 0 14255
+S
+#14257
+Artifacts Storage~
+The massive rows of shelves continue in this direction.  All manner of
+knicknacks, objects, and assorted items are piled up in enormous heaps. 
+Many of them have long since rotted away, but a good deal is still usable. 
+The pale grey stone of the chamber's walls is nowhere near as slime and
+moss-covered as the rest of the caverns previous to this one.  The storage
+chamber heads both east and south.  
+~
+0 9 0
+D1
+~
+~
+0 0 14258
+D2
+~
+~
+0 0 14256
+S
+#14258
+Artifacts Storage~
+The darkened stone chamber continues along in a curve, arching from west
+to north in a sort of L-shape.  The only path able to be navigated among all
+this junk is a cleared section down the very center.  To the north, however,
+the passage ends in another large, ironbound doorway.  This one has a great
+deal of glowing runes scribed all over it.  Even though the script is almost
+archaic, it's clear that they are meant to be a warning not to pass beyond. 
+~
+0 9 0
+D0
+~
+~
+1 0 14259
+D3
+~
+~
+0 0 14257
+S
+#14259
+Spellbook Repository~
+The musty scent of old books fills this long, narrow chamber.  Some form
+of preservation magic must surely have been used here, for the stacks of old
+books and tomes are in a fairly good state for being down here such a
+tremendously long time.  They are piled about with no discernable order in
+the slightest.  The chamber continues north, and the massive door that
+seperates it from the artifact chambers is to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 14271
+D2
+~
+~
+1 0 14258
+S
+#14260
+Well-Lit Corridor~
+This corridor is well-lit, from a number of yellow-glowing balls of
+continual light that float serenely in midair near the white stone ceiling. 
+The place is well-kept, though by whom is anyone's guess.  Otherwise, the
+corridor is fairly uninteresting.  It heads off farther to the north and
+west.  
+~
+0 8 0
+D0
+~
+~
+0 0 14251
+D3
+~
+~
+0 0 14261
+S
+#14261
+Brilliantly-Lit Hallway~
+This corridor is well-lit, from a number of yellow-glowing balls of
+continual light that float serenely in midair near the white stone ceiling. 
+The place is well-kept, though by whom is anyone's guess.  Otherwise, the
+corridor is fairly uninteresting.  It heads off farther to the west and
+east.  
+~
+0 8 0
+D1
+~
+~
+0 0 14260
+D3
+~
+~
+0 0 14262
+S
+#14262
+Grungy Hallway~
+Unlike the hallways to the east, this curve in the tunnels is in a bad
+state of repair.  The lights floating near the ceiling flicker on and off,
+as if the magic giving them life has started to fade over the centuries. 
+The hallway itself curves from east to south, and to the south there is more
+of those strange flickering lights.  How odd.  
+~
+0 8 0
+D1
+~
+~
+0 0 14261
+D2
+~
+~
+0 0 14263
+S
+#14263
+Machine Workshop~
+All manner of strange gizmos and gadgets are scattered about this long
+hallway like so many toys.  Chests and crates are stacked up haphazardly
+here and there, though there's still enough room to move through it,
+thankfully.  There are doors to both the east and west, with darkened
+archways, and the workshop heads both south and north.  The odd sound of
+metal hitting metal can be heard somewhere in the distance as well.  
+~
+0 8 0
+D0
+~
+~
+0 0 14262
+D1
+~
+~
+0 0 14265
+D2
+~
+~
+0 0 14266
+D3
+~
+~
+0 0 14264
+S
+#14264
+Gnomish Lab~
+There's no doubt that this must have been a gnomish workshop, since most
+of it appears to have been blown up repeatedly during the time it was in
+use.  Whatever furniture once stood here is long gone, and judging by the
+scorch marks the workers who researched here are long gone too.  Perhaps
+there are a few usable items hidden in the rubble.  
+~
+0 8 0
+D1
+~
+~
+0 0 14263
+S
+#14265
+Dragon-Slaying Research~
+Unlike the lab to the west, this workshop seems in moderately good
+condition.  Workbenches and tables are placed in various spots around the
+circular chamber, with a number of old, rusted tools scattered upon them. 
+Several diagrams are posted on the walls, all of them depicting dragons in
+various states - one showing a dragon's wing, one showing its muscles, and
+so on.  
+~
+0 8 0
+D3
+~
+~
+0 0 14263
+S
+#14266
+Research Center~
+All manner of strange gizmos and gadgets are scattered about this long
+hallway like so many toys.  Chests and crates are stacked up haphazardly
+here and there, though there's still enough room to move through it,
+thankfully.  There are doors to both the east and west, with darkened
+archways, and the workshop heads both south and north.  The odd sound of
+metal hitting metal can be heard somewhere in the distance as well.
+~
+0 8 0
+D0
+~
+~
+0 0 14263
+D1
+~
+~
+0 0 14268
+D2
+~
+~
+0 0 14269
+D3
+~
+~
+0 0 14267
+S
+#14267
+Dwarven Forge~
+The heat in here is oppressive.  Like a solid wave, the temperature
+stifles any sort of movement within the small, circular chamber.  It appears
+to be coming from some active machinery on the far side of the room -- a
+massive iron forge that dominates the far wall.  Rolling flames lick out
+from the opened hatch in the front, though any other items that were
+supposed to go inside are long since rusted away.  It's only due to the
+incredible skill of the dwarves that this one machine is even still active. 
+Perhaps if you "gave" something to the forge it would melt it down for you. 
+~
+0 1032 0
+D1
+~
+~
+0 0 14266
+S
+#14268
+Sliver Research~
+Much like the dragon research room, this circular stone chamber appears
+to be focused on one certain aspect: this one, the physiology of the
+insectlike slivers.  Posters and paintings depict slivers in a number of
+different styles, and in a cracked, empty jar on a workbench there is the
+dried-up old husk of a sliver brain.  How pleasant.  On a pillar in the
+center of the room there is a heavy book.  It must be magically enchanted,
+since it hasn't decayed even a bit over the years.  
+~
+0 9 0
+D3
+~
+~
+0 0 14266
+S
+#14269
+Massive Tunnel~
+The ringing noises of the workshop fades down this long tunnel carved
+into the rock.  It's quite obviously man-made, since there are grooves in
+the enormous rock walls that are at an even height the entire way.  The
+floor is relatively flat, though a thick layer of dust covers the surface
+from wall to wall.  There is a lingering echo from somewhere to the south,
+an odd, high-pitched buzzing noise.  Strange.  
+~
+0 9 0
+D0
+~
+~
+0 0 14266
+D2
+~
+~
+0 0 14270
+S
+#14270
+Dead End~
+The enormous stone passageway ends abruptly in a blank, rocky stone wall.
+Judging by the difference in stone color at this part, whoever was carving
+the tunnel must not have been able to delve through the denser material. 
+The floor here is cracked and rocky as well, though the dust is not quite as
+thick as to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 14269
+S
+#14271
+Spellbook Repository~
+The long book-filled chamber continues for a distance here, though the
+rear wall eventually proves that the place is, indeed, a dead end.  Enough
+light shines in from the various magical globes of light attached to the
+ceiling to show that it, unlike most of the other chambers, is not in
+disarray.  The stacks of books here are neat and tidy, with numerous scroll
+cases piled in pyramids along the main pathway.  At the far end of the
+chamber sits something rather interesting indeed: on a short marble stage
+stands a carved stone statue.  
+~
+0 8 0
+D2
+~
+~
+0 0 14259
+S
+#14272
+Hole in the Floor~
+The broken tunnel heads down deeper into the earth.  The stone walls here
+are badly carved - perhaps whoever made it merely widened a smaller fissure
+in the stone.  Nevertheless, the gloomy passageway heads only downwards -
+it's impossible to climb back up out of it at this point and the rocks are
+too jagged to fly past safely.  
+~
+0 9 0
+D4
+~
+~
+0 0 14270
+D5
+~
+~
+0 0 14273
+S
+#14273
+Runed Gate~
+The pathway drops down in a winding arc, looping so that it eventually
+straightens again in an unnaturally even level.  Thus, it's no doubt
+man-made.  To the north, however, is a massive set of double iron doors. 
+While one of them is lying on the stone floor of the passage and is covered
+in dust, the second stands firmly upright.  Half of a glowing magic rune is
+visible on that door - a warning of danger to anyone who dares pass this
+way.  
+~
+0 9 0
+D0
+~
+~
+0 0 14274
+D4
+~
+~
+0 0 14272
+S
+#14274
+Test of Strength~
+The long stone passageway is, unlike most of the rest of the Vault,
+well-lit with a series of magical globes of light set into the ceiling. 
+It's not necessarily a good thing, however; the light illuminates twin rows
+of carved stone statues that block the passageway to the north, their
+halberds crossed over each other.  A single stone statue, dressed in an
+archaic, ancient set of metal armor, stands in the center of the passage
+with hands clasped to a gleaming still sword.  
+~
+0 8 0
+D0
+~
+~
+0 0 14275
+D2
+~
+~
+0 0 14273
+S
+#14275
+Test of Faith~
+Like the passage to the south, this one is well-lit with the globes of
+light.  The statues blocking the path, however, are somewhat different than
+the southern ones; they carry maces and wear stone robes instead of halberds
+and plate armor.  The statue blocking the center of the corridor wears the
+same; the figure also wears a glowing, gleaming silver amulet in the symbol
+of Selina around his blank stone neck.  
+~
+0 8 0
+D0
+~
+~
+0 0 14276
+D2
+~
+~
+0 0 14274
+S
+#14276
+Test of Stealth~
+The lights abruptly stop shining on this room - the globes of light do
+not go this far into the long, narrow pathway.  However, there is a glow in
+the center of the route; a stone statue crouches as if frozen in the middle
+of skulking about.  His dagger gleams with an inner, reddish fire, vaguely
+illuminating the dozens of other similar statues blocking the way to the
+north.  
+~
+0 8 0
+D0
+~
+~
+0 0 14277
+D2
+~
+~
+0 0 14275
+S
+#14277
+Test of Intelligence~
+The globes of light return down this section of the tunnel, casting their
+warm yellow glow over the dozens of statues blocking the way to the north. 
+This time, they are a facsimile of mages - long robes are carved onto them,
+and each one carries either a staff or a small stone dagger.  They block the
+passage as firmly as the other statues did, though.  The one in the center
+carries a large iron staff, inlaid with a slightly glowing sapphire on the
+top.  
+~
+0 8 0
+D0
+~
+~
+0 0 14278
+D2
+~
+~
+0 0 14276
+S
+#14278
+Golden Staircase~
+Finally, the passageway begins to narrow and finally comes to a halt. 
+The light, instead of falling upon more statues, illuminates an incredible
+sight - a massive spiral staircase that heads down through the floor to a
+lower level.  It's not the staircase itself that's so incredible, but what
+it's made of; for the light gleams a bright golden hue when reflecting off
+of it.  A staircase made of gold?  Seems fairly extravagant.  
+~
+0 8 0
+D2
+~
+~
+0 0 14277
+D5
+~
+~
+0 0 14279
+S
+#14279
+Before the Tomb~
+When the golden staircase ends, it leads to a short metal ramp and
+another short tunnel.  This one has the requisite warning signs that most of
+the other tunnels in the Vault have had; though a number of large and
+angry-looking skulls have been scribed on the walls of this one.  Not a
+particularly good sign.  The faint, musty smell of death permeates this
+passageway.  
+~
+0 0 12
+D0
+~
+~
+0 0 14280
+D4
+~
+~
+0 0 14278
+S
+#14280
+Guardian Crypt~
+The ancient crypt is dark and malevolent; whoever rests here obviously
+don't like intruders.  Twisting, spiralling runes travel here and there over
+the walls as if alive.  To the east and west are two clouded, darkened
+archways heading to smaller tombs.  A number of stalwart stone statues guard
+the corners of the room, but thankfully they don't appear to be in any hurry
+to come to life and attack any tomb looters.  The residents of the tombs
+might be a different matter.  
+~
+0 9 0
+D0
+~
+~
+0 0 14283
+D1
+~
+~
+0 0 14282
+D2
+~
+~
+0 0 14279
+D3
+~
+~
+0 0 14281
+S
+#14281
+A Tomb~
+The scent of death and decay are omnipresent in this small, concealed
+tomb.  It's a simple square chamber carved out of the rock, with an elevated
+platform in the center for holding a stone coffin off the ground.  No
+natural light infiltrates this resting place, though judging by the
+scuttling sounds, the insects don't seem to be bothered by the lack of
+illlumination.  
+~
+0 9 0
+D1
+~
+~
+0 0 14280
+S
+#14282
+A Tomb~
+The scent of death and decay are omnipresent in this small, concealed
+tomb.  It's a simple square chamber carved out of the rock, with an elevated
+platform in the center for holding a stone coffin off the ground.  No
+natural light infiltrates this resting place, though judging by the
+scuttling sounds, the insects don't seem to be bothered by the lack of
+illlumination.
+~
+0 9 0
+D3
+~
+~
+0 0 14280
+S
+#14283
+Inside the Crypt~
+The ancient crypt is dark and malevolent; whoever rests here obviously
+don't like intruders.  Twisting, spiralling runes travel here and there over
+the walls as if alive.  To the east and west are two clouded, darkened
+archways heading to smaller tombs.  A number of stalwart stone statues guard
+the corners of the room, but thankfully they don't appear to be in any hurry
+to come to life and attack any tomb looters.  To the north appears another
+long, narrow tunnel, though oddly the light coming from that direction seems
+refracted into many different colors.  
+~
+0 9 0
+D0
+~
+~
+0 0 14286
+D1
+~
+~
+0 0 14285
+D2
+~
+~
+0 0 14280
+D3
+~
+~
+0 0 14284
+S
+#14284
+A Tomb~
+The scent of death and decay are omnipresent in this small, concealed
+tomb.  It's a simple square chamber carved out of the rock, with an elevated
+platform in the center for holding a stone coffin off the ground.  No
+natural light infiltrates this resting place, though judging by the
+scuttling sounds, the insects don't seem to be bothered by the lack of
+illlumination.
+~
+0 9 0
+D1
+~
+~
+0 0 14283
+S
+#14285
+A Tomb~
+The scent of death and decay are omnipresent in this small, concealed
+tomb.  It's a simple square chamber carved out of the rock, with an elevated
+platform in the center for holding a stone coffin off the ground.  No
+natural light infiltrates this resting place, though judging by the
+scuttling sounds, the insects don't seem to be bothered by the lack of
+illlumination.
+~
+0 9 0
+D3
+~
+~
+0 0 14283
+S
+#14286
+Hall of Mirrors~
+Strange.  The stone walls, instead of remaining blank stone, instead meld
+into a form of highly reflective quartz - so reflective, in fact, that the
+underlying quartz patterns are almost impossible to see, and the reflection
+of anyone passing through is repeated infinitely in their strange depths. 
+Whatever little light is shining in here has no apparent source.  The
+pathway heads north and south back to the crypt.  
+~
+0 8 0
+D0
+~
+~
+0 0 14287
+D2
+~
+~
+0 0 14283
+S
+#14287
+Hall of Mirrors~
+Mirrored walls reflect in every direction.  A staircase heads both up and
+down to even more mirrored walls.  Is there even an exit to this madness? 
+It's impossible to tell what entrance is real and what just doubles back and
+follows the same path as before.  And the millions of reflections in the
+mirrored surfaces certainly don't seem to be helping matters much.  
+~
+0 8 0
+D0
+~
+~
+0 0 14289
+D1
+~
+~
+0 0 14292
+D2
+~
+~
+0 0 14293
+D3
+~
+~
+0 0 14291
+D4
+~
+~
+0 0 14288
+D5
+~
+~
+0 0 14290
+S
+#14288
+Hall of Mirrors~
+Mirrored walls reflect in every direction.  A staircase heads both up and
+down to even more mirrored walls.  Is there even an exit to this madness?
+It's impossible to tell what entrance is real and what just doubles back and
+follows the same path as before.  And the millions of reflections in the
+mirrored surfaces certainly don't seem to be helping matters much.
+~
+0 8 0
+D0
+~
+~
+0 0 14290
+D1
+~
+~
+0 0 14288
+D2
+~
+~
+0 0 14287
+D3
+~
+~
+0 0 14291
+D4
+~
+~
+0 0 14287
+D5
+~
+~
+0 0 14287
+S
+#14289
+Hall of Mirrors~
+Mirrored walls reflect in every direction.  A staircase heads both up and
+down to even more mirrored walls.  Is there even an exit to this madness?
+It's impossible to tell what entrance is real and what just doubles back and
+follows the same path as before.  And the millions of reflections in the
+mirrored surfaces certainly don't seem to be helping matters much.
+~
+0 8 0
+D0
+~
+~
+0 0 14291
+D1
+~
+~
+0 0 14291
+D2
+~
+~
+0 0 14287
+D3
+~
+~
+0 0 14291
+D4
+~
+~
+0 0 14291
+D5
+~
+~
+1 0 14294
+S
+#14290
+Hall of Mirrors~
+Mirrored walls reflect in every direction.  A staircase heads both up and
+down to even more mirrored walls.  Is there even an exit to this madness?
+It's impossible to tell what entrance is real and what just doubles back and
+follows the same path as before.  And the millions of reflections in the
+mirrored surfaces certainly don't seem to be helping matters much.
+~
+0 8 0
+D0
+~
+~
+0 0 14290
+D1
+~
+~
+0 0 14289
+D2
+~
+~
+0 0 14291
+D3
+~
+~
+0 0 14288
+D4
+~
+~
+0 0 14287
+D5
+~
+~
+0 0 14292
+S
+#14291
+Hall of Mirrors~
+Mirrored walls reflect in every direction.  A staircase heads both up and
+down to even more mirrored walls.  Is there even an exit to this madness?
+It's impossible to tell what entrance is real and what just doubles back and
+follows the same path as before.  And the millions of reflections in the
+mirrored surfaces certainly don't seem to be helping matters much.
+~
+0 8 0
+D0
+~
+~
+0 0 14291
+D1
+~
+~
+0 0 14287
+D2
+~
+~
+0 0 14292
+D3
+~
+~
+0 0 14289
+D4
+~
+~
+0 0 14292
+S
+#14292
+Hall of Mirrors~
+Mirrored walls reflect in every direction.  A staircase heads both up and
+down to even more mirrored walls.  Is there even an exit to this madness?
+It's impossible to tell what entrance is real and what just doubles back and
+follows the same path as before.  And the millions of reflections in the
+mirrored surfaces certainly don't seem to be helping matters much.
+~
+0 8 0
+D0
+~
+~
+0 0 14291
+D1
+~
+~
+0 0 14291
+D2
+~
+~
+0 0 14292
+D3
+~
+~
+0 0 14287
+D4
+~
+~
+0 0 14288
+D5
+~
+~
+0 0 14291
+S
+#14293
+Hall of Mirrors~
+Mirrored walls reflect in every direction.  A staircase heads both up and
+down to even more mirrored walls.  Is there even an exit to this madness?
+It's impossible to tell what entrance is real and what just doubles back and
+follows the same path as before.  And the millions of reflections in the
+mirrored surfaces certainly don't seem to be helping matters much.
+~
+0 8 0
+D0
+~
+~
+0 0 14287
+D1
+~
+~
+0 0 14288
+D2
+~
+~
+0 0 14292
+D3
+~
+~
+0 0 14291
+D4
+~
+~
+0 0 14287
+D5
+~
+~
+0 0 14287
+S
+#14294
+Secret Tunnel~
+Finally!  The secret tunnel is very small, almost too small to navigate. 
+It's a mystery how anyone could have brought Vault treasures down here, in
+fact.  Maybe they magically shrunk their artifacts to fit them through.  In
+any case, the tunnel itself heads to the north and upwards back to that
+annoying hall of mirrors.  
+~
+0 9 0
+D0
+~
+~
+0 0 14295
+D4
+~
+~
+1 0 14289
+S
+#14295
+Into the Depths~
+This path heads continually deeper underground.  Judging by sheer travel
+time, it must be several miles underground at least.  The magic that must
+have been at work to carve this place had to have been colossal.  The
+pathway heads south to the narrow secret tunnel, and a slope travels down
+even deeper.  There is no light down this far, and the rocks are fairly
+jagged and rough.  Slow going, unless you're a dwarf who knows how to travel
+underground well.  
+~
+0 9 0
+D2
+~
+~
+0 0 14294
+D5
+~
+~
+0 0 14296
+S
+#14296
+Descending~
+The slope takes a rather alarming angle at this point, almost making
+travellers upon it slide down whether they want to or not.  It's just solid
+enough, and has enough rocky bumps and ridges, to be able to navigate safely
+down at a slow enough pace.  The chittering of insects is, as always,
+omnipresent, though there's the faint sound of something rumbling far down
+below.  Not a particularly good sign.  
+~
+0 9 0
+D4
+~
+~
+0 0 14295
+D5
+~
+~
+0 0 14297
+S
+#14297
+Before the Well of Souls~
+The howling of wind is the first herald of what is to come.  The low,
+almost melancholy tone lingers in the dank air of the cave tunnel, bringing
+with it the scent of mold and mildew.  Something else is here, too - the
+faint, extremely odd sense of /power/.  An electric tingling is in the air,
+much like standing outside just after a strong thunderstorm.  The pathway
+heads north and the sense gets stronger in that direction.  
+~
+0 9 0
+D0
+~
+~
+0 0 14298
+D4
+~
+~
+0 0 14296
+S
+#14298
+Floating in the Well~
+Floating on nothingness!  The ledge abruptly ends, and thanks to flying
+abilities, it's possible to hover in mid-air in this place.  It's simply
+enormous - almost too far to see even with the strongest light.  It's a huge
+fissure deep in the earth though perfectly round.  Its diameter must measure
+in the miles, much like the one far earlier in the Vault, only on an even
+greater scale.  The electric 'tingling' feeling intensifies upon travelling
+further downwards.  Strange creatures float about in the Well too, but they
+don't look particularly friendly.  
+~
+0 8 9
+D0
+~
+~
+0 0 14301
+D1
+~
+~
+0 0 14299
+D2
+~
+~
+0 0 14297
+D3
+~
+~
+0 0 14300
+D5
+~
+~
+0 0 14314
+S
+#14299
+Floating in the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+Strange creatures float about in the Well too, but they don't look
+particularly friendly.  
+~
+0 8 9
+D0
+~
+~
+0 0 14303
+D3
+~
+~
+0 0 14298
+D5
+~
+~
+0 0 14315
+S
+#14300
+Floating in the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+Strange creatures float about in the Well too, but they don't look
+particularly friendly.  
+~
+0 8 9
+D0
+~
+~
+0 0 14302
+D1
+~
+~
+0 0 14298
+D5
+~
+~
+0 0 14313
+S
+#14301
+Floating in the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+Strange creatures float about in the Well too, but they don't look
+particularly friendly.  
+~
+0 8 9
+D0
+~
+~
+0 0 14304
+D1
+~
+~
+0 0 14303
+D2
+~
+~
+0 0 14298
+D3
+~
+~
+0 0 14302
+D5
+~
+~
+0 0 14311
+S
+#14302
+Floating in the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+Strange creatures float about in the Well too, but they don't look
+particularly friendly.  
+~
+0 8 9
+D0
+~
+~
+0 0 14305
+D1
+~
+~
+0 0 14301
+D2
+~
+~
+0 0 14300
+D5
+~
+~
+0 0 14312
+S
+#14303
+Floating in the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+Strange creatures float about in the Well too, but they don't look
+particularly friendly.  
+~
+0 8 9
+D0
+~
+~
+0 0 14306
+D2
+~
+~
+0 0 14299
+D3
+~
+~
+0 0 14301
+D5
+~
+~
+0 0 14310
+S
+#14304
+Floating in the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+Strange creatures float about in the Well too, but they don't look
+particularly friendly.  
+~
+0 8 9
+D1
+~
+~
+0 0 14306
+D2
+~
+~
+0 0 14301
+D3
+~
+~
+0 0 14305
+D5
+~
+~
+0 0 14308
+S
+#14305
+Floating in the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+Strange creatures float about in the Well too, but they don't look
+particularly friendly.  
+~
+0 8 9
+D1
+~
+~
+0 0 14304
+D2
+~
+~
+0 0 14302
+D5
+~
+~
+0 0 14307
+S
+#14306
+Floating in the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+Strange creatures float about in the Well too, but they don't look
+particularly friendly.  
+~
+0 8 9
+D2
+~
+~
+0 0 14303
+D3
+~
+~
+0 0 14304
+D5
+~
+~
+0 0 14309
+S
+#14307
+Bottom of the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+The rocky floor of the Well of Souls can be seen a good distance below.  
+~
+0 8 9
+D1
+~
+~
+0 0 14308
+D2
+~
+~
+0 0 14312
+D4
+~
+~
+0 0 14305
+S
+#14308
+Bottom of the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+The rocky floor of the Well of Souls can be seen a good distance below.  
+~
+0 8 9
+D1
+~
+~
+0 0 14309
+D2
+~
+~
+0 0 14311
+D3
+~
+~
+0 0 14307
+D4
+~
+~
+0 0 14304
+S
+#14309
+Bottom of the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+The rocky floor of the Well of Souls can be seen a good distance below 
+~
+0 8 9
+D2
+~
+bottom~
+0 0 14310
+D3
+~
+~
+0 0 14308
+D4
+~
+~
+0 0 14306
+S
+#14310
+Bottom of the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+The rocky floor of the Well of Souls can be seen a good distance below.  
+~
+0 8 9
+D0
+~
+~
+0 0 14309
+D2
+~
+~
+0 0 14315
+D3
+~
+~
+0 0 14311
+D4
+~
+~
+0 0 14303
+S
+#14311
+Bottom of the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+The rocky floor of the Well of Souls can be seen a good distance below.  A
+massive passageway heads straight down the center of the Well, bringing with
+it the howling wind that fills the place.  
+~
+0 8 9
+D0
+~
+~
+0 0 14308
+D1
+~
+~
+0 0 14310
+D2
+~
+~
+0 0 14314
+D3
+~
+~
+0 0 14312
+D4
+~
+~
+0 0 14301
+D5
+~
+~
+0 0 14316
+S
+#14312
+Bottom of the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+The rocky floor of the Well of Souls can be seen a good distance below.  
+~
+0 8 9
+D0
+~
+~
+0 0 14307
+D1
+~
+~
+0 0 14311
+D2
+~
+~
+0 0 14313
+D4
+~
+~
+0 0 14302
+S
+#14313
+Bottom of the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+The rocky floor of the Well of Souls can be seen a good distance below.  
+~
+0 8 9
+D0
+~
+~
+0 0 14312
+D1
+~
+~
+0 0 14314
+D4
+~
+~
+0 0 14300
+S
+#14314
+Bottom of the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+The rocky floor of the Well of Souls can be seen a good distance below.  
+~
+0 8 9
+D0
+~
+~
+0 0 14311
+D1
+~
+~
+0 0 14315
+D3
+~
+~
+0 0 14313
+D4
+~
+~
+0 0 14298
+S
+#14315
+Bottom of the Well~
+Floating on nothingness!  Thanks to being able to fly, travel is possible
+in this part of the Well of Souls.  It's simply enormous - almost too far to
+see even with the strongest light.  It's a huge fissure deep in the earth
+though perfectly round.  Its diameter must measure in the miles, much like
+the one far earlier in the Vault, only on an even greater scale.  The
+electric 'tingling' feeling intensifies upon travelling further downwards. 
+The rocky floor of the Well of Souls can be seen a good distance below.  
+~
+0 8 9
+D0
+~
+~
+0 0 14310
+D3
+~
+~
+0 0 14314
+D4
+~
+~
+0 0 14299
+S
+#14316
+Heading to the Source~
+The source of the howling wind - and of the electric feeling - must be
+somewhere ahead, for they both get stronger the further down one travels. 
+The walls of this vertical passage are perfectly and utterly smooth from the
+centuries of wind movement.  A vague light glows from somewhere down far
+below.  Interesting.  
+~
+0 8 9
+D4
+~
+~
+0 0 14311
+D5
+~
+~
+0 0 14317
+S
+#14317
+Heading to the Source~
+The light grows stronger down further below, and the empty passage begins
+to curve gently again into a form of slope.  Though it looks completely
+smooth and streamlined, there's no possible way that nature could have made
+such a perfectly elegant shape.  Glowing runes swirl on the stone walls like
+living creatures.  
+~
+0 8204 9
+D4
+~
+~
+0 0 14316
+D5
+~
+~
+1 0 14318
+S
+#14318
+Nexus of Power~
+Amazing.  Whoever built this must have been a master of the arcane art. 
+Four narrow catwalks float in midair in this enormous stone chamber, leading
+to four seperate floating chambers.  These large, rounded creations simple
+hang in the air like stars, all glowing with a multitude of spiralling runes
+that make a startlingly beautiful pattern when stared at for long.  A runed
+set of doors are actually set horizonally into the floor, with a fairly
+obvious keyhole in the center of it.  A trapdoor, perhaps.  However, this
+glowing archway is guarded by the large statue standing protectively in
+front of it.  
+~
+0 269484040 0
+D0
+~
+~
+0 0 14319
+D1
+~
+~
+0 0 14322
+D2
+~
+~
+0 0 14320
+D3
+~
+~
+0 0 14321
+D4
+~
+~
+1 0 14317
+D5
+~
+~
+4 14249 14323
+S
+#14319
+Statue of Gargnath~
+This floating, runed chamber is devoted, it would appear, to the troll
+wizard Gargnath of the days long past.  The stone structure of the chamber
+is perfectly smooth and void of any corners, though a pristine marble
+platform holds the statue itself in the center of the room.  A number of
+scrolls, books, and tomes are scattered about the base of the platform, in
+excellent condition given the tremendous age of the place.  
+~
+0 269484040 0
+D2
+~
+~
+0 0 14318
+S
+#14320
+Statue of Velar~
+The enchanted chamber is runed completely; every wall, the ceiling, and
+the floor are plastered with glowing, writhing letters, and thus illuminate
+the place nicely.  The shrine is devoted to a long-forgotten member of the
+ancient Shandalar politics.  Judging by the amount of old weapons and
+battle-related scrolls lying scattered before the statue's marble pedastal,
+he must have been a warrior of some kind.  
+~
+0 269484040 0
+D0
+~
+~
+0 0 14318
+S
+#14321
+Statue of Ch'kq'at~
+This stone chamber is much darker than the others.  Not much light shines
+in from the central chamber, though the runes here do add a slight amount of
+illumination.  This one has an onyx platform in the center of the room,
+piled high around the edge of it with, of all things, plants.  Small vases
+and jars hold dirt, and from the dirt sprout a variety of bright flowers,
+ferns, and small trees.  The protective magic must have kept them alive for
+all these years.  
+~
+0 269484040 0
+D1
+~
+~
+0 0 14318
+S
+#14322
+Statue of Selina~
+This chamber is filled with a bright, divine white light that seems to
+shine in from everywhere at once.  Unlike the other Nexus chambers, this one
+has no old items lying on the ground near the marble platform.  This one,
+instead, is perfectly blank, even of runescript on the walls.  The marble
+platform is of the purest-cut rock, gleaming with an inner blue fire.  An
+ethereal, divine humming noise fills the room, oppressing the senses.  
+~
+0 269484040 0
+D3
+~
+~
+0 0 14318
+S
+#14323
+Walk of Glory~
+A set of glowing, crystal spiral stairs head down from the main nexus
+chamber, heading deeper down into the belly of the huge circular chamber. 
+Glowing motes of light flit about at random, illuminating the pathway
+beyond.  However, a short distance down there appears a faintly glowing blue
+barrier, blocking the way downwards completely and resistant to all manner
+of attacks.  
+~
+0 269484040 0
+D5
+~
+~
+4 14250 14324
+S
+#14324
+Walk of Glory~
+An eerie humming noise permeates this place, the stairs having ended at a
+wide, black-marble ledge.  Runes are carved into every wall, flickering and
+twisting out of sight whenever they are looked at.  Another glowing blue
+barrier blocks the way to the north and obscures whatever might be in that
+direction.  
+~
+0 269484040 0
+D0
+~
+~
+4 14251 14325
+D4
+~
+~
+4 14250 14323
+S
+#14325
+Walk of Glory~
+This is the true glory of Shandalar!  Paintings line every part of the
+smooth stone walls, illuminated, each and every one, with the glowing motes
+of bright light.  Statues of the important figures of Dominia's past line
+the walls, some in combat with nefarious villains and evil invaders.  Many
+of the paintings depict dragons being slain in quite a few grisly ways.  The
+omnipresent humming noise grows louder when one travels further to the
+north.  
+~
+0 269484040 0
+D0
+~
+~
+4 14252 14326
+D2
+~
+~
+4 14251 14324
+S
+#14326
+Resting Place of the Dominian Kingsword~
+The end of the Walk of Glory is no less incredible than the pathway
+itself.  The walkway leads to a large crystal chamber, the walls, ceiling
+and floor faceted to look like the entire room is actually /inside/ a
+massive gem.  Rising from the center of the floor is a single crystal
+pillar, with a silvery, narrow sword resting serenely atop it.  However,
+merely taking the famous Dominian Kingsword would not be quite so easy as
+merely grabbing it -- swirling around the pillar is a ghostly, dragon-like
+figure.  
+~
+0 269484041 0
+D2
+~
+~
+4 14252 14325
+S
+#14327
+Gargnath's Observatory~
+The observatory obviously has been abandoned for quite some time.  It's a
+large, round room with a high, domed ceiling.  The walls, ceiling and floor
+are built out of stout wooden beams, and a moderate glow of light shines in
+from several windows spaced high along the walls.  Tables, chairs, and paper
+of various kinds are scattered about on the floor, as well as a great deal
+of sky-charts littering the walls: constellations, mostly.  The only exit
+appears to be a small wooden ladder heading up into a loft.  
+~
+0 1572872 0
+D4
+~
+~
+0 0 14328
+M 110 H 110
+S
+#14328
+Dome of the Observatory~
+The upper walkway of the observatory is fairly narrow.  It's even more
+narrow considering that it's piled high with all manner of objects,
+including tables, benches, and workplaces.  Jutting up through the wooden
+floorboards is the massive cylinder of the telescope itself.  The object
+dominates most of the observatory, cutting a clear line through the arching
+wooden ceiling of the building.  Perhaps you could "look <direction>" to
+look through the telescope in that direction.  (Make sure you're wearing no
+items with the words 'north' or south' etc in them.)  
+~
+0 270008328 0
+E
+down~
+Down there is the rest of the observatory.  Nothing really interesting
+unless you like dirt and dust.  
+ 
+~
+E
+north~
+Northwards through the telescope is little more than a massive mountain
+range in the distance.  It's an eerily beautiful sight - endless forest and
+jungle right up to the horizon, where it ends in a massive ridge of hills
+and alps.  Misty fog drifts around those peaks like a ghostly shadow.  
+ 
+~
+E
+south~
+Southwards is water, as far as the eye can see.  A good distance in that
+direction is mostly jungle, but it eventually becomes the white strand of
+beach that inches towards the water itself.  It's impossible to tell from
+this distance if it's an ocean or merely a huge lake, but it certainly
+doesn't look very familiar.  How strange.  
+~
+E
+west~
+Westwards is a varying map of the land below.  For the most part, the
+surrounding countryside is nothing more than dense jungle, with the
+occasional mountain peak jutting up through the canopy of green.  However,
+there are a few spots where the sun shines off of large lakes or meandering
+rivers.  There's little sign of civilization at all, except for one possible
+spot - far, far to the west there appears the faint glow of a city of some
+kind.  Perhaps this far-off vision is Shandalar itself.  If so, no doubt
+Gargnath's tower must be a massive distance to the east.  
+~
+E
+east~
+Eastwards is very little of interest - merely a huge swath of green
+jungle stretching from horizon to horizon.  
+~
+E
+up~
+Upwards is the sky. You've seen that before, haven't you?
+~
+D5
+~
+~
+0 0 14327
+M 110 H 110
+S
+#14329
+Center of the Garden~
+The garden is huge!  Plants and trees sprawl out in all directions,
+making travelling almost impossible except for the small brick paths in the
+four cardinal directions.  Enormous ferns splay out overhead, blocking some
+of the sunlight and the bright blue sky.  The clouds overhead, however,
+don't move a single inch - obviously this is no ordinary place.  Huge trees
+loom ominously over the paths, and a floating doorway is, no doubt, the only
+exit out of this odd place.  
+~
+0 1572864 3
+D0
+~
+~
+0 0 14330
+D1
+~
+~
+0 0 14332
+D2
+~
+~
+0 0 14331
+D3
+~
+~
+0 0 14333
+S
+#14330
+North End of the Garden~
+The north end of the garden is devoted to, it would seem, shrub and berry
+bushes.  The scent of fruit drifts through the air - strawberries,
+raspberries, blueberries, peaches on short little peach trees.  It's all
+confined in a tangle of larger oaks, but still fairly easy to navigate. 
+There's even a small spring of water that trickles down from deeper in the
+forest.  
+~
+0 270008320 3
+D2
+~
+~
+0 0 14329
+S
+#14331
+South End of the Garden~
+The south end of the garden is devoted solely to flowers.  The trees of
+the central garden open up to an enormous, rolling field full of bright,
+colorful flowers of every variety and description.  The field itself is
+blocked off with massive, hulking trees, but the field itself seems calm and
+pleasant.  A faint flute tune drifts through the endless sea of color. 
+Seems like this would be a good place to relax for a while and regain lost
+strength.  
+~
+0 270008320 3
+D0
+~
+~
+0 0 14329
+M 140 H 140
+S
+#14332
+East End of the Garden~
+The east end of the garden seems devoted to massive vines.  They crawl
+over everything in sight; short brick walls are almost invisible under the
+tangle of seeking greenery.  Most of them have some sort of flower or
+blossom upon it.  The air is heavy with the scent of the plants, and with
+the mild drone of insects heading here or there through the plants.  
+~
+0 270008320 3
+D3
+~
+~
+0 0 14329
+S
+#14333
+West End of the Garden~
+The western part of the garden looks like it's devoted to trees.  Tons
+and tons of trees reside in this spot.  The combined mulch of hundreds of
+years of leaves crunches underfoot.  There's a staggering variety here -
+oaks, birches, yews, and some that are just plain unidentifiable.  The
+cheery call of birdsong echoes from somewhere overhead.  
+~
+0 270008320 3
+D1
+~
+~
+0 0 14329
+S
+#14334
+Bottom of the Gorge~
+This seems to be the very bottom of the huge tunnel.  It's vast,
+incredibly so - the walls are too far apart for any light source to reach
+both sides at once.  The stone is surprisingly smooth, as if polished over
+thousands of years.  At the bottom lies a number of old skeletons and bones,
+no doubt other travellers and cave animals who've fallen in over the
+centuries.  Along the side of one wall is a set of carved stone stairs.  
+~
+0 9 0
+D4
+~
+~
+0 0 14335
+S
+#14335
+Up the Stairs~
+The rocky stairs continue up the side of the cliff face, heading in a
+lazy, vague spiral towards the upper ledge.  There are markings along the
+wall almost the whole length of the stairs themselves -- carvings and
+etchings set into the stone cliff face itself.  They depict an odd, motley
+assortment of creatures: gargoyles, slivers, trolls, even kirre, all
+marching in formation.  Strange.  To the west there appears a large, shallow
+ledge.  
+~
+0 9 0
+D3
+~
+~
+0 0 14336
+D5
+~
+~
+0 0 14334
+S
+#0
+
+
+
+#SPECIALS
+M 14202 spec_cast_mage Load to: the troglodyte chieftain
+M 14206 spec_breath_acid Load to: a hulking onyx golem
+M 14207 spec_cast_cleric Load to: a statue of Canji, the drow wizard
+M 14209 spec_breath_fire Load to: a massive dwarven forge
+M 14212 spec_cast_cleric Load to: the cleric statue
+M 14214 spec_cast_mage Load to: the mage statue
+M 14215 spec_fido Load to: a kirre tomb guardian
+M 14216 spec_poison Load to: a sliver tomb guardian
+M 14217 spec_cast_undead Load to: a gargoyle tomb guardian
+M 14218 spec_cast_undead Load to: a troll tomb guardian
+M 14219 spec_cast_mage Load to: a {Rm{yi{Mr{Gr{co{Wr{x golem
+M 14220 spec_breath_lightning Load to: a giant lightning stirge
+M 14221 spec_breath_fire Load to: a giant flaming stirge
+M 14222 spec_breath_any Load to: a will-o-wisp
+M 14223 spec_cast_adept Load to: the ghost of Mandorian, the Paladin of Carnas
+M 14224 spec_cast_mage Load to: the statue of Gargnath
+M 14225 spec_cast_cleric Load to: the statue of Ch'kq'at
+M 14226 spec_cast_undead Load to: the Avatar of Selina
+M 14227 spec_poison Load to: the statue of Velar, the Gargoyle Warlord
+M 14230 spec_guard Load to: an elder treant
+M 14248 spec_breath_any Load to: the ghost of Ystradgynlais, King of Dragons
+M 14249 spec_breath_any Load to: Ystradgynlais, the Elder Wyrm
+S
+
+
+
+#MOBPROGS
+#14329
+say Ah, the Vault. I built it, you know. Well, I designed it, anyway.
+say It was the work of a great many spellcasters, invokers, and druids.
+chuc
+say I also installed many of the traps along the way.
+say If you've made it this far, then you've already gotten past those. Oh well.
+say Say 'CONTINUE' if you'd like me to continue.
+~
+A
+#14322
+~
+N
+#14314
+emote begins to work on $O.
+emote starts to hammer it into a spear.
+if rand 85
+say I managed to make something out of it!
+mob purge $o
+say Ouch! It's hot!
+mob oload 14279 0
+drop all
+else
+say Drat! I didn't manage to make anything out of it.
+say Sorry.
+shrug
+mob purge $o
+endif
+~
+A
+#14313
+mob echo $N manages to cut off the fire stirge's stinger!
+mob oload 14278 0
+~
+A
+#14312
+emote blocks the way northwards.
+~
+A
+#14311
+say Excellent. You better not have cheated, now..
+say I shall let you pass. Beware the mirror golems, adventurer.
+say They are keen and deadly.
+say And beyond the mirror maze is the lair of the great stirges and will-o-wisps.
+say They will destroy anyone who invades their territory.
+say Beyond that? I know not. I have never travelled that far.
+say Fairwell.
+emote suddenly crumbles into thin ash.
+mob purge $i
+~
+A
+#14310
+chuck
+say Excellent. Only one more to go now, $N. This is my most difficult one.
+say If you can get this, I'll surely be impressed.
+emote intones, 'I am both safe and strong.'
+emote intones, 'Behead me, and I am a place of meeting.'
+emote intones, 'Behead me again, and I am the partner of ready.'
+emote intones, 'Restore me, and am become the domain of beasts.'
+emote intones, 'What am I?'
+~
+A
+#14309
+smile
+say Correct! Excellent job, $N. Now for the next one. Not many more to go.
+emote intones, 'My life can be measured in hours,'
+emote intones, 'I serve by being devoured.'
+emote intones, 'Thin, I am quick, fat I am slow.'
+emote intones, 'Wind is my foe.'
+emote intones, 'What am I?'
+~
+A
+#14308
+smile
+say Hello, traveller. Before you can enter the Hall of Mirrors, you must answer my riddles.
+say Or, of course, you can choose to attack me instead. Not a good idea.
+say The first riddle I will give you now. Answer it by merely saying the word.
+nod
+emote intones, 'Who makes me, has no need of me.'
+emote intones, 'Who buys me, has no use for me.'
+emote intones, 'Who uses me can neither feel or nor see me.'
+emote intones, 'What am I?'
+~
+A
+#14307
+mob echoat $n As you slay the cave shark, you manage to salvage its skin intact!
+mob echoaround $n $N manages to skin $I!
+mob oload 14276 0
+~
+A
+#14306
+emote begins to work on $O.
+if rand 70
+say Hurray! I managed to brew a potion out of the shark skin.
+say Should be pretty tasty.
+puke
+mob purge $o
+mob oload 14277
+say Here you go!
+drop all
+else
+emote just makes a sloppy mess out of it.
+say Eww.
+puke $n
+say Sorry..
+endif
+~
+A
+#14305
+burp
+~
+A
+#14304
+emote begins to work on $O.
+if rand 90
+dance
+say I managed to make something out of it!
+say Not sure how useful it'll be, however..
+mob purge $o
+mob oload 14275 0
+say Here you go.
+drop all
+else
+say Oops.
+mob purge $o
+say Sorry. I ruined the shell. Find me another one!
+snick
+endif
+~
+A
+#14303
+mob echoat $n As you kill the cave insect, you manage to skin its shell perfectly intact.
+mob echoaround $n $N manages to skin $I!
+mob oload 14274 40
+~
+A
+#14302
+emote begins to work on the troglodyte skin.
+if rand 90
+smile
+say I managed to make something out of the pelt!
+mob purge $o
+flip
+mob oload 14272 45
+say Here you go.
+drop all
+else
+sniff
+mob purge $o
+say Sorry. I ruined the pelt. Find me another one.
+shrug
+endif
+~
+A
+#14301
+nod $n
+say Hello. I've been trapped down here for years now, but I've learned to make the best of it.
+say In particular, I can skin the animal pelts you find down here and turn them into things.
+say Not all monsters will give a pelt when they die, but some will.
+say The rarer the pelt, the better item I can make out if it.
+~
+A
+#14300
+emote hisses angrily.
+say Tressssspasssssers! You will die!
+kill $r
+~
+A
+#14299
+if vnum $o == 14248
+say This little red dragon is in fact the first red dragon ever created.
+say Well, a copy of it, anyway. It was so powerful Bosco split it into dozens of other dragons.
+say These were set into the bottles for safekeeping, since inside they could never age.
+else
+if vnum $o == 14261
+say Townsaver is, like its cousin, Farslayer, a legendary relic of moderate power.
+say It was created so the wielder could defend himself against overwhelming odds.
+say Its power has largely faded though, and it's no longer the incredible weapon it once was.
+say Still neat to have around!
+wink
+else
+if vnum $o == 14265
+say Aha! The Dwarven Fury!
+say This is Kurnus's weapon, forged eons ago by the Grey Dwarves of old.
+emote looks suspicious.
+say How'd you get this? Kurnus is a friend of mine.
+else
+if vnum $o == 14266
+say Aeons ago, people decided that mage's spells were beating them down too easy.
+say Thus, they came up with the Magebane shield.
+say Unfortunately, with the coming of the Bosco shield, it was largely ignored.
+say Oh well.
+else
+if vnum $o == 14271
+say Wow! This is a very powerful relic of Selina.
+say Use it against dragons for the best effect.
+else
+if vnum $o == 14273
+gasp
+flip
+say This.. this is the Kingsword! How did you get this?!
+say Whoever wields the Kingsword rules all of Dominia.
+snick
+say I'd keep it for myself, but I can no longer leave this blasted Vault.
+say It's very powerful. Entire nations have gone to war over it.
+say Keep this relic safest of all.
+endif
+endif
+endif
+endif
+endif
+endif
+~
+A
+#14298
+drop all
+~
+A
+#14297
+emote starts to browse through his thick tome.
+emote scratches his head.
+ponder
+say Hmmmmmmmmmmm.
+if vnum $o == 14221
+say Ah! This is a dragon's tooth. It can be very deadly.
+say Not particularly useful compared to other items, though.
+shrug
+else
+if vnum $o == 14228
+say Aha! This is an amulet to an Elder god.
+say Nobody really believes in her anymore.
+else
+if vnum $o == 14227
+dance
+say A Gnomish Echo Bell! Neat! I want one of these.
+say They're great fun for getting out of charm.
+wink
+else
+if vnum $o == 14223
+say The Book of Sliver Lore is an ancient artifact of the old Sliver race.
+say Too bad it's not really too useful.
+shrug
+else
+if vnum $o == 14234
+say Snaga the Sender, the Blades of No Return!
+say This axe was forged by demons aeons ago and passed around from owner to owner since then.
+say It's inhabited by a deadly enchantment.
+say They say whoever wields it goes insane!
+else
+if vnum $o == 14235
+say Arktisbrande was the dagger of an ancient frost giant, Hilda Stormguarde.
+say She used it to fend off Minotaur hordes in the northern wastes for decades.
+say Eventually she died of pneumonia.
+sniff
+else
+if vnum $o == 14236
+say This flail is made of the skulls of Bhaal worshippers.
+say It was crafted by an elder Carnas priest many years ago.
+shudder
+say It's evil. Get that thing away from me!
+else
+if vnum $o == 14237
+say There's a ghost not too far away from here that might like this.
+say I believe it was his.
+else
+if vnum $o == 14239
+say This staff is a very powerful artifact. It was passed down through generations of spellcasters.
+say Keep it safe!
+else
+if vnum $o == 14240
+chuc
+say The Ring of Regeneration! A wonderful artifact indeed.
+say It was created by druids centuries ago but the secret of how to make them has been lost.
+else
+if vnum $o == 14242
+say Grovewarder is an ancient Druidic artifact. It's very powerful in their hands, but not terribly useful otherwise.
+else
+if vnum $o == 14244
+say This ring is a very powerful Druidic item. Not only is it a strong item in itself..
+say But you can drink out of it! How neat!
+drink ring
+else
+if vnum $o == 14246
+say Ah. The Crown.
+say This legendary artifact was worn by Kings, Queens, and Emperors in Dominia's ancient past.
+say It's more of a status symbol than a really powerful item. But it's neat anyway.
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+~
+A
+#14296
+if affected $n haste
+mob echoat $n {cYou scoot quickly past the swinging blade.{x
+mob trans $n 14228
+mob force $n look
+if mobhere kurnus
+mob trans kurnus 14228
+endif
+mob echo $N quickly darts past the swinging blade.
+else
+mob echoat $n {ROuch!{x You're not quick enough and the blade slashes you.
+mob damage $n 500 900 lethal
+endif
+~
+A
+#14295
+clap
+say Let it be so!
+mob echoaround $n {WThere is a burst of light, and $N is gone.{x
+mob echoat $n {WThere is a burst of light, and you vanish.{x
+mob trans $n 14339
+mob at $n mob force $n look
+ 
+~
+A
+#14294
+grin
+say The Shrine is a small creation of Gargnath where he, and his companions the sliver and gargoyle, could worship in peace.
+say It is a pleasant, calm place, far from here. Do you wish to visit it?
+say To do so, merely give me 10000 gold coins and I will transport you there.
+smile
+say It's a small price to pay for worshipping at my Shrine, is it not?
+~
+A
+#14293
+say The Portal? 'Tis not an easy thing to pass through.
+chuckle
+say The Portal Guardian defends the portal itself, which leads down to the Walk of Glory.
+say You must defeat all 4 statues *at the same time*.
+say The Walk portrays many of our old legends and myths, a work of art in itself.
+say Past it is our most prized possession. A legendary artifact forged with starmetal, quenched in the blood of Selina.
+say It was carried by the Kings of Dominia for untold centuries.
+say It is the Kingsword of Dominia - the Tyrant's Blade.
+say However, it is guarded by the spirit of the last great dragon. Defeat it and the Kingsword is yours.
+~
+A
+#14292
+smile
+say The Vault was Gargnath's idea. He's a clever fellow, one of my most trusted followers.
+say We would much rather have the treasures of Dominia hidden away for a while, rather than dragons get a hold of it.
+say Only the strongest and most powerful adventurers could have made is this far.
+say But the biggest challenge is yet to come.
+~
+A
+#14291
+snort
+say Dragons are Bosco's children, born of his power. They are, for the most part, bloodthirsty killers.
+say The invasion of Dominia will fail, when the dragon-slaying weapons are crafted in large numbers. 
+say Beware, though. Most dragons are highly resistant to damage from blunt weapons, such as hammers.
+say Use piercing weapons if nothing else is available.
+~
+A
+#14290
+chuc
+say Dominia is the home of all manner of species not native to Terra -- trolls, gargoyles, slivers, and kirre.
+say They are, by and large, quite powerful indeed.
+say It may not have the huge civilizations that Terra has, but perhaps.. who knows what the future brings.
+~
+A
+#14289
+say Bosco? Pfah. Hardly a challenge for my might. The children of Bosco are weak. 
+say Dragons are particularly vulnerable to a certain kind of magic, which I have named 'dragon-slaying' weapons.
+say They take tremendous damage from them. Use these tools against dragons to defeat them easily!
+say Bosco will never reign over Dominia as long as my faithful keep fighting.
+~
+A
+#14288
+smile
+say I am an avatar of Selina, the great Goddess of Dominia.
+say Selina watches over the Dominian races - Slivers, Gargoyles, and so on.
+say For many years my followers have protected our fair land against the dragons.
+~
+A
+#14287
+say I can teach you about the following topics:
+say - Selina
+say - Bosco
+say - Dominia
+say - Dragons
+say - Vault
+say - Portal
+say - Shrine
+~
+A
+#14286
+emote smiles serenely.
+say Hello, traveller. Welcome to the Shrine of Selina.
+say All are welcome here, even the children of my rival, Bosco.
+say I have been enchanted to guide and instruct those who manage to get this far.
+say Please say 'list topics' and I will teach what I can.
+~
+A
+#14285
+mob echo $I{x explodes in a shower of glass fragments!
+mob oload 14268 50 R
+~
+A
+#14284
+if rand 50
+dance
+else
+jig
+endif
+~
+A
+#14283
+quaff ' '
+~
+A
+#14282
+say I can do the followin' stuff:
+say follow - makes me follow you, so you can group me.
+say wear - makes me wear the first thing in my inventory.
+say enter - makes me try to enter the first item on the ground.
+say drop all - makes me drop everything I'm holding.
+say quaff - makes me quaff the first potion in my inventory.
+say dance - makes me dance a jaunty Dwarven jig.
+pond
+say Please remember that I'll be too busy to do any of this when fighting!
+~
+A
+#14281
+enter ' '
+~
+A
+#14280
+drop all
+~
+A
+#14279
+wear ' '
+~
+A
+#14278
+follow $n
+nod
+say Group me up, laddie! Remember I can only group with people level 44 an' higher, though.
+nudge $n
+~
+A
+#14277
+if room $i == 14336
+say Aye! Finally, someone ta help explore the Vault with.
+say If ye want me to join ye, simply say 'follow' and I'll do it!
+say Then ye can group me, ya see.
+say Say 'commands' an' I'll tell you what other stuff I can do.
+endif
+~
+A
+#14276
+tip
+say Greetings. If you're powerful enough, head West into the Vault.
+say Otherwise, I'll have to stop you from entering. It's far too dangerous.
+~
+A
+#14275
+~
+N
+#14274
+emote mutters and mumbles to himself.
+~
+A
+#14273
+mob goto $i
+mob echo {g$i suddenly vanishes, and attacks from a different spot.{x
+mob kill $r
+~
+A
+#14272
+if mobhere 14249
+mob purge secondform
+mob echo {YThe dragon returns to its previous form!!{x
+endif
+ 
+ 
+~
+A
+#14271
+mob echo {c$I suddenly starts to shatter!{x
+mob echo {cDeep cracks appear over the dragon's ghostly scales.{x
+mob echo {c$I explodes in a violent shower of crystal shards!{x
+mob echo Left behind on the ground is a pale, slender sword.
+
+mob oload 14273
+~
+A
+#14270
+mob echo {D$I spits a stream of crystal shards at $N!!{x
+mob damage $n 800 800 Lethal
+mob echo $I's crystal spray does {RUNSPEAKABLE{x things to $N!
+~
+A
+#14269
+mob purge
+~
+A
+#14268
+mob echo {D$I suddenly explodes in a shower of crystals!{x
+mob echo {D$I slowly begins to reform, larger than before. Uh oh.{x
+mob zecho There is a loud, angry roar from somewhere in the Vault.
+mob mload 14249
+mob force elder emote ROARS loudly!
+mob force elder kill $r
+mob goto 14248
+~
+A
+#14267
+mob kill $r
+~
+A
+#14266
+emote screeches loudly, the sound seems to echo forever.
+mob damage $r 150 150 Lethal
+~
+A
+#14265
+emote howls aloud, and the walls shudder!
+emote spits a stream of vile acid at $N!
+mob damage $n 900 900 Lethal
+mob echo $I's stream of acid does {RUNSPEAKABLE{x things to $N!!
+~
+A
+#14264
+emote hisses sibilantly and slithers around the marble pillar.
+mob echo {D$I says 'Greetings, traveller. You are strong to have made it this far.'{x{x
+mob echo {D$I says 'I am the guardian of the Kingsword. My spirit was bound to this place long ago.'{x
+mob echo {D$I says 'Only by slaying me can you acquire the Tyrant's Blade for yourself.'{x
+~
+A
+#14263
+mob cast 'giant strength' $i
+mob cast frenzy $i
+mob cast haste $i
+mob cast sanctuary $i
+mob cast stone $i
+mob cast shield $i
+mob cast bless $i
+mob cast 'prismatic sphere'
+mob cast 'withstand death'
+~
+A
+#14262
+mob echo {WAn ominous humming noise fills the chamber.{x
+mob cast heal $i
+~
+A
+#14261
+stare $n
+say That be none o' your damn business, $N!
+scowl
+~
+A
+#14260
+snort
+say The giant bedamned lizards? They're sure to be destroyed durin't his war.
+say Don't listen to what the naysayers be sayin', aye.
+say I kilt plenny o' them damned things to know they ain't TRUE dragons.
+say The real big ones are too big to use swords an' armor and stuff.
+~
+A
+#14259
+grumbl
+say The war! Well, I do like war meself, ye know.
+say But it's been goin' on for so bloody long, even I'm startin' to get tired.
+say Lots o' people dyin' left and right. But tis glorious anyway!
+cackle
+say My place was as a minor warlord in th'armies. I trained all the recruits and marched off to war.
+say The dragons didnae stand a chance!
+~
+A
+#14258
+smile
+say Dominia's the perfect land to live, ye know that?
+say It's got wilderness for explorin', civilization for livin' in, and nary a dragon to be seen!
+say Well, until they came across th'ocean, I s'pose.
+say There be all kinds o' relics and places yet undiscovered, ye know.
+say Loads o' treasures an' lost races to be found even yet.
+~
+A
+#14257
+say The Vault? Well, I wasn't too keen on buildin' it ta begin with, ye unnerstand.
+shr
+say I was sure Shandalar could defend against the hordes o' dragons forever.
+say The bedamned counsellors and wizards and such said we should, though.
+say T'was a good idea, at least, all things considered.
+~
+A
+#14256
+say I'll give ye a good talkin' to about the followin' subjects:
+say - VAULT
+say - DOMINIA
+say - WAR
+say - DRAGONS
+~
+A
+#14255
+emote grunts loudly.
+say What'd ye want, stranger?
+say To see what I kin talk about, say 'LIST TOPICS'.
+~
+A
+#14254
+mob echo $I suddenly crackles with energy and attacks!
+mob kill $n
+~
+A
+#14253
+say As you wish, $N!
+emote waves his talons dramatically.
+mob echo {cThere is a brief flash of light.{x
+mob echoaround $n $N vanishes!
+mob gtrans $n 14329
+mob force $n look
+~
+A
+#14252
+smile
+say My garden is the last of its kind, and only exists in a pocket dimension.
+say A pocket dimension is a tiny block of space that exists elsewhere from here.
+say I put my garden there to save it from the destruction by the dragons.
+say If you'd like to visit it, you can say TRANSPORT ME to head there now.
+say Be careful, though! The garden can defend itself from attackers.
+~
+A
+#14251
+say Druids are the prime givers of life in a country, even more so than clerics.
+say We tend to forests, farms, and gardens, and breathe life into the world.
+say We're also pretty tough in a fight!
+flex
+say I've only recently learned how to actually animate the trees of the deep forest.
+say Those should prove useful in our fight against the dragons. I hope so, anywhow.
+~
+A
+#14250
+chuc
+say Of course, they weren't always as we know it. We evolved frightfully fast over the last few thousand years.
+say Instead of mere insects, we're a unified race of intelligent creatures.
+say Although acid tends to burn through our carapaces quite easily, our hive minds give us the benefit of evading charm spells somewhat.
+say Interesting,  no?
+~
+A
+#14249
+say I was in charge of Dominia's nature. Not an easy task, but I lived up to expectations, I think.
+chuckle
+say I made the weather sunny for a lot of Dominia's early days, carefully monitoring the plantlife.
+say Unfortunately, I think I may have overdone the sun a little.
+say By my calculations, I heated the continent enough that there will be a lot of rain over the next few hundred years.
+say Oops.
+~
+A
+#14248
+say Back in my day, gardens thrived from coast to coast! Massive forests, verdant fields..
+say I was in charge of maintaining the crops and keeping the weather fine.
+say I kept my personal garden safe by placing it in a pocket dimension here in the Vault.
+say It was my duty, too, to keep Dominia safe using my druidic magic.
+say There were many a-dragon ensnared by vines!
+~
+A
+#14247
+nod
+say I can tell you about the following topics:
+say - SHANDALAR
+say - DOMINIA
+say - SLIVERS
+say - DRUIDS
+say - GARDEN
+~
+A
+#14246
+emote smiles serenely.
+say Hello. I was the foremost stinging heirophant of Shandalar.
+say If you'd like to know what I can teach you, please say LIST TOPICS.
+say Otherwise, feel free to defeat me in combat. If you can!
+~
+A
+#14245
+smile
+say So be it!
+mob echoat $n {cThere is a brief flash of light, and suddenly you're elsewhere.{x
+mob echoaround $n $N vanishes in a puff of white smoke.
+mob gtrans $n 14327
+mob force $n look
+~
+A
+#14244
+beam
+say My Tower is really a work of art, you know. It took me months and months to build.
+say I carved it straight out of a mountainside deep in the Dominian wilds.
+say No doubt it's impossible to get to by now, but I still have enough magic left..
+say Maybe I could transport you there for a little while, though I doubt there's anything of interest there.
+shr
+say Say TRANSPORT ME if you and your companions (if any) would like to travel there.
+~
+A
+#14243
+snort
+say Bah! Don't mention that name. Velar is a scoundrel and a ruffian.
+say He once tried to steal away my apprentice, you know. Never forgave him for that.
+say In any case, Velar was one of the minor generals of the last few years of the war.
+say He slayed a great deal of dragons on his own. Or so I understand.
+say If you talk to his statue, be sure to ask about his RED DRAGON BOTTLE.
+wink
+~
+A
+#14242
+say Well, yes, that's me. Well, was me when I wasn't a statue. I'm probably long dead by now.
+say I was the Archmage of Dominia for most of my life. Nobody could hold a candle to my skills.
+smile
+say I also had a TOWER, you know. Perhaps you'd like to visit it.
+~
+A
+#14241
+say Ah, glorious Dominia! Spanning oceans yet to be discovered in this time, full of strange and exotic life.
+say Hopefully our fair continent is still well today. I can only hope our efforts weren't in vain.
+smile
+say Of course, I'm just an enchanted statue, so it's not like I can do anything about it.
+say Back in my day, anyway, Dominia was free of all dragonkind. Civilization was in full speed.
+say Even the gnomes were helping, in their own way.
+~
+A
+#14240
+say Shandalar, back in my day, wasn't in fact the capitol of Dominia.
+say However, we had a great deal of citizens spread out over the countryside, in villages and towns..
+say Kirre in the jungles, slivers everwhere - it was a utopia for our kind.
+~
+A
+#14239
+say The vault was built during what the locals started calling the Dragon Wars.
+say In order to save our most prized relics and artifacts, we sent them down here.
+smile
+say I'd say we've done a good job so far.
+~
+A
+#14238
+nod
+say Just say the capitalized word and I'll talk about it.
+say - VAULT
+say - SHANDALAR
+say - DOMINIA
+say - GARGNATH
+say - VELAR
+say - TOWER
+~
+A
+#14237
+smile $n
+mob echoat $n {y$I says 'Hello, $N. I know you're here to defeat me in combat.. if you can.{x'
+mob echoat $n {y$I says 'However, I can give you a great deal of information first.'{x
+mob echoat $n {y$I says 'So go ahead - give it a world. Say LIST TOPICS to see what I can talk about.'{x
+~
+A
+#14236
+emote suddenly crackles with lightning.
+mob cast haste
+mob cast 'giant strength'
+mob cast stone
+~
+A
+#14235
+emote is momentarily bathed in flames.
+mob cast haste
+mob cast sanc
+mob cast 'cure critical'
+~
+A
+#14234
+puke $n
+mob echo {g$I sends a wave of disease at $N!{x
+mob cast plague $n
+mob cast plague $n
+mob cast plague $n
+mob damage $n 600 600 lethal
+~
+A
+#14233
+mob echo {y$I breaks the silence with a bloodcurdling shriek!{x
+mob damage $n 800 800 lethal
+mob cast rukus $n
+mob cast rukus $n
+mob cast rukus $n
+~
+A
+#14232
+emote HISSES with the force of a roar!
+mob echo {g$I spits poison at $N!{x
+mob damage $n 700 700 lethal
+mob cast 'dispel magic' $n
+~
+A
+#14231
+emote snarls angrily at being disturbed from its slumber.
+mob echo {r$I glows brightly and unleashes a deadly red beam from its amulet!{x
+mob damage $n 600 600 lethal
+mob cast 'harm' $n
+~
+A
+#14230
+mob echo $I sweeps an enormous drill around in a huge arc!
+mob damage $r 300 300 lethal
+mob cast general $r
+~
+A
+#14229
+snore
+~
+A
+#14228
+emote utters the words 'xian icandiius'
+mob cast acid
+mob cast fireball
+~
+A
+#14227
+emote hisses angrily.
+~
+A
+#14226
+chuckle
+say I'd be careful in there if I were you, $N. There's some nasty stuff in the Vault.
+~
+A
+#14225
+mob goto 14318
+mob oload 14252
+give trigg portaltrig
+mob goto 14321
+mob echo {y$I abruptly explodes in a shower of rose petals.{x
+ 
+~
+A
+#14224
+mob goto 14318
+mob oload 14251
+give trigg portaltrig
+mob goto 14320
+mob echo {c$I crumbles into a pile of ash.{x
+~
+A
+#14223
+mob goto 14318
+mob oload 14250
+give trigger portaltrig
+mob goto 14322
+mob echo {W$I explodes in a shower of glowing light.{x
+~
+A
+#14222
+mob goto 14318
+mob oload 14249
+give trigger1 portaltrig
+mob goto 14319
+mob echo {m$I vanishes in a cloud of energy.{x
+~
+A
+#14221
+if carries $i 14249
+mob purge trigger
+endif
+if carries $i 14250
+mob purge trigger
+endif
+if carries $i 14251
+mob purge trigger
+endif
+if carries $i 14252
+mob purge trigger
+endif
+drop all
+~
+A
+#14220
+if carries $i 14249
+ if carries $i 14250
+  if carries $i 14251
+   if carries $i 14252
+    say Excellent! You've defeated all four statues and proved your worth.
+    emote waves his hands, and there's a burst of magic.
+    mob echo The portal glows brightly.
+    mob gtrans $n 14323
+    end if
+   end if
+  end if
+end if
+~
+A
+#14219
+nod $n
+say When you have slain all four guardians, say the words 'hail selina' to me.
+~
+A
+#14218
+~
+N
+#14217
+~
+N
+#14216
+gasp
+say You.. you.. You found it!
+jig
+say How can I ever repay you?
+pond
+say I know!
+mob oload 14238
+drop mark
+emote smiles serenely, and fades slowly away.
+mob purge $i
+~
+A
+#14215
+sigh
+say Maybe if ye brought me my amulet I could reward ye somehow.
+shrug
+~
+A
+#14214
+say I lost my precious Amulet of Carnas far deeper, you know.
+emote sniffles sadly.
+say Alas, for I was defeated by the strange beings made entirely of light.
+~
+A
+#14213
+emote sighs desolately.
+say I can't go on to a better place if I don't have my amulet.
+sniffle
+~
+A
+#14212
+if class $n mage
+emote smiles.
+say You and your companions may pass, $N.
+mob echo There's a swirl of magic, and you feel yourself transported elsewhere.
+mob gtrans $n 14278
+else
+emote scowls.
+say You're not a mage. Go away, or I'll stab you in the face.
+end if
+~
+A
+#14211
+if class $n thief
+emote smiles.
+say You and your companions may pass, $N.
+mob echo There's a swirl of magic, and you feel yourself transported elsewhere.
+mob gtrans $n 14277
+else
+emote frowns.
+say You're not a thief! Go away, or I'll stab you in the face.
+end if
+~
+A
+#14210
+if class $n cleric
+emote smiles.
+say You and your companions may pass, $N.
+mob echo There's a swirl of magic, and you feel yourself transported elsewhere.
+mob gtrans $n 14276
+else
+emote scowls.
+say You're not a cleric! Go away, or I'll crush your brains with my mace.
+end if
+~
+A
+#14209
+emote snorts.
+say You cannot pass by me, unlawful fiend!
+say Though if you're the proper class, and say 'let me pass', I may consider it.
+~
+A
+#14208
+if class $n warrior
+emote smiles.
+say You and your companions may pass, $N.
+mob gtrans $n 14275
+mob at $n mob echo There's a swirl of magic, and you feel yourself transported elsewhere.
+else
+emote scowls.
+say You're not a warrior! Go away, lest I put my blade to your head.
+end if
+~
+A
+#14207
+mob echo $I suddenly blazes with a {Wwhite{x light!!
+mob echo A beam of energy lashes out towards $n!
+mob damage $n 800 800 lethal
+~
+A
+#14206
+if name $o 'massive iron plate'
+mob echo  The dwarven forge billows steam, and out drops a plate steel.
+mob oload 14226
+drop steel
+mob junk iron
+else
+mob echo The dwarven forge belches $O back out.
+drop all
+~
+A
+#14205
+mob junk iron
+mob echo The forge billows steam, and out drops a shining plate of pure steel.
+drop steel
+~
+A
+#14204
+if objhere wreckage
+mob purge wreckage
+end if
+~
+A
+#14203
+mob echo The drill machine gives a tortured, mechanical shriek, and slowly falls over!
+mob zecho There is a rumbling noise in the distance.
+mob oload 14225 0
+ 
+~
+A
+#14202
+mob echo The ettin gives a roar and sweeps $N off the cliff with $s club!
+mob echo {yYou fall off the cliff!{x
+mob echo Oof. You land with a thud at the bottom.
+mob gtrans $n 14334
+~
+A
+#14201
+mob echoat $n You manage to carefully skin the troglodyte!
+mob echoaround $n $N manages to carefully skin the dead troglodyte.
+mob oload 14200 43
+~
+A
+#14200
+if level $n < 40
+say Sorry, $N, but I can't let you through there. Get stronger first.
+else
+say Go right in, $N. But be careful, it's dangerous in there.
+mob trans $n 14202
+mob force $n look
+end if
+~
+A
+#0
+
+#RESETS
+D 0 14204 2 1
+D 0 14205 0 1
+D 0 14245 5 1
+D 0 14246 4 1
+D 0 14255 0 1
+D 0 14256 2 1
+D 0 14258 0 1
+D 0 14259 2 1
+D 0 14289 5 1
+D 0 14294 4 1
+D 0 14318 5 2
+D 0 14323 5 2
+D 0 14324 0 2
+D 0 14324 4 2
+D 0 14325 0 2
+D 0 14325 2 2
+D 0 14326 2 2
+M 1 14251 1 14336 1
+E 0 14267 0 5
+E 0 14266 0 11
+E 0 14265 0 16
+M 1 14250 4 14336 4
+O 0 14256 0 14339
+M 1 14252 1 14339 1
+O 0 14270 0 14339
+P 0 14271 1 14270 1
+O 0 14269 0 14339
+M 1 14200 1 14201 1
+M 1 14256 1 14203 1
+M 1 14201 15 14209 3
+E 0 14201 0 16
+E 0 14205 0 17
+P 0 14206 20 14205 1
+M 1 14201 15 14210 3
+E 0 14204 0 13
+E 0 14201 0 16
+M 1 14201 15 14211 3
+E 0 14201 0 16
+E 0 14202 0 7
+M 1 14201 15 14215 3
+E 0 14203 0 6
+E 0 14201 0 16
+M 1 14201 15 14216 3
+E 0 14201 0 16
+M 1 14202 1 14217 1
+E 0 14207 0 17
+M 1 14203 1 14221 1
+E 0 14208 0 16
+M 1 14204 20 14222 4
+M 1 14204 20 14224 4
+M 1 14253 1 14227 1
+M 1 14204 20 14228 4
+M 1 14255 1 14230 1
+M 1 14204 20 14230 4
+O 0 14281 0 14236
+P 0 14210 1 14209 1
+M 1 14205 10 14241 2
+M 1 14205 10 14242 2
+M 1 14205 10 14243 2
+M 1 14205 10 14244 2
+M 1 14205 10 14245 2
+M 1 14229 1 14248 1
+M 1 14223 1 14250 1
+M 1 14206 10 14256 2
+E 0 14214 0 11
+E 0 14211 0 16
+M 1 14206 10 14257 2
+E 0 14214 0 11
+E 0 14212 0 16
+M 1 14206 10 14258 2
+E 0 14214 0 11
+E 0 14213 0 16
+M 1 14206 10 14259 2
+E 0 14214 0 11
+O 0 14209 0 14260
+M 1 14254 1 14263 1
+M 1 14208 1 14264 1
+G 0 14219 0
+G 0 14218 0
+G 0 14217 0
+G 0 14216 0
+O 0 14220 0 14265
+P 0 14221 10 14220 1
+O 0 14222 0 14266
+M 1 14209 1 14267 1
+O 0 14223 0 14268
+M 1 14210 1 14270 1
+E 0 14224 0 10
+E 0 14224 0 12
+E 0 14224 0 5
+E 0 14224 0 7
+E 0 14224 0 6
+E 0 14224 0 14
+M 1 14207 1 14271 1
+E 0 14215 0 17
+M 1 14211 1 14274 1
+M 1 14212 1 14275 1
+M 1 14213 1 14276 1
+M 1 14214 1 14277 1
+M 1 14215 1 14281 1
+E 0 14229 0 11
+E 0 14228 0 3
+M 1 14216 1 14282 1
+E 0 14230 0 6
+M 1 14217 1 14284 1
+E 0 14261 0 16
+E 0 14232 0 8
+E 0 14231 0 5
+M 1 14218 1 14285 1
+E 0 14234 0 16
+E 0 14233 0 10
+M 1 14257 1 14286 1
+M 1 14219 12 14287 2
+M 1 14219 12 14288 2
+M 1 14219 12 14289 2
+M 1 14219 12 14290 2
+M 1 14219 12 14291 2
+M 1 14219 12 14292 2
+M 1 14221 12 14298 3
+M 1 14220 12 14299 3
+M 1 14220 12 14300 3
+M 1 14221 12 14304 3
+M 1 14220 12 14305 3
+M 1 14220 12 14306 3
+M 1 14222 20 14308 2
+M 1 14221 12 14310 3
+M 1 14222 20 14311 2
+O 0 14280 0 14312
+P 0 14235 5 14209 1
+M 1 14221 12 14312 3
+M 1 14222 20 14314 2
+O 0 14209 0 14315
+P 0 14237 10 14209 1
+P 0 14236 1 14209 1
+M 1 14222 20 14315 2
+M 1 14222 20 14316 2
+M 1 14222 20 14317 2
+M 1 14224 1 14319 1
+E 0 14241 0 17
+E 0 14240 0 13
+E 0 14239 0 16
+M 1 14227 1 14320 1
+E 0 14248 0 18
+E 0 14247 0 11
+M 1 14225 1 14321 1
+E 0 14244 0 1
+E 0 14243 0 6
+E 0 14242 0 16
+M 1 14226 1 14322 1
+G 0 14245 0
+G 0 14245 0
+E 0 14246 0 6
+G 0 14245 0
+M 1 14248 1 14326 1
+O 0 14262 0 14326
+O 0 14254 0 14327
+O 0 14255 0 14329
+M 1 14230 8 14330 2
+G 0 14257 0
+G 0 14257 0
+O 0 14256 0 14330
+M 1 14230 8 14331 2
+G 0 14259 0
+G 0 14259 0
+M 1 14230 8 14332 2
+G 0 14258 0
+G 0 14258 0
+M 1 14230 8 14333 2
+G 0 14260 0
+G 0 14260 0
+O 0 14263 0 14334
+P 0 14264 4 14263 1
+S
+
+
+
+#SHOPS
+14200 0 0 0 0 0 100 100 0 0
+14208 3 4 13 0 0 450 50 0 23
+14253 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

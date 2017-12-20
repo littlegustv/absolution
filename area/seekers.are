@@ -1,0 +1,1990 @@
+#AREADATA
+Name Seekers Clan Hall~
+Builders Teldin Aql~
+VNUMs 10800 10849
+Credits { All }             Seekers Clan~
+Security 9
+Xcontinent 0
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#10800
+clan goon statue bosco seeker hall~
+Statue of Bosco~
+A statue of Bosco is here, protecting the door to the north.
+~
+~
+orc~
+ABG HJNV 0 0
+60 6 50d10+9500 1d1+99 8d6+28 punch
+-30 -30 -30 -30
+FRU ABa Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 seeker~
+#10801
+healer~
+the healer~
+A healer is here, selling spells.  
+~
+Although retired from adventuring, the healer still lends a hand.  
+Type 'heal' to see a listing of spells.  
+~
+human~
+ABQVa DZ 1000 0
+43 4 25d10+2500 1d1+99 3d12+15 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 seeker~
+#10802
+Clan Store keeper~
+store keeper~
+Your clan store keeper is here, trying to sell you a water skin. 
+~
+A man dressed in old tattered clothing is here, trying to sell your clan 
+items so that he can feed his family. 
+~
+human~
+ABQR DZ 1000 0
+1 0 1d1+999 1d1+999 10d10+10 magic
+-15 -15 -15 -15
+FGH ABDQ 0 0
+stand stand male 300000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#10803
+giant creature~
+A giant {gcreature{x~
+A giant {gcreature{x chained here, catches you!
+~
+A horrible monster of the dead, this horror seeks to devour those
+who are about to die. A viscious cycle, for those who are devoured
+in turn become lurkers.
+~
+orc~
+ABCGT DJZ 0 0
+60 0 10d10+1400 17d9+100 4d7+11 punch
+-10 -10 -10 -10
+FRU ABCD Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 seeker~
+#10804
+clan goon statue bosco seeker hall~
+Statue of Bosco~
+A statue of Bosco is here, protecting the door to the north.
+~
+~
+orc~
+ABG HJNV 0 0
+60 6 50d10+9500 1d1+99 8d6+28 punch
+-30 -30 -30 -30
+RU AB Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 seeker~
+#10805
+clan goon statue bosco seeker hall~
+Statue of Bosco~
+A statue of Bosco is here, protecting the door to the north.
+~
+~
+orc~
+ABCGT HJNV 0 0
+60 6 50d10+9500 1d1+99 8d6+28 punch
+-30 -30 -30 -30
+RU AB Q S
+stand stand male 0
+AHMV ABCDEFGHIJK medium wood seeker~
+#10806
+clan goon statue bosco seeker hall~
+Statue of Bosco~
+A statue of Bosco is here, protecting the door to the north.
+~
+~
+orc~
+ABCGT HJNV 0 0
+60 6 50d10+9500 1d1+99 8d6+28 punch
+-30 -30 -30 -30
+RU AB FQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 seeker~
+#10807
+clan goon statue bosco seeker hall~
+Statue of Bosco~
+A statue of Bosco is here, protecting the door to the north.
+~
+~
+orc~
+ABG HJNV 0 0
+60 6 50d10+9500 1d1+99 8d6+28 punch
+-30 -30 -30 -30
+RU AB Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 seeker~
+#0
+
+
+
+#OBJECTS
+#10800
+seeker hall key~
+Seeker Hall Key~
+The key to Seekers clan hall is on the floor.~
+metal~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the Seekers of the world of Redemption.
+~
+#10801
+clan couch~
+a clan couch~
+A clan couch is here, ready to receive your butt.~
+cloth~
+furniture IO 0
+100 100 BEHKN 100 100
+0 0 0 P
+#10802
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#10803
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 4000 P
+#10804
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#10805
+white off potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#10806
+figurine mist~
+mist figurine~
+A misty figurine lays on the ground.~
+oldstyle~
+wand AG AO
+45 3 3 'gate' 0
+40 30 11800 P
+A
+14 75  
+#10807
+pit sacrifice~
+a pit for sacrifices~
+A pit for sacrifices is in front of the altar.~
+air~
+container 0 0
+10000 0 0 100 100
+0 0 0 P
+#10808
+potion green deep~
+a deep-green potion~
+A deep-green potion lies here.~
+oldstyle~
+potion G AO
+10 'stone skin' 'blindness' '(null)' '(null)'
+12 10 950 P
+#10809
+fist granite~
+a fist of granite~
+A fist of granite has fallen to the ground.~
+oldstyle~
+weapon FGHPTU AN
+dagger 7 6 stab AB
+50 20 450 P
+A
+19 5  
+#10810
+elixir anti~
+anti-cyclops elixir~
+An elixir to ward off cyclopi has been bought then left behind here.~
+oldstyle~
+potion 0 AO
+15 'invisibility' '(null)' '(null)' '(null)'
+0 10 250 P
+#10811
+pewter sack~
+a pewter sack~
+A small bag made of metal is gathering dust here.~
+pewter~
+throwing N AO
+3 7 blast 37 'acid blast'
+30 20 1750 P
+#10812
+seeker hall key~
+Seeker Hall Key~
+The key to Seekers clan hall is on the floor.~
+metal~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the Seekers of the world of Redemption.
+~
+#10813
+lime potion~
+a lime potion~
+A greenish vial is here.~
+wood~
+potion AN AO
+25 'detect invis' 'detect magic' '(null)' '(null)'
+40 1 2200 P
+#10814
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#10815
+potion cure blindness~
+a potion of cure blindness~
+A potions of cure blindness is here.~
+glass~
+potion G AO
+13 'cure blindness' 'reserved' 'reserved' 'reserved'
+0 1 2300 P
+#10816
+vial black ink~
+a vial of black ink~
+A vial of black writing ink sits here.~
+cream~
+potion 0 AO
+25 'remove curse' 'blur' '(null)' '(null)'
+25 1 3000 P
+#10817
+vial psychedelic ink~
+a vial of psychedelic ink~
+A vial of multicolored ink.~
+cream~
+potion 0 AO
+5 'invisibility' 'pass door' '(null)' '(null)'
+1 1 500 P
+#10818
+fountain water~
+a water fountain~
+A fountain is here, spewing water all over the place.~
+stone~
+portal O 0
+0 0 0 10834 0
+0 100000 0 P
+#10819
+stone bench~
+a small stone bench~
+A small stone bench~
+stone~
+furniture 0 0
+2 0 BEHK 0 0
+0 0 0 P
+E
+stone bench~
+A small stone bench is here, engraved with the symbol of
+the black rose.  It looks just large enough for two people.
+Someone has crudely carved 'SP+T' on it.
+~
+#10820
+incredible pill feeling~
+an incredible pill of feeling~
+An incredible pill of feeling has been dropped here.~
+food~
+pill e AO
+15 'detect invis' 'infravision' 'loneliness' '(null)'
+15 10 1000 P
+E
+~
+~
+E
+incredible pill feeling~
+This pill isn't appetizing.
+~
+#10821
+rose~
+the High Priest's working desk~
+The High Priest's working desk.~
+wood~
+portal 0 0
+0 0 0 10846 0
+0 0 0 P
+E
+rose~
+You see a shimmering light...
+~
+E
+priest working desk~
+The High Priest's working desk.
+~
+#10822
+stormbringer bringer dart~
+a stormbringer~
+A storm-painted dart lies here.~
+silver~
+throwing C AO
+6 3 sting 28 'hurricane'
+25 0 2000 P
+#10823
+prenuptual agreement~
+a prenuptual agreement~
+A prenuptual agreement lies here.~
+oldstyle~
+scroll 0 A
+51 'cure blindness' '(null)' 'shield' '(null)'
+11 10 2400 P
+#10824
+tall tea glass~
+tall tea glass~
+A tall glass of passion fruit tea looks great right now.~
+food~
+potion 0 A
+30 'refresh' 'reserved' 'reserved' 'reserved'
+0 5 1500 P
+#10825
+tent~
+a sturdy canvas tent~
+A sturdy canvas tent is here.~
+canvas~
+container S A
+70 A 0 10 100
+1 25 150 P
+#10826
+potpie pot pie~
+a big pot pie~
+A big pot pie has been left here.~
+food~
+food 0 A
+20 40 0 0 0
+0 20 11 P
+#10827
+skin water buffalo~
+a buffalo water skin~
+A bloated dead buffalo is on the floor.~
+leather~
+drink 0 A
+64 64 'water' 0 0
+0 40 24 G
+#10828
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#10829
+blank scroll _unused_~
+a blank scroll~
+A blank scroll is here.~
+paper~
+scroll 0 AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#10830
+dart~
+a strange dart~
+You see a little dart here.~
+wood~
+throwing 0 AO
+1 6 pierce 15 'burning hands'
+0 10 510 P
+#10831
+fountain water~
+a fountain~
+A white marble fountain gushes forth here.~
+~
+fountain OR 0
+0 0 'lemonade' 0 0
+0 0 0 G
+E
+fountain~
+It is very nice.  Made from fine white marble. 
+~
+#10832
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+12 'identify' '(null)' '(null)' '(null)'
+7 10 890 P
+E
+scroll identify~
+The scroll has a magic formula drawn upon it: 
+	  ??? 
+	 ?   ? 
+		 ? 
+		? 
+		? 
+		* 
+~
+#10833
+raft~
+a raft~
+A raft has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 750 400 A
+E
+raft~
+The raft looks very primitive. 
+~
+#10834
+defeathered chicken~
+a defeathered chicken~
+A defeathered chicken is here on the floor.~
+oldstyle~
+food 0 A
+16 16 0 0 0
+0 50 10 P
+#10835
+fountain water~
+a water fountain~
+A fountain is here, spewing water all over the place.~
+stone~
+fountain O 0
+-1 -1 'water' 0 0
+0 100000 0 P
+#10836
+incredible potion strength~
+an incredible potion of strength~
+An incredible potion of strength has been dropped here.~
+glass~
+potion C AO
+25 'giant strength' 'slow' '(null)' '(null)'
+20 10 3000 P
+E
+incredible~
+Poua! It smell awfull. Yon don't want really drink it ?
+~
+#10837
+white pill~
+a white pill~
+A white pill with the letter 'C' stamped on it.~
+none~
+pill 0 A
+35 'frenzy' 'giant strength' 'reserved' 'reserved'
+35 0 5000 P
+#10838
+potion dark blue~
+a dark blue potion~
+A dark blue potion lies here.~
+oldstyle~
+potion G AO
+10 '(null)' 'refresh' '(null)' '(null)'
+0 10 200 P
+#10839
+flame broiled elfkabob~
+a flame broiled elfkabob~
+A flame broiled elfkabob is here, giving off a juicy, almost intoxicating smell.~
+food~
+pill GS A
+10 'stone skin' 'shield' 'reserved' 'reserved'
+0 1 2500 P
+#10840
+gingerbread cookie~
+a gingerbread cookie~
+A gingerbread cookie is here, luring you in with an irresistable aroma.~
+food~
+pill GS A
+10 'bark skin' 'pass door' 'reserved' 'reserved'
+10 1 2500 P
+#10841
+deep blue pill~
+a deep blue pill~
+A deep blue pill with the letter 'E' stamped on it.~
+food~
+pill 0 A
+53 'frenzy' 'heal' 'reserved' 'reserved'
+50 0 15000 P
+#10842
+wand magic missile missiles~
+a wand of magic missiles~
+a wooden stick lies on the ground.~
+wood~
+wand G AO
+4 10 10 'magic missile' 0
+2 10 320 P
+E
+wand~
+It has a little note that says 'point this end at target'. 
+~
+#10843
+vial potion empty _unused_~
+an empty potion vial~
+An empty potion vial is here.~
+wood~
+potion W AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 100 P
+#10845
+gem sapphire~
+a brilliant sapphire~
+A brilliant sapphire lies here twinkling.~
+oldstyle~
+gem G AOY
+BCE 0 0 0 0
+0 1 2000 P
+#10846
+tetragon sabre fist granite~
+a fist of granite~
+A fist of granite has fallen to the ground.~
+adamantite~
+weapon ABIPUV AN
+sword 5 7 cleave EF
+42 450 5600 P
+E
+scimitar blade~
+It is quite heavy.  The blade is made of some metal that you can't even 
+spell.  The edge of the blade looks as if it could cut through anything 
+or anyone. 
+~
+#10847
+figurine blank_fig~
+a blank figurine~
+A blank figurine is here, waiting for a soul.~
+wood~
+wand 0 AO
+0 1 1 'figurine spell' 0
+0 0 100 P
+#10848
+path redemption~
+the Path of Redemption~
+The Path of Redemption is here, laying before you.~
+Energy~
+portal 0 0
+0 0 0 10804 0
+0 100000 0 P
+#10849
+clear pill~
+a clear pill~
+A cute clear pill has the letter 'S' stamped on it.~
+glass~
+pill 0 A
+30 'haste' 'reserved' 'reserved' 'reserved'
+20 0 2500 P
+#0
+
+
+
+#ROOMS
+#10800
+The Map Room - South Wing~
+As you step into the South Wing, you are overwhelmed by magical forces. 
+On each wall rests a picture depicting the destination of each portal, most
+likely made by the members of Seeker's past.  The room is dimly lighted by
+several torches on the walls, which seem to never die.  Large marble pillars
+hold the ceiling up, as well as reflect the light from the torches.  A
+golden plaque hangs near the entrance to help travelers find their way
+through the lands of Redemption.  
+~
+0 807665676 0
+E
+plaque~
+For those who require assistance in their travels:
+ 
+North - Map Room Atrium
+ West - High Tower
+ East - Divided Souls
+South - Istanbul
+   Up - Dragon Tower
+ Down - Pyramid
+~
+D1
+~
+~
+0 0 11600
+D2
+~
+~
+0 0 22268
+D3
+~
+~
+0 0 1312
+D4
+~
+~
+0 0 2201
+D5
+~
+~
+0 0 8700
+C seeker~
+S
+#10801
+Ruined Temple~
+This once fine temple from the age before now lies in an ancient forest. 
+Long forgotten, but now inhabited, it serves as the home of the Seekers. 
+Marble friezes show the beauty and pride of a forgotten age, the age of the
+rule of Bosco and his children.  Something more than beauty seems to be held
+within these ruins however.  You sense a peace that was lacking in that age
+of power, for now man and beast can live with a freedom of choice, the
+ability to chart their own path.  This, truly is the right place for those
+who seek their own destiny.  
+~
+0 8 3
+D0
+~
+~
+0 0 10803
+D2
+~
+~
+0 -1 6152
+D3
+~
+door~
+0 0 10802
+S
+#10802
+Passageway of Death~
+Once this room served to discourage foolhardy thieves and bandits from
+entering the temple's main altar and worship rooms traps and creatures guard
+the Seekers.  As you look around, you notice that bones of all races line
+the walls, and that some of the look quite fresh.  You had better hurry
+through here for the longer you stand here, the more likely it is that you
+will die.  
+~
+0 941884428 0
+D1
+~
+door~
+0 0 10801
+C seeker~
+S
+#10803
+Guardian room~
+A statue of Bosco dominates this room, carved of ivory and seeming to
+glow with a pale white light. It seems like the holiest and saddest of the
+rooms in this forgotten temple, for you have intruded on a god who is near
+gone, a once great being whose greatest temple is now forgotten by all but
+those who seek the true path. How fitting that that statue now protects those
+who still seek the way that it once represented. 
+~
+0 8 0
+D0
+~
+~
+4 10812 10804
+D2
+~
+door~
+0 -1 10801
+S
+#10804
+Main Hallway~
+The marble walls are in better condition in this room deeper inside the
+once great temple.  As you watch, the scenes seem to move and tell a story
+of the age before, a story of a son of Bosco and his fall, of his rise again
+as a new man, and his new glory.  Such a place as this seems like the right
+place for those who seek the new ways to bring their finds from all over the
+lands for those who are their bretheren.  Here too is a healer sworn to
+service for those who dwell here, for the new age is dangerous and often
+Seekers require aid.  
+{x
+{x   A statue of Bhaal stands on a pedestal.
+~
+0 807665676 0
+E
+statue~
+Before you stands a large statue depeciting the first leader of the clan
+Seeker, Bhaal.  He may have appeared like a ferocious dragon, but he was a
+pacifist at heart.  
+ 
+{x   "Live to defend each other, yet remain peaceful.
+{x   Seek Knowledge where knowledge can not be found."
+{x  - Bhaal
+~
+D0
+~
+door~
+0 0 10805
+D2
+~
+~
+0 0 10803
+D3
+~
+door~
+0 0 10806
+C seeker~
+S
+#10805
+Holy Font~
+This room was once the holy font of the temple, and its healing
+properties remain.  Now, the holy fountain is merely filled with lemonade,
+but, this too fits the times, for lemonade is more practical than holiness
+after the fall of the gods.  You feel that you can rest here, and at least
+find some of the peace you seek before you continue on your path.  
+~
+0 807665676 0
+E
+2~
+Generic extended description. 
+~
+D0
+~
+~
+0 0 10835
+D2
+~
+door~
+0 0 10804
+D4
+~
+~
+0 0 10809
+D5
+~
+~
+0 0 10807
+M 170 H 160
+C seeker~
+S
+#10806
+Main Altar Room~
+The walls of this room were once resplendent in gold and marble, now even
+in their old age they show the beauty of what once was the main altar room. 
+Now, the store for the Seekers is set up in this, once holiest of the
+temple's rooms.  Even the old altar is used to display goods, for the times
+have changed and old ways and gods have fallen to new.  Now, those who seek
+a new life walk the paths of the world, and come here for their goods to aid
+their quest.  
+~
+0 807665676 0
+D1
+~
+door~
+0 0 10804
+C seeker~
+S
+#10807
+Seeker Portal Room~
+{Y***Portals under construction***{x
+~
+0 807665676 0
+E
+plaque~
+For those who require assistance in their travels:
+ 
+North - For those in need of swift travel.
+ West - For those in need of major cities.
+ East - For those in need of leveling assistance.
+South - For those in need of far away places.
+   Up - For those in need of regeneration.
+~
+D0
+~
+~
+0 0 3001
+D4
+~
+~
+0 0 10805
+C seeker~
+S
+#10808
+The Map Room - North Wing~
+As you step into the North Wing, you are overwhelmed by magical forces. 
+On each wall rests a picture depicting the destination of each portal, most
+likely made by the members of Seeker's past.  The room is dimly lighted by
+several torches on the walls, which seem to never die.  Large marble pillars
+hold the ceiling up, as well as reflect the light from the torches.  A
+golden plaque hangs near the entrance to help travelers find their way
+through the lands of Redemption.  
+~
+0 807665676 0
+E
+plaque~
+For those who require assistance in their travels:
+ 
+North - Midgaard (Recall)
+ West - Abandoned Chateau 
+ East - Terra Docks
+South - Map Room Atrium
+~
+D0
+~
+~
+0 0 3001
+D1
+~
+~
+0 0 254
+D3
+~
+~
+0 0 4900
+C seeker~
+S
+#10809
+{CRoom {xof {BFountains{x~
+You gasp for air as you enter this room.  The humidity is so thick you
+feel as if you are becoming short of air.  The walls around you are heavy
+with deep flowing water which pours into the center of the room creating a
+deep pool.  Marids swim freely through this room.  
+~
+0 807403532 12
+D5
+~
+~
+0 0 10805
+C seeker~
+S
+#10810
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10829
+D1
+~
+~
+0 0 10818
+D2
+~
+~
+0 0 10810
+D3
+~
+~
+0 0 10801
+D4
+~
+~
+0 0 10803
+D5
+~
+~
+0 0 10825
+C seeker~
+S
+#10811
+{gInside{x the {yCave{x~
+You enter a small room in the cave.  Nothing really special stands out in
+here The walls are covered in vines and roots.  The floor is alittle wet
+from the {CRoom {xof {BFountains{x to the north.  A sweet smell from coming
+from the southern room fills the air, drawing you closer to the next room.  
+~
+0 807403532 0
+D2
+~
+~
+1 0 10846
+C seeker~
+S
+#10812
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10816
+D1
+~
+~
+0 0 10837
+D2
+~
+~
+0 0 10836
+D3
+~
+~
+0 0 10821
+D4
+~
+~
+0 0 10817
+D5
+~
+~
+0 0 10812
+C seeker~
+S
+#10813
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10821
+D1
+~
+~
+0 0 10824
+D2
+~
+~
+0 0 10828
+D3
+~
+~
+0 0 10818
+D4
+~
+~
+0 0 10840
+D5
+~
+~
+0 0 10817
+C seeker~
+S
+#10814
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10823
+D1
+~
+~
+0 0 10833
+D2
+~
+~
+0 0 10824
+D3
+~
+~
+0 0 10840
+D4
+~
+~
+0 0 10828
+D5
+~
+~
+0 0 10830
+S
+#10815
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10824
+D1
+~
+~
+0 0 10836
+D2
+~
+~
+0 0 10831
+D3
+~
+~
+0 0 10818
+D4
+~
+~
+0 0 10810
+D5
+~
+~
+0 0 10801
+C seeker~
+S
+#10816
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10830
+D1
+~
+~
+0 0 10826
+D2
+~
+~
+0 0 10832
+D3
+~
+~
+0 0 10828
+D4
+~
+~
+0 0 10810
+D5
+~
+~
+0 0 10821
+C seeker~
+S
+#10817
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10830
+D1
+~
+~
+0 0 10821
+D2
+~
+~
+0 0 10818
+D3
+~
+~
+0 0 10826
+D4
+~
+~
+0 0 10828
+D5
+~
+~
+0 0 10839
+C seeker~
+S
+#10818
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10836
+D1
+~
+~
+0 0 10822
+D2
+~
+~
+0 0 10819
+D3
+~
+~
+0 0 10827
+D4
+~
+~
+0 0 10810
+D5
+~
+~
+0 0 10836
+C seeker~
+S
+#10819
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10801
+D1
+~
+~
+0 0 10827
+D3
+~
+~
+0 0 10822
+D4
+~
+~
+0 0 10827
+D5
+~
+~
+0 0 10822
+C seeker~
+S
+#10820
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10831
+D1
+~
+~
+0 0 10841
+D2
+~
+~
+0 0 10841
+D3
+~
+~
+0 0 10841
+D4
+~
+~
+0 0 10819
+D5
+~
+~
+0 0 10832
+C seeker~
+S
+#10821
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10828
+D1
+~
+~
+0 0 10812
+D2
+~
+~
+0 0 10828
+D3
+~
+~
+0 0 10840
+D4
+~
+~
+0 0 10821
+D5
+~
+~
+0 0 10812
+C seeker~
+S
+#10822
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10810
+D1
+~
+~
+0 0 10827
+D2
+~
+~
+0 0 10819
+D3
+~
+~
+0 0 10819
+D4
+~
+~
+0 0 10822
+D5
+~
+~
+0 0 10801
+C seeker~
+S
+#10823
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10838
+D1
+~
+~
+0 0 10821
+D2
+~
+~
+0 0 10841
+D3
+~
+~
+0 0 10820
+D4
+~
+~
+0 0 10833
+D5
+~
+~
+0 0 10824
+C seeker~
+S
+#10824
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10817
+D1
+~
+~
+0 0 10813
+D2
+~
+~
+0 0 10826
+D3
+~
+~
+0 0 10830
+D5
+~
+~
+0 0 10815
+C seeker~
+S
+#10825
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10829
+D1
+~
+~
+0 0 10810
+D2
+~
+~
+0 0 10822
+D3
+~
+~
+0 0 10824
+D4
+~
+~
+0 0 10810
+D5
+~
+~
+0 0 10818
+C seeker~
+S
+#10826
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10824
+D1
+~
+~
+0 0 10838
+D2
+~
+~
+0 0 10827
+D3
+~
+~
+0 0 10837
+D4
+~
+~
+0 0 10824
+D5
+~
+~
+0 0 10817
+C seeker~
+S
+#10827
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10819
+D1
+~
+~
+0 0 10822
+D2
+~
+~
+0 0 10827
+D3
+~
+~
+0 0 10822
+D4
+~
+~
+0 0 10819
+D5
+~
+~
+0 0 10827
+C seeker~
+S
+#10828
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10830
+D1
+~
+~
+0 0 10816
+D2
+~
+~
+0 0 10821
+D3
+~
+~
+0 0 10819
+D4
+~
+~
+0 0 10822
+D5
+~
+~
+0 0 10827
+C seeker~
+S
+#10829
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10810
+D1
+~
+~
+0 0 10829
+D2
+~
+~
+0 0 10819
+D3
+~
+~
+0 0 10837
+D4
+~
+~
+0 0 10827
+D5
+~
+~
+0 0 10822
+C seeker~
+S
+#10830
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10815
+D1
+~
+~
+0 0 10836
+D2
+~
+~
+0 0 10816
+D3
+~
+~
+0 0 10812
+D4
+~
+~
+0 0 10824
+D5
+~
+~
+0 0 10815
+C seeker~
+S
+#10831
+Ruined Temple~
+This once fine temple from the age before now lies in an ancient forest. 
+Long forgotten, but now inhabited, it serves as the home of the Seekers. 
+Marble friezes show the beauty and pride of a forgotten age, the age of the
+rule of Bosco and his children.  Something more than beauty seems to be held
+within these ruins however.  You sense a peace that was lacking in that age
+of power, for now man and beast can live with a freedom of choice, the
+ability to chart their own path.  This, truly is the right place for those
+who seek their own destiny.
+~
+0 807403532 0
+D0
+~
+~
+0 0 10824
+D1
+~
+~
+0 0 10836
+D2
+~
+~
+0 0 10836
+D3
+~
+~
+0 0 10822
+D4
+~
+~
+0 0 10812
+D5
+~
+~
+0 0 10824
+C seeker~
+S
+#10832
+Ruined Temple~
+This once fine temple from the age before now lies in an ancient forest. 
+Long forgotten, but now inhabited, it serves as the home of the Seekers. 
+Marble friezes show the beauty and pride of a forgotten age, the age of the
+rule of Bosco and his children.  Something more than beauty seems to be held
+within these ruins however.  You sense a peace that was lacking in that age
+of power, for now man and beast can live with a freedom of choice, the
+ability to chart their own path.  This, truly is the right place for those
+who seek their own destiny.
+~
+0 807403532 0
+D0
+~
+~
+0 0 10845
+D1
+~
+~
+0 0 10817
+D2
+~
+~
+0 0 10813
+D3
+~
+~
+0 0 10821
+D4
+~
+~
+0 0 10840
+D5
+~
+~
+0 0 10812
+C seeker~
+S
+#10833
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10836
+D1
+~
+~
+0 0 10814
+D2
+~
+~
+0 0 10839
+D3
+~
+~
+0 0 10817
+D4
+~
+~
+0 0 10812
+D5
+~
+~
+0 0 10831
+C seeker~
+S
+#10834
+{BDeep{b Blue {BS{be{Ba{x~
+Here lays a room hidden deep under the {bSea{x.  
+~
+0 807403532 12
+D4
+~
+~
+0 0 10809
+C seeker~
+S
+#10835
+Holy  Grove~
+The ceiling of the temple has collapsed here, but the exposure to the
+elements has allowed a small but verdant sanctuary to prosper. Tended
+by Seeker's druids, it allows them to practice and apply their lore.
+Others appreciate its tranquility, and use the space for their meditations.
+ 
+~
+0 807403524 3
+D2
+~
+~
+0 0 10805
+C seeker~
+S
+#10836
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+C seeker~
+S
+#10837
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+C seeker~
+S
+#10838
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+C seeker~
+S
+#10839
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+C seeker~
+S
+#10840
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+C seeker~
+S
+#10841
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+C seeker~
+S
+#10842
+Empty Vnum~
+~
+0 807403532 0
+C seeker~
+S
+#10843
+Empty Vnum~
+~
+0 807403532 0
+C seeker~
+S
+#10844
+Empty Vnum~
+~
+0 807403532 0
+C seeker~
+S
+#10845
+The Seeker's Path~
+The path before you is one only a true Seeker can complete.  It branches,
+twists and tries to distract you from the goal you seek.  You must continue
+along it or find yourself lost, but which way will you go?  Life has
+presented you with choices in every direction. 
+~
+0 807403532 0
+D0
+~
+~
+0 0 10833
+D1
+~
+~
+0 0 10832
+D2
+~
+~
+0 0 10812
+D3
+~
+~
+0 0 10812
+D4
+~
+~
+0 0 10836
+D5
+~
+~
+0 0 10817
+C seeker~
+S
+#10846
+A {bSweet{x Garden~
+A {bsweet {xgarden with big weeping willows stands before you, hiding
+everything from view.  A sweet perfume blows in the air, your eyes capture a
+small trail that leads you between the trees, bringing you to a small
+clearing.  You discover the sweetest garden you have ever seen.  All you can
+see is roses, thousands of roses, of all colors.  {DBlack{x and {Wwhite{x
+roses you see the most.  This room seems to be filled with beauty and
+kindness.  An aura of peace presides here that makes you want to rest and
+relax.  Water runs from a big fountain standing in the middle of the garden,
+shaped in a pisces symbol.  A little bench, engraved with a {Dblack{x rose,
+is hiding under the willow tree, facing the garden of roses.  
+~
+0 807403524 3
+D0
+~
+~
+1 0 10811
+D2
+~
+~
+0 0 10801
+D5
+~
+~
+0 0 10803
+C seeker~
+S
+#10847
+{rHall{x of {YTreasure{X~
+You stumble down a dimly lit hallway until you come to a doorway.  As you
+begin to open the two giant doors, light bursts out into your face almost
+blinding you.  A few seconds later your eyes begin to focus and you see a
+large golden hallway trimmed in platinum colours.  Along the left wall you
+see rows of weapons, and along the right, rows of armor.  {x {x {x {x 
+ 
+{x   An ornate plaque is here on the wall.
+~
+0 807665676 0
+E
+plaque~
+The Grand Masters of Seeker, from past to present:
+{x
+Bhaal
+Crossbones
+Max
+Ying
+Poko
+FireAran
+Leucaruth
+Cardinal
+Strabo
+Novalee
+Cappadocius
+Rina
+Codith
+Whip
+Kaely
+Silvo
+Celesta
+Kalani
+Falstaff
+Leviathan
+Shaolin
+~
+C seeker~
+S
+#10848
+The Map Room - West Wing~
+As you step into the West Wing, you are overwhelmed by magical forces. 
+On each wall rests a picture depicting the destination of each portal, most
+likely made by the members of Seeker's past.  The room is dimly lighted by
+several torches on the walls, which seem to never die.  Large marble pillars
+hold the ceiling up, as well as reflect the light from the torches.  A
+golden plaque hangs near the entrance to help travelers find their way
+through the lands of Redemption.  
+~
+0 807665676 0
+E
+plaque~
+For those who require assistance in their travels:
+ 
+North - New Ofcol
+ West - Stoneridge
+ East - Map Room Atrium
+South - New Thalos
+~
+D0
+~
+~
+0 0 601
+D2
+~
+~
+0 0 9506
+D3
+~
+~
+0 0 11000
+C seeker~
+S
+#10849
+The Map Room - East Wing~
+As you step into the East Wing, you are overwhelmed by magical forces. 
+On each wall rests a picture depicting the destination of each portal, most
+likely made by the members of Seeker's past.  The room is dimly lighted by
+several torches on the walls, which seem to never die.  Large marble pillars
+hold the ceiling up, as well as reflect the light from the torches.  A
+golden plaque hangs near the entrance to help travelers find their way
+through the lands of Redemption.  
+~
+0 807665676 0
+E
+plaque~
+For those who require assistance in their travels:
+ 
+North - Wyvern Tower
+ West - Map Room Atrium
+ East - Hell
+South - Mahn-Tor
+ Down - Sea of Death
+~
+D0
+~
+~
+0 0 1601
+D1
+~
+~
+0 0 10401
+D2
+~
+~
+0 0 2377
+D5
+~
+~
+0 0 6401
+C seeker~
+S
+#0
+
+
+
+#SPECIALS
+M 10800 spec_goon Load to: Statue of Bosco
+M 10801 spec_cast_adept Load to: the healer
+M 10803 spec_doorman Load to: A giant {gcreature{x
+M 10804 spec_goon Load to: Statue of Bosco
+M 10805 spec_goon Load to: Statue of Bosco
+M 10806 spec_goon Load to: Statue of Bosco
+M 10807 spec_goon Load to: Statue of Bosco
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 10803 0 2
+D 0 10811 2 1
+D 0 10846 0 1
+M 1 10803 1 10802 1
+M 1 10804 1 10803 1
+E 0 10800 0 3
+M 1 10800 1 10803 1
+E 0 10812 0 3
+M 1 10807 1 10803 1
+E 0 10800 0 3
+M 1 10806 1 10803 1
+E 0 10800 0 3
+M 1 10805 1 10803 1
+E 0 10800 0 3
+M 1 10801 1 10804 1
+O 0 10807 0 10804
+O 0 10801 0 10805
+O 0 10831 0 10805
+M 1 10802 1 10806 1
+G 0 10829 0
+G 0 10828 0
+G 0 10825 0
+G 0 10849 0
+O 0 10848 0 10820
+O 0 10835 0 10834
+S
+
+
+
+#SHOPS
+10802 5 9 3 32 4 90 50 0 23
+0
+
+
+
+#$

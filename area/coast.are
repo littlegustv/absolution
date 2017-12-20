@@ -1,0 +1,2651 @@
+#AREADATA
+Name The Coast~
+Builders None~
+VNUMs 200 299
+Credits {15 20} Daisy       The Coast~
+Security 9
+Xcontinent 0
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#200
+mole~
+a small mole~
+A small mole is blinded when outside his hole.
+~
+It is sad to see this small mole wander around helpless, and blind.
+~
+cat~
+AB AZ 0 0
+15 -1 3d7+88 1d1+100 2d5+1 bite
+-2 -2 -2 -2
+FH 0 0 0
+stand stand either 50
+AGV ACDEFHJKQUV small 0 the guilds~
+#201
+oyster~
+an oyster~
+A small oyster lies in the sand.
+~
+A grey shell protects the soft inner portion of the oyster.
+~
+centipede~
+AB Z 0 0
+15 -1 3d7+188 1d1+100 2d4+1 suction
+-2 -2 -2 -2
+0 0 FI E
+stand stand either 0
+ABGO ACKL tiny 0 the guilds~
+#202
+pelican~
+a pelican~
+A large pelican sits here hunting fish.
+~
+This big bird has a large bill which is uses to catch fish.
+~
+song bird~
+AB T 0 0
+17 -1 3d7+230 1d1+100 3d2+3 peck
+-3 -3 -3 -3
+FH 0 0 0
+stand stand either 450
+AGW ACDEFHKP medium 0 the guilds~
+#203
+sea turtle~
+a sea turtle~
+A large shelled turtle has wandered in from the sea.
+~
+This turtle is probably large enough to ride on.  However you doubt that
+he would move under your command.
+~
+lizard~
+AB 0 0 0
+15 -1 3d7+188 1d1+100 2d5+1 bite
+-2 -2 -2 -2
+0 0 L I
+stand stand either 200
+AGXc ACDEFHKQV medium 0 the guilds~
+#204
+eladamri shoreman long~
+Eladamri, the long shoreman~
+A long shoreman is here selling tickets to ride the Weatherlight Ferry.
+~
+A tall man with a picture of two crossed oars tattooed on his arm
+is standing here selling tickets to the ferry that runs between the
+continents of Terra and Dominia.
+~
+human~
+ABT 0 0 0
+30 3 6d12+853 1d1+100 4d6+8 punch
+-9 -9 -9 -9
+0 KPZ 0 0
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#205
+killer bees~
+a killer bee~
+A killer bee flys around the field looking for a flower to land on.
+~
+A small black and yellow striped insect flys in front of your face.
+~
+centipede~
+AB TZ 0 0
+16 -1 3d7+203 1d1+100 2d4+2 sting
+-2 -2 -2 -2
+0 0 FI E
+stand stand either 200
+ABGO ACK tiny 0 the guilds~
+#206
+racoon~
+racoon~
+A large racoon tries to hide from your view.
+~
+A furry brown racoon with a black hair around the eyes tries to escape
+your notice.
+~
+fox~
+AB Z 0 0
+15 -1 3d7+188 1d1+100 2d5+1 bite
+-2 -2 -2 -2
+FH 0 0 0
+stand stand either 800
+AGV ACDEFHJKQV small 0 the guilds~
+#207
+Jack~
+Jack~
+Jack went up a hill to fetch a pail of water.
+~
+~
+human~
+AB 0 0 0
+17 -1 3d7+218 1d1+100 3d3+1 punch
+-3 -3 -3 -3
+0 0 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#208
+Jill~
+Jill~
+Jill went up the hill to fetch a pail of water.
+~
+This girl looks like she fell out of a Mother Goose tale.
+~
+human~
+AB 0 0 0
+17 -1 3d7+218 1d1+100 3d3+1 slap
+-3 -3 -3 -3
+0 0 0 0
+stand stand female 2500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#209
+field mouse~
+a field mouse~
+A tiny field mouse scampers around your feet.
+~
+A little grey mouse runs quickly by you.
+~
+cat~
+AB Z 0 0
+15 -1 3d7+98 1d1+100 2d4+1 bite
+-2 -2 -2 -2
+FH 0 0 0
+stand stand either 100
+AGV ACDEFHJKQUV small 0 the guilds~
+#210
+skunk black white~
+a skunk~
+A black and white striped animal rubs against your leg.
+~
+A black cat-like animal with a white stripe down its back smells
+really bad.
+~
+cat~
+AB VZ 0 0
+16 -1 3d7+213 1d1+100 2d4+2 bite
+-2 -2 -2 -2
+FH 0 0 0
+stand stand either 500
+AGV ACDEFHJKQUV small 0 the guilds~
+#211
+hare rabbie~
+a furry hare~
+A long-eared hare runs in front of you.
+~
+A brown and grey furry hare hops from bush to bush.
+~
+rabbit~
+AB 0 0 0
+15 -1 3d7+108 1d1+100 2d5+3 bite
+-2 -2 -2 -2
+FH 0 0 0
+stand stand either 150
+AGV ACDEFHJK small 0 the guilds~
+#212
+snake green~
+a green snake~
+A long green snake lies unmoving in the grass.
+~
+This cold blooded animal slithers around the grass, almost hidden
+from view.
+~
+snake~
+AB 0 0 0
+16 -1 3d7+203 1d1+100 2d4+3 bite
+-2 -2 -2 -2
+0 0 L I
+stand stand either 600
+AGXYc ADEFKLQVX small 0 the guilds~
+#213
+waiter head~
+the head waiter~
+A waiter dressed in a black tux stands alert to serve you.
+~
+A tall and competent looking waiter has control over the dining
+room.
+~
+human~
+AB 0 0 0
+30 1 6d10+853 1d1+100 4d6+8 punch
+-9 -9 -9 -9
+0 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#214
+bartender ships~
+the ship's bartender~
+The ship's bartender waits to serve you.
+~
+The ship's bartender is dressed in a fancy black tux.  He looks
+very professional.
+~
+human~
+AB 0 0 0
+30 3 6d12+853 1d1+100 4d6+8 punch
+-9 -9 -9 -9
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#215
+ship violinist~
+the Weatherlight's violinist~
+The ship's violinist is headed towards the dock.
+~
+The violinist is dressed in a black tux and has his hair slicked
+back.  He is very handsome.
+~
+human~
+AB V 0 0
+19 -1 3d7+288 1d1+100 2d5+3 punch
+-4 -4 -4 -4
+0 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#216
+ships conductor~
+the Weatherlight's orchestra conductor~
+The ship's orchestra conductor is on his way to work.
+~
+The conductor is dressed in a black tux and has his hair slicked
+back.  He is very handsome.
+~
+human~
+AB V 0 0
+19 -1 3d7+288 1d1+100 2d5+3 punch
+-4 -4 -4 -4
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#223
+weatherlight sailor~
+a sailor~
+One of the Weatherlight's sailors is looking for a new line of work.
+~
+The sailor is dress is a bright white uniform.  He looks likes he's
+sailed around the world.
+~
+human~
+AB 0 0 0
+17 -1 3d7+228 1d1+100 3d3+2 punch
+-3 -3 -3 -3
+0 Z 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#224
+first mate weatherlight~
+the Weatherlight's first-mate~
+The captain's first-mate is dutifully following his captain around.
+~
+This strong sailor looks capable of handling any crisis that might
+happen on his ship.
+~
+human~
+AB D 0 0
+20 -1 3d7+300 1d1+100 2d6+3 punch
+-4 -4 -4 -4
+0 0 0 0
+stand stand male 700
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#225
+weatherlight captain~
+the captain of the Weatherlight~
+The Weatherlight's captain has become depressed since his ship was destroyed.
+~
+This strong sailor looks capable of handling any crisis that might
+happen on his ship.
+~
+human~
+AB DH 0 0
+20 -1 3d7+303 1d1+100 2d6+2 punch
+-4 -4 -4 -4
+0 0 0 0
+stand stand male 700
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#226
+passenger weatherlight~
+a Weatherlight passenger~
+A passenger headed towards the old ferry dock is confused about how to get to Dominia.
+~
+This passenger looks excited to be traveling to the new continent.
+~
+human~
+AB 0 0 0
+19 -1 3d7+288 1d1+100 2d5+3 punch
+-4 -4 -4 -4
+0 0 0 0
+stand stand either 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#227
+second mate weatherlight~
+the Weatherlight's second-mate~
+The second-mate from the Weatherlight is about to become a fishing-boat captain.
+~
+The second-mate has a lot of responsibility to the rest of the crew.
+He also strives to make all the passengers on his ship comfortable.
+~
+human~
+AB 0 0 0
+19 -1 3d7+288 1d1+100 2d5+3 punch
+-4 -4 -4 -4
+0 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#240
+crab~
+a brown crab~
+A small brown crab scampers around the beach.
+~
+This hard-shelled little sea creature inhabits the sea and the
+beach.  It has two large pinches that give you warning to stay
+away.
+~
+centipede~
+AB Z 0 0
+15 -1 3d7+188 1d1+100 2d4+1 claw
+-2 -2 -2 -2
+0 0 FI E
+stand stand either 100
+ABGO ACK small 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#200
+test object~
+a tester~
+A test object.~
+wood~
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#201
+black pearl~
+a black pearl~
+A shiny black pearl has been dropped here.~
+enamel~
+recall_crystal 0 AOY
+BCDEFGHN A A 0 0
+13 10 1200 P
+#202
+conductor's baton~
+the conductor's baton~
+The conductor's baton has been dropped here.~
+wood~
+wand 0 AO
+17 3 3 'rainbow burst' 0
+15 30 4500 P
+#203
+compass~
+a compass~
+A gold-plated ship's compass has been left here.~
+gold~
+wand 0 AO
+5 1 1 'loneliness' 0
+20 20 8500 P
+#204
+sailing axe~
+a sailor's axe~
+The axe of a sailor has been dropped here.~
+wood~
+weapon 0 AN
+axe 2 6 cleave 0
+15 60 4350 P
+A
+18 2  
+#205
+cat o nine tails~
+a cat-o-nine tails~
+The captain's cat-o-line tails has been left here.~
+leather~
+weapon 0 AN
+flail 4 3 blast H
+18 75 7210 P
+A
+1 2  
+#206
+oar sailor~
+an oar~
+A sailor's oar has been dropped here.~
+wood~
+weapon 0 AN
+polearm 4 3 none 0
+16 120 1370 P
+A
+19 1  
+A
+2 2  
+#207
+violin bow~
+a violin bow~
+A violin bow has been dropped here.~
+wood~
+weapon 0 AN
+staff 4 3 sting D
+19 20 6000 P
+#208
+fillet knife~
+a fillet knife~
+A sailor's fillet knife has been dropped here.~
+iron~
+throwing AJ AO
+2 6 slice 20 'slow'
+15 30 5200 P
+#209
+sailors rope~
+a sailor's rope~
+The rope of a sailor has been dropped here.~
+hemp~
+weapon 0 AN
+whip 4 3 thwack I
+18 50 3420 P
+#210
+roast beef plate~
+a plate of roast beef~
+A juicy slice of roast beef is served on a large plate.~
+organic~
+food 0 A
+12 12 0 0 0
+1 30 260 P
+#211
+chicken breast plate~
+a plate of chicken breast~
+A juicy breast of chicken is served on a large plate.~
+organic~
+food 0 A
+12 12 0 0 0
+1 30 200 P
+#212
+pasta plater~
+a pasta plater~
+A full plater of pasta looks delicious.~
+organic~
+food 0 A
+12 12 0 0 0
+1 30 180 P
+#213
+coffee cup~
+a cup of coffee~
+A cup has been set here.~
+china~
+drink 0 A
+6 6 'coffee' 0 0
+1 10 60 P
+E
+cup~
+It is a small simple cup. 
+~
+#214
+glass white wine~
+a glass of white wine~
+A glass of white wine looks very refreshing.~
+china~
+drink 0 A
+4 4 'white wine' 0 0
+1 10 90 P
+E
+cup~
+It is a small simple cup. 
+~
+#215
+glass champagne~
+a glass of champagne~
+Bubbles from a glass of champagne tickle your nose.~
+china~
+drink 0 A
+4 4 'champagne' 0 0
+1 10 110 P
+E
+cup~
+It is a small simple cup. 
+~
+#216
+bench wooden~
+a bench~
+~
+wood~
+furniture OTY 0
+2 1000 E 100 100
+0 10 0 P
+E
+bench~
+A plain wooden bench has been placed here.
+~
+#217
+large oak table~
+a large table~
+A large table is set with fancy china.~
+wood~
+furniture OY 0
+6 10000 DG 100 100
+0 0 0 P
+E
+large oak table~
+The table is set with expensive linens.  A great place for a meal.  
+~
+#218
+large oak table~
+a large table~
+A large table is set with fancy china.~
+wood~
+furniture OY 0
+4 10000 DG 100 100
+0 0 0 P
+E
+large oak table~
+The table is set with expensive linens.  A great place for a meal.  
+~
+#219
+couch fancy~
+a fancy couch~
+~
+linen~
+furniture OTY 0
+3 1000 E 100 100
+1 500 0 P
+E
+bench~
+A plain wooden bench has been placed here.
+~
+#220
+large bed~
+a very large bed~
+A large bed with fancy covers stands here.~
+wood~
+furniture OY 0
+2 2000 EHK 100 100
+0 1000 0 P
+E
+bed~
+The bed is made from dark wood.  It is covered with soft blankets.  
+~
+#221
+twin bed~
+a twin bed~
+Two twin beds stand in the middle of the room.~
+wood~
+furniture OY 0
+2 2000 EHK 100 100
+0 1000 0 P
+E
+bed~
+The bed is made from dark wood.  It is covered with soft blankets.  
+~
+#0
+
+
+
+#ROOMS
+#200
+Next to the Water~
+You stand on a sandy beach next to the sea.  Low clouds cloak your 
+view of the horizon.  The cold sea stretches out to your east and 
+appears to be uninviting.  The coast continues north and a dirt path 
+lies to the south.  The walls of New Thalos lie in the distance to the 
+west.
+~
+0 0 2
+D0
+~
+~
+0 0 201
+D2
+~
+~
+0 0 9794
+D3
+~
+~
+0 0 256
+S
+#201
+On the Beach~
+You almost lose your balance as the sand shifts under you feet.  
+The salt water from the sea sprays against your face and clings to your 
+clothing.  The beach continues to the north and south, and the walls of 
+New Thalos lie in the distance to the west.
+~
+0 0 2
+D0
+~
+~
+0 0 202
+D2
+~
+~
+0 0 200
+D3
+~
+~
+0 0 247
+S
+#202
+Further Along the Beach~
+There are many footprints along this part of the beach.  This 
+looks like a good spot just to sit and watch the tide come in.  The 
+beach continues to the north and south.  To east is the Dragon Sea and 
+to the west is a clear field.
+~
+0 0 2
+D0
+~
+~
+0 0 203
+D2
+~
+~
+0 0 201
+D3
+~
+~
+0 0 246
+S
+#203
+The Eastern Coast of Terra~
+You stand on a sandy beach over looking the Dragon Sea.  The air 
+is salty and stings your face.  The coast continues to the north and 
+south.  A distance away to the west lies the walls of New Thalos.
+~
+0 0 2
+D0
+~
+~
+0 0 204
+D2
+~
+~
+0 0 202
+D3
+~
+~
+0 0 237
+S
+#204
+The Eastern Coast of Terra~
+You stand on a sandy beach over looking the Dragon Sea.  The air 
+is salty and stings your face.  The coast continues to the north and 
+south.  A distance away to the west lies the walls of New Thalos.
+~
+0 0 2
+D0
+~
+~
+0 0 205
+D2
+~
+~
+0 0 203
+D3
+~
+~
+0 0 236
+S
+#205
+Further Along the Coast~
+This lonely stretch of beach looks makes you feel very small as 
+you look out across the vast expanse of water.  The sandy coast 
+continues to the north and south.  To the west stands a grass-covered 
+field.
+~
+0 0 2
+D0
+~
+~
+0 0 206
+D2
+~
+~
+0 0 204
+D3
+~
+~
+0 0 227
+S
+#206
+The Coast of Terra~
+The smell of salt water and seaweed assaults you as you stand on 
+the beach over looking the Dragon Sea.   To the west a grassy field lies 
+before the walls of New Thalos.  The beach continues to the north and 
+south.
+~
+0 0 2
+D0
+~
+~
+0 0 207
+D2
+~
+~
+0 0 205
+D3
+~
+~
+0 0 226
+S
+#207
+The Coast of Terra~
+Sand and a few large rocks cover this part of the coast.  You can see a
+wide area of open water to the east.  Rocky cliffs lie to your north and to
+the south is a sandy beach.  
+~
+0 0 2
+D0
+~
+~
+0 0 208
+D1
+~
+~
+0 0 4396
+D2
+~
+~
+0 0 206
+D3
+~
+~
+0 0 211
+S
+#208
+A Rocky Coast~
+Large, gray rocks cover this section of the coast.  You slip on 
+the damp stones as a huge gust of sea air blows in from the east.  The 
+ledge along side the water continues to the north, while the sandy beach 
+lies to your south.
+~
+0 0 2
+D0
+~
+~
+0 0 209
+D2
+~
+~
+0 0 207
+S
+#209
+A Rocky Cliff~
+You climb up the rocky coast over looking the Dragon Sea.  
+Although there is a great view from up here, there is no access to the 
+water.  The beach lies to your south and the cliff continues to the 
+north.
+~
+0 0 2
+D0
+~
+~
+0 0 210
+D2
+~
+~
+0 0 208
+S
+#210
+Ledge of Rock~
+You stand on a narrow ledge of a cliff.  Before you stretch the 
+choppy waters of the Dragon Sea.  To the north and the west high rock 
+walls block your view.  The only exit is to the south.
+~
+0 0 2
+D2
+~
+~
+0 0 209
+S
+#211
+Dirt Road~
+This little used path leads from the northern gates of New Thalos 
+to the ferry dock.  You begin to smell the salt air from sea.  Dense 
+woods lie to the north and a grassy field is to the south.
+~
+0 0 2
+D1
+~
+~
+0 0 207
+D2
+~
+~
+0 0 226
+D3
+~
+~
+0 0 212
+S
+#212
+The Northern Road~
+You travel along a dirt road between New Thalos and the Dragon 
+Sea.  The sounds from the city die away and you can here the water in 
+the distance.  Large trees line the path to the north and a field stands 
+to the south.
+~
+0 0 2
+D1
+~
+~
+0 0 211
+D2
+~
+~
+0 0 225
+D3
+~
+~
+0 0 213
+S
+#213
+The Northern Road~
+You travel along a dirt road between New Thalos and the Dragon 
+Sea.  The sounds from the city die away and you can here the water in 
+the distance.  Large trees line the path to the north and a field stands 
+to the south.
+~
+0 0 2
+D1
+~
+~
+0 0 212
+D2
+~
+~
+0 0 224
+D3
+~
+~
+0 0 214
+S
+#214
+Along the Northern Road~
+This well maintained road travels between New Thalos and the 
+Dragon Sea ferry.  The grass covered field to your south looks like a 
+great place to picnic or just rest. 
+~
+0 0 2
+D1
+~
+~
+0 0 213
+D2
+~
+~
+0 0 223
+D3
+~
+~
+0 0 215
+S
+#215
+The Northern Road of New Thalos~
+A breeze blows in from the sea and rustles the leaves of the large
+oak trees that grow along the north side of the road.  The water lies to 
+your east and New Thalos is to the west.  A grassy field stands between 
+the beach and the city wall to the south.  
+~
+0 0 2
+D1
+~
+~
+0 0 214
+D2
+~
+~
+0 0 222
+D3
+~
+~
+0 0 216
+S
+#216
+The North Road~
+This dusy road travels from the northern gate of New Thalos to the
+Dragon Sea.  The city walls lies to your south and a large hedge blocks
+your view to the north.
+~
+0 0 2
+D1
+~
+~
+0 0 215
+D3
+~
+~
+0 0 217
+S
+#217
+The North Road~
+You stand on a well-maintained road that lies between the northern
+gate of New Thalos and the Dragon Sea.  A large hedge blocks any
+movement to the north, and the city walls line the southern edge of the
+road.
+~
+0 0 2
+D1
+~
+~
+0 0 216
+D3
+~
+~
+0 0 218
+S
+#218
+The North Road~
+The dust kicked up from the road temporarily blinds you.  As you
+blink, your eyes start to clear and you can make out the Dragon Sea far
+in the distance to your east.
+~
+0 0 0
+D1
+~
+~
+0 0 217
+D3
+~
+~
+0 0 219
+S
+#219
+The North Road~
+You stand on a road that runs east and west.  The city walls of
+New Thalos lie to your south and you can see trees from the northern
+wilderness towering over the tall hedge to the north.
+~
+0 0 2
+D1
+~
+~
+0 0 218
+D3
+~
+~
+0 0 220
+S
+#220
+The North Road~
+This road runs east and west from the northern gates of New Thalos.
+The walls of the city line the southern edge of the path and a
+large leafy hedge blocks any movement north.
+~
+0 0 2
+D1
+~
+~
+0 0 219
+D3
+~
+~
+0 0 221
+S
+#221
+Beginning of the North Road~
+This road runs east from the northern gates of New Thalos.  Along its
+southern edge lies the city walls.  To the north grows a large hedge
+which prevents you from heading in that direction.
+~
+0 0 2
+D1
+~
+~
+0 0 220
+D3
+~
+~
+0 0 9667
+S
+#222
+A Grassy Ditch~
+A deep ditch runs along side the northern road.  There must have
+been a recent rainfall because muddy water lies at its bottom.  The
+ditch continues east or you can head north to the road.
+~
+0 0 2
+D0
+~
+~
+0 0 215
+D1
+~
+~
+0 0 223
+D2
+~
+~
+0 0 231
+S
+#223
+A Grassy Ditch~
+You stand in the middle of a water-filled ditch.  Tiny insects
+swarm around your legs and mud seeps into your boots.  High banks lay
+to the north and south, and the ditch continues to the east and west.
+~
+0 0 2
+D0
+~
+~
+0 0 214
+D1
+~
+~
+0 0 224
+D2
+~
+~
+0 0 230
+D3
+~
+~
+0 0 222
+S
+#224
+A Ditch Beside the Road~
+You wonder how many travelers have slipped during their wanderings 
+and fallen into this deep ditch.  Perhaps it is worth your time to 
+search the grass for any coins that might have fallen out of their 
+backpacks.  You can climb onto the road by going north, or head into 
+an open field to the south.  The ditch continues to the east and 
+west.
+~
+0 0 2
+D0
+~
+~
+0 0 213
+D1
+~
+~
+0 0 225
+D2
+~
+~
+0 0 229
+D3
+~
+~
+0 0 223
+S
+#225
+The North Road's Ditch~
+This grassy ditch might provide the perfect cover to ambush people 
+traveling along the North Road.  You could cower down in the tall 
+grass and then leap at them as they walk past.  The road lies to the 
+north, and a large field is stands to the south.  The ditch continues 
+to the east and west.
+~
+0 524288 2
+D0
+~
+~
+0 0 212
+D1
+~
+~
+0 0 226
+D2
+~
+~
+0 0 228
+D3
+~
+~
+0 0 224
+S
+#226
+A Rocky Ditch~
+Small, smooth stones cover this end of the ditch.  A long road lies 
+to the north, and sandy beaches surround you to the east and south. 
+The ditch continues to the west.
+~
+0 0 2
+D0
+~
+~
+0 0 211
+D1
+~
+~
+0 0 206
+D2
+~
+~
+0 0 227
+D3
+~
+~
+0 0 225
+S
+#227
+Edge of the Beach~
+Along this section of the beach, sand gradually gives way to tall 
+clumps of brown grass.  A rocky incline is to your north and a grassy 
+field lies to the west.  The beach continues to the south and east.
+~
+0 0 2
+D0
+~
+~
+0 0 226
+D1
+~
+~
+0 0 205
+D2
+~
+~
+0 0 236
+D3
+~
+~
+0 0 228
+S
+#228
+A Grassy Field~
+You stand along the edge of large field.  This looks like the perfect 
+place to play your old childhood games.  A sandy beach begins to the 
+east and a large ditch lies to the north.  The field continues to the 
+south and the west.
+~
+0 0 2
+D0
+~
+~
+0 0 225
+D1
+~
+~
+0 0 227
+D2
+~
+~
+0 0 235
+D3
+~
+~
+0 0 229
+S
+#229
+A Grass-Covered Field~
+Dark green grass and pretty wildflowers cover the landscape.  You are 
+tempted to skip across the flat field and let the wind blow through 
+your hair.  Grass lies in every direction expect north, where there 
+is a deep ditch.
+~
+0 0 2
+D0
+~
+~
+0 0 224
+D1
+~
+~
+0 0 228
+D2
+~
+~
+0 0 234
+D3
+~
+~
+0 0 230
+S
+#230
+Tall Grass~
+You are hiding in a tall clump of grass.  If you stand very still no 
+one will be able to see you.  The field continues in all directions 
+except north, where there is a long ditch.
+~
+0 524288 2
+D0
+~
+~
+0 0 223
+D1
+~
+~
+0 0 229
+D2
+~
+~
+0 0 233
+D3
+~
+~
+0 0 231
+S
+#231
+The Mighty City Wall~
+A huge grey stone wall stretches far to the south.  Although 
+scarred and etched with blemishes from the salty sea air, it still 
+looks strong enough to protect the people who live within it.  A deep 
+ditch lies to your north and a field of grass is to the east.
+~
+0 0 2
+D0
+~
+~
+0 0 222
+D1
+~
+~
+0 0 230
+D2
+~
+~
+0 0 232
+S
+#232
+Before the City Wall~
+The New Thalos city wall lies in front of you.  Behind it you can 
+barely hear the sounds of its inhabitants.  The wall stretches to 
+your north and south.  To the east stands a large grassy field.
+~
+0 0 2
+D0
+~
+~
+0 0 231
+D1
+~
+~
+0 0 233
+D2
+~
+~
+0 0 241
+S
+#233
+In the Field~
+Pollen and grass clippings are carried by the wind and make you 
+sneeze.  The field surrounds your every side, except to the north 
+where the city wall of New Thalos stands.
+~
+0 0 2
+D0
+~
+~
+0 0 230
+D1
+~
+~
+0 0 234
+D2
+~
+~
+0 0 240
+D3
+~
+~
+0 0 232
+S
+#234
+A Picnic Area~
+Someone has left a beautiful yellow and orange quilt spread out on 
+the ground.  They must have forgotten it after a recent picnic.  A 
+large fruit tree to your south shades this entire area.  The field 
+lies in all other directions.
+~
+0 0 2
+D0
+~
+~
+0 0 229
+D1
+~
+~
+0 0 235
+D2
+~
+~
+0 0 239
+D3
+~
+~
+0 0 233
+S
+#235
+In the Clover~
+A large patch of dark green clover grows in this section of the 
+field.  It looks soft and comfortable and you are tempted to lie down 
+and take a nap.  The field continues in all directions.
+~
+0 0 2
+D0
+~
+~
+0 0 228
+D1
+~
+~
+0 0 236
+D2
+~
+~
+0 0 238
+D3
+~
+~
+0 0 234
+S
+#236
+Edge of the Beach~
+You have come to the end of the beach.  Sand lies to the north, 
+south, and east.  You can also hear the sounds of the sea to the
+east.  A large field lies to your west.
+~
+0 0 2
+D0
+~
+~
+0 0 227
+D1
+~
+~
+0 0 204
+D2
+~
+~
+0 0 237
+D3
+~
+~
+0 0 235
+S
+#237
+Edge of the Beach~
+The sand thins out along this section of the beach and a few big 
+rocks cover the ground.  You can reach the Dragon Sea by heading 
+east.  More sand lies to the north and south, and a path of clover 
+grows to the west.
+~
+0 0 2
+D0
+~
+~
+0 0 236
+D1
+~
+~
+0 0 203
+D2
+~
+~
+0 0 246
+D3
+~
+~
+0 0 238
+S
+#238
+A Four Leaf Clover~
+It is your lucky day!  A large four leaf clover grows in this part of 
+the field.  You wonder if it will protect you from monsters.  The 
+field continues to the north and south.  A large fruit tree grows to 
+the west and the beach lies to the east.
+~
+0 0 2
+D0
+~
+~
+0 0 235
+D1
+~
+~
+0 0 237
+D2
+~
+~
+0 0 245
+D3
+~
+~
+0 0 239
+S
+#239
+Large Apple Tree~
+You stand beneath a large fruit tree.  Its thick branches hold many 
+juicy apples.  A thick grove of trees grows to the south and a pretty 
+picnic area lies to the north.  The field stretches to the east and 
+the west.
+~
+0 0 2
+D0
+~
+~
+0 0 234
+D1
+~
+~
+0 0 238
+D2
+~
+~
+0 0 244
+D3
+~
+~
+0 0 240
+S
+#240
+A Grassy Mound~
+You stand in the middle of a large grass covered mound.  From this 
+position you can survey the field.  To the west you see the city 
+wall, far to the north lies the North Road, to the west lies a large 
+body of water, and a grove of trees stands to the south.
+~
+0 0 2
+D0
+~
+~
+0 0 233
+D1
+~
+~
+0 0 239
+D2
+~
+~
+0 0 243
+D3
+~
+~
+0 0 241
+S
+#241
+Outside the City Wall~
+The city wall stretches far into the distance to your north and 
+south.  The wall is tall and smooth to keep invaders from scaling it.  
+To the east is large grassy field.
+~
+0 0 2
+D0
+~
+~
+0 0 232
+D1
+~
+~
+0 0 240
+D2
+~
+~
+0 0 242
+S
+#242
+Along the City Wall~
+This sturdy wall was built many years ago to protect the citizens of 
+New Thalos from foreign invaders.  The wall continues to the north 
+and south.  A large field stretches to the east.
+~
+0 0 2
+D0
+~
+~
+0 0 241
+D1
+~
+~
+0 0 243
+D2
+~
+~
+0 0 251
+S
+#243
+A Grove of Trees~
+A number of tall trees grow in this part of the field.  This would 
+probably make a good hiding place if you were fleeing attackers.  
+More trees lie to the east.  The grassy field continues to the north, 
+south, and west.
+~
+0 524288 2
+D0
+~
+~
+0 0 240
+D1
+~
+~
+0 0 244
+D2
+~
+~
+0 0 250
+D3
+~
+~
+0 0 242
+S
+#244
+Some Tall Trees~
+You stand in the middle of a small grove of trees.  You could 
+probably stash a bag of loot behind the trunk of a large oak.  More 
+trees grow to the west and north.  The field continues to the south 
+and east.
+~
+0 524288 2
+D0
+~
+~
+0 0 239
+D1
+~
+~
+0 0 245
+D2
+~
+~
+0 0 249
+D3
+~
+~
+0 0 243
+S
+#245
+A Mole Hole~
+This part of the field has been dug up by rodents.  Many of the 
+tunnels have caved in but there is one recently created entrance.  
+The field continues to the north and south.  Oak trees grow to the 
+west and the beach lies to the east.
+~
+0 0 2
+D0
+~
+~
+0 0 238
+D1
+~
+~
+0 0 246
+D2
+~
+~
+0 0 248
+D3
+~
+~
+0 0 244
+S
+#246
+Edge of the Beach~
+Along this section of the beach, sand gradually gives way to tall 
+clumps of brown grass.  The beach continues to the north, south, and 
+east.  A grassy field lies to the west.
+~
+0 0 2
+D0
+~
+~
+0 0 237
+D1
+~
+~
+0 0 202
+D2
+~
+~
+0 0 247
+D3
+~
+~
+0 0 245
+S
+#247
+Edge of the Beach~
+The sand thins out along this section of the beach and a few big 
+rocks cover the ground.  You can reach the Dragon Sea by heading 
+east.  More sand lies to the north and south.  There is a grassy 
+field to the west.
+~
+0 0 2
+D0
+~
+~
+0 0 246
+D1
+~
+~
+0 0 201
+D2
+~
+~
+0 0 256
+D3
+~
+~
+0 0 248
+S
+#248
+A Grassy Field~
+This field is the home of many small animals.  You see tracks running 
+several directions.  The field continues to the north and south.  The 
+beach lies to the east and some trees are growing to the west.
+~
+0 0 2
+D0
+~
+~
+0 0 245
+D1
+~
+~
+0 0 247
+D2
+~
+~
+0 0 255
+D3
+~
+~
+0 0 249
+S
+#249
+A Clump of Oak Trees~
+A few large trees are growing in this part of the field and they 
+block your view of much of the area.  More trees are growing to the 
+north.  You can also travel to the east, west, and south.
+~
+0 0 2
+D0
+~
+~
+0 0 244
+D1
+~
+~
+0 0 248
+D2
+~
+~
+0 0 299
+D3
+~
+~
+0 0 250
+S
+#250
+Dark Green Grass~
+A patch of thick grass covers this section of the field.  Shadows 
+cast from tall trees to the north and east fall across the field.  
+The New Thalos City Wall stand to the west and the field continues to 
+the south.
+~
+0 0 2
+D0
+~
+~
+0 0 243
+D1
+~
+~
+0 0 249
+D2
+~
+~
+0 0 253
+D3
+~
+~
+0 0 251
+S
+#251
+The City Walls~
+This wall that protects the town of New Thalos is much to smooth and 
+tall to climb over.  It stretches to the north and south.  A green 
+field lies to the south.
+~
+0 0 2
+D0
+~
+~
+0 0 242
+D1
+~
+~
+0 0 250
+D2
+~
+~
+0 0 252
+S
+#252
+Edge of the Field~
+You stand at the edge of a large grassy field.  The sounds from a 
+bustling city are muted by the tall grey wall to your west.  A thick 
+hedge blocks your view to the south.
+~
+0 0 2
+D0
+~
+~
+0 0 251
+D1
+~
+~
+0 0 253
+S
+#253
+Small Incline~
+A grassy incline leads east to the top of a big hill.  You wonder how 
+many children have rolled down its side while playing.  The city wall 
+of New Thalos lies to the west and a field of grass is to the north.
+~
+0 0 2
+D0
+~
+~
+0 0 250
+D1
+~
+~
+0 0 299
+D3
+~
+~
+0 0 252
+S
+#254
+Entrance to Bosco's Breach~
+The shattered remnants of an abandoned dock lie here, the ferry man's hut
+an empty wreck.  A pattern of shimmering lights can be seen in the sky above
+you, a magically created path known as Bosco's Breach, which will connect
+you to the continent of Dominia.  As well, a rocky beach provides access to
+the waters for those without wings.  
+~
+0 262148 2
+S
+#255
+Beside a Tall Hedge~
+A long green hedge grows along the southern edge of the field.  It is 
+too high to climb over.  The hedge continues to the east and west and 
+the field lies to the north.
+~
+0 0 2
+D0
+~
+~
+0 0 248
+D1
+~
+~
+0 0 256
+D3
+~
+~
+0 0 299
+S
+#256
+Edge of the Beach~
+You have come to the end of the beach.  Sand lies to the north and 
+east.  To the west is a grass covered field and to the south a large 
+hedge blocks any movement.
+~
+0 0 2
+D0
+~
+~
+0 0 247
+D1
+~
+~
+0 0 200
+D3
+~
+~
+0 0 255
+S
+#257
+Deck of the Weatherlight~
+You stand in the middle of the poop deck of the Weatherlight Ferry, 
+which travels between the continents of Terra and Dominia.  The deck 
+continues to the north and south.  To the east is large wooden door.
+~
+0 268443680 1
+D0
+~
+~
+0 0 258
+D1
+~
+door~
+1 0 278
+D2
+~
+~
+0 0 277
+S
+#258
+The Stern~
+You stand at the stern of the Weatherlight watching the coast of 
+Terra slowly disappear over the horizon.  The deck continues to the 
+south and east.
+~
+0 268443680 1
+D1
+~
+~
+0 0 259
+D2
+~
+~
+0 0 257
+S
+#259
+The Mizzen Mast~
+The ship's shortest mast dominates this section of the Weatherlight.  
+It has recently been painted white and carries three wide sails.  The 
+deck continues to the west and north.
+~
+0 268443680 1
+D0
+~
+~
+0 0 260
+D3
+~
+~
+0 0 258
+S
+#260
+The Port-Side Deck~
+A tall wooden railing lines this side of the deck.  It protects you 
+from wandering too close to the edge and slipping into the water.  
+The deck continues to the east and south.
+~
+0 268443680 1
+D1
+~
+~
+0 0 261
+D2
+~
+~
+0 0 259
+S
+#261
+The Main Deck~
+This broad deck is perfect to stroll along.  A light breeze from the 
+sea cools your face.  The deck continues to the east and west.  To 
+the south is a porthole.
+~
+0 268443680 1
+E
+porthole~
+Looking into the porthole you can see the first-class dining room.
+~
+D1
+~
+~
+0 0 262
+D3
+~
+~
+0 0 260
+S
+#262
+The Port Deck~
+A long wooden bench sits along side the outer cabin wall.  You can 
+sit here, look out over the sea, and dream of your future.  The deck 
+continues to the east and west.
+~
+0 268443680 1
+D1
+~
+~
+0 0 263
+D3
+~
+~
+0 0 261
+S
+#263
+The Main Deck~
+A large lifeboat rests here, ready to be lowered into the water 
+should something happen to the ship.  The sea lies to your north, and 
+the deck continues to the east and west.
+~
+0 268443680 1
+E
+lifeboat~
+The lifeboat looks like it can hold around fifteen people.
+~
+D1
+~
+~
+0 0 264
+D3
+~
+~
+0 0 262
+S
+#264
+The Port-Side Deck~
+A large wave crests against the ship, soaking the deck.  Luckily it 
+just misses getting you wet.  The deck continues to the north and 
+east.
+~
+0 268443680 1
+D2
+~
+~
+0 0 265
+D3
+~
+~
+0 0 263
+S
+#265
+The Foremast~
+The second tallest mast dominates this section of the ship.  It holds 
+up two square sails and flies the ships flag.  The deck continues to 
+the north and east.
+~
+0 268443680 1
+D0
+~
+~
+0 0 264
+D1
+~
+~
+0 0 266
+S
+#266
+The Bow~
+You stand on the ship's bow looking out over the Dragon Sea.  A brisk 
+breeze slightly chills you and blows your clothing around your legs.  
+The deck continues to the south and west.
+~
+0 268443680 1
+D2
+~
+~
+0 0 267
+D3
+~
+~
+0 0 265
+S
+#267
+The Forecastle~
+This part of the deck is located in the front of the ship.  The door 
+to the first-class vestibule lies to the west.  The deck continues to 
+the north, south, and east.
+~
+0 268443680 1
+D0
+~
+~
+0 0 266
+D1
+~
+~
+0 0 268
+D2
+~
+~
+0 0 269
+D3
+~
+door~
+1 0 284
+S
+#268
+The Figurehead~
+A beautiful wooden mermaid with long red hair decorates the bow of 
+the ship.  The crew believes that she brings luck to their voyages.  
+The deck continues to the west.
+~
+0 268443680 1
+D3
+~
+~
+0 0 267
+S
+#269
+The Bow~
+The ship's bow offers an extraordinary view of the Dragon Sea.  You 
+check the horizon for sight of land but do not see any.  The deck 
+continues to the north and west.
+~
+0 268443680 1
+D0
+~
+~
+0 0 267
+D3
+~
+~
+0 0 270
+S
+#270
+The Cargo Hole~
+The hatch to the cargo hold dominates this section of the deck.  It 
+is closed and locked to keep anyone from stowing away.  The deck 
+continues to the east and south.
+~
+0 268443680 1
+D1
+~
+~
+0 0 269
+D2
+~
+~
+0 0 271
+S
+#271
+The Starboard-Side Deck~
+The coiled rope connected to the ship's anchor is tied to the 
+railing.  The knot looks pretty complicated so you probably should 
+not touch it.  The deck continues to the north and west.
+~
+0 268443680 1
+D0
+~
+~
+0 0 270
+D3
+~
+~
+0 0 272
+S
+#272
+The Northern Promenade~
+One of the Weatherlight's two lifeboats is located here.  You hope 
+that it will never be used.  The sea lies to your south and the deck 
+continues to the east and west.
+~
+0 268443680 1
+E
+lifeboat~
+This lifeboat looks like it could hold around fifteen people.
+~
+D1
+~
+~
+0 0 271
+D3
+~
+~
+0 0 273
+S
+#273
+The Mainmast~
+The tallest mast on the ship dominates this section of the deck.  It 
+supports three large sails and a crows nest.  It is much too high for 
+anyone but sailors to climb.  The deck continues to the east and 
+west.
+~
+0 268443680 1
+D1
+~
+~
+0 0 272
+D3
+~
+~
+0 0 274
+S
+#274
+The Southern Promenade~
+The view from this side of ship is breathtaking.  From this distance 
+the island of Nova Vessa appears to be rising out of the mist.  The 
+deck continues to the east and west.
+~
+0 268443680 1
+D1
+~
+~
+0 0 273
+D3
+~
+~
+0 0 275
+S
+#275
+The Starboard-Side Deck~
+High wooden rails line the west and south sides of the deck to 
+prevent anyone from falling into the water.  A long promenade lies to 
+the east and the cargo derrick stands to the north.
+~
+0 268443680 1
+D0
+~
+~
+0 0 276
+D1
+~
+~
+0 0 274
+S
+#276
+The Cargo Derrick~
+The equipment for hoisting goods and luggage from the dock onto deck 
+stands here.  It consists mostly of a few ropes and pulleys.  The 
+deck continues to the west and south.
+~
+0 268443680 1
+D2
+~
+~
+0 0 275
+D3
+~
+~
+0 0 277
+S
+#277
+The Stern~
+The rear of the ship is slightly protected from wind and bad weather 
+by an overhang from the cabins' roofs.  The deck continues to the 
+north and east.
+~
+0 268443680 1
+D0
+~
+~
+0 0 257
+D1
+~
+~
+0 0 276
+S
+#278
+The First-Class Foyer~
+You stand at the entrance of the large saloon for first-class 
+passengers.  Expensive oriental rugs cover the floor and dark wooden 
+paneling lines all the walls.  The saloon continues to the east and 
+to the west a door to the deck.
+~
+0 268443688 0
+D1
+~
+~
+0 0 279
+D3
+~
+door~
+1 0 257
+S
+#279
+The Dining Saloon~
+A large crystal chandelier hangs from the ceiling of the saloon 
+casting a bright light over the elegant surroundings.  A graceful 
+marble staircase leads up to the cabins.  Dining tables stand to the 
+north and east and a well-stocked bar lies to the south.
+~
+0 268443688 0
+D0
+~
+~
+0 0 280
+D1
+~
+~
+0 0 288
+D2
+~
+~
+0 0 287
+D3
+~
+~
+0 0 278
+D4
+~
+~
+0 0 289
+S
+#280
+A Dining Table~
+A large table set with service for six stands in this section of the 
+saloon.  Along the northern wall is a porthole that opens onto the 
+deck.  The dining saloon continues to the east and south.
+~
+0 268443688 0
+D1
+~
+~
+0 0 281
+D2
+~
+~
+0 0 279
+S
+#281
+A Dining Table~
+A fancy china service is set on this table for four.  The crystal 
+goblets and silver place settings must be worth a fortune.  More 
+tables are located to the west and south.  The orchestra pit lies to 
+the east.
+~
+0 268443688 0
+D1
+~
+~
+0 0 282
+D2
+~
+~
+0 0 288
+D3
+~
+~
+0 0 280
+S
+#282
+Orchestra Pit~
+A shallow pit for a band to set up is located in the section of the 
+dining saloon.  On the north wall is a porthole that opens up onto 
+the deck.  A dance floor lies to the south and tables can be found to 
+the west.
+~
+0 268443688 0
+D2
+~
+~
+0 0 283
+D3
+~
+~
+0 0 281
+S
+#283
+The Dance Floor~
+You stand in the middle of a large wooden dance floor.  How romantic 
+it must be to dance with your sweetheart in this elegant setting.  
+Dining tables are located to the west and a large vestibule can be 
+reached by heading east.
+~
+0 268443688 0
+D0
+~
+~
+0 0 282
+D1
+~
+~
+0 0 284
+D3
+~
+~
+0 0 288
+S
+#284
+The First-Class Vestibule~
+Three marble columns separate the vestibule from the rest of the 
+dining saloon.  A large oriental rug and an upholstered couch make 
+this look like a wonderful place to rest.  A door to the east leads 
+to the ship's bow and a dance floor is located to the west.
+~
+0 268443688 0
+D1
+~
+door~
+1 0 267
+D3
+~
+~
+0 0 283
+S
+#285
+The Kitchen~
+You have wandered into the Weatherlights kitchen.  It appears to be 
+well stocked with the latest equipment.  The only exit lies to the 
+west through the valet's station.
+~
+0 268443688 0
+D3
+~
+~
+0 0 286
+S
+#286
+The Valet's Station~
+Two large tables covered with water pitchers, china service, and 
+appetizers dominate this room.  The tables provide easy access to all 
+the necessities used by the saloon waiters.  The kitchen lies to the 
+east and a bar is located to the west.
+~
+0 268443688 0
+D1
+~
+~
+0 0 285
+D3
+~
+~
+0 0 287
+S
+#287
+The Saloon Bar~
+An elaborately carved wooden bar sits in the south-west corner of the 
+dining saloon.  A large gold framed mirror is hung on the wall behind 
+the bar.  The valet's station lies to the east and a grand staircase 
+is located to the north.
+~
+0 268443688 0
+D0
+~
+~
+0 0 279
+D1
+~
+~
+0 0 286
+S
+#288
+A Dining Table~
+This table is covered by a spotless white linen cloth and is set with 
+china for four.  The saloon continues to the north and west.  A dance 
+floor is located to the east.
+~
+0 268443688 0
+D0
+~
+~
+0 0 281
+D1
+~
+~
+0 0 283
+D3
+~
+~
+0 0 279
+S
+#289
+First-Class Berth~
+You have reached the hallway that links the saloon to the first-class 
+cabins.  There is a grand staircase leading down, and a smaller 
+spiral staircase leading up.  The door to stateroom 1 is located to 
+the north and the door to stateroom 2 is to the south.  The hallway 
+continues to the east.
+~
+0 268443688 0
+D0
+~
+door~
+1 0 290
+D1
+~
+~
+0 0 297
+D2
+~
+door~
+1 0 296
+D4
+~
+~
+0 0 298
+D5
+~
+~
+0 0 279
+S
+#290
+Stateroom 1~
+This large and well appointed room has been decorated with care.  An 
+expensive blue rug matches the bed coverings to perfection, and a 
+large wooden desk looks like a great place to study.  The only exit 
+is through the door to the south.
+~
+0 268444200 0
+D2
+~
+door~
+1 0 289
+S
+#291
+Stateroom 3~
+The most amazing aspect of this stateroom is the view.  A large 
+porthole looks out over the blue waters of the Dragon Sea.  A white-
+striped bed cover picks up some of accents from the waves.  The exit 
+lies through a south door.
+~
+0 268444200 0
+D2
+~
+door~
+1 0 297
+S
+#292
+Stateroom 5~
+A beautiful mahogany four-poster bed sits in the middle of this room.  
+It is covered with a heavy dark red comforter and a dozen feather 
+pillows.  There is a small porthole in the north wall that looks out 
+on the Dragon Sea.  The only exit is through the door to the south.
+~
+0 268444200 0
+D2
+~
+door~
+1 0 293
+S
+#293
+Outside the First-Class Cabins~
+This elegant hallway connects to the first-class berth.  The door to 
+stateroom 5 lies to the north, and the door to stateroom 6 is to the 
+south.  A small porthole looks out over the Dragon Sea.
+~
+0 268443688 0
+E
+porthole~
+You think you can see the coast of Dominia through the porthole.
+~
+D0
+~
+door~
+1 0 292
+D2
+~
+door~
+1 0 294
+D3
+~
+~
+0 0 297
+S
+#294
+Stateroom 6~
+You stand in the middle of a lovely room dominated by pale rose 
+canopy bed.  Two side chairs sit before a small iron fire place.  The 
+only exit lies through the door to the north.
+~
+0 268444200 0
+D0
+~
+door~
+1 0 293
+S
+#295
+Stateroom 4~
+There are two small twin beds in this cabin.  They are covered with a 
+delicate lace bedspread and small ivory pillows.  A porthole on the 
+southern wall has a spectacular view of the Dragon Sea.  The only 
+exit lies through the door to the north.
+~
+0 268444200 0
+D0
+~
+door~
+1 0 297
+S
+#296
+Stateroom 2~
+All of the tables and desktops in this cabin are covered with fresh 
+flowers in crystal vases.  The large, comfortable looking bed is the 
+only piece of furniture not overwhelmed by their presence.  The door 
+along the northern wall leads out to the hallway.
+~
+0 268444200 0
+D0
+~
+door~
+1 0 289
+S
+#297
+An Elegant Hallway~
+This carpeted hallway runs between all the first-class cabins.  The 
+door to stateroom 3 lies along the north wall, and the door to 
+stateroom 4 is located along the southern wall.  The hallway 
+continues to the east and west.
+~
+0 268443688 0
+D0
+~
+door~
+1 0 291
+D1
+~
+~
+0 0 293
+D2
+~
+door~
+1 0 295
+D3
+~
+~
+0 0 289
+S
+#298
+The Weatherlight's Bridge~
+The bridge is dominated by the ships wheel.  The north, south, and 
+west walls are covered with maps and sailing instruments.  A large 
+window in the east wall provides a great view by which to guide the 
+ship.  An iron staircase leads down to the first-class berth.
+~
+0 268443688 0
+D5
+~
+~
+0 0 289
+S
+#299
+Up a Hill~
+It is easy to survey the entire field from on top this hill.  You can 
+see the Dragon Sea far to the east, and the city walls to the west.  
+To the north lies a large grassy field.  You can see an east-west 
+road beyond the hedge to the south.
+~
+0 0 2
+E
+hedge~
+A tall hedge keeps you from reaching the road.
+~
+D0
+~
+~
+0 0 249
+D1
+~
+~
+0 0 255
+D3
+~
+~
+0 0 253
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 257 1 1
+D 0 267 3 1
+D 0 278 3 1
+D 0 284 1 1
+D 0 289 0 1
+D 0 289 2 1
+D 0 290 2 1
+D 0 291 2 1
+D 0 292 2 1
+D 0 293 0 1
+D 0 293 2 1
+D 0 294 0 1
+D 0 295 0 1
+D 0 296 0 1
+D 0 297 0 1
+D 0 297 2 1
+M 1 240 2 201 1
+M 1 240 2 202 1
+M 1 201 1 205 1
+E 0 201 0 17
+M 1 202 1 210 1
+M 1 227 1 212 1
+E 0 209 0 16
+M 1 223 2 212 1
+E 0 206 0 16
+M 1 226 2 213 1
+M 1 224 1 213 1
+E 0 208 0 17
+M 1 225 1 213 1
+E 0 203 0 17
+E 0 205 0 16
+M 1 226 2 217 1
+M 1 223 2 217 1
+E 0 204 0 16
+M 1 216 1 219 1
+E 0 202 0 17
+M 1 215 1 219 1
+E 0 207 0 16
+M 1 212 1 225 1
+M 1 205 4 229 1
+M 1 205 4 230 3
+M 1 210 1 232 1
+M 1 211 2 235 1
+M 1 203 2 236 1
+M 1 203 2 237 1
+M 1 211 2 239 1
+M 1 209 3 242 1
+M 1 206 1 244 1
+M 1 200 1 245 1
+M 1 209 3 248 1
+M 1 209 3 251 1
+O 0 216 0 262
+O 0 217 0 280
+M 1 213 1 281 1
+G 0 210 0
+G 0 211 0
+G 0 212 0
+O 0 218 0 281
+O 0 219 0 284
+M 1 214 1 287 1
+G 0 213 0
+G 0 214 0
+G 0 215 0
+O 0 218 0 288
+O 0 220 0 290
+O 0 220 0 291
+O 0 220 0 292
+O 0 220 0 294
+O 0 221 0 295
+O 0 220 0 296
+M 1 208 1 299 1
+M 1 207 1 299 1
+S
+
+
+
+#SHOPS
+204 0 0 0 0 0 100 0 0 23
+213 0 19 0 0 0 110 0 0 23
+214 0 17 0 0 0 110 0 0 23
+0
+
+
+
+#$

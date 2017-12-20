@@ -1,0 +1,651 @@
+#AREADATA
+Name Venari Stronghold~
+Builders Teldin Aql~
+VNUMs 23100 23199
+Credits { All }             Venari Stronghold~
+Security 9
+Xcontinent 0
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#23100
+venari stronghold goon dragon~
+a chained dragon of Venari~
+A chained dragon of Venari is here, protecting the door.
+~
+A chained dragon of Venari is here to protect its lords.
+~
+orc~
+ABG J 0 0
+51 5 50d10+5000 1d1+99 5d8+20 none
+-21 -21 -21 -21
+R ABab Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 venari~
+#23101
+venari stronghold goon dragon~
+a chained dragon of Venari~
+A chained dragon of Venari is here, protecting the door.
+~
+A chained dragon of Venari is here to protect its lords.
+~
+orc~
+ABCGT DHJLNOVZab 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+BCEFHKORU ABab EFGQSX S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#23102
+venari usher slasher~
+The usher~
+The Usher of Venari leads you into the outpost.
+~
+~
+human~
+ABCGT DZ 0 0
+60 0 10d10+1400 17d9+100 4d7+11 none
+-10 -10 -10 -10
+FU ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 venari~
+#23103
+cage soul healer~
+a caged soul of a dragon~
+A caged soul of a dragon is trapped here.
+~
+~
+human~
+ABQVa DZ 1000 0
+43 4 25d10+2500 1d1+99 3d12+15 none
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#23104
+clan store keeper trae'mata venari stronghold~
+Trea'mata, hunter and trader~
+Trae'mata is here stripping dragon corpses of valuables.
+~
+Trae'mata stands here, his clothes slightly tattered from the years wandering the world for the best bounty to kill and sell.
+~
+human~
+ABQR DZ 1000 0
+1 0 1d1+999 1d1+999 10d10+10 none
+-15 -15 -15 -15
+FGH ABCDQZ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 venari~
+#23105
+venari stronghold goon dragon~
+a chained dragon of Venari~
+A chained dragon of Venari is here, protecting the door.
+~
+A chained dragon of Venari is here to protect its lords.
+~
+orc~
+ABCGT DHJZa 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+CFHKOR ABab Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 venari~
+#23106
+venari stronghold goon dragon~
+a chained dragon of Venari~
+A chained dragon of Venari is here, protecting the door.
+~
+A chained dragon of Venari is here to protect its lords.
+~
+orc~
+ABCGT DHJZa 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+CFHKOR ABab Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 venari~
+#0
+
+
+
+#OBJECTS
+#23100
+venari outpost key~
+Venari's outpost key~
+The key to Venari's outpost is on the floor.~
+~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the Seekers of the world of Redemption. 
+~
+#23101
+venari outpost key~
+Venari's outpost key~
+The key to Venari's outpost is on the floor.~
+~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the Seekers of the world of Redemption. 
+~
+#23102
+<unused vnum>~
+<unused vnum>~
+The Venari {rHatred{x of dragons fills the room.~
+steel~
+weapon APUV AN
+staff 7 6 thrust FG
+50 50 0 P
+A
+19 2  
+A
+18 2  
+#23103
+tetragon sabre~
+Tetragon's Sabre~
+Tetragon's Sabre lies here still humming from the last battle.~
+adamantite~
+weapon ABIPU AN
+sword 5 7 cleave EF
+42 450 5600 P
+E
+scimitar blade~
+It is quite heavy.  The blade is made of some metal that you can't even 
+spell.  The edge of the blade looks as if it could cut through anything 
+or anyone. 
+~
+#23104
+dragon scale couch~
+a dragon scale couch~
+A dragon scale couch is here.~
+wood~
+furniture O 0
+99 999999 BEHK 100 100
+0 0 0 P
+#23105
+stone fountain font~
+the fount of Venari~
+A stone fountain, depicting a dragon's death at a dwarf's sword, flows here.~
+stone~
+fountain O 0
+1000 1000 'lemonade' 0 0
+0 1000 0 P
+#23106
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 4000 P
+#23107
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#23108
+pewter sack~
+a pewter sack~
+A small bag made of metal is gathering dust here.~
+pewter~
+throwing N AO
+3 7 blast 37 'acid blast'
+30 20 3500 P
+#23109
+malevolus evil dart~
+the Malevolus~
+An evil-looking dart sits here.~
+mithril~
+throwing C AO
+7 5 bite 50 'curse'
+45 1 4000 P
+#23110
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#23111
+vial psychedelic ink~
+a vial of psychedelic ink~
+A vial of multicolored ink.~
+cream~
+potion 0 AO
+5 'invisibility' 'pass door' '(null)' '(null)'
+1 1 500 P
+#23112
+white off potion~
+an off white potion~
+An off white potion lies here.~
+glass~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#23113
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#23114
+tent~
+a sturdy canvas tent~
+A sturdy canvas tent is here.~
+canvas~
+container S A
+70 A 0 10 100
+1 25 150 P
+#23115
+defeathered chicken~
+a defeathered chicken~
+A defeathered chicken is here on the floor.~
+oldstyle~
+food 0 A
+16 16 0 0 0
+0 50 10 P
+#23116
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#23117
+vial black ink~
+a vial of black ink~
+A vial of black writing ink sits here.~
+cream~
+potion 0 AO
+25 'remove curse' 'blur' '(null)' '(null)'
+25 1 3000 P
+#23118
+flame broiled elfkabob~
+a flame broiled elfkabob~
+A flame broiled elfkabob is here, giving off a juicy, almost intoxicating smell.~
+food~
+pill GS A
+10 'stone skin' 'shield' 'reserved' 'reserved'
+0 1 2500 P
+#23119
+raft~
+a raft~
+A raft has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 750 400 A
+E
+raft~
+The raft looks very primitive. 
+~
+#23120
+bola~
+a bola~
+A bola sits here.~
+stone~
+throwing 0 AO
+3 4 whip 20 'slow'
+15 2 1000 P
+#23121
+gingerbread cookie~
+a gingerbread cookie~
+A gingerbread cookie is here, luring you in with an irresistable aroma.~
+food~
+pill GS A
+10 'bark skin' 'pass door' 'reserved' 'reserved'
+10 1 2500 P
+#23122
+clear pill~
+a clear pill~
+A cute clear pill has the letter 'S' stamped on it.~
+glass~
+pill 0 A
+30 'haste' 'reserved' 'reserved' 'reserved'
+20 0 2500 P
+#23123
+white pill~
+a white pill~
+A white pill with the letter 'C' stamped on it.~
+none~
+pill 0 A
+35 'frenzy' 'giant strength' 'reserved' 'reserved'
+35 0 5000 P
+#23124
+prenuptual agreement~
+a prenuptual agreement~
+A prenuptual agreement lies here.~
+oldstyle~
+scroll 0 A
+51 'cure blindness' '(null)' 'shield' '(null)'
+11 10 2400 P
+#23125
+pragmati pupil pupils eyes eye portal~
+The Pragmati Pupils~
+A pupil is hovering here, lurking in the depths.~
+portal~
+portal O 0
+0 0 0 23103 0
+0 0 0 P
+#23126
+pragmati pupil pupils eye eyes portal~
+The Pragmati Pupils~
+A pupil is hovering here, lurking in the depths.~
+portal~
+portal O 0
+0 0 0 23104 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#23100
+A Stone Enclosure~
+This stone room appears to have been recently constructed.  Construction
+dust covers the ground and chips of stone litter the corners.  The door to
+Venari's Stronghold lies to the east, a magical entrance for Venari members
+is to the north, and the alley is to the west.
+~
+0 0 0
+D0
+~
+~
+0 0 23101
+D1
+~
+~
+4 23100 23102
+D3
+~
+~
+0 0 9570
+S
+#23101
+The Venari Entry~
+You enter into a tiny, narrow room that only serves one function.  No
+wonder it has no furniture or decoration.
+~
+0 973340940 0
+D2
+~
+~
+0 0 23100
+C venari~
+S
+#23102
+Venari Stronghold~
+This room is very clean, but very bare.  Little furniture or art objects
+clutter the space.  A large locked door stands to the west, and an exit to a
+stone enclosure lies to the south.  A damp breeze is coming from the room to
+the north.  
+~
+0 839122956 0
+D2
+~
+~
+0 0 23100
+D3
+~
+~
+4 23100 23100
+D5
+~
+~
+0 0 3001
+C venari~
+S
+#23103
+A Slanted Hallway~
+You are slowly descending inTo the depths.  The walls have been built
+recently, but already the dampness of the underground has seemed to attack
+the room.  The walls are slimy, and clearly the architects were not ready
+for the nastiness of this hellhole known as terra.  The way leads further
+down into the land and then spirals into many directions.
+ 
+ 
+You are {rone room{x north of the Venari Stronghold.
+ 
+To the {BWest{x lies the {YIvory Stronghold{x.
+To the {BEast{x lies {YBosco's Breach{x.
+Heading {BUp{x takes you to {YStoneridge{x.
+Heading {BDown{x takes you to {RHell{x.
+~
+0 839122956 0
+D0
+~
+~
+0 0 23104
+D1
+~
+~
+0 0 23108
+D3
+~
+~
+0 0 23106
+D4
+~
+~
+0 0 23107
+D5
+~
+~
+0 0 23105
+C venari~
+S
+#23104
+{rInto{x the {DDepths{x~
+This room that is part of a hallway that leads into the very earths of
+Terra.  Dug long ago by the ancient pragmati, these tunnels were used to
+stab at the heart of the dragons by appearing from nowhere.  Thought to be
+lost in the ages these pathways were recently discovered by a Venari
+pathfinder.  Now Venari can once again strike from where none can see.  The
+rooms were built to last forever, as even now there is no damage to the
+well-built structure.  
+ 
+You are {rtwo north{x of the Venari Stronghold{x.
+ 
+Heading {BUp{x takes you to {YMount Olympus{x.
+Heading {BWest{x takes you to {YIstanbul{x.
+~
+0 805568524 0
+D2
+~
+~
+0 0 23103
+D3
+~
+~
+0 0 23109
+D4
+~
+~
+0 0 23110
+C venari~
+S
+#23105
+{rInto{x the {DDepths{x~
+This room that is part of a hallway that leads into the very earths of
+Terra.  Dug long ago by the ancient pragmati, these tunnels were used to
+stab at the heart of the dragons by appearing from nowhere.  Thought to be
+lost in the ages these pathways were recently discovered by a Venari
+pathfinder.  Now Venari can once again strike from where none can see.  The
+rooms were built to last forever, as even now there is no damage to the
+well-built structure.  
+~
+0 805568524 0
+D5
+~
+~
+0 0 10401
+C venari~
+S
+#23106
+{rInto{x the {DDepths{x~
+This room that is part of a hallway that leads into the very earths of
+Terra.  Dug long ago by the ancient pragmati, these tunnels were used to
+stab at the heart of the dragons by appearing from nowhere.  Thought to be
+lost in the ages these pathways were recently discovered by a Venari
+pathfinder.  Now Venari can once again strike from where none can see.  The
+rooms were built to last forever, as even now there is no damage to the
+well-built structure.  
+~
+0 805568524 0
+D3
+~
+~
+0 0 501
+C venari~
+S
+#23107
+{rInto{x the {DDepths{x~
+This room that is part of a hallway that leads into the very earths of
+Terra.  Dug long ago by the ancient pragmati, these tunnels were used to
+stab at the heart of the dragons by appearing from nowhere.  Thought to be
+lost in the ages these pathways were recently discovered by a Venari
+pathfinder.  Now Venari can once again strike from where none can see.  The
+rooms were built to last forever, as even now there is no damage to the
+well-built structure.  
+~
+0 805568524 0
+D4
+~
+~
+0 0 11000
+C venari~
+S
+#23108
+{rInto{x the {DDepths{x~
+This room that is part of a hallway that leads into the very earths of
+Terra.  Dug long ago by the ancient pragmati, these tunnels were used to
+stab at the heart of the dragons by appearing from nowhere.  Thought to be
+lost in the ages these pathways were recently discovered by a Venari
+pathfinder.  Now Venari can once again strike from where none can see.  The
+rooms were built to last forever, as even now there is no damage to the
+well-built structure.  
+~
+0 805568524 0
+D1
+~
+~
+0 0 254
+C venari~
+S
+#23109
+{rInto{x the {DDepths{x~
+This room that is part of a hallway that leads into the very earths of
+Terra.  Dug long ago by the ancient pragmati, these tunnels were used to
+stab at the heart of the dragons by appearing from nowhere.  Thought to be
+lost in the ages these pathways were recently discovered by a Venari
+pathfinder.  Now Venari can once again strike from where none can see.  The
+rooms were built to last forever, as even now there is no damage to the
+well-built structure.  
+~
+0 805568524 0
+D3
+~
+~
+0 0 22336
+C venari~
+S
+#23110
+{rInto{x the {DDepths{x~
+This room that is part of a hallway that leads into the very earths of
+Terra.  Dug long ago by the ancient pragmati, these tunnels were used to
+stab at the heart of the dragons by appearing from nowhere.  Thought to be
+lost in the ages these pathways were recently discovered by a Venari
+pathfinder.  Now Venari can once again strike from where none can see.  The
+rooms were built to last forever, as even now there is no damage to the
+well-built structure.  
+~
+0 805568524 0
+D4
+~
+~
+0 0 902
+C venari~
+S
+#23111
+{rInto{x the {DDepths{x~
+This room that is part of a hallway that leads into the very earths of
+Terra.  Dug long ago by the ancient pragmati, these tunnels were used to
+stab at the heart of the dragons by appearing from nowhere.  Thought to be
+lost in the ages these pathways were recently discovered by a Venari
+pathfinder.  Now Venari can once again strike from where none can see.  The
+rooms were built to last forever, as even now there is no damage to the
+well-built structure.  
+ 
+{RYou see Midgaard Recall when you glance downwards{x.
+~
+0 805568524 0
+D5
+~
+~
+0 0 3001
+C venari~
+S
+#0
+
+
+
+#SPECIALS
+M 23100 spec_goon Load to: a chained dragon of Venari
+M 23101 spec_goon Load to: a chained dragon of Venari
+M 23102 spec_doorman Load to: The usher
+M 23105 spec_goon Load to: a chained dragon of Venari
+M 23106 spec_goon Load to: a chained dragon of Venari
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 23100 1 2
+D 0 23102 3 2
+M 1 23100 1 23100 1
+E 0 23100 0 17
+M 1 23102 1 23101 1
+M 1 23103 1 23102 1
+M 1 23104 1 23102 1
+O 0 23105 0 23102
+O 0 23125 0 23105
+O 0 23125 0 23106
+O 0 23125 0 23107
+O 0 23125 0 23108
+O 0 23126 0 23109
+O 0 23126 0 23110
+S
+
+
+
+#SHOPS
+23104 0 0 0 0 0 110 0 0 23
+0
+
+
+
+#$

@@ -1,0 +1,2785 @@
+#AREADATA
+Name The Chaos Rift~
+Builders None~
+VNUMs 400 499
+Credits { 0 40} Loran       The Chaos Rift~
+Security 9
+Xcontinent 0
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#400
+sean paladin~
+Sean the Paladin~
+Sean the Paladin is here, preparing to battle against the Chaos.
+~
+The Paladin is old and tired.  He has decided to clean the hills of the
+rampaging chaos that is slowly destroying the surroundings.  He has defeated
+the evil many times, but this fight could be his last battle.  
+~
+human~
+ABQ N 1000 0
+25 0 1d1+519 1d1+319 2d10+7 bite
+-1 -1 -1 -1
+DEKT ABNP M 0
+rest stand male 10
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#401
+half manbeast scout~
+the manbeast scout~
+An half-human half-lizard scout is hidding here
+~
+This creature his scouting the area and seems unease here.  You notice a
+long tail from her back, and the green color of her scale-covered skin.  Her
+face looks strangely human and this scout seems well-equiped to survive in
+hostile land.  
+~
+lizard~
+ACGS PQ 0 0
+26 1 5d10+550 5d10+150 3d7+6 stab
+-7 -7 -7 -7
+0 B HL I
+stand stand none 200
+AGHMVXc ABCDEFGHIJKQV medium 0 the guilds~
+#402
+hakk-ghar vendor~
+Hakk-Ghar~
+Hakk-Ghar the vendor sits behind the counter, preparing the discount of the day.
+~
+The vendor has a strange face that reminds you of a squirrel.  He wears
+long red hairs and you notice a squirrel tail wich he's using the wipe the
+shelves.  He is proud to be the best discounter of all the choatic plane. 
+And the only one.  
+~
+human~
+ABV J 0 0
+35 0 1d100+100 1d20+20 1d20+10 stab
+0 0 0 0
+0 CD 0 0
+rest rest male 100
+AHMV ABCDEFGHIJKQ medium 0 the guilds~
+#403
+zhakk necromancer vendor~
+Zhakk the necromancer~
+Zhakk the necromancer is here, writing a dusty scroll.
+~
+The rat-faced manbeast is a powerfull Necromancer, but he's too lazy to
+spend time and money in conquering the world or spreading death and chaos.
+~
+human~
+ABV J 0 0
+35 0 1d100+100 1d20+20 1d20+10 none
+0 0 0 0
+0 CD 0 0
+stand stand none 100
+AHMV ABCDEFGHIJKQ medium 0 the guilds~
+#404
+rhaak-ghaar chief~
+Rhaak-Ghaar~
+Rhaak-Ghaar the wise stands here.
+~
+The manbeasts chief is a tall half-bear half-giant warrior.  His two
+powerfull arms end with fearsome claws that could pierce even the best
+armors.  
+~
+bear~
+ABQ 0 0 0
+35 -1 10d10+1300 10d10+500 4d7+11 slash
+-11 -11 -11 -11
+CDEO AB EI J
+rest stand male 0
+AGHMV ABCDEFGHIJKUV large 0 the guilds~
+#405
+manbeasts guard beast~
+the manbeast guard~
+A manbeast guard stands here.
+~
+The Guard is a scale-covered half-lizard man, with a long green tail.  He
+is loyal and efficient. 
+~
+lizard~
+AGT 0 0 0
+30 -1 7d10+850 10d10+50 6d4+8 slash
+-9 -9 -9 -9
+HMU A BL FI
+stand stand either 500
+AGHMVXc ABCDEFGHIJKQV medium 0 the guilds~
+#406
+manbeast guard beast bull~
+a manbeast guard~
+A manbeast guard stands here.
+~
+The Guard looks like a minotaur, safe for a more human-like face.  He is
+strong and loyal.  
+~
+pig~
+ABT 0 0 0
+30 -1 12d6+900 10d5+50 4d6+10 slice
+-8 -8 -8 -8
+CDU A B I
+stand stand either 600
+AGHMV ABCDEFGHIJKW medium 0 the guilds~
+#407
+khaarla cat woman maid~
+Khaarla the catwoman maid~
+A beautiful cat-like maid is here, waiting for your order.
+~
+The catwoman maid has a perfect body covered with black fur.  She is
+really beautiful but most men avoid teasing her.  Maybe because of her sharp
+teeth and claws...  
+~
+human~
+AB J 0 0
+35 0 10d10+100 10d10+100 5d10+10 slash
+0 0 0 0
+0 CD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJKQ medium 0 the guilds~
+#408
+manbeasts villager beast~
+the manbeast villager~
+A manbeast villager is here, looking at you.
+~
+The villager is a simple peasant, living an ordinary and peacefull life.
+~
+dog~
+ACG 0 0 0
+28 0 6d12+703 10d10+50 2d12+7 punch
+-7 -7 -7 -7
+FH A B H
+stand stand either 750
+AGHMVXc ABCDEFGHIJKQUV medium 0 the guilds~
+#409
+manbeasts artisan beast~
+the manbeast artisan~
+A manbeast artisan is working here.
+~
+The artisan is a gifted manbeast, who is working on some rough material.
+~
+dog~
+ABC 0 0 0
+28 0 6d12+703 10d10+50 2d12+7 punch
+-7 -7 -7 -7
+FH A B H
+sit stand either 750
+AGHMVXc ABCDEFGHIJKQUV medium 0 the guilds~
+#410
+mutant rabbit~
+a mutant rabbit~
+An oversized mutant rabbit is munching a carrot-shaped boulder.
+~
+This is one of strangest creature you ever seen. It probably was some
+cute little rabbit once, but it is now the size of a large dog. And the
+red eyes are looking at you strangely.
+~
+rabbit~
+AGH J 0 0
+24 1 5d10+500 10d10+50 2d10+6 bite
+-6 -6 -6 -6
+FHR A B Y
+stand stand none 0
+AGHMVXc ABCDEFGHIJKQ medium 0 the guilds~
+#411
+mutant snake~
+a mutant snake~
+A mutant snake lies here, trying to match the ground color.
+~
+This scale-covered creature is looking close to a large snake.
+~
+snake~
+AGH JP 0 0
+26 1 5d10+600 10d10+50 3d7+7 acbite
+-7 -7 -7 -7
+FR A BL HI
+stand stand none 0
+AGHMVXYc ABCDEFGHIJKLQVX large 0 the guilds~
+#412
+mutant bird~
+a mutant bird~
+A giant bird is here, eating a cat-like creature.
+~
+This huge volatile is even bigger than the largest eagles sold on New Thalos
+marketplace. You wonder how it can fly, with such ridiculous wings.
+~
+song bird~
+AG JT 0 0
+28 0 6d12+703 10d10+50 2d12+7 pierce
+-8 -8 -8 -8
+FHR A B 0
+stand stand none 0
+AGHMVWXc ABCDEFGHIJKPQ large 0 the guilds~
+#413
+giant tentacle~
+The giant tentacle~
+A giant tentacle tries to catch you!
+~
+This huge tentacle emerges from the hole in the top of the hill.
+~
+human~
+ABFO JQV -500 0
+40 0 15d10+2000 10d10+50 4d8+15 digestion
+-13 -13 -13 -13
+ACE ABK M N
+stand stand none 8000
+AHMV ABCDEFGHIJK large 0 the guilds~
+#414
+chaos lord~
+The Chaos Lord~
+A Chaos Lord stands here.
+~
+This huge warrior was probably summoned by some evil beings, because he
+lives only to take others life. He is tall. He is strong. He is mean.
+~
+giant~
+ABFT UVZ -500 0
+44 -2 25d10+3250 10d10+50 6d6+16 crush
+-15 -15 -15 -15
+EU AB HIKLM JNP
+stand stand male 5000
+AHMV ABCDEFGHIJK large 0 the guilds~
+#415
+chaos warrior~
+The Chaos Warrior~
+A Chaos Warrior stands here.
+~
+The chaos warrior wears a complete suit of armor, that seems to be almost
+like a second skin to him. He's a trained killer, and lives only to do his
+master's will.
+~
+human~
+ACGT 0 -200 400
+35 -1 10d10+1300 10d10+50 4d7+11 slice
+-11 -11 -11 -11
+JU AB H N
+stand stand either 2500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#416
+chaos spawn~
+The Chaos Spawn~
+A Chaos Spawn floats here.
+~
+This ugly creature is a mass of melted flesh with many eyes,
+tentacles, and undescriptible appendices.
+~
+human~
+AGH T -200 0
+37 0 10d10+1500 10d10+50 3d10+12 bite
+-12 -12 -12 -12
+0 0 HKL F
+stand stand none 2500
+AHMSV ABCDEFGHIJK medium 0 the guilds~
+#417
+chaos necromancer~
+The Necromancer~
+A Necromancer is here, waiting for his master.
+~
+The face of this creature looks no longer human, if it ever was a human
+being. He wears a long black robe.
+~
+human~
+ABR Z -200 0
+38 0 10d10+1600 10d10+300 3d10+12 stab
+-13 -13 -13 -13
+0 AB M N
+stand stand either 2500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#418
+darksoul necromancer~
+Darksoul~
+Darksoul the ageless necromancer stands here.
+~
+The lust for power and knowledge have scarred the necromancer face. He wears
+a simple long black robe and many ornaments made of bones and jewellry.
+~
+human~
+ABR HZ -400 0
+42 1 25d10+2000 10d10+500 4d8+14 stab
+-14 -14 -14 -14
+0 AB M N
+stand stand male 4000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#419
+chaos form living~
+The Living Chaos~
+A undescriptible chaotic form is filling the room.
+~
+This huge formless mass seems to be made of boiling materials. Strongs
+acidic smells emanate from this thing as body part appears on it surface,
+before beeing burned or absorbed. Sometime you recognize a familiar face
+appearing on this constantly changing chaotic form. This seems to be the
+source of some destructing and chaotic power...
+~
+human~
+ABF T 0 0
+50 -1 50d10+5000 10d10+50 5d8+20 digestion
+-21 -21 -21 -21
+AE HK ABLMQ N
+stand stand none 0
+AHMV ABCDEFGHIJK huge 0 the guilds~
+#420
+french cook~
+The Cook~
+A plump little Cook is here, adding goose-liver fat to a stew.
+~
+The cook is a little plump man with an happy face, red cheeks and a
+moustache. He strangely rolls the 'r' when he speaks about some forgotten
+land of cheese and wine. You can't sustain any more, and must bring an end
+to this evil human being, before he starts telling you about frog legs and
+snail butter...
+~
+human~
+ABC 0 200 400
+35 0 10d10+1300 10d10+50 4d7+11 punch
+-11 -11 -11 -11
+0 0 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#421
+manbeast prisoner~
+The manbeast~
+A manbeast prisoner is here, looking for a way to escape the tower.
+~
+The manbeast prisoner is a half-tiger half-man warrior. He looks fierce and
+brave, but he probably lacked of good sense when he entered this tower.
+~
+cat~
+AGT Z 200 400
+32 -1 10d10+1000 10d10+50 6d4+9 punch
+-10 -10 -10 -10
+FHQ 0 0 0
+stand stand male 0
+AGHMV ABCDEFGHIJKQUV medium 0 the guilds~
+#422
+black soulseeker~
+{DSoulseeker{x~
+A vision of black horror, the {DSoulseeker{x hovers here.
+~
+A shade which soul sucks hovers here, ready to drain yours. If you
+could control his powers, you could create a powerful katana.
+~
+human~
+AGT CHNOTUZ 0 0
+55 5 50d10+7000 1d1+100 10d4+23 drain
+-25 -25 -25 -25
+ACDEFHKMNO ABa CD 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#400
+bush dusty branch~
+a small dusty branch~
+A small dusty bush grows here.~
+oldstyle~
+food 0 AO
+10 0 0 A 0
+5 10 0 P
+#401
+small bush green branch~
+a small branch wearing green berries~
+A small bush carrying green berries grows here.~
+oldstyle~
+food 0 AO
+20 0 0 0 0
+5 10 0 P
+E
+XTRA
+berries~
+Yummy, those berries are looking good...  
+~
+#402
+silver flail~
+a silver flail~
+A flail made of silver lies here.~
+silver~
+weapon a AN
+flail 5 4 slash 0
+25 20 500 P
+A
+18 2  
+#403
+red gate~
+(no short description)~
+(no description)~
+(null)~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#404
+thin bush red branch ~
+a thin branch wearing red berries~
+A thin bush wearing red berries grows here.~
+oldstyle~
+pill 0 A
+10 'frenzy' '(null)' '(null)' '(null)'
+5 10 0 P
+#405
+desert boots~
+a pair of desert boots~
+A pair of dusty boots lies here.~
+leather~
+armor GN AG
+8 8 8 3 0
+27 2 2000 P
+A
+14 20  
+#406
+brown travelling cape~
+a brown travelling cape~
+A brown cape lies on the floor.~
+leather~
+clothing N AC
+0 0 0 0 0
+29 5 5000 P
+A
+14 50  
+A
+5 -1  
+#407
+potion chaos~
+a potion of chaos~
+A boiling potion has been left here~
+oldstyle~
+potion AN AO
+30 'heal' 'flamestrike' '(null)' '(null)'
+20 5 1000 P
+#408
+scroll purple revelation~
+a scroll of revelation~
+A purple scroll has been left here.~
+paper~
+scroll GN AO
+25 'faerie fog' '(null)' '(null)' '(null)'
+25 5 500 P
+#409
+scroll red chaos~
+a scroll of chaos~
+A red scroll lies here.~
+paper~
+scroll GN AO
+30 'stone skin' 'shield' 'faerie fire' '(null)'
+30 10 2500 P
+#410
+human skin map~
+a piece of human skin~
+A piece of rolled human skin lies here.~
+paper~
+map 0 A
+A 0 0 0 0
+20 5 1000 P
+E
+map skin piece~
+.                     	The Chaotic Steppes
+			===================
+
+				Footbridge--Necromancer Tower
+			       /	    (Watch out for the Guardians!)
+    Living Hill		      /              Secret passage in
+	   \		     /			the storage room...  
+	     Chaotic Steppes
+		   /                  
+		  /            The steppes are VASTE...
+	 Field --/
+	   |    / |
+	 Village -- Field       South of the village is hidden
+				  the way back home.
+~
+#411
+bottle beer chaos~
+a bottle of chaos beer~
+A bottle with a red and yellow label has been left here.~
+glass~
+drink AN A
+16 16 'firebreather' 0 0
+20 5 50 P
+#412
+red boiling stew food~
+some red boiling stew~
+Some sulfur-smelling food has been left here.~
+food~
+food AN A
+30 30 0 0 0
+20 20 60 P
+E
+XTRA
+red stew food~
+Ouch...this stew smells sulfur and acid...Don't kiss anyone after eating
+it, but you won't be hungry for a long time after such a meal.
+~
+#413
+living breast plate~
+a living breast plate~
+A plate made of bones and flesh lies here.~
+bone~
+armor BJLY AD
+10 10 10 7 0
+43 250 0 P
+A
+1 1  
+E
+living breast plate~
+This breast plate is made of bones, flesh and body parts. Eyes and fingers
+are incrusted to figure the unholy symbol of a chaos Lord. This armor seems
+almost alive.
+~
+#414
+living leggings~
+some living leggings~
+Leggings made of bones and flesh are lying here.~
+bone~
+armor BJLY AF
+10 10 10 7 0
+43 150 0 P
+E
+living leggings~
+They seem to be made of burned flesh and melted bones, and you notice the
+unholy symbol of a chaos Lord on it.
+~
+#415
+living arm plates~
+some living arm plates~
+Some arm plates made of bones and flesh have been left here.~
+bone~
+armor BJLY AI
+10 10 10 7 0
+43 150 0 P
+E
+living arm plates~
+They are made of human flesh and bones, and covered with blood.
+~
+#416
+living girth~
+a living girth~
+A girth made of bones and flesh lies here.~
+bone~
+armor BJLY AL
+10 10 10 7 0
+43 150 0 P
+E
+living girth~
+It's made of human flesh and bones, and the face of a skull, with the unholy
+symbol of a chaos lord carved on it, is used as a buckle.
+~
+#417
+living horned helm~
+a living horned helm~
+A strange helm with huge goat horns lies here.~
+bone~
+armor BJLY AE
+10 10 10 7 0
+43 150 0 P
+E
+living horned helm~
+Two huge goat horns are on each side of this bone helm. Pieces of flesh and
+bones form the symbol of a chaos lord on the rear of it.
+~
+#418
+living shield~
+a living shield~
+A shield made of bones and flesh has been left here.~
+bone~
+armor BJLY AJ
+11 11 11 7 0
+43 150 0 P
+E
+living shield~
+This shield is made of bones, flesh and body parts. Teeth and claws of all
+kind are fixed on it, drawing the symbol of a chaos lord.
+~
+#419
+heavy iron war axe~
+a heavy waraxe~
+A heavy-looking waraxe lies on the floor.~
+iron~
+weapon Jcd AN
+axe 6 6 chop F
+43 400 4000 P
+A
+19 3  
+E
+heavy iron war axe~
+This huge Waraxe is made of solid iron. Dry blood give the blade a red shade.
+~
+#420
+heavy iron flail~
+a heavy iron flail~
+A heavy-looking flail lies on the floor.~
+iron~
+weapon J AN
+flail 6 6 slash 0
+43 300 4000 P
+A
+18 3  
+E
+heavy iron flail~
+This huge Waraxe is made of solid iron. Dry blood give the blade a red shade.
+~
+#421
+iron key~
+an iron key~
+A key has been left here.~
+iron~
+key 0 AO
+0 0 0 0 0
+25 30 0 P
+E
+iron key~
+This is a very usual model, mainly used with locks of sturdy doors.
+~
+#422
+wooden chest~
+a wooden chest~
+A small wooden chest is here.~
+wood~
+container 0 A
+200 ACD 423 100 100
+30 200 500 P
+E
+wooden chest~
+This is a small chest with a silvery lock.
+~
+#423
+silvery key~
+a silvery key~
+A silvery key has been left here.~
+silver~
+key 0 AO
+BCFHI 0 0 0 0
+25 10 50 P
+#424
+rotten corpse~
+a rotten corpse~
+A rotten corpse lies here.~
+oldstyle~
+container 0 0
+100 0 0 100 100
+30 0 0 P
+E
+rotten corpse~
+Looks like they forgot one of the prisoners. Whatever he's carrying, he
+won't need it anymore.
+~
+#425
+hunting spear~
+a hunting spear~
+A long wooden spear lies on the floor.~
+wood~
+weapon Jd AN
+exotic 6 4 thrust 0
+30 50 100 P
+A
+18 2  
+#426
+black necromancer robe~
+a black necromancer robe~
+A black robe has been left here.~
+silk~
+clothing BJ AD
+0 0 0 0 0
+36 50 5000 P
+A
+13 30  
+E
+black necromancer robe~
+This clothing is made of fine black silk. It's humming with a magical aura.
+~
+#427
+pile gold coins~
+a pile of gold coins~
+A pile of gold coins lies here.~
+gold~
+money 0 A
+0 50 0 0 0
+0 0 0 P
+#428
+bone ring~
+a bone ring~
+A small piece of bone lies in the dust.~
+bone~
+jewelry ac AB
+0 0 0 0 0
+40 20 200 P
+A
+13 40  
+E
+bone ring~
+This ring-shaped bone is carved with strange symbols.
+~
+#429
+pile skulls~
+a pile of skulls~
+A pile of skulls forms a small pyramid here.~
+bone~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+pile skulls pyramid~
+There are mainly human skulls in this worthless pile.
+~
+#430
+bone trash~
+a dusty bone~
+A dust-covered bone lies here on the floor.~
+bone~
+trash 0 A
+0 0 0 0 0
+0 10 0 P
+E
+bone dust~
+Another fine piece of trash to add to your collection :)
+~
+#431
+hand cupboard~
+a large handcrafted cupboard~
+A large cupboard made by some manbeast artisan lies into a corner.~
+wood~
+container 0 A
+500 0 0 50 125
+20 600 6000 P
+E
+handcrafted cupboard~
+Well this cupboard would just fit nicely in your bedroom.
+~
+#432
+blackened moon scroll~
+a blackened moon scroll~
+A blackened scroll mark with the symbol of the dark moon lies here.~
+paper~
+scroll CE AO
+35 'darkness' 'demonfire' 'reserved' 'reserved'
+32 10 1000 P
+E
+blackened moon scroll~
+This scroll is marked with the shape of the dark moon. Glancing at it, you
+find it is blank. Even so, you are filled with the knowledge to craft an item
+of great power. This "blessed crest of the dark moon" will allow casters to
+increase their magical might substantially. You will need:
+ 
+-a dark moonstone
+-7 flaming feathers of a phoenix
+-a wide brimmed hat
+-50 midgaard diamonds
+ 
+Good luck!
+~
+#491
+builder~
+a sign~
+A SIGN has been put here by the builder.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+XTRA
+sign~
+Soon a link from here to another area, so there will be another way to reach
+this area.  Loran.  
+~
+#492
+black soul leech~
+a black soul leech~
+A small piece of soul sucking material is left here.~
+flesh~
+wand 0 AOY
+50 9 9 'drain life' 0
+50 20 5000 P
+#0
+
+
+
+#ROOMS
+#400
+The burned Hills~
+The trail leaves the Forest and you start to climb on a desolated hill. 
+Small burned bushes try to grow among the rocks.  
+~
+0 4 4
+D0
+~
+~
+0 0 401
+D2
+~
+~
+0 0 4036
+S
+#401
+The burned Hills~
+The surrounding Hills seems to have been cleared of any form of life. 
+The wind blows dust in your face.  There is a kind of strange light coming
+from the northwest.  
+~
+0 0 4
+D0
+~
+~
+0 0 403
+D1
+~
+~
+0 0 402
+D2
+~
+~
+0 0 400
+D3
+~
+~
+0 0 413
+S
+#402
+The burned Hills~
+You are surrounded by rocks making almost a wall to the south and to the
+east.  A few bushes try to grow up, covered with dust.  
+~
+0 0 4
+D0
+~
+~
+0 0 404
+D3
+~
+~
+0 0 401
+S
+#403
+The burned Hills~
+You're standing amongs rocks.  There is no more trail and you can make
+your way in almost every direction.  There is a strange glow coming fom the
+west, behind high rocks.  
+~
+0 0 4
+D0
+~
+~
+0 0 406
+D1
+~
+~
+0 0 404
+D2
+~
+~
+0 0 401
+D3
+~
+~
+0 0 412
+S
+#404
+A small Gap in the Cliff~
+You're standing on a dusty hill.  There is a small gap in the high cliff
+to the east.  It seems to lead to a cave entrance.  
+~
+0 0 4
+D0
+~
+~
+0 0 405
+D1
+~
+~
+1 0 491
+D2
+~
+~
+0 0 402
+D3
+~
+~
+0 0 403
+S
+#405
+The burned Hills~
+You're standing on a dusty hill. The Cliff to the east is getting covered
+with bushes and plants to the north, but you still can't go east.
+~
+0 0 4
+D0
+~
+~
+0 0 408
+D2
+~
+~
+0 0 404
+D3
+~
+~
+0 0 406
+S
+#406
+the burned hills~
+You are surrounded by the dusty and desolated hills.  You feel a little
+desoriented by this unchanged landscape.  There is a light coming from the
+west.  
+~
+0 0 4
+D0
+~
+~
+0 0 407
+D1
+~
+~
+0 0 405
+D2
+~
+~
+0 0 403
+D3
+~
+~
+0 0 411
+S
+#407
+On the edge of a dense Forest~
+You're standing on the edge of a very dense forest.  The trees and bushes
+make almost a wall to the north.  
+~
+0 0 3
+D1
+~
+~
+0 0 408
+D2
+~
+~
+0 0 406
+D3
+~
+~
+0 0 410
+S
+#408
+Near the dense Forest~
+You are on the edge of a very dense forest.  It seems amost impossible to
+go north through the bushes, or to the east where the Cliff is now covered
+with vegetation.  You can hear the sound of birds and small animals coming
+from the trees.  It's strange to see how arid and dusty are the hills to the
+south, compared to this place.  
+~
+0 0 3
+D0
+~
+~
+1 0 409
+D2
+~
+~
+0 0 405
+D3
+~
+~
+0 0 407
+S
+#409
+The hidden Grove~
+You're surrounded by oak trees and exotic flowers.  This little haven
+seems to have been spared by the nearby desolation.  There's a poor blanket
+lying on the floor, and some wooden furnitures.  
+~
+0 4 3
+D2
+~
+~
+1 0 408
+S
+#410
+On the edge of a dense Forest~
+The dusty hills end here, and you seean overgrowth vegetation to the
+north and to the west.  Trees and bushes make a living green wall.  You can
+follow the forest border to the east, or climb the hill to the south.  
+~
+0 0 3
+D1
+~
+~
+0 0 407
+D2
+~
+~
+0 0 411
+S
+#411
+The burned hills~
+Still sand, dust and rocks all around.  And this strange glow coming from
+the west...  Or is that south ?  There are exits in all directions.  You can
+see the top of trees to the north.  
+~
+0 0 4
+D0
+~
+~
+0 0 410
+D1
+~
+~
+0 0 406
+D2
+~
+~
+0 0 412
+D3
+~
+~
+0 0 416
+S
+#412
+The burned Hills~
+You've reached the top of a dusty hills.  You can see a strange glow
+coming from the western hills, and some trees far to the north.  You can go
+down this hill in all directions.  
+~
+0 0 4
+D0
+~
+~
+0 0 411
+D1
+~
+~
+0 0 403
+D2
+~
+~
+0 0 413
+D3
+~
+~
+0 0 415
+S
+#413
+The burned Hills~
+You're standing between two dusty hills.  You can climb to the north or
+the west, but the south way is barred by fallen rocks.  To the east you can
+see a path.  
+~
+0 0 4
+D0
+~
+~
+0 0 412
+D1
+~
+~
+0 0 401
+D3
+~
+~
+0 0 414
+S
+#414
+The burned Hills~
+You're standing on a desolated hill.  Life seems to have left this place,
+except of little dusty plants that are trying to grow here.  You can go to
+the north, where a strange glow comes from, or to the east.  
+~
+0 0 4
+D0
+~
+~
+0 0 415
+D1
+~
+~
+0 0 413
+S
+#415
+The burned Hills~
+This seems to be the most desolated part of the hills.  You see pieces of
+bones and scraps of metal and wood half-covered with dust.  The stones and
+rocks are sometimes broken or melt.  A red glow comes from the west.  
+~
+0 0 4
+D0
+~
+~
+0 0 416
+D1
+~
+~
+0 0 412
+D2
+~
+~
+0 0 414
+D3
+~
+~
+0 0 417
+S
+#416
+The burned Hills~
+You're standing amongs fallen rocks, at the foot of a huge Cliff. 
+Strangely, there are footprints in the dust coming from nowhere.  The only
+ways are south further in the hills, or east.  A strange glow comes from the
+south west.  
+~
+0 0 4
+D1
+~
+~
+0 0 411
+D2
+~
+~
+0 0 415
+S
+#417
+The Portal~
+You're standing near the source of all this desolation.  A red Portal
+glows, leading in some chaotic place.  Stones around the portal have melt. 
+You can enter the portal by going down, or go back east in the hills.
+~
+0 0 4
+D1
+~
+~
+0 0 415
+D5
+~
+~
+0 0 418
+S
+#418
+The chaotic Steppes~
+You're standing on a chaotic ground, surrounded by steppes.  A strange
+sound comes from the wounded land.  Insects you've never seen before are
+eaten by living stones.  The steppe extands in all direction.  You better
+don't get lost in this cursed land.  
+~
+0 8196 10
+D0
+~
+~
+0 0 419
+D1
+~
+~
+0 0 421
+D2
+~
+~
+0 0 423
+D3
+~
+~
+0 0 425
+S
+#419
+The chaotic Steppes~
+You're standing on a chaotic ground, surrounded by steppes. The steppe
+extands in every directions. You better don't get lost.
+~
+0 0 10
+D0
+~
+~
+0 0 428
+D1
+~
+~
+0 0 420
+D2
+~
+~
+0 0 418
+D3
+~
+~
+0 0 426
+S
+#420
+The chaotic Steppes~
+You're standing on a chaotic ground, surrounded by steppes. The steppe
+extands in every directions. You better don't get lost.
+~
+0 8192 10
+D0
+~
+~
+0 0 429
+D1
+~
+~
+0 0 433
+D2
+~
+~
+0 0 421
+D3
+~
+~
+0 0 419
+S
+#421
+The chaotic Steppes~
+You're standing on a chaotic ground, surrounded by steppes. The steppe
+extands in every directions. You better don't get lost.
+~
+0 8192 10
+D0
+~
+~
+0 0 420
+D1
+~
+~
+0 0 434
+D2
+~
+~
+0 0 422
+D3
+~
+~
+0 0 418
+S
+#422
+The chaotic Steppes~
+You're standing on a chaotic ground, surrounded by steppes. The south and 
+west way are barren with living rocks and boiling plants. 
+~
+0 8192 10
+D0
+~
+~
+0 0 421
+D3
+~
+~
+0 0 423
+S
+#423
+The chaotic Steppes~
+All arround you is the same landscape of chaotic steppes, where all form
+of life seems to grow opposing any natural law you know.  The east way is
+barred by huge plants covered with eyes.  There seems to be some sort of
+field to the south.  
+~
+0 8192 10
+D0
+~
+~
+0 0 418
+D1
+~
+~
+0 0 422
+D2
+~
+~
+0 0 447
+D3
+~
+~
+0 0 424
+S
+#424
+The chaotic Steppes~
+You're standing on the red-colored steppes.  There is a small path of
+living stones leading south.  Like ants, the stones are coming to build the
+trail, but as soon as a stone is set, it melts in a strangely human cry,
+leaving a little cloud smelling sulfur.  There is a field to the west.  
+~
+0 8192 10
+D0
+~
+~
+0 0 425
+D1
+~
+~
+0 0 423
+D2
+~
+~
+0 0 446
+D3
+~
+~
+0 0 443
+S
+#425
+The chaotic Steppes~
+You're standing on a chaotic ground, surrounded by steppes. A stream of
+hot lava is flowing to the east, carrying rocks and burning woods.
+~
+0 8192 10
+D0
+~
+~
+0 0 426
+D1
+~
+~
+0 0 418
+D2
+~
+~
+0 0 424
+S
+#426
+The chaotic Steppes~
+You're standing on a chaotic ground, surrounded by steppes. A stream of
+hot lava is flowing to the east. There is a strange and scaring sound
+coming from the north.
+~
+0 8192 10
+D0
+~
+~
+0 0 427
+D1
+~
+~
+0 0 419
+D2
+~
+~
+0 0 425
+S
+#427
+The living hill~
+You are standing on a strange humming ground. This place seems filled
+with an evil and chaotic presence. Rocks, carved like teeth, are
+surrounding a mouth-like hole. From the top of this living hill, you
+can see far away to the south a small village, and a dark tower to
+the north-east.
+~
+0 8192 4
+D1
+~
+~
+0 0 428
+D2
+~
+~
+0 0 426
+S
+#428
+The chaotic Steppes~
+You're standing on a chaotic ground, surrounded by steppes. A stream of
+hot lava is flowing to the north, carrying rocks and burning woods. There
+is a strange and evil sound coming from the west.
+~
+0 8192 10
+D1
+~
+~
+0 0 429
+D2
+~
+~
+0 0 419
+D3
+~
+~
+0 0 427
+S
+#429
+The chaotic Steppes~
+You're standing on a chaotic ground, surrounded by steppes. The steppe
+extands in every directions. You better don't get lost.
+~
+0 8192 10
+D0
+~
+~
+0 0 430
+D1
+~
+~
+0 0 432
+D2
+~
+~
+0 0 420
+D3
+~
+~
+0 0 428
+S
+#430
+The chaotic Steppes~
+You are standing near a lava river, barring the north and west ways.
+The color of the sky seems to change every minutes, ranging from purple
+to yellow.
+~
+0 8192 4
+D1
+~
+~
+0 0 431
+D2
+~
+~
+0 0 429
+S
+#431
+The chaotic Steppes~
+You're standing on a chaotic ground, surrounded by steppes. The steppe
+extands in every directions. You better don't get lost.
+~
+0 8192 10
+D0
+~
+~
+0 0 435
+D1
+~
+~
+0 0 437
+D2
+~
+~
+0 0 432
+D3
+~
+~
+0 0 430
+S
+#432
+The chaotic Steppes~
+You're standing on a chaotic ground, surrounded by steppes. The steppe
+extands in every directions. You better don't get lost.
+~
+0 8192 10
+D0
+~
+~
+0 0 431
+D1
+~
+~
+0 0 438
+D2
+~
+~
+0 0 433
+D3
+~
+~
+0 0 429
+S
+#433
+The chaotic Steppes~
+You're standing on a chaotic ground, surrounded by steppes. The steppe
+extands in every directions. You better don't get lost.
+~
+0 8192 10
+D0
+~
+~
+0 0 432
+D1
+~
+~
+0 0 439
+D2
+~
+~
+0 0 434
+D3
+~
+~
+0 0 420
+S
+#434
+The chaotic Steppes~
+You have reached a small hill. A chasm starts to the south, attracting rocks
+and small living animals and absorbing theim in a succion sound. You can
+leave this place by going north or west.
+~
+0 8192 4
+D0
+~
+~
+0 0 433
+D3
+~
+~
+0 0 421
+S
+#435
+The chaotic Steppes~
+You're standing on the chaotic steppes. The air you're breathing has a
+strange acidic taste. This nasty smell seems to comes from the northern
+swamps. The only way out is east or south.
+~
+0 8192 10
+D1
+~
+~
+0 0 436
+D2
+~
+~
+0 0 431
+S
+#436
+The chaotic Steppes~
+You're standing along the northern swamp's edge. The air is filled
+with a smell of rotten flesh. The land seems to end to the east and
+you can see the chaotic ground of the steppes to the south.
+~
+0 8192 10
+D1
+~
+~
+0 0 442
+D2
+~
+~
+0 0 437
+D3
+~
+~
+0 0 435
+S
+#437
+The chaotic Steppes~
+You're standing on a chaotic ground, surrounded by steppes. The steppe
+extands in every directions. You better don't get lost.
+~
+0 8192 10
+D0
+~
+~
+0 0 436
+D1
+~
+~
+0 0 441
+D2
+~
+~
+0 0 438
+D3
+~
+~
+0 0 431
+S
+#438
+The chaotic Steppes~
+You're standing on a chaotic ground, surrounded by steppes. The steppe
+extands in every directions. You better don't get lost.
+~
+0 8192 10
+D0
+~
+~
+0 0 437
+D1
+~
+~
+0 0 440
+D2
+~
+~
+0 0 439
+D3
+~
+~
+0 0 432
+S
+#439
+The chaotic Steppes~
+You're standing by a deep chasm.  You can barely see the end of it, and
+hot smokes and stranges vapors are coming from downunder. A faint sound
+comes from the chasm. Maybe the wind.
+~
+0 8192 10
+D0
+~
+~
+0 0 438
+D3
+~
+~
+0 0 433
+S
+#440
+By the chasm~
+You're standing by a deep chasm.  You can barely see the end of it, and
+hot smokes and stranges vapors are coming from downunder. You can follow
+the cliff to the north.
+~
+0 8192 10
+D0
+~
+~
+0 0 441
+D3
+~
+~
+0 0 438
+S
+#441
+By the chasm~
+You're standing by a deep chasm.  You can barely see the end of it, and
+hot smokes and stranges vapors are coming from downunder. You can follow
+the cliff to the north and south directions.
+~
+0 8192 10
+D0
+~
+~
+0 0 442
+D2
+~
+~
+0 0 440
+D3
+~
+~
+0 0 437
+S
+#442
+By the chasm~
+You're standing by a deep chasm.  You can barely see the end of it, and
+hot smokes and stranges vapors are coming from downunder.  You can see to
+the east a tall black tower.  There is a small footbridge made of burned
+stones and melted metal leading that way.  
+~
+0 8192 10
+D1
+~
+~
+0 0 457
+D2
+~
+~
+0 0 441
+D3
+~
+~
+0 0 436
+S
+#443
+The chaotic Fields~
+You're standing on some cultivated ground.  There is not two crops
+looking the same.  Some are growing so fast they deperish as soon as the
+first fruit has grown.  Others suddenly explode, leaving a nasty smell in
+the air and covering your feet with green unidentified mud.  There is a path
+to the east, and the manbeasts village is south of here.  
+~
+0 8196 2
+D1
+~
+~
+0 0 424
+D2
+~
+~
+0 0 445
+S
+#444
+Hakk-Ghar Baazar~
+The baazar is filled with merchandises and materials of all sorts.  Huges
+jarres full of spices are set against a wall and furs, artefacts and
+jewellry are filling wooden boxes.  There's even some rusty pieces of armor
+and you notice the spear-made hole in the back of dusty chainmail.  Red eyes
+are watching you behind the bars of a small cage.  There is an empty box
+with a small hand-writed sign above it.  Traps for sale and potions of all
+kind have been carelessly left on the floor.  You notice a counter covered
+with magical figurines and souvenirs from all over Boinga in a corner of
+this messy warehouse.  
+~
+0 8204 0
+E
+sign~
+The piece of paper reads: Sorry, our last fireworm has been sold.  But
+there is a special offer on catbird fat-free cookies !  
+~
+D1
+~
+~
+0 0 445
+S
+#445
+The village entrance~
+You are at the village entrance.  The houses are made mainly with red mud
+and stones, and strangely shaped.  Furs and worked pieces of metal are
+ornating the doors and windows.  There is a sign in front the door house, to
+the west.  The path leads west back in the chaotic steppes, and there is a
+field to the north.  
+~
+0 8192 2
+E
+sign~
+The sign reads:
+    HAKK-GHAR BAAZAR
+Special prices on fireworms this week !
+~
+D0
+You see a strange-looking field.
+~
+~
+0 0 443
+D1
+~
+~
+0 0 446
+D2
+You see the village main street.
+~
+~
+0 0 449
+D3
+You see a messy shop.
+~
+~
+0 0 444
+S
+#446
+A path to the Village~
+You're walking on a small path leading north and west to the village. 
+There is a strange-looking field to the east.  You can enter a house made of
+red mud and stones to the south.  
+~
+0 8196 2
+D0
+~
+~
+0 0 424
+D1
+~
+~
+0 0 447
+D2
+~
+~
+1 0 450
+D3
+~
+~
+0 0 445
+S
+#447
+The chaotic Fields~
+You're standing on some cultivated ground.  This could be a field like
+the many you've seen before, if the plants -or is that cattle?  - that grows
+here wasn't so strange.  There is a path to the west, leading to a small
+village.  
+~
+0 8192 2
+D0
+~
+~
+0 0 423
+D3
+~
+~
+0 0 446
+S
+#448
+Inside a village House~
+As you look around you, you see a large collection of handmade craftwork.
+This house probably belongs to some kind of artist or artisan.  There are
+shelves of tools on the walls and pieces of many different materials on the
+floor.  
+~
+0 8192 0
+D1
+You see the village main street.
+~
+~
+0 0 449
+S
+#449
+The village Main Street~
+You're standing on the village main street, paved with yellow and oranges
+stones.  Purple plants are growing on the walls of the house to your east,
+while the western house entrance is ornated with wooden-carved idols.  The
+wind blowing in the houses roof ornaments produce a strange music.  Main
+street continues to the south.  
+~
+0 8192 1
+D0
+You see the entrance of the village.
+~
+~
+0 0 445
+D1
+You see a large house.
+~
+~
+0 0 450
+D2
+You see the village main street.
+~
+~
+0 0 452
+D3
+You see a large House.
+~
+~
+0 0 448
+S
+#450
+Inside a village House~
+You're standing in a large single room.  Weapons and hunting trophees
+ornate the walls.  A small bed made covered with furs is in a corner.  There
+is a fireplace in the center of the room, and you notice the hole in the
+roof to let the smoke go.  You see a small door leading north and the house
+entrance is on the west side.  
+~
+0 8192 0
+D0
+You see a small door leading in a field.
+~
+~
+1 0 446
+D3
+You see the village main street.
+~
+~
+0 0 449
+S
+#451
+The Misty Morning Inn~
+You've entered a crowded Inn.  The room is filled with a purple smoke,
+smelling stranges flavors of spices and plants.  Some villagers look at you
+and turn back to drink and chat.  A drunken man with a dog head is sleeping
+in a corner.  The bartender is busy cleaning his counter.  
+~
+0 8192 0
+D1
+You see the village main street.
+~
+~
+0 0 452
+S
+#452
+The village Main Street~
+You're on main street.  Happy sounds and laugh come from the large house
+to the west, the Misty Morning Inn.  You see a dark house to the east, and a
+strong smell of sulfur and burned flesh comes from the opened window.  To
+the south is the end of main street and the largest house of the village.  
+~
+0 8192 1
+D0
+You see the village main street.
+~
+~
+0 0 449
+D1
+You see a small shop.
+~
+~
+0 0 453
+D2
+You see the end of main street.
+~
+~
+0 0 455
+D3
+You see the Misty Morning Inn.
+~
+~
+0 0 451
+S
+#453
+Zhakk the necromancer's Shop~
+Ackk!  The smell in this shop is terrible!  And you almost walked on some
+rat-like creature when you came in.  It takes you a few minutes to
+accomodate to the room darkness, then you notice the man behind the counter.
+~
+0 8192 0
+D3
+You barely see the exit, leading to the village main street.
+~
+~
+0 0 452
+S
+#454
+House of Chief Rhaak-Ghaar~
+This is certainly the most beautifull house of the village.  The walls
+are made of living stones who are changing of color and humming softly.  The
+floor is covered with furs and skins.  Skins of all kind...  
+~
+0 8192 0
+D1
+You see the village main street.
+~
+~
+0 0 455
+S
+#455
+The village Main Street~
+The main street ends here.  You see a river of burbling magma to the
+south.  There is a large house to the west, richely decorated with sculpted
+statues and figurines, and another villager house to the east.  
+~
+0 8192 1
+D0
+~
+~
+0 0 452
+D1
+You see a small House.
+~
+~
+0 0 456
+D3
+You see the House of some powerfull person.
+~
+~
+0 0 454
+S
+#456
+Inside a village House~
+You're standing in a poorly decorated room.  Some pieces of junk are
+lying on the floor, and you notice a large steel ring .  A few blankets on
+the floor are probably used as beds.  There are holes in the roof and you
+can see the red sky of the chaos plane.  
+~
+0 8192 0
+E
+steel~
+The steel ring is fixed to an hidden grate in the floor.
+~
+E
+ring~
+The steel ring is fixed to an hidden grate in the floor.
+~
+D3
+You see the village main street.
+~
+~
+0 0 455
+D5
+The gate opens on a small square of red light.
+~
+grate~
+1 0 416
+S
+#457
+The footbridge~
+You're standing on a small footbridge, crossing over the deepest chasm
+you've ever seen.  Watch your steps closely, you just wouldn't like to fall
+down...  
+~
+0 8196 2
+D1
+~
+~
+0 0 458
+D3
+~
+~
+0 0 442
+S
+#458
+The necromancer tower Entrance~
+The footbridge ends here, and you've reached the other side of the chasm.
+There is a tall black gate leading inside this tower.  Eye-looking living
+stone are watching you closely.  All around the tower, the land has been
+burned and a strange smell fills the air.  Some letters have been carved on
+a stone.  
+~
+0 8196 2
+E
+letters~
+The letters read:
+Levels lower than 35 are WARMLY welcome. 
+I always need new slaves and fresh food.
+~
+D1
+The tall black doors are leading inside the necromancer tower.
+~
+gate~
+0 0 459
+D3
+~
+~
+0 0 457
+S
+#459
+The tower main Hall~
+You're standing in a long darkened corridor.  A nasty smell fills this
+room.  The walls are covered with strange paintings and trophees.  There are
+two doors leading south and north.  A strong feeling of danger comes to you
+as you look to the east, where the corridor continues.  
+~
+0 0 0
+D0
+You see a small storage room.
+~
+~
+1 0 464
+D1
+You barely notice huge figures...or is that bodies over pikes ?
+~
+~
+0 0 462
+D2
+You see a guard room.
+~
+~
+1 0 460
+D3
+The tall black doors are leading outside the tower.
+~
+~
+0 0 458
+S
+#460
+The guard Room~
+This room is moderatly equiped. A table and wooden bank are surrounded with
+dirty beds. A few weapons are lying against an arm rack.
+~
+0 0 0
+D0
+You see the corridor.
+~
+~
+1 0 459
+S
+#461
+The lords quarters~
+You've entered a room filled with goods and valuable objects. You notice
+many handcrafted furnitures finely decorated with incrusted body parts and
+colored tapesries depicting war scenes.
+~
+0 0 0
+D0
+You see the corridor.
+~
+~
+1 0 462
+S
+#462
+The wrong place to stay...~
+You're standing in the middle of the main corridor.  Adventurer heads
+have been set on picks, a few corpse are still decaying and the wall are
+covered with blood and fighting marks.  The rests of a Mage are covering the
+door leading north, while the southern door is half burned.  
+~
+0 8192 0
+D0
+Something is written on the door, just under the splashed brains. 
+BAT....ROOM, or something like that.
+~
+~
+1 0 463
+D1
+You see the corridor.
+~
+~
+0 0 467
+D2
+The half burned door used to be finely crafted.
+~
+~
+1 0 461
+D3
+You see the corridor.
+~
+~
+0 0 459
+S
+#463
+The Battle room~
+This place looks like a small arena. The floor is covered with sawdust, and
+huge steel chains are set on the walls. On the other end of some of those
+leads are decaying bodies of slayed creatures. Probably some of the 
+Necromancer's creations that did not pass the quality tests...
+~
+0 1 0
+D2
+You see the corridor.
+~
+~
+1 0 462
+S
+#464
+A Storage room~
+You're in a room filled with junk and trash of all kind.  There are even
+rotting pieces of flesh, some of theim still covered with what used to be an
+armor.  Skulls and bones have been left on the ground.  
+~
+0 1 0
+D0
+The wall seems to move when you push it.
+~
+wall passage~
+1 0 465
+D2
+You see the corridor.
+~
+~
+1 0 459
+S
+#465
+The secret Passage~
+You are standing in a dark passageway leading east. This place is strangely
+calm and cold.
+~
+0 1 0
+D1
+You see a dark passageway.
+~
+~
+0 0 466
+D2
+The wall seems to move when you push it.
+~
+wall passage~
+1 0 464
+S
+#466
+The secret Passage~
+You are standing in a dark passageway leading west. This place is strangely
+calm and cold.
+~
+0 1 0
+D2
+You feel some warm air coming from behind the wall.
+~
+wall passage~
+1 0 467
+D3
+You see a dark passageway.
+~
+~
+0 0 465
+S
+#467
+The tower main Hall~
+You're standing in a long darkened corridor.  A nasty smell fills this
+room. A strong feeling of danger comes from the west. You notice 
+stairways to the east.
+~
+0 0 0
+D1
+You see stairways leading up and down.
+~
+~
+0 0 468
+D3
+You barely notice huge figures...or is that bodies over pikes ?
+~
+~
+0 0 462
+S
+#468
+The Stairs~
+The long corridor ends here. The room rang with cries of pain and suffering
+coming from downstairs, and sounds of frying and cooking. That maybe
+explains the strange smell filling this place.
+~
+0 0 0
+D3
+You see the corridor.
+~
+~
+0 0 467
+D4
+Stairs are leading up to the first floor.
+~
+~
+0 0 469
+D5
+Stairs are leading down in the darkness.
+~
+~
+0 0 481
+S
+#469
+Inside the Tower~
+You're standing in some sort of pantry. Barrels of food and spices are
+stored here. Mutant lettuces and green salads are locked up in small cages
+and roaring with rage. You notice a small jar of fireworms. The sound of
+cooking comes from the east.
+~
+0 0 0
+E
+jar fireworms~
+Looking closer, you notice the jar is in fact filled with fake fireworms !
+These one are worthless, and probably tasteless too !
+~
+D1
+You see a kitchen.
+~
+~
+0 0 470
+D5
+Stairs are leading down to the entrance corridor.
+~
+~
+0 0 468
+S
+#470
+Inside the Tower~
+You understand now all the horror and evil of this tower: This kitchen is
+full of ripped bags, beheaded bottles and finely minced meat. Some
+vegetables are even being boiled, and a juicy tournedos is roasting in
+the fireplace. There is a door leading south to some probably less horrible
+place, and a passageway the the east and west.
+~
+0 0 0
+E
+tournedos~
+A tournedos is a fillet steak...but you probably knew it already :)
+~
+D1
+You see stairways leading up.
+~
+~
+0 0 472
+D2
+You see a guard room.
+~
+~
+0 0 471
+D3
+You see the pantry, and stairways leading down.
+~
+~
+0 0 469
+S
+#471
+The guard Room~
+This room is moderatly equiped. A table and wooden bank are surrounded with
+dirty beds, safe for one bed carefully made. Some cook wears are folded on
+this bed.
+~
+0 0 0
+D0
+You see a kitchen.
+~
+~
+0 0 470
+S
+#472
+Inside the Tower~
+You are standing near stairways leading up. You feel some chaotic presence,
+and this feeling gets stronger the more you climb up in the tower. The sound
+of cooking comes from the south.
+~
+0 0 0
+D3
+You see a kitchen.
+~
+~
+0 0 470
+D4
+Stairs are leading up to the second floor.
+~
+~
+0 0 473
+S
+#473
+Inside the Tower~
+You're standing in a corridor, on the top of a stairway. A strange smell
+comes from the west, but this place is strangely quiet.
+~
+0 0 0
+D3
+You see a laboratory.
+~
+~
+0 0 474
+D5
+Stairs are leading down to the first floor.
+~
+~
+0 0 472
+S
+#474
+Inside the Tower~
+You are in the necromancer's laboratory. Jars and bottles filled with human
+and animals body parts are stored on shelves. A large book is opened on the
+table, and a pentacle has been carved on the floor.
+~
+0 0 0
+E
+book~
+The book reads:'NECRONOMICON - handle with care'
+~
+E
+pentacle~
+This drawing, chalked on the floor, is surrounded with magical writtings.
+It's certainly used for some dark ritual, be it looks harmless right now.
+~
+D1
+You see the corridor.
+~
+~
+0 0 473
+D3
+You see the corridor.
+~
+~
+0 0 475
+S
+#475
+Inside the Tower~
+You're in a corridor leading east, where a strange smell comes from.
+A staircase starts here.
+~
+0 0 0
+D1
+You see a laboratory.
+~
+~
+0 0 474
+D4
+Stairs are leading up to the third floor.
+~
+~
+0 0 476
+S
+#476
+Inside the Tower~
+You are standing in a dark corridor. A strange glow comes the east.
+~
+0 0 0
+D1
+You see a large corridor.
+~
+~
+0 0 477
+D5
+Stairs are leading down to the second floor.
+~
+~
+0 0 475
+S
+#477
+Inside the Tower~
+You're standing in a cold hallway. On both side, against the walls, are
+standing skeletons, like statues of bones. You recognize almost all the
+races you ever meet or heard about. It seems to you that some of theim are
+watching you or slightly moving. The room is absolutly quiet, safe sometimes
+for a damped sound coming from nowhere. Like the pain of suffering souls.
+A strange blue glow light this room.
+~
+0 0 0
+D1
+You see a corridor.
+~
+~
+0 0 478
+D3
+You see a corridor.
+~
+~
+0 0 476
+S
+#478
+Inside the Tower~
+You are standing in a dark corridor. A strange glow comes from the west.
+~
+0 0 0
+D3
+You see a large corridor.
+~
+~
+0 0 477
+D4
+Stairs are leading up to the top of the tower.
+~
+~
+0 0 479
+S
+#479
+Inside the Tower~
+This waiting room is decorated in the most luxurious and morbib way. Carpets
+and tapestries are made of mixed skins, furs and leathers, with always the
+same skull-looking pattern. Skeletal arms set in the walls are handling
+candles. There's a trap in the ceiling closed by a lead door. Lots of
+magical symbols have been carved around and on the trap. Two doors are
+leading west and north.
+~
+0 0 0
+E
+lead trap ceiling magical symbols~
+One of the sentences carved on the trap reads:
+...Up lies the mother and destroyer of all...
+...No good,  no evil, just no order at all...
+...Up lies the source of all chaos.
+~
+D0
+You see a balcony.
+~
+~
+0 0 489
+D3
+You see a chamber.
+~
+~
+0 0 490
+D4
+You see a trap made of solid lead.
+~
+trap~
+0 0 480
+D5
+Stairs are leading down to the third floor.
+~
+~
+0 0 478
+S
+#480
+The Void~
+You are standing in the middle of nowhere, and everywhere in the same
+time. Pure hasard and unpredictability rule this place. This is the source
+of the chaos.
+~
+0 4 0
+D5
+You see the necromancer waiting room.
+~
+~
+0 0 479
+S
+#481
+Cells corridor~
+You're standing in a dark and damp passageway. There is a wooden door to the
+south, and more cells can be found to the east.
+~
+0 0 0
+D1
+You see the cells corridor.
+~
+~
+0 0 482
+D2
+You see an empty cell.
+~
+~
+2 0 488
+D4
+Stairs are leading up to the entrance corridor.
+~
+~
+0 0 468
+S
+#482
+Cells corridor~
+You're standing in a dark and damp passageway. There is a wooden door to the
+south, and more cells can be found to the east and west.
+~
+0 0 0
+D1
+You see the cells corridor.
+~
+~
+0 0 483
+D2
+You see a dark cell.
+~
+~
+2 421 487
+D3
+You see the cells corridor.
+~
+~
+0 0 481
+S
+#483
+Cells corridor~
+You're standing in a dark and damp passageway. There is a wooden door to the
+south, and more cells can be found to the east and west.
+~
+0 0 0
+D1
+You see the cells corridor.
+~
+~
+0 0 484
+D2
+You see a dark cell.
+~
+~
+2 421 486
+D3
+You see the cells corridor.
+~
+~
+0 0 482
+S
+#484
+Cells corridor~
+You're standing in a dark and damp passageway. There is a wooden door to the
+south, and more cells can be found to the west.
+~
+0 0 0
+D2
+You see another cell.
+~
+~
+2 421 485
+D3
+You see the cells corridor.
+~
+~
+0 0 483
+S
+#485
+A dark Cell~
+You've entered a small, dark and cold room. Mud and water are flowing on the
+walls. The moist air is filled with a putrid smell.
+~
+0 513 0
+D0
+You see the cells corridor.
+~
+~
+2 421 484
+S
+#486
+A dark Cell~
+You've entered a small, dark and cold room. Mud and water are flowing on the
+walls. The moist air is filled with a putrid smell.
+~
+0 513 0
+D0
+You see the cells corridor.
+~
+~
+2 421 483
+S
+#487
+A dark Cell~
+You've entered a small, dark and cold room. Mud and water are flowing on the
+walls. The moist air is filled with a putrid smell.
+~
+0 513 0
+D0
+You see the cells corridor.
+~
+~
+2 421 482
+S
+#488
+A dark Cell~
+You've entered a small, dark and cold room. A rat-looking creature disappear
+in a small hole as soon as it notices you. Someone has carved something on
+the muddy wall.
+~
+0 513 0
+E
+wall something carved~
+The letters read:
+I've seen theim feeding the thing with a prisonner at the top of the tower.
+I saw the bastard calling it 'the mother of all'...even he was affraid of it
+and he is quite powerfull. Or he wouldn't have dodged my backstab and jailed
+me. I shall not die the same way. I'll try to escape soon, and if i can use 
+the secret passageway to avoid the lords and make it to the manbeasts village,
+i'll be free. The lock of this cell should be no problem...locks never were
+for me...
+~
+D0
+You see the cells corridor.
+~
+~
+2 0 481
+S
+#489
+The balcony~
+Woops...you're standing on a crumbling balcony made of bones, at the top of
+the tower...you better not look down. The chaotic landscape extends in front
+of you and...wait a minute, this balcony should be on the north side of the 
+tower and you see the southern view ! Damn those chaotic architects...
+~
+0 512 1
+E
+down~
+Darn ! you're almost one hundred meters high ! ( 1m = almost 3 feet ;)
+~
+E
+landscape view~
+.                                       _________
+   /\ south                            / M....M  \
+                                     _/  M..:..M  |
+                               _____/   M...:..M  \
+                             _/         :...:...M  |
+                          __/               :      |
+         _______     ____/                          \
+ _______/       \   /                          __   |
+/               |===|                         /  \  |
+~
+D2
+You see the waiting room.
+~
+~
+0 0 479
+S
+#490
+The chamber~
+Death is in the air...you can smell and feel it. This place looks part like
+a tomb, part like a bedroom and part like a mage laboratory. Piles of skulls
+topped by candels illuminate this large room. Some dark books are set on a
+huge stone table, near a four-poster bed. This place seems definitly cursed.
+~
+0 8192 0
+D1
+You see the waiting room.
+~
+~
+0 0 479
+S
+#491
+A small Cave~
+You are standing in a small cave.  Strangely, you feel at ease in this
+little place.  The wall are glowing with a peacefull golden aura.  There
+seems to be an exit to the west.  
+~
+0 4 0
+D3
+~
+~
+1 0 404
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 404 1 1
+D 0 408 0 1
+D 0 409 2 1
+D 0 456 5 1
+D 0 459 0 1
+D 0 459 2 1
+D 0 460 0 1
+D 0 461 0 1
+D 0 462 0 1
+D 0 462 2 1
+D 0 463 2 1
+D 0 464 0 1
+D 0 464 2 1
+D 0 465 2 1
+D 0 466 2 1
+D 0 481 2 1
+D 0 482 2 2
+D 0 483 2 2
+D 0 484 2 2
+D 0 485 0 2
+D 0 486 0 2
+D 0 487 0 2
+D 0 488 0 1
+D 0 491 3 1
+O 0 400 0 402
+M 1 401 2 402 2
+O 0 400 0 403
+O 0 400 0 405
+O 0 401 0 407
+O 0 401 0 408
+M 1 400 1 409 1
+E 0 402 0 16
+O 0 404 0 409
+M 1 401 2 410 2
+O 0 400 0 411
+O 0 400 0 414
+O 0 400 0 416
+M 1 410 4 426 2
+M 1 413 1 427 1
+M 1 411 4 428 2
+M 1 410 4 432 2
+M 1 412 2 437 2
+M 1 411 4 439 2
+M 1 402 1 444 2
+G 0 405 0
+G 0 406 0
+G 0 407 0
+M 1 406 4 445 2
+M 1 406 4 445 2
+M 1 409 2 448 1
+M 1 405 4 449 2
+M 1 408 4 449 1
+M 1 409 2 450 1
+O 0 431 0 450
+M 1 405 4 451 2
+M 1 407 1 451 1
+G 0 411 0
+G 0 412 0
+M 1 408 4 451 2
+M 1 408 4 451 2
+M 1 408 4 452 1
+M 1 403 1 453 1
+G 0 408 0
+G 0 409 0
+G 0 410 0
+M 1 404 1 454 1
+E 0 425 0 16
+M 1 406 4 454 2
+M 1 406 4 454 2
+M 1 405 4 455 2
+M 1 405 4 455 2
+M 1 415 6 459 1
+M 1 415 6 460 1
+O 0 422 0 461
+P 0 427 1 422 1
+M 1 414 2 462 2
+E 0 413 0 5
+E 0 414 0 7
+E 0 415 0 10
+E 0 419 0 16
+M 1 414 2 462 2
+E 0 416 0 13
+E 0 417 0 6
+E 0 418 0 11
+E 0 420 0 16
+G 0 423 0
+O 0 430 0 466
+M 1 415 6 468 1
+M 1 420 1 470 1
+M 1 415 6 471 1
+O 0 429 0 474
+M 1 416 2 474 1
+M 1 417 2 474 1
+E 0 426 0 12
+M 1 417 2 477 1
+E 0 426 0 12
+O 0 430 0 478
+M 1 415 6 478 1
+M 1 419 1 480 1
+M 1 415 6 482 1
+G 0 421 0
+M 1 421 1 485 1
+C 5 percent for next reset
+M 1 422 1 486 1
+E 0 492 0 17
+O 0 424 0 486
+M 1 416 2 487 1
+M 1 418 1 490 1
+E 0 426 0 12
+E 0 428 0 1
+G 0 432 0
+O 0 491 0 491
+S
+
+
+
+#SHOPS
+402 9 11 10 0 0 150 75 0 23
+403 2 28 0 0 0 150 75 0 23
+407 0 0 0 0 0 110 100 0 23
+0
+
+
+
+#$

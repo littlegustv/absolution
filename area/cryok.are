@@ -1,0 +1,1746 @@
+#AREADATA
+Name Cryok Pond~
+Builders Snowy~
+VNUMs 18400 18499
+Credits { None} Snowy   Cryok Pond~
+Security 1
+Xcontinent 1
+Age 11
+End
+
+
+
+#MOBILES
+#18400
+curious giffit~
+a curious giffit~
+A curious little giffit is here hopping around.
+~
+This cute little creature is a little too curious for its own good.  It
+hops over and looks up at you inquisitively as if to ask what form of mutant
+giffit you are.  Taking a good look at the little ball of fur you notice how
+unusual this little creature is.  Its body is composed almost entirely of a
+big round head covered in thick fur.  It has two little stubby hind legs
+with oversized feet that allow it easy passage over the snow.  There are no
+forelimbs to speak of but thanks to its puffy tail it somehow manages to
+remain balanced.  With its white fur you note that the giffits are probably
+well camouflaged for life in this winter setting.  
+~
+rabbit~
+AGW 0 400 0
+7 0 2d6+85 1d1+100 1d8+1 pound
+4 4 4 10
+FH 0 I H
+stand stand either 0
+AGV ACDEFHJK small 0
+#18401
+white fox~
+a white fox~
+A white fox is here hunting for voles.
+~
+This white fox looks like it has been eating well as of late.  It has
+gotten somewhat plump as a result of the abundance of voles around the pond.
+This sly fellow is sneaking around and digging up the snow in search of the
+tasty little rodents even now.  His fur is pure white aside from a patch of
+silver that runs along his neck.  No doubt a pelt like this would be worth a
+few coins.  However the King has declared the white fox is a protected
+creature in his kingdom so killing it might not be such a good idea.  
+~
+fox~
+ACGW PZ 400 0
+11 1 2d8+134 1d1+100 1d10+2 bite
+1 1 1 8
+FHR 0 0 0
+stand stand male 0
+AGV ACDEFHJKQV medium 0
+#18402
+white fox~
+a white fox~
+A white fox is here resting in her den.
+~
+This beautiful white fox appears to be very well fed.  Her coat is pure
+white which allows her to blend in with the snow around the pond while she
+is vole hunting.  Lately she has not been doing much hunting however.  She
+has been watching over her new born kits for the last few days while staying
+in the safety of the den.  Killing her and leaving the babies without a
+mother would be unbelievably cruel.  The King has declared the white fox a
+protected animal in his kingdom so it might be wise to just leave her alone
+and move on.  
+~
+fox~
+ABCG PZ 400 0
+9 0 2d6+110 1d1+100 1d8+2 bite
+2 2 2 9
+FHR 0 0 0
+rest rest female 0
+AGV ACDEFHJKQV medium 0
+#18403
+newborn baby fox~
+a newborn kit~
+A newborn kit is here looking adorable and defenseless.
+~
+This cute bundle of fur looks like it must only be a few days old.  This
+newborn kit is one of the few remaining white foxes that are left in the
+kingdom.  By declaration of the King these animals are no longer allowed to
+be killed.  Only a heartless monster would even dream of snuffing out the
+life of these defenseless little white puffballs.  This kit has yet to even
+open its eyes.  Its white fur is extremely fluffy and makes it appear to be
+twice the size it actually is.  Nestled away in the safety of its den this
+baby fox is too weak to survive on its own and will probably remain here for
+many weeks to come.  
+~
+fox~
+ABG AZ 400 0
+3 0 2d6+35 1d1+100 1d6+0 bite
+7 7 7 14
+FH 0 0 0
+rest rest either 0
+AGV ACDEFHJKQV tiny 0
+#18404
+ice toad~
+an ice toad~
+An ice toad is here gazing at you hungrily.
+~
+The ice toad is one of the more hideous creatures living around the pond.
+Its body is covered in a thick crust of frozen mucus that protects it from
+predators like the white fox and owls.  These toads are known to remain
+motionless on frozen bodies of water for hours on end waiting for
+unsuspecting prey to wander by.  Looking closely at it you can make out the
+shape of the internal organs of the toad through its transparent layer of
+flesh.  
+~
+snake~
+ABGW 0 0 0
+5 0 2d6+60 1d1+100 1d6+1 frbite
+5 5 5 11
+U 0 IL HI
+rest rest none 0
+AGXYac ADEFKLQVX small 0
+#18405
+furry vole~
+a furry vole~
+A furry vole is here trying to hide in the snow.
+~
+Peeking out from a patch of snow this vole quickly scans the horizon for
+any signs of trouble before ducking back into its burrow.  It leaves little
+tracks behind as it scurries off to safety.  The voles are probably in high
+demand among the local wildlife.  They do not look like they could offer
+much in the way of a meaningful meal to you however.  There is no telling
+what diseases they may carry so it might be good to avoid them.  
+~
+rabbit~
+AG Q 300 0
+2 0 2d7+21 1d1+100 1d5+0 acbite
+8 8 8 15
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJK tiny 0
+#18406
+reindeer~
+a reindeer~
+A reindeer is here searching for food.
+~
+This reindeer is searching for vegetation buried under the snow.  It
+looks at you with little concern and returns to grazing.  A large set of
+antlers stick out from its head branching this way and that.  Watching it
+kick around in the snow you notice it has very sharp pointed hooves that
+allow it to dig down to the grass beneath.  No doubt the reindeer would use
+those hooves against anything that would dare to attack it.  The reindeer
+looks like it would make a strong pack animal as it has no problem
+maneuvering around the snow covered landscape.  
+~
+pig~
+AGW 0 400 0
+16 0 3d9+233 1d1+100 2d6+4 charge
+-2 -2 -2 4
+CIK 0 0 0
+stand stand either 0
+AGV ACDEFHJK medium 0
+#18407
+timid giffit~
+a timid giffit~
+A timid giffit is here hiding its face in the snow.
+~
+This little giffit seems to be doing its best to hide from you. 
+Unfortunately giffits are not the smartest animals living around the pond. 
+The giffit has stuck its face into the snow leaving a large portion of its
+head sticking out.  A huge puffy tail sticks up from the animal's behind
+moving back and forth as the giffit tries to burrow further into the snow. 
+The little fluffball flails its oversized feet about wildly in the air as
+you approach.  With hiding tactics like these it is a wonder the giffits are
+not already extinct.  
+~
+rabbit~
+AGW 0 400 0
+7 0 2d6+85 1d1+100 1d8+1 pound
+4 4 4 10
+FH 0 I H
+stand stand either 0
+AGV ACDEFHJK small 0
+#18408
+Gabeck~
+Gabeck~
+Gabeck is here watching over the countryside.
+~
+Before you stands a tall sliver dressed in long flowing robes.  He looks
+at you with large bulging eyes and begins to move towards the stairs of the
+bell tower.  Judging by the markings on his robes he is a high ranking Orim
+sliver from the sliver colony.  He has been sent here by the King to watch
+the road leading to the castle and signal the approach of strangers. 
+Physically he does not appear to be very impressive but his rank indicates
+he is likely a member of the Guild of Mystics.  Slivers belonging to this
+guild are well known for their ability to utilize devastating magic spells
+against those who stand against them.  
+~
+sliver~
+ABR N 800 0
+20 1 3d9+333 1d1+100 2d8+5 slice
+-4 -4 -4 2
+FHK B B K
+stand stand male 890
+BHMZ ABCDEFGHIJKLPQUVWX medium 0
+#0
+
+
+
+#OBJECTS
+#18400
+cryok dragon claw~
+the claw of Cryok the white dragon~
+The claw of a dragon reaches out from the frozen pond here.~
+ice~
+container AE P
+10 0 0 100 0
+0 100 320 P
+E
+claw~
+Sticking out from the frozen pond you spot the claw of the great white
+dragon Cryok.  Near the end of the great war Cryok was shot from the sky by
+an elven archer woman and fell into the pond.  Members of the Guild of
+Mystics acted quickly to seal the evil dragon in the pond with the help of
+the Winter Lord.  As the pond began to freeze Cryok frantically tried to
+escape but only his claw surfaced before the water solidified around him.  
+~
+#0
+
+
+
+#ROOMS
+#18432
+outside bell tower~
+~
+0 0 2
+D0
+~
+~
+0 0 18418
+D1
+~
+~
+0 0 18407
+D2
+~
+~
+0 0 18431
+D3
+~
+~
+0 0 18433
+M 90 H 90
+S
+#18433
+approaching mountain~
+~
+0 0 2
+D1
+~
+~
+0 0 18432
+D2
+~
+~
+0 0 18434
+D3
+~
+~
+0 0 18436
+M 90 H 90
+S
+#18434
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18433
+D1
+~
+~
+0 0 18431
+D2
+~
+~
+0 0 18435
+D3
+~
+~
+0 0 18437
+M 90 H 90
+S
+#18435
+On a Frozen Section of the Pond~
+Moving along carefully you try not to slip on the icy surface of Cryok
+pond.  The pond remains free of fallen snow for some reason and the ice is
+crystal clear without the slightest flaw or crack in it.  Looking down at
+the ice you can see what appears to be a long scaly tail directly below you
+frozen in the pond.  The tail seems to still be connected to the body of a
+dragon trapped in the ice beneath you.  Most likely the beast has long since
+died but still remains perfectly preserved in its icy tomb.  
+~
+0 0 6
+D0
+~
+~
+0 0 18434
+D1
+~
+~
+0 0 18429
+D2
+~
+~
+0 0 18427
+D3
+~
+~
+0 0 18438
+M 80 H 80
+S
+#18436
+approaching mountain~
+~
+0 0 2
+D1
+~
+~
+0 0 18433
+D2
+~
+~
+0 0 18444
+D3
+~
+~
+0 0 18452
+M 90 H 90
+S
+#18437
+edge of pond~
+~
+0 0 2
+D1
+~
+~
+0 0 18434
+D2
+~
+~
+0 0 18438
+D3
+~
+~
+0 0 18444
+M 90 H 90
+S
+#18438
+On a Frozen Section of the Pond~
+Moving along carefully you try not to slip on the icy surface of Cryok
+pond.  The pond remains free of fallen snow for some reason and the ice is
+crystal clear without the slightest flaw or crack in it.  Looking down at
+the ice you can see what appears to be a scaly rump directly below you
+frozen in the pond.  The rump seems to still be connected to the body of a
+dragon trapped in the ice beneath you.  Most likely the beast has long since
+died but still remains perfectly preserved in its icy tomb.  
+~
+0 0 6
+D0
+~
+~
+0 0 18437
+D1
+~
+~
+0 0 18435
+D2
+~
+~
+0 0 18439
+D3
+~
+~
+0 0 18445
+M 80 H 80
+S
+#18439
+On a Frozen Section of the Pond~
+Moving along carefully you try not to slip on the icy surface of Cryok
+pond.  The pond remains free of fallen snow for some reason and the ice is
+crystal clear without the slightest flaw or crack in it.  Looking down at
+the ice you can see what appears to be a hind leg with razor sharp talons
+directly below you frozen in the pond.  The leg seems to still be connected
+to the body of a dragon trapped in the ice beneath you.  Most likely the
+beast has long since died but still remains perfectly preserved in its icy
+tomb.  
+~
+0 0 6
+D0
+~
+~
+0 0 18438
+D1
+~
+~
+0 0 18427
+D2
+~
+~
+0 0 18440
+D3
+~
+~
+0 0 18446
+M 80 H 80
+S
+#18440
+On a Frozen Section of the Pond~
+Moving along carefully you try not to slip on the icy surface of Cryok
+pond.  The pond remains free of fallen snow for some reason and the ice is
+crystal clear without the slightest flaw or crack in it.  Looking down at
+the ice you can see what appears to be a large scaled underbelly directly
+below you frozen in the pond.  The underbelly seems to still be connected to
+the body of a dragon trapped in the ice beneath you.  Most likely the beast
+has long since died but still remains perfectly preserved in its icy tomb.  
+~
+0 0 6
+D0
+~
+~
+0 0 18439
+D1
+~
+~
+0 0 18425
+D2
+~
+~
+0 0 18441
+D3
+~
+~
+0 0 18447
+M 80 H 80
+S
+#18441
+On a Frozen Section of the Pond~
+Moving along carefully you try not to slip on the icy surface of Cryok
+pond.  The pond remains free of fallen snow for some reason and the ice is
+crystal clear without the slightest flaw or crack in it.  Looking down at
+the ice you can see what appears to be a scaled upper limb of a dragon
+directly below you frozen in the pond.  The limb is bent at an awkward angle
+reaching towards the surface and seems to still be connected to the body of
+a dragon trapped in the ice beneath you.  Most likely the beast has long
+since died but still remains perfectly preserved in its icy tomb.  
+~
+0 0 6
+D0
+~
+~
+0 0 18440
+D1
+~
+~
+0 0 18424
+D2
+~
+~
+0 0 18442
+D3
+~
+~
+0 0 18448
+M 80 H 80
+S
+#18442
+On a Frozen Section of the Pond~
+Moving along carefully you try not to slip on the icy surface of Cryok
+pond.  The pond remains free of fallen snow for some reason and the ice is
+crystal clear without the slightest flaw or crack in it.  Looking down at
+the ice you can see what appears to be a powerful claw reaching up from out
+of the frozen pond beneath you.  The claw seems to still be connected to the
+body of a dragon trapped in the ice beneath you.  Most likely the beast has
+long since died but still remains perfectly preserved in its icy tomb.  
+~
+0 0 6
+D0
+~
+~
+0 0 18441
+D1
+~
+~
+0 0 18422
+D2
+~
+~
+0 0 18443
+D3
+~
+~
+0 0 18449
+M 80 H 80
+S
+#18443
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18442
+D1
+~
+~
+0 0 18421
+D3
+~
+~
+0 0 18450
+M 90 H 90
+S
+#18444
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18436
+D1
+~
+~
+0 0 18437
+D2
+~
+~
+0 0 18445
+D3
+~
+~
+0 0 18453
+M 90 H 90
+S
+#18445
+On a Frozen Section of the Pond~
+Moving along careful you try not to slip on the icy surface of Cryok
+pond.  The pond remains free of fallen snow for some reason and the ice is
+crystal clear without the slightest flaw or crack in it.  Looking down at
+the ice you can see what appears to be a scaly rump directly below you
+frozen in the pond.  The rump seems to still be connected to the body of a
+dragon trapped in the ice beneath you.  Most likely the beast has long since
+died but still remains perfectly preserved in its icy tomb.  
+not dragon section
+~
+0 0 6
+D0
+~
+~
+0 0 18444
+D1
+~
+~
+0 0 18438
+D2
+~
+~
+0 0 18446
+D3
+~
+~
+0 0 18454
+M 80 H 80
+S
+#18446
+On a Frozen Section of the Pond~
+Moving along carefully you try not to slip on the icy surface of Cryok
+pond.  Scaly pond remains free of fallen snow for some reason and the ice is
+crystal clear without the slightest flaw or crack in it.  Looking down at
+the ice you can see what appears to be the scaly hind quarters of a massive
+dragon directly below you frozen in the pond.  The scaly hind quarters seems
+to still be connected to the body of a dragon trapped in the ice beneath
+you.  Most likely the beast has long since died but still remains perfectly
+preserved in its icy tomb.  
+~
+0 0 6
+D0
+~
+~
+0 0 18445
+D1
+~
+~
+0 0 18439
+D2
+~
+~
+0 0 18447
+D3
+~
+~
+0 0 18455
+M 80 H 80
+S
+#18447
+On a Frozen Section of the Pond~
+Moving along carefully you try not to slip on the icy surface of Cryok
+pond.  Scaly pond remains free of fallen snow for some reason and the ice is
+crystal clear without the slightest flaw or crack in it.  Looking down at
+the ice you can see what appears to be the scaly back of a massive dragon
+directly below you frozen in the pond.  The scaly back seems to still be
+connected to the body of a dragon trapped in the ice beneath you.  Most
+likely the beast has long since died but still remains perfectly preserved
+in its icy tomb.  
+~
+0 0 6
+D0
+~
+~
+0 0 18446
+D1
+~
+~
+0 0 18440
+D2
+~
+~
+0 0 18448
+D3
+~
+~
+0 0 18456
+M 80 H 80
+S
+#18448
+On a Frozen Section of the Pond~
+Moving along carefully you try not to slip on the icy surface of Cryok
+pond.  The pond remains free of fallen snow for some reason and the ice is
+crystal clear without the slightest flaw or crack in it.  Looking down at
+the ice you can see what appears to be the scaly upper torso of a massive
+dragon directly below you frozen in the pond.  The scaly upper torso seems
+to still be connected to the body of a dragon trapped in the ice beneath
+you.  Most likely the beast has long since died but still remains perfectly
+preserved in its icy tomb.  
+~
+0 0 6
+D0
+~
+~
+0 0 18447
+D1
+~
+~
+0 0 18441
+D2
+~
+~
+0 0 18449
+D3
+~
+~
+0 0 18457
+M 80 H 80
+S
+#18449
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18448
+D1
+~
+~
+0 0 18442
+D2
+~
+~
+0 0 18450
+D3
+~
+~
+0 0 18458
+M 90 H 90
+S
+#18450
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18449
+D1
+~
+~
+0 0 18443
+D2
+~
+~
+0 0 18451
+M 90 H 90
+S
+#18451
+approaching mountain~
+~
+0 0 2
+D0
+~
+~
+0 0 18450
+D1
+~
+~
+0 0 18420
+D3
+~
+~
+0 0 18459
+M 90 H 90
+S
+#18452
+approaching mountain~
+~
+0 0 2
+D1
+~
+~
+0 0 18436
+D2
+~
+~
+0 0 18453
+D3
+~
+~
+0 0 18464
+M 90 H 90
+S
+#18453
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18452
+D1
+~
+~
+0 0 18444
+D2
+~
+~
+0 0 18454
+M 90 H 90
+S
+#18454
+on pond~
+~
+0 0 6
+D0
+~
+~
+0 0 18453
+D1
+~
+~
+0 0 18445
+D2
+~
+~
+0 0 18455
+D3
+~
+~
+0 0 18460
+M 80 H 80
+S
+#18455
+on pond~
+~
+0 0 6
+D0
+~
+~
+0 0 18454
+D1
+~
+~
+0 0 18446
+D2
+~
+~
+0 0 18456
+D3
+~
+~
+0 0 18461
+M 80 H 80
+S
+#18456
+on pond~
+~
+0 0 6
+D0
+~
+~
+0 0 18455
+D1
+~
+~
+0 0 18447
+D2
+~
+~
+0 0 18457
+D3
+~
+~
+0 0 18462
+M 80 H 80
+S
+#18457
+on pond~
+~
+0 0 6
+D0
+~
+~
+0 0 18456
+D1
+~
+~
+0 0 18448
+D2
+~
+~
+0 0 18458
+D3
+~
+~
+0 0 18463
+M 80 H 80
+S
+#18458
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18457
+D1
+~
+~
+0 0 18449
+D2
+~
+~
+0 0 18459
+D3
+~
+~
+0 0 18468
+M 90 H 90
+S
+#18459
+approaching mountain~
+~
+0 0 2
+D0
+~
+~
+0 0 18458
+D1
+~
+~
+0 0 18451
+D3
+~
+~
+0 0 18469
+M 90 H 90
+S
+#18460
+edge of pond~
+~
+0 0 2
+D1
+~
+~
+0 0 18454
+D2
+~
+~
+0 0 18461
+D3
+~
+~
+0 0 18466
+M 90 H 90
+S
+#18461
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18460
+D1
+~
+~
+0 0 18455
+D2
+~
+~
+0 0 18462
+M 90 H 90
+S
+#18462
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18461
+D1
+~
+~
+0 0 18456
+D2
+~
+~
+0 0 18463
+D3
+~
+~
+0 0 18467
+M 90 H 90
+S
+#18463
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18462
+D1
+~
+~
+0 0 18457
+M 90 H 90
+S
+#18464
+fox hole~
+~
+0 0 2
+D1
+~
+~
+0 0 18452
+D2
+~
+~
+0 0 18466
+D3
+~
+~
+0 0 18470
+D5
+~
+~
+0 0 18465
+M 90 H 90
+S
+#18465
+fox hole~
+~
+0 524297 2
+D4
+~
+~
+0 0 18464
+S
+#18466
+approaching mountain~
+~
+0 0 2
+D0
+~
+~
+0 0 18464
+D1
+~
+~
+0 0 18460
+D2
+~
+~
+0 0 18467
+D3
+~
+~
+0 0 18471
+M 90 H 90
+S
+#18467
+approaching mountain~
+~
+0 0 2
+D0
+~
+~
+0 0 18466
+D1
+~
+~
+0 0 18462
+D2
+~
+~
+0 0 18468
+D3
+~
+~
+0 0 18472
+M 90 H 90
+S
+#18468
+approaching mountain~
+~
+0 0 2
+D0
+~
+~
+0 0 18467
+D1
+~
+~
+0 0 18458
+D2
+~
+~
+0 0 18469
+M 90 H 90
+S
+#18469
+approaching mountain~
+~
+0 0 2
+D0
+~
+~
+0 0 18468
+D1
+~
+~
+0 0 18459
+M 90 H 90
+S
+#18470
+approaching mountain~
+~
+0 0 2
+D1
+~
+~
+0 0 18464
+D2
+~
+~
+0 0 18471
+M 90 H 90
+S
+#18471
+approaching mountain~
+~
+0 0 5
+D0
+~
+~
+0 0 18470
+D1
+~
+~
+0 0 18466
+D2
+~
+~
+0 0 18472
+D3
+~
+~
+0 0 18473
+M 90 H 90
+S
+#18472
+approaching mountain~
+~
+0 0 5
+D0
+~
+~
+0 0 18471
+D1
+~
+~
+0 0 18467
+M 90 H 90
+S
+#18473
+mountain pass~
+~
+0 0 5
+D1
+~
+~
+0 0 18471
+M 90 H 90
+S
+#18474
+~
+~
+0 4 0
+M 0 H 0
+S
+#18400
+The King's Way~
+You stand on a well-maintained road that connects the royal castle to
+Selina's Crypt.  A small path leads east into the Volrath Forest, and the
+Way continues to the north and south.
+~
+0 0 3
+D2
+~
+~
+0 0 18401
+S
+#18401
+A Gravel Road~
+You stand on a long, straight road that runs between the Evermoor Forest to
+your west and the Volrath Forest to your east.  It is easy to travel fast
+since the road is so well-maintained.  The King's Way continues to the 
+north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 18400
+D2
+~
+~
+0 0 18402
+S
+#18402
+king's way~
+~
+0 0 3
+D0
+~
+~
+0 0 18401
+D2
+~
+~
+0 0 18407
+S
+#18403
+king's way~
+~
+0 0 3
+D0
+~
+~
+0 0 18404
+D2
+~
+~
+0 0 18408
+D3
+~
+~
+0 0 18417
+S
+#18404
+king's way~
+~
+0 0 3
+D0
+~
+~
+0 0 18405
+D1
+~
+~
+0 0 18415
+D2
+~
+~
+0 0 18403
+D3
+~
+~
+0 0 18423
+S
+#18405
+king's way~
+~
+0 0 3
+D0
+~
+~
+0 0 18406
+D1
+~
+~
+0 0 18413
+D2
+~
+~
+0 0 18404
+D3
+~
+~
+0 0 18426
+S
+#18406
+king's way~
+~
+0 262144 3
+D0
+~
+~
+0 0 18407
+D1
+~
+~
+0 0 18411
+D2
+~
+~
+0 0 18405
+D3
+~
+~
+0 0 18430
+S
+#18407
+king's way~
+~
+0 0 3
+D0
+~
+~
+0 0 18402
+D1
+~
+~
+0 0 18409
+D2
+~
+~
+0 0 18406
+D3
+~
+~
+0 0 18432
+S
+#18408
+mountain gate~
+~
+0 0 5
+D0
+~
+~
+0 0 18403
+M 110 H 110
+S
+#18409
+approaching forest~
+~
+0 0 2
+D1
+~
+~
+0 0 18410
+D2
+~
+~
+0 0 18411
+D3
+~
+~
+0 0 18407
+M 90 H 90
+S
+#18410
+edge of forest~
+~
+0 0 3
+D2
+~
+~
+0 0 18412
+D3
+~
+~
+0 0 18409
+S
+#18411
+approaching forest~
+~
+0 0 2
+D0
+~
+~
+0 0 18409
+D1
+~
+~
+0 0 18412
+D2
+~
+~
+0 0 18413
+D3
+~
+~
+0 0 18406
+M 90 H 90
+S
+#18412
+edge of forest~
+~
+0 0 3
+D0
+~
+~
+0 0 18410
+D2
+~
+~
+0 0 18414
+D3
+~
+~
+0 0 18411
+S
+#18413
+approaching forest~
+~
+0 0 2
+D0
+~
+~
+0 0 18411
+D1
+~
+~
+0 0 18414
+D2
+~
+~
+0 0 18415
+D3
+~
+~
+0 0 18405
+M 90 H 90
+S
+#18414
+edge of forest~
+~
+0 0 3
+D0
+~
+~
+0 0 18412
+D2
+~
+~
+0 0 18416
+D3
+~
+~
+0 0 18413
+S
+#18415
+approaching forest~
+~
+0 0 2
+D0
+~
+~
+0 0 18413
+D1
+~
+~
+0 0 18416
+D3
+~
+~
+0 0 18404
+M 90 H 90
+S
+#18416
+edge of forest~
+~
+0 0 3
+D0
+~
+~
+0 0 18414
+D3
+~
+~
+0 0 18415
+S
+#18417
+approaching mountain~
+~
+0 0 2
+D1
+~
+~
+0 0 18403
+D3
+~
+~
+0 0 18420
+M 90 H 90
+S
+#18418
+bell tower~
+~
+0 13 1
+D2
+~
+~
+0 0 18432
+D4
+~
+~
+0 0 18419
+S
+#18419
+bell tower~
+~
+0 0 1
+D5
+~
+~
+0 0 18418
+S
+#18420
+approaching mountain~
+~
+0 0 2
+D0
+~
+~
+0 0 18421
+D1
+~
+~
+0 0 18417
+D3
+~
+~
+0 0 18451
+M 90 H 90
+S
+#18421
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18422
+D2
+~
+~
+0 0 18420
+D3
+~
+~
+0 0 18443
+M 90 H 90
+S
+#18422
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18424
+D1
+~
+~
+0 0 18423
+D2
+~
+~
+0 0 18421
+D3
+~
+~
+0 0 18442
+M 90 H 90
+S
+#18423
+open field~
+~
+0 0 2
+D0
+~
+~
+0 0 18426
+D1
+~
+~
+0 0 18404
+D3
+~
+~
+0 0 18422
+M 90 H 90
+S
+#18424
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18425
+D2
+~
+~
+0 0 18422
+D3
+~
+~
+0 0 18441
+M 90 H 90
+S
+#18425
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18427
+D1
+~
+~
+0 0 18426
+D2
+~
+~
+0 0 18424
+D3
+~
+~
+0 0 18440
+M 90 H 90
+S
+#18426
+before spire~
+~
+0 0 2
+D1
+~
+~
+0 0 18405
+D2
+~
+~
+0 0 18423
+D3
+~
+~
+0 0 18425
+M 90 H 90
+S
+#18427
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18435
+D1
+~
+~
+0 0 18428
+D2
+~
+~
+0 0 18425
+D3
+~
+~
+0 0 18439
+M 90 H 90
+S
+#18428
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18429
+D3
+~
+~
+0 0 18427
+M 90 H 90
+S
+#18429
+On a Frozen Section of the Pond~
+Moving along carefully you try not to slip on the icy surface of Cryok
+pond.  The pond remains free of fallen snow for some reason and the ice is
+crystal clear without the slightest flaw or crack in it.  Looking down at
+the ice you can see what appears to be the tip of a long scaly tail directly
+below you frozen in the pond.  The tip of the tail seems to still be
+connected to the body of a dragon trapped in the ice beneath you.  Most
+likely the beast has long since died but still remains perfectly preserved
+in its icy tomb.  
+~
+0 0 6
+D0
+~
+~
+0 0 18431
+D1
+~
+~
+0 0 18430
+D2
+~
+~
+0 0 18428
+D3
+~
+~
+0 0 18435
+M 80 H 80
+S
+#18430
+edge of pond~
+~
+0 0 2
+D1
+~
+~
+0 0 18406
+D3
+~
+~
+0 0 18429
+M 90 H 90
+S
+#18431
+edge of pond~
+~
+0 0 2
+D0
+~
+~
+0 0 18432
+D2
+~
+~
+0 0 18429
+D3
+~
+~
+0 0 18434
+M 90 H 90
+S
+#0
+
+
+
+#SPECIALS
+M 18408 spec_cast_mage Load to: Gabeck
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+M 1 18400 6 18433 1
+M 1 18404 5 18439 1
+M 1 18406 4 18441 1
+O 0 18400 0 18442
+M 1 18404 5 18442 1
+M 1 18405 8 18444 1
+M 1 18404 5 18445 1
+M 1 18405 8 18452 1
+M 1 18400 6 18456 1
+M 1 18404 5 18457 1
+M 1 18400 6 18458 1
+M 1 18407 3 18459 1
+M 1 18405 8 18461 1
+M 1 18401 1 18462 1
+M 1 18402 1 18465 1
+M 1 18403 3 18465 3
+M 1 18407 3 18466 1
+M 1 18405 8 18469 1
+M 1 18405 8 18470 1
+M 1 18400 6 18472 1
+M 1 18400 6 18410 1
+M 1 18407 3 18411 1
+M 1 18406 4 18412 1
+M 1 18405 8 18412 1
+M 1 18405 8 18415 1
+M 1 18406 4 18416 1
+M 1 18408 1 18418 1
+M 1 18405 8 18420 1
+M 1 18400 6 18421 1
+M 1 18406 4 18425 1
+M 1 18404 5 18429 1
+M 1 18405 8 18430 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

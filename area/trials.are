@@ -1,0 +1,744 @@
+#AREADATA
+Name Trials of Bosco~
+Builders Teldin~
+VNUMs 21100 21399
+Credits [ ALL ]~
+Security 1
+Xcontinent 0
+Age 0
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#21100
+alderon high priest old man bosco~
+Alderon, the High Priest of Bosco~
+The High Priest of Bosco is here, surrounded by a glimmering white light.
+~
+Alderon is a tall, white-haired old man wearing white, long-sleeved
+robes.  Though he seems calm and docile, an aura of crackling power
+surrounds him at all times.  An amulet displaying the symbol of Bosco hangs
+from around his neck.  
+~
+human~
+ABGT HV 1000 0
+60 6 50d10+9500 1d1+99 12d12+85 divine
+-67 -67 -67 -67
+FHK AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#21101
+chanting priest bosco~
+a chanting priest~
+A priest of Bosco stands here, chanting continuously.
+~
+The priest is hooded from head to toe in white robes, with the symbol of
+Bosco on an amulet around his neck.  He chants constantly in the language of
+the dragons.  
+~
+human~
+ABQ H 1000 0
+45 4 25d10+3000 1d1+99 8d4+16 none
+-15 -15 -15 -15
+EIU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#21102
+marble dragon statue~
+a marble dragon statue~
+A large statue in the shape of a dragon, made of {Wmarble{x, stands here.
+~
+This statue is huge!  Made entirely out of white, mottled marble, the
+being seems to have been created by some kind of powerful magic.  Perhaps
+even created by Bosco himself!  In either case it looks quite dangerous,
+guarding the silver Temple gateway against enemies.  
+~
+white dragon~
+ABOST DFHJTVZ 660 0
+56 10 100d10+7500 1d1+99 10d7+34 claw
+-45 -42 -45 -10
+CDFHIKLQ AB BCDEI H
+stand stand none 5000
+ABGHIMVZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+#21103
+onyx dragon statue~
+an onyx dragon statue~
+A tough-looking dragon statue made of {Donyx{x stands guard.
+~
+This statue is huge!  Made entirely out of black, mottled onyx, the
+being seems to have been created by some kind of powerful magic.  Perhaps
+even created by Bosco himself!  In either case it looks quite dangerous,
+guarding the silver Temple gateway against enemies.  
+~
+red dragon~
+ABOST DFHJTVZ 660 0
+56 10 100d10+7500 1d1+99 10d7+34 none
+-45 -42 -45 -10
+CDFHIKLQ AB BCDEH I
+stand stand none 5000
+ABGHIMVZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+#21104
+Alamir angel bosco guardian alabaster being white light~
+Alamir, Angel of Bosco~
+A tall, alabaster-skinned being glowing with white light stands here serenely.
+~
+Alamir stands perhaps seven feet tall.  The blonde being is more
+beautiful than any mortal, a faint glow shining from all around him.  He
+wears thick white robes, and the symbol of Bosco is embroidered into the
+front of it.  He carries a flaming white longsword.  
+~
+human~
+ABST DFHLTV 1000 0
+60 40 50d10+9500 1d1+99 8d8+45 divine
+-30 -30 -30 -30
+0 ABNab IJO M
+stand stand male 9000
+AHMV ABCDEFGHIJK large 0 the guilds~
+#21105
+priest high temple bosco~
+a priest of the Temple of Bosco~
+A priest in white robes is here, wandering about the Temple.
+~
+The priest is hooded from head to toe in white robes, with the symbol of
+Bosco on an amulet around his neck.  He chants constantly in the language of
+the dragons.  
+~
+human~
+AQ H 1000 0
+45 4 25d10+3000 1d1+99 8d4+16 none
+-15 -15 -15 -15
+EIU AB 0 0
+stand stand male 4500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#21390
+tourney healer~
+the official tourney healer~
+A healer is here to heal your wounds.
+~
+I am but a simple man...
+~
+undead~
+ABOade HZ 0 0
+50 5 50d10+4500 1d1+99 5d8+19 none
+-20 -20 -20 -20
+CF ABCD I HNS
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#21100
+old oak tree~
+the old oak tree~
+{yA huge old oak tree sits in the middle of the clearing.{x~
+iron~
+portal Ye 0
+100 1 0 21101 0
+0 0 0 P
+#21101
+altar bosco marble~
+a marble altar~
+A large marble altar to Bosco sits in the middle of the chamber.~
+marble~
+container Ye P
+1000 0 0 1000 100
+0 0 0 P
+E
+altar bosco marble~
+The altar is a large, marble structure with several stone steps leading
+to a central pillar, and a wide marble bowl for offerings.  Runes are
+scrawled over every surface, glimmering with holy power.  
+~
+#21102
+inactive portal~
+an inactive portal~
+A large round portal stands here, inactive and cold.~
+iron~
+trash Ye P
+0 0 0 0 0
+0 0 0 P
+E
+large inactive portal~
+The portal's runes are unmoving and the thing looks cold.  It's huge,
+though, taking up nearly the entire back wall.  
+~
+#21103
+active portal~
+an active portal~
+An active portal is here, humming and glowing ominously.~
+iron~
+portal Ye 0
+100 1 0 21104 0
+0 0 0 P
+#21104
+minor amulet bosco~
+a minor amulet of Bosco~
+A small silver amulet of Bosco rests here.~
+silver~
+jewelry 0 AC
+0 0 0 0 0
+45 3 9500 P
+A
+4 1  
+A
+3 2  
+#21105
+onyx stone dragon scale black~
+an {Donyx{x stone dragon scale~
+A huge black dragon scale sits on the ground.~
+onyx~
+armor Ye AJ
+9 12 9 3 0
+44 120 3500 P
+A
+2 1  
+#21106
+marble stone dragon scale white~
+a {Wmarble{x stone dragon scale~
+A huge white dragon scale rests here.~
+marble~
+armor Ye AJ
+9 12 9 3 0
+44 120 3500 P
+A
+19 2  
+A
+20 -4  
+#21107
+white flaming longsword sword~
+a flaming {Wwhite{x longsword~
+A pure, glittering white longsword is here, flames emanating from the blade.~
+marble~
+weapon AIKYe AN
+sword 5 8 divine A
+50 150 12000 P
+A
+19 3  
+#21390
+Lemonade Fountain Stone Angel~
+a stone fountain of {ylemonade{x~
+A fountain in the center of the room has a stone angel pouring {ylemonade{x from a bucket.~
+stone~
+fountain 0 0
+0 0 'lemonade' 0 0
+0 3000 0 P
+#21391
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#21392
+raft~
+a raft~
+A raft has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 750 400 A
+E
+raft~
+The raft looks very primitive. 
+~
+#21393
+no name~
+(no short description)~
+~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#21100
+Before the Old Oak Tree~
+The line of stalwart trees breaks into a clearing here, expanding into
+green shrubland.  Dominating the forest glade is an enormous old oak tree,
+looming high overhead.  Leafy branches expand out nearly to the edges of the
+clearing itself, forming a dark shade over the area itself.  It appears that
+a set of stairs and a doorway have been carved into the trunk of the huge
+oak, with ancient runes surrounding the portal.  
+~
+0 4 3
+S
+#21101
+Inside the Old Oak~
+The tree appears to have several chambers hollowed out inside!  Torches
+line the walls, though they must be magic since there's no heat and no black
+soot marks, just flickering flames.  To the east stands the thick entrance
+doorway, leading back out into the central clearing.  There's a simple
+spiral staircase carved deeper into the tree itself, leading downwards.  The
+sound of faint chanting comes from that direction and the scent of incense
+mingles with the smell of the ancient tree.  
+~
+0 8 0
+D1
+~
+~
+0 0 21100
+D5
+~
+~
+0 0 21102
+S
+#21102
+The Oaken Heart Chamber~
+Non-burning torches line the walls of this circular chamber, set within
+elegantly carved sconces.  Engraved into the walls itself are many designs
+and works of art, all depicting various Terran races - humans, elves,
+dwarves, giants, and dragons figure prominently in them all.  To the west, a
+chanting noise grows louder, while an ornate staircase has been carved
+around the inner wall of the tree to lead back to the surface landing.  
+~
+0 8 0
+D3
+~
+~
+0 0 21103
+D4
+~
+~
+0 0 21101
+S
+#21103
+The Ritual Chamber~
+This circular chamber must have been carved out of one of the old oak's
+roots; the walls, ceiling and floor are lined with long bands of darker
+wood, looking almost like the inside of a giant worm.  Torches flicker in
+holders along the walls, held in place by shining silver holders.  Two items
+of interest are in the chamber itself - a tall marble altar dominates the
+room, first and foremost, and a large grey portal beyond that.  The entire
+room itself is covered in thick, bright runes constantly swirling with
+magical energy.  
+~
+0 8 0
+D1
+~
+~
+0 0 21102
+S
+#21104
+Entrance to Bosco's Temple~
+Bright light shines from everywhere and nowhere.  This place seems to be
+beyond time and space, hovering within nothingness - beyond a wide marble
+platform there rests only white light and nothing else, as if it sits on a
+void.  To the north lies the only exit - the platform itself heads towards
+an enormous structure in the distance, one of glittering white towers and
+strong marble walls.  An impossibly ornate, shimmering silver gate leads
+into it, guarded by a pair of huge marble statues in the shape of dragons.  
+~
+0 0 0
+D0
+~
+~
+1 0 21105
+S
+#21105
+Entrance Hall of Bosco's Temple~
+Every surface of this temple is carved from glittering marble; the walls,
+ceiling, and floor are all intricately designed and crafted out of the
+mottled-white material.  The ceilings are all high and vaulted, and every
+surface is inlaid with runes or engravings depicting the power of Bosco. 
+Southwards leads back to the main entranceway and a set of double doors,
+while north leads deeper into the main hall proper.  
+~
+0 8 0
+D0
+~
+~
+0 0 21106
+D2
+~
+~
+1 0 21104
+S
+#21106
+Grand Hall of the Temple~
+The temple hall expands from the south, leading towards a large, open
+central chamber.  Every surface is made from brilliant, tough marble, even
+the flooring.  Balls of continual light illuminate the place, hovering about
+the walls and ceilings, and a myriad of tapestries, paintings, and
+engravings cover every surface.  
+~
+0 8 0
+D0
+~
+~
+0 0 21109
+D1
+~
+~
+0 0 21108
+D2
+~
+~
+0 0 21105
+D3
+~
+~
+0 0 21107
+S
+#21107
+Southwest Wall of the Temple~
+This section of the grand Temple of Bosco has been dedicated to frescoes
+and tapestries depicting dragons of all shapes and sizes and colors.  Many
+dragons that do not actually exist are depicted, too, such as gold and
+silver dragons, and more exotic ones like astral dragons.  All are in poses
+of great majesty and regalness.  
+~
+0 8 0
+D0
+~
+~
+0 0 21110
+D1
+~
+~
+0 0 21106
+S
+#21108
+Southeast Corner of the Temple~
+This area of the Temple of Bosco has been dedicated to depicting the
+first Dragon War, with large images of dragons and other Terran Races, like
+elves and dwarves, in combat with various Dominian creatures.  All the
+Dominian creatures are depicted as cowering, ugly, and evil while the Terran
+ones are beautiful and powerful-looking.  
+~
+0 8 0
+D0
+~
+~
+0 0 21111
+D3
+~
+~
+0 0 21106
+S
+#21109
+Grand Hall of the Temple~
+This central area of Bosco's Temple appears to be a meeting area. 
+Elegant stone benches and chairs are carefully and tastefully arranged
+around a central pool and garden, with pictures of dragons and other Terran
+races inscribed into every available surface.  
+~
+0 8 0
+D0
+~
+~
+0 0 21112
+D1
+~
+~
+0 0 21111
+D2
+~
+~
+0 0 21106
+D3
+~
+~
+0 0 21110
+S
+#21110
+West Wall of the Temple~
+The walls, ceiling, and floor of this section of the Temple are carefully
+and intricately carved with a huge, elaborate map of Terra itself, with
+Midgaard in the center.  Dominia is completely missing from the maps.  It's
+of breathtaking quality, even with individual trees carefully carved in when
+one looks close enough.  
+~
+0 8 0
+D0
+~
+~
+0 0 21113
+D1
+~
+~
+0 0 21109
+D2
+~
+~
+0 0 21107
+S
+#21111
+East Wall of the Temple~
+Plainly this section of the Temple of Bosco is set up as a healing
+chamber; various elaborately-cushioned beds are arranged at the far east
+wall, with healers moving here and there to ensure anyone wandering in is
+well-cared-for.  Constant chanting from the nearby priests tends to drift
+over this section, forming a sort of chorus to lull people in need of rest
+to a deep sleep.  
+~
+0 8 0
+D0
+~
+~
+0 0 21114
+D2
+~
+~
+0 0 21108
+D3
+~
+~
+0 0 21109
+M 150 H 150
+S
+#21112
+Grand Hall of the Temple~
+The Temple here is dedicated mostly to the ceiling - much of the artwork
+is actually carved and inlaid in the high, vaulted marble ceiling of the
+place, depicting enormous images of dragons in flight.  Indeed, some of them
+look so real it would be difficult to tell them apart from real dragons, if
+it weren't for their size.  To the northwards there stands an enormous
+marble gateway.  
+~
+0 8 0
+D0
+~
+~
+0 0 21115
+D1
+~
+~
+0 0 21114
+D2
+~
+~
+0 0 21109
+D3
+~
+~
+0 0 21113
+S
+#21113
+Northwest Corner of the Temple~
+This area of the Temple is dominated by a huge, elegant marble fountain,
+constantly spraying iridescent liquid into the air.  Several tiny dragons
+are always flitting about the rim of it, sipping from it and bathing in the
+large stone bowl.  The entire area is illuminated via a giant glass
+skylight, though it's a bit of a mystery where the light is coming from
+since there's no sky above it, just white nothingness.  
+~
+0 8 0
+D1
+~
+~
+0 0 21112
+D2
+~
+~
+0 0 21110
+S
+#21114
+Northeast Wall of the Temple~
+This appears, on first glance, to be a section devoted to craftsmanship -
+there's even a small forge and workshop set up in the far northeast corner
+of the Temple.  Long shelves full of goods are set up as well, all of them
+depicting dragons or Bosco in some form or another.  Priests and worshippers
+mingle through the place, murmuring to the acolyte vendors to make their
+purchases.  
+~
+0 8 0
+D2
+~
+~
+0 0 21111
+D3
+~
+~
+0 0 21112
+S
+#21115
+The Alabaster Gateway~
+Dominating the north wall of this section of the Temple is an enormous
+arch.  This gate is made of pure, glimmering white alabaster rock, carved
+with millions of glowing runes.  The sigil of Bosco is omnipresent, and the
+place echoes with a deep, lingering hum.  Light spills into the chamber from
+balls of glowing light set in the walls.  
+~
+0 8 0
+D2
+~
+~
+0 0 21112
+S
+#21385
+North Side of the Mountain~
+This is a strange sort of place.  Everything's blurred and all the sounds
+are muffled, as if underwater.  To the south is the only landmark - an
+enormous mountain made of pieces of bone. 
+~
+0 269492240 0
+D2
+~
+~
+0 0 21391
+S
+#21390
+The Mountain of Bones~
+This room seems..  Wrong, somehow.  On first glance it's a fairly
+ordinary, normal-looking stone chamber.  Close inspection though reveals the
+stone is in fact greyish bones, carved into the shape of a room.  A single
+door least eastwards.  
+~
+0 268444692 3
+D1
+~
+~
+0 0 21391
+M 300 H 300
+S
+#21391
+Before the Mountain of Bones~
+This is a quite odd place..  A huge mountain made of bones.  Large ones,
+small ones, all just piled up in a heap so high it seems to reach up
+forever.  
+~
+0 269492240 0
+D0
+~
+~
+0 0 21385
+D1
+~
+~
+0 0 21392
+D2
+~
+~
+0 0 21394
+D3
+~
+~
+0 0 21393
+D4
+~
+~
+0 0 21396
+S
+#21392
+East Side of the Mountain~
+This is a strange sort of place.  Everything's blurred and all the sounds
+are muffled, as if underwater.  To the west is the only landmark - an
+enormous mountain made of pieces of bone. 
+~
+0 269492240 0
+D3
+~
+~
+0 0 21391
+S
+#21393
+West Side of the Mountain~
+This is a strange sort of place.  Everything's blurred and all the sounds
+are muffled, as if underwater.  To the east is the only landmark - an
+enormous mountain made of pieces of bone.  
+~
+0 269492240 0
+D1
+~
+~
+0 0 21391
+S
+#21394
+South Side of the Mountain~
+This is a strange sort of place.  Everything's blurred and all the sounds
+are muffled, as if underwater.  To the north is the only landmark - an
+enormous mountain made of pieces of bone. 
+~
+0 269492240 0
+D0
+~
+~
+0 0 21391
+S
+#21396
+Top of the Mountain~
+The top of the mountain!  It's not easy to move around up here, since the
+bones shift and move easily and shatter like twigs when stepped on.  In any
+case it's a fine view..  Of nothing at all, as mists surround the mountain. 
+~
+0 269492240 0
+D5
+~
+~
+0 0 21391
+S
+#0
+
+
+
+#SPECIALS
+M 21102 spec_breath_frost Load to: a marble dragon statue
+M 21103 spec_breath_fire Load to: an onyx dragon statue
+M 21104 spec_unremort Load to: Alamir, Angel of Bosco
+M 21105 spec_cast_cleric Load to: a priest of the Temple of Bosco
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 21104 0 1
+D 0 21105 2 1
+C 100 percent for next reset
+O 0 21100 0 21100
+C 100 percent for next reset
+M 1 21101 5 21103 5
+E 0 21104 0 3
+C 100 percent for next reset
+M 1 21100 1 21103 1
+C 100 percent for next reset
+O 0 21101 0 21103
+C 100 percent for next reset
+O 0 21102 0 21103
+C 100 percent for next reset
+M 1 21103 1 21104 1
+E 0 21105 0 5
+C 100 percent for next reset
+M 1 21102 1 21104 1
+E 0 21106 0 5
+C 100 percent for next reset
+M 1 21104 1 21105 1
+E 0 21107 0 16
+C 100 percent for next reset
+M 1 21105 1 21107 4
+C 100 percent for next reset
+M 1 21105 1 21108 4
+C 100 percent for next reset
+M 1 21105 1 21113 4
+C 100 percent for next reset
+M 1 21105 1 21114 4
+O 0 21390 0 21390
+M 1 21390 1 21390 1
+G 0 21391 0
+G 0 21392 0
+S
+
+
+
+#SHOPS
+21390 0 0 0 0 0 200 200 0 24
+0
+
+
+
+#$

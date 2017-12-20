@@ -1,0 +1,7031 @@
+#AREADATA
+Name Palankcaren~
+Builders Avacar~
+VNUMs 15400 15599
+Credits { None} Avacar      Palankcaren~
+Security 1
+Xcontinent 0
+Age 14
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#15400
+a Gliglantari~
+A Gliglantari~
+A Gliglantari
+~
+A large gliglantari stands before you.
+It has claws and fangs, scales running along its back.
+It could have been of orcish origins, but no one is sure.
+It is very ugly, and drooles while panting.
+~
+deamon~
+AFR DFJPTa -1000 0
+30 3 6d12+20 1d1+100 4d6+8 claw
+-9 -9 -9 -9
+CFHKLR BK H NSY
+stand stand male 5000
+ABCGZa ABCDEFHJKQUVX medium flesh the guilds~
+#15401
+guardian good palankcaren~
+A Guardian of Palankcaren~
+Guardian of Palankcaren is here waiting for command.
+~
+A tall elf in shining armor is here, preparing to open the portal to
+Palankcaren.  Simply say the word, and you're there.  
+~
+elf~
+AGY DHJO 1000 0
+52 5 50d10+5500 1d1+100 6d7+20 smother
+-22 -22 -22 -22
+0 AB ABCNOPTXY Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium flesh the guilds~
+M speech 15401 palankcaren~
+M speech 15401 Palankcaren~
+#15402
+chamber maid~
+A Chamber Maid~
+A chamber maid is here, cleaning the room.
+~
+A chamber maid is here, sweeping the floor.  She is an elf, of average height, wearing
+peasant's clothing.  She has a necklace with the symbol of the Solotar around her neck.  The
+Solotar are very good at healing.
+~
+elf~
+ABVa DJ 0 0
+45 4 25d10+3000 1d1+100 8d4+16 none
+-15 -15 -15 -15
+0 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M exall 15404 3~
+M grall 15403 100~
+M speech 15404 I would like to leave~
+M random 15403 1~
+M speech 15404 Can I leave~
+M speech 15404 can I leave~
+M speech 15404 let me go~
+M speech 15404 leave~
+#15403
+lone wolf innkeeper~
+{GAlex{x, {GThe Lone Wolf{x~
+{GAlex, The Lone Wolf{x is here, running the tavern.
+~
+A tall Monatarian elf stands before you.  He is wearing a nice silk shirt and pants.
+He is busy cleaning up the bar, and talking to customers.
+~
+elf~
+ABGV J 0 0
+51 5 50d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -21
+0 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 15402 40~
+#15404
+Phil Jeweller~
+{DPhil{x, the {YJeweller{x~
+{x
+~
+Before you stands an elf well weathered through the ages.  He is
+obviously a Terratar.  His skin has a leathery-earthy look it it, distinct
+to that species of elf.  When he looks at you, a sudden breeze seems to lift
+open your pockets and feel around for gems...  You wonder how strong an
+elementalist he is.  He is wearing a blue silk shirt, and green stripped
+pants, with a jewler's apron on top.  
+~
+elf~
+ABG J 0 0
+54 5 50d10+6500 1d1+100 7d6+22 none
+-24 -24 -24 -24
+0 KZ B Z
+stand stand male 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 15407 2~
+M random 15407 1~
+#15405
+banking clerk~
+A banking Clerk~
+A banking clerk is here, ready to serve you.
+~
+The Clerk is probably a Sonatar, since his eyes glow an odd yellowish.  He probably
+knew you were coming before you did.  He is wearing a brown clerical outfit, and his pen 
+is ready to begin writing on paper at hand.
+~
+elf~
+ABGde J 0 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 Z B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15406
+grathonir Grathonir merchant~
+Grathonir the merchant~
+Grathonir the merchant is here, walking in circles.
+~
+~
+elf~
+ABCGR HJ 1000 0
+55 25 50d10+7000 2d100+300 10d4+23 bolt
+-25 -25 -25 -25
+EFIK AXZ B Z
+stand stand male 10000
+ACHMV ABCDEFGHIJK large 0 the guilds~
+M speech 15445 time to leave~
+M greet 15413 60~
+M death 15410 100~
+M kill 15411 80~
+#15407
+Ramthor, the DragonSlayer~
+Ramthor, the DragonSlayer~
+Ramthor, the Dragonslayer is here, sharpening a spear.
+~
+Ramthor is a very tall, muscular Monatar.  He always walks around in full battle
+armor, in case of emergencies.  This includes full armor, but also at least 4
+different weapons, and 2 spears at all times.
+~
+elf~
+ABGT J -1000 0
+52 20 20d1000+10000 1d1+100 6d7+20 pierce
+-22 -22 -22 -22
+DEGNO 0 B Z
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M give 15431 all~
+M death 15410 80~
+M greet 15405 100~
+M kill 15411 60~
+#15408
+a noble guard~
+A Noble Guard~
+A Noble guard is here, guarding the people.
+~
+These guards are the Elite army of the Palankcarians.  They stand watch
+over the city from the Valocarian High Keep and will come down to help
+citizens when called.  
+~
+elf~
+AT HJV 1000 0
+59 25 5d200+10000 1d1+100 10d5+30 thrust
+-29 -29 -29 -29
+EFIKLRTU HK BDZ EPXZ
+stand stand none 20000
+AHMV ABCDEFGHIJK large 0 the guilds~
+M death 15410 100~
+#15409
+quithor blacksmith smith~
+Quithor~
+Quithor, the Blacksmith is here, pounding his anvil.
+~
+Quithor is a terratar.  You can tell from the leathery-earthy skin.
+He is wearing a blacksmith's smock, made of leather, and filled
+with the tools of his trade.  His arms are large and muscular,
+and his eyes have a deep look of concentration.
+~
+elf~
+AB J 1000 0
+54 15 50d10+6500 1d1+100 7d6+22 pound
+-24 -24 -24 -24
+0 B B Z
+stand stand none 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M death 15410 100~
+M random 15432 1~
+M speech 15433 drop it~
+M speech 15433 DROP IT~
+M bribe 15434 5000~
+M kill 15411 80~
+#15410
+The Weaponsmith~
+The weaponsmith~
+The weaponsmith is here, trying to sharpen a dagger.
+~
+The weaponsmith is a puny little elf.  You can't tell what type
+he is.  He probably got into the weapon business for the profit,
+since he obviously has no knowledge of weapons at all.
+~
+elf~
+AB J 0 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 15408 10~
+#15411
+test mob~
+a test mob~
+A test mob is here
+~
+~
+elf~
+AG J 0 0
+20 2 3d9+333 1d1+99 2d8+5 none
+-4 -4 -4 -4
+0 Q B Z
+rest rest none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 15595 test~
+#15412
+palace guard~
+A Palace Guard~
+A Palace Guard is here, watching the Gates.
+~
+These Solotar are the elite guards of the city... do NOT attack
+them if you value your life.  They will let no one enter the
+Castle under any conditions.
+~
+elf~
+ABT HJV 1000 0
+59 25 20d50+8000 1d1+100 10d5+30 none
+-29 -29 -29 -29
+EFIKLRTU HKT BDZ EPXZ
+stand stand none 20000
+AHMV ABCDEFGHIJK large 0 the guilds~
+M death 15410 100~
+#15413
+Hector bartender~
+Hector the bartender~
+Hector the bartender is here, eyeing you with suspicion.
+~
+Hector is a rough looking elf, Solotarian by the looks of him.  He is
+wearing an apron covered in grease, and is slowly pretending to clean the
+place.  You notice a strange ring on his finger.  
+~
+elf~
+ABG J 0 0
+0 0 1d5+20 20d3+0 1d2+3 none
+0 0 0 0
+0 0 BD Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15414
+Mentar cartwright~
+Mentar the Cartwright~
+The Cartwright is here, curving wood
+~
+Mentar is a rather strong looking Terratarian.  He has thick arms, and
+wears a belt with numerous wood working tools.  He takes great pride in his
+work, and will not part with it easily.  
+~
+elf~
+ABG J 0 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 CZ B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 15419 I need a wheel~
+M give 15420 15435~
+M bribe 15420 50000~
+M kill 15411 60~
+M greet 15418 80~
+M speech 15419 wheel~
+M death 15410 100~
+#15415
+baltin merchant~
+Baltin the Pier Merchant~
+Baltin, the pier merchant is here, looking panicked.
+~
+Baltin is a rather slim sonotarian.  He is wearing
+fine silks, and carries a clipboard with shipment
+information.  He's looking rather distressed.
+~
+elf~
+ABG DJ 0 0
+35 3 20d10+4000 1d1+100 4d7+11 none
+-11 -11 -11 -11
+0 0 B Z
+stand stand male 15000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M delay 15416 100~
+M give 15415 15431~
+M speech 15415 guard you~
+M speech 15415 Yes~
+M speech 15415 yes~
+M greet 15414 60~
+M random 15414 1~
+M death 15410 100~
+#15416
+bandit masked thief elf~
+The masked bandit~
+A bandit is here, trying to steal the wagon's goods!  Kill it!
+~
+~
+elf~
+ABGS JVZ -1000 0
+25 6 5d10+550 1d1+100 3d10+10 charge
+-7 -7 -7 -7
+BCDFIU 0 B Z
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 15417 30~
+#15417
+melanan wandering merchant~
+Melanan, the wandering Merchant~
+Melanan is here, throwing her wares in your face.
+~
+Melanan is a wandering merchant.  She appears Monatarian of race.  Unlike
+some of the other merchants of the market, she tends to walk around while
+selling items.  You can find her almost anywhere in the city.  
+~
+elf~
+AG J 0 0
+20 2 3d9+333 1d1+100 2d8+5 none
+-4 -4 -4 -4
+0 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15418
+Waltonahir elf stablemaster~
+Waltonahir, the park Stablemaster~
+Waltonahir is here, minding the horses.
+~
+Waltonahir is a Solotar, if you've ever seen one.  They are a fairly
+reclusive people, prefering solutide to company of others.  Just looking in
+his green eyes, you can see he more than knows horses, he more than
+understands horses, he IS a horse when he needs to be.  He's that focused on
+the job.  Well, when he's not drinking.  He tends to do that a fair bit,
+and although he has a fine taste, he's also known to abuse too.  Don't
+worry, he never takes it out on the horses.  
+~
+elf~
+AB J 0 0
+52 5 50d10+5500 1d1+100 6d7+20 none
+-22 -22 -22 -22
+0 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 15421 ride~
+M speech 15421 Sell me a horse~
+M speech 15421 sell me a horse~
+M speech 15421 Give me a horse~
+M speech 15421 give me a horse~
+M speech 15421 can i have a horse~
+M speech 15421 can I have a horse~
+M speech 15421 may I have a horse~
+M speech 15421 May I have a horse~
+M speech 15421 May i have a horse~
+M speech 15421 Can i have a horse~
+M speech 15421 Can I have a horse~
+M speech 15421 I need a horse~
+M speech 15421 i need a horse~
+M speech 15421 i want a horse~
+M speech 15421 I want a horse~
+M give 15423 15436~
+M greet 15422 50~
+M death 15410 100~
+M speech 15421 buy a horse~
+M kill 15411 70~
+#15419
+a horse~
+a park horse~
+A park horse prances by you.
+~
+This is a majestic white horse.  It lives in the park on the east side of
+the island, and is free to come and go where it pleases.  Some are public
+horses, while others are owned by citizens.  
+~
+bear~
+AG V 0 0
+45 4 25d10+3000 1d1+100 8d4+16 bite
+-15 -15 -15 -15
+DEFIO 0 EI 0
+stand stand female 0
+AGV ABCDEFHJKUV medium 0 the guilds~
+#15420
+vineculteralist salrudona~
+Salrudona, the Vineculteralist~
+Salrudona is here, running some wine through a filter.
+~
+A rather large Monatarian is she.  She wears an apron covered in grape
+juice stains, and holds a wooden spoon in her hand.  
+~
+elf~
+AB J 0 0
+49 4 50d10+4000 1d1+100 4d10+18 smash
+-19 -19 -19 -19
+0 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15421
+Milaren~
+Milaren~
+Milaren, a desk clerk sits here, chewing her quill.
+~
+A pretty Sonatar sits here, quietly working on some important-looking
+documents.  She's wearing the city uniform, which is to say, rather plain
+and functional clothing.  
+~
+elf~
+AB J 1000 0
+20 2 3d9+333 1d1+100 2d8+5 none
+-4 -4 -4 -4
+0 Z B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M death 15410 100~
+M greet 15424 70~
+M speech 15425 sale~
+M speech 15425 Sale~
+M speech 15425 102938 Clima~
+M speech 15425 102938 clima~
+M give 15426 15437~
+M speech 15425 buy~
+M kill 15411 90~
+#15422
+ilnosar elf~
+Ilnosar~
+Ilnosar, a Monatarian is here, looking carefully at something.
+~
+Ilnosar is a run of the mill Monatar.  He is obviously not wealthy, as
+his clothes could be better maintained.  The house he lives in is rather
+humble.  
+~
+elf~
+AB J -250 0
+42 4 25d10+2250 1d1+100 3d12+14 pound
+-14 -14 -14 -14
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M bribe 15428 50000~
+M give 15428 15438~
+M death 15410 100~
+M greet 15427 100~
+M kill 15411 70~
+#15423
+child elf kid boy~
+The Terratarian Boy~
+A cute, but easily distracted child is here, playing with something shiny.
+~
+This is a terratarian child, around 8 years old.  Small flames flicker
+into and out of existance around him, showing his weak elemental powers
+coming into their own.  He's playing with something bright and shiney, but
+you can't make out what it is.  
+~
+elf~
+A J 700 0
+10 1 2d7+121 1d1+100 2d4+2 none
+1 1 1 1
+0 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 15429 80~
+M give 15430 15440~
+M death 15410 100~
+M kill 15411 100~
+#15424
+Phil Jeweller~
+{DPhil{x, the {YJeweller{x~
+{DPhil{x, the {YJeweller{x is here, polishing a ring.
+~
+Before you stands an elf well weathered through the ages.  He is
+obviously a Terratar.  His skin has a leathery-earthy look it it, distinct
+to that species of elf.  When he looks at you, a sudden breeze seems to lift
+open your pockets and feel around for gems...  You wonder how strong an
+elementalist he is.  He is wearing a blue silk shirt, and green stripped
+pants, with a jewler's apron on top.  
+~
+elf~
+ABG J 0 0
+54 5 50d10+6500 1d1+100 7d6+22 none
+-24 -24 -24 -24
+0 KZ B Z
+stand stand male 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M delay 15435 100~
+M bribe 15435 20000~
+M kill 15436 100~
+#15425
+page boy elf kid~
+Avacar's Page~
+Avacar's page paces in the corner, close to tears.
+~
+A small elf, Monatarian by the looks of his eyes.  He's dressed in the
+uniform of the Valocarian High Keep.  He appears to be holding the hilt of
+what should have been a very powerful-looking sword.  The sword, though,
+appears to have been broken.  
+~
+elf~
+AB J 0 0
+38 3 10d10+1600 1d1+100 5d6+12 none
+-13 -13 -13 -13
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 15437 90~
+M give 15439 all~
+M death 15410 100~
+M kill 15411 80~
+#15426
+grathonir Grathonir merchant~
+Grathonir the merchant~
+Grathonir the merchant is here, walking in circles.
+~
+Grathonir is a Monatar, and a merchant at that.  He looks a bit more relaxed
+now that Baltin has finally showed up.  He's taken the wares from the merchant
+wagon and has them on display for you.
+~
+elf~
+ABCGR HJ 1000 0
+55 25 50d10+7000 2d100+300 10d4+23 none
+-25 -25 -25 -25
+EFIK AXZ B Z
+stand stand male 10000
+ACHMV ABCDEFGHIJK large 0 the guilds~
+M random 15438 5~
+M kill 15411 70~
+M death 15410 100~
+#15427
+miner shopkeeper elf~
+A short Miner~
+A short elf sits behind the counter.
+~
+~
+elf~
+AB J 0 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 0 B Z
+sit sit none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15428
+guard valocarian acolyte elf~
+A Valocarian Guard~
+A tall, elven Guard watches you approach, and prevents you from passing.
+~
+Wearing a ceremonial cloak over its armor and weapons, this guard has a
+rough and tried look to it.  
+~
+elf~
+AB J 0 0
+30 3 6d12+853 1d1+100 4d6+8 none
+-9 -9 -9 -9
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M exit 15440 0~
+#15429
+terratarian high priest~
+The Terratarian High Priest~
+The Terratarian High Priest is concentrating hard on a bubble of water.
+~
+This is the Terratarian High Priest.  His skin is dark like the Earth,
+and rough like a rock.  He wears simple robes woven from cotton.  They bear
+the symbol of the Terratar on the back.  He is sitting down in front of a
+small flame, in which suspends a bubble of water, which does not seem to
+evaporate.  
+~
+elf~
+A J 1000 0
+52 5 50d10+5500 1d1+100 6d7+20 none
+-22 -22 -22 -22
+0 0 B Z
+sit sit male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M delay 15444 100~
+M give 15444 all~
+M death 15410 100~
+M kill 15411 80~
+#15430
+Sonatarian Prophet elf~
+A Sonatarian Prophetess~
+A Sonatarian Prophetess Proclaims the future
+~
+This is a female Sonatarian, wearing Prophets' robes.  She is evidently
+strong in the powers of her race, as she has a whip of fire at her side, the
+sign of future justice.  
+~
+elf~
+A J 0 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 Z B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 15442 100~
+M death 15410 100~
+M speech 15443 whip~
+M delay 15443 100~
+M kill 15411 100~
+#15431
+Sonatarian High Prophet elf~
+The Sonatarian High Prophet~
+A tall elf in long robes is scrying through a glass.
+~
+The Sonotarian High Prophet is a tall man who is wearing flowing yellow
+robes, with the Sunburst of the prophets on his back.  He's continually
+staring deeply at nothing, or at least that what it looks like to you.  
+~
+elf~
+AB J 0 0
+40 4 15d10+1850 1d1+100 4d8+13 blast
+-13 -13 -13 -13
+0 Z B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M delay 15455 100~
+M give 15455 15465~
+M death 15410 100~
+M kill 15411 80~
+M speech 15446 fire~
+M speech 15447 future~
+#15432
+Chandler Arithal Elf~
+Arithal, the Chandler~
+A tall elf is is dipping string into hot wax.
+~
+Arithal is the Chandler for the City.  She makes all the candles and
+isence used by everyone.  She's evidently a Solotar, as she's quiet and
+reserved, yet strangely focused.  
+~
+elf~
+AB J 0 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M give 15453 all~
+M delay 15453 100~
+M speech 15450 incense~
+M death 15410 100~
+M kill 15411 80~
+#15433
+girl solotarian elf kid~
+a small solotarian girl~
+A small solotarian girl is here, close to tears.
+~
+This is a small solotarian girl.  Her deep eyes seem to penetrate your
+sole, and, although she is obviously distraught, her composure is still
+strong.  She's wearing peasants clothing (which is to say made of silver,
+instead of pure gold).  
+~
+elf~
+AG J 0 0
+20 2 3d9+333 1d1+100 2d8+5 none
+-4 -4 -4 -4
+0 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M kill 15411 100~
+M death 15410 100~
+M give 15449 15462~
+M greet 15448 70~
+M random 15448 1~
+#15434
+Sonatarian Prophet elf~
+A Sonatarian~
+A Sonatarian elf is scrying in one of the mirrors
+~
+This is a male Sonatarian.  He isn't wearing the robes of a prophet but
+his eyes have the knowing look, and a slight sheen which gives away his
+birthright.  He probably is weaker in his natural power, as he seems to need
+to use incense to scry.  
+~
+elf~
+AB J 0 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 Z B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 15446 fire~
+M give 15452 15437~
+M speech 15451 scry~
+M speech 15451 incense~
+M death 15410 100~
+M kill 15411 80~
+#15435
+Chandler Arithal~
+Arithal, the Chandler~
+A tall elf is is dipping string into hot wax.
+~
+Arithal is the Chandler for the City.  She makes all the candles and
+isence used by everyone.  She's evidently a Solotar, as she's quiet and
+reserved, yet strangely focused.  
+~
+elf~
+AB J 0 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 15454 move along move along~
+#15436
+solotarian worshiper elf~
+A Solotarian Worshiper~
+A Solotarian Worshiper prays silently
+~
+The Solotarian Worship is wearing plain clothing, as do most Solotar. 
+She doesn't lookup as you approach her, but her head does nod slightly in
+your direction.  
+~
+elf~
+AB J 0 0
+54 5 50d10+6500 1d1+100 7d6+22 punch
+-24 -24 -24 -24
+0 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 15458 We are all here~
+M kill 15411 80~
+M death 15410 100~
+M delay 15459 100~
+M greet 15456 100~
+#15437
+solotarian worshiper elf~
+A Solotarian Worshiper~
+A Solotarian Worshiper is here.
+~
+The Solotarian Worshiper is going about their daily business.  They are
+wearing plain clothes, as do most Solotar.  That deep look in their eyes,
+the longer limbs, and the grace with which they move gives away their
+heritage.  
+~
+elf~
+A J 0 0
+54 5 50d10+6500 1d1+100 7d6+22 none
+-24 -24 -24 -24
+0 0 B Z
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M kill 15411 80~
+M death 15410 100~
+M speech 15457 temple~
+M speech 15457 Temple~
+#15438
+Monatarian High Priestess elf~
+The Monatarian High Priestess~
+The Monatarian High Priestess watches you reagally.
+~
+The Monotarian High Priestess is wearing long flowing white robes.  There
+is a moonstone on a chain about her neck, and various charts and lenses
+stick out of her pockets.  Her hair is silver, while her eyes are blue.  
+~
+elf~
+AB J 0 0
+48 4 25d10+3750 1d1+100 6d6+18 none
+-18 -18 -18 -18
+0 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 15461 100~
+M kill 15411 90~
+M death 15410 100~
+M greet 15460 80~
+#15439
+Monatarian Acolyte elf Teril~
+Teril, the Acolyte of the Monatar~
+A Monatarian Acolyte of the Temple studies some star maps.
+~
+Teril is a Monatarian Acolyte.  Studying to one day be a Priest of the
+Monatar, he is always seen with starmaps from his pockets.  He is wearing
+white and blue robes, but no shoes.  
+~
+elf~
+A J 0 0
+28 2 6d12+703 1d1+100 2d12+8 none
+-8 -8 -8 -8
+0 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M death 15410 100~
+M kill 15411 100~
+M greet 15462 95~
+M give 15466 all~
+#15440
+Verlumi Horncrafter elf~
+Verlumi, the Horncrafter~
+The Horncrafter is glaring at you from across his counter.
+~
+Verlumi is the city's horncrafter.  He either doesn't like foreigners, or
+doesn't like you, but either way he's none too pleased to be assisting a
+on-Palankcarian.  He appears to be a Monatar by race, as there are
+occasional runs of white through his hair.  
+~
+elf~
+AB J 0 0
+43 4 25d10+2500 1d1+100 3d12+15 none
+-15 -15 -15 -15
+0 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 15464 Iltan~
+M speech 15464 iltan~
+M give 15465 all~
+M speech 15463 Horn~
+M speech 15463 horn~
+M death 15410 100~
+M kill 15411 40~
+#15441
+instructor elf guardian~
+A Guardian Instructor~
+An instructor of the Acolytes orders students around.
+~
+This is an instructor of the Acolytes.  Most likely a Guardian, they
+spend their days taking joy from teaching the younger ones.  Careful,
+though, as their bark is not louder than their bite.  
+~
+elf~
+AB J 0 0
+44 4 25d10+2750 1d1+100 8d4+15 none
+-15 -15 -15 -15
+0 0 B Z
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M kill 15411 90~
+M death 15410 100~
+M greet 15467 85~
+#15442
+guard valocarian acolyte elf~
+A Valocarian Guard~
+A tall, elven Guard watches you approach, and prevents you from passing.
+~
+Wearing a ceremonial cloak over its armor and weapons, this guard has a
+rough and tried look to it.  
+~
+elf~
+AB J 0 0
+30 3 6d12+853 1d1+100 4d6+8 none
+-9 -9 -9 -9
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M exit 15468 0~
+#15598
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#15599
+familiar creature wolf~
+Avacar's Familiar~
+Avacar's Familiar is here, a magical creature in wolf shape.
+~
+You seen an imm's familiar.  Depending on which imm's it is, it may take different forms.  Avacar's familiars always look like wolves or falcons.
+~
+wolf~
+ABSTbe DHVZ 0 0
+54 5 10d500+1000 100d2+50 20d20+20 bite
+-24 -24 -24 -24
+BEFHIJMNOS ACDFGHIJKLMNOQRTXYZab 0 B
+stand stand male 0
+AGV ACDEFJKQV medium 0 the guilds~
+M random 15596 10~
+M fight 15599 50~
+M speech 15598 Noble Purge!~
+M speech 15597 HELP~
+#0
+
+
+
+#OBJECTS
+#15400
+switcheru~
+a mob switcheru~
+This is an item that should never be seen.  it is also useless.~
+glass~
+key FHPSTYZe A
+0 0 0 0 0
+10 0 20 P
+#15401
+sword fury solar palankcaren~
+{WSolar Fury{x~
+{WSolar Fury{x, the sword of the {WV{Balocar{x~
+iron~
+weapon ABGHISTYe AN
+sword 10 5 blast ABCDEGHILMNP
+54 30 0 P
+A
+18 50  
+A
+19 50  
+#15402
+room key inn treatoma~
+A Room Key~
+A Room key has been left lying around.~
+brass~
+treasure 0 AO
+0 0 0 0 0
+0 2 10000 P
+#15403
+A musical fountain~
+a musical fountain~
+A musical fountain is here, playing a softy tune as the water flows.~
+marble~
+fountain O 0
+0 0 'iced tea' 0 0
+0 0 0 P
+#15404
+A smooth wooden bar.~
+a smooth wooden bar~
+A smooth, Wooden bar is here, inviting you to sit~
+wood~
+furniture O 0
+5 1000 ACDEHIJKLMNOPQRSTUVWXYZabcdef 105 105
+0 0 0 P
+#15405
+A nice warm meal~
+A nice warm meal~
+A nice warm meal is here.  It contains chicken, potatoes, stew, and a few vegetables.~
+wood~
+food 0 A
+10 4 0 0 0
+0 0 1000 P
+#15406
+cup palankcarian ale~
+A cup of Palankcarian Ale~
+A nice goblet of Palankcarian make is lying around here.~
+silver~
+drink 0 A
+3 3 'ale' 0 0
+0 0 1000 P
+#15407
+key locket rose sun moon~
+A Rose shaped locket~
+A rose shaped locket.~
+gold~
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#15408
+river stream water~
+A small stream~
+A small stream is running from the mountain, heading east.~
+water~
+fountain O 0
+0 0 'water' 0 0
+0 0 0 P
+#15409
+tree tall~
+A Tall Tree~
+A tall tree stands in the middle of the clearing.~
+wood~
+container O 0
+20 0 0 0 0
+0 0 0 P
+#15410
+moonstone stone light~
+A Moonstone~
+A shimmering stone, that reflects all light silver.~
+crystal~
+light 0 A
+0 0 1 0 0
+10 5 5000 P
+A
+9 10  
+#15411
+dagger palankcarian solotarian~
+a Solotarian Dagger~
+A rare solotarian dagger~
+wood~
+weapon 0 AN
+dagger 2 6 stab E
+15 20 3333 P
+A
+18 2  
+A
+19 2  
+A
+1 -1  
+A
+3 1  
+#15412
+A cell key~
+A cell key~
+A cell key is here, hanging on the wall~
+wood~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#15413
+rocks crack~
+the crack in the mountain~
+Some rocks have fallen here, blocking up a crack in the mountain~
+stone~
+portal O 0
+0 0 0 15452 0
+0 0 0 P
+#15414
+stand pit donation~
+A small stand for donations, or suggestions~
+A small stand for donations or suggestions rests near the door.~
+marble~
+container O 0
+0 0 0 100 20
+0 0 0 P
+#15415
+waterfall portal~
+A waterfall~
+A waterfall is here, the sun sparkling through it, casting shadows on the cave walls.~
+water~
+portal O 0
+0 0 0 15528 0
+0 0 0 P
+#15416
+Monatar stone white~
+the Monatarian {Wstone{x~
+The Monatarian {WStone{x~
+gem~
+jewelry ABI AO
+0 0 0 0 0
+35 0 5000 P
+A
+12 20  
+A
+3 2  
+#15417
+Solotar stone green~
+the Solotarian {GStone{x~
+The Solotarian {GStone{x~
+gem~
+jewelry ABI AO
+0 0 0 0 0
+35 0 5000 P
+A
+5 2  
+#15418
+Sonatar stone yellow~
+the Sonatarian {Ystone{x~
+The Sonatarian {YStone{x~
+gem~
+jewelry ABI AO
+0 0 0 0 0
+35 0 5000 P
+A
+4 2  
+#15419
+Terratar stone brown~
+the Terratarian {Dstone{x~
+The Terratarian {DStone{x~
+gem~
+jewelry ABI AO
+0 0 0 0 0
+45 0 5000 P
+A
+9 30  
+A
+14 30  
+#15420
+alley backalley back~
+The Back Alley~
+Between the buildings, you could squeeze into a back alley~
+wood~
+portal 0 0
+0 0 0 15498 0
+0 0 0 P
+#15421
+special mug drink~
+a wooden mug of 'Today's Special'~
+Someone has left a wooden mug of 'Today's Special' here~
+wood~
+drink 0 AO
+3 2 'anti-matter' 1 0
+1 3 150 P
+A
+2 -1  
+#15422
+glass champagne~
+a glass of champagne~
+Bubbles from a glass of champagne tickle your nose.~
+china~
+drink 0 A
+4 4 'champagne' 0 0
+1 10 110 P
+E
+cup~
+It is a small simple cup. 
+~
+#15423
+A cell key~
+A cell key~
+A cell key is here, hanging on the wall~
+wood~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#15424
+portable portal~
+a portable portal~
+A portable portal swirls slowly here (don't forget to read the tag!)~
+energy~
+portal 0 AQ
+2 0 4 15403 0
+1 3 3000 P
+E
+tag~
+New!  Portable Portals!  These products are guaranteed to take you back
+to the gateway out of Palankcaren.  They come with 2 charges, and will
+transport themselves to you when you use them.  Unfortunately, they cannot
+be taken out of Palankcaren, as their magic doesn't work out there.  
+~
+#15425
+forest~
+the forest~
+The forest surround you, giving you a calm, peaceful feeling.~
+wood~
+container 0 0
+0 0 0 0 0
+1 3 0 P
+#15426
+tome valocar~
+The Valocarian Tome~
+The Valocarian Tome sits on a pedestal here.~
+paper~
+map 0 0
+0 0 0 0 0
+0 0 0 P
+E
+tome~
+~
+#15427
+tome monatar~
+The Monatarian Tome~
+The Monatarian Tome sits here on a pedestal.~
+paper~
+map 0 0
+0 0 0 0 0
+0 0 0 P
+E
+tome~
+~
+#15428
+tome terratar~
+The Terratarian Tome.~
+The Terratarian Tome sits here on a pedestal.~
+paper~
+map 0 0
+0 0 0 0 0
+0 0 0 P
+E
+tome~
+You begin to read a passage from the tome...  The Terratar are one of the
+four races of Palankcaren.  During the first awakening, they were born of
+the brown spark, and they were first among the Palankcarians to look upon
+the land.  They live in large underground cities in the mountains to the
+North of Palankcaren.  Unlike the Sonatar of the Monatar, they go weeks
+without seeing the sky.  They often have an earthly look; dark rough skin;
+dark haired; fire burning in their eyes.  As with all Palankcarians, they
+have a racial power.  For Terratarians, they can control the elements.  The
+extent to which they can do this varies with each citizenbut in general,
+Terratarians are very strong in their power.  
+~
+#15429
+sonatarian tome~
+The Sonotarian Tome~
+The Sonotarian Tome sits here on a high pedestal.~
+paper~
+map 0 0
+0 0 0 0 0
+0 0 0 P
+E
+tome~
+You open the tome and begin reading...  The Sonatar are one of the four
+races of Palankcaren.  During the time of first awakening, they came from
+the yellow spark.  They were first to gaze upon the sun, and have since made
+it their worship.  Sonatar can 'see like the sun' allowing them to know all
+that has, is, and will be.  As with all races, some people are very strong
+in this power.  Such people are known as 'Prophets'.  Others can only use
+their power as a form of advanced intuition...  These people are usually
+just regular members of Sonatarian society.  They live primarily in great
+temples in the western desert, but the Sonatarian province's capital is on
+the Isle of the Prophets.  
+~
+#15430
+solotarian tome~
+The Solotarian Tome~
+The Solotarian Tome sits open here, on a pedestal.~
+paper~
+map 0 0
+0 0 0 0 0
+0 0 0 P
+E
+tome~
+The Solotar are one of the four Palankcarian races.
+During the time of creation, they were born of the green spark.
+Unlike the other races, the Solotar did not immediately assume a native power after the first
+awakening.
+~
+#15431
+wheel wagon wagonwheel~
+a wagon wheel~
+A wagon wheel made of wood is here, lying on its side.~
+wood~
+treasure 0 AO
+0 0 0 0 0
+0 0 10000 P
+#15432
+merchant wagon~
+the Merchant Wagon~
+A merchant wagon is here, horses ready, filled with goods.~
+wood~
+furniture 0 0
+2 4000 EN 0 0
+0 0 0 P
+E
+wagon~
+The merchant wagon is large, with two axles.  The front has a seat for
+the horse driver, while a semi-circular canopy covers the back.  You can see
+many expensive goods through the uncovered back of it.  The front left wheel
+has broken, and the wagon isn't going anywhere.  
+~
+#15433
+merchant wagon~
+the Merchant Wagon~
+A merchant wagon is here, with 1 wheel broken.~
+wood~
+furniture 0 0
+2 4000 EN 0 0
+0 0 0 P
+E
+wagon~
+The merchant wagon is large, with two axles.  The front has a seat for
+the horse driver, while a semi-circular canopy covers the back.  You can see
+many expensive goods through the uncovered back of it.  The front left wheel
+has broken, and the wagon isn't going anywhere.  
+~
+#15434
+thief thieves signet ring~
+The Thieves' Signet Ring~
+A small ring with a strange duck symbol on it, is lying here~
+gold~
+jewelry 0 AB
+0 0 0 0 0
+30 1 2500 P
+A
+2 2  
+#15435
+Wargwood wood~
+Wargwood~
+A nice long piece of wargwood is here, snarling at you.~
+wood~
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#15436
+bottle alcohol island brew~
+a bottle of the "Good Island" brew~
+A bottle of some sweet, but strong smelling alohol is here.~
+glass~
+drink U AO
+0 0 'mead' 0 0
+0 14 10000 P
+#15437
+paper letter rights horse certificate~
+a Letter of Horse Rights~
+An important looking piece of paper has writing all over it.~
+paper~
+map 0 AO
+0 0 0 0 0
+0 3 2000 P
+E
+letter~
+This piece of paper entitles the bearer to a horse in
+the park on the west side of town.
+~
+E
+paper~
+This letter entitles the bearer to own and ride a horse in the east park of Palankcaren.
+~
+#15438
+paper rights house ownership~
+The House Ownership~
+An important looking document is lying here, with the seal of the property office.~
+wood~
+map 0 AO
+0 0 0 0 0
+0 0 0 P
+E
+ownership~
+This paper gives the bearer the right to the property
+on 102938 Clima Road.
+~
+E
+paper~
+This paper gives the bearer the right to the property
+on 102938 Clima Road.
+~
+#15439
+helmet dragonslayers incomplete unfinished~
+The incomplete DragonSlayer's Helm~
+A helmet covered in dragon designs is here, but missing a piece.~
+gold~
+armor 0 AE
+5 5 5 1 0
+25 0 4000 P
+A
+3 1  
+#15440
+trinket child toy~
+a child's trinket~
+A shiny, fairly fun-to-play-with object catches your eye.~
+glass~
+treasure 0 AO
+0 0 0 0 0
+15 0 2000 P
+A
+3 -3  
+A
+1 1  
+A
+2 1  
+#15441
+elkonir gem stone~
+An Elkonir~
+A stone of the stars has fallen here.~
+crystal~
+armor 0 AQ
+5 5 5 5 0
+30 20 4000 P
+E
+elkonir~
+This is an Elkonir.  They are magical gems that fall from the sky.  No
+one is sure where they come from, although the Monatar make a study of it. 
+Some people place them within settings to grant protective powers to those
+objects, but others have learned the secrets of using the Elkonir directly
+to fuse into new things. 
+It is a little tarnished.
+~
+#15442
+elkonir gem polished stone~
+A Polished Elkonir~
+A stone of the stars has fallen here, but been recently polished.~
+crystal~
+armor A AQ
+5 5 5 5 0
+30 30 4000 P
+A
+9 3  
+A
+3 1  
+E
+polished~
+This is an Elkonir.  They are magical gems that fall from the sky.  No
+one is sure where they come from, although the Monatar make a study of it. 
+Some people place them within settings to grant protective powers to those
+objects, but others have learned the secrets of using the Elkonir directly
+to fuse into new things. 
+~
+E
+elkonir~
+This is an Elkonir.  They are magical gems that fall from the sky.  No
+one is sure where they come from, although the Monatar make a study of it. 
+Some people place them within settings to grant protective powers to those
+objects, but others have learned the secrets of using the Elkonir directly
+to fuse into new things. 
+~
+#15443
+helmet dragonslayer complete~
+The DragonSlayer's Helm~
+A helmet covered in dragon designs catches your attention.~
+gold~
+armor I AE
+5 6 6 6 0
+27 0 7000 P
+A
+13 20  
+A
+9 10  
+A
+3 2  
+#15444
+spear diamond Kla'nan~
+Kla'nan the Diamond Spear~
+A spear glows brightly when dragons approach.~
+diamond~
+weapon ABGI AN
+staff 8 5 thrust I
+48 1000 0 P
+A
+18 2  
+A
+19 2  
+A
+12 -30  
+#15445
+helmet complete dragonslayers~
+The DragonSlayer's Helm~
+A helmet convered in dragon designs catches your attention.~
+gold~
+armor 0 AE
+5 5 5 3 0
+26 0 5000 P
+A
+13 10  
+A
+1 -1  
+A
+3 1  
+#15446
+broken solar fury hilt sword~
+the broken hilt of SolarFury~
+A hilt is here, the blade mostly broken off the sword.~
+steel~
+weapon 0 AN
+exotic 2 3 knock K
+30 3000 0 P
+#15447
+bottled wind~
+The bottled wind of Rak'delru~
+A bottle is here, vibrating as a powerful wind swirls inside.~
+glass~
+staff AG AO
+25 5 3 'hurricane' 0
+15 20 2000 P
+#15448
+talaterin ore~
+A chunk of talaterin ore~
+A dull hunk of metal fails to reflect any light at you.~
+rock~
+treasure 0 AO
+0 0 0 0 0
+3 2000 4000 P
+A
+1 1  
+#15449
+sword fury solar palankcaren~
+{WSolar Fury{x~
+{WSolar Fury{x, the sword of the {WV{Balocar{x~
+iron~
+weapon ABGISTYe A
+sword 10 5 blast ABCDEGHILMNP
+51 10 0 P
+A
+18 50  
+A
+19 50  
+#15450
+stone gem ilconath~
+an Ilconath~
+A beautiful gem glows of its own light.~
+crystal~
+treasure W AO
+0 0 0 0 0
+0 8 5000 P
+E
+ilconath~
+The Ilconath are a rather common crystal in Palankcaren.  Mostly
+overlooked by citizens, and considered almost valueless in Palankcarian
+currency, they are worth significantly more in other worlds.  Also, due to
+the Palankcarian Mark to Gold trade rates, they don't fetch a bad price
+here, either.  
+~
+#15451
+cloak page~
+A Page's cloak~
+The cloak of a Valocarian Page shimmers in the light.~
+linen~
+armor 0 AK
+4 4 4 7 0
+30 20 2000 P
+#15452
+water fire suspended~
+Water suspended in fire~
+A drop of water is floating in a flame, ever burning, ever floating.~
+fire~
+gem AOT 0
+0 0 0 0 0
+0 5 8000 P
+#15453
+garden lovely~
+A lovely Garden~
+The central garden is particularily beautiful.~
+earth~
+container O 0
+0 0 0 100000 5
+0 20 0 P
+#15454
+flower rose weapon~
+A beautiful, but thorn-covered rose~
+A beautiful, but deadly rose slowly ooses poison.~
+plant~
+weapon 0 AN
+exotic 5 8 skewer H
+42 8 0 P
+#15455
+handful dirt earth~
+a handful of earth~
+A small pile of dirt has collected here~
+wood~
+throwing 0 AO
+6 3 splatter 15 'blindness'
+23 0 0 P
+#15456
+axe two-handed short solotarian~
+A Solotarian Short-Axe~
+A sharp axe sheens in the light.~
+metal~
+weapon AI AN
+axe 2 10 slaughter F
+10 30 1000 P
+#15457
+water fire suspended~
+Water suspended in fire~
+A drop of water is floating in a flame, ever burning, ever floating.~
+fire~
+gem AT AO
+0 0 0 0 0
+33 15 8000 P
+A
+4 1  
+A
+2 1  
+A
+9 20  
+#15458
+glass water lake~
+A glass of lake water~
+A Glass of Water from Lake Aquamir is half full.~
+glass~
+drink 0 AO
+1 1 'water' 0 0
+0 4 0 P
+#15459
+Acolyte Insignia~
+Acolyte Insignia~
+Acolyte Insignia~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#15460
+flame prophets fire whip~
+Fire of the Prophets~
+A whip made of pure flame has the sign of the Sonatar on the handle.~
+fire~
+weapon 0 AN
+whip 4 7 flame A
+34 30 5000 P
+A
+19 1  
+A
+18 1  
+#15461
+whip horse~
+a sea-drenched horsewhip~
+A whip covered in green algae is slowly oozing water.~
+rope~
+weapon 0 AN
+whip 5 6 slime 0
+35 40 2500 P
+A
+19 1  
+A
+18 1  
+#15462
+cute adorable cat kitten~
+an adorable kitten~
+A cute, but lost kitten meows in your general direction.~
+animal~
+wand 0 AO
+22 3 3 'animal growth' 0
+31 0 0 P
+#15463
+phoenix flower~
+a phoenix flower~
+A delecate red and yellow flower is just in bloom~
+plant~
+wand 0 AO
+12 5 3 'fireball' 0
+14 0 80 P
+#15464
+recipe incense candle note paper~
+a recipe for incense~
+Some notes have been scribbled on a piece of paper.~
+paper~
+map 0 AO
+0 0 0 0 0
+0 4 10 P
+E
+recipe~
+Some quick notes have been scribbled on this paper:
+ 
+If you want to make some incense for us in scrying and prophecy,
+you'll need to contact the chandler.  She can usually make anything, if
+you bring her the parts.
+You're going to need some rope which is covered in algae.
+Some flowers of the Phoenix.
+A thorn-covered Rose.
+A piece of Wargwood.
+ 
+And don't forget she'll need the recipe itself.  Enjoy, and thanks again for the horse.
+~
+#15465
+sonatarian incense stick~
+a Sonatarian stick of incense~
+A stick of incense burns slowly, giving you strange visions.~
+herbs~
+light 0 A
+0 0 10 0 0
+25 8 3000 P
+A
+9 30  
+A
+5 1  
+A
+3 1  
+#15466
+future truth confidence~
+Confidence in your future~
+Your future awaits to be taken up.  Be confident!~
+energy~
+armor 0 AJ
+10 10 10 12 0
+40 12 6000 P
+A
+2 -1  
+A
+18 3  
+#15467
+salve solotarian item~
+a container of healing salve~
+A small jar with a cool ointment is closed.~
+salve~
+staff 0 AO
+38 5 5 'heal' 0
+30 14 4000 P
+#15468
+1moonlight~
+Moonlight shines through the ceiling~
+Moonlight shines through the ceiling, basking the room.~
+energy~
+treasure 0 0
+0 0 0 0 0
+0 0 0 P
+#15469
+tear moon~
+A Moon's Tear~
+An Elkonir has turned into a Moon's Tear.~
+crystal~
+armor 0 AQ
+5 6 5 6 0
+35 30 5000 P
+A
+20 -4  
+A
+3 1  
+#15470
+list paper note~
+A 'shopping list' for the Horncrafter~
+A piece of paper has a list scribbled on it.~
+parchment~
+map 0 AO
+0 0 0 0 0
+0 4 0 P
+E
+list~
+If you want me to make you a Horn of Iltan (also known as Iltan's Trumpet)
+I'll need you to fetch:
+A Moon's Tear
+Some ore from the mountain
+The hide of the Southern Mountain frog
+A house deed. (I expect a new house as payment for my work!)
+ 
+Only come back when you have all this.
+~
+#15471
+hide frog mountain~
+The Hide of the southern Mountain Frog~
+A large, grey pelt shimmers in the light.~
+wood~
+armor L AI
+10 10 9 7 0
+47 80 7000 P
+A
+2 2  
+A
+5 -1  
+A
+4 -4  
+A
+19 3  
+A
+20 -2  
+#15472
+horn iltan~
+Iltan's Horn~
+The Horn of Iltan lies nearby.~
+crystal~
+staff A AO
+36 4 5 'call creature' 0
+40 20 5320 P
+#15473
+your wish~
+your wish~
+Someone's wish hums in the air.~
+energy~
+armor 0 AF
+11 11 11 11 0
+40 30 10000 P
+A
+9 -50  
+A
+4 -3  
+A
+2 2  
+A
+5 2  
+#15590
+portal inhibitor~
+a portal inhibitor~
+A rather intricate device with strange runes on it pulses slowly.~
+stone~
+trash F AO
+0 0 0 0 0
+0 1000 6000 P
+A
+1 -1  
+A
+5 -1  
+E
+note~
+A small note is attached to the portal inhibitor.  It reads:
+This device is designed to cancel the portal magic of a specific cadence.
+Currently tuned to: The City's Noble Guards
+(DO NOT REMOVE THIS TAG -- manufacturers only)
+~
+#15596
+no name~
+(no short description)~
+~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#15597
+switcheru2~
+a mob switcheru~
+This is an item that should never be seen.  it is also useless.~
+glass~
+key HPZ A
+0 0 0 0 0
+10 0 20 P
+#15598
+deathstick~
+deathstick~
+{x~
+glass~
+key HPSTYZe A
+0 0 0 0 0
+10 0 20 P
+#15599
+pill death suicide~
+Avacar's Suicide Pills~
+A small pill is here, glowing with death.~
+glass~
+pill AG AO
+60 'flood' 'darkness' 'rain of tears' 'web'
+58 40 0 P
+#0
+
+
+
+#ROOMS
+#15400
+A large Cave.~
+You are in a large, cavernous black area, a test of your ability to see.  
+~
+0 0 5
+O Avacar~
+E
+blackness~
+The blackness is so terrible you see nothing else.  
+~
+D0
+~
+~
+1 15400 15401
+M 1000 H 1000
+S
+#15401
+Further into the cave.~
+You are deep with the testing cave.  You can hear crackles and explosions
+as various tests don't work.  You should probably leave before soemthing
+blows up on you completely.  Carefully, you step around the cuts of another
+failed mob creation.  This place gives you the creeps.  
+~
+0 524288 0
+D2
+It is a cave wall
+~
+cave~
+1 15400 15400
+M 0 H 0
+S
+#15402
+On Stora Road~
+You are standing out on a busy street, running east-west.  To the south
+is the large Portal Building.  North is a small house.  As you look down the
+street you see an inn a few blocks down.  Above the buildings, you see the
+mountain towering off into the distance to the north, and south, you see the
+lake Aquamir, extending to a far away shore.  
+~
+0 268443648 1
+D1
+~
+~
+0 0 15404
+D2
+~
+~
+0 0 15403
+D3
+~
+~
+0 0 15440
+S
+#15403
+The Portal Room~
+Welcome to the world of Palankcaren.  You are in the capital city of the
+country of Palankcaren, on the island of Farma in the lake of Aquamir.  The
+city is built upon a mountain (Mt.  Lefardango, if you care to know) which
+is the only thing on the island.  High up on the mountain top is the
+Valocarian High Keep.  You are in a large room, with a Circle of Power
+ingraved into the stones.  On one wall, a large circular pattern is carved,
+with keystones all around.  This room is built as a focus for
+interdimentional portal creation.  North, you see the streets of the city
+surrounding the Valocarian High Keep.  You see a large sign which you should
+probably look at if you are new to this world.  
+~
+0 268435464 0
+E
+sign~
+Welcome, visitor from another world.  We hope you enjoy our humble city. 
+Hopefully you are in good shape, because you are about half-way up the
+mountain-city.  Higher up are Temples to the four worships, and finally at
+the summit is the Valocarian High Keep.  Lower down the mountain, the city
+expands are more room becomes available, allowing for residences, and market
+places.  Down at sea-level, you can charter a ship to leave the island, and
+explore the mainland itself.  Some of our people are a little shy, and have
+asked us to restrict your access on the mainland for now.  There are four
+primary races in Palankcaren: The Monatar, Terratar, Sonatar and Solotar. 
+We recommend you come up to the Valocarian High Keep at some point, and read
+in the library about all four races.  This may perhaps give you some insight
+into our culture and ways.  If you wish to return to your own world, please
+come back here, and ask our representative to open the portal once more. 
+-The Valocarian High Council 
+~
+D0
+~
+~
+0 0 15402
+S
+#15404
+On Stora Road~
+You are further along Stora road.  Far to the north, the mountain still
+towers above you, and to the south, the lake spreads out as far as you can
+see.  The building north bears the sign 'The Shining Phoenix.' It appears
+to be an inn.  South of you is a staircase leading downward into a lower
+section of the city.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15405
+D1
+~
+~
+0 0 15410
+D2
+~
+~
+0 0 15409
+D3
+~
+~
+0 0 15402
+S
+#15405
+The Shining Phoenix~
+You are in the common room of a pleasant little inn.  There are tables
+throughout the room, and a large fireplace to one side.  Behind a bar,
+stands an elf in his middle ages, probably the owner of the establishment. 
+There is a door leading to the kitchen behind the bar, and a staircase going
+upstairs to the rooms opposite the fireplace.  Near the door into the Inn is
+a poster.  
+~
+0 268443656 0
+E
+poster~
+Rooms:  100 gold pieces
+Meal: 10 gold pieces
+~
+D2
+~
+~
+0 0 15404
+D4
+~
+~
+0 0 15406
+M 105 H 105
+S
+#15406
+On the second floor of the Shining Phoenix~
+You are on the second floor of te Shining Phoenix.  There are doors
+lining the hall, all going off to guest rooms.  You can inquire about
+renting a bed in the public room downstairs with the innkeep.  The public
+room is east, and to the west, a door labelled 'Reserved for Avacar.' The
+rest of the rooms have 'occupied' signs on them.  A window looks out over
+the town.  
+~
+0 8200 0
+D1
+~
+door~
+4 15402 15407
+D3
+~
+~
+1 15407 15408
+D5
+~
+~
+0 0 15405
+S
+#15407
+A room in the inn~
+You are in a pleasant room of the inn.  There are a number of beds, for
+the various guests.  One wall is a window, looking out over the lake
+Aquamir.  Each bed has its own chamber pot.  The door has an elaborate lock,
+so you don't have to worry about people who have not rented the room coming
+in.  
+~
+0 269754376 0
+D3
+~
+~
+4 15402 15406
+M 200 H 200
+S
+#15408
+Avacar's Private Room~
+This is a small, but pleasant room.  Avacar has this room on a permanent
+lease from the owner.  There is a small bed, and a washtable.  The window on
+one wall looks out upon the mountain.  There is a small desk, with a few
+pictures and papers upon it.  
+~
+0 8 0
+D1
+~
+~
+1 15407 15406
+S
+#15409
+The Staircase~
+You are at the top of a great staircase, which climbs down the mountain. 
+The stairs are made of pure gold, and the railings are made of silver.  To
+the far south, down below you, you see the rest of the city spreading
+outwards, towards the water.  The docks, city walls, and market place are
+all visible from here.  To the north, the mountain towers up higher.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15404
+D5
+~
+~
+0 0 15476
+S
+#15410
+On Stora Road~
+You are walking along Stora road.  The road itself is made of gold
+cobblestones, and the sidwalks are marble slabs.  There is a railing to the
+south side of the road, looking down over a cliff, onto the lower city.  To
+the north is a small house.  To the east is the park.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15412
+D1
+~
+~
+0 0 15411
+D3
+~
+~
+0 0 15404
+S
+#15411
+The Park~
+This is a nice park.  Stora Road ends a bit west of where you are, and
+turns into a nice garden path, continuing to the north.  There are shrubs
+and flowers all around.  You hear birds chirping, and squirrels bouncing
+from tree to tree.  In the distance, you hear water running.  You are at the
+corner of the mountain, it towers north west above you.  The lake extends
+out as far as you can see to the south and east.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15413
+D3
+~
+~
+0 0 15410
+S
+#15412
+A Small Monatarian House~
+This humble abode is owned by a Monatar, and his family.  There is a
+large table at one end, with chairs around it, and a small kitchen nearby. 
+Doors lead off to the various rooms of the house.  A fireplace warms the
+room during cold nights, and a small desk is in the corner, covered in
+papers.  
+~
+0 268443648 1
+D2
+~
+~
+0 0 15410
+S
+#15413
+In the Park~
+This is the middle of the park.  The garden path comes from the south,
+and splits, heading both north and east.  There is a little bridge, which
+crosses over a stream, running out of the mountain wall west of you.  On the
+bridge, a small fountain has been arranged so that you can drink from the
+stream without walking down to it.  You are now to the east of the east of
+the mountain.  It still towers above you.  Looking out east, you see a
+clear, blue sky, and far below, the water of Lake Aquamir 
+~
+0 268443648 1
+D0
+~
+~
+0 0 15414
+D1
+~
+~
+0 0 15415
+D2
+~
+~
+0 0 15411
+S
+#15414
+In the Park~
+You are in a lovely park.  There is a garden path, which comes from the
+south and east, and merges, heading north.  To the west, you are facing a
+sheer cliff of the mountain, as it towers up above you.  You hear water
+bubbling to the south, and see a large tree in the distance, deeper in the
+park, east.  North, you see a road.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15417
+D1
+~
+~
+0 0 15416
+D2
+~
+~
+0 0 15413
+S
+#15415
+In the Park~
+You are in the park.  The stream flows from the mountain, west, over the
+cliff to the east, down into a beautiful waterfall.  You could probably
+circle down, and find the waterfall in the lower city.  The garden path
+comes from the west, and travels north.  In the distance, north, you see a
+large tree.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15416
+D3
+~
+~
+0 0 15413
+S
+#15416
+In the Park~
+You are deep within the park.  A garden path, with bushes and flowers
+along it, travels from the south to the west.  In the middle of a field is a
+large tree.  You hear water bubbling from somewhere to the south.  Looking
+west, the mountain towers above you.  East, you can see over a cliff, down
+into a lower level of the city, and out onto the lake.  
+~
+0 268443648 1
+D2
+~
+~
+0 0 15415
+D3
+~
+~
+0 0 15414
+S
+#15417
+On Antro Road~
+You are on the north east corner of the mountain.  Behind you, it towers
+high into the clouds.  You can see the lower city spread out below you, and
+the lake extending off to a far away shore.  The road you are on travels
+west from here, along the northern face of the mountain.  It is paved in
+silver, and the sidewalks are made of ivory.  
+~
+0 268443648 1
+D2
+~
+~
+0 0 15414
+D3
+~
+~
+0 0 15418
+S
+#15418
+On Antro Road~
+You are on Antro road.  The mountain towers above you to the north, and
+the lake extends out to the south, far below.  Along the street are many
+houses.  In the distance you see a commercial district.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15419
+D1
+~
+~
+0 0 15417
+D3
+~
+~
+0 0 15420
+S
+#15419
+A Small Terratarian House~
+This humble abode is owned by a Terratar.  The whole building has a very
+earthy feeling to it.  The wall are painted in the colours of the elements:
+earth brown, water blue, fire red, and wind white.  There is a little bed in
+the corner, and a small kitchenet.  A door leads off to another part of the
+house.  
+~
+0 268443648 1
+D2
+~
+~
+0 0 15418
+S
+#15420
+On Antro Road~
+This is Antro Road.  The mountain towers above you to the south, and you
+can see blue skies and the lake to the north.  Along the road are many
+houses and little shops.  Alleyways run between the streets.  To the north
+is a bank, and over the building to the south hangs a sign.  
+~
+0 268443648 1
+E
+sign~
+Phil's Jewellers
+ 
+Exotic Gems and Stones, Treasure and loot.
+We pay good money for them all.
+~
+D0
+~
+~
+0 0 15422
+D1
+~
+~
+0 0 15418
+D2
+~
+~
+0 0 15421
+D3
+~
+~
+0 0 15423
+S
+#15421
+Phil's Jewellers~
+You are inside a picturesque boutique.  The walls and counters are all
+glass cases, with various gems from stories or myths...  Perhaps they did
+exist?  One case is marked 'Arkenstone,' another is marked 'moongems and
+Sunstones.' There is a door leading to a backroom.  The jolly elf who runs
+this shop stands behind a counter, and is pollishing one of his rings.  
+A small sign on the counter catches your eye.
+~
+0 268443656 0
+E
+sign~
+A large sign is here.  It reads:
+ 
+POLISHING!
+200 GOLD! Just hand me an item, pay up, and I'll polish.
+If you don't pay, I'll keep the item for my troubles.
+-Phil
+~
+D0
+~
+~
+0 0 15420
+S
+#15422
+The Poor Banker~
+You have entered 'the poor banker.  ' Are you sure you want to leave your
+money with a place that has a name like that?  The bank is a fairly large
+room, with a huge safe on one side.  There are atm machines, linked into the
+interdimentional banking system, so that you can access your accounts from
+here.  A clerk stands behind the counter.  
+~
+0 268443656 0
+D2
+~
+~
+0 0 15420
+S
+#15423
+A large Square~
+You have come upon a large square, on Antro Road.  This is an
+intersection between staircases going up and down the mountain, and the
+roads at this level.  In the centre of the square is a fountain, playing
+some soft music.  The stairs climb the mountain to the south, and descend
+the mountain to the north.  The mountain, as always, towers high above you
+to the south, while the lake is visible in the north.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15425
+D1
+~
+~
+0 0 15420
+D2
+~
+~
+0 0 15424
+D3
+~
+~
+0 0 15426
+S
+#15424
+A Staircase~
+This is a great staircase.  The steps are made of gold, and the handrails
+of silver.  It climbs up the mountain.  You can see, high above, the next
+plateau, with a few small buildings and another railing.  To the north, you
+see the square, and beyond is the lake Aquamir.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15423
+D4
+~
+~
+0 0 15458
+S
+#15425
+On a Golden Staircase~
+This is the top of a large staircase, leading downwards, toward the lower
+level of the city.  From here you have a beautiful view of the lake,
+streching out north.  On the far shore of the lake, you can just make out a
+Great Pine forest.  Behind you, them mountain towers up into the clouds. 
+The Stairs themselves are made of gold, and the handrails are made of
+silver.  
+~
+0 0 1
+D2
+~
+~
+0 0 15423
+D5
+~
+~
+0 0 15512
+S
+#15426
+On Antro Road~
+You are walking along Antro road.  The mountain towers above you to the
+south.  Beyond buildings to your north, you can just barely see parts of the
+lake.  The street is at this part paved with marble, and the sidwalk stones
+are made from silk.  There are houses and other small buildings all along
+the street.  To the south, built right into the mountain, is a small city
+jail.  Most criminals are kept either down on the walls, or up higher in the
+Valocarian High Keep, but this jail is build for especially for holding
+stray Gliglantari.  To the east you see a square, and many carts are heading
+west, towards a wearhouse furthur along the road.  
+~
+0 268443648 1
+D1
+~
+~
+0 0 15423
+D2
+~
+~
+0 0 15428
+D3
+~
+~
+0 0 15427
+S
+#15427
+On Antro Road~
+You are on Antro Road.  A large number of carts seem to be moving along
+this part of the road, coming from the staircases.  They are all heading
+into a large wearhouse on the northern side of the road.  Behind you, the
+mountain towers away into the clouds, to the south.  Past the wearhouse to
+the north, you can see lake Aquamir.  Far to the east you see the square,
+and the street continues west.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15429
+D1
+~
+~
+0 0 15426
+D3
+~
+~
+0 0 15430
+S
+#15428
+The Jail~
+You are inside a small jail.  The walls are carved out of rocks.  Around
+the room are many balls of light, hovering at around eye level.  Maybe
+someone is afraid of the dark?  Along one wall are a row of hooks, and some
+keys hang on them.  To the south is a large iron door, which probably leads
+to the cells.  There is a sign on the door to the cells.  
+~
+0 268443656 0
+E
+sign~
+Warning: Gliglantari are stored in the cells beyond.  Please use caution
+when visiting them, they are dangerous creatures and our sworn enemy.  
+~
+D0
+~
+~
+0 0 15426
+D2
+~
+~
+1 0 15443
+S
+#15429
+The Warehouse~
+You are inside a large warehouse.  There are shelving units all over the
+open interior.  Carts are constantly coming in and out of the various doors,
+and workers are stocking the shelves, or filling the wagons.  A tall slim
+elf is taking a fit near the entrance.  He is probably the owner, and is
+worried about getting behind schedule.  
+~
+0 8 0
+D2
+~
+~
+0 0 15427
+S
+#15430
+A turn on Antro Road~
+You have reached the corner of the road.  The pavement curves quickly
+around the mountain, avoiding the cliff it was approaching.  You can see the
+western shore of the lake in this distance, since no houses are at this
+corner of the road.  Behind you, the mountain towers above.  
+~
+0 268443648 1
+D1
+~
+~
+0 0 15427
+D2
+~
+~
+0 0 15431
+S
+#15431
+On Antro Road~
+You are on the western side of the mountain.  You appear to be
+approaching a more commericalized and residential area.  There are houses
+and shops along the street.  To the west is a much larger house.  Upon its
+gate rests the skull of a dragon.  This must be the infamous dragonslayer's
+house.  He isn't well liked by the other elves since elves and dragons have
+a friendly relationship in this world.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15430
+D2
+~
+~
+0 0 15433
+D3
+~
+~
+0 0 15432
+S
+#15432
+The DragonSlayers Home~
+You are inside an elaborate house.  Upon the walls are many shields and
+weapons of destruction.  There appear to be a larger quantity of spears than
+any other weapon.  A small desk sits in the corner, with maps of the
+countryside, and caves marked out.  
+~
+0 268443656 0
+D1
+~
+~
+0 0 15431
+S
+#15433
+On Antro Road~
+You are walking along Antro Road.  There are many houses along the
+street.  At this point, the street is made of pure gold, and the sidewalk
+made of silver.  Far to the west, you see open skies, far above the lake
+below.  To the east is a small guardhouse, where the guards patrol from.  To
+the north, you make out a large mansion on the west side of the road, and
+further south you see a large square.  
+~
+0 0 1
+D0
+~
+~
+0 0 15431
+D1
+~
+~
+0 0 15435
+D2
+~
+~
+0 0 15434
+S
+#15434
+Weapon's Square~
+You are standing in a large square.  There is a nice fountain, with a
+small garden around it.  To the west there is the Forge, and to the south
+you see the Weaponsmith.  If you wish to buy weapons, the Weaponsmith is the
+place to go, but he buys and repairs all his mechandise from the Forge to
+the west, where you can get your weapons and armor repaired, if needed.  The
+flagstones of the square are made of adamantium.  Throughout the square
+small merchants are selling lesser weapons, none of which interest you. 
+Antro Road starts to the north, and Stora road is east.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15433
+D1
+~
+~
+0 0 15438
+D2
+~
+~
+0 0 15437
+D3
+~
+~
+0 0 15436
+S
+#15435
+A Guard House~
+You are inside a small guardhouse.  This is the post on this level of the
+city from which all the guards patrol and report.  There are various weapons
+hanging on the walls; as well as keys and maps.  A Corporal of the Guard
+usually resides here, watching over the other guards.  
+~
+0 268443656 0
+D3
+~
+~
+0 0 15433
+S
+#15436
+The {YForge{x~
+Welcome to the forge.  The air is full of smoke from the large furnace on
+one wall.  There is an anvil, and a workbench layed out.  Beside the furnace
+are many barrels filled with water of different temperatures.  Upon the
+walls hang the various tools a blacksmith would need.  A few examples of the
+blacksmith's work are in a display case.  A large sign catches your eye.  
+~
+0 1342185480 0
+E
+case~
+The display case contains some horseshoes, a basic sword, and some
+chainmail.  
+~
+E
+sign~
+Welcome to the Forge.  Feel free to look at the displays.  If it is
+broken, I can fix it.  If you want it retooled, I can do that too.  Here is
+what you need to do:I have trouble hearing over the noise of my hammer.  As
+such, you'll need to speak up in short, easy to understand words.  When you
+think you have all the parts you need for me to forge something together,
+simply give them to me, and pay me a 50 gold forging fee.  I usually don't
+notice that you're trying to get my attention unless you give me gold.  If
+you've given me stuff that you want back, yell 'DROP IT' at the top of your
+lungs, and I'll usually hear that.  
+ 
+Oh, and I don't like invisible people.  Gives me the creeps.
+-Quithor
+~
+D1
+~
+~
+0 0 15434
+S
+#15437
+The Weaponsmith's~
+You have entered a large shop, filled with weapons of destruction.  There
+are cases all around with maces, and spears, and swords, and fails.  Upon
+the wall, battleaxes hang.  Behind the counter, a weak looking shopkeeper is
+trying to sharpen a dagger.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 15434
+S
+#15438
+On Stora Road~
+You are walking along Stora Road.  The road is made from marble, and the
+sidwalks are pure ivory.  There are many houses along the road here.  You
+can see the lake off to the south and west, far below, and behind you, the
+mountain towers off into the clouds to the north.  A small home welcomes you
+to the east.  Stora road continues west and north.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15440
+D1
+~
+~
+0 0 15439
+D3
+~
+~
+0 0 15434
+S
+#15439
+A small home.~
+This is a tidy little house.  There is a kitchen, and a common room, and
+6 bedrooms going off of a short hallway.  Some have more than one bed.  The
+walls are made of silver brick, and the roof of a marble thatch.  There are
+a number of small desks on one side of the common room.  
+~
+0 268443656 0
+D3
+~
+~
+0 0 15438
+S
+#15440
+On Stora Road~
+You are at a turn in Stora Road.  It turns quickly south, but it
+continues for a fair ways to the east.  You can see the portal room, and an
+inn in the distance much farther down the road.  To the north is a large set
+of stairs, climbing up the mountain.  There is a small house to the west of
+here, and along the road to the east houses and shops line the sidewalks.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15442
+D1
+~
+~
+0 0 15402
+D2
+~
+~
+0 0 15438
+D3
+~
+~
+0 0 15441
+S
+#15441
+A Sonatarian House~
+This house is obviously owned by a Sonatar.  It is painted in many
+bright, vibrant colours.  There are symbols of the sun everywhere you turn,
+and mirrors for scrying upon every surface.  There is very little living
+space, as most of the extra room is used up by desks or tables covered in
+scrolls, maps, proclamations, and other documents.  
+You smell some strange incense as you walk in.
+~
+0 268443656 0
+E
+incense~
+There are some strange incense burning in the corner.  Perhaps these
+incense are related to the scrying?
+~
+E
+mirrors~
+Glasses for scrying are on every surface.  To you, though, they are
+simply mirrors.  
+~
+D1
+~
+~
+0 0 15440
+S
+#15442
+A Staircase~
+This is a great staircase.  The steps are made of gold, and the handrails
+of silver.  It climbs up, twirling around the mountain, up to a higher
+plateau.  To the south, you can see the lake streching out, and the lower
+level of the city down below.  The mountain towers high above you to the
+north.  
+~
+0 268443648 1
+D2
+~
+~
+0 0 15440
+D4
+~
+~
+0 0 15447
+S
+#15443
+A small hallways~
+You are in a small hallways, dug into the mountain.  There are earthen
+cells on all three sides.  You can see into through the bars: strange
+creatures with sharp fangs, long claws, extra legs are chained into place. 
+You wonder what they are.  
+~
+0 269492232 0
+D0
+~
+~
+1 0 15428
+D1
+~
+~
+1 15412 15446
+D2
+~
+~
+1 15412 15445
+D3
+~
+~
+1 15412 15444
+S
+#15444
+A Cell~
+You are inside a small cell.  There are chains hanging from the walls,
+and a small sink and chamber pot for the prisoners.  The lighting is low,
+and the cell smells terrible.  This is not a cell meant for a huminoid life
+form.  
+~
+0 269492232 0
+D1
+~
+~
+1 0 15443
+S
+#15445
+A Cell~
+You are inside a small cell.  There are chains hanging from the walls,
+and a small sink and chamber pot for the prisoners.  The lighting is low,
+and the cell smells terrible.  This is not a cell meant for a huminoid life
+form.  
+~
+0 269492232 0
+D0
+~
+~
+1 0 15443
+S
+#15446
+A Cell~
+You are inside a small cell.  There are chains hanging from the walls,
+and a small sink and chamber pot for the prisoners.  The lighting is low,
+and the cell smells terrible.  This is not a cell meant for a huminoid life
+form.  
+~
+0 269492232 0
+D3
+~
+~
+1 0 15443
+S
+#15447
+Upon the Staircase~
+You have are about halfway between plateaus on the mountain.  You have
+been travelling on this staircase for what seems like hours.  It has passed
+in and out of the mountain, around everyside, bridged waterfalls and rivers,
+and passed ravines.  Higher up, the Temple level of the city is starting to
+be visible.  Down below, the second and first levels of the city appear to
+join as one, as they strech out southward toward the lake.  
+~
+0 268443648 1
+D4
+~
+~
+0 0 15448
+D5
+~
+~
+0 0 15442
+S
+#15448
+On the Temple Balcony~
+You are up high, high on the staircase.  Down below you the Great
+Staircase of gold and silver spirals around the mountain, towards the lower
+level.  To the north you see the temple streets.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15449
+D5
+~
+~
+0 0 15447
+S
+#15449
+Temple Street~
+This is the temple level of the city.  For each cardinal point, there is
+a temple: one for each of the 4 followings of the Palankcarians.  This is
+the Solotarian side of the mountain.  To the south, the Great Staircase
+descends the mountain, and to the north, steps rise up to the peak, where
+the Valocarian High Keep awaits.  Looking up, you can make out its walls and
+windows built directly into the mountain.  A small path circles the
+mountain, connecting all the temples.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15460
+D1
+~
+~
+0 0 15450
+D2
+~
+~
+0 0 15448
+D3
+~
+~
+0 0 15466
+S
+#15450
+Along the path~
+You are a little further along the path.  You have an excellent view of
+the entire city down below.  There is a handrail protecting you from falling
+off the cliff into the streets below.  From here you can make out the little
+toy buildings for the 'Shining Phoenix', the Portal Room, the docks, and
+more or less the entire city.  There is a sheer cliff to your north, in the
+mountain.  Some rocks have fallen askew at the bottom of the cliff.  
+~
+0 268443648 1
+D1
+~
+~
+0 0 15451
+D3
+~
+~
+0 0 15449
+M 0 H 0
+S
+#15451
+A corner~
+This is a turn in the path, right at the south east corner of the
+mountain.  The small temple path continues along west and north.  The
+mountain still climbs above you, but you can barely make out the summit from
+here.  To the north, you can make out the entrance of one of the temples.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15453
+D3
+~
+~
+0 0 15450
+S
+#15452
+Solotarian Temple~
+You are inside the Solotarian Temple.  There is no priest, minister, or
+other figure of religious belief here, as the Solotar require none.  The
+Solotar believe in solitude, and the power of inner spirit.  There are many
+alcoves around the rooms of the temple, to meditate in.  The floors are
+simply decorated with rugs, and the walls have symbols of confidence and
+trust.  Sometimes large numbers of Solotar will meet here together, and
+meditate on commune, at other times, they will come to preform healing
+rituals to those in need.  
+~
+0 268443656 0
+D1
+~
+~
+0 0 15468
+D2
+~
+~
+0 0 15450
+D3
+~
+~
+0 0 15467
+S
+#15453
+Outside the Monatarian Temple~
+You are outside the Monatarian Temple.  From here you can see far off
+into the east, lake Aquamir stretching out far below.  In the far distance,
+rolling hills and a great forest can just be made out on the far far far
+horizon, past the lake's edge.  The Sunrise from here must be beautiful; so
+must be Moonrise.  The temple itself is large, with many windows on the
+roof.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15455
+D2
+~
+~
+0 0 15451
+D3
+~
+~
+0 0 15454
+S
+#15454
+Monatarian Temple~
+You are inside the Monatarian Temple.  The Monatarians believe in the
+power of the moon and stars.  The entire roof of the temple is made of
+glass, with markings upon it which line up to the stars at night.  The walls
+are decorated with candles all in the shape of stars, and the altar has a
+large moon behind it.  The floors are carpeted with a white rug, and there
+are many pews lined up looking towards the altar.  
+~
+0 268443656 0
+D1
+~
+~
+0 0 15453
+D3
+~
+~
+0 0 15469
+S
+#15455
+A corner~
+You are at a corner of the mountain.  The temple path continues to the
+south and west.  The mountain peaks just above you.  To the north, you can
+see out across the lake, to a great Pine woods, on the far shore.  Along the
+path to the south you see a temple for the Monatar, and to the west a temple
+for the Terratar.  
+~
+0 268443648 1
+D2
+~
+~
+0 0 15453
+D3
+~
+~
+0 0 15456
+S
+#15456
+Temple Street~
+This is the temple level of the city.  For each cardinal point, there is
+a temple: one for each ofthe 4 followings of the Palankcarians.  This is the
+Terratarian side of the mountain.  To the south, the Great Staircase climbs
+the mountain, up the the Valocarian High Keep at the peak.  Looking up, you
+can make out its walls and windows built directly into the mountain.  To the
+north, the Great Staircase descends downwards, towards the rest of the city.
+A small path circles this level of the mountain.  To the west you can make
+out the Terratarian Temple.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15457
+D1
+~
+~
+0 0 15455
+D2
+~
+~
+0 0 15459
+D3
+~
+~
+0 0 15461
+S
+#15457
+The Great Staircase~
+You are at the top of a flight of the Great Staircase.  Looking
+downwards, you see how far you've come.  The staircase itself is made from
+pure gold and silver.  To the south, you see the plateau upon which the
+temples for the people have been built.  The mountain's peak is now barely
+visible to the south, and signs of the Valocarian High Keep are beginning to
+show themselves upon the mountain.  Looking out north, over the lake, you
+see the crystal clear waters, and stretching out into the lake, a pennisula
+can be seen.  At the very tip of this finger of land you can just barely
+make out the Castle of Midnight, where the King and Queen of Palankcaren
+reside.  
+~
+0 268443648 1
+D2
+~
+~
+0 0 15456
+D5
+~
+~
+0 0 15458
+S
+#15458
+Upon the Staircase~
+You have are about halfway between plateaus on the mountain.  You have
+been travelling on this staircase for what seems like hours.  It has passed
+in and out of the mountain, around everyside, bridged waterfalls and rivers,
+and passed ravines.  Higher up, the Temple level of the city is starting to
+be visible.  Down below, the second and first levels of the city appear to
+join as one, as they strech out southward toward the lake.  
+~
+0 268443648 1
+D4
+~
+~
+0 0 15457
+D5
+~
+~
+0 0 15424
+S
+#15459
+Staircase~
+This is the final staircase that climbs up towards the {WValocarian High
+Keep{x.  Just a kilometre or so above you, you can see a plateau where the
+two staircases meet and then climb up to the Keep itself.  This staircase is
+made of pure gold and silver, with marble handrails.  You look down upon the
+city and see it all.  The market, the docks, the parks, the stables, the
+inns and taverns, the houses, the shops...  They are all spread out below
+you like little toys.  Up above, to higher things, the mountain still climbs
+above you, but now, the end is near.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15456
+D4
+~
+~
+0 0 15546
+S
+#15460
+Staircase~
+This is the final staircase that climbs up towards the {WValocarian High
+Keep{x.  Just a kilometre or so above you, you can see a plateau where the
+two staircases meet and then climb up to the Keep itself.  This staircase is
+made of pure gold and silver, with marble handrails.  You look down upon the
+city and see it all.  The market, the docks, the parks, the stables, the
+inns and taverns, the houses, the shops...  They are all spread out below
+you like little toys.  Up above, to higher things, the mountain still climbs
+above you, but now, the end is near.  
+~
+0 268443648 1
+D2
+~
+~
+0 0 15449
+D4
+~
+~
+0 0 15546
+S
+#15461
+Outside the Terratarian Temple~
+You are on a plateau of the mountain, walking along a quaint little path.
+There is a handrail near the cliff's edge to the north, stoping you from
+falling to the streets below.  A few meters away from you, built into the
+very earth itself, is the Terratarian Temple.  The parts of the building
+that you can see are made of earth and stone, with some rarer gems
+ornamenting it.  There is a large door, followed quickly by a ramp into the
+earth.  
+~
+0 268443648 1
+D1
+~
+~
+0 0 15456
+D3
+~
+~
+0 0 15463
+D5
+~
+~
+0 0 15462
+S
+#15462
+Terratarian Temple~
+This is the Terratarian Temple.  For obvious reasons, it is built
+underground.  The walls are made of rock, the altar is made of rock, in
+fact, everything is made of rock...  On the four walls of the temple, are
+painted signs for each of the elements: earth, fire, wind, and water.  Below
+each symbol is an example of each element: A candle, a waterfall, a block of
+stone, and finally, a bottled Tornado.  In the centre of the room is the
+altar, and a small, spiral staircase climbs back up to the surface.  
+~
+0 268443656 0
+D4
+~
+~
+0 0 15461
+S
+#15463
+A corner~
+You are standing at the north west corner of the plateau.  A small path
+circles past you to the east and south, circling the mountain.  From here
+you can look down over the cliff, and see the lake beyond.  To the east you
+can make out the Terratarian Temple and to the south the Sonatarian one.  To
+the north, on a small outcrop of the plateau, jutting out over the city,
+there is a small building.  
+~
+0 0 1
+D0
+~
+~
+0 0 15471
+D1
+~
+~
+0 0 15461
+D2
+~
+~
+0 0 15464
+S
+#15464
+Outside the Sonatarian Temple~
+You are outside the Sonatarian Temple.  To the west, you can see out into
+a clear sky...  The Sonatarian temple must have an excellent view of the
+sunset.  The temple itself is made of a gold-coloured block.  It has a few
+gothic style windows running along the sides and many strange symbols
+engraved upon the doors and walls.  To the north and south, the path
+circling the mountain continues.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15463
+D1
+~
+~
+0 0 15465
+D2
+~
+~
+0 0 15466
+S
+#15465
+The Sonatarian Temple~
+This is the Sonatarian Sun Temple.  There are large gothic windows high
+up the temple walls.  Around the room, at various points, there are small
+pools of water, used for scrying.  Up, at the front of the temple, a large
+pure, transparent crystal ball is upon an altar.  Here and there, doors head
+off into private scrying rooms, or other chambers of the temple.  Donations,
+and Pure Scrying are done in a smaller chamber through a door to the east.  
+~
+0 268443656 0
+D1
+~
+~
+0 0 15472
+D3
+~
+~
+0 0 15464
+S
+#15466
+A Corner~
+You are at the south west corner of the mountain.  You can barely see the
+peak up above you.  Down below, you can make out the various buildings, like
+toys, and farther out, the crystal-clear lake Aquamir.  The path continues
+north and east.  You can make out the staircase to the east, and to the
+north you see the Sonatarian Temple. 
+~
+0 268443648 1
+D0
+~
+~
+0 0 15464
+D1
+~
+~
+0 0 15449
+S
+#15467
+An Alcove~
+This is a safe little alcove.  There is a small bench to kneel upon, and
+a little altar, with some incense upon it.  Upon the wall, right in the
+front of the alcove, is the symbol of the Solotar, a single starburst, green
+on black.  Perhaps if you meditate long enough, perhaps you'll find inner
+courage too.  
+~
+0 268443656 0
+D1
+~
+~
+0 0 15452
+S
+#15468
+An Alcove~
+This is a safe little alcove.  There is a small bench to kneel upon, and
+a little altar, with some incense upon it.  Upon the wall, right in the
+front of the alcove, is the symbol of the Solotar, a single starburst, green
+on black.  Perhaps if you meditate long enough, perhaps you'll find inner
+courage too.  
+~
+0 268443656 0
+D3
+~
+~
+0 0 15452
+S
+#15469
+The altar~
+This is the altar of the Monatarian Temple.  It is made of marble, and
+has a large circular window directly above it, in such a position that, no
+matter the season, the moon will always fall upon the altar at night.  The
+whole temple has a very pleasant feeling to it, and you are very content
+here.  
+~
+0 268443656 0
+E
+moon~
+The large statue of the moon is here.. it looks like you could move it!
+~
+D1
+~
+~
+0 0 15454
+D3
+The large statue of the moon is here.. it looks like you could move it!
+~
+moon~
+1 0 15470
+S
+#15470
+The Priest's Room~
+You are in the back room of the Monatarian Temple.  The priests live,
+eat, sleep, and run the temple from back here.  There are a few beds upon
+one wall, and table in the middle.  Over to the side is a small fireplace,
+and a corner counter serves as a kitchen.  Around the room, many star and
+moon-cycle charts are posted.  
+~
+0 268443656 0
+D1
+~
+~
+1 0 15469
+S
+#15471
+A Portal Room~
+There is a small, but permanent portal in this room.  It is a circular
+disk, hovering between two portal-anchoring stones.  Unlike the portal room
+back to your world, this one has no circles of power to strengthen the
+portal.  Palankcarians are experts of portal magic, and can maintain simple
+portals easily.  This portal is a two-way transport back down to the
+sea-level of the city.  It was built for the citizens, so that they wouldn't
+have to climb the mountain if they wished to visit their temples.  
+~
+0 0 0
+D0
+~
+~
+0 0 15523
+D2
+~
+~
+0 0 15463
+S
+#15472
+Scrying Room~
+You are in the scrying room used by the high Templar of the city.  There
+are many large lenses on the ceiling, which will focus the light of the sun
+directly into a huge scrying ball in the centre.  Aside from the temples of
+Prophet's Island, this is one of the most powerful centres of Sunviewing
+existant...  The Sonatar see like the Sun: all that has, is, and will be.  
+~
+0 268443656 0
+D3
+~
+~
+0 0 15465
+S
+#15473
+the Heart of Lefardango~
+You are deep within the heart of the mountain.  This appears to be a
+cavern, made from solid rock.  Upon each wall there is a large, glowing
+stone.  Each stone is of a different colour, representing one of the four
+races of Palankcaren.  From every stone, there is a line, flowing downwards,
+towards the centre of the room.  The four lines spiral into the middle,
+blending, mixing.  From this point, a large pillar of Blue flies upwards,
+probably into the Valocarian Temple.  Built into one side of the wall, a
+staircase leads downards.  
+~
+0 268443656 0
+D5
+~
+~
+0 0 15474
+S
+#15474
+The death of Palankcarians~
+There is a large Circle of Power drawn on the floor here.  Built
+directly into the walls is a small staircase, climbing upwards, into
+The Heart.  There is a small passageway heading east, from which
+you hear running water.
+~
+0 268443656 0
+D1
+~
+~
+0 0 15475
+D4
+~
+~
+0 0 15473
+S
+#15475
+Behind the waterfall~
+You are in a small, dark passageway.  To the east, you see light coming
+through a waterfall.  
+~
+0 268443656 0
+D3
+~
+~
+0 0 15474
+S
+#15476
+On the Great Staircase~
+You are standing at the bottom of the staircase.  It is made of pure
+silver and gold.  This is sea level.  You can see the second level of the
+city up above, and the lower level stretching out to the south of you.  The
+mountain stretches up above you, far into the clouds.  
+~
+0 268443648 1
+D2
+~
+~
+0 0 15477
+D4
+~
+~
+0 0 15409
+S
+#15477
+On Vartu Road~
+You are down at the sea-level of the mountain.  There is a street running
+east-west, and another street running south.  You can see the mountiain,
+towering over you to the north.  To the south, you can make out the dock
+district of the lower city, further down the hill.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15476
+D1
+~
+~
+0 0 15516
+D2
+~
+~
+0 0 15478
+D3
+~
+~
+0 0 15491
+S
+#15478
+On Vartu Road~
+You are on Vartu Road, one of the streets of the lowest level of the
+city.  Vartu road runs straight from the staircase, out to the docks.  You
+can see to the south, the city walls and the gates leading out to lakeside. 
+The street is lined with houses and stores.  To the mountain towers high
+into the clouds to the north, but you can't see the lake, as it is hidden by
+the castle walls.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15477
+D2
+~
+~
+0 0 15480
+D3
+~
+~
+0 0 15479
+S
+#15479
+A Small Monatarian House~
+This humble abode is owned by a Monatar, and his family.  There is a
+large table at one end, with chairs around it, and a small kitchen nearby. 
+Doors lead off to the various rooms of the house.  A fireplace warms the
+room during cold nights, and a small desk is in the corner, covered in
+papers.  
+~
+0 268443648 1
+D1
+~
+~
+0 0 15478
+S
+#15480
+On Vartu Road~
+You are on Vartu Road, just outside the city walls.  Vartu runs
+north-south here, under the city walls only meters away from you.  There is
+a guard house to the east side of the road, probably where the guards rest
+while not on gate duty.  Tropan Road runs off to the west, along the wall.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15478
+D1
+~
+~
+0 0 15493
+D2
+~
+~
+0 0 15481
+D3
+~
+~
+0 0 15484
+S
+#15481
+Under the Wall, in the gateyard~
+You are standing inside a large archway in the citywalls.  There are
+raised portcullises to the north and south of you, and large doors swung
+open against the walls of the city.  To the north, you can see along Vartu
+road, ending in the barely visible roots of the mountain.  Out to the south,
+the lake extends in all directions, and a little pier reaches out for the
+horizon.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15480
+D2
+~
+~
+0 0 15482
+S
+#15482
+The Pier~
+You are down on the pier level of the city.  The city walls surround the
+city to the north, while the docks extend out into the water.  The docks
+make up an entire network of streets, out on the water.  There are men
+carrying crates all over the docks, while passengers show their tickets to
+captains to be ferried back to the mainland.  There is a large warehouse on
+the pier to the east.  Looking north, you can make out the peak of the
+mountain over the top of the city wall.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15481
+D1
+~
+~
+0 0 15483
+S
+#15483
+The Warehouse~
+This is a small warehouse, down on the pier.  Carts are coming in and out
+picking up goods, and droping them off.  Most ships unload to this
+warehouse, before the products get carted up to the larger warehouse on the
+second level of the city.  There are boat-doors for cargo ships to pull in,
+as well as numerous large doors opening out onto the pier.  
+~
+0 268443656 0
+D3
+~
+~
+0 0 15482
+S
+#15484
+On Tropan Road~
+You are on Tropan Road.  This road runs along the city walls, from Vartu
+Road all the way over to Clima Road.  This area of the city is very fully
+populated.  There are houses and aparements everywhere, shops at every
+corner.  You have to push your way through sidwalk traffic just to walk down
+the street.  To the south, built directly into the city walls, a small
+Cartwright has set up shop.  To the east is Vartu, and to the west, Tropan
+road continues.  The Mountain towers to the north.  
+~
+0 0 1
+D1
+~
+~
+0 0 15480
+D2
+~
+~
+0 0 15486
+D3
+~
+~
+0 0 15485
+S
+#15485
+On Tropan Road~
+This is Tropan Road.  It is in one of the busy residential centres of the
+city.  You can see the city walls along the south face of the street, and to
+the north, the mountain towers above the city, pointing skyward.  The street
+continues to the east, and you can see a CartWright's not far away.  To the
+north and south, the street also continues.  A few shops can be seen to the
+north, as well as the busy traffic of Clima Road in the distance.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15492
+D1
+~
+~
+0 0 15484
+D2
+~
+~
+0 0 15487
+S
+#15486
+The Cartwright's~
+You are inside the cartwright's shop.  There are half finished wheels
+everywhere, piles of spokes all over the place.  In one corner, a few
+finished wheels are lying in a pile, and in the centre of the room, a large
+workbench is covered with sawdust.  Upon a cabinet in the corner, you see a
+bunch of tools and saws hanging, but you are probably more concerned with
+the cartwright himself, who is working at the bench.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 15484
+S
+#15487
+On Tropan Road~
+Tropan Road continues to follow the wall.  There are houses on every side
+of you, and little shops out on the street.  People run about their
+business.  Occasionally, you'll see a guard patrolling along, or a merchant
+with his goods.  The mountain towers over the city to the north.  The wall
+continues circling the city to the east and west.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15485
+D3
+~
+~
+0 0 15488
+S
+#15488
+On Tropan Road~
+The City walls curl to the north here, reaching the western limit of the
+protected city.  Tropan Road, accordingly also turns north.  In the corner
+of the walls, a small tavern attracts customers.  To the north, you can see
+in the distance a more populated area, with markets and more traffic than
+this little corner of the city.  The Mountain towers over you to the north
+east.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15490
+D1
+~
+~
+0 0 15487
+D3
+~
+~
+0 0 15489
+S
+#15489
+The Tavern~
+This is a rather shaddy tavern.  Although the chairs have silver tops, it
+has long since tarnished.  The bar could use some repair, and there is a low
+cloud of smoke throughout the room.  The floor hasn't seen a mop in years. 
+There are some seedy-looking people watching you from the back booth; they
+had stopped their conversation when you came in.  The bartender is
+pretending to clean some glasses.  
+ 
+~
+0 8 0
+D1
+~
+~
+0 0 15488
+S
+#15490
+On Tropan Road~
+You are on Tropan Road, as it turns to the north, following the mountain
+base.  To the south is a large residential area, which you would probably
+run briskly through as there is nothing of interest until you reach the wall
+a kilometre or so farther to the south.  To the east is Clima Road, which
+runs along the south side of the mountain.  Clima also continues west into
+the market district.  The mountain towers over you to the north east.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15494
+D1
+~
+~
+0 0 15491
+D2
+~
+~
+0 0 15488
+D3
+~
+~
+0 0 15497
+S
+#15491
+On Clima Road~
+This is Clima Road.  Houses and shops line the street, which is covered
+with busy traffic.  To the south, Tropan Road branches off, heading back
+toward the mountain.  A small potion shop can be seen off of Tropan road to
+the south.  To the east, you'll hit the staircase upwards, and the eastern
+city.  To the west, you see Tropan Road as it heads northward around the
+mountain.  
+~
+0 268443648 1
+D1
+~
+~
+0 0 15477
+D2
+~
+~
+0 0 15492
+D3
+~
+~
+0 0 15490
+S
+#15492
+On a small branch of Tropan Road~
+You are on a small branch of Tropan road, which reachs north and connects
+with Clima.  To the west a small potion shop tries to attract your
+attention.  To the south, you can see Tropan Road following the castle wall,
+which protects the city.  The mountain towers above you to the north. 
+Houses line the street.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15491
+D2
+~
+~
+0 0 15485
+S
+#15493
+The Guard House~
+This is a large guardhouse where the guards hang out when not on duty. 
+There are maps of the patrol routes of the city on the wall, and a staircase
+leads up to the wall itself.  Swords and uniforms hang upon a third wall,
+while the last wall has been turned into a cooking area, complete with
+fireplace.  The centre of the room is full of lounge chairs and tables to
+sit at.  A number of guards eye you strangely as you enter, but then return
+to their games -- they're off duty.  
+~
+0 268443656 1
+D3
+~
+~
+0 0 15480
+S
+#15494
+On Tropan Road~
+This is Tropan Road.  It runs north-south, parallel to the mountain,
+which is towering about you to the east.  You are approaching the market
+district.  There are large houses of merchants lining the streets, and you
+can hear the sounds of the markets to the north.  To the south you can see
+Tropan road extending back towards the city walls, and if you look over the
+houses to the west, you can see the walls on that side of the island.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15495
+D2
+~
+~
+0 0 15490
+S
+#15495
+On Tropan Road~
+This is the residential part of the market district.  You can see the
+markets over the houses to the west.  There are many people running up and
+down the golden streets here, busily carrying about their daily business. 
+The mountain reaches for the clouds to the east, high above the houses.  Far
+to the south, you can almost make out the city walls.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15509
+D1
+~
+~
+0 0 15496
+D2
+~
+~
+0 0 15494
+S
+#15496
+A Small Terratarian House~
+This humble abode is owned by a Terratar.  The whole building has a very
+earthy feeling to it.  The wall are painted in the colours of the elements:
+earth brown, water blue, fire red, and wind white.  There is a little bed in
+the corner, and a small kitchenet.  A door leads off to another part of the
+house.  
+~
+0 268443648 1
+D3
+~
+~
+0 0 15495
+S
+#15497
+On Clima Road~
+This is the west end of Clima road.  There are houses along both sides of
+the road, and people running up and down the silver street on their daily
+business.  You can see the mountain stretching over the houses to your north
+east.  There is a small back alley running to the south.  To the west, Clima
+road continues, heading into the market district, and closer to the western
+city walls.  To the east is Tropan Road.  
+~
+0 0 0
+D1
+~
+~
+0 0 15490
+D3
+~
+~
+0 0 15499
+M 0 H 0
+S
+#15498
+A back Alley~
+You are inside a small back alley.  You barely have room to edge along
+between the buildings, let alone draw your weapon in here.  The mountain is
+hidden behind the tall buildings.  You can see the wall to the south end of
+the alley.  You think that building on the right of you may be the back side
+of the tavern from Tropan street.  There are boxes and pieces of cloth
+spread around the alley as if a hurricane had just passed through and left
+everything in a mess.  This is probably the only unclean part of the entire
+city.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15497
+S
+#15499
+On Clima Road~
+This is a turn on Clima Road.  Looking down it to the east, you can see
+roads stretching on for miles.  To the north, you can make out the market
+district in the distance, you can barely hear the noise from the square
+reaching you.  To the south is a small Apothecary, with a sign hanging over
+the door.  The mountain towers over the buildings, always visible, reaching
+for the clouds.  
+~
+0 268443648 1
+E
+sign~
+Apothecary Come for all your ingredients and herbal remedies.  Will buy
+ingredients for a good price too.  
+~
+D0
+~
+~
+0 0 15501
+D1
+~
+~
+0 0 15497
+D2
+~
+~
+0 0 15500
+S
+#15500
+The Apothecary~
+You are inside a small apothecary.  There are glass display cases on the
+walls, and many cabinets with hundreds of labels.  You see such things as
+'griffin wing' or 'powdered wombat tooth.'  Upon one case you see 'sunshine
+in a bottle' and in another there appear to be the red wings of cardinals. 
+The owner of the shop is busy running around putting supplies back into
+their jars.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15499
+S
+#15501
+On Clima Road~
+Clima Road runs north-south here.  Over the buildings to your east you
+can see Mount Lefardango towering up above the city.  The roads are full of
+people going about their daily business, although more seem to be heading
+north, towards the markets than those away.  There is a large home to the
+west, with a 'For Sale' sign on it.  You can hear the sounds of the market
+to the north.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15504
+D1
+~
+~
+0 0 15503
+D2
+~
+~
+0 0 15499
+D3
+~
+~
+0 0 15502
+S
+#15502
+A House for Sale~
+This is a rather large, but empty house.  There is very little furniture,
+and certainly no distinguishing items or decorations.  A scroll posted to
+the wall proclaims "For Sale!  Contact the property office in the
+Palankcarian High Keep for details."  The house itself seems rather nice. 
+Large windows, a spacious kitchen and common room.  It appears to have a
+garden out the back.  Not a bad place, and its proximity to the market
+certainly is an added benefit.  A sign hangs in the window.  
+~
+0 268443656 1
+E
+address~
+There is a sign hanging here, with the Address:
+102938 Clima Road
+~
+E
+sign~
+There is a sign hanging here, with the Address:
+102938 Clima Road
+~
+D1
+~
+~
+0 0 15501
+S
+#15503
+A Solotarian House~
+This house is obviously owned by a Solotar.  It is painted in many
+bright, vibrant colours.  There are symbols of the sun everywhere you turn,
+and mirrors for scrying upon every surface.  There is very little living
+space, as most of the extra room is used up by desks or tables covered in
+scrolls, maps, proclomations, and other documents.  
+~
+0 268443656 0
+D3
+~
+~
+0 0 15501
+S
+#15504
+On Clima Road~
+You are on Clima Road, just outside the Market.  There are people running
+in every direction, from stand to stand.  Some merchants are pushing their
+carts back towards the market.  The Mountain looms over your view of the
+market to the east, reaching up to the clouds.  There are large houses of
+rich merchants and dealers all around the market square to the east.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 15505
+D1
+~
+~
+0 0 15506
+D2
+~
+~
+0 0 15501
+S
+#15505
+The End of Clima Road~
+This is the end of Clima Road.  It stops in front of a small statue of a
+past king.  There are houses all around the square you are in, and the
+market is to the east.  You can see the city wall off to the west, but they
+are too tall to see the lake at this level.  There may be a gate along it
+somewhere, leading to the new city, built along the waterfront, although you
+couldn't find your way through the maze of streets to it.  The Mountain
+towers over your view of the market to the east, reaching for the sky.  
+~
+0 268443648 0
+D1
+~
+~
+0 0 15507
+D2
+~
+~
+0 0 15504
+D3
+~
+~
+0 0 15508
+S
+#15506
+The Market~
+This is the market place.  There are stands out in every available space,
+the road lost in a sea of feet.  Elves of all four races try to attract your
+attention to sell you everything from apples to zebras.  Somewhere in this
+mess there must be something you'd like to buy.  A wandering merchant
+approaches you, but gets distracted as another elf comes up to look over
+some of his merchandise.  The Mountain provides a beautiful backdrop to the
+entire affair..  In fact you seem to recall seeing one stand somewhere in
+the mess sell pictures of the market with the mountain.  Oh well...  
+~
+0 268443648 2
+D0
+~
+~
+0 0 15507
+D3
+~
+~
+0 0 15504
+S
+#15507
+The Market~
+This is the market place.  There are stands out in every available space,
+the road lost in a sea of feet.  Elves of all four races try to attract your
+attention to sell you everything from apples to zebras.  Somewhere in this
+mess there must be something you'd like to buy.  A wandering merchant
+approaches you, but gets distracted as another elf comes up to look over
+some of his merchandise.  The Mountain provides a beautiful backdrop to the
+entire affair..  In fact you seem to recall seeing one stand somewhere in
+the mess sell pictures of the market with the mountain.  Oh well...  
+~
+0 268443648 2
+D1
+~
+~
+0 0 15509
+D2
+~
+~
+0 0 15506
+D3
+~
+~
+0 0 15505
+S
+#15508
+A small house~
+This is a small household of a typical family.  There is a kitchen and a
+fireplace with chairs around it.  In one corner, you see a number of
+children's toys scattered about.  There are probably children living in this
+home.  In the kitchen you see a small set of bowls, probably for a cat.  
+~
+0 268443656 0
+D1
+~
+~
+0 0 15505
+S
+#15509
+A Square~
+This is a large square, where many different areas meet.  The market
+sector is to the west.  Tropan Road heads south, eventually hitting the
+southern city walls, near the docks.  North is Mert Road, and east is Ruro
+Road.  The mountain towers up above you to the south east.  The square is
+paved with gold flagstones.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 15510
+D1
+~
+~
+0 0 15511
+D2
+~
+~
+0 0 15495
+D3
+~
+~
+0 0 15507
+S
+#15510
+On Mert Road~
+Mert Road branches off from the square to the south, and turns north. 
+This area is where all the rich houses in Palankcaren are.  A single abode
+might have two or three dozen windows.  Large gardens and courtyards spread
+out from the houses.  Small boutiques show up occasionally.  You can see, to
+the north, the gates to the Castle of Midnight.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15513
+D1
+~
+~
+0 0 15544
+D2
+~
+~
+0 0 15509
+S
+#15511
+Ruro Road~
+This is Ruro Road.  The northern sector of the city is richer than the
+southern one.  You see mansions and residences to the north, and in the
+distance, the Castle of Midnight.  To the south lies the Great Staircase up
+to the next level of the city.  East, Ruro road continues.  
+~
+0 268443648 1
+D1
+~
+~
+0 0 15514
+D2
+~
+~
+0 0 15512
+D3
+~
+~
+0 0 15509
+S
+#15512
+At the Bottom of the Great Staircase~
+This is the bottom of the Great Staircase.  You are now at sea level. 
+The rich district of the city is to your north, with the mountain at your
+back.  There is a tunnel through the mountain which you can make out around
+the corner, to the north east.  Behind you, to the south, the Mountain
+towers up into the clouds.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15511
+D4
+~
+~
+0 0 15425
+S
+#15513
+Before the Castle of {dMidnight{x~
+You stand before the gates of the Castle of {dMidnight{x.  There are
+large guard towers on both sides of the Gates.  You can see through the
+gates, down a majestic garden path, all the way to the Castle itself.  The
+Castle is made of a rare and magical substance, which reacts to the time of
+day.  The Castle will always appear the colour of the sky, and hence the
+name: at midnight, the castle is pitch black, and usually invisible.  During
+the day, it is usually a blue or grey tone, but sometimes it can be pink or
+purple, or orange, if the sun is bouncing of the clouds or setting in just
+the right way.  The Castle is off limits to off-worlders such as yourself.  
+~
+0 268443648 1
+D2
+~
+~
+0 0 15510
+S
+#15514
+Ruro Road~
+Ruro Road continues along the base of the mountain here.  To save you the
+trouble, a large tunnel has been dug into the mountain itself, through to
+the south.  It is a very long tunnel, but the distance is much shorter by
+tunnel than by circling the mountain.  The rich section of town continues to
+the north, and a park is to the east.  You think you can smell stables in
+the eastern direction as well.  The mountain towers above you to the south. 
+~
+0 268443648 1
+E
+tunnel~
+The Tunnel is an ornate construction, built right into the mountain. 
+There are gems embedded in the very stone, and a beautiful script is
+engraved along it, but unfortunately, you don't read Brolian.  
+~
+D0
+~
+~
+0 0 15537
+D1
+~
+~
+0 0 15539
+D2
+~
+~
+0 0 15517
+D3
+~
+~
+0 0 15511
+S
+#15515
+Clima Road~
+You are on Clima Road.  The road is covered with gravel, which is
+spilling out of the mine to your north.  There are a number of buildings in
+front of the mine, among them a small administration buildling, along with a
+bunch of workers lodgings.  Clima Road itself continues to the east and
+west, while Kabe road starts to the south.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15518
+D1
+~
+~
+0 0 15526
+D2
+~
+~
+0 0 15519
+D3
+~
+~
+0 0 15516
+S
+#15516
+On Clima road~
+Clima Road Circles the mountain here.  The mountain itself towers high
+above you to the north.  If you wanted to go to the northern part of the
+city, there is a tunnel running through the mountain here.  Clima road
+itself continues east-west, along the mountain foot.  There are houses and
+shops lining the road.  
+~
+0 0 1
+E
+tunnel~
+The Tunnel is built right into the solid rock.  It is covered with ornate
+gems and has a beautiful script which you can't understand, as you don't
+read Brolian.  
+~
+D0
+~
+~
+0 0 15517
+D1
+~
+~
+0 0 15515
+D3
+~
+~
+0 0 15477
+S
+#15517
+The Tunnel~
+You are inside the tunnel.  It is long, and fairly dark.  Magical globes
+hover every few metres, providing you with light in the eternal darkness. 
+You think you hear footsteps behind you, and in front of you, but it is
+probably your imagination.  The wall has arches every few meters, designed
+to add support.  There could be anything hidden in the shadows, although you
+aren't disturbed by them, the tunnel itself is rather cheerful.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 15514
+D2
+~
+~
+0 0 15516
+S
+#15518
+The Mine~
+You are inside the entrance room to the mine.  There are doors running
+off to various buildings, such as mess hall and working housing.  The mine
+shaft itself starts at an elevator on the north wall.  There is a short elf
+behind a counter, who is ready to sell you pure ore, right from the mine.  
+~
+0 268443656 0
+D2
+~
+~
+0 0 15515
+S
+#15519
+Kabe Road~
+This is Kabe Road.  It heads south shortly, then curls around to follow
+the mountain northward to its east.  You can see the mountain towering above
+you to the north, and the mine protruding from it.  To the south you can see
+the city walls protecting you from the water, with occasional exists.  There
+are houses every few feet, and shops every once in a while.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15515
+D2
+~
+~
+0 0 15520
+S
+#15520
+Kabe Road~
+Kabe Road turns to the east here.  You are deep in another residential
+sector of the city.  Houses are two or three stories high, and very
+populated.  There are stores and merchants, as well as guild signs up and
+down the streets.  You can see the mountain towering above the city to the
+north.  The city walls protect you to the south and east.  There is a
+chandler's store to the south, in case you need some candles or incense. 
+Kabe Road continues to the east and north.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15519
+D1
+~
+~
+0 0 15522
+D2
+~
+~
+0 0 15521
+S
+#15521
+The Chandler's~
+You are inside the city's chandler shop.  This lucky elf has a monopoly
+on making candles and incense for the city.  As you walk in, you immediately
+notice a mixture of potent scents.  As you approach vats of liquid wax, you
+can smell the different 'flavours' of candles.  Over on another wall, piles
+of incense sticks, ready to be burned are neatly oraganized.  The Chandler
+herself lives above the shop, and is always ready to please.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 15520
+S
+#15522
+Kabe Road~
+Kabe Road swings to the north here, to follow the eastern edge of the
+island.  A city wall protects you from the lake a few kilometers to the
+east.  Side streets run off in all directions, allowing access to people's
+houses.  To the west, Kabe Road turns north again, towards the mine, passing
+a residential area, and a few shops, such as the Chandler's.  To the east is
+a large Portal Room.  The portal room is built to allow the populous quick
+access up to the third level of the mountain, where their temples reside. 
+Palankcarians are experts at portal magic, so such small distance portals
+can be maintained permanently.  The Mountain towers above you to the north
+west.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15524
+D1
+~
+~
+0 0 15523
+D3
+~
+~
+0 0 15520
+S
+#15523
+A Portal Room~
+There is a small, but permanent portal in this room.  It is a circular
+disk, hovering between two portal-anchoring stones.  Unlike the portal room
+back to your world, this one has no circles of power to strengthen the
+portal.  Palankcarians are experts of portal magic, and can maintain simple
+portals easily.  This portal is a two-way transport back up to the temple
+level of the city.  It was built for the citizens, so that they wouldn't
+have to climb the mountain if they wished to visit their temples.  
+~
+0 0 0
+D1
+~
+~
+0 0 15471
+D3
+~
+~
+0 0 15522
+S
+#15524
+Kabe Road~
+Kabe Road is running north-south.  Like many roads in this city, it is
+paved of gold, with sidewalks of marble.  The city walls run to the east,
+following parallel, and the mountain towers to the north west.  You can
+vaguely see a clearing between some buildings to the west, it is probably a
+park or something.  You can see a little bridge climbing over a creek to the
+north.  Farther south you see the portal room, leading high up onto the
+mountain.  There are houses and other buildings along the street.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15525
+D2
+~
+~
+0 0 15522
+S
+#15525
+Kabe Road, on a bridge~
+Kabe Road is passing over a little stream here.  The stream flows from
+somewhere west, towards the east, and passes under the city walls, to empty
+into the lake.  There are houses all along Kabe road on both sides of the
+bridge.  The mountain towers almost directly to your east.  Kabe road
+continues north and south.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15536
+D2
+~
+~
+0 0 15524
+S
+#15526
+The Park~
+This is the sea-level park of the city.  The park is a large area,
+covering most of the eastern side of the mountain, right up to its base. 
+You can hear running water to the north of you.  You can see trees in the
+main park to the north.  Clima road starts to your west, right near the
+mine.  You can see the houses lining the roads to the south and west, but
+the park is to your north and east, much more silent and peaceful.  The
+mountain towers over you to the north-west.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15527
+D3
+~
+~
+0 0 15515
+S
+#15527
+The park~
+This is a lovely little park.  It runs all the way from the mountain to
+the west, to the edge of the houses in the east.  You can see a stream to
+the north.  There are many trees here and there.  Over to the north east,
+you can see the lower-town stables of the Keep.  Horses are allowed to roam
+free here, eat grass or drink at the stream.  Children play in the fields.  
+~
+0 268443648 2
+D0
+~
+~
+0 0 15528
+D1
+~
+~
+0 0 15529
+D2
+~
+~
+0 0 15526
+S
+#15528
+In the Park, by the Stream~
+You are in the park, very close to the mountain.  It towers high above
+you, and a waterfall allows the stream from the upper level of the mountain
+to fall down into a large pool here, in the park.  Children swim in the
+pond, while horses, let free form the stables drink from the stream.  You
+can make out some houses to the far east, south, and north.  
+~
+0 0 2
+D0
+~
+~
+0 0 15532
+D1
+~
+~
+0 0 15530
+D2
+~
+~
+0 0 15527
+M 0 H 0
+S
+#15529
+In the park~
+You are walking through the park.  There are horses eating grass and
+running around only meters away from you.  You can see a path that the
+horses have tread, leading north to the stables.  There are trees here and
+there.  The mountain towers over the park to the west.  There are houses
+around the park here and there.  
+~
+0 268443648 3
+D0
+~
+~
+0 0 15530
+D3
+~
+~
+0 0 15527
+S
+#15530
+In the park, by the stream~
+A stream crosses the park here.  You can follow the horse trail over the
+stream and into a small woods to your north.  The woods are part of the
+park.  You can see a magnificent waterfall to your west, from wence the
+stream flows.  Some children fly a kite upon a hill.  The mountain towers
+over the park to the west, and houses line the parks outter edges.  
+~
+0 0 2
+D0
+~
+~
+0 0 15531
+D2
+~
+~
+0 0 15529
+D3
+~
+~
+0 0 15528
+S
+#15531
+In the park woods~
+This is a small wooded area of the park.  The trees are well spaced out. 
+You can see clearings just around the edges of the wood.  There is a
+trampled horse-path running north-south.  You can make out a building of
+some sort north of the woods.  To the west and south you can see the
+clearing.  East, the woods go on, probably until it reaches the houses.  
+~
+0 268443648 3
+D0
+~
+~
+0 0 15534
+D2
+~
+~
+0 0 15530
+D3
+~
+~
+0 0 15532
+S
+#15532
+The Park~
+The park continues along the mountain here.  A small pebble path leads
+north.  There is a beautfiul little forest to the east, and you can see a
+stable around to its north side.  You can hear a large waterfall crashing
+down to the south.  North, you can see where the park ends, a little wall
+surrounds it, to keep the horses in.  
+~
+0 268443648 2
+D0
+~
+~
+0 0 15533
+D1
+~
+~
+0 0 15531
+D2
+~
+~
+0 0 15528
+S
+#15533
+In the park~
+This is the entrance to the park.  There is a small arched gateway
+leading out onto Mert Road.  The lower level stables of the Keep are to the
+east, and a small forest is south of it.  You can see a pebble path
+beginning here, heading south.  In the distance, you can see children
+playing in the fields.  Horses run free in the park, and sleep in the
+stables.  The mountain towers over you to the west 
+~
+0 268443648 1
+D0
+~
+~
+0 0 15539
+D1
+~
+~
+0 0 15534
+D2
+~
+~
+0 0 15532
+S
+#15534
+Outside the stable~
+These are the royal stables of the Valocarian High Keep.  There are, in
+fact, stables up at the Keep level of the mountain, but these are the less
+formal, but much larger stables.  The King and Queen also keep a horse or
+two here, although they have their own stables as well.  The horses are let
+free and can wander into the stables as they wish.  They can't leave the
+park though, but they are very friendly, and will allow children to ride
+them if they aren't tired.  The stables themselves are rather ornately
+built.  They have columns of gold, and silver horse emblems encircling each.
+There are volunteers from the city who come and take care of the horses in
+times of peace; in times of war, the soldiers from the Keep take control of
+the stables once more.  
+~
+0 268443648 3
+D1
+~
+~
+0 0 15535
+D2
+~
+~
+0 0 15531
+D3
+~
+~
+0 0 15533
+S
+#15535
+In the Stables~
+These are the Royal stables of the lower level of the city.  There are
+many stalls for horses of all sizes, each stall with a door to outdoors as
+well as in.  There are bridles and saddles upon the walls, and a small
+storage room in one corner.  A clever device has been set up to feed the
+horses.  The stablemaster should be around somewhere.  
+~
+0 268443648 0
+D3
+~
+~
+0 0 15534
+S
+#15536
+On Kabe road~
+Kabe Road continues to circle the park here.  There is a very large house
+to the east.  It has a garden path leading up to it.  There is a green hedge
+surrounding the property.  A small tree can be seen over the hedge.  The
+road itself continues north and south.  You can hear running water to the
+south.  The mountain towers over the park, which you can see between houses,
+to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 15540
+D1
+~
+~
+0 0 15541
+D2
+~
+~
+0 0 15525
+S
+#15537
+On Quinat Street~
+Quinat Street is one of the more prestigious roads in the lower Town. 
+Many of the large or important families live on this street.  Houses have
+gardens and long entranceways to approach them.  The mountain towers over
+the city to the south.  Quinat road continues north for a while, then swings
+east, to contact Kabe road, which is circling the park to the east.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15538
+D2
+~
+~
+0 0 15514
+S
+#15538
+On Quinat Road~
+Quinat street continues north here.  You can see where it splits a bit
+further up.  The houses are still of an unusually large size.  The street is
+paved of gold and silver.  You can see the mountain towering over you to the
+south.  
+~
+0 268443648 1
+D1
+~
+~
+0 0 15540
+D2
+~
+~
+0 0 15537
+D3
+~
+~
+0 0 15542
+S
+#15539
+Outside the park~
+You are standing right outside the park.  There is a small wall and an
+archway guarding the park, mostly to keep the horses inside.  You can smell
+stables, which are to the south east of here.  Looking into the park, you
+see a vast sea of green, with trees here and there.  There is a small forest
+to the south of the stables, and you can just make out the sounds of a
+waterfall somewhere in the distance.  Turning to the west, you see the busy
+city once more with people running up and down the streets.  North of you
+are the rich residences which encircle the park.  The mountain towers over
+to the south west.  
+~
+0 0 0
+D2
+~
+~
+0 0 15533
+D3
+~
+~
+0 0 15514
+M 0 H 0
+S
+#15540
+Polar Square~
+This is the Polar Square.  It is so called, bacause it is at the north
+eastern point of the city, which reaches out towards the magnetic north of
+the world.  The Geographic north is somewhat further west of the magnetic
+one, so the northeastern point of the city is the closest to it.  There are
+mansions all around Polar Square, and Kabe Road runs south, whereas Quinat
+Road runs to the west.  The Mountain towers over you to the south west.  
+~
+0 0 0
+D2
+~
+~
+0 0 15536
+D3
+~
+~
+0 0 15538
+M 0 H 0
+S
+#15541
+In the Garden~
+This is the garden of someone's private residence.  There is a very large
+mansion to the east side of the garden.  There are flower beds throughout
+the property, with flower of all types.  Considering the success that the
+owner had, they are probably Terratar, an earth elf.  There is a small tree
+in the middle of the garden, with a swing upon it.  Stones have been laid
+down, leading from the gate to the doorway of the mansion.  
+~
+0 0 0
+D3
+~
+~
+0 0 15536
+M 0 H 0
+S
+#15542
+On Krisa Road~
+Krisa Road crosses the rich section of the city, going from east to west.
+Many other streets lead off to houses or shops.  The whole city is one big
+network of streets.  There is a small winery to the north, and Krisa road
+swings South and east here.  You can see the mountain towering over top of a
+mansion at the south end of the road.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15543
+D1
+~
+~
+0 0 15538
+D2
+~
+~
+0 0 15544
+S
+#15543
+The Winery~
+This is the city's winery.  There are large vats of grapes on one wall,
+and on another, there are barrels of finished wine.  In between, there are
+every size and shape of fliter, valve, barrel, distilling equipment, and
+fermenting grapes.  Many different types of wine are offered here, from
+cheap common place, to drinks that the gods would pay fortunes for.  If you
+wanted good quality liquid, you've come to the right place.  
+~
+0 268443656 0
+D2
+~
+~
+0 0 15542
+S
+#15544
+On Krisa Road~
+Krisa Road turns west and north here.  Large mansions continue to line
+the road.  You can see the mountain towering over the houses to the south. 
+Far, at the north end of the street, you can make out a winery.  Quite out
+of place, there is a small horn shop to the east.  The store is less refined
+then all the other buildings in the quarter, but other than that, it appears
+fine.  
+~
+0 268443648 1
+D0
+~
+~
+0 0 15542
+D1
+~
+~
+0 0 15545
+D3
+~
+~
+0 0 15510
+S
+#15545
+The Horn Store~
+This is a small horn store.  There are maybe six or seven horns
+throughout all the store.  One is a warhorn, another is for hunting.  A
+third is for calling animals.  The horns are all very overpriced.  The
+shopkeeper is a gruff character who doesn't seem pleased you entered his
+shop.  
+~
+0 268443656 0
+D3
+~
+~
+0 0 15544
+S
+#15546
+Outside the Valocarian High Keep~
+Before you is the Valocarian High Keep.  Below, a vast staircase circles
+the mountain, decending back to the city.  North, the keep itself is
+majestic.  The keep is made of some unknown shimmering white substance.  It
+is built directly into the peak of the mountain, and it is difficult to tell
+where mountain ends and keep begins.  A small moat circles the keep.  You
+are above cloud level now, and the white of the keep contrasts the pure blue
+of the sky.  Looking over the keep once more, your eye catches windows
+cleverly hidden among the rocks, and balconies.  Open terraces on cliff
+ledges high above you.  The main gate is wide open, large enough for the
+biggest dragon, in welcome.  
+~
+0 0 0
+D0
+~
+~
+0 0 15547
+D5
+~
+~
+0 0 15463
+M 0 H 0
+S
+#15547
+Inside the Foyer of the Valocarian High Keep~
+You stand inside the foyer of the Valocarian High Keep, paralized in awe.
+The ceiling is at least six stories high.  There are two staircases,
+starting at the base of the room, and spiralling upwards, following the
+wall.  Every so often, teh staircases will cross, or will stop for a
+landing, door at every such pause.  High up on the ceiling, you can see
+doors leading straight upwards; shortcuts for those who can fly.  People
+scury into one tunnel, or out of another.  There are tunnels running in all
+directions, right into the heart of the mountain.  Signs point out the
+largest tunnels.  One points you to the Acolyte Wing, and to the Library,
+east.  Another directs you to City Administration, west.  Otherwise give
+directions to apartments and laboratories.  A final sign indicates that the
+Valocarian High Council meets to the North. 
+~
+0 268443656 0
+D0
+~
+~
+0 0 15548
+D1
+~
+~
+0 0 15562
+D2
+~
+~
+0 0 15546
+D3
+~
+~
+0 0 15559
+S
+#15548
+The Heart of Power Rises~
+This is the entrance room to the Valocarian High Council's Chambers.  In
+the centre of the room, a large pillar of blue energy spirals and rotates
+slowly, flowing from the ground upwards.  You wonder what room is above. 
+There are tunnels heading off in various directions, leading to apartments
+and laboratories of the various High Council members.  Occasionally an
+Acolyte or perhaps a fully trained Valocar wanders through the room, going
+from one passage to another.  Their footsteps echo in the silence caused by
+the size of the room.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 15557
+D2
+~
+~
+0 0 15547
+D3
+~
+~
+0 0 15549
+S
+#15549
+A Tunnel into the North Arc~
+You are walking down a tunnel deeper into the Keep.  This tunnel seems to
+lead into one of the Valocarian wings.  Arches every few meters glow with a
+soft white light, illuminating the passage.  Doors lead off all along the
+wall into various rooms: offices, barracks, laboratories..  To the east, you
+see the glow from that strange blue column, and to the west, the tunnel
+stretches onward.  
+~
+0 268443656 0
+D1
+~
+~
+0 0 15548
+D3
+~
+~
+0 0 15550
+S
+#15550
+A Junction of tunnels~
+The tunnel you were following opens up into a little domed room, where it
+junctures with other tunnels.  A small glowing sphere floats up in the
+middle of the room.  You wonder where this place gets all its magical
+energy...  The tunnels lead east, back towards that room with the big blue
+column, south, probably back into the west Arc, and north, continuing deeper
+into the north Arc.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 15551
+D1
+~
+~
+0 0 15549
+S
+#15551
+A Tunnel In the north Arc~
+You are deeper into one of the Valocarian wings of the Keep.
+~
+0 268443656 0
+D0
+~
+~
+0 0 15552
+D1
+~
+~
+0 0 15553
+D2
+~
+~
+0 0 15550
+S
+#15552
+A turn in the tunnels~
+This tunnel turns west and south.  There is a small sphere floating in
+the air to illuminate the corner.  Doors lead off from the other corners. 
+South leads towards a junction that you can see a distance away.  
+~
+0 268443656 0
+D2
+~
+~
+0 0 15551
+D3
+~
+~
+0 0 15554
+S
+#15553
+The Regent's Office~
+This is where the Regent of the High Embassy from the Lands of
+Palankcaren keeps his homeland office.  There are papers scattered all over
+a large marble desk, and a map posted on the wall, depicting Terra's
+traderoutes with other nations.  
+~
+0 0 0
+D3
+~
+~
+0 0 15551
+M 0 H 0
+S
+#15554
+A Turn in the Tunnel~
+There is a turn in the tunnels going east and north.  You can see another
+turn to the east.  North the tunnels lead off into the distance.  There are
+doorways lining the halls on all sides.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 15556
+D1
+~
+~
+0 0 15552
+D2
+~
+~
+0 0 15555
+S
+#15555
+Avacar's Room~
+You are within Avacar's chamber in the Valocarian High Keep.  Looking out
+the large window, you judge you must be in a tower.  Through the magic of
+the keep you must have been transported this high when you stepped through
+the door.  The there is a four post bed in one corner, and a door leading
+off to a servant's room.  A desk against the east wall has a tidy pile of
+papers stacked in one corner.  Near the window is a perch for some large
+bird.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 15554
+S
+#15556
+Doors Deeper into the Keep~
+Large doors bar the way north.  South, the path turns, and seems to go
+into some sort of laboratory and residential wing for the Valocar.  A large
+white arch holds the ceiling up, while also softly illuminating the room.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 15575
+D2
+~
+~
+0 0 15554
+M 0 H 0
+S
+#15557
+Down a tunnel into the Keep~
+You have gone down one of the hallways into the Keep.  Large aches
+illuminate the passage every few meters, making it impossible to tell day
+from night.  There are doors all over the place, a veritable maze leading
+you all around in circles.  You are afraid you may be getting your
+directions crossed, but as long as you follow the main passages, you should
+be fine.  Arriving at a corner, you see a large door on what you think is
+the north side.  The passage goes south and east.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 15558
+D2
+~
+~
+0 0 15548
+S
+#15558
+The Waiting Room~
+You seem to be in some sort of waiting room.  There is a large fireplace
+to one side, and a number of chairs all around it.  The fire seems to burn
+without anything to burn...  No logs, no paper; it just hovers there.  There
+is a small table to one side with refreshments laid out for anyone who may
+want one.  This must be set up as the entrance room to the High Council
+itself!  You can imagine many important plaintiffs must have waited here, to
+plead their case before the {WValocarian High Council{x.  You move forward
+and look out the window...  You are imediately taken aback by the height you
+are at!  You had believed yourself to be at ground level, but you are at
+least six stories above the ground!  Somewhere back in all those windy
+tunnels, you must have somehow gone upwards...  Also, you are facing the
+courtyard you came from...  You thought this room faced north, but aparently
+it faced south!  You must have circled the entire Keep a few times to get up
+this high!  
+~
+0 268443656 0
+D2
+~
+~
+0 0 15557
+S
+#15559
+The Entrance to the City Administration Wing~
+You have travelled down a long narrow passage through the mountain.  The
+halls leading up had strange runes on the walls, illuminating your way.  The
+passage opens up into a two story rotunda.  Looking up and down the room,
+there are desks at all levels.  Platforms seem to float in the sky, with
+staircases leading up and down to them.  Desks with workers are doing
+paperwork on these platforms...  Occasionally a page will float from one
+desk to another.  You hear the scratching of quills on paper as Important
+Documents are signed.  Down here on ground level, there is a large reception
+desk, with some attendants waiting to help you.  A large door leads west,
+deeper in to the Keep, and another leads South, to the Property Registry
+Office.  
+~
+0 268443656 0
+D1
+~
+~
+0 0 15547
+D2
+~
+~
+0 0 15560
+D3
+~
+~
+0 0 15561
+S
+#15560
+The Property Registry~
+Having walked through the doors, you are now in the Property Registry
+Office.  Looking around, you are a bit disoriented.  You had thought you had
+gone south, into another chamber but now you are actually on one of the
+floating platforms, above the hall you had been in previously.  To the
+direction you think is North, there is a Staircase leading downward.  In
+front of you is a gold and marble desk.  Behind it sits a tall, female
+Palankcarian, who looks up from some paperwork as you approach.  Behind her,
+a window floats in mid air, which looks out upon the eastern shore of the
+Island.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 15559
+S
+#15561
+The Mayor's Office~
+You are within one of the high spires of the Valocarian High Keep.  You
+don't quite understand how you got here, as you are sure that the large
+Administration rotunda you had just been in had been floors below, and
+certainly not in a tower.  The office itself is very well decorated.  A
+fresco depicts the city, while on the south wall, there is a very detailed
+map of the city with pins at various intersections and shops.  Strangely,
+there is no desk here, but instead a few chairs arranged around a fireplace.
+Light shines in through the diamond-shaped window.  
+~
+0 268443656 0
+D1
+~
+~
+0 0 15559
+S
+#15562
+A Tunnel Towards the Library~
+This is a narrow tunnel that leads into the keep.  There are doors
+leading off on all sides leading to who knows where...  All of them are
+locked.  Every so often, an Arch holds up the ceiling.  It glows with a
+calming white light.  West, you can still make out the gigantic room that is
+the entrance to the keep, and east, you can see another domed chamber.  
+~
+0 268443656 0
+D1
+~
+~
+0 0 15563
+D3
+~
+~
+0 0 15547
+S
+#15563
+A Large Dommed Chamber~
+You are in a large dommed room.  Looking up at the ceiling, you can see
+the sky, as if the rock just wasn't there.  There are tunnels and chambers
+running off in all directions.  You see many Acolytes scurrying around,
+trying not to be late for lessons.  Sometimes you'll see one try to use some
+form of magic on another, but instructors quickly cause the offenders to
+vanish somewhere for discipline.  A large passage to the north has a sign
+indicating that it leads towards the Acolyte chambers, and in the centre of
+the room is a magical platform, which seems to raise up into the ceiling. 
+It probably leads to the library.  
+~
+0 0 0
+D0
+~
+~
+0 0 15565
+D3
+~
+~
+0 0 15562
+D4
+~
+~
+0 0 15564
+S
+#15564
+The Library~
+You are standing in a vast library.  You have no idea where this must be
+located within the Keep, but you don't remember seeing it from the outside. 
+There is a magical platform in the centre of the room, which descends down
+into the room below.  The library itself seems...  Alive.  There are trees
+growing everywhere, with books hanging from them, and leaves with titles or
+directions.  There appears to be...  Clearnings in the forest in all the
+cardinal directions.  Along the walls, you can see vines with yet more books
+growing off them.  When you...  Pluck a book, it comes off easily, and a new
+one grows in its place.  Once you put the book down, it seems to wilt and
+decompose back into Earth.  You see some Gardeners?  Librarians?  taking
+care of the trees.  None pay you any attention.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 15566
+D1
+~
+~
+0 0 15567
+D2
+~
+~
+0 0 15568
+D3
+~
+~
+0 0 15569
+D4
+~
+~
+1 0 15570
+D5
+~
+~
+0 0 15563
+S
+#15565
+The Entrance Hall to the Acolyte Wing~
+This is a small entryway into the Acolyte wing.  There are large windows
+looking out of the keep, through which you can see a storm brewing.  The
+structural arches, holding the ceiling up, glow, illuminating the room.  A
+Guard bearing the crest of the Valocar guards the way north.  South, you can
+hear noise from that large room, and north, Acolytes stream in and out of
+the doors into their section.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 15571
+D2
+~
+~
+0 0 15563
+S
+#15566
+The Terratarian Wing of the Library~
+You have entered the Terratarian Wing of the Library.  The book-trees
+still grow all around, but there is a small pond, and a small flame burns at
+its centre.  The air here is muggy from all the moisture.  A cool wind
+russles the leaves in the trees.  On a pedestal at the end of the room, a
+large Tome sits open.  A book hanging from the tree catches your eye.  It is
+labelled Book of Fire.  
+~
+0 268443656 0
+E
+book~
+You pluck the book and begin reading at a random page.......
+The Terratarian suspended fire is among their better-kept secrets.  Although
+the preperation for it is common knowledge, only a true Terratar, and a strong
+one at that, can produce the effect.  Most of the other races are often in
+awe of their ability to cause flames to freeze and to not burn water, nor
+waver in air, but the practicality of this technique remains a Terratarian
+secret... 
+You skip ahead a bit...  Water from the lake Aquamir.  Flame from
+the Isle of the Prophets, Bottled Wind of Rak'delru, and a handful of dirt
+fromthe Isle of Aquamir.  
+  Take these to a High Priest, and hope they will help you.
+~
+E
+fire~
+You pluck the book and begin reading at a random page.......
+The Terratarian suspended fire is among their better-kept secrets.  Although
+the preperation for it is common knowledge, only a true Terratar, and a strong
+one at that, can produce the effect.  Most of the other races are often in
+awe of their ability to cause flames to freeze and to not burn water, nor
+waver in air, but the practicality of this technique remains a Terratarian
+secret... 
+You skip ahead a bit...  Water from the lake Aquamir.  Flame from
+the Isle of the Prophets, Bottled Wind of Rak'delru, and a handful of dirt
+fromthe Isle of Aquamir.  
+  Take these to a High Priest, and hope they will help you.
+~
+D2
+~
+~
+0 0 15564
+S
+#15567
+The Monatarian Wing of the Library~
+You are in the monotarian wing of the library.  The book-trees are
+present here too, but they are much wider.  You can barely wrap your arms
+around the trunk of the largest trees.  The leaves of the book-trees all
+have a sliver underside in this section.  Looking up at the ceiling, you
+notice that stars are subtly glowing in various constellations.  Near the
+end of the room, you notice a large Tome on a pedestal.  Looking at the
+books growing nearby, you notice one has the word 'Elkonir' in the title.  
+Another book is entitled 'The Tear of the Moon'
+~
+0 268443656 0
+E
+tear~
+Plucking the book, you begin to read.  Flipping ahead, you find
+an interesting passage:
+"Elkonir are from the sky, of this much we are sure.  Yet we do
+not know why, when under focused moonlight, they transform into
+the gem known as a "Moon's Tear"...
+~
+E
+elkonir~
+You pluck a book entitled 'The study of Elkonir'
+Flipping through some pages, one passage jumps out at you:
+"It discovered that, after polishing, the Elkonir glows much
+more brightly, and has additional properties."
+~
+D3
+~
+~
+0 0 15564
+S
+#15568
+The Solotarian Wing of the Library~
+You are in the Solotarian Wing of the Library.  The book-trees are as
+thick as a jungle here, blocking off your view of everything else.  You
+might be standing right beside someone, but you wouldn't know it.  Wandering
+a bit, glancing at titles, you encounter a pedestal, with a large Tome on
+it.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 15564
+S
+#15569
+The Sonotarian Wing~
+You are in the Sonotarian Wing of the Library.  The book-trees still grow
+everywhere around you, but there are many large windows letting in the
+light.  A sundial sits near the centre of the clearing, beside a mirror, for
+Scrying.  Near the end of the room, a large Tome sits open on a pedestal.  A
+book hanging on a nearby tree is labelled 'flame'.  
+~
+0 268443656 0
+E
+flame~
+Opening the book to a random passage, you read......  The flame of the
+prophet is actually a fire-whip given to those who are strong in the power. 
+With their ability to see the truth, they seek-out wrong doers and
+mistake-makers and fix those mistakes and wrongs before they happen.  
+~
+D1
+~
+~
+0 0 15564
+S
+#15570
+The Valocarian Library~
+This is the private library of the Valocar.  There are a few rock
+outcroppings that take the shape of tables.  Large windows look out in all
+directions over Palankcaren.  The book-trees are carefully planted in neat
+rows in this chamber, unlike the main library below.  Some of the trees look
+older than the Keep itself.  In one corner, a large Tome sits on a pedestal.
+A few other books of note are scattered around the room.  
+ 
+~
+0 0 0
+D5
+~
+~
+1 0 15564
+S
+#15571
+The Entry Hall to the Acolyte Wing~
+Unlike some of the other entrance halls, this one is not four stories
+high and decorated for a king.  Instead, it is rather plain, with signs
+leading around.  It is the Acolyte wing, where young Valocar come to train
+for Guardianship.  Sometimes the Valocar will accept foreigners among their
+ranks, but always under the understanding that will never be Guardians, only
+learn the Guardian ways.  A number of would-be acolytes are lined up against
+one wall, waiting to enter a door to the north.  West, look down into a very
+long corridor, leading deep into the keep.  A sign indicates that east leads
+into the Acolyte residence.  
+~
+0 268443656 0
+D0
+~
+~
+0 0 15572
+D1
+~
+~
+0 0 15577
+D2
+~
+~
+0 0 15565
+D3
+~
+~
+0 0 15573
+S
+#15572
+Testing room~
+I know in this room a page must past probably 2-3 quests to become an acolyte. 
+Thus gaining them access to acolyte areas.
+~
+0 268443656 0
+D2
+~
+~
+0 0 15571
+S
+#15573
+The Hallways of the Valocarian High Keep~
+These are the vast hallways of the Valocarian High Keep.  Occasionally
+there are some of those white glowing arches, illuminating a turn or
+crossroads in the distance.  It is hard to see without them.  Doors, doors
+everywhere line the halls.  Every few seconds you reach another crossing of
+paths.  Often there are exits leading "up" or "down", but since you seem to
+be able to walk on walls here, long ago did you lose track of which way was
+which.  
+~
+0 268443657 0
+D0
+~
+~
+0 0 15576
+D1
+~
+~
+0 0 15574
+D2
+~
+~
+0 0 15574
+D3
+~
+~
+0 0 15574
+D4
+~
+~
+0 0 15575
+D5
+~
+~
+0 0 15556
+S
+#15574
+The Hallways of the Valocarian High Keep~
+These are the vast hallways of the Valocarian High Keep.  Occasionally
+there are some of those white glowing arches, illuminating a turn or
+crossroads in the distance.  It is hard to see without them.  Doors, doors
+everywhere line the halls.  Every few seconds you reach another crossing of
+paths.  Often there are exits leading "up" or "down", but since you seem to
+be able to walk on walls here, long ago did you lose track of which way was
+which.  
+~
+0 268443657 0
+D0
+~
+~
+0 0 15573
+D1
+~
+~
+0 0 15575
+D2
+~
+~
+0 0 15574
+D3
+~
+~
+0 0 15575
+D4
+~
+~
+0 0 15576
+D5
+~
+~
+0 0 15575
+S
+#15575
+The Hallways of the Valocarian High Keep~
+These are the vast hallways of the Valocarian High Keep.  Occasionally
+there are some of those white glowing arches, illuminating a turn or
+crossroads in the distance.  It is hard to see without them.  Doors, doors
+everywhere line the halls.  Every few seconds you reach another crossing of
+paths.  Often there are exits leading "up" or "down", but since you seem to
+be able to walk on walls here, long ago did you lose track of which way was
+which.  
+~
+0 268443657 0
+D0
+~
+~
+0 0 15573
+D1
+~
+~
+0 0 15573
+D2
+~
+~
+0 0 15574
+D3
+~
+~
+0 0 15574
+D4
+~
+~
+0 0 15574
+D5
+~
+~
+0 0 15576
+S
+#15576
+The Hallways of the Valocarian High Keep~
+These are the vast hallways of the Valocarian High Keep.  Occasionally
+there are some of those white glowing arches, illuminating a turn or
+crossroads in the distance.  It is hard to see without them.  Doors, doors
+everywhere line the halls.  Every few seconds you reach another crossing of
+paths.  Often there are exits leading "up" or "down", but since you seem to
+be able to walk on walls here, long ago did you lose track of which way was
+which.  
+~
+0 268443657 0
+D0
+~
+~
+0 0 15575
+D1
+~
+~
+0 0 15576
+D2
+~
+~
+0 0 15574
+D3
+~
+~
+0 0 15573
+D4
+~
+~
+0 0 15576
+D5
+~
+~
+0 0 15571
+S
+#15577
+The Acolyte Residence~
+Been 8 months since I last built.  Not sure what the purpose of this was.  Bear with me.
+~
+0 268443656 0
+D3
+~
+~
+0 0 15571
+S
+#15599
+The Palankcarian Meeting Hall~
+You are in a pocket of creation.  This place is neither in the world of
+Redemption, nor in Palankcaren, but somewhere in between.  It appears to
+take the form of a large castle.  You are specificallly in a great hall,
+with a large table in the middle and a fireplace at one end.  On the walls,
+hang images of Palankcaren, and of various High Embassy members.  All the
+doors in and out of the room are locked, and the windows look out into a
+swirling blackness.  The room is lit by candles, suspended in a chandelier. 
+~
+0 268959748 0
+S
+#0
+
+
+
+#SPECIALS
+M 15411 spec_tourney_cure Load to: a test mob
+M 15414 spec_breath_lightning Load to: Mentar the Cartwright
+M 15416 spec_thief Load to: The masked bandit
+S
+
+
+
+#MOBPROGS
+#15465
+if vnum $o == 15471
+or vnum $o == 15469
+or vnum $o == 15448
+or vnum $o == 15438
+if carries $i 15400
+'I already have a house deed, and I don't feel like making anything for you without payment.
+Drop $o
+else
+if vnum $o == 15438
+'The house ownership very well, I accept this as payment for my work.
+else
+'Yes, this was on my list.
+endif
+endif
+else
+'I am sorry, I do not recognize this.
+drop $o
+endif
+ 
+if carries $i 15471
+and carries $i 15469
+and carries $i 15448
+and carries $i 15438
+mob junk all
+emote takes all the required items and dumps them in a bag.  He puts the bag in a box.
+Emote reaches under the counter and produces a Horn of Iltan.
+Grimace
+'I lied.  I actually had one ready.  Take it, and never come back to my store again!
+Mob oload 15472 40
+Mob oload 15400 0
+endif
+~
+A
+#15464
+if carries $i 15400
+'There is no way I'll make that for you today.  Try tomorrow.  Now get out of my store!
+else
+if isvisible $n
+'I might be able to make that for you, but you'd need to bring me a Moon's Tear first.
+'Here's a list of the other ingredients I'd need.  Bring them all to me when you are ready.
+mob oload 15470 0
+give list $n
+else
+'I am not making anything for anyone I cannot see!
+endif
+endif
+~
+A
+#15463
+'So you want one of my fine works of art, eh?  Unless you're putting in a special order here are the prices for them:
+'100 Million Gold for any regular ones.
+'500 Million Gold for any of the magical ones.
+'Now get out of my store!
+glare $n
+~
+A
+#15462
+if carries $n 15472
+'Ah.  I sense the horn on you... if you give it to me, I shall grant your wish.
+else
+'Greetings $n.  I have been waiting for you.  
+'According to our Sonatar cousins, you are to bring me a Horn of Iltan, and I am to grant you a wish.
+'I look forward to that day.  Return when you have the horn.
+endif
+~
+A
+#15454
+mob goto 15521
+~
+A
+#15453
+if carries $i 15400
+mob junk all
+mob echo $I slowly reaches down, and begins to pull on the rope.
+mob echo $j draws a stick of incense from the vat.
+mob oload 15465 25
+give stick $q
+'That should serve you well.  Now I can begin selling these!
+thank $q
+mob forget
+mob goto 15401
+'move along move along
+else
+if vnum $o == 15454
+or vnum $o == 15461
+or vnum $o == 15464
+or vnum $o == 15463
+or vnum $o == 15435
+ 
+if vnum $o == 15464
+'Oh, the Recipe.  This is perfect.  Thanks. 
+else
+'Hmm, this looks useful.  I'll keep it.
+endif
+else
+'I'm not really sure how this is going to help us.
+drop $o
+endif
+ 
+if carries $i 15454
+and carries $i 15461
+and carries $i 15464
+and carries $i 15463
+and carries $i 15435
+nod
+'I think this is everything i'll need to make it for you.
+emote turns around and begins grinding all the ingredients together.
+mob echo $j pours them into a vat of plain wax, and stirs.
+mob echo After a few moments, $j slowly lowers the horse-whip into the wax, and leans back.
+mob oload 15400 0
+mob remember $n
+mob delay 3
+endif
+endif
+~
+A
+#15452
+if isvisible $n
+if carries $i 15400
+'I appreciate what you're trying to do for me, but someone else already got me a horse today.
+'It would be greedy for me to have two!
+mob oload 15450 0
+give ilc $n
+'Here, take this for your troubles.  They're practically dirt around here, but I've heard
+'that your people value them.
+else
+gasp
+'Wow, you actually arranged for me to have a horse?  Thank you!
+'Very well, the least I can do is give you the recipe you need.  Take it to the Chanlder's.
+on't forget to get the ingredients too.
+mob oload 15400 0
+mob oload 15464 0
+emote scribbles some instructions on a piece of paper.
+give recipe $n
+'I hope that serves you well.
+ endif
+else
+'I realy can't help you if I can't see you.
+drop $o
+endif
+~
+A
+#15451
+if carries $i 15437
+ponder
+'There really is nothing you can do to convince me to part with their secret.  It's sacred!
+'Maybe try again another day?
+else
+'So you wish to know how to make these, eh?
+emote waves $l hand towards the burning incense.
+'Very well.  I have always wanted a horse.  If you can get me rights to a horse, I will tell you.
+endif
+~
+A
+#15450
+'Hmm, I can probably make that for you, but I'll need the recipe and all the ingredients.
+'I won't charge you, though, if you'll let me keep the recipe.
+'Come back when you are ready.
+emote sticks $l hand into a boiling vat of wax, retrieves the floating string, and begins to draw out a candle.
+~
+A
+#15445
+mob goto 15429
+~
+A
+#15444
+if vnum $o == 15455
+or vnum $o == 15458
+or vnum $o == 15447
+or vnum $o == 15460
+or vnum $0 == 15457
+if vnum $0 == 15457
+'You do not wish the Suspended fire?  Very well, we have use for it, take this instead.
+mob junk fire
+mob oload 15450 0
+give ilk $n
+else
+'Yes, this is one of the required parts for the Suspended Flame.
+endif
+else
+'I am sorry, I do not recognize this.
+drop $o
+endif
+if carries $i 15455
+and carries $i 15458
+and carries $i 15447
+and carries $i 15460
+mob junk all
+mob echo $I sits down cross-legged.  He places the objects in front of him.
+mob echo He begins to chant softly, while waving his arms in strange motions.
+mob echo A small flame begins to dance before him.
+mob oload 15400 0
+mob remember $n
+mob delay 4
+else
+if carries $i 15400
+mob echo The flame grows, and a strong wind begins to swirl around it.
+mob echo A light sphere of dirt materializes, and water clings to the earth particles.
+mob echo You are momentarily blinded by a flash of {Ylight{x.
+chuckle
+mob echo As your eyes refocus, $I stands up.
+'It is ready.  Use it well.  Go forth, as a child of the Earth.
+mob junk switcheru
+mob oload 15457 33
+give fire $q
+forget $q
+endif
+endif
+~
+A
+#15442
+if carries $i 15400
+if hastarget $i
+'You have found me, and thus knew where I was before I even left.
+'You have proven yourself a prophet.  Take this, and use it with pride.
+rem prophet
+give prophet $q
+mob echo $I opens a small portal, and steps through.
+mob goto 15494
+mob junk switcheru
+endif
+else
+if rand 70
+mob echo $I begins to predict the lives of all around $l.
+mob echo $I draws $l whip of fire, and kills a passer-by!
+say He was going to commit murder tomorrow.
+grin
+endif
+endif
+~
+A
+#15441
+if isvisible $n
+if carries $n 15455
+and carries $n 15458
+and carries $n 15447
+and carries $n 15460
+'I see you have all the ingredients needed for a Terratarian Suspended fire.
+'I suspect you've done your research then.
+'Very well, I shall prepare one for you.
+'Give me the objects, and I will finish the work.
+else
+mob echo $I hums lightly in concentration.
+endif
+else
+'I detect someone I cannot see has entered our temple!  Begone!
+endif
+~
+A
+#15440
+if isvisible $n
+if wears $n 15451
+'Greetings Page.  You have business in this wing?  You may pass.
+mob transfer $n 15571
+else
+if carries $n 15459
+'Greetings Acolyte.  You have business in this wing?  You may pass.
+else
+mob echoat $n The Guard steps in front of you, barring the door.
+mob echoaround $n The Guard steps in front of $n, barring $s way.
+'Only people on official business, such as Valocar, their Acolytes, or staff may pass.
+endif
+endif
+endif
+~
+A
+#15438
+if room $i 15429
+if mobhere Baltin
+ else
+mob goto 15401
+say Time to leave!
+endif
+endif
+~
+A
+#15437
+if carries $n 15446
+or carries $n 15401
+'Do you still have SolarFury's hilt?  Have you repaired it yet?
+whine
+'Avacar's going to KILL me!
+cower
+else
+if players < 2
+mob echoat $n $I runs up to you as you walk in.
+mob echoaround $n $I runs up to $n as $e walks in.
+'Er you! If you're in the Keep, you must be a respectable citizen!  I don't know who to trust!
+'I was, um, we'll say practicing some magic, while, er, swinging this sword around.
+'And I accidently used one of Avacar's spell focuses... and broke his sword.
+'If he finds out, he's going to skin me alive!
+cower
+'You have to help me!  Here, take the hilt.
+oload 15446 30
+give hilt $n
+'Go down into the city and see if you can find someone to repair it!
+'They'll probably do the work for you, but you'll need to bring them these ingredients:
+'The hilt, a moonstone, a polished Elkonir, some Talaterin Ore, some bottled Wind from 
+'the canyons of Rak'delru...
+ponder
+'I think that's it.  I've been reading one of the Keep's books on Starforging, so
+'I'm pretty sure that will do it!
+emote looks around in a panic.
+'Now hurry! Please get it repaired before Avacar comes back!
+endif
+endif
+~
+A
+#15436
+mob echoat $n the shopkeeper wouldn't like that.
+mob goto 15401
+mob mload 15424
+mob transfer phil 15421
+mob purge $i
+~
+A
+#15435
+if carries $i switcheru
+ 
+if carries $i elkonir
+mob junk switcheru
+mob junk elkonir
+mob oload 15442 30
+emote finishes polishing it up.
+give elkonir $q
+mob forget $q
+drop all
+endif
+ 
+else
+mob oload 15400 0
+emote happily accepts your money, the coins clinking as he puts them away.
+emote begins to polish the item.
+mob remember $n
+mob delay 5
+endif
+~
+A
+#15431
+if isvisible $n
+if carries $i 15439
+'Yes Yes, this is my helmet, but a gem is missing!
+'Can you go find an Elkonir, and have it placed in the mouth of that dragon?
+give $o $n
+else
+if carries $i 15443
+or carries $i 15445
+'Yes! Perfect!  This is exactly what I was looking for!
+mob junk complete
+mob oload 15444 40
+emote walks over to the wall and picks up a spear.
+'For returning my Helm, I want you to have one of my spears.  
+'This one has served me well for years, and has a history of its own.
+'I hope it will serve you well in ridding the world of Dragons!
+give spear $n
+thank $n
+else
+'That's not what I'm looking for!
+give $o $n
+'Thank you for trying, though.
+endif
+endif
+else
+'Who gave this to me?  I don't see you!
+drop $o
+endif
+~
+A
+#15430
+if isvisible $n
+if carries $i switcheru
+'Oh. I've already got one of those, thanks, though.
+pmote shakes a trinket at $n.
+give trinket $n
+else
+mob oload 15400 0
+mob oload 15441
+'Oh! A trinket!  I love trinkets!
+'Here, you can have this.  Daddy says it fell from the sky, and was very excited.  
+give elkonir $n
+emote begins to run in circles, waving his new trinket in midair!
+endif
+else
+'Who're you?  I can't see you?  Trinkets from mid air? Yay!
+emote begins to run around with his new trinket, still clutching something in his other hand.
+~
+A
+#15429
+mob echoat $n $I waves a shiny object around, playing some child's game.
+mob echoaround $n As $n walks in, $I shakes a shiny object around, playing a child's game.
+smile $n
+say Look what I have!
+~
+A
+#15439
+if carries $i 15449
+beam $n
+'You repaired it!  And before Avacar came back!
+'He'll never know the difference!  Thank you!
+'Here, it isn't much, but I can lend you my spare Cloak.
+mob oload 15451 30
+'It has the crest of the Valocar on it, so people might
+'trust you now.
+if isvisible $n
+give cloak $n
+else
+drop cloak
+endif
+else
+'This isn't the repaired SolarFury!  Quick! Fix it before he comes back!
+drop $o
+endif
+~
+A
+#15428
+if isvisible $n
+if carries $i switcheru2
+'Who are you?  I already HAVE the ownership of that house, how can you give me another copy of it?  You're up to no good!
+else
+if money $i > 50000
+'You're giving me this money?  Why? I don't even know you!
+'With this money, I could buy a bigger house for my family!
+else
+'You..you're giving this to me?  That big house on the west side?
+'How did you know my wife was pregnant and that we already have 11 kids?
+'We definitely need that house!
+endif
+if carries $i helmet
+'Please accept this helm.  I know it is broken, but I found it in a cave on the mainland.  I have no use for it.
+give helmet $n
+else
+'Please accept this.  It is all I have.
+mob oload 15450 0
+give gem $n
+endif
+endif
+endif
+else
+'Go away! I can hear you, but not see you!  I don't like that! 
+'Get out of my house!
+endif
+~
+A
+#15423
+if isvisible $n
+if carries $i switcheru
+mob echoat $n $I eyes you carefully, or tries to.  He stumbles while walking over to accept the bottle.
+mob echoaround $n $I eyes $n.  He stumbles while walking to pick up the bottle.
+hic
+'mor brew?  Tze goodstuff? thadmks.  I lovethistuf.  
+'I haven'dnothing tow givu, zory.  I'll kep zbrewas a futr favur.
+thank $n
+emote turns around, hugging the bottle and falls on some hay.  He doesn't get up.
+sleep
+else
+emote happily accepts the bottle with a grin!
+'Thanks! I really love this stuff!'
+emote he pauses a moment, eyeing the bottle.
+'Before I forget, this is what you wanted, isn't it?'
+mob oload 15437 0
+give paper $n
+shake $n
+mob echoat $n $I gives you a push, and, jumping back, uncorks the bottle.
+mob echoaround $n $I pushes $n, and, jumping back fast, uncorks the bottle.
+emote begins to CCCHHUUGGGG! Man, he's fast!
+mob echo The bottle is half empty!
+emote smiles with a crooked grin.
+'zis stuff is great!
+emote walks a not-so-straight line into the corner, and continues drinking.
+mob oload 15400 0
+endif
+else
+'I'm not dealing with anyone I can't see.
+drop $o
+endif
+~
+A
+#15422
+if carries $i brew
+mob call 15421 $n
+else
+emote tinkers with the large feeding machine for a while, then notices you.
+mob echo Wiping his hands on a towel, he turns towards you to speak.
+'Welcome to the Park Stables.  This is where all the citizens come
+to get exercise when they can't get off the island.
+'Since you are not a citizen, you cannot ride the horses, sorry.
+'Feel free to pat them, though.
+endif
+~
+A
+#15421
+if isvisible $n
+if carries $i brew
+hic
+say Wadayawant....leamealong.  I'm happpi.  
+mob echoat $n $I stands up and tries to point at you, but seems to be addressing your 'partner.'
+mob echoaround $n $I stands up and begins pointing in the general direction of $n.  Maybe he's seeing double?
+'look you, thezables' closed, yhear? hohorses tadyay.
+'Ima zerius now.  go away.
+emote is more than a little drunk, and probably shouldn't be bothered.
+else
+'So you want a horse, eh?  Well, I did just buy 2 new ones off of Baltin from his last trip to shore...
+'I'll be willing to give you the rights to one of them, if you can do something for me.
+'I'm really fond of that "Good Island" brew.  I want the "Good Island", though, none of that water stuff.
+'If you can bring me some of that, I'll give you a horse.
+endif
+else
+'I'm not talking about horses with anyone whom I can't see!
+endif
+~
+A
+#15420
+'Ah.  That will do very nicely.  Well, I suppose I can give you one wheel...
+oload 15431
+give wheel $n
+shake $n
+say Nice doing business with you.
+~
+A
+#15419
+say If you really need a wheel quickly, I could be convinced to part with one for, oh, 500 gold. 
+say Or, I'll also accept some nice Wargwood, since I can use that later to make better wheels.
+~
+A
+#15418
+say Welcome to Mentar's Wheels.  I'm the only Cartwright on the island, so if you need wheels, you'll have to come to me.
+say I typically take orders 6 weeks in advance.
+if rand 50
+mob call 15419
+endif
+~
+A
+#15417
+if objhere 15432
+or objhere 15433
+mob echo $I Is trying to make off with stuff from the Merchant Wagon!
+endif
+~
+A
+#15412
+mob delay
+~
+A
+#15411
+if carries $i 15598
+else
+if wears $n 15590
+say HELP!!
+mob echoat $n Your portal inhibitor begins to glow brightly.
+mob echoaround $n Something in $n's hand is glowing!
+mob echo The world swirls around you, but then resettles to normal.
+shudder
+mob oload 15598 0
+else
+mob mload 15408
+mob mload 15408
+mob mload 15408
+mob mload 15408
+say HELP!!
+mob echoat $n Suddenly the world around you distorts into swirls, as 4 portals open.
+mob echoaround $n Suddenly the world around you distorts and swirls, as 4 portals open around $n.
+mob echo A Noble Guard steps out of each portal, responding to the cries for help.
+mob oload 15598 0
+endif
+endif
+~
+A
+#15410
+mob echo As $i dies, $j vanishes into thin air!  You are momentarily blinded by the afterimage of the disappearance.
+mob goto 15474
+mob echo $I appears, and falls to the floor, dead.
+if carries $i switcheru
+mob junk switcheru
+endif
+if carries $i 15598
+mob junk deathstick
+endif
+~
+A
+#15409
+if $n carries treatoma
+close west
+lock west
+else
+oload 15402 0 none
+give key $n
+close west
+lock west
+endif
+~
+A
+#15407
+emote polishes his ring, and a glint of gluttony appears in his eyes.
+if mobhere 15424
+else
+mob mload 15424
+endif
+~
+A
+#15406
+emote sharpens a spear.
+~
+A
+#15405
+if race $n black dragon
+or race $n blue dragon
+or race $n green dragon
+or race $n white dragon
+or race $n red dragon
+say A dragon, in my own home!  How could I let this happen!
+say Out, OUT FOUL DRAGON!
+mob echoaround $n $I raises a magical spear, and a burst of light fires at $n.
+mob echoat $n $I raises a magical spear at you, and a burst of light fires at yo
+u!
+mob echoaround $n $n is pushed out of the house!
+mob echoat $n you are pushed out of the house! Ow! That hurt!
+mob damage $n 100 300 nokill
+mob transfer $n 15431
+mob force $n look
+else
+say Ah, greetings!  Come in Come in, visitor from a strange world!
+'Perhaps you have heard of a Dragon?  They ar elarge and fierce beasts that roam far off lands.  
+'My fellow Palankcarians do not agree, they are friends of Dragons.  I must go forth and slay them all!
+'Perhaps you can do me a favour?  I lost my best Dragonslaying helmet.
+'Could you go find it?
+endif
+~
+A
+#15404
+if isvisible $n
+mob remove $n 15402
+say $n, I hope you enjoyed your stay.  I am taking your key now.
+say Please stay with us again some other time.
+mob transfer $n 15406
+mob force $n look
+mob call 15403
+mob echo $n has left the room.
+mob at 15406 mob echoaround $n $n has arrived.
+else
+say You must be visible to leave, the innkeeper doesn't like surprises.
+endif
+
+~
+A
+#15403
+close west
+lock west
+say If you want to leave, at anytime, just ask.
+~
+A
+#15402
+shake $n
+say $N, Welcome to my humble inn.  I hope you enjoy your stay.  Can I interest you in a room?
+~
+A
+#15594
+say start test
+mob delay 25
+~
+A
+#15401
+if isvisible $n
+mob asound You hear the magical hum of a large portal opening nearby.
+mob echo $I opens a large portal to Palankcaren.
+mob echoat $n $I ushers you through the portal.
+mob echoaround $n $n steps into the Great Portal to Palankcaren and vanishes..
+mob gtransfer $n 15403
+mob force $n look
+mob echo $I closes the Great Portal to Palankcaren.
+mob at 15403 mob echoaround $n A Great Portal suddenly opens, and $N steps out!
+else
+say I can't open the portal for people whom I can't see.
+endif
+~
+A
+#15400
+say Evil shall prevail.
+mob damage $n 5 10 nokill
+
+ 
+~
+A
+#15599
+mob echoat $n Avacar's holy smite shines down from the Heavens!  
+mob echoat $n You Are hit by a Meteor!
+mob echoat $n You are hit by Lightning!
+mob echoat $n You are hit by a Plasma Bomb!
+mob echoaround $n Avacar's Holy Smite shines down on $n from the Heavens!
+mob echoaround $n $n is hit by Meteors, Lighting, and a Plasma Bomb!
+mob damage $n 600 1000 
+mob echo The Holy Smite fades.
+mob cast heal $i
+~
+A
+#15598
+if isimmort $n
+mob goto 15401
+mob vforce 15408 mob goto $i
+mob purge
+mob goto $n
+'Noble Purge Complete Sir!'
+else
+'You're not a Mster! I'm not listening to you!
+endif
+~
+A
+#15597
+mob echoat $n You feel a pulling sensation.
+mob echoaround $n $N suddenly begins to shimmer.
+sleep 2
+mobechoaround $n $N has disappeared!
+mob trans $n 11240
+mob force $n look
+mob echoat $n The world inverts, and suddenly you are in the Embassy.
+mob echoaround $n The world shimmers, and $N suddenly appears.
+~
+A
+#15596
+if hour == 5
+mob at avacar mob force avacar gift 12190
+else
+if hour == 19
+mob at avacar mob force avacar gift 12192
+endif
+endif
+~
+A
+#15595
+say test begin
+immtalk Testing!
+say done
+~
+A
+#15408
+emote tries to sharpen a dagger, but cuts himself!
+say OW!
+~
+A
+#15593
+mob echo $I sends $n to the High Embassy from the Lands Of Palankcaren on Dominia
+mob transfer $n 31013
+mob force $n look
+~
+A
+#15413
+if mobhere 15415
+else
+emote paces, while mumbling to himself.
+say When is that shipment going to get here!  It is already late!
+look $n
+point $n
+'You! Can you do me a favour?  Can you go down to the docks and find out why the shipment hasn't arrived?
+endif
+~
+A
+#15414
+if room $i == 15483
+say You!  Can you help me?  I need to get this wagon up to the other warehouse on the Second Level.
+say Recently, I've been attacked by bandits, and I need someone to protect me!  Will you do it?
+if objhere wagon
+else
+mob oload 15432 0
+mob echo Baltin loads up a cart full of goods from the pier, and starts pacing around it.
+endif
+else 
+if room $i == 15423
+if hastarget $i
+say $q, have you gotten us that wheel yet?  We're not going anywhere without it
+else
+say Have you seen $q?  He's supposed to be getting me a wheel!
+Endif
+Endif
+Endif
+~
+A
+#15415
+if isvisible $n
+if room $i == 15423
+Say Thank You $q!  We can finally get to the warehouse!
+Mob echo $i quickly repairs the wagon with the spare wheel!
+Say Let's go!
+Mob purge wagon
+Mob oload 15432 0
+Mob junk switcheru
+Mob echoat $q You hop on the wagon after Baltin, and head the wagon rolls onwards.
+Mob force $q sit wagon
+Mob echoaround $q $q and Baltin hop on the wagon, and head west towards the Warehouse.
+Mob transfer $q 15429
+Mob otransfer wagon 15429
+Mob goto 15429
+Mob echoaround $q Baltin and $q arrive on a merchant wagon.  Parking it in a corner, they hop off.
+Mob echoat $q Baltin hops off the cart, and you quickly follow.
+Mob force $q stand
+Say Grathonir, sorry I am late!  I was delayed at the docks, but $q helped me get here safely.
+Mob transfer Grathonir 15400
+Mob goto 15401
+Mob transfer grathonir 15429
+Mob goto 15400
+Mob transfer grathonir 15401
+Mob goto 15429
+Mob echo A number of workers run forward, and quickly empty the stock from the wagon.
+Mob echo {yGrathonir the merchant says 'Now I am open for business! Thank you $q!'{x
+Mob oload 15461 35
+'$q, I know this isn't much, but please, take my horsewhip. It is covered in algae from being used as an anchor rope, but it's strong.
+Give whip $q
+Mob forget $q
+endif
+if room $i == 15483
+say Splendid!  Hop on the wagon, and we'll get moving!
+mob force $n sit wagon
+mob echoat $n $I hops on the wagon after you, gives the reins a jerk, and the Merchant Wagon starts moving...
+mob echoaround $n Baltin hops on the wagon after $n, waves to you, and they start off down the road.
+mob otransfer wagon 15476
+mob transfer $n 15476
+mob goto 15476
+mob echoat $n You've travelled down the road a bit, and have reached the staircase.
+mob echoaround $n A merchant wagon has arrived, carrying $I and $n.
+say Well, this is rather steep, I'm going to give the horses a chance to rest.
+mob remember $n
+mob delay 5
+endif
+else
+say You aren't much of a useful guard to me if I can't see you!
+say I'll happily accept your help once you are visible.
+endif
+~
+A
+#15416
+if isvisible $q
+if room $i == 15476
+say Well, we had best keep moving.
+mob echoat $q $I flicks the reins, and the wagon lurches forward!
+mob echoaround $q $I flicks the reins, and the merchant wagon departs!
+mob otransfer wagon 15414
+mob transfer $q 15414
+mob goto 15414
+mob echoat $q $I lurches the wagon to a halt suddenly!
+mob echoaround $q $q and $I arrive on a Merchant Wagon just in time to be ambushed by Bandits!
+mob mload 15416
+mob mload 15416
+mob mload 15416
+say Bandits!  They're after the wagon!  Stop them!
+mob oload 15400 0
+mob delay 4
+endif
+ 
+if room $i == 15414
+if mobhere 15416
+if carries $i switcheru
+mob vforce 15416 kill merchant
+mob force $q stand
+mob echoat $q QUICK!  THEY ARE ATTACKING BALTIN!  STOP THEM!
+Mob junk switcheru
+mob delay 3
+else
+if rand 25
+say Help! Bandits! You're supposed to be protecting me $q!
+mob delay 3
+endif
+endif
+else
+sigh
+emote whipes the sweat from his forhead.
+'That was close!  Thank you $q!  Shall we continue on?
+Mob force $q sit wagon
+Mob echoat $q Baltin hops back on the wagon, and with a flick of the reins, hurries away from the park.
+Mob echoaround $q $I hops back on the wagon, and quickly ride off down the street.
+Mob purge wagon
+Mob transfer $q 15423
+Mob goto 15423
+Mob oload 15433 0
+Mob echoaround $q $I and $q arrive on a merchant wagon from the east.  Suddenly the wagon jarrs hard to one side.
+Mob echo You hear a large CCRRRRAAAACCCCKKKK!!
+Mob echoat $q You were riding along happily until the wagon hit a hard bump in the road!  Ouch, that hurt!
+Mob damage $q 20 60 nokill
+Mob delay 3
+say Well.  We seem to have broken a wheel.  We're not going anywhere until this gets repaired.  $q, can you go and find us a wheel?
+Say I'll only wait here for a while, then I may have to abandon my goods!  Hurry!
+Mob oload 15400 0 
+Mob force $q stand
+Mob delay 20
+endif
+endif
+if room $i ==15423
+if hastarget $i
+say What are you waiting for, $q?  We need that wheel!  Go find one!
+Mob delay 20
+else
+if rand 20
+say I can't keep waiting forever!  I'm going to have to leave.
+Mob zecho {R$q yells 'You've taken too long.  I'm abandoning my cart to the bandits!  Thanks for nothing!'{x
+Mob purge wagon
+Mob echo $I wanders off.  His wagon is quickly taken by bandits, vanishes.
+Mob purge $i
+Else
+Mob delay 20
+Endif
+endif  
+endif
+else
+say We're not doing anything until I can see you!
+mob remember $q
+mob delay 3
+endif
+~
+A
+#15424
+if sex $n < 2
+mob echoat $n $I looks up, does a double take, and begins to straighten her hair.
+mob echoaround $n $I looks up as $n enters the room, and begins to straighten her hair.
+say What can I do for you, $n?
+bat
+else
+if sex $n == 2
+mob echoat $n $I looks up as you come in, but quickly looks back down at her work.
+mob echoaround $n $I looks up as $n comes in, but goes back to work.
+'What can I do for you, $n?
+endif
+endif
+~
+A
+#15425
+'So, you are interested in that property down on Clima road, eh?
+'That's a nice house.
+if sex $n < 2
+'It is so...big.. perfect for a ....family.
+wink $n
+mob echoat $n You inform her it isn't for you.
+mob echoaround $n $n informs $I that the property isn't for him.
+sigh
+'Well.  We do have someone else interested, and they've filled out most of the paperwork.
+'But you might be able to convince me to give the rights to you...'
+point $n
+'I sooo do love horses.  Can you convince the stablemaster down in the park to give me one?
+'I just know you'll do a great job!  I'm counting on you!
+bat
+else
+if sex $n == 2
+'Well, we have someone else interested in it, but you might be able to ... convince me otherwise.
+'I've been nagging that fool stablemaster to sell me one of his horses for years.
+'If you can get me a horse, I'll arrange the paperwork to end in your favour for this house issue.
+nod
+emote looks back down to her work.
+endif
+endif
+~
+A
+#15426
+if carries $i switcheru
+say Someone else already got me a horse, thank you, though.
+'I don't have any property to give you, but I will keep the second horse!
+else
+if sex $n < 2
+beam $n
+'You got this for me?  Thank you! Here's the property rights papers.
+mob oload 15438 0
+give ownership $n
+'I'm free after 10pm...
+mob echoat $n You sigh, and walk north while shaking your head.
+mob echoaround $n $n sighs, and leaves the room while shaking his head.
+mob force $n north
+else
+if sex $n == 2
+'Hmm.  Thank you.  I've always wanted a horse. Well, I suppose I owe you this.
+mob oload 15438 0
+give ownership $n
+'Now, if you'll be on your way, I have work to do.
+emote looks back down at her work, and begins chewing her quill.
+endif
+endif
+mob oload 15400 0 
+endif
+~
+A
+#15427
+mob echoat $n As you walk into the house, you catch a glimpse of what Ilnosar is holding.
+mob echoat $n It appears to be a rather ornate Helmet, with dragon designs around the crown.
+mob echoat $n A gem appears to be missing from between one of the dragon's jaws, though.
+mob echoat $n $I quickly pushes the helm under a cloth.
+mob echo $I says, under his breath {y'If I sell this, I'll have enough money to buy that house on the west side.'{x
+mob echoat $n $I notices you.
+mob echoaround $n $I notices $n.
+glare $n
+'Who are you!  Get out of my house!
+if carries $i helmet
+else
+if carries $i switcheru
+else
+mob oload 15439 25
+wear helmet
+mob oload 15400 0
+endif
+endif
+~
+A
+#15432
+if isvisible $r
+emote pounds on his anvil, shaping the metal.
+mob asound You hear a large CLANG from the forge.
+mob echo CLANG!
+mob asound You hear a large CLANG from the forge.
+emote pounds on his anvil.
+mob asound CLANG!
+mob echo CLANG!
+emote whipes his brow.  He looks up and notices you, and begins talking
+mob echo but all you hear is the anvil.
+mob echo CLANG!
+mob asound CLANG!
+mob echo All you catch is the last words:
+say .... then read the sign.
+emote turns back to his work, and throws the current piece back in the fire.
+else
+'I hear you, but I can't see you.  GET OUT!  I don't like none invisible people.
+endif
+~
+A
+#15433
+emote cocks his head, and stops pounding.
+emote searches his pockets, and empties anything he doesn't recognize onto the floor.
+drop all
+emote returns to his work.
+mob echo CLANG!
+mob asound CLANG!
+~
+A
+#15434
+if isvisible $n
+emote pumps the belows RED HOT. He puts various objects in.  After a few minutes
+mob echo he turns to the anvil, and begins pounding.
+mob echo CLANG!
+mob asound CLANG!
+if carries $i 15439
+and carries $i 15442
+mob junk all
+mob echo After an hour or so, he completes the work, and hands it to you.
+mob oload 15443 27
+give helm $n
+else
+if carries $i 15439
+and carries $i 15441
+mob junk all
+ mob echo After an hour or so, he completes the work, and hands it to you.
+mob oload 15445 26
+give helm $n
+else
+if carries $i 15448
+and carries $i 15410
+and carries $i 15442
+and carries $i 15447
+and carries $i 15446
+mob junk all
+mob echo After an hour or so, he completes the work, and hands it to you.
+mob oload 15449 35
+give fury $n
+else
+mob echo After an hour or so, he looks up in frustration.
+'I canna make nothin' with what you've given me.  I'm keepin' the fee for my troubles.
+endif
+endif
+endif
+else
+'I'm not doing any work for someone I can't see.
+endif
+~
+A
+#15443
+if carries $i 15460
+if carries $i 15400
+mob zecho {R$I yells 'You have failed to prove yourself, $q.  I wait no longer.'{x
+mob echo $I opens a portal and steps through.
+mob purge $i
+else
+'So you are interested in the Fire of Prophets, are you?
+'I can only give this weapon of justice to those who prove themselves a true prophet.
+'If you can use your clairvoyance to know where I go, then you will prove yourself.
+mob echo $I opens a small portal and steps through.
+mob remember $n
+mob goto 15569
+mob echo A small portal opens, and $i steps through.
+'Shh! I'm hiding from $n!
+mob oload 15400 0
+mob delay 15
+endif
+else
+'I have not a spare Fire of the Prophets.  I gave it to another prophet earlier today.
+'Try again tomorrow, perhaps.  I will have returned home and collected another.
+endif
+~
+A
+#15455
+if carries $i 15400
+mob force $q stand
+mob echoat $q As you rise to your feet, you still see a bit dizzy.  You have vague memories of something.
+mob echoat $q You aren't sure quite what, though...  You certainly feel confident it was a good image.
+mob echoaround $q The prophet stops circling, and beings to watch $q.
+mob echoaround $q As $q rises to their feet, $X has a strange look in $Y eyes.
+'It was not big, but for a moment, I felt the clarity of the sun touch you, my child.
+'You have experienced your first prophecy.  Let me tell you what you saw.
+mob echoat $q $I leans towards you, and whispers your vision in your ear.
+mob echoaround $q $I leans towards $q, and whispers in their ears.
+mob echo Leaning back, $I smiles.
+mob junk all
+mob oload 15466 40
+give future $q
+'Go forth, with confidence, my child.
+mob junk all
+mob forget
+else
+'Ah, excellent.  Some incense.  Just what we need.
+mob junk all
+emote lights the prophecy-inducing incense.  He begins to walk around
+mob echo the room, slowly waving the incense.
+mob echo You begin to feel woozy.
+mob echoat $n You see the sun begins shinning into the room, seemingly more brightly than before.
+mob echoaround $n The sun seems to shine suddenly very brightly on $n's face.
+mob echoat $n You pass out.
+mob force $n sleep.
+mob echoaround $n $n passes out.  The prophet continues to circle the room, waving the incense.
+mob oload 15400 0
+mob remember $q
+mob delay 2
+endif
+~
+A
+#15446
+'I am sorry, but I do not have the Flame of the Prophets.
+'It has been too long since I was last on the Isle of the Prophets, and the flame can burn out.
+'You will have to seek another Prophet in the city.
+~
+A
+#15447
+'So you wish to understand what is to come?  We will need to scry then.
+'First, though, we will need some scrying incense.  Go acquire some, and we can begin.
+'You must discover on your own, how to make the incense, but the chandler in town can help.
+~
+A
+#15448
+if carries $i 15400
+else
+if players > 0
+'Can you help me find my kitten?  She's cute and fluffy and magical.
+plead $n
+else
+mob asound You here a voice in the distance shout {y'Fluffy!  Where are you?  Here Kitty!'{x
+endif
+endif
+~
+A
+#15449
+if isvisible $n
+if carries $i 15400
+'That's not fluffy!  I already have fluffy!
+emote shows you a cat in $l arms.
+else
+'Oh! You found fluffy!  Thank you!
+emote hugs the cat close to $l body.
+mob echo $j reaches up and pulls a flower from her hair.
+mob oload 15463 14
+give flower $n
+hop
+mob oload 15400 0
+endif
+else
+'Fluffy!  Where did you come from?  I don't see anybody?
+shrug
+hop
+mob oload 15400 0
+endif
+~
+A
+#15456
+if carries $i 15467
+if hastarget $i
+'Thank you $q.  Please take this, we are happy to share our skills with you.
+give salve $q
+mob forget
+mob cancel
+mob junk all
+mob vforce 15437 goto 15452
+mob echo The Solotar begin worshiping together silently.
+mob vforce 15437 stand
+mob vforce 15437 rest
+endif
+else
+if carries $i 15400
+else
+if ispc $r
+and rand 10
+mob echoat $n $I is praying silently as you walk in.
+mob echoat $n $I looks up, directly at you.
+mob echoaround $n $I looks directly at $n.
+'It is time for us to worship.  If you could go into the city, and ask my fellow Solotar
+'to come join me here, we can begin.
+'Tell any Solotarian Worshipers that you find that they should come to the temple.
+mob vforce 15437 mob oload 15400 0
+'We will wait for a few minutes, and then begin.  If you can bring more than 8 worshipers
+'I will reward you.
+mob remember $n
+if room $i == 15467
+'I will wait in the common area.
+east
+endif
+mob oload 15400 0
+mob delay 50
+else
+'I am meditating alone right now, come back some other time.
+endif
+endif
+endif
+~
+A
+#15457
+if carries $i 15400
+'Ah yes, the time for worship has come.  Thank you. Will you be joining us?
+mob echo $I opens a small portal and steps through to the Solotarian Temple.
+mob goto 15452
+mob echo A small portal opens and $I arrives.
+sit
+if clones > 7
+'We are all here
+endif
+endif
+~
+A
+#15458
+if isnpc $n
+if carries $i 15467
+else
+mob oload 15467 40
+'Excellent!  Now we need only wait for Avacar to reward $Y.
+mob cancel
+endif
+endif
+~
+A
+#15459
+if carries $i 15467
+mob zecho {R$i yells '$q, you collected enough worshipers, but took too long, our worshiping is over.'{x
+else
+mob zecho {R$i yells '$q, we in the temple have finished worship.  You took too long collecting the others.'{x
+endif
+mob vforce 15437 mob goto 15452
+mob purge
+mob purge $i
+~
+A
+#15460
+emote tinkers with the telescope as you walk in.
+ 
+'The moonlight is spectacular at night.
+~
+A
+#15461
+if hour == 19
+if objhere 15468
+else
+mob echo Moonlight begins to shine down through the window above.
+mob oload 15468 0
+endif
+else
+if hour == 5
+and objhere 15468
+mob purge 1moonlight
+mob echo The Moon sets, and moonlight no longer washes the room.
+endif
+endif
+ 
+if objhere 15468
+if objhere 15441
+or objhere 15442
+mob purge elkonir
+mob oload 15469 35
+mob echo In the soft moonlight, the Elkonir shimmers {wsilver{x and transforms into a Moon's Tear.
+mob echo $I picks up the Moon's Tear.
+'An excellent specimen.
+drop tear
+endif
+endif
+~
+A
+#15466
+if isvisible $n
+if vnum $o == 15472
+'Ah, the horn of Iltan.  Thank you for making this for me.
+'It is a well documented fact that us Monatar can grant wishes when in the Forests of the East.
+'It is less known that we can also do it in sacred places such as this one.  Now, relax, and I shall grant your wish.
+mob echoaround $n $I begins to hum slowly to himself.
+mob echoat $n $I begins to hum slowly.  You feel...something wash over you.
+mob echo Something bright begins to glow between Teril's hands.
+mob echoat $n Teril grants your wish to you.
+mob oload 15473 40
+give wish $n
+mob junk horn
+else
+'I don't want this junk!
+drop $o
+endif
+else
+'You must be visible for me to grant you your wish.
+drop $o
+endif
+~
+A
+#15566
+~
+A
+#15467
+if carries $n 15451
+'You! Page!  What are you doing in this part of the Keep?
+'Never mind!  I sense you have great potential!  Get in line with the others, and head north when you are ready to be tested!
+else
+if carries $n 15459
+'Welcome back, Acolyte.
+else
+'What are you doing in this area?  Begone, mortal!
+endif
+endif
+
+~
+A
+#15468
+if isvisible $n
+if wears $n 15451
+say Greetings Page.  You have business in this wing?  You may pass.
+mob transfer $n 15574
+else
+if carries $n 15459
+say Greetings Acolyte.  You have business in this wing?  You may pass.
+else
+mob echoat $n The Guard steps in front of you, barring the door.
+mob echoaround $n The Guard steps in front of $n, barring $s way.
+say Only people on official business, such as Valocar, their Acolytes, or staff may pass.
+endif
+endif
+endif
+~
+A
+#0
+
+#RESETS
+D 0 15400 0 2
+D 0 15401 2 2
+D 0 15406 1 2
+D 0 15406 3 2
+D 0 15407 3 2
+D 0 15408 1 2
+D 0 15428 2 1
+D 0 15443 0 1
+D 0 15443 1 2
+D 0 15443 2 2
+D 0 15443 3 2
+D 0 15444 1 2
+D 0 15445 0 2
+D 0 15446 3 2
+D 0 15469 3 1
+D 0 15470 1 1
+D 0 15564 4 2
+D 0 15570 5 2
+M 1 15400 20 15400 2
+E 0 15400 0 1
+O 0 15401 0 15401
+M 1 15411 3 15401 2
+M 1 15426 1 15401 1
+G 0 15447 0
+G 0 15471 0
+M 1 15435 1 15401 1
+G 0 15465 0
+M 1 15599 1 15403 1
+G 0 15458 0
+M 1 15403 1 15405 1
+G 0 15402 0
+O 0 15404 0 15405
+G 0 15406 0
+G 0 15405 0
+M 1 15402 1 15407 1
+E 0 15402 0 17
+O 0 15407 0 15408
+M 1 15437 12 15410 1
+O 0 15408 0 15413
+M 1 15437 12 15414 1
+O 0 15408 0 15415
+O 0 15409 0 15416
+P 0 15435 1 15409 1
+M 1 15423 1 15419 1
+M 1 15404 1 15421 1
+G 0 15410 0
+G 0 15440 0
+M 1 15424 10 15421 1
+M 1 15405 1 15422 1
+M 1 15437 12 15423 1
+O 0 15403 0 15423
+O 0 15412 0 15428
+M 1 15406 1 15429 1
+M 1 15437 12 15430 1
+M 1 15407 1 15432 1
+M 1 15437 1 15433 1
+O 0 15403 0 15434
+M 1 15409 1 15436 1
+M 1 15410 1 15437 1
+G 0 15411 0
+G 0 15456 0
+M 1 15434 1 15441 1
+M 1 15400 20 15444 2
+M 1 15400 20 15445 2
+M 1 15400 20 15446 2
+M 1 15437 12 15450 1
+O 0 15413 0 15450
+M 1 15437 12 15455 1
+O 0 15452 0 15462
+M 1 15429 1 15462 1
+M 1 15436 1 15467 1
+M 1 15438 1 15469 1
+M 1 15439 1 15470 1
+G 0 15473 0
+M 1 15431 1 15472 1
+O 0 15414 0 15472
+O 0 15416 0 15473
+O 0 15419 0 15473
+O 0 15418 0 15473
+O 0 15417 0 15473
+O 0 15415 0 15475
+M 1 15422 1 15479 1
+M 1 15415 1 15483 1
+M 1 15414 1 15486 1
+G 0 15431 0
+G 0 15458 0
+M 1 15437 12 15487 1
+M 1 15413 1 15489 1
+G 0 15421 0
+G 0 15405 0
+G 0 15406 0
+M 1 15430 1 15494 1
+E 0 15460 0 16
+O 0 15420 0 15497
+M 1 15437 12 15501 1
+M 1 15417 1 15507 1
+G 0 15424 0
+G 0 15440 0
+M 1 15433 1 15508 1
+O 0 15403 0 15509
+M 1 15437 12 15510 1
+M 1 15412 2 15513 2
+M 1 15427 1 15518 1
+G 0 15448 0
+M 1 15437 12 15520 1
+M 1 15432 1 15521 1
+O 0 15409 0 15527
+O 0 15408 0 15528
+O 0 15409 0 15529
+P 0 15435 1 15409 1
+O 0 15408 0 15530
+M 1 15419 6 15531 1
+M 1 15419 6 15534 2
+M 1 15418 1 15535 1
+M 1 15419 6 15535 2
+O 0 15462 0 15538
+M 1 15437 12 15540 1
+O 0 15403 0 15540
+O 0 15453 0 15541
+P 0 15454 1 15453 1
+P 0 15455 1 15453 1
+M 1 15420 1 15543 1
+G 0 15422 0
+G 0 15436 0
+M 1 15440 1 15545 1
+G 0 15472 0
+M 1 15437 12 15547 1
+M 1 15425 1 15555 1
+E 0 15451 0 12
+M 1 15442 1 15556 1
+M 1 15421 1 15560 1
+G 0 15438 0
+M 1 15428 1 15565 1
+O 0 15428 0 15566
+O 0 15427 0 15567
+O 0 15430 0 15568
+O 0 15429 0 15569
+O 0 15426 0 15570
+M 1 15441 1 15571 1
+S
+
+
+
+#SHOPS
+15403 17 19 0 8 0 100 100 0 23
+15404 33 8 28 32 38 110 80 6 22
+15410 5 0 0 0 0 100 100 0 23
+15413 19 17 0 0 0 120 80 0 23
+15417 29 0 8 0 0 120 60 0 23
+15420 17 0 0 0 0 100 100 0 23
+15426 4 0 0 0 0 160 50 7 20
+15427 8 13 0 0 0 150 50 0 23
+15435 1 0 0 0 0 400 30 10 20
+0
+
+
+
+#$

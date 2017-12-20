@@ -1,0 +1,3762 @@
+#AREADATA
+Name Dominia MUD School~
+Builders None~
+VNUMs 20200 20399
+Credits { 1  5} Teldin      Dominia MUD School~
+Security 9
+Xcontinent 1
+Age 0
+Questable 1
+End
+
+
+
+#MOBILES
+#20200
+rommick shandalar taskmaster fellow armor~
+Rommick, the Shandalar Taskmaster~
+The Shandalar Taskmaster, Rommick, stands here waiting.
+~
+Rommick is a large, burly, helpful fellow with a black handlebar
+moustache and a full suit of steel armor.  
+~
+human~
+ABI DFHZ 1000 0
+17 -1 3d9+158 1d1+100 3d3+4 punch
+-3 -3 -3 -3
+CDEKL CDLQab 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 20200 100~
+#20201
+helpful librarian~
+a helpful librarian~
+A librarian is here, sitting at the front desk.
+~
+It's your traditional helpful, cute librarian with big horn-rimmed
+glasses and a sharp tongue.  She's quite nonthreatening.  
+~
+human~
+ABI DFHZ 1000 0
+17 -1 3d9+158 1d1+100 3d3+4 punch
+-3 -3 -3 -3
+CDEKL CDLQab 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 20201 100~
+#20202
+cityguard supplies master city guard~
+the cityguard supplies master~
+The master of the supplies is here, at a desk. ({cLook master{x)
+~
+He looks like a veteran of some long-forgotten war, with old grey hair
+and numerous battle-wounds.  Scars crisscross his weatherlined face, but he
+looks generally cheerful and able to give you some decent equipment.  
+ 
+Say the words '{gequip me{x' and he will give you a standard-issue
+set of cityguard equipment.
+~
+human~
+ABI DFHZ 1000 0
+17 -1 3d9+158 1d1+100 3d3+4 punch
+-3 -3 -3 -3
+CDEKL CDLQab 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 20202 100~
+M speech 20203 equip me~
+#20203
+jorrick cityguard trainer guard practice~
+Jorrick, the head trainer~
+The head cityguard trainer, Jorrick, is giving a lesson.
+~
+Jorrick is an old, spry man, but don't let that fool you!  He's tough and
+nasty when necessary.  He's also excellent at whipping young recruits into
+shape.  
+ 
+To practice a skill, use {gpractice <skill>{x in this room.
+To train a stat or HP, use {gtrain <stat>{x.
+ 
+After you are unable to get back into MUD school, type:
+recall, go 2 east, 2 north, 2 west, 2 north, then up and you can train
+there instead.
+~
+human~
+ABIJKb DFHZ 1000 0
+17 -1 3d9+158 1d1+100 3d3+4 punch
+-3 -3 -3 -3
+CDEKL CDLQab 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 20204 100~
+#20204
+captain mauntin cityguard headmaster~
+Captain Mauntin~
+The Headmaster, Captain Mauntin, stands here barking orders.
+~
+Mauntin is a huge bear of a man, equally about as hair as one, too.  He
+always wears a full suit of plate armor.  
+ 
+If you wish to continue on into the cityguard trials, say the words
+'{gI am ready{x'
+~
+human~
+ABI DFHZ 1000 0
+17 -1 3d9+158 1d1+100 3d3+4 none
+-3 -3 -3 -3
+CDEKL CDLQab 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 20206 100~
+M speech 20207 I am ready~
+#20205
+barracks receptionist~
+the barracks receptionist~
+At the desk sits the barracks receptionist, letting you commission veterans.
+~
+It's a nice old lady that could very well be someone's grandmother.  She
+sits patiently behind the desk, filling out forms and giving out helpers to
+those who need it.  
+ 
+To buy a veteran to help you, type {glist{x, then {gbuy <name>{x.
+To order a veteran to do something, use {gorder <name> <action>{x.
+~
+human~
+AB DFHZ 1000 0
+17 -1 3d9+158 1d1+100 3d3+4 none
+-3 -3 -3 -3
+CDEKL CDLQab 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 20208 100~
+#20206
+veteran retired cityguard guard~
+a veteran, retired cityguard~
+A retired cityguard stands here, old and grey.
+~
+The best word used to describe him is 'grizzled'.  His skin is old and
+leathery and his muscles are fairly weak, but at least he can wield a sword
+with the best of them.  
+~
+human~
+AIT DJ 500 0
+1 5 2d6+10 1d1+99 1d4+2 slash
+4 4 4 9
+CIK 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M entry 20226 100~
+#20207
+cityguard veteran sergeant~
+a cityguard sergeant~
+A sturdy, grizzled veteran Shandalar sergeant stands here.
+~
+The best word used to describe him is 'grizzled'.  His skin is old and
+leathery and his muscles are fairly weak, but at least he can wield a sword
+with the best of them.  
+~
+human~
+AIT DJ 500 0
+3 0 2d6+35 1d1+99 1d6+2 none
+4 4 4 7
+CIK 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M entry 20226 100~
+#20208
+shandalar cityguard veteran elite~
+an elite shandalar cityguard~
+A tall, elite Shandalar cityguard stands here proudly.
+~
+He's wearing fancy armor and he's got a decent pike. A tough guy indeed!
+~
+human~
+AIT DJ 0 0
+5 0 3d6+65 1d1+99 1d6+3 none
+5 5 5 5
+IKN 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M entry 20226 100~
+#20209
+cityguard healer~
+a Shandalar cityguard healer~
+A healer of the Shandalar guards is here in the sewers.
+~
+Although retired from adventuring, the healer still lends a hand. 
+Type 'heal' to see a listing of spells. 
+~
+human~
+ABQVa DFH 1000 0
+20 2 3d9+333 1d1+99 2d8+5 punch
+-4 -4 -4 -4
+FHIK ABCDKab 0 0
+stand stand male 75000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 20205 100~
+M speech 20209 return~
+#20210
+huge sewer rat hungry-looking~
+a huge sewer rat~
+The huge hungry-looking sewer rat sits here.
+~
+It's a great big ugly sewer rat. It's probably crawling
+with lice, ticks, fleas and disease.
+~
+school monster~
+AU J -400 0
+1 0 1d6+6 1d1+99 1d4+0 bite
+12 12 12 15
+0 AB 0 C
+stand stand either 3
+AGHMV ABCDEFHJKQUV small 0 the guilds~
+M death 20210 50~
+#20211
+large rat~
+a large rat~
+A large rat is here, looking after its young.
+~
+This tiny thing looks furry and vicious.
+~
+school monster~
+AU 0 0 0
+1 0 1d8+5 1d1+99 1d4+0 bite
+9 9 9 9
+0 AB 0 C
+stand stand either 3
+ABGMV ABCDEFHJKQUV small 0 the guilds~
+M death 20210 60~
+#20212
+small ugly sewer rat~
+a small, ugly sewer rat~
+A tiny, ugly sewer rat nips at your heels.
+~
+Yuck, this thing probably feasts on all the garbage down here.
+Best to put it out of its misery.
+~
+school monster~
+AU 0 0 0
+1 -1 1d2+4 1d1+9 1d2+0 bite
+10 10 10 10
+0 AB 0 C
+stand stand male 10
+AMV ABCDEFHJKQU tiny 0 the guilds~
+M death 20210 30~
+#20213
+rookie sewer thief~
+a rookie sewer thief~
+A rookie thief is here, glancing at everyone suspiciously.
+~
+Fairly row in the ranks, this thief is quite inexperienced when it
+comes do doing thief-ly things. Better kill him.
+~
+school monster~
+ABU 0 0 0
+1 -1 1d1+4 1d1+9 1d2+0 punch
+10 10 10 10
+0 AB 0 C
+stand stand either 10
+AMV ABCDEFHJKQU medium 0 the guilds~
+#20214
+elf prisoner~
+an elf prisoner~
+An old elf prisoner hangs on the chains.
+~
+The prisoner looks so old!  There's no telling where he might have come
+from.  Though he seems to be wearing an odd suit of grey leather armor, all
+ratty and torn.  Best, probably, to put the poor fellow out of his misery.  
+~
+elf~
+ABGU J 0 0
+3 1 3d3+25 1d1+99 1d4+1 punch
+7 7 7 9
+D 0 B Z
+stand stand male 0
+AGHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 20211 100~
+#20215
+dwarven prisoner~
+a dwarven prisoner~
+An old dwarven prisoner with a grey beard is chained to the wall.
+~
+The dwarf looks so old!  There's no telling where he might have come
+from.  Though he seems to be wearing an odd suit of grey leather armor, all
+ratty and torn.  Best, probably, to put the poor fellow out of his misery.  
+~
+dwarf~
+ABGU J 0 0
+3 1 3d3+25 1d1+99 1d4+1 slap
+7 7 7 9
+D 0 LQ R
+stand stand male 0
+AGHMV ABCDEFGHIJK medium 0 the guilds~
+#20216
+dining sewer thief~
+a dining sewer thief~
+A sewer thief is here, eating at the dining table.
+~
+The thief seems hard at work eating a meal of bugs and old, grubby food. 
+His clothes are stained and his equipment looks rusted and useless.  
+~
+human~
+ABGU 0 0 0
+3 1 3d3+25 1d1+99 1d4+1 stab
+7 7 7 9
+FN 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 20212 4~
+#20217
+veteran sewer thief~
+a veteran sewer thief~
+A cunning veteran sewer thief skulks about the tunnels.
+~
+This guy looks much more dangerous than the pathetic rookie
+thieves. He wears good leather armor, too.
+~
+school monster~
+ABU 0 0 0
+4 0 2d4+35 1d1+99 1d5+1 punch
+6 6 6 6
+0 AB 0 C
+stand stand male 10
+AMV ABCDEFHJKQU medium 0 the guilds~
+#20218
+sleeping sewer thief~
+a sleeping sewer thief~
+A sewer thief is here, sleeping on a bunk.
+~
+The only thing this grubby old thief seems to enjoy doing it sleeping.
+He's found himself a spot on the bunks and doesn't want to budge
+an inch.
+~
+human~
+ABGU 0 0 0
+3 1 3d3+25 1d1+99 1d4+1 none
+7 7 7 9
+FN 0 0 0
+sleep sleep male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 20213 5~
+#20219
+training sewer thief~
+a training sewer thief~
+One of the sewer thieves attacks a straw target here.
+~
+The thief isn't really doing a very good job.  He definitely needs
+practice.  
+~
+human~
+ABGU 0 0 0
+3 1 3d3+25 1d1+99 1d4+1 punch
+7 7 7 9
+BF 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20220
+training sewer thief~
+a training sewer thief~
+A sewer thief screams and attacks a target dummy.
+~
+The thief isn't really doing a very good job.  He definitely needs
+practice.  
+~
+human~
+ABGU 0 0 0
+3 1 3d3+25 1d1+99 1d4+1 stab
+7 7 7 9
+BF 0 0 0
+sleep sleep male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20221
+veteran sewer thief~
+a veteran sewer thief~
+A veteran thief oversees the training of the recruits.
+~
+This guy looks much more dangerous than the pathetic rookie
+thieves. He wears good leather armor, too.
+~
+school monster~
+ABU 0 0 0
+4 0 2d4+35 1d1+99 1d5+1 pound
+6 6 6 6
+0 AB 0 C
+stand stand male 10
+AMV ABCDEFHJKQU medium 0 the guilds~
+#20222
+veteran sewer thief~
+a veteran sewer thief~
+One of the veteran thieves sells his goods to anyone who wanders in.
+~
+This guy looks much more dangerous than the pathetic rookie thieves.  He
+wears good leather armor, too.  Unlike the other thieves, this veteran also
+has a pair of glasses on and carries a large ledger.  
+~
+school monster~
+ABU DF 0 0
+14 1 2d10+190 1d1+99 1d12+3 punch
+-1 -1 -1 -1
+0 ABCDQab 0 C
+stand stand male 500
+AMV ABCDEFHJKQU medium 0 the guilds~
+M grall 20227 100~
+#20223
+veteran sewer thief~
+a veteran sewer thief~
+A veteran sewer thief sells a variety of rusty weapons.
+~
+This guy looks much more dangerous than the pathetic rookie thieves.  He
+wears good leather armor, too.  Unlike the other thieves, this veteran also
+has a pair of glasses on and carries a large ledger.  
+~
+school monster~
+ABU DF -300 0
+14 1 2d10+190 1d1+99 1d12+3 punch
+-1 -1 -1 -1
+0 ABDQab 0 C
+stand stand male 500
+AMV ABCDEFHJKQU medium 0 the guilds~
+#20224
+living blob slime sewage~
+a living blob of slime~
+A blob of sewage slurps about here.
+~
+The blob looks incredibly disgusting, as if a lot of the sewage in this
+area has mixed and melded into a giant, sloppy pile of muck.  The air
+sizzles around it.  
+~
+human~
+ABU J 0 0
+5 0 2d6+60 1d1+99 1d6+1 slime
+5 5 5 5
+F LQ G E
+stand stand none 10
+ABHMV ABCDEFGHIJKMN medium 0 the guilds~
+M random 20216 4~
+#20225
+gray bandit scout~
+a gray bandit scout~
+A scout for the Gray Bandits peers down into the sewer grate.
+~
+This bandit is dressed in solid gray leather armor and has a wide variety
+of weapons dangling from his belt.  He seems intent on keeping sure that the
+sewer thieves from downstairs don't feel the urge to come up and fight them.
+~
+human~
+ABU DFJZ 0 0
+4 0 2d4+35 1d1+99 1d5+1 stab
+6 6 6 6
+U AB 0 0
+stand stand male 15
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 20217 50~
+#20226
+blue-sashed sash gray bandit~
+a {Bblue{x-sashed Gray Bandit~
+A Gray Bandit member with a {Bblue{x sash skulks about.
+~
+The bandit appears to be fairly weak compared to the others, though this
+hasn't stopped him from doing what all Gray Bandits do best -- steal and
+kill.  
+~
+human~
+ACU 0 -300 0
+3 0 2d6+30 1d1+99 1d3+1 punch
+7 7 7 7
+FL 0 0 0
+stand stand male 9
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M death 20219 40~
+#20227
+white-sashed sash gray bandit~
+a {Wwhite{x-sashed Gray Bandit~
+A Gray Bandit member flaunts his {Wwhite{x sash.
+~
+The bandit appears to be fairly weak compared to the others, though this
+hasn't stopped him from doing what all Gray Bandits do best -- steal and
+kill.  
+~
+human~
+ACU 0 -300 0
+3 0 2d6+30 1d1+99 1d3+1 none
+7 7 7 7
+FL 0 0 0
+stand stand none 9
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M death 20218 50~
+#20228
+rottweiler large loyal dog~
+the rottweiler~
+A large, loyal rottweiler is here. 
+~
+The rottweiler looks like a strong, fierce fighter. 
+~
+dog~
+ABFU F -400 0
+5 0 2d2+50 1d1+99 1d7+2 bite
+5 5 5 5
+DHQU 0 0 0
+stand stand either 0
+AGV ACDEFHJKUV small 0 the guilds~
+M grall 20221 50~
+#20229
+green-sashed sash gray bandit~
+a {ggreen{x-sashed Gray Bandit~
+A Gray Bandit skulks about, wearing a {ggreen{x sash.
+~
+The bandit appears to be fairly weak compared to the others, though this
+hasn't stopped him from doing what all Gray Bandits do best -- steal and
+kill.  
+~
+human~
+ACU 0 -300 0
+3 0 2d6+30 1d1+99 1d3+1 dicing
+7 7 7 7
+FL 0 0 0
+stand stand male 9
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M death 20220 30~
+#20230
+telim'tor gray bandit leader diploma~
+Telim'Tor, the Gray Bandit leader~
+The leader of the Gray Bandits, Telim'Tor, holds the coveted {Dblack{x sash.
+~
+He's a slender, brutish, brown-haired human male, though don't let his
+small size fool you.  Telim'Tor looks quite deadly indeed, particularly with
+his pair of slim iron daggers.  
+~
+school monster~
+ABU J -300 0
+5 0 2d6+40 1d1+99 1d6+1 punch
+5 5 5 5
+EFJN AB 0 C
+stand stand male 30
+AMV ABCDEFHJKQU medium 0 the guilds~
+M give 20224 20231~
+M speech 20223 job~
+M grall 20222 100~
+#20231
+Bandit guard treasure gold sash gray~
+a guard wearing a {ygold{x sash~
+A bandit guard is here, wearing a {yyellow{x sash.
+~
+The bandit appears to be fairly weak compared to the others, though this
+hasn't stopped him from doing what all Gray Bandits do best -- steal and
+kill.  
+~
+human~
+ABCU 0 -300 0
+3 0 2d6+30 1d1+99 1d3+1 none
+7 7 7 7
+FL 0 0 0
+stand stand none 15
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20232
+Gra'don sewer thief leader~
+Gra'don, the sewer thief leader~
+The leader of the sewer thieves, {cGra'don{x, stands here giving orders.
+~
+A tall, burly troll, Gra'don is a menace to these part of the tunnels. 
+He leads the sewer thieves by brute force, ruling the with an iron fist and
+collecting the profits.  He does seem to carry a good amount of high-quality
+equipment, however.  
+~
+troll~
+ABU J -600 0
+4 0 2d7+35 1d1+99 1d5+1 none
+6 6 6 6
+EFN AB Q H
+stand stand male 40
+ABHMVZ ABCDEFGHIJKLQUVWX medium 0 the guilds~
+M give 20225 20239~
+M speech 20215 job~
+M grall 20214 100~
+#20275
+tourney healer~
+a tourney healer~
+A healer is here to heal your wounds.
+~
+I am but a simple man...
+~
+undead~
+ABOade HZ 0 0
+50 5 50d10+4500 1d1+99 5d8+19 none
+-20 -20 -20 -20
+CF ABCD I HNS
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20276
+yinonxu golden dragon elder~
+Yinonxu, the Elder {yGolden{x Dragon~
+A huge, {ygolden{x dragon slithers about.
+~
+This is indeed an enemy to fear, for there is no living being as huge and
+powerful looking as he.  But doesn't that crown look good?
+~
+red dragon~
+ABGT DFHJT 0 0
+60 60 10d10+24000 1d1+100 10d6+30 claw
+-77 -77 -77 -77
+ACEFHKO ABLQab BEH I
+sit stand male 15000
+BHMXZ ABCDEFGHIJKLPQUVWX giant 0 the guilds~
+#20277
+zeus god~
+Zeus~
+Zeus sits here on a throne.
+~
+You see before you the greatest of the Olympians.  It seems as if he could
+destroy you with a thought.  Every glance penetrates deep into your soul.
+You now know what true fear is.
+~
+human~
+ABCQ BDFHNT 1000 0
+60 0 50d10+9500 60d9+100 5d10+28 none
+-30 -30 -30 -3
+EIKU ABa 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#20278
+tourney healer~
+the official tourney healer~
+A healer is here to heal your wounds.
+~
+I am but a simple man...
+~
+undead~
+ABOade HZ 0 0
+50 5 50d10+4500 1d1+99 5d8+19 none
+-20 -20 -20 -20
+CF ABCD I HNS
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20279
+boy~
+The pet shop boy~
+A pet shop boy is here, humming gently. 
+~
+He is young and close-cropped and looks quite happy. 
+~
+human~
+ABV 0 900 0
+23 0 1d1+999 1d1+99 1d8+20 none
+-15 -15 -15 -15
+0 ABCD 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20280
+advisor ghost~
+an advisor~
+The ghost of the advisor is here, waiting.
+~
+Dressed in a long black cloak, the advisor is here waiting patiently for
+the king to call upon his services.  Don't let him see you or he will follow
+his duties and kill you for intruding.  
+~
+blue dragon~
+ABDIR JTUV 400 0
+50 5 50d10+5000 1d1+99 5d8+20 none
+-21 -21 -21 -21
+EFHLN 0 BEJ K
+stand stand male 0
+ABGHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#20281
+maintenance worker~
+a maintenance worker~
+A maintenance worker is here, fixing stuff.
+~
+He is in a yellow jumpsuit with a large nuclear-warning symbol on the back.
+~
+human~
+AI DFJV -1000 0
+50 0 50d10+5000 25d9+100 5d8+20 none
+-21 -21 -21 3
+CEFHNU 0 H NS
+stand stand either 0
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#20282
+Ystradgynlais dragon king ghost serpent slithering~
+the ghost of Ystradgynlais, King of Dragons~
+A slithering, serpent-like ghost protects the Kingsword.
+~
+The creature is massive!  The ghostly shape fits into the chamber just
+barely, and even so its wings and tail vanish outside the walls in certain
+places when it moves.  Whatever color it must have been is anyone's guess. 
+Its exact shape is fairly difficult to discern, since it wavers, fades, and
+changes shape moment by moment.  
+~
+human~
+ABGQRST DFHJNOPQTUVZ 0 0
+60 100 50d50+16500 1d1+999 12d12+85 none
+-75 -66 -55 -75
+ABCDEFGHIJKLMNO ABLQab CD 0
+stand stand none 55000
+AHMVZ ABCDEFGHIJKPQUVX giant 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#20200
+guide newbie redemption shandalar cityguard~
+The Shandalar Cityguard's {cGuide{x to Redemption~
+A well crafted book sits here. Type {cread guide{x.~
+paper~
+trash Y AO
+0 0 0 0 0
+1 1 0 P
+A
+5 1  
+A
+4 1  
+E
+page_10~
+Newbie Gear
+The set of gear recieved in the Academy is a special Newbie Gear
+that can be worn till level 10. The full set within the school
+will maximize your leveling stats and with spells will maximize
+your combat stats as well. Until you reach level 10, wear the gear
+provided in the tutorial, as it is better than any gear you will
+find elsewhere.
+ 
+The list of gear you should have at the end of the tutorial is:
+Everburning Torch - Light
+Plain Bronze Ring (2) - Finger
+a Simple Silver Chain (2) - Neck
+Elven Crafted Gloves - Hands
+a Squire Helm - Head 
+Deerskin Boots - Feet 
+Light Chain Sleeves - Arms 
+Uniform Pants - Legs 
+Blue and White Sash - Waist 
+Bosco's Cadet Uniform - Body 
+Dwarven Bracers (2) - Wrist 
+One of the Weaponsmiths Weapons - Wielded 
+Bosco's Guide to Redemption - Held
+In addition there are 3 items that are class specific for each class.
+They are:
+Warrior - Suit of Elven Chain, Dwarven Bronze Shield, and a Trusty Warhorse
+Thief - a Black Hooded Cloak, Set of Thieves Tools, and a Sneaky Weasel
+Mage - Wizard Robes, Wizards Tome, and a Sparrow Familiar
+Cleric - a Holy Robe, a Holy Robe, and a Lost Soul
+There are other items around redemption, and its your job to learn what they do.
+~
+E
+page9~
+Useful Web Links
+ 
+These links are useful for looking up equipment as well as finding maps
+and other information. These pages may or may not still be active:
+ 
+www.redemptionmud.com - The Redemption Home Page
+www3.sympatico.ca/carrotqueen - Tzigane's Map Page
+www.ncf.carleton.ca/%7Ebi699/pkill.html - Starcrossed's Guide to Pkilling
+seeker.8k.com - Seeker's Web Page
+www.kenshi.8k.com - Kenshi's Web Page
+www.geocities.com/redemptionhelp - {RH{rELP{x Guild's Web Page
+http://acaykath.awardspace.com - Treasure Hunter's Web Page
+~
+E
+page8~
+Combat Commands
+ 
+Kill <Target> - Begins combat with your intended foe.
+Flee - Allows you to flee from combat. May not work the first time.
+Consider <Target> - Allows you to see how tough your opponent is compaired
+to your level.
+ 
+The skills Dodge, Parry, and Shield Block are important to have if you
+plan to engage in melee combat. These skills help you avoid blows from
+your foes.
+ 
+Bash and Trip are similar skills for stopping your foes from fleeing,
+however they work best against different targets, so it can be useful to
+have both. Dirt kick is handy for blinding your foes, and Disarm deprives
+your target from their weapon. Also make sure you have as many attacks as
+you can through skills and the haste spell.
+ 
+Other skills such as Kick and Backstab can also help weaken your foes.
+~
+E
+page7~
+General Information
+ 
+More of your character information will become available as you level up
+to level 25. Also at level 25 you will gain a new equipment slot called
+"Orbit" which allows you to wear a second "Float" item.
+ 
+When you die to a player or a mob, you cannot attack anything for 3
+minutes. Players also cannot attack you for that same stretch, but
+aggie mobs will still attack.
+~
+E
+page6~
+Midgaard Healer - n
+Questmaster - s, e, u
+Selina's Warp Statue - s, w
+Armory - 2s, w, s
+Weaponsmith - 2s, 2e, n
+General Store - 2s, e, n
+Bakery - 2s, w, n
+Wizard's Shop - 2s, 2w, n
+Jeweler - 2s, e, s
+Eastern Shop - 2s, 2w, s
+Trainer - 3s, 2w, s
+Map Shop - 3s, w, n
+Potion Shop - 3s, 2e, n
+Boat Shop - 3s, e, s
+Bridge to Dominia - 2s, 33e, 8n, e
+Craft Workshop - 2s, 3w, 2n, e, n
+Bank - 2w, 3w, 2n, 2e, s
+~
+E
+page5~
+Lowbie Leveling Areas
+ 
+All Directions are from Recall on Terra
+ 
+Bluetspur lvl 1-10 - 2s, 5w, 4n, 7w
+Bosco's Military Academy lvl 1-10 - u
+Cantina lvl 5-15 - 2s, 6e, 3n, 3e
+Dwarven Day Care lvl 1-5 - 2s, 6e, 3n, 2e, 2s
+Elemental Canyon lvl 5-30 - 2s, 6e, 4s, 2e, s, 2e, d, s
+Gangland lvl 5-15 - all s, e, s, 2e, s, e
+Gnome Village lvl 5-15 - 2s, 8e, s
+Graveyard lvl 5-10 - 7s, e, k sexton, w, n, 2e, 2s, w, unlock s, open s, s
+Holy Grove lvl 5-20 - 2s, 8e, n
+Miden'nir lvl 5-15 - 2s, 3w, d, e, s, u, 2s
+Mob Factory lvl 5-15 - 2s, 3w, 3s, e
+Newbie Zone lvl 1-10 - n, w
+Pixie Forest lvl 1-10 - 2s, 7e, n
+ 
+Although these are not the only areas, they are a good mix and most can be
+tackled by lowbie players.
+To get a list of all areas, type Area.
+ 
+To find directions to other areas, check out Tzigane's map page. The url is on
+page9.
+~
+E
+page4~
+Training and Practicing In order to train or practice, you must first
+find a Trainer.  Within the Academy, you can find a Trainer at the Entrance
+as well as in the Guilds.  In Midgaard, the directions to the Temple of
+Consentration is from recall: 3 south 2 west south.  To train, type Train
+and whatever you want to train.  To practice, type Practice and whatever you
+wish to increase.  You can also find other training spots in various cities.
+Explore around or ask an experienced player for directions.
+ 
+*Note that if you are playing a clanner, your trains are best spent in HP*
+~
+E
+page3~
+Character Setup
+ 
+One thing you should do, is set up your prompt. This is a good start:
+{C{Cprompt <%hhp %mm %vmv %Xtnl %ggp %ssp>{x{x
+Feel free to color code each one or add new parts. For more help type
+{RHelp Prompt{x and for color help type {RHelp Color.{x
+ 
+To turn on Color Mode, simply type {RColor.{x
+ 
+Also set your wimpy. Wimpy allows your character to auto flee if his
+HP reaches the set amount. This is very useful in both leveling and
+Player Killing (PK). To turn on wimpy type {RWimpy{x. Wimpy can also be
+set to different amounts (up to 50% your current max hp). It is a
+good idea to reset your wimpy whenever you acheive a new level.
+~
+E
+page2~
+Secondary Stats
+ 
+Armor class shields you from physical attacks by causing them to miss.
+ 
+Hitroll defines your chance of hitting or missing your foes. Spells
+and equipment can increase it.
+ 
+Damage roll increases the damage you do with your physical attacks,
+but not on a one to one ratio.
+ 
+Saving throws lower the success of enemy magic. The lower your saving
+throws, the better.
+ 
+Age can affect the experience you recieve if you are a race other than
+human. You need 2x the hours of your current level to recieve full exp.
+Use gear or just time spent on Redemption to nullify any penalty.
+ 
+Alignment reflects what direction your character is going. If you
+kill good mobs, your character will go more evil. If you kill evil
+mobs, your character will become more good. This can affect some reclasses.
+In addition, if you kill a mob of your same alignment, you will get less
+experience than if you had killed one of the opposite alignment.
+~
+E
+page1~
+Ability Scores
+Strength determines how much weight you can carry, increases your chance
+of hitting slightly, and gives a large boost to your damage.
+ 
+Dexterity determines how many items you can carry, increases your armor
+class, and the success of many combat skills.
+ 
+Constitution determines how many hit points you get when you level up,
+and reduces the damage you take from magic.
+ 
+Intelligence determines how fast your skills improve, and the success
+of many spells.
+ 
+Wisdom determines how many practices you get when you level up, and the
+damage of many spells.
+ 
+Make sure that you maximize your Con, Int, and Wis when you are about to
+level, and maximize your Str and Dex when fighting.
+~
+E
+guide~
+This book when worn adds 1 Con and 1 Wis.  In addition, you can read the
+different pages to learn important information about Redemption.  To read
+the approptriate page, simply type look page#.  
+ 
+Page1 = Ability Scores
+Page2 = Secondary Stats
+Page3 = Setting up Prompt and Options
+Page4 = Training and Practicing
+Page5 = Lowbie Leveling Areas
+Page6 = Important Directions
+Page7 = General Information
+Page8 = Combat Commands
+Page9 = Useful Web Links
+Page_10 = Newbie Gear
+~
+#20201
+helmet training cityguard~
+a cityguard training helmet~
+A plumed helmet sits in the dirt.~
+metal~
+armor U AE
+1 1 1 0 0
+1 1 0 P
+A
+17 -2  
+#20202
+shield training cityguard~
+a cityguard training shield~
+An old rusty training shield lies in the dirt.~
+wood~
+armor U AJ
+1 1 1 0 0
+1 1 0 P
+A
+13 2  
+#20203
+breastplate training cityguard~
+a cityguard training breastplate~
+An old, worn training breastplate lies on the ground, forgotten.~
+metal~
+armor U AD
+2 2 2 0 0
+1 1 0 P
+#20204
+bracer cityguard training~
+a cityguard training bracer~
+An old, dirty training bracer lies somehow on the ground.~
+metal~
+armor U AM
+1 1 1 0 0
+1 1 0 P
+#20205
+leggings cityguard training~
+a pair of cityguard training leggings~
+Some rusty old training plates lie on the ground.~
+metal~
+armor U AF
+1 1 2 0 0
+1 1 0 P
+#20206
+standard-issue military backpack~
+a standard-issue military backpack~
+An old, dirty military backpack lies on the ground.~
+iron~
+container Ye AKc
+100 0 0 10 100
+1 10 0 P
+A
+9 4  
+#20207
+wooden training hatchet~
+a wooden training hatchet~
+A small, wooden training hatchet lies on the gruond.~
+bronze~
+weapon U AN
+axe 1 4 chop 0
+1 50 10 P
+A
+18 1  
+E
+axe~
+You see an axe of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#20208
+wooden practice sword~
+a wooden practice sword~
+An old wooden practice sword is here.~
+bronze~
+weapon U AN
+sword 1 4 slash 0
+1 30 10 P
+A
+18 1  
+E
+sword~
+You see a sword of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#20209
+wooden practice polearm~
+a wooden training polearm~
+A long polearm made of wood sits on the ground.~
+wood~
+weapon U AN
+polearm 1 4 slash F
+1 80 10 P
+A
+18 1  
+E
+glaive~
+You see a glaive of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#20210
+simple wooden club~
+a simple wooden club~
+A simple piece of wood forms a club.~
+wood~
+weapon U AN
+mace 1 4 pound 0
+1 60 10 P
+A
+18 1  
+E
+mace~
+You see a mace of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#20211
+small wooden practice dagger~
+a small wooden practice dagger~
+A small, mediocre dagger sits on the ground.~
+wood~
+weapon U AN
+dagger 1 4 pierce 0
+1 10 0 P
+A
+18 1  
+E
+dagger~
+You see a dagger of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#20212
+rawhide practice whip~
+a rawhide practice whip~
+A rawhide practice whip lies on the ground.~
+leather~
+weapon U AN
+whip 1 4 whip 0
+1 20 10 P
+A
+18 1  
+E
+whip~
+You see a whip of great but cheap craftsmanship.  Imprinted on the side is:
+Redemption Industries
+~
+#20213
+cityguard practice gloves~
+a pair of cityguard practice gloves~
+A pair of cityguard practice gloves sit on the ground.~
+wood~
+armor Y AH
+1 1 1 0 0
+1 1 0 P
+#20214
+cityguard red cape~
+a red cityguard cape~
+A red cape lies here.~
+leather~
+armor Y AC
+1 1 1 0 0
+1 1 0 P
+#20215
+shiny brass key~
+a shiny brass key~
+A shiny key!~
+iron~
+key Y AO
+0 0 0 0 0
+0 0 0 P
+#20216
+rat tail~
+a severed rat tail~
+A disgusting, twitching rat tail lies on the ground.~
+leather~
+treasure W A
+0 0 0 0 0
+1 1 40 P
+#20217
+potion lesser healing~
+a potion of lesser healing~
+A liquid-filled vial has been carelessly left behind.~
+glass~
+potion 0 A
+5 'lesser revitalize' 'reserved' 'reserved' 'reserved'
+1 10 0 P
+#20218
+garnet gem~
+a garnet~
+A garnet catches your eye.~
+gem~
+gem W AO
+0 0 0 0 0
+0 1 500 P
+#20219
+iron shackles chains~
+some iron shackles and chains~
+A set of iron shackles and chains sit on the ground.~
+iron~
+trash 0 AG
+0 0 0 0 0
+1 50 0 P
+A
+2 -1  
+A
+1 1  
+#20220
+long wooden dining table~
+a wooden dining table~
+A long wooden dining table fills most of the room. ({crest table{x)~
+wood~
+furniture Y P
+100 3000 BDGK 20 20
+0 200 0 P
+#20221
+wooden bunkbed uncomfortable bed~
+a bunk bed~
+A wooden bunk bed is here to sleep upon. ({csleep bed{x)~
+wood~
+furniture Y P
+100 3000 BDGK 10 10
+0 0 0 P
+#20222
+potion vial quickness small~
+a small vial labeled '{yquickness{x'~
+A small vial is here, the label reads '{yquickness{x'.~
+glass~
+potion GU A
+5 'haste' '(null)' '(null)' '(null)'
+1 10 60 P
+#20223
+veteran sewer thief uniform~
+a veteran sewer thief's uniform~
+The uniform of a veteran sewer thief lies on the ground.~
+leather~
+armor 0 AK
+2 1 1 0 0
+3 25 100 P
+A
+17 -2  
+#20224
+target dummy's wicker circle-painted painted armor armour~
+the target dummy's circle-painted armour~
+A suit of wicker armor lies on the ground, with huge target circles on the front and back.~
+wood~
+armor 0 AD
+3 4 3 1 0
+3 30 80 P
+A
+2 -1  
+#20225
+sewer thief's belt~
+a sewer thief's belt~
+A nifty belt lies on the ground, owned originally by a sewer thief.~
+steel~
+armor 0 AL
+4 4 3 1 1
+3 30 100 G
+#20226
+wicker training dummy~
+a wicker training dummy~
+A wicker training dummy stands here, covered in slash marks. ({clook in dummy{x)~
+wood~
+container Y P
+100 0 0 100 100
+0 0 0 P
+#20227
+small sharp stiletto dagger~
+a small, sharp stiletto~
+A stiletto dagger is here, gleaming ominously.~
+steel~
+weapon 0 AN
+dagger 1 4 stab 0
+3 0 30 P
+A
+19 1  
+A
+18 -1  
+#20228
+lantern~
+a hooded brass lantern~
+A hooded brass lantern has been left here.~
+brass~
+light 0 A
+0 0 300 0 0
+1 4 30 P
+E
+letters~
+They say, "Use 'hold lantern' to activate."
+~
+E
+lantern~
+It is a large and robust but somewhat battered oil lantern made from brass,
+equipped with a handle to make it handy and a hood to protect its flame.
+Some letters have been scratched on its bottom.
+~
+#20229
+fish broiled piece salmon~
+a piece of broiled fish~
+A large chunk of broiled salmon sits on a platter.~
+food~
+food 0 A
+10 10 0 0 0
+1 1 30 P
+#20230
+waterskin skin ~
+a waterskin~
+A large waterskin hangs from the wall.~
+leather~
+drink 0 A
+60 60 'water' 0 0
+1 5 10 P
+#20231
+boots skulking~
+the Boots of Skulking~
+A pair of gleaming magical boots sit on the floor.~
+leather~
+armor Yc AG
+2 3 1 0 0
+4 10 1100 P
+A
+2 1  
+A
+18 1  
+#20232
+slime-covered brass ring~
+a {gslime{x-covered brass ring~
+A brass ring is here, covered in disgusting slime.~
+brass~
+jewelry 0 ABc
+0 0 0 0 0
+4 1 100 P
+A
+12 -10  
+A
+5 1  
+A
+3 1  
+#20233
+puddle green slime~
+a puddle of green slime~
+A puddle of disgusting green slime is spread out on the floor.~
+slime~
+fountain Y P
+999 999 'slime mold juice' 0 0
+0 999 0 G
+E
+slime mold~
+It wasn't meant to be food, - Certainly not for humans.
+~
+#20234
+white sash bandit~
+a {Wwhite{x sash~
+A bandit's {Wwhite{x sash lies in a heap on the ground.~
+cloth~
+armor U ALc
+5 5 5 5 0
+2 20 10 P
+A
+3 1  
+A
+4 1  
+#20235
+blue sash bandit~
+a {Bblue{x sash~
+A bandit's {Bblue{x sash lies in a heap on the ground.~
+cloth~
+armor U ALc
+5 5 5 5 0
+2 20 10 P
+A
+18 1  
+#20236
+green sash bandit~
+a {ggreen{x sash~
+A bandit's {ggreen{x sash lies in a heap on the ground.~
+cloth~
+armor U AIc
+5 5 5 5 0
+2 20 10 P
+A
+18 1  
+#20237
+potion animal rage~
+a potion labeled 'animal rage'~
+A potion is here, labeled 'animal rage'.~
+glass~
+potion U Ac
+5 'animal growth' 'reserved' 'reserved' 'reserved'
+1 10 0 P
+#20238
+potion offense~
+a potion of offense~
+A potion is here, labeled 'offense'.~
+glass~
+potion U Ac
+20 'frenzy' 'haste' 'reserved' 'reserved'
+3 10 0 P
+#20239
+thick black sash bandana~
+a {Dblack{x bandana~
+A thick {Dblack{x sash is here, able to be worn on the head.~
+silk~
+clothing ac AE
+0 0 0 0 0
+5 30 80 P
+A
+1 1  
+#20240
+gleaming silver ring~
+a gleaming {Wsilver{x ring~
+A gleaming {Wsilver{x ring lies on the ground.~
+silver~
+jewelry AYbd AB
+0 0 0 0 0
+5 3 70 P
+A
+12 5  
+A
+3 1  
+#20241
+pile treasure~
+a huge pile of treasure~
+A huge pile of treasure is here, ripe for the taking. ({glook in treasure{x)~
+gold~
+container Y P
+100 ACD 20242 100 100
+0 0 0 P
+#20242
+small brass key collar~
+a small brass key on a collar~
+A tiny brass key attached to a collar is here.~
+brass~
+key PU ACc
+0 0 0 0 0
+2 1 0 P
+A
+19 2  
+#20243
+beautiful diamond~
+a beautiful diamond~
+A beautiful diamond sits on the ground.~
+gem~
+gem W A
+0 0 0 0 0
+1 1 300 P
+#20244
+bright blue sapphire~
+a bright blue sapphire~
+A large, bright blue sapphire rests on the ground.~
+gem~
+gem W A
+0 0 0 0 0
+1 1 280 P
+#20245
+diamond gem~
+a diamond~
+A diamond catches and reflects the lighting.~
+gem~
+gem W A
+0 0 0 0 0
+0 1 6000 P
+#20246
+small energy wand~
+a small energy wand~
+A wand glowing with energy sits here.~
+wood~
+wand Y AOc
+10 7 7 'lightning bolt' 0
+2 1 150 P
+#20247
+black pill labeled hatred~
+a black pill labeled 'hatred'~
+A small black pill is here, labeled 'hatred'.~
+food~
+pill 0 Ac
+24 'frenzy' 'haste' 'reserved' 'reserved'
+1 1 240 P
+#20275
+pitch black soulstone~
+a {Dpitch-black{x soulstone~
+A pitch-{Dblack{x soulstone hangs in the air.~
+iron~
+pill ABSY AP
+35 'animal growth' 'haste' 'sanctuary' 'heal'
+1 0 0 P
+#20276
+jet-black sword hateblade quest prize teldin~
+the {rhateblade{x~
+A smoldering, burning, {Djet-black{x sword lays on the ground, turning everything around it to ashes.~
+iron~
+weapon HSYZ ANPRZ
+sword 6 6 drain AOP
+50 1 1 'drain life' 0
+56 120 9900 P
+A
+19 6  
+A
+1 2  
+A
+13 40  
+#20277
+map shandalar headquarters~
+a map of the Cityguard headquarters~
+A map of the Cityguard headquarters sits here in a sad heap on the ground.~
+paper~
+map UY A
+0 0 0 0 0
+0 1 0 P
+E
+map cityguard headquarters~
+~
+#20278
+swirling cloud magical energy~
+a swirling cloud of {rmagical{x energy~
+This looks like the ultimate piece of gear, with pieces hanging off in every direction!~
+wood~
+weapon ABYe ANRZ
+dagger 8 9 magic DEFIQRSW
+100 100 100 'prismatic spray' 0
+56 0 0 P
+A
+33 100  
+A
+12 15000  
+A
+13 15000  
+A
+4 20  
+A
+5 20  
+A
+2 20  
+A
+3 20  
+A
+1 20  
+A
+27 50  
+A
+26 10  
+A
+18 50  
+A
+19 50  
+#20279
+Lemonade Fountain Stone Angel~
+a stone fountain of {ylemonade{x~
+A fountain in the center of the room has a stone angel pouring {ylemonade{x from a bucket.~
+stone~
+fountain 0 0
+0 0 'lemonade' 0 0
+0 3000 0 P
+#20280
+golden championship belt~
+the {ygolden{x championship belt~
+A gleaming, {ygolden{x belt lies here. Gleaming.~
+gold~
+armor ABISY ALPR
+15 15 15 15 0
+60 1 1 'push' 0
+56 200 0 P
+A
+18 2  
+A
+19 2  
+#20281
+sign pink ground cauthon look at this dammit~
+a sign~
+{MThere is a huge pink sign on the ground! CAUTHON READ IT{x~
+oldstyle~
+map 0 AP
+0 0 0 0 0
+56 5000 0 P
+E
+huge pink sign cauthon dammit~
+HEY CAUTHON
+FINISH CHECKING OVER MUD SCHOOL PLEASE
+ 
+:)
+ 
+COME ON YOU CAN DO IT
+I BELIEVE IN YOU
+ 
+- T-bone
+~
+#20282
+gnomish device gears quest item teldin~
+a gnomish listening kit~
+A gnomish device made of interlocking gears lies here, humming mildly.~
+gold~
+trash MSYZ AOR
+0 0 0 0 0
+30 2 2 'spy' 0
+56 100 5000 P
+A
+18 -2  
+A
+19 -5  
+#20283
+mirkwood staff twilight's requiem blackened quest item teldin~
+an ancient, mirkwood staff named "{bTwilight's Requiem{x"~
+An ancient, blackened staff made of mirkwood rests serenely on the ground.~
+mirkwood~
+weapon ABGMZ AN
+exotic 5 7 entangle FUW
+56 20 5000 P
+A
+1 -2  
+A
+2 -2  
+A
+5 -2  
+A
+12 80  
+A
+3 2  
+A
+4 2  
+A
+27 4  
+#20284
+robe million pockets quest item teldin~
+the {grobe{x of a {cmillion pockets{x~
+An elegant mage's robe is here, covered in tiny, tiny pockets.~
+metal~
+container YZ AKPR
+50 AC 0 1200 3
+50 1 1 'blink' 0
+56 50 5000 P
+A
+17 -15  
+A
+12 30  
+#20285
+nightblade zdreni quest item teldin~
+the {GN{Dightblade{x of the {GZ{Ddreni{x~
+A long, serrated {Dblade{x lies on the ground, humming ominously.~
+void~
+weapon Yc ANR
+dagger 5 8 saw DOPV
+50 1 1 'inform' 0
+56 1 5000 P
+A
+19 6  
+A
+18 4  
+A
+2 2  
+#20286
+flail fireballs cynder quest item teldin~
+a flail of fireballs named "{rCynder{x"~
+A flail is here, but each head is a glowing, crackling ball of flames.~
+fire~
+weapon SY ANPR
+flail 5 8 flame AFV
+60 3 3 'fireball' 0
+56 120 5000 P
+A
+19 5  
+A
+18 3  
+A
+13 -40  
+#20287
+mjolnir hammer quest item teldin~
+the Hammer of the Gods, "{cMjolnir{x"~
+An enormous, mithril hammer lies here on the ground. Runes crawl over its surface.~
+mithril~
+weapon HY ANPR
+mace 5 8 stomp FGT
+55 1 1 'shock wave' 0
+56 330 5000 P
+A
+19 8  
+A
+18 -2  
+#20288
+book dragons draconomicon tome quest item teldin~
+the {rDraco{Dnomicon{x, Tome of the Dragons~
+An elaborate tome covered in dragonskin lies on the ground, glowing.~
+paper~
+treasure ABGMYZ AOPR
+0 0 0 0 0
+50 3 3 'fire breath' 0
+56 50 25000 P
+A
+3 6  
+A
+17 -10  
+A
+12 40  
+#20289
+gjall horn heimdall quest item teldin~
+{gGjall{x, the Horn of Heimdall~
+An enormous ivory horn lies on the ground, humming violently.~
+wood~
+wand ABGY AOP
+65 5 5 'summon angel' 0
+56 50 55000 P
+A
+4 3  
+A
+3 3  
+#0
+
+
+
+#ROOMS
+#20200
+Shandalar Cityguard Headquarters~
+The front lobby of the Shandalar Guard's Headquarters is a thick-walled
+stone fortress, bright torches lining the walls.  The place is sombre and
+solemn, with marble pillars on each side of the front door leading up to the
+main entrance area.  The place is a-bustle with activity, with Shandalar
+guards dressed in ornate gear marching throughout and travelling out into
+the city via the main front doors.  
+ 
+There is a sign on the wall near the door. Type {glook sign{x.
+~
+0 8 0
+E
+sign wall door~
+The sign reads:
+ 
+Welcome! If you are new to the world of Redemption, there are a few
+things you can bear in mind to get yourself started.
+ 
+To start off, you can travel through the realm by typing
+{gnorth{x, {gsouth{x, {geast{x, {gwest{x, {gup{x, or {gdown{x when
+the appropriate exit can be entered.
+ 
+To continue through mud school, for example, type {gnorth{x.
+Note: you can also use abbreviations of the exits, so n s w e u or d all
+work appropriately as well and are much faster to type!
+~
+D0
+~
+~
+0 0 20201
+D5
+~
+~
+0 0 31000
+S
+#20201
+Cityguard Communications Training~
+This next cityguard room is loud!  The stone walls ring with the sound of
+people shouting, barking orders at each other, and generally causing all
+sorts of ruckus.  Many of the recruits are small and young, while the
+trainers are old and gruff veterans.  A pair of doors leads out of this
+grand hall; one leads southwards back to the entrance lobby, while
+northwards continues on deeper into the cityguard headquarters.  
+ 
+There is a sign on the front of a desk.
+Type {glook sign{x to read it.
+~
+0 131080 0
+E
+sign desk plaque~
+The sign reads:
+ 
+Communication is the second most important thing about the world of
+Redemption, next to being able to travel from place to place. There
+are many methods of communicating with the realm!
+ 
+Some are "in character", which means it should be considered your
+character doing the speaking and shouldn't discuss things like your
+favorite football team or TV show. Some IC channels are 'gossip',
+'clangossip', 'say', and 'yell'.
+ 
+OOC channels (out of character) are used mainly to discuss things
+from the perspective of the player rather than the character. With
+the 'ooc' channel you can, for example, discuss things that don't
+have anything to deal with the game itself if you like.
+ 
+To see a list of the channels you can use, type {gchannels{x.
+To actually speak on one, use {g<channel name> <text>{x, such
+as 'question Can someone tell me how to get to Ogreton?'
+To turn them on and off, simply type the channel name without
+any text after it.
+ 
+You can send a private message to one player with
+{gtell <Person> <text>{x and check who is online with 'who'.
+If you have questions, use 'ask' or 'newbie' channels.
+~
+D0
+~
+~
+0 0 20202
+D2
+~
+~
+0 0 20200
+S
+#20202
+Shandalar Cityguard Library of History~
+The smell of old books permeates the air in this large, stone hall.  A
+bright skylight illuminates much, though it does little to dispel the
+dankness of the place.  Shandalar scholars putter about between the wooden
+shelves, giving at least a little life to the place.  There are a set of
+stairs on the far end of the room as well, leading both up and down to new
+floors.  
+ 
+There is a {gsign{x hanging upon the head librarian's desk.
+~
+0 131080 0
+E
+sign desk~
+The sign reads: Redemption has a vast and varied history and a wide
+pantheon of Gods and Goddesses to worship.  The continent of Dominia is rich
+in culture and steeped in lore and legend, and this library is the best
+place to find out about it and its inhabitants.  
+ 
+To read about the races of Dominia and those of Terra, go {gup{x.
+To take a map lesson, go {gdown{x.
+ 
+When you are done, continue {gnorth{x to reach the next training section.
+ 
+You can find a map of this area with:
+http://redemption.wikispaces.com/space/showimage/mudschoolmap.txt
+~
+D0
+~
+~
+0 0 20205
+D2
+~
+~
+0 0 20201
+D4
+~
+~
+0 0 20203
+D5
+~
+~
+0 0 20204
+S
+#20203
+Cityguard Biology Lab~
+Odd, bubbling experiments sit in glass jars upon rows of wooden work
+tables.  This is, obviously, where the cityguards go to learn about the
+strange creatures that inhabit all of the world.  Know thine enemy, indeed! 
+Several gruff, white-haired instructors trot about the laboratory, giving
+lessons to the new recruits about the resistances and vulnerabilities of the
+races.  The only other exit is back downstairs.  
+ 
+There is a {gbook{x on a counter. Type {glook book{x.
+~
+0 131080 0
+E
+kirre~
+Kirre are a strange, feline race from deep in the Dominian jungles.  They
+are quick and feral, quite deadly in the right situation.  Kirre are quick
+learners of the arts of runes; thus they make some of the best runists the
+world has to offer.  Kirre are vulnerable however to cold damage, not used
+to chill thanks to their warm jungle habitat.  They resist lightning well,
+however, thanks to their insulating fur.  
+~
+E
+dragon hatchling~
+The page reads:
+ 
+Dragons are a plague upon the world! The creatures are large, fast,
+and generally quite impressive no matter what job they choose to excel
+in. Dragons can also breathe various elements, too. Quite dangerous.
+However, all dragons are vulnerable to special dragon-slaying weapons.
+ 
+Red dragons resist fire-based attacks and are vulnerable to cold.
+
+White dragons resist ice-based attacks and are vulnerable to fire.
+Blue dragons resist lightning and are vulnerable to acid attacks.
+Black dragons resist acid and are vulnerable to poison.
+Green dragons resist poison and are vulnerable to lightning.
+~
+E
+marid~
+The page reads:
+ 
+Marids are a physically weak, but mentally powerful species from the oceans of
+Terra. A strange, fish-like race, the marids excel in elemental-based magics
+such as fire and ice, but are quite mediocre at anything without elemental
+spells or abilities. They can breathe underwater easily, so beware when fighting
+them should they attempt to flood the room. Like most things underwater, marids
+can be handily defeated with a few quick jolts of electricity.
+~
+E
+sliver~
+The page reads:
+ 
+Slivers are the greatest species on the planet, and the most advanced
+race to be found. Physically and mentally they trump all but the
+dragons, able to easily defeat the lesser species handily much of
+the time. Slivers also grow far more effective in groups, able to
+give each other tremendous skill in combat. However, acid-based
+attacks burn their carapaces quickly, causing large wounds. Thanks
+to their 'hive mind', a sliver is able to resist sleep and charm
+attacks much like the elves of terra.
+ 
+Slivers may also speak to each other using the 'mind' channel no
+matter where they are in the world.
+~
+E
+troll~
+The page reads:
+ 
+Trolls are a fairly large, burly species from the wilds of Dominia,
+originating (or so it's thought) in the deep swamps and marshes. Though
+not particularly powerful compared to mere humans, trolls are nevertheless
+quite tough in their own right -- a troll can regrow wounds and can even
+control their own severed limbs, eventually, in combat. Though they are
+heavily resistant to diseases, a troll cannot regenerate fire-based
+damage and can be very badly burned in a very short time.
+~
+E
+gargoyle~
+The page reads:
+ 
+Gargoyles are a noble and proud race from Dominia, with thick, leathery
+skin that resembles stone. Indeed, they can even stiffen their muscles
+to become rock-hard, making their blows deal more damage and sharp attacks
+to simply deflect harmlessly off of them. Gargoyles make excellent paladins
+but excel otherwise at a wide variety of classes. Their fairly weak
+frames though make them susceptible to poison and disease, particularly
+the 'blast of rot' cast by an invoker or mage.
+~
+E
+giant~
+The page reads:
+ 
+Giants are huge creatures from Terra, able to lift great weights and
+endure considerable blows. Their intelligence however is quite the
+opposite compared to their strength, and like dwarves they lack the
+nimbleness of other races. They make excellent warrior classes but
+mediocre anything else. Giants are also heavily resistant to
+cold and heat, thanks to their living in harsh climates, but their
+tall size and heavy mass makes them take much more damage from attacks
+due to lightning.
+~
+E
+dwarf~
+The page reads:
+ 
+Dwarves may be short and stocky, but they are nearly the same size
+as a human being in terms of weight and overall effectiveness.
+They are even stronger than your average human, and quite a bit
+tougher to boot; they make quite excellent clerics and passable
+rangers and warriors. However, they lack any agility and are quite against
+learning new things. Very set in their ways, dwarves. However, they are quite
+resistant to most magical attacks, but live in fear of drowning.
+~
+E
+elf~
+The page reads:
+ 
+Elves are a moderately common species in the world, coming only from
+the continent of Terra. They are a magical-oriented species, though are
+rather spindly and frail, so although they make superb spellcasters
+they lack the stamina to stay very long in a fight. They are also quite
+badly burnt by weapons made of cold iron, but are very resistant to
+mind-affecting spells like 'sleep' and 'charm'.
+~
+E
+human~
+The page reads:
+ 
+Humans are generally one of the most common race on the planet in terms
+of citizens - they breed quickly but are otherwise quite mundane compared
+to most others. They are adaptive, though, and can train and level much
+faster than any of the other races. Their physical attributes are
+mediocre, but they have no known vulnerability in terms of elemental
+magic, nor any real resistances.
+ 
+There are far fewer human adventurers, since they are fairly ordinary
+and don't quite have the power that other races do.
+~
+E
+book counter~
+The book is divided into several sections, each depicting a different race
+of the world and showing a picture of their anatomy.
+ 
+The chapters are labled as the following (type {glook <race>{x to read it)
+{x human
+{x dwarf
+{x elf
+{x giant
+{x sliver
+{x gargoyle
+{x dragon
+{x troll
+{x marid
+{x kirre
+~
+D5
+~
+~
+0 0 20202
+S
+#20204
+Cityguard Map Room~
+Tall shelves of books are spread from one end of this grand chamber to
+the other, along with hundreds of maps that lay flat on the otherwise blank
+stone walls.  The torches here are all covered in expensive glass, to ensure
+they won't burn the various priceless and ancient works.
+ 
+On one wall is an enormous {gmap{x.
+~
+0 131080 0
+E
+map~
+The entire wall is covered in a huge array of maps and diagrams, most of
+them displaying various interesting points of Dominia proper.  Some show the
+various highlights of Terra as well, the continent far to the West.  
+ 
+Map Site:
+http://www3.sympatico.ca/carrotqueen/
+~
+D4
+~
+~
+0 0 20202
+S
+#20205
+Cityguard Equipment Training~
+This long, narrow hall is filled high with weapon and armor racks, all
+holding various pieces of Shandalar Cityguard armor.  Shields, breastplates,
+helms, greaves, and an enormous array of different weapons lay stacked up
+neatly, though many seem to be restricted for use by the trainers only.  The
+trainers themselves are spread out and teaching groups of students the ways
+of weaponry and equipment.  
+ 
+A heavy {gtome{x is laid out on a table near the door.
+~
+0 131080 0
+E
+tome table~
+The tome reads:
+ 
+Equipment is a vital part of proper training. The different gear you carry can
+be worn on your body, giving a variety of special bonuses and increasing the
+effectiveness of your fighting abilities. Some equipment is even magical! The
+higher the level, generally, the stronger the piece of equipment is.. But
+generally, the most useful pieces for combat are those that raise your
+damroll, hitroll, strength, and dexterity. When you're about to level, you want
+to raise your constitution, wisdom, and intelligence (in that order) as high
+as you possibly can to ensure you get full benefits for that level.
+ 
+To view what equipment you are currently wearing, type {gequipment{x
+or simply 'eq' for short.
+To see what your current stats are, use {gscore{x, {goldscore{x, or
+{gmystat{x, all of which show the same thing in a different format.
+The {clore{x or {cidentify{x skills can be used to check what an item
+does, or you can check the Redemption website.
+~
+D0
+~
+~
+0 0 20206
+D2
+~
+~
+0 0 20202
+S
+#20206
+Cityguard Practice Yard~
+This hall is filled to the brim with practice dummies, targets, and
+stuffed bags of straw for people to attack.  A large number of
+cityguards-in-training are here as well, busily practicing their skills and
+training to become stronger and faster.  
+ 
+There is a large {gsign{x tacked up near the entrance door.
+~
+0 131080 0
+E
+sign door~
+The sign reads:
+ 
+Practicing and training are also very important aspects of Redemption.
+Each time you raise a level, you gain a practices depending on your
+current wisdom and one train. You also start with a good number of them!
+Generally, you should always train hitpoints because there are a lot
+of skills and equipment that will increase your stats very high anyway.
+ 
+Practicing will allow you to raise your skill's percentages,
+letting them be more effective in combat and you to lose concentration
+less often when casting spells. Spellcasters will practice spells
+much easier while it's the opposite for warrior classes. Also, the
+amount you practice is highly dependent on your current intelligence, so
+make sure you wear some equipment to raise it before you practice
+something!
+ 
+To view the skills you can use and practice, type {gprac{x.
+To view what you can train, use {gtrain{x.
+ 
+If you want to gain new skills, use {ggain list{x and {ggain <skill>{x.
+~
+D0
+~
+~
+0 0 20207
+D2
+~
+~
+0 0 20205
+S
+#20207
+Cityguard Clan Training~
+Like the practice room, this one too is filled with training dummies and
+various things to test weapons upon.  However, the bulk of the stone room is
+taken up with books and maps, both of which cover many tables and walls in
+the area.  A number of burly instructors stand about the hall as well,
+giving lessons on the various clans and groups of Redemption.
+ 
+You can watch a lesson by using {glook lesson{x.
+~
+0 131080 0
+E
+lesson instructors~
+The lesson is a simple one, explaining the dynamics between the
+clans of Redemption:
+ 
+The clan system is a fairly simple one, allowing people to kill
+each other for fun and profit and have structure while doing it.
+Each clan is led by two recruiters and a leader, all (generally)
+quite powerful people indeed.
+ 
+If you choose to player-kill on creation, you will become a loner
+at level 10, which means you are able to player kill and be player killed.
+Anyone with a Killer flag can be attacked by people 16 levels above him
+or her, while a killer can attack anyone 8 levels below him or higher.
+ 
+The clan information can be found via {ghelp clans{x and {ghelp <clan name>{x
+{x
+~
+D0
+~
+~
+0 0 20208
+D2
+~
+~
+0 0 20206
+S
+#20208
+Basic Combat Training~
+Here, unlike the previous rooms, the area is not taken up either by
+weapons or by targets.  Instead, it's simply instructors giving the final
+lessons to the students before they are shipped off to begin their last
+stage of testing.  Here they learn the basics of hand-to-hand combat, such
+as how to yell when there is a killer in the room and how to stand at their
+posts for days and days on end.  
+ 
+To the north, however, the door is guarded by two Cityguards, and it appears
+that only the Headmaster of the Cityguards can grant anyone entry.
+~
+0 131080 0
+D0
+~
+~
+4 0 20209
+D1
+~
+~
+0 0 20249
+D2
+~
+~
+0 0 20207
+S
+#20209
+Above Lower Shandalar~
+This chamber is a far cry from the neat, tidy Shandalar Cityguard
+Headquarters. The pristine white marble makes way for dingey grey stone,
+the bricks closely-packed and sealed with mortar.  Mold and moss grows in
+the corners, and it's rather badly-lit; the various torches sputter and
+barely give much of a glow.
+ 
+In the very center of the chamber, a huge iron grate leads {gdown{x.
+~
+0 131080 0
+E
+down grate ladder iron~
+The grate appears to head down into some lower section of Shandalar,
+below the city proper. If you {gopen down{x you will be able
+go travel through it.
+ 
+Many doors you will not see right away; when exploring an area it
+is a good idea to 'bump' into walls to see if there is a door there,
+or read the room description!
+~
+D2
+~
+~
+4 0 20208
+D5
+~
+grate~
+1 0 20210
+M 120 H 120
+S
+#20210
+Lower Shandalar Tunnels~
+Almost like a sewer, the tunnel is rounded - it's almost like being
+inside some giant, stone snake.  Green slime oozes from the ceiling, the
+only illumination in the area actually coming from the phosphorescent slime
+itself.  The tunnel immediately splits into two, one tunnel heading north
+and the other south.  There is also a ladder heading {gup{x, back to the
+relative safety of Upper Shandalar.  
+~
+0 131080 0
+E
+up ladder grate~
+Upwards is the ladder, heading back to the Upper City. If it's closed,
+simply type '{gopen up{x'.
+~
+D0
+~
+~
+0 0 20211
+D2
+~
+~
+0 0 20218
+D4
+~
+grate~
+1 0 20209
+S
+#20211
+Northern Tunnel~
+These underground tunnels seem immensely old.  The stone walls are packed
+close together and mortared with some kind of hard grey material, though
+much of the actual wall is simply green lichen and slime.  Northwards seems
+to open into a slightly larger cave.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20212
+D2
+~
+~
+0 0 20210
+S
+#20212
+A Darkened Chamber~
+This chamber expands rapidly, the stone walls branching off to the north
+and west.  The ground is still mainly ooze and slime, built up over however
+many centuries this place has been around for.  Footsteps occasionally can
+be spotted through the muck.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20213
+D1
+~
+~
+0 0 20217
+D2
+~
+~
+0 0 20211
+D3
+~
+~
+0 0 20216
+S
+#20213
+The Old Shandalar Wall~
+Amazing!  The northern section of this wall appears to be so old it's
+almost crumbled away.  The huge stones are certainly part of what used to be
+a city wall, considering there's still archaic-looking graffiti scribbled
+underneath the muck of the place.  
+ 
+There appears to be something written on the {gwall{x.
+~
+0 131080 0
+E
+wall written graffiti~
+The graffiti reads:
+ 
+'Cuervo wuz here'
+'For a good time, send a messenger to Gargnath..'
+'Trolls get all the babes'
+~
+D1
+~
+~
+0 0 20215
+D2
+~
+~
+0 0 20212
+D3
+~
+~
+0 0 20214
+S
+#20214
+Corner of a Dark Chamber~
+The northwest corner of this large chamber is just as damp, cold, and
+depressing as the rest of it.  Oddly enough, however, the north wall does
+not appear the same as the rest of the walls in this area - it's much harder
+and darker, and the bricks are larger.  It seems this must have been a
+section of Old Shandalar's outer wall.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20213
+D2
+~
+~
+0 0 20216
+S
+#20215
+Corner of a Dark Chamber~
+This corner of the large stone chamber holds little enough of interest,
+though it appears someone has piled a good stack of old furniture in the
+corner for whatever reason.  Much of it has long-since rotted away by now,
+unfortunately.  
+~
+0 131080 0
+D2
+~
+~
+0 0 20217
+D3
+~
+~
+0 0 20213
+S
+#20216
+Corner of a Dark Chamber~
+This appears to be the southwest corner of a small cave, or perhaps some
+sort of room built down here on purpose.  Footsteps slog through the mire,
+though otherwise this section is rather empty indeed.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20214
+D1
+~
+~
+0 0 20212
+S
+#20217
+Corner of a Dark Chamber~
+Like the rest of this stone cavern, this section is largely filled with
+the refuse of years and years of other cityguards coming down here to train
+their skills upon the poor denizens.  Piles of old furniture lay stacked in
+a heap in the corner, mostly indistinguishable from each other thanks to the
+ravages of time.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20215
+D3
+~
+~
+0 0 20212
+S
+#20218
+Lower Shandalar Tunnels~
+The Lower Tunnels continue here, heading both north and south.  Green
+muck and ooze covers the floor everywhere, dripping from the stone ceiling
+and sticking to every surface like glue.  Strangely, to the south there
+appears the glow of torches, casting deep shadows over everything that
+moves.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20210
+D2
+~
+~
+0 0 20219
+S
+#20219
+The Gates of Lower Shandalar~
+This, it seems, is the entrance to the old city that came before the
+modern-day Shandalar.  Huge gates if stone form a doorway into this series
+of tunnels, with carven Dominian writing scrawled around the inside arch. 
+Enormous iron gates lay sundered on the ground, covered in ancient-looking
+scorch marks.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20218
+D1
+~
+~
+0 0 20220
+S
+#20220
+Thief Tunnels~
+Strange.  This section of the tunnels appears to be rather well-kept,
+even though it's quite far underground indeed.  It's the only section of the
+old city still standing, somehow carven out of the earth that once swallowed
+over the original city itself.  The signs of habitation are everywhere,
+including old pots and pans and still-lit torches that flicker from sconces
+on the walls.  South leads deeper into the den of thieves while westwards
+leads back to the entrance to the Old City.  
+~
+0 131080 0
+D2
+~
+~
+0 0 20221
+D3
+~
+~
+0 0 20219
+S
+#20221
+Thief Hideout~
+These tunnels are clearly inhabited, and not by particularly savory
+people, either.  Some of the old Shandalar houses and buildings that still
+stand have been converted, it seems, into a hideout for thieves and bandits!
+Southwards, a campfire gives a warm glow, the smoke rising up into a grate
+in the ceiling.  West and east are two of the houses.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20220
+D1
+~
+~
+0 0 20226
+D2
+~
+~
+0 0 20222
+D3
+~
+~
+0 0 20225
+S
+#20222
+Center of the Hideout~
+This is apparently the central nexus of the Thieve's Hideout tunnels.  A
+large campfire, ringed with enormous building stones, has been formed in the
+center of the tunnel itself for cooking upon and for warming up.  A large,
+black-encrusted sewer grate is set in the ceiling, heading up to
+who-know's-where but also letting the smoke filter up.  Large archways lead
+west and east to refurbished buildings.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20221
+D1
+~
+~
+0 0 20228
+D2
+~
+~
+0 0 20223
+D3
+~
+~
+0 0 20227
+S
+#20223
+Thief Hideout~
+The tunnels bend and turn around a large hunk of stone that's fallen from
+the ceiling rather ominously, as if an earthquake collapsed part of the
+ceiling.  Southwards, the larger tunnels turn into a quite smaller one,
+while northwards leads to the hideout's campfire and east and west lead to
+more of the refurbished thieve's rooms.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20222
+D1
+~
+~
+0 0 20230
+D2
+~
+~
+0 0 20224
+D3
+~
+~
+0 0 20229
+S
+#20224
+A Bend in the Tunnels~
+The smaller tunnel gives an obvious curve, expanding into the much wider
+area of Old Shandalar to the north while bending westwards to a deeper
+tunnel.  The slime of the sewers grows more obvious to the west, too, along
+with the stench of how many centuries this place has been buried for.  Yuck!
+~
+0 131080 0
+D0
+~
+~
+0 0 20223
+D3
+~
+~
+0 0 20231
+S
+#20225
+Old Shandalar Jail~
+This, obviously, is the remnants of the ancient Shandalar prisons.  Not
+much survives to the day, as much of the building material and the metals
+forming the bars have long-since been scuttled for other buildings and
+construction.  Nevertheless it's still being used, it would appear since
+there are people chained up on the wall shackles.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20221
+S
+#20226
+Dining Hall~
+A long wooden dining table gives a clear idea what, precisely, this room
+is used for.  The table itself is surrounded by a number of large benches
+and chairs, all of which look in bad need of repair.  Large lanterns are
+placed at intervals along the walls, illuminating the place in a bright
+glow.  
+~
+0 131080 0
+D3
+~
+~
+0 0 20221
+S
+#20227
+Sleeping Chamber~
+Rows of bunkbeds are lined up in this huge stone building.  It must have
+once been a warehouse, considering the large, rotted chests and crates that
+are piled up in the far corner.  The room itself is in about the same
+condition one might expect from a thieve's hideout; it's definitely in need
+of a redecorator.  Or maybe just a cleaning maid.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20222
+S
+#20228
+Training Room~
+This area is, plainly, devoted to being an area for the thieves to combat
+one another and learn their skills.  However, as most of the thieves in this
+area are rather lazy indeed, it's not often very used.  Large target dummies
+sit at the far end of the place for archers to practice their aim, while
+larger straw ones sit at the front for hand-to-hand practice.  
+~
+0 131080 0
+D3
+~
+~
+0 0 20222
+S
+#20229
+Supply Room~
+Huge crates and boxes line this ancient warehouse, though the supplies
+are clearly in much better condition than the old chamber itself.  These
+must be the goods that the thieves have stolen in Shandalar proper over the
+years!  It's quite well-guarded, however.  Weapon racks line the walls too,
+but the items upon them are rather pitiful.  The only other direction is
+back east, into the thieve's main den tunnels.  
+ 
+There is a large {gsign{x scribbled on the wall.
+~
+0 131080 0
+E
+sign wall large~
+The sign reads:
+ 
+This is a shop. Like the pet shop, you can buy things from here.
+The items you buy in a shop will go into your inventory, and your
+gold or silver will be reduced appropriately. You can only buy items
+that are your level or below.
+ 
+To see a list of items, type {glist{x.
+To buy one, type {gbuy <item>{x.
+If there's more than one item with the same name for sale (ie. 'sword')
+you can use buy 2.sword, or buy 3.sword.
+ 
+You might want to buy a torch, or some food and water in case you
+get hungry!
+~
+D1
+~
+~
+0 0 20223
+S
+#20230
+Weapons Locker~
+Ah!  This is wear the good stuff is held, it'd appear.  This must have
+been an old smithy, which is an appropriate enough place to store and repair
+weapons, considering the anvil still remains firmly embedded in the floor at
+the far end of the place.  A wide variety of weapons are tucked securely
+into weapon racks, though are usually heavily guarded.  Old leather goods
+are secured on pegs along the walls, too.  
+~
+0 131080 0
+D3
+~
+~
+0 0 20223
+S
+#20231
+A Sloping Passage~
+The passage begins to angle up westwards, though the slope grade is
+barely noticeable except for those with very keen underground senses, like
+dwarves.  Eastwards the tunnel aims back down; from that direction also
+springs light, coming from the torches and lanterns strung in the Old
+Shandalar tunnels themselves.  Westwards, though, is much darker and much
+smellier.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20224
+D3
+~
+~
+0 0 20232
+S
+#20232
+A Steep Incline~
+The narrow tunnel - plainly man-made, not natural - bends south and east
+here, though to the south it angles up at a much sharper angle than it did
+previously.  Occasionally, small, slow-burning lanterns guide the way, but
+for the most part the area is quite dark indeed.  The stench of ancient
+sewers fills the air.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20231
+D2
+~
+~
+0 0 20233
+S
+#20233
+Sewers of Shandalar~
+Yuck!  Thick slime must be slogged through in order to pass to either the
+north or the south.  It's a dark green and smells so foul it must nearly be
+poisonous just by inhaling it.  There's no way to tell what exactly's been
+floating around in this area of the sewers..  Though it's clear that -some-
+things still live down here.  The sewers continue northwards and southwards.
+~
+0 131080 0
+D0
+~
+~
+0 0 20232
+D2
+~
+~
+0 0 20234
+S
+#20234
+Sewer Pit~
+Finally, an escape!  The sewer tunnels here are still filled with oozing
+green sewer sludge, though - thank the Gods - doesn't smell nearly as
+horrible as to the north.  A long, narrow iron ladder is embedded in the
+wall at the far end, leading up into darkness.  
+~
+0 131084 0
+D0
+~
+~
+0 0 20233
+D4
+~
+~
+0 0 20235
+S
+#20235
+Above the Sewer Pipe~
+The huge sewer pipe is like a vertical tunnel, the only way up and down
+being an iron ladder that juts from the side wall.  It's obviously used to
+clear sewage down deeper from the main city; a slow, sluggish river of
+green-and-brown ooze flows from east to west and then down the pipe itself. 
+Gross!  Eastwards, though, opens into a wider cavern, which more signs of
+habitation.  
+~
+0 131072 0
+D1
+~
+~
+0 0 20236
+D5
+~
+~
+0 0 20234
+S
+#20236
+Gray Bandit's Hideout~
+This hideout appears to be in rather good condition and order,
+considering it's built in a sewer.  Large grates in the ceiling occasionally
+open up, allowing a deluge of raw sewage from Shandalar Proper to spray down
+onto the floor, where it quickly is swept westwards by the current. 
+However, the tunnel itself to the north and south is large enough to be
+inhabitable..  And it is!  
+~
+0 131080 0
+D0
+~
+~
+0 0 20237
+D1
+~
+~
+0 0 20239
+D2
+~
+~
+0 0 20238
+D3
+~
+~
+0 0 20235
+S
+#20237
+Eating Area~
+This section of the Grey Bandit's hideout is, more than likely, where
+they eat their food.  However, it's a rather disgusting place they've picked
+to do so, considering the sewer pipes are no less disgusting here, too. 
+However, the smell of food being cooked over a fire is mouthwatering
+considering the fact that all the other smells down here are horrible.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20240
+D2
+~
+~
+0 0 20236
+S
+#20238
+Upper Sewage Tunnel~
+The southwest corner of the main cavern is filthy.  That, however, is the
+least of the place's worries, as the stench in here is indescribable. 
+There's bits of rubbish floating about in the muck that would take days and
+teams of gnome researchers to identify.  Much of it flows off sluggishly to
+the north, while some slops off to the east.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20236
+D1
+~
+~
+0 0 20241
+S
+#20239
+Gray Bandit's Hideout~
+This appears to be near the center of the Gray Bandit's camp.  The
+symbols of the Gray Bandits are plastered on quite a few surfaces - a grey
+skull, with coins for eyes - and the place is clearly inhabited now, too. 
+Barrels of supplies lay haphazardly scattered here and there, but well out
+of the way of the sewage pipes that occasionally flood the area.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20240
+D1
+~
+~
+0 0 20242
+D2
+~
+~
+0 0 20241
+D3
+~
+~
+0 0 20236
+S
+#20240
+Practice Area~
+Various Grey Bandits are about here, practicing on a number of target
+dummies, most of which are dress up like the thieves of the area in the City
+Below.  There are also a number of wooden weapons racks, though the variety
+of weapons and armor stacked up are rather poor condition indeed.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20243
+D2
+~
+~
+0 0 20239
+D3
+~
+~
+0 0 20237
+S
+#20241
+Upper Sewage Tunnel~
+Gross.  This part of the tunnel is piled so high with slime and sludge
+it's more like swimming than wading.  The floor is slightly deeper, too, so
+the sludge has had a chance to build up before sloshing off to the north. 
+Thankfully there's a short stone wall to the east that stops the flow from
+pouring into the Bandit's treasure room.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20239
+D1
+~
+~
+0 0 20244
+D3
+~
+~
+0 0 20238
+S
+#20242
+Gray Bandit's Hideout~
+Luckily, here appears to be much less inclined to have sewage and filth,
+as much of the pipes are further over to the west.  Instead, it raises up in
+a definite incline to the east, leading to a higher plateau than otherwise
+would have been built.  No doubt it's part of a much larger system for a
+city that has fallen into disuse.  There are even occasional campfires, with
+the fumes and smoke rising up into the abandoned sewer pipes.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20243
+D1
+~
+~
+0 0 20245
+D2
+~
+~
+0 0 20244
+D3
+~
+~
+0 0 20239
+S
+#20243
+Upper Sewage Tunnel~
+Yuck!  This room is unuseable as a hideout for the Gray Bandits,
+considering it's filled to the brim with raw, disgusting sewage.  Thick
+gouts of it pour from the ceiling grates at random intervals and the stench
+is quite overwhelming.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20247
+D2
+~
+~
+0 0 20242
+D3
+~
+~
+0 0 20240
+S
+#20244
+Treasure Chamber~
+Amazing!  All the gold the Gray Bandits have been able to steal from
+people in Shandalar are piled up here, guarded closely by guard dogs and
+burly Bandit guards.  Large piles of chests and crates lay strewn about
+against the wall, piled nearly to the ceiling in places.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20242
+D1
+~
+~
+0 0 20246
+D3
+~
+~
+0 0 20241
+S
+#20245
+Gray Bandit's Hideout~
+This section seems to be the far east section of the Gray Bandit's sewer
+hideout, as eastwards angles up at a sharp pace, leading to bright windows
+and a doorway.  There is little sewage here compared to the rest of the
+tunnels, thankfully.  Otherwise, this area is rather empty.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20247
+D1
+~
+~
+0 0 20248
+D2
+~
+~
+0 0 20246
+D3
+~
+~
+0 0 20242
+S
+#20246
+Throne of the Gray Bandit Leader~
+The stone walls and floor in this area have been carefully scoured clean,
+and the smell is much less severe than the other areas.  In the center of
+the chamber's corner is a sturdy stone chair on a stone dais, draped with a
+rather fine bit of silk.  The symbol of the Gray Bandits hangs on the wall
+behind it.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20245
+D3
+~
+~
+0 0 20244
+S
+#20247
+Upper Sewage Tunnel~
+This corner of the sewer tunnels is filthy.  Thick sewage covers the
+floor, walls, and even the ceiling in places, though thankfully the ceiling
+pipes have mostly rusted shut.  This area hasn't been used by anyone in
+ages.  Southwards, however, the area is slightly cleaner.  
+~
+0 131080 0
+D2
+~
+~
+0 0 20245
+D3
+~
+~
+0 0 20243
+S
+#20248
+Gate to the City~
+A broad, grated sewer tunnel sits here, rounded and lined with
+tightly-packed stone bricks.  Plainly this was once an old sewer, though
+must have recently fallen into some disrepair and disuse.  The iron grates
+of the sewer are twofold - one leads out of the sewer itself while the other
+leads westwards, deeper into it.  The signs of habitation, oddly, are
+obvious -- westwards has torches, and voices occasionally echo out through
+the tunnel itself.  
+~
+0 131080 0
+D3
+~
+~
+0 0 20245
+D4
+~
+~
+1 0 31001
+S
+#20249
+Veteran's Barracks~
+A wide variety of comfortable bunk beds are lined up against the walls,
+each of them having a sturdy chest at the foot for the person's belongings. 
+Near the front of the room is a large desk with a ledger and a receptionist
+behind it.  Large, burly cityguards are always puttering about, practicing
+or cleaning their gear.  
+ 
+There is a {gsign{x on the front desk.
+~
+0 135176 0
+E
+sign desk ledger~
+The sign reads:
+ 
+You can buy a 'pet' here! A pet is a charmed monster that wanders around
+with you in a group and can help you kill things. Generally they lack the
+stamina of a regular adventurer, but can come through for you in a
+pinch, especially if you lack the fighting skills of warriors.
+ 
+To buy a pet, use 'list' to show which ones are here, and 'buy <name>' to
+buy which one you like.
+ 
+To give an order to a pet you have in your group (type 'gr'), use 'order'.
+Such as, 'order <mob> kill <another mob>'.
+ 
+Since you probably don't have any money right now, you can go ahead and
+come back later when you have some to purchase your pet.
+~
+D3
+~
+~
+0 0 20208
+S
+#20250
+Pet Shop Room~
+~
+0 269005836 0
+S
+#20270
+The Realm of the Dead~
+You are standing on an immense, grey stone floor that stretches as far as you
+can see in all directions.  Rough winds plunging from the dark, starless sky
+tear savagely at your fragile body.
+~
+0 268967964 3
+E
+floor~
+The stone floor is the same shade of grey as the sky and is completely plain
+and unscratched.  It is probably too hard for anything to leave as much as a
+scratch on it.
+~
+E
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+~
+S
+#20275
+{DGray Spire{x Prep Room~
+This large, grey stone chamber is filled with flickering shadows thanks
+to the torches lining the walls.  It's an ominous place, with skeletons
+chained to the walls and an aura of pain and fear somehow filtering into the
+room. The only exit leads eastwards, into the Spire proper.
+~
+0 1049872 0
+D1
+~
+~
+0 0 20277
+S
+#20276
+West Side of the Spire~
+The spire continues west and east here, the sounds of battle echoing
+through the stone corridors.  It's gloomy and dank, with bloodstains smeared
+on the walls.  Old bones and broken weapons litter the floor, making it
+difficult to step too quickly.
+~
+0 269492248 0
+D1
+~
+~
+0 0 20277
+D3
+~
+~
+0 0 20285
+S
+#20277
+Center of the Spire~
+The center of the Spire is a wide open area, the stone walls gloomy and
+dark.  It's definitely not a very good place to stick around for long. 
+Winding passages twist off in all directions, even up and down.  The screams
+of dying people echo lingeringly through the place.  
+~
+0 269492248 0
+D0
+~
+~
+0 0 20279
+D1
+~
+~
+0 0 20278
+D2
+~
+~
+0 0 20280
+D3
+~
+~
+0 0 20276
+D4
+~
+~
+0 0 20281
+D5
+~
+~
+0 0 20283
+S
+#20278
+East Side of the Spire~
+The spire continues west and east here, the sounds of battle echoing
+through the stone corridors.  It's gloomy and dank, with bloodstains smeared
+on the walls.  Old bones and broken weapons litter the floor, making it
+difficult to step too quickly.
+~
+0 269492248 0
+D1
+~
+~
+0 0 20285
+D3
+~
+~
+0 0 20277
+S
+#20279
+North Side of the Spire~
+The spire continues north and south here, the sounds of battle echoing
+through the stone corridors.  It's gloomy and dank, with bloodstains smeared
+on the walls.  Old bones and broken weapons litter the floor, making it
+difficult to step too quickly.
+~
+0 1048600 0
+D0
+~
+~
+0 0 20286
+D2
+~
+~
+0 0 20277
+S
+#20280
+South Side of the Spire~
+The spire continues north and south here, the sounds of battle echoing
+through the stone corridors.  It's gloomy and dank, with bloodstains smeared
+on the walls.  Old bones and broken weapons litter the floor, making it
+difficult to step too quickly.  
+~
+0 269492248 0
+D0
+~
+~
+0 0 20277
+D2
+~
+~
+0 0 20286
+S
+#20281
+Travelling Up the Spire~
+The spire continues up and down here, the sounds of battle echoing
+through the stone corridors.  It's gloomy and dank, with bloodstains smeared
+on the walls.  Old bones and broken weapons litter the floor, making it
+difficult to step too quickly.
+~
+0 269492248 0
+D4
+~
+~
+0 0 20282
+D5
+~
+~
+0 0 20277
+S
+#20282
+Top of the Spire~
+The very top of the spire!  Such a marvelous view..  Of nothing in
+particular.  A spiral staircase leads back down to the Spire proper, the
+landing covered in old bones.  Various windows are boarded up, hiding
+whatever terrain this strange tower must be standing in.  Screams echo from
+somewhere down below.  
+~
+0 269492248 0
+D5
+~
+~
+0 0 20281
+S
+#20283
+Travelling Down the Spire~
+The spire continues up and down here, the sounds of battle echoing
+through the stone corridors.  It's gloomy and dank, with bloodstains smeared
+on the walls.  Old bones and broken weapons litter the floor, making it
+difficult to step too quickly.
+~
+0 269492248 0
+D4
+~
+~
+0 0 20277
+D5
+~
+~
+0 0 20284
+S
+#20284
+Bottom of the Spire~
+This seems to be the very bottom of the Spire; a dank, festering waste of
+a basement cellar.  Old bones litter the floor, corpses long since killed. 
+The only exit appears to be upwards.  
+~
+0 269492248 0
+D4
+~
+~
+0 0 20283
+S
+#20285
+Walking the Spire~
+The spire continues west and east here, the sounds of battle echoing
+through the stone corridors.  It's gloomy and dank, with bloodstains smeared
+on the walls.  Old bones and broken weapons litter the floor, making it
+difficult to step too quickly.
+~
+0 269492248 0
+D1
+~
+~
+0 0 20276
+D3
+~
+~
+0 0 20278
+S
+#20286
+Walking the Spire~
+~
+0 269492248 0
+D0
+~
+~
+0 0 20280
+D2
+~
+~
+0 0 20279
+S
+#20287
+{DGrey Spire{x Prep Room~
+This large, grey stone chamber is filled with flickering shadows thanks
+to the torches lining the walls.  It's an ominous place, with skeletons
+chained to the walls and an aura of pain and fear somehow filtering into the
+room.  The only exit leads eastwards, into the Spire proper.  
+~
+0 268449040 0
+D1
+~
+~
+0 0 20277
+S
+#20288
+pet shop room~
+~
+0 268477724 0
+S
+#20289
+The Realm of the Dead~
+You are standing on an immense, grey stone floor that stretches as far as you
+can see in all directions.  Rough winds plunging from the dark, starless sky
+tear savagely at your fragile body.
+~
+0 270016540 0
+E
+floor~
+The stone floor is the same shade of grey as the sky and is completely plain
+and unscratched.  It is probably too hard for anything to leave as much as a
+scratch on it.
+~
+E
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+~
+S
+#20300
+An {WIvory{x Platform~
+This simple platform is designed in elegant levels of ivory, each section
+cunningly fitted to hold considerable weight.  A slope leads southwards,
+into the arena proper, where the white sands glitter.  
+~
+0 269755396 3
+D2
+~
+~
+0 0 20301
+S
+#20301
+White Sands of the Arena~
+The white sand of the arena is spattered with blood, both old and new. 
+The screams of the dying linger in the air even after the unfortunate victim
+is hauled off.  There appears to be no exits from this place. 
+~
+0 537927680 0
+D1
+~
+~
+0 0 20303
+D2
+~
+~
+0 0 20304
+D3
+~
+~
+0 0 20302
+M 0 H 0
+S
+#20302
+White Sands of the Arena~
+The white sand of the arena is spattered with blood, both old and new. 
+The screams of the dying linger in the air even after the unfortunate victim
+is hauled off.  There appears to be no exits from this place. 
+~
+0 537927680 0
+D1
+~
+~
+0 0 20301
+D2
+~
+~
+0 0 20305
+M 0 H 0
+S
+#20303
+White Sands of the Arena~
+The white sand of the arena is spattered with blood, both old and new. 
+The screams of the dying linger in the air even after the unfortunate victim
+is hauled off.  There appears to be no exits from this place. 
+~
+0 537927680 0
+D2
+~
+~
+0 0 20306
+D3
+~
+~
+0 0 20301
+M 0 H 0
+S
+#20304
+Center of the Arena~
+The white sand of the arena is spattered with blood, both old and new. 
+The screams of the dying linger in the air even after the unfortunate victim
+is hauled off.  There appears to be no exits from this place. 
+~
+0 537927680 0
+D0
+~
+~
+0 0 20301
+D1
+~
+~
+0 0 20306
+D2
+~
+~
+0 0 20307
+D3
+~
+~
+0 0 20305
+M 0 H 0
+S
+#20305
+White Sands of the Arena~
+The white sand of the arena is spattered with blood, both old and new. 
+The screams of the dying linger in the air even after the unfortunate victim
+is hauled off.  There appears to be no exits from this place. 
+~
+0 537927680 0
+D0
+~
+~
+0 0 20302
+D1
+~
+~
+0 0 20304
+D2
+~
+~
+0 0 20308
+M 0 H 0
+S
+#20306
+White Sands of the Arena~
+The white sand of the arena is spattered with blood, both old and new. 
+The screams of the dying linger in the air even after the unfortunate victim
+is hauled off.  There appears to be no exits from this place.  
+~
+0 537927680 0
+D0
+~
+~
+0 0 20303
+D2
+~
+~
+0 0 20309
+D3
+~
+~
+0 0 20304
+M 0 H 0
+S
+#20307
+White Sands of the Arena~
+The white sand of the arena is spattered with blood, both old and new. 
+The screams of the dying linger in the air even after the unfortunate victim
+is hauled off.  There appears to be no exits from this place. 
+~
+0 537927680 0
+D0
+~
+~
+0 0 20304
+D1
+~
+~
+0 0 20309
+D3
+~
+~
+0 0 20308
+M 0 H 0
+S
+#20308
+White Sands of the Arena~
+The white sand of the arena is spattered with blood, both old and new. 
+The screams of the dying linger in the air even after the unfortunate victim
+is hauled off.  There appears to be no exits from this place. 
+~
+0 537927680 0
+D0
+~
+~
+0 0 20305
+D1
+~
+~
+0 0 20307
+M 0 H 0
+S
+#20309
+White Sands of the Arena~
+The white sand of the arena is spattered with blood, both old and new. 
+The screams of the dying linger in the air even after the unfortunate victim
+is hauled off.  There appears to be no exits from this place. 
+~
+0 537927680 0
+D0
+~
+~
+0 0 20306
+D3
+~
+~
+0 0 20307
+M 0 H 0
+S
+#20310
+An {DEbony{x Platform~
+This simple platform is designed in elegant levels of ebony, each section
+cunningly fitted to hold considerable weight.  A slope leads northwards,
+into the arena proper, where the white sands glitter.  
+~
+0 269755404 3
+D0
+~
+~
+0 0 20307
+S
+#20311
+An {gEmerald{x Platform~
+This simple platform is designed in elegant levels of emerald, each section
+cunningly fitted to hold considerable weight.  A slope leads eastwards,
+into the arena proper, where the white sands glitter.  
+~
+0 269755404 3
+D1
+~
+~
+0 0 20305
+S
+#20312
+A {BSapphire{X Platform~
+This simple platform is designed in elegant levels of sapphire, each section
+cunningly fitted to hold considerable weight.  A slope leads westwards,
+into the arena proper, where the white sands glitter.  
+~
+0 269755404 3
+D3
+~
+~
+0 0 20306
+S
+#0
+
+
+
+#SPECIALS
+M 20209 spec_lowbie_spellup Load to: a Shandalar cityguard healer
+M 20276 spec_breath_any Load to: Yinonxu, the Elder {yGolden{x Dragon
+M 20277 spec_cast_cleric Load to: Zeus
+M 20279 spec_breath_acid Load to: The pet shop boy
+M 20280 spec_breath_lightning Load to: an advisor
+M 20281 spec_breath_gas Load to: a maintenance worker
+S
+
+
+
+#MOBPROGS
+#20227
+nod $n
+say Ya got any rat's tails? I'll buy em! They's great in stew.
+pmote rubs his protruding gut.
+~
+A
+#20226
+if room $i == 20232
+pmote almost retches.
+say Sorry, but this is as far as I go.
+say Glad to have helped you out this far.
+salute
+emote runs back up to the Cityguard training area.
+mob purge $i
+endif
+~
+A
+#20225
+say Aha, you found defeated him! How excellent.
+say Here, you can have these.
+mob oload 20217
+mob oload 20217
+mob oload 20217
+drop all.potion
+mob junk $o
+emote wears the bandana on his head lopsidedly, but proudly.
+~
+A
+#20224
+beam $n
+say Ahhh, you found it! Excellent, excellent.
+wear boot
+mob oload 20245
+say Here, you can have this in payment.
+drop diamond
+mob junk $o
+say Excellent job, $N.
+~
+A
+#20223
+mob echo $N asks $I for a job.
+nod $n
+say The sewer thief leader, Gra'don, is a filthy thorn in our side here.
+say If you bring me his Boots of Skulking, I will reward you greatly.
+~
+A
+#20222
+mob echoat $n $I frowns thoughtfully at you.
+mob echoat $n {y$I says 'I have a job for you, if you are interested. Say '{cjob{y'.'{x
+ 
+~
+A
+#20221
+bark $n
+growl $n
+~
+A
+#20220
+pmote twitches.
+~
+A
+#20219
+say I'll get .. my revenge..!
+~
+A
+#20218
+emote gasps his last dying breath, clutching his chest dramatically.
+say Nooooooo..!
+~
+A
+#20217
+mob asound {R$I yells 'Help help! Intruders!'{x
+mob echo {R$I yells 'Help help! Intruders!'{x
+~
+A
+#20216
+pmote blorps and glurps grotesquely.
+~
+A
+#20214
+mob echoat $n $I nods at you, glancing left and right.
+mob echoat $n {y$I says 'If yer interested, I gots a job fer yah. Say '{gjob{y' fer more details.'{x
+~
+A
+#20215
+mob echo $n $N asks Gra'don for a job.
+nod $n
+say See, us sewer thieves've been competin' with the Gray Bandits up above. They's much more organized.
+say If ye can bring me Telim'Tor's bandana as a sign o' good faith, I'll reward ya well, $N.
+~
+A
+#20213
+snore
+~
+A
+#20212
+emote greedily chows down on his meal without looking up.
+~
+A
+#20211
+if mobhere 20215
+emote manages to give the dwarf a kick on the head.
+say It's your fault we're chained up in here!
+mob echo The dwarf rubs his head irritably.
+endif
+~
+A
+#20210
+emote gives a loud squeak as it's slain.
+~
+A
+#20209
+mob echoat $n There is a puff of smoke and you are transported to the other side of the door!
+mob gtrans $n 20208
+mob at $n force $n look
+mob at $n mob echo $N arrives from a puff of smoke.
+~
+A
+#20208
+mob echoat $n $I smiles at you.
+mob echoat $n {y$I says 'When you get some money, come back and you can buy some hired muscle.{x'
+~
+A
+#20207
+mob echoat $n $I nods at you.
+mob gtrans $n 20209
+mob echo {y$N vanishes in a puff of smoke.{x
+mob at $n mob echoaround {y$N arrives in a puff of smoke.{x
+~
+A
+#20200
+mob echoat $n {y$I says 'Hello there, $N. Welcome to Shandalar training.{x'
+mob echoat $n {y$I says 'We allow non-guard adventurers to come practice here, too.{x'
+mob echoat $n {y$I says 'Just head through these rooms, reading signs and you'll get the hang of it.{x'
+mob echoat $n $I thinks deeply. {y'Oh yes, and before I forget.. here's a guide.'{x
+ 
+mob oload 20200
+give guide $n
+~
+A
+#20201
+mob echoat $n $I smiles cheerfully.
+mob echoat $n {y$I says 'If you want to learn more about this world, try going up or down.'{x
+mob echoat $n {y$I says 'Otherwise, just continue heading north.'{x
+~
+A
+#20202
+mob echoat $n $I nods at you.
+mob echoat $n $I mutters, "Welcome aboard, $N."
+mob echoat $n {y$I says 'Just look at me for instructions on how to get your own set of equipment.'{x
+~
+A
+#20203
+mob oload 20206
+mob oload 20201
+mob oload 20202
+mob oload 20203
+mob oload 20204
+mob oload 20205
+mob oload 20214
+mob oload 20214
+put all backpack
+give backpack $n
+drop all
+~
+A
+#20204
+mob echoat $n $I nods thoughtfully at you.
+mob echoat $n {y$I says 'You can train your stats and practice your skills here.'{x
+mob echoat $n {y$I says 'Outside of this room, though, you'll need to find the one in town.'{x
+~
+A
+#20205
+mob echoat $n $I smiles cheerfully.
+mob echoat $n {y$I says 'Hello, $N. If you want to be healed, simply use 'heal'.{x'
+mob echoat $n {y$I says 'If you stay in this room for a while, I will cast spells upon you that may help your journey.{x'
+mob echoat $n {y$I says 'If you wish to be transported back into the entrance rooms, say 'return'.{x'
+~
+A
+#20206
+mob echoat $n {y$I says 'Greetings, $N. I am the headmaster.{x'
+mob echoat $n {y$I says 'If you have any gold, you can go eastwards and buy a veteran to protect you.'{x
+mob echoat $n {y$I says 'Otherwise, you say 'I am ready'. This will bring you to the training area.'{x
+~
+A
+#0
+
+#RESETS
+D 0 20208 0 2
+D 0 20209 2 2
+D 0 20209 5 1
+D 0 20210 4 1
+D 0 20248 4 1
+M 1 20200 1 20201 1
+M 1 20201 1 20202 1
+M 1 20202 1 20205 1
+M 1 20203 1 20206 1
+M 1 20204 1 20208 1
+E 0 20215 0 17
+M 1 20209 1 20209 1
+M 1 20212 3 20213 3
+G 0 20216 0
+M 1 20210 4 20214 4
+G 0 20216 0
+M 1 20211 4 20215 4
+G 0 20216 0
+M 1 20217 3 20221 1
+G 0 20217 0
+M 1 20213 3 20221 3
+M 1 20217 3 20222 1
+E 0 20223 0 12
+G 0 20222 0
+M 1 20232 1 20223 1
+E 0 20225 0 13
+E 0 20227 0 16
+E 0 20231 0 8
+M 1 20217 3 20223 1
+M 1 20215 1 20225 1
+E 0 20219 0 8
+G 0 20218 0
+M 1 20214 1 20225 1
+E 0 20219 0 8
+O 0 20220 0 20226
+M 1 20216 3 20226 3
+O 0 20221 0 20227
+M 1 20218 3 20227 3
+O 0 20226 0 20228
+P 0 20224 30 20226 1
+M 1 20221 1 20228 1
+E 0 20225 0 13
+M 1 20220 1 20228 1
+M 1 20219 1 20228 1
+M 1 20222 1 20229 1
+G 0 20247 0
+G 0 20246 0
+G 0 20230 0
+G 0 20229 0
+G 0 20228 0
+G 0 20225 0
+G 0 20223 0
+M 1 20223 1 20230 1
+G 0 20227 0
+G 0 20212 0
+G 0 20211 0
+G 0 20210 0
+G 0 20209 0
+G 0 20208 0
+G 0 20207 0
+M 1 20224 1 20233 1
+O 0 20233 0 20233
+G 0 20232 0
+M 1 20225 2 20235 2
+M 1 20226 6 20237 3
+E 0 20235 0 12
+M 1 20227 6 20238 3
+E 0 20234 0 13
+M 1 20229 6 20241 3
+M 1 20229 6 20243 3
+E 0 20236 0 10
+O 0 20241 0 20244
+P 0 20244 30 20241 1
+P 0 20243 30 20241 1
+M 1 20231 2 20244 2
+M 1 20228 1 20244 1
+E 0 20242 0 3
+M 1 20230 1 20246 1
+E 0 20240 0 2
+E 0 20239 0 6
+G 0 20238 0
+M 1 20226 6 20246 3
+M 1 20227 6 20247 3
+G 0 20237 0
+M 1 20205 1 20249 1
+M 1 20208 1 20250 1
+M 1 20207 1 20250 1
+M 1 20206 1 20250 1
+O 0 20279 0 20275
+M 1 20275 2 20275 1
+O 0 20279 0 20300
+O 0 20279 0 20310
+O 0 20279 0 20311
+O 0 20279 0 20312
+S
+
+
+
+#SHOPS
+20205 0 0 0 0 0 100 100 0 24
+20222 8 0 0 0 0 150 50 0 24
+20223 0 0 0 0 0 100 100 0 24
+20278 0 0 0 0 0 100 100 0 24
+0
+
+
+
+#$

@@ -1,0 +1,4760 @@
+#HELPS 
+
+0 DIKU~
+Original game idea, concept, and design: 
+
+Katja Nyboe [Superwoman] (katz@freja.diku.dk)
+Tom Madsen [Stormbringer] (noop@freja.diku.dk)
+Hans Henrik Staerfeldt [God] (bombman@freja.diku.dk)
+Michael Seifert [Papi] (seifert@freja.diku.dk)
+Sebastian Hammer [Quinn] (quinn@freja.diku.dk) 
+
+Developed at: DIKU -- The Department of Computer Science
+at the University of Copenhagen.
+~ 
+
+55 DISPERSE~ 
+
+DISPERSE: The idea is to shoot certain objects all over the mud, and giving
+the certain item to mobs all over, but not forcing them to wear it.
+~ 
+
+53 ADDRECRUITER DROPRECRUITER SWAPLEADER LEADERCOMMANDS LEADER DELEGATE~
+.
+Syntax: addrecruiter <your password> <new recruiter> 
+
+-This command advanced or sets the trust on a member of
+your clan to recruiter stats. You require a free recruiter
+slot for this to work. 
+
+Syntax: droprecruiter <your password> <old recruiter> 
+
+-This command demotes a current recruiter in your clan
+to level 51 or removes the trust on them. This frees up
+a slot for a new recruiter. 
+
+Syntax: swapleader <your password> <new leader> 
+
+-This command drops you to lvl 51 or removes your trust as
+a leader. It also replaces you with a new leader who is 
+promoted. 
+
+Syntax: delegate <recruiter> <level> 
+
+- Delegate is a powerful ability the leader of a clan can 
+bestow on his most prized recruiters. When the recruiter is 
+delegated, that person gains the ability to loner people in 
+the clan. The recruiter can loner people up to level 52 or the 
+set level, whichever is lower. 
+
+(See also 'help CLANSTATS' 'help CLANMEMBERS' 'help PRICES' help 'LONER' help 
+'ACCEPT')
+~ 
+
+0 CLANSTATS CLANMEMBERS~ 
+
+Clan leaders may request from the IMMs a list of their goon and clan hall
+stats, as well as a list of current members, twice a year. Once during the
+first week of February and again during the first week of August. Clan
+stats and a list of clan members can also be requested in the event of the
+take over of a new clan leader.  
+
+(see 'help LEADERCOMMANDS' and 'help PRICES')
+~  
+
+0 GOLD SILVER MONEY~ 
+
+Midgaard's economy is based on gold and silver coinage (and the lowly copper,
+which you, as an adventurer, are far too proud to carry). Gold coins are 
+worth 100 silver coins, but are also four times as heavy (25 to the pound, 
+as opposed to 100 to the pound for silver). Gems can be bought to alleviate
+weight problems from the Midgaard's jeweler, who charges a mere 10% more 
+than they are worth. 10 gems weigh one pound, and can be worth more than 100
+gold pieces for the highest quality stones. 
+
+You can also deposit your money on a bank note. See 'help bank' for more
+information.
+~ 
+
+0 BRIEF COMPACT~ 
+
+Brief and compact help set your display options for the game. Typing brief
+toggles on and off the showing of room descriptions when you move around
+(considerably reducing the text to be processed), and typing compact removes 
+the extra blank line before your prompt.
+~ 
+
+0 DEAF~ 
+
+The deaf toggle turns off incoming tells, helpful if you are being bombarded
+by messages from other players. You can still use reply (see 'help reply') 
+to reply to people who were telling you before you went deaf, although you
+cannot reply to a deaf person unless you or they are a deity (it's mostly 
+useful for sending a quick "I'm being spammed so I went deaf" message to
+a person).
+~ 
+
+0 AFK~ 
+
+Typing AFK puts your character in a tell-saving mode as follows: any tell
+to you is stored in a special buffer, and can be seen later by typing
+replay. This is useful when you need to leave the mud for 5 or 10 minutes,
+but don't want to miss tells. AFK shows up in your prompt until it is
+turned off. You may also type 'replay' while AFK. 
+
+Tells to link-dead players are stored in a similar fashion, and can also be
+seen by typing replay when they reconnect (unless, of course, the character
+logs off before reading them).
+~ 
+
+0 54 BUILDER~ 
+
+Level: 54 [BUILDER] 
+
+These Immortals are the area builders of Redemption. You might never see a
+level 54 IMM since they are usually WIZI when they are on-line. Level 54s 
+should not accept money for upgrades or hand out punishments. They only
+quests they can run are trivia quests. They have no other powers. 
+
+~ 
+
+0 55 RETIRED~ 
+
+Level: 55 [RETRIED] 
+
+These are visiting immortals or retired immortals who wish to just relax
+for awhile from their normal position. They have no power to run quests,
+accept money for upgrades, or hand out punishments. 
+~ 
+
+0 56 DEMIGOD~ 
+
+Level: 56 [DEMIGOD] 
+
+These immortals are here to help the game go along a lot smoother and 
+easier for everyone, interacting a lot with mortals. They're not here to 
+powertrip or be vengeful, but to make the game fun in their own little ways. 
+
+These IMMs are supposed to be builders or run quests. They can enforce 
+many of the MUDs rules. 
+
+You can ask these people for the following:
+-Restrings for role-playing purposes ONLY
+-Mild forms of help (ie reimbursements after a crash)
+-quests and tournaments
+-RP titles
+-Accept money for upgrades, but not give them out
+-Cash in equipment, weapon, and restring vouchers
+~ 
+
+0 57 GOD~ 
+
+Level: 57 [GOD] 
+
+These immortals are here to help the game go along a lot smoother and 
+easier for everyone. They're not here to powertrip or be vengeful, but to
+make the game fun in their own little ways. 
+
+These IMMs are just a little more powerful then the 56's. Their quests are
+tough, and must be part of the role-playing atmosphere. 
+
+You can ask these people for the following:
+-Restrings for role-playing purposes ONLY
+-Mild forms of help (ie reimbursements after a crash)
+-Beg for quests, tournaments
+-RP titles
+-Cash in equipment, weapon, enchantment, and restring vouchers
+~ 
+
+0 58 DEITY~ 
+
+Level: 58 [DEITY] 
+
+These immortals are here to help the game go along a lot smoother and 
+easier for everyone. They're not here to powertrip or be vengeful, but to
+make the game fun in their own little ways. 
+
+These IMMs are here to help the lower level Immortals with quests and
+other odd jobs. They're most likely to be found doing the more complex 
+quests and are here to make your gaming experience fun. 
+
+You may ask these people for the following: 
+-Restrings for role-playing purposes ONLY
+-Mild forms of help (ie reimbursements after a crash)
+-Beg for quests, not too often, cause their prizes are nice.
+-Aid with clan affairs and politics
+-Cash in equipment, weapon, enchantment, and restring vouchers
+-role-play titles
+~ 
+
+0 59 CREATORS~ 
+
+Level: 59 [CREATORS] 
+
+These immortals are here to help the game go along a lot smoother and 
+easier for everyone. They're not here to powertrip or be vengeful, but to
+make the game fun in their own little ways. 
+
+These guys are here to watch over mortal and immortal behavior. They're 
+here to regulate the game and deal with all the stuff that the IMPLEMENTORS 
+don't want to deal with. So if you see one of these IMMs online, and you 
+have the need or urge to talk to a level 60, talk to the 59 first. They can
+deal with almost any problem a mortal might have. 
+
+You may ask these people for the following:
+-Restrings for role-playing purposes ONLY
+-Mild forms of help (ie reimbursements after a crash)
+-Elaborate quests (which don't happen often), cause their prizes are nice
+-Aid with clan affairs and politic
+-role-play titles
+-clan hall/outpost upgrades
+~ 
+
+0 60 IMPLEMENTORS~ 
+
+Level: 60 [IMPLEMENTORS} 
+
+They are in charge of setting rules, maintaining game balance, and keeping
+the code working. If a lower-level IMM is on who can help you please ask them
+first.
+~ 
+
+0 IMMORTAL~ 
+
+Redemption will periodically ask for player applications to fill new IMM
+spots.  To be seriously considered, the applicant will be a level 51 character
+with superior game knowledge, no history of cheating, and time to dedicate to
+improving the game.  A player who has another character that is either a clan
+recruiter or leader will *NOT* be considered for an IMM position. All new IMMs
+will enter as level 54.
+
+Level 54 IMMs will be Builders.  Her/His job is to build an original area on 
+Redemption. Once the area is finished and approved the IMM can begin testing 
+the area with morts. A level 54 IMM who has done good work building will be 
+advanced to level 56 when a position becomes open. As a level 56 this IMM has
+the option of beginning other areas or running quests.  
+
+Level 56 IMMs will have the most direct player contact and are expected to 
+encourage characters to role-play. The duty of a level 56 is either to 
+build areas (see above) or run elaborate quests preferably based on the 
+mud's theme. Most questers will be recruited from the ranks of the 51 
+mortals or be a promoted 54 builder. They will deal with simple mortal
+interactions, such as running touraments are redeeming vouchers. 
+
+Level 57+ IMMs will have deal with more complex tasks. For example, creating
+an FAQ, OLCing clan modifications, or maintaining an updated item list. So
+long as an IMM performs the task s/he was assigned do to, s/he will maintain 
+their IMM level. If an IMM does not adequately do her/his job that IMM will 
+be [ Retired ] to level 55 or put back as a non-clan mortal. 
+
+(See also 'help duty')
+~ 
+
+0 PROMPT~ 
+
+Syntax: prompt 
+
+Syntax: prompt all 
+
+Syntax: prompt <%*> 
+
+PROMPT without an argument will turn your prompt on or off.
+PROMPT ALL will give you the standard "<hits mana moves>" prompt.
+PROMPT <%*> where the %* are the various variables you may set yourself. 
+
+%h : Displays your current hits
+%H : Displays your maximum hits
+%m : Displays your current mana
+%M : Displays your maximum mana
+%v : Displays your current moves
+%V : Displays your maximum moves
+%L : Displays your graphic life meter
+%l : Displays your opponets graphic life meter
+%x : Displays your current experience
+%X : Displays your experience to level
+%b : Displays your current breaths
+%B : Displays your maximum breaths
+%i : Displays your number of items carried
+%I : Displays your max number of items carried
+%w : Displays your weight carried
+%W : Displays your max weight carried
+%g : Displays your gold held
+%s : Displays your silver carried
+%a : Displays your alignment
+%q : Displays your quest points earned
+%Q : Displays your ticks to next quest
+%d : Displays your deity points earned
+%r : Displays the name of the room you are in
+%e : Displays the exits from the room in NESWDU style
+%c : Displays a carriage return (multi-line prompt) 
+
+Example: PROMPT <%hhp %mm %vmv> 
+
+Will set your prompt to " <10hp 100m 100mv> " 
+
+The following are for Immortal use only: 
+
+%R : Displays the vnum you are in (IMMORTAL ONLY)
+%z : Displays the area name you are in (IMMORTAL ONLY)
+~ 
+
+0 DENOUNCIATION~ 
+
+Syntax: cast denounciation <char name> 
+
+This spell is used to denounce a target in the name of your god. It is an 
+aggressive spell that impairs your target's abilities to fight effectively.
+~ 
+
+0 CARNAL REACH~  
+
+Syntax: cast 'carnal reach' <char name> 
+
+Carnal reach is a more powerful version of "summon" for the magic users with
+greater powers at conjuring.
+~ 
+
+0 SPIRIT LINK~ 
+
+Syntax: cast 'spirit link' <char name> 
+
+Spirit Link is a more powerful version of "gate" for the magic users with 
+greater powers at conjuring. This spell does NOT work between continents.
+~ 
+
+0 CLOAK MIND~ 
+
+Syntax: c 'cloak of mind' 
+
+Cloak of mind gives you invisibility to all mobiles. This means that you 
+can wander into most aggressive mobiles without fear, walk by guards or walk 
+by Tetragon with a KILLER or THIEF flag and not be worried.
+~ 
+
+0 MIRROR IMAGE~ 
+
+Syntax: c 'mirror image' <character> 
+
+Mirror image creates an image of the target which stands beside him or her.
+When in combat, the first physical attack on you will be directed at your 
+mirror image, thus preventing all physical damage done to you. Your mirror
+image might shatter, making you vulnerable to following attacks. This does
+not affect magical spells being cast on you during combat, only physical 
+attacks.
+~ 
+
+0 SUMMARY~ 
+
+MOVEMENT GROUP
+north south east west up down follow group gtell split
+exits recall
+sleep wake rest stand sit 
+
+OBJECTS INFORMATION / COMMUNICATION
+get put drop give sacrifice help credits commands areas
+wear wield hold throw report score time weather where who
+recite quaff zap brandish description password title
+lock unlock open close pick bug idea typo channel secret
+inventory equipment look compare gossip cgossip say shout tell yell
+peer eat drink fill emote pose
+list buy sell value board note 
+
+COMBAT OTHER
+kill flee kick rescue disarm ! save quit prompt score 
+backstab cast wimpy MURDER practice train auto alias
+bash sneak hide envenom peek
+lore 
+
+For more help, type 'help <topic>' for any command, skill, or spell.
+Also help on: DAMAGE DEATH EXPERIENCE STORY TICK WIZLIST
+~ 
+
+0 DEATH~ 
+
+When your character dies on Terra, you are reincarnated back at the Altar 
+of the Temple of Midgaard. If you die on Dominia, you are reincarnated at
+the Temple of Selina in Shandalar. If you joined a clan, you will be 
+reincarnated inside your clan hall or outpost. Your corpse is left behind 
+in the room where you were killed, together with all of your equipment. 
+
+Any spells which were affecting you are canceled by death. 
+
+You lose experience points for dying. The amount you lose is two-thirds of 
+the way back to the beginning of your level. 
+
+Corpses decay after time, and the objects inside corpses decay with them.
+Player corpses last *roughly* 30 hours of game time (15 minutes of real 
+time). Only the player who died, or someone in the same group, can retrieve
+objects from a non-clanners corpse. Clanners may loot any other clanner's 
+corpse with no negative repercussions. If the game crashed after you died, 
+it's a good bet that you lost it. Please do not go begging to an immortal to 
+help you get your equipment back - it's not their duty to get it back for you.
+~ 
+
+0 EXPERIENCE LEVEL XP~ 
+
+Your character advances in power by gaining experience. You need a set 
+amount of experience points for each level based on your creation points. 
+
+You gain experience by:
+-killing a creature on your own.
+-being part of a group that kills a monster.
+-getting better at a skill or spell. 
+
+You lose experience by: 
+
+-fleeing out of combat. 10exp
+-recalling out of combat. 25exp
+-being the target of energy drain spells.
+-dying. 
+
+The experience you get from a kill depends on several things: how many 
+players are in your group; your level versus the level of the monster; your 
+alignment versus the monster's alignment; how many of this monster have 
+been killed lately; your total hours; and some random variation. 
+
+Once you level, several things happen. You gain a certain amount of hit
+points, mana points, and practices, depending on various factors. You also
+gain some movement points and one training session. Your experience points
+until you next level is reset. You will also be able to wear new equipment, 
+and gain access to new skills and spells.
+~
+0 PET PETS~ 
+
+You can buy pets in the pet shop. You may own only one pet at a time. After
+the old one dies you may purchase a replacement. Your pet will follow you
+everywhere you go and help you in your adventures.
+~
+0 SEEKERS~
+This is the abridged version of the help file, containing only what prospective
+members need to be immediately aware of, as well as giving an outline of Seeker
+and what it stands for. Despite that, it is perhaps the most confusing set of 
+rules for any clan on this MUD, so please make an effort to follow the more convoluted
+ones. They're fairly logical essentially, and every effort has been made to make 
+them clear. 
+
+Should you wish to consider gaining admittance into the clan, you must read the
+complete help file on the clan web page, as it is a requirement for all members 
+to have read and understood that document. The Seeker web page may be found by visiting: 
+
+
+http://cs.uml.edu/(tilde)jvictori/seeker 
+
+--------------------------------------------------------------------------------
+I. CLAN STORY
+-------------------------------------------------------------------------------- 
+
+
+Once the world was at peace and we ruled in peace over a land filled with happi-
+ness and joy. We learned pride in the wonders we could create with a mere thou-
+ght, and in our pride, we learned arrogance. Supreme, we felt that we were above
+all else, indefagitable, lords of all that we surveyed. Our father, Bosco, was
+as nothing, weak and kind.  
+
+Prideful children that we were, we revolted. The golden doors of Valhalla were
+rent open, and Introit was spoiled for all. Spoiled children, we fought amongst
+ourselves, and in our folly, we destroyed ourselves. Now, in the ashes of a 
+world we ruined, we live and die as mortals. Alone and yet bound by blood, we
+each seek a way back to our power and glory.  
+
+The benevolent Bhaal Z'Amon formed a clan called Seeker where he sought the ul-
+timate Redemption, and many came to came to seek with him. As time went by,
+Bhaal realized he had created a haven formeditation and peace in a world where
+impulse and war seemed to flow freely. As leader of the Seekers, he had reached
+the pinnacle of his achievements, and Bosco, the father of all creation, saw 
+this. He called to his fallen son to rejoin him as the first of his forsaken 
+children to finally find their way back into the graces of his light. And so it
+was that Bhaal Z'Amon, the Seeker of Redemption, ascended the stairs into the 
+light of his father's eyes, leaving his glorious creation in the realm of the 
+mortals. 
+
+Even with the departure of Bhaal, the Seekers lived on to follow his spirit and
+guidance. You are welcome to come seek with us, for each person needs to seek
+their own path and their own way, so that by individual salvation, the world may
+be saved. 
+
+-------------------------------------------------------------------------------- 
+
+
+A common requirement of membership in any clan is to have read and understood 
+all of the clan's policies, and to be dedicated to its cause. Seeker is no exception
+to this generalization, but because of its peaceful and helpful nature, members
+should possess some additional qualities. (see also: Recruitment)  
+
+i. QUALITIES OF A SEEKER 
+
+The first and foremost quality of a Seeker is a peaceful mentality. See-
+ker is not a military or aggressive clan, and members should not be inter-
+ested in killing, looting, or otherwise causing harm to others. Those 
+were mistakes made in the past, and by seeking redemption we are trying
+to undo them. While members of other clans may have discussions about
+killing amongst themselves, Seekers should not show support for nor
+involve themselves in such matters. 
+
+Seekers must also be polite, honest, and respectful towards others. It 
+is unlawful to lie or cheat, as well as it is to use inappropriate lang-
+uage, threaten others, or openly call someone names. 
+
+In addition to the aforementioned, Seekers must also be willing dedicate
+some of their time towards helping others. Although this is a redeeming
+task in itself, it also helps spread kindness and happiness throughout the
+land. 
+
+ii. ROLEPLAYING  
+
+There is tremendous roleplaying potential behind the life of a Seeker, 
+and members are welcome to take advantage of this and 
+participate in the ever evolving saga of seeking Redemption.  
+
+All members, however, should make an effort to remain in character at
+all times on the gossip channel.. If you would like to make an out of
+character comment, simply either place OOC: before the remark, or talk
+to the person in private. In the same way, members should not openly
+talk about their other characters, events that happened to their other
+characters, etc. without first carefully considering such a comment and
+ensuring that it is clearly marked as being OOC. 
+
+The above efforts are simply to ensure that the game world remains fun
+and interesting for those who want to explore and experience it, and to
+ensure that it does not simply become a chat room. 
+
+--------------------------------------------------------------------------------
+III. RULES AND POLICIES
+-------------------------------------------------------------------------------- 
+
+
+The following rules have been created to represent the clan's
+ideals and principles. 
+
+i. GENERAL 
+
+1. A Seeker must stand for the clan's ideals and follow the 
+aforementioned expectations. 
+
+2. A Seeker's first loyalty is to his or herself, and then to his/her 
+Master. Finally, a Seeker's loyalty is to the clan. 
+
+3. Help any whom you can. Yours and the clan's welfare come first, but 
+you should attempt to aid any who ask. You may refuse to aid those
+who attack or otherwise disturb Seeker's members, those who are rude
+or too demanding, and those that have been ungrateful in the past. 
+
+4. A Seeker must obey those of superior rank. If there is a question,
+it should be directed to a member of Master rank or above. The Grand
+Master has final say in all matters. 
+
+5. Seekers must seek a Master and follow him/her until they reach Master
+rank. 
+
+6. When ready, and with permission from his/her Master, a Seeker should
+begin to work on advancing in rank by means of a quest. 
+
+7. Seekers must display their rank in their title or as an RP title, 
+and should wear it with pride and honour.  
+
+8. Seekers are not permitted to place bounties (offer gold as a reward
+for the death of someone else). 
+
+9. A Seeker must take interest in the clan's activities, and must read
+all notes posted on board 7 (Seeker clan board). 
+
+10. A Seeker shall avoid death at all costs. Attacking another player is
+forbidden except under circumstances as described below. 
+
+11. 
+- If attacked, Seekers are generally encouraged to flee from the fight,
+but are permitted to remain in the fight and defend themselves should
+they choose to do so. 
+- Seekers are not permitted to pursue the attacker if s/he flees. If 
+the attacker remains in the fight and is killed, Seekers may not loot 
+and Must ensure that the corpse is safely back in the attackers hands, 
+unless Ensuring the safety of the corpse puts the Seeker in question at 
+great risk. 
+- When confronted with persistent attackers, ask a Master how to deal
+with the situation and notify the clan about the attacker(s), espec-
+ially loners. If attacked by an allied clan, immediately report it 
+to the Masters, along with all related circumstances. The allied 
+clans will typically discipline or loner the offending member. Do 
+not antagonize allied clans. 
+
+12. The only exception that can be made to rules 10 and 11 is the fact 
+that Masters and members of the House of Redemption (who have permis-
+sion from a Master) are allowed to attack others for the purpose of 
+clan defense. This is permitted under any of the following 
+circumstances:
+* If a Seeker is in active combat with an attacker, or is fleeing from
+them, having already been attacked. By fleeing, it is assumed that
+the attacked is still in immediate danger. If the attacked is already
+safe, or "suspects" he will be attacked and is therefore fleeing,
+this does not apply.
+* If the clan hall or outpost is under attack, a Master may use any
+means necessary to defend the hall. If the attacker flees however,
+pursuit is of course prohibited.
+* A Master may attack any unfriendly presence within the immediate
+vicinity of the hall or outpost (this includes Ruined Temple, Seeker
+Square and Guardian room) if said player is a threat to any Seeker
+currently on, and has refused to or chosen not to justify his presence.
+This is a last resort, and the Master must give both a chance toexplain,
+as well as a warning, should the purpose of their visit not be friendly.
+If that person lies about his intentions, so as not to be driven away,
+he will not be given a chance to justify his presence in the future,
+only a warning. (Again, should they flee, there is to be no pursuit. 
+Even if they flee north from Ruined temple to Guardian room, they must 
+be given a few moments to leave). This is a prerogative of Masters only; 
+NOT HoR J-people. 
+
+Note: Masters may also engage in defense of allied clans, but only by
+means that will not directly draw them into the combat. Use ofspells 
+like dispel and blind which hinder the attacker but do not pull you 
+into the fight are allowed. Any defense of this sort is allowed only 
+when the Master is certain that the allied clan-member did not initiate 
+the combat. 
+
+13. 
+- Should a Seeker be grouped and the group is attacked, Seekers are 
+permitted to remain in the fight in order to defend the group as 
+long as the attacker is not of an allied clan. 
+- If the attacker is of an allied clan: 
+i. and has warned the Seeker of the attack, the Seeker must leave 
+the group immediately, although warning your groupmates is 
+certainly acceptable.
+ii. but did not warn the Seeker of an attack, the Seeker may help
+defend the group. 
+- Should the attacker flee, and the group pursues, the Seeker must
+immediately leave the group 
+
+14. If you are killed, remain calm and polite. 
+
+15. Seekers are not permitted to duel members of other clans unless they
+have express permission from a Master. 
+
+16. In such cases where permission is granted, the duel may not be to the
+death, and the member of the other clan must take the flag. 
+
+17. Members of Seeker may not use injustice in duels, nor may they worship
+Carnas or use injustice for any purposes whatsoever. 
+
+18. Using steal or gravitate against other players is strictly prohibited, 
+except to reobtain stolen or looted items, and this only with the 
+permission of a Master. 
+
+--------------------------------------------------------------------------------
+IV. RECRUITMENT
+-------------------------------------------------------------------------------- 
+ 
+
+Anyone may apply to enter Seeker, and to do so, simply contact a member of 
+Master rank or above. Before noting the Leader and the Recruiters about your request,
+a Master will likely ask you a few questions. Once a Recruiter or the Leader has
+contacted you, you will be given a standradized interview. Depending on the re-
+sults, you may either be approved on the spot, or the Masters will vote on your 
+admittance.  
+
+A vote amongst the Masters is required for the recruitment of any character over
+level 30, anyone who has previously been in Seeker (unless they went to an 
+allied clan, in which case readmission will most likely be granted), or anyone who has 
+repeatedly attacked or otherwise caused harm to Seeker or its members in any 
+way. Depending on your background, you may be asked to prove yourself worthy of 
+recruitment before an interview will be given.  
+
+Before requesting an interview, you should have thought over your potential fut-
+ure in Seeker, possess the Qualities of a Seeker, and read and understood the 
+Rules and Policies. You should also be prepared to answer questions about why
+you wish to join, personal goals, how you plan to contribute, and what you plan
+to do in Seeker. Any questions you have on clan's rules and policies should be
+directed to a Master before being recruited. 
+
+If you are considering applying for admittance, be sure to read the complete 
+help file on the web page, as this version is merely set up to give you a 
+general idea about Seeker and what it stands for. 
+
+-------------------------------------------------------------------------------- 
+
+The original Seeker help file was written by the benevolent Bhaal Z'Amon, the 
+founder of the clan. The help file has since been revised and expanded by 
+Cardinal, the current Leader. 
+
+Any concerns regarding this help file should be directed to a Master, a Recruit-
+er, or the Leader, who will gladly answer your questions.
+~ 
+
+0 JUSTICE~
+JUSTICE
+Members are charged with carrying the LAW to those that would shun the path of 
+RIGHTEOUSNESS throughout the lands. Becoming a MEMBER of Justice means SERIOUS 
+responsibility and a strict moral code. Think TWICE before considering joining 
+the ranks of the Just Or ye shall be JUDGED.
+
+LAWS OF THE JUST: 
+
+I-The Law of Justice 
+
+*Justice is to be served at all costs 
+*No member will worship Carnas, unjust of the gods 
+*The innocent are to be protected 
+
+
+II-The Law of Respect 
+
+*All members will be respectful at all times
+*No member of Justice will use excessive profanity in public 
+
+
+III-The Law of Combat 
+
+1. All flagged members of any clan including loners shall be hunted down and 
+   killed. There is but one exception, as listed in Law 2.
+2. Justice is allied with SEEKER. Seeker masters may retain their FLAGS. All 
+   other Seekers must report to Justice for prompt reparation of sins.
+3. CARNAS. This deity is unjust, and grants his followers the right to kill 
+   without being branded as killers. Therefore, all those who worship CARNAS 
+   shall be treated as those with FLAGS until they change deities. 
+4. No Justice member may group with a FLAGGED partner.
+5. TRAITORS TO JUSTICE, that is, members of Justice who have left on undesirable
+   terms, are ENEMIES of Justice and are to be killed under any circumstances for 
+   their disloyalty. The clan will be informed through notes of specific 
+   individuals to be considered TRAITORS. 
+
+
+**THE LAWS OF COMBAT ARE SUBJECT TO CHANGE WITHOUT NOTICE. If in doubt, ask a 
+member of the Leadership for confirmation. 
+
+V-The Law of Self 
+
+*All members will seek to constantly improve their personal abilities. This 
+includes but is not limited to learning the locations of regions and items, 
+bettering one's combat skills, and helping others. 
+
+**Violation of any of these Laws is grounds for punishment, up to and including 
+banishment from the clan. Please read them carefully and know them well! 
+
+
+JOINING JUSTICE 
+
+In order to join Justice, you must speak to the Leadership. 
+Everyone will be given ONE chance. 
+
+However, ONLY those who demonstrate marked skill and determination will remain 
+in the ranks of the Just. ALL others will be cast aside, at under NEUTRAL 
+circumstances.
+
+PUNISHMENT
+*Any member who breaks these rules will have their REWARD exacted upon them.
+*This reward will arrive SWIFTLY and be HARSH and RUTHLESS.
+*Under special circumstances, some members will UNDERGO the Cleansing of the 
+Just. 
+
+RANKS OF JUSTICE
+I-SOLDERS OF THE JUST
+Rank and file members of the clan.
+No flagged allowed. Under ANY circumstances. 
+
+II-GUARDIANS OF JUSTICE
+Exalted ancient members of the clan whose wealth of knowledge and wisdom is an 
+asset. In charge of the clan when neither Leadership nor Inquisitors are present.
+No flagged allowed. 
+
+III-INQUISITORS
+
+Members of Justice, HAND chosen by Kaisho, who have demonstrated exceptional 
+loyalty and devotion to the cause of the Just. Often called upon to bring 
+Justice to those who worship Carnas or otherwise require FURTHER punishment than
+the normal laws ALLOW. Inquisitors are to be RESPECTED, and have the 
+responsibility of the care of the clan when the Leadership is not present. In 
+the absence of a member of the Leadership, the word of an Inquisitor is FINAL.
+Inquisitors are ABOVE the law and are said to be acting in DIRECT extension of 
+the will of Kaisho. NEVER ask Kaisho for the rank of Inquisitor. Or suffer the 
+consequences. Flags ALLOWED.
+
+REMEMBER 
+*JUSTICE is NOT a democracy.
+*Nor is it a refuge for the WEAK who prey on others, or a safe haven for the 
+LAZY or STUPID.
+*Those who seek refuge within the ranks and do NOT live by the strict code of 
+the JUST will be CULLED at the FIRST opportunity. Apply to the ranks of the 
+JUST with much AFORETHOUGHT and TREPIDATION.
+~ 
+
+0 AMAZON KINDRED~ 
+
+Only Chaos.. and thus it stood as time marched forward. 
+
+Only Chaos.. small ripples of order began to appear on the fringes of the
+blackness. Lines and patterns emerging and solidifying. Members of Kindred
+-Samael himself- began forcing laws and expectations upon members,
+eradicating the Chaos they clamed to follow. His laws, and rules bound
+Kindred within angry confines, and the black inky blot of Chaos was now
+laced with structure and law. Seeing this law emerge and form and become
+part of the once free Kindred, Samael's followers rebeled at the lies which were
+told, and overthrew Samael. With a set of new proclamations, a gargyle named
+Gibetto forged the law of Kindred. "Evil yes, but we must not fight within.
+We must setup a few laws which will govern us and make us stronger. We
+must be as one, fight as one unit." Gibetto spoke unto the the crowd, as
+she stood over the slain Samael with bloodied sword and dented armour. 
+
+"The laws are simple, and merely mean to bind us together, not hold us
+back.", and with that, Gibetto left, returning shortly with a stone table
+of engraved words of the 3 laws of Kindred. 
+ 
+
+The first law of Kindred - Code of Kindred
+Kindred are first among people and with that it is beneath them to
+aid non-kindred, or seek aid from non-kindred unless there is no other
+recourse. You need not treat non-kindred with respect, you need not
+treat them fairly. You need only respect your own. This means you should
+avoid grouping with non-kindred, if you do your group may be attacked
+without warrning and you may find your self lonered for assising the group
+against Kindred. Worship also falls under this catagory, Kindred may
+use the gods and the gifts they provide, all except the pacifist Bhaal. 
+ 
+
+The second law of Kindred - Ranks of Kindred
+There are 4 ranks within Kindred. They are taken through power and strength
+and kept by earning respect for the strength you wield. 
+
+. The first rank is that of Leader, this is the first among Kindred.
+. The strongest Kindred, they are responsible to lead and direct
+. the lesser members. 
+
+. The second rank is that of Recruiter. These 2 are the right and.
+. left hands of the Leader. They ensure that the leaders directions
+. are carried forth, and should be the first to challenge when the
+. leader shows signs of weakness. 
+
+. The third rank is that of Elder. There is six seated Elders. They
+. are the wise, they are the strongest of the Kindred. These Kindred are
+. expected to lead war parties and direct lesser kindred. 
+
+. The fourth rank is that of Kindred. These are all other Kindred,
+. ranging from a new recruit to old semi-retired Kindred. 
+ 
+
+The third law of Kindred - Right of Challenge
+Any Kindred may challenge any Elder for their place. An Elder may
+challenge a Recruiter with the surport of ether the Leader or Recruiter
+and atleast 3 other Elders. Only one challenge may be issued to an
+individual, you may not challenge the same person multiple times if
+you lose. If you win, the loser has the right to a rematch and is
+placed in the next rank down, taking the winners position. There is
+no penalty for failing a chalange, except the ridicule of your
+peers and the loss of this right against that person. Challenges
+are held in the Kindred maze, the only things which are banned is use of
+curative devices and aid from other members once the fight begins. 
+
+Admitance into Kindred 
+
+Kindred is currently invite only. Do not ask us. There are no requirements
+beyond that we ask you. Again, don't ask us. 
+
+Please see http://www.a-bleh.com/kindred for clan history and other
+information.
+~ 
+0 VENARI PRAGMATI~
+========================================== 
+Venari - Guardians of Dominia, Scourge of Dragons
+ 
+{RGreetings traveller, you wish to know the history of Venari? Harken to
+my tale... {x
+
+Selina was akin to Bosco long ago, before memory and lore. Though 
+spirited, she grew weary of Terra (as Bosco's realm was named) and its 
+inhabitants, for the wyrms had begun to multiply in startling numbers,
+and she hated their arrogant nature. Anticipating their eventual rule, she
+fled the lands, and with her will parted the waters of the Dragon Sea to
+reveal a vast new land, uncluttered and serene. She created new children to dwell
+on Dominia; from that time on, gargoyles, trolls and slivers roamed 
+unrestrained without fear or hatred, and Selina was content. Being weary
+of her labours, she forsook the Mortal realm and departed, never to be seen
+by Mortal eyes again.
+   
+However, the peace on Dominia was not to last. After the fall of
+Bosco, the proud wyrms attacked Selina's realm with a vengeance, seiging 
+the lands and marring her works. Then, as all seemed to be lost, a group of
+defenders, led by the warrior StarCrossed, rose from the ashes and fought 
+the wyrms. War ensued, with many heroes born and lost, but much of the 
+knowledge of that age was lost in the heat of battle (thus, this story is 
+told as a legend). Finally, the wyrms were driven from the capital and cast
+into the Dragon Sea, forever exiled to Terra. StarCrossed, who had escaped
+unscathed, gathered her warriors and together they forged the clan Venari, 
+the Dragon Slayers of Dominia, Guardians of the East, and upholders of 
+Selina's will.
+
+Years passed, StarCrossed departed to the realm above, and yet we
+still remain, ever stalwart in our beliefs. Many wise and venerable leaders 
+brought Venari into a new age where dragons are scarce. Verily, the
+Kenshin invade our lands, but we will uphold our oath to purge the heretics,
+lest we induce the wrath of Selina above us. Venari will not falter, and as long
+we do not stray from Selina she will protect us; for we are her heirs,
+and only through our efforts will her legacy live on. Long live Selina's
+will and the will of the Venari!
+
+Aurefina
+{rThe {WLady {DDeath{x
+==================================================
+*{GRules of the Hunt{x*
+
+1.  Dragons are not welcome to Dominia, regardless of clan or stature.
+2.  All Dragons on Terra may also be hunted, regardless of clan or
+stature.
+3.  Dominian races of peaceful nature are welcome to our continent. That
+is to say: Gargoyles, trolls, and slivers who are not flagged are not to be
+attacked unless they are Kenshi or blacklisted.
+4.  Blacklisted characters are notified of their position and will be 
+forever hunted.
+
+==================================================
+
+*{BRules of the Hunt - Clans{x*
+
+Seeker-
+On Terra: Only dragons are to be attacked.
+On Dominia: Any creature who is flagged or who is a non-dominian race
+may be hunted.
+
+Kindred-
+Kindred are of chaotic nature and seek vengence upon Venari. They are
+huntable on both Terra and Dominia alike. Some are lootable ONLY at the
+discretion of a high ranked Hunters or Keepers.
+
+Justice-
+Terra: Only dragons are to be attacked.
+Dominia: Any creature who is flagged or who is non-dominian race may be
+attacked.
+
+Kenshi-
+The inevitable fires of war have singed all bonds between Kenshi and
+Venari. All Kenshi may be hunted anywhere.
+
+Looting-
+Venari loots the following from those who respect Venari's policy :
+Gold, potions, pills, treasures, bank notes, wands, and vouchers.
+
+All Kills by Venari allow 1 hour of freedom unless provoked or attacked.
+
+==================================================
+
+{W Recruitment{x
+
+A tell to Venari recruitment will open for you a potential position in
+our clan.
+
+Be assertive in your answers and polite in general. Read our rules
+carefully and do not disobey them.
+
+If a quest is given, respond effeciently to complete your quest.
+
+Dragons are not admited to Venari, for they are but hostiles to our
+land.
+
+Any player of past history with Kenshi are not to join our ranks, unless
+a note is written to the Leader.
+
+==================================================
+
+{RRules for Venari{x
+
+- No Venari member will dishonour Venari's name over public channels.
+Any insults towards other clans of an immature nature will be dealt
+with.
+
+- If a member of Venari is killed, they will not complain over public 
+channel.
+
+- Eq is to returned as promptly as possible after a kill.
+
+- Duels between Venari do not have to be to the death.
+
+- Duels between other clans to not have to be to the death unless
+clan regulations of that clan states honourable duels.
+
+- Equipment not desired is to be left in the Banquet Hall of Venari
+
+- Venari may worship any diety other than Selina, so long as they
+cherish her memory above all others.
+
+==================================================
+
+Law of Venari :
+As a member of Venari you are expected to obey the civil command.
+Those of higher rank know what is best. Follow their commands as long as
+they are reasonable. Membership in this clan is a privilege and not a
+right, and the privilege is not to be abused. Therefore, those who are a 
+drain on the resources of the clan will have that privilege revoked, 
+whereas those who contribute to the clan as a whole will be rewarded with 
+rank. Also, ignorance of a command is no excuse. Respect your clanmates, 
+keeping under consideration that they have their own wants and needs. 
+Swearing is strictly prohibited, as are threats or insults. Any problems 
+you have with a Venari member should be referred to the leadership of the 
+clan.
+
+==================================================
+
+Ranks and Factions of Venari
+
+The factions of our prestigious clan are divided into two groups:
+Hunters and Keepers.
+
+To advance ranks, a 25k donation is required along with a quest given by
+the recruiters.
+<><><><><><><><><><><><><><><><><><><><><><><><><>
+
+{BHunters{x are knowledgable characters in the field of pkilling. They
+have a strong sense of pkilling and the ability to pursue their victims,
+while working efficiently in packs. These packs are arranged by the Master 
+of the Hunt.
+
+{YRanks of Hunters{x
+
+All hunter factions begin as Hounds of the Hunt.
+
+With training, they may attain the rank of Wolf.
+Wolves are assigned to packs headed by pack leaders, chosen by the
+Master of the Hunt.
+
+Packs may combat each other in bloody rage as dictates the way of the 
+wolves.
+
+Ranks are headed by the Hunter Recruiter of Venari, Master of the Hunt.
+
+<><><><><><><><><><><><><><><><><><><><><><><><><>
+
+{RKeepers{x are the protectors of Dominia. They have a well rounded 
+knowledge of areas and items on their land. Furthurmore, Keepers of the 
+highest rank forge rules and regulations for Venari. This council votes
+on questionable clan inquiries to be finalized by the leader.
+
+{YRanks of Keepers{x
+
+All keeper factions begin as Adventurers
+
+Vindicators are the highest rank. These players have the abillity to hold
+their own in combat. Vindicators are the council members of Venari. They
+may vote on Clan issues and regulations as well as change rules of Venari.
+
+Ranks are headed by the Keeper Recruiter of Venari, Lord/Lady of the 
+Ascendant.
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+All hostile to our land shall be purged and forever charred by
+darkness.  Thus dictates the way of the Venari.
+
+{RMerlyn{x, {BLeader {Cof {GVenari{x
+~ 
+
+1 KENSHI HARPERS~
+
+The Tale of Clan Harper:  
+
+It seems but a few decades ago, it all began. A secret meeting was held between 
+Xelne, Xuthal, Xalne and Tzigane in the shadow grove, marking the first
+peacefully organized discussions surrounding clan Harper. There was much talk of
+a mounting force, though not hostile, in the lands beyond.  
+
+Great warriors trained their skill at the sword, and their hearts with honour.
+They were the sole challengers for the great plough of land set forth by the
+great Immortals for a new beginning on Dominia. I, Sabrina, Master of Kenshi,
+was their leader. It was decided that Tzigane, Queen of the Gypsies, would
+attempt to unite the WindFoot tribe and her own, to form the great Hierarchy
+known as Harper.  
+
+She set forth law on the lands of Dominia and fiercely defied one and all to
+challenge her. She earned great respect in the hearts of many adventurers. She
+built a great castle to her cause, and filled it with her knowledge of culture
+and beauty. She had many children.  
+
+She turned to the Followers of Kenshi, and welcomed them among her children.
+They fought by her side, taught, and were taught, and became great members of 
+Harper, though never losing their faith. Yet, as the tides continued to turn, as
+the moons continued to shine, as the years continued to pass, the great despair
+of the land became stranger to her no more. She grew conscious of the fickle
+nature of creatures upon one another. She took to heart the lack of honour in
+the land. She died slowly each day hearing of one or another forest torched in
+the name of some cursed dragon hunt. Until she could bear no more. In a quiet
+ceremony in the castle's antechamber, she stepped down from the throne one last
+time, never to grace it with her presence again. She chose to follow her evil
+side, as it had yet to wrong her, and gave her great power.  
+
+This is the tale of the coming to be of the art of the Kenshin:  
+
+The night was calm. It was so perfectly at peace that nothing would dare disrupt
+the beauteous sanctity of its silky smooth sky. Sabrina looked up from the
+oracle that surrounded her and peered deep into the sky towards the mysterious
+stars above. She knew not what they were. Though scholars had told her what they
+are, she did not know them, she could not touch them, understand them. Yet, each
+night as she looked up, contemplating her meaningless existence, she knew the
+world was not devoid of all hope. She knew the stars had the answer, somewhere
+deep in their midst. Somehow, this night felt different. It was vibrant, alive,
+culminating full of energy raging in search of a purpose, a release. "What?"
+
+What are you trying to show me?" "I don't understand!!!" Sabrina looked up
+daringly, and outwardly thrust her sword in the air to challenge the gods to
+show her the way! A flash of light beamed across her eyes, nearly blinding her
+as she screamed aloud! The light steamed down deep into her eyes as all the
+stars reflected at once off the gleaming metal of her polished katana. The sword
+glowed with radiance as she tried to watch its metamorphosis. The light
+enveloped her, and carried her deep into the recesses of her mind. The message
+she had sought all her life was beginning to form. The turmoil, confusion,
+enlightenment and awe became her as her mind stretched to understand the purpose
+of this powerful force. She heard it: "The Way of Kenshi; The Way of the Sword."
+Her mind was lashed free of the grip of the light, and she fell into the devoid
+pit of her own soul once again. She collapsed from the experience, certain of
+nothing but that the end had not yet been written.
+A young human adopted to the ways of Kenshi, by Sabrina herself slept soundly in
+his chambers, when he awakened to a thunder within the halls, he rushed into the
+Queens chambers but she was gone. A vile force had removed her from what was
+rightfully hers. After making preparations to remove the new Lord of the Demons,
+as Dael crowned himself, Courage approached him with a ultimatum, step down from
+the throne or I will kill you and take it. Surprisingly enough Dael walked away
+without shedding a drop of blood. He immediately called his best runner to
+deliver a message to Sabrina calling her home where she belonged. A few days
+later a figure awakened Courage from his deep slumber, rubbing his eyes
+profusely, he realized it was Sabrina, he immediately hit the floor, kneeling
+before her. He said "My queen I have unseated Dael to return you to your
+rightful stature." She said, "Lord Courage do you not see they all are following
+you, not me, I have trained you in the ways of Kenshi, it is now your turn to
+continue my vision, and complete the goals we have set in the name of honor."
+Courage sighs sadly. As she hands him the crown she says, "Do not be sad young
+human, I am very proud of you," she shakes here head, smiles happily, and says,
+"for a human you never cease to amaze me." She seems to disappear into the dead
+of night, with nothing left but the crown she gave him.  
+
+Courage draws his holy blade, and rises to the challenge, vowing to never let
+the name of Kenshi die.
+
+The sword, flawless yet cunning, merciful yet deadly, perfect in the perfect
+hands, evil in service to the unjust, it is the basis of all existence. When
+Sabrina awoke, her mind had been reborn. She raised her katana and gazed in awe
+at her reflection. Through that reflection she saw the new world she was
+destined to create; she knew her sword would be her best companion on that
+journey. She made a sacred vow: "I will bring balance and harmony to the world,
+and my sword will be my guide" Over the next few years, she recruited many
+skilled fighters to join her in her training. She practiced the way of the
+sword, the way of honour, respect, the way of energy, the way of stealth and the
+ways of balance. Her final result was the art of Kenshi. Her and her followers
+became known as Kenshin. Powerful, yet gentle souls that follow the way of the
+sword and value honour above all else. Sabrina set the foundation for a great
+dynasty of followers forever more. She created a unique system of levels that
+recognize the accomplishments of her members, give them a path towards
+redemption for the ways of the past. She placed two of her best swordsmen to
+stand by her side in the sometimes-difficult task of leadership, as advisors to
+her ways. They have long loyally defended the ideals of her legacy. Together,
+they strove to put honour, balance and harmony back into the world. At times
+when evil reigned, they provided relief and help to those around and offered
+kindness to those in need. Through others, the holy goodness obliterated evil,
+they followed a dark path to destroy the good armies and restore pain and
+suffering in war. Their greatest challenge was to not let anything get in the
+way of their hopes and their knowledge that redemption can only come when true
+balance is achieved. Followers of Kenshi must accept the sword as heir guiding
+force and value honour above all else. They must be proficient in sword skills
+so that they may protect others and themselves. Evil cannot exist without good
+and good cannot exist without evil. They are they ideals of Ying and Yang,
+positive and negative, hot and cold, darkness and light that the sword
+embellishes so well. They join a dynasty in its forming and enter a unique
+ranking system based on honour, courage, strength and cunning intelligence. A
+new follower will begin as a White Sash and will display this in their title. As
+they grow in age of mind and body and learn new skills of life, they may ascend
+to Elite. 
+
+The Ranks of {mKenshi{x 
+
+White Sash: The very foundation of {mKenshi {xbegan with this sash, these members
+are the most inexperienced of {mKenshi{x but thier also the reason for its 
+existence, they will follow and learn the ways of the blade.  
+
+{bBlue {Sash{x: To further the skills of a true master of the sword, they must
+endure many hardships, including facing the enemy for the first time on 
+unfamiliar battlegrounds.  
+
+{gGreen Sash{x: The most skilled warriors of {mKenshi{x wear this sash with 
+pride and honour, many times they have faced the enemy on thier own fields of 
+battle and face battles without hesitation, these are the upholders of 
+{mKenshi. 
+
+{YGold Sash{x: The few who seem to wander down the path of wealth generally 
+wear this sash as gold comes easy for them, thats all they enjoy doing, is 
+making the clan wealthier by any means nessacary within the laws of honour. 
+
+{RRed Sash:{x In the tales of past heroes one most known for wearing this sash 
+with honour goes by the name of Moridin, his name put fear into the greast of 
+foes, within this sash theres much strength and power, these are the elite, and
+only the elite will wear it. 
+
+{DBlack Sash{x: Those who have proven themselves to the leader will be given a 
+chance to prove themselves more, they will be chosen to help the leadership 
+find and recruit students in the ways of the Sword.  
+
+{mMagenta Sash{X: The leader of {mKenshi {x will don this sash when he takes 
+over the task of leading the many fine warriors of {mKenshi{x. it is rumored 
+the colour is stained with the blood of the Queen Sabrina who gave her own very
+life for {mKenshi{x. 
+
+Advancing in ranks: To advance in ranks within the sashs you must defeat a 
+champion for each sash colour, excluding white, and turn in a set amount of 
+Gold before the fight. Heres the ranks and amounts.
+
+{bBlue Sash{x:- 10,000 gold (must be lvl 20 or above) 
+
+{gGreen Sash{x:- 15,000 gold (must be lvl 30 or above) 
+
+{YGold Sash{x:- 5 weeks of 20,000 gold( no duel, must be lvl 40 or above)
+
+{rRed Sash{x: 50,000 gold and must be deemed Elite. 
+
+{D-{mKENSHIN {rLAW{D-{x
+
+{m1. {cAllies {Dof {mKenshi{W:{x
+
+* {mKenshi{x are allied with {cSeeker{x. Any and all Seeker are to be 
+deemed good and protected from harm at all cost, if even your own life.
+
+* {mKenshi{x are allied with {cJustice{x. They are not to be harmed unless 
+attacked by them, they will only attack our flagged members, however be weary 
+Justice knows no exceptions. If attacked by a Justice, you have 1hr. real life 
+time to retaliate, there will be no exemption to this rule. 
+
+{m2. {cRivals {Dof {mKenshi{W:{x
+
+* {mKenshi{x are at odds with {rVenari{x on their stances against dragons.
+We shall fight them at every turn until they see the errors in their fight
+against those we protect.
+
+* {rKindred{x shall be slain on sight, as they are the embodiment of evil.
+
+* Loners shall be attacked {rONLY IF DEEMED EVIL{x by a {gGreen Sash{x or
+above.
+
+{m3. {DLooting{W:{x
+
+* If you kill a {rVenari{x you are to take all potions, gold, wands, 
+scrolls, staves, etc. You are permitted to loot vouchers at your discretion. 
+There is to be no looting of equipment without the permission of the leadership
+itself.
+
+* If you kill a {rKindred{x you may take what you wish, with exceptions of
+restrings and Quest equipment. Keep in mind however, if you loot a 
+Kindred, they may loot you, and/or your clanmates in return.
+
+{m4. {DSpam Killing{W:{x
+
+* There will be {rNO{x spam-killing. The victim has 1 hour real life time 
+to recuperate before being killed by another Kenshi. Unless there is a show
+of aggression by the party.
+
+{m5. {DDuelling{W:{x
+
+* Should you choose to duel an allied clan, it shall be until one has 
+fled.
+
+* Should you duel an enemy clan, you shall announce over open channels as
+an honor duel {rTO THE DEATH{x. Fleeing from an honor duel will disgrace
+yourself, and is grounds for punishment.
+
+{m6. {DFlag Removals{W:{x
+
+* You shall {rNOT{x seek out flag removals from {rANYONE{x. Instead, 
+continue to train your body and mind. There is no dishonour in death; it is 
+merely a lesson in the way of the sword!
+
+{m7. {DOther{W:{x
+
+* {RNO {MBITCHING{x, {GMOUTHING OFF {xor {CBUG ABUSE{x will be tolerated!
+Linkdead kills, excessive harassment, etc, will also result in lonering.
+Lonering members will be at the discretion of the Leader, and only the 
+Leader.
+
+* If you are lonered, your return will be at the discretion of the Leader, 
+and only the Leader. Your chances of getting back in will depend on the reason 
+for lonering, and its severity.
+
+{m8. {DRole-Playing{W:{x
+
+* As a member of {mKenshi{x, you will remain in character at all times
+unless on the ooc channel or with ooc in front of the sentence. This
+includes tells and other forms of communication on the mud.
+~ 
+
+0 TICK~ 
+
+Many of the game actions are based upon interval timers, including combat,
+most autonomous monster actions, hp/mana/move regeneration, spell duration,
+weather, and area resetting. 
+
+Of these timers, the hp/mana/move regeneration timer is popularly called 
+the 'tick'. Ticks on this mud average 30 seconds of real time, but the 
+actual amount varies randomly from 15 seconds to 45 seconds. 
+
+Area resetting happens roughly every 3 minutes if no one is in the area; 
+less often (15 minutes) if someone is. Because areas take so long to reset 
+if someone is in the area, it is generally considered to be bad etiquette 
+to sleep in an area, or sit in a popular leveling area doing nothing. 
+Please avoid this, or else an IMM may be forced to take action, especially 
+if you are known to be a repeat offender. Also note that objects lying on 
+the ground will not be regenerated if anyone is in the area when it resets.
+~ 
+
+0 !~ 
+
+Syntax: ! 
+
+! repeats the last command you typed.
+~ 
+
+0 DUTY~ 
+
+Delstar-- coding, dealing with Netreach , also supervising the IMMs,
+doing modifications to clans, areas, and help files 
+
+Daisy-- administration, supervising mortals and clan behavior, dealing with
+town homes, doing modifications to clans, areas, and help files, and promoting 
+mortals to IMM status 
+
+Litazia-- head coder, clan upgrades, area building, rptitles 
+
+Starcrossed-- coding, area building, clan upgrades, other dealings with mortals 
+
+Kraken-- area building, clan upgrades, dealings with mortals
+
+Tsongas-- coding, area building, clan upgrades, dealings with mortals
+~ 
+
+0 HIGH EMBASSAY FROM THE LANDS OF PALANKCAREN (HELP) HELP~ 
+
+High Embassy from the Lands of Palankcaren (HELP) 
+
+HISTORY 
+
+After a terrible accident, in which he lost all his powers along with his 
+memory, Avacar came to this land in search of help. Over the years he slowly
+relearned his craft, and his memory returned to him. Once he was strong enough, 
+he opened a portal back to his homeworld, Palankcaren. There, he began his 
+training once more as a Valocar, a Guardian of Balance. He returned to this world 
+on many an occasion, for help, and to give help in return. Finally he came back 
+into his true powers, and was whole once again. Unfortunately there was trouble 
+back in Palankcaren, and a great war broke out. He asked for help from the people 
+of this land, and received it. They returned home with him and helped him win the 
+war. He then stayed in Palankcaren for a year to help with its reconstruction. 
+Finally, he stood before the Valocarian High Council, and was given a new task. 
+He was asked to open an embassy to the great world that had given Palankcaren 
+aid, to help them when they needed it. He happily agreed. In the city called 
+Stoneridge, he raised his hands, and from the very earth arose a great castle. 
+A following of people from both worlds soon began to inhabit the castle, forming 
+a new guild. It is the first permanent interdementional joining of efforts, and 
+is called the guild of the High Embassy of the Lands of Palankcaren, or HELP for 
+short. HELP now exists to offer assistance to all who need it, and to entertain
+the people of both lands.
+
+RULES 
+
+1) New Members will be restricted to entrance at level 10, and above, no
+   exceptions (other then those who have reclass/remorted) will be made. A 5,000
+   entrance fee is required to pay the immortals. 
+
+2) Non-clanners wishing to enter must note the current leadership, the Valocar, 
+   the Regent, and the High Guardians. This note must contain the reason you
+   wish To join and why you would make a good addition to the guild.
+
+3) Members of the guild are still free to follow whatever path they so desire, 
+   be it one of roleplaying or not. They are members but still separate people
+   with separate views and beliefs. Roleplaying is suggested, but if you 
+   roleplay counter that which follows the guild, there will be consequences. 
+   This is to say that, you can roleplay if you wish, or not, following the 
+   guilds roleplay, or not, but under no circumstances can you roleplay against 
+   the guild.
+
+4) Each member is responsible for whom they help and what they charge (clan
+   members, this includes loners) for their services. If a member so chooses
+   not to help a particular person that is within their right. If they choose
+   to help you for free if you are in the clan system, then that is also
+   their right. Each person is an individual. 
+
+5) Things which members are expected to do: 
+a) Help anyone levels 1-9 and 10-51 whom are nonclanners for no charge.
+b) Help clan members and loners unless the clan member or loner is blacklisted. 
+c) Make the best effort to help out with public guild events (such as
+   mini-quests, balls, festivals, etc.) In the cases where prizes may be 
+   awarded, an Immortal should be sought out, to help with this aspect. If 
+   this is not possible, then money is always an acceptable reward.
+d) Donations to help the guild are always accepted from its members, and 
+   occasionally they may be requested to supply a certain amount to help 
+   forward the guild in its efforts.
+
+7) Members who break the rules will be suspended from guild activities and
+   halls.
+
+8) There will be a tribunal, which shall meet on a bi-monthly basis to discuss
+   where the guild is going, future events, and review the rules. Also, players
+   who have been kicked out of the guild, shall have to submit a request to be 
+   seen before the tribunal to return.
+
+9) Members are expected to be polite at all times. Talking with inappropriate
+   language on in-character channels will not be tolerated. Some leeway is given 
+   on out-of-character channels, but members are still expected to have some good
+   taste.
+   Also, acting rudely to other players is greatly frowned upon. If someone is
+   acting rudely towards you using the hush command is recommended, and if they
+   continue contact the immortals and guild leadership.
+
+10) We do not tolerate people who become "guests" in our halls. Any member who 
+    suddenly stops playing with no notice or are found to be abusing the guild's
+    regeneration rates will be suspended. 
+
+11) Members will not slander the names of others, especially other members.  If
+    a member has a problem with another member they are expected to contact the 
+    guild leadership.
+
+12) Only the Valocarian Ambassadoriat and Regent may speak to the immortals for
+    the guild.
+    This includes upgrades and arranging guild events. The only exception is for
+    the High Guardians who may, with consent from the Valocarian Ambassadoriat or
+    Regent, add new members to the guild.
+
+13) Members of HELP mat not join another guild and no person who is in another
+    guild may join. This does not include private homes.
+
+RANKS 
+
+The leaders of the guild are the Valocarian Ambassadoriat, the guilds vital link
+to Palankcaren, and the Regent, who runs the guild. These two people are the
+ultimate Ambassadors to Terra and Dominia, and have the final say in all guild 
+matters. These two are the only members who can speak with the gods on behalf of 
+the guild. The Valocarian Ambassadoriat is Avacar, Valocar of Palankcaren, and 
+the Regent is Cid. 
+
+Below the Leader are the two High Guardians. These two are the hands of the 
+leaders. They handle money, equipment, recruiting, and various other tasks. 
+Contact them if you wish to join the guild. 
+
+The Guardians of Balance are the true strength of the guild. They keep the 
+balance of the arcane powers, and decide on guild matters. The Guardians sit 
+upon the Tribunal. Advancement to Guardian level from Acolyte is at the 
+discretion of the leadership. See below for information on Tribunal. Each 
+Guardian represents a portion of the guilds population, and must consult them 
+before voting on any Tribunal issues. 
+
+The Acolyte is one who is studying to become a Guardian. They must have shown 
+incredible examples of Helpfulness. They take lower Ambassadors under their 
+wing and show them the ways of our guild. They act as an example on how to help 
+others and the way our guild should act. They are also expected to give more to 
+the guild: participating in more events, and helping to promote more 
+mud-awareness of the guild. More even than the guardians, the Acolytes should be 
+seen in the public eye. 
+
+Finally, upon entrance into the guild are the Ambassadors. These are they who 
+have come from Palankcaren to help the people of this world. Ambassadors do all 
+they can to be helpful when they have spare time; gathering and freely giving 
+information regarding directions to areas when requested, promoting the guild 
+on all channels, particularly, gossip/music/shout/etc. 
+
+Our guild also recognizes the accomplishments of being reborn, or pursuing a new 
+field of interest. If you are to remort, you become a Trasma, or a reborn one. 
+If you choose to reclass you become a Darma, a learned one. If both remort and 
+reclass, you become a Tradarma, or Great One. Your ranks are handled in the 
+same fashion. The current leader of the guild is a Tradarma. With these added 
+powers and titles, come more expectation in your abilities. 
+
+TRIBUNAL 
+
+The guilds ruling body is its Tribunal. The Guardians sit upon the Tribunal and 
+vote on rules, entrance of members, review old members, plan guild events, 
+punishment, recruitment techniques, budget and various other points of interest.
+They are expected to meet monthly, so as to keep up to date. Each Guardian 
+represents a portion of the guild, and must consulttheir Ambassadors and 
+Acolytes on how to vote. The High Guardians, Regent, and Valocarian
+Ambassadoriat may attend tribunal meetings, and can express opinions, but cannot 
+vote. On the other hand, all tribunal decisions are approved by the above mentioned 
+leadership before going into effect. 
+
+BENEFITS 
+
+1) All members receive free spellups and Equipment.
+2) Maxed regeneration rooms on Terra and Dominia
+3) First guild to have a hall on Dominia
+4) Sense of friendship and help with obtaining experience, knowledge and 
+equipment
+5) Cool guild events, such as festivals and quests!
+~ 
+
+0 MERCHANTS OF REDEMPTION GUILD~
+
+Long ago, two sisters were walking the forests when they got lost. 
+Unable to find their way home, they asked local travellers which 
+direction of their home was. The merchants all smiled, saying they 
+had a fee for this information. The prices these travellers requested 
+was far more than the sisters had. Finding a friend in the strange new 
+world, Aethya, they were given the idea to help people along the road 
+in hopes to retrieve enough gold to pay the fee, and find their way 
+home. Along the way one of the sisters, Nica, was summoned for a job 
+by a handsome man, and quickly fell in love with him. The man,
+Kazimieras, fell in love with Nica, and they married. Now, with 
+husband, Nica was torn between her family she had missed and the 
+love she found. When the time came to get the information, Nica and 
+Rendalth decided it best to find a place to sleep, out of the 
+wilderness. Brave Daisy built them shelter, which quickly used the 
+funds saved to find their way home. From that day on, they knew they 
+could not save the funds, needed to go home, without aid. They made
+friends among the people they met, and quickly grew farther from 
+the home they knew. Years later, Nica died. Gravely stricken by the 
+loss of her sister, Rendalth opened the home to those who were close 
+to the sisters. Nica's room, still untouched, has been made a shrine 
+to those who were close to her throughout the time of her life.
+ 
+To become a Merchant of Redemption you require to:
+-Be at least level 10
+-Produce the 5000 gold entrance fee on your own
+Write a letter to Rendalth and Reme when you complete the obligations
+to become a Merchant of Redemption.
+~
+
+0 NORTH SOUTH EAST WEST UP DOWN~ 
+
+Syntax: north
+Syntax: south
+Syntax: east
+Syntax: west
+Syntax: up
+Syntax: down 
+
+Use these commands to walk in a particular direction. They can all be used 
+by typing the first letter of each word.
+~ 
+
+0 DAMAGE UNSPEAKABLE MISSES~ 
+
+Damage for a fight: Damage for spells:
+misses mutilates misses MANGLE
+bruises cripples/GAPING scratch *** DEMOLISHES ***
+scrapes DISEMBOWELS graze *** DEVASTATES ***
+scratches DISMEMBERS injure === OBLITERATES ===
+lightly wounds ANNIHILATES! wound >>> ANNIHILATES <<<
+injures OBLITERATES!! maul <<< ERADICATES >>>
+harms MASSACRES!!! decimate and.......
+thrashes !ERADICATES! maim UNSPEAKABLE
+maims and....... MUTILATE
+mauls UNSPEAKABLE DISEMBOWEL
+decimates DISMEMBER
+devastates MASSACRE
+~ 
+
+55 FUCK~ 
+
+Syntax: FUCK <PLAYER NAME> 
+
+Fuck is an immortal command that will fuck the users terminal up, some more
+than others. If you have to use this, use it wisely, as it is only a
+temporary fix and not a solution to anything. Fucking a player forces them
+to disconnect, as their terminal program will (in theory) not recover
+without them disconnecting.
+~ 
+
+56 NOQUIT~ 
+
+Syntax: Noquit <PLAYER NAME> 
+
+This will remove a player's ability to quit from the game. This is to stop
+people from making little newbies and spamming the note spool with shitball 
+little notes, and other little knickknacks. NOTE: This will not stop a 
+player from losing link, or even better, hanging up. 
+
+If this is used for anything more then a deterrent, ie: as a punishment, 
+post a note to the immortals. This is normally not serious enough of a 
+command to really do anything that special. However, don't abuse this 
+power either.
+~ 
+
+0 NOQUIT~ 
+
+If a NO_QUIT flag is added to your playerfile, there is a reason this is
+done - mostly because the immortal that is talking to you doesn't want you 
+to quit for some reason. You may still lose link or hang up as that is 
+your prerogative, but those aren't game commands. 
+
+Also, when pkilling, you will not be able to quit till 5 ticks later.
+This is to prevent people from fleeing and quitting, which makes getting
+out of a pkill just too damn easy.
+~ 
+
+0 CAST~ 
+
+Syntax: cast <spell> <target> 
+
+It is easier to cast a spell after you have practiced it. The more you 
+practice, the higher chance you have of success when casting. You may 
+practice any spell up to 75%. Casting spells costs mana. The mana cost 
+decreases as your level increases to a certain extent. 
+
+The <target> is optional. Many spells which need targets will use an
+appropriate default target, especially during combat. 
+
+If the spell name is more than one word, then you must quote the spell name.
+Example: cast 'cure critic' <target>. Quoting is optional for single-word 
+spells. You can abbreviate the spell name. Example: c heal <self> 
+
+When you cast an offensive spell, the victim usually gets a saving throw.
+The effect of the spell is reduced or eliminated if the victim makes the
+saving throw successfully. 
+
+See also the help sections for individual spells.
+~ 
+
+0 EXITS~ 
+
+Syntax: exits 
+
+Typing exits tells you the visible exits of the room you are in. Not all 
+exits are visible. You can use the 'bump' technique to find hidden exits. 
+(Try to walk in a certain direction and see what you bump into). 
+
+NOTE: Immortals, when typing exit, should always be able to see the room
+names in all directions, thanks to 'Holylight'.
+~ 
+
+0 DROP GET GIVE PUT TAKE~ 
+
+Syntax: drop <object>
+Syntax: drop <amount> coins
+Syntax: get <object>
+Syntax: get <object> <container>
+Syntax: get all
+Syntax: give <object> <character>
+Syntax: give <amount> coins <character>
+Syntax: put <object> <container>
+Syntax: put all.<object> <container> 
+
+DROP drops an object, or some coins, on the ground.
+Note: Objects with melt_drop will dissolve. 
+
+GET gets an object, either lying on the ground, or from a container, or even
+from a corpse. TAKE is a synonym for get. 
+
+GIVE gives an object or some coins to another character.
+Example: give 100 gold <target> 
+
+PUT puts an object into a container. 
+
+DROP, GET and PUT understand the object names 'ALL' for all objects and
+'ALL.object' for all objects with the same name.
+~ 
+
+0 EQUIPMENT INVENTORY~ 
+
+Syntax: equipment
+Syntax: inventory 
+
+EQUIPMENT lists your (worn) equipment (armor, weapons, float and held items). 
+
+INVENTORY lists your (held) inventory.
+~ 
+
+54 IMMRULES RULES~ 
+
+As an Immortal on Redemption you are expected to uphold certain standards.
+These standards were put in place in order to maintain the fairness and
+integrity of this mud. Failure to uphold the following guidelines will
+result in probation, demotion, retirement, or deletion. 
+
+1. Active cheating by IMMs will not be tolerated
+This includes everything from setting the stats, hours, hp, etc. of your or 
+other players morts; having a trusted or high level imm that Delstar has not
+approved; pardoning killers/thieves without cause; snooping players without 
+legitimate reasons; giving morts armor, weapons, money, etc.; enchanting or 
+restringing mort's items other than as a quest prize; transferring morts in 
+order to get them out of trouble or give them an advantage; providing morts 
+with game information that gives them an unfair advantage; stating players 
+without cause; creating or distributing *super* items or regen rooms; and 
+other similar acts which unbalance the game. 
+
+2. Cheating with a mort by a player who also has an IMM is unacceptable
+This includes multi-playing, accepting favors from other IMMs, abusing bugs, 
+etc. with your mortal characters. Because of the manner in which IMMs are 
+structured on Redemption (entering as level 54s) it is imperative that 
+players with an IMM be "trustworthy." So if a player who has an IMM cheats
+in any manner with his/her mort it will be considered as an action that the 
+players IMM will be disciplined for. 
+
+3. Passive cheating is also grounds for punishment
+This includes "turning you head" when other morts or IMMs cheat; not 
+reporting *super* items, regen rooms, or bugs; and other similar acts of 
+"non-action." Part of one's duty as an IMM is to maintain the fairness of 
+the mud. By purposefully ignoring cheaters you are neglecting your duty.
+This type of neglect is grounds for punishment. 
+
+If you are unsure about the appropriateness of an action contact a higher
+level IMM for assistance. In order to make this place enjoyable for
+everyone (and allow IMMs to continue to have clanned characters) it is
+essential that we follow these standards. If you are currently not in
+compliance with *any* of the above standards it is suggested that you
+rectify that situation immediately.
+~ 
+
+0 COMPARE~ 
+
+Syntax: compare <object-1> <object-2>
+Syntax: compare <object> 
+
+COMPARE compares two objects in your inventory. If both objects are 
+weapons, it will report the one with the better average damage. If both 
+objects are armor, it will report the one with the better armor class. 
+
+COMPARE with one argument compares an object in your inventory to the 
+object you are currently wearing or wielding of the same type. 
+
+COMPARE doesn't consider any special modifiers of the objects.
+~ 
+
+0 FLEE RESCUE~ 
+
+Syntax: flee
+Syntax: rescue <character> 
+
+Once you start a fight, you can't just walk away from it. If the fight is 
+not going well, you can attempt to FLEE, or another character can RESCUE 
+you. (You can also RECALL, but this is less likely to work, and costs more 
+experience points than fleeing). 
+
+If you lose your link during a fight, then your character will keep 
+fighting, and will attempt to RECALL from time to time. Your chances of 
+making the recall are reduced, and you will lose much more experience. 
+
+(Also see 'NORECALL')
+~ 
+
+0 EXAMINE LOOK PEER~ 
+
+Syntax: look
+Syntax: look <object>
+Syntax: look <character>
+Syntax: look <direction>
+Syntax: look <keyword>
+Syntax: look in <container>
+Syntax: look in <corpse>
+Syntax: examine <container>
+Syntax: examine <corpse>
+Syntax: peer <direction> 
+
+LOOK looks at something and sees what you can see. 
+
+EXAMINE is short for 'LOOK container' followed by 'LOOK IN container'. 
+
+PEER allows you too see into the adjoining room.
+~ 
+
+0 ORDER~ 
+
+Syntax: order <mob> command
+Syntax: order all command 
+
+ORDER orders one or all of your charmed followers (including pets) to
+perform any command. The command may have arguments. You are responsible
+for the actions of your followers, and others who attack your followers
+will incur the same penalty as if they attacked you directly. 
+
+All charmed creatures lose their aggressive nature (while charmed). 
+
+Aggressive mobs lose their aggie flag when charmed. 
+
+If you charm a creature and attack it, that will break the charm.
+The more charmed creatures under your control, the harder it will be for 
+you to exercise your powers over them. In short, the more charmies you
+have, the harder it is to control them.
+~ 
+
+0 REST SLEEP STAND WAKE~ 
+
+Syntax: rest
+Syntax: sleep
+Syntax: stand
+Syntax: wake 
+
+These commands change your position. When you REST or SLEEP, you regenerate
+hit points, mana points, and movement points faster. However, you are more 
+vulnerable to attack, and if you SLEEP, you won't hear many things happen. 
+
+Use STAND or WAKE to come back to a standing position. You can also WAKE 
+other sleeping characters.
+~ 
+
+0 GTELL REPLY SAY TELL RTELL RREPLY~ 
+
+Syntax: gtell <message>
+Syntax: say <message>
+Syntax: reply <message>
+Syntax: tell <character> <message> 
+
+All of these commands send messages to other players. GTELL sends a 
+message to all of the characters in your group, wherever they are, even if 
+they are sleeping, stunned or dying. ';' is a synonym for GTELL. 
+
+SAY sends a message to all awake players in your room. The single quote 
+<'> is a synonym for SAY. 
+
+TELL sends a message to one awake player anywhere in the world. 
+
+REPLY sends a message to the last player who sent you a TELL. REPLY will 
+work even if you can't see the player, and without revealing their identity. 
+This is handy for talking to invisible or switched immortal players.
+~ 
+
+0 NOTE 'NOTE WRITE' 'NOTE READ' BOARD 'NOTE SYSTEM' 'NOTE UPDATE' 'NOTE FORWARD' BOARDS~ 
+
+Syntax: board [number|name] Shows or changes board.
+Syntax: note Reads next note.
+Syntax: note read [number] Reads a certain note.
+Syntax: note remove <number> Removes a note written by you.
+Syntax: note list [number] Shows up to number notes.
+Syntax: note write Posts a note.
+Syntax: note catchup Marks all notes in this board read.
+Syntax: note update Marks all notes on all boards read. 
+Syntax: note foward <number> <to> Forwards a note to another player
+Syntax: note reply <number> [all] Replies with quoted originial note
+
+These commands are used for the new note system. Instead of just one board, 
+there are several, each with its special purpose.  
+
+Changing between the boards is accomplished using the BOARD command. BOARD
+without any arguments gives you a list of all boards together with number of
+unread message. To change, type BOARD <number> or BOARD <name of the board>. 
+
+To read next unread note, type NOTE. To read a note with a specified number,
+type NOTE READ <number>. Typing NOTE while in a board with no unread notes
+shifts you to the next board. Note that unlike the standard note system, a 
+note has the same number in NOTE LIST and NOTE READ. 
+
+Posting a message is as simple as writing NOTE WRITE. You will be moved into
+interactive mode, where all you see are prompts for the fields like 'To:', 
+'From:', etc. You will be automatically put AFK while writing a note. 
+
+To see the list of the notes in the current board, type NOTE LIST. Typing 
+
+NOTE LIST <number> will list only <number> of the last notes in the area. 
+
+You can remove your own note by using NOTE REMOVE <number>. Implementors 
+may remove other people's notes. Implementors can also select how many days
+their note is kept before being purged. Purging happens automatically at
+bootup. Purged notes are not deleted, but saved into a file. 
+
+NOTE REPLY <number> will begin a new note with the original note quoted
+in it.  Including the argument all will send the note to the all the
+recipients of the original note.
+
+To let only immortals see your note, address it to "imm". To let players of
+a specific level and above, address it to that level (no other recipients 
+may appear in that case). 
+
+This board system was created by Erwin S. Andreasen, erwin@pip.dknet.dk, 
+aka Phunk and is freely available. The general outlook was based on Mystic 
+Adventure's note system (mud.gel.ulaval.ca 4000).
+~ 
+
+0 CHANNEL GOSSIP CGOSSIP SHOUT YELL OOC CLAN MUSIC Q/A SAY MIND LEAD QUESTION~ 
+
+CHANNEL MESSAGE BRIEF NOTE:
+Syntax: gossip <message> '.'
+Syntax: cgos <message> 'cg' Cannot be used by non-clanners
+Syntax: shout <message>
+Syntax: yell <message> Area channel only
+Syntax: music <message> 'm'  For the musician in you :)
+Syntax: clan <message> Heard only by fellow clan members
+Syntax: ooc <message> ']' Out Of Character
+Syntax: Q/A <message> '?' Questions and Answers
+Syntax: say <message> ''' Room channel only
+Syntax: lead <message> For clan leaders and recruiters ONLY
+Syntax: mind <message>   For slivers ONLY 
+
+SHOUT sends a message to all awake players in the world. To curb excessive
+shouting, SHOUT imposes a three-second delay on the shouter. 
+
+GOSSIP and CGOS are variants of SHOUT (without the delay). '.' is a
+synonym for GOSSIP. 
+
+YELL sends a message to all awake players within your area. 
+
+MIND is a special channel that connects all slivers to the grand hive.
+Essentially, it's a telepathic connection between slivers where they can
+talk about things. QUIET mode will not turn off this channel, nor will
+simply typing its name. 
+
+Type a channel name by itself to turn it off.
+~ 
+
+0 QUIET~ 
+
+Syntax: quiet 
+
+Quiet mode will turn off all channels for you, thus preventing you from
+receiving input from these sources. You can still send messages on these
+channels while in QUIET mode, however.
+~ 
+
+0 HUSH~ 
+
+Syntax: hush <player>
+hush 
+
+Hushing a player will cut off all communication from that player. That is,
+you will not hear anything that player has to say (no gossips, says, emotes,
+beeps, etc.) 
+
+To see a list of people you have hushed, type 'hush' by itself.
+~
+0 EMOTE PMOTE POSE SOCIAL~ 
+
+Syntax: emote <action>
+Syntax: pose 
+
+EMOTE is used to express emotions or actions. Besides EMOTE, there are
+several dozen built-in social commands, such as CACKLE, HUG, and THANK
+(type socials or help socials for a listing). 
+
+PMOTE is similar to emote, but will substitute you and your for a target's
+name (i.e. pmote bonks Shemabuku will be read as 'X' bonks you by Shemabuku, 
+and as 'X' bonks Shemabuku by everyone else). 
+
+POSE produces a random message depending on your class and level.
+~ 
+
+55 SMOTE~ 
+
+Syntax: smote <action> 
+
+Smote works exactly like pmote, except you must place your name somewhere 
+in the string, and it will show that string to everyone in the room. 
+
+(also see 'help emote' and 'social')
+~ 
+
+0 HOLD REMOVE WEAR WIELD~ 
+
+Syntax: hold <object>
+Syntax: remove <object>
+Syntax: wear <object>
+Syntax: wear all
+Syntax: wield <object> 
+
+Three of these commands will take an object from your inventory and start 
+using it as equipment. HOLD is for light sources, wands, and staves. 
+WEAR is for armor. WIELD is for weapons. 
+
+WEAR ALL will attempt to HOLD, WEAR, or WIELD each suitable item in your
+inventory. 
+
+You may not be able to HOLD, WEAR, or WIELD an item if its alignment does 
+not match yours, if it is too heavy for you, or if you are not experienced 
+enough to use it properly. 
+
+REMOVE will take any object from your equipment and put it back into your
+inventory.
+~ 
+
+0 CREDITS~ 
+
+Syntax: credits 
+
+This command shows the list of the original Diku Mud implementors. This 
+version of ROM 2.4 beta 3 has been hacked and modified by: 
+
+- Maclav
+- Delstar
+- Shemabuku
+- Gwendoline/Loran 
+- Mierauch
+- Starcrossed
+- Litazia
+- Acehilm
+- Tsongas 
+
+and many other people who have helped along the way.
+~ 
+
+0 AREAS COMMANDS REPORT SCORE TIME COUNT WORTH OLDSCORE~ 
+
+Syntax: areas
+Syntax: commands
+Syntax: oldscore
+Syntax: report
+Syntax: score
+Syntax: time
+Syntax: weather
+Syntax: worth 
+
+AREAS shows you a list of areas in the game that are currently online for
+mortals to go into, and the suggested levels for those areas. 
+
+COMMANDS shows you all the commands in the game. 
+
+REPORT shows your current statistics to you and also announces them to 
+other players in the room. SCORE shows much more detailed statistics to 
+you only. Your ability scores are shown as true value(current value), so 
+for example Str: 15(23) means you have a 15 strength from training, but a 
+23 strength from other factors (spells or items). 
+
+TIME shows the game time, as well as the time the mud was last started,
+and the current local time for the host computer. 
+
+WEATHER shows the current game weather. 
+
+COUNT shows you the amount of people online, and the max there was on that 
+day, and the record of the total number of players on EVER. 
+
+WORTH displays your current holdings, your current experience gained, and
+your experience needed until your next level. 
+
+OLDSCORE displays many of the same statistic as SCORE does, but in a
+different format.
+~ 
+
+0 WHO~ 
+
+Syntax: who
+Syntax: who <level-range>
+Syntax: who <class or race>
+Syntax: who <clan name>
+Syntax: who <class or race> <level-range> <clan name>
+Syntax: who pkill  
+
+WHO shows the people currently in the game. Some people may choose to
+remain unseen and won't appear on the WHO. 
+
+WHO without any arguments shows all of the (visible) people currently 
+playing. 
+
+With arguments, WHO can show players of certain classes or levels. 
+
+For example: 
+
+who 10 lists all players of level 10 or above
+who 15 20 lists all players between level 15 and 20
+who cleric lists all clerics playing
+who immortal lists all immortals playing
+who cleric 1 5 lists all clerics between levels 1 and 5
+who elf cleric lists all elven clerics
+who loner e w lists all elven warrior that are Loners 
+
+Classes and races may be abbreviated. 
+
+WHO pkill shows you all the players in your pkill range.  
+
+NOTE: To see who immortal, you must type 'who imm', unlike some other muds
+that let you type 'who idiot', 'who impotent', 'who ignorant', etc...
+~ 
+
+0 MEDITATION FAST HEALING~ 
+
+FAST HEALING : Causes one to regen HP up to double the normal regen rate.
+MEDITATION : Causes one to regen MANA up to double the normal regen rate.
+NOTE: The social MEDITATE does not improve this skill.
+~ 
+
+0 WHOIS~ 
+
+Syntax: whois <name> 
+
+The whois command identifies any user who matches the name given. For 
+example, 'whois a' shows all characters whose name begins with A.
+~ 
+
+0 WHERE SCAN~ 
+
+Syntax: where
+Syntax: where <character> 
+
+WHERE without an argument tells you the location of visible players in the 
+same area as you are. 
+
+WHERE with an argument tells you the location of one character with that 
+name within your area, including monsters. 
+
+SCAN: Scan isn't here. Don't ask for it, cause it's not coming!
+~ 
+
+0 HELP~ 
+
+Syntax: help
+Syntax: help <keyword> 
+
+HELP without any arguments shows a one-page command summary. 
+
+HELP <keyword> shows a page of help on that keyword. The keywords include
+all the commands, spells, and skills listed in the game.
+~ 
+
+0 DESCRIPTION~ 
+
+Syntax: description <string>
+Syntax: description + <string>
+Syntax: description -  
+
+Sets your long description to the given string. If the description string
+starts with a '+', the part after the '+' is appended to your current
+description, so that you can make multi-line descriptions. You can delete
+lines by using description -.
+~ 
+
+0 LOOKUP~ 
+
+Syntax: lookup <player> 
+
+This command allows you to look at another player's description from 
+anywhere on the mud.
+~ 
+
+0 PASSWORD~ 
+
+Syntax: password <old-password> <new-password> 
+
+PASSWORD changes your character's password. The first argument must be
+your old password. The second argument is your new password. 
+
+The PASSWORD command is protected against being snooped and log files. 
+
+NOTE: Please write down your new password until you have become accustomed
+to typing it.
+~ 
+
+0 TITLE~ 
+
+Syntax: title <string> 
+
+Sets your title to a given string. 
+
+The game supplies a title when your character is created and when you
+advance a level. This option can be toggled at any time by typing 
+autotitle. You can use TITLE to change your title. 
+
+NOTE: This feature is given to add a more personal touch to your character
+and should be used for ROLE-PLAYING. 
+
+IF: If an immortal tells you that your title needs to be changed, then 
+change it. There is a damn good reason behind it, normally because another
+mortal found it offensive, or it's simply in bad taste.
+~   
+
+0 WIMPY~ 
+
+Syntax: wimpy
+Syntax: wimpy <number> 
+
+WIMPY sets your wimpy value. Your wimpy value cannot be set about 50% of
+your total hit points. When your character takes damage that reduces
+your hit points below your wimpy value, you will automatically attempt to 
+flee. You will only flee if your character is not in a wait state -- i.e. 
+has not been using combat commands like cast, trip and bash, and has not 
+been tripped or bashed by an enemy. 
+
+NOTE: You will ATTEMPT to flee. Wimpy is not a guarantee that you will 
+get away safe. 
+
+WIMPY with no argument sets your wimpy value to 20% of your maximum hit 
+points, but setting your wimpy to 1hp will not make you run away when you 
+hit 1hp. You will certainly die.
+~ 
+
+0 OPEN CLOSE LOCK UNLOCK PICK~ 
+
+Syntax: open <object|direction>
+Syntax: close <object|direction>
+Syntax: lock <object|direction>
+Syntax: unlock <object|direction>
+Syntax: pick <object|direction> 
+
+OPEN and CLOSE open and close an object or a door. 
+
+LOCK and UNLOCK lock and unlock a closed object or door. You must have
+the requisite key to LOCK or UNLOCK. 
+
+PICK can open a lock without having the key. In order to PICK successfully,
+you must practice the appropriate skill, and picked doors can not be locked,
+unless a key is used.
+~ 
+
+0 DRINK EAT FILL POUR~ 
+
+Syntax: drink <object>
+Syntax: eat <object>
+Syntax: fill <object>
+Syntax: pour <object> out
+Syntax: pour <object> <object>
+Syntax: pour <object> <character> 
+
+When you are thirsty, DRINK something. 
+
+When you are hungry, EAT something. 
+
+FILL fills a drink container with water. 
+
+POUR transfers a liquid to a container, or empties one. 
+
+You can also pour from an object into something a character is holding. 
+
+DRINK alone, will make you drink from a fountain or a magical spring.
+~ 
+
+0 BUY LIST SELL VALUE~ 
+
+Syntax: buy <object>
+Syntax: list
+Syntax: sell <object>
+Syntax: value <object> 
+
+BUY buys an object from a shop keeper. 
+
+When multiple items of the same name are listed, type 'buy n.item', where n
+is the position of the item in a list of that name. So if there are two
+swords, buy 2.sword will buy the second. If you want to buy multiples of
+an item, use an * (buy 5*pie will buy 5 pies). These can be combined into
+(for example) buy 2*2.shield, as long as the * is first.  
+
+LIST lists the objects the shop keeper will sell you. 
+
+List <name> shows you only objects of that name. 
+
+SELL sells an object to a shop keeper. 
+
+VALUE asks the shop keeper how much he, she, or it will buy the item for.
+~ 
+
+0 SACRIFICE~ 
+
+Syntax: sacrifice <object> 
+
+SACRIFICE offers an object to Bosco or Selina, or whichever god you worship,
+who may reward you. The nature of the reward depends upon the type of object.
+~ 
+
+0 SCROLL~ 
+
+Syntax: scroll
+Syntax: scroll <number> 
+
+This command changes the number of lines the mud sends you in a page (the 
+default is 24 lines). Change this to a higher number for larger screen
+sizes, or to 0 to disable paging.
+~ 
+
+0 BRANDISH QUAFF RECITE ZAP~ 
+
+Syntax: brandish
+Syntax: quaff <potion>
+Syntax: recite <scroll> <target>
+Syntax: zap <target>
+Syntax: zap 
+
+-BRANDISH brandishes a magical staff. 
+
+-QUAFF quaffs a magical potion; as opposed to DRINK, which drinks mundane 
+liquids. 
+
+-SCROLL recites on self or target, depending on the nature of the scroll.
+The scroll must be in your inventory at the time. 
+
+-ZAP zaps a magical wand at a target. If the target is not specified,
+and you are fighting someone, then that character is used for a target. 
+
+You must HOLD a wand or a staff before using BRANDISH or ZAP. 
+
+All of these commands use up their objects. Potions and scrolls have a 
+single charge. Wands and staves have multiple charges. When a magical 
+object has no more charges, it will be consumed. The mage spell 'recharge' 
+may be used to recharge items. 
+
+These commands may require an item skill to be successful. See the help 
+entries on the skills scrolls, staves, and wands for more information.
+~ 
+
+0 CONSIDER~ 
+
+Syntax: consider <character> 
+
+CONSIDER tells you what your chances are of killing a character.
+Of course, it's only a rough estimate.
+~ 
+
+0 FOLLOW GROUP~ 
+
+Syntax: follow <character>
+Syntax: group
+Syntax: group <character> 
+
+FOLLOW starts you following another character. To stop following anyone 
+else, just FOLLOW <yourself>. 
+
+GROUP <character> makes someone who is following you a member of your group.
+Group members share experience points from kills and may use the GTELL and
+SPLIT commands. If anyone in your group is attacked, you will 
+automatically join the fight. This can be toggled using the autoplayerassist
+and automobassist toggles, for whether you wish to join in a fight against
+a player or a mob, respectively. 
+
+If the <character> is already a member of your group, then GROUP will
+kick out the <character> from your group. Characters can also leave your
+group by using a FOLLOW command to stop following you. 
+
+GROUP with no argument shows statistics for each character in your group. 
+
+You may FOLLOW and GROUP only with characters who are within five levels of
+your own. 
+
+NOFOLLOW will stop people from following you, and you from following people. 
+This is also an option to allow people to follow you in the first place, 
+and not to be allowed to follow you. 
+
+(also see 'experience')
+~ 
+
+0 VISIBLE~ 
+
+VISIBLE cancels your hiding and sneaking, as well as any invisibility or
+oculary, making you visible again.
+~ 
+
+0 KILLER THIEF~ 
+
+(KILLER) flags are a marker that show someone was aggressive towards 
+another player. This will cause guards and protectors to be aggressive 
+towards them. 
+
+(THIEF) flags are a marker that someone tried to steal something from 
+someone and failed to do so. Anyone with this flag alone will receive a 
+(KILLER) when attacked. 
+
+To remove one of these flags you must die to another player other than a 
+fellow clan mate. In odd situations a immortal may pardon this flag... as 
+long as there is a VERY good reason.
+~ 
+
+0 QUIT RENT SAVE~ 
+
+Syntax: QUIT
+Syntax: SAVE 
+
+SAVE saves your character and object. The game saves your character every
+15 minutes regardless, and is the preferred method of saving. Typing save
+will block all other commands for about 20 seconds, so use it sparingly.
+(90+ players all typing save every 30 seconds just generates too much lag). 
+
+Some objects, such as keys and potions, may not be saved. 
+
+QUIT leaves the game. You may QUIT anywhere. When you re-enter the game 
+you will be back in the same room. 
+
+QUIT automatically does a SAVE, so you can safely leave the game with just 
+one command. Nevertheless, it's a good idea to SAVE before you QUIT. If 
+you get into the habit of using QUIT without SAVE, and then you play some 
+other mud that doesn't save before quitting, you're going to regret it. 
+Quitting outside of the town, or designated hall will cause you to lose exp. 
+
+There is no RENT in this mud. Just SAVE and QUIT whenever you want to 
+leave.
+~ 
+
+0 RECALL~ 
+
+Syntax: RECALL 
+
+RECALL prays to a continent's god for miraculous transportation from where 
+you are back to the either Temple of Bosco or the Temple of Selina. '/' is 
+a synonym for RECALL. 
+
+If you RECALL during combat, you will lose experience (more than for 
+fleeing), and you will have a chance of failing (again, more than for 
+fleeing). This chance is based on your recall skill, although a 100% 
+recall does not ensure success. 
+
+RECALL costs half of your movement points. 
+
+RECALL doesn't work in certain god-forsaken rooms. Characters afflicted 
+by a curse may not recall at all. 
+
+(Also see 'help NORECALL')
+~ 
+
+0 NORECALL~ 
+
+Norecall is a new option that allows you to have the option to RECALL
+while link dead and in the middle of combat. Type 'auto' to see if you 
+have this off or on. 
+
+(Also see 'help RECALL')
+~ 
+
+0 SPLIT~ 
+
+Syntax: SPLIT <silver> <gold> 
+
+SPLIT splits some coins between you and all the members of your group who 
+are in the same room as you. It's customary to SPLIT the loot after a kill.
+The first argument is the amount of silver the split (0 is acceptable), and 
+the second gold (optional). 
+
+Examples:
+split 30 --> split 30 silver
+split 20 50 --> split 20 silver, 50 gold
+split 0 10 --> split 10 gold
+~ 
+
+0 STEAL~ 
+
+Syntax: STEAL coins <character>
+Syntax: STEAL <object> <character> 
+
+STEAL attempts to steal coins, or an object, from a character. 
+
+There are penalties for using STEAL on other players. 
+
+In order to STEAL successfully, you must practice the appropriate skill.
+~ 
+
+0 PRACTICE~ 
+
+Syntax: PRACTICE
+Syntax: PRACTICE <skill|spell> 
+
+PRACTICE without an argument tells you your current ability level in all
+the skills and spells available to you. You can check this anywhere. 
+
+PRACTICE with an argument practices that skill or spell. Your percentage
+varies from 1% to 75% that you can adjust by training the skill/spell. You 
+may attain 100% by using the skill or spell. You must be at a guild master 
+to practice spells and skills. 
+
+The higher your intelligence, the more you will learn at each practice
+session. The higher your wisdom, the more practice sessions you will have 
+each time you gain a level. Unused sessions are saved until you do use 
+them.
+~ 
+
+0 TRAIN~ 
+
+Syntax: train <str int wis dex con hp mana quest> 
+
+TRAIN increases one of your attributes. When you start the game, your
+character has standard attributes based on your class, and several initial 
+training sessions. You can increase your attributes by using these 
+sessions at a trainer (there are several in town). 
+
+It takes one training session to improve an attribute, or to increase mana 
+or hp by 10. You receive one session per level. 
+
+The best attributes to train first are WIS and CON. WIS gives you more
+practices when you gain a level. CON gives you more hit points. In the long
+run, your character will be most powerful if you train WIS and CON both 
+before practicing or training anything else.
+~ 
+
+60 ADVANCE~ 
+
+Syntax: advance <character> <level> 
+
+ADVANCE sets a character's level to the specified value. It is the only 
+way to create new immortal characters within the game. ADVANCE may also be
+used to demote characters.
+~ 
+
+60 TRUST~ 
+
+Syntax: trust <character> <level> 
+
+TRUST sets a character's trust to the specified level. This is similar to
+advancing the character for accessing immortal commands, but has no effect
+on combat strength, etc. You can give more trust to mortal (or immortal) 
+characters to give them access to more power without messing up the 
+character. You can also restrict a player's trust to less than their
+natural level. 
+
+A trust of 0 means to use the character's natural level again.
+~ 
+
+58 ALLOW BAN PERMBAN~ 
+
+Syntax: allow <site>
+ban <site> <newbies|all|permit>
+ban 
+
+BAN <site> prohibits players from that site from logging in. BAN with
+no arguments lists the banned sites. ALLOW <site> removes a site from
+the ban list, if the remover is of equal or higher level than the banner. 
+
+A site may have all players, new players, or non-permitted players (set
+by editing the player file) banned, by changing the argument after the site.
+*s may be used to ban either by suffix (*.edu), prefix (labmac*), or 
+content (*andrews*), but be careful not to accidentally lock out too many 
+sites with a wildcard. Bans do not save unless the permban command is used.
+~ 
+
+59 REBOOT SHUTDOWN~ 
+
+Syntax: reboot
+shutdown 
+
+Reboot shuts down the server. When the normal 'startup' script is used
+to control the server, a delay of fifteen seconds will ensue (to allow
+old connections to die), followed by a reboot. 
+
+Shutdown shuts down the server and prevents the normal 'startup' script
+from restarting it. WARNING: This command is to never to be used unless
+you have an approval from the IMPs.
+~ 
+
+56 WIZLOCK NEWLOCK~ 
+
+Syntax: wizlock
+newlock 
+
+Wizlock and newlock both block login attempts to REDEMPTION. Wizlock locks
+out all non-gods (i.e. level less than 51), except for link-dead players who
+are returning. Newlock only locks out new character generation, typically
+used for preventing a spammer from returning. Wizlocking should be avoided,
+and newlocking should be accompanied by mail or a note to the IMPs. 
+
+A god must be at least level 58 to wizlock the game.
+~ 
+
+59 DENY~ 
+
+Syntax: deny <name> 
+
+Deny locks a character out of a game permanently, rendering their character
+name unusable. It may only be removed by editing the file - for this 
+reason freeze is usually preferred. Deny is to be used only in an extreme 
+situation. If the deny is used, post a penalty note.
+~ 
+
+57 DISCONNECT~ 
+
+Syntax: disconnect <name>
+disconnect <descriptor number> 
+
+Disconnect breaks a player's link to the game, dumping them back to the 
+telnet prompt. This is a non-lethal way of getting rid of spammers and 
+annoying players. Note that this command is logged, and abusing it will 
+cause the 59+'s to ask questions.
+~ 
+
+56 FREEZE~ 
+
+Syntax: freeze <name> 
+
+FREEZE <character> is a toggle which prevents a character from issuing any
+commands at all. It can be removed from within the game, so freezing a 
+troublemaker is usually a better option than the deny command.
+NOTE: Post a penalty note if this command is used.
+~ 
+
+56 FORCE~ 
+
+Syntax: force <character> <command>
+force all <command>
+force players <command>
+force gods <command> 
+
+FORCE forces one character to execute a command, except of course delete.
+Below level 57 (God), force can only be used on mobiles, and force all is
+unavailable. You also cannot 'force orc murder hugo', for example.  
+
+FORCE 'all' forces all player characters to execute a command. This is 
+typically used for 'force all save'. Beware of 'force all drop all', 
+as this is blatant misuse and the abuser will be questioned on the matter.  
+
+NOTE: Forcing all to change their 'clean' role-playing style is frowned 
+upon. 
+
+FORCE 'players' and FORCE 'gods' does the same as FORCE 'all', but on the 
+respective character groups.
+~ 
+
+56 SOCKETS~ 
+
+Syntax: sockets
+sockets <name>  
+
+SOCKETS reports all of the visible users connected to the server, including 
+users in the process of logging in. The two numbers inside brackets are 
+the channel number and the 'connected' state. The 'connected' states are 
+listed in merc.h: 0 is CON_PLAYING; non-zero values are various states of 
+logging in. 
+
+The optional name argument shows the site of a player, or it can be used to
+identify switched gods (i.e. socket orc shows the name of anyone switched 
+into an orc). 
+
+NOTE: socket @*.ca will show you all the people logged into our mud from
+Canada.
+~ 
+
+56 IDENT IDENTIFY~ 
+
+Syntax: ident <player> 
+
+This command allows you to see the specific account that a player is logged
+in from. It is useful for characters that are playing from similar sites,
+e.g. freenet6.carleton.ca. By using ident, you can better determine whether
+or not they are multi-playing, or what account a spammer is logging in from.
+~ 
+
+54 LOAD OLOAD MLOAD~ 
+
+Syntax: load mob <vnum>
+load mob 2*<name>
+load obj <vnum>
+load obj 2*<name> 
+
+The load command is used to load new objects or mobiles (use clone to 
+duplicate strung items and mobs). The vnums can be found with the vnum
+command, or by stating an existing mob or object. 
+
+Load puts objects in your inventory if they can be carried, otherwise they 
+are put in the room. Mobiles are always put into the same room as the god. 
+Old format objects must be given a level argument to determine their power, 
+new format objects have a preset level that cannot be changed without set.
+(See also clone, vnum, stat). Try to avoid loading objects that are off-
+line. There is a reason for it, so make sure they stay that way. 
+
+mload and oload are abbreviations for load mob and lob obj, respectively.
+~ 
+
+58 SET~ 
+
+Syntax: set mob <mobile> <field> <value>
+set obj <object> <field> <value>
+set room <number> <field> <value>
+set skill <char> <name> <rating>
+set skill <char> all <rating> 
+
+The set command is used to change the numerical values of the various data
+structures. Type set <class> without an argument to see a listing of options.
+Set skill all (pc's only) will set all the character's skills to the value
+given. Use string to change the strings on an object or mobile. 
+
+(see also 'help string' 'help stat' 'help flag')
+~ 
+
+56 STRING~ 
+
+Syntax: string obj <field> <string>
+string mob <field> <string> 
+
+The string command changes the various strings associated with an object or
+mobile. A full list of fields can be viewed by typing 'string obj' or 
+'string mob'. Sorry, multi-line strings are not yet supported, unless you 
+sit there and count the spaces. 
+
+Most screens are 80 lines long. So if you do the math, you can have mutli-
+line restrings. 
+
+NOTE: Do NOT make strings that are not medieval, e.g. Guns, Bombs, etc.
+~ 
+
+56 NOCHANNEL NOEMOTE NOSHOUT NOTELL NOTITLE NONOTE~ 
+
+Syntax: nochannel <character>
+noemote <character>
+noshout <character>
+notell <character>
+notitle <character>
+nonote <character> 
+
+Noemote, noshout, and notell are used to muffle other characters, by
+preventing them from emoting, shouting, and telling, respectively.
+Characters who are noshout'ed or no'telled will also not receive those
+forms of communication. 
+
+The nochannel command is similar, but more drastic. It prevents the victim
+from using any of the channels (gossip, cgossip, Q/A, music, etc.) on the 
+game. Nochannels usually result from swearing or spamming on public channels. 
+
+Notitle allows you to keep a player from changing his/her title. This is
+especially useful if you wish to keep a character from running around with
+vulgar titles. Simply restring his/her title to something acceptable then
+notitle them. 
+
+Nonote is used to stop a player from abusing the note boards. Such abuses
+include repeated spamming of note boards, vulgar notes, etc. 
+
+NOTE: Please post a note when any of these commands are used.
+~ 
+
+57 PARDON~ 
+
+Syntax: pardon <character> killer
+pardon <character> thief 
+
+Pardon pardons a player for their crimes. Don't pardon a player unless you
+are sure they deserve it.
+~ 
+
+54 VAPOURIZE~ 
+
+Syntax: vapourize <object> 
+
+Totally annihilates the object. Isn't affected by no_purge flags, unlike
+it's weaker cousin, Purge.
+~ 
+
+54 PURGE~ 
+
+Syntax: purge
+purge <character> 
+
+Purge is used to clean up the world. Purge with no arguments removes all 
+the NPC's and objects in the current room. Purge with an argument purges 
+one character from anywhere in the world. 
+
+Purge will not get rid of PC's, or objects or mobiles with a NOPURGE flag
+set (i.e. the pit, the fountain, shopkeepers, Tetragon). Mobiles may be
+purged if they are called directly by name. 
+
+Purging a player causes the player to quit from the game completely, just
+like disconnect, expect for you get a groovy little message.
+~ 
+
+56 RESTORE~ 
+
+Syntax: restore <character>
+restore room
+restore all 
+
+Restore restores full hit points, mana points, and movement points to the
+target character. It also heals poison, plague, and blindness. 
+
+Restore room (or restore with no argument) performs a restore on every 
+player in the room, restore all does the same for all connected players. 
+Restore all is only usable by creators and implementors. Restore should be
+used sparingly or not at all.
+~ 
+
+57 SLAY~ 
+
+Syntax: slay <character>
+slay <mob> 
+
+Slay kills a character in cold blood, no saving throw. Best not to use 
+this command on players if you enjoy being a god. This is a form of a 
+strict punishment, and is used for catching multi-players who pass eq from 
+one character to the other. PROOF must be needed to use this at anytime. 
+
+NOTE: A penalty note MUST be posted if this command is used on any player
+at any time.
+~ 
+
+55 TRANSFER TELEPORT~ 
+
+Syntax: transfer <character>
+transfer all
+transfer <character> <location>
+transfer all <location> 
+
+Transfer transfers the target character, or ALL player characters,
+to your current location (default) or to a specified location. Trans all 
+should almost never be used, as 100 players popping into one room can have
+horrible effects on slow links. Teleport is a synonym for transfer. 
+
+Note: "Transfer all" is usually a VERY bad idea. 
+~ 
+
+0 NAME SNOWY~ 
+
+Thanks to Snowy for finding us a name for this wonderful mud. It originally
+was named 'Nightmares' as a temp name just to give us something to work with.
+After going online, our little flower Daisy came up with our story line, and
+from there everyone was told to figure out a name that went with it. Well, 
+again... thanks Snowy.
+~ 
+
+55 AT~ 
+
+Syntax: at <location> <command> 
+
+At executes the given command (which may have arguments) at the given 
+location. The location may be specified as a vnum, as the name of a mobile,
+or as the name of an object. 
+
+At works by temporarily moving you to that location, executing the command, 
+and then moving you back (if the command didn't change your location). 
+
+EXAMPLES: 
+
+Syantax: at bosco where
+Syantax: at bosco look bosco
+Syantax: at bosco look
+Syantax: at bosco give diamond bosco
+~ 
+
+55 ECHO GECHO PECHO ZECHO~ 
+
+Syntax: echo <message>
+gecho <message>
+pecho <character> <message>
+zecho <message> 
+
+These commands all perform similar functions. Echo sends the message to
+all characters in the same room as the user, with no indication of who sent
+it. Gecho does the same for all players connected to the game, and pecho
+sends the message to the player specified as the target. Any higher-level
+god will see a prompt in front of your message, informing him or her that it
+is an echo. 
+
+PECHO should never be used for imitating another person or player - this 
+just causes headaches and trouble. GPECHO is often used to inform mortals 
+that a certain Immortal has logged onto the game, and is willing to talk and
+help any mortal with a problem. 
+
+ZECHO is used for area echoes. Anyone in the same area as you will see your
+echo.
+~ 
+
+54 GOTO~ 
+
+Syntax: goto <mob>
+goto <vnum room>
+goto <object name> 
+
+Goto takes you to a location. The location may be specified as a vnum,
+as the name of a mobile, or as the name of an object. 
+
+You may not Goto a room if it is PRIVATE and has two (or more) characters
+already present, or if it is SOLITARY and has one (or more) characters
+already present. Some other rooms are barred to players below a certain god 
+level. 
+
+Implementors can use the violate command to get into private rooms. 
+
+(also see 'help violate')
+~ 
+
+54 HOLYLIGHT INVIS WIZINVIS~ 
+
+Syntax: holylight
+wizinvis <level> 
+
+Holylight is a toggle that allows you to see (almost) every character and
+mobile in the game. With holy light, you can see what's in the game more
+easily. Without holy light, you can see what mortal players see. 
+
+NOTE: This does not see people sneaking into or out of a room. *sigh* 
+
+Wizinvis takes a level argument, and will make you invisible to all players 
+of a lower level than your invisibility level. It defaults to the maximum
+(your level) if no argument is given. Wizi 60 characters are totally 
+invisible.
+~ 
+
+54 INCOGNITO~ 
+
+Snytax: incog <level> 
+
+Toggling your incognito status will hide your presence from people outside 
+the room you are in, but leave you visible to those who are with you. It 
+takes a level argument similar to wizinvis. People at that level or higher 
+can see you regardless of location. 
+
+This is also nice when combined with the WIZIN command. Using Wizin 50 and
+INCOG will allow anyone who is level 51 to see you in the room. A level 30
+could not. Just a nice little technique.
+~  
+
+54 MEMORY~ 
+
+Syntax: memory 
+
+Memory reports the size of your mud. 
+
+The 'Mobs' and 'Objs' lines report the number of types of mobiles and 
+objects, not the number of instances currently in the game. 
+
+The 'Strings' line shows memory used by area-file strings. These strings 
+have a maximum limit, which is also shown. 
+
+The 'Perms' line shows permanently allocated memory blocks. There is no 
+limit on the number and size of these blocks. 
+
+58 and below should not have to worry about this. Yes, you have it, but it 
+means nothing to you!
+~ 
+
+54 VNUM~ 
+
+Syntax: vnum <name>
+vnum <obj or mob> <name>
+vnum skill <name> 
+
+Vnum finds all objects and mobiles with a particular name, and prints out
+the results. Use vnum obj or vnum mob to limit the search. This vnum is
+very useful for loading. Vnum skill returns the skill number (for set) and
+the slot number (for making new zones) of a skill name. 
+
+(see also 'help load')
+~ 
+
+54 STAT~ 
+
+Syntax: stat <name>
+stat mob <name>
+stat obj <name>
+stat room <vnum>
+stat clan  
+
+The stat command gives you detailed information on an object, mobile, or 
+room within the game. Without a class argument, the command will return a 
+object (if found), a mobile (if no object exists, but a mobile does), or a 
+room (if a number is given). 'Stat room' with no argument stats the room you
+are standing in. Stat can be used to find room vnums for goto. 
+
+(see also goto, transfer) 
+
+NOTE: If you're going to stat a player, they're also considered to be mobs. 
+
+Syntax: stat mob <player name> 
+
+STAT is NOT to be used by a 55 or below to stat any players. If you are 
+found doing so, there better be a good reason, otherwise you will be 
+considered cheating, and will be punished in some kind of fashion.
+~ 
+
+54 MWHERE OWHERE~ 
+
+Syntax: mwhere <name>
+mwhere
+owhere <name> 
+
+MWHERE shows you the locations of all mobiles with a particular name.
+Mwhere alone will show you where all the players are online and what mobs 
+other immortals are in. 
+
+OWHERE shows you where objects in the game can be found, giving you the vnum
+of the object. 
+
+There are no commands yet that give you the name of rooms in the game. 
+
+(also see 'help vnum' and 'help load') 
+~ 
+
+59 OBJDUMP~ 
+
+Syntax: objdump <ALL|AREA> <filename> 
+
+ALL: Dumps the information for all the area files loaded in the game 
+
+AREA: Dumps the information for the objects in the area the character is in. 
+
+filename: Name of the file containing the dumped information. 
+
+Fields Format
+------------- 
+
+1 Short Desc Contains short_desc of the object
+2 Keywords Keywords, separated by a space
+3 Level  The level the object is reset at (can vary +/-2).
+Objects with new format have a set level.
+4 Vnum  The vnum of the object
+5 Room  The vnum of the room the object resets in
+6 Location Text desc of the location (on mob X, in room: Y, inside Z)
+7 Flags  GENVMDRghdlvbPVRLSBU#*
+anti-Good, anti-Evil, anti-Neutral, inVisible, Magic, noDrop,
+noRemove, Glowing, Humming, Dark, Lock, eVil, Bless, ,
+noPurge, Visdeath, Rotdeath, noLocate, Sellexract,
+Burnproof, noUncurse.
+If set, the letter is there, if not, a '-' appears.
+Important flags are in uppercase.
+# flag is set, if the object resets on a shopkeeper and the
+shopkeeper sells that particural object.
+Note that those objects' levels are differently derived.
+* denotes a reboot-only object. An object is reboot if
+either it or the mob it resets on has a reset-count of
+-1 (note that this is not a standard MERC feature).
+8 Weight  Weight of object, in tenths of pounds.
+9 Value  Value/cost of object
+10 Material Material. 'oldstyle' if old style and has no material.
+11 Worn  Where the object can be worn. Be on lookout for objects
+without Take flag, if they are armor, weapons etc. Also
+watch out for Weapons with other than (Take Wield)
+12 Item Type Armor, Wand, Staff, Weapon etc.
+13 AC/SLevel For Armor: contains the 4 AC numbers.
+For wand,staff,pill,potion,scroll: contains spell level
+For containers: Contains key number.
+For drink containers and food: non-zero means it is 
+poisoned
+For weapons: ?d? damage if new format, approx damage range 
+if old.
+For Food: number of hour it will keep character full.
+14 Capacity For wand/staves contains number of charges
+For containers (drink, too) contains capacity in the form
+X lbs, Y items (Z% weight).
+For lights: contains number of hours it can burn (more
+explanation is given in the Spells field).
+For food: number of hours it will keep char from getting
+hungry.
+For armor: contains bulk number.
+15 Spells For spell-using objects, contains spell(s) cast by obj.
+For light: contains explanation on Capacity (dead,
+unlimited, limited).
+For containers: contains flags (lockable, closeable etc.)
+For drink containers: contains liquid type.
+16  Affects Contains all affects of the obj, in one long field. Useful
+if you have to produce a text-only version of the list.  
+17+ Affects Contains modifier to that affect
+?? Bits  Contains various bits that the object bestows, for example
+detect invis, immunity to something etc.
+?? Other  Contains other information, gathered from the
+get_other_information function.
+~ 
+
+56 PEACE~ 
+
+Syntax: peace 
+
+Peace causes all characters in a room to stop fighting. It also strips the
+AGGRESSIVE bit from mobiles.
+~ 
+
+54 POOFIN POOFOUT~ 
+
+Syntax: poofin <message>
+Syntax: pooffout <message> 
+
+The standard messages for goto are 'arrives in a swirling mist' and 'leaves 
+in a swirling mist'. You can replace these messages with messages of your 
+own choosing using the poofin and poofout commands. These messages MUST 
+INCLUDE YOUR NAME somewhere in the string. 
+
+You may also type just POOFIN or POOFOUT just to see what your current 
+POOF'S look like. 
+
+Poofin and poofout only show to characters who can see you. 
+
+(see also goto)
+~ 
+
+0 NOSNOOP~ 
+
+Type 'channel' to see if you have the no_snoop flag still. This is ONLY 
+given to people with a good reason.
+~ 
+
+59 PROTECT~ 
+
+Syntax: protect <character> 
+
+Protect is used to protect a character from unwanted snooping. Removing 
+protected status from a character WILL be seen by that character. 
+
+NOTE: A no_snoop flag will show up in the stat <character> and will show
+up in the 'channel' command of the receiver of the PROTECT command.
+~ 
+
+59 LOG~ 
+
+Syntax: log <character>
+log all 
+
+Log <character> causes all of a character's commands to be logged into the 
+server's log file. Like Freeze, it is a permanent character toggle. Logs 
+may only be used by creators and implementors, and should be accompanied by 
+mail to the implementors. 
+
+Certain commands (Password) are protected against log.  
+
+Log all logs all character commands. It is a server-wide toggle; it does 
+not persist across reboots. Please do not use this unless you tell the imps. 
+
+** LOG FILES HAVE TO HAVE A REASON TO BE CREATED **
+~ 
+
+56 SNOOP~ 
+
+Syntax: snoop - lists eveybody who you're snooping
+snoop <charcter> - starts (or stops) snooping <character>
+snoop self - stops snooping everybody 
+
+Snoop shows you a copy of all the input and output going to a character.
+The character must have an open channel. You may snoop more than one
+character at a time. Try to respect privacy. 
+
+Snoop yourself to cancel all outstanding snoops. 
+
+NOTE: 56 are not allowed to snoop players that are in private rooms, only
+57+ may do so, as they may be in a private room having cheap mud sex (or
+expensive mud sex if one of the characters involved is role-playing a
+hooker or stripper).
+~ 
+
+58 SET~ 
+
+Syntax: Set skill <name> all 100 
+
+Will set a charcter with all there skills to 100. This means a cleric will 
+get backstab. 
+
+Syntax: Set mob snail level 60 
+
+Will set a snail to level 60 and make it impossible for any newbie to hit 
+it. Its parry and dodge are both enhanced due to its high level. 
+
+Syntax: Set char <Player name> gold 1000 
+
+Will give a player 1000 gold coins. 
+
+Syntax: Set mob <mob name> npc <number> 
+
+Will set a mob to NPC status (the number's irrelevant) (see 'help npc' for
+more details) 
+
+(Type SET alone for more detail.)
+~ 
+
+57 FLAG~ 
+
+Flag is a powerful ability that immortals get. They aren't permanent, but
+powerful all the same. 
+
+Syntax: Flag char <name> rest weapon 
+
+Will give a player resistence to all weapon types. 
+
+Syntax: Flag char <name> comm AFK 
+
+Will turn someones AFK off, or on. 
+
+(Type FLAG alone for more detail.)
+~ 
+
+0 LONER~ 
+
+At creation you were asked if you wish to join the pkilling system. This
+will set your character to automatically join the ranks of loner at level 10.
+You can not join a clan before this time. Once you have chosen your destiny
+at creation, you can not go back.
+~ 
+
+10 LONER~ 
+
+Syntax: loner 
+
+The "loner" command allows a player to remove himself or herself from a
+clan. If you attempt to loner youself while still in your clan hall you
+will be automatically teleported to recall.
+~ 
+
+56 SWITCH RETURN~ 
+
+Syntax: switch <character>
+return 
+
+Switch switches you into the body of a mob (you can't switch into a PC). You
+also cannot switch into link-dead PCs "Players". All tells will be saved
+with your character as if you were AFK or link dead. 
+
+While switched, you may use all channels for ROLE-PLAYING/QUEST purposes.
+Naming a mob after someone, and then talking on ANY channel is a major NO. 
+Beware of switching into mobs that have a SPEC_AGGY where the mob will still
+attack any one who walks in the room. 
+
+RETURN returns you to your original body.
+~ 
+
+54 IMMTALK :~ 
+
+Syntax: immtalk <message>
+immtalk 
+ 
+
+IMMtalk sends a message to all immortals. ':' is a synonym for immtalk. 
+Using this command with no argument turns off the immortal channel (or turns
+it back on). NOTE: If you turn on quiet mode, the immortal channel stays on.
+You must type the colon for the channel to turn off.
+~ 
+
+54 WIZNET~ 
+
+Syntax: wiznet 
+wiznet show
+wiznet status
+wiznet <field> 
+
+Wiznet is sort of an immortal news service, to show important events to the 
+wiznetted immortal. Wiznet by itself turns wiznet on and off, 'wiznet show'
+lists all settable flags (they are not detailed here), 'wiznet status' shows
+your current wiznet settings, and 'wiznet <field>' toggles a field on and 
+off. The events should be self-explanatory. If they aren't, fiddle with 
+them awhile. More events are available at higher levels.
+~ 
+
+54 WIZHELP~ 
+
+Syntax: wizhelp 
+
+Wizhelp provides a list of all the immortal commands currently available for
+you to use at your level.
+~ 
+
+0 ARMOR~ 
+
+Syntax: cast armor <character> 
+
+This spell decreases (improves) the armor class of the target character by 
+20 points.
+~ 
+
+0 BLESS~ 
+
+Syntax: cast bless <character>
+Syntax: cast bless <object> 
+
+This spell improves the to-hit roll and saving throw versus spell of the
+target character by 1 for every 8 levels of the caster. It may also be cast 
+on an object to temporarily bless it (blessed weapons, for example, are more
+effective against demonic beings, and slowly make you angelic).
+~ 
+
+0 'GRANDEUR' 'MINIMATION'~ 
+
+Syntax: cast grandeur
+Syntax: cast minimation 
+
+These are powerful spells. Grandeur makes you appear as though you are 
+always in excellent condition, no matter what condition you are in. 
+
+Minimation makes you appear as though you are always in awful condition, no 
+matter what condition you are in. 
+
+These spells can only be cast on yourself.
+~ 
+
+0 SCRAMBLE~ 
+
+Syntax: cast scramble <player> 
+
+This scrambles people's words so they speak nonsense. Great to cast onto 
+people so they can't cry for help when you're attacking them. Two people who 
+have been scrambled may see and understand each other with ease. 
+
+WARNING: This is an aggressive spell.
+~ 
+
+0 BLINDNESS~ 
+
+Syntax: cast blindness <victim> 
+
+This spell renders the target character blind.
+~ 
+
+0 'ACID BLAST'~ 
+
+Syntax: cast 'acid blast' <victim> 
+
+Acid blast is a powerful damage spell that does immense 
+burning/dissolving damage to the target being.
+~ 
+
+0 'BURNING HANDS'~ 
+
+Syntax: cast 'burning hands' <victim> 
+
+Burning hands is a damage spell common to low-powered mages. 
+By putting his hands together, the mage can send a stream of fire 
+towards his victim.
+~ 
+
+0 'COLOUR SPRAY'~ 
+
+Syntax: cast 'colour spray' <victim> 
+
+Colour spray gathers together magical energy and fires it at the 
+victim in the form of high-energy light beams. The dazzling effect 
+of this spell has a chance of blinding the victim.
+~ 
+
+0 FIREBALL~ 
+
+Syntax: cast 'fireball' <victim> 
+
+Fireball is a spell that takes magical energy and then releases it in 
+an explosive fit in the middle of the room. Note that the ensuing blast 
+of flame fills the entire room and will damage all who stand in its 
+way, i.e., this is an area attack spell.
+~ 
+
+0 'LIGHTNING BOLT'~ 
+
+Syntax: cast 'lightning bolt' <victim> 
+
+Lightning bolt sends a jolt of electrical energy towards its victim.
+~ 
+
+0 'MAGIC MISSILE'~ 
+
+Syntax: cast 'magic missile' <victim> 
+
+The most basic of all mage attack spells, magic missile forms magical 
+energy into a little bolt, which then hurtles towards the victim, usually 
+causing little more than some discomfort and pain.
+~ 
+
+0 'SHOCKING GRASP'~ 
+
+Syntax: cast 'shocking grasp' <victim> 
+
+Shocking grasp draws magical energy and charges the caster's hands, 
+making them electrical, thus painful, to the touch. The caster then 
+touches the victim, causing electric currents to flow through the 
+target being.
+~ 
+
+0 'HELL BLADES'~ 
+
+Syntax: cast 'hell blades' <victim> 
+
+Hell blades creates a series of magical blades made from pure fire to 
+cut and slash the intended victim. This is a very powerful spell.
+~ 
+
+0 HURRICANE~ 
+
+Syntax: cast 'hurricane' <victim> 
+
+Hurricane creates a powerful storm of whipping winds and torrential 
+rains that pound on the target being. The storm will fill the entire 
+room, damaging all that its drenching power can touch, i.e., this is 
+an area attack spell.
+~
+0 TSUNAMI~ 
+
+Syntax: cast 'tsunami' <victim> 
+
+Tsunami is a more powerful version of hurricane (see 'help hurricane'), 
+however the storm so created is centered only on one being.
+~ 
+
+0 'ICE BOLT'~ 
+
+Syntax: cast 'ice bolt' <victim> 
+
+Ice bolt creates a bolt of magical frost, which then hurtles towards
+the victim, exploding into a wave of ice and snow, thereby freezing
+the target.
+~ 
+
+0 'BLAST OF ROT'~ 
+
+Syntax: cast 'blast of rot' <victim> 
+
+Blast of rot sends waves of putrifying energy towards the target. When
+the waves hit, the target is overcome with various toxins and foreign
+agents that debilitate the body, causing immense pain and damage.
+~ 
+
+0 'CALL LIGHTNING'~ 
+
+Syntax: cast 'call lightning' 
+
+This spell works only out of doors, and only when the weather is bad. It 
+calls down lightning bolts from Bosco and Selina. These lightnings will
+hit everyone in the room, i.e. it is an area attack spell.
+~ 
+
+0 'CAUSE LIGHT' 'CAUSE SERIOUS' 'CAUSE CRITICAL' HARM~ 
+
+Syntax: cast 'cause light' <victim>
+Syntax: cast 'cause serious' <victim>
+Syntax: cast 'cause critical' <victim>
+Syntax: cast harm <victim> 
+
+These spells call upon divine influence to inflict damage on the victim. 
+The higher-level spells do more damage. Note that these spells are 
+effectively the opposite of the healing spells.
+~ 
+
+0 'CHANGE SEX'~ 
+
+Syntax: cast 'change sex' <victim> 
+
+This spell temporarily changes the sex of the victim.
+~ 
+
+0 'FLAME ARROW'~ 
+
+Syntax: cast 'flame arrow' <victim> 
+
+Flame arrow creates a bolt of magical fire that is then shot towards 
+the intended victim, much like an arrow. The amount of smoke created 
+from the flame arrow has a chance of irritating the victim's eyes, 
+thereby blinding him.
+~ 
+
+0 BLINK~ 
+
+Syntax: cast 'blink'  
+
+Blink lets you 'blink' out of existence, i.e., suddenly disappear from 
+your current position and reappear elsewhere. You can only blink to 
+somewhere else in the area, and even then, you don't travel very far 
+from your original position. It's a quick fix out of a dirty situation.
+~ 
+
+0 'CHARM PERSON'~ 
+
+Syntax: cast 'charm person' <victim> 
+
+This spell, if successful, causes the victim to follow you and to take 
+orders from you. Use ORDER to order your charmed followers. 
+
+You are responsible for the actions of your followers. Conversely, other
+people who attack your followers will be penalized as if they attacked you.
+~ 
+
+0 'MAGIC STONE'~ 
+
+Syntax: cast 'magic stone' <victim> 
+
+Magic stone creates a huge stone out of magical energy and dust, which
+then bowls across the room, rolling over the intended victim.
+~ 
+
+0 'CHILL TOUCH'~ 
+
+Syntax: cast 'chill touch' <victim> 
+
+Chill touch causes the caster's grasp to go ice-cold, then, upon touching
+his victim, can transmit this cold and freeze the victim. The numbing cold
+has a change of stiffening the victim's muscles, causing him to lose
+strength until he warms up again.
+~ 
+
+0 LAY HANDS~ 
+
+Syntax: Lay hands <target> 
+
+By laying his hands on a wounded being, a character is able to heal by
+means of his deity. A character can only use this power once every few
+hours. The amount the character can heal depends on his own power, i.e.,
+his level.
+~ 
+
+0 'CALL CREATURE'~ 
+
+Syntax: cast 'call creature' 
+
+A more powerful version of summon, call creature brings forth a being
+at about the same power as the caster (i.e., his level) from somewhere
+in the world. The creature so called, due to the powerful nature of the
+spell, is automatically charmed. 
+~ 
+
+0 SHADOW~ 
+
+Syntax: shadow <victim> 
+
+Shadow combines the surprise value of sneak and hide with following
+people. Basically, by shadowing a victim, the character can follow
+along without being detected by the victim, i.e., the victim does not
+get a "so-and-so now follows you" message.
+~ 
+
+0 'PRISMATIC SPRAY'~ 
+
+Syntax: cast 'prismatic spray' <victim> 
+
+Prismatic spray is a powerful attack spell. When cast, it determines 
+which elemental form the victim is weak to, and then promptly shoots
+out a coloured beam of light that pertains to that elemental form,
+thereby causing huge amounts of damage to the victim. If the victim
+has no weakness, prismatic spray causes general magic damage.
+~ 
+
+0 'RAINBOW BURST'~ 
+
+Syntax: cast 'rainbow burst' <victim> 
+
+Rainbow burst creates a blast of magical energy that pertains to one of
+the elemental forms, which then shoots towards the victim, inflicting
+damage. The burst is a random element, so depending on the victim, the
+burst may do more damage (because the victim is vulnerable to that
+element), or less (because the victim is resistant to that element). 
+
+A more powerful version of this spell is prismatic spray. 
+
+(see 'help prismatic spray')
+~ 
+
+0 DEMAND~ 
+
+Syntax: cast 'demand' <target> <command> 
+
+This spell will allow you to tell someone to do a action, forcing them
+to do as you decree.
+~ 
+
+0 'PHANTOM FORCE'~ 
+
+Syntax: cast 'phantom force' <victim> 
+
+Phantom force draws powerful energy and sends it towards the victim.
+This force manifests itself in the form of fears and nightmares so
+intense that the victim quakes in fear and sweats profusely. As a
+result, the victim ends up much unhealthier than before.
+~ 
+
+0 'PHANTASM MONSTER'~ 
+
+Syntax: cast 'phantasm monster' 
+
+Phantasm monster calls forth a being from the land of fear and nightmares
+and coalesces in a strange, shadowy form. The creature's touch is
+enough to make the bravest among men to run in fear.
+~ 
+
+59 PRAYER~ 
+
+Syntax: UNKNOWN 
+
+This spell adds saves and minuses to your victim's HIT and DAM.
+~ 
+
+0 HOLD PERSON~ 
+
+Syntax: c 'hold person' <target> 
+
+Hold person, when successful, causes the target being to be paralyzed
+for a limited amount of time. It is similar to sleep (see 'help sleep'),
+although the target is aware of what is going on around him.
+~ 
+
+0 HYPNOSIS~ 
+
+Syntax: c 'hypnosis' <target> <command> 
+
+This will make someone fall into your command for a limited time.
+~ 
+
+0 CREEPING DOOM~ 
+
+Syntax: cast 'creeping doom' 
+
+Creeping doom causes an evil wind to howl through the room, causing
+poisonous vines to erupt from the ground and attack all in the room. 
+
+(This is an area attack spell)
+~ 
+
+0 GIANT~ 
+
+Giants are the one of the largest races, ranging from 8-11 feet in height.
+They are one of the best suited races for warriors, although any class may
+be a giant. Giants aren't too bright, and their huge size makes them rather
+clumsy at times. Giants are resistant to cold and fire and are vulnerable 
+to mental and lightning. 
+
+(6 creation points)
+~ 
+
+0 'GIANT INSECTS'~ 
+
+Syntax: cast 'giant insects' 
+
+This will bring forth a rather large insect, with a deadly bite.
+~ 
+
+0 ANIMAL GROWTH~ 
+
+Syntax: c 'animal growth' <target> 
+
+This spell will make anyone larger then they already are, giving them
+the powers of wild creatures.
+~ 
+
+0 'REACH ELEMENTAL'~ 
+
+Syntax: cast 'reach elemental' 
+
+This spell will conjure a elemental warrior to do your bidding. Each
+elemental warrior will have their own unique way of killing its victim.
+~ 
+ 
+
+0 'BARK SKIN'~ 
+
+Syntax: cast 'bark skin'
+cast 'bark skin' <target> 
+
+Bark skin gives the target skin as strong as the bark of a mighty oak.
+As a result, it becomes harder to damage the target due to the mighty
+power therein contained.
+~ 
+
+0 'RUKUS MAGNA'~ 
+
+Syntax: c 'rukus magna' <target> 
+
+This area spell will cause damage to all who stand in your way. Rukus Magna
+emmits powerful sound waves which overload the brains of your foes and
+friends alike. Beware of the power of sound!
+~ 
+
+0 'TAUNT'~ 
+
+Syntax: cast 'taunt' 
+
+This spell will make you to go into craze. Your rage will be so focused on
+killing your target, that you will forget about some primal instincts.
+~ 
+
+0 BLUR~ 
+
+Syntax: cast 'blur' <target> 
+
+Blur causes the target's outline to turn blurry. As a result, attacking
+beings will find it harder to hit the target because they don't quite
+know where he is, thus granting the target protection.
+~ 
+
+0 'MAGIC BLADE'~ 
+
+Syntax: cast 'magic blade' <victim> 
+
+This spell will hit your victim, causing damage.
+~ 
+
+0 'CONTINUAL LIGHT'~ 
+
+Syntax: cast 'continual light'
+Syntax: cast 'continual light' <object> 
+
+This spell creates a ball of light which you can hold as a light source.
+The ball of light will last indefinitely. It may also be used on an object
+to give it an enchanted glow.
+~ 
+
+0 'CONTROL WEATHER'~ 
+
+Syntax: cast 'control weather' better
+Syntax: cast 'control weather' worse 
+
+This spell makes the weather either better or worse.
+~ 
+
+0 'CREATE FOOD'~ 
+
+Syntax: cast 'create food' 
+
+This spell creates a Magic Mushroom, which you or anyone else can eat.
+~ 
+
+0 'CREATE SPRING'~ 
+
+Syntax: cast 'create spring' 
+
+This spell brings forth a magical spring from the ground, which has the
+same properties as a fountain.
+~ 
+
+0 'CREATE WATER'~ 
+
+Syntax: cast 'create water' <drink-container> 
+
+Create water will fill the target drinking container with fresh water.
+~ 
+
+0 'CURE BLINDNESS'~ 
+
+Syntax: cast 'cure blindness' <character> 
+
+This spell cures blindness in one so unfortunate.
+~ 
+
+0 'CURE DISEASE' CURE DISEASE~ 
+
+Syntax: cast 'cure disease' <character> 
+
+This spell will cure someone's disease, and prevent the disease from 
+spreading even further then it might have already. 
+
+Syntax: cure disease <character> 
+
+This skill will cure someone's disease, and prevent the disease from 
+spreading even further then it might have already.
+~ 
+
+0 'CURE POISON'~ 
+
+Syntax: cast 'cure poison' <target> 
+
+Cure poison purges the target of any toxins found in his body.
+~ 
+
+0 'CURE LIGHT' 'CURE SERIOUS' 'CURE CRITICAL' HEAL~ 
+
+Syntax: cast 'cure light' <target>
+Syntax: cast 'cure serious' <target>
+Syntax: cast 'cure critical' <target>
+Syntax: cast 'heal' <target> 
+
+These spells cure damage on the target character. The higher-level spells
+heal more damage. 
+
+(see 'help healer' for details on the heal command)
+~ 
+
+0 ENVENOM~ 
+
+Syntax: envenom <weapon> 
+
+Envenom is a powerful skill that only thieves get. This puts a layer of 
+toxic poison onto any weapon, which can poison those who you are fighting
+with. 
+
+(also see 'help poison')
+~ 
+
+0 RAY OF TRUTH~ 
+
+Syntax: cast 'ray of truth' <target> 
+
+This spell may used by angelic players only, and only damage other angelic
+opponents. This also causes a player to become angelic slowly. There is
+a chance that the ray may blind your foe.
+~ 
+
+0 DEMONFIRE~ 
+
+Syntax: cast 'demonfire' <target> 
+
+This spell may used by demonic players only, and only damage other demonic
+opponents. This also causes a player to become demonlic slowly. 
+~ 
+
+0 HEAT METAL~ 
+
+Syntax: cast 'heat metal' <target> 
+
+Heat metal causes all metal objects on the target's person to glow red
+hot, thereby burning the target, before being either thrown off the body
+or dropped by the target due to extreme heat. Such items can then be
+picked up by other people.
+~ 
+
+0 CURSE~ 
+
+Syntax: cast 'curse' <character>
+cast 'curse' <weapon> 
+
+This spell reduces the character's to-hit roll and save versus spells. It 
+also renders the character unclean in the eyes of the gods and unable to 
+RECALL. Curse may be used to fill equipment with evil power, allowing 
+weapons to do more damage to particularly holy opponents.
+~ 
+
+0 'DETECT INVIS'~ 
+
+Syntax: cast 'detect invis' 
+
+This spell enables the caster to detect invisible objects and characters.
+~ 
+
+0 'DETECT MAGIC'~ 
+
+Syntax: cast 'detect magic' 
+
+This spell enables the caster to detect whether an object is magical.
+~ 
+
+0 'DISPEL EVIL'~ 
+
+Syntax: cast 'dispel evil' <victim> 
+
+This spell invokes the wrath of the gods on an evil victim. It can be very
+dangerous for casters who are not pure of heart.
+~ 
+
+0 'DISPEL MAGIC' CANCELLATION~ 
+
+Syntax: cast 'dispel magic' <character>
+cast 'cancellation' <character> 
+
+Both of these spells remove magical effects from the target. Dispel magic
+has a reduced chance of working, and is considered an attack spell.
+Cancellation can only be used on allies, but is much more effective and does
+not provoke attack. Unfortunately, the spells do not discriminate between
+harmful and benign spells. 
+
+The chance of dispelling is based on the level of the spell. Permanent 
+spells (such as mobile sanctuary) are much harder to remove. Not all spells
+may be dispelled, notable examples being poison and plague. 
+
+Being able to be canceled is an option that we allow. NOCAN will toggle
+this option on or off. Check your 'auto' command for more details. 
+
+(also see 'help nocan')
+~ 
+
+0 EARTHQUAKE~ 
+
+Syntax: cast 'earthquake' 
+
+Earthquake causes the ground itself to shake, causing people to fall to
+the ground and be tossed around. Flying creatures are not affected, due
+to the fact that they are not on the ground when the earthquake occurs.
+However, using this spell causes the whole room to shake, and ALL beings
+-- flying or nonflying -- will see this as an act of aggression, and
+then attack the caster. (In other words, this is an area attack spell.)
+~ 
+
+0 'ENCHANT WEAPON'~ 
+
+Syntax: cast 'enchant weapon' <weapon> 
+
+This spell magically enchants a weapon, increasing its to-hit and to-dam
+bonuses by one or two points. Multiple enchants may be cast, but as the
+weapon grows more and more powerful, it is more likely to be drained or
+destroyed by the magic. Also, every successful enchant increases the level
+of the weapon by one...and there is no turning back.
+~ 
+
+0 'ENCHANT ARMOR'~ 
+
+Syntax: cast 'enchant armor' <armor> 
+
+The enchant armor spell imbues armor with powerful protective magic. It is
+not nearly as reliable as enchant weapon, being far more prone to 
+destructive effects. Each successful enchant increases the plus of the 
+armor by 1 or 2 points, and raises its level by one.
+~ 
+
+0 'ENERGY DRAIN'~ 
+
+Syntax: cast 'energy drain' <victim> 
+
+By use of this spell, the caster can drain energy from his victim,
+usually in the form of mana, movement, and experience.
+~ 
+
+0 'FAERIE FIRE'~ 
+
+Syntax: cast 'faerie fire' <victim> 
+
+When this spell is cast, the victim suddenly glows with a faint pink
+aura. The purpose of this pink aura is twofold: first, the victim
+cannot hide, due to the glowing pinkness around him, and second, he
+becomes easier to hit.
+~ 
+
+0 'FAERIE FOG'~ 
+
+Syntax: cast 'faerie fog' 
+
+This spell reveals all manner of invisible, hidden, and sneaking creatures 
+in the same room as you.
+~ 
+
+0 FLAMESTRIKE~ 
+
+Syntax: cast 'flamestrike' <victim> 
+
+This spell causes a fiery pillar from the heavens to come down and
+smite the offending victim.
+~ 
+
+0 FLY~ 
+
+Syntax: cast 'fly' <character> 
+
+This spell enables the target character to fly.
+~ 
+
+0 IDENTIFY~ 
+
+Syntax: cast identify <object> 
+
+This spell reveals information about the object.
+~ 
+
+0 INFRAVISION~ 
+
+Syntax: cast infravision <character> 
+
+This spell enables the target character to see warm-blooded creatures even
+while in the dark, and exits of a room as well.
+~ 
+
+0 INVIS 'MASS INVIS' INVISIBLITY~  
+
+Syntax: cast 'invisibility' <character>
+Syntax: cast 'invisibility' <object>
+Syntax: cast 'mass invis' 
+
+The INVIS spell makes the target character invisible. Invisible characters
+will become visible when they attack. It may also be cast on an object
+to render the object invisible. 
+
+The MASS INVIS spell makes all characters in the room invisible, including
+the caster. 
+
+To counter act this spell, type 'visible' and it will remove any skill or 
+spells effects, and make you visible to everyone.
+~ 
+
+0 'KNOW ALIGNMENT'~ 
+
+Syntax: cast 'know alignment' <character> 
+
+This spell reveals the alignment of the target character.
+~ 
+
+0 'LOCATE OBJECT'~ 
+
+Syntax: cast 'locate object' <name> 
+
+This spell reveals the location of all objects with the given name.
+~ 
+
+0 'PASS DOOR'~ 
+
+Syntax: cast 'pass door' 
+
+This spell enables the caster to pass through closed doors.
+~ 
+
+0 'POISON'~ 
+
+Syntax: cast poison <victim>
+Syntax: cast poison <object> 
+
+This spell reduces the strength of the victim by two, as well as reducing 
+the victim's regeneration rate. It may also be used to poison food, drink, 
+or a weapon in a fashion similar to envenom ('help envenom'), but with 
+drastically reduced effectiveness. 
+
+(also see 'help envenom')
+~ 
+
+0 SANCTUARY~ 
+
+Syntax: cast sanctuary <character> 
+
+The SANCTUARY spell reduces the damage taken by the character from any 
+attack by one half.
+~ 
+
+0 REFRESH~ 
+
+Syntax: cast refresh <character> 
+
+This spell refreshes some of the movement points of a character who is 
+out of or low on movement points.
+~ 
+
+0 'REMOVE CURSE'~ 
+
+Syntax: cast 'remove curse' <character>
+Syntax: cast 'remove curse' <object> 
+
+This spell removes a curse from a character, and might possibly uncurse a 
+cursed object. It may also be targeted on an object in the caster's 
+inventory, in which case its chance of success is significantly higher. This
+includes the spell, no_remove, and cursed.
+~ 
+
+0 SHIELD 'STONE SKIN'~ 
+
+Syntax: cast shield <character>
+Syntax: cast 'stone skin' 
+
+These spells protect the caster ior target by decreasing (improving) the 
+caster's armor class. SHIELD provides 20 points of armor. STONE SKIN 
+provides 40 points of armor. Shield can be cost on others, while stone
+skin may only target yourself.
+~ 
+
+0 SLEEP~ 
+
+Syntax: cast sleep <victim> 
+
+This spell puts its victim to sleep. The amount of 'ticks' is dependant
+on the level of the caster. You will remain asleep until either the
+spell wears off or you are somehow hurt. 
+
+While slept, anyone may cast any maladiction spell onto you. This does not
+include 'poison' and 'plague' due to its nature of shivering and suffering.
+~ 
+
+0 SUMMON~ 
+
+Syntax: cast summon <character> 
+
+This spell summons a character from anywhere else in the world into your 
+room. Characters who are fighting may not be summoned. 
+
+(also see 'help nosummon')
+~ 
+
+0 'SUMMON LESSER'~ 
+
+Syntax: cast 'summon lesser' 
+
+By means of this spell, the caster is able to call forth a lesser demon
+into the room with him. Note that to successfully control the demon,
+the caster must have traced out a pentagram to summon the demon in.
+~ 
+
+0 'SUMMON HORDE'~ 
+
+Syntax: cast 'summon horde' 
+
+Summon horde summons a horde of lesser demons into the room with the
+caster. Note that to successfully control the demons, the caster must 
+have traced out a pentagram to summon the demons in.
+~ 
+
+0 'SUMMON GREATER'~ 
+
+Syntax: cast 'summon greater' 
+
+By means of this spell, the caster is able to call forth a greater demon
+into the room with him. Note that to successfully control the demon,
+the caster must have traced out a pentagram to summon the demon in.
+~ 
+
+0 'SUMMON LORD'~ 
+
+Syntax: cast 'summon lord' <name> 
+
+Summon lord is an extremely powerful spell, allowing the caster to call
+forth a demon lord from the netherworld. The downside, however, is that
+it's EXTREMELY hard to control the summoned lord; worse yet, the lord
+has a possibility to break the pentagram that holds him. 
+
+There are six known demon lords in the realms. However, what their names
+are remains a mystery, and can only be found through research...
+~ 
+
+0 'BANISH'~ 
+
+Syntax: cast 'banish' <target> 
+
+Banish forces a summoned being (currently demons) to return to its
+home plane.
+~ 
+
+0 PENTAGRAM~ 
+
+Syntax: pentagram 
+
+This skill allows the user to trace a chalk pentagram onto the ground.
+The purpose of this pentagram is to protect the user -- and anyone else
+in the room -- from summoned demons.
+~ 
+
+0 ORACLE~ 
+
+Syntax: cast 'oracle' 
+
+Paladins are in close contact with their god. Using their powers, they
+can create an oracle to help commune with their deity for advice. The
+oracle's presence increases the mana regen rate of a room.
+~ 
+
+0 'BUILD FIRE'~ 
+
+Syntax: cast 'build fire' 
+
+Rangers spend a lot of time out in the wilderness. To get warmth and to
+cook their food, they're able to build a cheery campfire. The warmth
+that radiates from the fire increases the hitpoint regen rate of a room.
+~ 
+
+0 'FOURTH ATTACK'~ 
+
+Fourth attack allows the character to have the possibility of getting
+yet another attack in combat. Perfect fourth attack does not guarantee
+four attacks per round. Only very specialized warriors have access to
+this skill.
+~ 
+
+0 NOSUMMON~ 
+
+NOSUMMON is also a toggle flag that you may or may not want to turn off. For
+anyone who is in a clan, checking this every now and then with the command 
+'auto' is a fairly good idea.
+~ 
+
+0 TELEPORT~ 
+
+Syntax: cast 'teleport' 
+
+This spell takes you from your current location to a random location 
+somewhere else in the world.
+~ 
+
+0 VENTRILOQUATE~ 
+
+Syntax: cast ventriloquate <speaker> <message> 
+
+This spell throws your voice, making it appear that some other object or
+character in the room is saying your message. Victims who make their saving
+throw will know that someone is using ventriloquism, but not who. Victims 
+who fail their saving throw will think that the object or character really 
+did say your message.
+~ 
+
+0 WEAKEN~ 
+
+Syntax: cast weaken <victim> 
+
+This spell reduces the strength of the victim depending on the level of the 
+caster.
+~ 
+
+0 'WORD OF RECALL'~ 
+
+Syntax: cast 'word of recall' 
+
+This spell duplicates the built-in RECALL ability. This spell can be very 
+powerful if used in the right situation, as it can also be cast on others.
+~ 
+
+0 TRADE 'TRAIN SLIVER'~ 
+
+Syntax: train sliver 
+
+Slivers can trade in their ability and get a new one once they've matured.
+To do this, you must "train sliver" at a trainer. The process of trading in
+a sliver power costs 3 trains, and there's no guarantee you'll get a sliver
+type you'll want.
+~ 
+
+0 BREATH 'ACID BREATH' 'FIRE BREATH' 'FROST BREATH' 'GAS BREATH' 'LIGHTNING 
+BREATH'~ 
+
+Syntax: breath 
+
+These skills are for the use of dragons. Acid and lightning damage one 
+victim, whereas gas, fire, and frost damage every PC in the room, except for
+non-clanners. Fire and frost can break objects, and acid can damage armor. 
+
+The number of breaths you can do depends on your character's hours. 
+
+Each color dragon gets their own BREATH spell. EXAMPLE: A red dragon will 
+get fire breath.
+~ 
+
+0 'RACE HELP'~ 
+
+Races available: 
+
+Human: 0 cp's; good at any class.
+Elf: 8 cp's; good thieves and mages.
+Troll: 6 cp's; good warriors and thieves, excellent regeneration
+Dwarf: 8 cp's; good warriors and clerics.
+Giant: 6 cp's; excellent warriors.
+Sliver: 12cp's; awesome in co-operation
+Gargoyle: 12cp's; good warrior-types
+Hatchling: 20cp's; excellent at any race, hard to play. 
+
+See help <race> for more info.
+~ 
+
+0 HATCHLING DRAGON~ 
+
+These are our special addition to the mud, and are very powerful in their
+own rights. When you choose the class Hatchling, you will be a small 
+dragon without the ability to fly, and are vulnerable to certain weapon 
+types. At level 10 a hatchling will turn into a random color dragon. When 
+this happens, the player will receive more skills and spells that only 
+their color may attain. 
+
+Dragons are the largest of all the races, ranging from 9 to 12 feet in 
+height. They are the most powerful of all the races, and are very durable. 
+The ability to make them fly at any given moment as well as special spells 
+make them rather hard to play, but are worth it in the long run. They 
+receive many skills and spell which make their starting creation points 
+(cps) seem rather minor. They take a serious player with a large amount of 
+time and effort. 
+
+Warning: With each color dragon there is a resistance spell and a 
+vulnerable spell. A red dragon is vulnerable to frost, and is resistant to 
+fire. The rest of the colors you must find out for yourself. 
+
+(20 creation points)
+~ 
+
+0 DWARF~ 
+
+Dwarves are short, stock demi-humans. Known for there foul temper, glowing 
+red eyes and great resistance to spells, they make a interesting character 
+to play. Dwarves have a high strength and constitution. Their poor 
+dexterity is well made up by their other resistances, such as disease and 
+poison. 
+
+(8 creation points)
+~ 
+
+0 HUMAN~ 
+
+Humans are the most common race in this world, and make up the majority of 
+the heroes. Although they have no special talents like the other races, 
+they are more versatile then any other race, and are well-suited for all 
+classes. They also get to train their primary stats higher then all others. 
+
+(0 creation points)
+~ 
+
+0 ELF~ 
+
+Elves are slightly taller then humans, but their body is much lighter, 
+making them more nimble and thus harder to hit. Their lack of strength
+and stamina are made up for by the ability to hide easily and their glowing
+red eyes. Elves have a strong hold over the power of magic and mind, due to
+their magical nature. Because of their excellent agility, they are 
+difficult to bash. 
+
+(8 creation points)
+~ 
+
+0 TROLL~ 
+
+Trolls are a medium-sized, stocky race thought to have been dwarves
+corrupted by the taint of chaos when the great magic first spread
+throughout the land. They possess a surprising strength for their
+average-shaped bodies, although they lack the strategic and long-range
+planning abilities of the other races. As part of their transformation,
+they have acquired an improved immune system, thus making them able to
+heal faster with regeneration, along with a resistance to foul disease. As
+a trade-off, however, fire disrupts their healing abilities. Trolls live 
+in tribes, and while the tribes have differences in the way of beliefs and
+customs, all tribes favor the axe as their totem weapon. 
+
+(6 creation points)
+~ 
+
+0 GARGOYLE~ 
+
+Gargoyles are a race of xenophobic, protective beings that hide away in
+the mountains on Dominia. Thought to be an offshoot of the same species
+that produced dragons, gargoyles are ferocious fighters, relying more on
+their powers and size than sneaking up on their prey. Gargoyles have a
+special kinship with the earth, as they can invoke the element to become
+living stone warriors. These large, clumsy but wise beings have a
+severe reliance on magic, giving them a weaker immune system than would be
+expected for one of their kind. A gargoyle's favored tactic is to dive
+from above on land-dwelling beings, slashing at them with long
+polearm-like weapons that they so heavily favor. 
+
+(12 creation points)
+~ 
+
+0 SLIVER~ 
+
+Slivers are an insect like breed which likes to hunt in packs. Slivers are 
+appoximatly the same physical size as humans, but their mandibles extend to
+form long jagged arms that they flail at their opponents in hand to hand 
+combat. 
+
+(12 creation points) 
+
+Slivers come with hand to hand naturally, and when reaching level 10, mature
+into an adult sliver form. These forms give the sliver a specific ability 
+to be shared with its fellow slivers when grouped. The sliver doesn't 
+acquire its own ability, but acquires the ability of every other mature 
+sliver in its group. A mature sliver can randomly 'trade' his ability for
+for a different one at a trainer. The sliver abilities are as follows: 
+
+Vorlath Sliver Affects mana by +25
+Merlin Sliver Affects mana by +30
+Magical Sliver Affects mana by +50
+Samite Sliver Affects hit points by +25
+Pain Sliver Affects hit points by +30
+Muscle Sliver Affects hit points by +50
+Blunt Sliver Affects hitroll by +4
+Ying Sliver Affects hitroll by +6
+Enraged Sliver Affects hitroll by +8
+Jagged Sliver Affects damroll by +5
+Serrated Sliver Affects damroll by +7
+Savage Sliver Affects damroll by +8
+Aura Sliver Affects saves by -5
+Orim Sliver Affects saves by -7
+Shielded Sliver Affects saves by -10
+Robust Sliver Affects constitution by +2
+Invigorating Sliver Affects constitution by +3
+Anabolic Sliver Affects strength by +2
+Palpitating Sliver Affects strength by +3
+Agile Sliver Affects dexterity by +2
+Flex Sliver Affects dexterity by +3
+Knowledge Sliver Affects wisdom by +2
+Yang Sliver Affects wisdom by +3
+Elder Sliver Affects age by +60
+Ancient Sliver Affects age by +75 
+
+(see also 'help trade')
+~ 
+
+0 CLAN CLANS~ 
+
+A clan is a collection of players, united to follow and further a common
+cause. Each clan has rules and regulations that they must follow. These
+rules are enforced by the leader - for the most part. If for some reason 
+an immortal must interfere, that immortal must be a level 58+ or someone 
+with a 58+ permission. 
+
+To find out more about certain clans, and there beliefs, type 'help <clan 
+name>'. This should list their purpose and reason for existing. There are 
+five main clans that exist right now. They are JUSTICE, SEEKERS, KENSHI, 
+VENARI, and KINDRED. There may be more clans if some mortal or immortal 
+comes up with a reasonable idea and purpose. 
+
+Joining a clan is a dangerous step for anyone. Many players (pkillers) are 
+born to kill and torture other clanners. When in the pkilling system, you 
+may kill anyone except for non-clanned characters. Switching from one clan 
+to another is allowed. Remember that a clanner must have the received the 
+leader's or recruiter's permission to join. 
+
+Clan leaders are level 53, and recruiters are level 52. If you want your
+spells to be a little more powerful, then get involved in your clan. 
+
+In order for a clan mutiny to occur, one must contact a level 58+ for a
+legal mutiny to happen. If not, the mutiny will be consider illegal and
+non-official.  
+
+IMPORTANT: You cannot join the pkill system if you didn't decide to at 
+creation. 
+
+(Also see 'help loner' 'help mutiny')
+~ 
+
+10 MUTINY~ 
+
+In order for a clan mutiny to occur, one must contact a level 58+ for a
+legal mutiny to happen. If not, the mutiny will be consider illegal and
+non-official. The mutiny will follow these guidelines: 
+
+1. The current leader has to accept. If not, then the leadership is then
+given to the challenger, and the leader is then removed from the clan.
+If there is more than one leader, then one memeber of the leadership
+team must decide to face the challenge. 
+
+2. The mutiny will occur at the earliest possible date that can be arranged
+among the leader, the challenger, and a level 58+ IMM. (For example,
+a fight will not be postponed to permit a character time to gain levels.) 
+
+3. Once a mutiny has been declared all recruiting must be halted. The 
+challenger can not be removed from clan or killed and looted or stolen
+from by his/her clan mates.  Any clan mates who engage in such behavior
+will be lonered.
+
+4. If the challenger is a recruiter they will be allowed to retain their 
+position and level. If the challenger kills or attacks a clan member 
+he or she will be lonered and the mutiny will be called off (this does not 
+include participating in duels with clanmates who agreed to the duel or 
+killing a clanmate in an IMM run tourney). A challenger is expected to
+continue to abide by the rules of the clan at the time of the mutiny.  If
+they break clan rules will be put in 1212 until the mutiny is held.
+
+5. If the current leader does accept the two will duel. If the challenger 
+loses s/he will be deleted. If the the challenger wins then the leader
+or leadership team will be lonered and the challenger will become leader. 
+
+6. The leader may appoint someone from the clan to fight for her/him,
+if the appointee agrees. If the challenger loses s/he must delete,
+if the appointee loses the leader must leave the clan and the challenger
+becomes leader. An appointee must have been a member of the clan at the
+time when the mutiny was declared. 
+
+7. A duel is a one-on-one fight, involving no wands, staffs, scrolls, 
+potions, throwing objects, or pills (besides for spelling up before the 
+fight). The only charmies allowed are troll arms/legs since the player 
+can not control the making of those. The fight will be held in a safe room 
+and the loser will get his/her corpse back. No looting will be allowed. 
+
+8. No outside interference will be allowed during the mutiny (ie no one 
+from outside the 2 person fight can cast voodoo on one of the fighting
+players, etc.).  In addition, no one can be grouped with a player in a
+mutiny fight. Anyone players engaged in such activity will be frozen or
+punished in a similarly harsh manner.
+ 
+9. Both the challenger and the leader will be cancelled prior to the fight
+after this all spells have been removed, they will be restored and 
+allowed to spell up with whatever means they have avalible, such as
+potions and wands. They will NOT be allowed to worship before a fight.
+Anyone in a mutiny fight caught with a worship spell on them will be
+automatically disqualified.  Once they have spelled up, the players will 
+be restored and the fight will commence. 
+
+9. The fight must start within 10 seconds of the imm saying go. If you 
+are the cause of the delay, you will be found in default, and judged the 
+loser, lag is the only exception to this. No room affects may be in effect 
+at the start of the fight. The fight may be stopped through the use of 
+various of skills, however, it must be underway again in due time, which 
+is no greater than 2 ticks. The imm will provide warnings before the person 
+who stopped the fight is declaredthe loser. 
+
+10. Anything not explicitly disallowed is allowed, any "questionable" things 
+which have been forgotten here should be taken up with the immortal running 
+the mutiny.  
+
+11. Once a successful mutiny occurs, the new leader will have 24 hours to
+make changes in clan membership. During this period another mutiny can
+not be called. 
+
+(also see 'help clan')
+~ 
+
+0 PEEK~ 
+
+Syntax: Peek <character> 
+
+Peek is very similar to the ability of look, but with this skill you may 
+look at someone's inventory. Only rogues can peek inside a person's 
+containers. There is a slight chance that you may be caught when peeking at 
+them. 
+~ 
+
+0 CHARTER FERRY~ 
+
+Syntax: charter 
+
+Getting to the other continent would be a hassle if it werent't for the 
+ferries that run. You can charter the ferry for a small amount of gold.
+When you charter, you are immediately transported onto the ferry, where
+you will spend a few (game) hours, until you come to the next continent.
+You must be at a ferrymaster in order to charter the ferry, and you have
+to be at the ferrymaster at the correct times. See your local ferrymaster
+for details.
+~ 
+
+0 LORE~ 
+
+Syntax: lore <object> 
+
+Lore is a separate skill from look. Sometimes you may wish to look at
+items, and sometimes you may just want to lore it. Lore tells you a lot
+of information about an object that looking at it does not reveal. This 
+does the same thing as the identification spell, but costs no mana.
+~ 
+
+0 TOWN HOMES GUILDS TOWNHOMES~ 
+
+Town homes are available to anyone. Only non-clanners may obtain a
+private room in their home. A non-clanner's private room will allow only
+the owner and his/her spouse (spouse must also be a non-clanner)entry.
+A non-clanner's home can be a combination of public and private rooms.
+Clan members (including loners) may also purchase a home. All rooms in
+the clanner's home will be public rooms. 
+
+The option of upgrading mana or hp regen rates is available only to
+non-clanners. Before upgrading the hp or mana regen rates in a room, the
+room must be private. Homes will all be _no mob_ (meaning you cannot 
+bring or summon a mob into your home). Homes will not have a _no where_ 
+flag. If you are home, people will know it. 
+
+All town homes will be located in Stoneridge on the continent of Terra. 
+
+Guilds may buy a 2-room vacation home in Shandalar (only after purchasing
+a guild in Stoneridge). 
+
+Price List: 
+
+3-room public home...................................100000
+Converting a room to private (non-clanners only)......25000 
+Remodeling............................................20000
+Additional room.......................................30000
+Fountain (only water or lemonade)......................5000
+Furniture.............................................10000
++10% hp upgrade (non-clanners only)...................25000
++10% mana upgrade (non-clanners only).................25000
+Additional Guild members...............................5000
+Shopkeeper (non-clanner only)........................200000
+Shopkeeper price cuts................................100000
+ per 10%, max 150% (start at 200%)   
+Add an item to store (max 10 items)...............item cost 
+ * 1000, round to nearest hundred. All items will at least 
+ cost 1,000 gold
+Vacation Home (guild only)...........................150000
+~  
+
+0 Fellowship Guild~
+
+At first there were two, a gigantic warrior and an elven conjurer. Itay was
+the name of the warrior, as quick with his tounge as he is with his sword.
+The elf was Karmon, an impatient conjurer who was known for his hot temper,
+and deadly crushing hand.
+ 
+They have roamed to lands of Terra and Dominia in search for adventure, but
+monsters and princesses were not they only things they have found, they have
+gained something more vaulable than gold and jewels, more important than
+royal blood - They have gained friends.
+ 
+The first one was Mooshi, a happy white dragon who loved nature, and with his
+skills and magic could do wonderful things. The second was Karon, a second
+conjurer who has studied the art of sorcery.
+ 
+As time passes, many friends were gained, Itay has attained the rank of a Lord
+that was given to him by Avacar himself, Valocar of Palankcaren. Karmon became
+a Duke after he had given up his immortality, and gained much strength. The two
+decided they must find a place to rest, both were tired and old, and wanted no
+more than rest (and sexual pleasures, but that is not available on this land).
+ 
+So the two have built up a mighty mansion and summoned all their friends.
+They are now known as The Fellowship, a group of dedicated mates with no
+
+leader. A team who is mighty for friendship, and not because of weapons.
+The Mansion still has many rooms unoccupied, waiting for the new mates
+to arrive and house it.
+ 
+The Rules:
+ 
+1) A member of the Fellowship is his own master. He may choose his own
+   policy regarding helping any indevidual, and for which price - this
+   is the not of the Fellowship's concerns should one decideds not to
+   be helpful.
+ 
+2) Rule 1 applies to members of the Fellowship themselves. One member
+   is not required to help another. Help will usually be handed, as
+   all members are friends and close ones.
+ 
+3) In order to be accepted, one must be recognized by Either the Lord
+   ord the Duke as a friend. Friendship does not start in a note, but
+   in assistance and trust. Therefore no one can join the Fellowship
+   instantly - it is a long and hard journy to be favored in the eyes
+   of the Duke and Lord.
+ 
+4) In order to be accepted, 5,000 gold are not enough. Maintence of the
+   mansion is quite expensive, and so the fee is set by either the Duke
+   or the Lord
+ 
+5) If these rules seem very difficult, you are right ;)
+ 
+The Lord and Duke.
+
+Contact Mooshi or Karmon if you want to join this guild.
+~
+
+0 'MSP SOUND' SOUND~ 
+
+Syntax: sound 
+
+Toggles Mud Sound Protocol (MSP) sounds on or off. The mud is full of MSP 
+triggers that will generate fun sounds at different intervals. You need to 
+download the Redemption sound pack first which can be found at our web page: 
+
+http://members.xoom.com/delstar 
+
+You also need an MSP compliant MUD client such as ZMud, which is also
+available from our web page.
+~  
+
+56 LAG~ 
+
+Syntax: lag <character> 
+
+This is a very interesting way of punishing those who disobey the laws of 
+the Immortals. In essence their movements take twice the time as normal if 
+they were to do any actions. For example: A spell takes twice as long to 
+cast. This is especially effective for those who hate lag in general... 
+which is just about everyone.
+~ 
+
+60 VIOLATE~ 
+
+Syntax: violate <character> 
+
+This level 60 command allows IMPs to enter private rooms. Please use it
+sensibly.
+~ 
+
+0 'WEB PAGE' 'WWW PAGE' WEB WWW SITE~ 
+
+The official Redemption Web Site is located at: http://www.redemptionmud.com/ 
+
+You can mail any questions about the site to daisy@redmpetionmud.com
+~ 
+
+54 OLC~ 
+
+ON LINE CREATION: 
+
+This is a powerful tool that allows 54+ immortals to create areas online. 
+
+(see also 'help edit')
+~ 
+
+0 DOMINIA~ 
+
+According to legend, Selina and Bosco were made from the same flesh. Bosco 
+was given control of the Western half of the world and Selina ruled the 
+Eastern half. A great body of water separated these lands and allowed Bosco
+and Selina to develop their empires without interference. 
+
+On Dominia Selina's power created a colony of man-like insects. These 
+beings, which she named Slivers, paid homage to her and grew strong and 
+prosperous. While on Terra, Bosco's generous nature spawned a race of 
+dragons whose fierce and powerful skills refused to be contained. 
+
+Eventually the dragon race learned of the Eastern continent and vowed to 
+rule it. They invaded Dominia to ravage and destroy the inhabitants and 
+gain power over the land. After many bloody victories, it appeared the 
+dragons would dominate the lives of Selina's followers, killing those who 
+would not obey their laws. 
+
+Selina despaired, for she did not have enough power to defeat the dragon 
+horde alone. It was then she was joined by Gargnath, a mighty troll wizard,
+and Lawrygould, the King of Dominia. Together they constructed a great wall
+around the coastal city of Shandalar from within which they could repel the
+invaders.  
+
+Guided by the wisdom of Gargnath and the intelligence of Lawrygould, Selina 
+used her magic to unite the trolls and the slivers into a mighty army. 
+Through great effort, such as few have ever seen before, the army of Dominia
+routed the Dragon horde from their continent. They killed the most ruthless
+and left only a small group of dragons to limp defeated back across the sea. 
+
+The battle cost Selina much energy and weakened her substantially. She was 
+laid to rest in a crypt only to be disturbed if Dominia was ever again 
+threatened by the rule of Dragons. The trolls returned to their forest 
+village and the slivers again prospered. The resulting peace lasted for 
+decades. 
+
+Unfortunately, efforts are now being made by many races to re-establish 
+contact between the continents. King Lawrygould, fearing another invasion, 
+hired the remains of the clan Pragmati to live on his shores and dedicate 
+themselves to slaying Dragons. 
+
+"Soon the Dragons will return, and if we are not prepared we will be at 
+their mercy! Non-Dragons Unite! Throw off the chains of oppression! They 
+are numerous and our strong are too few. We must focus our efforts on their
+destruction, or face our own." -- King Lawrygould at the establishment of 
+Clan Venari. 
+
+Not all the inhabitants agree, however. Some feel that the reconnecting of 
+the continents will be the long sought opportunity to make amends for 
+ancient wrongs. These people, of both worlds, want trade and prosperity for
+all. 
+
+(see also 'help story')
+~ 
+
+0 APPRAISE~ 
+
+Red dragons like nothing so much as treasure, and are notorious for
+collecting huge hoards. With the appraise skill a red dragon can
+increase the value of item at the risk of destroying it. 
+
+Some items may not be able to be appraised. 
+
+syntax: appraise <item>
+~ 
+
+0 DARKNESS~ 
+
+Black dragons are able to use their magic to summon a cloud of total
+darkness over a room. This darkness will overwhelm any known light
+sources and even infravision will not help. Only creatures with dark
+vision will be able to function normally within this cloud. All
+creatures in the room will be stricken effectively blind as long as
+they stay in the room. 
+
+syntax: cast 'darkness'
+~ 
+
+0 LAIR~ 
+
+Blue dragons are extremely self-reliant, rarely needing to visit the
+confines of civilization. During their travels they may take up a
+lair. The dragon may only have one lair at a time, but while within
+their lair the blue dragon will be hard to find and enjoy a small
+increase in the healing rate. 
+
+syntax: lair
+~ 
+
+0 KARMA~ 
+
+White dragons are extremely lucky creatures and are able to bestow this
+luck upon others as well. The nature of this power is still not fully
+understood, but white dragons will find they pay for raising the
+luck of others with a piece their own strength. 
+
+syntax: cast 'karma' <victim>
+~ 
+
+0 PYROTECHNICS~ 
+
+This spell creates a burst of flame at the feet of the
+victim, burning them severely. This spell is
+especially painful to those who are weak to fire! 
+
+syntax: cast 'pyrotechnics' <victim>
+~ 
+
+0 CLOUDKILL~ 
+
+Green dragons are able to emit a highly caustic gas which can make a room
+so toxic anyone who breathes it for long will suffer painful lung damage
+and a nausea which inhibits their fighting skills. Long term exposure
+brings with it a chance of being poisoned. 
+
+syntax: cast 'cloudkill'
+~ 
+
+0 STORY~ 
+
+In a simpler time, the citizens of Midgaard and the immortals of Valhalla
+lived in peace under the benevolent rule of Bosco. A kind and fair leader,
+he was beloved by all his subjects. During Bosco's reign he had 5 children,
+each of them very different. First there was Taelisan, who was withdrawn, 
+hard, cold and calculating; next was Carnas, who lusted for total control of
+everything; then there was Bhaal, an indivdualist who sought his own path; 
+next was Gabriel, who strove for goodness in all he did; the youngest was 
+Chain, who sought to level all hierarchy. As Bosco grew old and weak, his 
+children began to fight among themselves for the leadership of Terra. Not 
+content to just wreak the heavens their squabbles, the children began to 
+recruit mortals to back their claims. 
+
+Eventually, the golden doors of Valhalla were forced open and chaos spilled 
+across the region. Soon the streets of Midgaard were stained with blood. 
+Using the last of his strength, Bosco stripped his children of most of their
+powers and banished them and their followers from Midgaard. Those faithful 
+mortals who had scorned the violence and refused to take sides mourned the 
+loss of Bosco. These steadfast souls called on immortals from another realm
+to restore order to their land. Answering the call came Delstar, Maclav, 
+Daisy, and Gothic who pledged to uphold the ideals of Bosco and bring 
+redemption to Terra. 
+
+However, order was not easily restored and the first victim of the chaos was
+the great immortal Gothic, who fell from the heavens and was lost to the 
+world. The next to be claimed was Taelisan, who found himself tottering on 
+the edge on insanity and surrounded by the memories of his dead father. He 
+passed down leadership of Pragmati and retreated from the cares of the land.
+Then the garden of Eden was surrounded by darkness and overthrown by the 
+strength of a clan of Kindreds. Most recently, the clan of Eclipse fell by
+the wayside because of weak leadership and a new clan by the name of Harpers
+has arisen. 
+
+A new danger now threatens the shores of Terra. A continent named Dominia
+has been rediscovered across the Dragon Sea. Not only do the inhabitants of
+Dominia scorn the name of Bosco, but they also despise his most favored 
+race-- the dragon. They have recruited the remains of the Pragmati to live
+on their land and repel any invaders.  
+
+To be continued.... 
+
+(see also 'help Dominia')
+~  
+
+0 'TRUE SIGHT'~ 
+
+Syntax: cast 'true sight' 
+
+This spell enhances a persons ability to see those who may wish to hide
+themselves by either magic or mundane means, allowing the caster to see 
+through their concealment. 
+
+This skill is for reclasses only.
+Learned by:
+Diviner
+~ 
+ 
+
+0 $~ 
+
+#$ 
+ 
+ 
+ 
+

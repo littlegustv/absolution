@@ -1,0 +1,2862 @@
+#AREADATA
+Name Slaver's Fortress~
+Builders Jaemas~
+VNUMs 24000 24199
+Credits [ ALL ]~
+Security 1
+Xcontinent 1
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#24000
+monkey~
+the monkey~
+A monkey swings carelessly through the branches.
+~
+The monkey is fully grown, and a 'tree brown' colour with a cream
+stomach.  Hair covers it's enitre body save for it's face, which has wide
+set eyes and a large protruding mouth.  The monkeys large round ears perk up
+as you aproach and it stares at you as though it is not sure how to treat
+someone who invades it's territory.  
+~
+human~
+ABG LQ 900 0
+25 2 5d10+550 1d1+99 2d10+7 clobber
+-7 -7 -7 -7
+FH a N CEF
+stand stand either 2000
+AGHMV ABCDEFGHIJKQ medium 0 the guilds~
+#24001
+gargoyle guard~
+a gargoyle guard~
+A gargoyle stands at his post looking tough.
+~
+A fierce looking gargoyle stands here.  He wears the colours of the keep,
+and his insignia shows him to be of a relatively high rank.  Wings spread
+out behind him, features set in stone, and feet cemented in place, he knows
+he was ade for combat, and enjoys his job; especially when things get rough.
+~
+gargoyle~
+ABG FJTVa 1000 0
+45 4 25d10+3000 1d1+99 8d4+16 slaughter
+-15 -15 -15 -15
+CEI 0 FG LQ
+stand stand male 4000
+AHMX ABCDEFGHIJKPQUV huge 0 the guilds~
+#24002
+Kirre guard~
+a kirre guard~
+A kirre guard is crouched here, watching the monitors.
+~
+A small feline is here doing it's job to the best of it's ability.  It's
+fur bristles with agitation at being stuck in this small room, with nothign
+to do but watch screens with pictures that never change.  
+~
+kirre~
+ABG J 900 0
+40 4 15d10+1850 1d1+99 4d8+13 claw
+-13 -13 -13 -13
+FH 0 J I
+stand stand none 4500
+AGHV ABCDEFGHIJKQ small 0 the guilds~
+#24003
+sliver guard~
+a sliver guard~
+A sliver is here, ready for action.
+~
+A Sliver stands by, listening for the first hint of battle so that it
+might aid it's comrads and bring glory to the hive.  The sliver looks to be
+taller than average, and slightly discolored; this may be the result of it's
+current line of work.  
+~
+sliver~
+ABG I 900 0
+40 4 15d10+1850 1d1+99 4d8+13 thrust
+-13 -13 -13 -13
+H 0 B K
+stand stand female 4000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#24004
+black smith~
+The smith~
+The smith is here, working on a new toy.
+~
+This well built dwarf knows his way about a weapon.  He's built like a
+fighter, but seems to prefer making the weapons than using them.  His face
+is stained with soot, and his coverall is drenched in sweat.  
+~
+dwarf~
+ABG J 900 0
+45 4 25d10+3000 1d1+99 8d4+16 thwack
+-15 -15 -15 -15
+H 0 LQ R
+stand stand male 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#24005
+dust mote~
+a dust mote~
+A dust moat floats by on a passing air current.
+~
+A bit of dust the cleaning staff managed to miss has developed a life of
+it's own.  Left to it's own deviced this dust mote has grown to the size of
+a small mammal.  It survives by eating mice, and small insects that wander
+the hallways.  
+~
+bat~
+ABG TZ 900 0
+30 3 5d5+700 1d1+99 4d6+8 magic
+-9 -9 -9 -9
+FH 0 CP FSa
+stand stand none 500
+AGV ACDEFHJKP medium 0 the guilds~
+#24006
+servant elf slave~
+a servant~
+An elvish servant is waiting to cater to your every need.
+~
+The tall, slim elf is dressed in slightly less than decent clothing.  It
+has a small tattoo on it's shoulder; a serial number.  Maybe this servant
+was more bought, and aquired.  
+~
+elf~
+ABG IJd 950 0
+25 2 5d10+550 1d1+99 2d10+7 none
+-7 -7 -7 -7
+D 0 BLQ RZ
+stand stand none 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#24007
+head cook man~
+the head cook~
+A large man stands here in a cook's appron.
+~
+The large cook is busy preparing for the next meal.  His apron pouches
+full of his tools of the trade, and smudged where he has wiped his hands. 
+He wears a ferral grin, and shouts orders to the kitchen boys.  
+~
+gargoyle~
+ABG JTVa 950 0
+35 3 10d10+1300 1d1+99 4d7+11 punch
+-11 -11 -11 -11
+CEFI 0 0 LQ
+stand stand male 4000
+AHMX ABCDEFGHIJKPQUV huge 0 the guilds~
+#24008
+skilled doctor healer~
+A skilled doctor~
+A doctor trained in the healing arts stands here.
+~
+The doctor looks apraisingly at you, nods to himself and decides you are capable or caring for yourself; if not, you would have asked for his help would you not?
+#
+ 
+~
+human~
+ABa 0 1000 0
+51 5 50d10+5000 1d1+99 5d8+20 none
+-21 -21 -21 -21
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#24045
+large wolf~
+A grey wolf~
+A young grey wolf is here looking for it's next meal.
+~
+This wolf is young, but knows it's way around the forest.  Upon noticing
+you it bears it's teeth and snarls, causing it's grey fur to shiver as the
+entirity of it's lithe body tenses 
+
+~
+dog~
+ABG 0 800 0
+20 2 3d9+333 1d1+99 2d8+5 chew
+-4 -4 -4 -4
+DH 0 IQSb F
+stand stand either 500
+AGV ACDEFHJKUV medium 0 the guilds~
+#24046
+Small Fox~
+A Small fox~
+A dull orange fox is here trying not to be seen.
+~
+A rather small adult fox, is shaded orange and brown with the tip of it's
+tail a deep black.  It looks as though this animal has had no trouble
+finding enough food to eat, though it has a few rough patches left from it's
+last skirmish.  
+~
+dog~
+AG IPQ 800 0
+18 1 3d9+283 1d1+99 2d7+4 none
+-3 -3 -3 -3
+H 0 0 F
+stand stand female 1000
+AGV ACDEFHJKUV medium 0 the guilds~
+#24047
+young treant~
+a viscious young treant~
+A young treant stands tall, keeping evil at bay.
+~
+The treants bark is sturdy, well colored, and solid, giving off the
+impressing that it is just another tree.  It's camoflage is prefect.  It's
+eyes slowly open as you approach, breaking the continuity of it's smooth
+face, and it's roots unplant themselves; preparing to defend it's home.  
+~
+tree~
+ABFG JVa 1000 0
+35 3 10d10+1300 1d1+99 4d7+11 entangle
+-11 -11 -11 -11
+ACFH B I H
+stand stand none 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#24048
+old hermit man~
+old hermit~
+An old man is here enjoying his alone time.
+~
+The man looks as though he has spent most of his life in the wilderness. 
+His clothing is homespun, worn, but sufficient.  His face unshaven for many
+the days, now sporting a bristly brown beard to match the shag of tangled
+hair atop his head.  
+~
+human~
+ABG 0 700 0
+45 4 25d10+3000 1d1+99 8d4+16 none
+-15 -15 -15 -15
+BCDEFIK a E I
+sit sit male 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#24049
+Gate Keeper Guard~
+the gate keeper~
+A guard stands here, keeping the gate safe from attack.
+~
+A small man stands here at his post, guarding the gate.  It seems he is
+perfectly alert, and ready for battle, but he's simply mastered the art of
+sleeping on his feet.  He wears a hard leather armor which seems to offer
+litle protection.  
+~
+dwarf~
+ABG IJa 900 0
+30 3 6d12+853 1d1+99 4d6+8 none
+-9 -9 -9 -9
+C 0 LQ R
+stand stand none 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#24199
+snail~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 1 1d1+1 1d1+99 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#24000
+I Tooth~
+An I-tooth~
+A wolfs I-tooth lies in the dirt seeking blood.~
+bone~
+weapon 0 AN
+dagger 3 3 pierce 0
+10 10 800 P
+A
+18 1  
+#24001
+wand stick broken~
+a broken stick~
+A stick has been broken and left here.~
+wood~
+wand ABG AO
+30 3 3 'build fire' 0
+20 10 1000 P
+#24002
+old well fountain~
+an old well~
+An old well stands tall, ready to quench your thirst.~
+wood~
+fountain 0 P
+100 100 'water' 0 0
+0 0 0 P
+#24003
+killer polearm~
+a killer's pole~
+A long pole made of bone lies discarded, on the ground.~
+bone~
+weapon CLS AN
+polearm 3 6 clobber E
+30 50 8000 P
+#24004
+telepathic psychic wave~
+a telepathic wave~
+Desc A wave of psychic energy shimmers nearby~
+air~
+throwing CFS AO
+4 5 divine 30 'psychic crush'
+25 5 2000 P
+#24005
+thin bracer~
+a thin bracer~
+A feeble looking bracer has been dropped in the dirt.~
+shell~
+armor ABM AM
+1 2 5 4 0
+23 20 500 P
+A
+20 -1  
+#24006
+large brass key~
+A large brass key~
+An aging brass key lays in the dust.~
+brass~
+key B AO
+0 0 0 0 0
+0 15 200 P
+#24007
+piece of bark~
+A piece of bark~
+A rough brown piece of bark lies on the ground~
+wood~
+pill A A
+20 'bark skin' 'mirror image' 'animal growth' 'reserved'
+0 1 2000 P
+#24008
+well~
+an old well~
+An ancient stone well.~
+flint~
+fountain 0 0
+500 0 'water' 0 0
+0 0 0 P
+#24195
+Jaemas' uber pill~
+Jaemas's uber pill~
+An amazingly extravagant uber amazing pill is waiting for jaemas' mouth~
+wood~
+pill 0 A
+60 'detect invis' 'quill armor' 'leaf shield' 'animal skins'
+54 0 0 P
+#24196
+jaemas bow launcher~
+{BJaemas' {RPower {YSlinger{Q~
+A device for slinging power has been left here~
+ad~
+weapon 0 AN
+ranged 50 50 divine X
+10
+54 0 0 P
+#24197
+jaemas exploding powder~
+{BJaemas' {RExploding {YPower{Q~
+An aura of great, unstable power has been left here.~
+air~
+ammunition ABIOSTUYe AO
+50 50 none 0 'hell blades'
+54 100000 0 P
+A
+13 20000  
+A
+17 -500  
+A
+18 1000  
+A
+19 1000  
+#24198
+Jaemas torture device chamber~
+{BJaemas' {ydevice{Q of {Rextreme {DTorture{Q~
+A {Rdangerous{Q looking {ydevice {Bradiates{D doom{R!{D!{R!{Q~
+adamantit~
+weapon AB AN
+exotic 50 50 smite ABDEMQSTX
+54 0 0 P
+A
+18 100  
+A
+19 100  
+A
+9 5000  
+A
+20 -100  
+A
+33 50  
+#24199
+jaemas love gem~
+{BJaemas' {Rlove {Qfor {Mhimself{Y!{G!{Y!{Q~
+Jaemas seems to have left his love for himself behind.~
+adamanti~
+gem 0 AO
+0 0 0 0 0
+54 0 99999999 P
+A
+19 999  
+A
+18 999  
+A
+17 -200  
+A
+17 -200  
+#0
+
+
+
+#ROOMS
+#24000
+The Forest~
+Here amidst the trees in the forest of nobels old, there is a green magic
+about; it hovers harmlessly above your head, your breath it's scentless
+power, and it ungulfs you.  
+
+~
+0 524288 3
+D0
+~
+~
+0 0 24003
+D1
+~
+~
+0 0 24002
+D2
+~
+~
+0 0 24001
+D3
+~
+~
+0 0 24002
+S
+#24001
+A Concealed Entrance~
+The canopy above casts shallow shadows everywhere, giving all within
+sight a subtle green tint.  The trees let their leaves rustle softly in the
+gentle breeze, each trunk equidistant from the next, save one to the south. 
+Upon closer examination this anomaly proves to be the entrance to a hidden
+path.  
+~
+0 0 3
+D0
+~
+~
+0 0 24000
+D2
+~
+tree~
+1 0 24005
+S
+#24002
+The Forest~
+Here amidst the trees in the forest of nobels old, there is a green magic
+about; it hovers harmlessly above your head, your breath it's scentless
+power, and it ungulfs you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 24003
+D1
+~
+~
+0 0 24000
+D2
+~
+~
+0 0 24003
+D3
+~
+~
+0 0 24000
+S
+#24003
+The Forest~
+Here amidst the trees in the forest of nobels old, there is a green magic
+about; it hovers harmlessly above your head, your breath it's scentless
+power, and it ungulfs you.  
+~
+0 524288 0
+D0
+~
+~
+0 0 24002
+D1
+~
+~
+0 0 24004
+D2
+~
+~
+0 0 24003
+D3
+~
+~
+0 0 24004
+S
+#24004
+The Forest~
+Here amidst the trees in the forest of nobels old, there is a green magic
+about; it hovers harmlessly above your head, your breath it's scentless
+power, and it ungulfs you.  
+~
+0 524288 3
+D0
+~
+~
+0 0 24000
+D1
+~
+~
+0 0 24003
+D2
+~
+~
+0 0 24002
+D3
+~
+~
+0 0 24003
+S
+#24005
+The Path~
+Stepping through the false tree, you end up on an unkempt dirt path. 
+Plants are slowly reclaiming this place as their own, though the most
+trauden part of the path still remains bare.  
+~
+0 0 3
+D0
+~
+~
+1 0 24001
+D1
+~
+~
+0 0 24012
+D2
+~
+~
+0 0 24008
+D3
+~
+~
+0 0 24006
+S
+#24006
+The Path~
+This part of the path seems to be used less than it's extention to the
+east.  It is in a great state of disrepair, and completely overgrown.  
+~
+0 0 3
+D1
+~
+~
+0 0 24005
+D3
+~
+~
+0 0 24007
+S
+#24007
+A Dead End~
+The forest has not only reclaimed this part of what was once a path, but
+it has completely eradicated all signs that there had once been a path.  A
+wall of intertwined treetrunks rises to the west, blocking all travel in
+that direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 24006
+S
+#24008
+A Short Trail~
+A small trail that extends to the south of the main path.  To walk you
+must force your way through the brush, it seems obvious that this was never
+ment to be a main path.  
+~
+0 0 3
+D0
+~
+~
+0 0 24005
+D2
+~
+~
+0 0 24009
+S
+#24009
+A Corner In The Trail~
+The trail abruptly changes direction, towards the west, as it meets the
+trunk of a wisened old tree.  
+~
+0 0 3
+D0
+~
+~
+0 0 24008
+D3
+~
+~
+0 0 24010
+S
+#24010
+On A Narrow Trail~
+Bushes and shrubbery on all sides, seems to dictate the direction of
+travel.  It looks as if the thing that made this trail continued north: you
+can hear odd sounds coming from that direction 
+~
+0 0 3
+D0
+~
+~
+0 0 24011
+D1
+~
+~
+0 0 24009
+S
+#24011
+Lost!!~
+The green and brown shades of forest mingle amongst themselves creating
+illustrous images; the trees seem to reange themselves randonly.  As
+everything stills and the colors unblend, you realise that you are trapped
+within a circle of trees with no way out 
+ 
+~
+0 4 3
+S
+#24012
+The Path~
+This is a small, old dirt path leading through the woods.  There are few
+clues as too who made the path, though it seems all who use it are careful
+to cover their tracks.  
+~
+0 0 3
+D1
+~
+~
+0 0 24013
+D3
+~
+~
+0 0 24005
+S
+#24013
+The Path~
+This is a small, old dirt path leading through the woods.  There are few
+clues as too who made the path, though it seems all who use it are careful
+to cover their tracks.  
+~
+0 0 0
+D1
+~
+~
+0 0 24014
+D3
+~
+~
+0 0 24012
+S
+#24014
+The Path~
+The path shows signs of recent, yet stealthy, travel to the south; a few
+snapped twigs and an uncovered footprint.  The path also continues eastward,
+gazing intently you can see it comes to an end in that direction 
+~
+0 0 3
+D1
+~
+~
+0 0 24015
+D2
+~
+~
+0 0 24017
+D3
+~
+~
+0 0 24013
+S
+#24015
+The Path~
+This part of the path seems to be used less than it's extention to the
+west.  It is in a great state of disrepair, and completely overgrown.  
+~
+0 0 3
+D1
+~
+~
+0 0 24016
+D3
+~
+~
+0 0 24014
+S
+#24016
+Dead End~
+The forest has not only reclaimed this part of what was once a path, but
+it has completely eradicated all signs that there had once been a path.  A
+wall of intertwined treetrunks rises to the east, blocking all travel in
+that direction.
+~
+0 0 3
+D3
+~
+~
+0 0 24015
+S
+#24017
+The Path~
+The path no longer looks as it's east-west counterpart did, the foliage
+is kept comletely at bay, and it looks as though it was frequently travelled
+not to long ago.  
+~
+0 0 3
+D0
+~
+~
+0 0 24014
+D1
+~
+~
+0 0 24021
+D2
+~
+~
+0 0 24020
+D3
+~
+~
+0 0 24018
+S
+#24018
+An Old Campsite~
+The remains of a tent blow in the wind, and there lie about rocks,
+scattered from an old circle made for sitting.  The fire has gone out, and
+no one is here, but the magic of old stories can still be felt in the air.  
+~
+0 0 3
+D1
+~
+~
+0 0 24017
+D2
+~
+~
+0 0 24019
+S
+#24019
+An Old Fire Pit~
+Smoke still rises from this vast charred area in the forest.  There are
+the remains of bonfires scattered about, maybe one of them started the
+blaze.  
+~
+0 0 8
+D0
+~
+~
+0 0 24018
+D1
+~
+~
+0 0 24020
+S
+#24020
+The Checkpoint~
+The remnants of a stone building lie here.  Upon further investigation
+you find signs that the ruin was recently used, 
+~
+0 0 0
+D0
+~
+~
+0 0 24017
+D1
+~
+~
+0 0 24024
+D2
+~
+~
+0 0 24026
+D3
+~
+~
+0 0 24019
+S
+#24021
+A Big Tree~
+A massive tree stands in the middle of what once would have been a
+clearing.  The kind of tree no monkey can resist; tall, strong, wide, and
+promissing to hold secrets within it's branches.  
+~
+0 0 3
+D3
+~
+~
+0 0 24017
+D4
+~
+~
+0 0 24022
+S
+#24022
+In The Branches~
+Above the ground by nearly 200 feet, you now tower over the rest of the
+forest, and you still have yet to reach the top!  There is a sturdy branch
+holding your weight, any many more hover above your head, beckoning you
+upward.  
+~
+0 0 3
+D4
+~
+~
+0 0 24023
+D5
+~
+~
+0 0 24021
+S
+#24023
+Atop The Tree~
+A broad platform spans the width of the tree, at the top of the branches,
+with a hole in it's center to allow people to gain acces.  In the distance
+to the south, can be seen a large fortress, with a winding road leading to
+it.  
+~
+0 0 3
+D5
+~
+~
+0 0 24022
+S
+#24024
+The Woods~
+This place has been completely reclaimed by wilderness.  The
+trees here are a darker shade than those in the rest of the forest, and
+radiat a deep purple aura.  To the east, the aura grows thicker, and the
+forest gets darker. 
+~
+0 0 3
+D1
+~
+~
+1 0 24025
+D3
+~
+~
+0 0 24020
+S
+#24025
+Trapped By Vines!~
+The dark aura surrounds you and the trees themselves make an attempt on
+your life!  
+~
+0 0 3
+D3
+~
+~
+1 0 24024
+S
+#24026
+An Old Road~
+For somethign so old, the road is in fairly good condition.  It was paved
+with ancient materials, and has developed small ruts where beings commonly
+walk.  
+~
+0 0 2
+D0
+~
+~
+0 0 24020
+D1
+~
+~
+0 0 24027
+D3
+~
+~
+0 0 24029
+S
+#24027
+Predating The Road~
+The paved part of the road ends, giving way to a narrow dirt path.  The
+ground is packed tightly, as though it were trod heavily and often.  
+~
+0 0 2
+D1
+~
+~
+0 0 24028
+D3
+~
+~
+0 0 24026
+S
+#24028
+An Old Well~
+The path terminates, having lead to a decrepit old well.  The well's
+foundation is made of stone, and two sturdy looking boards support a crank
+mechanism used for raising and lowering a bucket.  
+~
+0 0 2
+D3
+~
+~
+0 0 24027
+S
+#24029
+An Old Road~
+For somethign so old, the road is in fairly good condition.  It was
+paved with ancient materials, and has developed small ruts where beings
+commonly walk.  Continueing to the west, the road leaves the forest.  
+~
+0 0 2
+D1
+~
+~
+0 0 24026
+D3
+~
+~
+0 0 24030
+S
+#24030
+A Curve In The Road~
+This part of the road seems to have regular maintenance, potholes have
+been filled and there is the ocassional sign 
+~
+0 0 2
+D1
+~
+~
+0 0 24029
+D2
+~
+~
+0 0 24031
+S
+#24031
+A Small Intersection~
+The road branches out to the east and west; it seems to continue to the
+west much farther than the east.  
+~
+0 0 2
+D0
+~
+~
+0 0 24030
+D1
+~
+~
+0 0 24035
+D3
+~
+~
+0 0 24032
+S
+#24032
+End Of The Road~
+The paving comes to an abrupt end, turning once again into a dirt path. 
+There are tree's to the north, vast wild fields to the west, south there
+lies an impoverished house.  
+~
+0 0 0
+D1
+~
+~
+0 0 24031
+D2
+~
+~
+0 0 24033
+S
+#24033
+In Fron Of The Shack~
+The small yard is overgrown with weeds, and the fencing about it's
+perimeter is slumped and fallen in many places; you can see a pile of old
+odds and ends discarded beside the old building.  
+~
+0 0 2
+D0
+~
+~
+0 0 24032
+D2
+~
+~
+0 0 24034
+S
+#24034
+In The Shack~
+The door for the shack lies on the floor a few feet from where it once
+kept out the weather.  The windows are broken, and water marks blemish the
+ceiling.  A bunch of garbage, as well as a sleeping pallet little the floor 
+~
+0 0 0
+D0
+~
+~
+0 0 24033
+S
+#24035
+The Southern Road~
+Just east of the intersection the road changes from paved to cobblestone.
+The stones look to have been skillfully placed and mortared together.  
+~
+0 0 2
+D1
+~
+~
+0 0 24036
+D3
+~
+~
+0 0 24031
+S
+#24036
+Along The Old Road~
+The terminus of the road!  The elaborate stonework comes to end end just
+to the east.  To the north lies the forest, cold and uninviting, south there
+is a cliff that seems unscaleable.  You can see a hill in the distance to
+the east, maybe it will give acces to the other side of this cliff 
+~
+0 0 0
+D1
+~
+~
+0 0 24037
+D3
+~
+~
+0 0 24035
+S
+#24037
+Base Of The Hill~
+The road to the west turns into a dirt path which quickly gives way to the grassy expanse at the base of a large hill.
+~
+0 0 4
+D3
+~
+~
+0 0 24036
+D4
+~
+~
+0 0 24038
+S
+#24038
+Atop The Hill~
+After climbing the hill, you can see above the forest, and notice it's
+not nearly as big as it had once seemed, though there is a gigantic tree in
+it's center.  Looking westward to where you just were, it turns out the
+'cliff' was Truly a cleverly disguised wall.  
+~
+0 0 4
+D1
+~
+~
+0 0 24039
+D5
+~
+~
+0 0 24037
+S
+#24039
+On The Hill Top~
+You're on the eastern part of the larg hills top, should you wish to go
+down, it may be easier to roll than walk, as the angle is quite steep.  
+~
+0 0 4
+D3
+~
+~
+0 0 24038
+D5
+~
+~
+0 0 24040
+S
+#24040
+Bottom Of The Hill~
+The hill towers above you, much like the spire of a tower you can see
+above a wall you can see to the south.  The wall surrounds a large fortress
+whose north-east perimiter is marked by this part of the wall.  
+~
+0 0 4
+D2
+~
+~
+0 0 24041
+D4
+~
+~
+0 0 24039
+S
+#24041
+Before The Wall~
+North of you there is a small mountain, and before you lies the giant stone wall of a fortress. The wall looks to have been skillfully crafted.
+ 
+~
+0 0 2
+D0
+~
+~
+0 0 24040
+D3
+~
+~
+0 0 24042
+S
+#24042
+Along The Wall~
+There is a large wall on either side of your possition, whoever built
+this fortress had security in mind as the wall to the north forces
+travellers to broach the hill before approaching the fortress.  
+~
+0 0 0
+D1
+~
+~
+0 0 24041
+D3
+~
+~
+0 0 24043
+S
+#24043
+The Grande Gate~
+The Fortress walls tower high on either side, with a massive iron gate
+standing solid, strong, and ready to repell invaders, before you.  
+~
+0 0 0
+D1
+~
+~
+0 0 24042
+D2
+~
+gate~
+3 24006 24044
+S
+#24044
+A Grande Entrance Hall~
+The gate having admitted you, stands menacingly to the north.  The
+entrance hall is luxurious, wide in it's expance, with a vaulted ceiling. 
+Many works of art line the grey stone walls.  A few feet above reach, there
+are short, wide windows displaying a beautific view of the cold sky.  
+~
+0 0 0
+D0
+~
+gate~
+3 0 24043
+D2
+~
+~
+0 0 24050
+S
+#24045
+An Empty Hallway~
+It looks as though a servant just finished with this part of the hallway,
+the polish is still moist, and the walls all that much more luxurious
+because of it.  
+~
+0 0 0
+D0
+~
+~
+0 0 24081
+D2
+~
+~
+0 0 24046
+S
+#24046
+An Empty Hallway~
+For all the polish and buffing that has gone into this part of the
+hallway it is still not clean.  An smog pollutes your lungs, floating up
+from the south where a blacksmith, smiths weapons for the fortress guards 
+~
+0 0 0
+D0
+~
+~
+0 0 24045
+D2
+~
+~
+0 0 24047
+S
+#24047
+The Smithy~
+There is a thick smoke about the air.  Weapons hang on the walls, and lay
+on counters.  The kiln is hot, and there is a sword length piece of metal
+sticking out of it; awaiting the smiths attention 
+~
+0 0 0
+D0
+~
+~
+0 0 24046
+S
+#24048
+Along The Passageway~
+The grime on the walls seems to be taking on a life of it's own; the
+farther you go into the servants only sections, the worse it seems to get. 
+A few of the overhead lights have burnt out, and need replacing.  
+~
+0 0 0
+D0
+~
+~
+0 0 24080
+D2
+~
+~
+0 0 24049
+S
+#24049
+In The Servant Passageway~
+There is a thick layer of glowing sludge lining the walls, it has yet to overtake most of the floor, but a thin layer of slime has settles along the side of the passage to aid the sludges take-over attempt.
+~
+0 0 0
+D0
+~
+~
+0 0 24048
+D2
+~
+~
+0 0 24083
+S
+#24050
+A Large Foyer~
+The Northern part of the foyer, is undistinguishable from the rest of the
+gigantic room, save for it's center where a gaurd stands keeping the peace. 
+The dark, stone wall extends far to the east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 24044
+D1
+~
+~
+0 0 24059
+D2
+~
+~
+0 0 24064
+D3
+~
+~
+0 0 24051
+S
+#24051
+A Large Foyer~
+The north-western corner of the foyer, is plain and unfurnished; the cool
+stone walls lending the only asthetics to the area.  The floor underfoot
+gives off an unatural resounating hollow thud as you step down on it.  
+~
+0 0 0
+D1
+~
+~
+0 0 24050
+D2
+~
+~
+0 0 24053
+D5
+~
+trapdoor~
+1 0 24052
+S
+#24052
+Center Of The Dungeon~
+The walls are earthen, and were you able to hear anything aside from the
+sound of pain and agony, you would hear muted footsteps above your head. 
+The lighting is poor, though enough to let you see all the torture devices
+around.  Rank, damp air lends the scent of death to the air, the thin layer
+of water about the floor seems tainted.  
+~
+0 0 0
+D0
+~
+~
+0 0 24065
+D1
+~
+~
+0 0 24066
+D2
+~
+~
+0 0 24068
+D3
+~
+~
+0 0 24067
+D4
+~
+~
+1 0 24051
+D5
+~
+trapdoor~
+1 0 24069
+S
+#24053
+A Large Foyer~
+The western expanse of the foyer, grants a good view of the guard
+standing on a small pedastle to the east; in the foyers center.  A small
+wooden door with a label bearing the words breaks the continuity of the
+western wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 24051
+D1
+~
+~
+0 0 24064
+D2
+~
+~
+0 0 24054
+D3
+~
+door~
+1 0 24060
+S
+#24054
+A Large Foyer~
+This part of the foyer has a safe feeling too it, though it could be the
+illusion created by the guard in the center of the room, and the door to
+your west with a small sign reading "guard room."  A luxurious stairway
+towers above you.  
+~
+0 0 0
+D0
+~
+~
+0 0 24053
+D1
+~
+~
+0 0 24055
+D2
+~
+~
+0 0 24056
+D3
+~
+door~
+1 0 24061
+D4
+~
+~
+0 0 24113
+S
+#24055
+A Large Foyer~
+The southern part of the foyer, is damp and grey.  The lighting is
+imperfect, provided by windows set high in the stone walls.  Water trickles
+down the stone wall creating a small pool on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 24064
+D1
+~
+~
+0 0 24057
+D3
+~
+~
+0 0 24054
+S
+#24056
+An Empty Hallway~
+The hallway is large and well kept, the stone walls have a radiant
+polished look, and the floor is perfectly smooth from excessive amounts of
+buffing.  There is a grande chamber to the north, and the hallways extends
+to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 24054
+D2
+~
+~
+0 0 24081
+S
+#24057
+A Large Foyer~
+The center of the foyer is north-west of here, leaving an impression that
+this is a subserviant part of the room.  Servant are busy moving to and fro,
+too the south.  A small door is set into the eastern wall, etched into it's
+surface are the words 'guard room.  ' 
+~
+0 0 0
+D0
+~
+~
+0 0 24058
+D1
+~
+door~
+1 0 24062
+D2
+~
+~
+0 0 24080
+D3
+~
+~
+0 0 24055
+S
+#24058
+A Large Foyer~
+This part of the foyer seems darker than the rest, whether it's because
+there is no window for light, or some other sinister plot, is unclear.  To
+the east is a guard's station.  
+~
+0 0 0
+D0
+~
+~
+0 0 24059
+D1
+~
+door~
+0 0 24063
+D2
+~
+~
+0 0 24057
+D3
+~
+~
+0 0 24064
+S
+#24059
+A Large Foyer~
+All about this large room is grey; the floor, the ceiling, and the walls.
+Water drips from the ceiling, pounding a steady rythm against the hard grey
+floor.  
+~
+0 0 0
+D2
+~
+~
+0 0 24058
+D3
+~
+~
+0 0 24050
+S
+#24060
+Guard Post~
+This is one of multiple places fortress guards are stationed at all
+times.  There is a small sofa, and television for entertainment and
+relaxation, in the room.  Old junk food wrappers litter the ground beside
+the couch 
+~
+0 0 0
+D1
+~
+~
+1 0 24053
+S
+#24061
+A Guards On-Duty Room~
+A desk sits in the corner of the room with a bank of monitors set up on
+top of it scrolling through views of the fortress: they're currently showing
+the royal suit, and dungeon.  
+~
+0 0 0
+D1
+~
+~
+1 0 24054
+S
+#24062
+Guards On-Duty Room~
+A desk sits in the corner of the room with a bank of monitors set up on
+top of it scrolling through views of the fortress: they're currently showing
+the infirmary, and slave quarters.  
+
+~
+0 0 0
+D3
+~
+~
+1 0 24057
+S
+#24063
+Guard Post~
+The room is extremely bright, lit a spot-light set into the wall opposit
+the door.  It is designed so that if someone stands beside, or sits bellow
+the light they cannot be seen; perfect for interogations.  
+~
+0 0 0
+D3
+~
+~
+0 0 24058
+S
+#24064
+Center Of The Foyer~
+At the center of the otherwise unremarkable chamber, stands a platform,
+intended for a guard to stand watch atop.  This structure is well built,
+using materials from the nearby forrest, as well as a minimal ammount of
+iron.  
+~
+0 0 0
+D0
+~
+~
+0 0 24050
+D1
+~
+~
+0 0 24058
+D2
+~
+~
+0 0 24055
+D3
+~
+~
+0 0 24053
+S
+#24065
+The Rack~
+This section of the dungeon is designated to the ancient art of incrasing
+ones height...  The painfull way.  Looking around, you can see a few people
+strapped into these decises begging for mercy.  
+~
+0 0 0
+D2
+~
+~
+0 0 24052
+S
+#24066
+Water Tortue~
+Drip.  Drip...  Drop.  Drip.  Drop...  Slowly falling water bored a hole
+in the center of a chair where a person being interogated would be strapped.
+The sound alone is enough to drive a man to the brink of insanity and back. 
+~
+0 0 0
+D3
+~
+~
+0 0 24052
+S
+#24067
+Bed Of Coals~
+This room is warmer, and dryer than the others.  Multiple tables are
+scattered around the room, all of them with a complex machine beneath then
+heating the surface to an unbearable tempurature: maybe they're used for
+cooking, but that is unlikely.  
+~
+0 0 0
+D1
+~
+~
+0 0 24052
+S
+#24068
+Iron Maiden~
+This room is much like the one to the north; dark, damp, cold, and
+uninviting.  Various sizes of boxes stand in this room, each fitted
+perfectly for a certain race, these boxes are designed to have sharp spikes
+slowly, one by one, forced into them; to kill victims slowly.  
+~
+0 0 0
+D0
+~
+~
+0 0 24052
+S
+#24069
+Hidden Stairway~
+The stairs seem to predate the fortress by a century or two: they're
+rickety and unsafe.  It's possible th emaster of the fortress doesn't know
+they exist, but someone does.  
+~
+0 0 0
+D4
+~
+~
+1 0 24052
+D5
+~
+~
+0 0 24070
+S
+#24070
+Beginning Of The Tunnel~
+You are in a small underground passageway, the ceiling is low, and the
+walls are not as far apart as they might be.  The ground is a soft packed
+soil, and the walls and ceiling are supported by boards.  You could still go
+back up the stairs, or you could venture forth through the tunnel.  
+~
+0 0 0
+D2
+~
+~
+0 0 24071
+D4
+~
+~
+0 0 24069
+S
+#24071
+A Long Dark Tunnel~
+You are in a small underground tunnel, the ceiling is low and the walls
+are not nearly far enough apart.  You can smell death on the air, the scent
+comes from the south 
+~
+0 0 0
+D0
+~
+~
+0 0 24070
+D2
+~
+~
+0 0 24072
+S
+#24072
+A Long Dark Tunnel~
+You are in a small underground tunnel, the ceiling is low and the walls
+are not nearly far enough apart.  You can smell death on the air, the scent
+comes from the south 
+~
+0 0 0
+D0
+~
+~
+0 0 24071
+D2
+~
+~
+0 0 24073
+S
+#24073
+A Corner In The Tunnel~
+The tunnel makes a gradual turn from north-south to east-west, widenning
+in the curve and then going back to it's unually narrow, low ceilings norm. 
+~
+0 0 0
+D0
+~
+~
+0 0 24072
+D1
+~
+~
+0 0 24074
+S
+#24074
+A Long Dark Tunnel~
+You are in a small underground tunnel, the ceiling is low and the walls
+are not nearly far enough apart.  You can smell death on the air, the scent
+comes from the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 24075
+D3
+~
+~
+0 0 24073
+S
+#24075
+A Long Dark Tunnel~
+You are in a small underground tunnel, the ceiling is low and the walls
+are not nearly far enough apart.  You can smell death on the air, the scent
+comes from the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 24076
+D3
+~
+~
+0 0 24074
+S
+#24076
+A Long Dark Tunnel~
+You are in a small underground tunnel, the ceiling is low and the walls
+are not nearly far enough apart.  You can smell death on the air, the scent
+comes from the south 
+~
+0 0 0
+D1
+~
+~
+0 0 24077
+D3
+~
+~
+0 0 24075
+S
+#24077
+End Of The Tunnel~
+You are in a small underground tunnel, the ceiling is low and the walls
+are not nearly far enough apart.  The tunnel ends in a metalic wall with a
+heavy set door in it.  The scent of death wafts out from under the door.  
+~
+0 0 0
+D1
+~
+door~
+1 0 24078
+D3
+~
+~
+0 0 24076
+S
+#24078
+The Executioner's Secret Lab~
+All Sorts of gruesome trophies hang on the walls, or sit on shelfs:
+everythign from a pickled heart right down too a frozen body.  The is a work
+bench in the center of the room, with an array of pricision instruments and
+toxic engridients sitting about.  
+~
+0 0 0
+D3
+~
+~
+1 0 24077
+D5
+~
+grate~
+1 0 24079
+S
+#24079
+A Room Full Of Bodies~
+This is where all the excecutioners experiments get thrown when he's
+finished with them: whether they're dead or not.  Corpses litter the ground,
+and there is a thick layer of coagulating blood that spans the expanse of
+the floor.  The walls are made from stone, and stained thuroughly with blood
+and other bodily fluids.  
+~
+0 0 0
+D4
+~
+~
+1 0 24078
+S
+#24080
+The Servants Passageway~
+This passageway was designed for the servants, and it shows: The
+stonework looks like it was done hastily, with little care, and the upkeep
+of the hallway is substandard.  Grime has built up on the walls, and there
+are stains about the floor where servants have spilt trays in the past.  
+~
+0 0 0
+D0
+~
+~
+0 0 24057
+D2
+~
+~
+0 0 24048
+S
+#24081
+An Empty Hallway~
+The walls are smooth, and slightly over polish, lending a silver like
+sheen to the stone.  There is a small store room to your west, and the
+hallway continues north-south.  
+~
+0 0 0
+D0
+~
+~
+0 0 24056
+D2
+~
+~
+0 0 24045
+D3
+~
+~
+0 0 24082
+S
+#24082
+The Stores Room~
+This room is well lit, and has an abundance of military surpluss suplies
+for the guards heaped into a corner.  There is an accountant sitting behind
+his desk making sure everythgin is accounted for.  
+~
+0 0 0
+D1
+~
+~
+0 0 24081
+S
+#24083
+End Of The Servants Passageway~
+The magority of this segment of the passage has been overtaken by slime,
+sludge, and other genetic mutations.  To the south, the kitchen offers
+sanctity.  
+~
+0 0 0
+D0
+~
+~
+0 0 24049
+D2
+~
+~
+0 0 24084
+S
+#24084
+The Kitchen~
+People run about trying to prepare for the next meal.  Stoves are
+blazing, with enough breads, meat, and other things boiling in pots to feed
+the entire fortress.  Kitchen boys scatter at the head cooks demands, and
+the head cook demands as kitchen boys sc People run about trying to prepare
+for the next meal.  Stoves are blazing, with enough breads, meat, and other
+things boiling in pots to feed the entire fortress.  Kitchen boys scatter at
+the head cooks demands, and the head cook demands as kitchen boys scatter.  
+~
+0 0 0
+D0
+~
+~
+0 0 24083
+D1
+~
+~
+0 0 24085
+S
+#24085
+Beside The Kitchen~
+This area is slightly more calm than the kitchen itself, housing most of
+the utensils and necessary wares for the kitchen.  Pots and pans hang from
+racks on the walls, and a door off to the side of the room is labelled "cold
+storage."  A grate in the floor leads bellow to the servants quarters.  
+~
+0 0 0
+D0
+~
+~
+0 0 24100
+D1
+~
+~
+1 0 24086
+D3
+~
+~
+0 0 24084
+D5
+~
+grate~
+1 0 24087
+S
+#24086
+Cold Storage~
+The room is cold, dark and damp; much as the label on the door suggests. 
+Food stuffs are stacked neatly on shelves, very neatly, as to avoid angering
+the head cook.  
+~
+0 1 0
+D3
+~
+~
+1 0 24085
+S
+#24087
+Entrance To The Slave Quarters.~
+Below the grate, things are a little bit different.  The servants are no
+longer servants, but slaves.  The living conditions are terrible; there are
+up to four slaves packed into a single room!  All of them living in fear,
+for the overseers whip, doth not miss.  
+~
+0 0 0
+D2
+~
+~
+0 0 24088
+D4
+~
+~
+1 0 24085
+S
+#24088
+The Slave Quarters~
+There are multiple cots about, all ill fitted to the inhabitants of these
+quarters.  A foul smell wafts through the entire area, that of feces and
+decay.  It feels as though you are being idly watched, almost as if you are
+nearly not worth noticing.  
+~
+0 0 0
+D0
+~
+~
+0 0 24087
+D1
+~
+~
+0 0 24091
+D2
+~
+~
+0 0 24089
+S
+#24089
+The Slave Quarters~
+There are multiple cots about, all ill fitted to the inhabitants of these
+quarters.  A foul smell wafts through the entire area, that of feces and
+decay.  It feels as though you are being idly watched, almost as if you are
+nearly not worth noticing.  
+> 
+~
+0 0 0
+D0
+~
+~
+0 0 24088
+D1
+~
+~
+0 0 24090
+D2
+~
+~
+0 0 24096
+S
+#24090
+The Slave Quarters~
+There are multiple cots about, all ill fitted to the inhabitants of these
+quarters.  A foul smell wafts through the entire area, that of feces and
+decay.  It feels as though you are being idly watched, almost as if you are
+nearly not worth noticing. 
+~
+0 0 0
+D0
+~
+~
+0 0 24091
+D1
+~
+~
+0 0 24093
+D2
+~
+~
+0 0 24095
+D3
+~
+~
+0 0 24089
+S
+#24091
+The Slave Quarters~
+There are multiple cots about, all ill fitted to the inhabitants of these
+quarters.  A foul smell wafts through the entire area, that of feces and
+decay.  It feels as though you are being idly watched, almost as if you are
+nearly not worth noticing. 
+~
+0 0 0
+D1
+~
+~
+0 0 24092
+D2
+~
+~
+0 0 24090
+D3
+~
+~
+0 0 24088
+S
+#24092
+The Slave Quarters~
+There are multiple cots about, all ill fitted to the inhabitants of these
+quarters.  A foul smell wafts through the entire area, that of feces and
+decay.  It feels as though you are being idly watched, almost as if you are
+nearly not worth noticing. 
+~
+0 0 0
+D2
+~
+~
+0 0 24093
+D3
+~
+~
+0 0 24091
+S
+#24093
+The Slave Quarters~
+There are multiple cots about, all ill fitted to the inhabitants of these
+quarters.  A foul smell wafts through the entire area, that of feces and
+decay.  It feels as though you are being idly watched, almost as if you are
+nearly not worth noticing. 
+~
+0 0 0
+D0
+~
+~
+0 0 24092
+D2
+~
+~
+0 0 24094
+D3
+~
+~
+0 0 24090
+S
+#24094
+The Slave Quarters~
+There are multiple cots about, all ill fitted to the inhabitants of these
+quarters.  A foul smell wafts through the entire area, that of feces and
+decay.  It feels as though you are being idly watched, almost as if you are
+nearly not worth noticing. 
+~
+0 0 0
+D0
+~
+~
+0 0 24093
+D3
+~
+~
+0 0 24095
+S
+#24095
+The Pedastle~
+A place of power, triumph, fear, and defeat.  This pedastle represents
+all that is power, and all that opresses.  All around, save the guards, look
+upon it with disdain, but only when they think no one is watching them.  
+~
+0 0 0
+D0
+~
+~
+0 0 24090
+D1
+~
+~
+0 0 24094
+D2
+~
+~
+0 0 24098
+D3
+~
+~
+0 0 24096
+S
+#24096
+The Slave Quarters~
+There are multiple cots about, all ill fitted to the inhabitants of these
+quarters.  A foul smell wafts through the entire area, that of feces and
+decay.  It feels as though you are being idly watched, almost as if you are
+nearly not worth noticing. 
+~
+0 0 0
+D0
+~
+~
+0 0 24089
+D1
+~
+~
+0 0 24095
+D3
+~
+~
+0 0 24097
+S
+#24097
+The Latrine~
+The stench of stale urine penetrates your nostrills, and the amonia rich
+environment wreaks havoc on your lungs: a lesser being would surely swoon. 
+A row of benches stand along one wall, with a small hole cut into them at
+regular intervals, this serves as the slaves washroom.  
+~
+0 0 0
+D1
+~
+~
+0 0 24096
+S
+#24098
+Under Direct Scrutiny~
+You are in a small room just south of the guards platform.  It is the
+perfect place to be put should they wish to watch you.  In the south wall of
+the room there is a door with the letters "do not enter" etched into it.  
+~
+0 0 0
+D0
+~
+~
+0 0 24095
+D2
+~
+~
+1 0 24099
+S
+#24099
+In Isolation~
+The walls are an off-white, nearly cream colour; they also rectract in a
+spongy manner to touch.  You are in a padded room, where only the most
+naughty slaves are put.  
+~
+0 0 0
+D0
+~
+door~
+1 0 24098
+S
+#24100
+The Servants Corridor~
+Slightly better kept than parts of it's sister passage to the west, this
+tunnel is poorly lit and in desperate need of dusting.  The stone walls are
+cracked and worn from many years of neglect.  
+~
+0 0 0
+D0
+~
+~
+0 0 24101
+D2
+~
+~
+0 0 24085
+S
+#24101
+The Servants Corridor~
+The flagstone floor has a large crack spanning it's entire breadth,
+causing a hazard to little feet.  The only light in this section of the
+corridor is that which spills in from distant sections.  
+~
+0 1 0
+D0
+~
+~
+0 0 24103
+D1
+~
+~
+1 0 24102
+D2
+~
+~
+0 0 24100
+S
+#24102
+A Cleaning Closet~
+Countless cleaning products are stacked neatly in the back, while just as
+many others have been carelessly discarded near the entrance where they
+might be quickly attained if needed.  
+~
+0 0 0
+D3
+~
+~
+1 0 24101
+S
+#24103
+The Servants Corridor~
+Slightly better kept than parts of it's sister passage to the west, this
+tunnel is poorly lit and in desperate need of dusting.  The stone walls are
+cracked and worn from many years of neglect.  
+~
+0 0 0
+D0
+~
+~
+0 0 24104
+D2
+~
+~
+0 0 24101
+S
+#24104
+The Servants corridor~
+The hallway comes to a much needed end.  Parts of the ceiling have
+cracked and look ready to collapse, and stones are missing from the walls. 
+There is a decrepit stairway set into the east wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 24105
+D2
+~
+~
+0 0 24103
+S
+#24105
+An Old Stairwell~
+A set of decrepit stairs is set into the wall: from their state of
+repaid, and lack of banister, it is clear that only the low class use this
+route to gain acces to the second floor of the fortress.  
+~
+0 0 0
+D3
+~
+~
+0 0 24104
+D4
+~
+~
+0 0 24106
+S
+#24106
+Top Of The Stairs~
+A light flickers as if it wants to die, as most things who pass through
+this stair wish they already had.  A small notice on the wall is signed by
+"Head Guard."  
+ 
+~
+0 0 0
+D3
+~
+~
+1 0 24107
+D5
+~
+~
+0 0 24105
+S
+#24107
+The Stone Hallways~
+This hallway runs the perimeter of the main part of the second floor. 
+The walls are, as the rest of the fortress, stone, though this floor is lit
+by luxurious torches kept alight by magic.  
+~
+0 0 0
+D0
+~
+~
+0 0 24110
+D1
+~
+~
+1 0 24106
+D2
+~
+~
+0 0 24108
+S
+#24108
+A Corner In The Hallway~
+The stone hall meets itself in a well designed corner.  Such an
+architectural feat!  There are torches kept alight by magic held in brackets
+on the walls.  A sterile smell is on the air: it seems to be coming from the
+west.  
+~
+0 0 0
+D0
+~
+~
+0 0 24107
+D3
+~
+~
+0 0 24109
+S
+#24109
+Infermary Entrance~
+In contrast to the rest of the stone fortress, the walls of this area are of a different substance, and painted a sterile white.
+~
+0 0 0
+D1
+~
+~
+0 0 24108
+D2
+~
+~
+0 0 24122
+S
+#24110
+The Stone Hallway~
+This hallway runs the perimeter of the main part of the second floor. 
+The walls are, as the rest of the fortress, stone, though this floor is lit
+by luxurious torches kept alight by magic.  
+~
+0 0 0
+D0
+~
+~
+0 0 24114
+D2
+~
+~
+0 0 24107
+D3
+~
+~
+0 0 24111
+S
+#24111
+The Second Floor Landing~
+The grande staircase reaches a large landing at the second floor.  The
+stair continues upward but is blocked by debree: the third floor is under
+renovations and inaccessable by the public.  
+~
+0 0 0
+D1
+~
+~
+0 0 24110
+D5
+~
+~
+0 0 24112
+S
+#24112
+Spiralling Upward~
+The grande staircase spirals ever so gently as you tread on the steps. 
+There is a polished, lavish banister with decorative engravings lining it's
+side: incase anyone should need hold it.  
+~
+0 0 0
+D4
+~
+~
+0 0 24111
+D5
+~
+~
+0 0 24113
+S
+#24113
+The Grande Staircase~
+You are astride the base of the grande staircase.  As it ascends it
+begins to take on a gentle twist: the higher you go the tighter the turn of
+the stair.  Each stair was individually carpeted in a garish red fabric with
+orange designs layed into it.  
+~
+0 0 0
+D4
+~
+~
+0 0 24112
+D5
+~
+~
+0 0 24054
+S
+#24114
+A Corner In The Hallway~
+The torches burn brightly in ornate brass wall sconces, mounted securly
+in the grey stone of the fortress walls.  A small crack spans two of the
+larger stones that make the wall, though it seems to have been mortard to
+prevent further damage.  The hall leads both south, and west.  
+~
+0 0 0
+D2
+~
+~
+0 0 24110
+D3
+~
+~
+0 0 24115
+S
+#24115
+The Stone Hallway~
+This hallway runs the perimeter of the main part of the second floor. 
+The walls are, as the rest of the fortress, stone, though this floor is lit
+by luxurious torches kept alight by magic.  
+~
+0 0 0
+D1
+~
+~
+0 0 24114
+D3
+~
+~
+0 0 24116
+S
+#24116
+The End Of The Hallway~
+The Torches continue to burn in the sockets, but the hallway has reached
+it's end.  Set deep in the norther wall, a pair of magnificently carved,
+heavy, oaken doors sit on ancient hinges.  The other walls are solid stone,
+save for to the east, where the hallway reaches a corner.  
+~
+0 0 0
+D0
+~
+~
+1 0 24117
+D1
+~
+~
+0 0 24115
+S
+#24117
+An Open Air Balcony~
+The balcony has a small rail, complete with stone imitations of the great
+gargoyle race, perched on either end of the safety wall.  The main part of
+the fortress lies to the south, through a pair of heavy set doors that look
+to have been crafted many gene The balcony has a small rail, complete with
+stone imitations of the great gargoyle race, perched on either end of the
+safety wall.  The main part of the fortress lies to the south, through a
+pair of heavy set doors that look to have been crafted many generations ago.
+A smaller door has been added to shelter the entrance to a small tower which
+rises to the west.  
+~
+0 0 7
+D2
+~
+~
+1 0 24116
+D3
+~
+~
+1 0 24118
+S
+#24118
+inside the tower~
+A small room with a stairaise laid into one room, this is the lowest
+portion of the fortresses only spire.  There is a course mat on the floor,
+intended for wiping ones feet; it does not appear to have been properly
+used, as a pair of footprints lead up the stairs.  
+~
+0 0 0
+D1
+~
+~
+1 0 24117
+D4
+~
+~
+0 0 24119
+S
+#24119
+A Well Decorated Room~
+The walls are garishly decorated with hanging rugs, portraits of fallen
+masters, and the usual ornate torch for lighting.  Small statues and other
+pieces of art rest atop masterfully carved pedastles.  The door set in the
+northern wall is equally magnificent, matching the rest of the room in it's
+splendor, only the stairway blemishes the beautific appearance.  
+~
+0 0 0
+D0
+~
+~
+1 0 24120
+D4
+~
+~
+0 0 24121
+D5
+~
+~
+0 0 24118
+S
+#24120
+The Royal Suit~
+A large four-poster bed sits in the far corner of the room, sheeted in a
+heavy crimson cloth, with a robust vanity across from it.  The rest of the
+room is favorably plain, though luxurious; the kind of spot you could spend
+a lot of time in.  
+~
+0 0 0
+D2
+~
+~
+1 0 24119
+S
+#24121
+The Highest Room In The Tallest Tower~
+This room seems to feed a magic aura, keeping a small orb alight to
+illuminate the entire room.  There are shelves in each corner, laiden with
+scrolls, and a window in the middle of each wall, touching all the major
+compas points.  A small sign propped humourously on a small work bench read
+"hope you weren't expecting a princess."  
+~
+0 0 0
+D5
+~
+~
+0 0 24119
+S
+#24122
+The Waiting Room~
+Entering the room you note the scent of sickness and medicens. Row upon row of chairs line half the room, for patients waiting to be admitted. A small kiosk is too the east, it bears a sign asking you to sign in.
+~
+0 0 0
+D0
+~
+~
+0 0 24109
+D1
+~
+~
+0 0 24123
+D2
+~
+~
+0 0 24124
+S
+#24123
+The Secretaries Desk~
+A small glass partition seperates you from the desk clerk.  She sticks
+her hand out and asks for identification thinking you are a patient here. 
+The small chair in place for your bottom is stained and worn from seeing
+thousands of rear ends over the course of it's life.  
+~
+0 0 0
+D3
+~
+~
+0 0 24122
+S
+#24124
+The Sterile Hall~
+Much like the entraince to the infirmary, the walls are white-washed and
+sterile.  The smell of sick people seems to come at you from all directions
+at once.  A plaque beside the doorway to the east identifies the room beyond
+as "triage."  
+~
+0 0 0
+D0
+~
+~
+0 0 24122
+D1
+~
+~
+0 0 24125
+D2
+~
+~
+0 0 24126
+S
+#24125
+Triage~
+A multitude of monitors sit about; those to check hp, mana, as well as
+all your other stats, and heart rate!  Whoever designed the room somehow
+managed to fit a small desk into the corner, it is now laiden with many the
+file folder.  
+~
+0 0 0
+D3
+~
+~
+0 0 24124
+S
+#24126
+The Sterile Hallway~
+Much like the entraince to the infirmary, the walls are white-washed and
+sterile.  The smell of sick people seems to come at you from all directions
+at once.  Plaques on the doorways to the east and west identify them both as
+"examination rooms."  
+~
+0 0 0
+D0
+~
+~
+0 0 24124
+D1
+~
+~
+0 0 24127
+D2
+~
+~
+0 0 24129
+D3
+~
+~
+0 0 24128
+S
+#24127
+Exam Room~
+A small uncomfortable looking bed sits along one wall of the room; it
+shows signs of wear from countless patients sitting, and lying upon it while
+under the direct scrutiny of doctors.  The ceiling radiates a cleansing glow
+upon the entire room, providing an odd illumination upon the archaic looking
+intravenous apparatus.  
+~
+0 0 0
+D3
+~
+~
+0 0 24126
+S
+#24128
+Exam Room~
+A small uncomfortable looking bed sits along one wall of the room; it
+shows signs of wear from countless patients sitting, and lying upon it while
+under the direct scrutiny of doctors.  The ceiling radiates a cleansing glow
+upon the entire room, providing A small uncomfortable looking bed sits along
+one wall of the room; it shows signs of wear from countless patients
+sitting, and lying upon it while under the direct scrutiny of doctors.  The
+ceiling radiates a cleansing glow upon the entire room, providing an odd
+illumination upon the archaic looking intravenous apparatus.  
+~
+0 0 0
+D1
+~
+~
+0 0 24126
+S
+#24129
+The Sterile Hallway~
+Much like the entraince to the infirmary, the walls are white-washed and
+sterile.  The smell of sick people seems to come at you from all directions
+at once.  The room to the west smells of death, making the blazing caution
+sign above the opposite door seem welcoming.  
+~
+0 0 0
+D0
+~
+~
+0 0 24126
+D1
+~
+~
+0 0 24131
+D2
+~
+~
+0 0 24132
+D3
+~
+~
+0 0 24130
+S
+#24130
+Palative Care~
+The stench of death, and decaying flesh fill the air, along with great
+pained moans eminating from row upon row of dying slaves.  The nursing staff
+does it's best to placate all patients, but there are far to many sick, and
+not enough remedies.  
+~
+0 0 0
+D1
+~
+~
+0 0 24129
+S
+#24131
+Quarantine~
+In order to enter or exit the room you must pass through a three doors decontamination chamber, the process is extensive and unpleasant to most people. The room itself is dark compaired to the rest of the infirmary, and everyone seems to avoid it.
+~
+0 0 0
+D3
+~
+~
+0 0 24129
+S
+#24132
+The Sterile Hallway~
+Much like the entraince to the infirmary, the walls are white-washed and
+sterile.  The smell of sick people seems to come at you from all directions
+at once.  From the west come sounds of machinery, and frantic cries of pain,
+contrasted by the deathly silence coming out of the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 24129
+D1
+~
+~
+0 0 24134
+D2
+~
+~
+0 0 24133
+D3
+~
+~
+0 0 24135
+S
+#24133
+The Sterile Hallway~
+Much like the entraince to the infirmary, the walls are white-washed and
+sterile.  The smell of sick people seems to come at you from all directions
+at once.  To the west sounds of hope may be heard above the high pitched
+whine of electronics.  
+~
+0 0 0
+D0
+~
+~
+0 0 24132
+D3
+~
+~
+0 0 24136
+S
+#24134
+morgue~
+Wheeled slates line the walls of the room, and doors that hint at many
+the filled cavity in the walls suggest a large number of bodies pass through
+this room.  On a few of these tables lie sheets with irregular lumps in
+them, and an exposed foot with tag wheeled slates line the walls of the
+room, and doors that hint at many the filled cavity in the walls suggest a
+large number of bodies pass through this room.  On a few of these tables lie
+sheets with irregular lumps in them, and an exposed foot with tag suggest
+the nature of these lumps: bodies of the fallen.  
+~
+0 0 0
+D3
+~
+~
+0 0 24132
+S
+#24135
+The Operating Room~
+Rusty saw blades litter tables scored by thei teeth marks, and splashed
+in crusted blood.  It would seem that all procedures that take place in this
+room are final.  
+~
+0 24 0
+D1
+~
+~
+0 0 24132
+S
+#24136
+The Doctor's Lounge~
+This room seems to come from a different century.  Technological
+equipment, mainly with recreational purposes are scatters throughout the A
+comfortable looking lounge chair sits in a corner, facing the well used sofa
+which is adjecent a box which flashes fluid images.  
+~
+0 0 0
+D1
+~
+~
+0 0 24133
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 24001 2 1
+D 0 24005 0 1
+D 0 24024 1 1
+D 0 24025 3 1
+D 0 24043 2 2
+D 0 24044 0 2
+D 0 24051 5 1
+D 0 24052 4 1
+D 0 24052 5 1
+D 0 24053 3 1
+D 0 24054 3 1
+D 0 24057 1 1
+D 0 24060 1 1
+D 0 24061 1 1
+D 0 24062 3 1
+D 0 24069 4 1
+D 0 24077 1 1
+D 0 24078 3 1
+D 0 24078 5 2
+D 0 24079 4 2
+D 0 24085 1 1
+D 0 24085 5 1
+D 0 24086 3 1
+D 0 24087 4 1
+D 0 24098 2 1
+D 0 24099 0 1
+D 0 24101 1 1
+D 0 24102 3 1
+D 0 24106 3 1
+D 0 24107 1 1
+D 0 24116 0 1
+D 0 24117 2 1
+D 0 24117 3 1
+D 0 24118 1 1
+D 0 24119 0 1
+D 0 24120 2 1
+M 1 24045 2 24007 1
+E 0 24000 0 16
+M 1 24046 3 24012 1
+M 1 24046 3 24014 1
+M 1 24045 2 24016 1
+E 0 24000 0 16
+M 1 24046 3 24018 1
+M 1 24000 2 24022 2
+O 0 24001 0 24023
+M 1 24047 1 24025 1
+C 100 percent for next reset
+E 0 24007 0 17
+C 100 percent for next reset
+O 0 24008 0 24028
+M 1 24048 1 24034 1
+M 1 24049 1 24043 1
+G 0 24006 0
+M 1 24005 2 24046 2
+M 1 24004 1 24047 1
+M 1 24006 4 24048 1
+M 1 24006 4 24049 1
+M 1 24003 1 24060 1
+E 0 24004 0 6
+M 1 24002 2 24061 1
+E 0 24005 0 15
+M 1 24002 2 24062 1
+E 0 24005 0 14
+M 1 24001 1 24064 1
+E 0 24003 0 16
+M 1 24006 4 24080 1
+M 1 24006 4 24083 1
+M 1 24007 1 24084 1
+M 1 24008 1 24136 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

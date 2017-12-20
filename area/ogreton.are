@@ -1,0 +1,1544 @@
+#AREADATA
+Name Ogreton~
+Builders None~
+VNUMs 8500 8599
+Credits { 5 10} Saltin      Ogreton~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#8574
+a tac tactics off officer~
+the tactics officer~
+A tactics officer strolls here, overseeing the jobs being done
+~
+An ogre in her late 40's, she coordinates the assaults on the villages
+that surround the ogre town on the plains.  She stands about 6 and a half
+feet tall, and a face that could scare the devil himself.  
+~
+giant~
+ABGT 0 -1000 0
+9 -1 2d6+90 1d1+100 2d6+4 thrust
+2 2 2 5
+FK 0 HI JP
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8575
+the stable stablemaster master~
+the stablemaster~
+The stablemaster stands here, minding his horses.
+~
+The stablemaster is a tall ogre of a very kind nature.  He exhibits
+almost druidic abilities with the animals inside the stable.  
+~
+giant~
+ABGS 0 -1000 0
+9 -1 2d6+90 1d1+100 2d6+3 thrust
+2 2 2 5
+FK B HI JP
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8577
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+AG 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8578
+an amourous couple~
+an amourous couple~
+An amourous couple lie entwined upon the bed.
+~
+This couple cannot be seperated by any means necessary.  They're like
+magnets to each other, even unto death.  
+~
+giant~
+AGT V -1000 0
+6 -1 2d7+51 1d1+100 1d6+1 smash
+4 4 4 7
+0 0 HI JP
+sleep stand male 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8581
+a writhing prisoner~
+a writhing prisoner~
+A writhing prisoner wails here, shackled against the wall.
+~
+A prisoner of human origins wails into the unhearing ears of the
+perpetual twilight that forms the dungeon.  
+~
+human~
+ABGT 0 -1000 0
+9 -1 2d6+90 1d1+100 2d7+4 grep
+2 2 2 5
+CEFJ 0 HI JP
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8582
+the ogre dungeon master~
+the dungeonmaster~
+The ogre dungeon master stands here, looking very powerful.
+~
+A large ogre, very heavily set, the dungeonmaster fings his ring of keys
+tenderly.  He mumbles to himself softly, or maybe it's to the keys?  Clearly
+he has been away from society for a while, but this has done nothing to
+diminish his size.  
+~
+giant~
+ABFG 0 -1000 0
+12 -1 3d6+130 1d1+100 2d6+3 whip
+0 0 0 3
+FHK 0 HI JP
+stand stand male 100
+AHMV ABCDEFGHIJK large 0 the guilds~
+#8585
+master smith figure apron~
+the master smith~
+A figure dressed in a large apron sits here, banging out weapons.
+~
+The master smith of the ogre village appears to be a very sturdy ogre. 
+Strong and steady hands, intelligent eyes, he is every weaponsmith's idol. 
+He coordinates the forging here in the smithy, constantly forging out new
+weapons of war for the ogres.  
+~
+giant~
+ABGT 0 -1000 0
+10 -1 2d7+101 1d1+100 2d2+2 none
+1 1 1 4
+CDFI 0 HI JP
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8586
+The taskmaster~
+the taskmaster~
+The taskmaster walks through the rows of warriors, barking orders.
+~
+The taskmaster is a particularily ugly ogre, standing about 7'6'' and a
+face like a dog's.  Nevertheless, he appears to know his trade well, and he
+inspires respect amongst all the warriors of the fortress.  
+~
+giant~
+ABG 0 -1000 0
+10 -1 2d7+101 1d1+100 2d2+2 thwack
+1 1 1 4
+CDFHK 0 HI JP
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8587
+an ogre woman~
+an ogre woman~
+An ogre woman sits here, looking after her children.
+~
+The ogre woman is much larger than you would expect, standing about
+6'4''.  It appears that her duty in the family is to look after the
+children, while the fathers go out pillaging and such.  She appears to be
+quite content to just sit here, watching her children.  
+~
+giant~
+ABG 0 -1000 0
+5 -1 2d6+30 1d1+100 1d4+1 beating
+5 5 5 8
+0 0 HI JP
+stand stand none 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8588
+An ogre boy~
+an ogre boy~
+An ogre boy runs along, dreaming of battle and loot.
+~
+An ogre boy runs along here, oblivious to the world around him.  He
+sports the latest in ogre fashion, rags with a straw hat proudly.  
+~
+giant~
+ABG 0 -1000 0
+5 -1 2d6+30 1d1+100 2d1+2 scratch
+4 4 4 5
+CFN 0 HI JP
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8589
+The Ogreton Innkeeper~
+the Ogreton Innkeeper~
+The Ogreton Innkeeper sits here, minding his keys.
+~
+The Innkeeper is an old giant that looks very melancholy.  One of the few
+giants in the village with a beard, he sports all the makings of age. 
+Still, he smiles and nods at you as you glance at him.  
+~
+giant~
+ABG MO -1000 0
+7 -1 2d6+55 1d1+100 1d6+1 wrath
+4 4 4 4
+0 0 HI JP
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8590
+The barkeep~
+The barkeep~
+The barkeep sits here at the bar, serving out food.
+~
+The barkeep is a fairly well-built ogre, and by his posture you assume
+that he was a former soldier.  Most likely retired to pursue a career as a
+barkeep.  He glares at you, and says, 'Slaugh Mlosh Prilpost?  
+~
+giant~
+ABG 0 -1000 0
+10 -11 2d7+101 1d1+100 2d2+2 beating
+1 1 1 4
+0 0 HI JP
+rest stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8592
+An ogre guard~
+an ogre guard~
+The ogre guard stands here, looking very solemn.
+~
+The protectors of the village, the great brutes all carry viscious
+looking weapons.  However, according to their size, they should have no
+problems without them.  
+~
+giant~
+ABT 0 -1000 0
+7 -1 2d6+65 1d1+100 2d1+2 pierce
+4 4 4 7
+CFJR PZ HI JP
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8593
+young child ogre~
+the young child~
+A young ogre child sits here, trying to work over the racket.
+~
+This young child looks very out of place with all the other rambunctious
+young ogres in the class.  He tries vainly to work over the rather audible
+noises.  
+~
+giant~
+ABCG 0 -1000 0
+5 -1 2d6+30 1d1+100 1d3+1 none
+5 5 5 8
+0 0 HI JP
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8594
+well behaved student model~
+the model student~
+A model student sits here, waiting attentively for the teacher to return.
+~
+The model student sits here, eyeying you warily.  Clearly he is outraged
+at the blatant disrespect shown to the teacher by all these ruffians.  
+~
+giant~
+ABG 0 -1000 0
+5 -1 2d6+30 1d1+100 1d4+1 scratch
+5 5 5 8
+FK 0 HI JP
+stand stand male 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8595
+The class clown~
+the class clown~
+The class clown sits here, cracking jokes.
+~
+This young rascal clearly thinks himself to be quite the kidder, and he
+appears to pride himself on the quips he continually makes. He doesn't 
+even notice that they're not laughing with him.
+~
+giant~
+ABGT 0 -1000 0
+5 -1 2d6+30 1d1+100 1d4+1 none
+5 5 5 8
+0 0 HI JP
+stand stand male 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8596
+instructor~
+the instructor~
+The Ogreton school instructor sits here, clearly stressed out of her mind.
+~
+The teacher's eyes twitch nervously, and she has an extremely nervous
+aura about her.  No wonder, with those children, that she's gone out of her
+mind.  
+~
+giant~
+ABGR 0 -1000 0
+8 -11 2d7+66 1d1+100 1d5+2 wrath
+3 3 3 6
+F P HI JP
+stand stand female 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8598
+A drunken ogre~
+a drunken ogre~
+A drunken ogre lies here, sprawled over a straw mattress.
+~
+Bleary eyes gaze up at you, and he screams, "Urga Ooga Snash!"  
+~
+giant~
+ABTY 0 -1000 0
+7 -1 2d6+65 1d1+100 1d5+1 grep
+4 4 4 7
+C 0 HI JP
+rest rest none 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#8599
+An ogre girl~
+a young ogre girl~
+An ogre girl skips along here, dressed more in mud than clothes.
+~
+The ogre girl is caked head to foot in a thick coating of mud, to say nothing
+of her facial features. The tattered rags that she wears were clearly once
+a very pretty dress, but now all that remains is a few scraps of fabric.
+Nonetheless, she skips along happily, oblivious to the rest of the world.
+~
+giant~
+ABCGW 0 -1000 0
+5 -1 2d6+30 1d1+100 2d4+2 scratch
+5 5 5 8
+F 0 HI JP
+stand stand female 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#8501
+saltin viscious sacrificial dagger~
+Saltin's viscious-looking sacrificial dagger~
+Saltin's viscious looking sacrificial dagger lies here. That's bout it.~
+wood~
+weapon AB AN
+exotic 20 20 divine AG
+54 0 0 P
+A
+18 50  
+A
+19 50  
+#8502
+A Brilliant Diamond of Saltin Make~
+A brilliant Saltin diamond~
+A brilliant diamond gleams from the ground.~
+wood~
+jewelry W AO
+0 0 0 0 0
+1 0 10000 P
+#8550
+Saltin's Crown~
+Saltin's Crown~
+(no description)~
+wood~
+armor 0 AE
+0 0 0 0 0
+54 0 0 P
+A
+12 300  
+A
+13 300  
+#8573
+the dungeon dungeonmaster whip~
+the dungeonmaster's whip~
+The dungeonmaster's whip lies here, looking very viscious.~
+adam~
+weapon 0 AN
+whip 2 3 whip G
+11 120 560 P
+A
+2 1  
+A
+18 1  
+#8574
+a tactics book~
+a tactics book~
+Long scrawls cover the insides of the tactics book..but wait, arcane writings cover the back.~
+wood~
+scroll 0 AO
+9 'infravision' 'refresh' '(null)' '(null)'
+0 120 0 P
+#8576
+horse horsefood food~
+some horsefood~
+Some horsefood lies here, little pellets that don't look appetizing.~
+food~
+pill 0 AO
+8 'cure light' 'cure light' 'cure light' 'poison'
+8 100 200 P
+#8577
+A stone-tipped ogre spear~
+a stone tipped ogre spear~
+A long, beautifully carved spear looks very dangerous.~
+wood~
+weapon 0 AN
+staff 1 3 none 0
+5 0 0 P
+A
+19 1  
+#8578
+a rusted masterkey~
+a rusted masterkey~
+A rusted masterkey sits here, in the posession of the Innkeeper~
+steel~
+key 0 AO
+0 0 0 0 0
+5 10 0 P
+#8579
+A satin-draped bed~
+a satin-draped bed~
+A satin-draped bed lies here, looking very comfortable~
+wood~
+furniture 0 0
+2 900 GJK 105 100
+1 16960 1 P
+#8580
+shackles~
+ogre shackles~
+A pair of rusted shackles hang from the walls.~
+steel~
+trash 0 0
+0 0 0 0 0
+0 3000 0 P
+#8583
+A tattered ogre girth~
+a tattered ogre girth~
+A tattered ogre girth lies here, stripped of all beauty.~
+wood~
+armor GY AL
+3 3 2 1 0
+4 35 250 P
+A
+4 1  
+#8584
+Some dirty toilet paper~
+some dirty toilet paper~
+Some dirty toilet paper resides here.~
+wood~
+pill 0 A
+8 'frenzy' 'poison' '(null)' '(null)'
+5 10 500 P
+#8586
+A filth-encrusted toilet~
+a filth encrusted toilet~
+A filth encrusted toilet sits here in the middle of the room, emitting a putrid odor.~
+porce~
+container 0 0
+100 0 0 3000 3000
+0 0 0 P
+#8591
+A gurgling fountain~
+a gurgling fountain~
+A gurgling fountain sits in the middle of the town square.~
+quartz~
+fountain 0 0
+100 100 'water' 0 0
+1 0 0 P
+#8597
+A straw mattress~
+A straw mattress~
+A stained mattress made of straw, it looks very comfortable.~
+wood~
+trash Y 0
+0 0 0 0 0
+1 1000 0 P
+#0
+
+
+
+#ROOMS
+#8500
+A particularly smelly field~
+The sun shines brightly down upon the fields that surround you.
+Your journey is at a momentary repose as you take in the sights
+and sounds of this beautiful plain..until your nose detects a 
+particularily rancid smell on the wind..fascinated, you continue
+down the dirt path that forks between the grassy plains.
+~
+0 262144 2
+D0
+~
+~
+0 0 8501
+D2
+~
+~
+0 0 10952
+S
+#8501
+A clearing in the tall grasses~
+The smell steadily increases, to the point where it is now horrifyingly
+nauseating.  Something has to be causing the reek, but what?  Out in the
+middle of nowhere?  Suddenly the path in the middle comes to an end, and an
+opening in the tall grass becomes evident.  Clearly, this must be the source
+of the reek.  Peeking through the grasses and into the crevace beyond, you
+notice a rather large village, bustling with activity.  A gasp expulses
+itself from your lungs, as you notice that the inhabitants are ogres!  
+~
+0 0 2
+D0
+~
+~
+0 0 10870
+D2
+~
+~
+0 0 8500
+D5
+~
+~
+0 0 8502
+S
+#8502
+Outskirts of the village~
+Clearly these ogres have no sense of personal higene.  However, what they
+lack in cleanliness they certainly make up in size.  Some of the brutes
+easily clear 7 feet, and this does nothing to hurt their bulk.  Ogre
+children skip happily along the road, while their mothers run screaming in a
+guttural tongue in a frantic effort to get them to calm down.  Houses row
+the street, which leads north towards what appears to be the town centre.  
+~
+0 0 1
+D0
+~
+~
+0 0 8506
+D1
+~
+~
+0 0 8503
+D3
+~
+~
+0 0 8504
+D4
+~
+~
+0 0 8501
+S
+#8503
+An ogre shack~
+Holes protrude from the roof, letting little slivers of light shine down
+on the sprawled out ogre that lies on filth-caked mattress.  Wearily he eyes
+you..  Too much ale last night, it seems.  
+~
+0 8 0
+D3
+~
+~
+0 0 8502
+S
+#8504
+Entrance to the schoolhouse~
+A crude building, the schoolhouse consists of two rooms, one for the
+teaching, and naturally the teacher's preperation room.  The students are
+anything but attentive, as it appears that the teacher has stepped into her
+office for a break.  With all these hellions, it's no wonder.  
+~
+0 8 0
+D1
+~
+~
+0 0 8502
+D3
+~
+~
+1 0 8505
+S
+#8505
+The teacher's preperation room~
+Ahh..  Memories.  The teacher's preperation room is a total mess of
+papers, ungraded assignments, and general disorder.  A dome forms the roof,
+and the sun beams through.  The teacher sits here, smoking some pipeweed,
+clearly trying to get her nerves in check.  
+~
+0 8 0
+D1
+~
+door~
+1 0 8504
+S
+#8506
+The road continues~
+The road continues North, pressing forward towards the town square.  Two
+old war companions pat each other on the back, and roar in laughter.  To the
+west a multi-colored building catches the eye, but you feel the urge to
+press forward, wanting to experience the entire city.  However, you notice
+the guards begin to eye you wearily..  
+~
+0 0 0
+D0
+~
+~
+0 0 8508
+D1
+~
+~
+0 0 8507
+D2
+~
+~
+0 0 8502
+D3
+~
+~
+0 0 8587
+S
+#8507
+The playground~
+The ogre children gather here to play..  But it's not the kind of
+playground that you would expect from a child.  Big wooden sticks rest on
+racks, and where there should be slides there are pillars for sparring
+matches.  Clearly, they inherit their brutality at quite a young age.  
+~
+0 0 0
+D3
+~
+~
+0 0 8506
+S
+#8508
+The town square~
+A crudely built fountain gushes forth here, and is clearly the centre of
+town activity here in the ogre village.  Ogre women gossip while their
+children run around bonking each other with sticks, and the warriors recount
+old tales of battle.  You also notice quite a few guards circulating among
+the rest, and their gazes are less than friendly.  You notice a rough path
+to the west, and a shack to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 8518
+D1
+~
+~
+0 0 8515
+D2
+~
+~
+0 0 8506
+D3
+~
+~
+0 0 8516
+S
+#8509
+The stairs leading to the inn~
+The stairs wind upstairs towards the inn of Ogreton, above the Dancing
+Devil.  An ogre harem winks at you seductively, and you can't resist a
+shudder.  Continuing upwards will take you to the rooms.  
+~
+0 262152 0
+D4
+~
+~
+0 0 8510
+D5
+~
+~
+0 0 8587
+S
+#8510
+Top of the stairs~
+Ahh, finally and end to those blasphemous stairs!  Reaching the top, you
+let out a sigh of relief.  The Innkeeper sits here at his desk, and a ring
+of keys hangs from his belt.  Doors surround you, and you can always head
+back down to the inn below.  
+d
+~
+0 8 0
+D0
+~
+~
+1 8578 8512
+D1
+~
+~
+1 8578 8511
+D2
+~
+~
+1 8578 8514
+D3
+~
+~
+1 8578 8513
+D5
+~
+~
+0 0 8509
+S
+#8511
+An occupied room~
+This room contains two ogres of opposite sex.  A thin sheet is all that
+covers their two nude forms, but a the time they're both asleep.  A lava
+lantern hangs from the ceiling, giving the only illuminatino to the
+otherwise dark room.  No windows or closets line the walls, but it's just
+right if you don't want to spend too much gold on a room.  
+~
+0 8 0
+D3
+~
+~
+1 8578 8510
+S
+#8512
+An elegant room~
+Clearly ogres were once a very civilized people, and this room is one of
+the remnants of a great ogre society.  A bed draped in satin, with a silk
+canopy lies in the centre of the room, and a mahogany dresser sits off to
+the side.  A great balcony overlooks the street below, allowing a burst of
+light to fall upon the forest-green carpeting that blankets the floor..  An
+elegant fireplace is lit across from the bed, and a door leads to the
+lavatory.  Strangely, this room is empty.  
+~
+0 8 0
+D2
+~
+~
+1 8578 8510
+S
+#8513
+The lavatory~
+The lavatory, to no great surprise, is caked with filth.  A toilet sits
+in the centre, and a moss-covered sink faces a cracked mirror.  An ogre
+guard glares up at you, clearly disturbed at being interrupted in the middle
+of his business.  
+~
+0 8 0
+D1
+~
+~
+1 8578 8510
+S
+#8514
+A room in the inn~
+This room couldn't be more plain.  A mattress lies on the floor here, and
+on top of it the ogre that occupies the room doesn't notice your intrusion. 
+A window allows a few streaks of daylight into the room, but other than that
+all is dark.  
+~
+0 8 0
+D0
+~
+~
+1 8578 8510
+S
+#8515
+A small ogre shack~
+You step inside another shack inside the road, and find yourself
+overwhelmed by the rancid smell.  No furniture inhabit the shack, and by the
+looks of things it appears to be a garbage dump of sorts.  The smell does
+nothing to convince you otherwise, either.  Rats scurry along the heaps of
+garbage that lines the floor, and you can't help but swat away a fly or two
+that buzz too close to your face.  
+~
+0 8 0
+D3
+~
+~
+0 0 8508
+S
+#8516
+A small field~
+Following a path west, you come to a small field that looks rather like
+the on on the outskirts that you passed earlier.  Tall grasses form a wall
+around the village, giving a primary line of defence against all invaders. 
+You cut through, striking a path through the brush.  The terrain underneath
+is rather wet, indicating that you have stepped into a form of wetlands.  
+~
+0 0 0
+D0
+~
+~
+0 0 8517
+D1
+~
+~
+0 0 8508
+M 0 H 0
+S
+#8517
+The plains~
+The plains continue.  You feel as if in an ocean of grasses, totally
+isolated from all society.  All is peaceful here, and you take a few moments
+to think back upon what you've seen.  This completed, you decide it'd
+probably be a good idea to return to the city before sundown, so you don't
+get lost.  
+~
+0 0 0
+D2
+~
+~
+0 0 8516
+M 0 H 0
+S
+#8518
+The road continues~
+Continuing past the bustle of the town square, you relax into a more
+settled pace, following the road North.  Again houses line the two sides of
+the road, but now you notice something in front of you.  It appears to be
+the entrance to a type of fortification.  A large spiked wall made of wood
+covers the perimetre, and large battlements protrude from every angle. 
+Clearly, this is the ogre village's stronghold.  
+~
+0 0 0
+D0
+~
+~
+0 0 8521
+D1
+~
+~
+0 0 8519
+D2
+~
+~
+0 0 8508
+D3
+~
+~
+0 0 8520
+S
+#8519
+An ogre shack~
+This shack is quite like the rest that inhabit Ogreton.  Splinters litter
+the floor, and several patches cover the roof where it quite obviously has
+caved in.  Another straw mattress lies here, and yet another drunken ogre. 
+You also notice the trademark odor that makes this town so distinguished. 
+No windows line the walls, nor any paint coats them.  It is about as plain
+as plain can be, but when you're a warrior, what else do you want?  
+~
+0 262144 0
+D3
+~
+~
+0 0 8518
+S
+#8520
+An ogre house~
+This house is far better built than the others.  Instead of relying upon
+a base of wood, this house rises from a foundation of stone.  The inside is
+fairly well decorated, by ogre standards.  Another peculiarity is the fact
+that the house contains more than one room.  A woman and child sit, doing
+their own activities.  The child appears to be quite restless, clearly
+wanting to be out with the remainder of his friends.  Also, you notice glass
+windows, something else that hasn't been apparent in any of the other
+shacks.  This would probably belong to an ogre of some great importance.  
+~
+0 0 0
+D1
+~
+~
+0 0 8518
+S
+#8521
+The ogre fortifications~
+Crossing across the drawbridge under a cart, you sneak into the great
+fortress.  Paying the merchant that snuck you in, you run off to explore. 
+The fortress as a whole is rather dimly lit, but also very noisy.  Loud
+boisterous laughs echo as guards exchange jokes and pat each other on the
+back.  Several large battlements rise from the ground all around you, manned
+by ogres with spears.  The keep is further down the path, but you get the
+impression that you must proceed with caution.  
+~
+0 0 0
+D0
+~
+~
+0 0 8525
+D1
+~
+~
+0 0 8522
+D2
+~
+~
+0 0 8518
+D3
+~
+~
+0 0 8524
+D4
+~
+~
+0 0 8523
+S
+#8522
+The armory~
+Many racks of long and dangerous-looking weapons line the walls.  The
+crashes of hammers and the sizzles of hot irons against metal resound
+throughout the room, echoing against the steel interior.  The head smithy
+walks around inspecting all works, and turning down quite a few finished
+pieces, to the worker's dismay.  Everything has to be perfect for war, which
+is the ogre's way of life.  
+~
+0 0 0
+D3
+~
+~
+0 0 8521
+S
+#8523
+A battlement~
+You climb up a ladder that leads to the top of a tall battlement made of
+stone.  An ogre guard patrols here, overseeing the village and the
+surrounding plains.  You notice a trapdoor in the middle, clearly used in
+the case that an enemy horde breaches the base, the rooftop defenders can
+rush down to aid their comrades.  The battlement looks as impressive as any
+other you have ever seen, tall, bleak, and powerful.  
+~
+0 0 0
+D5
+~
+~
+0 0 8521
+S
+#8524
+The training room~
+Several warriors spar here, beads of sweat evident upon their finely
+toned muscles.  A taskmaster walks through the ranks, barking orders in
+their guttural tongue.  The weapon of choice seems to be clubs equipped with
+metal spikes, but you notice a few maces, morningstars, spears, and even a
+sword/battleaxe or two.  Body odor reigns supreme here, but it's a relief
+from the rancid odor that inhabits the remainder of the village.  Some spar
+alone against long wooden poles, honing their fighting skills, while others
+are engaged in furious hand to hand combat.  All in all, the fighting
+prowess demonstrated gives you a new respect for the ogre kind.  
+~
+0 0 0
+D1
+~
+~
+0 0 8521
+S
+#8525
+The path continues.~
+The path continues through the fort, straight North.  Continuing North
+will lead you to the Keep, and west and east you notice the extremities of
+the fort.  Little activity goes on here, as there are no major buildings.  
+~
+0 0 0
+D0
+~
+~
+0 0 8530
+D1
+~
+~
+0 0 8526
+D2
+~
+~
+0 0 8521
+D3
+~
+~
+0 0 8527
+S
+#8526
+By the east wall~
+Proceeding east, you notice yourself at the extremity of the fort.  Long
+planks of wood tipped with metal spikes form the wall, and a large
+battlement made of stone rises from the ground.  
+~
+0 0 0
+D3
+~
+~
+0 0 8525
+D4
+~
+~
+0 0 8529
+S
+#8527
+The wall facing west~
+Proceeding west, you notice yourself at the extremity of the fort.  Long
+planks of wood tipped with metal spikes form the wall, and a large
+battlement made of stone rises from the ground.  
+~
+0 0 0
+D1
+~
+~
+0 0 8525
+D4
+~
+~
+0 0 8528
+S
+#8528
+A huge stone battlement~
+At the top of the huge stone battlement sits a long row of benches, as
+well as several turrets.  Clearly the ogres do not favor the use of the bow,
+as you can notice no visible archers.  Their favorite long-distance weapon
+appears to be spears tipped with metal heads.  At the hands of the ogres
+that man the turrets, they appear no less fearsome than any arrow of any
+make.  Peering out the side and into the West, you notice the beginnings of
+dusk starting to take shape.  
+~
+0 0 0
+D5
+~
+~
+0 0 8527
+S
+#8529
+A huge stone battlement~
+At the top of the huge stone battlement sits a long row of benches, as
+well as several turrets.  Clearly the ogres do not favor the use of the bow,
+as you can notice no visible archers.  Their favorite long-distance weapon
+appears to be spears tipped with metal heads.  At the hands of the ogres
+that man the turrets, they appear no less fearsome than any arrow of any
+make.  Peering out the side and into the West, you notice the beginnings of
+dusk starting to take shape.  
+~
+0 0 0
+D5
+~
+~
+0 0 8526
+S
+#8530
+Inside the Keep~
+Disguising yourself with a quick incantation, you move forward with a
+group of rather boisterous ogres into the keep.  Inside, you stand in awe at
+the sight before you.  Two levels form the stone battlement of Ogreton, and
+each is a sight to be seen.  Warriors pace the hallways, bustling about in a
+scurry of activity.  Dim lamplight is the only illumination, but the ogres
+appear to have no problems seeing through the darkness.  To the east you
+notice loud shouting, and to the west a room filled with blackboards and
+ogres screaming in loud arguments.  The keep continues upwards by means of a
+circular staircase.  
+~
+0 8 0
+D1
+~
+~
+0 0 8532
+D2
+~
+~
+0 0 8525
+D3
+~
+~
+0 0 8531
+D4
+~
+~
+0 0 8533
+D5
+~
+~
+1 0 8534
+M 0 H 0
+S
+#8531
+The tactical room~
+Many sit around many different tables in this room, moving plastic
+figurines around with long flat-nosed sticks.  Several arguments take place
+here, as the ogres plan their tactics for the upcoming season of pillage and
+loot.  Many (clearly looted) blackboards line the walls, and the ogres make
+an effort to communicate using several different codes, to no avail.  
+~
+0 8 0
+D1
+~
+~
+0 0 8530
+M 0 H 0
+S
+#8532
+The stables~
+Several long rows of stables form this building, and the loud winnying of
+frightened horses echo amongst the rafters.  The stablehands walk back and
+forth, slipping food and drink under the cages to the terribly hungry
+animals.  An ogre lord dressed rather respectably (for an ogre) is in the
+process of attempting to mount his horse without the horse's legs kicking
+out from under it, to no avail.  
+~
+0 8 0
+D3
+~
+~
+0 0 8530
+M 0 H 0
+S
+#8533
+Upper level of the keep~
+Stepping up the stairway, you bump into an ogre hurrying downwards.  He
+grunts at you but continues downwards.  Reaching the peak, you stand at the
+tip of the stairs, lingering a moment.  The top of the keep is covered with
+arcing bridges, made with beautifully sculptured marble, leading to various
+places throughout the keep.  A skylight forms the roof overhead, and
+wonderfully constructed stain glass windows fit in between the windowsills. 
+Yet another remnant of a great ogre society that existed long ago.  
+~
+0 8 0
+D5
+~
+~
+0 0 8530
+S
+#8534
+The dank dungeon~
+Moving down under the keep, you come to a dank, dark cellar.  Rats
+scurry to and fro all over, and the only sound clearly audible is that of
+moaning prisoners, begging to be released.  Hallways lined with prison cells
+spread out in all directions, but an imposing figure blocks the passageway
+East.  
+~
+0 8 0
+D0
+~
+~
+0 0 8538
+D1
+~
+~
+0 0 8535
+D2
+~
+~
+0 0 8536
+D3
+~
+~
+0 0 8537
+D4
+~
+~
+1 0 8530
+S
+#8535
+The dark, dank ogre dungeon~
+He hallway of cells spread out along this corridor.  From cells all
+around you come the moan of the poor trapped souls, permanently secluded
+fromt he rest of society in these dank, dark cells.  They cry out to you,
+begging to be set free..  But what can you do?  
+~
+0 8 0
+D0
+~
+~
+1 0 8543
+D1
+~
+~
+1 0 8548
+D2
+~
+~
+1 0 8544
+D3
+~
+~
+0 0 8534
+M 0 H 0
+S
+#8536
+The dark, dank ogre dungeon~
+He hallway of cells spread out along this corridor.  From cells all
+around you come the moan of the poor trapped souls, permanently secluded
+fromt he rest of society in these dank, dark cells.  They cry out to you,
+begging to be set free..  But what can you do?  
+~
+0 8 0
+D0
+~
+~
+0 0 8534
+D1
+~
+~
+1 0 8546
+D2
+~
+~
+1 0 8550
+D3
+~
+~
+1 0 8545
+M 0 H 0
+S
+#8537
+The dark, dank ogre dungeon~
+He hallway of cells spread out along this corridor.  From cells all
+around you come the moan of the poor trapped souls, permanently secluded
+fromt he rest of society in these dank, dark cells.  They cry out to you,
+begging to be set free..  But what can you do?  
+~
+0 0 0
+D0
+~
+~
+1 0 8539
+D1
+~
+~
+0 0 8534
+D2
+~
+~
+1 0 8540
+D3
+~
+~
+1 0 8549
+S
+#8538
+The dark, dank dungeon~
+He hallway of cells spread out along this corridor.  From cells all
+around you come the moan of the poor trapped souls, permanently secluded
+fromt he rest of society in these dank, dark cells.  They cry out to you,
+begging to be set free..  But what can you do?  
+~
+0 8 0
+D0
+~
+~
+1 0 8559
+D1
+~
+~
+1 0 8541
+D2
+~
+~
+0 0 8534
+D3
+~
+~
+1 0 8542
+S
+#8539
+A very dark cell~
+The prison cell leaves nothing to be wanted after.  Cold, damp, devoid
+of all light, it is every prisoner's nightmare.  Rusted shackles hang from
+the walls, and skeletons lie in neat piles, buried in the corner.  A bleak
+look shines up from the darkness, begging for mercy that will never come.  
+~
+0 8 0
+D2
+~
+~
+1 0 8537
+S
+#8540
+A very dark cell~
+The prison cell leaves nothing to be wanted after.  Cold, damp, devoid
+of all light, it is every prisoner's nightmare.  Rusted shackles hang from
+the walls, and skeletons lie in neat piles, buried in the corner.  A bleak
+look shines up from the darkness, begging for mercy that will never come.  
+~
+0 8 0
+D0
+~
+~
+1 0 8537
+S
+#8541
+A dank ogre cell~
+The prison cell leaves nothing to be wanted after.  Cold, damp, devoid
+of all light, it is every prisoner's nightmare.  Rusted shackles hang from
+the walls, and skeletons lie in neat piles, buried in the corner.  A bleak
+look shines up from the darkness, begging for mercy that will never come.  
+~
+0 8 0
+D3
+~
+~
+1 0 8538
+S
+#8542
+A dank ogre cell~
+The prison cell leaves nothing to be wanted after.  Cold, damp, devoid
+of all light, it is every prisoner's nightmare.  Rusted shackles hang from
+the walls, and skeletons lie in neat piles, buried in the corner.  A bleak
+look shines up from the darkness, begging for mercy that will never come.  
+~
+0 8 0
+D1
+~
+~
+1 0 8538
+S
+#8543
+A dank ogre cell~
+The prison cell leaves nothing to be wanted after.  Cold, damp, devoid
+of all light, it is every prisoner's nightmare.  Rusted shackles hang from
+the walls, and skeletons lie in neat piles, buried in the corner.  A bleak
+look shines up from the darkness, begging for mercy that will never come.  
+~
+0 8 0
+D2
+~
+~
+1 0 8535
+S
+#8544
+A dank ogre cell~
+The prison cell leaves nothing to be wanted after.  Cold, damp, devoid
+of all light, it is every prisoner's nightmare.  Rusted shackles hang from
+the walls, and skeletons lie in neat piles, buried in the corner.  A bleak
+look shines up from the darkness, begging for mercy that will never come.  
+~
+0 8 0
+D0
+~
+~
+1 0 8535
+S
+#8545
+A dank, dark ogre cell~
+The prison cell leaves nothing to be wanted after.  Cold, damp, devoid of
+all light, it is every prisoner's nightmare.  Rusted shackles hang from the
+walls, and skeletons lie in neat piles, buried in the corner.  A bleak look
+shines up from the darkness, begging for mercy that will never come.  
+~
+0 8 0
+D1
+~
+~
+1 0 8536
+M 0 H 0
+S
+#8546
+A dank, dark ogre cell~
+The prison cell leaves nothing to be wanted after.  Cold, damp, devoid of
+all light, it is every prisoner's nightmare.  Rusted shackles hang from the
+walls, and skeletons lie in neat piles, buried in the corner.  A bleak look
+shines up from the darkness, begging for mercy that will never come.  
+~
+0 8 0
+D3
+~
+~
+1 0 8536
+M 0 H 0
+S
+#8548
+A dank, dark cell in the ogre dungeon~
+The prison cell leaves nothing to be wanted after.  Cold, damp, devoid of
+all light, it is every prisoner's nightmare.  Rusted shackles hang from the
+walls, and skeletons lie in neat piles, buried in the corner.  A bleak look
+shines up from the darkness, begging for mercy that will never come.  
+~
+0 8 0
+D3
+~
+~
+1 0 8535
+S
+#8549
+A dank, dark cell in the ogre dungeon~
+The prison cell leaves nothing to be wanted after.  Cold, damp, devoid of
+all light, it is every prisoner's nightmare.  Rusted shackles hang from the
+walls, and skeletons lie in neat piles, buried in the corner.  A bleak look
+shines up from the darkness, begging for mercy that will never come.  
+~
+0 8 0
+D1
+~
+~
+1 0 8537
+S
+#8550
+A dank, dark cell in the ogre dungeon~
+The prison cell leaves nothing to be wanted after.  Cold, damp, devoid
+of all light, it is every prisoner's nightmare.  Rusted shackles hang from
+the walls, and skeletons lie in neat piles, buried in the corner.  A bleak
+look shines up from the darkness, begging for mercy that will never come.  
+~
+0 8 0
+D0
+~
+~
+1 0 8536
+M 0 H 0
+S
+#8559
+A dank, dark cell in the ogre dungeon~
+The prison cell leaves nothing to be wanted after.  Cold, damp, devoid of
+all light, it is every prisoner's nightmare.  Rusted shackles hang from the
+walls, and skeletons lie in neat piles, buried in the corner.  A bleak look
+shines up from the darkness, begging for mercy that will never come.  
+~
+0 8 0
+D2
+~
+~
+1 0 8538
+S
+#8560
+Saltin's room~
+A dank, dark cavern, it fits Saltin's purpose as god of the Underworld.
+Black walls become illuminated by flickering torchlight, sending 
+a creeping mural across the onyx envolopments. A bed of the purest
+black obsidian draped with red satin sheets rests in the centre of
+the room, while Saltin's symbol, a flaming pentagram, juts out from
+the centre of the room.
+~
+0 33284 0
+O saltin~
+M 300 H 300
+S
+#8587
+The Dancing Devil Tavern~
+As you enter, a loud roar of laughter wafts along the air.  Great ogres
+sit at the many tables, while the barmaids try vainly to keep up with their
+drinking.  Multi-colored splotches cover the walls, and dim lava lanterns
+hang from the ceiling.  The barkeeper merely grunts as you approach the bar
+and have a seat.  
+~
+0 0 0
+D1
+~
+~
+0 0 8506
+D4
+~
+~
+0 0 8509
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#8599
+If isimmort$nsay Greeetings, kind $N.  Sigh else say Die, worthless scum.
+Endif 
+~
+A
+#0
+
+#RESETS
+D 0 8504 3 1
+D 0 8505 1 1
+D 0 8510 0 2
+D 0 8510 1 2
+D 0 8510 2 2
+D 0 8510 3 2
+D 0 8511 3 2
+D 0 8512 2 2
+D 0 8513 1 2
+D 0 8514 0 2
+D 0 8530 5 1
+D 0 8534 4 1
+D 0 8535 0 1
+D 0 8535 1 1
+D 0 8535 2 1
+D 0 8536 1 1
+D 0 8536 2 1
+D 0 8536 3 1
+D 0 8537 0 1
+D 0 8537 2 1
+D 0 8537 3 1
+D 0 8538 0 1
+D 0 8538 1 1
+D 0 8538 3 1
+D 0 8539 2 1
+D 0 8540 0 1
+D 0 8541 3 1
+D 0 8542 1 1
+D 0 8543 2 1
+D 0 8544 0 1
+D 0 8545 1 1
+D 0 8546 3 1
+D 0 8548 3 1
+D 0 8549 1 1
+D 0 8550 0 1
+D 0 8559 2 1
+M 1 8599 20 8502 1
+O 0 8597 0 8503
+M 1 8598 20 8503 1
+M 1 8595 1 8504 1
+M 1 8594 1 8504 1
+M 1 8593 1 8504 1
+M 1 8596 1 8505 1
+M 1 8588 20 8507 1
+M 1 8599 20 8507 1
+M 1 8599 20 8508 1
+M 1 8592 20 8508 2
+E 0 8577 0 16
+M 1 8592 20 8508 2
+E 0 8577 0 16
+M 1 8589 1 8510 1
+E 0 8578 0 17
+M 1 8578 1 8511 1
+O 0 8579 0 8512
+M 1 8592 20 8513 1
+O 0 8586 0 8513
+O 0 8584 0 8513
+O 0 8597 0 8514
+M 1 8598 20 8514 1
+M 1 8599 20 8516 1
+M 1 8588 20 8516 1
+M 1 8599 20 8518 1
+O 0 8597 0 8519
+M 1 8598 20 8519 1
+M 1 8587 20 8520 1
+M 1 8588 20 8520 1
+E 0 8583 0 13
+M 1 8585 1 8522 1
+M 1 8592 20 8523 1
+E 0 8577 0 16
+M 1 8586 1 8524 1
+M 1 8592 20 8528 1
+E 0 8577 0 16
+M 1 8592 20 8529 1
+E 0 8577 0 16
+M 1 8574 1 8531 1
+G 0 8574 0
+M 1 8575 1 8532 1
+G 0 8576 0
+M 1 8582 1 8534 1
+E 0 8573 0 16
+M 1 8581 20 8539 1
+M 1 8581 20 8540 1
+M 1 8581 20 8541 1
+M 1 8581 20 8542 1
+M 1 8581 20 8543 1
+M 1 8581 20 8544 1
+M 1 8581 20 8545 1
+M 1 8581 20 8546 1
+M 1 8581 20 8548 1
+O 0 8580 0 8548
+M 1 8581 20 8549 1
+O 0 8580 0 8549
+M 1 8581 20 8550 1
+O 0 8580 0 8550
+M 1 8581 20 8559 1
+O 0 8580 0 8559
+M 1 8590 1 8587 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

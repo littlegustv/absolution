@@ -1,0 +1,1221 @@
+#AREADATA
+Name Goblin Stronghold~
+Builders None~
+VNUMs 29001 29030
+Credits {10 20} Badaxe      Goblin Stronghold~
+Security 9
+Xcontinent 0
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#29001
+king goblin Grumm~
+Grumm~
+Grumm, King of the Goblins isn't happy to see you.
+~
+You see a balding, overweight goblin, but he looks quite tough!
+~
+goblin~
+ABFHT Jb -600 0
+19 0 10d5+250 1d1+99 2d7+4 none
+4 4 4 1
+FKNPR AZa BQ C
+stand stand male 800
+AHMV ABCDEFGHIJK small 0 the guilds~
+#29002
+shaman goblin~
+The goblin shaman~
+A goblin up from his writing and glares at your intrusion on his work.
+~
+His face is sour and pale. He probably takes his religion very seriously.
+~
+goblin~
+ABFHQ J -600 0
+15 0 5d6+170 1d1+199 2d6+2 none
+5 5 5 0
+PR A Q C
+stand stand male 500
+AHMV ABCDEFGHIJK small 0 the guilds~
+#29003
+mage goblin~
+Goblin Mage~
+A goblin mage is angered by your intrusion.
+~
+This goblin mage has been working for months towards this moment. And YOU
+have intruded upon him! He looks REALLY pissed off! Clad in a pile of filth
+your dog would not sleep in, he is much smaller than the other goblins in the
+stronghold.
+~
+goblin~
+ABFHR BCDEFJVd -600 0
+15 0 5d6+150 1d1+199 2d5+4 none
+2 2 2 8
+PR A Q C
+stand stand male 500
+AHMV ABCDEFGHIJK small 0 the guilds~
+#29004
+champion goblin knarl~
+Knarl~
+Before you is the biggest goblin you have ever seen.
+~
+Knarl glares right back at you.
+~
+goblin~
+ABFT FJPVb -1000 0
+20 0 5d5+350 1d1+99 2d8+2 none
+5 5 5 0
+CDEFKPR A BQ C
+stand stand male 900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#29005
+guard goblin~
+goblin guard~
+A goblin guard eyes you suspiciously.
+~
+A bit larger than your average goblin, guards are bullies to the others.
+~
+goblin~
+ABFT J -600 29005
+12 0 1d5+170 1d1+99 1d9+3 none
+3 3 3 0
+R A Q C
+stand stand male 300
+AHMV ABCDEFGHIJK small 0 the guilds~
+#29006
+guard goblin~
+a goblin guard~
+A goblin guard eyes you suspiciously.
+~
+A bit larger than your average goblin, guards are bullies to the others.
+~
+goblin~
+AFT J -600 29006
+13 0 1d5+170 1d1+99 1d9+1 none
+3 3 3 0
+EKR AQ CQ C
+stand stand male 300
+AHMV ABCDEFGHIJK small 0 the guilds~
+#29007
+goblin~
+The goblin~
+A goblin is here, slacking off.
+~
+He's ugly, green, and smelly... What's more to say?
+~
+goblin~
+AFT J -600 29007
+12 0 5d12+115 1d1+99 1d9+2 none
+2 2 2 0
+R A Q C
+stand stand male 400
+AHMV ABCDEFGHIJK small 0 the guilds~
+#29008
+goblin prisoner~
+the goblin prisoner~
+A goblin is here, shackled to the wall.
+~
+You notice his skin is more bluish... perhaps he's from another tribe?
+~
+goblin~
+AT J -600 0
+3 0 10d2+15 1d1+99 1d4+1 none
+2 2 2 0
+0 0 Q C
+stand stand none 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+#29009
+leper goblin~
+the goblin leper~
+This goblin looks very sick.
+~
+He screams! "Don't look at me!! Aaargh... leper outcast unclean!"
+~
+goblin~
+ACFGS FJPQXbd 0 29009
+15 0 5d5+200 1d1+99 2d4+3 none
+3 3 3 0
+BDEFR AB Q CQ
+stand stand male 2
+AHMV ABCDEFGHIJK small 0 the guilds~
+#29010
+goblin~
+the goblin~
+A goblin is here, peeling potatoes.
+~
+He's ugly, green, and smelly... What's more to say?
+~
+goblin~
+ABFT J -600 29010
+14 0 10d2+230 1d1+99 1d10+1 none
+2 2 2 0
+R A Q C
+stand stand male 70
+AHMV ABCDEFGHIJK small 0 the guilds~
+#29011
+demon lesser~
+The Lesser Demon~
+A dark, horned figure is trapped inside the pentagram.
+~
+He really wants to get out of that pentagram. Maybe you should let him out?
+~
+deamon~
+ABG DFHJTb -1000 0
+20 0 1d1+399 1d1+149 5d4+5 none
+-7 -7 -7 5
+CDEFHIKMN AB HQ ENS
+stand stand male 900
+ABGHMVZ ABCDEFGHIJKQVX large 0 the guilds~
+#29012
+girl dancing goblin Britta~
+the dancing girl~
+A pretty female goblin entertains the court.
+~
+She is quite pretty, even for a goblin.
+~
+goblin~
+ABFT J -600 0
+9 0 10d2+120 1d1+99 1d6+1 none
+2 2 2 0
+R A Q C
+stand stand female 100
+AHMV ABCDEFGHIJK small 0 the guilds~
+#29013
+goblin jester runt~
+the goblin jester~
+A obnoxious little runt makes fun of you.
+~
+He wears a stupid green suit with bells on it. You hate him.
+~
+goblin~
+AFT J -600 0
+11 0 10d2+145 1d1+99 2d4+1 none
+2 2 2 0
+0 A Q C
+stand stand male 10
+AHMV ABCDEFGHIJK small 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#29001
+jacket goblin scale mail~
+a goblin scale mail jacket~
+A goblin scale mail jacket is lying on the ground.~
+bone~
+armor 0 AD
+5 4 4 0 0
+10 10 849 G
+#29002
+jerkin goblin scale mail~
+a goblin scale mail jerkin~
+A goblin scale mail jerkin is lying on the ground.~
+bone~
+armor 0 AD
+4 4 4 0 0
+9 9 530 G
+#29003
+skirt goblin scale mail~
+a goblin long scale mail skirt~
+A goblin long scale mail skirt is lying on the ground.~
+bone~
+armor 0 AF
+4 5 4 0 0
+11 10 500 G
+#29004
+sleeves goblin scale mail~
+a pair of goblin scale mail sleeves~
+A pair of goblin scale mail sleeves is lying on the ground.~
+bone~
+armor 0 AI
+5 4 4 0 0
+8 6 400 G
+#29005
+shirt goblin chain mail~
+a goblin chain mail shirt~
+A goblin chain mail shirt is lying on the ground.~
+steel~
+armor 0 AD
+5 4 5 0 0
+12 8 800 G
+#29006
+skirt goblin chain mail~
+a goblin long chain mail skirt~
+A goblin long chain mail skirt is lying on the ground.~
+steel~
+armor 0 AF
+5 4 5 0 0
+12 10 800 G
+#29007
+gauntlets goblin chain mail~
+a pair of goblin chain mail gauntlets~
+A pair of goblin chain mail gauntlets is lying on the ground.~
+steel~
+armor cd AH
+5 4 5 0 0
+10 5 700 P
+#29008
+sleeves goblin chain mail~
+a pair of goblin chain mail sleeves~
+A pair of goblin chain mail sleeves is lying on the ground.~
+steel~
+armor bd AI
+5 4 5 0 0
+10 6 390 P
+#29009
+crown king goblin~
+the Great Crown of the Goblin King~
+A simple crown of silver lies here. It looks quite old.~
+silver~
+armor G AE
+4 6 5 3 0
+16 10 2000 P
+A
+13 25  
+#29010
+grumm axe~
+the Great War Axe of Grumm~
+A quite large, two-handed and double-bladed axe lies before you.~
+iron~
+weapon AG AN
+axe 3 4 slash AF
+18 13 4000 G
+A
+18 2  
+A
+19 2  
+#29011
+helmet goblin horned dark~
+a dark goblin horned helmet~
+A dark goblin horned helmet lies here~
+iron~
+armor AB AE
+3 5 4 0 0
+9 5 450 P
+A
+3 -1  
+A
+19 1  
+#29012
+arm guards granite~
+a pair of carved granite armguards~
+You see a large hollow tube carved of granite.~
+stone~
+armor G AI
+6 6 9 2 0
+15 15 1900 P
+A
+5 1  
+E
+arm guards armguards granite~
+These heavy armguards have been carved from the rock of these caverns.
+~
+#29013
+cape green filthy~
+a filthy green cape~
+You see a pile of green rags on the floor~
+cloth~
+armor G AK
+1 2 1 1 0
+10 8 1650 P
+A
+2 -1  
+A
+12 20  
+E
+Filthy green cape.~
+You see a cape ridden with filth and vermin. You're not going to WEAR it, are
+you?
+~
+#29014
+dagger shard stone~
+a stone shard~
+A sharp, pointed rock lies here.~
+stone~
+weapon AG AN
+dagger 2 4 stab I
+12 7 1100 G
+A
+19 2  
+A
+18 -2  
+E
+A stone shard~
+Looks like it would make a good weapon.
+~
+#29015
+sword goblin short~
+a goblin's shortsword~
+It looks heavier than your average shortsword, but it could use some oiling.~
+iron~
+weapon Gac AN
+sword 2 4 slash 0
+12 7 900 G
+A
+18 1  
+A
+19 1  
+#29016
+potion frothing black~
+a frothing black potion~
+You see a frothing black potion. ~
+glass~
+potion BG AO
+25 '(null)' '(null)' 'remove curse' '(null)'
+10 5 10000 G
+E
+frothing black potion~
+It's moving. You can see little bugs and other chunks floating in it.
+~
+#29017
+sword long two two-hand two-handed~
+a long two-handed sword~
+A long two-handed sword has been left here.~
+iron~
+weapon AG AN
+sword 5 3 slash F
+20 12 4900 G
+A
+18 1  
+A
+19 2  
+A
+4 -1  
+A
+5 -1  
+#29018
+key shaman goblin~
+the goblin shaman's key~
+An old rusty key has been forgotten here.~
+iron~
+key 0 A
+0 0 0 0 0
+5 5 0 G
+#29019
+key king goblin~
+the goblin king's key~
+An old rusty key has been forgotten here.~
+iron~
+key 0 A
+0 0 0 0 0
+5 5 0 G
+#29020
+key mage goblin~
+the goblin mage's key~
+An old rusty key has been forgotten here.~
+iron~
+key 0 A
+0 0 0 0 0
+5 5 0 G
+#29021
+key dungeon goblin~
+the goblin dungeon key~
+An old rusty key has been forgotten here.~
+iron~
+key 0 A
+0 0 0 0 0
+5 5 0 G
+#29022
+rock big~
+a big rock~
+You see a big rock in the middle of the room. It looks real heavy.~
+stone~
+container ABY AQ
+60 0 0 10 75
+20 20 12300 G
+A
+24 -2  
+#29023
+ring britta~
+Britta's Ring~
+You almost miss a tiny ring of gold.~
+gold~
+armor G AB
+3 3 3 3 0
+9 3 1100 G
+A
+3 1  
+#29024
+Bookcase~
+Bookcase~
+A large wooden bookcase~
+wood~
+container 0 0
+100 A 0 50 72
+0 0 0 G
+E
+Bookcase~
+Its a rather large wooden bookcase. There are many books in it, but they
+are all written in GOBLIN!
+~
+#29025
+Desk~
+A large mahogany desk~
+A large mahogany desk is here.~
+wood~
+container 0 0
+100 A 0 50 72
+0 0 0 G
+E
+Desk~
+This is a beautiful desk, made with a dark brown wood.
+~
+#29026
+Throne~
+King Grumm's Throne~
+King Grumm's Throne is here.~
+wood~
+furniture A 0
+2 -1 ABCDEFGHIJKL 150 150
+0 0 0 P
+E
+Throne~
+This throne must have been left behind by the dwarves. It's inlaid with
+many fine gems and precious metals. Unfortunately, the largest of these have
+long since been scavenged.
+~
+#29027
+table~
+a large mahogany feast table~
+A large mahogany feast table is here.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+table~
+This is by far the finest table you have ever seen. It stretches clear into
+the north end of the Great Hall.
+~
+#29028
+table~
+A large mahogany feast table~
+A large mahogany feast table is here.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+table~
+This is by far the finest table you have ever seen. It stretches clear into
+the south end of the Great Hall.
+~
+#29029
+gold~
+a small pile of gold~
+A small pile of gold is here glittering.~
+gold~
+money 0 A
+0 25 0 0 0
+0 0 0 P
+#29030
+mace heavy iron~
+a heavy iron mace~
+A heavy iron mace lies in the rubble.~
+iron~
+weapon bd AN
+mace 2 4 pound 0
+11 8 790 G
+#0
+
+
+
+#ROOMS
+#29001
+The Entry Hall to the Goblin Stronghold~
+You step into a cavern chiseled from solid granite. The first thing
+you notice is the stench. You see goblins everywhere, clad for battle.
+Perhaps they are training for an assault on Midgaard, as they have been
+spotted outside the South Gate more and more frequently. Whatever their
+purpose here, you must put a stop to it. You see hallways leading east
+and west, and a set of great doors to the south.
+You see a trap door leading upwards.
+   There is a small (Glowing) (Huming) tablet.
+~
+0 8 0
+E
+small tablet~
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                                                                    +
++   This area has been grokked, modified, debugged (?:) and adapted   +
++   by Galad, 9/96                                                    +
++                                                                    +
++   P.S. prepare to die, and have fun.                         +
++                                                                    +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+~
+D1
+Exit ~
+~
+0 -1 29019
+D2
+Exit ~
+Great Doors~
+1 -1 29002
+D3
+Exit ~
+~
+0 -1 29018
+D4
+Exit ~
+trap door~
+1 -1 3556
+S
+#29002
+North End of the Great Hall~
+This mighty vaulted cavern seems much too fine to have been crafted by
+the likes of what you see here. Walls are built from carved granite blocks
+which must weigh over a ton apiece. The smooth rock arches up to a perfect
+semi-circular stone ceiling upon which a great battle scene is painted.
+Tapestries and paintings line the walls, but these have fallen into
+disrepair at the hands of the goblin occupants. A long mahogany dining
+table stretches for a full twenty yards, well into the south end of the
+Great Hall. You now notice that the subjects of the artwork here are
+dwarven, not goblin. Perhaps the goblin legions overran this fortress and
+drove the dwarves out. In any event, your work has just begun. The guards
+have noticed you. You better be ready. The Great Hall continues south, with
+doors east and west.
+~
+0 8 0
+D0
+Exit ~
+Great Doors~
+1 -1 29001
+D1
+Exit ~
+~
+0 -1 29023
+D2
+Exit ~
+~
+0 -1 29003
+D3
+Exit ~
+~
+1 -1 29021
+S
+#29003
+South End of the Great Hall~
+This mighty vaulted cavern seems much too fine to have been crafted by
+the likes of what you see here. Walls are built from carved granite blocks
+which must weigh over a ton apiece. The smooth rock arches up to a perfect
+semi-circular stone ceiling upon which a great battle scene is painted.
+Tapestries and paintings line the walls, but these have fallen into
+disrepair at the hands of the goblin occupants. A long mahogany dining
+table stretches for a full twenty yards, well into the north end of the
+Great Hall. A grand archway leads south, and through it you can see a
+throne.
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 29002
+D2
+Exit ~
+~
+0 -1 29004
+S
+#29004
+King Grumm's Throne Room~
+Chaos reigns in the court of King Grumm. Jesters, dancing girls,
+officious-looking goblins, and a myriad of other distractions compete for
+the time of the king. The Throne Room is a perfectly-round chamber with
+a large statue of a heroic-looking dwarf in the centre. Once again,
+tapestries line the walls, portraying battles and glory. If it was possible
+to instill more chaos into this carnival atmosphere, you have succeeded. The
+king leaps to his feat, and goblin guards bar your escape back south. Grumm
+dosen't look like he wants to talk! There is a doorway to your east, and
+another to the west.
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 29003
+D1
+Exit ~
+~
+1 -1 29006
+D2
+Exit ~
+Tapestry~
+1 -1 29007
+D3
+Exit ~
+~
+1 -1 29005
+S
+#29005
+Goblin Shaman's Quarters~
+This room is a delightful change from the rest of the fortress. The
+air is sweet with the smell of incense, and the room is clean (by goblin
+standards anyways). There is a large bookcase on the north wall, and before
+it, a desk and chair.
+~
+0 8 0
+D1
+Exit ~
+~
+1 -1 29004
+S
+#29006
+Goblin Mage's Quarters~
+A very heavy mist hovers above the floor here. It's not enough to
+obscure your vision though, and when you look closer, you can see an inlaid
+pentagram has been added to the granite stonework. The room is otherwise
+spartan, housing a small cot and a desk. Otherwise the room is barren.
+~
+0 8201 0
+D3
+Exit ~
+~
+1 -1 29004
+S
+#29007
+Hidden Passage~
+This passage s obscured behind the curtain. It leads north into the
+Throne Room, and to the south there is a door.
+~
+0 8 0
+D0
+Exit ~
+Tapestry~
+1 -1 29004
+D2
+Exit ~
+~
+1 29020 29008
+S
+#29008
+Hidden Passage~
+After opening the first door, you are dismayed to be confronted with a
+second. The door leads south, with another leading back north.
+~
+0 8 0
+D0
+Exit ~
+~
+1 29020 29007
+D2
+Exit ~
+~
+1 29018 29009
+S
+#29009
+Hidden Passage~
+After opening the second door, you are dismayed to be confronted with
+a third. The door leads south, with another leading back north.
+~
+0 8 0
+D0
+Exit ~
+~
+1 29018 29008
+D2
+Exit ~
+~
+1 29019 29010
+S
+#29010
+The Treasure Chamber of the Goblin Stronghold~
+After opening the third door you come opon a cache of gold and
+jewelry. There are no exits, save the door you came through.
+~
+0 8 0
+D0
+Exit ~
+~
+1 29019 29009
+S
+#29011
+A Small Cell in the Dungeon~
+As you step through the door to this room, you hear a slam and a
+click. You spin quickly and are dismayed to see that the door has closed
+and locked. You hear maniacal laughter coming from the far side of the
+door. There is no escape. You will spend your days rotting in this goblin
+prision.
+~
+0 8 0
+D5
+Exit ~
+~
+1 -1 29024
+S
+#29012
+A Small Cell in the Dungeon~
+This is a little 6x6 cell with a floor of straw. The air is damp here.
+The far wall has a set of shackles set in the stone. Nice place to visit,
+but you wouldn't want to live here.
+~
+0 8 0
+D2
+Exit ~
+~
+1 29021 29025
+S
+#29013
+A Small Cell in the Dungeon~
+This is a little 6x6 cell with a floor of straw. The air is damp here.
+The far wall has a set of shackles set in the stone. Nice place to visit,
+but you wouldn't want to live here.
+~
+0 8 0
+D0
+Exit ~
+~
+1 29021 29025
+S
+#29014
+A Small Cell in the Dungeon~
+This is a little 6x6 cell with a floor of straw. The air is damp here.
+The far wall has a set of shackles set in the stone. Nice place to visit,
+but you wouldn't want to live here.
+~
+0 8 0
+D2
+Exit ~
+~
+1 29021 29026
+S
+#29015
+A Small Cell in the Dungeon~
+This is a little 6x6 cell with a floor of straw. The air is damp here.
+The far wall has a set of shackles set in the stone. Nice place to visit,
+but you wouldn't want to live here.
+~
+0 8 0
+D0
+Exit ~
+~
+1 29021 29026
+S
+#29016
+The Dungeon~
+Below the iron grate is a small guardroom. There is a table and some
+chairs, but not much else of interest. A hallway leads west, with the iron
+grate exiting up.
+~
+0 8 0
+D3
+Exit ~
+~
+0 -1 29026
+D4
+Exit ~
+~
+1 -1 29017
+S
+#29017
+A Hallway in the Stronghold~
+This corridor is lit by torches set in wall brackets. An iron grate is
+set in the floor, and from below you can hear moaning and scraping. The
+hallway leads east with a large room to the south.
+~
+0 8 0
+D1
+Exit ~
+~
+0 -1 29018
+D2
+Exit ~
+~
+0 -1 29027
+D5
+Exit ~
+grate~
+1 -1 29016
+S
+#29018
+A Hallway in the Stronghold~
+This corridor is lit by torches set in wall brackets. The hall
+continues to the west, and the Entry Hall is to your east. There is also an
+arched doorway to the south. You can hear the sounds of combat to the
+south.
+~
+0 8 0
+D1
+Exit ~
+~
+0 -1 29001
+D2
+Exit ~
+~
+0 -1 29021
+D3
+Exit ~
+~
+0 -1 29017
+S
+#29019
+A Hallway in the Stronghold~
+This corridor is lit by torches set in wall brackets. The hallway
+continues to the east, and the Entry Hall is to your west. There is also an
+arched doorway to the south. Something smells foul there.
+~
+0 8 0
+D1
+Exit ~
+~
+0 -1 29020
+D2
+Exit ~
+~
+0 -1 29023
+D3
+Exit ~
+~
+0 -1 29001
+S
+#29020
+A Hallway in the Stronghold~
+This corridor is lit by torches set in wall brackets. The hallway
+continues to the west, and there is an arched doorway to the south.
+~
+0 8 0
+D2
+Exit ~
+~
+0 -1 29022
+D3
+Exit ~
+~
+0 -1 29019
+S
+#29021
+Goblin Training Room~
+This is where the goblins are shaped into something resembling a
+fighting unit. Assorted dummies and training equipment lie around. The room
+has a sticky film of blood on the floor. Apparently the goblins believe in
+the Darwinian theory of military training.
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 29018
+D1
+Exit ~
+~
+1 -1 29002
+S
+#29022
+Goblin Barracks~
+This room is where the goblin soldiers sleep. The room is a full 20
+yards square and there are bunks along each wall. There is graphic
+graffiti scrawled on the walls, but it's in goblin and all you can make
+out are the drawings of goblin females. There is an arched doorway leading
+north.
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 29020
+S
+#29023
+The Kitchen~
+A large kitchen area fills this room. Large pots bubble with
+foul-smelling goblin cuisine. There is nothing in this room to interest
+you. There is a door to your west, and an arched doorway to the north.
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 29019
+D3
+Exit ~
+~
+1 -1 29002
+S
+#29024
+A Tiny Crawlspace~
+Below the cell there is a tiny crawlspace. There is a portal here.
+~
+0 8 0
+D4
+Exit ~
+~
+1 -1 29011
+S
+#29025
+A Hall in the Dungeon~
+This place is a new addition to the Stronghold. The hallway is little
+more than a tunnel through the rock. The hall leads east, with doors to
+your north, south, and west.
+~
+0 8 0
+D0
+Exit ~
+~
+1 29021 29012
+D1
+Exit ~
+~
+0 -1 29026
+D2
+Exit ~
+~
+1 29021 29013
+D3
+Exit ~
+~
+1 29021 29011
+S
+#29026
+A Hall in the Dungeon~
+This place is a new addition to the Stronghold. The hallway is little
+more than a tunnel through the rock. The hall leads west, with doors to
+your north and south, a room to your east.
+~
+0 8 0
+D0
+Exit ~
+~
+1 29021 29014
+D1
+Exit ~
+~
+0 -1 29016
+D2
+Exit ~
+~
+1 29021 29015
+D3
+Exit ~
+~
+0 -1 29025
+S
+#29027
+Goblin Barracks~
+This room is where the goblin soldiers sleep. The room is a full 20
+yards square and there are bunks along each wall. There is graphic
+graphitti scrawled on the walls, but it's in goblin and all you can make
+out are the drawings of goblin females. There is an arched doorway leading
+north.
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 29017
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 29001 2 1
+D 0 29001 4 1
+D 0 29002 0 1
+D 0 29002 3 1
+D 0 29004 1 1
+D 0 29004 2 1
+D 0 29004 3 1
+D 0 29005 1 1
+D 0 29006 3 1
+D 0 29007 0 1
+D 0 29007 2 2
+D 0 29008 0 2
+D 0 29008 2 2
+D 0 29009 0 2
+D 0 29009 2 2
+D 0 29010 0 2
+D 0 29012 2 2
+D 0 29013 0 2
+D 0 29014 2 2
+D 0 29015 0 2
+D 0 29016 4 1
+D 0 29017 5 1
+D 0 29021 1 1
+D 0 29023 3 1
+D 0 29024 4 2
+D 0 29025 0 2
+D 0 29025 2 2
+D 0 29025 3 2
+M 1 29005 10 29001 1
+E 0 29001 0 5
+E 0 29003 0 7
+E 0 29004 0 10
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29005 10 29001 1
+E 0 29001 0 5
+E 0 29003 0 7
+E 0 29004 0 10
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29007 20 29001 1
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29005 10 29002 1
+E 0 29001 0 5
+E 0 29003 0 7
+E 0 29004 0 10
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29007 20 29002 1
+E 0 29011 0 6
+E 0 29015 0 16
+O 0 29027 0 29002
+M 1 29005 10 29003 1
+E 0 29001 0 5
+E 0 29003 0 7
+E 0 29004 0 10
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29007 20 29003 1
+E 0 29011 0 6
+E 0 29015 0 16
+O 0 29028 0 29003
+M 1 29001 1 29004 1
+E 0 29010 0 16
+E 0 29009 0 6
+E 0 29005 0 5
+E 0 29006 0 7
+E 0 29007 0 9
+E 0 29008 0 10
+G 0 29019 0
+M 1 29005 10 29004 1
+E 0 29001 0 5
+E 0 29003 0 7
+E 0 29004 0 10
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29005 10 29004 1
+E 0 29001 0 5
+E 0 29003 0 7
+E 0 29004 0 10
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29007 20 29004 1
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29012 1 29004 1
+E 0 29023 0 1
+M 1 29013 1 29004 1
+O 0 29026 0 29004
+M 1 29002 1 29005 1
+E 0 29005 0 5
+E 0 29006 0 7
+E 0 29007 0 9
+E 0 29008 0 10
+E 0 29016 0 17
+E 0 29030 0 16
+G 0 29018 0
+O 0 29024 0 29005
+P 0 29022 1 29024 10
+O 0 29025 0 29005
+M 1 29003 1 29006 1
+E 0 29013 0 12
+E 0 29014 0 16
+G 0 29020 0
+M 1 29011 1 29006 1
+O 0 29029 0 29010
+M 1 29009 1 29011 1
+M 1 29008 4 29012 1
+M 1 29008 4 29013 1
+M 1 29008 4 29014 1
+M 1 29008 4 29015 1
+M 1 29005 10 29016 2
+E 0 29001 0 5
+E 0 29003 0 7
+E 0 29004 0 10
+E 0 29011 0 6
+E 0 29015 0 16
+G 0 29021 0
+M 1 29005 10 29016 2
+E 0 29001 0 5
+E 0 29003 0 7
+E 0 29004 0 10
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29007 20 29017 1
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29007 20 29018 1
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29007 20 29019 1
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29007 20 29020 1
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29004 1 29021 1
+E 0 29017 0 16
+E 0 29012 0 10
+E 0 29005 0 5
+E 0 29006 0 7
+E 0 29007 0 9
+M 1 29005 10 29021 1
+E 0 29001 0 5
+E 0 29003 0 7
+E 0 29004 0 10
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29005 10 29021 1
+E 0 29001 0 5
+E 0 29003 0 7
+E 0 29004 0 10
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29007 20 29021 1
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29007 20 29021 1
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29005 10 29022 1
+E 0 29001 0 5
+E 0 29003 0 7
+E 0 29004 0 10
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29005 10 29022 1
+E 0 29001 0 5
+E 0 29003 0 7
+E 0 29004 0 10
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29007 20 29023 1
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29007 20 29023 1
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29010 2 29023 1
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29010 2 29023 1
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29007 20 29027 1
+E 0 29011 0 6
+E 0 29015 0 16
+M 1 29007 20 29027 1
+E 0 29011 0 6
+E 0 29015 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

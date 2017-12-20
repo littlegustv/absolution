@@ -1,0 +1,1295 @@
+#AREADATA
+Name Stoneridge~
+Builders Grog~
+VNUMs 11000 11199
+Credits {1 51} Immortal Town Homes  ~
+Security 1
+End
+
+
+
+#MOBILES
+#11000
+gatekeeper~
+the Gatekeeper~
+The Gatekeeper of the Grand Gates stands watch here.
+~
+He doesnt blink. He doesnt flinch. He barely seems to breath.
+~
+human~
+ABG V 400 0
+32 0 10d10+1000 1d1+499 6d4+9 none
+-10 -10 -10 -8
+DEFHJK AB 0 0
+stand stand male 2900
+AHMV ABCDEFGHIJK medium 0
+#11001
+liesbet~
+Liesbet~
+Liesbet is smiling behind the glass counter.
+~
+Liesbet is quite pretty. Long red hair hangs down to her waistline. Her
+hair frames an angelice face of lily white skin. She is extremely thin
+due to the fact that she is running around the shop all day.
+~
+human~
+ABV 0 0 0
+30 0 6d12+853 1d1+499 4d6+8 none
+-9 -9 -9 -7
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#11002
+melahat~
+Melahat~
+Melahat stands here looking over the works of the shop.
+~
+Melahat is short and stocky. Melahat means business. Short black hair
+surrounds a rounded face with a nose that appears to have been broken
+more than once. She wipes the sweat from her brow with a darkened rag.
+~
+human~
+ABV 0 0 0
+30 0 6d12+853 1d1+499 4d6+8 none
+-9 -9 -9 -7
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#11000
+fountain~
+a fountain made of sparkling crystal~
+A beautiful crystal fountain is calmly bubbling here.~
+crystal~
+fountain GY 0
+1000 1000 'water' 0 0
+0 0 0 P
+E
+crystal~
+What a beautiful fountain!
+~
+E
+fountain~
+What a beautitul fountain!
+~
+E
+beautiful~
+What a beautiful fountain!
+~
+#11001
+huge bed~
+a very comfortable bed~
+A huge bed is here, it could probably even fit a few dragons.~
+wood~
+furniture 0 0
+5 5000 EHK 100 100
+0 0 0 P
+#11002
+large sign~
+a town homes sign~
+A large sign is hanging above the doorway to the north.~
+metal~
+furniture Y 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+Yes! You can now purchase your own home.
+Be the king or queen of the castle of 
+your dreams. Please go north and tour
+a model home, which could soon be yours.
+Please note Grog on the personal board
+with all inquiries.
+~
+#11003
+regal armchair chair~
+a regal armchair~
+A regal armchair decorated with tapestry and eagle talon claws rests here.~
+cloth~
+furniture 0 0
+1 900 FI 100 100
+0 0 0 P
+#11004
+fountain children~
+the Fountain of the Children~
+The Fountain of the Children is spraying water high into the air.~
+stone~
+fountain 0 0
+1000 1000 'water' 0 0
+0 0 0 P
+E
+fountain~
+Huge stone sculptures of the five children of Bosco are in the center
+of this large fountain. Each statue, depicted as adults not children,
+shows great detail and was worked by fine craftsmen. The placement of
+the statues was also well planned, each of Bosco's children has their
+back to the other four.
+~
+#11005
+tasty cassoulet~
+a tasty cassoulet~
+Delicious smells waft from a stone crock.~
+food~
+food N A
+25 50 0 0 0
+0 10 30 P
+#11006
+smoked ham~
+a piece of smoked ham~
+Someone has dropped a piece of ham here.~
+food~
+food 0 A
+20 40 0 0 0
+0 10 20 P
+#11007
+asparagus~
+some marinated asparagus~
+Some vegetables are sitting in a bowl here.~
+food~
+food 0 A
+5 10 0 0 0
+0 10 7 P
+#11008
+blue cheese~
+a wedge of blue cheese~
+Someone has tossed away a perfectly good piece of cheese.~
+food~
+food 0 AO
+20 35 0 0 0
+0 10 15 P
+E
+cheese~
+The label reads, Another fine product brought to you by Silfen Importers.
+~
+#11009
+wingwasp~
+a wingwasp~
+A vicious wingwasp is laying here.~
+metal~
+throwing N AO
+3 7 sting 30 'lightning bolt'
+20 20 2200 P
+#11010
+black star~
+a black star~
+A darkened piece of pewter in the shape of a star lies here.~
+pewter~
+throwing N AO
+3 7 slice 37 'acid blast'
+30 20 3500 P
+#11011
+forged dagger~
+a forged dagger~
+A well forged dagger lays in the dirt.~
+copper~
+throwing N AO
+2 11 pierce 50 'flame arrow'
+48 30 7200 P
+#11012
+fragment ball lead~
+a fragment ball~
+Someone has dropped a small lead ball here.~
+lead~
+throwing N AO
+2 9 blast 17 'general purpose'
+10 40 1700 P
+#11013
+garbage~
+a test garbage~
+A test garbage.~
+stone~
+trash 0 A
+0 0 0 0 0
+0 10 1 P
+#0
+
+
+
+#ROOMS
+#11000
+The Path to Stoneridge~
+Rolling green fields stretch as far as the eye can see on either side
+of a well trodden dirt path. To the north, you can make out the grand
+architecture of Stoneridge. The path runs north and south.
+~
+0 0 2
+D0
+~
+~
+0 0 11001
+S
+#11001
+Before the Grand Gates of Stoneridge~
+To the north lies the entrance to Stoneridge. Massive iron gates are
+set into a huge stone wall. The wall extends for miles to the east and
+west. Towering in the background, behind the wall, you see the ancient
+spires of the town reaching into the sky.
+~
+0 0 1
+D0
+~
+gates~
+1 0 11002
+D2
+~
+~
+0 0 11000
+S
+#11002
+Inside the Grand Gates~
+The intricate iron gates of the town rise high above you. Victory
+Boulevard lies to the north leading towards the heart of the city.
+Grande Route lies to the east and west of here. The road out of the
+city is to the south.
+~
+0 0 1
+D0
+~
+~
+0 0 11009
+D1
+~
+~
+0 0 11003
+D2
+~
+gates~
+1 0 11001
+D3
+~
+~
+0 0 11013
+S
+#11003
+Along Grande Route~
+A cobblestone street lies between the buildings to the north and the
+huge stone wall along the south. An open door north leads to a model
+home. The Grand Gates of Stoneridge are to the west. The cobblestone
+path continues east.
+~
+0 0 1
+D0
+~
+~
+1 0 11004
+D1
+~
+~
+0 0 11007
+D3
+~
+~
+0 0 11002
+S
+#11004
+A Comfy Sitting Room~
+A brick fireplace is framed by a magnificent marble mantlepiece. A large
+skylight of stained glass sits atop the high ceiling. Beautiful tapestries,
+of different shapes and colors, hang on all the walls. The exit to the street 
+is south. Doorways are east and west.
+~
+0 268435468 1
+D1
+~
+~
+1 0 11006
+D2
+~
+~
+1 0 11003
+D3
+~
+~
+1 0 11005
+S
+#11005
+A Cozy Corner of the Castle~
+Long silk curtains frame detailed stained glass windows. While the walls
+are made of stone, there is a certain warmth to this chamber. The sounds
+of the city and the world outside seem to vanish within this room. This
+would probably be a good place to take a catnap. The only exit is west
+to the sitting room.
+~
+0 268435468 1
+D1
+~
+~
+1 0 11004
+S
+#11006
+A Quiet Corner of the Castle~
+The only light in this room comes from hundreds of candles burning throughout
+it. Colorful murals adorn all the walls. They depict magic users of old in
+various ceremonies and gatherings. The marble tile floor intensifies every
+sound in the room. The only exit is east to the sitting room.
+~
+0 268435468 1
+D3
+~
+~
+1 0 11004
+S
+#11007
+Along Grande Route~
+From the building to the north, you hear the sounds of construction.
+The road continues east along the wall, but is impassable due to all
+the construction debris. The only viable exit lies west.
+~
+0 0 1
+D3
+~
+~
+0 0 11003
+S
+#11008
+Along Grande Route~
+From the sawing and hammering sounds coming from the north, they must
+be building something big. Unfortunately, the workers have piled all
+their supplies in the street, making the way west along the wall unusable.
+The only exit now is east.
+~
+0 0 1
+D1
+~
+~
+0 0 11049
+S
+#11009
+Victory Boulevard~
+Detailed gold statues adorn the buildings to the east and west. The
+buildings, built of stone and reaching far above you, are black with age.
+Yet the gold statues appear to be untarnished. Workmen are busy in shops
+to the east and west. Victory Boulevard continues north. To the south,
+you can see the Grand Gates.
+~
+0 0 1
+D0
+~
+~
+0 0 11010
+D2
+~
+~
+0 0 11002
+S
+#11010
+Victory Boulevard and Manor Road~
+You stand at the intersection of Victory Boulevard and Manor Road. The
+sparkling pavement of Victory Boulevard continues north and south. To
+the east and west you can see the majestic homes which line Manor Road.
+~
+0 0 1
+D0
+~
+~
+0 0 11016
+D1
+~
+~
+0 0 11014
+D2
+~
+~
+0 0 11009
+D3
+~
+~
+0 0 11011
+S
+#11011
+Manor Road~
+A beautiful stone building lies to the north. Statues of angels stand along
+its roof. To the south lies an identical building although the statues on
+its roof are devils. Both houses are still being worked on. The brick path
+of Manor Road continues west. To the east lies the intersection of Victory
+Boulevard and Manor Road.
+~
+0 0 1
+D1
+~
+~
+0 0 11010
+D3
+~
+~
+0 0 11052
+S
+#11012
+Manor Road~
+Sprawling hills lie to the north and south. An excellent place to build
+a home. The brick path of Manor Road is under construction to the west,
+but is passable to the east.
+~
+0 0 1
+D1
+~
+~
+0 0 11054
+S
+#11013
+Along Grande Route~
+The fine building to the north appears vacant. It would surely be a fine
+place to make a home. The stone wall to the south continues east and west,
+as does Grande Route.
+~
+0 0 1
+D1
+~
+~
+0 0 11002
+D3
+~
+~
+0 0 11048
+S
+#11014
+Manor Road~
+An amazing building with castle-like turrets along its roof is under
+construction to the north. To the south lies a similiar home, yet its
+roof is patterned with gargoyles. To the west lies the intersection
+of Victory Boulevard and Manor Road. The brick path of Manor Road
+continues east.
+~
+0 0 1
+D1
+~
+~
+0 0 11015
+D3
+~
+~
+0 0 11010
+S
+#11015
+Manor Road~
+Sprawling hills lie to the north and south. An excellent place to build
+a home. The brick path of Manor Road is under construction to the east,
+but the way west is clear.
+~
+0 0 1
+D3
+~
+~
+0 0 11014
+S
+#11016
+Victory Boulevard~
+The pavement of the road twinkles and sparkles. It almost seems as if
+there are diamonds in it. Workmen are busy in the buildings east and
+west. There is scaffolding along the facades of both buildings.
+The shining road runs north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11017
+D2
+~
+~
+0 0 11010
+S
+#11017
+Victory Boulevard and Ravenhurst Road~
+This is the intersection of Victory Boulevard and Ravenhurst Road. The
+sparkling path of Victory Boulevard leads north to the old city center and
+south towards the Grand Gates. Tall dark mansions stare down ominously
+on the paths east and west of here.
+~
+0 0 1
+D0
+~
+~
+0 0 11022
+D1
+~
+~
+0 0 11020
+D2
+~
+~
+0 0 11016
+D3
+~
+~
+0 0 11018
+S
+#11018
+Ravenhurst Road~
+Tall dark mansions that look as though they have been here for centuries
+are to the north and south. There actually appears to be something 
+working inside them. To the east lies Victory Boulevard. The dark path
+of Ravenhurst Road continues west.
+~
+0 0 1
+D1
+~
+~
+0 0 11017
+D3
+~
+~
+0 0 11056
+S
+#11019
+Ravenhurst Road~
+Tall weeds cover the hills to the north and south. A house could probably
+be built here, if someone wanted to. Overgrown bushes block the path to
+the west. The only way out of here lies east.
+~
+0 0 1
+D1
+~
+~
+0 0 11058
+S
+#11020
+Ravenhurst Road~
+A huge stone building lies to the north. Its roof is peppered with
+gargoyle statues. Workmen in very dark clothing scurry about the building. 
+To the south lies an equally grim structure. The same men appear to 
+be working there also. To the west you can see Victory Boulevard. The
+dark path of Ravenhurst Road continues east.
+~
+0 0 1
+D1
+~
+~
+0 0 11021
+D3
+~
+~
+0 0 11017
+S
+#11021
+Ravenhurst Road~
+Barren hills lie to the north and south. The dark mansions of Ravenhurst
+can be seen to the west. Overgrown weeds have made the route east unusable.
+~
+0 0 1
+D3
+~
+~
+0 0 11020
+S
+#11022
+Victory Boulevard~
+The tall buildings to the east and west appear to house shops of some
+type, but they are under construction at the moment. The diamond studded
+path of Victory Boulevard continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11023
+D2
+~
+~
+0 0 11017
+S
+#11023
+The Old City Center~
+You are in the heart of the Old City. A huge green lawn surrounds an
+enormous fountain. Trees are strategically positioned around the square
+to provide shade during the daylight hours. To the north and south you
+can see Victory Boulevard. Calle de Sants is to the east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 11024
+D1
+~
+~
+0 0 11028
+D2
+~
+~
+0 0 11022
+D3
+~
+~
+0 0 11025
+S
+#11024
+Victory Boulevard~
+Enormous trees, hundreds of years old, line both sides of the street.
+A large park lies beyond the trees to both the east and west. However,
+the brush is too thick to enter the park from here. The Old City Center
+is to the south. Victory Boulevard continues north.
+~
+0 0 1
+D0
+~
+~
+0 0 11031
+D2
+~
+~
+0 0 11023
+S
+#11025
+Calle de Sants~
+Colorful flowers and small trees stand between the roadway and the
+buildings. The buildings themselves are decorated with ornate gold
+and silver workings. Liesbet's Place lies to the south. Calle de
+Sants continues west. The Old City Center is east of here.
+~
+0 0 1
+D1
+~
+~
+0 0 11023
+D2
+~
+~
+0 0 11027
+D3
+~
+~
+0 0 11026
+S
+#11026
+Calle de Sants~
+An astounding variety of flowers, of every color of the rainbow, decorate
+the roadside. Workmen are busy in the buildings north and south. They appear
+to be building some type of shops. Calle de Sants continues east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11025
+D3
+~
+~
+0 0 11060
+S
+#11027
+Liesbet's Place~
+Smoked hams hang from every spare corner of the ceiling. The smells
+of various foods being prepared is overwhelming. Glass cases provide
+patrons an opportunity to view an astounding selection of the finest
+delicacies. 
+~
+0 8 1
+E
+ham~
+A smoked ham hangs from the ceiling. It looks delicious!
+~
+E
+glass~
+All sorts of fine tasting food are within the glass counter.
+Liesbet's homemade cassoulet, a tasty looking smoked ham, an
+assortment of vegetables, and many wheels and wedges of cheese
+are but a few.
+~
+D0
+~
+~
+0 0 11025
+S
+#11028
+Calle de Sants~
+Calle de Sants is one of the oldest streets in the city. But it is
+also one of the most beautiful. The ancient narrow roadway between the
+tremendous works of architecture makes for quite a sight. The Old
+City Center is to the west. Calle de Sants continues to the east.
+North lies a shop bearing the sign, "Melahat's Workings". 
+~
+0 0 1
+D0
+~
+~
+0 0 11030
+D1
+~
+~
+0 0 11029
+D3
+~
+~
+0 0 11023
+S
+#11029
+Calle de Sants~
+The shops to the north and south are close for renovations. The finely
+detailed architecture of the buildings causes many a traveller to
+stop and gaze. The narrow roadway west has been blocked with the
+workmen's construction supplies. Calle de Sants continues to the east.
+~
+0 0 1
+D3
+~
+~
+0 0 11028
+S
+#11030
+Melahat's Workings~
+The sounds of hammers pounding on steel echo through the shop from
+the workroom in the back. The heat from the workroom furnaces can be
+felt even here. The smell of molten metal is thick in the air.
+~
+0 8 1
+D2
+~
+~
+0 0 11028
+S
+#11031
+Victory Boulevard and Forest Avenue~
+A dense forest is on all four of the surrounding corners. The growth of
+the flora is too dense to enter the forest from here. The shining path
+of Victory Boulevard continues north and south. To the east and west you
+can see Forest Avenue running through the park.
+~
+0 0 1
+D0
+~
+~
+0 0 11036
+D1
+~
+~
+0 0 11034
+D2
+~
+~
+0 0 11024
+D3
+~
+~
+0 0 11032
+S
+#11032
+Forest Avenue~
+North lies a rolling hill covered with flowers and trees. There is a
+small cottage at the top of the hill. South lies a large amount of massive
+century old trees. Victory Boulevard is to the east. Forest Avenue
+continues west.
+~
+0 0 1
+D1
+~
+~
+0 0 11031
+D3
+~
+~
+0 0 11033
+S
+#11033
+Forest Avenue~
+Thick brush surrounds all exits but the way east. There is an entrance
+to the park south, but it is currently blocked by overgrown weeds and
+bushes. Forest Avenue lies to the east.
+~
+0 0 1
+D1
+~
+~
+0 0 11032
+S
+#11034
+Forest Avenue~
+North and south are the vast forests that make up the eastern part of the
+park. Small animals can be seen scurrying amongst the trees. The north
+slopes upwards to form a small hill, while the south slopes downwards
+creating a tiny valley. This is an excellent place to view the park.
+Victory Boulevard is to the west. Forest Avenue continues east.
+~
+0 0 1
+D1
+~
+~
+0 0 11035
+D3
+~
+~
+0 0 11031
+S
+#11035
+Forest Avenue~
+The treelined hilltop to the north presents a fantastic view of the 
+city. Fallen trees have blocked the route up the hill. More trees
+block the road heading east and the entrance to the park to the south.
+The only way out is west.
+~
+0 0 1
+D3
+~
+~
+0 0 11034
+S
+#11036
+Victory Boulevard~
+The tremendous trees of the park stand tall to the east and west of the
+shimmering roadway. Tiny creatures peer out at the street from behind the
+trees. Victory Boulevard continues north to the Stoneroad of the Cathedral
+and south towards the Old City Center.
+~
+0 0 1
+D0
+~
+~
+0 0 11037
+D2
+~
+~
+0 0 11031
+S
+#11037
+The Stoneroad and Victory Boulevard~
+This is the largest intersection in the entire town. Beneath you massive
+slabs of granite combine with the diamonds of Victory Boulevard to form
+a mosaic in the face of Bosco. Although it has been worn with age, the
+intricate workmanship still shows fine detail. Victory Boulevard continues
+north and south. The Stoneroad of the Cathedral lies east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 11038
+D1
+~
+~
+0 0 11046
+D2
+~
+~
+0 0 11036
+D3
+~
+~
+0 0 11044
+S
+#11038
+Victory Boulevard~
+Sprawling plains lie to the east and west. Nothing there but field bushes
+swaying in the breeze. Delicate colorful flowers border the roadway here.
+To the north you can see the huge stone wall surrounding Stoneridge.
+South lies the Stoneroad of the Cathedral.
+~
+0 0 1
+D0
+~
+~
+0 0 11039
+D2
+~
+~
+0 0 11037
+S
+#11039
+Along Grande Route~
+The stone wall surrounding the town lies to the north. The southern
+corners contain rolling fields. To the south lies Victory Boulevard.
+The towering stone wall runs east and west, as does Grande Route.
+~
+0 0 1
+D1
+~
+~
+0 0 11042
+D2
+~
+~
+0 0 11038
+D3
+~
+~
+0 0 11040
+S
+#11040
+Along Grande Route~
+This is the uppermost point of the city. All can be seen from here, the
+Old City Center, the Cathedral, even the Grand Gates can be seen to the
+distant south. Grande Route continues east and west along the great wall.
+~
+0 0 1
+D1
+~
+~
+0 0 11039
+D3
+~
+~
+0 0 11041
+S
+#11041
+Along Grande Route~
+The view from here astounds even the most weathered of travellers. 
+The entire city can be seen from this vantage point. To the south
+is a vacant lot of grass. Grande Route continues east and west as 
+does the great wall of Stoneridge.
+~
+0 0 1
+D1
+~
+~
+0 0 11040
+S
+#11042
+Along Grande Route~
+From this vantage point, high above the town, one can see all. The spires
+of the Cathedral are quiet evident even from this distance. A small group
+of trees lies to the south. Grande Route continues east and west along
+the huge stone wall surrounding the town.
+~
+0 0 1
+D1
+~
+~
+0 0 11043
+D3
+~
+~
+0 0 11039
+S
+#11043
+Along Grande Route~
+Directly south lies an undeveloped plot of land. It is speckled with
+bushes and weeds, but the soil is quite fine. The enormous Cathedral
+blocks out anything beyond its view. The huge wall of the city continues
+east and west, with Grande Route trailing it.
+~
+0 0 1
+D3
+~
+~
+0 0 11042
+S
+#11044
+The Stoneroad of the Cathedral~
+Giant slabs of granite make up the roadway here. The slabs have been
+cleverly positioned so as to form an arrow pointing east. To the south
+lies a treelined hill. North is an empty hill gently sloping upwards to
+the stone wall of the city. The Stoneroad continues to the west, east
+lies the shining path of Victory Boulevard.
+~
+0 0 1
+D1
+~
+~
+0 0 11037
+D3
+~
+~
+0 0 11045
+S
+#11045
+The Stoneroad of the Cathedral~
+Stones of every possible shape and size have been used here to create
+the roadway. North lies a gentle hill leading up to the stone wall of
+the city, however the underbrush has made the route impassable. South
+lies the thick brush of the park. The Stoneroad continues to the east
+and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11044
+S
+#11046
+The Stoneroad of the Cathedral~
+Large stones made of granite have been laid end to end to form the 
+road here. Intricate inlays in the stone form an arrow pointing to
+the east. South lies the vast greeness of the park. West is Victory
+Boulevard. The Stoneroad continues east.
+~
+0 0 1
+D1
+~
+~
+0 0 11047
+D3
+~
+~
+0 0 11037
+S
+#11047
+The Stoneroad of the Cathedral~
+The ingenious architecture of the Cathedral is now within sight. Spire
+reaching high into the sky, the gargoyles along its perimeter can be
+vaguely recognized from here. Intricate inlays within the road below
+point eastward. The Stoneroad continues east and west.
+~
+0 0 1
+D3
+~
+~
+0 0 11046
+S
+#11048
+Along Grande Route~
+An amazing work of architecture stands to the north. Suprisingly it
+appears to be vacant. Grande Route continues east and west as does
+the stone wall surrounding the city.
+~
+0 0 1
+D1
+~
+~
+0 0 11013
+D3
+~
+~
+0 0 11050
+S
+#11049
+Grande Route and Parallel West~
+The tall wall of the town lies to the south. Grande Route follows it
+east and west. North lies the dusty trail known as Parallel West.
+~
+0 0 1
+D0
+~
+~
+0 0 11051
+D1
+~
+~
+0 0 11050
+D3
+~
+~
+0 0 11008
+S
+#11050
+Along Grande Route~
+A large vacant building lies to the north. The workmanship of its
+detailed woodwork must have taken years to complete. The huge stone
+wall of the town continues east and west, as does Grande Route.
+~
+0 0 1
+D1
+~
+~
+0 0 11048
+D3
+~
+~
+0 0 11049
+S
+#11051
+Parallel West~
+Tall buildings tower above to the east and west. Gold and silver workings
+decorate the facades of both buildings. The entrances east and west appear
+to be blocked from within. Parallel West continues north. South lies Grande
+Route.
+~
+0 0 1
+D0
+~
+~
+0 0 11054
+D2
+~
+~
+0 0 11049
+S
+#11052
+Manor Road~
+Beautiful mansions are under construction to the north and south. Large
+stores of stone and wood are piled up around the structures. The brick
+path of Manor Road continues east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11011
+D3
+~
+~
+0 0 11053
+S
+#11053
+Manor Road~
+Stately manors are to the north and south. They are currently undergoing
+rennovations and the workers supplies make the routes to them unusable.
+These two are among the oldest structures in town. Manor Road continues
+east. To the west lies Parallel West.
+~
+0 0 1
+D1
+~
+~
+0 0 11052
+D3
+~
+~
+0 0 11054
+S
+#11054
+Parallel West and Manor Road~
+On the four corners of the intersection, you can see the huge manors which
+are the namesakes of Manor Road. East and west the brick path of Manor Road
+is visible. Parallel West continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11055
+D1
+~
+~
+0 0 11053
+D2
+~
+~
+0 0 11051
+D3
+~
+~
+0 0 11012
+S
+#11055
+Parallel West~
+East and west are dark hills sloping upwards. Trees and brush dot the
+hilltops. Prickly bushes peppered with flowers line the roadway here.
+Parallel West continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11058
+D2
+~
+~
+0 0 11054
+S
+#11056
+Ravenhurst Road~
+Trees, centuries old, stand to the north and south protecting dark
+mansions. Little detail of the mansions can be seen due to the trees.
+The visible parts of the buildings look ancient. The dark path of
+Ravenhurst Road continues west and east.
+~
+0 0 1
+D1
+~
+~
+0 0 11018
+D3
+~
+~
+0 0 11057
+S
+#11057
+Ravenhurst Road~
+Thick black trees line the north and south of the roadway. It is 
+impossible to see beyond the first row of the woods. Ravenhurst Road
+continues west and east.
+~
+0 0 1
+D1
+~
+~
+0 0 11056
+D3
+~
+~
+0 0 11058
+S
+#11058
+Parallel West and Ravenhurst Road~
+The ground is covered with a black gravel here. Large black trees stare
+down at the intersection from each side of the roadway. The dark path of
+Ravenhurst Road continues east and west. Parallel West continues north
+and south.
+~
+0 0 1
+D0
+~
+~
+0 0 11059
+D1
+~
+~
+0 0 11057
+D2
+~
+~
+0 0 11055
+D3
+~
+~
+0 0 11019
+S
+#11059
+Parallel West~
+Long rolling fields lie to the east and west of the roadway. Little
+field creatures can be seen skirting in and out of the waving greens.
+Parallel West continues north and south.
+~
+0 0 1
+D2
+~
+~
+0 0 11058
+S
+#11060
+Calle de Sants~
+Colorful trees and flowers stand by the roadside here. There is a huge
+tavern to the north, the sign above it shows a regal coat of arms, in
+large black letters at the bottom of the sign are the words, "The King's
+Arms". Calle de Sants continues east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 11026
+S
+#0
+
+
+
+#SPECIALS
+M 11000 spec_gatekeeper Load to: the Gatekeeper
+S
+
+
+
+#RESETS
+M 1 11000 1 11002 1
+O 0 11002 0 11003
+O 0 11000 0 11004
+O 0 11001 0 11005
+O 0 11003 0 11006
+O 0 11004 0 11023
+M 1 11001 1 11027 1
+E 0 11013 0 0
+E 0 11005 0 0
+E 0 11006 0 0
+E 0 11008 0 0
+E 0 11007 0 0
+M 1 11002 1 11030 1
+E 0 11013 0 0
+E 0 11011 0 0
+E 0 11010 0 0
+E 0 11009 0 0
+E 0 11012 0 0
+S
+
+
+
+#SHOPS
+11001 19 19 0 0 0 100 200 0 23
+11002 35 35 0 0 0 100 125 0 23
+0
+
+
+
+#$

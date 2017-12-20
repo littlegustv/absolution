@@ -1,0 +1,1014 @@
+#HELPS
+
+ 
+-1 'GROUP HEADER'~
+The following skills and groups are available for your character:
+(this list may be seen again by typing 'list')
+~
+
+-1 'GROUP HELP'~
+The following commands are available:
+
+list         displays all groups and skills not yet bought
+learned      shows all groups and skills bought 
+premise      brief explanation of creation points and skill groups
+add <name>   buys a skill or group
+drop <name>  discards a skill or group
+info <name>  lists the skills or spells contained within a group
+help <name>  help on skills and groups, or other help topics
+done         exit the character generation process
+~
+
+-1 'MENU CHOICE'~
+Choice (add, drop, list, help)?~
+
+-1 'GROUPS' 'INFO' 'PREMISE'~
+The Redemption skill system allows you to fully customize your new 
+character, making him or her skilled in the skills you choose.  But 
+beware, the skills you pick at character creation are the only skills you 
+will ever learn.  Skills are paid for with creation points, and the more
+creation points you have, the harder it is to gain a level.  Furthermore, 
+higher-cost skills are harder to practice.
+
+Skill groups are like package deals for characters - sets of skills or 
+spells that are closely related, and hence can be learned as a unit. There 
+is a default skill group for each class, which can be chosen for a balanced 
+selection of skills at a somewhat reduced cost.
+
+The experience breakdown is as follows: 
+
+points   exp/level     points   exp/level
+40        1000         90        6000
+50        1500         100       8000
+60        2000         110      12000
+70        3000         120      16000 
+80        4000         130      24000
+
+The table continues in a similar manner for higher point totals.
+~
+
+-1 BASICS 'ROM BASICS'~
+The basic skills:
+
+Every character starts with two skill groups, one for their class and a 
+default set that all characters receive.  The default skills are:
+
+recall          essential escape skill (see 'help recall')
+scrolls         reading of scrolls and other magical volumes
+staves          use of magical staves
+wands           use of magical wands
+craft           combining components into powerful items
+
+for class defaults, check the classes themselves.
+~
+
+
+-1 EXOTIC WEAPONS WEAPON WEAPONSMASTER AXE DAGGER FLAIL MACE POLEARM SPEAR 
+SWORD WHIP~
+Each weapon skill applies to a specific group of armaments, and determines 
+how well a character fights with a particular weapon.  The weaponsmaster 
+group provides talent in all weapons (save exotics), from chair legs to 
+halberds. If the character has the parry skill as well, he can parry 
+incoming attacks. The chance of parrying is best if the character in 
+question is skilled at both his weapon and his opponent's.
+
+The weapon skills consist of the following:
+
+weaponsmaster   skill group of all weapons listed below (save exotic weaponry)
+axe             the use of axes, ranging from hand to great (but not halberds)
+dagger          the use of knives and daggers, and other stabbing weapons
+flail           skill in ball-and-chain type weapons
+mace            this skill includes clubs and hammers as well as maces
+polearm         the use of pole weapons (except spears), including halberds
+spear           this skill covers both spears and staves, but not polearms
+sword           the warrior's standby, from rapier to claymore
+whip            the use of whips, chains, and bullwhips
+exotic          the use of strange magical weapons
+
+The exotic skill cannot be purchased, and is dependent solely upon level.
+~
+
+-1 'SHIELD BLOCK'~
+Shield block is a rather fancy name for the art of parrying with a shield.
+Characters with no shield block skill will not be able to defend themselves
+well with a shield. All classes may learn shield block, but only warriors 
+and clerics are good at it.
+~
+
+-1 ENCHANTMENT~
+The enchantment spell group is used to imbue items with magical properties.
+Other common spells in this group are used to induce changes in the behavior
+of beings. Mages and enchanters have access to this group, although enchanters,
+being specialists in this group, have access to more spells. Spells include:
+
+enchant weapon  increases the hit and damage bonuses of a weapon
+enchant armor   increases the protective value of armor
+charm person    puts a monster under the control of the caster
+recharge        restores power to a depleted wand or staff
+sleep		sends the target creature to sleep
+*hold person	puts the target creature in stasis
+*hypnosis	sends target into a trance, subject to suggestions
+*demand	    	forces the target to perform one action
+giant strength  increases the target's strength
+*feeblemind     renders target incapable of coherent thought
+*psychic_crush  inflicts severe mental damage on target
+
+	* - indicates a enchanter-only spell
+~
+
+-1 ILLUSION~
+The illusion spells are dedicated to deception and trickery. They can be
+used to mask appearances, or create distractions for the party. Other
+spells in the illusion group call forth phantasmal powers. Spells in this
+group include:
+
+invis            turns the target invisible
+mass invis       turns the caster's group invisible
+ventriloquate    allows the caster to put words in someone's mouth
+blind            remove sight from an opponent
+grandeur         makes the target look to be in perfect condition
+minimation	 makes the target look to be in awful condition
+cloak of mind    prevents monsters from detecting the target
+phantom force    spreads fear throughout the target
+phantasm monster calls forth a being from a nightmare
+mirror image     creates a duplicate image of the target
+sex change	 changes the target's sex
+~
+
+0 ABJURATION~ 
+The abjuration spell group provides a wide variety of spells used for 
+protection purposes. Other spells in this group can be used to
+debilitate a target being with a wide array of nasty curses. Spells 
+include: 
+
+protection evil  provides protection against evil beings
+protection good  provides protection against good beings
+dispel magic     causes the premature end of spells on target
+remove curse     causes the target to be free of divine affliction
+curse            makes the target suffer due to divine affliction
+plague           causes a nasty disease in the victim's body
+poison           sends toxins coarsing through the victim's veins
+weaken           causes a loss of strength in the victim
+detect invis     allows the caster to see invisible objects/beings
+rukus magna      causes damage using shrieking sounds   
+sanctuary        protective shroud that impedes damage
+~ 
+
+0 BEGUILING~ 
+Beguiling spells are a series of spells that affect the mental capacity
+of a being. With these spells, the caster can overcome his target's
+natural resistance to suggestion and be forced to do something he wouldn't
+normally do. Spells include:
+
+charm person    causes the target to fall under the caster's will
+sleep 	    	sends the target to sleep
+~ 
+
+0 ATTACK~ 
+The attack spell group is a collection of spells used for combat
+purposes. Although not as plentiful as mage spells, there are enough
+to do some serious damage. This group is generally granted to clerics
+by their god. Spells include:
+
+flamestrike     brings down fiery wrath upon the target
+burning hands   streaks of flame shoot out from the caster's hands
+heat metal	metal equipment on the target heats up, burning the
+		target and causing some of it to fall off
+lightning bolt  creates a surge of electricity that hits the target
+shocking grasp  a touch attack that sends jolts of electricity
+		through the target
+colour spray    sends multicoloured energy to the target
+~ 
+
+0 CONJURATION~ 
+The conjuration spell group contains some powerful spells. Using these
+spells, the caster is able to call forth beings or objects from other
+planes. Mages and conjurers have access to this spell group, although
+conjurers, with their better training, receive better spells from this
+group. Spells include:
+
+armor            creates a force of energy that protects the target
+blink		 sends the caster a short distance away
+*call creature   calls forth a random being from another land
+*carnal reach    brings forth a powerful being of the caster's choice
+*flame arrow     calls forth elemental fire that form into an arrow, 
+		 which then hurtles towards the target
+gate		 transports the caster to his target
+nexus		 creates a two-way portal
+portal	    	 creates a long-lasting one-way gate
+*prismatic spray calls forth elemental forces that the target is weak to
+scramble	 inhibits the target's ability to speak
+*spirit link     sends the caster to a powerful being
+summon	    	 allows the caster to call forth a being
+*crushing hand   creates a huge hand to crush your opponents
+*clenched fist   creates a huge fist to pound your opponents
+
+	* - indicates a conjurer-only spell
+~
+
+0 HEALING~ 
+The holy ones have the ability to tend to the wounds of other beings
+using magic granted by their deity. The healing spells are a means of
+restoring the sick to health. Note that what can be done can also be
+undone by those with these powers. Spells include:
+
+cure light	restores a minimum amount of health to the target
+cause light	damages the target. Opposite of cure light
+cure serious    restores a moderate amount of health to the target
+cause serious   damages the target. Opposite of cure serious
+cure critical   restores a large amount of health to the target
+cause critical  damages the target. Opposite of cure critical
+heal		restores a set amount of health to the target
+harm		damages the target. Opposite of heal
+refresh	    	makes the target less tired
+cure blindness  restores sight to those that are blind
+cure disease    removes offending bacteria and viruses from the 
+		afflicted's body
+cure poison	neutralizes any offending toxins in the afflicted's system
+mass healing    heals and refreshes all present in the room
+~
+
+0 OMINATION~ 
+Omination is a set of curses that rely on divine power for effect.
+The purpose is to debilitate those that offend the deity or his servants.
+Spells include:
+
+blindness	removes sight from the target
+curse		the target falls out of favor with the gods
+energy drain    saps health and energy from the target
+plague	    	a nasty disease infects the target
+poison	    	introduces a toxic substance to the target's system
+slow		the target starts moving slower; less dextrous
+weaken	    	saps the target's strength
+~
+
+0 WEATHER~ 
+The weather spell group allows the caster to take control of nature itself,
+calling forth the awesome power that the storms themselves have. Spells
+include:
+
+call lightning  when the weather is bad, lightning is summoned
+control weather makes the weather better or worse
+faerie fire	creates a haze around the target, making him easier to see
+faerie fog	reveals all those who hide in the room
+rainbow burst   creates a burst of elemental energy
+lightning bolt  sends a jolt of electrical energy to the target
+~
+
+0 TRICKERY~ 
+The portfolio of thieves allows them to fool and deceit their opponents.
+With the aid of this spell group, thieves are then able to confuse and
+hamper those they face. Spells include:
+
+grandeur	makes the caster look completely healthy
+minimation	makes the caster look near death's door
+scramble	inhibits the target's ability to speak
+mirror image    creates multiple images of the target, thus fooling the 
+		attacker into attacking something else
+taunt		enrages the target, improving his attacks, but cannot flee
+hypnosis	makes the target do the caster's bidding
+~
+
+0 CREATION~ 
+With the powers of this spell group, the caster is able to create materials
+that he can use to his own advantage. Spells include:
+
+continual light creates a permanent light source, which brightens the room
+create food	provides nourishment for the hungry
+create water    fills a given container with life-sustaining water
+create spring   taps into the Plane of Water, providing a temporary 
+		fountain for use by all
+create rose	grows a beautiful rose, just right for giving to people
+floating disc   creates a disc, perfect for storing things on 
+~
+
+0 PROTECTIVE~ 
+By invoking the powers of this spell group, the caster is able to provide
+spells for protection and prevention, along with spells for removing other
+spells. Spells include:
+
+armor		creates a protective force around the target
+shield	    	a more powerful version of armor
+stone skin	turns the caster's skin to stone, protecting him
+protection good provides protection from good-aligned beings
+protection evil provides protection from evil-aligned beings
+fireproof	when cast on objects, prevents them from being destroyed 
+		by burning
+sanctuary	severely reduces damage taken when in combat
+dispel magic    removes spells on the target. Used in combat
+cancellation    a more powerful version of dispel magic. Used in peacetime
+		(that is, not in combat)
+soundproof	when cast on objects, prevents them from being destroyed
+		by sound waves
+~
+
+0 ENHANCEMENT~ 
+The spells in the enhancement group allow for the improvement of
+the physical attributes of the recipient. Spells include:
+
+giant strength  increases the target's strength
+haste		increases the target's dexterity; provides extra attacks
+infravision	allows the target to see monsters in darkness
+refresh	    	makes the target less tired
+~
+
+0 INVOCATION~ 
+The invocation spell group allows the caster to take magical energy and
+form it into whatever he wants. The prime use of invocation spells is for
+heavy-duty combat spells. Mages and invokers have access to this group,
+although invokers get more spells than their general spellcasting brethren.
+Spells include:
+
+magic missile   creates a small jolt of energy, damaging the target
+lightning bolt  sends a bolt of electricity at the target
+fireball	creates a huge ball of flame
+acid blast	creates a very directed wave of corrosive fluid to be 
+		washed towards the target
+*hell blades    creates huge flaming blades, which thereby proceed to 
+		cut and burn the target
+shield	    	creates a powerful shield of energy to protect the target
+hurricane	creates a huge storm
+*tsunami	a stronger version of hurricane
+
+	* - indicates an invoker-only spell
+~
+
+0 SUMMONING~ 
+By use of this spell group, the caster is able to provide various means
+of transportation, thanks to his patron deity. Spells include:
+
+gate		allows the caster to be transported to his target
+summon	    	lets the caster bring his target towards him
+pass door	lets the caster walk through _some_ doors
+teleport	transports the caster somewhere in the known world
+portal	    	creates a temporary one-way gate to the target of the 
+		caster's choice
+word of recall  forces the target to recall
+~
+
+0 ELEMENTAL~ 
+Those that worship the powers of nature believe there are four elements:
+air, earth, fire, and water. These four elements make up all that there
+is in the land. The elemental spell group harnesses the power of these
+four elements and lets him control them. Spells include:
+
+bark skin	makes the target's skin tough as bark, providing protection
+stone skin	turns the caster's skin to stone, protecting him
+earthquake	makes the ground shake, throwing people off their feet
+create food	the land provides nourishment for the caster
+create spring   taps into the Plane of Water, providing a temporary 
+		fountain for all to share
+rukus magna	powerful elemental force
+reach elemental summons a random elemental to do the caster's bidding
+~
+
+0 BEASTIALITY~ 
+Many believe that the power of nature is greatest in the power of the
+animals. The purpose of the beastiality spell group is to harness the
+power of the animals and grant their powers to sentient beings. Spells
+include:
+
+giant insect    calls forth a huge bug to do the caster's will
+animal growth   imbues the target with the physical strength of an animal
+creeping doom   plant life comes alive and attacks	
+giant strength  increases the target's strength
+haste		increases the target's dexterity; provides extra attacks
+infravision	allows ability to see monsters in darkness
+refresh	    	makes the target less tired
+~
+
+0 BLESSING~ 
+The power invested in a man of the cloth by his patron deity allows
+him to grant benedictions upon those he favors. The blessing spell group
+is a collection of benedictions granted by a god. Spells include:
+
+bless		attack better and resist magical attacks
+calm		purges all aggressiveness from the room
+frenzy	    	sends being into a holy wrath
+remove curse    restores the grace of the gods to the afflicted.
+		Works on objects and beings
+holy word       Extreamly powerfull spell which helps friends
+                and hurts enimies
+~
+
+0 ALTERATION~ 
+The alteration spell group is a collection of spells that change the
+very nature of its target. These spells can change a being, an object,
+or a condition. All mages have access to this group. Spells include:
+
+burning hands   sends forth a stream of fire from the caster's hand
+colour spray    sends multicoloured energy to the target
+shocking grasp  makes the caster's touch electrical
+continual light creates a small permanent light source
+fly		allows the target to fly
+haste		increases the target's dexterity; provides extra attacks
+infravision	allows the target to see monsters in darkness
+slow		decreases the target's dexterity, slowing his attacks
+stone skin	turns the caster's skin to stone, protecting him
+teleport	sends the caster to a location in the known world
+pass door	lets the caster walk through _some_ doors
+blur		makes the target's location hard to see, thereby
+		protecting him from harm
+~
+
+0 DEMONOLOGY~
+One of the greater feats that invokers have been able to accomplish
+is the ability to summon forth demons from the lower planes of the
+netherworld. This spell group, named demonology by its forerunners,
+lets the invoker call forth demons to do his bidding -- providing he
+has a proper pentagram set forth, and the demon in question has not
+broken through. Spells include:
+
+summon lesser   calls forth a lesser demon
+summon horde    calls forth a lot of lesser demons
+summon greater  calls forth a greater demon
+summon lord	calls forth a demon lord. Very dangerous
+banish	    	forces the target demon back to its home plane
+~
+
+0 COMBAT~
+For those who enjoy the thrill of battle, one can not go further than this
+spell group. An entire assortment of damage-inflicting spells sits at the 
+caster's fingertips. Spells in this group include:
+
+demonfire	evil hell-fires bestowed by an evil person
+dispel evil	send the evil beings packing
+dispel good	send the good beings packing
+Earthquake	makes the ground shake, throwing others off balance
+flamestrike	sends a fiery greeting from the heavens
+heat metal	causes metal objects to glow red hot, burning the holder 
+ray of truth    the light of goodness from a good person
+magic stone	a magically created rock that hurtles towards the target 
+~ 
+
+0 DIVINATION~ 
+The divination spell group is a collection of spells used for information
+gathering. By using these spells, the caster has a better idea of his
+surroundings. Spells include:
+
+identify	reveals detailed information about an object            
+locate object   reveals the general location of an object           
+detect invis    allows being to see invisible objects/beings 
+cancellation    prematurely ends spells on a being            
+know alignment  gives the proper alignment of a being
+detect magic    allows being to see magical auras on objects
+gate		brings caster to target being
+summon	    	brings target being to caster
+~
+
+-1 BASH~
+The bash skill is a warrior talent, a brute-force attack designed to knock
+your foe to his knees.  Its success depends on many factors, including the
+bash rating, your weight, and the size of your opponent.  Bashing a dragon
+is generally not a wise idea.
+~
+
+-1 BERSERK~
+Only powerful warriors can master berserking, the ability to enter insane 
+rage in combat. Its effects are not altogether unlike the frenzy spell -- a 
+huge surge of combat prowess, coupled with a disregard for personal safety.  
+Berserking fighters are more resistant to the effects of magic.
+~
+
+-1 DIRT 'DIRT KICKING'~
+Considered by some to be a cowardly skill, dirt kicking gives the clever 
+combatant a chance to blind his opponent by casting dirt into his eyes.  The
+blindness does not last long, but can provide an edge in combat.  Dexterity
+helps in hitting or avoiding a dirt kick.  Only warriors, rangers and 
+thieves may learn this skill.
+~
+
+-1 DISARM~
+Disarm is a somewhat showy and unreliable skill, designed to relieve your
+opponent of his weapon. The best possible chance of disarming occurs when 
+you are skilled at both your own and your opponent's weapon. Only talented 
+thieves and warriors may learn this skill.
+~
+
+-1 DODGE~
+In the words of one wise warrior, 'the best way to block a blow is to not
+be where it lands'.  The dodge skill honors this tradition, by improving 
+the character's natural agility to the point where many blows will miss the 
+target. The chance of dodging is also affected by the dexterity of the
+attacker and the target. Any class may learn dodging.
+~
+
+-1 'ENHANCED DAMAGE'~
+Warriors and skilled thieves can become skilled enough in combat that they 
+are able to inflict more damage than other classes. Enhanced damage is 
+checked for with each hit, although with a low skill, the chance of 
+receiving a bonus is very low indeed.
+~
+
+-1 ENVENOM~
+The envenom skill is a cowardly skill practiced only by thieves, designed to
+win a battle through alchemy and treachery rather than skill or strength.
+Or, put another way, it's a skill used by the smart to kill the foolish.
+Food, drink, and weapons may be envenomed, with varying effects. Poisoned
+food or drink puts a mild poison spell on the consumer, and is unlikely to
+be more than a minor inconvience (after all, the typical adventurer could
+drink sewer water with only a trace of the runs).  A poisoned weapon, on
+the other hand, can inflict serious damage on an opponent as the poison 
+burns through his bloodstream.  But be careful, blade venom evaporates 
+quickly and is rendered almost powerless by repeated blows in combat.
+~
+
+-1 'HAND TO HAND'~
+Hand to hand combat is a rare skill in the lands of Midgaard.  Learning this
+style of fighting gives the player a weapon even when disarmed -- bare hands.
+Trained hand to hand experts are far more effective than many swordsmen.
+Most classes can learn this style of fighting, but mages are far to haughty
+to consider fighting with their own hands.
+~
+
+-1 'LIVING STONE'~
+Syntax: stone
+
+Gargoyles have the innate power to turn their flesh to stone. This
+protects them from damage (because weapons will bounce harmlessly off
+their skin) and improve the damage they can do. Note that they also gain
+properties of stone... whatever that entails.
+~
+
+-1 KICK~
+Kicking allows the adventurer to receive an extra attack in combat, a 
+powerful kick. However, a failed kick may throw an unwary fighter off- 
+balance.  Fighters and clerics are the most skilled at kicking, although 
+thieves may also learn it.
+~
+
+-1 PARRY~
+If at first you fail to dodge, block it.  Parry is useful for deflecting 
+attacks, and is successful more often than dodge.  Parry requires a weapon 
+for full success; the hand-to-hand skill may also be used, but results in 
+reduced damage instead of no damage.  The best chance of parrying occurs 
+when the defender is skilled in both his and his opponent's weapon type.
+~
+
+-1 TRIP~
+Back by popular demand.  Trip is a somewhat dastardly attack, and involves
+using any one of a number of methods to bring your opponent down to the 
+ground. Tripping large monsters is generally not a good idea, and agile ones 
+will find the attack easy to avoid.  Anyone who does not excel in magic
+is well enough grounded in the physical plane that may learn trip.
+~
+
+-1 'SECOND ATTACK'~
+Training in second attack allows the character a chance at additional 
+strikes in combat -- although a 100% second attack does NOT guarantee 2 
+attacks every round.  Any class may learn this skill, although clerics and 
+mages have a very hard time with it.
+~
+
+-1 'THIRD ATTACK'~
+Training in third attack allows the character a chance at an additional 
+strike in a combat, and increases the chance of a second attack as well.  
+Perfect third attack does NOT ensure three attacks per round.  Only those 
+whose main calling is physical combat may learn this skill.
+~
+
+-1 HIDE SNEAK~
+Hide and sneak are similar skills, both related to remaining undetected.
+Hide has a very high chance of success, and is used to remain undetected
+while remaining stationary.  Sneak may be used when moving (including to
+sneak by monsters), and can keep you from being detected as you leave and
+enter a room. These are they kind of things a thief would do, although
+rangers have also picked up these tricks.
+~
+
+-1 'FAST HEALING'~
+The fast healing skill improves wound healing rates, whether walking, 
+resting, or sleeping. It represents knowledge of healing herbs or just 
+general toughness and stamina.  Fast healing is checked every tick, and 
+it is possible for it to fail.  All classes may learn this skill, but 
+mages find it very difficult to master, due to their bookish lifestyle.
+~
+
+-1 LORE~
+Lore is a general skill, consisting of knowledge of myths and legends. Use
+of the lore skill gives a chance of obtaining information on an object,
+such as its power and uses.  It also may occasionally increase the value
+of an object because more will be known about its worth.  All classes may
+learn lore, although thieves are best at it, and warriors find it very hard
+to use.
+~
+
+-1 HAGGLE HAGGLING~
+Haggling is an indispensable skill to the trader.  It allows a character to
+match wits with a merchant, seeking to get a better price for merchandise,
+or to buy at the lowest possible cost.  Unfortunately, most merchants are 
+already very skilled at haggling, so the untrainined adventurer had best 
+guard his treasure closely.  Thieves are natural masters at haggling, 
+although all other classes may learn it as well.
+~
+
+-1 PICK 'PICK LOCK'~
+Lock picking is one of the prime skills of thieves, allowing them to gain
+access to many secured areas.  Lock picking chances are improved by  
+intelligence, and hindered by the difficulty of the lock. 
+~
+
+-1 STEAL~
+Theft is the defining skill of the thief, and is only available to that 
+class. It allows items and gold to be stolen from the inventory of monsters 
+and characters!  But beware, attempting to steal from a character earns you 
+a THIEF flag if you are caught (making you free game for killing).
+~ 
+
+-1 'RECHARGE'~
+Syntax: cast 'recharge' <item>
+
+The recharge spell is used to restore energy to depleted wands and staves.
+Fully exhausted items cannot be recharged, and the difficulty of the spell
+is proportional to the number of charges used.  Magic items can only be
+recharged one time successfully.
+~
+
+-1 'PORTAL'~
+Syntax: cast 'portal' <target>
+
+The portal spell is similar to gate, but creates a lasting one-way portal
+to the target creature, instead of transporting the caster.  Portals are
+entered using 'enter' command, as in 'enter portal'.  Portals cannot be
+made to certain destinations, nor used to escape from gate-proof rooms.
+Portal requires a special source of power... Unfortunately, the secret of 
+this material component has been lost...
+~
+
+-1 'NEXUS'~
+Syntax: cast 'nexus' <target>
+
+This spell is virtually identical to portal (see 'help portal'), with the
+only difference being that while portal creates a one-way gate, a nexus 
+spell makes a two-sided gate.  It also lasts longer than the lower-powered
+portal spell.  Both spells require an additional power source, the secret
+of which has been lost...
+~
+
+-1 'CRUSHING HAND'~
+Syntax: cast 'crushing hand' <target>
+
+This spell conjures a masive hand which reaches out to capture your
+target. If the target is fast they may beable to evade the hand's
+grasping attempts. However when caught the victim is slowely squezed
+by the hand, inflicting moderate damage each round untill it vanashes.
+~
+
+-1 'CLENCHED FIST'~
+Syntax: cast 'clenched fist' <target>
+
+Clenched fist is a conjuration spell which creates a huge, and powerfull
+fist which lashes out at its target. The fist ether strikes at the target
+as a balled knuckle sandwich or in a choping motion which the heal of
+the hand. This hand douse heave damage to anything it hits, and can
+knock its target backwards or down with violent force.
+~
+
+-1 'HOLY WORD'~
+Syntax: cast 'holy word'
+
+Holy word involves the invocation of the full power of a cleric's god, with
+disasterous effects upon the enemies of the priest coupled with powerful
+blessings on the priest's allies.  All creatures of like deity, clan or
+in the same group as the caster are blessed and filled with righteous 
+divine wrath, while those of opposite morals are struck down by holy (or 
+unholy might) and cursed.  The cleric suffers greatly from the strain of 
+this spell, being left drained of energy.  
+Experience loss is no longer associated with the spell.
+~
+
+-1 FRENZY~
+Syntax: cast 'frenzy' <target>
+
+The frenzy spell fills the target with righteous fury, greatly increasing
+his or her attack skill and damaging capacity.  Unfortunately, this divine
+wrath is coupled with a tendency to ignore threats to personal safety, 
+making the character easier to hit.  Frenzy provides immunity to the calm
+spell (see 'help calm'), and may only be used on those of the caster's 
+alignment.
+~
+
+-1 CALM~
+Syntax: cast 'calm' 
+
+One of the most useful and often overlooked abilities of the master cleric 
+is the calm spell, which can put an end to all violence in a room.  Calmed
+creatures will not attack of their own volition, and are at a disadvantage
+in combat as long as the spell soothes their minds.  The more violent 
+activity there is in a room, the harder the spell, and it is all or 
+nothing -- either all combat in the room is ended (with the exception of 
+those who are immune to magic) or none is.
+~
+
+-1 HASTE~
+Syntax: cast 'haste' <target>
+
+The haste spell increases the speed and agility of the recipient, allowing
+an extra attack (or even a backstab) in combat, and improving evasive
+abilities in combat.  However, it produces a great strain on the system,
+such that recuperative abilities are halved.  Haste is capable of negating
+the slow spell. (see 'help slow').
+~
+
+-1 FEEBLEMIND~
+Syntax: cast 'feeblemind' <target>
+
+By means of this spell the caster can temporairly surpress the targets 
+mental abbilities. Causing confusion, loss of intelect and loss of wisdom.
+This spell also causes some mental angush as the spell locks onto the
+target causing some damage.
+~
+
+-1 PSYCHIC CRUSH~
+Syntax: cast 'psychic crush' <target>
+
+This pure blast of raw mental force slams into the targets brain on many
+psychic levels. This causes the brain to start hemoraging and causes severe
+damage to the nervous system of the target.
+
+~
+
+-1 SLOW~
+Syntax: cast 'slow' <target>
+
+Despite popular mythology, slow is not the opposite of haste, but is a spell
+with its own unique set of effects.  When cast on an unfortunate victim,
+it slows the victim's movements, making them easier to hit and reducing 
+their rate of attack.  The effect of slow also doubles movement costs and 
+halves healing rates, due to reduced metabolism.
+~
+
+-1 PLAGUE~
+Syntax: cast 'plague' <target>
+
+The plague spell infects the target with a magical disease of great 
+virulence, sapping its strength and causing horrific suffering, possibly 
+leading to death. It is a risky spell to use, as the disease can spread 
+like wildfire if the victim makes it to a populated area.
+~
+
+-1 'CREATE ROSE'~
+Syntax: cast 'create rose'
+
+A romantic spell that creates a fragrant red rose, with utterly no game
+use whatsoever.
+~
+
+-1 'PROTECTION GOOD' 'PROTECTION EVIL'~
+Syntax: cast 'protection evil' <target>
+	cast 'protection good' <target>
+
+The protection spells reduce damage taken from attackers of the appropriate
+ethos, and improve saving throws against all forms of magic. They may not
+be cast on others, and one person cannot carry both defenses at the same
+time.
+
+(See also 'help paladin')
+
+~
+0 'GIANT STRENGTH'~
+Syntax: cast 'giant strength' <character>
+ 
+This spell increases the strength of the target character.
+~
+
+0 'CHAIN LIGHTNING'~
+Syntax : cast 'chain lightning' <target>
+
+Chain lightning is a deadly spell, producing a powerful bolt of lightning
+that arcs from target to target in the room until its force is fully
+expended.  This is a very dangerous spell, as everyone in the room, be they
+friend or foe, will be struck by this raging bolt of energy. It can be very
+deadly to everyone involved, so use it carefully.
+~
+
+-1 FARSIGHT~
+Syntax: cast 'farsight'
+	cast 'farsight' <direction>
+
+The farsight spell expands the caster's consciousness, allowing him or her
+to see far away beings like they were in the same room.  It takes intense
+concentration, often leaving the caster helpless for several minutes.
+The spell may be used for a general scan that reaches a short distance in
+all directions, or with a directional component to see creatures much
+farther away.
+~
+
+-1 MASS HEALING~
+Syntax: cast 'mass healing' 
+
+The mass healing spell, as its name might suggest, performs a healing spell
+on all players in the room.  It also throws in a refresh spell for good
+measure.
+~
+
+-1 'FLOATING DISC'~
+Syntax: cast 'floating disc'
+
+This useful spell creates a floating field of force which follows the caster
+around, allowing him or her to pile treasure high with no fear of weight
+penalties. It lasts no more than twice the casters level in hours, and
+usually less. It can hold 10 pounds per level of the caster, with a 
+maximum of five pounds per item.  The spell requires an open float location
+on the character, and the only way to remove the disc is to die or allow it
+to run out of energy.
+~
+
+-1 FIREPROOF~
+Syntax: cast 'fireproof' <object>
+
+The fireproof spell creates a short-lived protective aura around an object,
+to protect it from the harmful effects of acid and flame. Items protected
+by this spell are not harmed by acid, fire, or the heat metal spell.
+Although inexpensive to use, the spell's short duration makes it impractical
+for protecting large numbers of objects.
+~
+
+-1 SOUNDPROOF~
+Syntax: cast 'soundproof' <object>
+
+Soundproof creates a protective aura around an object, making it
+impervious to damage from sound waves. Note that it's similar in many
+respects to fireproof (see the appropriate help) otherwise.
+~
+
+-1 LIFEWAVE~
+Syntax: cast lifewave
+
+Lifewave is a very powerful healing spell. It creates a ball of
+healing energy which expands outwards, travelling from room to
+room, healing all clanmates and group members it touches, weakening 
+as it travels. But don't be fooled: It travels a fair distance, and
+can be extemely useful.
+
+This spell is for reclasses only.
+Learned by:
+Exorcist
+~
+
+-1 ALIAS UNALIAS~
+Syntax: alias
+	alias <word>
+	alias <word> <substitution>
+	unalias <word>
+
+The alias command allows limited shortening of command names. At this time,
+aliases cannot call other aliases, and cannot generate more than one 
+command. Alias by itself lists your current aliases, Alias <word> lists the 
+alias with that name (if such exist), and alias with both a word and an 
+argument produces a new alias. You cannot alias either alias or unalias to 
+a new command. Examples of use:
+
+alias gc get all corpse --> typing 'gc' will equal typing 'get all corpse'
+alias ff cast 'fireball'--> 'ff orc' will equal 'cast 'fireball' orc'
+
+Only the first word on the line will be subsituted at this time.
+~
+0 KIRRE FELINE~
+
+Hiding deep in the forests of Dominia, a race of intelligent
+felines has remain in seclusion for centuries. With the
+swelling dominian population, the outskirts of the known world
+are beginning to extend into some Kirre hunting ranges. Few
+recognize the beasts as intelligent, giving the Kirre plenty
+of opportunity to judge the Outsiders.
+
+Kirre are organized into small tribes consisting of several
+males, the toughest generally assuming the leadership role,
+and an larger number of females. Once every seven moons,
+the leaders of the tribes hold a moot in a secret location.
+At the most recent of these moots, it became clear the Kirre
+are divided on the topic of revealing themselves to the outsiders.
+Some, despite their leaders wishes, have chosen to establish
+ties with the other dominians races.
+
+In appearance, the Kirre resemble none of the known races of
+Dominia. Their history and origins remain a mystery. Ranging
+from white to sable in color, the Kyre are a race of six
+legged felines roughly 6-8 feet long. Long tufted ears,
+six legs with razor sharp claws and a prehensile tail give
+them a fearsome appearance. They strike quickly and without
+mercy.
+
+Although they number many warriors, many Kirre are also
+adept in the magical arts. However, Kirre prefer the more
+subtle forms of magic, and many show a natural aptitude
+for rune magic. Traditional magic is beyond the scope
+of their culture.
+
+Kirre of all classes prefer using whip-like weapons
+because of the similarity to their own tails. Kirre strike
+quickly, and all practice disarming from a young age.
+
+Kirre begin the game knowing whip and disarm.
+~
+
+
+0 SABRE KIRRE~
+
+All remort Kirre have expanded their use of their natural
+weapons. All have learned how to use their natural abilities
+with the hand to hand skill. Kirre are now able to use 
+their "razor claws" to inflict severe wounds to their victims 
+which will continue to bleed for several moments. Also, with 
+their long agile tails they have learned how to "tail trip" 
+their opponents. Remort Kirre are nocturnal hunters, and 
+during the day, may be blinded by the sun when adventuring.
+
+Only the most elite hunters may call themselves sabres.
+They bear massive tusks, resembling sabre tooth tigers of
+ancient times. These Kirre have learned how to "ambush" their 
+victims, taking deadly advantage of surprise during their 
+initial strikes. By moving carefully, sabres are able to use
+their "concealment" skill to avoid detection.
+~
+
+0 DARK KIRRE~
+
+All remort Kirre have expanded their use of their natural
+weapons. All have learned how to use their natural abilities
+with the hand to hand skill. Kirre are now able to use 
+their "azor claws" to inflict severe wounds to their victims 
+which will continue to bleed for several moments. Also, with 
+their long agile tails they have learned how to "tail trip" 
+their opponents. Remort Kirre are nocturnal hunters, and 
+during the day, may be blinded by the sun when adventuring.
+
+These Kirre has undergone rituals to empower them with
+supernatural powers. They gain the ability to see in the
+dark using "dark vision". Reciting a dirge will shield
+them with "quill armor" which can hurt attackers. The
+Dark Kirre possess the ability to heal themselves by
+drinking the blood of their victims using their skill
+of "dark feast".
+~
+
+0 RAZOR CLAWS~
+
+syntax: razor
+
+With a small effort, remort Kirre are able to extend or
+retract their razor sharp claws. While extended, the Kirre
+cannot use any weapons however their hand to hand strikes
+will land terrible wounds which will continue to bleed
+for several moments.
+~
+
+0 TAIL TRIP~
+
+syntax: automatic
+
+Natural dexterity and a thick prehensile tail allow remort
+Kirre to use their tails during combat. Due to their smaller
+size, Kirre tails do not inflict any damage. However, they
+are very effective for knocking opponents off balance.
+~
+
+0 AMBUSH~
+
+syntax: ambush, then attack.
+
+Sabre Kirres have mastered the surprise attack. By setting up
+an ambush in a room, they are able to greatly increase the
+damage to their victims during the first round of combat.
+However, if the Kirre leaves the ambush site, they lose the
+element of surprise.
+~
+
+0 CONCEALMENT~
+
+syntax: cast concealment
+
+Sabre Kirres are among the quietest creatures alive during the
+hunt. By using concealment, the Sabre is able to get very close
+to their victims without being seen. The effort of moving quickly
+while staying so silent is very taxing, and can only be done for
+brief periods of time.
+~
+
+0 QUILL ARMOR~
+
+syntax: cast 'quill armor'
+
+Dark Kirre can shield themselves by reciting a dirge. Their soft
+fur becomes as tough as steel, and laced with pointy quills.
+Under the effect of this spell, the Dark Kirre's armor class
+improves, and if struck by a physical attack, the attacker may be
+stricken by the quills.
+~
+
+0 DARK FEAST~
+
+syntax: feast
+
+Dark Kirre practice many disturbing rites, including cannibalism,
+ritual sacrifice and blood drinking. Exposure to these dark deeds
+has corrupted the Dark Kirre to the point where they are able to 
+begin devouring parts of their victims while they are still alive.
+By using this power during combat, the Kirre can be healed based on
+how close to death their victim is.
+~
+
+0 $~
+#$
+

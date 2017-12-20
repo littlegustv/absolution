@@ -1,0 +1,546 @@
+#AREADATA
+Name Seeker Stronghold~
+Builders Teldin Aql~
+VNUMs 23300 23399
+Credits { All }             Seeker Stronghold~
+Security 9
+Xcontinent 1
+Age 12
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#23300
+basic goon seeker outpost~
+Clan Goon~
+A clan goon is here, protecting the door to the north.
+~
+~
+orc~
+ABCGT J 0 0
+51 5 50d10+5000 1d1+99 5d8+20 none
+-21 -21 -21 -21
+R ABab Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 seeker~
+#23301
+basic goon seeker outpost~
+Clan Goon~
+A clan goon is here, protecting the door to the north.
+~
+~
+orc~
+ABCGT DHJLNOQTVZb 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+ABCDEFHIJKMNOR ABab Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 seeker~
+#23302
+seeker usher slasher~
+The usher~
+The Usher of Seeker leads you into the outpost.                                                                                               
+~
+~
+human~
+ABCGT DZ 0 0
+60 0 10d10+1400 17d9+100 4d7+11 none
+-10 -10 -10 -10
+FU ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 seeker~
+#23303
+healer stronghold seeker~
+the local Seeker Stronghold healer~
+The stronghold healer is here, selling spells.
+~
+~
+human~
+ABQVa DFJZ 0 0
+45 4 25d10+3000 1d1+100 8d4+16 none
+-15 -15 -15 -15
+0 ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 seeker~
+#23304
+clan store keeper seeker stronghold shop~
+store keeper~
+Your clan store keeper is here, trying to sell you some potions.
+~
+~
+human~
+ABQR DZ 1000 0
+1 0 1d1+999 1d1+999 10d10+10 none
+-15 -15 -15 -15
+FGH ABCDQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#23305
+basic goon seeker outpost~
+Clan Goon~
+A clan goon is here, protecting the door to the north.
+~
+~
+orc~
+ABCGT HJQ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+FKR ABab Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 seeker~
+#23306
+basic goon seeker outpost~
+Clan Goon~
+A clan goon is here, protecting the door to the north.
+~
+~
+orc~
+ABCGT HJQ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+FKR ABab Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 seeker~
+#0
+
+
+
+#OBJECTS
+#23300
+clan couch~
+the clan couch~
+The clan couch is here ready to receive your butt.~
+cloth~
+furniture IO 0
+8 50 BEHKN 100 100
+0 0 0 P
+#23301
+fountain lemonade~
+a fountain~
+A white marble fountain gushes forth here.~
+~
+fountain OR 0
+0 0 'lemonade' 0 0
+0 0 0 G
+E
+fountain~
+It is very nice.  Made from fine white marble. 
+~
+#23302
+lime potion~
+a lime potion~
+A greenish vial is here.~
+wood~
+potion 0 AO
+25 'detect invis' 'detect magic' 'reserved' 'reserved'
+40 1 2000 P
+#23303
+dagger bosco~
+a Bosco dagger~
+An expensive dagger is on the floor.~
+oldstyle~
+weapon FGPTUVYe AN
+dagger 7 6 stab AB
+50 20 450 P
+A
+19 5  
+#23304
+seeker outpost key~
+seeker's outpost key~
+The key to Seeker's outpost is on the floor.~
+~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the Seekers of the world of Redemption. 
+~
+#23305
+seeker outpost key~
+seeker's outpost key~
+The key to Seeker's outpost is on the floor.~
+~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the Seekers of the world of Redemption. 
+~
+#23306
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#23307
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#23308
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 4000 P
+#23309
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#23310
+white off potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#23311
+pewter sack~
+a pewter sack~
+A small bag made of metal is gathering dust here.~
+pewter~
+throwing N AO
+3 7 blast 37 'acid blast'
+30 20 3500 P
+#23312
+vial psychedelic ink~
+a vial of psychedelic ink~
+A vial of multicolored ink.~
+cream~
+potion 0 AO
+5 'invisibility' 'pass door' '(null)' '(null)'
+1 1 500 P
+#23313
+tent~
+a sturdy canvas tent~
+A sturdy canvas tent is here.~
+canvas~
+container S A
+70 A 0 10 100
+1 25 150 P
+#23314
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#23315
+white pill~
+a white pill~
+A white pill with the letter 'C' stamped on it.~
+none~
+pill 0 A
+35 'frenzy' 'giant strength' 'reserved' 'reserved'
+35 0 5000 P
+#23316
+incredible potion strength~
+an incredible potion of strength~
+An incredible potion of strength has been dropped here.~
+glass~
+potion C AO
+25 'giant strength' 'slow' '(null)' '(null)'
+20 10 3000 P
+E
+incredible~
+Poua! It smell awfull. Yon don't want really drink it ?
+~
+#23317
+vial black ink~
+a vial of black ink~
+A vial of black writing ink sits here.~
+cream~
+potion 0 AO
+25 'remove curse' 'blur' '(null)' '(null)'
+25 1 3000 P
+#23318
+raft~
+a raft~
+A raft has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 750 400 A
+E
+raft~
+The raft looks very primitive. 
+~
+#23319
+wand detect invis~
+a wand of glinting yellow~
+A wand of glinting yellow lies here.~
+oldstyle~
+wand G AO
+1 15 15 'detect invis' 0
+5 10 1800 P
+E
+wand~
+You see a shape slowly fading into exsistance at the base of this wand.
+~
+#23320
+clear pill~
+a clear pill~
+A cute clear pill has the letter 'S' stamped on it.~
+glass~
+pill 0 A
+30 'haste' 'reserved' 'reserved' 'reserved'
+20 0 2500 P
+#23321
+malevolus evil dart~
+the Malevolus~
+An evil-looking dart sits here.~
+mithril~
+throwing C AO
+7 5 bite 50 'curse'
+45 1 4000 P
+#23322
+incredible pill feeling~
+an incredible pill of feeling~
+An incredible pill of feeling has been dropped here.~
+food~
+pill e AO
+15 'detect invis' 'infravision' 'loneliness' '(null)'
+15 10 1000 P
+E
+incredible pill feeling~
+This pill isn't appetizing.
+~
+E
+~
+~
+#23323
+figurine mist~
+mist figurine~
+A misty figurine lays on the ground.~
+oldstyle~
+wand AG AO
+45 3 3 'gate' 0
+40 30 11800 P
+A
+14 75  
+#23324
+tetragon sabre~
+Tetragon's Sabre~
+Tetragon's Sabre lies here still humming from the last battle.~
+adamantite~
+weapon ABI AN
+sword 5 7 cleave EF
+42 450 5600 P
+E
+scimitar blade~
+It is quite heavy.  The blade is made of some metal that you can't even 
+spell.  The edge of the blade looks as if it could cut through anything 
+or anyone. 
+~
+#23325
+pit sacrifice~
+a pit for sacrifices~
+A pit for sacrifices is in front of the altar.~
+air~
+container 0 0
+10000 0 0 100 100
+0 0 0 P
+#23326
+water fountain seeker~
+the Seeker water fountain~
+This fountain pours out Seeker(tm) brand water at a reasonable price.~
+marble~
+fountain 0 0
+-1 -1 'water' 0 0
+1 50 0 P
+#23327
+flame broiled elfkabob~
+a flame broiled elfkabob~
+A flame broiled elfkabob is here, giving off a juicy, almost intoxicating smell.~
+food~
+pill GS A
+10 'stone skin' 'shield' 'reserved' 'reserved'
+0 1 2500 P
+#23328
+gingerbread cookie~
+a gingerbread cookie~
+A gingerbread cookie is here, luring you in with an irresistable aroma.~
+food~
+pill GS A
+10 'bark skin' 'pass door' 'reserved' 'reserved'
+10 1 2500 P
+#0
+
+
+
+#ROOMS
+#23300
+Stronghold Entrance~
+A formal garden has been planted around the gates to this stronghold. 
+Flower-beds and gravel paths have been laid out in geometric patterns.  The
+Seeker Stronghold lies behind large wooden doors to the north.  However, the
+members of the clan can enter the room to the east.  A dark path lies to the
+west.  
+~
+0 0 0
+D0
+~
+~
+4 23304 23302
+D1
+~
+~
+0 0 23301
+D2
+~
+~
+0 0 15340
+S
+#23301
+The Seeker Entry~
+~
+0 405012748 0
+D3
+~
+~
+0 0 23300
+C seeker~
+S
+#23302
+Seeker Stronghold~
+You find yourself standing in the center of the stronghold, it's so
+peaceful here that you feel the tension of every day living fading away. 
+There is a couch sitting off to the side of the room that looks comfortable
+to rest on, and a fountain with lemonade in it.  Further inspection of the
+room reveals a portal room upstairs and a door to the south that leads out
+of the stronghold.  
+~
+0 807665676 0
+D2
+~
+~
+0 0 23300
+D4
+~
+~
+0 0 31000
+C seeker~
+S
+#23303
+The Dome~
+You stand in a large, misty chamber. Large stone archways occupy
+the walls, serving as magical portals to unknown places. Stylishly
+engraved gold plaques are set in the walls besides the arches, indicating
+destinations. The portals glow mysteriously, inviting you in.
+The room itself, is fairly plain, as is the stronghold below it.
+ 
+{wTo the {RNorth{w lies {DDeath Bloom
+{wTo the {BSouth{w lies{Y The {yGingerbread {CHouse
+{wTo the {yEast {wlies {bMonotheya
+{wTo the {GWest {wlies The path to {cTerra
+{x
+~
+0 807665676 0
+D0
+~
+~
+0 0 6700
+D1
+~
+~
+0 0 18300
+D2
+~
+~
+0 0 18901
+D3
+~
+~
+0 0 1900
+D4
+~
+~
+0 0 23304
+C seeker~
+S
+#23304
+The Dome~
+You stand in a large, misty chamber. Large stone archways occupy
+the walls, serving as magical portals to unknown places. Stylishly
+engraved gold plaques are set in the walls besides the arches, indicating
+destinations. The portals glow mysteriously, inviting you in.
+The room itself, is fairly plain, as is the outpost below it.
+ 
+{wTo the {RNorth{w lies {MRecall
+{wTo the {GWest {wlies {rShackled{m Demon{x
+~
+0 807665676 0
+D0
+~
+~
+0 0 31000
+D3
+~
+~
+0 0 19612
+D5
+~
+~
+0 0 23303
+C seeker~
+S
+#0
+
+
+
+#SPECIALS
+M 23300 spec_goon Load to: Clan Goon
+M 23301 spec_goon Load to: Clan Goon
+M 23302 spec_doorman Load to: The usher
+M 23305 spec_goon Load to: Clan Goon
+M 23306 spec_goon Load to: Clan Goon
+S
+
+
+
+#MOBPROGS
+#23300
+~
+N
+#0
+
+#RESETS
+D 0 23300 0 2
+M 1 23300 1 23300 1
+E 0 23304 0 3
+M 1 23302 1 23301 1
+O 0 23301 0 23302
+O 0 23326 0 23303
+S
+
+
+
+#SHOPS
+23304 0 0 0 0 0 120 100 0 23
+0
+
+
+
+#$

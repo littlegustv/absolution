@@ -1,0 +1,2825 @@
+#AREADATA
+Name Hidden Oasis~
+Builders None~
+VNUMs 19100 19199
+Credits {10 15} Blitze      Hidden Oasis~
+Security 9
+Xcontinent 1
+Age 10
+Questable 1
+End
+
+
+
+#MOBILES
+#19100
+Flying Wooden Airship~
+A flying wooden airship~
+A flying wooden airship screams through the skies bent on war.
+~
+A flying airship made of coarse wood, vibrant cloth and iron floats
+through the vast skies above Dominia.  
+~
+song bird~
+AB T -1500 0
+15 0 3d9+208 1d1+100 2d6+3 skewer
+-2 -2 -2 -2
+EFH 0 0 H
+stand stand male 300
+AGW ACDEFHKP large 0 the guilds~
+#19101
+Flesh Eating Sandstorm~
+a flesh eating sandstorm~
+A flesh eating sand storm rages across the land.
+~
+A flesh eating sandstorm strips the life from the bones of any creature. 
+Can anything withstand the power and might of this creature?  
+~
+wyvern~
+AF DFT -1500 0
+15 0 3d9+208 1d1+100 2d6+3 force
+-2 -2 -2 -2
+CFH L 0 IS
+stand stand female 350
+ABGZ ACDEFHJKQVX large 0 the guilds~
+#19102
+dust devil whirlwind~
+a dust devil~
+A whirlwind of a dust devil is here.
+~
+A crazy whipping whirlwind is brewing up the weather in this part of the desert.
+~
+wyvern~
+AB DFJTVZ 0 0
+16 0 3d9+233 1d1+100 2d6+4 force
+-2 -2 -2 -2
+CFH EL HI S
+stand stand male 250
+ABGKZ ACDEFHJKQVX large air the guilds~
+#19103
+Scale backed worm~
+a ravenous scale backed worm~
+A ravenous scale backed worm looms up before you.
+~
+A hugely muscled worm ripples with a pulsation of pure power as it rips
+through your very intestines.  You'll be lucky if you can escape this foe
+unscathed.  
+~
+snake~
+A HV 0 0
+35 0 10d10+1300 1d1+100 4d7+11 grep
+-11 -11 -11 -11
+CHN H LQ I
+stand stand male 3000
+ABGHMXYZc ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#19104
+An Elder Kirre~
+a elder kirre~
+An elder kirre scowles beneath furrowed brows.
+~
+An elder kirre stands before you in lush robes of crimson.  His furred
+paws are massive although grey with age.  This figure still emanates vast
+power in his aged form.  
+~
+kirre~
+A J 0 0
+20 0 3d9+333 1d1+100 2d8+5 smite
+-4 -4 -4 -4
+0 0 J I
+stand stand male 2000
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#19105
+Renegade Kirre~
+a renegade kirre~
+A renegade kirre roars with anger.
+~
+A renegade, defiant of clan laws, stands with a defiant gleam in his eyes.  
+~
+kirre~
+ABT J 0 0
+23 0 5d10+450 1d1+100 3d6+6 tear
+-6 -6 -6 -6
+0 0 J I
+stand stand male 0
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#19106
+Elder Spirits of Ages Past~
+elder spirits of ages past~
+Elder spirits of ages past moan in torment.
+~
+The last generation of Elders, having failed their Shaman, have been put
+to death in this circle; their souls trapped until they fulfill worthy
+servitude to their people.  
+~
+kirre~
+AB J -1500 0
+25 0 5d10+550 1d1+100 2d10+7 divine
+-7 -7 -7 -7
+FHK 0 J I
+stand stand none 2000
+AGHMV ABCDEFGHIJKQ medium 0 the guilds~
+#19107
+Kirre Shaman~
+Kirre Shaman~
+A Kirre Shaman stalks about mumbling incantations.
+~
+The Kirre Shaman is the real power among all the patrons of the oasis,
+his powers burn in his fiery blood red eyes.  Muscles, rippling with pent
+up rage, cover his body from head to tail.  This is not some frail human
+wizard.  
+~
+kirre~
+ABR J 0 0
+35 0 10d10+1300 1d1+100 4d7+11 force
+-11 -11 -11 -11
+FH 0 J I
+stand stand male 3000
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#19108
+Kirre Warrior~
+A kirre warrior~
+A bright orange kirre warrior picks his teeth with a human sized spear.
+~
+A kirre warrior is given its role in the clan from an early age
+depending on how aggressive they are as cubs.  They fight with their own
+clan members as much as any others who come across their way.  
+~
+kirre~
+AFT J 0 0
+15 -2 3d9+208 1d1+100 2d6+3 tear
+-2 -2 -2 -2
+FH 0 J I
+stand stand female 1000
+AGHV ABCDEFGHIJKQ large 0 the guilds~
+#19109
+Kirre Tribesman~
+a kirre tribesman~
+A kirre tribesman practices lashing a whip.
+~
+Every kirre is raised to fight from cubhood.  Sometimes those big onyx
+claws are not enough.  Weapons of all sorts are fashioned and practiced
+with.  
+~
+kirre~
+AT J 0 0
+20 -3 3d9+333 1d1+100 2d8+5 tear
+-4 -4 -4 -4
+FH 0 J I
+stand stand male 1500
+AGHV ABCDEFGHIJKQ large 0 the guilds~
+#19110
+Stealthy Kirre Assassin~
+stealthy kirre assassin~
+A stealthy kirre assassin stalks about in the shadows.
+~
+Sent to kill in the cover of the shadows, these are no easy foes to handle.
+~
+kirre~
+AS BDFJQ -1500 0
+25 -1 5d10+550 1d1+100 2d10+7 gutting
+-7 -7 -7 -7
+BCJ 0 J I
+stand stand male 2500
+AGHV ABCDEFGHIJKQ large 0 the guilds~
+#19111
+Red football team~
+a red football team~
+A red football team pits their might against the blue team.
+~
+Long loved football seems to be a natural pastime here in the oasis.  A
+large coconut is bound in leather and thrown from player to player.  Vicious
+rivalries sometimes emerge from old feuds as both sides vie for the win.  
+~
+kirre~
+AB J 0 0
+30 -3 6d12+853 1d1+100 4d6+8 force
+-9 -9 -9 -9
+F 0 J I
+stand stand none 2000
+AGHV ABCDEFGHIJKQ huge 0 the guilds~
+#19112
+Blue football team~
+a blue football team~
+A blue football team tries to cheat.
+~
+The blue team is nefarious for cheating.  Always bringing brass knuckles
+and other implements to the field and causing havoc.  
+~
+kirre~
+AB JV 0 0
+30 -2 6d12+853 1d1+100 4d6+8 force
+-9 -9 -9 -9
+BCFH 0 J I
+stand stand female 2500
+AGHV ABCDEFGHIJKQ large 0 the guilds~
+#19113
+Kirre Fisherman~
+a kirre fisherman~
+A kirre fisherman tries to spear a large crocodile sized fish.
+~
+The kirre fishermen forage for food day and night to provide for their
+villages.  Luckily the fish are bountiful and there is a lot of food to go
+around.  
+~
+kirre~
+A JV 0 0
+28 -2 6d12+703 1d1+100 2d12+8 skewer
+-8 -8 -8 -8
+F 0 J I
+stand stand male 1500
+AGHV ABCDEFGHIJKQ large 0 the guilds~
+#19114
+Flesh robbed skeleton~
+flesh robbed skeleton~
+A flesh robbed skeleton stands here.
+~
+The undead have arisen.  Their movements fueled by anger and hate.  They
+look for the flesh of their ungrateful kin so they may regenerate to life
+again and set things to rights in the oasis.  
+~
+undead~
+ABO Z -1500 0
+29 -1 6d12+778 1d1+100 2d12+8 chill
+-9 -9 -9 -9
+CF B I HNS
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19115
+white sun bleached skeleton~
+a white sun bleached skeleton~
+A white sun bleached skeleton stands stock still gazing east.
+~
+Withered sun bleached bones gleam with a ghastly aura.  The once proud
+warrior reduced to nothing in the sands of time.  All that remains is a
+sense of prolonged agony hanging like an evil aura.  
+~
+undead~
+ABO XZd -1500 0
+30 -1 6d12+853 1d1+100 4d6+8 wrath
+-9 -9 -9 -9
+CF BK I HNS
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 19115 100~
+#19116
+Kirre Druid~
+Kirre druid~
+A Kirre druid schemes and plots malicious acts of violence.
+~
+The Kirre druids have put together some evil plans for dominating all the
+tribes.  Can anyone foil their mad suicide attempts?  
+~
+kirre~
+AB HJV 0 0
+25 0 5d10+550 1d1+100 2d10+7 none
+-7 -7 -7 -7
+CJN 0 J I
+stand stand none 500
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#19117
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+ABIZ 0 0 0
+54 5 50d10+6500 1d1+100 7d6+22 none
+-24 -24 -24 -24
+0 ABCDEFGHIJKLMNOPQRSTXYab 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 19117 100~
+#19118
+Malicious Evil~
+an incredibly malicious evil~
+An incredibly malicious evil consumes your soul.
+~
+The guardian of the desert, this evil force is the harbringer of doom. 
+Legends debate whether it is meant to keep the Kirre in or everyone else
+out.  
+~
+kirre~
+ABR BDEHJQVZ -2000 0
+60 6 50d10+9500 1d1+100 8d6+28 force
+-30 -30 -30 -30
+0 AB J FI
+stand stand none 2500
+AGHRV ABCDEFGHIJKPQ medium 0 the guilds~
+#19119
+dark figure~
+a dark figure~
+A dark figure stands here.
+~
+He is cloaked... you wonder what he is doing here.
+~
+human~
+AB Z -1500 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+CF B I 0
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 19119 100~
+#19199
+Delete this~
+test mob~
+A test mob is here
+~
+~
+human~
+A I 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 EFGHINY
+stand stand none 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#19100
+Shiny Metal Dart~
+a shiny metal dart~
+A shiny metal dart gleams and sparkles in the dirt.~
+wood~
+throwing 0 AO
+3 3 tear 15 'ice bolt'
+12 300 50 P
+#19101
+Twisted Bamboo Leg Guards~
+some twisted bamboo leg guards~
+Twisted bamboo leg guards bound with a sturdy rope lay here.~
+bamboo~
+armor 0 AF
+5 6 5 0 0
+13 100 100 P
+#19102
+Painted Bamboo Leg Bracers~
+some painted bamboo leg bracers~
+Painted bamboo leg bracers glow with empowered runes here.~
+bamboo~
+armor A AF
+7 7 6 0 0
+21 100 1000 P
+A
+19 1  
+#19103
+Thorn Spiked Paw Guards~
+a pair of short spiked paw guards~
+Thorn spiked paw guards that protect the user from blade swipes lay here.~
+wood~
+armor 0 AF
+8 9 8 1 0
+28 100 1500 P
+A
+18 1  
+A
+20 1  
+#19104
+Antique Rock Plates~
+a set of antique rock plates~
+Antique rock plates lay here discarded.~
+stone~
+armor 0 AD
+9 9 9 1 0
+34 300 10000 P
+A
+1 -1  
+A
+13 20  
+#19105
+Elders Robe~
+an elder's robe~
+An elder's robe lies in tatters.~
+cloth~
+armor 0 AK
+5 6 5 0 0
+11 100 100 P
+A
+20 1  
+#19106
+Shaman's Toga~
+a shaman's toga~
+A shaman's toga lies on the ground.~
+cloth~
+armor AB AD
+8 8 7 0 0
+24 100 1000 P
+A
+2 2  
+#19107
+Mountain Scaling Spikes~
+some mountain scaling spikes~
+Mountain scaling spikes lay here.~
+metal~
+armor 0 AG
+5 5 5 1 0
+12 100 300 P
+A
+5 1  
+#19108
+Sand Sneakers~
+a pair of sand sneakers~
+A pair of sand sneakers lay here.~
+leather~
+armor 0 AG
+6 7 6 1 0
+19 100 1500 P
+A
+14 20  
+#19109
+open toed sandals~
+a pair of open toed sandals~
+A pair of opentoed sandals are discarded here.~
+wood~
+armor 0 AG
+8 9 8 0 0
+28 100 2000 P
+A
+3 -1  
+A
+14 -20  
+A
+18 1  
+A
+19 1  
+#19110
+Broken Ebony Claw~
+a broken ebony claw~
+A broken ebony claw has been discarded here.~
+ebony~
+armor 0 AH
+3 3 3 2 0
+11 100 100 P
+A
+1 -2  
+A
+13 -10  
+#19111
+Bladed Brass Knuckles~
+a pair of bladed brass knuckles~
+Bladed brass knuckles gleam dangerously here.~
+brass~
+armor 0 AH
+7 6 6 0 0
+24 100 1000 P
+A
+1 1  
+A
+5 1  
+#19112
+Leather Paw Protector~
+a leather paw protector~
+A leather paw protector sits here.~
+leather~
+armor A AH
+9 8 9 1 0
+32 100 5000 P
+#19113
+Woven Grass Arm Bracers~
+a pair of woven grass arm bracers~
+Woven grass arm bracers lay here.~
+wood~
+armor 0 AI
+4 4 4 0 0
+11 100 500 P
+A
+18 1  
+#19114
+Bamboo Arm Guards ~
+a set of bamboo guards~
+Bamboo arm guards ringed with metal bands lay here discarded.~
+wood~
+armor 0 AI
+7 8 7 1 0
+24 100 1000 P
+A
+20 2  
+#19115
+Bronze Emblazoned Armlets~
+some bronze emblazoned armlets~
+Bronze emblazoned armlets glimmer opaquely on the ground.~
+bronze~
+armor 0 AI
+9 9 9 0 0
+31 100 7000 P
+A
+3 -1  
+A
+13 20  
+A
+12 -20  
+#19116
+Barb of Death~
+a barb of death~
+A barb of death tinged with green poison tips lies here.~
+wood~
+throwing 0 AO
+3 4 sting 14 'poison'
+14 100 100 P
+#19117
+Diamond Edged Disc~
+a diamond edged disc~
+A diamond edged disc can be seen protruding from the dirt.~
+metal~
+throwing 0 AO
+6 3 slaughter 24 'flamestrike'
+24 100 2000 P
+#19118
+Chained Spiked Turtle~
+a chained spiked turtle~
+A spiked turtle is chained to a log on the ground.~
+iron~
+weapon 0 AN
+flail 2 5 crush F
+14 100 300 P
+A
+4 1  
+#19119
+Knotted Vines~
+some knotted vines~
+Some knotted vines tossed to the ground.~
+hemp~
+weapon 0 AN
+flail 3 7 tear 0
+24 100 1000 P
+A
+18 1  
+A
+19 1  
+#19120
+Bronze Pulverizer~
+a bronze pulverizer~
+A large bronze pulverize lies here.~
+wood~
+weapon 0 AN
+flail 4 7 rip 0
+33 200 5500 P
+A
+1 2  
+#19121
+Weathered Logging Axe~
+a weathered logging axe~
+A weathered logging axe lies here totally rusted from misuse.~
+wood~
+weapon 0 AN
+axe 2 4 skinning 0
+11 100 100 P
+#19122
+Half Aft Axe~
+a half aft axe for small people~
+A half aft axe for small people sits here.~
+wood~
+weapon 0 AN
+axe 3 6 skinning 0
+21 100 1500 P
+A
+14 10  
+A
+19 1  
+#19123
+Tigerian War Axe~
+a tigerian war axe~
+A tigerian war axe that could split hairs rests here.~
+wood~
+weapon 0 AN
+axe 4 5 dicing D
+28 500 2500 P
+A
+18 1  
+A
+19 1  
+A
+20 2  
+#19124
+Fire-hardened Stick~
+a fire-hardened stick~
+A fire-hardened stick is carefully set aside.~
+wood~
+weapon 0 AN
+polearm 2 5 stab 0
+12 500 100 P
+A
+14 10  
+#19125
+Bladed Talon Pole~
+a bladed talon on a pole~
+A bladed talon pole lies on the ground.~
+metal~
+weapon 0 ANY
+polearm 4 5 gutting 0
+28 500 1500 P
+A
+19 2  
+#19126
+Cracked Fire Poker~
+a cracked fire poker~
+A cracked fire poker glows brilliantly on the ground.~
+wood~
+weapon AB AN
+polearm 3 10 skewer P
+34 500 3000 P
+A
+2 -4  
+A
+18 2  
+A
+19 2  
+#19127
+Tooth Buster~
+a tooth buster~
+A grimy tooth buster lies in the dirt.~
+wood~
+weapon 0 AN
+whip 2 5 thwack 0
+13 0 0 P
+A
+1 1  
+#19128
+Silken Snapper~
+a silken snapper~
+A silken snapper dipped in frigid lake water is here~
+wood~
+weapon 0 AN
+whip 4 3 none B
+19 200 1500 P
+A
+18 1  
+A
+19 2  
+#19129
+Aegis Chain~
+an aegis chain~
+An aegis chain of forgotten power is here.~
+wood~
+weapon AF AN
+whip 3 10 entangle 0
+33 500 3500 P
+A
+18 1  
+A
+19 1  
+A
+3 -1  
+A
+5 -1  
+A
+4 1  
+#19130
+Dead Fish~
+a dead fish~
+A stinky decaying fish lies here.~
+food~
+pill 0 AO
+8 'animal growth' 'reserved' 'reserved' 'reserved'
+11 100 100 P
+#19131
+Fruit Filled Skull~
+a fruit filled skull~
+A fruit filled skull of plenty lies here.~
+food~
+pill 0 AO
+16 'giant strength' 'pass door' 'reserved' 'reserved'
+16 100 200 P
+#19132
+Fresh Coconut Juice~
+fresh coconut juice~
+Some fresh cocunut juice, of the local variety is here.~
+cream~
+potion 0 AO
+24 'animal growth' 'giant strength' 'reserved' 'reserved'
+24 100 1000 P
+#19133
+Ungodly Valium~
+ungodly valium~
+An ungodly valium from evil forces lies on the floor.~
+wood~
+pill 0 AO
+35 'curse' 'slow' 'reserved' 'reserved'
+35 100 100 P
+#19134
+Florescent Moss~
+some florescent moss~
+Some bright green florescent moss is here.~
+wood~
+light 0 AO
+0 0 999 0 0
+10 500 500 P
+A
+3 1  
+#19135
+Flaming Palm Brand~
+flaming palm brand~
+Here lies a flaming palm brand for piercing the darkness.~
+wood~
+light A AO
+0 0 999 0 0
+17 300 100 P
+#19136
+Lightning Bug Juice~
+lightning bug juice~
+Some lightning bug juice gives off a soft glowing light.~
+wood~
+light AB AO
+0 0 100 0 0
+24 500 1000 P
+#19137
+Brightly Burning Pitch~
+brightly burning pitch~
+Some brightly burning pitch flickers and casts shadows.~
+wood~
+light A AO
+0 0 999 0 0
+31 800 2500 P
+A
+13 20  
+#19138
+Tuft of Fur~
+a tuft of fur~
+A tuft of fur is floating in the wind.~
+fur~
+jewelry 0 AQY
+0 0 0 0 0
+11 100 100 P
+A
+2 1  
+A
+5 1  
+#19139
+Bell on a String~
+a bell on a string~
+This bell on a string is normally attached to a Kirre tail.~
+metal~
+jewelry 0 AQ
+0 0 0 0 0
+17 100 100 P
+A
+12 7  
+#19140
+Glass Eyes~
+glass eyes~
+Two glass eyes lie here staring lifelessly.~
+glass~
+jewelry 0 AQY
+0 0 0 0 0
+34 500 5000 P
+A
+20 -1  
+A
+1 1  
+A
+19 1  
+#19141
+Tiger Shaped Figurine~
+a tiger shaped figurine~
+A tiger shaped figurine representing ancient Kirre lore is here.~
+wood~
+recall_crystal 0 AOY
+CDEHJLO B AB 0 0
+11 100 1000 P
+A
+5 1  
+#19142
+Broken Onyx Talisman~
+a broken onyx talisman~
+A broken onyx talisman, ripped from the elders throat lies here.~
+diamond~
+gem F AOY
+0 0 0 0 0
+18 100 8000 P
+A
+4 1  
+#19143
+Two Inch Flying Purple Monkeys~
+two inch flying purple monkeys~
+Two inch flying purple monkeys jump from shoulder to shoulder.~
+flesh~
+treasure M AO
+0 0 0 0 0
+28 100 1000 P
+A
+13 30  
+A
+1 -3  
+#19144
+Glittering Gilded Parrot~
+a glittering gilded parrot~
+A glittering gilded parrot made of pure gold is here.~
+gold~
+treasure F AO
+0 0 0 0 0
+35 800 10000 P
+A
+20 -2  
+#19145
+tiger head of tribulation~
+a spiked tiger head of tribulation~
+A magical spiked tiger head lies here snarling.~
+metal~
+weapon K ANZ
+polearm 5 5 chomp DQ
+35 100 25000 P
+A
+18 1  
+A
+19 2  
+#19146
+Secret Formula~
+a secret formula~
+To complete this incantation you must have a bladed talon, five tufts of fur, a set of glass eyes, two tiger shaped figurines, two onyx talisman, and three piles of dust. Speak the rightous words and the power shall be unleashed.~
+paper~
+treasure F AO
+0 0 0 0 0
+30 100 100 P
+E
+secret formula~
+To complete this incantation you must have:
+a bladed talon
+five tufts of fur
+pair of glass eyes
+two tiger shaped figurines
+two onyx talismans
+three piles of dust
+ 
+Speak the righteous words and use these materials to create
+"tiger head of tribulation". Good luck!
+~
+#19155
+Secret Key~
+a secret room key~
+Here lies a key to a secret weapons room.~
+metal~
+key PTY AO
+0 0 0 0 0
+10 10 100 P
+#19156
+pile dust~
+a pile of dust~
+A pile of dust lies on the ground.~
+bone~
+trash 0 AY
+0 0 0 0 0
+0 250 100 P
+#19194
+Blitze Frozen Pearl~
+(no short description)~
+~
+wood~
+pill 0 0
+1 'haste' 'detect invis' 'reserved' 'reserved'
+0 100 100 P
+#19195
+Blitzes Frozen Throne~
+{BB{Wl{bi{Wt{Bz{We{bs {WF{Br{Wo{bz{We{Bn {WT{bh{Wr{Bo{Wn{be{x~
+{BB{Wl{bi{Wt{Bz{We{bs {WF{Br{Wo{bz{We{Bn {WT{bh{Wr{Bo{Wn{be{x~
+wood~
+furniture 0 0
+1 1000 EHK 0 0
+56 100 100 P
+#19196
+Psiometric Storm~
+an immortalizing weapon called psiometric storm~
+An immortalizing weapon called psiometric storm rests here.~
+silver~
+weapon U AN
+dagger 10 10 flbite Y
+54 10 1 P
+#19197
+Shattered Being~
+the broken elements of a whole being~
+The shattered being of a once poud creature.~
+air~
+armor NT AQ
+100 100 100 100 0
+54 10 10 P
+#19198
+heart ice~
+A cold lump of {Wpure {Bice{x.~
+Here lies a chilling lump of glacial ice.~
+iron~
+armor N AD
+100 100 100 100 0
+54 10 10 P
+#19199
+frozen touch death~
+{bFrozen{x {rDeath{x~
+The frozen touch of death chills your soul.~
+energy~
+weapon NTU AN
+dagger 10 10 acbite AEGPSV
+54 10 0 P
+#0
+
+
+
+#ROOMS
+#19100
+Air Fleet Invasion~
+Due to the secluded nature of the hidden oasis, an invading army has
+decided to attack by the only way possible.  Vast ships carry armed human
+warriors by the brigade.  The battle looks about to begin.  A rope hangs
+down the prow of the lead ship.  
+~
+0 1 9
+D5
+~
+~
+0 0 19101
+S
+#19101
+Hanging by a Thread~
+Dangling from the prow of the foremost airship is a knotted rope. 
+Carrion birds with horned heads soar nearby.  Somehow they can anticipate
+the coming feast that rides with every war.  Scale the rope to the fleet
+above or downwards towards the edge of the desert.  
+~
+0 1 9
+D4
+~
+~
+0 0 19100
+D5
+~
+~
+0 0 19102
+S
+#19102
+Edge of Desert~
+A swirling dust storm ravages the area.  Smaller marble like pebbles whip
+through the air, pock marking any surface they collide with.  An enticing
+rope sways in mid air.  Distant rumbles echo from the west.  Exits are up
+and west.  
+~
+0 1 10
+D3
+~
+~
+0 0 19103
+D4
+~
+~
+0 0 19101
+S
+#19103
+Rock Outcropping~
+It seems that here is the only solid ground in the entire sultry desert. 
+Jagged rough hewn rocks have been cultivated to form long steps leading down
+to the forest at the edge of the oasis.  Exits are east, south, west and
+down.  
+~
+0 5 10
+D1
+~
+~
+0 0 19102
+D2
+~
+~
+0 0 19124
+D3
+~
+~
+0 0 19104
+D5
+~
+~
+0 0 19125
+S
+#19104
+Deadly Desert~
+Amid the twenty foot tall sand dunes the sun beats down with oppressive
+force.  Sand lizards and scorpions scurry across the dusty pathway, looking
+for today's tasty morsel to eat.  The desert does not seem so deadly.  Exits
+are east and west.  
+~
+0 1 10
+D1
+~
+~
+0 0 19103
+D3
+~
+~
+0 0 19105
+S
+#19105
+Deadly Desert~
+Vibrations alert the senses that something dangerous is not too far away.
+To the west the sands seem to change color from dull red to white.  Oddly,
+all sounds of life seem to end here.  Exits are east and west.  
+~
+0 1 10
+D1
+~
+~
+0 0 19104
+D3
+~
+~
+0 0 19106
+S
+#19106
+Deadly Desert~
+White sands stretch down to a lower section of the desert.  The sand here
+has been compacted by some very large creatures and baked solid.  A single
+step on to this white vista sends a vibration like a drum screaming across
+the lands.  Exits are down and east.  
+~
+0 1 10
+D1
+~
+~
+0 0 19105
+D5
+~
+~
+0 0 19107
+S
+#19107
+Deadly Desert~
+White pristine sands stretch unending across the horizon.  Each step
+shakes the area like thunder.  In this quiet setting every sound is
+amplified until there is not a creature anywhere that does not know of your
+presence here.  Exits are up and south.  
+~
+0 1 10
+D2
+~
+~
+0 0 19108
+D4
+~
+~
+0 0 19106
+S
+#19108
+Deadly Desert~
+A Bloodbath!  Giant smears of blood cake the white sands in gristly
+contrast.  Something has apparently feasted on the flesh of those who were
+in the wrong place at the wrong time; a stray tribal hunting party chasing
+game and chancing the desert.  From the marks on the skeletons it seems they
+were eaten whole and then regurgitated fleshless.  Exits are north and
+south.  
+~
+0 1 10
+D0
+~
+~
+0 0 19107
+D2
+~
+~
+0 0 19109
+S
+#19109
+Deadly Desert~
+Ancient pillars of marble thrust up desert floor; remnants of
+some ancient society these are all that remain of their greatness.  Deeply
+cleft inscriptions mar the surface of the pillars, telling of the race who
+once ruled the desert.  Mysteries unfold in the telling of those near
+forgotten markings.  Exits are north and south.  
+~
+0 1 10
+D0
+~
+~
+0 0 19108
+D2
+~
+~
+0 0 19110
+S
+#19110
+Stone Crevice~
+A huge boulder has been split by a massive surge of force.  Telltale
+signs suggest the rock has been repeatedly struck.  Markings of a hasty
+pathway up the mountain show the safety of solid ground.  Exits are north
+and south.  
+~
+0 5 5
+D0
+~
+~
+0 0 19109
+D2
+~
+~
+0 0 19111
+S
+#19111
+Mountain Foothills~
+The sands of the desert break themselves on the foothills of this near
+vertical mountain.  The only climbable area is in these low foothills
+following a wall of hard granite.  To the east the lands rise steeply, 
+almost totally unassailable.  Exits are north and east.  
+~
+0 1 5
+D0
+~
+~
+0 0 19110
+D1
+~
+~
+0 0 19112
+D2
+~
+~
+0 0 19197
+S
+#19112
+Jaeger's Peak~
+Covered in moss and almost totally forgotten, a stone figure stands with
+sword raised on the peak of the foothills.  At the length of the up thrust
+sword a stone eye from a cockatrice is impaled.  Apparently the defender
+took the eye of his adversary at the cost of his life.  Thus why this peak
+is named after him.  Exits are east and west.  
+~
+0 1 5
+D1
+~
+~
+0 0 19113
+D3
+~
+~
+0 0 19111
+S
+#19113
+Peak's Edge View~
+The solid vertical mass of granite this mountain is composed of seems out
+of place in the center of this vast desert.  In the distance though it seems
+as if an ocean waits just on the other side.  But it is too far to tell if
+it's wavering heat images or real.  The lush sylvan forest below seems
+almost too vibrant to be real as well.  How could this living paradise
+survive all the way out here in the desert.  Exits are east and west.  
+~
+0 1 5
+D1
+~
+~
+0 0 19114
+D3
+~
+~
+0 0 19112
+S
+#19114
+Two-Tiers~
+Two tiers span for many feet from the mountain.  One tier leads east, a
+ceremonial path with black gravel raked into a long black road.  The other
+tier has been carved right into the rock through sorcerous means.  Grand
+sweeping staircases lead northward down into the oasis.  Exits are north,
+east and west.  
+~
+0 5 5
+D0
+~
+~
+0 0 19170
+D1
+~
+~
+0 0 19115
+D3
+~
+~
+0 0 19113
+S
+#19115
+Door to death~
+Skulls, bones, teeth and gore are plastered in decal onto this door. 
+This area seems thick with suspense and fear.  An aura of evil dwells deeply
+coming from within the black granite mountain.  The path leads to and from this
+door set in the stone of the mountain.  Exits are west and down.  
+~
+0 1 5
+D3
+~
+~
+0 0 19114
+D5
+~
+~
+0 0 19116
+S
+#19116
+Round Granite Room~
+A procession of brightly lit candles marks the path into the chamber. 
+Here mourners gather to pay tribute to their dead.  All races celebrate the
+death of their kin differently but all mourn the same and feel the same
+loss.  Some wonder why they bother fighting the other tribes who must be
+distant kin.  Exits are east, up and down 
+~
+0 9 0
+D1
+~
+~
+0 0 19118
+D4
+~
+~
+0 0 19115
+D5
+~
+~
+0 0 19117
+S
+#19117
+Tomb of the Fallen~
+Natural shelves mark the walls in this endless chamber.  It is almost as
+if the earth itself has welcomed and made a place for the dead.  Some
+shelves contain the barest hint of bones while others are rank with decaying
+flesh.  Words inscribed above the doorway speak an eternal message.  We will
+live again!  The only exit is up.  
+~
+0 9 0
+D4
+~
+~
+0 0 19116
+S
+#19118
+Preparation Room~
+Here bodies of the greatest kin are embalmed and wrapped in ceremonial
+garb.  Small jewels and ornaments are adorned around the body within a
+casket, various spells are then chanted over the body to protect it and
+return it safely to the heart of the earth.  Legends say that should the
+need arise an army of those long past would come to defend the heart of the
+land; thus preserving the oasis in its time of dire need.  Exits are up and
+west.  
+~
+0 9 0
+D3
+~
+~
+0 0 19116
+D4
+~
+~
+0 0 19119
+S
+#19119
+Rock Stairs~
+Steps that cut into the clammy grey rock wall lead down into a dark
+abyss.  Snuffed out torches lie in a corner gathering dust.  The air smells
+stagnant and dead.  Small mice chatter angrily at the disruption of their
+home.  Exits are down and north.  
+~
+0 1 0
+D0
+~
+~
+0 0 19120
+D5
+~
+~
+0 0 19118
+S
+#19120
+Deadly Desert~
+The nesting grounds lie scattered with fecal matter.  Masses of holes mar
+the desert floor some as large as three yards across.  Deep green fluid
+rings the holes indicating something was birthed here not too long ago and
+is very hungry.  Exits are north and south.  
+~
+0 1 10
+D0
+~
+~
+0 0 19121
+D2
+~
+~
+0 0 19119
+S
+#19121
+Deadly Desert~
+The dunes have turned to sheer black glass; some kind of force has
+scorched the sands.  The ruins of a human scout encampment lie scattered
+about the area.  Something dark and evil was not happy about their presence
+here.  
+~
+0 1 0
+D0
+~
+~
+0 0 19122
+D2
+~
+~
+0 0 19120
+S
+#19122
+Deadly Desert~
+Small wiggling lines span the desert here.  It looks like someone dragged
+a pile of spaghetti across it.  Flakey shells are littered
+everywhere, left to blow in the wind like garbage.  Some very strange
+insects have been here recently.  Exits are north and south.  
+~
+0 1 10
+D0
+~
+~
+0 0 19123
+D2
+~
+~
+0 0 19121
+S
+#19123
+Deadly Desert~
+Dry desert air mixes with stagnant oasis vegetation as the wind scrawls
+across the dunes.  The land steadily climbs upwards along a slope rising
+above the oasis.  From here, three clusters of buildings can be seen among
+the forest growth.  Exits are west and south.  
+~
+0 1 10
+D2
+~
+~
+0 0 19122
+D3
+~
+~
+0 0 19124
+S
+#19124
+Deadly Desert~
+Wild cacti waiver in the scorching heat, all variety of desert plants
+seem to live here in a natural garden.  Small resilient animals scurry
+through the brush fighting for their own survival.  Exits are north and
+east.  
+~
+0 1 10
+D0
+~
+~
+0 0 19103
+D1
+~
+~
+0 0 19123
+S
+#19125
+Mirrnath Tribe~
+Bent palms sway to a sweltering unforgiving wind bearing the scent of the
+dry desert above.  Wild birds call out in harmonious cacophony.  Golden eyes
+peer from the shadows watching for unwanted visitors.  These are the lands
+of the Kirre race.  None who don't belong should enter.  Exits are up, west
+and south.  
+~
+0 1 3
+D2
+~
+~
+0 0 19126
+D3
+~
+~
+0 0 19132
+D4
+~
+~
+0 0 19103
+S
+#19126
+Mirrnath Tribe~
+Green vegetation is held at bay by a rough beaten path through the trees.
+Many feet have pounded the earth flat traversing to the elders.  Just a
+short distance through the trees a hut can be seen.  Hidden eyes seem to be
+watching everything.  The exits are north and south.  
+~
+0 5 3
+D0
+~
+~
+0 0 19125
+D2
+~
+~
+0 0 19127
+S
+#19127
+Foyer~
+A small foyer is here, a kind of reception area for those who have come
+to seek the elders guidance.  From here the elders, under the scrutiny of
+the shaman, govern all the land within their domain.  The Mirrnath consider
+themselves to be the most civilized of all the tribes.  Exits are north,
+east and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 19126
+D1
+~
+~
+0 0 19128
+D2
+~
+~
+0 0 19130
+S
+#19128
+Elder's Hut~
+A bamboo table stands covered in large hide maps.  Here the elders
+consult and strategize their plans for domination of all the tribes in the
+Oasis.  A second table is covered with magical weapons stolen from their
+foes; the Mirrnath have yet to discover their uses.  Exits are west and
+south.  
+~
+0 8 0
+D2
+~
+~
+0 0 19129
+D3
+~
+~
+0 0 19127
+S
+#19129
+Elder's Hut~
+Statues of the ancient warriors who crossed the desert stand locked in
+eternal depictions of power.  These awesome figures inspire strength and
+passion in the tribe.  Harsh purring words tumble in whispers from reverent
+tribe's men.  Fixated in the middle of the room is a small version of their
+god Senoth.  Final judgement lurks above while there are exits north and
+west.  
+~
+0 8 0
+D0
+~
+~
+0 0 19128
+D3
+~
+~
+0 0 19130
+D4
+~
+~
+0 0 19131
+S
+#19130
+Elder's Hut~
+The window is open and a cool misty breeze wafts in.  The River of Lyfe
+can be seen in the distance.  A trickle of water can be heard over the
+mumbles of conversation in the hut.  The elders make a pastime of imagining
+the possibility of other races beyond the desert.  Exits are north and east.
+~
+0 8 0
+D0
+~
+~
+0 0 19127
+D1
+~
+~
+0 0 19129
+S
+#19131
+Elder's Hut~
+This is the tribal council courtroom.  Death and punishment await all who
+stand here to be judged since none have ever been found innocent.  The
+demands of the Mirrnath are strict beyond imagination.  Benches for all the
+elder's line the walls and a single stool sits alone in the center of the
+room.  The only exit is down.  
+~
+0 8 0
+D5
+~
+~
+0 0 19129
+S
+#19132
+Mirrnath Tribe~
+A distinct trail seems to weave through the trees.  Large paw prints mark
+the mud and dirt from some yet to be seen animal.  History claims that the
+creator of the Kirre was shamed by his creations pleas for freedom and sent
+them away across a vast and dangerous desert.  Maybe their home has finally
+been discovered.  Exits are east and south.  
+~
+0 1 3
+D1
+~
+~
+0 0 19125
+D2
+~
+~
+0 0 19133
+S
+#19133
+Mirrnath Tribe~
+Only those who have been given permission may pass this point into the
+heart of the Mirrnath village.  The elders have claimed the outer lands
+thinking it protected them from their many tribal enemies.  In the distance
+water can be heard.  The path leads deeper into Mirrnath lands.  Exits are
+north and west.  
+~
+0 5 3
+D0
+~
+~
+0 0 19132
+D3
+~
+~
+0 0 19134
+S
+#19134
+River of Lyfe~
+A cluster of rough boulders are split by an underground river pushing its
+way to the surface.  Clear, cold water provides life for the whole oasis. 
+It is said the area is sacred, the water coming from the heart of the land
+itself.  The Kirre here have traveled far to this sacred land and believe
+themselves to be creatures blessed by gods.  This is their land and they
+will have it no other way.  Exits are east and south.  
+~
+0 1 12
+D1
+~
+~
+0 0 19133
+D2
+~
+~
+0 0 19135
+S
+#19135
+River of Lyfe~
+The Mirrnath Village is a collection of hammocks and awnings.  Bamboo
+pipes siphon water from the river to supply the village with a ready source.
+Hot stones are placed beside the pipes to heat the necessary water for the
+tribesmen and woman.  Separate shaded pools are set aside for the cat
+warriors to cool off their shaggy coats in the midday heat.  Exits are north
+west and south.  
+~
+0 1 12
+D0
+~
+~
+0 0 19134
+D2
+~
+~
+0 0 19179
+D3
+~
+~
+0 0 19136
+S
+#19136
+Mirrnath Tribe~
+A semi-circular dais stands before a crowd of wooden seats.  Prisoners
+are sacrificed here in front of a blood lusting crowd.  This whole culture
+seems bent on death and destruction.  The gods are never pleased until blood
+is shed in their favor.  Exits are north, east and west.  
+~
+0 5 3
+D0
+~
+~
+0 0 19137
+D1
+~
+~
+0 0 19135
+D3
+~
+~
+0 0 19143
+S
+#19137
+White Stone Path~
+Crushed white stone lines the path towards the sacred shamans hut.  The
+shaman represents the Mirrnath god who considers the land sacred above all
+else.  Those who defile the oasis meet his magical wrath.  Exits are north
+and south.  
+~
+0 1 3
+D0
+~
+~
+0 0 19138
+D2
+~
+~
+0 0 19136
+S
+#19138
+Shaman Hut~
+This seems to be the only elaborate building in the area.  A collage of
+skulls and bones ring an arch ten meters high.  Quite an imposing sight that
+can chill a person to their bones and scare away many intruders no doubt. 
+Exits are south and west.  
+~
+0 8 0
+D2
+~
+~
+0 0 19137
+D3
+~
+~
+0 0 19139
+S
+#19139
+Shaman Hut~
+Here is the ancestor spirit circle.  Twelve grey and weathered skulls
+ring a pit of blue flames.  Wind whistling through the ceiling beams creates
+a moaning sound, as if many souls are in torment here.  The skulls are
+elders who have failed the shaman and now must pay pennance until they have
+served their tribe well.  There are exits east, west and south.  
+~
+0 8 0
+D1
+~
+~
+0 0 19138
+D2
+~
+~
+0 0 19141
+D3
+~
+~
+0 0 19140
+S
+#19140
+Herb Closet~
+Drying on old wooden stakes are herbs of many kinds.  The shaman makes
+his concoctions of evil intent here.  Rare herbs seem to be preciously
+bundled and stored away for emergencies.  Spells researched for years are
+prepared for easy casting.  The only exit is east.  
+~
+0 8 0
+D1
+~
+~
+0 0 19139
+S
+#19141
+Shaman Hut~
+The shaman's library gathers dust and slowly rots in the temperate oasis
+heat.  Books, ancient skins and hides bound with leather; thin palm leaves
+bleached white, and stone tablets etched with claw marks all line the walls.
+The history of these tribes are written here among these precious few books.
+Exits are west and north.  
+~
+0 8 0
+D0
+~
+~
+0 0 19139
+D3
+~
+~
+0 0 19142
+S
+#19142
+Shaman Hut~
+This doesn't seem like the typical sleeping chamber.  A pole stretches
+from wall to wall with a strong rope hanging from the center.  Apparently
+prisoners are drugged and left hanging upside down; tortured until they
+confess their sins.  The only exit is east.  
+~
+0 8 0
+D1
+~
+~
+0 0 19141
+S
+#19143
+Mirrnath Tribe~
+Mirrnath god statue of Senoth, a twenty foot cat warrior carved of stone
+and marble, stands scowling with fury.  History claims Senoth as the first
+to discover the hidden oasis to which he brought his tribe from far across
+the desert and distant sea.  Much of that tale is contested by the elders
+and other tribesmen who all have a different story as to the origins of the
+tribe.  Exits are east and west.  
+~
+0 1 3
+D1
+~
+~
+0 0 19136
+D3
+~
+~
+0 0 19144
+S
+#19144
+Garrisoned Clearing~
+Kirre warriors of the Mirrnath tribe gather here in arms to go to war;
+spears and daggers of polished bronze glimmer in the sunlight.  Onyx claws
+twitch with ready anticipation of battle.  Much trouble has brewed among the
+three tribes and now war is at hand.  Exits are east south and west.  
+~
+0 1 3
+D1
+~
+~
+0 0 19143
+D2
+~
+~
+0 0 19146
+D3
+~
+~
+0 0 19145
+S
+#19145
+Mirrnath Tribe~
+Under a woolen canvas awning a rack bristles with an assortment of
+weapons.  It is here where they are polished and kept ready for a moments
+notice.  Cleaning instruments seem to be kept in orderly fashion on bamboo
+benches.  The only exit is east.  
+~
+0 1 3
+D1
+~
+~
+0 0 19144
+S
+#19146
+Mirrnath Tribe~
+There is nothing like the taste of blood on the wind and the scent of
+battle raising the hackles on the back of your neck.  Today many young cubs
+will prove their worth in battle.  If they dishonor themselves in battle
+neither side would let them leave alive.  Exits are north, east and west.  
+~
+0 1 3
+D0
+~
+~
+0 0 19144
+D1
+~
+~
+0 0 19149
+D3
+~
+~
+0 0 19147
+S
+#19147
+Mirrnath Tribe~
+Bushes with long sharp bladed leaves cover the trail on both sides of the
+path.  A single tree breaks the line of deadly bushes.  Upon investigating
+the tree, claw marks from many hands seem to scar the trunk.  There is a
+possibility it can be climbed.  Exits are east and south.  
+ 
+~
+0 1 3
+D1
+~
+~
+0 0 19146
+D2
+~
+~
+0 0 19148
+S
+#19148
+Mirrnath Tribe~
+The observation tree stands far above the lands below.  From the peak of
+this hill, hidden in the brush, cat warriors observe the movements of their
+enemies.  From here the Mirrnath keep constant surveillance of everything
+that goes on.  The only exit is north.  
+~
+0 1 3
+D0
+~
+~
+0 0 19147
+S
+#19149
+Mirrnath Tribe~
+Wandering cat warriors stalk towards the Firrnath lands in search of
+prey.  Bristling with weapons and fur painted in warring colors they hear
+the clash of battle and run forth to support their allies.  Battle cries
+echo across the oasis.  Exits are west and south.  
+~
+0 1 3
+D2
+~
+~
+0 0 19150
+D3
+~
+~
+0 0 19146
+S
+#19150
+Battle Peak~
+On the top of this bluff, Mirrnath warriors battle their way through
+defending Firrnath tribesmen.  The battle is costly for both sides and
+though the Mirrnath are a larger tribe; the Firrnath are fighting for their
+existence.  The Firrnath do not give up so easily when brought to war
+despite their naturally lazy nature.  The exits are north and down.  
+~
+0 1 3
+D0
+~
+~
+0 0 19149
+D5
+~
+~
+0 0 19151
+S
+#19151
+Clash Grounds~
+Barbarian Kirre warriors clash arms in battle while spears and arrows
+fly.  These missiles sometimes hit their mark and othertimes go astray. 
+Pitched battle echos and rings through the oasis as two tribes meet and
+skirmish at their boarders.  Blood is shed until a red river runs and all
+opponents are dead.  Exits are south and up.  
+~
+0 1 3
+D2
+~
+~
+0 0 19152
+D4
+~
+~
+0 0 19150
+S
+#19152
+Firrnath Tribe~
+The Firrnath are out on patrol.  Lightly armored units scour the trees
+and shadows wary of any trespassing intruders.  Just a short distance away
+the clang and ruckus of battle rings with the screams of raging warriors and
+the horror of the dying.  Exits are north, west and south.  
+~
+0 1 3
+D0
+~
+~
+0 0 19151
+D2
+~
+~
+0 0 19155
+D3
+~
+~
+0 0 19153
+S
+#19153
+Firrnath Tribe~
+Just south of the training grounds is a small well kept building stocking
+weapons of all sorts.  Everything here is kept neat, tidy and organized. 
+The path is well worn by many sparring footsteps as it leads to the training
+grounds to the north.  Exits are north and east.  
+~
+0 1 3
+D0
+~
+~
+0 0 19154
+D1
+~
+~
+0 0 19152
+S
+#19154
+Firrnath Tribe~
+The training grounds ring with the echo's of steel on steel.  Warriors
+train vigorously with whips, claws and weapons of all types.  Brutish
+gorilla tactics are taught to young cubs by an old crippled warrior.  The
+old warrior is revealing the arts of diversion and subterfuge.  The only
+exit is south.  
+~
+0 1 3
+D2
+~
+~
+0 0 19153
+S
+#19155
+Firrnath Tribe~
+The Druids of the Firrnath come here to meditate and study the powers of
+the earth.  They have had many successes in reaching a higher plane of
+existence.  Their heart is pure with the intentions of defending their
+tribe.  They have put all their efforts together to create a last hope for
+their people-a weapon that will bring down all the tribes opposing theirs. 
+Exits are north, east and south.  
+~
+0 1 3
+D0
+~
+~
+0 0 19152
+D1
+~
+~
+0 0 19158
+D2
+~
+~
+0 0 19157
+D5
+~
+~
+1 19155 19156
+S
+#19156
+Secret Weapon Chamber~
+Metal has been forged into great loops that are aligned like an atom. 
+Spanning every cardinal direction the ball of loops has nearly engulfed the
+room.  Floating in the center is a ball of energy much like a nucleus. 
+Powerful emanations seem to make the walls waiver as the lands strength is
+drawn into the magical contraption.  The only exit is up.  
+~
+0 1 0
+D4
+~
+~
+1 19155 19155
+S
+#19157
+Firrnath Tribe~
+The sacred bone yard hosts the skeletal remains of many animals and
+tribesmen.  The bones of terrifying beasts lie askew among the rocks and
+shrubs.  Eyeless skulls grin maliciously.  Splintered arm bones are sewn
+with twine into spiked poles marking the graves of holy dead.  The only exit
+is north.  
+~
+0 1 3
+D0
+~
+~
+0 0 19155
+S
+#19158
+Firrnath Tribe~
+The conclave of judgement is a pillar of faith for the Firrnath.  The
+tribesmen of the Firrnath are all educated in law and due process.  They all
+believe in the right to fair trial and justice for all; Innocent until
+proven guilty.  Unfortunately their idea of justice is burying their guilty
+up to their necks, wounding them to draw blood, and leaving them in the
+woods to be eatened by wild animals.  A circle in the dirt is ringed with
+chairs for judges and one in the center for the accused.  Exits are north,
+east and west.  
+~
+0 1 3
+D0
+~
+~
+0 0 19161
+D1
+~
+~
+0 0 19159
+D3
+~
+~
+0 0 19155
+S
+#19159
+Firrnath Tribe~
+A stone brick path is cobbled to the altar ahead.  Flowers larger than
+the palm of a hand cover an old wooden fence lining the path.  Golden hues
+of red, yellow and orange create a magnificent array of flowers.  The
+flowers are so numerous it's as if a sunset has grown from the ground. 
+Exits are south and west.  
+~
+0 1 3
+D2
+~
+~
+0 0 19160
+D3
+~
+~
+0 0 19158
+S
+#19160
+Firrnath Tribe~
+An altar lays on its side, black charred and ruined.  The melted stone
+gives evidence that the destruction was unnatural.  Could the tribe have
+displeased their god or was it something else?  A purple mist floats above
+the alter.  The only exit is north.  
+~
+0 1 3
+D0
+~
+~
+0 0 19159
+S
+#19161
+Firrnath Tribe~
+The central Firrnath village lies here among the tall palms.  Due to the
+laziness of the Firrnath the atmosphere seems almost at ease.  The troubles
+of war and over population seem distant among these peaceful dwellers of the
+oasis.  All they seem to want is peace and games with a little fishing on
+the side.  They seem most content.  Exits are east and south.  
+~
+0 1 3
+D1
+~
+~
+0 0 19162
+D2
+~
+~
+0 0 19158
+S
+#19162
+Firrnath Tribe~
+The Firrnath are neither magically adept nor are they very well trained
+fighters.  They generally accept the ruling of the stronger tribe at the
+time.  They are the master craftsmen of the tribes, able to wield tools
+without scarring the earth.  Some say the land grants them special
+abilities for their loyalty.  Exits are east and west.  
+~
+0 1 3
+D1
+~
+~
+0 0 19163
+D3
+~
+~
+0 0 19161
+S
+#19163
+Firrnath Tribe~
+Tribal leaders have gathered to try and forge a bond between tribes.  The
+ceaseless bloodshed leaves many with lost loved ones.  Only hope and courage
+can break through the pain of vengeance each Kirre feels for the loss of
+their kin.  Let's hope good sense prevails among these head strong
+creatures.  Exits are south and west.  
+~
+0 1 3
+D2
+~
+~
+0 0 19164
+D3
+~
+~
+0 0 19162
+S
+#19164
+Firrnath Tribe~
+A dusty path winds its way towards the Gwenuvar tribe boundary.  The sun
+streams through the floral canopy above.  Wild hoots from fighting monkeys
+breaks the near silence hanging over this part of the oasis.  Exits are
+north and east.  
+~
+0 1 3
+D0
+~
+~
+0 0 19163
+D1
+~
+~
+0 0 19165
+S
+#19165
+Gwenuvar Tribe~
+A thick forest of closely grouped trees obscures your vision of
+everything.  There seems to be an occasional glimmer of gold from the
+shadows under the forest canopy.  Eye's from observant warriors leave
+nothing that comes into their lands unwatched. Exits are east and west.  
+~
+0 1 3
+D1
+~
+~
+0 0 19166
+D3
+~
+~
+0 0 19164
+S
+#19166
+Gwenuvar Tribe~
+A sparse stand of bamboo trees are aligned in a row.  Carefully tended,
+this grove of bamboo is a source of strong green spear shafts that bend
+rather than break under pressure.  This is a necessity for a constantly
+warring tribe.  Exits are south, east and west.  
+~
+0 1 3
+D1
+~
+~
+0 0 19167
+D2
+~
+~
+0 0 19168
+D3
+~
+~
+0 0 19165
+S
+#19167
+Gwenuvar Tribe~
+De-scaled fish dry on wooden racks for later salting and storage.  The
+fresh scent of roasting meat comes from cook fires in the Gwenuvar village. 
+The tribes people are going through their daily routines.  Exits are north
+and west.  
+~
+0 1 3
+D0
+~
+~
+0 0 19171
+D3
+~
+~
+0 0 19166
+S
+#19168
+Football Field~
+A large square field has been stamped flat and marked with strange ground
+chalk markings.  Animal skin balls, oval in shape, lay scattered around. 
+Two groups of Kirre seem to be engaged in a vicious game of pile on.  They
+appear to be having a lot of fun.  Exits are north, east and west.  
+~
+0 1 3
+D0
+~
+~
+0 0 19166
+D1
+~
+~
+0 0 19169
+D3
+~
+~
+0 0 19170
+S
+#19169
+Gwenuvar Tribe~
+A small shack with a shelf below a large low window stands to the side of
+the field.  Rats and birds on sticks and glazed with sugar are arrayed in
+trays beside the window.  Skins of amber juice hang from the interior
+ceiling.  This seems to be a concession stand of some sort.  The only exit
+is west.  
+~
+0 1 3
+D3
+~
+~
+0 0 19168
+S
+#19170
+Rock Stands~
+Great steps of rock lead upwards along the crest of a rocky foothill
+beside a square field.  Markings made of ground chalk found in a stream
+define boundaries and lines across the open expanse.  A rocky path leads
+south up towards the mountain.  Exits are east and south.  
+~
+0 1 3
+D1
+~
+~
+0 0 19168
+D2
+~
+~
+0 0 19114
+S
+#19171
+Stepping Stones~
+Carved flat and placed with care, dull grey granite stones create a path
+spanning the waters.  Wet stone warns the unwary that any step could spill
+the crosser into the cold river waters below.  Green shapes swim rapidly
+around the stones, seemingly just waiting for something to draw near.  Exits
+are north, east, south and west.  
+~
+0 5 3
+D0
+~
+~
+0 0 19180
+D1
+~
+~
+0 0 19172
+D2
+~
+~
+0 0 19167
+D3
+~
+~
+0 0 19175
+S
+#19172
+River of Lyfe~
+Pools of water gather in deep divots by the shore.  The swirling current
+of water drags fish and other life into the pools.  Deft claws snatch
+oysters from the pools in search of the beautiful white, rose and black
+pearls.  Exits are south and west.  
+~
+0 1 12
+D2
+~
+~
+0 0 19173
+D3
+~
+~
+0 0 19171
+S
+#19173
+River of Lyfe~
+The waters slowly and gently lap at the sandy shores.  The sound of the
+water caresses and soothes the soul.  This leaves a strong impression of
+paradise in this turmoil wrought land.  Peace seems to be a foreign word to
+these people of such strong independence.  Exits are north and south.  
+~
+0 1 12
+D0
+~
+~
+0 0 19172
+D2
+~
+~
+0 0 19174
+S
+#19174
+River of Lyfe~
+A circular cove gathers water at the head of the river.  Odd glowing blue
+rocks seem to gather the sunlight and give off a low bluish glow.  The
+waters bubble and gurgle, sometimes rising up the shore suddenly, it seems
+to be reaching for the blue rocks.  As the water touches the rocks the river
+somehow comes alive.  The only exit is north.  
+~
+0 1 12
+D0
+~
+~
+0 0 19173
+S
+#19175
+River of Lyfe~
+The river path continues along.  Lush ferns lining the river drip with
+the humidity, soaking the land in vibrant fertility.  Aside from the
+constant scent of decay the land seems perfect and beautiful.  Most surely a
+paradise for any who witnesses such green splendor.  Exits are east and
+west.  
+~
+0 1 12
+D1
+~
+~
+0 0 19171
+D3
+~
+~
+0 0 19176
+S
+#19176
+River of Lyfe~
+The crash of water from the waterfall drowns out the idle noises from the
+oasis.  Fresh fish pour down flowing water over stone steps beside the
+waterfall.  The canal helps the fish migrate from their breeding grounds at
+the head of the river to their feeding grounds below.  This cultivation
+makes the fish more plentiful and is a major source of all the tribes
+livelihood.  Exits are east and up.  
+~
+0 1 12
+D1
+~
+~
+0 0 19175
+D4
+~
+~
+0 0 19177
+S
+#19177
+River of Lyfe~
+The land here drops off almost vertically.  The swiftly moving water
+churns over the cliff like death bent lemmings.  Nets are cast and then
+re-cast into the flowing water over the stone steps leading downwards. 
+Breeding is over and large fat fish travel down river for the season.  A
+channel is rent through stone to give the fish easier passage below.  Exits
+are north and down.  
+~
+0 1 12
+D0
+~
+~
+0 0 19178
+D5
+~
+~
+0 0 19176
+S
+#19178
+River of Lyfe~
+The waters here swirl and wave in white crests as the current begins to
+run more quickly.  Black spotted gulls coast on warm updrafts above the
+river.  In the distance down the river the water takes on a life of its
+own, racing forth with great speed.  Exits are north and south.  
+~
+0 1 12
+D0
+~
+~
+0 0 19179
+D2
+~
+~
+0 0 19177
+S
+#19179
+River of Lyfe~
+In small half barrel boats, lazy Kirre drift into slumber under the hazy
+sun.  Strings tied to their toes trail in the waters behind them; a lazy way
+to catch their evening meal.  Black flies create a bothersome humming in the
+air.  Exits are north and south.  
+~
+0 0 12
+D0
+~
+~
+0 0 19135
+D2
+~
+~
+0 0 19178
+S
+#19180
+Gwenuvar Tribe~
+Beneath the ancient vigorous swaying palms cubs laugh and play in
+innocent delight.  All life must continue and renew despite the destitution
+wars can cause.  Many older Kirre have watched the children, remembering
+always what they fight for.  A life and a future for their kin.  Exits are
+east, south and west.  
+~
+0 1 3
+D1
+~
+~
+0 0 19181
+D2
+~
+~
+0 0 19171
+D3
+~
+~
+0 0 19183
+S
+#19181
+Gwenuvar Tribe~
+That's odd, there seems to be a beaten path up a low hill without any
+trail markings.  Something suspicious seems to be going on in a small hut
+set just upon a small crest.  The skulls of small animals hang from tree
+limbs in warning or maybe spelled to be spies detecting intruders.  The
+exits are west and up.  
+~
+0 1 3
+D3
+~
+~
+0 0 19180
+D4
+~
+~
+0 0 19182
+S
+#19182
+Rebel House~
+Rebel cat warriors from all the tribes meet here in secret.  Objectives
+and plans are laid out to overthrow all the tribes and unite them under a
+new single tribe.  It is rumored that the greatest assassins have
+volunteered to remove the most powerful figures from all the tribes.  The
+only exit is down.  
+~
+0 9 0
+D5
+~
+~
+0 0 19181
+S
+#19183
+Gwenuvar Tribe~
+A pool of water has collected across the path.  The water reflects an
+image more clearly than a mirror.  The water is stagnant with decay.  Exits
+are east and west.  
+~
+0 1 3
+D1
+~
+~
+0 0 19180
+D3
+~
+~
+0 0 19184
+S
+#19184
+Gwenuvar Tribe~
+A pen full of wild boars encircles the clearing.  Rutting and stomping in
+heat the female sow grunts at all the other animals.  Cautiously a pig
+tender watches as two boars fight for their mate.  Thorny tusks rip flesh
+with menacing grunts.  Exits are north and east.  
+~
+0 1 3
+D0
+~
+~
+0 0 19185
+D1
+~
+~
+0 0 19183
+S
+#19185
+Gwenuvar Tribe~
+Coconuts are stacked in piles along the side of the road.  For some
+reason the hunter gatherers of the tribe have forgotten to gather their food
+stuffs for the day.  Forgotten coconut milk drips from dropped nuts.  Exits
+are north and south.  
+~
+0 1 3
+D0
+~
+~
+0 0 19186
+D2
+~
+~
+0 0 19184
+S
+#19186
+Gwenuvar Tribe~
+Under a great fallen tree a trail winds its way northward towards the
+Mirrnath lands.  Wild calls from lion monkeys spook nearby parrots in a palm
+tree.  Taking to flight they fly upwards in a ray of multi-colored feathers.
+Exits are north and south.  
+~
+0 1 3
+D0
+~
+~
+0 0 19187
+D2
+~
+~
+0 0 19185
+S
+#19187
+Gwenuvar Tribe~
+Secluded in the surrounding shadows the Gwenuvar tribal assasins observe
+the unsuspecting Mirrnath warriors; Awaiting any possible target to strike. 
+The Kirre have been trained since they were cubs to walk in the shadows and
+to never be seen, unless the intended victim will be killed.  The only exit
+is south.  
+~
+0 1 3
+D2
+~
+~
+0 0 19186
+S
+#19188
+On Slemr Track~
+The path through Volrath forest continues to the east and the west.
+The sounds of woodland creatures reach your ears, but you can't see
+anything in the dense brush.
+~
+0 0 3
+D1
+~
+~
+0 0 19189
+D3
+~
+~
+0 0 8154
+S
+#19189
+Edge of the Forest~
+You stand at the entrance to the Volrath Forest.  The woods lies to
+the west and rolling hills lies to the east.
+~
+0 0 3
+D1
+~
+~
+0 0 19190
+D3
+~
+~
+0 0 19188
+S
+#19190
+On the Slemr Track~
+The dirt path continues to the east and the west.  Rolling hills
+surround you.  Large rocks prevent any movement to the north or
+south.
+~
+0 0 4
+D1
+~
+~
+0 0 19191
+D3
+~
+~
+0 0 19189
+S
+#19191
+Among the Rolling Hills~
+You stand on the Slemr track among the rolling hills of Dominia.
+Your boots leave footprints in the dirt path.  Hopefully no one is
+tracking you.  The only exits lie to the east and west.
+~
+0 0 4
+D1
+~
+~
+0 0 19192
+D3
+~
+~
+0 0 19190
+S
+#19192
+Surrounded by Hills~
+This part of Slemr track runs through some of the hills of
+Dominia.  Large rocks prevent any movement to the north or
+south.  The path continues to the east and west.
+~
+0 0 4
+D1
+~
+~
+0 0 19193
+D3
+~
+~
+0 0 19191
+S
+#19193
+Dusty Trail~
+A long dusty trail winds east towards a lonely mountain on the horizon. 
+Only the occasional twitch from the sparse scrub gives any indication of
+natural life in this harsh outland.  Exits are east and west.  
+~
+0 1 0
+D1
+~
+~
+0 0 19194
+D3
+~
+~
+0 0 19192
+S
+#19194
+Dusty Trail~
+A swift winds swoops in from the east carrying small particles of sand
+and grit.  Small swirls of dust dance across the pathway like minature dirt
+devils.  Exits are east and west.  
+~
+0 1 0
+D1
+~
+~
+0 0 19195
+D3
+~
+~
+0 0 19193
+S
+#19195
+Rolling Hills~
+Even the experienced traveller gets weary from the rolling weave of the
+land.  Up and down the hills slowly climb higher into the foothills of a
+nearby mountain.  Exits lie east and west.  
+~
+0 1 0
+D1
+~
+~
+0 0 19196
+D3
+~
+~
+0 0 19194
+S
+#19196
+Silent Hillside~
+An erie calm lingers over the hillside.  Not a single bird chirp or
+~
+0 1 0
+D0
+~
+~
+0 0 19197
+D3
+~
+~
+0 0 19195
+S
+#19197
+Rocky Bluff~
+A beaten path rises out of the scrub to wind around the mountainous
+bluff.  The path seems like no more than a rarely used mountain goat trail. 
+The path continues north and south.  
+ 
+~
+0 1 0
+D0
+~
+~
+0 0 19111
+D2
+~
+~
+0 0 19196
+S
+#19198
+Holding Pen~
+~
+0 806887428 0
+M 0 H 0
+S
+#19199
+{RBlitze's {BIce Crystal {yChamber{x~
+Frigid layers of ice frosted crystals glow in crystalline beauty.  A soft
+blue aura chills the soul and cuts through any prevalent thoughts.  The
+utter perfection of this room startles the senses.  How could any being live
+in this room without feeling like their presence taints the perfect setting?
+~
+0 524804 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#19120
+if hour == 3
+mob echo i work now, im crazy.
+endif
+~
+A
+#19116
+if hour == 9
+mob echo I work..
+mob purge $i
+endif
+~
+A
+#19119
+if hour == 6
+mob goto 19121
+if mobhere 19115
+mob purge "white sun bleached skeleton"
+mob purge "white sun bleached skeleton"
+mob purge "white sun bleached skeleton"
+mob purge "white sun bleached skeleton"
+mob asound You hear screams from someplace nearby!
+mob echo The skeletons scream in agony as the sun turns them into dust!
+if objhere 19156
+mob purge "pile dust"
+endif
+mob oload 19156 0 room
+else
+mob purge $i
+endif
+endif
+~
+A
+#19115
+if hour == 6
+mob echo As the sun rises $i crumbles into dust!
+mob echo $i is DEAD!
+mob purge $i
+endif
+~
+A
+#19117
+mob zecho Rolling drums crash like thunder.
+~
+A
+#0
+
+#RESETS
+D 0 19155 5 2
+D 0 19156 4 2
+M 1 19100 3 19100 3
+E 0 19100 0 17
+M 1 19102 1 19102 1
+E 0 19116 0 17
+M 1 19103 6 19106 2
+G 0 19136 0
+M 1 19117 1 19107 1
+M 1 19103 6 19108 2
+E 0 19110 0 17
+G 0 19133 0
+M 1 19114 2 19117 2
+E 0 19125 0 16
+E 0 19103 0 7
+M 1 19103 6 19120 2
+G 0 19144 0
+M 1 19118 1 19121 1
+M 1 19115 4 19121 4
+G 0 19122 0
+G 0 19114 0
+G 0 19135 0
+M 1 19101 1 19123 1
+G 0 19143 0
+M 1 19104 3 19129 3
+E 0 19108 0 8
+E 0 19101 0 7
+E 0 19105 0 5
+E 0 19124 0 16
+M 1 19105 4 19131 1
+E 0 19111 0 9
+E 0 19132 0 17
+M 1 19113 5 19134 2
+G 0 19134 0
+E 0 19119 0 16
+G 0 19139 0
+M 1 19106 1 19139 1
+E 0 19126 0 16
+E 0 19140 0 18
+G 0 19130 0
+M 1 19107 1 19142 1
+E 0 19120 0 16
+E 0 19106 0 5
+E 0 19104 0 7
+M 1 19108 6 19147 2
+E 0 19113 0 10
+E 0 19118 0 16
+E 0 19107 0 8
+M 1 19108 6 19154 2
+E 0 19113 0 10
+E 0 19118 0 16
+E 0 19107 0 8
+M 1 19116 1 19155 1
+G 0 19155 0
+E 0 19146 0 17
+O 0 19117 0 19156
+O 0 19104 0 19156
+M 1 19108 6 19167 2
+E 0 19113 0 10
+E 0 19118 0 16
+E 0 19107 0 8
+M 1 19112 1 19168 1
+G 0 19138 0
+M 1 19111 1 19168 1
+G 0 19141 0
+G 0 19129 0
+E 0 19123 0 16
+M 1 19113 5 19174 2
+G 0 19134 0
+E 0 19119 0 16
+G 0 19139 0
+M 1 19113 5 19175 2
+G 0 19134 0
+E 0 19119 0 16
+G 0 19139 0
+M 1 19109 4 19180 2
+G 0 19112 0
+G 0 19115 0
+E 0 19121 0 16
+M 1 19105 4 19182 3
+E 0 19131 0 17
+M 1 19109 4 19184 2
+G 0 19142 0
+E 0 19127 0 16
+M 1 19110 2 19187 2
+G 0 19137 0
+E 0 19128 0 16
+M 1 19119 1 19198 1
+O 0 19195 0 19199
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,492 @@
+#AREADATA
+Name Illusia~
+Builders Lufia~
+VNUMs 15800 15899
+Credits { None} Lufia       Illusia~
+Security 1
+Xcontinent 1
+Age 10
+Questable 1
+End
+
+
+
+#MOBILES
+#15800
+Lester the Evil Bunny~
+Lester the Surly Easter Bunny~
+Lester is here, hopping around in a surly manner.
+~
+~
+rabbit~
+A 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+FH 0 0 0
+stand stand none 1000000
+AGV ACDEFHJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#15800
+a tin of spam~
+a small, old tin of spam~
+A tin of spam is here, honouring your acheivments with it's meaty glow.~
+jelly~
+pill A AO
+20 'ignore wounds' 'cloud of poison' 'withstand death' 'fortify'
+1 1 199 P
+#15801
+no name~
+(no short description)~
+~
+wood~
+weapon 0 0
+exotic 0 0 none 0
+0 0 0 P
+A
+1 1  
+#15805
+no name~
+(no short description)~
+~
+wood~
+weapon 0 0
+exotic 0 0 frbite 0
+0 0 0 P
+#15815
+no name~
+(no short description)~
+~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#15800
+A muddy road~
+*Squash* Dollops of mud drop off the surrounding trees and shrubs onto
+the ground, which is already a sea of mud itself.  To the north, an ominous
+mountain casts it shadow.  From the looks of the mountain, it seems that
+that is where the mud slide started.  The only visible exits leads
+northwards.  
+~
+0 4 2
+D0
+~
+~
+0 0 15801
+S
+#15801
+Along a muddy road~
+Caked mud covers almost every inch of the surrounding area.  There is
+very little visible greenery around here, only a few patches here and there.
+The road continues to the north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 15802
+D2
+~
+~
+0 0 15800
+S
+#15802
+Base of a muddy mountain~
+The mountain base here is covered in a soft, sticky, mud-like substance
+that is also coating the entire road.  The path continues to the east, and
+west around the mountain base.  The path also leads north, into the dark
+mountain forest.  
+~
+0 0 5
+D2
+~
+~
+0 0 15801
+D3
+~
+~
+0 0 15803
+S
+#15803
+Around the mountain base~
+You are walking on a path that encircles the base of a mountain.  The
+only form of life around is that of the wild flowers and grass.  Flecks of
+mud are also visible on the surrounding greenery, the only visible sign that
+a mudslide may have travelled this way.  This pathway only leads east and
+westwards.  
+~
+0 0 2
+D1
+~
+~
+0 0 15802
+D3
+~
+~
+0 0 15804
+S
+#15804
+Around the mountain base~
+You are walking on a path that encircles the base of a mountain.  The
+only form of life around is that of the wild flowers and grass.  Flecks of
+mud are also visible on the surrounding greenery, the only visible sign that
+a mudslide may have travelled this way.  The path travels only east and
+west.  
+~
+0 0 2
+D1
+~
+~
+0 0 15803
+D3
+~
+~
+0 0 15805
+S
+#15805
+Around the mountain base~
+You are walking on a path that encircles the base of a mountain.  The
+only form of life around is that of the wild flowers and grass.  Flecks of
+mud are also visible on the surrounding greenery, the only visible sign that
+a mudslide may have travelled this way.  You can only travel either east or
+west on this path.  
+~
+0 0 2
+D1
+~
+~
+0 0 15804
+D3
+~
+~
+0 0 15806
+S
+#15806
+A bend in the mountain path~
+You are at a bend in the pathway that encircles the mountain before you. 
+The only form of life around is that of the wild flowers and grass.  Flecks
+of mud are visible, the only sign that a mudslight may have travelled this
+way.  You can only go north, or west on this path.  
+~
+0 0 2
+D0
+~
+~
+0 0 15807
+D1
+~
+~
+0 0 15805
+S
+#15807
+Around the mountain base~
+You are walking on a path that encircles the base of a mountain.  The
+only form of life around is that of the wild flowers and grass.  Flecks of
+mud are also visible on the surrounding greenery, the only visible sign that
+a mudslide may have travelled this way.  You can only travel north and south
+on this path.  
+~
+0 0 2
+D0
+~
+~
+0 0 15808
+D2
+~
+~
+0 0 15806
+S
+#15808
+Around the mountain base~
+~
+0 0 2
+D0
+~
+~
+0 0 15809
+D2
+~
+~
+0 0 15807
+S
+#15809
+Around the mountain base~
+~
+0 0 2
+D0
+~
+~
+0 0 15810
+D2
+~
+~
+0 0 15808
+S
+#15810
+Around the mountain base~
+~
+0 0 2
+D0
+~
+~
+0 0 15811
+D2
+~
+~
+0 0 15809
+S
+#15811
+Around the mountain base~
+~
+0 0 2
+D1
+~
+~
+0 0 15812
+D2
+~
+~
+0 0 15810
+S
+#15812
+Around the mountain base~
+~
+0 0 2
+D3
+~
+~
+0 0 15811
+S
+#15813
+Around the mountain base~
+~
+0 0 2
+D1
+~
+~
+0 0 15814
+D3
+~
+~
+0 0 15814
+S
+#15814
+Around the mountain base~
+~
+0 0 2
+D1
+~
+~
+0 0 15813
+D3
+~
+~
+0 0 15813
+S
+#15815
+~
+~
+0 4 0
+S
+#15816
+~
+~
+0 4 0
+S
+#15817
+~
+~
+0 4 0
+S
+#15818
+~
+~
+0 4 0
+S
+#15819
+~
+~
+0 4 0
+S
+#15820
+~
+~
+0 4 0
+S
+#15821
+~
+~
+0 4 0
+S
+#15822
+~
+~
+0 4 0
+S
+#15823
+~
+~
+0 4 0
+S
+#15824
+~
+~
+0 4 0
+S
+#15825
+~
+~
+0 4 0
+S
+#15826
+~
+~
+0 4 0
+S
+#15827
+~
+~
+0 4 0
+S
+#15828
+~
+~
+0 4 0
+S
+#15829
+~
+~
+0 4 0
+S
+#15830
+~
+~
+0 4 0
+S
+#15831
+~
+~
+0 4 0
+S
+#15832
+~
+~
+0 4 0
+S
+#15833
+~
+~
+0 4 0
+S
+#15834
+~
+~
+0 4 0
+S
+#15835
+~
+~
+0 4 0
+S
+#15836
+~
+~
+0 4 0
+S
+#15837
+~
+~
+0 4 0
+S
+#15838
+~
+~
+0 4 0
+S
+#15839
+~
+~
+0 4 0
+S
+#15840
+~
+~
+0 4 0
+S
+#15841
+~
+~
+0 4 0
+S
+#15842
+~
+~
+0 4 0
+S
+#15843
+~
+~
+0 4 0
+S
+#15844
+~
+~
+0 4 0
+S
+#15845
+~
+~
+0 4 0
+S
+#15846
+~
+~
+0 4 0
+S
+#15847
+~
+~
+0 4 0
+S
+#15848
+~
+~
+0 4 0
+S
+#15849
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

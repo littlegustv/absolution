@@ -1,0 +1,492 @@
+#AREADATA
+Name Ruins of Eclipse~
+Builders Nogusto~
+VNUMs 12700 12799
+Credits { None} Nogusto     Ruins of Eclipse~
+Security 1
+Xcontinent 0
+Age 10
+Questable 1
+End
+
+
+
+#MOBILES
+#12700
+an oddly looking man~
+an oddly looking man~
+An oddly looking man says "{ySo ye've found me diamond mine!{x"
+~
+An oddly looking man is standing here.  Clearly he has gone insane from
+his stay in this area.  The man is attempting to sell rocks as diamonds.  
+~
+human~
+ABG 0 0 0
+51 5 50d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -21
+0 ABCDEFGHIJLMNOPQRSTXYZab 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12701
+a rat~
+a rat~
+A rat is here.
+~
+A dirty rat runs by your feet hissing.  The rat looks to be starving.  
+~
+bat~
+ACGT ITXZ -1000 0
+17 -1 3d9+258 1d1+100 3d4+4 bite
+-3 -3 -3 -3
+FH 0 0 NS
+stand stand male 1000
+AGV ACDEFHJKP small 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#12700
+pebble~
+a pebble~
+A pebble is here.~
+wood~
+jewelry 0 AO
+0 0 0 0 0
+10 10 100 P
+#12701
+a rock~
+a rock~
+A rock is here, looking nothing like a diamond.~
+wood~
+jewelry 0 AO
+0 0 0 0 0
+10 50 500 P
+#12702
+a large rock~
+a large rock~
+A large rock looking nothing like anything but a rock is here.~
+wood~
+jewelry 0 AO
+0 0 0 0 0
+12 100 800 P
+A
+2 -2  
+#12703
+a wooden chair~
+a wooden chair~
+A wooden chair is up against the wall.~
+wood~
+furniture 0 0
+1 1000 EH 0 0
+1 0 0 P
+#12704
+a stream~
+a stream~
+A stream of water flows under you.~
+wood~
+fountain 0 0
+-1 -1 'water' 0 0
+1 0 0 P
+#12705
+tunnel~
+a {rtunnel{x~
+A {rtunnel{x is here, where the southern wall once stood.~
+wood~
+portal 0 P
+0 0 0 12713 0
+0 0 0 P
+#12706
+tunnel~
+a {rtunnel{x~
+A {rtunnel{x is here, where the northern wall once stood.~
+wood~
+portal 0 P
+0 0 0 12712 0
+0 0 0 P
+#12707
+fleas~
+fleas~
+A few fleas are here making a new home.~
+wood~
+armor 0 AE
+-1 -1 -1 0 0
+12 5 200 P
+A
+2 -1  
+A
+18 -1  
+A
+19 2  
+#12798
+white shirt~
+a white shirt~
+A plain white shirt is lying here with a speck of dust on it.~
+cloth~
+clothing 0 AK
+0 0 0 0 0
+1 30 1000 P
+#12799
+map~
+(no short description)~
+~
+wood~
+map 0 0
+0 0 0 0 0
+0 1000 0 P
+#0
+
+
+
+#ROOMS
+#12700
+Hidden Room~
+You have entered a long lost room.  Time has kept this room well although
+it has gone unnoticed for centuries.  You look around at your surroundings
+and notice the room is bare, all that seems to be of interest is the stair
+case leading down.  
+~
+0 4 0
+D5
+~
+~
+0 0 12701
+S
+#12701
+Forgotten Stairs~
+As you descend down these stairs the light behind you slowly fades into
+the darkness of this area.  Not just your eyes are needed now; you must
+relay on you hearing and the smell.  Normal vision has decided to fail you. 
+~
+0 0 0
+D4
+~
+~
+0 0 12700
+D5
+~
+~
+0 0 12702
+S
+#12702
+Forgotten Stairs~
+You seem to be traveling now for while and nothing just stair after
+stair.  Most would have given up by now but there would not be a staircase
+here if there was nothing at the bottom.  
+~
+0 0 0
+D4
+~
+~
+0 0 12701
+D5
+~
+~
+0 0 12703
+S
+#12703
+Forgotten Stairs~
+You see a faint light now at the bottom, not to much further down and
+you'll see why these stairs were built and what secrets they hide.  
+~
+0 0 0
+D4
+~
+~
+0 0 12702
+D5
+~
+~
+0 0 12704
+S
+#12704
+Bottom of the Staircase~
+You have finally reached the bottom of these stairs.  In the center of
+this room the first thing to catch your eye is a blue flame lighting the
+room, the rest of the room seems naked.  To the north is a hallway
+continuing on.  
+ 
+A {BFire{x blazes here, lighting the room.
+~
+0 0 0
+E
+fire~
+***{RAagh{x***
+You burn your face attempting to look into the fire.
+~
+D0
+~
+~
+0 0 12705
+D4
+~
+~
+0 0 12703
+S
+#12705
+Hallway~
+The fire's light lighting the south branches off into this room making it
+easy for you to see where you are going.  This room seems as if someone has
+recently been here.  Suddenly you hear a cough coming from the north, the
+only exit that seems to be here.  
+~
+0 0 0
+D0
+~
+~
+0 0 12706
+D2
+~
+~
+0 0 12704
+S
+#12706
+An Oddly Looking Room~
+This room is oddly decorated with rocks of all sizes.  An oddly looking
+man stands in this oddly looking room.  He is eyeing you as if you were
+about to steal something, but the only thing here are rocks.  
+~
+0 0 0
+D1
+~
+~
+0 0 12708
+D2
+~
+~
+0 0 12705
+D3
+~
+~
+0 0 12707
+S
+#12707
+A Tunnel~
+This room has been dug out by hand.  It looks like a pathetic attempt at
+mining.  Someone was recently here digging for something.  The walls carry
+scratches done by hand not a tool for mining.  
+~
+0 0 0
+D1
+~
+~
+0 0 12706
+S
+#12708
+Hallway~
+You wander down a forgotten hallway, the odd man told you not to travel
+to far down this end for it was haunted and cursed, but are you afraid?  Of
+course you're not!  You wandered down into a dark hallway no longer lit up
+by the blue fire, it is now dark.  To the west the light still shines incase
+you get scared.  
+~
+0 0 0
+D1
+~
+~
+0 0 12709
+D3
+~
+~
+0 0 12706
+S
+#12709
+Down the Hallway~
+As you walk further into the darkness of this area you seem to be over
+come with an eerie feeling.  Something is in this area and doesn't want to
+be here and it definitely doesn't want you to be here either.  
+~
+0 0 0
+D0
+~
+~
+0 0 12710
+D3
+~
+~
+0 0 12708
+S
+#12710
+An Old Room~
+Finally it looks as if you found something. This room was dug into the ground. The walls, floor and ceiling are all dirt. A few wooden pillars stand here for support structures but other then that this room has nothing in it but its not hallway or staircase.
+~
+0 0 0
+D0
+~
+~
+0 0 12711
+D2
+~
+~
+0 0 12709
+S
+#12711
+Another Room~
+This room is built in the same fashion as the last, however this room has
+a chair and a small stream runs on the floor.  
+~
+0 0 0
+D2
+~
+~
+0 0 12710
+D3
+~
+~
+0 0 12712
+S
+#12712
+A Large Room~
+This room is probably the largest room you have entered.  Like most rooms
+in this area all are bare and are dug out in this underground area.  Large
+pillars work as support structures in this room holding the room from
+collapsing in on itself.  The southern wall has been broken recently and
+seems to reveal a passage way leading further into this area.  
+~
+0 0 0
+D1
+~
+~
+0 0 12711
+S
+#12713
+Abandoned Room~
+~
+0 0 0
+D1
+~
+~
+0 0 12715
+S
+#12714
+Abandoned Hallway~
+~
+0 0 0
+D3
+~
+~
+0 0 12713
+S
+#12715
+Abandoned Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 12716
+D3
+~
+~
+0 0 12713
+S
+#12716
+Abandoned Stairway~
+~
+0 0 0
+D3
+~
+~
+0 0 12715
+S
+#12796
+Nogusto's Prison~
+~
+0 565253 0
+D3
+~
+~
+0 0 12798
+S
+#12797
+Nogusto's Shop of Exotic Goods~
+~
+0 565253 0
+D1
+~
+~
+0 0 12798
+S
+#12798
+Main Hallway~
+~
+0 565253 0
+D0
+~
+~
+0 0 12799
+D1
+~
+~
+0 0 12796
+D3
+~
+~
+0 0 12797
+S
+#12799
+{gNogusto {xThrone Room~
+~
+0 565253 0
+E
+map~
+Terra     3054
+Justice   10754
+Seeker    10804
+Kindred   10623
+Venari    23102
+Kenshi    23401
+====================
+Dominia   31001
+Justice   23202
+Seeker    23302
+Kindred   23102
+Venari    10654
+Kenshi    1253
+====================
+War Room  8299
+~
+D2
+~
+~
+0 0 12798
+M 500 H 500
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+M 1 12701 4 12704 1
+M 1 12700 1 12706 1
+G 0 12700 0
+G 0 12701 0
+G 0 12702 0
+M 1 12701 4 12707 1
+M 1 12701 4 12708 1
+M 1 12701 4 12709 1
+E 0 12707 0 6
+O 0 12703 0 12711
+O 0 12704 0 12711
+M 1 12701 4 12711 1
+O 0 12705 0 12712
+O 0 12706 0 12713
+S
+
+
+
+#SHOPS
+12700 33 0 0 0 0 150 80 0 23
+0
+
+
+
+#$

@@ -1,0 +1,386 @@
+#AREADATA
+Name Lactveria~
+Builders Nailface~
+VNUMs 6700 6799
+Credits [ None] Nailfce Lactveria~
+Security 1
+Xcontinent 0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#6700
+Tall Gates to Lactveria~
+These are the gates that lead into Lactveria.  This is a new modern
+civilization with advanced technology.  Be careful during your visit.  A
+trail leads north into town.  
+~
+0 4 1
+D0
+~
+~
+0 0 6701
+M 0 H 0
+S
+#6701
+Trail into Town~
+On this dusty path you walk for a bit.  You are venturing into a town
+that some feel is strange but others may not.  The trail continues north.  
+~
+0 8 2
+D0
+~
+~
+0 0 6702
+D2
+~
+~
+0 0 6700
+M 0 H 0
+S
+#6702
+Trail into Town~
+On this dusty path you walk for a bit.  You are venturing into a town
+that some feel is strange but others may not.  The trail continues east.  
+~
+0 8 2
+D1
+~
+~
+0 0 6703
+D2
+~
+~
+0 0 6701
+M 0 H 0
+S
+#6703
+Path Heading to the Road~
+You find yourself walking on the grass heading towards the road.  You can
+see that this is no ordinary city.  You'll just have to keep walking and
+find out what lies ahead.  
+~
+0 0 2
+D1
+~
+~
+0 0 6704
+D3
+~
+~
+0 0 6702
+M 0 H 0
+S
+#6704
+On Concord Road~
+You finally get to town.  As you look down the road you see weird looking
+people made out of steel.  On the right of you a row of gleaming houses made
+of some sort of metal shines in your eye.  
+~
+0 0 1
+D0
+~
+~
+0 0 6705
+D1
+~
+~
+1 0 6711
+D3
+~
+~
+0 0 6703
+M 0 H 0
+S
+#6705
+On Concord Road~
+The road is made of a hard substance that is dark in colour.  It
+continues all the way north while houses are still on the east.  Still no
+living creature is found yet.  
+~
+0 0 1
+D0
+~
+~
+0 0 6706
+D1
+~
+~
+1 0 6715
+D2
+~
+~
+0 0 6704
+M 0 H 0
+S
+#6706
+On Concord Road~
+The road is made of a hard substance that is dark in colour.  It
+continues all the way north while houses are still on the east.  Still no
+living creature is found yet.  
+~
+0 0 1
+D0
+~
+~
+0 0 6707
+D2
+~
+~
+0 0 6705
+M 0 H 0
+S
+#6707
+On Concord Road~
+The road is made of a hard substance that is dark in colour.  It
+continues all the way north while houses are still on the east.  Still no
+living creature is found yet.  
+~
+0 0 1
+D0
+~
+~
+0 0 6708
+D2
+~
+~
+0 0 6706
+M 0 H 0
+S
+#6708
+On Concord Road~
+The road is made of a hard substance that is dark in colour.  It
+continues all the way north while houses are still on the east.  Still no
+living creature is found yet.  
+~
+0 0 1
+D0
+~
+~
+0 0 6709
+D2
+~
+~
+0 0 6707
+M 0 H 0
+S
+#6709
+The Intersection~
+You are on the intersection between three ways.  To the west is a old
+beaten road that does not look quite as good as these roads and to the east
+is Hyde Street.  
+~
+0 0 1
+D1
+~
+~
+0 0 6710
+D2
+~
+~
+0 0 6708
+M 0 H 0
+S
+#6710
+Hyde Street~
+You are on Hyde Street.  This street has an eerie feel to it.  There are
+no houses or people.  It is not as birghtly lit as the other places.  
+~
+0 0 1
+D3
+~
+~
+0 0 6709
+M 0 H 0
+S
+#6711
+The First House~
+You are in the first house.  From the inside this house looks very
+futuristic with all sorts of gadgets on the wall.  More rooms lead to the
+south and east , perhaps you can find some sort of life there.  
+~
+0 8 0
+D1
+~
+~
+0 0 6713
+D2
+~
+~
+0 0 6712
+D3
+~
+~
+1 0 6704
+M 0 H 0
+S
+#6712
+A Living Room~
+This room is pure metal.  Everything is made out of metal.  You walk
+around the room looking and you see pictures on the wall.  The pictures are
+of robot people but you do not find one living creature in the pictures. 
+Sounds are coming from the east.  
+~
+0 8 0
+D0
+~
+~
+0 0 6711
+D1
+~
+~
+0 0 6714
+M 0 H 0
+S
+#6713
+The Small Room~
+This looks like a laboratory or repair shop.  Many pieces of eletrical
+and metal material are here.  Arms , legs , heads and other body parts made
+out of metal surround you.  You hear noise coming from the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 6714
+D3
+~
+~
+0 0 6711
+M 0 H 0
+S
+#6714
+Living Quarters~
+This room is unlike all the others in the house.  It is totally empty
+except for a single chair in the middle of the room and a robotic person in
+the corner.  
+~
+0 8 0
+D0
+~
+~
+0 0 6713
+D3
+~
+~
+0 0 6712
+M 0 H 0
+S
+#6715
+The Second House~
+This house looks almost the same as the first house.  A few things are
+different though.  The gadgets on the wall do not seem as complex and the
+walls aren't as shiny.  Rooms lead north and east.  
+~
+0 8 0
+D0
+~
+~
+0 0 6718
+D1
+~
+~
+0 0 6716
+D3
+~
+~
+1 0 6705
+M 0 H 0
+S
+#6716
+The Repair Room~
+In this room you see a machine that is huge.  You think it might be a
+repairing machine for the people *ahem* robots.  Yes Robots!  An exit goes
+north and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 6717
+D3
+~
+~
+0 0 6715
+M 0 H 0
+S
+#6717
+The Living Room~
+ This living is very high tech.  Controls everywhere, gadgets on the
+ground and even a non-functioning robot in a corner.  
+~
+0 8 0
+D2
+~
+~
+0 0 6716
+D3
+~
+~
+0 0 6718
+M 0 H 0
+S
+#6718
+The Closet~
+It is really small and crowded.  You can barely move in this closet.  All
+you see is a panel of controls on one wall and metal coats hanging on the
+other side.  You don't know why you came in here so you might aswell leave. 
+~
+0 8 0
+D1
+~
+~
+0 0 6717
+D2
+~
+~
+0 0 6715
+M 0 H 0
+S
+#6799
+The Secret Control Room~
+This room is unlike all the others you've seen in this weird place.  It
+is very very ordinary.  It looks like a living room from the 1990s with a
+computer on a desk in the corner.  
+~
+0 32776 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 6704 1 1
+D 0 6705 1 1
+D 0 6711 3 1
+D 0 6715 3 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

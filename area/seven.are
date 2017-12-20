@@ -1,0 +1,3636 @@
+#AREADATA
+Name Seven Wands~
+Builders None~
+VNUMs 17700 17799
+Credits {20 45} Karmon      The Seven Wands~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#17700
+Huge rat~
+a huge rat~
+A huge rat bares its fangs as it charges towards you.
+~
+The rat is grey and rather large.  A constant glitter in his eyes warns
+you that he is hungry.  
+~
+unique~
+ABCFG PQ -1000 0
+23 0 5d10+450 1d1+99 3d6+6 bite
+-6 -6 -6 -6
+CU Q 0 0
+stand stand none 230
+AHMV ABCDEF small 0 the guilds~
+M greet 17710 100~
+M grall 17710 100~
+#17701
+skeleton~
+a skeleton~
+A skeleton stands here guarding the room.
+~
+The magical skeleton stares through your soul with its eyeless skull. 
+Shivers creep up and down your spine as you imagine that this was the reward
+for servitude to a god.  
+~
+unique~
+ABG O -1000 0
+33 0 10d10+1100 1d1+99 4d4+10 shock
+-11 -11 -11 -11
+EK AB 0 N
+stand stand none 360
+HMV 0 medium 0 the guilds~
+#17702
+ghost~
+a ghost~
+A ghost prepares to make you their friend... FOREVER!
+~
+Tattered remenants of the soul of a former living beging are what
+embodies a ghost.  Fueled by hate and the desire for revenge,
+this ghost is intent on seeing you dead!
+~
+undead~
+ABCFG BDOQTZ -1000 0
+36 0 10d10+1400 1d1+99 3d10+11 drain
+-12 -12 -12 -12
+ACFU B I HNS
+stand stand none 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 17708 Zinzanna~
+#17703
+zombie~
+a zombie~
+A zombie is chained to the wall.
+~
+The shambling mound, that was once human emits a silent scream as it
+lurches towards you.  
+~
+undead~
+ABCG OZ -1000 0
+31 3 6d12+928 1d1+99 4d6+9 claw
+-10 -10 -10 -10
+CEFH B I HNS
+stand stand none 310
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17704
+arie dehri~
+Arie Dehri~
+{Y(Thief) {xArie Dehri a spiritual leader is locked here.
+~
+Once a powerful leader of the religion Shas, Derhi has been reduced to a
+common criminal.  He slowly passes his days in this dark prison waiting to
+die.  
+~
+human~
+ABCGS OZ -1000 0
+50 5 50d10+4500 1d1+99 5d8+19 beating
+-20 -20 -20 -20
+ACEK AB 0 EN
+stand stand male 500
+ABHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 17750 100~
+M grall 17750 100~
+#17705
+sphinx~
+Sphinx~
+A sphinx stands guard over the tiny pyramid.
+~
+With the lower body of a lion and the upper body of a human, the sphinx
+is an awesome creature to gaze upon.  His scowling gaze turns to you upon
+your intrusion.  
+~
+unique~
+ABG 0 0 0
+34 3 10d10+1200 1d1+99 4d7+10 pound
+-11 -11 -11 -11
+ACNU 0 0 0
+stand stand male 340
+AHMV EP medium 0 the guilds~
+#17706
+mummy priest~
+a mummy~
+A mummy of the of the temple's priests is here, angry at you for distrubing its tomb!
+~
+Tattered strips of linen hang from the gaunt shape of the mummy.  Eyes
+burning with hatred, he lunges at you eager to claim your life energy.  
+~
+undead~
+ABG Z -1000 0
+32 0 10d10+1000 1d1+99 4d4+9 slime
+-14 -14 -14 -14
+CEFJU B I HKNS
+stand stand none 320
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17707
+greater mummy~
+the greater mummy~
+The greater mummy stands here, holding eternal power.
+~
+Powerful magic seems to have been fused into the body of this mummy as
+it's bones crackle with energy.  It steps purposely in front of you, intent
+on your upcoming death.  
+~
+unique~
+ABGQ DFH -1000 0
+45 4 25d10+3000 1d1+99 8d4+16 shock
+-15 -15 -15 -15
+ACEHJK 0 0 0
+stand stand none 450
+AHMV ABCDEF medium 0 the guilds~
+#17708
+bat~
+a small black bat~
+A black bat swoops down at your face.
+~
+A furry body brushes past you, causing a small gust of wind.  The bat
+looks at you with its beady eyes, looking hungry enough to eat you whole.  
+~
+bat~
+ABFG QTZ 0 0
+27 2 5d10+650 1d1+99 5d4+7 shbite
+-8 -8 -8 -8
+FHU 0 0 S
+stand stand male 270
+AGHMV ABCDEFHJKP small 0 the guilds~
+#17709
+brown bat~
+a dark brown bat~
+A dark brown bat swoops down toward your neck.
+~
+This furry bat looks much meaner than his cousin the black bat.
+~
+bat~
+ABFG QTZ 0 0
+25 2 5d10+550 1d1+99 2d10+7 bite
+-7 -7 -7 -7
+FHU 0 0 S
+stand stand male 250
+AGHMV ABCDEFHJKP small 0 the guilds~
+#17710
+jail guard~
+a jail guard~
+A Jail Guard stands here smiling unhappily, holding a Sign.
+~
+He's big and smelly, the best way to describe this guy would be a giant
+of a jail guard.  His foul temper is about to be unleashed upon you.  He
+glares at you and asks you if you would like into the jail.  
+~
+giant~
+ABG BDFJY 0 0
+35 3 10d10+1300 1d1+99 4d7+11 strangle
+-11 -11 -11 -11
+CKU 0 HI J
+stand stand male 350
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 17716 100~
+M greet 17716 100~
+M speech 17717 Please~
+M speech 17717 please~
+#17711
+small rat~
+a small rat~
+A small rat charges towards you!
+~
+Grey and furry, this small rat chitters at you with a deep resentment. 
+His glowing eyes stare at you in hunger.  
+~
+unique~
+AGH DFIJP 0 0
+20 2 3d9+333 1d1+99 2d8+5 bite
+-4 -4 -4 -4
+U 0 0 0
+stand stand none 200
+ABCHMV ABCDEFGHIJKLMNOPQ small 0 the guilds~
+#17712
+white rat~
+a white rat~
+A large white rat runs up to you and nibbles on your boots.
+~
+Growling, the rat slowly closes the distance between you and it.  Its
+yellow fangs and drool are dead giveaways of its intent towards you.  
+~
+bat~
+AG TZ 0 0
+1 0 2d6+10 1d1+99 1d4+0 pound
+9 9 9 9
+FHU 0 0 S
+stand stand male 180
+AGHMV ABCDEFHJKP medium 0 the guilds~
+#17713
+female guard~
+a female guard~
+A giant guard stretches while waiting for some action.
+~
+A female giant stands stretching her arms.  Well over 7ft tall, this
+giant wants to rock your world.  
+~
+giant~
+ABG HLVa 0 0
+51 0 50d10+5000 1d1+99 5d8+20 pound
+-21 -21 -21 -21
+CDEO 0 HI J
+stand stand female 520
+AHMV ABCDEFGHIJK large 0 the guilds~
+#17714
+green worm~
+a {Ggreen{x worm~
+A {Ggreen{x worm lies here ready to fight.
+~
+A large worm towers several feet over you.  As its fangs drip a foul
+smelling ichor, it stretches its neck in gleeful anticipation.  
+~
+green dragon~
+ABG DFJT 0 0
+30 3 6d12+853 1d1+99 4d6+8 bite
+-9 -9 -9 -9
+ACEM B BEL J
+stand stand either 600
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#17715
+red worm~
+a {Rred{x worm~
+A {Rred{x worm flutters about with an air of boredom.
+~
+A red mass of scales and flesh impedes your sight of the rest of the
+room.  This red worm seems much larger, meaner and more hungry than anything
+you've ever encountered.  
+~
+red dragon~
+ABG DFIJT 0 0
+35 3 10d10+1300 1d1+99 4d7+11 flbite
+-11 -11 -11 -11
+ACEM H BEH I
+stand stand none 700
+ABHMVZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+#17716
+white worm~
+a {Wwhite{x worm~
+A {Wwhite{x worm lowers the temperature of the room with her icy breath.
+~
+White as snow, the worm moves methodically about you, trying not to bring
+attention to its presence.  He scaley hide is covered with a thin layer of
+ice, as she is continually trying to keep herself cool.  
+~
+white dragon~
+ABGT JQT 50 0
+60 6 50d10+9500 1d1+99 8d6+28 crush
+-30 -30 -30 -30
+EN AB BEI H
+stand stand female 1200
+ABHMVZ ABCDEFGHIJKLMNOPQUVWX giant 0 the guilds~
+M speech 17709 ahuva adar~
+#17717
+blue worm~
+a {Bblue{x worm~
+A {Bblue{x worm coils itself into a ball as it tries to sleep.
+~
+Glittering blue scales shroud the worm in a natrual suit of armor.  Its
+muscles crackle with sparks of lightning everytime it shifts in its sleep.  
+~
+blue dragon~
+ABGS JT -50 0
+50 5 50d10+4500 1d1+99 5d8+19 shbite
+-20 -20 -20 -20
+ACEMU 0 BEJ K
+sleep stand either 1000
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#17718
+black worm~
+a {Dblack{x worm~
+A {Dblack{x worm is resting here.
+~
+Fear starts to take ahold of you as you stare into the eyes of the black
+worm.  His scales are darker than night, and its girth is larger than any
+mast of any ship.  Pools of acid eat away at the floor where they have
+dripped from his mouth.  
+~
+black dragon~
+ABGS QTZ 0 0
+55 5 50d10+7000 1d1+99 10d4+23 pound
+-25 -25 -25 -25
+ACEU 0 BEK L
+rest stand male 1100
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#17719
+EMPTY VNUM~
+Empty vnum~
+Empty Vnum
+~
+~
+human~
+A 0 0 0
+0 0 10000d10000+10000 1d1+99 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17720
+satan healer~
+{RSatan {Dhealer{x~
+{RSatan {Dhealer{x Is standing here to Heal you ... don't trust him
+~
+You see {RSatan {Dhealer{x
+you don't sure if you can trust him
+but....
+but....
+but....
+You need heal so...
+~
+human~
+ALa 0 1000 0
+60 6 666d666+666 1d1+99 666d666+666 acbite
+-54 -54 -54 -54
+0 ABCDEFHJKMNOQZab 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK giant 0 the guilds~
+M speech 17799 hello~
+M speech 17799 hi~
+M grall 17799 100~
+M greet 17799 100~
+#17721
+poor old man trader~
+an old trader~
+This poor old man must have wandered into the temple to earn some money trading his goods.
+~
+This man has a completely blissful look on his face.  He has no real idea
+where he is, or how he got here.  He looks very poor and is willing to sell
+some of his items just to get by.  
+~
+human~
+ABC DE 0 0
+60 6 50d10+9500 1d1+99 8d6+28 none
+-30 -30 -30 -30
+0 Z 0 0
+stand stand none 9999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 17718 100~
+M greet 17718 100~
+#17722
+old woman~
+an old woman~
+An old woman stands here.  You wonder if she has been here since the temple was last active.
+~
+This old woman's skin is so white and pale you can see right through to
+her veins.  You wonder if she is really alive, or just a spirit of one of
+the temple's victims.  
+~
+human~
+ABCG 0 0 0
+60 6 50d10+9500 1d1+99 8d6+28 none
+-30 -30 -30 -30
+0 Z 0 0
+stand stand none 9999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 17788 100~
+M greet 17788 100~
+M speech 17705 monica fruht~
+#17723
+lost adventurer~
+a lost adventurer~
+A lost adventurer looks a bit scared wandering around the temple.
+~
+This adventurer doesn't appear to be too bright.
+~
+human~
+ABCGS a 0 0
+25 2 5d10+550 1d1+99 2d10+7 none
+-7 -7 -7 -7
+0 0 0 0
+stand stand none 250
+AHMV ABCDEFGHIJK medium {x the guilds~
+M speech 17786 E~
+M grall 17780 100~
+M greet 17780 100~
+#17724
+lost adventurer~
+a lost adventurer~
+A lost adventurer looks a bit scared wandering around the temple.
+~
+This adventurer doesn't appear to be too bright.
+~
+human~
+ABCGS a 0 0
+26 2 5d10+600 1d1+99 3d7+7 none
+-7 -7 -7 -7
+0 0 0 0
+stand stand none 260
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 17781 100~
+M greet 17781 100~
+#17725
+lost adventurer~
+a lost adventurer~
+A lost adventurer looks a bit scared wandering around the temple.
+~
+This adventurer doesn't appear to be too bright.
+~
+human~
+ABCGS a 0 0
+26 2 5d10+600 1d1+99 3d7+7 none
+-7 -7 -7 -7
+0 0 0 0
+stand stand none 260
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17726
+lost adventurer~
+a lost adventurer~
+A lost adventurer looks a bit scared wandering around the temple.
+~
+This adventurer doesn't appear to be too bright.
+~
+human~
+ABCGS a 0 0
+25 2 5d10+550 1d1+99 2d10+7 none
+-7 -7 -7 -7
+0 0 0 0
+stand stand none 250
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17727
+lost adventurer~
+a lost adventurer~
+A lost adventurer looks a bit scared wandering around the temple.
+~
+This adventurer doesn't appear to be too bright.
+~
+human~
+ABCGS a 0 0
+24 0 5d10+500 1d1+99 2d10+6 none
+-6 -6 -6 -6
+0 0 0 0
+stand stand none 240
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17728
+lost adventurer~
+a lost adventurer~
+A lost adventurer looks a bit scared wandering around the temple.
+~
+This adventurer doesn't appear to be too bright.
+~
+human~
+ABCGS a 0 0
+27 0 5d10+650 1d1+99 5d4+7 none
+-8 -8 -8 -8
+0 0 0 0
+stand stand none 270
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17729
+lost adventurer~
+a lost adventurer~
+A lost adventurer looks a bit scared wandering around the temple.
+~
+This adventurer doesn't appear to be too bright.
+~
+human~
+ABCGS a 0 0
+27 0 5d10+650 1d1+99 5d4+7 none
+-8 -8 -8 -8
+0 0 0 0
+stand stand none 270
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17730
+lost adventurer~
+a lost adventurer~
+A lost adventurer looks a bit scared wandering around the temple.
+~
+This adventurer doesn't appear to be too bright.
+~
+human~
+ABCGS a 0 0
+23 0 5d10+450 1d1+99 3d6+6 none
+-6 -6 -6 -6
+0 0 0 0
+stand stand none 230
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17731
+wounded adventurer~
+a wounded adventurer~
+This adventurer looks like she came out on the wrong side of a dragon.
+~
+This adventurer has fear in her eyes, and is bleeding from her arms and
+legs.  
+~
+human~
+ABCGU 0 0 0
+30 0 6d12+853 1d1+99 4d6+8 none
+-9 -9 -9 -9
+CDFR 0 0 0
+stand stand female 300
+AGHMV ABCDEFGHIJK medium 0 the guilds~
+#17732
+map seller~
+a map seller~
+A map seller is here asking if you want to find the end of the maze fast.
+~
+When he was living he sold maps, lucky for you he also has that same
+profession after his mortal life.  
+~
+human~
+ABC 0 0 0
+60 6 50d10+9500 1d1+99 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 17757 100~
+M greet 17757 100~
+#17756
+EMPTY VNUM~
+empty vnum~
+Empty vnum
+~
+~
+human~
+A 0 0 0
+1 0 2d6+10 1d1+99 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17761
+angel~
+an {Ca{Rn{Cg{Re{Cl{x~
+An {Ca{Rn{Cg{Re{Cl{x is here to make love and peace.  You feel good when you see him.
+~
+{CA{Rn{Cg{Re{Cl{x stands near the bad SATAN.  But because good is better
+than bad.  You see that he is the boss here.  
+~
+human~
+AJKb 0 1000 0
+60 6 50d10+9500 1d1+99 8d6+28 none
+-30 -30 -30 -30
+0 ABCDEFHJKMNOQZab 0 0
+stand stand male 666
+AHMV ABCDEFGHIJK huge 0 the guilds~
+#17762
+fanatic priest~
+a fanatic priest~
+An old fanatic priest searches for a new victim to appease his god.
+~
+This is an old fanatic priest.  He managed to survive the fall of the
+temple, and still searches for ways to appease his old god.  
+~
+human~
+ABF 0 0 0
+20 2 3d9+333 1d1+99 2d8+5 none
+-4 -4 -4 -4
+0 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17769
+abandoned woman~
+an abandoned woman~
+This woman was apparently abandoned when the temple fell into disrepair.
+~
+This woman has been alone for so long that her eyes glitter from having
+gone crazy.  
+~
+human~
+AG 0 0 0
+22 0 5d10+400 1d1+99 4d4+6 none
+-5 -5 -5 -5
+CFIN A 0 0
+stand stand female 220
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17770
+abandoned woman~
+an abandoned woman~
+This woman was apparently abandoned when the temple fell into disrepair.
+~
+This woman has been alone for so long that her eyes glitter from having
+gone crazy.  
+~
+human~
+AG 0 0 0
+22 0 5d10+400 1d1+99 4d4+6 none
+-5 -5 -5 -5
+CFIN A 0 0
+stand stand female 220
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17779
+Huge rat~
+a huge rat~
+A huge rat bares its fangs as it charges towards you.
+~
+The rat is grey and rather large.  A constant glitter in his eyes warns
+you that he is hungry.  
+~
+unique~
+ABCFG PQ -1000 0
+23 0 5d10+450 1d1+99 3d6+6 none
+-6 -6 -6 -6
+CU Q 0 0
+stand stand none 230
+AHMV ABCDEF small 0 the guilds~
+#17785
+Huge rat~
+a huge rat~
+A huge rat bares its fangs as it charges towards you.
+~
+The rat is grey and rather large.  A constant glitter in his eyes warns
+you that he is hungry.  
+~
+unique~
+ABCFG PQ -1000 0
+23 0 5d10+450 1d1+99 3d6+6 none
+-6 -6 -6 -6
+CU Q 0 0
+stand stand male 230
+AHMV ABCDEF small 0 the guilds~
+#17788
+Huge rat~
+a huge rat~
+A huge rat bares its fangs as it charges towards you.
+~
+The rat is grey and rather large.  A constant glitter in his eyes warns
+you that he is hungry.  
+~
+unique~
+ABCFG PQ -1000 0
+23 0 5d10+450 1d1+88 3d6+6 none
+-6 -6 -6 -6
+CU Q 0 0
+stand stand male 230
+AHMV ABCDEF small 0 the guilds~
+#17789
+test~
+test mob~
+A test mob is here.
+~
+~
+human~
+ABC BDFHNT 1000 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+EFNU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK huge 0 the guilds~
+#17793
+no name~
+empty vnum~
+Empty vnum
+~
+~
+human~
+AB 0 0 0
+0 0 10d10+10 1d1+99 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17797
+ghost~
+a ghost~
+A ghost prepares to make you their friend... FOREVER!
+~
+Tattered remenants of the soul of a former living being are what embodies
+a ghost.  Fueled by hate and the desire for revenge, this ghost is intent on
+seeing you dead!  
+~
+undead~
+ABCFG BDOQTZ -1000 0
+36 0 10d10+1400 1d1+99 3d10+11 none
+-12 -12 -12 -12
+ACFU B I HNS
+stand stand none 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17798
+Yakub~
+{BY{Ga{Bk{Gu{Bb{x~
+{BY{Ga{Bk{Gu{Bb{x Karmon's dog
+~
+~
+dog~
+AI 0 1000 0
+60 50 400d400+4000 1d1+99 20d20+20 acbite
+-8 -8 -8 -8
+ACDEHIKLMN ABCDEFHJKMNOQZab 0 0
+stand stand male 0
+AGV ACDEFHJKUV medium 0 the guilds~
+M speech 17794 karmon~
+#17799
+Huge rat~
+a huge rat~
+A huge rat bares its fangs as it charges towards you.
+~
+The rat is grey and rather large.  A constant glitter in its eyes warns
+you that it's hungry.  
+~
+unique~
+ABCFG PQ -1000 0
+23 0 5d10+450 1d1+99 3d6+6 none
+-6 -6 -6 -6
+CU Q 0 0
+stand stand none 230
+AHMV ABCDEF small 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#17700
+red wand~
+the {RRed{x Wand~
+A {Rred{x wand is dropped here, glowing with a strong magical aura.~
+ivory~
+wand AGSTY AO
+35 3 3 'faerie fire' 0
+30 2 1000 P
+A
+4 1  
+#17701
+blue wand~
+the {BBlue{x Wand~
+A {Bblue{x wand is dropped here, glowing with a strong magical aura.~
+ivory~
+wand AGSTY AO
+40 3 3 'sleep' 0
+30 20 1000 P
+A
+3 1  
+#17702
+green wand~
+the {GGreen{x Wand~
+A {Ggreen{x wand is dropped here, glowing with a strong magical aura.~
+ivory~
+wand AGSTY AO
+40 3 3 'sanctuary' 0
+30 20 1000 P
+A
+2 1  
+#17703
+grey wand~
+the {DGrey{x Wand~
+A {DGrey{x wand is dropped here, glowing with a strong magical aura.~
+ivory~
+wand AGSTY AO
+40 3 3 'stone skin' 0
+30 20 1000 P
+A
+1 1  
+#17704
+white wand~
+the {WWhite{x Wand~
+A {WWhite{x wand is dropped here, glowing with a strong magical aura.~
+ivory~
+wand AGSTY AO
+35 5 5 'ice bolt' 0
+30 20 1000 P
+A
+5 1  
+#17705
+yellow wand~
+the {YYellow{x Wand~
+A {Yyellow{x wand is dropped here, glowing with a strong magical aura.~
+ivory~
+wand AGSTY AO
+40 3 3 'frenzy' 0
+30 20 1000 P
+A
+9 1  
+#17706
+holy wand~
+the {CHoly{x Wand~
+A {Choly{x wand is dropped here, glowing with a strong magical aura.~
+ivory~
+wand AGSTY AO
+20 3 3 'protection evil' 0
+30 20 1000 P
+A
+24 -2  
+#17707
+small altar~
+a small altar~
+A small altar is located here, with marks of some dry blood.~
+stone~
+container 0 0
+666 AC 0 60 100
+0 6666 0 P
+#17708
+bone scale shield~
+a bone shield~
+A shield is dropped here, made of rotting flesh and bones.~
+bone~
+armor JLS AJ
+8 7 9 6 0
+29 180 500 P
+A
+13 10  
+A
+12 10  
+#17709
+bone sword~
+a bone sword~
+A sword is here, made of bones.~
+bone~
+weapon JLS AN
+sword 2 5 slash C
+15 80 500 P
+#17710
+ring constitution~
+Ring of Constitution~
+A ring has been dropped here.~
+gold~
+armor AGT AB
+0 0 0 0 0
+7 10 250 P
+A
+5 1  
+#17711
+flesh bracelet~
+a flesh bracelet~
+A bracelet has been dropped here, it appears to be made of flesh and blood.~
+flesh~
+armor HJMS AM
+1 1 1 1 0
+25 30 50 P
+A
+18 2  
+A
+19 1  
+#17712
+shas mark~
+the Shas MARK~
+An unholy mark is dropped here.~
+evilness~
+armor M AE
+9 9 9 1 0
+30 20 500 P
+A
+13 10  
+A
+20 -1  
+A
+3 -1  
+A
+4 -1  
+#17713
+rotting meal~
+a rotting meal~
+A meal is here, decomposing and surrounded with flies.~
+yuck~
+pill A AO
+51 'change sex' '(null)' '(null)' '(null)'
+0 30 0 P
+#17714
+half eaten meal~
+a half eaten meal~
+A meal is here, half eaten.~
+yuck~
+pill 0 AO
+30 'blast of rot' '(null)' '(null)' '(null)'
+0 30 0 P
+#17715
+sink ugly~
+an ugly sink~
+An ugly sink is here, with a strange liquid within.~
+stone~
+fountain 0 0
+100000 100000 'blood' 0 0
+0 1000 0 P
+#17716
+runed scroll~
+a {GRuned{x scroll~
+A scroll has been dropped here, it has strange runes written inside it.~
+paper~
+scroll A AO
+30 'charm person' '(null)' '(null)' '(null)'
+20 10 200 P
+A
+9 2  
+#17717
+strange scroll~
+a strange scroll~
+A scroll has been dropped here.~
+paper~
+scroll 0 AN
+30 'weaken' 'plague' 'poison' '(null)'
+20 10 100 P
+A
+9 2  
+#17718
+key stone~
+a stone key~
+A key made of stone is dropped here.~
+stone~
+key 0 AO
+0 0 0 0 0
+0 10 10 P
+#17719
+tomb sarcophagus~
+a sarcophagus~
+A sarcophagus is here.~
+stone~
+container Y 0
+66666 ACE 0 999 100
+0 6666 0 P
+#17720
+sack gold~
+a sack of gold~
+A sack is dropped here, filled with gold.~
+fur~
+money Y AO
+30 50 0 0 0
+0 10 1000 P
+#17721
+same jewel~
+a jewel~
+A small jewel has been dropped here.  It shines with bright light.~
+crystal~
+treasure 0 AO
+0 0 0 0 0
+6 10 650 P
+A
+24 -2  
+#17722
+strange pill~
+a strange pill~
+A pill is lying here.~
+food~
+pill AG AO
+60 'create food' 'create spring' 'create rose' '(null)'
+0 10 50 P
+#17723
+red key~
+a {Rred {xkey~
+A {Rred{x key lies here, you wonder what it opens.~
+iron~
+key 0 AB
+0 0 0 0 0
+25 10 200 P
+A
+19 2  
+A
+18 2  
+#17724
+blue key~
+a {Bblue{x key~
+A {Bblue{x key lies here, you wonder what it opens.~
+iron~
+key 0 AO
+0 0 0 0 0
+0 10 0 P
+#17725
+green key~
+a {Ggreen{x key~
+A {Ggreen{x key has been left here.~
+iron~
+key 0 AO
+0 0 0 0 0
+0 10 0 P
+#17726
+grey key~
+a {Dgrey {xkey~
+A {Dgrey{x key has been left here.~
+iron~
+key A AO
+0 0 0 0 0
+0 10 0 P
+#17727
+white key~
+a {Wwhite{x key~
+A {Wwhite{x key has been left here.~
+iron~
+key 0 AO
+0 0 0 0 0
+0 10 10 P
+#17728
+yellow key~
+a {Yyellow{x key~
+A {Yyellow{x key has been left here. It looks very beautiful.~
+iron~
+key 0 AO
+0 0 0 0 0
+30 10 10 P
+A
+13 20  
+A
+18 2  
+#17729
+collar dragon control~
+a collar of dragon control~
+A gemmed collar has been left here, ready to control a wyrm.~
+ivory~
+armor A AC
+8 8 8 1 0
+51 30 700 P
+A
+12 -30  
+A
+19 2  
+A
+13 20  
+#17730
+strange potion~
+A strange potion~
+You see a strange potion on the ground, it looks quite potent.~
+glass~
+potion 0 AO
+51 'curse' 'chill touch' 'poison' '(null)'
+0 10 10 P
+#17731
+dragon pie~
+a piece of dragon pie~
+You're not sure what end of the dragon this is from, but it looks good.~
+food~
+pill 0 AO
+15 '(null)' 'bark skin' 'stone skin' '(null)'
+0 10 1000 P
+#17732
+toothy smile ring~
+a toothy smile ring~
+A ring is lying on the ground, it seems to be smiling at you.~
+bone~
+armor HM AB
+-10 -10 -10 -10 0
+10 30 100 P
+A
+5 -1  
+A
+4 -1  
+A
+3 -1  
+A
+2 -1  
+A
+1 -1  
+A
+19 -2  
+A
+18 -2  
+#17733
+small candy~
+a small candy~
+A small candy is here, looking very valuable.~
+gold~
+money 0 AO
+5 20 0 0 0
+0 10 0 P
+#17734
+valuable bone~
+A small piece of valuable bone~
+You see a valuable looking bone shard, could be worth something.~
+~
+money 0 AN
+30 20 0 0 0
+0 50 1000 P
+#17735
+sandi bar picture~
+a Sandi Bar picture~
+A Sandi Bar picture has been dropped here, waiting to be taken.~
+paper~
+armor 0 AO
+1 1 0 0 0
+2 10 100 P
+A
+4 1  
+A
+5 1  
+#17736
+wand power~
+the power of the wands~
+The power of the wands has been dropped here.~
+crystal~
+throwing GIe AO
+7 5 slice 55 'rukus magna'
+45 20 6500 P
+A
+19 2  
+A
+18 -2  
+#17737
+bacon~
+bacon~
+A slab of bacon from the Seven Wands.~
+food~
+food 0 A
+20 40 0 0 0
+0 10 15 P
+#17738
+aviv gefen pill~
+aviv gefen~
+Aviv Gefen is here.~
+wood~
+pill 0 AO
+5 'cure light' 'mirror image' 'create food' 'reserved'
+15 10 4500 P
+#17739
+blue crystal~
+{BBlue{x Crystal~
+A {BBlue{x Crystal has been dropped here.  You wonder what it does.~
+crystal~
+recall_crystal ABTWY AOY
+CDFGIJK A A 0 0
+10 100 6000 P
+#17740
+green crystal~
+{GGreen{x Crystal~
+A {GGreen{x Crystal has been dropped here.  You wonder what it does.~
+crystal~
+recall_crystal ABTWY AO
+CFIKO A A 0 0
+10 100 6000 P
+#17741
+white crystal~
+{WWhite{x Crystal~
+A {WWhite{x Crystal has been dropped here.  You wonder what it does.~
+crystal~
+recall_crystal ABTWY AO
+ACFIKO A A 0 0
+10 100 6000 P
+#17742
+red crystal~
+{RRed{x Crystal~
+A {RRed{x Crystal has been dropped here.  You wonder what it does.~
+crystal~
+recall_crystal ABTWY AO
+ABEFIKO A A 0 0
+10 100 6000 P
+#17743
+yellow crystal~
+{YYellow{x Crystal~
+A {YYellow {xCrystal has been dropped here.  You wonder what it does.~
+crystals~
+recall_crystal ABTWY AO
+BDEFIKO A A 0 0
+10 100 6000 P
+#17744
+cyan crystal~
+{CCyan {xCrystal~
+A {CCyan{x Crystal has been dropped here.  You wonder what it does.~
+crystal~
+recall_crystal ABTWY AO
+BEFGIKO A A 0 0
+10 100 6000 P
+#17745
+magenta crystal~
+{MMagenta{x Crystal~
+A {MMagenta{x Crystal has been dropped here.  You wonder what it does.~
+crystal~
+recall_crystal ABTWY AO
+ABCFIKO A A 0 0
+10 100 6000 P
+#17746
+dark crystal~
+{DDark{x Crystal~
+A {DDark{x Crystal has been dropped here.  You wonder what it does.~
+crystal~
+recall_crystal ABTWY AOY
+ADEILMNO A A 0 0
+10 100 6000 P
+#17747
+israel crystal~
+{CI{Ws{Cr{Wa{Ce{Wl{x Crystal~
+The {CI{Ws{Cr{Wa{Ce{Wl{x Crystal has been dropped here.  You wonder what it does.~
+crystal~
+recall_crystal ABTWY AO
+ABCFHLMN A A 0 0
+10 100 6000 P
+#17748
+key of shadows~
+Key Of Shadows~
+The Key of Shadows has been dropped here.~
+iorn~
+key HT AO
+0 0 0 0 0
+0 10 100 P
+#17749
+rags~
+some rags~
+A pile of old rags lays in the corner.~
+cloth~
+furniture O 0
+2 1000 EHK 125 125
+0 0 0 P
+#17750
+trivia diamond~
+{Ct{Wr{Ci{Wv{Ci{Wa {Bd{Wi{Ba{Wm{Bo{Wn{Bd{x~
+A trivia diamond has been dropped here.  You know that karmon gave it out.~
+wood~
+jewelry TW AO
+0 0 0 0 0
+0 1 10000 P
+#17751
+trivia candy~
+{RT{Br{Wi{Rv{Bi{Wa {Rc{Ba{Wn{Rd{By{x~
+A piece of Trivia candy has been dropped here.  Karmon gave that out.~
+food~
+pill T AO
+25 'mirror image' 'frenzy' 'create rose' 'reserved'
+10 10 1000 P
+#17752
+leggend heart sword~
+leggend heart sword~
+The leggend heart sword is only for immortal use.~
+wood~
+weapon 0 AN
+sword 25 25 shbite DEG
+54 100 500 P
+#17754
+blank item~
+{x~
+{x~
+wood~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#17755
+Golden Arm~
+a golden arm~
+A golden arm lies on the ground.~
+gold~
+armor ABCGI AI
+8 8 8 4 0
+28 40 8000 P
+#17756
+gold leg~
+a golden leg~
+A golden leg has been left here.~
+gold~
+armor ABCGI AF
+9 7 8 1 0
+28 40 8000 P
+A
+13 8  
+A
+2 2  
+#17757
+gold shield~
+a golden shield~
+A gold shield lies on the ground.~
+gold~
+armor ABCGI AJ
+8 6 4 0 0
+28 200 8000 P
+A
+18 1  
+A
+19 1  
+#17758
+bracelet of Shadows~
+the Bracelet of Shadows~
+The Bracelet of Shadows has been dropped here.~
+shadow~
+armor AFIPTYe AM
+8 7 6 1 0
+35 30 10000 P
+A
+19 2  
+A
+18 1  
+#17759
+sword of shadows~
+Sword Of Shadows~
+A blade, covered with dark shadows, has been dropped here.~
+shadows~
+weapon AIPSTYe AN
+sword 5 4 slice EG
+30 100 10000 P
+A
+3 2  
+A
+19 1  
+#17760
+peace pit~
+{CP{We{Ca{Wc{Ce {BP{Ri{Wt{x~
+A pit of peace has been dug into the ground.~
+dirt~
+container DO P
+6666 0 17798 666 666
+0 0 0 P
+#17761
+maze map~
+the maze map~
+A map of the maze has been dropped here.~
+paper~
+map 0 AO
+0 0 0 0 0
+0 10 5000 P
+E
+map~
+You start here in the room that you bought that map
+now kill that Guardians... get the key and go to the maze
+than you can go and find the end
+or use the next way...
+ 
+ 
+South 
+South
+West
+South
+West
+ 
+ 
+Have fun :)
+~
+E
+maze~
+You start here in the room that you bought that map
+now kill that Guardians... get the key and go to the maze
+than you can go and find the end
+or use the next way...
+ 
+ 
+South 
+South
+West
+South
+West
+ 
+ 
+Have fun :)
+~
+#17762
+key shadows II~
+the Key of Shadows II~
+The Key of Shadows II has been dropped here.~
+shadow~
+key HT AO
+0 0 0 0 0
+0 10 100 P
+#17763
+key shadows III~
+the Key of Shadows III~
+The the Key of Shadows III has been dropped here.~
+shadow~
+key HT AO
+0 0 0 0 0
+0 10 100 P
+#17764
+crystal key~
+a crystal key~
+A crystal key has been dropped here.~
+crystal~
+key 0 AO
+0 0 0 0 0
+0 10 100 P
+#17765
+key shadows IV~
+the Key of Shadows IV~
+The Key of Shadows IV has been dropped here.~
+shadow~
+key HT AO
+0 0 0 0 0
+0 10 100 P
+#17766
+power pill~
+Power Pill~
+Power Pill is dropped here~
+wax~
+pill 0 AO
+15 'haste' 'invisibility' 'detect invis' 'reserved'
+0 10 3000 P
+#17768
+color bag~
+{GT{Wh{Ye{C C{Mo{Rl{Bo{Dr {Xbag~
+The color bag has been dropped here.~
+cloth~
+container 0 AO
+99999 A 0 99999 99999
+54 50 0 P
+#17777
+prizes karmon bag~
+Karmon's {RPrizes {xBag~
+Karmon's {RPrizes {xBag~
+oldstyle~
+container 0 AO
+6666 A 0 6666 6666
+54 1 0 P
+#17778
+gold medal karmon~
+{YGold {xMedal~
+{YGold {xMedal Feel Proud when you wear it!~
+gold~
+treasure AIOTWe AOP
+0 0 0 0 0
+0 100 3000 P
+#17779
+silver medal karmon~
+{CSilver {xMedal~
+{CSilver {xMedal Feel Proud when you wear it!~
+silver~
+treasure AIOTWe AOP
+0 0 0 0 0
+0 100 2000 P
+#17780
+bronze medal karmon~
+{DBronze {xMedal~
+{DBronze {xMedal Feel Proud when you wear it!~
+bronze~
+treasure AIOTWe AOP
+0 0 0 0 0
+0 100 2000 P
+#17786
+bronze medal karmon~
+{DBig Bronze {xMedal~
+{DBig Bronze {xMedal~
+bronze~
+treasure AIOTWe AOP
+0 0 0 0 0
+0 10 2000 P
+#17787
+short scroll~
+a short scroll~
+A short scroll has lots of words written on it.~
+paper~
+scroll G AO
+5 'rainbow burst' 'rainbow burst' '(null)' '(null)'
+5 10 1000 P
+#17791
+back from your death~
+{Yback from your death{x~
+{Yback from your death{x~
+air~
+portal 0 P
+1 0 0 3001 0
+0 0 0 P
+#17792
+heal pill~
+a heal pill~
+A level 60 heal pill.~
+food~
+pill T AO
+60 'heal' '(null)' '(null)' 'reserved'
+0 10 1000 P
+#17793
+silver medal karmon~
+{CSilver {xMedal~
+{CSilver {xMedal Feel Proud when you wear it!~
+silver~
+treasure AIOTWe AOP
+0 0 0 0 0
+0 100 2000 P
+#17794
+gold medal karmon~
+{YGold {xMedal~
+{YGold {xMedal Feel Proud when you wear it!~
+gold~
+treasure AIOTWe AOP
+0 0 0 0 0
+0 10 3000 P
+#17795
+Karmon's cool hat~
+{MKarmon's {Ycool {Chat{x~
+Karmon's cool hat has been dropped here.~
+cloth~
+armor 0 AE
+9 9 9 9 0
+54 0 0 P
+#17796
+fountain Blood~
+{DSatan's {RBlood{x~
+{DSatan's {RBlood{x~
+ivory~
+fountain 0 0
+100000 100000 'blood' 0 0
+60 0 0 P
+#17797
+portal to your death~
+{Da portal to your death{x~
+{DA portal to your death open before you.{x~
+air~
+portal 0 P
+1 0 0 17700 0
+0 0 0 P
+#17798
+peace key~
+{CPeace key{x~
+The Peace key belong to Karmon.~
+iron~
+key 0 AO
+0 0 0 0 0
+0 1 0 P
+#17799
+karmon's sofa~
+{Bk{Ga{Wr{Bm{Go{Wn{B'{Gs {Ws{Bo{Gf{Wa{x~
+{Bk{Ga{Wr{Bm{Go{Wn{B'{Gs {Ws{Bo{Gf{Wa{x is on the ground.~
+wood~
+furniture 0 0
+1 5000 ACDEHIJKLMNOPQRSTUVWXYZabcdef 100 300
+54 0 0 P
+#0
+
+
+
+#ROOMS
+#17700
+Before the Ancient Temple~
+The entrance is flanked by two massive pillars, covered with carvings of
+snakes, demons and strange symbols.  Their silent screams and evil leers
+would chill even the hardiest of adventurers.  You have no idea what lies
+behind these doors, and feel like somehow you really do not wish to know.
+Above the doors you see a small, dust covered plaque with writing on it.  
+~
+0 4 3
+E
+plaque~
+As you clear the dust gently from the plaque, you see that it reads:
+
+"Behold Intruders! This temple is the
+ keeper of the 7 wands, the ultimate
+ power of magic! All those who will dare
+ entering it, shall be punished severly!"
+
+this area built by Karmon.~
+D0
+~
+~
+0 -1 17701
+D2
+~
+~
+0 0 17779
+S
+#17701
+The Entrance to the Temple~
+You enter into the gloomy interior, walking along an ivory floor that
+runs far to the north.  The room is barely lit, and a you notice a strong
+smell of decay.  Small insects buzz in the air, and huge grey rats scurry
+about.  Their shining eyes stare intently at you, wondering if you're their
+next meal.  
+~
+0 8 0
+D0
+~
+~
+0 -1 17702
+D1
+~
+~
+0 -1 17703
+D2
+~
+~
+0 -1 17700
+S
+#17702
+A Long Corridor~
+The long corridor of the temple ends with a large iron door to the
+north.  In the distance you hear the steady drip of water as it splashes
+from a ceiling to the wet floor below.  
+~
+0 8 0
+D0
+~
+~
+0 -1 17707
+D1
+~
+~
+0 -1 17704
+D2
+~
+~
+0 -1 17701
+D3
+~
+~
+0 -1 17705
+S
+#17703
+A Small Shrine~
+This is a small shine room dedicated to some ancient god.  Here, monks and
+priests offer god and human sacrifices.  Traces of blood stain the floor
+where the victims have been slain.
+~
+0 8 0
+D3
+~
+~
+0 -1 17701
+M 110 H 110
+S
+#17704
+The Bedroom~
+This room is filled with many beds.  It seems all the worshippers were
+made to sleep in the same room.  The glowing statue of some god catches
+your eye.  You see a small diary was dropped in the corner of the room.  At
+the end of the room an eternal guardian stands, ready to saly anyone for
+entering the room.
+~
+0 8 0
+E
+diary~
+You read a small piece of paper from the diary, which reads:
+
+"The head priest has gone mad! He has
+ locked us in our rooms, and I fear he  
+ plans evil schems against us... He takes 
+ out one believer each day, and that   
+ believer never comes back..."~
+D3
+~
+~
+0 -1 17702
+S
+#17705
+The Praying Room~
+This is the room where many worshippers came to pray to their god.  A
+gigantic statue stands at the other end of the room, and there are many
+chairs for sitting.  Torn prayer books are here, lying in pools of dry
+blood.  There are many mosquitoes here flying around and bugging you.  There
+is writing on the upper wall, in big letters made of gold.  From the
+northern door you hear howling noises.  
+~
+0 8 0
+E
+plaque~
+1. Thy Shall not murder!
+2. Thy Shall not steal!
+3. Thy Shall not worship other gods!
+4. Thy Shall follow you god's orders blindly.
+5. Thy Shall protect the temple with your life.
+6. Thy shall protect the temple in your death. 
+ 
+ 
+And the sacred words are : 
+"Zinzanna"
+"monica fruht"
+"ahuva adar"
+These words are the {GKEY{x to my treasure.
+~
+E
+selina~
+These are your Commandments!!! Follow them with FEAR!
+            
+1. Thy Shall not murder!
+2. Thy Shall not steal!
+3. Thy Shall not worship other gods!
+4. Thy Shall follow you god's orders blindly.
+5. Thy Shall protect the temple with your life.
+6. Thy shall protect the temple in your death. 
+            
+                      
+And the sacred words are : 
+"Zinzanna"
+"monica fruht"
+"ahuva adar"
+These words are the {GKEY {xto my treasure.
+~
+E
+karmon~
+These are your Commandments!!! Follow them with FEAR!
+            
+1. Thy Shall not murder!
+2. Thy Shall not steal!
+3. Thy Shall not worship other gods!
+4. Thy Shall follow you god's orders blindly.
+5. Thy Shall protect the temple with your life.
+6. Thy shall protect the temple in your death. 
+            
+                      
+And the sacred words are : 
+"Zinzanna"
+"monica fruht"
+"ahuva adar"
+These words are the {GKEY {xto my treasure.
+~
+E
+writing~
+These are your Commandments!!! Follow them with FEAR!
+            
+1. Thy Shall not murder!
+2. Thy Shall not steal!
+3. Thy Shall not worship other gods!
+4. Thy Shall follow you god's orders blindly.
+5. Thy Shall protect the temple with your life.
+6. Thy shall protect the temple in your death. 
+            
+                      
+And the sacred words are : 
+"Zinzanna"
+"monica fruht"
+"ahuva adar"
+These words are the {GKEY {xto my treasure.
+~
+E
+commandments~
+These are your Commandments!!! Follow them with FEAR!
+            
+1. Thy Shall not murder!
+2. Thy Shall not steal!
+3. Thy Shall not worship other gods!
+4. Thy Shall follow you god's orders blindly.
+5. Thy Shall protect the temple with your life.
+6. Thy shall protect the temple in your death. 
+            
+                      
+And the sacred words are : 
+"Zinzanna"
+"monica fruht"
+"ahuva adar"
+These words are the {GKEY {xto my treasure.
+~
+D0
+~
+~
+0 -1 17706
+D1
+~
+~
+0 -1 17702
+S
+#17706
+The Confession Room~
+In this room, worshippers confessed to a head priest about past wrongs
+and actions.  Usually, their lives were ended here.  The room is now haunted
+by past victims.  The room lies in shambles with papers scattered
+everywhere.  Pools of dried blood decorate the room.  
+~
+0 9 0
+D0
+~
+~
+3 0 17769
+D2
+~
+~
+0 -1 17705
+D3
+~
+~
+1 0 17767
+S
+#17707
+The Stairway~
+This is a rather small room, dominated by two large stairways.  One
+leading up and the other going down.
+~
+0 9 0
+D2
+~
+~
+0 -1 17702
+D4
+~
+~
+0 -1 17709
+D5
+~
+~
+0 -1 17708
+S
+#17708
+The Cellar~
+This is a big underground cellar.  There is barely enough air as you
+begin to choke and gag from the horrible smell in the room.  Your leg bumps
+into something in the dark.  As you lean down and examine it, you see it is
+a rotting corpse.  To the north there is an even darker room.  
+~
+0 9 0
+D0
+Stone BIG door~
+door~
+1 17718 17710
+D4
+~
+~
+0 -1 17707
+S
+#17709
+The Stairway~
+You are standing on a landing of the stairway.  You can go up or
+down.  There is also an open window in the north wall.  There is a
+wooden ladder outside the window.
+~
+0 8 0
+D0
+~
+~
+0 0 17776
+D4
+~
+~
+0 -1 17722
+D5
+~
+~
+0 -1 17707
+S
+#17710
+The Prison~
+~
+0 9 0
+D0
+~
+~
+0 -1 17713
+D1
+~
+~
+0 -1 17711
+D2
+~
+~
+1 17718 17708
+D3
+~
+~
+0 -1 17712
+S
+#17711
+A Small Cell~
+The pile of decaying bodies in this cell, gives away the fact that
+it has been used frequently in the past.  The smell of rotten flesh
+almost over-powers you.
+~
+0 9 0
+D3
+~
+~
+0 -1 17710
+S
+#17712
+A Small Cell~
+This dusty cell could hold any prisoner for life.  By the look of 
+the rotting corpose on the ground, the cell did its job.
+~
+0 9 0
+D1
+~
+~
+0 -1 17710
+S
+#17713
+The Prison~
+As you step into another section of the prison, it occurs to you that
+the cells comprise a larger proportion of the shine than the altar
+does.  Exits lie to the north, south, east, and west.
+~
+0 9 0
+D0
+~
+~
+0 -1 17716
+D1
+~
+~
+0 -1 17714
+D2
+~
+~
+0 -1 17710
+D3
+~
+~
+0 -1 17715
+S
+#17714
+A Small Cell~
+This is yet another cell for holding religious prisoners.  Pieces of
+flesh and bone cling to the old rusty shackles embedded in the walls.
+The only exit lies to the west.
+~
+0 9 0
+D3
+~
+~
+0 -1 17713
+S
+#17715
+{DArie Dehri's Cell{x~
+This is the cell of Arie Dehri.  There are some writtings on the wall. 
+The whole room is filled with amulets and symbols.  There are pictures of
+many wierd people, named "The Rav Ovadia" and others.  
+~
+0 9 0
+E
+wall writtings~
+Hu Zakai!!!! Hu Zakai!!!!! Arie Dehri!!!! Hu Zakai!!!! Arie... Ohavim Otcha.. Ayyy Arie....
+
+HU ZAKAI!!!~
+D1
+~
+~
+0 -1 17713
+S
+#17716
+A Prison Eatery~
+This is a small room with some broken tables and chairs.  Here the
+prisoners would eat their disgusting meals.  There are still some
+remnants of food, but you probably shouldn't eat it.
+~
+0 8 0
+D2
+~
+~
+0 -1 17713
+S
+#17717
+Before a Minature Pyramid~
+You are standing before a pint-sized pyramid.  There is a stone door
+blocking the pyramid's entrance.  It appears just tall enough for
+you to enter without having to bend down.  Two sphinx statues guard
+the door, and one of them is holding a key.  A brass plaque is
+embedded above the doorway.
+~
+0 0 3
+E
+plaque~
+Burial site of the temple priests, enter at your own risk.
+~
+D0
+~
+~
+0 0 17777
+D1
+~
+~
+1 0 17718
+S
+#17718
+The Burial Chamber~
+You have entered the burial room.  It is very creepy in here.  The room
+makes your senses tingle, and is magically lit.  In the middle of the room
+lies the sarcophagus of an ancient priest.  You have heard stories of 
+treasures and gold found inside such chambers.  You can see so the
+south a bigger burial room.
+~
+0 8 0
+D1
+~
+~
+1 17724 17719
+D2
+~
+~
+0 -1 17720
+D3
+~
+~
+1 0 17717
+S
+#17719
+The Grand Gallery~
+You have found the Grand Gallery.  Inside there are several piles
+of gold and gems.  All for the priests to take with them into the 
+after-life.  The only exit lies to the west.
+~
+0 8 0
+D3
+~
+~
+1 17724 17718
+S
+#17720
+The High Priest's Burial Room~
+This burial chamber is filled with several corpses swathed in long
+white bandages.  On the walls are painted pictures in bright colors.
+There is a smaller burial chamber to the north and a door to the
+south.
+~
+0 8 0
+D0
+~
+~
+0 -1 17718
+D2
+~
+~
+1 17725 17753
+D5
+~
+~
+1 17724 17721
+S
+#17721
+Another secret room~
+This room is filled with treasures and riches from all over the world!  
+~
+0 8 0
+D4
+~
+~
+1 17724 17720
+S
+#17722
+The Stairway~
+You stand on the landing of the long staircase.  It continues up and
+down.  To the south is a large wooden door.  Etched in the door
+are the words, "Enter only those followers who are true of heart,
+clean of mind, and pure of soul."
+~
+0 8 0
+D2
+~
+~
+1 17725 17724
+D4
+~
+~
+0 0 17754
+D5
+~
+~
+0 -1 17709
+S
+#17723
+End of the Maze~
+You have finally reached the treasure room!  Looking east, you
+realize that this chamber was close to the stairway all along.  
+~
+0 12 0
+D1
+~
+~
+0 0 17722
+D3
+~
+~
+0 -1 17723
+S
+#17724
+{GMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D1
+~
+~
+0 0 17727
+D2
+~
+~
+0 0 17725
+D3
+~
+~
+0 -1 17728
+S
+#17725
+{BMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 -1 17745
+D1
+~
+~
+0 -1 17746
+D2
+~
+~
+0 0 17726
+D3
+~
+~
+0 0 17747
+S
+#17726
+{GMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 0 17743
+D1
+~
+~
+0 -1 17732
+D2
+~
+~
+0 -1 17726
+D3
+~
+~
+0 0 17728
+S
+#17727
+{BMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 -1 17728
+D3
+~
+~
+0 -1 17726
+S
+#17728
+{GMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 0 17732
+D1
+~
+~
+0 0 17731
+D2
+~
+~
+0 -1 17729
+D3
+~
+~
+0 -1 17730
+S
+#17729
+{BMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 -1 17744
+D1
+~
+~
+0 -1 17736
+D2
+~
+~
+0 0 17729
+D3
+~
+~
+0 0 17723
+S
+#17730
+{GMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 0 17734
+D1
+~
+~
+0 -1 17733
+D2
+~
+~
+0 -1 17736
+D3
+~
+~
+0 0 17735
+S
+#17731
+{BMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 0 17731
+D1
+~
+~
+0 -1 17732
+D2
+~
+~
+0 0 17731
+D3
+~
+~
+0 -1 17730
+S
+#17732
+{GMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 0 17732
+D1
+~
+~
+0 -1 17733
+D2
+~
+~
+0 0 17732
+D3
+~
+~
+0 -1 17731
+S
+#17733
+{BMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D2
+~
+~
+0 -1 17734
+D3
+~
+~
+0 -1 17732
+S
+#17734
+{GMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 -1 17733
+D3
+~
+~
+0 -1 17735
+S
+#17735
+{BMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 0 17737
+D1
+~
+~
+0 -1 17738
+D2
+~
+~
+0 0 17740
+D3
+~
+~
+0 -1 17739
+S
+#17736
+{GMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D1
+~
+~
+0 -1 17735
+D3
+~
+~
+0 -1 17737
+S
+#17737
+{BMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D1
+~
+~
+0 -1 17736
+D2
+~
+~
+0 -1 17738
+S
+#17738
+{GMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 -1 17737
+D2
+~
+~
+0 -1 17739
+S
+#17739
+{BMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 -1 17741
+D1
+~
+~
+0 0 17742
+D2
+~
+~
+0 -1 17744
+D3
+~
+~
+0 0 17743
+S
+#17740
+{GMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 -1 17739
+D2
+~
+~
+0 -1 17741
+S
+#17741
+{BMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 -1 17740
+D1
+~
+~
+0 -1 17742
+S
+#17742
+{GMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D1
+~
+~
+0 -1 17743
+D3
+~
+~
+0 -1 17741
+S
+#17743
+{BMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 -1 17745
+D1
+~
+~
+0 0 17746
+D2
+~
+~
+0 0 17723
+D3
+~
+~
+0 -1 17747
+S
+#17744
+{GMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 -1 17745
+D1
+~
+~
+0 0 17746
+D2
+~
+~
+0 -1 17723
+D3
+~
+~
+0 0 17747
+S
+#17745
+{BMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D1
+~
+~
+0 -1 17746
+D2
+~
+~
+0 -1 17744
+S
+#17746
+{GMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D2
+~
+~
+0 -1 17747
+D3
+~
+~
+0 -1 17745
+S
+#17747
+{BMaze{x~
+You are lost in a maze, desperately looking for a clue to the seven
+wands.
+~
+0 9 0
+D0
+~
+~
+0 -1 17746
+S
+#17748
+A {MTreasure{x Room~
+More huge chests fill this room, they can hold hundreds of thousands
+of dollars.  Another room full of chests lies to the West, and
+a large door is to the east.  A ladder on one side of the room
+leads up through an escape hatch in the ceiling.
+~
+0 8 0
+D1
+~
+~
+1 17726 17749
+D3
+~
+~
+0 -1 17758
+D4
+~
+~
+0 0 17760
+S
+#17749
+A {CTreasure{x Room~
+Barrels which could contain gems or jewelry line the walls.  Pictures
+of priests and holy relics hang on the walls, in ornate gold frames.
+Doors lie to the east and west, while a ladder leads up through a 
+hole in the ceiling.
+~
+0 8 0
+D1
+~
+~
+1 17728 17750
+D3
+~
+~
+1 17726 17748
+D4
+~
+~
+0 0 17762
+S
+#17750
+A {BTreasure{x Room~
+The treasure rooms continue through the lower level of the temple.
+You wonder how many victims were killed in order to fill the coffers
+of the cult's priests.  A door stands to the west, and another
+large room lies to the east.  A ladder along the southern wall leads
+up through a hole in the ceiling.  An old wooden door can barely be
+seen behind the barrels in the northern wall.
+~
+0 8 0
+E
+sign credit~
+This is credit sign the first credit is to "TORA" for help me with the
+Big and beautiful desc to the white dragon ...  Thanks tora the second
+credit is to "itay" for help me with some of the first rooms and obj... 
+Thanks itay ...  :) now ........  Play
+~
+D0
+~
+~
+1 0 17771
+D1
+~
+~
+0 -1 17751
+D3
+~
+~
+1 17728 17749
+D4
+~
+~
+0 0 17763
+S
+#17751
+A {GTreasure{x Room~
+More chests and barrels line the walls of this room.  Your mind
+boggles at the amount of wealth surrounding you.  There is no way
+a single man, or even a large group could haul all the wealth out
+of the room.  Other treasure rooms lie to the east and west, while
+a ladder rises up through the ceiling.
+~
+0 8 0
+D1
+~
+~
+0 -1 17752
+D3
+~
+~
+0 -1 17750
+D4
+~
+~
+0 0 17764
+D5
+~
+~
+4 17748 17772
+S
+#17752
+A {RTreasure{x Room~
+Large piles of what appears to be gold dust fill this room.  More
+treasure rooms lie to the east and west.  A ladder lead up through
+a hole in the ceiling.
+~
+0 8 0
+D1
+~
+~
+0 -1 17759
+D3
+~
+~
+0 -1 17751
+D4
+~
+~
+0 0 17765
+S
+#17753
+The Tomb Chapel~
+You can't really see anything here, the room is filled with a choking
+cloud of gas.  The only exit is to your north.
+~
+0 13 0
+D0
+~
+~
+1 17725 17720
+S
+#17754
+The Stairway~
+You are high in the tower of the temple, on a staircase landing.
+The stairway continues up and down.  A door with a sign in red marked
+"{RDANGER{X" lies to the south.
+~
+0 0 0
+D2
+~
+~
+1 0 17755
+D4
+~
+~
+0 0 17761
+D5
+~
+~
+0 0 17722
+S
+#17755
+Falling Down...~
+You suddendly find yourself falling down at an extreme speed in what
+appears to be a gigantic hole!!!  You tumble end over end in the air,
+falling downwards at an incredible speed.  Far below you, there is
+the glimmer of gold.
+~
+0 0 1
+D5
+~
+~
+0 0 17756
+S
+#17756
+Still Falling...~
+You are still falling.  All around you is darkness.  There is a
+horrible smell coming from the walls of this hole.  You hold your
+breath so as not to inhale the fetid air.  You fall deeper and 
+deeper...
+~
+0 9 0
+D5
+~
+~
+0 0 17757
+S
+#17757
+Falling...~
+You suddently spot some light coming from beneath you.  You begin
+shivering with fear as you suddendly understand that you fall is
+about to come to an abrupt end!  Heat wells up from below.
+~
+0 9 0
+D5
+~
+~
+0 0 17758
+S
+#17758
+A {YTreasure{x Room~
+The huge chests in this room would be perfect storage place for
+generations of gold and silver collected by the temple's rulers.
+The only exit lies to the east.
+~
+0 8 0
+D1
+~
+~
+0 -1 17748
+S
+#17759
+A {DTreasure{x Room~
+You have reached the end of the massive treasure room. Looking east
+you see a very familiar sight.  The treasure rooms continue to the
+west.  A ladder along the southern wall leads up through a narrow
+hole in the ceiling.
+~
+0 8200 0
+D1
+~
+~
+0 0 17701
+D3
+~
+~
+0 -1 17752
+D4
+~
+~
+0 0 17766
+S
+#17760
+In an Escape Hatch~
+You stand on the rungs of a ladder running through a narrow upward
+hole.  You feel like the walls are closing in.  You can continue upwards
+or go back down.
+~
+0 520 0
+D4
+~
+~
+0 0 17701
+D5
+~
+~
+0 0 17748
+S
+#17761
+The Top of the Temple Tower~
+You stand at the top of the temple tower.  You wonder if this room
+was far enough away from the altar to drown out the screams of the
+human sacrifices.  There is a staircase leading down toward to the
+main section of the temple.  A trap door is in the ceiling.
+~
+0 0 0
+D4
+~
+~
+1 0 17770
+D5
+~
+~
+0 0 17754
+S
+#17762
+In an Escape Hatch~
+You stand on the rungs of a ladder running through a narrow upward
+hole.  You feel like the walls are closing in.  You can continue upwards
+or go back down.
+~
+0 520 0
+D4
+~
+~
+0 0 17701
+D5
+~
+~
+0 0 17749
+S
+#17763
+In an Escape Hatch~
+You stand on the rungs of a ladder running through a narrow upward
+hole.  You feel like the walls are closing in.  You can continue upwards
+or go back down.
+~
+0 520 0
+D4
+~
+~
+0 0 17701
+D5
+~
+~
+0 0 17750
+S
+#17764
+In an Escape Hatch~
+You stand on the rungs of a ladder running through a narrow upward
+hole.  You feel like the walls are closing in.  You can continue upwards
+or go back down.
+~
+0 520 0
+D4
+~
+~
+0 0 17701
+D5
+~
+~
+0 0 17751
+S
+#17765
+In an Escape Hatch~
+You stand on the rungs of a ladder running through a narrow upward
+hole.  You feel like the walls are closing in.  You can continue upwards
+or go back down.
+~
+0 520 0
+D4
+~
+~
+0 0 17701
+D5
+~
+~
+0 0 17752
+S
+#17766
+strange room~
+~
+0 520 0
+D4
+~
+~
+0 0 17701
+D5
+~
+~
+0 0 17759
+S
+#17767
+An Old Vault~
+This vault contains evidence of all the horrors that have occured within
+the temple walls.  Boxes and trunks filled with blood-covered confessions,
+branding implements, and torture devices line the walls.  You feel a
+chill engulf your bones.
+~
+0 8 0
+D1
+~
+~
+1 0 17706
+D2
+~
+~
+1 0 17768
+S
+#17768
+Dead End~
+You have no idea what this room was original used for but it doesn't
+appear to have been entered for ages.  You bet it would be safe to sleep
+on the rags here until you regain your strength.
+~
+0 520 0
+D0
+~
+~
+1 0 17767
+S
+#17769
+An Abandoned Room~
+This room is very dark, and old.  It appears as if this room was sealed a
+long time ago, never to be seen again.  You can only wonder how there is
+still some air to breath here.  Amazingly, there is a woman standing in the
+room, aparently a magical being, created in order to remain in this place
+forever, serving the dark masters of the temple.
+~
+0 268435456 0
+D2
+~
+~
+3 0 17706
+S
+#17770
+Tower Roof~
+You stand on the roof of the tower.  Its provides an outstanding
+view of the area.  From this vantage point the temple looks peaceful,
+yet from a few below, hideous attrocities took place.
+~
+0 0 0
+D5
+~
+~
+1 0 17761
+S
+#17771
+A Caved In Study~
+This was an old study.  However, an earthquake or perhaps a dragon
+roar has caused the ceiling to collapse in on the room.  Shredded
+books, stone, and dust cover the floor.  The only visible exit is
+to the south.
+~
+0 8 0
+D2
+~
+~
+1 0 17750
+S
+#17772
+a dark corridor~
+You are inside a dark corridor, you have no idea where are you going. 
+Rumors of this old temple suggests that in the end of such long corridors
+lies a big treasure, one that has been called by the ancients, The Ring Of
+Shadows.  
+~
+0 0 0
+D3
+~
+~
+4 17762 17773
+D4
+~
+~
+4 0 17751
+S
+#17773
+A Dark Corridor~
+You are inside a dark corridor, you have no idea where are you going. 
+Rumors of this old temple suggests that in the end of such long corridors
+lies a big treasure, one that has been called by the ancients, The Ring Of
+Shadows.  
+~
+0 0 0
+D1
+~
+~
+4 0 17772
+D2
+~
+~
+4 17763 17774
+S
+#17774
+A Dark Corridor~
+You are inside a dark corridor, you have no idea where are you going. 
+Rumors of this old temple suggests that in the end of such long corridors
+lies a big treasure, one that has been called by the ancients, The Ring Of
+Shadows.  
+~
+0 0 0
+D0
+~
+~
+4 0 17773
+D4
+~
+~
+4 17765 17775
+S
+#17775
+The ancient treasure room~
+Here lies the great treasure room of of the ancients.  There are many
+golden pieces, gems and diamonds on the floor.  But you feel as if you
+should not touch those riches, a strange force prevents you from taking
+anything from the room, all except for one item, one item that no magic can
+enforce.  
+~
+0 0 0
+D5
+~
+~
+4 0 17774
+S
+#17776
+At the Top of the Ladder~
+You are balanced at the top of wooden ladder.  You wonder if any 
+of temple's worshippers ever used it to escape.  You can climb
+down the ladder to freedom or go north through an open window back
+into the temple.
+~
+0 1 3
+D2
+~
+~
+0 0 17709
+D5
+~
+~
+0 0 17778
+S
+#17777
+Along a Garden Path~
+You stand in the middle of a short garden path.  To the west lies
+the temple and to the south is a miniture pyramid.  Yon wonder what
+tiny structure is doing in the garden.  Tall rose bushes prevent
+any movement to the north or east.
+~
+0 1 3
+D2
+~
+~
+0 0 17717
+D3
+~
+~
+0 0 17778
+S
+#17778
+At the Bottom of a Ladder~
+You stand on a path in a little garden behind the temple.  A ladder
+rises above your head toward an open window in the shrine's tower.
+You can climb up the ladder or head east along a garden path.
+~
+0 1 3
+D1
+~
+~
+0 0 17777
+D4
+~
+~
+0 0 17776
+S
+#17779
+The Temple of the Seven Wands~
+You have stumble upon a clearing leading to the Temple of the
+Seven Wands.  Stories of the great wizards who created the wands 
+are written upon the stone walls leading toward the temple.
+The only exits lie to the north, west, and east.
+~
+0 0 3
+E
+stone~
+This is a story about a wizard. His name is unknown, so was the 
+source of his powers.  All that is known, is that along time ago, 
+this wizard was one of the top wizards that ever lived among the 
+seven seas.
+ 
+During the lifetime of this wizard, the Wands Council was formed,
+comprised of the 7 most powerful wizards in all the lands.  Each
+year these 7 wizards met at a convention.  Most of these conventions
+involved the training of new followers and the creation of new spells.
+However, during the period of the great Dragon War on Dominia, the
+wizard council sided with the dragons and aided their attacks. 
+ 
+Although the Wand Council was strong, the wizards realized that the 
+dragons needed an extremely powerful weapon if they were to defeat 
+Selina and rule the continent.  They therefore decided that each of
+the wizards in the council would create a special wand, each in a 
+different color, to aid the colored dragons.  Each wand would have
+a special power and would give its users a tremendous advantage in 
+their fights.
+ 
+However, the wizard (whose name has been lost in the annals of
+history) was a black-hearted scoundrel who didn't want dragon-
+rule, but wanted himself to rule all the land.  He stole all the
+magical wands and set up a temple in the deep forests of Dominia
+where zealots could follow, worship, and treat him like a god.
+ 
+The remaining six wizards became so enraged at the treachery, of 
+the other that the left off helping the dragons and focused on
+defeating the un-named wizard's temple.  Many great magical battles
+took place that eventually killed all the members of the Wand
+Council and scattered the seven wands throughout the temple.
+ 
+~
+D0
+~
+~
+0 0 17700
+D1
+~
+~
+0 0 31498
+D3
+~
+~
+0 0 10891
+S
+#17791
+Karmon's Room~
+~
+0 269000724 0
+D3
+~
+~
+1 0 17794
+S
+#17792
+Karmon's Room~
+~
+0 269000724 0
+D0
+~
+~
+1 0 17794
+S
+#17793
+Karmon's Room~
+~
+0 269000724 0
+D2
+~
+~
+1 0 17794
+S
+#17794
+Karmon's Practice Rooms~
+north to the Practice room (room)
+south to the Practice room (mobs)
+east to the Practice room (objs)
+~
+0 269000724 0
+D0
+~
+~
+1 0 17793
+D1
+~
+~
+1 0 17791
+D2
+~
+~
+1 0 17792
+D4
+~
+~
+1 0 17797
+S
+#17795
+Wedding Room~
+~
+0 269000724 0
+D1
+~
+~
+1 0 17797
+S
+#17796
+Test~
+~
+0 269004820 0
+S
+#17797
+Karmon's Portal Room~
+North to Fantasy Land
+South to the HELP Guild (Terra)
+East to the HELP Guild (Dominia)
+West to the Wedding Room
+Down to Karmon's Practice Room
+~
+0 269000724 0
+D0
+~
+~
+1 0 14500
+D1
+~
+~
+1 0 31193
+D2
+~
+~
+1 0 11138
+D3
+~
+~
+1 0 17795
+D4
+~
+~
+1 0 17798
+D5
+~
+~
+1 0 17794
+S
+#17798
+Karmon's Portal Room~
+South to Recall (Dominia)
+East to recall (Terra)
+North to Karmon's Room in Fantasy Land
+Up to the Seven Wands
+Down to other portal room
+~
+0 269000724 0
+D0
+~
+~
+1 0 14581
+D1
+~
+~
+0 0 3001
+D2
+~
+~
+1 0 31000
+D3
+~
+~
+1 0 17799
+D4
+~
+~
+1 0 17700
+D5
+~
+~
+1 0 17797
+S
+#17799
+{BK{Ca{Dr{Wm{Do{Cn{Bs {Gnew {Rroom{x~
+{x
+Welcome to {BK{Ca{Dr{Wm{Do{Cn{Bs {Gnew {Rroom{x
+The {Rlove{x room
+don't fight , don't be sad
+make peace , be happy , make love 
+~
+0 269000724 0
+D1
+~
+~
+1 17798 17798
+S
+#0
+
+
+
+#SPECIALS
+M 17704 spec_thief Load to: Arie Dehri
+M 17707 spec_cast_cleric Load to: the greater mummy
+M 17714 spec_breath_gas Load to: a {Ggreen{x worm
+M 17715 spec_breath_fire Load to: a {Rred{x worm
+M 17716 spec_breath_frost Load to: a {Wwhite{x worm
+M 17717 spec_breath_lightning Load to: a {Bblue{x worm
+M 17718 spec_breath_acid Load to: a {Dblack{x worm
+S
+
+
+
+#MOBPROGS
+#17794
+mob Transfer $N 17799
+~
+A
+#17707
+mob transfer $n 17799
+mtransfer $n 17799
+'say i don't think
+say i don't think
+~
+A
+#17706
+mob restore $n
+mrestore $n
+~
+A
+#17705
+mob transfer $n 17770
+~
+A
+#17704
+say say the magic word
+~
+A
+#17757
+sa I know you want to buy a map here. With one of my maps you can find your way to the end of the maze FAST!
+~
+A
+#17703
+load obj 17704
+wear white
+zap rat
+rem white
+drop white
+sac white
+smile
+':)
+~
+A
+#17702
+yell Help! Help! Help!
+yell Help! Help! Help!
+~
+A
+#17701
+say Don't you have your own home? What do you want from my home?
+~
+A
+#17700
+say you can enter only if you pass me!!!!!!
+~
+A
+#17799
+Say Hello.
+~
+A
+#17710
+say Go away from here! I won't say it again!
+mob kill $n
+~
+A
+#17711
+say {Di told you to go from here!!!{x
+~
+A
+#17712
+yell Help , Help!!!
+~
+A
+#17715
+say Pffffft Pffffft
+~
+A
+#17716
+grumble
+say Oh, what are you doing here? If you would like in just say the magic word.
+~
+A
+#17717
+sigh
+say Ok, if that's what you want. Go ahead and enter, but don't come crying back to me later.
+unlock north
+open north
+emote shows you the way into the prison.
+sa Come on, I don't have all day you know.
+~
+A
+#17718
+say Please give me a hand and buy something, won't ya?
+~
+A
+#17750
+yell ANI ZAKAI!!!
+say Help me please! Help me! They put me in the jail thinking I was a thief, but I am not a thief!
+yell I AM NOT A THIEF!!
+~
+A
+#17751
+~
+A
+#17754
+close north
+lock north
+~
+A
+#17788
+say Welcome to my small shop!
+say Would you like to buy some recall crystals?
+~
+A
+#17780
+say A , B , C , D ... what now????
+~
+A
+#17781
+sa .. Hello . . . ?
+~
+A
+#17782
+say dam , tea , dam ,tea , dam dam dam...
+~
+A
+#17783
+say Shooooooooooooooo
+~
+A
+#17784
+say I Am cow!!!   MOOOOOO MOOOOOO MOOOOOO!!!!
+~
+A
+#17785
+say I love you
+hug $N
+say i love myself
+hug boy
+~
+A
+#17786
+sa Yeah! You are good!
+give 5 gold $n
+emote slowly wanders away.
+mob goto 17799
+mob purge $i
+~
+A
+#17796
+~
+A
+#17745
+close up
+lock up
+~
+A
+#17708
+mob transfer $n 17769
+~
+A
+#17709
+mob transfer $n 17771
+~
+A
+#17713
+mob transfer $n 17772
+~
+A
+#0
+
+#RESETS
+D 0 17706 0 2
+D 0 17706 3 2
+D 0 17708 0 2
+D 0 17710 2 2
+D 0 17717 1 1
+D 0 17718 1 2
+D 0 17718 3 1
+D 0 17719 3 2
+D 0 17720 2 2
+D 0 17720 5 2
+D 0 17721 4 2
+D 0 17722 2 2
+D 0 17748 1 2
+D 0 17749 1 2
+D 0 17749 3 2
+D 0 17750 0 1
+D 0 17750 3 2
+D 0 17751 5 2
+D 0 17753 0 2
+D 0 17754 2 1
+D 0 17761 4 1
+D 0 17767 1 2
+D 0 17767 2 1
+D 0 17768 0 1
+D 0 17769 2 2
+D 0 17770 5 1
+D 0 17771 2 1
+D 0 17772 3 2
+D 0 17772 4 2
+D 0 17773 1 2
+D 0 17773 2 2
+D 0 17774 0 2
+D 0 17774 4 2
+D 0 17775 5 2
+D 0 17798 3 2
+D 0 17799 1 2
+M 1 17700 2 17701 2
+M 1 17700 2 17701 2
+M 1 17709 1 17701 1
+G 0 17727 0
+M 1 17711 2 17702 2
+M 1 17711 2 17702 2
+M 1 17723 1 17702 1
+O 0 17707 0 17703
+M 1 17712 1 17703 1
+P 0 17700 1 17707 1
+M 1 17762 1 17703 1
+E 0 17766 0 17
+M 1 17701 1 17704 1
+E 0 17708 0 11
+E 0 17709 0 16
+M 1 17701 1 17704 1
+E 0 17708 0 11
+E 0 17709 0 16
+M 1 17701 1 17704 1
+E 0 17708 0 11
+E 0 17709 0 16
+M 1 17711 1 17705 1
+M 1 17797 2 17706 2
+M 1 17797 2 17706 2
+E 0 17701 0 17
+M 1 17702 3 17706 3
+E 0 17710 0 1
+M 1 17711 2 17706 2
+M 1 17711 2 17706 2
+M 1 17712 1 17706 1
+M 1 17712 3 17707 3
+M 1 17712 3 17707 3
+M 1 17712 3 17707 3
+M 1 17709 1 17707 1
+M 1 17710 1 17708 1
+G 0 17718 0
+M 1 17721 1 17709 1
+G 0 17736 0
+G 0 17737 0
+G 0 17738 0
+M 1 17703 3 17711 1
+M 1 17703 3 17712 1
+M 1 17730 1 17713 1
+M 1 17703 3 17714 1
+G 0 17711 0
+M 1 17704 1 17715 1
+E 0 17712 0 6
+M 1 17711 3 17715 3
+M 1 17711 3 17715 3
+M 1 17711 3 17715 3
+O 0 17713 0 17716
+O 0 17714 0 17716
+O 0 17715 0 17716
+M 1 17700 1 17716 1
+M 1 17712 1 17716 1
+M 1 17705 2 17717 2
+G 0 17723 0
+M 1 17705 2 17717 2
+G 0 17717 0
+M 1 17706 1 17718 1
+O 0 17719 0 17718
+P 0 17720 1 17719 1
+P 0 17765 1 17719 1
+O 0 17702 0 17719
+M 1 17712 1 17719 1
+M 1 17707 1 17720 1
+G 0 17703 0
+G 0 17724 0
+M 1 17711 7 17721 7
+M 1 17711 7 17721 7
+M 1 17711 7 17721 7
+M 1 17711 7 17721 7
+M 1 17711 7 17721 7
+M 1 17711 7 17721 7
+M 1 17711 7 17721 7
+M 1 17702 1 17721 1
+O 0 17733 0 17721
+O 0 17730 0 17721
+M 1 17713 3 17722 3
+M 1 17713 3 17722 3
+G 0 17704 0
+M 1 17713 3 17722 3
+E 0 17725 0 0
+M 1 17732 1 17722 1
+G 0 17761 0
+O 0 17704 0 17723
+M 1 17712 2 17723 2
+M 1 17712 2 17723 2
+O 0 17703 0 17723
+M 1 17712 1 17724 1
+M 1 17709 1 17724 1
+M 1 17709 1 17724 1
+M 1 17726 1 17724 1
+G 0 17716 0
+G 0 17787 0
+M 1 17709 1 17726 1
+M 1 17700 1 17727 1
+M 1 17711 1 17727 1
+M 1 17711 1 17728 1
+M 1 17711 1 17729 1
+M 1 17712 1 17730 1
+M 1 17700 1 17731 1
+M 1 17712 1 17732 1
+M 1 17712 1 17737 1
+M 1 17700 1 17740 1
+M 1 17714 4 17748 4
+G 0 17726 0
+M 1 17714 4 17748 4
+E 0 17732 0 1
+G 0 17720 0
+E 0 17733 0 17
+M 1 17714 4 17748 4
+E 0 17721 0 17
+G 0 17720 0
+M 1 17715 3 17749 3
+E 0 17733 0 17
+G 0 17734 0
+G 0 17728 0
+M 1 17715 3 17749 3
+M 1 17715 3 17749 3
+E 0 17706 0 17
+M 1 17730 1 17749 1
+M 1 17716 5 17750 5
+M 1 17716 5 17750 5
+M 1 17716 5 17750 5
+M 1 17716 5 17750 5
+M 1 17716 5 17750 5
+E 0 17729 0 4
+M 1 17717 2 17751 2
+E 0 17705 0 17
+M 1 17717 2 17751 2
+M 1 17718 4 17752 4
+M 1 17718 4 17752 4
+M 1 17718 4 17752 4
+E 0 17702 0 17
+M 1 17718 4 17752 4
+M 1 17730 1 17752 1
+O 0 17704 0 17753
+M 1 17727 1 17754 1
+M 1 17728 1 17755 1
+M 1 17729 1 17756 1
+M 1 17730 1 17757 1
+O 0 17734 0 17758
+O 0 17733 0 17758
+O 0 17731 0 17758
+O 0 17735 0 17759
+M 1 17731 5 17760 1
+E 0 17755 0 0
+M 1 17722 1 17761 1
+G 0 17739 0
+G 0 17740 0
+G 0 17741 0
+G 0 17742 0
+G 0 17743 0
+G 0 17744 0
+G 0 17745 0
+G 0 17746 0
+G 0 17747 0
+E 0 17764 0 6
+M 1 17731 5 17762 1
+E 0 17756 0 0
+M 1 17731 5 17763 1
+E 0 17757 0 0
+M 1 17731 5 17764 1
+E 0 17756 0 0
+M 1 17731 5 17765 1
+E 0 17757 0 0
+M 1 17731 1 17766 1
+E 0 17755 0 10
+O 0 17722 0 17767
+O 0 17749 0 17768
+M 1 17770 1 17769 1
+E 0 17748 0 0
+O 0 17762 0 17770
+O 0 17763 0 17771
+O 0 17758 0 17775
+O 0 17759 0 17775
+M 1 17720 1 17799 1
+O 0 17760 0 17799
+M 1 17761 1 17799 1
+G 0 17750 0
+G 0 17751 0
+G 0 17799 0
+G 0 17733 0
+G 0 3009 0
+G 0 17798 0
+O 0 17799 0 17799
+S
+
+
+
+#SHOPS
+17721 5 33 3 2 0 120 25 0 24
+17722 36 0 0 0 0 200 50 0 24
+17732 0 0 0 0 100 100 100 0 24
+17761 0 0 0 0 0 100 100 1 24
+0
+
+
+
+#$

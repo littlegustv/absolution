@@ -1,0 +1,7299 @@
+#AREADATA
+Name Terran Mud School~
+Builders None~
+VNUMs 17000 17199
+Credits { 1 10} Anderyn    Terran Mud School~
+Security 9
+Xcontinent 0
+Age 0
+Questable 1
+End
+
+
+
+#MOBILES
+#17000
+recruiting recruiter officer bosco derrin~
+Derrin, {BB{Wo{Bs{Wc{Bo{W's{x recruiting officer~
+A recruiting officer for the military academy stands here smiling at you.
+~
+He wears the uniform of bosco's military and seems quite happy to help
+you.  If you need a Bosco Guide to Redemption, just type {RBuy Book{x and
+for 50 silver he will sell you one.  
+~
+human~
+ABGJKVab D 1000 0
+50 -3 50d10+4500 1d1+99 5d8+19 none
+-20 -20 -20 -20
+0 ABCRZ 0 0
+stand stand male 100
+AHMV ABCDEFGHIJKX medium 0 the guilds~
+M grall 17000 100~
+#17001
+dummy combat mob monster~
+a combat test dummy~
+A straw and wooden dummy dressed like a soldier looks ready to take a beating.
+~
+This dummy looks like it's been through a lot of abuse.  
+~
+doll~
+ABG 0 0 0
+1 0 1d4+8 1d1+99 1d2+0 beating
+9 9 9 9
+0 B EILMNPQRS O
+stand stand none 50
+EJMc ABCDEFGHK medium 0 the guilds~
+#17002
+secretary receptionist woman~
+a pretty secretary~
+A pretty young woman sits here working on tons of paperwork.
+~
+A pretty blonde girl, who kinda reminds you of a very harsh babysitter.  
+~
+human~
+ABGJKVa DHJN 1000 0
+1 0 2d6+10 1d1+99 1d4+0 divine
+9 9 9 9
+E AB 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 17002 100~
+#17003
+cleric guildmaster holy woman priestess~
+the cleric guildmaster~
+A priestess stands here singing songs of prayer to teach the youth.
+~
+A beautiful robed priestess with symbols of every god save for selina on
+her robe.  She seems quite capable of providing {RTraining, Gains,{x or
+{RPractice.  {x 
+~
+human~
+ABGJKab H 1000 0
+51 0 50d10+5000 1d1+99 5d8+20 divine
+-21 -21 -21 -21
+0 AB 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17004
+dummy combat wimpy~
+a wimpy combat test dummy~
+A straw and wooden dummy dressed like a soldier looks ready to take a beating.
+~
+This dummy looks like it's been through a lot of abuse.  
+~
+doll~
+ABGH 0 0 0
+1 0 1d4+8 1d1+99 1d2+0 beating
+9 9 9 9
+0 0 EILMNPQRS O
+stand stand none 50
+EJMc ABCDEFGHK medium 0 the guilds~
+#17005
+combat test dummy aggressive~
+an aggressive combat dummy~
+A straw and wooden dummy dressed like a soilder looks ready to take a beating.
+~
+This dummy looks like it's been through alot of abuse.  
+~
+doll~
+ABFG 0 0 0
+1 0 1d4+8 1d1+99 1d2+0 beating
+9 9 9 9
+0 0 EILMNPQRS O
+stand stand none 50
+EJMc ABCGHK medium 0 the guilds~
+#17006
+bandit newbie mob monster cloak armed individual~
+a Newbie Bandit~
+A cloaked individual is skulking in a corner, ready to pounce.
+~
+This bandit actually seems to be working for the military school to drill
+newbies on combat.  
+~
+human~
+ABFG PQ -750 0
+2 0 1d6+29 1d1+99 1d4+0 punch
+8 8 8 8
+0 0 0 0
+stand stand either 15
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17007
+deer mob monster~
+a peaceful deer~
+A beautiful deer stands here, grazing on berries and grass.
+~
+This lovely brown and white deer seems to have been branded by the
+Military Academy for use in the obstacle course.  
+~
+wolf~
+ABCG Z 0 0
+2 0 2d7+21 1d1+99 1d5+0 pierce
+8 8 8 8
+FH 0 0 0
+stand stand none 0
+AGV ACDEFJKQV medium 0 the guilds~
+#17008
+oyster small newbie mob monster~
+a small oyster~
+A fresh water oyster lies here waiting for something.
+~
+This oyster is rather large in comparison to most and seems quite capable
+of defending itself.  
+~
+water fowl~
+ABG T 0 0
+2 0 2d7+21 1d1+99 1d5+0 slash
+8 8 8 8
+0 R R 0
+stand stand none 0
+AGW ACDEFHKP medium 0 the guilds~
+#17009
+cage human mob~
+a caged human~
+A caged human is sitting in the corner looking sulky.
+~
+This human was given to the Military Academy to pay for his crimes
+against Bosco.  
+~
+human~
+ABG 0 0 0
+3 0 2d6+35 1d1+99 1d6+0 pound
+7 7 7 7
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17010
+cage elf mob~
+a caged elf~
+A caged elf sits in the corner looking bored.
+~
+This elf was given to the Military Academy to pay for his crimes
+against Bosco.
+~
+elf~
+ABG J 0 0
+3 0 2d6+35 1d1+99 1d6+0 pound
+7 7 7 7
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17011
+dwarf cage mob~
+a caged dwarf~
+A caged dwarf seems to be trying to escape from the cage that traps him.
+~
+This dwarf was given to the Military Academy to pay for his crimes
+against Bosco.
+~
+dwarf~
+ABG J 0 0
+3 0 2d6+35 1d1+99 1d6+0 pound
+7 7 7 7
+0 0 LQ R
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17012
+giant cage mob~
+a caged giant~
+Someone has stuffed this poor giant into a cage far too small for him.
+~
+This giant was given to the Military Academy to pay for his crimes
+against Bosco.
+~
+giant~
+ABG 0 0 0
+3 0 2d6+35 1d1+99 1d6+0 crush
+7 7 7 7
+0 0 HI J
+stand stand none 0
+AHMV ABCDEFGHIJK large 0 the guilds~
+#17013
+caged hatchling dragon mob~
+a caged hatchling~
+A small hatchling has been trapped in a cage, not old enough to even have its color.
+~
+This hatchling was given to the Military Academy to pay for his crimes
+against Bosco.
+~
+hatchling~
+ABG J 0 0
+3 0 2d6+35 1d1+99 1d6+0 slash
+7 7 7 7
+0 0 B 0
+stand stand none 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#17014
+caged troll mob~
+a caged troll~
+A horrible smell seems to be coming from the caged troll in the corner.
+~
+This troll was given to the Military Academy to pay for his crimes
+against Bosco.  
+~
+troll~
+ABG J 0 0
+3 0 2d6+35 1d1+99 1d6+0 punch
+7 7 7 7
+0 0 Q H
+stand stand none 0
+BHMZ ABCDEFGHIJKLQUVWX medium 0 the guilds~
+#17015
+caged gargoyle mob statue~
+a caged gargoyle~
+Someone has apparently put a statue in a cage.
+~
+This gargoyle was given to the Military Academy to pay for his crimes
+against Bosco.
+~
+gargoyle~
+ABG JT 0 0
+3 0 2d6+35 1d1+99 1d6+0 punch
+7 7 7 7
+0 0 0 LQ
+stand stand none 0
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#17016
+caged kirre kitty six~
+a caged kirre~
+A strange six legged kitty is sitting looking quite pissed off in a cage.
+~
+This kirre was given to the Military Academy to pay for his crimes
+against Bosco.
+~
+kirre~
+ABG J 0 0
+3 0 2d6+35 1d1+99 1d6+0 slash
+7 7 7 7
+0 0 J I
+stand stand none 0
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#17017
+caged marid aquarium woman mob~
+a caged marid~
+A large aquarium seems to be holding a beautiful bluish skinned woman.
+~
+This marid was given to the Military Academy to pay for his crimes
+against Bosco.
+~
+marid~
+ABG GY 0 0
+3 0 2d6+35 1d1+99 1d6+0 pound
+7 7 7 7
+0 0 HR J
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17018
+caged sliver mob~
+a caged sliver~
+Someone has managed to trap a live sliver and place it in a cage.
+~
+This sliver was given to the Military Academy to pay for his crimes
+against Bosco.
+~
+sliver~
+ABG 0 0 0
+3 0 2d6+35 1d1+99 1d6+0 stab
+7 7 7 7
+0 0 B K
+stand stand none 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#17019
+guildmaster warrior~
+The Warrior Guildmaster~
+The guildmaster of the warriors guild is here to help!
+~
+A rugged looking warrior looks like he was once quite fierce in his
+youth.  The tattoo of Kindred on his shoulder would vouch for that.  He
+seems quite capable of providing {RTraining, Gains, {xor{R Practice.  {x 
+~
+human~
+ABGJKab H 1000 0
+51 0 50d10+5000 1d1+99 5d8+20 punch
+-21 -21 -21 -21
+0 AB 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17020
+thief guildmaster man~
+The Thieves Guildmaster~
+A very bored looking man leans against the wall, and looks ready to educate!
+~
+This rogue looks like hes adventured for far too long.  He seems to have
+several wounds to prove it.  He seems quite capable of providing {RTraining,
+Gains, {xor{R Practice.  {x 
+~
+human~
+ABGJKab H -1000 0
+51 0 50d10+5000 1d1+99 5d8+20 punch
+-21 -21 -21 -21
+0 AB 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17021
+weaponmaster store shop~
+the weaponmaster~
+The weaponmaster is trying to sell you a weapon!
+~
+This is a shopkeeper.  There are many shopkeepers in redemption.  They
+can buy your old equipment and sell you new stuff.  This one sells and buys
+weapons.  
+To see his inventory, type {RList{x
+To buy an item, type {Rbuy <item>{x
+to sell an item to him, type {Rsell <item>{x
+~
+human~
+ABG H 1000 0
+51 0 50d10+5000 1d1+99 5d8+20 divine
+-21 -21 -21 -21
+0 AB 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17022
+thief store william shop man shady~
+william, the pawn broker~
+A shady looking man sits behind a little window asking if you'd like to buy something.
+~
+William is a shadey looking pawn broker.  He buys and sells armor,
+jewelry, gems, and pills.  
+~
+human~
+ABG 0 -500 0
+5 0 2d6+60 1d1+99 1d6+1 divine
+5 5 5 5
+0 AB 0 0
+stand stand female 100000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17023
+rebel newbie cadet~
+a rebel cadet~
+It appears this cadet doesn't want to be a cadet anymore.
+~
+A young cadet just like you.  Unlike you, this one is looking to escape.  
+~
+human~
+ABCG 0 0 0
+3 0 2d6+35 1d1+99 1d6+0 pound
+7 7 7 7
+0 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17024
+elven fisherman~
+an elven fisherman~
+A young elven woman is trying to fish with a bow.
+~
+She is a drop dead gorgeous woman.  Rather young and fair skinned, but
+obviously a little ditsy.  
+~
+elf~
+ABG J 0 0
+3 0 2d6+35 1d1+99 1d6+0 slap
+7 7 7 7
+0 0 B Z
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17025
+dwarf dwarven rock climber~
+a dwarven rock climber~
+A rugged looking dwarf is climbing up the mountain side.
+~
+He appears to be attempting to reach the peak of this fake mountain.  It
+looks like hes almost there.  
+~
+dwarf~
+ABG J 0 0
+3 -1 2d6+35 1d1+99 1d6+0 smash
+7 7 7 7
+0 0 LQ R
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17026
+ooze green pudding blob~
+a puddle of green ooze~
+A puddle of green ooze floats around with some remains of a poor adventurer in it.
+~
+Its a puddle of green goo.  What more do you want?  
+~
+school monster~
+ABFGU Id 0 0
+3 0 2d6+35 1d1+99 1d6+0 acbite
+7 7 7 7
+C AB 0 C
+stand stand none 100
+ABMSV ABCDEFHJKQU medium 0 the guilds~
+#17027
+squire lost~
+a lost squire~
+A lost looking squire is sitting in the hills looking sad.
+~
+This squire seems to have misplaced his knight.  Could you help him?  
+~
+human~
+ABG 0 0 0
+3 0 2d6+35 1d1+99 1d6+0 punch
+7 7 7 7
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17028
+kirre assassin sneak~
+a kirre assassin~
+A kirre dressed in black lunges out from the sand!
+~
+This assassin has been sent for you!  Someone must not want Bosco to have
+new recruits...  
+~
+kirre~
+ABFGS J 0 0
+3 0 2d6+35 1d1+99 1d6+0 claw
+7 7 7 7
+BN 0 J I
+stand stand male 150
+AGHMV ABCDEFGHIJKQ medium 0 the guilds~
+#17029
+mage guildmaster~
+the mages guildmaster~
+The mages guildmaster sits here teaching from some heavy tomes.
+~
+A woman dressed all in red is drawling on about various magical spells
+and incantations.  She seems quite capable of providing {RTraining, Gains,
+{xor{R Practice.  {x 
+~
+human~
+ABGJKVab H 1000 0
+51 0 50d10+5000 1d1+99 5d8+20 divine
+-21 -21 -21 -21
+0 AB 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17030
+newbie ranger mob~
+a newbie ranger~
+A novice ranger stands here ready for a good fight.
+~
+This novice ranger looks like he has very little experience.  However he
+looks willing to fight with you.  
+~
+human~
+ABG 0 0 0
+3 0 2d6+35 1d1+99 1d6+0 slash
+7 7 7 7
+EN 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17031
+newbie warrior mob cadet~
+a newbie warrior~
+A warrior cadet is looking for a good fight.
+~
+This novice warrior looks like he has very little experience.  However he
+looks willing to fight with you.  
+~
+human~
+ABGT 0 0 0
+3 0 2d6+35 1d1+99 1d6+0 punch
+7 7 7 7
+C 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17032
+newbie paladin mob~
+a newbie paladin~
+A young paladin is praying for his next victory in battle.
+~
+This novice paladin looks like he has very little experience.  However he
+looks willing to fight with you.  
+~
+human~
+ABGT 0 0 0
+3 -3 2d6+35 1d1+99 1d6+0 divine
+7 7 7 7
+EL 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17033
+newbie runist mob~
+a newbie runist~
+A young runist is painting runes on a nearby wall.
+~
+This runist is practicing painting.  They appear however to want a break
+from it.  
+~
+human~
+ABGS 0 0 0
+3 0 2d6+35 1d1+99 1d6+0 pierce
+7 7 7 7
+J 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17034
+newbie thief mob~
+a newbie thief~
+A novice thief is practicing backstab on a dummy.
+~
+This individual appears to be practicing their thieving skills.  Why not
+give them a chance to practice combat as well?  
+~
+human~
+ABGS 0 0 0
+3 0 2d6+35 1d1+99 1d6+0 pierce
+7 7 7 7
+B 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17035
+sneak thief pickpocket mob person~
+a sneak thief~
+A shadowy sneak thief is trying to pick your pocket!
+~
+This thief sethems more interested in stealing then practicing their
+skills.  You should probably teach em a lesson.  
+~
+human~
+ABGS PQ 0 0
+3 0 2d6+35 1d1+99 1d6+0 pierce
+7 7 7 7
+B 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17036
+enchanter newbie mage mob~
+a newbie enchanter~
+An apprentice enchanter is attempting to charm a small rodent.
+~
+This enchanter looks like they are studying hard.  Why not give them a
+break?  
+~
+human~
+ABGR 0 0 0
+3 0 2d6+35 1d1+99 1d6+0 punch
+7 7 7 7
+0 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17037
+conjurer newbie apprentice mob~
+a newbie conjurer~
+A young conjurer appears to be trying to feed a small sparrow.
+~
+This conjurer looks like they are studying hard.  Why not give them a
+break?  
+~
+human~
+ABGR 0 0 0
+3 0 2d6+35 1d1+99 1d6+0 punch
+7 7 7 7
+0 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17038
+invoker newbie apprentice mob~
+a newbie invoker~
+An apprentice invoker is studying a book of dark arcane arts.
+~
+This invoker looks like they are studying hard.  Why not give them a
+break?  
+~
+human~
+ABGO 0 0 0
+3 0 2d6+35 1d1+99 1d6+0 punch
+7 7 7 7
+0 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17039
+newbie druid mob~
+a newbie druid~
+A young druid is planting a small garden in the corner.
+~
+This druid is hard at work planting seeds.  They look like they need to
+get away for a bit.  
+~
+human~
+ABGQ 0 0 0
+3 0 2d6+35 1d1+99 1d6+0 whip
+7 7 7 7
+0 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17040
+cleric newbie mob~
+a newbie cleric~
+A cleric is praying diligently for guidance.
+~
+This priest looks like they could show you a thing or two about religions.  
+~
+human~
+ABGQ 0 0 0
+3 0 2d6+35 1d1+99 1d6+0 divine
+7 7 7 7
+0 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17041
+newbie monk mob~
+a newbie monk~
+An apprentice monk is meditating quietly.
+~
+The monk looks ready for a good fight.  
+~
+human~
+ABG 0 0 0
+3 -3 2d6+35 1d1+99 1d6+0 punch
+7 7 7 7
+I 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17042
+legendary snail giant gigantic~
+a legendary giant {gsnail{x~
+A gigantic snail sits purring happily in a corner.
+~
+This is a legendary creature.  There are many around Terra and Dominia,
+but they are not usually fightable until you reach level 51.  However they
+tend to hold powerful equipment so they are well worth the risk.  
+~
+school monster~
+ABEGU DHIJT 0 0
+10 3 2d7+500 1d1+99 1d8+0 slime
+1 1 1 1
+ANO AB 0 C
+stand stand none 1000
+AMV ABCDEFHJKQU huge 0 the guilds~
+#17043
+commander bosco military dragon ghal~
+Ghal, Bosco's military commander~
+A stern looking dragon stands before you, ready to give you orders.
+~
+A large red dragon that looks like he will breathe fire if you don't
+listen to his orders.
+~
+red dragon~
+ABGVa DHJT 1000 0
+51 0 50d10+5000 1d1+99 5d8+20 divine
+-21 -21 -21 -21
+0 AB BEH I
+stand stand male 10000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#17044
+human soldier bosco~
+a human soldier~
+A battered looking human wearing the crest of Bosco stands waiting for battle.
+~
+This human looks like he's been through quite a few battles.  He does
+however look ready for more.  
+~
+human~
+ACGT 0 500 0
+3 -1 2d6+35 1d1+99 1d6+0 pound
+7 7 7 7
+CRS 0 0 0
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17045
+elven soldier bosco~
+an elven soldier~
+This elven soldier is watching over the gate to prevent invaders from slipping in.
+~
+This elf seems to be waiting for a target to come into view.  They bear
+the crest of bosco.  
+~
+elf~
+ABGT J 500 0
+4 0 2d7+46 1d1+99 1d5+1 slap
+6 6 6 6
+NR 0 B Z
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17046
+dwarf dwarven soldier~
+a dwarven soldier~
+A sturdy looking dwarf is keeping an eye on things.
+~
+This hardy dwarf hails from the mountain and seems ready to defend
+Bosco's honor.  He wears the crest of Bosco.  
+~
+dwarf~
+AGT J 500 0
+5 -2 2d6+60 1d1+99 1d6+1 smash
+5 5 5 5
+ERST 0 LQ R
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17047
+giant soldier man huge sentry~
+a giant soldier~
+A huge man stands sentry on the tower, ready to throw boulders at the attacking armies.
+~
+This giant man looks quite battle hardened.  He wears the crest of Bosco.  
+~
+giant~
+ABGT 0 500 0
+6 -1 2d7+71 1d1+99 1d7+1 smash
+4 4 4 4
+CORT 0 HI J
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17048
+young dragon soldier~
+a dragon soldier~
+A young dragon stands sentry guarding the gate from intruders.
+~
+This strong looking dragon looks like they are ready for battle.  They
+bear the crest of Bosco.  
+~
+green dragon~
+ABGT JTZ 500 0
+7 -2 2d6+85 1d1+99 1d8+1 slash
+4 4 4 4
+CMQT 0 BEKL J
+stand stand either 100
+ABHMVZ ABCDEFGHIJKLPQUVWX large 0 the guilds~
+#17049
+pete armorer shop keeper~
+Peter the keeper of arms~
+Peter, the keeper of arms stands ready to equip you or purchase your used armor.
+~
+This shopkeeper deals in armor and clothing and nothing else.  Use the
+buy, sell, and list commands like with all shops.  He wears the crest of
+Bosco.  
+~
+dwarf~
+ABGV J 1000 0
+14 0 2d10+190 1d1+99 1d12+3 divine
+-1 -1 -1 -1
+0 AB LQ R
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17050
+John shop keeper weapon human~
+John the weaponsmith~
+John the weaponsmith is here to supply you with weapons.
+~
+This shopkeeper deals in weapons and nothing else.  Use the buy, sell, and
+list commands like with all shops.  He wears the crest of Bosco.  
+~
+human~
+ABG 0 1000 0
+15 0 3d9+208 1d1+99 2d6+3 divine
+-2 -2 -2 -2
+0 AB 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17051
+jessica alchemist shop keeper~
+Jessica the alchemist~
+Jessica is here to provide you with magical goods, for a price.
+~
+This shopkeeper deals in magic items (potions, scrolls, pills.  Wands,
+and staffs) and nothing but.  Use the buy, sell, and list commands like with
+all shops.  She wears the crest of Bosco.  
+~
+elf~
+ABG J 1000 0
+15 0 3d9+208 1d1+99 2d6+3 divine
+-2 -2 -2 -2
+0 AB B Z
+stand stand female 100000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17052
+william supply keeper shop~
+Walter the supply dealer~
+William is here to supply you with general goods.
+~
+This shopkeeper deals in general supplies.  Use the buy, sell, and list
+commands like with all shops.  He wears the crest of Bosco.  
+~
+human~
+ABG 0 1000 0
+15 0 3d9+208 1d1+99 2d6+3 divine
+-2 -2 -2 -2
+0 AB 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17053
+troll scout sneaky little~
+a troll scout~
+A sneaky little troll scout is here checking out the defenses.
+~
+This little troll looks like he doesn't want to fight.  He wears the
+crest of selina.  
+~
+troll~
+ACGHS JP 0 0
+3 0 2d6+35 1d1+99 1d6+0 stab
+7 7 7 7
+0 0 Q H
+stand stand either 100
+BHMZ ABCDEFGHIJKLQUVWX medium 0 the guilds~
+#17054
+troll pikemen massive~
+a troll pikemen~
+A massive troll stands here holding the line.
+~
+This troll isn't gonna let you pass without a fight.  They wear the crest
+of Selina.  
+~
+troll~
+ABGT J 0 0
+4 -1 2d7+46 1d1+99 1d5+1 pierce
+6 6 6 6
+0 0 Q H
+stand stand either 100
+BHMZ ABCDEFGHIJKLQUVWX medium 0 the guilds~
+#17055
+troll archer~
+a troll archer~
+A troll archer stands here waiting for the signal to attack.
+~
+This archer looks well trained and ready for action.  They wear the crest
+of Selina.  
+~
+troll~
+ABGT J 0 0
+5 -2 2d6+60 1d1+99 1d6+1 pierce
+5 5 5 5
+F 0 Q H
+stand stand either 100
+BHMZ ABCDEFGHIJKLQUVWX medium 0 the guilds~
+#17056
+troll axemen buff~
+a troll axemen~
+A buff troll wanders around, looking for a skull to plant his axe in.
+~
+This troll isn't playing games, he wants you dead.  He wears the crest of
+Selina.  
+~
+troll~
+AGT J 0 0
+6 -1 2d7+71 1d1+99 1d7+1 chop
+4 4 4 4
+C 0 Q H
+stand stand either 100
+BHMZ ABCDEFGHIJKLQUVWX medium 0 the guilds~
+#17057
+troll knight noble~
+a troll knight~
+A noble troll riding a horse looks ready to charge into battle.
+~
+This noble troll looks ready to give his life for Selina.  He wears his
+family crest and the crest of Selina.  
+~
+troll~
+ABGT J 0 0
+7 -1 2d6+85 1d1+99 1d8+1 divine
+4 4 4 4
+EIL 0 Q H
+stand stand either 1000
+BHMZ ABCDEFGHIJKLQUVWX medium 0 the guilds~
+#17058
+troll captain important~
+a troll captain~
+An important looking troll stands here barking out orders for the siege.
+~
+This troll has reached a high point in his life and looks ready to take
+the fort.  He wears the crest of Selina.  
+~
+troll~
+ABGT JLNO 0 0
+8 -2 2d7+96 1d1+99 1d7+0 punch
+3 3 3 3
+0 AB Q H
+stand stand male 1000
+BHMZ ABCDEFGHIJKLQUVWX medium 0 the guilds~
+#17059
+tregnar troll commander~
+{GTregnar{x, the troll commander~
+Tregnar the troll commander stands here smiling at the impending chaos of the battle.
+~
+Tregnar is the highest ranking troll soldier.  He has been selected to
+lead the siege against Bosco's fort.  He wears the crest of Selina.  
+~
+troll~
+ABGT JL 0 0
+9 -2 2d6+110 1d1+99 1d8+2 divine
+2 2 2 2
+CFK AB Q H
+stand stand male 1500
+BHMZ ABCDEFGHIJKLQUVWX medium 0 the guilds~
+#17060
+sliver larva~
+a sliver larva~
+A very young sliver looks very hungry....for flesh.
+~
+This sliver appears to still be in early development.  It wears the
+collar of the {rBlood{wHive{x Army.  
+~
+sliver~
+ABGT 0 -500 0
+3 0 2d6+35 1d1+99 1d3+0 slime
+7 7 7 7
+R 0 B K
+stand stand either 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#17061
+sliver worker~
+a worker sliver~
+A sliver appears to be tunneling and gathering food for the hive.
+~
+This worker sliver seems to just do that, work.  He wears the collar of
+the {rBlood{wHive{x Army.  
+~
+sliver~
+ACGHT 0 -500 0
+5 -1 2d6+60 1d1+99 1d6+1 slash
+5 5 5 5
+N 0 B K
+stand stand either 100
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#17062
+jagged sliver soldier~
+a jagged sliver soldier~
+A mean looking sliver soldier stands here training for the coming assault.
+~
+This tough looking sliver looks like he can dish out a lot of damage.  He
+wears the collar of the {rBlood{wHive{x Army.  
+~
+sliver~
+ABGT 0 -500 0
+7 -1 2d6+85 1d1+99 1d8+1 slash
+4 4 4 4
+CEJKNR 0 B K
+stand stand either 100
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#17063
+shielded sliver soldier~
+a shielded sliver soldier~
+This sliver soldier appears to be working on its defence.
+~
+This sliver looks sturdy enough to resist a few spells.  He wears the
+collar of the {rBlood{wHive{x Army.  
+~
+sliver~
+ABGT 0 -500 0
+7 -1 2d6+85 1d1+99 1d8+1 slash
+4 4 4 4
+CEJNR 0 B K
+stand stand either 100
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#17064
+enraged sliver elite~
+an enraged sliver elite~
+This elite sliver soldier looks like he is well trained in accuracy.
+~
+One of the queen's elite soldiers, they prepare for the coming battle.  He
+wears the collar of the {rBlood{wHive{x Army.  
+~
+sliver~
+ABGT 0 -500 0
+9 -3 2d6+110 1d1+99 1d8+2 slash
+2 2 2 2
+CEJKNR 0 B K
+stand stand either 300
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#17065
+savage sliver elite~
+a savage sliver elite~
+This savage sliver is tearing apart a combat dummy, and appears to want a better target.
+~
+One of the queen's elite soldiers, they prepare for the coming battle. 
+They wear the collar of the {rBlood{wHive{x Army.  
+~
+sliver~
+ABGT 0 -500 0
+9 -3 2d6+110 1d1+99 1d8+2 slash
+2 2 2 2
+CEJKNR 0 B K
+stand stand either 300
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#17066
+strivia ancient queen sliver~
+{rStrivia{x the ancient sliver queen~
+{rStrivia{x, the ancient queen sliver, looks quite annoyed at your intrusion.
+~
+This magificent ancient sliver has been "providing" new recruits for her
+army.  She wears the collar of the {rBlood{wHive{x Army.  
+~
+sliver~
+ABGT DHLNO -500 0
+12 1 2d10+150 1d1+99 1d10+3 slash
+0 0 0 0
+CEJKN AB B K
+stand stand female 500
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#17067
+gargoyle stone acolyte~
+a stone acolyte~
+A gargoyle wearing monk robes walks around cleaning and fetching things.
+~
+This gargoyle has been waiting his whole life to join the
+{wStone{bBlade{x army.  He wears his robes and belt quite proudly.  
+~
+gargoyle~
+ACGHQ JT -500 0
+5 0 2d6+60 1d1+99 1d6+1 smash
+5 5 5 5
+N 0 0 LQ
+stand stand male 100
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#17068
+gargoyle spirit speaker monk~
+a spirit speaker~
+A monk in deep meditation seems to be whispering to no one in particular in the room.
+~
+This monk has charms all over themself as if to ward off some dark
+spirit.  They belong to the {wStone{bBlade{x army.  
+~
+gargoyle~
+ABGQ JT -500 0
+7 0 2d6+85 1d1+99 1d8+1 smash
+4 4 4 4
+0 0 0 LQ
+stand stand either 0
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#17069
+sentinal blade statue~
+a sentinal blade~
+A strange looking statue looks slighty out of place, until it attacks.
+~
+This gargoyle has trained for years to become a great assassin.  They
+belong to the {wStone{bBlade{x army.  
+~
+gargoyle~
+ABGQ JPQT -500 0
+7 0 2d6+85 1d1+99 1d8+1 pierce
+4 4 4 4
+BJ 0 0 LQ
+stand stand either 200
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#17070
+gargoyle monk stone fist~
+a stone fist~
+A strong looking monk glides along looking well at peace with himself.
+~
+This monk has studied many years to become this good.  They belong to the
+{wStone{bBlade{x army.  
+~
+gargoyle~
+AGQ JPT -500 0
+7 0 2d6+85 1d1+99 1d8+1 smash
+4 4 4 4
+IN 0 0 LQ
+stand stand male 100
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#17071
+shadow haunting gargoyle~
+a haunting shadow~
+A shadow seems to move across the room, and then disappears.
+~
+Now you see them, now you don't.  They belong to the {wStone{bBlade{x
+army.  
+~
+gargoyle~
+ABGQ JQT -500 0
+9 -1 2d6+110 1d1+99 1d8+2 pierce
+2 2 2 2
+IJN 0 0 LQ
+stand stand either 500
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#17072
+creature demon stone samurai~
+a stone samurai~
+A creature in heavy armor with a demon-like face is meditating here.
+~
+This samurai is from an esteemed family and seems keen to retain his
+family's honour.  They belong to the {wStone{bBlade{x army.  
+~
+gargoyle~
+ABGQ JT -500 0
+9 -2 2d6+110 1d1+99 1d8+2 slash
+2 2 2 2
+AI 0 0 LQ
+stand stand male 1000
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#17073
+tokogane daimyo stone blade gargoyle~
+{bTokogane{x, daimyo of the StoneBlades~
+{bTokogane{x, Daimyo of the StoneBlades, looks down at you with an unhappy look on his face.
+~
+Tokogane is a large gargoyle who has studied the way of bushido for a
+long time.  He looks quite able to defend himself.  He rules the
+{wStone{bBlade{x Army.  
+~
+gargoyle~
+ABGQ DHJNOT -1000 0
+10 -2 2d7+121 1d1+99 2d4+0 slash
+1 1 1 1
+AFIN AB 0 LQ
+stand stand male 1000
+AHMX ABCDEFGHIJKPQUV large 0 the guilds~
+#17074
+sneak thief kirre~
+a sneak thief~
+A sneaky looking kirre is looking for a pocket to pick.
+~
+This small kirre is well equiped to steal everything you own.  They wear
+the armband of the {DBlack{YClaw{x Army.  
+~
+kirre~
+ACGHS JPQ -500 0
+5 -1 2d6+60 1d1+99 1d6+1 slash
+5 5 5 5
+BJ 0 J I
+stand stand either 1
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#17075
+buff kirre black sabre~
+a black sabre~
+This buff kirre looks ready for a straight combat.
+~
+This kirre seems to have focused on combat rather than thievery.  They
+wear the armband of the {DBlack{YClaw{x Army.  
+~
+kirre~
+AGST J -500 0
+7 -3 2d6+85 1d1+99 1d8+1 slash
+4 4 4 4
+CMN 0 J I
+stand stand either 100
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#17076
+runed fury kirre tattoo runist~
+a runed fury~
+This kirre is covered in tattoos from from head to toe. They grin at you as you look upon them.
+~
+This runist kirre might just give you some trouble.  They wear the
+armband of the {DBlack{YClaw{x Army.  
+~
+kirre~
+ABGS J -500 0
+7 -1 2d6+85 1d1+99 1d8+1 slash
+4 4 4 4
+IJN 0 J I
+stand stand either 100
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#17077
+fang assassin cloak kirre~
+a fang assassin~
+A cloaked kirre hides in the shadows, and then leaps at you, teeth bared!
+~
+This assassin is looking for their next easy kill.  They wear the armband
+of the {DBlack{YClaw{x Army.  
+~
+kirre~
+ABGS JQ -500 0
+7 0 2d6+85 1d1+99 1d8+1 pierce
+4 4 4 4
+BJN 0 J I
+stand stand either 200
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#17078
+swear shadow thief dark rogue kirre~
+a dark rogue~
+You swear you thought you saw something move in the shadows.
+~
+This kirre is quite adept at hiding in the shadows, better watch your
+purse.  They wear the armband of the {DBlack{YClaw{x Army.  
+~
+kirre~
+ABGS JPQ -500 0
+9 -1 2d6+110 1d1+99 1d8+2 pierce
+2 2 2 2
+BJ 0 J I
+stand stand either 1000
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#17079
+kirre shadow assassin lotus~
+a lotus assassin~
+A kirre smiles at you from the corner, and then leaps for your throat.
+~
+This assassin has been training a long time, and now you're its next
+sparring partner.  They wear the armband of the {DBlack{YClaw{x Army.  
+~
+kirre~
+ABGS JQ -500 0
+9 -1 2d6+110 1d1+99 1d8+2 slash
+2 2 2 2
+BJMN 0 J I
+stand stand either 200
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#17080
+kanos dark assassin~
+{DKanos{x the dark assassin~
+{DKanos{x the dark assassin stands before you, smiling happily.
+~
+Kanos comes from a line of kirre assassins and plans to prove his worth. 
+He wears the armband of the {DBlack{YClaw{x Army.  
+~
+kirre~
+ABGS HJNOQ -1000 0
+12 1 2d10+150 1d1+99 1d10+3 pierce
+0 0 0 0
+ABEJN AB J I
+stand stand male 1000
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#17081
+apprentice young marid~
+a young marid~
+A young marid seems to be gathering supplies for the coming battle.
+~
+This marid isn't a caster yet, not for lack of trying.  They wear the
+brooch of the {yT{ce{ym{cp{ye{cs{yt{x Army.  
+~
+marid~
+ACGHR GY -500 0
+5 -1 2d6+60 1d1+99 1d6+1 blast
+5 5 5 5
+0 0 HR J
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17082
+master wave marid caster~
+a master of the {Cwaves{x~
+A marid plays with the water, which seems to follow their command.
+~
+This marid specializes in water based magics.  They wear the brooch of
+the {yT{ce{ym{cp{ye{cs{yt{x Army.  
+~
+marid~
+AGR GY -500 0
+7 -1 2d6+85 1d1+99 1d8+1 smother
+4 4 4 4
+0 0 HR J
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17083
+marid fire deep~
+a {rfire{x of the deep~
+A marid in red robes is playing with fire...underwater.
+~
+This marid caster has specialized in fire based magics.  They wear the
+brooch of the {yT{ce{ym{cp{ye{cs{yt{x Army.  
+~
+marid~
+AGR GY -500 0
+7 -1 2d6+85 1d1+99 1d8+1 flame
+4 4 4 4
+0 0 HR J
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17084
+gale bringer marid caster~
+a {Wgale{x bringer~
+A marid appears to be flying as if carried by the wind.
+~
+This marid caster specialized in air based magics.  They wear the brooch
+of the {yT{ce{ym{cp{ye{cs{yt{x Army.  
+~
+marid~
+AGR GTY -500 0
+7 -1 2d6+85 1d1+99 1d8+1 suction
+4 4 4 4
+0 0 HR J
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17085
+raging befouler marid~
+a raging befouler~
+This befouler is stomping all over the place trying to get hyped up.
+~
+Screw magic, this marid goes on the attack!  They wear the brooch of the
+{yT{ce{ym{cp{ye{cs{yt{x Army.  
+~
+marid~
+ABRT GVY -500 0
+9 -2 2d6+110 1d1+99 1d8+2 smash
+2 2 2 2
+C 0 HR J
+stand stand either 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17086
+song nymph marid~
+a song nymph~
+This marid is quite beautiful and sings a lovely melody that makes you sleepy.
+~
+Thie marid knows how to deal with soldiers.  They wear the brooch of the
+{yT{ce{ym{cp{ye{cs{yt{x Army.  
+~
+marid~
+ABGR GY -500 0
+9 -1 2d6+110 1d1+99 1d8+2 magic
+2 2 2 2
+0 0 HR J
+stand stand female 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17087
+dianti queen sea nymph~
+{wDianti{x, queen of the sea nymphs~
+{wDianti{x, Queen of the sea nymphs, stands before you in all her beauty and glory, and slowly raises a finger towards you.
+~
+Dianti is very possibly the most beautiful of all the Marids.  Her beauty
+is only matched by her temper.  She is the leader of the
+{yT{ce{ym{cp{ye{cs{yt{x Army.  
+~
+marid~
+ABGR GHNOY -1000 0
+12 1 2d10+150 1d1+99 1d10+3 magic
+0 0 0 0
+0 AB HR J
+stand stand female 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17088
+custodian bosco school~
+a Bosco school custodian~
+A custodian stands here looking for a mess to clean.
+~
+This janitor gets paid pennies to clean up messes.
+~
+human~
+AG DH 0 0
+1 0 2d6+10 1d1+99 1d4+0 divine
+9 9 9 9
+0 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M give 17001 17003~
+#17089
+coke machine~
+a {Rc{Wo{Rk{We{x machine~
+A large coke machine sits humming quietly in the corner.
+~
+This old coke machine sells only one thing: coke.
+~
+doll~
+ABGJKVab DJ 0 0
+51 5 50d10+5000 1d1+99 5d8+20 divine
+-21 -21 -21 -21
+0 ABCD EILMNPQRS O
+stand stand none 100000
+EJMc ABCGHK medium 0 the guilds~
+#17090
+small snail~
+the snail~
+A snail is trying to get out of your way.
+~
+It is small and ugly. Looks like an easy kill.
+~
+school monster~
+AGU 0 0 0
+0 0 1d1+0 1d1+99 1d1+0 digestion
+9 9 9 9
+0 ABKZ 0 C
+stand stand none 0
+AMV ABCDEFHJKQU tiny 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#17000
+pill anderyn death~
+{gAnderyn's{x pill of {Ddeath{x~
+This tiny pill bears a warning on one side.~
+food~
+pill AU A
+10 'detect invis' 'plague' 'poison' 'reserved'
+1 10 0 P
+E
+pill~
+This tiny venomous green gelcap bears a warning on one side- {rDANGER:{x
+Accidental poisoning may occur from consumption of this product.  On the
+other side it reads- This pill made by Anderyn, Inc.  
+~
+#17001
+desk oak~
+a sturdy oak desk~
+A beautiful carved oak desk sits here, polished to a fine gleam.~
+wood~
+furniture OT 0
+1 100 DGKN 0 0
+1 1000 1 P
+#17002
+book guide newbie redemption bosco~
+Bosco's Guide to {RRedemption{x~
+A well crafted book sits here collecting dust.~
+paper~
+armor W AO
+0 0 0 0 0
+1 10 100 P
+A
+4 1  
+A
+5 1  
+E
+guide~
+This book when worn adds 1 Con and 1 Wis.  In addition, you can read the
+different pages to learn important information about Redemption.  To read
+the approptriate page, simply type look page#.  
+ 
+Page1 = Ability Scores
+Page2 = Secondary Stats
+Page3 = Setting up Prompt and Options
+Page4 = Training and Practicing
+Page5 = Lowbie Leveling Areas
+Page6 = Important Directions
+Page7 = General Information
+Page8 = Combat Commands
+Page9 = Useful Web Links
+Page_10 = Newbie Gear
+~
+E
+book~
+This book when worn adds 1 Con and 1 Wis.  In addition, you can read the
+different pages to learn important information about Redemption.  To read
+the approptriate page, simply type look page#.  
+ 
+Page1 = Ability Scores
+Page2 = Secondary Stats
+Page3 = Setting up Prompt and Options
+Page4 = Training and Practicing
+Page5 = Lowbie Leveling Areas
+Page6 = Important Directions
+Page7 = General Information
+Page8 = Combat Commands
+Page9 = Useful Web Links
+Page_10 = Newbie Gear
+
+~
+E
+page1~
+Ability Scores
+Strength determines how much weight you can carry, increases your chance
+of hitting slightly, and gives a large boost to your damage.
+ 
+Dexterity determines how many items you can carry, increases your armor
+class, and the success of many combat skills.
+ 
+Constitution determines how many hit points you get when you level up,
+and reduces the damage you take from magic.
+ 
+Intelligence determines how fast your skills improve, and the success
+of many spells.
+ 
+Wisdom determines how many practices you get when you level up, and the
+damage of many spells.
+ 
+Make sure that you maximize your Con, Int, and Wis when you are about to
+level, and maximize your Str and Dex when fighting.
+~
+E
+page2~
+Secondary Stats
+ 
+Armor class shields you from physical attacks by causing them to miss.
+ 
+Hitroll defines your chance of hitting or missing your foes. Spells
+and equipment can increase it.
+ 
+Damage roll increases the damage you do with your physical attacks,
+but not on a one to one ratio.
+ 
+Saving throws lower the success of enemy magic. The lower your saving
+throws, the better.
+ 
+Age can affect the experience you recieve if you are a race other than
+human. You need 2x the hours of your current level to recieve full exp.
+Use gear or just time spent on Redemption to nullify any penalty.
+ 
+Alignment reflects what direction your character is going. If you
+kill good mobs, your character will go more evil. If you kill evil
+mobs, your character will become more good. This can affect some reclasses.
+In addition, if you kill a mob of your same alignment, you will get less
+experience than if you had killed one of the opposite alignment.
+~
+E
+page3~
+Character Setup
+ 
+One thing you should do, is set up your prompt. This is a good start:
+{C{Cprompt <%hhp %mm %vmv %Xtnl %ggp %ssp>{x{x
+Feel free to color code each one or add new parts. For more help type
+{RHelp Prompt{x and for color help type {RHelp Color.{x
+ 
+To turn on Color Mode, simply type {RColor.{x
+ 
+Also set your wimpy. Wimpy allows your character to auto flee if his
+HP reaches the set amount. This is very useful in both leveling and
+Player Killing (PK). To turn on wimpy type {RWimpy{x. Wimpy can also be
+set to different amounts (up to 50% your current max hp). It is a
+good idea to reset your wimpy whenever you acheive a new level.
+~
+E
+page4~
+Training and Practicing In order to train or practice, you must first
+find a Trainer.  Within the Academy, you can find a Trainer at the Entrance
+as well as in the Guilds.  In Midgaard, the directions to the Temple of
+Consentration is from recall: 3 south 2 west south.  To train, type Train
+and whatever you want to train.  To practice, type Practice and whatever you
+wish to increase.  You can also find other training spots in various cities.
+Explore around or ask an experienced player for directions.
+ 
+*Note that if you are playing a clanner, your trains are best spent in HP*
+~
+E
+page5~
+Lowbie Leveling Areas
+ 
+All Directions are from Recall on Terra
+ 
+Bluetspur lvl 1-10 - 2s, 5w, 4n, 7w
+Bosco's Military Academy lvl 1-10 - u
+Cantina lvl 5-15 - 2s, 6e, 3n, 3e
+Dwarven Day Care lvl 1-5 - 2s, 6e, 3n, 2e, 2s
+Elemental Canyon lvl 5-30 - 2s, 6e, 4s, 2e, s, 2e, d, s
+Gangland lvl 5-15 - all s, e, s, 2e, s, e
+Gnome Village lvl 5-15 - 2s, 8e, s
+Graveyard lvl 5-10 - 7s, e, k sexton, w, n, 2e, 2s, w, unlock s, open s, s
+Holy Grove lvl 5-20 - 2s, 8e, n
+Miden'nir lvl 5-15 - 2s, 3w, d, e, s, u, 2s
+Mob Factory lvl 5-15 - 2s, 3w, 3s, e
+Newbie Zone lvl 1-10 - n, w
+Pixie Forest lvl 1-10 - 2s, 7e, n
+ 
+Although these are not the only areas, they are a good mix and most can be
+tackled by lowbie players.
+To get a list of all areas, type Area.
+ 
+To find directions to other areas, check out Tzigane's map page. The url is on
+page9.
+~
+E
+page6~
+Midgaard Healer - n
+Questmaster - s, e, u
+Selina's Warp Statue - s, w
+Armory - 2s, w, s
+Weaponsmith - 2s, 2e, n
+General Store - 2s, e, n
+Bakery - 2s, w, n
+Wizard's Shop - 2s, 2w, n
+Jeweler - 2s, e, s
+Eastern Shop - 2s, 2w, s
+Trainer - 3s, 2w, s
+Map Shop - 3s, w, n
+Potion Shop - 3s, 2e, n
+Boat Shop - 3s, e, s
+Bridge to Dominia - 2s, 33e, 8n, e
+Craft Workshop - 2s, 3w, 2n, e, n
+Bank - 2w, 3w, 2n, 2e, s
+~
+E
+page7~
+General Information
+ 
+More of your character information will become available as you level up
+to level 25. Also at level 25 you will gain a new equipment slot called
+"Orbit" which allows you to wear a second "Float" item.
+ 
+When you die to a player or a mob, you cannot attack anything for 3
+minutes. Players also cannot attack you for that same stretch, but
+aggie mobs will still attack.
+~
+E
+page8~
+Combat Commands
+ 
+Kill <Target> - Begins combat with your intended foe.
+Flee - Allows you to flee from combat. May not work the first time.
+Consider <Target> - Allows you to see how tough your opponent is compaired
+to your level.
+ 
+The skills Dodge, Parry, and Shield Block are important to have if you
+plan to engage in melee combat. These skills help you avoid blows from
+your foes.
+ 
+Bash and Trip are similar skills for stopping your foes from fleeing,
+however they work best against different targets, so it can be useful to
+have both. Dirt kick is handy for blinding your foes, and Disarm deprives
+your target from their weapon. Also make sure you have as many attacks as
+you can through skills and the haste spell.
+ 
+Other skills such as Kick and Backstab can also help weaken your foes.
+~
+E
+page9~
+Useful Web Links
+ 
+These links are useful for looking up equipment as well as finding maps
+and other information. These pages may or may not still be active:
+ 
+www.redemptionmud.com - The Redemption Home Page
+www3.sympatico.ca/carrotqueen - Tzigane's Map Page
+www.ncf.carleton.ca/%7Ebi699/pkill.html - Starcrossed's Guide to Pkilling
+seeker.8k.com - Seeker's Web Page
+www.kenshi.8k.com - Kenshi's Web Page
+www.geocities.com/redemptionhelp - {RH{rELP{x Guild's Web Page
+http://acaykath.awardspace.com - Treasure Hunter's Web Page
+~
+E
+page_10~
+Newbie Gear
+The set of gear recieved in the Academy is a special Newbie Gear
+that can be worn till level 10. The full set within the school
+will maximize your leveling stats and with spells will maximize
+your combat stats as well. Until you reach level 10, wear the gear
+provided in the tutorial, as it is better than any gear you will
+find elsewhere.
+ 
+The list of gear you should have at the end of the tutorial is:
+Everburning Torch - Light
+Plain Bronze Ring (2) - Finger
+a Simple Silver Chain (2) - Neck
+Elven Crafted Gloves - Hands
+a Squire Helm - Head 
+Deerskin Boots - Feet 
+Light Chain Sleeves - Arms 
+Uniform Pants - Legs 
+Blue and White Sash - Waist 
+Bosco's Cadet Uniform - Body 
+Dwarven Bracers (2) - Wrist 
+One of the Weaponsmiths Weapons - Wielded 
+Bosco's Guide to Redemption - Held
+In addition there are 3 items that are class specific for each class.
+They are:
+Warrior - Suit of Elven Chain, Dwarven Bronze Shield, and a Trusty Warhorse
+Thief - a Black Hooded Cloak, Set of Thieves Tools, and a Sneaky Weasel
+Mage - Wizard Robes, Wizards Tome, and a Sparrow Familiar
+Cleric - a Holy Robe, a Holy Robe, and a Lost Soul
+There are other items around redemption, and its your job to learn what they do.
+~
+#17003
+glimpse light key quest glass reflection~
+a Glimpse of {WLight{x~
+A strange reflection shines off the glass, causing the light to appear solid.~
+glass~
+treasure AFT AO
+0 0 0 0 0
+1 10 100 P
+#17004
+key armory~
+a simple gold key~
+A key labeled "Armory" lies here collecting dust.~
+gold~
+key PU AO
+0 0 0 0 0
+1 2 1 P
+#17005
+simple dagger blade weapon~
+a simple blade~
+This small blade appears to have been left behind.~
+steel~
+weapon AU ANc
+dagger 2 2 stab 0
+1 10 40 P
+A
+19 1  
+A
+3 1  
+E
+dagger~
+This dagger adds 1 to Int and 1 to Damage roll.
+~
+#17006
+chipped battleaxe axe weapon~
+a chipped battleaxe~
+A long forgotten axe lies on the floor collecting dust.~
+steel~
+weapon AU ANc
+axe 2 2 slash 0
+1 10 40 P
+A
+3 1  
+A
+19 1  
+E
+axe~
+This axe adds 1 to Int and 1 to Damage roll.
+~
+#17007
+basic war flail weapon~
+a basic war flail~
+A basic flail lies here.~
+steel~
+weapon AU ANc
+flail 2 2 pound 0
+1 10 40 P
+A
+3 1  
+A
+19 1  
+#17008
+studded mace weapon~
+a studded mace~
+An old studded mace lies here.~
+steel~
+weapon AU ANc
+mace 2 2 smite 0
+1 10 40 P
+A
+3 1  
+A
+19 1  
+#17009
+rusty pike weapon polearm~
+a rusty pike~
+A long pike with a rusty head has been left here.~
+steel~
+weapon AU ANc
+polearm 2 2 slice 0
+1 10 40 P
+A
+3 1  
+A
+19 1  
+#17010
+training staff spear weapon~
+a training staff~
+A much abused training staff lies here.~
+wood~
+weapon AU ANc
+staff 2 2 blast 0
+1 10 40 P
+A
+3 1  
+A
+19 1  
+#17011
+heavy longsword sword weapon~
+a heavy longsword~
+A heavy blade has been left here.~
+steel~
+weapon AU ANc
+sword 2 2 slash 0
+1 10 40 P
+A
+3 1  
+A
+19 1  
+#17012
+leather bullwhip whip weapon~
+a leather bullwhip~
+A coiled up whip lies here, ready for punishing.~
+leather~
+weapon AU ANc
+whip 2 2 slap 0
+1 10 40 P
+A
+3 1  
+A
+19 1  
+#17013
+brass knuckles exotic weapon~
+brass knuckles~
+A shiny set of brass knuckles lies here.~
+brass~
+weapon AU ANc
+exotic 2 2 crush 0
+1 10 40 P
+A
+3 1  
+A
+19 1  
+A
+6 -1  
+#17014
+serindel lance spear enlightenment anderyn~
+{rSerindel{x, the lance of {Wenlightenment{x~
+The beautiful spear of {GA{gnd{Ge{gry{Gn{x, {rSerindel{x, has been carelessly left here.~
+Holy~
+weapon ABHZc AN
+staff 20 2 smite DET
+54 100 0 P
+A
+18 15  
+A
+19 15  
+A
+12 1000  
+A
+5 9  
+A
+2 6  
+A
+1 2  
+#17015
+bosco cadet uniform~
+a {BB{Wo{Bs{Wc{Bo{x cadet uniform~
+A folded up uniform belonging to a cadet lies here.~
+cloth~
+armor AISU AKc
+5 5 5 5 0
+1 20 25 P
+A
+5 2  
+#17016
+supply chest box container~
+a supply chest~
+A supply chest labeled "New Recruits" lies here waiting to be opened.~
+wood~
+container 0 0
+10000 AC 0 20000 50
+0 200 0 P
+#17017
+military ration food~
+some military rations~
+These rations look like they've survived many years here.~
+cream~
+food 0 AO
+10 10 0 0 0
+0 10 5 P
+#17018
+large canteen water~
+a large canteen~
+A round canteen lies here.~
+leather~
+drink 0 AO
+100 100 'water' 0 0
+0 10 50 P
+#17019
+everburning torch light~
+an {rev{Re{Yr{Wbur{Yn{Ri{rng{x torch~
+A lit torch lies on the ground, causing no scorch marks.~
+wood~
+light AU AOc
+0 0 999 0 0
+1 10 10 P
+A
+3 1  
+A
+4 1  
+A
+9 4  
+#17020
+shrine altar bench~
+a small altar~
+A simple marble altar resonates with the prayers of many cadets.~
+marble~
+furniture 0 0
+1 5000 EHKN 10 0
+0 200 0 P
+#17021
+raft sturdy boat~
+a sturdy raft~
+A sturdy looking raft lies here waiting to be claimed.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 100 50 P
+#17022
+deer jerky pill~
+deer jerky~
+Some tasty looking deer jerky has been left here.~
+meat~
+pill 0 Ac
+30 'animal growth' 'giant strength' 'reserved' 'reserved'
+1 10 0 P
+#17023
+pearl pretty beautiful~
+a pretty {Wpearl{x~
+A beautiful pearl has been left here.~
+pearl~
+warp_stone W AO
+0 0 0 0 0
+1 5 1000 P
+#17024
+sparrow float familiar~
+a sparrow familiar~
+A little sparrow tweets happily as you look at it.~
+feather~
+armor BSUb AQc
+0 0 0 0 0
+1 10 25 P
+A
+3 1  
+#17025
+plain bronze ring little~
+a plain {ybronze{x ring~
+A little bronze ring lies here, abandoned by the cadet that once used it.~
+bronze~
+jewelry U ABc
+0 0 0 0 0
+1 10 10 P
+A
+3 1  
+#17026
+simple silver chain necklace little~
+a simple {wsilver{x chain~
+A little silver chain lies here, abandoned by the cadet that once used it.~
+silver~
+jewelry U ACc
+0 0 0 0 0
+1 10 10 P
+A
+4 1  
+#17027
+elven crafted gloves pair~
+a pair of {gelven{x crafted gloves~
+A pair of gloves lies here, discarded by its previous owner.~
+leather~
+armor U AHc
+5 5 5 5 0
+1 20 10 P
+A
+5 1  
+#17028
+squire helmet hat helm~
+a {Ws{Dq{Wu{Di{Wr{De{x helmet~
+The helm of a squire has been left here to collect dust.~
+iron~
+armor U AEc
+5 5 5 5 0
+2 30 10 P
+A
+3 1  
+A
+4 1  
+#17029
+deerskin boots feet pair crafted~
+a pair of {rdeerskin{x boots~
+A pair of well crafted boots sit in the dirt.~
+leather~
+armor U AGc
+5 5 5 5 0
+1 20 10 P
+A
+5 1  
+#17030
+light chain sleeves outdated~
+a pair of light {wchain{x sleeves~
+Someone has discarded their outdated sleeves here.~
+iron~
+armor U AIc
+5 5 5 5 0
+1 50 10 P
+A
+5 1  
+#17031
+pair uniform pants well pressed~
+a pair of {Bu{Wn{Bi{Wf{Bo{Wr{Bm{x pants~
+A pair of well pressed pants are folded neatly on the ground.~
+cloth~
+armor U AFc
+5 5 5 5 0
+2 20 10 P
+A
+4 1  
+A
+3 1  
+#17032
+black yellow sash belt uniform~
+a {Dblack{x and {Yyellow{x sash~
+A sash that seems to belong to a uniform is lying on the ground.~
+cloth~
+armor U ALc
+5 5 5 5 0
+2 20 10 P
+A
+3 1  
+A
+4 1  
+#17033
+dwarven crafted bracer bronze~
+{ydwarven{x crafted bracer~
+A bronze bracer has been left in a puddle and is slowly turning green.~
+bronze~
+armor U AMc
+5 5 5 5 0
+1 10 10 P
+A
+5 1  
+#17034
+wizard robe red armor~
+{Rred{x wizard robes~
+A set of red robes has been left here for a newbie to recover.~
+magic~
+armor Ub ADc
+5 5 5 5 0
+3 50 25 P
+A
+3 1  
+#17035
+wizard tome shield old dusty~
+a {Rwizard{x tome~
+An old, dusty wizard's tome lies here awaiting a new reader.~
+paper~
+armor Ub AJc
+5 5 5 5 0
+3 30 25 P
+A
+3 1  
+#17036
+elven chain suit torso~
+a suit of {gelven {wchain{x~
+A beautiful suit of elven chain sits here.~
+mithril~
+armor Ua ADc
+5 5 5 5 0
+3 50 25 P
+A
+4 1  
+#17037
+dwarven bronze shield~
+a dwarven {ybronze{x shield~
+A beautiful bronze shield with the crest of the dwarves has been left here.~
+bronze~
+armor Ua AJc
+5 5 5 5 0
+3 30 25 P
+A
+4 1  
+#17038
+horse warhorse trusty float~
+a trusty warhorse~
+A beautiful warhorse stands around, munching on some oats.~
+flesh~
+armor Ua AQc
+0 0 0 0 0
+3 10 25 P
+A
+4 1  
+#17039
+black hooded cloak torso newbie~
+a {Dblack{x hooded cloak~
+A shady looking cloak has been ditched here.~
+cloth~
+armor Uc ADc
+5 5 5 5 0
+3 50 25 P
+A
+3 1  
+#17040
+thieves tool shield leather kit~
+a set of {Dthieves{x tools~
+A rolled up leather kit seems to have been discarded.~
+leather~
+armor Uc AJc
+5 5 5 5 0
+3 30 25 P
+A
+3 1  
+#17041
+sneaky weasel thief pet~
+a sneaky little weasel~
+Someone's pet weasel is looking for a new owner.~
+weasel~
+armor Uc AQc
+0 0 0 0 0
+3 10 25 P
+A
+3 1  
+#17042
+holy robe blessed torso~
+a {Wh{Yo{Wl{Yy{x robe~
+A blessed robe has been left behind.~
+cloth~
+armor Ud ADc
+5 5 5 5 0
+3 50 25 P
+A
+4 1  
+#17043
+holy book shield blessed~
+a {Wh{Yo{Wl{Yy{x book~
+A holy book belonging to a long lost religion has been left here.~
+paper~
+armor Ud AJc
+5 5 5 5 0
+3 30 25 P
+A
+4 1  
+#17044
+lost soul ball light float~
+a lost soul~
+A little ball of light is flittering around looking for a cleric to serve.~
+energy~
+armor Ud AQc
+0 0 0 0 0
+3 10 25 P
+A
+4 1  
+#17045
+caffeine pill~
+a caffeine pill~
+A little pill with the letter "C" on it sits humming on the floor.~
+medicine~
+pill 0 Ac
+30 'haste' 'frenzy' 'reserved' 'reserved'
+1 10 5 P
+#17046
+granite pill~
+a granite pill~
+Don't take this pill for granite.~
+stone~
+pill 0 Ac
+30 'blur' 'stone skin' 'shield' 'reserved'
+1 10 5 P
+#17047
+fountain due credit stone water~
+the fountain of due credit~
+A beautiful stone fountain with the credits for the creation of the academy.~
+stone~
+fountain O 0
+0 0 'water' 0 0
+1 1000 0 P
+E
+fountain~
+The Bosco Military Academy was built by {GA{gn{Gd{ge{Gr{gy{Gn{x.
+With the oversight of {WAngelique.{x
+Implemented by {BC{Ya{Bu{Yt{Bh{Yo{Bn.{x
+Special Thanks to {DCicada, {CMikoto, {BAvacar, {MElisa, {gLeonnyn, {RStryder,
+{YCauthon{x, and anyone else that helped with the creation of the Academy.
+~
+#17048
+legend leveling tool~
+the leveling tool~
+A legendary piece of leveling equipment that seems to have been toned.~
+energy~
+armor ABGITUY AO
+0 0 0 0 0
+7 20 5000 P
+A
+9 5  
+A
+4 1  
+A
+5 1  
+A
+3 1  
+A
+1 -2  
+A
+2 -2  
+#17049
+wand magic missile wooden~
+a wooden wand of magic missile~
+A sturdy wand lies here humming with great power.~
+wood~
+wand BGbc AOc
+10 5 5 'magic missile' 0
+1 10 100 P
+#17050
+wand cure light wounds wooden~
+a wooden wand of cure light wounds~
+A well crafted wood wand lies here humming with holy energy.~
+wood~
+wand BGad AOc
+10 5 5 'cure light' 0
+1 10 100 P
+#17051
+spot tea drink cup~
+a spot of tea~
+A simple tea cup sits here steaming with hot english tea.~
+tea~
+drink 0 AO
+10 10 'tea' 0 0
+1 10 10 P
+#17052
+iron studded mace~
+an iron-studded mace~
+A sturdy iron mace lies here, discarded from battle.~
+iron~
+weapon B AN
+mace 1 6 smash 0
+5 30 100 P
+A
+3 1  
+A
+18 1  
+#17053
+military issue chainmail~
+military issue chainmail~
+A heavy set of chainmail has been discarded here.~
+iron~
+armor 0 AD
+3 4 5 0 0
+5 100 500 P
+#17054
+military issue shield~
+a military issue shield~
+Someone discarded a sturdy looking shield here.~
+wood~
+armor 0 AJ
+3 3 3 0 0
+5 40 100 P
+A
+2 1  
+#17055
+bosco military uniform~
+a {BB{Wo{Bs{Wc{Bo{x military uniform~
+A neatly folded military uniform has been left here.~
+cloth~
+armor AGI AK
+4 4 4 4 0
+5 20 100 P
+A
+5 1  
+#17056
+elven longbow wood~
+an elven longbow~
+A beautiful wooden longbow lies here, gleaming in the light.~
+wood~
+weapon A AN
+ranged 1 6 pierce F
+2
+5 20 100 P
+#17057
+quiver wooden arrow~
+a quiver of wooden arrows~
+A discarded quiver of arrows has been left here.~
+wood~
+ammunition 0 AO
+2 3 pierce 0 'reserved'
+5 200 100 P
+A
+18 1  
+#17058
+elven thinblade sword~
+an elven thinblade~
+A thin steel sword has been left carelessly on the floor.~
+steel~
+weapon B AN
+sword 1 6 slash 0
+5 20 100 P
+A
+18 1  
+A
+3 1  
+#17059
+dwarven waraxe axe bronze~
+a dwarven waraxe~
+A well crafted bronze axe has been left here.~
+bronze~
+weapon B AN
+axe 1 6 slash 0
+5 50 100 P
+A
+18 1  
+A
+3 1  
+#17060
+bronze helm dwarven~
+a bronze helmet~
+A dwarven crafted helmet lies in the dust.~
+bronze~
+armor 0 AE
+4 4 4 0 0
+5 10 100 P
+A
+2 1  
+#17061
+grey potion~
+a grey potion~
+A murky grey potion swirls with inner magic.~
+stone~
+potion 0 A
+8 'stone skin' 'shield' 'reserved' 'reserved'
+5 5 1000 P
+#17062
+large carved boulder~
+a carved boulder~
+A large boulder, carved for throwing lies here.~
+stone~
+throwing 0 AO
+1 6 smash 5 'earthquake'
+5 100 100 P
+#17063
+healer sample potion~
+a healer sample potion~
+A potion with the word "sample" on it has been discarded here.~
+holy~
+potion 0 Ac
+30 'bless' 'sanctuary' 'armor' 'reserved'
+1 5 0 P
+#17064
+beast claw wicked exotic~
+a set of beast claws~
+A wicked set of beast claws have been discarded here.~
+bone~
+armor B AH
+1 1 1 0 0
+5 20 100 P
+A
+19 1  
+#17065
+sturdy lantern~
+a sturdy lantern~
+A sturdy lantern has been left here.~
+glass~
+light A A
+0 0 100 0 0
+1 10 50 P
+#17066
+scroll blur~
+a scroll of blur~
+A scroll with a blurry quality has been left here.~
+paper~
+scroll 0 AO
+5 'blur' 'reserved' 'reserved' 'reserved'
+5 5 100 P
+#17067
+wand scorched burning hand~
+a wand of burning death~
+A scorched wand has been left here.~
+wood~
+wand 0 AO
+5 3 3 'burning hands' 0
+5 10 100 P
+#17068
+ridged wand healing cure serious~
+a wand of cure serious~
+A ridged wand of healing has been left here.~
+wood~
+wand 0 AO
+5 3 3 'cure serious' 0
+5 10 100 P
+#17069
+pink staff light~
+a {Mpink{x staff of {Wlight{x~
+A long pink staff lies here collecting dust.~
+wood~
+staff A AO
+5 3 3 'faerie fire' 0
+5 20 500 P
+#17070
+selina uniform tabbard~
+{RS{We{Rl{Wi{Rn{Wa{R's{x uniform~
+A folded up uniform has been carefully left here.~
+cloth~
+armor A AK
+4 4 4 4 0
+5 20 500 P
+A
+4 1  
+#17071
+troll chain mail rusty~
+troll chainmail~
+A rusty set of chainmail lies here.~
+iron~
+armor 0 AD
+3 4 5 0 0
+5 100 500 P
+#17072
+spiked wooden shield~
+a spiked wooded shield~
+A spiked wooden shield has been ditched here.~
+wood~
+armor C AJ
+3 3 3 0 0
+0 30 200 P
+#17073
+wicked curved dagger~
+a wicked curved dagger~
+A wicked curved dagger has been stuck in the dirt.~
+rust~
+weapon 0 AN
+dagger 1 6 pierce H
+5 10 0 P
+#17074
+black tipped pike~
+a black tipped pike~
+A long black tipped pike has been discarded here.~
+iron~
+weapon 0 AN
+staff 1 6 pierce F
+5 30 300 P
+#17075
+bone short bow~
+a bone shortbow~
+A shortbow made of bone has been discarded here.~
+wood~
+weapon 0 AN
+ranged 1 6 pierce F
+2
+5 20 300 P
+#17076
+double edge axe~
+a double-edge axe~
+A large double-edge axe lies here waiting for some combat.~
+steel~
+weapon C AN
+axe 1 5 slash E
+5 50 300 P
+#17077
+cruel spiked flail~
+a cruel spiked flail~
+A large spiked flail lies here.~
+iron~
+weapon C AN
+flail 1 6 smash J
+5 50 500 P
+#17078
+long barbed whip~
+a long barbed whip~
+A cruel barbed whip is coiled up in the dirt.~
+leather~
+weapon 0 AN
+whip 1 6 sting C
+5 10 500 P
+#17079
+black glaive~
+a black glaive~
+A black glaive has been stuck into the ground.~
+steel~
+weapon BC AN
+polearm 1 6 claw D
+5 50 1000 P
+#17080
+tregnar half plate~
+{gTregnar's{x half-plate~
+A dusty set of half-plate has been discarded here.~
+steel~
+armor Aa AD
+4 4 4 0 0
+10 150 2000 P
+A
+5 1  
+#17081
+blood hive collar~
+a {rBlood{wHive{x collar~
+A collar belonging to a bloodhive troop lies here.~
+flesh~
+jewelry Ba AC
+0 0 0 0 0
+5 10 200 P
+A
+19 1  
+#17082
+squall nectar white pod~
+some squall nectar~
+A small pod of white liquid lies discarded here.~
+skin~
+potion 0 AO
+5 'animal growth' 'reserved' 'reserved' 'reserved'
+3 10 2000 P
+#17083
+sliver sack container~
+a sliver sack~
+A sack made of sliver web has been left here.~
+web~
+container 0 AO
+100 A 0 100 75
+1 50 500 P
+#17084
+plated leggings~
+plated leggings~
+A set of plated leggings lies here collecting rust.~
+steel~
+armor a AF
+3 3 3 0 0
+5 30 500 P
+A
+1 1  
+#17085
+sliver shield~
+a sliver shield~
+A shield made from a hard shell is here collecting dust.~
+shell~
+armor a AJ
+3 3 3 0 0
+5 30 500 P
+A
+1 1  
+#17086
+fine leather belt~
+a fine leather belt~
+A fine leather belt has been left here.~
+leather~
+armor a AL
+3 3 3 0 0
+5 10 500 P
+A
+18 1  
+#17087
+dragon scale bracer dragonskin~
+a dragonskin bracer~
+A bracer made of dragonskin has been left here.~
+snakeskin~
+armor a AM
+1 1 1 1 0
+5 20 1000 P
+A
+1 1  
+#17088
+sliver egg sack~
+a sliver egg sack~
+A sack full of small sliver eggs has been abandoned by its previous owner.~
+shell~
+armor Ba AQ
+0 0 0 0 0
+5 100 1000 P
+A
+13 10  
+#17089
+strivia burning rage light~
+{rStrivia's {yburning {Rrage{x~
+The manifestation of Strivia's rage burns brightly before your eyes.~
+wood~
+light ABMa A
+0 0 999 0 0
+10 30 2500 P
+A
+19 1  
+#17090
+sliver blood vial~
+a vial of sliver blood~
+A small vial containing sliver blood lies here.~
+blood~
+potion 0 A
+10 'giant strength' 'reserved' 'reserved' 'reserved'
+5 10 1000 P
+#17091
+monk robe white~
+monk robes~
+A set of white monk robes has been left here.~
+cloth~
+armor d AK
+0 0 0 0 0
+5 20 200 P
+A
+3 1  
+#17092
+blue white belt stoneblade~
+belt of the {wStone{bBlades{x~
+A blue and white belt is lying in the dirt here.~
+cloth~
+clothing d AL
+0 0 0 0 0
+5 10 300 P
+A
+1 1  
+#17093
+straw broom~
+a straw broom~
+A straw broom with writing all over it has been left here.~
+wood~
+wand d AO
+5 1 1 'hurricane' 0
+5 30 1000 P
+#17094
+board spirit~
+a spirit board~
+A board with characters written on it has been discarded here.~
+wood~
+armor d AE
+0 0 0 0 0
+5 20 200 P
+A
+12 5  
+#17095
+wicked war naganata~
+a wicked naganata~
+A long naganata has been dropped here.~
+iron~
+weapon d AN
+polearm 1 6 slash N
+5 50 200 P
+#17096
+wooden war sandles~
+war sandals~
+A pair of wooden sandals has been neatly left here.~
+wood~
+armor d AG
+1 1 1 1 0
+5 10 100 P
+A
+19 1  
+#17097
+black bladed sharp katar~
+a sharp katar~
+A black bladed katar has been dropped here.~
+steel~
+weapon d AN
+exotic 1 5 claw D
+5 10 500 P
+#17098
+stone katana~
+a stone katana~
+This finely made katana seems to have been crafted into stone, even though it is still metal.~
+steel~
+weapon d AN
+katana 2 3 slash F
+5 20 5000 P
+A
+18 1  
+A
+19 1  
+#17099
+tokogane signet ring gold~
+{bTokogane's {ysignet ring{x~
+A gold ring bearing the signet of Tokogane's family has been left here.~
+gold~
+jewelry Yd AB
+0 0 0 0 0
+10 10 5000 P
+A
+4 1  
+A
+19 1  
+#17100
+gargoyle tear drop stone pill~
+a gargoyle's tear~
+A piece of stone in the shape of a teardrop has fallen to the ground.~
+stone~
+pill 0 A
+5 'stone skin' 'mirror image' 'reserved' 'reserved'
+3 10 2000 P
+#17101
+blackclaw armband~
+a {DBlack{YClaw{x armband~
+An armband with the {DBlack{YClaw{x symbol lies discarded in the dirt.~
+cloth~
+clothing c AI
+0 0 0 0 0
+5 20 300 P
+A
+2 1  
+#17102
+black kris poison~
+a black kris~
+A small kris is coated with a black liquid.~
+steel~
+weapon c AN
+dagger 1 5 pierce I
+5 10 100 P
+A
+18 1  
+#17103
+shiny necklace trinket~
+a shiny trinket~
+A pretty shiny necklace that seems to serve little purpose lies here.~
+gold~
+jewelry c AC
+0 0 0 0 0
+5 10 1000 P
+A
+13 5  
+#17104
+iron studded bracer~
+an iron-studded bracer~
+A leather bracer with iron studs looks ready to take a beating.~
+leather~
+armor c AM
+2 2 2 2 0
+5 20 200 P
+A
+18 1  
+#17105
+portable paint set~
+a {Bp{Ra{Yi{Gn{Mt{x set~
+A portable paint set looks ready to go.~
+paint~
+armor Sc AH
+2 2 2 2 0
+5 30 1000 P
+A
+3 1  
+#17106
+glowing fang~
+a glowing fang~
+A glowing fang seems to be floating in midair.~
+bone~
+light ASc AO
+0 0 999 0 0
+5 0 5 P
+A
+2 1  
+#17107
+sapphire ring~
+an elegant {bsapphire{x ring~
+A beautiful sapphire ring has been left here for the taking.~
+sapphire~
+jewelry c AB
+0 0 0 0 0
+5 10 1000 P
+A
+3 1  
+#17108
+tight leather pant~
+tight leather pants~
+A pair of tight fitting leather pants have been shead here.~
+leather~
+clothing CMc AF
+0 0 0 0 0
+5 20 100 P
+A
+2 1  
+#17109
+kanos shroud darkness black aura~
+{DKanos's shroud of darkness{x~
+A black aura seems to be radiating around here.~
+darkness~
+jewelry BCc AQ
+0 0 0 0 0
+10 10 5000 P
+A
+19 1  
+A
+3 1  
+A
+2 1  
+#17110
+black lotus blossum~
+a black lotus~
+A black lotus blossom has been left here.~
+plant~
+pill C A
+5 'blur' 'cure serious' 'reserved' 'reserved'
+5 10 2000 P
+#17111
+tempest brooch~
+a {yT{ce{ym{cp{ye{cs{yt{x brooch~
+The brooch of Tempest lies here.~
+coral~
+jewelry Ab AC
+0 0 0 0 0
+5 10 1000 P
+A
+2 1  
+A
+3 1  
+#17112
+glowing conch shell~
+a {yglowing{x conch shell~
+A glowing conch shell lies in the dirt.~
+shell~
+light b A
+0 0 999 0 0
+5 20 100 P
+A
+12 10  
+#17113
+coral plates~
+coral plates~
+A set of coral plates have been left here.~
+coral~
+armor b AI
+3 3 3 3 0
+5 30 400 P
+A
+3 1  
+#17114
+rod wave coral~
+a rod of {Cwaves{x~
+A rod made from coral seems to have wave carvings on it and is tipped with crystal.~
+coral~
+wand b AO
+10 3 3 'tsunami' 0
+5 10 1000 P
+#17115
+rod flame stone~
+a rod of {rflames{x~
+A rod made of stone, tipped with crystal, and with flame carvings on it has been left here.~
+stone~
+wand b AO
+10 3 3 'flamestrike' 0
+0 10 1000 P
+#17116
+rod air bone~
+a rod of {Wair{x~
+A rod made from bone, tipped with crystal, and with lighting carvings has been left here.~
+bone~
+wand b AO
+10 3 3 'lightning bolt' 0
+5 10 1000 P
+#17117
+boot stomping~
+boots of stomping~
+These boots were made for stomping, and thats just what they'll do.~
+leather~
+armor MSb AG
+1 1 1 1 0
+5 30 1000 P
+A
+1 1  
+#17118
+lacey silk glove~
+silky lacey gloves~
+A pair of beautiful silk lacey gloves has been discarded here.~
+silk~
+clothing Sb AH
+0 0 0 0 0
+5 10 1000 P
+A
+2 1  
+#17119
+dianti crown emerald~
+{wDianti's {Gemerald {ycrown{x~
+A beautiful crown once belonging to queen Dianti lies here.~
+emerald~
+armor AMb AE
+4 4 4 4 0
+10 20 5000 P
+A
+4 1  
+A
+3 1  
+#17120
+large chunk coral piece~
+a piece of coral~
+A large chunk of coral rests here.~
+coral~
+pill 0 A
+10 'haste' 'reserved' 'reserved' 'reserved'
+3 10 1000 P
+#17121
+coke bottle drink coca-cola cola~
+a bottle of {Rc{Wo{Rk{We{x~
+A clear bottle with a red and white lable lies here filled with a fizy brown liquid.~
+glass~
+drink ST AO
+10 10 'coke' 0 0
+1 10 100 P
+#17122
+comfy big couch~
+a BIG comfy couch~
+This large comfy couch looks like it was stolen from somewhere.~
+wood~
+furniture O 0
+5 5000 EHKN 100 100
+1 5000 0 P
+#17123
+bottle clear potion shiny healing~
+a shiny potion of healing~
+A clear bottle with a red cross on it sits here collecting dust.~
+glass~
+potion A Ac
+30 'heal' 'reserved' 'reserved' 'reserved'
+0 10 100 P
+#17124
+long rod gentle controlling~
+rod of controlling~
+This long rod has a gentle appearance to it.~
+wood~
+wand AFUb AO
+10 1 1 'call creature' 0
+10 20 1000 P
+#17125
+magical tattoo poison dragon~
+a magical tattoo of a {gpoison{x dragon{x~
+It's only a temporary tattoo.~
+wood~
+armor AHTZc AC
+20 20 20 20 0
+54 10 1 P
+A
+13 1000  
+A
+9 500  
+A
+18 30  
+A
+19 30  
+#0
+
+
+
+#ROOMS
+#17000
+The Entrance to {BBosco's{x Military Academy~
+You have found yourself in a brilliantly decorated room.  The floors,
+ceilings and walls are all covered in beautiful white marble.  The entire
+room is lit from a dome above, located in the center of the room.  A ladder
+seems to lead up to this dome, as well as down towards Bosco's Temple.  The
+room is open in all directions.  A large sign reading "Bosco's Military
+Academy" is set onto an old oak desk.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17005
+D1
+~
+~
+0 0 17003
+D2
+~
+~
+0 0 17001
+D3
+~
+~
+0 0 17007
+D4
+~
+~
+0 0 17009
+D5
+~
+~
+0 0 17179
+M 110 H 110
+S
+#17001
+South Side of the Lobby~
+You have found yourself in a brilliantly decorated room.  The floors,
+ceilings and walls are all covered in beautiful white marble.  The entire
+room is lit from a dome above, located in the center of the room.  There
+are many portraits and tapestries draped all over the walls depicting great
+heroes of justice, powerful oracles of seeker, and even the great villains
+of kindred.  One tapestry depicts Bosco at the temple of Thalos telling his
+people to build a new temple in his honor.  The room is open to the west and
+east, and the recruiting desk lies to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 17000
+D1
+~
+~
+0 0 17002
+D3
+~
+~
+0 0 17008
+S
+#17002
+Southeast Corner of the Lobby~
+You have found yourself in a brilliantly decorated room.  The floors,
+ceilings and walls are all covered in beautiful white marble.  The entire
+room is lit from a dome above, located in the center of the room.  There
+are many portraits and tapestries draped all over the walls depicting great
+heroes of justice, powerful oracles of seeker, and even the great villains
+of kindred.  One tapestry depicts the building of Midgaard.  The room is
+open to the west and north.  
+~
+0 0 0
+D0
+~
+~
+0 0 17003
+D3
+~
+~
+0 0 17001
+S
+#17003
+East Side of the Lobby~
+You have found yourself in a brilliantly decorated room.  The floors,
+ceilings and walls are all covered in beautiful white marble.  The entire
+room is lit from a dome above, located in the center of the room.  There are
+many portraits and tapestries draped all over the walls depicting great
+heroes of justice, powerful oracles of seeker, and even the great villains
+of kindred.  One tapestry depicts a great scout ship travelling close to the
+shores of dominia for the first time.  The room is open to the north and
+south, and the recruitment desk lies to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 17004
+D2
+~
+~
+0 0 17002
+D3
+~
+~
+0 0 17000
+S
+#17004
+Northeast Corner of the Lobby~
+You have found yourself in a brilliantly decorated room.  The floors,
+ceilings and walls are all covered in beautiful white marble.  The entire
+room is lit from a dome above, located in the center of the room.  There are
+many portraits and tapestries draped all over the walls depicting great
+heroes of justice, powerful oracles of seeker, and even the great villains
+of kindred.  One tapestry depicts the siege of Shlet'mir and the slaughter
+of the unprepared sliver defenses.  The room is open to the west and south. 
+~
+0 0 0
+D2
+~
+~
+0 0 17003
+D3
+~
+~
+0 0 17005
+S
+#17005
+The Entrance to the Training Course~
+You have found yourself in a brilliantly decorated room.  The floors,
+ceilings and walls are all covered in beautiful white marble.  The entire
+room is lit from a dome above, located in the center of the room.  There are
+many portraits and tapestries draped all over the walls depicting great
+heroes of justice, powerful oracles of seeker, and even the great villains
+of kindred.  The room is open to the west and east, and the recruitment desk
+lies to the south.  A sturdy wood door lies to the north.  Go ahead and open
+it and go through once you're ready.
+~
+0 0 0
+D0
+~
+door~
+1 0 17010
+D1
+~
+~
+0 0 17004
+D2
+~
+~
+0 0 17000
+D3
+~
+~
+0 0 17006
+S
+#17006
+Northwest Corner of the Lobby~
+You have found yourself in a brilliantly decorated room.  The floors,
+ceilings and walls are all covered in beautiful white marble.  The entire
+room is lit from a dome above, located in the center of the room.  There
+are many portraits and tapestries draped all over the walls depicting great
+heroes of justice, powerful oracles of seeker, and even the great villains
+of kindred.  One tapestry depicts the battles in the northern jungles of
+dominia.  The room is open to the east and south.  
+~
+0 0 0
+D1
+~
+~
+0 0 17005
+D2
+~
+~
+0 0 17007
+S
+#17007
+West Side of the Lobby~
+You have found yourself in a brilliantly decorated room.  The floors,
+ceilings and walls are all covered in beautiful white marble.  The entire
+room is lit from a dome above, located in the center of the room.  There
+are many portraits and tapestries draped all over the walls depicting great
+heroes of justice, powerful oracles of seeker, and even the great villains
+of kindred.  One tapestry depicts the assassination of Braxnor and another
+the founding of atlantis.  The room is open to the north and south, and the
+recruitment desk lies to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 17006
+D1
+~
+~
+0 0 17000
+D2
+~
+~
+0 0 17008
+S
+#17008
+Southwest Corner of the Lobby~
+You have found yourself in a brilliantly decorated room.  The floors,
+ceilings and walls are all covered in beautiful white marble.  The entire
+room is lit from a dome above, located in the center of the room.  There
+are many portraits and tapestries draped all over the walls depicting great
+heroes of justice, powerful oracles of seeker, and even the great villains
+of kindred.  One tapestry depicts the siege on Shandalar, where the walls
+never fell.  The room is open to the north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 17007
+D1
+~
+~
+0 0 17001
+S
+#17009
+The Dome Above the Entrance~
+Light pours in from this large glass dome and fills the room below with a
+shimmering presence.  There is a ledge with a railing all around the inside
+wall of this dome, and there are several seating areas for people to enjoy
+the view.  You also notice that this room is unusually warm.  The only exit
+is down to the main room by way of a silvery ladder.  
+~
+0 132096 0
+D5
+~
+~
+0 0 17000
+S
+#17010
+The Receptionist~
+This room appears similar to the great entrance of the academy, save for
+the size and the lack of a lit dome.  The walls, ceiling, and floor are all
+covered in beautiful marble, and there are several paintings of old heroes
+and villains.  There appears to be a sturdy desk with a beautiful woman
+sitting behind it.  She looks quite busy in her work.  The door back to the
+entrance hall lies to the south and a very sturdy door marked "Armory" lies
+to the north.  
+ 
+Please make sure that you understand the rules of Redemption before you
+continue into the academy. Type {RHelp Rules{x to read them.
+ 
+If you have not yet done so, you might wish to spend your practice
+~
+0 131080 0
+D0
+A sturdy wooden door labeled "Armory" 
+~
+armory~
+1 17004 17011
+D2
+A sturdy wooden door.  
+~
+door~
+1 0 17005
+S
+#17011
+The Cadet's Armory~
+The room you have stepped into is a dark contrast to the grand entrance
+hall.  The walls, ceilings, and floors are now a dull granite gray, and the
+room is lit by faint torch light.  There are many objects on this world that
+you can interact with.  Some you can pick up, others not.  To open the
+container on the ground type {Ropen chest{x.  To retrieve your basic
+equipment from the chest, type {Rget all chest{x.  This can be done with
+other containers too, like bags and backpacks.  To wear a piece of
+equipment, type {Rwear <object>{x and to remove it, type {Rremove
+<object>{x.  As you explore redemption, you will need to eat and drink to
+survive.  When you find food to eat, type {Reat <object>{x you can do the
+same with drink.  Pills and potions can be consumed by using {R{Reat and
+quaff{x, respectively{x.  To put an object back into a container, type {Rput
+<object> <container>{x.  Once you have equipped yourself, move on to the
+next room.  
+~
+0 131080 0
+D1
+~
+~
+0 0 17012
+D2
+A sturdy wooden door labeled "Armory" 
+~
+door~
+1 17004 17010
+S
+#17012
+A Small Shrine~
+The walls, floor, and ceiling of this room are crafted from a dark grey
+stone.  The room is lit by a single glowing torch that doesn't give off any
+heat.  In the world of redemption, there are several gods one can worship. 
+As a new character, you start by worshipping Bosco or Selina depending on
+what race you are.  However, you can choose a new god to worship, each with
+their own unique abilities.  For more information about the different gods,
+type {Rhelp worship{x.  Once you have chosen which god you are to worship,
+continue into the next room.  
+~
+0 131080 0
+D2
+~
+~
+0 0 17013
+D3
+~
+~
+0 0 17011
+S
+#17013
+The Sorting Room~
+The walls, floor, and ceiling of this room are crafted from a dark grey
+stone.  The room is lit by a single glowing torch that doesn't give off any
+heat.  In the world of Redemption, there are two classifications of
+citizens: Clanners and Non-Clanners.  Those who belong to clanner caste can
+join one of four clans and fight battles against other players. 
+Non-clanners can join one of many guilds, and cannot be harmed nor cause
+harm to other players.  The four clans of Redemption are: {RSeeker,
+Kindred, Kenshi{x, and {RVenari{x.  For more information on each of the
+clans, type help <clan>.  There are many guilds for non-clanners, each with
+their own help file.  You cannot join a clan or guild till you reach level
+10.  Move on to the next room once you have finished learning about the
+clanner system.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17012
+D1
+~
+~
+0 0 17014
+S
+#17014
+Combat Training~
+The walls, floor, and ceiling of this room are crafted from a dark grey
+stone.  The room is lit by a single glowing torch that doesn't give off any
+heat.  In this section you will learn about combat.  The combat dummy in
+this room is a normal mob.  He isn't particularly wimpy nor aggressive.  Go
+ahead and kill him by typing {RKill dummy{x.  Once you have finished your
+combat, you will see that you were awarded experience, money, and maybe even
+some deity points.  Depending on the respective level of the mob compared to
+yours, will define how much experience you'll receive for defeating it. 
+Once it is dead, go north and face the wimpy dummy which may try to flee. 
+Follow it, and kill it.  Once you are done go all south and face the
+aggressive dummy.  He should automatically attack you.  Be wary of
+aggressive mobs in the world of Redemption.  If you want to find out if a
+mob is too tough for you, use {Rconsider <name>{x If the fight is to tough,
+feel free to {Rflee{x from the combat.  Also remember that you can {Rpeer{x
+into a room to see what's in it before you even enter.  Once you have
+completed all 3 combats, move on to the east.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17015
+D1
+~
+~
+0 0 17017
+D2
+~
+~
+0 0 17016
+D3
+~
+~
+0 0 17013
+S
+#17015
+Combat Training~
+The walls, floor, and ceiling of this room are crafted from a dark grey
+stone.  The room is lit by a single glowing torch that doesn't give off any
+heat.  
+~
+0 131072 0
+D2
+~
+~
+0 0 17014
+S
+#17016
+Combat Training~
+The walls, floor, and ceiling of this room are crafted from a dark grey
+stone.  The room is lit by a single glowing torch that doesn't give off any
+heat.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17014
+S
+#17017
+Entrance to the Obstacle Course~
+The walls, floor, and ceiling of this room are crafted from a dark grey
+stone.  The room is lit by a single glowing torch that doesn't give off any
+heat.  Now it's time for you to learn about terrain.  As you traverse
+through the continents of Terra and Dominia, you will find yourself going
+through forests, roads, mountains, even rivers.  Each terrain can affect you
+differently (mainly in how tired you become) and some you can't even go
+through without proper spells or equipment (such as deep water).  In the
+next several rooms, you will go through each type of terrain and see its
+affects on you.  Make sure you pick up the {Rraft{x before you go as you
+will need it to complete the course.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17018
+D3
+~
+~
+0 0 17014
+S
+#17018
+On a Dusty {yRoad{x~
+You have wandered outside onto a dusty road.  There appears to be little
+of note save for the building behind you and a small shack to the north. 
+Walls to the east and west prevent early escape of the obstacle course.  
+~
+0 131072 1
+D0
+~
+~
+0 0 17019
+D2
+~
+~
+0 0 17017
+S
+#17019
+A Small {wShack{x~
+You have entered a small dank shack.  It seems to be completly made of
+wood which is rotting and looks to the point of collapse.  A doorway leads
+to the road to the south and a doorway lies open to the west, leading into a
+dark and wet forest.  
+~
+0 131072 0
+D2
+~
+~
+0 0 17018
+D3
+~
+~
+0 0 17020
+S
+#17020
+A Dark Dank {GForest{x~
+As you walk further into the obstacle course, you stumble into a dark,
+dank forest.  The trees form a wall that almost seems to surround you.  You
+can vaguely see an open doorway to the east that leads into an old hut.  The
+path itself seems to curve towards the north, where you see a river flowing.
+~
+0 131072 3
+D0
+~
+~
+0 0 17021
+D1
+~
+~
+0 0 17019
+S
+#17021
+A Flowing {CRiver{x~
+The river flows from the north, apparently coming from a small mountain,
+and curves and flows through a grate in the wall to the east.  At this point
+it is clear that there is no bridge.  A raft will be necassary to continue
+north.  The dark dank forest lies to the south.  
+~
+0 131072 6
+D0
+~
+~
+0 0 17022
+D2
+~
+~
+0 0 17020
+S
+#17022
+Further Along the {BRiver{x~
+As you travel down the river, it gets deeper and deeper until you need
+either flight or a boat to continue.  A waterfall pours from a mountain to
+the north, and the water seems deep enough to dive into here.  The river
+flows to the south.  
+~
+0 131072 7
+D0
+~
+~
+0 0 17023
+D2
+~
+~
+0 0 17021
+D5
+~
+~
+0 0 17024
+S
+#17023
+A {rMountain{x Pass~
+You have ventured up a steep mountain pass.  The sounds of a waterfall
+come from the south and the smells of a swamp waft from the north.  From
+here, there is an excellent view of the rest of the training grounds at
+Bosco's Academy.  
+~
+0 131072 5
+D0
+~
+~
+0 0 17026
+D2
+~
+~
+0 0 17022
+D4
+~
+~
+0 0 17025
+S
+#17024
+Deep Into the {bRiver{x~
+You have dived deep into the river.  There is a certain calm under the
+water.  If you don't have the ability to breathe underwater, you will drown
+in a matter of minutes.  You can swim back to the surface by going up.  
+~
+0 131072 12
+D4
+~
+~
+0 0 17022
+S
+#17025
+High in the {WSky{x~
+You have flown high above the mountain!  From here you can see the
+training grounds of the Academy, and even the city of Midgaard.  The only
+way to go is back down to the mountain.  
+~
+0 131072 9
+D5
+~
+~
+0 0 17023
+S
+#17026
+A Murky {DMarsh{x~
+The smells of rotting plant life fill the air as you step into a swamp. 
+There are many insects buzzing around, and the smell is quite putrid.  The
+mountain path lies to the south, and some hills to the east.  A wall blocks
+the path to the north and west.  
+~
+0 131072 11
+D1
+~
+~
+0 0 17027
+D2
+~
+~
+0 0 17023
+S
+#17027
+Some Rocky {mHills{x~
+The path winds its way though several very rocky hills.  There are little
+windows in these hills, as if some creature lives within them.  An extremely
+foul smell comes from the west and a dry wind blows from the north.  
+~
+0 131072 4
+D0
+~
+~
+0 0 17028
+D3
+~
+~
+0 0 17026
+S
+#17028
+A Dry {YDesert{x~
+Your feet begin to sink a little as you stumble into the sand of a small
+desert.  The air is dry and hot, but yet there is hope.  The door leading to
+to the end of the course lies just ahead to the north.  The hills lie back
+to the south.  
+~
+0 131072 10
+D0
+A heavy wooden door.  
+~
+door~
+1 0 17029
+D2
+~
+~
+0 0 17027
+S
+#17029
+The End of the Course~
+You have reached the end of the obstacle course!  You have found yourself
+in a building similar to the one at the entrance of the academy.  In these
+halls you will learn of the different races of Terra and Dominia.  The
+Terran races are on the left (west) and the Dominian races are on the right
+(east).  Feel free to test your combat skills on the caged criminals.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17030
+S
+#17030
+The Halls of Learning~
+This hall is lined with marble and is lit by everburning torches.  The
+hall seems fairly straight, and has doors on both sides.  The door to the
+west is labeled "Humans 101" and the door to the east is labeled "Trolls
+101".  
+~
+0 131072 0
+D0
+~
+~
+0 0 17033
+D1
+~
+~
+0 0 17032
+D2
+~
+~
+0 0 17029
+D3
+~
+~
+0 0 17031
+S
+#17031
+A Classroom~
+This classroom is filled with young aspiring students sitting in desks in
+neat little rows.  A teacher stands near a chalkboard drawling on about the
+races of Terra.  The chalkboard seems to be covered in writings which go as
+follows: Humans are the most versatile of all the races of Terra and
+Dominia.  They are well suited to any class and tend to learn quickly.  They
+can remort into either Dopplegangers or Medusas.  
+~
+0 131072 0
+D1
+~
+~
+0 0 17030
+S
+#17032
+A Classroom~
+This classroom is filled with young aspiring students sitting in desks in
+neat little rows.  A teacher stands near a chalkboard drawling on about the
+races of Dominia.  The chalkboard seems to be covered in writings which go
+as follows: Trolls are smelly, aggressive, and dumb.  They are well suited
+as warriors, but have been seen as rogues.  Kill them with fire to end the
+battle quickly.  They can remort into Two-Headed or Spectral Trolls.  
+~
+0 131072 0
+D3
+~
+~
+0 0 17030
+S
+#17033
+The Halls of Learning~
+This hall is lined with marble and is lit by everburning torches.  The
+hall seems fairly straight, and has doors on both sides.  The door to the
+west is labeled "Elves 101" and the door to the east is labeled "Gargoyles
+101".  
+~
+0 131072 0
+D0
+~
+~
+0 0 17036
+D1
+~
+~
+0 0 17035
+D2
+~
+~
+0 0 17030
+D3
+~
+~
+0 0 17034
+S
+#17034
+A Classroom~
+This classroom is filled with young aspiring students sitting in desks in
+neat little rows.  A teacher stands near a chalkboard drawling on about the
+races of Terra.  The chalkboard seems to be covered in writings which go as
+follows: Elves are widespread throughout the forests and caves of Terra. 
+They are well suited for the life of thievery and make excellent
+spellcasters.  They can remort into Forest and Drow Elves.  
+~
+0 131072 0
+D1
+~
+~
+0 0 17033
+S
+#17035
+A Classroom~
+This classroom is filled with young aspiring students sitting in desks in
+neat little rows.  A teacher stands near a chalkboard drawling on about the
+races of Dominia.  The chalkboard seems to be covered in writings which go
+as follows: Gargoyles may just seem like statues at first, but they are
+extremely dangerous in battle.  Their rocky skin gives them a kind of damage
+resistance, so hit them with dull weapons to break up the stone.  They are
+quite often seen as runists and paladins.  They can remort into Sentinel or
+Haunting Gargoyles.  
+~
+0 131072 0
+D3
+~
+~
+0 0 17033
+S
+#17036
+The Halls of Learning~
+This hall is lined with marble and is lit by everburning torches.  The
+hall seems fairly straight, and has doors on both sides.  The door to the
+west is labeled "Dwarves 101" and the door to the east is labeled "Kirre
+101".  
+~
+0 131072 0
+D0
+~
+~
+0 0 17039
+D1
+~
+~
+0 0 17038
+D2
+~
+~
+0 0 17033
+D3
+~
+~
+0 0 17037
+S
+#17037
+A Classroom~
+This classroom is filled with young aspiring students sitting in desks in
+neat little rows.  A teacher stands near a chalkboard drawling on about the
+races of Terra.  The chalkboard seems to be covered in writings which go as
+follows: The dwarves of Terra are a hardy race that live in the deepest
+caves and the tallest mountains.  They make excellent warriors and skilled
+clerics.  They can remort into Grey Dwarves and Mountain Dwarves.  
+~
+0 131072 0
+D1
+~
+~
+0 0 17036
+S
+#17038
+A Classroom~
+This classroom is filled with young aspiring students sitting in desks in
+neat little rows.  A teacher stands near a chalkboard drawling on about the
+races of Dominia.  The chalkboard seems to be covered in writings which go
+as follows: Kirre are the vicious cat people of dominia.  You will most
+likely see them as warriors, but some take to the rogue life.  Very few are
+spellcasters.  Kirre remort into either Sabre or Dark Kirres.  
+~
+0 131072 0
+D3
+~
+~
+0 0 17036
+S
+#17039
+The Halls of Learning~
+This hall is lined with marble and is lit by everburning torches.  The
+hall seems fairly straight, and has doors on both sides.  The door to the
+west is labeled "Giants 101" and the door to the east is labeled "Slivers
+101".  
+~
+0 131072 0
+D0
+~
+~
+0 0 17042
+D1
+~
+~
+0 0 17044
+D2
+~
+~
+0 0 17036
+D3
+~
+~
+0 0 17040
+S
+#17040
+A Classroom~
+This classroom is filled with young aspiring students sitting in desks in
+neat little rows.  A teacher stands near a chalkboard drawling on about the
+races of Terra.  The chalkboard seems to be covered in writings which go as
+follows: The giants of Terra are the largest of the races.  They excel at
+being warriors and the destrucion of anything in their paths.  They can
+remort into either Cave or Hill Giants.  
+~
+0 131072 0
+D1
+~
+~
+0 0 17039
+S
+#17041
+A Classroom~
+This classroom is filled with young aspiring students sitting in desks in
+neat little rows.  A teacher stands near a chalkboard drawling on about the
+races of Terra.  The chalkboard seems to be covered in writings which go as
+follows: Marids are the underwater dwelling race of Terra.  They have an
+affinity with the elements, and are extremely dangerous spellcasters. 
+Marids can remort into Befoulers and Nereids.  
+~
+0 131072 0
+D2
+~
+~
+0 0 17042
+S
+#17042
+The Halls of Learning~
+This hall is lined with marble and is lit by everburning torches.  The
+hall seems fairly straight, and has doors on both sides.  The door to the
+west is labeled "Dragons 101" and the door to the north is labeled "Marids
+101".  The door leading into the next building lies to the east.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17041
+D1
+~
+~
+0 0 17045
+D2
+~
+~
+0 0 17039
+D3
+~
+~
+0 0 17043
+S
+#17043
+A Classroom~
+This classroom is filled with young aspiring students sitting in desks in
+neat little rows.  A teacher stands near a chalkboard drawling on about the
+races of Terra.  The chalkboard seems to be covered in writings which go as
+follows: The Dragons of Bosco are the most powerful of the races on Terra. 
+They can turn into any of 5 colors: {BBlue{x, {GGreen{x, {RRed{x, {DBlack{x,
+or {WWhite{x.  For each color, there are two remorts.  To find out more,
+type help dragon.  
+~
+0 131072 0
+D1
+~
+~
+0 0 17042
+S
+#17044
+A Classroom~
+This classroom is filled with young aspiring students sitting in desks in
+neat little rows.  A teacher stands near a chalkboard drawling on about the
+races of Dominia.  The chalkboard seems to be covered in writings which go
+as follows: Slivers are a strange race of creatures that cover Dominia. 
+They are quite alien in appearance and seem to be able to telepathically
+communicate with others of its kind.  They seem to carry unique abilities
+which surface at level 10.  They only benefit themselves from these
+abilities when they remort.  Slivers can remort into either Stinging or
+Abyssal Slivers.  
+~
+0 131072 0
+D3
+~
+~
+0 0 17039
+S
+#17045
+A Marble Hallway~
+This hall is lined with marble and is lit by everburning torches.  The
+hall continues to the north and a door leading into the classrooms lies to
+the west.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17046
+D3
+~
+~
+0 0 17042
+S
+#17046
+A Marble Hallway~
+This hall is lined with marble and is lit by everburning torches.  The
+hall goes to the east and to the south.  
+~
+0 131072 0
+D1
+~
+~
+0 0 17047
+D2
+~
+~
+0 0 17045
+S
+#17047
+A Marble Hallway~
+This hall is lined with marble and is lit by everburning torches.  The
+hall goes back to the west and a trapdoor leading into the guild rooms lies
+on the floor.  
+~
+0 131072 0
+D3
+~
+~
+0 0 17046
+D5
+A sturdy wooden trapdoor.
+~
+trapdoor~
+1 0 17048
+S
+#17048
+The Guildhalls~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  The Warriors Guild is to the north, The
+Thieves Guild is to the west, The Mages Guild is to the south, and The
+Cleric Guild lies to the east.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17049
+D1
+~
+~
+0 0 17061
+D2
+~
+~
+0 0 17057
+D3
+~
+~
+0 0 17053
+D4
+A sturdy trapdoor
+~
+trapdoor~
+1 0 17047
+D5
+~
+~
+0 0 17065
+S
+#17049
+The {BWarrior{x Guild~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  In this guild, you will learn how to best play
+a warrior, ranger, or paladin.  To learn more about rangers go to the west. 
+To learn more about paladins, go to the east.  For straight warriors, go to
+the north.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17051
+D1
+~
+~
+0 0 17050
+D2
+~
+~
+0 0 17048
+D3
+~
+~
+0 0 17052
+M 100 H 120
+S
+#17050
+The Paladin's Training Hall~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  Paladins are excellent warriors and decent
+spellcasters.  However, in general, you want to concentrate on one or the
+other.  If you wish to go more combat, take skills like trip and disarm as
+well as the defensive skills.  If you wish to go more caster, make sure you
+pick up the attack group of magic as well as the transportation.  Remember
+that you also have the ability to heal yourself through spells and Lay
+Hands.  Spending your trains on HP is very beneficial.  Paladins reclass
+into either Cavaliers or Tempalars.  
+~
+0 131072 0
+D3
+~
+~
+0 0 17049
+S
+#17051
+The Warrior's Training Hall~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  Warriors are best suited to straight combat. 
+Make use of bash and trip to keep your foes in combat, and dodge, parry and
+shield block to keep yourself from dying.  A small amount of casting can
+prove useful as well.  Concentrate on strength and damage equipment, and put
+your trains into hit points.  Warriors can reclass into Warlords or
+Barbarians.  
+~
+0 131072 0
+D2
+~
+~
+0 0 17049
+S
+#17052
+The Ranger's Training Hall~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  Rangers are well suited for tracking and
+fighting their prey.  Make use of bash or trip to keep them in battle, and
+hide and sneak to close in the ranks or run and hide.  Make good use of your
+spells to weaken or damage your foes.  Rangers also have archery, which
+allows them to attack foes from afar.  Concentrate on physical stat and
+damage gear for best results and put your trains into hit points.  Rangers
+can reclass into Bounty Hunters or Hermits.  
+~
+0 131072 0
+D1
+~
+~
+0 0 17049
+S
+#17053
+The {DThieves{x Guild~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  In this guild, you will learn how to best play
+a thief or a runist.  To learn more about thieves, go to the south.  To
+learn more about runists, go to the north.  Another room lies to the west.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17054
+D1
+~
+~
+0 0 17048
+D2
+~
+~
+0 0 17056
+D3
+~
+~
+0 0 17055
+S
+#17054
+The Runist's Training Hall~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  Runists are the most versatile and hardest
+class to play on Redemption.  They have several runes and tattoos to give
+themselves bonuses.  They also have the ability to enhance objects and trap
+rooms.  Train hit points or mana depending on the type of runist you are
+playing.  Runists reclass into either Psions or Zealots.  
+~
+0 131072 0
+D2
+~
+~
+0 0 17053
+S
+#17055
+The Thief Store!~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  A thief has apparently set up shop here.  You
+can buy some useful items from them.  Use {RBuy{x and {RSell{x to purchase
+equipment from them.  If you want to see their inventory, type {RList{x.  
+~
+0 131072 0
+D1
+~
+~
+0 0 17053
+S
+#17056
+The Thieves Training Hall~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  Thieves are the shadows of Redemption.  They
+are experts at sneaking around and stealing from others.  In combat, they
+can prove difficult to hit.  Use backstab to weaken your opponent quickly,
+then use trips to prevent them from fleeing.  Put your trains into hit
+points and a few into dexterity.  Thieves reclass into either Assassins or
+Rogues.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17053
+S
+#17057
+The {RMages{x Guild~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  In this guild you will learn how best to play
+a mage class.  The information in each room can usually be applied to the
+other mage classes.  The mage itself is a combination of all the arcane
+magics in Redemption.  Though not speciallized, their versatility can prove
+invaluable in many situations.  Place your trains into mana, hit points, and
+intelligence and wisdom for best results.  Mages can reclass into Alchemists
+and Wizards.  Enchanters go to the west, Conjurers to the south, and
+Invokers to the east.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17048
+D1
+~
+~
+0 0 17060
+D2
+~
+~
+0 0 17059
+D3
+~
+~
+0 0 17058
+S
+#17058
+The Enchanter's Training Hall~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  Enchanters are specialists in controlling the
+will of others.  Although weak in attack magic, they more than make up for
+it in the ability to charm and befuddle their foes.  Attempt to put your foe
+to sleep before combat even begins, for a decisive victory.  Place your
+trains into mana, hit points, and intelligence.  Enchanters reclass into
+Mystics or Illusionists.  
+~
+0 131072 0
+D1
+~
+~
+0 0 17057
+S
+#17059
+The Conjurer's Training Hall~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  Conjurers are the masters of summoning.  Their
+ability to call creatures makes it so they never need to get into combat
+themselves.  They also have Spirit Link and Carnal Reach which are very
+powerful versions of gate and summon.  Use attack magic and charmies to make
+your combats easier.  Place trains into mana, intelligence, and wisdom. 
+Conjurers reclass into Shamans and Sorcerors.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17057
+S
+#17060
+The Invoker's Training Hall~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  Invokers are the masters of offensive magics. 
+If your enemy has a weakness, the invoker can hit it.  Use your spells to
+deal heavy damage to foes, and don't give them a chance to fight back.  Some
+invokers even practice in the art of summoning demons, but be wary as the
+demons don't like to be summoned.  Use your trains in mana, hit points,
+wisdom, and intelligence.  Invokers reclass into Necromancers and Diviners. 
+~
+0 131072 0
+D3
+~
+~
+0 0 17057
+S
+#17061
+The {WCleric{x Guild~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  Clerics are the healers of Redemption.  In
+these halls, you will learn how best to play one of the clerical classes. 
+Each of the clerics are very different in their mindsets and beliefs. 
+Druids can learn to the south, Clerics to the east, and Monks to the north. 
+~
+0 131072 0
+D0
+~
+~
+0 0 17064
+D1
+~
+~
+0 0 17063
+D2
+~
+~
+0 0 17062
+D3
+~
+~
+0 0 17048
+S
+#17062
+The Druid's Training Hall~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  Druids draw their powers from nature itself. 
+They can cast a variety of spells to enhance themselves and their
+companions.  In addition, they are decent warriors in battle.  Make sure to
+spell yourself up before going into battle.  Trains can be well spent in hit
+points, mana, or any of the stats.  Druids can reclass into Herbalists or
+Hierophants.  
+~
+0 131072 0
+D0
+~
+~
+0 0 17061
+S
+#17063
+The Cleric's Training Hall~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  Clerics are the masters of healing and
+maladicts.  Use your healing abilites to keep yourself and your companions
+in tip top shape, and make use of your maladicts to blind and curse your
+foes.  Trains are well spent on hit points, mana, and wisdom.  Clerics can
+walk two paths on reclass: The path of evil, Heretic, or the path of good,
+Exorcist.  
+~
+0 131072 0
+D3
+~
+~
+0 0 17061
+S
+#17064
+The Monk's Training Hall~
+The guildhalls are less fancy than the previous halls.  The walls are no
+longer covered in marble, but rather in cold grey stone.  The room is lit by
+several torches on the wall.  Monks are unarmed specialists that excel in
+battle.  Concentrate on dealing a lot of damage quickly and make good use of
+your abilities to hit your foes vulnerable spots.  Trains are best spent in
+hit points, although using a few on dexterity or strength can be useful. 
+Monks can reclass into Ninjas or Samurai.  
+~
+0 131072 0
+D2
+~
+~
+0 0 17061
+S
+#17065
+The End of the Tutorial!~
+It's the end of of the tutorial!  If you think you need more practice or
+are missing any slots in your newbie gear, you may want to go back and find
+the pieces.  However, if you are ready, go ahead and descend the ladder
+down.  If you want to try player killing out, open the door to the north and
+enter the Arena.  You and other players (of level 5 or less) can attack each
+other and die without penalty.  If you wish to explore the rest of Terra,
+just walk to the south and you will be at recall in Midgaard.  
+~
+0 0 0
+D0
+~
+door~
+1 0 17161
+D2
+~
+~
+0 0 3001
+D4
+~
+~
+0 0 17048
+D5
+~
+door~
+0 0 17066
+S
+#17066
+Fort Bosco~
+This fort was built to run training exercises to replicate an authentic
+attack on a fort of Bosco.  It is your mission as a cadet to defend the fort
+against the attacking Dominian forces.  Go out and defeat the Commander of
+each attacking army.  They hold an item you may find useful in later levels.
+If you are up for a challenge, travel into the cellar of the fort and face a
+legendary beast.  Be warned that you must do this before you reach level 6. 
+When you are ready to leave the fort, go back up and then south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17068
+D1
+~
+~
+0 0 17071
+D2
+~
+~
+0 0 17070
+D3
+~
+~
+0 0 17069
+D4
+~
+door~
+0 0 17065
+D5
+~
+~
+0 0 17067
+S
+#17067
+Before the Lair of the Legendary Beast~
+You are in a dark tunnel under the fort.  The cave walls are covered in
+transparent slime and the floor is littered in bones.  You hear a sucking
+sound to the north, almost as if a creature is sucking the soul out of
+something.  If you think you are ready to tackle it, then head north and try
+to defeat it.  Make sure you are wearing full gear and have spells on when
+you combat it.  If it proves too tough, then try to rally some teammates to
+help you defeat it.  
+~
+0 131076 0
+D0
+~
+~
+0 0 17072
+D4
+~
+~
+0 0 17066
+S
+#17068
+North Gate of Fort Bosco~
+You stand before a mighty iron gate set into a twenty-foot stone wall. 
+Two mighty towers lie to the west and east.  Above you appears to be a
+catwalk for archers which can be accessed through the towers.  The central
+courtyard lies back to the south.  
+~
+0 0 0
+D0
+~
+gate~
+1 0 17142
+D1
+~
+~
+0 0 17074
+D2
+~
+~
+0 0 17066
+D3
+~
+~
+0 0 17073
+S
+#17069
+West Gate of Fort Bosco~
+You stand before a mighty iron gate set into a twenty-foot stone wall. 
+Two mighty towers lie to the north and south.  Above you appears to be a
+catwalk for archers which can be accessed through the towers.  The central
+courtyard lies back to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 17073
+D1
+~
+~
+0 0 17066
+D2
+~
+~
+0 0 17075
+D3
+A Giant iron clad gate blocks your path.
+~
+gate~
+1 0 17085
+S
+#17070
+South Gate of Fort Bosco~
+You stand before a mighty iron gate set into a twenty-foot stone wall.  Two
+mighty towers lie to the west and east.  Above you appears to be a catwalk
+for archers which can be accessed through the towers.  The central courtyard
+lies back to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 17066
+D1
+~
+~
+0 0 17076
+D2
+A giant iron gate blocks your path.
+~
+gate~
+1 0 17104
+D3
+~
+~
+0 0 17075
+S
+#17071
+East Gate of Fort Bosco~
+You stand before a mighty iron gate set into a twenty-foot stone wall. 
+Two mighty towers lie to the north and south.  Above you appears to be a
+catwalk for archers which can be accessed through the towers.  The central
+courtyard lies back to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 17074
+D1
+A sturdy iron gate blocks your path.
+~
+gate~
+1 0 17123
+D2
+~
+~
+0 0 17076
+D3
+~
+~
+0 0 17066
+S
+#17072
+The Lair of The Giant Snail!~
+You have reached the lair of the giant snail!  This snail is a survivor
+from the old arena, and he has grown to a massive size.  He will be
+difficult to kill by yourself.  However, the reward may be worth the risk. 
+The only exit is to the south.  
+~
+0 131072 0
+D2
+~
+~
+0 0 17067
+S
+#17073
+North-West Tower~
+You are standing in a sturdy stone tower.  Several beautiful tapestries
+line the walls depicting the symbol of Bosco.  A spiral staircase goes up to
+the top of the tower.  There are doorways to the south and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 17068
+D2
+~
+~
+0 0 17069
+D4
+~
+~
+0 0 17077
+S
+#17074
+North-East Tower~
+You are standing in a sturdy stone tower.  Several beautiful tapestries
+line the walls depicting the symbol of Bosco.  A spiral staircase goes up to
+the top of the tower.  There are doorways to the south and west.  
+~
+0 0 0
+D2
+~
+~
+0 0 17071
+D3
+~
+~
+0 0 17068
+D4
+~
+~
+0 0 17079
+S
+#17075
+South-West Tower~
+You are standing in a sturdy stone tower.  Several beautiful tapestries
+line the walls depicting the symbol of Bosco.  A spiral staircase goes up to
+the top of the tower.  There are doorways to the north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 17069
+D1
+~
+~
+0 0 17070
+D4
+~
+~
+0 0 17083
+S
+#17076
+South-East Tower~
+You are standing in a sturdy stone tower.  Several beautiful tapestries
+line the walls depicting the symbol of Bosco.  A spiral staircase goes up to
+the top of the tower.  There are doorways to the north and west. 
+~
+0 0 0
+D0
+~
+~
+0 0 17071
+D3
+~
+~
+0 0 17070
+D4
+~
+~
+0 0 17081
+S
+#17077
+Upper North-West Tower~
+You are standing upon a tall tower overlooking the battlegrounds.  If you
+knew how to use a bow or how to throw, you could attack enemies to the north
+or west from here.  The walkway continues to the south and east.
+~
+0 0 1
+D0
+~
+~
+0 0 17143
+D1
+~
+~
+0 0 17078
+D2
+~
+~
+0 0 17084
+D3
+~
+~
+0 0 17086
+D5
+~
+~
+0 0 17073
+S
+#17078
+Above the North Gate~
+You are standing on a catwalk above the northern gate.  From here you can
+see the battlefield to the north.  You notice many scorch marks and arrow
+dents in the battlements. Two grand towers lie to the west and east.
+~
+0 0 1
+D0
+~
+~
+0 0 17142
+D1
+~
+~
+0 0 17079
+D3
+~
+~
+0 0 17077
+S
+#17079
+Upper North-East Tower~
+You are standing upon a tall tower overlooking the battlegrounds.  If you
+knew how to use a bow or how to throw, you could attack enemies to the north
+or east from here.  The walkway continues to the south and west.
+~
+0 0 1
+D0
+~
+~
+0 0 17144
+D1
+~
+~
+0 0 17124
+D2
+~
+~
+0 0 17080
+D3
+~
+~
+0 0 17078
+D5
+~
+~
+0 0 17074
+S
+#17080
+Above the East Gate~
+You are standing on a catwalk above the eastern gate.  From here you can
+see the battlefield to the east.  You notice many scorch marks and arrow
+dents in the battlements.  Two grand towers lie to the north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17079
+D1
+~
+~
+0 0 17123
+D2
+~
+~
+0 0 17081
+S
+#17081
+Upper South-East Tower~
+You are standing upon a tall tower overlooking the battlegrounds.  If you
+knew how to use a bow or how to throw, you could attack enemies to the east
+or south from here.  The walkway continues to the west and north.
+~
+0 0 1
+D0
+~
+~
+0 0 17080
+D1
+~
+~
+0 0 17125
+D2
+~
+~
+0 0 17106
+D3
+~
+~
+0 0 17082
+D5
+~
+~
+0 0 17076
+S
+#17082
+Above the South Gate~
+You are standing on a catwalk above the southern gate.  From here you can
+see the battlefield to the south.  You notice many scorch marks and arrow
+dents in the battlements.  Two grand towers lie to the west and east.  
+~
+0 0 1
+D1
+~
+~
+0 0 17081
+D2
+~
+~
+0 0 17104
+D3
+~
+~
+0 0 17083
+S
+#17083
+Upper South-West Tower~
+You are standing upon a tall tower overlooking the battlegrounds.  If you
+knew how to use a bow or how to throw, you could attack enemies to the south
+or west from here.  The walkway continues to the north and east.
+~
+0 0 1
+D0
+~
+~
+0 0 17084
+D1
+~
+~
+0 0 17082
+D2
+~
+~
+0 0 17105
+D3
+~
+~
+0 0 17087
+D5
+~
+~
+0 0 17075
+S
+#17084
+Above the West Gate~
+You are standing on a catwalk above the western gate.  From here you can
+see the battlefield to the west.  You notice many scorch marks and arrow
+dents in the battlements.  Two grand towers lie to the north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17077
+D2
+~
+~
+0 0 17083
+D3
+~
+~
+0 0 17085
+S
+#17085
+Outside the Western Gate~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The western gate to the fortress lies to the east,
+and the battlefield lies open to the north, west, and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 17086
+D1
+A Giant iron clad gate blocks your path.
+~
+gate~
+1 0 17069
+D2
+~
+~
+0 0 17087
+D3
+~
+~
+0 0 17088
+S
+#17086
+The Western Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  You see a mighty tower to the east and the
+battlefield lies open to the west and south.  
+~
+0 0 2
+D2
+~
+~
+0 0 17085
+D3
+~
+~
+0 0 17089
+S
+#17087
+The Western Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  You see a mighty tower to the east and the
+battlefield lies open to the west and north.  
+~
+0 0 2
+D0
+~
+~
+0 0 17085
+D3
+~
+~
+0 0 17090
+S
+#17088
+The Western Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the north, west, south
+and east.  
+~
+0 0 2
+D0
+~
+~
+0 0 17089
+D1
+~
+~
+0 0 17085
+D2
+~
+~
+0 0 17090
+D3
+~
+~
+0 0 17091
+S
+#17089
+The Western Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the west, south, and
+east.  
+~
+0 0 2
+D1
+~
+~
+0 0 17086
+D2
+~
+~
+0 0 17088
+D3
+~
+~
+0 0 17092
+S
+#17090
+The Western Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the west, north, and
+east.  
+~
+0 0 2
+D0
+~
+~
+0 0 17088
+D1
+~
+~
+0 0 17087
+D3
+~
+~
+0 0 17093
+S
+#17091
+The Western Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  Banners belonging to the {DBlack{YClaw{x army flank the
+pathway to the west.  The battlefield lies open to the north, east, and
+south.  
+~
+0 0 2
+D0
+~
+~
+0 0 17092
+D1
+~
+~
+0 0 17088
+D2
+~
+~
+0 0 17093
+D3
+~
+~
+0 0 17094
+S
+#17092
+The Western Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the south and east.  
+~
+0 0 2
+D1
+~
+~
+0 0 17089
+D2
+~
+~
+0 0 17091
+S
+#17093
+The Western Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the north and east.  
+~
+0 0 2
+D0
+~
+~
+0 0 17091
+D1
+~
+~
+0 0 17090
+S
+#17094
+Path to the {DBlack{YClaw{x Camp~
+The path has slimmed to only a few feet wide.  You hear the sound of
+smiths sharpening blades and warriors preparing for battle.  The trees
+around you seem to grow darker with each step in.  Claw marks on each tree
+seem almost to be warning signs.  The path goes deeper into the forest to
+the west and into the battlefield to the east.  
+~
+0 0 3
+D1
+~
+~
+0 0 17091
+D3
+~
+~
+0 0 17095
+S
+#17095
+{DBlack{YClaw{x Camp~
+You are in the {DBlack{YClaw{x Camp.  The warriors seem to be preparing
+for their siege against the fort.  There are large trees all around you,
+each with a large hole carved into the base, big enough for a person to walk
+into.  The path through the camp continues to the west and the path to the
+battlefield lies to the east.  Large trees stand in the south and north.
+~
+0 0 3
+D0
+~
+~
+0 0 17096
+D1
+~
+~
+0 0 17094
+D2
+~
+~
+0 0 17097
+D3
+~
+~
+0 0 17098
+S
+#17096
+{DBlack{YClaw{x Camp~
+You have entered a barracks built into the base of a large tree.  Bunk
+beds have been carved into the walls.  A weapon and armor rack have been
+attached to the wall.  It looks as though the warriors are almost ready to
+strike.  The hole to the camp lies open to the south.  
+~
+0 0 3
+D2
+~
+~
+0 0 17095
+S
+#17097
+{DBlack{YClaw{x Camp~
+You have entered a barracks built into the base of a large tree.  Bunk
+beds have been carved into the walls.  A weapon and armor rack have been
+attached to the wall.  It looks as though the warriors are almost ready to
+strike.  The hole to the camp lies open to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 17095
+S
+#17098
+{DBlack{YClaw{x Camp~
+You are in the {DBlack{YClaw{x Camp.  The warriors seem to be preparing
+for their siege against the fort.  There are large trees all around you,
+each with a large hole carved into the base, big enough for a person to walk
+into.  The path through the camp continues to the west and the path to the
+battlefield lies to the east.  Large trees stand in the south and north.
+~
+0 0 3
+D0
+~
+~
+0 0 17099
+D1
+~
+~
+0 0 17095
+D2
+~
+~
+0 0 17100
+D3
+~
+~
+0 0 17101
+S
+#17099
+{DBlack{YClaw{x Camp~
+You have entered a barracks built into the base of a large tree.  Bunk
+beds have been carved into the walls.  A weapon and armor rack have been
+attached to the wall.  It looks as though the warriors are almost ready to
+strike.  The hole to the camp lies open to the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 17098
+S
+#17100
+{DBlack{YClaw{x Camp~
+You have entered a barracks built into the base of a large tree.  Bunk
+beds have been carved into the walls.  A weapon and armor rack have been
+attached to the wall.  It looks as though the warriors are almost ready to
+strike.  The hole to the camp lies open to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 17098
+S
+#17101
+{DBlack{YClaw{x Camp~
+You are in the {DBlack{YClaw{x Camp.  The warriors seem to be preparing
+for their siege against the fort.  There are large trees all around you,
+each with a large hole carved into the base, big enough for a person to walk
+into.  The path to the battlefield lies to the east.  Large trees stand in
+the south and north.  
+~
+0 0 3
+D0
+~
+~
+0 0 17102
+D1
+~
+~
+0 0 17098
+D2
+~
+~
+0 0 17103
+S
+#17102
+{DBlack{YClaw{x Camp~
+This appears to be the home of the BlackClaw Commander.  Its furnishings
+are much more plush including a large four post dragonskin bed.  A sort of
+throne also resides in this room, as if the commander plans to take much
+more than a few lives.  The hole leading back to the camp lies to the south.
+~
+0 0 0
+D2
+~
+~
+0 0 17101
+S
+#17103
+{DBlack{YClaw{x Camp~
+You have entered a barracks built into the base of a large tree.  Bunk
+beds have been carved into the walls.  A weapon and armor rack have been
+attached to the wall.  It looks as though the warriors are almost ready to
+strike.  The hole to the camp lies open to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 17101
+S
+#17104
+Outside the Southern Gate~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The southern gate to the fortress lies to the north,
+and the battlefield lies open to the east, west, and south.
+~
+0 0 1
+D0
+~
+gate~
+1 0 17070
+D1
+~
+~
+0 0 17106
+D2
+~
+~
+0 0 17107
+D3
+~
+~
+0 0 17105
+S
+#17105
+The Southern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  You see a mighty tower to the north and the
+battlefield lies open to the east and south.  
+~
+0 0 1
+D1
+~
+~
+0 0 17104
+D2
+~
+~
+0 0 17108
+S
+#17106
+The Southern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  You see a mighty tower to the north and the
+battlefield lies open to the west and south.  
+~
+0 0 1
+D2
+~
+~
+0 0 17109
+D3
+~
+~
+0 0 17104
+S
+#17107
+The Southern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the north, west,
+south, and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 17104
+D1
+~
+~
+0 0 17109
+D2
+~
+~
+0 0 17110
+D3
+~
+~
+0 0 17108
+S
+#17108
+The Southern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the north, south.  And
+east.  
+~
+0 0 1
+D0
+~
+~
+0 0 17105
+D1
+~
+~
+0 0 17107
+D2
+~
+~
+0 0 17111
+S
+#17109
+The Southern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the north, west, and
+south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17106
+D2
+~
+~
+0 0 17112
+D3
+~
+~
+0 0 17107
+S
+#17110
+The Southern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  Banners belonging to the {rBlood{wHive{x army flank
+the pathway to the south.  The battlefield lies open to the north, west, and
+east.  
+~
+0 0 1
+D0
+~
+~
+0 0 17107
+D1
+~
+~
+0 0 17112
+D2
+~
+~
+0 0 17113
+D3
+~
+~
+0 0 17111
+S
+#17111
+The Southern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the north and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 17108
+D1
+~
+~
+0 0 17110
+S
+#17112
+The Southern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the north and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 17109
+D3
+~
+~
+0 0 17110
+S
+#17113
+Path to the {rBlood{wHive{x Camp~
+The path has slimmed to only a few feet wide.  You hear the sound of
+smiths sharpening blades and warriors preparing for battle.  The path begins
+to descend into the earth, and the tunnel grows dark.  There is an eerie
+silence in the air that is quite unsettling.  The tunnel continues to the
+south and the battlefield lies to the north.  
+~
+0 9 4
+D0
+~
+~
+0 0 17110
+D2
+~
+~
+0 0 17114
+S
+#17114
+{rBlood{wHive{x Camp~
+The tunnel here is dark and damp.  There appears to be a sticky substance
+almost like a spider's web lining the walls, floors, and ceilings.  There is
+an overpowering scent of rotting flesh coming from the west and east tunnels
+and the tunnel descends further to the south.  The path up to the
+battlefield lies to the north.  
+~
+0 9 4
+D0
+~
+~
+0 0 17113
+D1
+~
+~
+0 0 17116
+D2
+~
+~
+0 0 17117
+D3
+~
+~
+0 0 17115
+S
+#17115
+{rBlood{wHive{x Camp~
+This room is somewhat round and seems to have been dug with claw like
+tools.  Large piles of eggs lie everywhere, and smell strongly of rotten
+flesh.  The same sticky substance seems to be lining this room as well.  It
+looks like the hive may almost have quite an army ready.  The tunnel back
+lies to the east.  
+~
+0 9 4
+D1
+~
+~
+0 0 17114
+S
+#17116
+{rBlood{wHive{x Camp~
+This room is somewhat round and seems to have been dug with claw like
+tools.  Large piles of eggs lie everywhere, and smell strongly of rotten
+flesh.  The same sticky substance seems to be lining this room as well.  It
+looks like the hive may almost have quite an army ready.  The tunnel back
+lies to the west.
+~
+0 9 4
+D3
+~
+~
+0 0 17114
+S
+#17117
+{rBlood{wHive{x Camp~
+The tunnel here is dark and damp.  There appears to be a sticky substance
+almost like a spider's web lining the walls, floors, and ceilings.  There is
+an overpowering scent of rotting flesh coming from the west and east tunnels
+and the tunnel descends further to the south.  The path up to the
+battlefield lies to the north.
+~
+0 9 4
+D0
+~
+~
+0 0 17114
+D1
+~
+~
+0 0 17119
+D2
+~
+~
+0 0 17120
+D3
+~
+~
+0 0 17118
+S
+#17118
+{rBlood{wHive{x Camp~
+This room is somewhat round and seems to have been dug with claw like
+tools.  Large piles of eggs lie everywhere, and smell strongly of rotten
+flesh.  The same sticky substance seems to be lining this room as well.  It
+looks like the hive may almost have quite an army ready.  The tunnel back
+lies to the east.
+~
+0 9 4
+D1
+~
+~
+0 0 17117
+S
+#17119
+{rBlood{wHive{x Camp~
+This room is somewhat round and seems to have been dug with claw like
+tools.  Large piles of eggs lie everywhere, and smell strongly of rotten
+flesh.  The same sticky substance seems to be lining this room as well.  It
+looks like the hive may almost have quite an army ready.  The tunnel back
+lies to the west.
+~
+0 9 4
+D3
+~
+~
+0 0 17117
+S
+#17120
+{rBlood{wHive{x Camp~
+The tunnel here is dark and damp.  There appears to be a sticky substance
+almost like a spider's web lining the walls, floors, and ceilings.  There is
+an overpowering scent of rotting flesh coming from the west and east tunnel.
+The path up to the battlefield lies to the north.  
+~
+0 9 4
+D0
+~
+~
+0 0 17117
+D1
+~
+~
+0 0 17122
+D3
+~
+~
+0 0 17121
+S
+#17121
+{rBlood{wHive{x Camp~
+This room is somewhat round and seems to have been dug with claw like
+tools.  Large piles of eggs lie everywhere, and smell strongly of rotten
+flesh.  The same sticky substance seems to be lining this room as well.  It
+looks like the hive may almost have quite an army ready.  The tunnel back
+lies to the east.
+~
+0 9 4
+D1
+~
+~
+0 0 17120
+S
+#17122
+{rBlood{wHive{x Camp~
+You have come across the queen's chamber.  The room is layered with the
+sticky substance that is found everywhere in this tunnel.  Although you
+might not have thought it, there appear to be luxuries all around her.  It
+appears that she is quite intelligent.  The exit back to the main tunnel
+lies to the west.  
+~
+0 9 4
+D3
+~
+~
+0 0 17120
+S
+#17123
+Outside the Eastern Gate~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The eastern gate to the fortress lies to the west,
+and the battlefield lies open to the east, north, and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 17124
+D1
+~
+~
+0 0 17126
+D2
+~
+~
+0 0 17125
+D3
+~
+gate~
+1 0 17071
+S
+#17124
+The Eastern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  You see a mighty tower to the west and the
+battlefield lies open to the east and south.  
+~
+0 0 2
+D1
+~
+~
+0 0 17127
+D2
+~
+~
+0 0 17123
+S
+#17125
+The Eastern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  You see a mighty tower to the west and the
+battlefield lies open to the east and north.  
+~
+0 0 2
+D0
+~
+~
+0 0 17123
+D1
+~
+~
+0 0 17128
+S
+#17126
+The Eastern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the north, west,
+south, and east.  
+~
+0 0 2
+D0
+~
+~
+0 0 17127
+D1
+~
+~
+0 0 17129
+D2
+~
+~
+0 0 17128
+D3
+~
+~
+0 0 17123
+S
+#17127
+The Eastern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the west, south, and
+east.  
+~
+0 0 2
+D1
+~
+~
+0 0 17130
+D2
+~
+~
+0 0 17126
+D3
+~
+~
+0 0 17124
+S
+#17128
+The Eastern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the north, west, and
+east.  
+~
+0 0 2
+D0
+~
+~
+0 0 17126
+D1
+~
+~
+0 0 17131
+D3
+~
+~
+0 0 17125
+S
+#17129
+The Eastern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  Banners belonging to the {wStone{bBlade{x army
+flank the pathway to the east.  The battlefield lies open to the north,
+west, and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 17130
+D1
+~
+~
+0 0 17132
+D2
+~
+~
+0 0 17131
+D3
+~
+~
+0 0 17126
+S
+#17130
+The Eastern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the west and south.  
+~
+0 0 2
+D2
+~
+~
+0 0 17129
+D3
+~
+~
+0 0 17127
+S
+#17131
+The Eastern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the west and north.
+~
+0 0 2
+D0
+~
+~
+0 0 17129
+D3
+~
+~
+0 0 17128
+S
+#17132
+Path to the {wStone{bBlade{x Camp~
+The path quickly turns into a steep set of stairs.  At the top you can
+see a monastery of sorts, and at the bottom seems to be the eastern front. 
+The sound of chanting and training seems to be coming from the east and the
+sounds of battle to the west.  
+~
+0 0 4
+D1
+~
+~
+0 0 17133
+D3
+~
+~
+0 0 17129
+S
+#17133
+{wStone{bBlade{x Camp~
+This monastery was built recently upon this hill.  It is made of dark
+stone and looks like it could withstand an enemy attack easily.  Great
+arches leading into the monestary lie to the north and south.  The path
+through continues to the east and the stairs down lie to the west.  
+~
+0 0 4
+D0
+~
+~
+0 0 17134
+D1
+~
+~
+0 0 17136
+D2
+~
+~
+0 0 17135
+D3
+~
+~
+0 0 17132
+S
+#17134
+{wStone{bBlade{x Camp~
+The inside of the monastery was built for training as well as prayer. 
+The room is well lit from candles lining the walls, and training tools lie
+neatly stacked in racks.  The archway back lies to the south.  
+~
+0 0 4
+D2
+~
+~
+0 0 17133
+S
+#17135
+{wStone{bBlade{x Camp~
+The inside of the monastery was build for training as well as prayer. 
+The room is well lit from candles lining the walls, and training tools lie
+neatly stacked in racks.  The archway back lies to the north.  
+~
+0 0 4
+D0
+~
+~
+0 0 17133
+S
+#17136
+{wStone{bBlade{x Camp~
+This monastery was built recently upon this hill.  It is made of dark
+stone and looks like it could withstand an enemy attack easily.  Great
+arches leading into the monestary lie to the north and south.  The path
+through continues to the east and the stairs down lie to the west.
+~
+0 0 4
+D0
+~
+~
+0 0 17137
+D1
+~
+~
+0 0 17139
+D2
+~
+~
+0 0 17138
+D3
+~
+~
+0 0 17133
+S
+#17137
+{wStone{bBlade{x Camp~
+The inside of the monastary was build for training as well as prayer. 
+The room is well lit from candles lining the walls, and training tools lie
+neatly stacked in racks.  The archway back lies to the south.
+~
+0 0 4
+D2
+~
+~
+0 0 17136
+S
+#17138
+{wStone{bBlade{x Camp~
+The inside of the monastery was build for training as well as prayer. 
+The room is well lit from candles lining the walls, and training tools lie
+neatly stacked in racks.  The archway back lies to the north.
+~
+0 0 4
+D0
+~
+~
+0 0 17136
+S
+#17139
+{wStone{bBlade{x Camp~
+This monastery was built recently upon this hill.  It is made of dark
+stone and looks like it could withstand an enemy attack easily.  Great
+arches leading into the monestary lie to the north and south.  The stairs
+down lie to the west.  
+~
+0 0 4
+D0
+~
+~
+0 0 17140
+D2
+~
+~
+0 0 17141
+D3
+~
+~
+0 0 17136
+S
+#17140
+{wStone{bBlade{x Camp~
+This inner chamber seems reserved for the Daimyo of the army.  The smell
+of incense and sweat fills the air and the sound of prayer resonates in the
+walls.  There are sleeping quarters as well.  The archway back lies to the
+south.  
+~
+0 0 4
+D2
+~
+~
+0 0 17139
+S
+#17141
+{wStone{bBlade{x Camp~
+The inside of the monastery was build for training as well as prayer. 
+The room is well lit from candles lining the walls, and training tools lie
+neatly stacked in racks.  The archway back lies to the north.  
+~
+0 0 4
+D0
+~
+~
+0 0 17139
+S
+#17142
+Outside the Northern Gate~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The northern gate to the fortress lies to the
+south, and the battlefield lies open to the east, west, and north.  
+~
+0 0 2
+D0
+~
+~
+0 0 17145
+D1
+~
+~
+0 0 17144
+D2
+~
+gate~
+1 0 17068
+D3
+~
+~
+0 0 17143
+S
+#17143
+The Northern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  You see a mighty tower to the south and the
+battlefield lies open to the north and east.
+~
+0 0 2
+D0
+~
+~
+0 0 17146
+D1
+~
+~
+0 0 17142
+S
+#17144
+The Northern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  You see a mighty tower to the south and the
+battlefield lies open to the north and west.
+~
+0 0 2
+D0
+~
+~
+0 0 17147
+D3
+~
+~
+0 0 17142
+S
+#17145
+The Northern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the north, west, south
+and east.  
+~
+0 0 2
+D0
+~
+~
+0 0 17148
+D1
+~
+~
+0 0 17147
+D2
+~
+~
+0 0 17142
+D3
+~
+~
+0 0 17146
+S
+#17146
+The Northern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the north, south, and
+east.  
+~
+0 0 2
+D0
+~
+~
+0 0 17149
+D1
+~
+~
+0 0 17145
+D2
+~
+~
+0 0 17143
+S
+#17147
+The Northern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the north, west, and
+south.  
+~
+0 0 2
+D0
+~
+~
+0 0 17150
+D2
+~
+~
+0 0 17144
+D3
+~
+~
+0 0 17145
+S
+#17148
+The Northern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  Banners belonging to the {yT{ce{ym{cp{ye{cs{yt{x army flank the
+pathway to the north.  The battlefield lies open to the west, east, and
+south.  
+~
+0 0 2
+D0
+~
+~
+0 0 17151
+D1
+~
+~
+0 0 17150
+D2
+~
+~
+0 0 17145
+D3
+~
+~
+0 0 17149
+S
+#17149
+The Northern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the south and east.
+~
+0 0 2
+D1
+~
+~
+0 0 17148
+D2
+~
+~
+0 0 17146
+S
+#17150
+The Northern Front~
+The battlefield outside the fortress is stained with the blood of Bosco's
+enemies.  The dirt is packed down and stained so it almost looks like
+reddish stone.  You hear the sound of distant warcries as if an army is
+trying to raise morale.  The battlefield lies open to the south and west.
+~
+0 0 2
+D2
+~
+~
+0 0 17147
+D3
+~
+~
+0 0 17148
+S
+#17151
+Path to the {yT{ce{ym{cp{ye{cs{yt{x Camp~
+The path to the Tempest camp is wet and mucky.  You notice the water
+level seems to be rising as you step.  If this doesn't improve, you will
+need a boat to go any further.  You hear the sound of running water to the
+north and the sounds of battle to the south.  
+~
+0 0 6
+D0
+~
+~
+0 0 17152
+D2
+~
+~
+0 0 17148
+S
+#17152
+{yT{ce{ym{cp{ye{cs{yt{x Camp~
+The camp appears to be a small lake.  The marids have certainly made
+themselves at home.  Small caves that house the invading army have been
+carved out of the rocky shore to the east and west.  The lake continues to
+the north and the river heading to the battlefield lies to the south.  
+~
+0 0 6
+D0
+~
+~
+0 0 17155
+D1
+~
+~
+0 0 17154
+D2
+~
+~
+0 0 17151
+D3
+~
+~
+0 0 17153
+S
+#17153
+{yT{ce{ym{cp{ye{cs{yt{x Camp~
+These small caves are flooded with water.  The weapons and armor of the
+marids don't seem to mind getting wet.  You are also suprised to see books
+on shelves under the water.  The opening to the lake lies to the east.  
+~
+0 0 6
+D1
+~
+~
+0 0 17152
+S
+#17154
+{yT{ce{ym{cp{ye{cs{yt{x Camp~
+These small caves are flooded with water.  The weapons and armor of the
+marids don't seem to mind getting wet.  You are also suprised to see books
+on shelves under the water.  The opening to the lake lies to the west.  
+~
+0 0 6
+D3
+~
+~
+0 0 17152
+S
+#17155
+{yT{ce{ym{cp{ye{cs{yt{x Camp~
+The camp appears to be a small lake.  The marids have certainly made
+themselves at home.  Small caves that house the invading army have been
+carved out of the rocky shore to the east and west.  The lake continues to
+the north and the river heading to the battlefield lies to the south.  
+~
+0 0 6
+D0
+~
+~
+0 0 17158
+D1
+~
+~
+0 0 17157
+D2
+~
+~
+0 0 17152
+D3
+~
+~
+0 0 17156
+S
+#17156
+{yT{ce{ym{cp{ye{cs{yt{x Camp~
+These small caves are flooded with water.  The weapons and armor of the
+marids don't seem to mind getting wet.  You are also suprised to see books
+on shelves under the water.  The opening to the lake lies to the east.
+~
+0 0 6
+D1
+~
+~
+0 0 17155
+S
+#17157
+{yT{ce{ym{cp{ye{cs{yt{x Camp~
+These small caves are flooded with water.  The weapons and armor of the
+marids don't seem to mind getting wet.  You are also suprised to see books
+on shelves under the water.  The opening to the lake lies to the west.  
+~
+0 0 6
+D3
+~
+~
+0 0 17155
+S
+#17158
+{yT{ce{ym{cp{ye{cs{yt{x Camp~
+The camp appears to be a small lake.  The marids have certainly made
+themselves at home.  Small caves that house the invading army have been
+carved out of the rocky shore to the east and west.  The river heading to
+the battlefield lies to the south.  
+~
+0 0 6
+D1
+~
+~
+0 0 17160
+D2
+~
+~
+0 0 17155
+D3
+~
+~
+0 0 17159
+S
+#17159
+{yT{ce{ym{cp{ye{cs{yt{x Camp~
+These small caves are flooded with water.  The weapons and armor of the
+marids don't seem to mind getting wet.  You are also suprised to see books
+on shelves under the water.  The opening to the lake lies to the east.
+~
+0 0 6
+D1
+~
+~
+0 0 17158
+S
+#17160
+{yT{ce{ym{cp{ye{cs{yt{x Camp~
+You have found the queen's quarters.  The room is well equipped with
+books and scrolls.  Beautiful furniture also lines the room.  There also
+seems to be a war table with a map of the fort.  It appears they plan to use
+magic to break the defenses.  The path to the lake lies to the west.  
+~
+0 0 6
+D3
+~
+~
+0 0 17158
+S
+#17161
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  {RYou are now
+in an area that you can be killed in by another player.  {x When you die you
+will reappear at a place called the Temple Healer.  To reenter the school,
+go south and up from there.  Exits lie to the north, west, and east, and the
+door to the school lies to the south.  
+~
+0 131088 0
+D0
+~
+~
+0 0 17163
+D1
+~
+~
+0 0 17164
+D2
+~
+door~
+1 0 17065
+D3
+~
+~
+0 0 17162
+S
+#17162
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the north, west, and east.  
+~
+0 131088 0
+D0
+~
+~
+0 0 17165
+D1
+~
+~
+0 0 17161
+D3
+~
+~
+0 0 17170
+S
+#17163
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the north, west, south, and east.  
+~
+0 131088 0
+D0
+~
+~
+0 0 17166
+D1
+~
+~
+0 0 17167
+D2
+~
+~
+0 0 17161
+D3
+~
+~
+0 0 17165
+S
+#17164
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the north, west, and east.  
+~
+0 131088 0
+D0
+~
+~
+0 0 17167
+D1
+~
+~
+0 0 17173
+D3
+~
+~
+0 0 17161
+S
+#17165
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the north, south, and east. 
+~
+0 131088 0
+D0
+~
+~
+0 0 17168
+D1
+~
+~
+0 0 17163
+D2
+~
+~
+0 0 17162
+S
+#17166
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the south, west, and east. 
+~
+0 131088 0
+D1
+~
+~
+0 0 17169
+D2
+~
+~
+0 0 17163
+D3
+~
+~
+0 0 17168
+S
+#17167
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the north, west, and south. 
+~
+0 131088 0
+D0
+~
+~
+0 0 17169
+D2
+~
+~
+0 0 17164
+D3
+~
+~
+0 0 17163
+S
+#17168
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the south, west, and east. 
+~
+0 131088 0
+D1
+~
+~
+0 0 17166
+D2
+~
+~
+0 0 17165
+D3
+~
+~
+0 0 17172
+S
+#17169
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the east, west, and south.
+~
+0 131088 0
+D1
+~
+~
+0 0 17175
+D2
+~
+~
+0 0 17167
+D3
+~
+~
+0 0 17166
+S
+#17170
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the north and east.  
+~
+0 131088 0
+D0
+~
+~
+0 0 17171
+D1
+~
+~
+0 0 17162
+S
+#17171
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the north, down, and south. 
+~
+0 131088 0
+D0
+~
+~
+0 0 17172
+D2
+~
+~
+0 0 17170
+D5
+~
+~
+0 0 17176
+S
+#17172
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the east and south.
+~
+0 131088 0
+D1
+~
+~
+0 0 17168
+D2
+~
+~
+0 0 17171
+S
+#17173
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the north and west.
+~
+0 131088 0
+D0
+~
+~
+0 0 17174
+D3
+~
+~
+0 0 17164
+S
+#17174
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the north and south.
+~
+0 131088 0
+D0
+~
+~
+0 0 17175
+D2
+~
+~
+0 0 17173
+D5
+~
+~
+0 0 17178
+S
+#17175
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the west and south.
+~
+0 131088 0
+D2
+~
+~
+0 0 17174
+D3
+~
+~
+0 0 17169
+S
+#17176
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the east and up.
+~
+0 131088 12
+D1
+~
+~
+0 0 17177
+D4
+~
+~
+0 0 17171
+S
+#17177
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the west and east.  
+~
+0 131088 12
+D1
+~
+~
+0 0 17178
+D3
+~
+~
+0 0 17176
+S
+#17178
+The Arena~
+You have entered a large arena.  The walls, floors, and ceilings are made
+of the same grey stone.  Everywhere is lit with torchlight.  Exits lie to
+the west and up.
+~
+0 131088 12
+D3
+~
+~
+0 0 17177
+D4
+~
+~
+0 0 17174
+S
+#17179
+Welcome to Redemption~
+You are standing in a round marble room lit from torches.  A sparkling
+ladder leads up into the Military Academy lobby.  Another ladder seems to
+descend down into Midgaard.  {RIf you are new to Redemption, please type up
+to climb up the ladder into the Academy and walk through the Tutorial.  {x
+If you are levels 1-5 you should first level in the Tutorial area.  The Fort
+is meant for levels 4-10.  
+~
+0 0 0
+D0
+~
+~
+0 0 17066
+D4
+~
+~
+0 0 17000
+D5
+~
+~
+0 0 3001
+S
+#17199
+Ravenfeather's Sanctuary~
+Anderyn's office is a fairly nice room.  It is decorated in a very
+business like manor.  An old sturdy desk and an old coke machine sit in the
+room looking perfectly normal.  Some lovely tapestries line the walls and a
+comfy couch sits next to a wall.  There are no visable exits.  
+~
+0 805838868 0
+M 200 H 200
+S
+#0
+
+
+
+#SPECIALS
+M 17042 spec_breath_gas Load to: a legendary giant {gsnail{x
+M 17043 spec_lowbie_spellup Load to: Ghal, Bosco's military commander
+M 17046 spec_guard Load to: a dwarven soldier
+M 17048 spec_guard Load to: a dragon soldier
+M 17057 spec_guard Load to: a troll knight
+M 17068 spec_cast_cleric Load to: a spirit speaker
+M 17073 spec_executioner Load to: {bTokogane{x, daimyo of the StoneBlades
+M 17074 spec_thief Load to: a sneak thief
+M 17080 spec_thief Load to: {DKanos{x the dark assassin
+M 17086 spec_cast_mage Load to: a song nymph
+M 17087 spec_cast_mage Load to: {wDianti{x, queen of the sea nymphs
+M 17088 spec_janitor Load to: a Bosco school custodian
+S
+
+
+
+#MOBPROGS
+#17002
+say Make sure you read the rules and understand them before you continue.
+wink $n
+say Ignorance of the rules is not a valid reason for cheating.
+~
+A
+#17001
+say Thank you! I was looking for that.
+smile $n
+mob oload 17063
+give potion $n
+say Here is a healer sample potion as some compensation.
+~
+A
+#17000
+if carries $n 17002
+shake $n
+say Welcome back {W$N!{x
+else
+say Welcome to {RRedemption{x {y$N!{x
+mob oload 17002 1
+give guide $n
+say Make sure you read Bosco's Guide to Redemption if you are new.
+say Do so by typing Look Book.
+smile $n
+end if
+~
+A
+#0
+
+#RESETS
+D 0 17005 0 1
+D 0 17010 0 1
+D 0 17010 2 1
+D 0 17011 2 1
+D 0 17028 0 1
+D 0 17047 5 1
+D 0 17048 4 1
+D 0 17065 0 1
+D 0 17068 0 1
+D 0 17069 3 1
+D 0 17070 2 1
+D 0 17071 1 1
+D 0 17085 1 1
+D 0 17104 0 1
+D 0 17123 3 1
+D 0 17142 2 1
+D 0 17161 2 1
+O 0 17047 0 17000
+C 100 percent for next reset
+O 0 17001 0 17000
+M 1 17000 1 17000 1
+G 0 17002 0
+C 100 percent for next reset
+O 0 17003 0 17009
+C 100 percent for next reset
+M 1 17090 20 17009 2
+C 100 percent for next reset
+O 0 17001 0 17010
+C 100 percent for next reset
+M 1 17002 1 17010 1
+C 100 percent for next reset
+G 0 17004 0
+C 100 percent for next reset
+O 0 17016 0 17011
+P 0 17123 100 17016 1
+C 100 percent for next reset
+P 0 17015 50 17016 1
+C 100 percent for next reset
+P 0 17017 50 17016 2
+C 100 percent for next reset
+P 0 17018 50 17016 1
+C 100 percent for next reset
+P 0 17019 50 17016 1
+P 0 17021 50 17016 1
+C 100 percent for next reset
+O 0 17020 0 17012
+C 100 percent for next reset
+M 1 17090 20 17013 2
+C 100 percent for next reset
+M 1 17001 1 17014 1
+C 100 percent for next reset
+M 1 17004 1 17015 1
+G 0 17046 0
+C 100 percent for next reset
+M 1 17005 1 17016 1
+G 0 17045 0
+M 1 17006 1 17018 100
+C 100 percent for next reset
+E 0 17011 0 16
+C 100 percent for next reset
+M 1 17023 1 17019 1
+C 100 percent for next reset
+G 0 17015 0
+G 0 17031 0
+M 1 17007 1 17020 100
+C 100 percent for next reset
+G 0 17022 0
+G 0 17029 0
+C 100 percent for next reset
+M 1 17024 1 17021 1
+G 0 17027 0
+C 100 percent for next reset
+M 1 17025 1 17023 1
+G 0 17033 0
+G 0 17033 0
+M 1 17008 1 17024 100
+C 100 percent for next reset
+G 0 17023 0
+C 100 percent for next reset
+M 1 17090 20 17026 1
+C 100 percent for next reset
+M 1 17026 1 17026 1
+G 0 17030 0
+C 100 percent for next reset
+M 1 17027 1 17027 1
+G 0 17028 0
+C 100 percent for next reset
+M 1 17028 1 17028 1
+G 0 17032 0
+M 1 17009 1 17031 100
+C 100 percent for next reset
+M 1 17014 1 17032 1
+M 1 17010 1 17034 100
+M 1 17015 1 17035 100
+C 100 percent for next reset
+M 1 17090 20 17036 1
+M 1 17011 1 17037 100
+M 1 17016 1 17038 100
+C 100 percent for next reset
+M 1 17012 1 17040 1
+M 1 17017 1 17041 100
+C 100 percent for next reset
+M 1 17013 1 17043 1
+C 100 percent for next reset
+M 1 17018 1 17044 1
+C 100 percent for next reset
+M 1 17090 20 17048 1
+C 100 percent for next reset
+M 1 17021 1 17048 1
+G 0 17013 0
+G 0 17012 0
+G 0 17011 0
+G 0 17010 0
+G 0 17009 0
+G 0 17008 0
+G 0 17007 0
+G 0 17006 0
+G 0 17005 0
+G 0 17049 0
+G 0 17050 0
+M 1 17019 1 17049 100
+C 100 percent for next reset
+M 1 17032 1 17050 1
+G 0 17038 0
+C 100 percent for next reset
+M 1 17031 1 17051 1
+G 0 17037 0
+C 100 percent for next reset
+M 1 17030 1 17052 1
+G 0 17036 0
+C 100 percent for next reset
+M 1 17020 1 17053 1
+C 100 percent for next reset
+M 1 17033 1 17054 1
+G 0 17040 0
+C 100 percent for next reset
+M 1 17035 1 17055 1
+G 0 17041 0
+C 100 percent for next reset
+M 1 17022 1 17055 1
+G 0 17026 0
+G 0 17025 0
+C 100 percent for next reset
+M 1 17034 1 17056 1
+G 0 17039 0
+C 100 percent for next reset
+M 1 17029 1 17057 1
+C 100 percent for next reset
+M 1 17036 1 17058 1
+G 0 17034 0
+C 100 percent for next reset
+M 1 17037 1 17059 1
+G 0 17024 0
+C 100 percent for next reset
+M 1 17038 1 17060 1
+E 0 17035 0 11
+C 100 percent for next reset
+M 1 17003 1 17061 1
+C 100 percent for next reset
+M 1 17039 1 17062 1
+G 0 17042 0
+C 100 percent for next reset
+M 1 17040 1 17063 1
+G 0 17043 0
+C 100 percent for next reset
+M 1 17041 1 17064 1
+G 0 17044 0
+C 75 percent for next reset
+M 1 17088 4 17065 1
+C 10 percent for next reset
+G 0 17000 0
+C 100 percent for next reset
+M 1 17090 20 17066 1
+O 0 17047 0 17066
+C 100 percent for next reset
+M 1 17043 1 17066 1
+E 0 17055 0 12
+E 0 17065 0 0
+C 100 percent for next reset
+M 1 17048 4 17068 1
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+E 0 17064 0 9
+E 0 17065 0 0
+C 100 percent for next reset
+M 1 17048 4 17069 1
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+E 0 17064 0 9
+E 0 17065 0 0
+C 100 percent for next reset
+M 1 17048 4 17070 1
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+E 0 17064 0 9
+E 0 17065 0 0
+C 100 percent for next reset
+M 1 17048 4 17071 1
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+E 0 17064 0 9
+E 0 17065 0 0
+C 100 percent for next reset
+M 1 17090 20 17072 1
+C 100 percent for next reset
+M 1 17042 1 17072 1
+E 0 17048 0 17
+C 100 percent for next reset
+M 1 17049 1 17073 1
+G 0 17064 0
+G 0 17060 0
+G 0 17055 0
+G 0 17054 0
+G 0 17053 0
+C 100 percent for next reset
+M 1 17044 4 17073 1
+E 0 17052 0 16
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+M 1 17051 1 17074 1
+G 0 17069 0
+G 0 17068 0
+G 0 17067 0
+G 0 17061 0
+G 0 17066 0
+C 100 percent for next reset
+M 1 17044 4 17074 1
+E 0 17052 0 16
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+M 1 17050 1 17075 1
+G 0 17052 0
+G 0 17062 0
+G 0 17059 0
+G 0 17058 0
+G 0 17057 0
+G 0 17056 0
+C 100 percent for next reset
+M 1 17044 4 17075 1
+E 0 17052 0 16
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+M 1 17052 1 17076 1
+G 0 17021 0
+G 0 17018 0
+G 0 17017 0
+G 0 17065 0
+G 0 17051 0
+C 100 percent for next reset
+M 1 17044 4 17076 1
+E 0 17052 0 16
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+C 100 percent for next reset
+M 1 17047 4 17077 1
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+E 0 17062 0 17
+C 100 percent for next reset
+M 1 17046 4 17077 1
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+E 0 17059 0 16
+E 0 17060 0 6
+C 100 percent for next reset
+M 1 17045 4 17078 1
+E 0 17053 0 5
+E 0 17055 0 12
+E 0 17056 0 16
+E 0 17057 0 9
+G 0 17058 0
+G 0 17051 0
+C 100 percent for next reset
+M 1 17047 4 17079 1
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+E 0 17062 0 17
+C 100 percent for next reset
+M 1 17046 4 17079 1
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+E 0 17059 0 16
+E 0 17060 0 6
+G 0 17061 0
+C 100 percent for next reset
+M 1 17045 4 17080 1
+E 0 17053 0 5
+E 0 17055 0 12
+E 0 17056 0 16
+E 0 17057 0 9
+G 0 17058 0
+C 100 percent for next reset
+M 1 17047 4 17081 1
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+E 0 17062 0 17
+C 100 percent for next reset
+M 1 17046 4 17081 1
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+E 0 17059 0 16
+E 0 17060 0 6
+C 100 percent for next reset
+M 1 17045 4 17082 1
+E 0 17053 0 5
+E 0 17055 0 12
+E 0 17056 0 16
+E 0 17057 0 9
+G 0 17058 0
+C 100 percent for next reset
+M 1 17047 4 17083 1
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+E 0 17062 0 17
+C 100 percent for next reset
+M 1 17046 4 17083 1
+E 0 17053 0 5
+E 0 17054 0 11
+E 0 17055 0 12
+E 0 17059 0 16
+E 0 17060 0 6
+C 100 percent for next reset
+M 1 17045 4 17084 1
+E 0 17053 0 5
+E 0 17055 0 12
+E 0 17056 0 16
+E 0 17057 0 9
+G 0 17058 0
+C 100 percent for next reset
+M 1 17053 8 17086 1
+E 0 17070 0 12
+E 0 17073 0 16
+C 100 percent for next reset
+M 1 17053 8 17087 1
+E 0 17070 0 12
+E 0 17073 0 16
+C 100 percent for next reset
+M 1 17054 12 17088 1
+E 0 17070 0 12
+E 0 17071 0 5
+E 0 17074 0 16
+C 100 percent for next reset
+M 1 17054 12 17089 1
+E 0 17070 0 12
+E 0 17074 0 16
+C 100 percent for next reset
+M 1 17055 8 17089 1
+E 0 17070 0 12
+E 0 17075 0 16
+E 0 17057 0 17
+C 100 percent for next reset
+M 1 17054 12 17090 1
+E 0 17070 0 12
+E 0 17074 0 16
+C 100 percent for next reset
+M 1 17055 8 17090 1
+E 0 17070 0 12
+E 0 17075 0 16
+E 0 17057 0 17
+C 100 percent for next reset
+M 1 17058 3 17091 1
+E 0 17070 0 12
+E 0 17078 0 16
+C 100 percent for next reset
+M 1 17057 8 17092 1
+E 0 17070 0 12
+E 0 17077 0 16
+C 100 percent for next reset
+M 1 17056 8 17092 1
+E 0 17070 0 12
+E 0 17072 0 11
+E 0 17076 0 16
+C 100 percent for next reset
+M 1 17057 8 17093 1
+E 0 17070 0 12
+E 0 17072 0 11
+E 0 17077 0 16
+C 100 percent for next reset
+M 1 17056 8 17093 1
+E 0 17070 0 12
+G 0 17076 0
+C 100 percent for next reset
+M 1 17090 20 17094 1
+C 100 percent for next reset
+M 1 17074 3 17095 1
+E 0 17101 0 10
+E 0 17102 0 16
+E 0 17103 0 3
+C 100 percent for next reset
+M 1 17076 1 17096 1
+E 0 17101 0 10
+E 0 17102 0 16
+E 0 17105 0 9
+C 100 percent for next reset
+M 1 17077 1 17097 1
+E 0 17101 0 10
+E 0 17106 0 0
+E 0 17102 0 16
+C 100 percent for next reset
+M 1 17074 3 17098 1
+E 0 17101 0 10
+E 0 17102 0 16
+E 0 17103 0 3
+C 100 percent for next reset
+M 1 17078 1 17099 1
+E 0 17101 0 10
+E 0 17102 0 16
+E 0 17107 0 1
+C 100 percent for next reset
+M 1 17079 1 17100 1
+E 0 17101 0 10
+E 0 17102 0 16
+E 0 17108 0 7
+C 100 percent for next reset
+M 1 17074 3 17101 1
+E 0 17101 0 10
+E 0 17102 0 16
+E 0 17103 0 3
+C 100 percent for next reset
+M 1 17080 1 17102 1
+E 0 17101 0 10
+E 0 17102 0 16
+E 0 17109 0 18
+G 0 17110 0
+C 100 percent for next reset
+M 1 17075 2 17103 2
+E 0 17101 0 10
+E 0 17102 0 16
+E 0 17104 0 14
+C 100 percent for next reset
+M 1 17053 8 17105 1
+E 0 17070 0 12
+E 0 17073 0 16
+C 100 percent for next reset
+M 1 17053 8 17106 1
+E 0 17070 0 12
+E 0 17073 0 16
+C 100 percent for next reset
+M 1 17054 12 17107 1
+E 0 17070 0 12
+E 0 17071 0 5
+E 0 17074 0 16
+C 100 percent for next reset
+M 1 17054 12 17108 1
+E 0 17070 0 12
+E 0 17074 0 16
+C 100 percent for next reset
+M 1 17055 8 17108 1
+E 0 17070 0 12
+E 0 17075 0 16
+E 0 17057 0 17
+C 100 percent for next reset
+M 1 17054 12 17109 1
+E 0 17070 0 12
+E 0 17074 0 16
+C 100 percent for next reset
+M 1 17055 8 17109 1
+E 0 17070 0 12
+E 0 17075 0 16
+E 0 17057 0 17
+C 100 percent for next reset
+M 1 17059 1 17110 1
+E 0 17070 0 12
+E 0 17080 0 5
+E 0 17072 0 11
+E 0 17079 0 16
+C 100 percent for next reset
+M 1 17057 8 17111 1
+E 0 17070 0 12
+E 0 17077 0 16
+C 100 percent for next reset
+M 1 17056 8 17111 1
+E 0 17070 0 12
+E 0 17072 0 11
+E 0 17076 0 16
+C 100 percent for next reset
+M 1 17057 8 17112 1
+E 0 17070 0 12
+E 0 17077 0 16
+C 100 percent for next reset
+M 1 17056 8 17112 1
+E 0 17070 0 12
+E 0 17076 0 16
+C 100 percent for next reset
+M 1 17090 20 17113 1
+C 100 percent for next reset
+M 1 17061 3 17114 1
+E 0 17081 0 3
+E 0 17083 0 17
+C 100 percent for next reset
+M 1 17060 4 17115 4
+E 0 17081 0 3
+C 100 percent for next reset
+M 1 17060 4 17115 4
+E 0 17081 0 3
+C 100 percent for next reset
+M 1 17060 4 17115 4
+G 0 17082 0
+E 0 17081 0 3
+C 100 percent for next reset
+M 1 17060 4 17115 4
+E 0 17081 0 3
+C 100 percent for next reset
+M 1 17062 1 17116 1
+E 0 17081 0 3
+E 0 17084 0 7
+C 100 percent for next reset
+M 1 17061 3 17117 1
+E 0 17081 0 3
+E 0 17083 0 17
+C 100 percent for next reset
+M 1 17064 1 17118 1
+E 0 17081 0 3
+E 0 17086 0 13
+C 100 percent for next reset
+M 1 17063 1 17119 1
+E 0 17081 0 3
+E 0 17085 0 11
+C 100 percent for next reset
+M 1 17061 3 17120 1
+E 0 17081 0 3
+E 0 17083 0 17
+C 100 percent for next reset
+M 1 17065 1 17121 1
+E 0 17081 0 3
+E 0 17087 0 15
+C 100 percent for next reset
+M 1 17066 1 17122 1
+E 0 17081 0 3
+E 0 17088 0 18
+E 0 17089 0 0
+G 0 17090 0
+C 100 percent for next reset
+M 1 17053 8 17124 1
+E 0 17070 0 12
+E 0 17073 0 16
+C 100 percent for next reset
+M 1 17053 8 17125 1
+E 0 17070 0 12
+E 0 17073 0 16
+C 100 percent for next reset
+M 1 17054 12 17126 1
+E 0 17070 0 12
+E 0 17071 0 5
+E 0 17074 0 16
+C 100 percent for next reset
+M 1 17054 12 17127 1
+E 0 17070 0 12
+E 0 17074 0 16
+C 100 percent for next reset
+M 1 17055 8 17127 1
+E 0 17070 0 12
+E 0 17075 0 16
+E 0 17057 0 17
+C 100 percent for next reset
+M 1 17054 12 17128 1
+E 0 17070 0 12
+E 0 17074 0 16
+C 100 percent for next reset
+M 1 17055 8 17128 1
+E 0 17070 0 12
+E 0 17075 0 16
+E 0 17057 0 17
+C 100 percent for next reset
+M 1 17058 3 17129 1
+E 0 17070 0 12
+E 0 17078 0 16
+C 100 percent for next reset
+M 1 17057 8 17130 1
+E 0 17070 0 12
+E 0 17077 0 16
+C 100 percent for next reset
+M 1 17056 8 17130 1
+E 0 17070 0 12
+E 0 17076 0 16
+C 100 percent for next reset
+M 1 17057 8 17131 1
+E 0 17070 0 12
+E 0 17077 0 16
+C 100 percent for next reset
+M 1 17056 8 17131 1
+E 0 17070 0 12
+E 0 17072 0 11
+E 0 17076 0 16
+C 100 percent for next reset
+M 1 17090 20 17132 1
+C 100 percent for next reset
+M 1 17067 3 17133 1
+E 0 17091 0 12
+E 0 17092 0 13
+E 0 17093 0 17
+C 100 percent for next reset
+M 1 17069 1 17134 1
+E 0 17095 0 16
+E 0 17092 0 13
+E 0 17091 0 12
+C 100 percent for next reset
+M 1 17068 1 17135 1
+E 0 17091 0 12
+E 0 17092 0 13
+E 0 17094 0 6
+C 100 percent for next reset
+M 1 17067 3 17136 1
+E 0 17091 0 12
+E 0 17092 0 13
+E 0 17093 0 17
+C 100 percent for next reset
+M 1 17071 1 17137 1
+E 0 17091 0 12
+E 0 17092 0 13
+E 0 17097 0 16
+C 100 percent for next reset
+M 1 17070 2 17138 2
+E 0 17091 0 12
+E 0 17092 0 13
+E 0 17096 0 8
+C 100 percent for next reset
+M 1 17067 3 17139 1
+E 0 17091 0 12
+E 0 17092 0 13
+E 0 17093 0 17
+C 100 percent for next reset
+M 1 17073 1 17140 1
+E 0 17091 0 12
+E 0 17092 0 13
+E 0 17098 0 16
+E 0 17099 0 2
+G 0 17100 0
+C 100 percent for next reset
+M 1 17072 1 17141 1
+E 0 17091 0 12
+E 0 17092 0 13
+E 0 17098 0 16
+C 100 percent for next reset
+M 1 17053 8 17143 1
+E 0 17070 0 12
+E 0 17073 0 16
+C 100 percent for next reset
+M 1 17053 8 17144 1
+E 0 17070 0 12
+E 0 17073 0 16
+C 100 percent for next reset
+M 1 17054 12 17145 1
+E 0 17070 0 12
+E 0 17071 0 5
+E 0 17074 0 16
+C 100 percent for next reset
+M 1 17054 12 17146 1
+E 0 17070 0 12
+E 0 17074 0 16
+C 100 percent for next reset
+M 1 17055 8 17146 1
+E 0 17070 0 12
+E 0 17075 0 16
+E 0 17057 0 17
+C 100 percent for next reset
+M 1 17054 12 17147 1
+E 0 17070 0 12
+E 0 17074 0 16
+C 100 percent for next reset
+M 1 17055 8 17147 1
+E 0 17070 0 12
+E 0 17075 0 16
+E 0 17057 0 17
+C 100 percent for next reset
+M 1 17058 3 17148 1
+E 0 17070 0 12
+E 0 17078 0 16
+C 100 percent for next reset
+M 1 17057 8 17149 1
+E 0 17070 0 12
+E 0 17077 0 16
+C 100 percent for next reset
+M 1 17056 8 17149 1
+E 0 17070 0 12
+E 0 17072 0 11
+E 0 17076 0 16
+C 100 percent for next reset
+M 1 17057 8 17150 1
+E 0 17070 0 12
+E 0 17072 0 11
+E 0 17077 0 16
+C 100 percent for next reset
+M 1 17056 8 17150 1
+E 0 17070 0 12
+E 0 17076 0 16
+C 100 percent for next reset
+M 1 17090 20 17151 1
+C 100 percent for next reset
+M 1 17081 3 17152 1
+E 0 17111 0 3
+E 0 17112 0 0
+E 0 17113 0 10
+C 100 percent for next reset
+M 1 17082 2 17153 2
+E 0 17111 0 3
+E 0 17112 0 0
+E 0 17114 0 17
+C 100 percent for next reset
+M 1 17085 1 17154 1
+E 0 17111 0 3
+E 0 17112 0 0
+E 0 17117 0 8
+C 100 percent for next reset
+M 1 17081 3 17155 1
+E 0 17111 0 3
+E 0 17112 0 0
+E 0 17113 0 10
+C 100 percent for next reset
+M 1 17083 2 17156 2
+E 0 17111 0 3
+E 0 17112 0 0
+E 0 17115 0 17
+C 100 percent for next reset
+M 1 17086 1 17157 1
+E 0 17111 0 3
+E 0 17112 0 0
+E 0 17118 0 9
+C 100 percent for next reset
+M 1 17081 3 17158 1
+E 0 17111 0 3
+E 0 17112 0 0
+E 0 17113 0 10
+C 100 percent for next reset
+M 1 17084 2 17159 2
+E 0 17111 0 3
+E 0 17112 0 0
+E 0 17116 0 17
+C 100 percent for next reset
+M 1 17087 1 17160 1
+E 0 17111 0 3
+E 0 17112 0 0
+G 0 17120 0
+E 0 17119 0 6
+E 0 17113 0 10
+E 0 17124 0 17
+C 100 percent for next reset
+M 1 17090 20 17163 1
+C 100 percent for next reset
+M 1 17089 1 17199 1
+G 0 17121 0
+C 100 percent for next reset
+O 0 17001 0 17199
+O 0 17122 0 17199
+S
+
+
+
+#SHOPS
+17000 9 0 0 0 0 50 0 0 23
+17021 5 0 0 0 0 100 50 0 23
+17022 9 33 32 26 8 100 50 0 23
+17049 9 11 0 0 0 150 50 0 23
+17050 5 35 41 0 0 150 50 0 23
+17051 3 4 2 10 26 150 50 0 23
+17052 19 17 32 1 22 150 50 0 23
+17089 17 0 0 0 0 100 0 0 23
+0
+
+
+
+#$

@@ -1,0 +1,1573 @@
+#AREADATA
+Name Pixie Forest~
+Builders None~
+VNUMs 100 165
+Credits { 1 10} Gothic      Pixie Forest~
+Security 9
+Xcontinent 0
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#101
+pixie~
+a pixie~
+A pixie is flying around the trees.
+~
+A cute little orange-haired pixie, its skin as white as
+snow, and its eyes the brightest blue ever seen.
+~
+human~
+AGHS 0 100 0
+1 0 2d4+2 0d9+100 1d2+0 none
+10 10 10 10
+BEFJNU 0 0 0
+stand stand either 1
+AHMV ABCDEFGHIJK small 0 the guilds~
+#102
+pixie~
+a pixie~
+A pixie is here, repairing the tree's rotted roots.
+~
+A small pixie is here quietly talking to the roots of the ancient tree.
+A small hum is heard coming from the little being, as the roots glow
+ever so softly.
+~
+human~
+ABHS 0 100 0
+1 0 2d4+2 0d9+100 1d2+0 none
+10 10 10 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK small 0 the guilds~
+#103
+old pixie~
+An old pixie~
+An old pixie is here, mumbling about how clean everything used to be.
+~
+An old pixie is here, shaking without trying and talking about how
+clean and crisp everything use to be.
+~
+human~
+AGHS 0 100 0
+3 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK small 0 the guilds~
+#104
+elder pixie~
+An elder pixie~
+An elder pixie is here, watching the young pixies heal the tree.
+~
+An elder pixie is here, watching all the young little pixies healing the
+great tree of the forest. A slight sigh is on his face as he looks
+around the forest.
+~
+human~
+AGHS 0 100 0
+3 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+sleep stand male 1
+AHMV ABCDEFGHIJK small 0 the guilds~
+#105
+elder pixie~
+An elder pixie~
+An elder pixie is here, sleeping by one of the roots of the great tree.
+~
+Almost stumbling over one of the elder pixies, you notice this one
+sleeping alone beside one of the roots of the great tree.
+~
+human~
+AGHS 0 100 0
+3 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK small 0 the guilds~
+#106
+elder pixie~
+An elder pixie~
+An elder pixie is here, eating little small seeds.
+~
+A rather large pixie is here, stuffing his face with seeds from random plants
+from all over the forest.
+~
+human~
+AGHS 0 100 0
+3 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK small 0 the guilds~
+#107
+elder pixie~
+An elder pixie~
+An elder pixie is here, chanting off incantations.
+~
+A holy-looking pixie is here, chanting off incantations to himself,
+and hoping that it might inspire the great tree to mend itself a little
+faster.
+~
+human~
+ABGHS DF 100 0
+3 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK small 0 the guilds~
+#108
+elder pixie~
+An elder pixie~
+An elder pixie is here, holding onto a blade of grass.
+~
+This elder pixie seems to be having a hard time breathing. The pollution
+level that the humans are causing must be getting to be too much for
+the old pixie to take.
+~
+human~
+ABGHS 0 100 0
+3 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK small 0 the guilds~
+#109
+elder pixie~
+an elder pixie~
+An elder pixie is here, combing out her long white hair.
+~
+An old female pixie is here, combing her long white hair. Her hair is longer
+then her body. Her wings seem to be rather brittle, and her face is not as
+soft as those of  the other pixies that are flying around.
+~
+human~
+ABGHS 0 100 0
+3 0 2d7+21 1d9+100 1d5+0 none
+8 8 8 10
+BEFJNU 0 0 0
+stand stand female 1
+AHMV ABCDEFGHIJK small 0 the guilds~
+#110
+ancient pixie~
+an ancient pixie~
+An ancient pixie is here, resting against his cane.
+~
+This ancient pixie is here, resting against his cane with one hand, and with
+his other hand, holding onto his back. His beard is hanging down past his
+knees, and his feet are somewhat curled up.
+~
+human~
+AGHR 0 100 0
+10 0 2d6+110 10d9+100 1d8+1 none
+2 2 2 6
+FU 0 A D
+rest rest male 100
+AHMV ABCDEFGHIJK small 0 the guilds~
+#111
+wild boar~
+a wild boar~
+A wild boar is here cussing and gnawing at the cage bars.
+~
+A large, hairy black boar is here, spitting and cussing at the cage
+bars. A look in his eyes lets you know that he doesn't want to be here.
+~
+pig~
+ABHQ 0 -100 0
+10 0 2d7+121 10d9+100 1d7+2 none
+1 1 1 7
+EIKU 0 D C
+stand stand male 2
+AGHMV ACDEFHJK medium 0 the guilds~
+#112
+snapping turtle~
+a snapping turtle~
+A snapping turtle sits here.
+~
+A large turtle is here, laying around looking like a rather funny
+rock. Its shell keeps it safe from attackers.
+~
+lizard~
+ABH 0 -100 0
+8 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 9
+EFNU 0 L I
+stand stand male 1
+AGXc ACDEFHJKQV medium 0 the guilds~
+#113
+pixie~
+a pixie~
+A pixie is here buzzing around the tree trunk.
+~
+A small pixie is here, quietly talking to the roots of the ancient tree.
+A small hum is heard coming from the little being, as the roots glow
+ever so softly.
+~
+human~
+ABHS DT 100 0
+1 0 2d4+2 0d9+100 1d2+0 none
+10 10 10 10
+BEFJNU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+#114
+pixie~
+a pixie~
+A pixie is here, eating food from the garden.
+~
+A small pixie is here quietly talking to the roots of the ancient tree.
+A small hum is heard coming from the little being, as the roots glow
+ever so softly.
+~
+human~
+ABHS DT 100 0
+1 0 2d4+2 0d9+100 1d2+0 none
+10 10 10 10
+BEFJNU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+#115
+joe hunter~
+Joe the hunter~
+Joe the hunter is here spitting on the ground.
+~
+A hunter of the pixie forest stands before you, with a long brown beard,
+missing teeth, and ripped and torn clothing.  There's a name tag on his shirt:
+-- Joe --
+~
+human~
+ABH 0 -100 0
+8 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 9
+0 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#100
+a magical seed~
+a magical seed~
+A magical seed is here laying on the ground, glimmering in the sunlight.~
+oldstyle~
+pill 0 A
+8 '(null)' '(null)' 'armor' '(null)'
+0 20 180 P
+#101
+glasses~
+a small pair of glasses~
+An small pair of glasses has been left in the sun.~
+oldstyle~
+clothing Aac AE
+0 0 0 0 0
+3 20 270 P
+A
+4 1  
+#102
+pixie feather~
+a pixie feather~
+A pixie feather is here, slowly falling to the ground.~
+oldstyle~
+clothing 0 AGY
+0 0 0 0 0
+3 0 310 P
+A
+2 1  
+#103
+pixie pie~
+pixie pie~
+A small pixie pie has been left here.~
+oldstyle~
+food 0 AO
+5 1 0 0 0
+3 20 370 P
+#104
+necklace~
+a small pearl necklace~
+A small pearl necklace has been placed on the ground.~
+oldstyle~
+jewelry Abd AC
+0 0 0 0 0
+3 20 550 P
+A
+3 1  
+#105
+green pink potion~
+a green and pink potion~
+A green and pink potion is laying sideways on the ground.~
+oldstyle~
+potion 0 A
+6 'armor' 'cure blindness' '(null)' '(null)'
+0 20 160 P
+#106
+wild boar tail wand~
+wild boar tail wand~
+A wild boars tail has been left behind, to rot in the sun.~
+oldstyle~
+wand 0 AO
+5 1 1 'burning hands' 0
+3 20 540 P
+E
+wand tail~
+A wild boars tail has been ripped off, and is still bleeding from being
+severed off.
+~
+#107
+key~
+a tiny golden key~
+A tiny golden key is here, gleaming in your eye.~
+oldstyle~
+key 0 A
+B 0 0 0 0
+0 20 0 P
+#108
+well~
+a small stream~
+A small stream of water is flowing along side the great tree.~
+oldstyle~
+fountain 0 0
+50 50 'water' 0 0
+0 0 0 P
+#109
+key~
+a small silver key~
+a key to cage is here.~
+oldstyle~
+key 0 A
+B 0 0 0 0
+0 20 0 P
+#110
+black silk sheet bed~
+silky black bed~
+A double sized bed, with black silk sheets is here.~
+~
+furniture MRT 0
+2 0 DGH 900 900
+1 100 0 P
+F
+V 0 0 0
+E
+bed~
+Two pillows reveal that this bed was meant for two.
+~
+#0
+
+
+
+#ROOMS
+#101
+A pathway through the forest~
+There is a pathway leading to the ancient great tree; there is no life
+left on it.  Not a blade of grass, nor an insect lays around.  All
+life stays on each side of the pathway.
+~
+0 0 3
+E
+sign~
+-*- Area built by; Michael March -*-
+ 
+Date: Augest 28,1996
+No player testers :(
+Dedicated to my little pixie.. Kim Lavinge..
+'Girl... I love you so.. '
+~
+D0
+Exit ~
+~
+0 -1 102
+D2
+Exit ~
+~
+0 -1 3525
+S
+#102
+A pathway through the forest~
+Walking along side one of the roots, it appears to be badly worn down from
+the large animals walking all over it.  There is a soft glow that comes from
+the north.  To the south lies the city which is killing this poor tree.
+~
+0 4 3
+D0
+Exit ~
+~
+0 -1 103
+D2
+Exit ~
+~
+0 -1 101
+S
+#103
+A pathway through the forest~
+This section of the root is in perfect condition, unlike other parts of the
+roots that you have seen.  A soft glow is emanating from the north, and 
+to the south is the city.
+~
+0 0 3
+D1
+Exit ~
+door~
+0 0 104
+D2
+Exit ~
+~
+0 -1 102
+S
+#104
+Approaching the Great Tree~
+You stand before the great tree.  You can feel the warmth emanating off the
+main center of the tree trunk.  Little pixies are flying around hugging
+and touching the great tree, trying to mends its wounds.
+~
+0 0 2
+D1
+Exit ~
+door~
+0 0 105
+D3
+Exit ~
+door~
+0 0 103
+S
+#105
+Along the tree's root~
+You're walking along one of the many, many, roots of the great and ancient 
+tree. A soft glow is coming from some of the roots that are laying all 
+around the forest.  The small pathway leads to the north, west, and 
+east.  The city is to the south.
+~
+0 0 1
+D0
+Exit ~
+~
+0 -1 106
+D1
+Exit ~
+~
+0 -1 110
+D3
+Exit ~
+door~
+0 0 104
+S
+#106
+Along the tree's root~
+You continue along the tree's root.  The roots seem to glow a soft and 
+warm feeling into your heart.  The pathway leads north, west and south.  
+A small little hole in the ground is to the east.
+~
+0 0 1
+D0
+Exit ~
+~
+0 -1 107
+D1
+Exit ~
+~
+0 -1 120
+D2
+Exit ~
+~
+0 -1 105
+D3
+Exit ~
+~
+0 -1 112
+S
+#107
+Along the tree's root~
+Along another long root.  All the blades of grass seem to stand
+very tall, and are slowly shifting with the wind.  You are in a very healthy
+spot inside the forest.  The pathway leads to the north and south.  There is
+a hole in the ground to the west.  A beautiful garden is to the east, that is
+fruitful and blooming with vegetables and fruits.
+~
+0 0 1
+D0
+Exit ~
+~
+0 -1 108
+D1
+Exit ~
+~
+0 -1 116
+D2
+Exit ~
+~
+0 -1 106
+D3
+Exit ~
+~
+0 -1 129
+S
+#108
+Along the tree's root~
+Along one of the tree's roots, the pathway leads to the south and to the
+north.  A large garden is to the east and a grassy path is to the west.
+~
+0 0 1
+D0
+Exit ~
+~
+0 -1 109
+D1
+Exit ~
+~
+0 -1 117
+D2
+Exit ~
+~
+0 -1 107
+D3
+Exit ~
+~
+0 -1 113
+S
+#109
+A flowing river~
+A small stream of water is flowing in the middle of the forest.  The 
+Ancient Tree is to the north.  A fruitful garden to the east, forest 
+to the south, and a pathway to the west.
+~
+0 0 1
+E
+Along the stream of water~
+A stream of water is here.  Just the right size to bath and clean yourself
+in and to become refreshed.  The crystal clear blue stream leads to the
+west and east.  A small grassy pathway leads to the south.
+~
+D0
+Exit ~
+door~
+0 0 130
+D1
+Exit ~
+~
+0 -1 118
+D2
+Exit ~
+~
+0 -1 108
+D3
+Exit ~
+~
+0 -1 114
+S
+#110
+Along the tree's root~
+You have come to one of the corners in the forest.  A large grape vine keeps
+all the pixies from going either east or south.  A hole in the ground can
+be seen to the north.  Some of the trees roots goes to the west.
+~
+0 0 1
+D0
+Exit ~
+~
+0 -1 119
+D3
+Exit ~
+~
+0 -1 105
+S
+#111
+Along one of the tree's roots~
+In the eastern corner of along one of the trees root.  You can continue along
+the  pathway to the east and south.  There is also a hole in the ground
+to the south.
+~
+0 0 1
+D0
+Exit ~
+~
+0 -1 112
+D1
+Exit ~
+~
+0 -1 105
+D2
+Exit ~
+~
+0 -1 121
+S
+#112
+Along the tree's root~
+A soft grassy spot in the forest.  The soft sunlight clears through the tree
+tops above, leaving you all warm and fuzzy inside.  A hole in the ground is
+to the west.  The ancient pixie's garden is to the north but you can't go
+there.  Along one of the tree roots leads to the south and to the east.
+~
+0 0 1
+D1
+Exit ~
+~
+0 -1 106
+D2
+Exit ~
+~
+0 -1 111
+D3
+Exit ~
+~
+0 -1 122
+S
+#113
+Grassy Path~
+You are walking along an emerald grass pathway.  To the south lies the
+ancient pixie's final resting place.  Anoter hole in the ground is to the
+west.  The grassy pathway leads to the east.  The sun is beating down 
+brightly trying to give the great tree some energy to grow again.
+~
+0 0 1
+D1
+Exit ~
+~
+0 -1 108
+D2
+Exit ~
+door~
+1 107 125
+D3
+Exit ~
+~
+0 -1 123
+S
+#114
+Along the tree's root~
+Another part along one of the many, many tree roots.  Going west will
+lead you to the last section along the ancient tree roots.  You can go back
+to the flowing stream to the east.
+~
+0 0 1
+D1
+Exit ~
+~
+0 -1 109
+D3
+Exit ~
+~
+0 -1 115
+S
+#115
+Along the tree's root~
+This is the north west corner of the forest.  A small hole in the ground
+is to the west, and a large grape vine is to the north.  The vine is acting
+as a barrier of somekind.
+~
+0 0 1
+D0
+Exit ~
+~
+0 -1 126
+D1
+Exit ~
+~
+0 -1 114
+D3
+Exit ~
+door~
+0 0 124
+S
+#116
+Fruitful garden~
+Large fruitful food grows here.  You could probably never have to find
+food again if you stayed here, and all you wanted to do was eat.  All the
+trees and roots are leading to the west, and the garden path leads to the
+north.
+~
+0 0 1
+D0
+Exit ~
+~
+0 -1 117
+D1
+Exit ~
+door~
+0 0 136
+D3
+Exit ~
+~
+0 -1 107
+S
+#117
+Fruitful garden~
+Another part of the garden.  Fruits and vegetables grow here.  The sweet
+smell of the food, flowing sounds of water, and the shifting of the trees
+could make any foul beast turn peaceful.  A grassy path is to the west,
+and the garden continues to the north, east and south.
+~
+0 0 1
+D0
+Exit ~
+~
+0 -1 118
+D1
+Exit ~
+door~
+0 0 131
+D2
+Exit ~
+~
+0 -1 116
+D3
+Exit ~
+~
+0 -1 108
+S
+#118
+Fruitful garden~
+This is the north corner of the garden, and of the forest.  The food here
+looks even more tempting to eat and pillage.  A grassy pathway leads to the
+west and the garden continues to the south.  
+~
+0 0 1
+D1
+Exit ~
+door~
+0 0 143
+D2
+Exit ~
+~
+0 -1 117
+D3
+Exit ~
+~
+0 -1 109
+S
+#119
+An elder pixie's hole in the ground~
+You're inside the hole in which one of the elder pixies rest their energy
+so that they can help the younger ones out with there task of mending
+the ancient tree.  The exit out of this little cosy hole in the ground
+leads to the south.
+~
+0 0 1
+D4
+Exit ~
+door~
+0 0 110
+S
+#120
+An elder pixie's hole in the ground~
+You're inside the hole in which one of the elder pixies rest their energy
+so that they can help the younger ones out with there task of mending
+the ancient tree.  The exit out of this little cosy hole in the ground
+leads upwards.
+~
+0 8 1
+D4
+Exit ~
+door~
+0 0 106
+S
+#121
+An elder pixie's hole in the ground~
+You're inside the hole in which one of the elder pixies rest their energy
+so that they can help the younger ones out with there task of mending
+the ancient tree.  The exit out of this little cosy hole in the ground
+leads upwards.
+~
+0 8 1
+D4
+Exit ~
+door~
+0 0 111
+S
+#122
+A hole in the ground~
+You're inside the hole in which one of the elder pixies rest their energy
+so that they can help the younger ones out with there task of mending
+the ancient tree.  The exit out of this little cosy hole in the ground
+leads upwards.
+~
+0 8 1
+D4
+Exit ~
+door~
+0 0 112
+S
+#123
+A hole in the ground~
+You're inside the hole in which one of the elder pixies rest their energy
+so that they can help the younger ones out with there task of mending
+the ancient tree.  The exit out of this little cosy hole in the ground
+leads upwards.
+~
+0 8 1
+D4
+Exit ~
+door~
+0 0 113
+S
+#124
+A hole in the ground~
+You're inside the hole in which one of the elder pixies rest their energy
+so that they can help the younger ones out with there task of mending
+the ancient tree.  The exit out of this little cosy hole in the ground
+leads up.
+~
+0 8 1
+D4
+Exit ~
+door~
+0 0 115
+S
+#125
+The ancients pixie's final resting place~
+You're inside the hole in which one of the elder pixies rest their energy
+so that they can help the younger ones out with there task of mending
+the ancient tree.  The exit out of this little cosy hole in the ground
+leads upwards.
+~
+0 8 1
+D4
+Exit ~
+door~
+0 0 113
+S
+#126
+The grape vine~
+You are standing inside the grape vine.  To the south lies the pixie forest,
+and to the north you can see a steel cage, with a few animals trapped inside
+of it.  To the west is a secret passageway.
+~
+0 0 1
+D0
+Exit ~
+~
+0 -1 127
+D2
+Exit ~
+~
+0 -1 115
+D3
+Exit ~
+secret~
+1 0 162
+S
+#127
+South of the steel cage~
+You're standing south beside the cage, which seems to have two animals stuck
+inside of it.  One seems to be moving around while the other is looking
+for cover from harm.  The forest is back to the south.
+~
+0 0 1
+D0
+Exit ~
+door~
+1 109 128
+D2
+Exit ~
+~
+0 -1 126
+S
+#128
+Inside the steel cage~
+You're inside the large cage that is used for capturing harmless animals
+so that others may kill and eat them without hunting.  The doorway is to
+the south, which also leads back to the forest.
+~
+0 8 1
+D2
+Exit ~
+door~
+1 109 127
+S
+#129
+A hole in the ground~
+You're inside the hole in which one of the elder pixies rest their energy
+so that they can help the younger ones out with there task of mending
+the ancient tree.  The exit out of this little cosy hole in the ground
+leads upwards.
+~
+0 8 1
+D4
+Exit ~
+door~
+0 0 107
+S
+#130
+In front of the great ancient tree~
+In front of the great ancient tree.  A soft glow eminates from the trunk,
+and a soft hum from the branches above.  A truly beautiful site to see.
+Above your head is a bunch of little pixies buzzing around, trying to 
+give the tree more life.
+ 
+ 
+~
+0 0 1
+E
+up branch~
+Billions of little pixies are all over the branches.
+~
+D2
+Exit ~
+door~
+0 0 109
+S
+#131
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north, east, south, and west.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 132
+D1
+Exit ~
+door~
+0 0 134
+D2
+Exit ~
+door~
+0 0 133
+D3
+Exit ~
+door~
+0 0 117
+S
+#132
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the south.
+~
+0 0 1
+D2
+Exit ~
+door~
+0 0 131
+S
+#133
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 131
+S
+#134
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north, east, south, and west.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 157
+D1
+Exit ~
+door~
+0 0 153
+D2
+Exit ~
+door~
+0 0 158
+D3
+Exit ~
+door~
+0 0 131
+S
+#135
+Final resting tomb~
+You are inside a dusty old chamber.  Long green vines crawl along up side
+the old cracked walls.  To the east, you can see a small picture frame.
+~
+0 33292 1
+E
+east picture frame~
+To Kim..
+ 
+A picture of Kim and Michael holding hands at a friends wedding.  Each
+one of them, with there eye's wide open, and smiles.  Kim is dressed
+in a silky blue dress, and Michael is dressed in a ever green suit.
+~
+M 900 H 900
+S
+#136
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north, east, south, and west.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 137
+D1
+Exit ~
+door~
+0 0 139
+D2
+Exit ~
+door~
+0 0 138
+D3
+Exit ~
+door~
+0 0 116
+S
+#137
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the south.
+~
+0 0 1
+D2
+Exit ~
+door~
+0 0 136
+S
+#138
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 136
+S
+#139
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north, east, south, and west.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 140
+D1
+Exit ~
+door~
+0 0 142
+D2
+Exit ~
+door~
+0 0 141
+D3
+Exit ~
+door~
+0 0 136
+S
+#140
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the south.
+~
+0 0 1
+D2
+Exit ~
+door~
+0 0 139
+S
+#141
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 139
+S
+#142
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north, east, south, and west.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 159
+D1
+Exit ~
+door~
+0 0 161
+D2
+Exit ~
+door~
+0 0 160
+D3
+Exit ~
+door~
+0 0 139
+S
+#143
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north, east, south, and west.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 144
+D1
+Exit ~
+door~
+0 0 146
+D2
+Exit ~
+door~
+0 0 145
+D3
+Exit ~
+door~
+0 0 118
+S
+#144
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the south.
+~
+0 0 1
+D2
+Exit ~
+door~
+0 0 143
+S
+#145
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 143
+S
+#146
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north, east, south, and west.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 147
+D1
+Exit ~
+door~
+0 0 149
+D2
+Exit ~
+door~
+0 0 148
+D3
+Exit ~
+door~
+0 0 143
+S
+#147
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the south.
+~
+0 0 1
+D2
+Exit ~
+door~
+0 0 146
+S
+#148
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 146
+S
+#149
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north, east, south, and west.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 150
+D1
+Exit ~
+door~
+0 0 152
+D2
+Exit ~
+door~
+0 0 151
+D3
+Exit ~
+door~
+0 0 146
+S
+#150
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the south.
+~
+0 0 1
+D2
+Exit ~
+door~
+0 0 149
+S
+#151
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 149
+S
+#152
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the west.
+~
+0 0 1
+D3
+Exit ~
+door~
+0 0 149
+S
+#153
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north, east, south, and west.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 154
+D1
+Exit ~
+door~
+0 0 156
+D2
+Exit ~
+door~
+0 0 155
+D3
+Exit ~
+door~
+0 0 134
+S
+#154
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the south.
+~
+0 0 1
+D2
+Exit ~
+door~
+0 0 153
+S
+#155
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 153
+S
+#156
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the west.
+~
+0 0 1
+D3
+Exit ~
+door~
+0 0 153
+S
+#157
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the south.
+~
+0 0 1
+D2
+Exit ~
+door~
+0 0 134
+S
+#158
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 134
+S
+#159
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the south.
+~
+0 0 1
+D2
+Exit ~
+door~
+0 0 142
+S
+#160
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the north.
+~
+0 0 1
+D0
+Exit ~
+door~
+0 0 142
+S
+#161
+Fruitful garden~
+Inside the fruitful garden.  Pixies fly around and never seem to have
+to worry if food is ever here to eat.  They just fly in, take what they
+need and go.  The garden continues to the west.
+~
+0 0 1
+D3
+Exit ~
+door~
+0 0 142
+S
+#162
+Trail inside the forest~
+Large redwood trees can be found on either side of the path.  The tree
+tops are so large, that the sun's rays can barely shine on the wilderness
+all around you. There are brown patches of grass all over the place.  The
+path leads east and west.
+~
+0 0 1
+E
+tree grass side~
+There are large beautiful redwood trees all lined up along the path.
+~
+D1
+Exit ~
+secret~
+1 0 126
+D3
+Exit ~
+door~
+0 0 163
+S
+#163
+Trail inside the forest~
+Large redwood trees can be found on either side of the path.  The tree
+tops are so large, that the sun's rays can barely shine on the wilderness
+all around you. There are brown patches of grass all over the place.  The
+path leads north and east.
+~
+0 0 1
+E
+tree grass side~
+There are large beautiful redwood trees all lined up along the path.
+~
+D0
+Exit ~
+door~
+0 0 164
+D1
+Exit ~
+door~
+0 0 162
+S
+#164
+Trail inside the forest~
+Large redwood trees can be found on either side of the path.  The tree
+tops are so large, that the sun's rays can barely shine on the wilderness
+all around you. There are brown patches of grass all over the place.  The
+path leads north and south.
+~
+0 0 1
+E
+tree grass side~
+There are large beautiful redwood trees all line up along the path.
+~
+D0
+Exit ~
+cabin~
+1 0 165
+D2
+Exit ~
+door~
+0 0 163
+S
+#165
+Inside the hunters cabin.~
+You are standing in a one room cabin, where the hunters stay and sleep
+after a long day of hunting wild boar and pixies.  The walls are mounted
+with stuffed pixies of all sorts of sizes and shapes.  Just above the
+mantel there is a large, cut-off Moosehead, with its mouth wide open.
+~
+0 0 1
+D2
+Exit ~
+cabin~
+1 0 164
+S
+#0
+
+
+
+#SPECIALS
+M 101 spec_thief Load to: a pixie
+M 102 spec_thief Load to: a pixie
+M 103 spec_thief Load to: An old pixie
+M 104 spec_thief Load to: An elder pixie
+M 105 spec_thief Load to: An elder pixie
+M 106 spec_thief Load to: An elder pixie
+M 107 spec_thief Load to: An elder pixie
+M 108 spec_thief Load to: An elder pixie
+M 109 spec_thief Load to: an elder pixie
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 127 0 2
+D 0 128 2 2
+D 0 162 1 1
+D 0 164 0 1
+D 0 165 2 1
+M 1 101 8 104 1
+G 0 102 0
+M 1 101 8 105 1
+M 1 101 8 107 1
+M 1 101 8 108 1
+G 0 102 0
+O 0 108 0 109
+M 1 101 8 109 1
+M 1 101 8 110 1
+G 0 102 0
+M 1 101 8 111 1
+M 1 101 8 112 1
+G 0 102 0
+M 1 102 3 116 1
+G 0 100 0
+M 1 102 3 117 1
+G 0 100 0
+M 1 102 3 118 1
+G 0 100 0
+M 1 103 1 119 1
+E 0 101 0 6
+M 1 104 1 120 1
+E 0 103 0 17
+M 1 106 1 121 1
+E 0 103 0 17
+M 1 105 1 122 1
+M 1 107 1 123 1
+M 1 108 1 124 1
+M 1 110 1 125 1
+G 0 105 0
+G 0 109 0
+M 1 111 1 128 1
+E 0 106 0 17
+M 1 112 1 128 1
+M 1 109 1 129 1
+G 0 103 0
+E 0 104 0 3
+M 1 113 3 130 3
+M 1 113 3 130 3
+M 1 113 3 130 3
+M 1 114 2 132 1
+M 1 114 1 133 1
+M 1 114 3 134 1
+O 0 110 0 135
+M 1 114 10 137 1
+M 1 114 11 138 1
+M 1 114 13 140 1
+M 1 114 12 141 1
+M 1 114 17 144 1
+M 1 114 18 145 1
+M 1 114 19 147 1
+M 1 114 20 148 1
+M 1 114 21 150 1
+M 1 114 22 151 1
+M 1 114 23 152 1
+M 1 114 6 153 1
+M 1 114 7 154 1
+M 1 114 8 155 1
+M 1 114 9 156 1
+M 1 114 4 157 1
+M 1 114 5 158 1
+M 1 114 14 159 1
+M 1 114 15 160 1
+M 1 114 16 161 1
+M 1 115 1 165 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

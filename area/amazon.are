@@ -1,0 +1,203 @@
+#AREADATA
+Name Amazon Clan Hall~
+Builders None~
+VNUMs 6170 6174
+Credits { None} Eiram   Amazon Hall~
+Security 1
+Xcontinent 0
+Age 15
+End
+
+
+
+#MOBILES
+#6170
+healer~
+the healer~
+The clan Amazon healer is here, selling spells.
+~
+This healer seems somewhat bored of his trivial tasks.  He'd rather heal half
+naked women, then spend his days learning new things.
+Type 'heal' to see a listing of spells.
+~
+human~
+ABQVa DFH 1000 0
+40 0 1d1+999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0
+#6171
+trainer~
+your trainer~
+~
+~
+human~
+ABJKTVb 0 900 0
+23 5 1d1+999 1d1+99 1d4+23 beating
+-15 -15 -15 -15
+FHJN ABCD 0 0
+stand stand male 58
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#6170
+knot~
+a knot in the tree~
+~
+~
+container OR 0
+10000 0 0 1000 100
+0 0 0 P
+E
+knot~
+This is where we hide our belongings from other clans.  It would seem like the
+best place to hide things in a place like this.
+~
+#6171
+fountain water~
+a fountain~
+A small black and white marble fountain gushes forth here.~
+~
+fountain OR 0
+0 0 'water' 0 0
+0 0 0 G
+E
+fountain~
+Its a very nice white and black fountain, made of fine marble.
+~
+#6172
+leather couch~
+a long leather couch~
+A long black leather couch rests here.~
+soft leather~
+furniture OR 0
+2 2000 NO 300 300
+0 0 0 P
+E
+leather couch~
+Its a really nice black italian type leather.  Very soft and very comfortable.
+~
+#0
+
+
+
+#ROOMS
+#6170
+The Entry Hall.~
+You enter the Amazon clan hall, expecting to be amazed, but instead, are
+rather let down.  There isn't much of a view to speak of -- only leaves and
+branches.  This hall is lavishly decorated with banners and the scrotums of
+the hapless men Lacy and her followers have killed.  From here, you can see
+north towards the clan pit, where numerous treasures await.
+~
+0 8 3
+D0
+Exit ~
+door~
+0 0 6171
+D5
+Exit ~
+door~
+0 0 6121
+S
+#6171
+A Hollow Tree.~
+Here is where the Amazons hide their ill-gotten gains.  It is actually quite
+a clever location -- the knot in this tree makes it perfect for hiding wealth.
+To the north of you lies a sturdy rope bridge, leading to the healing room.  To
+the south of you is the bridge to the entry hall.
+~
+0 8 3
+D0
+Exit ~
+door~
+0 0 6172
+D2
+Exit ~
+door~
+0 0 6170
+S
+#6172
+The Healing Room.~
+Large, soft pillows lay strewn about the room.  Men and women relax in various
+positions, healing hitpoints and regenning mana.  The wind drifting through the
+leaves makes for soothing music, ideal for relaxation.  Exits from the room are
+to the west and south.
+~
+0 8 3
+D2
+Exit ~
+door~
+0 0 6171
+D3
+Exit ~
+~
+0 -1 6173
+M 200 H 200
+S
+#6173
+The Practice Room.~
+Here is a private room for practicing spells and the like.  The isolation and
+lack of distractions make this room just right for concentrating.  Thick dusty
+books are present for reference purposes, and vials of unknown substances are
+tucked away on shelves.
+To return to the noise and confusion of everyday life, simply head back east.
+~
+0 524808 3
+D1
+Exit ~
+~
+0 -1 6172
+S
+#6174
+Eiram and NightLord's Bedroom~
+This room is brightly lit with natural sunlight. It streams in from
+between peach curtains, striking a bright patch on the green carpeting        
+beneath your feet. A large queen-size bed adorns one corner of the room, 
+covered in a bright peach comforter and warm blankets. The walls are covered
+in pictures of cats and Garfield posters, all of which combine to make you
+feel at home. One wall of the room is entirely covered in various romance
+novels and fantasy books, and more cover the desk nearby. 
+  Three cats romp through the room, wreaking havoc on the mess of
+clothes already present on the floor. You manage to identify a black cat,
+a gold and white cat, and a grey-black tabby. Then they run away, chasing
+each other.
+  A table next to the bed is covered in chocolates, assorted candies
+and sex toys. I wouldn't suggest you play with anything on this table.
+~
+0 533005 6
+M 200 H 200
+S
+#0
+
+
+
+#SPECIALS
+M 6170 spec_cast_adept_kindred Load to: the healer
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+O 0 6170 0 6171
+M 1 6170 5 6172 1
+O 0 6171 0 6172
+O 0 6171 0 6174
+O 0 6172 0 6174
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

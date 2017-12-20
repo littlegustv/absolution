@@ -1,0 +1,1050 @@
+#AREADATA
+Name Troll UnderWorld~
+Builders None~
+VNUMs 2900 2949
+Credits { 5 15} Lizzy       Troll UnderWorld~
+Security 9
+Xcontinent 1
+Age 12
+Questable 1
+End
+
+
+
+#MOBILES
+#2901
+troll child~
+a troll child~
+A troll child plays here in the dark.
+~
+A troll child runs around playing in the darkness.
+It must have wandered away from its home.
+~
+troll~
+AB J -500 0
+5 0 1d17+42 0d0+0 2d3+2 beating
+16 16 16 17
+0 0 Q H
+stand stand none 700
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#2907
+troll bridge~
+a large troll~
+A large troll that lives under the bridge stands before you.
+~
+This large troll guards the bridge that leads deeper into the underworld. His eyes look bloodshot, he seems hungry for a fight.
+~
+troll~
+ABF J -500 0
+5 0 1d17+42 0d0+0 2d3+2 slash
+16 16 16 17
+0 0 Q H
+stand stand none 700
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#2914
+troll guard~
+a troll guard~
+A troll guard stands here protecting his realm.
+~
+He is a fierce warrior in every way, do not underestimate him, or you
+could regret it.  
+~
+troll~
+AB J -500 0
+7 0 2d19+50 0d0+0 2d4+3 pierce
+14 14 14 15
+0 0 Q H
+stand stand none 900
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#2915
+man troll father~
+a troll father~
+A troll father stands here defending his home.
+~
+This male gives you the evil eye and prepares to attack you.  You have
+invaded his territory and he isn't too impressed.  
+~
+troll~
+AB J -800 0
+8 0 3d20+80 0d0+0 2d4+4 chop
+13 13 13 16
+0 0 Q H
+stand stand male 1200
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#2916
+mother troll~
+a troll mother~
+A troll mother stands here protecting her home.
+~
+She looks at you with a wary eye.  She wonders why you have invaded her
+small hut.  
+~
+troll~
+AB J -600 0
+6 0 2d19+50 0d0+0 2d4+2 punch
+14 14 14 15
+0 0 Q H
+stand stand none 900
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#2919
+elder troll~
+a troll elder~
+A troll elder walks slowly toward her home.
+~
+This old troll has been alive for a long time.  She is wise and subtle. 
+Leave her be since she had not caused any harm.  
+~
+troll~
+ABC J -1000 0
+15 0 5d30+161 15d10+100 3d5+8 pound
+13 13 13 14
+FJK Z Q H
+stand stand female 1500
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#2921
+berserker troll~
+a troll berserker~
+A troll berserker stands here ready to attack any invaders.
+~
+This troll has been trained to take out his opponents by brute force. 
+Don't piss him off.  
+~
+troll~
+ABF J -1000 0
+15 0 5d30+161 0d0+0 3d5+8 smash
+9 9 9 14
+DFK 0 Q H
+stand stand male 1400
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#2925
+mage troll~
+a troll mage~
+A troll mage stands here practicing his spells.
+~
+An ancient spell caster stands before you playing with a strange magic.  He is short but mystical.  You watch him with a keen interest.
+~
+troll~
+ABR J -1000 0
+15 0 5d30+161 15d10+100 3d5+8 blast
+9 9 9 10
+FK 0 Q H
+stand stand female 1500
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#2931
+warrior troll~
+a troll warrior~
+A troll warrior stands here practicing his moves.
+~
+These trolls are fast and agile.  They've perfected night and day fighting.  Trolls may be small but they are strong.
+~
+troll~
+ABT J -1000 0
+15 0 5d30+161 0d0+0 3d5+8 slice
+13 13 13 15
+CEFJKN 0 Q H
+stand stand male 1500
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#2939
+Miner Troll~
+a troll miner~
+A troll miner stands here digging in the tunnel.
+~
+His face is dirty and his hands are grubby.
+~
+troll~
+ABT J -1000 0
+14 0 5d29+161 0d0+0 3d5+7 peck
+13 13 13 14
+EFK 0 Q H
+stand stand male 1500
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#2900
+Couch Leather~
+A {DLeather{X Couch.~
+A {DLeather{X Couch sits in the center of the Realm.~
+leather~
+furniture 0 0
+2 0 HK 100 100
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#2900
+{WHalcyon's {DShadow {RR{re{Ra{rl{Rm{x~
+You have arrived finally in the {DShadow Realm{X.  For many years, this
+is where Halcyon went to escape the mortal world of Terra and Dominia.  Very
+few have visitied this place.  You are surrounded by a deep {Ddark fog{X. 
+You can hear {rshreaking{X cries in the distance, as a person of light
+arrives in the {DShadow Realm{X.  Many mortals cannot bear it.  
+~
+0 268476420 0
+M 300 H 300
+S
+#2901
+The Entrance to the {rTroll{X {DUnderWorld{X~
+You have entered an {DUnderground Realm{X.  It is very dark in here,
+meant for underworld creatures.  The caves are damp and smell of sulpher. 
+There must be a lava flow near by.  You can venture deeper in the caves, but
+it only goes deeper into the depth of {gDominia{X.  
+~
+0 9 0
+D4
+~
+~
+0 0 10899
+D5
+~
+~
+0 0 2902
+S
+#2902
+Deeper into the {DDepths{X~
+You venture deeper into the {Ddark depths{X of the Underworld.  You can
+hear strange sounds up ahead and the noise of some flowing underground
+river.  You can only head down or up.  
+~
+0 9 0
+D4
+~
+~
+0 0 2901
+D5
+~
+~
+0 0 2903
+S
+#2903
+Deeper into the {DDepths{X~
+You're heading even deeper into the world.  You can smell the scent of
+sulpher down the tunnel and the flowing sound is getting stronger. 
+Something moves you farther down into the underworld.  Could it be your
+destiny, or some other force?  
+~
+0 9 0
+D4
+~
+~
+0 0 2902
+D5
+~
+~
+0 0 2904
+S
+#2904
+A Straight Tunnel to the North~
+This tunnel is roughly cut out of the rock.  The only way to go is to the
+north.  Some piles of {Wbones{X have been thrown against the bottom of the
+wall.  They look human.  
+~
+0 9 0
+D0
+~
+~
+0 0 2905
+D4
+~
+~
+0 0 2903
+S
+#2905
+A Straight Tunnel to the North~
+This tunnel is roughly cut out of the rock.  The only way to go is to the
+north.  Some piles of {Wbones{X have been thrown against the bottom of the
+wall.  They look human.  
+~
+0 9 0
+D0
+~
+~
+0 0 2906
+D2
+~
+~
+0 0 2904
+S
+#2906
+Before the {DDrop{X.........~
+You stop before a {yRope{X bridge that is suspended across a deep ravine.
+You've heard tales of Trolls under bridges.  But that is the only way across
+to the other side....  
+~
+0 9 0
+D0
+~
+~
+0 0 2907
+D2
+~
+~
+0 0 2905
+S
+#2907
+A old flimsy {yRope{x Bridge~
+You begin to wander onto a old {yrope{X bridge.  The planking looks old
+and warn, and the rope is fraying at all ends.  As you walk across you hear
+creaks and scurrying of foot steps.  But they are coming underneath you. 
+You realize that you're crossing a troll's bridge.  Problem there.  You
+crossing a hudge ravine.  Down at the bottom is a {RLava{X {rflow{X.  Don't
+get thrown off or your dead.  
+~
+0 9 0
+D0
+~
+~
+0 0 2908
+D2
+~
+~
+0 0 2906
+S
+#2908
+The Other side of the {yRope{X Bridge~
+You have walked over to the other side of the bridge safely.  To the east
+and west are paths along the cliff.  To the North it leads deeper into the
+underworld.  The smell of sulpher is even stronger here.  
+~
+0 0 0
+D0
+~
+~
+0 0 2914
+D1
+~
+~
+0 0 2909
+D2
+~
+~
+0 0 2907
+D3
+~
+~
+0 0 2911
+S
+#2909
+Side of the Cliff~
+You slowly walk on the edge of the cliff.  You have no idea where this
+path leads and you're not sure it even matters.  
+~
+0 9 0
+D1
+~
+~
+0 0 2910
+D3
+~
+~
+0 0 2908
+S
+#2910
+Side of the Cliff~
+You slowly walk on the edge of the cliff.  You have no idea where this
+path leads and you're not sure it even matters.  
+~
+0 9 0
+D3
+~
+~
+0 0 2909
+S
+#2911
+Side of the Cliff~
+You slowly walk on the edge of the cliff.  You have no idea where this
+path leads and you're not sure it even matters.  
+~
+0 9 0
+D1
+~
+~
+0 0 2908
+D3
+~
+~
+0 0 2912
+S
+#2912
+Side of the Cliff~
+You slowly walk on the edge of the cliff.  You have no idea where this
+path leads and you're not sure it even matters.  
+~
+0 9 0
+D1
+~
+~
+0 0 2911
+D2
+~
+~
+0 0 2913
+S
+#2913
+{WF{wa{Wl{wl{Wi{wn{Wg{X into the {RL{ra{Rv{ra{X.........~
+AHHHHHHHHH!  WHOOOOOAAAA!  It's Burning!  I'm Melting!  You're now a
+fried corpse.  
+~
+0 4 0
+S
+#2914
+A path between some small huts~
+You are now walking in between a chain of small huts, you can smell
+cooking meat coming from a near one.  You can either go east or west to some
+huts, or continue north deeper into the underground.  
+~
+0 9 0
+D1
+~
+~
+0 0 2917
+D2
+~
+~
+0 0 2908
+D3
+~
+~
+0 0 2915
+D5
+~
+~
+0 0 2919
+S
+#2915
+A Small Hut~
+In this small hut, a fire is burning in the center of the room.  There
+are paintings on the wall of what looks like the family's history.  Bloody
+pelts of fur have been hung on the wall to dry.  
+~
+0 9 0
+D1
+~
+~
+0 0 2914
+D3
+~
+~
+0 0 2916
+S
+#2916
+A Small Hut~
+In this small hut, a fire is burning in the center of the room.  There
+are paintings on the wall of what looks like the family's history.  Bloody
+pelts of fur have been hung on the wall to dry.  
+~
+0 9 0
+D1
+~
+~
+0 0 2915
+S
+#2917
+A Small Hut~
+In this small hut, a fire is burning in the center of the room.  There
+are paintings on the wall of what looks like the family's history.  Bloody
+pelts of fur have been hung on the wall to dry.  
+~
+0 9 0
+D1
+~
+~
+0 0 2918
+D3
+~
+~
+0 0 2914
+S
+#2918
+A Small Hut~
+In this small hut, a fire is burning in the center of the room.  There
+are paintings on the wall of what looks like the family's history.  Bloody
+pelts of fur have been hung on the wall to dry.  
+~
+0 9 0
+D3
+~
+~
+0 0 2917
+S
+#2919
+Deeper down in the {DUnderWorld....{X~
+You head once again deeper down into the Underworld.  These tunnels have
+been more roughly cut out of the bedrock.  You can hear the dripping of
+liquid up ahead.  It sounds like you're coming up to a large cave.  
+~
+0 9 0
+D1
+~
+~
+0 0 2920
+D4
+~
+~
+0 0 2914
+S
+#2920
+Deeper down in the {DUnderWorld....{X~
+You head once again deeper down into the Underworld.  These tunnels have
+been more roughly cut out of the bedrock.  You can hear the dripping of
+liquid up ahead.  It sounds like you're coming up to a large cave.  
+~
+0 9 0
+D1
+~
+~
+0 0 2921
+D3
+~
+~
+0 0 2919
+S
+#2921
+Deeper down in the {DUnderWorld....{X~
+You head once again deeper down into the Underworld.  These tunnels have
+been more roughly cut out of the bedrock.  You can hear the dripping of
+liquid up ahead.  It sounds like you're coming up to a large cave.  
+~
+0 9 0
+D0
+~
+~
+0 0 2922
+D3
+~
+~
+0 0 2920
+S
+#2922
+Deeper down in the {DUnderWorld....{X~
+You head once again deeper down into the Underworld.  These tunnels have
+been more roughly cut out of the bedrock.  You can hear the dripping of
+liquid up ahead.  It sounds like you're coming up to a large cave.  
+~
+0 9 0
+D0
+~
+~
+0 0 2923
+D2
+~
+~
+0 0 2921
+S
+#2923
+Deeper down in the {DUnderWorld....{X~
+You head once again deeper down into the Underworld.  These tunnels have
+been more roughly cut out of the bedrock.  You can hear the dripping of
+liquid up ahead.  It sounds like you're coming up to a large cave.  
+~
+0 9 0
+D0
+~
+~
+0 0 2924
+D2
+~
+~
+0 0 2922
+S
+#2924
+Deeper down in the {DUnderWorld....{X~
+You head once again deeper down into the Underworld.  These tunnels have
+been more roughly cut out of the bedrock.  You can hear the dripping of
+liquid up ahead.  It sounds like you're coming up to a large cave.  
+~
+0 9 0
+D1
+~
+~
+0 0 2925
+D2
+~
+~
+0 0 2923
+S
+#2925
+A {Ddark{X {gdamp{X vast cave~
+You have entered a vast cave that stretches very high and long. 
+Stalactites cover the ceiling and moisture drips off them.
+It is quite dark and scary in here.  
+~
+0 9 0
+D1
+~
+~
+0 0 2926
+D2
+~
+~
+0 0 2930
+D3
+~
+~
+0 0 2924
+S
+#2926
+A {Ddark{X small tunnel~
+You find yourself crawling and cramped down on your hands and knees. 
+This tunnel is very small; only trolls can fit through here.  Ouch!  Watch
+your head there!  Duck down or you'll keep on bumping into the ceiling.  
+~
+0 9 0
+D0
+~
+~
+0 0 2934
+D1
+~
+~
+0 0 2927
+D2
+~
+~
+0 0 2929
+D3
+~
+~
+0 0 2925
+S
+#2927
+A {Ddark{X {gdamp{X vast cave~
+You have entered a vast cave that stretches very high and long. 
+Stalactites cover the ceiling and moisture drips off them.
+It is quite dark and scary in here.  
+~
+0 9 0
+D2
+~
+~
+0 0 2928
+D3
+~
+~
+0 0 2926
+S
+#2928
+A {Ddark{X {gdamp{X vast cave~
+You have entered a vast cave that stretches very high and long. 
+Stalactites cover the ceiling and moisture drips off them.
+It is quite dark and scary in here.  
+~
+0 9 0
+D0
+~
+~
+0 0 2927
+D2
+~
+~
+0 0 2933
+D3
+~
+~
+0 0 2929
+S
+#2929
+A {Ddark{X {gdamp{X vast cave~
+You have entered a vast cave that stretches very high and long. 
+Stalactites cover the ceiling and moisture drips off them.
+It is quite dark and scary in here.  
+~
+0 9 0
+D0
+~
+~
+0 0 2926
+D1
+~
+~
+0 0 2928
+D2
+~
+~
+0 0 2932
+D3
+~
+~
+0 0 2930
+S
+#2930
+A {Ddark{X {gdamp{X vast cave~
+You have entered a vast cave that stretches very high and long. 
+Stalactites cover the ceiling and moisture drips off them.
+It is quite dark and scary in here.  
+~
+0 9 0
+D0
+~
+~
+0 0 2925
+D1
+~
+~
+0 0 2929
+D2
+~
+~
+0 0 2931
+S
+#2931
+A {Ddark{X {gdamp{X vast cave~
+You have entered a vast cave that stretches very high and long. 
+Stalactites cover the ceiling and moisture drips off them.
+It is quite dark and scary in here.  
+~
+0 9 0
+D0
+~
+~
+0 0 2930
+D1
+~
+~
+0 0 2932
+S
+#2932
+A {Ddark{X {gdamp{X vast cave~
+You have entered a vast cave that stretches very high and long. 
+Stalactites cover the ceiling and moisture drips off them.
+It is quite dark and scary in here.  
+~
+0 9 0
+D0
+~
+~
+0 0 2929
+D1
+~
+~
+0 0 2933
+D3
+~
+~
+0 0 2931
+S
+#2933
+A {Ddark{X {gdamp{X vast cave~
+You have entered a vast cave that stretches very high and long. 
+Stalactites cover the ceiling and moisture drips off them.
+It is quite dark and scary in here.  
+~
+0 9 0
+D0
+~
+~
+0 0 2928
+D3
+~
+~
+0 0 2932
+S
+#2934
+A {Ddark{X small tunnel~
+You find yourself crawling and cramped down on your hands and knees. 
+This tunnel is very small; only trolls can fit through here.  Ouch!  Watch
+your head there!  Duck down or you'll keep on bumping into the ceiling.  
+~
+0 9 0
+D0
+~
+~
+0 0 2935
+D2
+~
+~
+0 0 2926
+S
+#2935
+A {Ddark{X small tunnel~
+You find yourself crawling and cramped down on your hands and knees. 
+This tunnel is very small; only trolls can fit through here.  Ouch!  Watch
+your head there!  Duck down or you'll keep on bumping into the ceiling.  
+~
+0 9 0
+D2
+~
+~
+0 0 2934
+D5
+~
+~
+0 0 2936
+S
+#2936
+A {Ddark{X small tunnel~
+You find yourself crawling and cramped down on your hands and knees. 
+This tunnel is very small; only trolls can fit through here.  Ouch!  Watch
+your head there!  Duck down or you'll keep on bumping into the ceiling.  
+~
+0 9 0
+D3
+~
+~
+0 0 2937
+D4
+~
+~
+0 0 2935
+S
+#2937
+A Wider Tunnel~
+Ahhhh, what a relief, you can finally stand up instead of crawling along.
+You've walked into a larger tunnel.  Braces of wood have been placed on the
+walls and the ceiling to prevent it from collapsing down.  
+~
+0 0 0
+D1
+~
+~
+0 0 2936
+D3
+~
+~
+0 0 2938
+S
+#2938
+A Miner's Tunnel~
+You've stumbled onto what looks like a miner's tunnel that stretches down
+into the underworld.  You wonder what the trolls could have been excavating. 
+~
+0 9 0
+D0
+~
+~
+0 0 2939
+D1
+~
+~
+0 0 2937
+D3
+~
+~
+0 0 2940
+S
+#2939
+A Side Tunnel~
+You've arrived at a dead end.  It appears as if someone never finished
+this side tunnel to its destination.  
+~
+0 9 0
+D2
+~
+~
+0 0 2938
+S
+#2940
+A Miner's Tunnel~
+You've stumbled onto what looks like a miner's tunnel that stretches down
+into the underworld.  You wonder what the trolls could have been excavating. 
+~
+0 9 0
+D1
+~
+~
+0 0 2938
+D3
+~
+~
+0 0 2941
+S
+#2941
+A Miner's Tunnel~
+You've stumbled onto what looks like a miner's tunnel that stretches down
+into the underworld.  You wonder what the trolls could have been excavating. 
+~
+0 9 0
+D0
+~
+~
+0 0 2942
+D1
+~
+~
+0 0 2940
+D3
+~
+~
+0 0 2943
+S
+#2942
+A Side Tunnel~
+You've arrived at a dead end.  It appears as if someone never finished
+this side tunnel to its destination.  
+~
+0 9 0
+D2
+~
+~
+0 0 2941
+S
+#2943
+A Miner's Tunnel~
+You've stumbled onto what looks like a miner's tunnel that stretches down
+into the underworld.  You wonder what the trolls could have been excavating. 
+~
+0 9 0
+D1
+~
+~
+0 0 2941
+D3
+~
+~
+0 0 2944
+S
+#2944
+A Miner's Tunnel~
+You've stumbled onto what looks like a miner's tunnel that stretches down
+into the underworld.  You wonder what the trolls could have been excavating. 
+~
+0 9 0
+D1
+~
+~
+0 0 2943
+D2
+~
+~
+0 0 2945
+D3
+~
+~
+0 0 2946
+S
+#2945
+A Side Tunnel~
+You've arrived at a dead end.  It appears as if someone never finished
+this side tunnel to its destination.  
+~
+0 9 0
+D0
+~
+~
+0 0 2944
+S
+#2946
+A Miner's Tunnel~
+You've stumbled onto what looks like a miner's tunnel that stretches down
+into the underworld.  You wonder what the trolls could have been excavating. 
+~
+0 9 0
+D1
+~
+~
+0 0 2944
+D2
+~
+~
+0 0 2947
+S
+#2947
+A Miner's Tunnel~
+You've stumbled onto what looks like a miner's tunnel that stretches down
+into the underworld.  You wonder what the trolls could have been excavating. 
+~
+0 9 0
+D0
+~
+~
+0 0 2946
+D2
+~
+~
+0 0 2948
+S
+#2948
+A Path to the end of the tunnel~
+You have almost come to the end of the underworld.  Beware of dangers
+that are beyond.  Good luck traveler.  
+~
+0 9 0
+D0
+~
+~
+0 0 2947
+D3
+~
+~
+0 0 2949
+S
+#2949
+Entrance to Loknar~
+You have arrived at the end of the underground world of the trolls.  If
+you climb up through a small hole, you will arrive at a Fountain's base in
+Loknar Square.  Be warned now that anyone who has not had proper training
+better not venture there.  
+~
+0 9 0
+D1
+~
+~
+0 0 2948
+S
+#0
+
+
+
+#SPECIALS
+M 2925 spec_cast_mage Load to: a troll mage
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+O 0 2900 0 2900
+M 1 2901 15 2901 1
+M 1 2901 15 2903 1
+M 1 2901 15 2904 1
+M 1 2901 15 2905 1
+M 1 2907 1 2907 1
+M 1 2914 15 2914 2
+M 1 2915 4 2915 1
+M 1 2916 4 2915 1
+M 1 2915 4 2916 1
+M 1 2916 4 2916 1
+M 1 2915 4 2917 1
+M 1 2916 4 2917 1
+M 1 2915 4 2918 1
+M 1 2916 4 2918 1
+M 1 2919 5 2919 1
+M 1 2919 5 2920 1
+M 1 2919 5 2921 1
+M 1 2921 2 2921 1
+M 1 2921 2 2922 1
+M 1 2919 5 2923 1
+M 1 2925 9 2925 1
+M 1 2925 9 2926 1
+M 1 2925 9 2927 1
+M 1 2925 9 2928 1
+M 1 2921 15 2929 1
+M 1 2925 9 2930 1
+M 1 2931 6 2931 1
+M 1 2931 6 2932 1
+M 1 2931 6 2933 1
+M 1 2939 9 2937 1
+M 1 2939 9 2939 1
+M 1 2939 9 2940 1
+M 1 2939 9 2942 1
+M 1 2939 9 2943 1
+M 1 2939 9 2945 1
+M 1 2939 9 2946 1
+M 1 2939 9 2947 1
+M 1 2939 9 2948 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

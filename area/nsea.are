@@ -1,0 +1,1991 @@
+#AREADATA
+Name The Sea of Death~
+Builders None~
+VNUMs 6401 6467
+Credits { 0 55} Gothic      Sea of Death~
+Security 9
+Xcontinent 0
+Age 10
+Questable 1
+End
+
+
+
+#MOBILES
+#6401
+giant eel~
+a giant eel~
+A giant eel is here, looking for something to eat.
+~
+A long slippery looking fish has two large tentacles dangling outside
+of its face and two large black eye.  A long fin goes all along the
+eel's back down to its tail.
+~
+snake~
+ABFGT 0 0 0
+30 -1 6d12+853 6d12+853 4d6+8 slice
+-10 -10 -10 -10
+CEFHMNOU AB L I
+stand stand either 0
+AGHMVXYc ADEFJKLNOQVX large 0 the guilds~
+#6402
+bloated sailor undead~
+a bloated sailor~
+A bloated, undead sailor is here, rotting in all his riches.
+~
+A pale green sailor is here, stuck at the bottom of the ship.  He is still 
+alive due to a magical spell.  His fingers are decayed and his hair is 
+flowing all over.  His eye's lack pigmentation, and look hollow and
+full of water.
+~
+human~
+AQ DJKMYZ 0 0
+42 0 25d10+2250 25d10+2250 3d12+14 punch
+-15 -15 -15 -15
+EFNU LR 0 C
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6403
+Morkoth~
+Morkoth~
+Morkoth the Wizard is here, sleeping on the sea floor.
+~
+A wizard is here surround by a protective aura.  Dressed in his dry 
+black robes and rings, he sleeps in undisturbed.
+~
+human~
+AQRT H 0 0
+40 -1 15d10+1850 15d10+1850 4d8+14 magic
+-13 -13 -13 -13
+EFHNU AB 0 0
+sleep sleep male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6404
+Undead Captain~
+the Captain~
+The undead captain of this ship is floating in the water.
+~
+The captain of this ship is here.  Most of his body has rotted and 
+withered away due to the constant exposure of water.  He has hallow 
+eyes, pale green skin and long black hair.  He is still wearing his captain 
+jacket and hat.
+~
+human~
+ABQRT 0 0 0
+55 -1 50d10+7000 50d10+7000 10d4+23 beating
+-25 -25 -25 -25
+EFNU ABC 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6405
+guardian blades undead~
+the Guardian~
+The Guardian of the Blades is here, protecting the weapons of the ship.
+~
+A tall proud man is here, following the captains orders to protect the
+ship's weapons.  Even though he is dead and bloated, he won't leave this 
+room until he is killed.
+~
+human~
+ABT 0 0 0
+52 -1 50d10+5500 50d10+5500 10d10+100 punch
+-22 -22 -22 -22
+EFNU C 0 0
+stand stand none 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6406
+Dolphin~
+a dolphin~
+A dolphin is here, swimming around your body.
+~
+A long nosed dolphin is here, swimming around and checking you out.
+~
+rabbit~
+ABT HV 0 0
+40 -1 15d10+1850 15d10+1850 4d8+13 thwack
+-14 -14 -14 -14
+EFHN a E 0
+stand stand none 0
+AGHV ACDEFHJK large 0 the guilds~
+#6407
+shark~
+a shark~
+A shark is swimming here, looking for something to eat.
+~
+A large grey shark is here with a mouthful of big sharp 
+teeth.
+~
+snake~
+ABFGT 0 0 0
+40 -1 15d10+1850 15d10+1850 4d8+13 bite
+-13 -13 -13 -13
+EFNU AB L I
+stand stand none 0
+AGXYbc ADEFJKLQVX large 0 the guilds~
+#6408
+Koalinth creature sea~
+a koalinth~
+A creature of the sea is resting on the foredeck.
+~
+A large, orange, pointed shelled creature is here  It has five long purple 
+legs resting on the foredeck while one large white eye looks around.
+~
+human~
+ABFGT PQVc 0 0
+40 -2 15d10+1850 15d10+1850 4d8+13 slice
+-13 -13 -13 -13
+EFNU AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#6409
+Starfish~
+a starfish~
+A starfish is here, resting on the ship.
+~
+A five pointed starfish is here, resting on the ship.  It's orange points
+are covered in a venom that is dangerous to touch.
+~
+water fowl~
+AT PQT 0 0
+42 4 25d10+2250 1d1+100 3d12+14 slice
+-14 -14 -14 -14
+U A R 0
+stand stand none 0
+AGHMVW ACDEFHKPV tiny 0 the guilds~
+#6410
+Giant Turtle~
+a giant turtle~
+A giant turtle is here, mucking around on the sea floor.
+~
+A giant green snapping turtle with a large green shell and  huge claws is
+here.  His eyes are closed but he is still moving.
+~
+lizard~
+ABFT 0 0 0
+48 -2 25d10+3750 25d10+3750 6d6+18 chomp
+-18 -18 -18 -1
+EFNU AB L FI
+stand stand none 0
+AGXc ACDEFHJKQV giant 0 the guilds~
+#6411
+giant fish~
+a giant fish~
+A giant fish is swimming around looking for something to eat.
+~
+A dull grey and green scaled fish has red fins and yellow eyes.
+~
+snake~
+ACFT MPYc 0 0
+48 -2 25d10+3000 25d10+3000 6d6+18 bite
+0 0 0 0
+EFNU AB L FI
+stand stand none 0
+AGXYbc ADEFJKLQVX huge 0 the guilds~
+#6412
+jelly~
+some green jelly~
+Some weird looking green jelly is here, resting on the sea bottom.
+~
+You see a pile of transparent green jelly, resting on the sea bottom.
+~
+human~
+AT DU 0 0
+47 -2 25d10+3500 25d10+3500 6d6+17 digestion
+10 10 10 10
+EFNU AC 0 F
+sleep sleep none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6413
+old man~
+an old man~
+A old man is here, sitting beside the sea.
+~
+An old man. with a long grey beard and hair sits here.  His body shakes
+white he reclines on the ground.
+~
+human~
+ABGT 0 0 0
+30 -1 6d12+853 6d2+853 4d6+8 punch
+10 10 10 10
+EFNU AB 0 0
+stand stand none 4000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6450
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6451
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6452
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6453
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6454
+assault mob sliver~
+desc sliver assault name~
+A sliver assault mob
+~
+~
+sliver~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CEFJK AB B K
+stand stand none 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#6401
+rope~
+rope~
+~
+~
+container COT 0
+10000 AC 0 1000 1000
+0 10 0 P
+E
+rope~
+You see a coiled rope rotting away.
+~
+#6402
+old key~
+old key~
+A old key is resting in the mud.~
+~
+key T A
+0 0 0 0 0
+0 100 0 P
+#6403
+treasure chest~
+treasure chest~
+A rotting chest is here.~
+~
+container A 0
+1000 ACD 6402 1000 1000
+0 100 0 P
+#6404
+skeleton key~
+skeleton key~
+A long iron key is sinking into the mud.~
+~
+key 0 A
+0 0 0 0 0
+0 100 0 P
+#6405
+moss green sword~
+moss green sword~
+A moss green sword is resting in the mud.~
+slime~
+weapon G AN
+sword 6 6 stab 0
+42 100 2000 P
+A
+18 2  
+A
+19 1  
+E
+moss green sword~
+On the ground is a sword covered in a thick green moss.
+~
+#6406
+green moss armor~
+green moss armor~
+A piece of moss covered armor is laying  in the mud.~
+~
+armor G AK
+10 10 10 0 -1
+42 90 2000 P
+A
+19 2  
+E
+green moss armor~
+A piece of armor is covered in green moss.
+~
+#6407
+Turtle Shell~
+turtle shell~
+A large turtle shell is resting in the mud.~
+~
+armor Q AK
+10 10 10 7 -1
+48 10 0 P
+A
+18 2  
+A
+5 2  
+#6408
+black wizard stone~
+a black wizard stone~
+A black wizard stone has been dropped here.~
+~
+jewelry AJYabc AQ
+0 0 0 0 0
+35 100 0 P
+A
+18 2  
+#6409
+Wizard ring~
+a ring of wizardry~
+A magical glowing ring is resting in the mud.~
+~
+armor AS AB
+8 8 8 6 -1
+35 100 0 P
+A
+12 30  
+E
+ring wizardry~
+A pitch-black ring has the engraving of 'Morkoth' on the inside.
+~
+#6410
+captains sabre~
+a captain's sabre~
+A jewel encrusted sabre is resting in the mud.~
+~
+weapon AB AN
+sword 6 7 slash A
+53 30 0 P
+A
+18 3  
+A
+19 3  
+E
+captain sabre~
+A jewel encrusted sabre is engraved with the name of 'Captain Jack'
+~
+#6411
+captains belt~
+a captain's belt~
+A jewel encrusted belt is resting in the mud.~
+~
+clothing AY AL
+0 0 0 0 0
+53 100 3000 P
+A
+17 -8  
+A
+19 2  
+A
+18 2  
+E
+captain belt~
+This belt is covered in jewels.
+~
+#6412
+seaweed leggings~
+seaweed leggings~
+A pair of leggings covered in seaweed is  resting in the mud.~
+~
+armor Pbcd AF
+6 6 6 3 -1
+40 100 2000 P
+A
+1 2  
+#6413
+jeweled encrusted shield~
+jewel encrusted shield~
+A large jewel encrusted shield is resting in the mud.~
+gem~
+armor A AJ
+6 5 4 3 -1
+25 200 3000 P
+A
+19 2  
+#6414
+mantle of seaweed~
+a mantle of seaweed~
+On the ground a pile of seaweed is rotting away.~
+~
+armor AGIbd AD
+6 5 4 3 -1
+38 100 0 P
+A
+3 1  
+A
+12 25  
+#6415
+shark tooth belt~
+shark tooth belt~
+A belt made out of teeth is rotting in the sun.~
+~
+armor 0 AL
+6 5 4 3 -1
+25 100 3000 P
+A
+19 2  
+E
+shark belt~
+A belt made out of the largest shark teeth anywhere, has been made to 
+look very stylish.
+~
+#6416
+jewel encrusted dagger~
+a jewel encrusted dagger~
+A jewel encrusted dagger has been left here.~
+diamond~
+weapon AB ANY
+dagger 7 6 none C
+52 100 9000 P
+A
+18 3  
+E
+jewel encrusted dagger~
+There is one jewel missing from this hilt. Although a very fine
+dagger as is, if you could find the missing component, a brain stone,
+you could imbue this dagger with a mind of its own. It would become,
+"quicksilver katar punch dagger eye sting". Get a brain stone and
+this dagger and craft them together for a nice weapon!
+ 
+Good luck!
+~
+#6417
+rock~
+rock~
+~
+~
+container 0 0
+1000 AC -1 100000 10000
+0 100 0 P
+E
+rock~
+A small rock is hidden inside the mud.
+~
+#6418
+paper~
+a piece of paper~
+A piece of paper is laying in the mud.~
+paper~
+container 0 A
+10 AC 0 10 50
+0 1 0 P
+#6419
+scissors~
+scissors~
+A pair of connected twin blades are rusting away.~
+~
+key 0 A
+0 0 0 0 0
+0 50 0 P
+E
+scissors~
+Two blades are  joined together to make a pair of scissors.
+~
+#6420
+broken point starfish~
+the broken point of a starfish~
+A piece of a starfish is rotting in the mud.~
+~
+weapon c AN
+dagger 8 4 stab H
+42 1 3000 P
+E
+point of starfish~
+A broken piece of orange and white starfish is most ugly.
+~
+#6421
+broken arm starfish~
+a broken arm of a starfish~
+A piece of a starfish is rotting in the mud.~
+~
+weapon 0 AN
+staff 8 4 stab H
+42 1 3000 P
+E
+arm of starfish~
+A broken piece of orange and white starfish is most ugly.
+~
+#6422
+piece of starfish~
+a piece of a starfish~
+A piece of a starfish is rotting in the mud.~
+~
+weapon bd AN
+polearm 8 4 stab H
+42 1 3000 P
+E
+piece of starfish~
+A broken piece of orange and white starfish is most.
+~
+#6423
+giant clam~
+a giant clam~
+A giant clam sits here, leering at you.~
+shell~
+container A 0
+30 AC 0 100 100
+0 3000 0 P
+#6424
+glowing shell seashell fragment~
+a glowing shell fragment~
+An oddly colored fragment of seashell is here, glowing dimly.~
+wood~
+warp_stone ABT A
+0 0 0 0 0
+0 10 1000 P
+E
+glowing shell seashell fragment~
+This piece of shell seems odd for some reason. Turning it over in your hands, you
+nearly cut yourself. It's very sharp! This shard of seashell is all that remains of
+a legendary weapon that was lost at sea. Etched into the shell is a small part of a
+map... a map which shows the way to dominia. You can attempt to recreate the weapon,
+"maridian marauder sword", by crafting it with the following components:
+ 
+-3 black pearls from terra
+-3 black pearls from dominia
+-6 seashells
+-A shiny marauder sword
+-50 midgaard diamonds
+ 
+Good luck!
+~
+#6425
+coral crossbow~
+a coral crossbow~
+A crossbow made of coral is here, for use under the sea.~
+coral~
+weapon 0 AN
+ranged 6 6 pierce FM
+2
+44 50 2000 P
+A
+5 -2  
+A
+19 1  
+A
+18 1  
+#0
+
+
+
+#ROOMS
+#6401
+On the beach~
+This is a quiet beach on the edge of a large gulf.  Waves
+roll in slowly as you slowly sink your feet into the sand.  A soft
+breeze stirs the trees behind you.  A river cascades into the sea from
+the south.
+~
+0 0 0
+D0
+Exit ~
+door~
+0 0 6404
+D1
+Exit ~
+door~
+0 0 6402
+D2
+~
+~
+0 -1 9736
+D3
+Exit ~
+door~
+0 0 6403
+S
+#6402
+The Beach~
+This is a quiet beach on the edge of a large gulf.  Waves
+roll in softly as your feet slowly sink into the sand.  A soft
+breeze stirs the trees behind you.
+~
+0 0 0
+D3
+Exit ~
+door~
+0 0 6401
+S
+#6403
+The Beach~
+This is a quiet beach on the edge of a large gulf.  Waves
+roll in softly as your feet slowly sink into the sand.  A soft
+breeze stirs the trees behind you.
+~
+0 0 0
+D1
+Exit ~
+door~
+0 0 6401
+S
+#6404
+A Shallow Reef~
+You are standing in a couple feet of water.  Small waves lap
+at your knees and the cool water is soothing on a hot day.  The walk
+out here was nice, but the reef ends here. As you look down into the 
+water, you notice a steep drop off.
+~
+0 0 0
+D2
+Exit ~
+door~
+0 0 6401
+D5
+Exit ~
+door~
+0 0 6405
+S
+#6405
+Descent into the Depths~
+You are under water but strangely enough, you are not having
+any problems breathing. As you look around, you notice a
+hole in the reef above you.  Below is the sea floor.
+~
+0 8 12
+D4
+Exit ~
+door~
+0 0 6404
+D5
+Exit ~
+door~
+0 0 6406
+S
+#6406
+Sea Bottom~
+You are on the what appears to be the sea floor. It is very
+sandy here and underwater currents toss you about.  The sand is
+composed of small fragments of dead fish, and chunks of sunken 
+ships.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6408
+D1
+Exit ~
+door~
+0 0 6407
+D3
+Exit ~
+door~
+0 0 6409
+D4
+Exit ~
+door~
+0 0 6405
+S
+#6407
+Seaweed Patch~
+A patch of black oily seaweed struggles to grow in the swift currents.
+Small fish drift up towards the top of the water.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6410
+D3
+Exit ~
+door~
+0 0 6406
+S
+#6408
+Sea Floor~
+All around you fish dart into small crevices in the sea floor, and 
+swim along the sand searching for scraps of dead fish.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6414
+D1
+Exit ~
+door~
+0 0 6410
+D2
+Exit ~
+door~
+0 0 6406
+D3
+Exit ~
+door~
+0 0 6411
+S
+#6409
+Rock Outcropping~
+This appears to be where a lava flow once entered the sea ages
+ago.  The rocks are very sharp and tear your footgear.  This causes
+a small blood stream in the water.  To the west you see a small dark cave.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6411
+D1
+Exit ~
+door~
+0 0 6406
+D3
+Exit ~
+door~
+0 0 6412
+S
+#6410
+Sea Floor~
+This is a nondescript piece of real estate on the bottom of the
+sea. As you wander around, you notice an endless drop off to
+the east.  All other directions appear to be safe.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6415
+D2
+Exit ~
+door~
+0 0 6407
+D3
+Exit ~
+door~
+0 0 6408
+S
+#6411
+Sea Floor~
+The sand here is thrown around so violently by the shifting
+currents it's hard to see your hand in front of your face. You
+hope there isn't anything lurking in the darkness.  Small blobs
+of black oil slowly bubble up around your face.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6416
+D1
+Exit ~
+door~
+0 0 6408
+D2
+Exit ~
+door~
+0 0 6409
+D3
+Exit ~
+door~
+0 0 6413
+S
+#6412
+An Underwater Cave~
+As you scan the cave to the limits of the light, you notice old
+bones piled up in a back corner.  As you wander around, it becomes
+apparent that this cave is something's home.
+~
+0 8 12
+D1
+Exit ~
+door~
+0 0 6409
+S
+#6413
+The Edge~
+You stand on the edge of a deep chasm.  Below you is nothing but
+inky darkness.  Small oil bubbles from the chasm below float around 
+your face.  You decide that trying to descend here would be a bad idea.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6417
+D1
+Exit ~
+door~
+0 0 6411
+S
+#6414
+At the Rift~
+Below you is a deep canyon.  A barely visible  large shape can be 
+distinguished resting on a rocky shelf.  The currents are moving in 
+the canyon and you can see small pieces of rock being carried into 
+oblivion.
+~
+0 8 12
+D1
+Exit ~
+door~
+0 0 6415
+D2
+Exit ~
+door~
+0 0 6408
+D3
+Exit ~
+door~
+0 0 6416
+S
+#6415
+At the Rift~
+All around you extends a deep canyon. However, it would be very 
+unwise to try and descend to the bottom through here because the 
+currents are very strong.
+~
+0 8 12
+D2
+Exit ~
+door~
+0 0 6410
+D3
+Exit ~
+door~
+0 0 6414
+S
+#6416
+Cleft in the Sea Floor~
+Before you is a cleft in the sea floor.  Other then the small bubbles of
+oil flowing from below it looks safe to descend into the canyon here, as the
+cleft will protect you from terrible currents in this area.
+~
+0 8 12
+D1
+Exit ~
+door~
+0 0 6414
+D2
+Exit ~
+door~
+0 0 6411
+D3
+Exit ~
+door~
+0 0 6417
+D5
+Exit ~
+door~
+0 0 6418
+S
+#6417
+At the Rift~
+All around you extends a deep canyon. It would be very unwise
+to try and descend to the bottom here though, as the currents are
+very strong.
+~
+0 8 12
+D1
+Exit ~
+door~
+0 0 6416
+D2
+Exit ~
+door~
+0 0 6413
+S
+#6418
+Enclosed in Stone~
+As you drift down the cleft, you are forced to push yourself
+away from the sides occasionally.  The currents here are mild, but
+still you feel the terrible forces that exist inside the canyon.
+~
+0 8 12
+D4
+Exit ~
+door~
+0 0 6416
+D5
+Exit ~
+door~
+0 0 6419
+S
+#6419
+The Foredeck~
+This must be a sunken pirate ship.  As your feet touch the bow of the 
+ship, you notice that the figurehead on the front of the ship has been
+removed and now rests on the deck.  It is very dark and hard to see 
+clearly, but shapes appear to move about the middeck of the ship.
+~
+0 8 12
+D1
+Exit ~
+door~
+0 0 6420
+D4
+Exit ~
+door~
+0 0 6418
+S
+#6420
+On the Deck~
+You descend from foredeck to the main deck of the ship. The
+wood is still strong, if a bit waterlogged. Several barrels have
+been nailed to the deck and they are slowly dripping oil out of 
+their sides.  A coil of rotting rope is next to them.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6421
+D1
+Exit ~
+door~
+0 0 6423
+D2
+Exit ~
+door~
+0 0 6422
+D3
+Exit ~
+door~
+0 0 6419
+S
+#6421
+Starboard Bow~
+As you walk to the railing you see a pile of rusted metal.  On closer
+examination you notice that the pile is made up of several spherical
+objects that have rusted together.  Looking over the railing you see
+nothing but dark, murky water.
+~
+0 8 12
+D1
+Exit ~
+door~
+0 0 6424
+D2
+Exit ~
+door~
+0 0 6420
+S
+#6422
+Port Bow~
+On this side of the ship, a wall of rock extends up to the
+limits of your vision.  The railing is nearly flush with the
+wall giving the impression that the ship may once rested
+on the shelf of sand above you.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6420
+D1
+Exit ~
+door~
+0 0 6425
+S
+#6423
+Mid Ship~
+You stand near the middle of the ship.  At your feet is the hatch to
+the cargo hold.  You bend down to try and open it, but find
+that it has rusted shut.  To the west you glimpse a shadow that
+thrusts up toward through the water.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6424
+D1
+Exit ~
+door~
+0 0 6426
+D2
+Exit ~
+door~
+0 0 6425
+D3
+Exit ~
+door~
+0 0 6420
+S
+#6424
+Port Bow~
+As you walk towards the railing you see a cylindrical object. There
+is a hole in its side that points out from the ship. Looking over
+the railing you see nothing but dark water.
+~
+0 8 12
+D1
+Exit ~
+door~
+0 0 6427
+D2
+Exit ~
+door~
+0 0 6423
+D3
+Exit ~
+door~
+0 0 6421
+S
+#6425
+Starboard Bow~
+On this side of the ship, a wall of rock extends up to the
+limits of your vision.  The railing is nearly flush with the
+wall giving the impression that the ship may once rested
+on the shelf of sand above you.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6423
+D1
+Exit ~
+door~
+0 0 6428
+D3
+Exit ~
+door~
+0 0 6422
+S
+#6426
+Main Mast~
+The main mast of this ancient ship towers above you. Measuring
+nearly ten feet in diameter, the tree the mast was formed from must 
+have been awesome to behold.  The ropes that lead to the crows nest 
+and rigging have long since deteriorated, but swimming to the top
+should be no problem.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6427
+D1
+Exit ~
+door~
+0 0 6429
+D2
+Exit ~
+door~
+0 0 6428
+D3
+Exit ~
+door~
+0 0 6423
+D4
+Exit ~
+door~
+0 0 6433
+S
+#6427
+Aft Starboard~
+As you walk to the railing you see a pile of rusted metal. On closer
+examination you notice that the pile is made up of several spherical
+objects that have rusted together.  Looking over the railing you see
+nothing but dark water.
+~
+0 8 12
+D1
+Exit ~
+door~
+0 0 6430
+D2
+Exit ~
+door~
+0 0 6426
+D3
+Exit ~
+door~
+0 0 6424
+S
+#6428
+Aft Port~
+On this side of the ship, a wall of rock extends up to the
+limits of your vision.  The railing is nearly flush with the
+wall, giving the impression that the ship may once have rested
+on the shelf of sand above you.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6426
+D1
+Exit ~
+door~
+0 0 6431
+D3
+Exit ~
+door~
+0 0 6425
+S
+#6429
+Batten Down the Hatches~
+At your feet is a hatch leading below deck.  A large glowing
+padlock has been placed on it for some reason.  Maybe you shouldn't
+try and find the key.  To the east is a staircase leading up to the
+poop deck.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6430
+D1
+Exit ~
+door~
+0 0 6432
+D2
+Exit ~
+door~
+0 0 6431
+D3
+Exit ~
+door~
+0 0 6426
+D5
+Exit ~
+hatch~
+1 6402 6434
+S
+#6430
+Below the Poop Deck~
+As you stand on the aft part of the main deck, you can look up
+through the railing above you and just make out the pegs on the
+steering mechanism.  Darkness is all you see to the north.
+~
+0 8 12
+D2
+Exit ~
+door~
+0 0 6429
+D3
+Exit ~
+door~
+0 0 6427
+S
+#6431
+Below the Poop Deck~
+As you stand on the aft part of the main deck, you can look up
+through the railing above you and just make out the pegs on the
+steering mechanism.  A wall of rock is all that is visible to the
+south.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6429
+D3
+Exit ~
+door~
+0 0 6428
+S
+#6432
+Poop Deck~
+This is where the captain of the ship guided it on their journey across 
+the sea.  The large ship's wheel is here.  You try to turn it, but  it has 
+rusted so much that it no longer functions.
+~
+0 8 12
+D3
+Exit ~
+door~
+0 0 6429
+S
+#6433
+Crows Nest~
+Once this was the look out post for the ship, but now all you can
+see is the inky blackness of the deep sea.
+~
+0 0 12
+D5
+Exit ~
+door~
+0 0 6426
+S
+#6434
+Hallway Below Deck~
+Swimming down below deck reveals a glowing door to the east.
+The hallway continues to the north and south, and a hatch is
+above you.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6437
+D1
+Exit ~
+door~
+1 6404 6435
+D2
+Exit ~
+door~
+0 0 6436
+D4
+Exit ~
+hatch~
+1 6404 6429
+S
+#6435
+Captains Cabin~
+You are inside the captains cabin. You find small instruments of 
+navigation .  The walls are all rotten from being under the water for
+so long and are covered with oil sopped vines.  There is a old algae
+infested brass book stand in the middle of room with a book still sitting
+on it.  The letters are written in a red ink.
+~
+0 262157 12
+D0
+Exit ~
+secret~
+1 6419 6466
+D3
+Exit ~
+door~
+1 6404 6434
+S
+#6436
+Port Side Hallway~
+This is a hallway skirting the hull wall. It continues to the
+west and the hatchway is to the north
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6434
+D3
+Exit ~
+door~
+0 0 6438
+S
+#6437
+Starboard Side Hallway~
+This is a hallway skirting the hull wall.  It continues to the
+west and the hatchway is to the south.
+~
+0 8 12
+D2
+Exit ~
+door~
+0 0 6434
+D3
+Exit ~
+door~
+0 0 6440
+S
+#6438
+Port Side Hallway~
+This is a hallway going east and west along the ships hull.  There is
+a door to the north.
+~
+0 8 12
+D0
+Exit ~
+door~
+1 0 6439
+D1
+Exit ~
+door~
+0 0 6436
+D3
+Exit ~
+door~
+0 0 6443
+S
+#6439
+Cargo Hold~
+This is a large cargo bay.  Rotting crates and a few oil barrels are
+all around you.  Small pockets of oil are can be seen on the ceiling.
+~
+0 8 12
+D0
+Exit ~
+door~
+1 0 6440
+D2
+Exit ~
+door~
+1 0 6438
+D3
+Exit ~
+door~
+0 0 6442
+S
+#6440
+Starboard Side Hallway~
+This is a hallway along the starboard hull.  There is a door
+to the south and the hallway continues to the east and west.
+~
+0 8 12
+D1
+Exit ~
+door~
+0 0 6437
+D2
+Exit ~
+door~
+1 0 6439
+D3
+Exit ~
+door~
+0 0 6441
+S
+#6441
+Starboard Side Hallway~
+This hallway ends at two doors.  One leading to the west
+the other to the south.
+~
+0 8 12
+D1
+Exit ~
+door~
+0 0 6440
+D2
+Exit ~
+door~
+1 0 6442
+D3
+Exit ~
+door~
+1 0 6446
+S
+#6442
+Cargo Hold~
+This is a large cargo bay.  Rotting crates and oil barrels are all around 
+you.  Small pockets of oil bubbles can be seen floating around the ceiling
+of the cargo hold.
+~
+0 8 12
+D0
+Exit ~
+door~
+1 0 6441
+D1
+Exit ~
+door~
+0 0 6439
+D2
+Exit ~
+door~
+1 0 6443
+S
+#6443
+Port Side Hallway~
+This hallway ends at two doors.  One leading to the west
+the other to the north.
+~
+0 8 12
+D0
+Exit ~
+door~
+1 0 6442
+D1
+Exit ~
+door~
+0 0 6438
+D3
+Exit ~
+door~
+1 0 6444
+S
+#6444
+Sleeping Quarters~
+This is one of two crew quarters on ship.  Bunks are
+stacked one atop the other, and are very small.  The term
+coffin comes to mind as you look at the cramped spaces.
+~
+0 8 12
+D0
+Exit ~
+door~
+1 0 6445
+D1
+Exit ~
+door~
+1 0 6443
+S
+#6445
+Hallway~
+This small hallway joins the two rooms assigned to the ships
+crew and to the ship's Mates' quarters.  Doors lead north, south,
+and west.
+~
+0 8 12
+D0
+Exit ~
+door~
+1 0 6446
+D2
+Exit ~
+door~
+1 0 6444
+D3
+Exit ~
+door~
+1 0 6447
+S
+#6446
+Sleeping Quarters~
+This is one of two crew quarters set up on ship.  Bunks are
+stacked one atop the other and are very small.  The term
+coffin comes to mind as you look at the cramped spaces.  A
+single drawer is located on the headboard of each bunk.
+~
+0 8 12
+D1
+Exit ~
+door~
+1 0 6441
+D2
+Exit ~
+door~
+1 0 6445
+S
+#6447
+Passenger Cabin~
+This was once a spacious cabin.  Now in the back of the room is one
+large gaping hole where the hull was ripped apart by some great force.  
+Most of the furnishings were washed out when the hull was breached, 
+but several items, including a chest, a mirror nailed to the wall, and the 
+upper half of a bed remain. As you walk over to the hole and look down, 
+you notice a ledge that looks accessible.
+~
+0 8 12
+D1
+Exit ~
+door~
+1 0 6445
+D5
+Exit ~
+door~
+0 0 6448
+S
+#6448
+A Rocky Shelf~
+You stand on a rocky shelf jutting out from the cliff face.
+Below you is the floor of the great canyon which was barely
+visible from above.
+~
+0 8 12
+D4
+Exit ~
+door~
+0 0 6447
+D5
+Exit ~
+door~
+0 0 6449
+S
+#6449
+Canyon Bottom~
+The bottom of the canyon is composed mainly of rock.  Bones
+are scattered about here and to the west is an eerily glowing
+cave.
+~
+0 8 12
+D1
+Exit ~
+door~
+0 0 6456
+D2
+Exit ~
+door~
+0 0 6452
+D3
+Exit ~
+door~
+0 0 6450
+D4
+Exit ~
+door~
+0 0 6448
+S
+#6450
+A Hypnotic Cave~
+This is a very unique tunnel.  Strangely hued glowing rocks form
+patterns that are disorientating.  It would be best to leave this place 
+before you are mesmerized.  You get a feeling that something lurks 
+further on down the tunnel.
+~
+0 8 12
+D1
+Exit ~
+door~
+0 0 6449
+D3
+Exit ~
+door~
+0 0 6451
+S
+#6451
+Lair of the Morkoth~
+You are in the lair of the Wizard Morkoth.  This room is totally dry from
+any drop of water.  There is a soft white glow that fills this space and
+gives Morkoth his sanctuary.  There is a wooden sign placed on the wall.
+~
+0 8 0
+E
+wooden sign~
+A wooden sign has these words burned into it.
+ "Do not awake me till Dooms Day."
+~
+D1
+Exit ~
+door~
+0 0 6450
+S
+#6452
+Dark Sea Floor~
+It is very dark this deep under water.  Strangely enough, the affects
+of pressure don't seem to be doing anything to you.  Very few things
+live or grow down here, so the terrain is mostly barren.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6449
+D1
+Exit ~
+door~
+0 0 6455
+D2
+Exit ~
+door~
+0 0 6453
+S
+#6453
+Dark Sea Floor~
+It is very dark this deep under water.  Strangely enough, the affects
+of pressure don't seem to be doing anything to you.  Very few things
+live or grow down here, so the terrain is mostly barren.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6452
+D1
+Exit ~
+door~
+0 0 6454
+S
+#6454
+Dark Sea Floor~
+It is very dark this deep under water.  Strangely enough, the affects
+of pressure don't seem to be doing anything to you.  Very few things
+live or grow down here, so the terrain is mostly barren.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6455
+D1
+Exit ~
+door~
+0 0 6461
+D3
+Exit ~
+door~
+0 0 6453
+S
+#6455
+Sea Bottom~
+It is very dark this deep under water.  Strangely enough, the affects
+of pressure don't seem to be doing anything to you.  Very few things
+live or grow down here, so the terrain is mostly barren.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6456
+D2
+Exit ~
+door~
+0 0 6454
+D3
+Exit ~
+door~
+0 0 6452
+S
+#6456
+Sea Bottom~
+It is very dark this deep under water.  Strangely enough, the affects
+of pressure and the bitter cold don't seem to be doing anything to
+you.  Very few things live or grow down here, so the terrain is
+mostly barren.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6457
+D1
+Exit ~
+door~
+0 0 6459
+D2
+Exit ~
+door~
+0 0 6455
+D3
+Exit ~
+door~
+0 0 6449
+S
+#6457
+Sea Bottom~
+It is very dark this deep under water.  Very few things live or grow
+down here, so the terrain is mostly barren.
+~
+0 8 12
+D1
+Exit ~
+door~
+0 0 6458
+D2
+Exit ~
+door~
+0 0 6456
+S
+#6458
+Sea Bottom~
+It is very dark this deep under water.  Very few things live or grow
+down here, so the terrain is mostly barren.
+~
+0 8 12
+D2
+Exit ~
+door~
+0 0 6459
+D3
+Exit ~
+door~
+0 0 6457
+S
+#6459
+Base of a Mountain~
+Looking up you see a steep slope to the south which curves off to the 
+left and right.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6458
+D1
+Exit ~
+door~
+0 0 6464
+D2
+Exit ~
+door~
+0 0 6460
+D3
+Exit ~
+door~
+0 0 6456
+S
+#6460
+Top of a Mountain~
+From the top of this underwater mountain, the light of the surface
+can be discerned as a faint glow above your head.  Little else
+is visible due to the depth of the surrounding water.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6459
+D2
+Exit ~
+door~
+0 0 6461
+S
+#6461
+Base of a Mountain~
+Looking up you see a steep slope towards the north which curves off 
+to the left and right.
+~
+0 0 12
+D0
+Exit ~
+door~
+0 0 6460
+D1
+Exit ~
+door~
+0 0 6462
+D3
+Exit ~
+door~
+0 0 6454
+S
+#6462
+Sea Bottom~
+It is very dark this deep under water.  Very few things live or grow
+down here, so the terrain is mostly barren.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6463
+D3
+Exit ~
+door~
+0 0 6461
+S
+#6463
+Sea Bottom~
+It is very dark this deep under water.  Very few things live or grow
+down here, so the terrain is mostly barren.
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6464
+D2
+Exit ~
+door~
+0 0 6462
+S
+#6464
+Sea Bottom~
+It is very dark this deep under water.  Very few things live or grow
+down here, so the terrain is mostly barren.  To the west is a
+huge cavern.
+~
+0 8 12
+D1
+Exit ~
+door~
+0 0 6465
+D2
+Exit ~
+door~
+0 0 6463
+D3
+Exit ~
+door~
+0 0 6459
+S
+#6465
+An underwater Cavern~
+This is a huge underwater cavern.  Most likely it is the home of
+some large sea creature.  Part of the ceiling has collapsed leaving
+broken rocks in various parts of the cave.  Pieces of bone can be seen
+mixed in with the shattered rocks.
+~
+0 8 12
+D3
+Exit ~
+door~
+0 0 6464
+S
+#6466
+The Captains Secret Passage~
+You are inside a small crawl space that is inside the captains
+cabin.  The walls are just about to collapse on top of you..
+~
+0 8 12
+D0
+Exit ~
+door~
+0 0 6467
+D2
+Exit ~
+secret~
+1 6419 6435
+S
+#6467
+Weapon Chamber~
+This is the ships weapon's chamber.  Here you can see all sorts of rusted
+weapons from when this ship was once afloat.  The corpses of dead
+men laying to the east are all bloated and distorted.
+~
+0 8 12
+D2
+Exit ~
+door~
+0 0 6466
+S
+#0
+
+
+
+#SPECIALS
+M 6403 spec_janitor Load to: Morkoth
+M 6404 spec_janitor Load to: the Captain
+M 6405 spec_janitor Load to: the Guardian
+M 6409 spec_poison Load to: a starfish
+M 6413 spec_nasty Load to: an old man
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 6429 5 1
+D 0 6434 1 1
+D 0 6434 4 1
+D 0 6435 0 1
+D 0 6435 3 1
+D 0 6438 0 1
+D 0 6439 0 1
+D 0 6439 2 1
+D 0 6440 2 1
+D 0 6441 2 1
+D 0 6441 3 1
+D 0 6442 0 1
+D 0 6442 2 1
+D 0 6443 0 1
+D 0 6443 3 1
+D 0 6444 0 1
+D 0 6444 1 1
+D 0 6445 0 1
+D 0 6445 2 1
+D 0 6445 3 1
+D 0 6446 1 1
+D 0 6446 2 1
+D 0 6447 1 1
+D 0 6466 2 1
+M 1 6413 1 6401 1
+M 1 6401 1 6405 1
+M 1 6407 1 6407 1
+M 1 6406 1 6408 1
+M 1 6407 3 6409 1
+M 1 6407 2 6410 1
+M 1 6407 4 6411 1
+M 1 6406 3 6412 1
+M 1 6406 4 6415 1
+M 1 6406 2 6416 1
+M 1 6407 5 6417 1
+M 1 6408 1 6419 1
+E 0 6415 0 13
+E 0 6425 0 16
+M 1 6409 8 6420 1
+E 0 6421 0 16
+O 0 6401 0 6420
+P 0 6402 -1 6401 1
+M 1 6409 8 6421 1
+E 0 6420 0 16
+M 1 6409 8 6422 1
+E 0 6421 0 16
+M 1 6409 8 6426 1
+E 0 6414 0 5
+M 1 6409 8 6427 1
+E 0 6422 0 16
+M 1 6409 6 6428 1
+M 1 6409 8 6432 1
+E 0 6414 0 5
+M 1 6409 5 6433 1
+M 1 6402 10 6434 1
+E 0 6405 0 16
+E 0 6406 0 12
+M 1 6404 1 6435 1
+E 0 6410 0 16
+E 0 6411 0 13
+M 1 6402 10 6436 1
+E 0 6405 0 16
+E 0 6406 0 12
+M 1 6402 10 6437 1
+E 0 6405 0 16
+E 0 6406 0 12
+E 0 6413 0 17
+M 1 6402 10 6439 1
+E 0 6405 0 16
+E 0 6406 0 12
+M 1 6402 10 6441 1
+E 0 6405 0 16
+E 0 6406 0 12
+M 1 6402 10 6442 1
+E 0 6405 0 16
+E 0 6406 0 12
+M 1 6402 10 6443 1
+E 0 6405 0 16
+E 0 6406 0 12
+E 0 6413 0 17
+M 1 6402 10 6444 1
+E 0 6405 0 16
+E 0 6406 0 12
+M 1 6402 10 6445 1
+E 0 6405 0 16
+E 0 6406 0 12
+M 1 6402 10 6446 1
+G 0 6405 0
+G 0 6406 0
+E 0 6405 0 16
+E 0 6406 0 12
+M 1 6402 11 6447 1
+E 0 6405 0 16
+E 0 6406 0 12
+O 0 6403 0 6447
+P 0 6404 -1 6403 1
+M 1 6401 2 6448 1
+M 1 6403 1 6451 1
+E 0 6409 0 1
+E 0 6408 0 18
+E 0 6412 0 7
+M 1 6412 2 6452 1
+M 1 6411 3 6455 1
+M 1 6411 3 6458 1
+M 1 6412 3 6460 1
+O 0 6423 0 6460
+P 0 6424 1 6423 1
+M 1 6412 3 6462 1
+O 0 6418 0 6462
+O 0 6417 0 6462
+P 0 6419 -1 6417 1
+M 1 6411 3 6464 1
+M 1 6410 1 6465 1
+E 0 6407 0 12
+M 1 6405 1 6467 1
+E 0 6416 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

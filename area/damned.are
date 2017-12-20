@@ -1,0 +1,3130 @@
+#AREADATA
+Name Halls of the Damned~
+Builders Cecilia Lufia~
+VNUMs 14000 14099
+Credits { None} Cecilia     Halls of the Damned~
+Security 1
+Xcontinent 1
+Age 12
+Questable 1
+End
+
+
+
+#MOBILES
+#14000
+scavenger rat~
+a scavenger rat~
+A scavenger rat is here, searching for remains.
+~
+A small rodent the size of your fist.  It is frantically searching for
+anything that it can bite its teeth into.  You feel you should hide your
+belongings, or at least drive your weapon into this animal before it can
+make the first move.  
+~
+human~
+ACHS DFPVZb 0 0
+30 3 6d12+853 1d1+100 4d6+8 scratch
+-9 -9 -9 -9
+CHJR BPab DIM CHK
+stand stand male 3000
+ABGHMV ABCDEFGHIJKQV small Flesh the guilds~
+#14001
+shadow warrior~
+a warrior of the shadow~
+A warrior of shadow is here, wailing for the suffering to end.
+~
+Twisted beyond recognition, this warrior was once the proud and loyal
+servent to this temple.  His deep red eyes are the only concrete shape you
+can make out.  He hisses at you and draws his blade.  
+~
+tree~
+ABFT HJNOTUVZ -1000 0
+53 5 50d10+6000 1d1+100 6d7+21 slice
+-23 -23 -23 -23
+ACFHO ABb IJKM HIO
+stand stand none 10000
+AHMV ABCDEFGHIJK huge shadow the guilds~
+#14002
+Ghoul~
+A ghoul~
+A ghoul is here, festing on dismembered corpses.
+~
+A creation beyond anything you have ever seen.  This monster is hungry
+for blood and the lust is evident from not only his eyes, but his movements
+as he moves cautiously towards you.  
+~
+human~
+ABFGO U -500 0
+48 4 25d10+3750 1d1+100 6d6+18 frbite
+-18 -18 -18 -18
+BFK ABab I H
+rest stand none 5000
+AHMV ABCDEFGHIJK large shadow the guilds~
+#14003
+Divine Healer~
+A Divine Healer~
+A divine healer is here, helping you build!
+~
+This little healer does not deserve a desc.
+~
+human~
+ABGa H 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 AD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14004
+An Emerald Dragon~
+An emerald dragon~
+An emerald dragon is sleeping here, dreaming dreams of conquest.
+~
+This dragon would certainly be furious if you were to awaken him from his
+sleep.  Her thick scales gleam an emerald color and does not want to be
+trifled with.  Smoke rises from its nostrils that seem to poison the very
+air you breathe.  Years of slumber has kept this dragon at peace.  Another
+hundred years would keep everyone happy.  
+~
+green dragon~
+ABFG HJTVZ 0 0
+56 5 50d10+7750 2d2+200 10d4+30 pierce
+-33 -33 -33 -33
+CEFHM ABab BEL J
+sleep stand female 10000
+BHMZ ABCDEFGHIJKLPQUVWX giant flesh the guilds~
+#14005
+Dying Paladin~
+A dying paladin~
+A paladin is resting here, overcome by battle.
+~
+This poor soul gave his all for battle which evidently was not enough. 
+He is mortally wounded and awaits death.  The paladin lets out a disturbed
+sigh and speaks to you: 
+ 
+"{RWe tried to stop them, they were too many. 
+They seemed to emerge from beneath the temple 
+itself. Scores of em. We had no chance, no 
+chance. Selina help us. {x"
+~
+human~
+ABGH HM 0 0
+30 3 6d12+853 1d1+100 4d6+8 punch
+-9 -9 -9 -9
+FN L 0 CD
+rest rest male 100
+AHMV ABCDEFGHIJK medium human the guilds~
+#14006
+Screaming Banshee~
+A screaming banshee~
+Terror itself is here, screaming for her freedom.
+~
+This translucent figure is suffering for wrong doing in her past life. 
+She has unnatural strength and speed and will stop at nothing to redeem
+herself by killing everything for her master.  This banshee is decorated
+with a strange piece of equipment and holds a strange key.  
+~
+deamon~
+AGQ BCDFHJTVb -500 0
+55 5 50d10+7000 1d1+100 10d4+23 rip
+-25 -25 -25 -25
+CEFH ABb H INS
+stand stand female 10000
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#14007
+hell hound dog~
+A hound of hell~
+A demonic dog is here, lusting for your blood.
+~
+Awww, isn't that cute?  It wants to kill you!  
+~
+dog~
+AGT FJNOPVZab -500 0
+50 8 60d10+5000 1d1+100 8d8+0 claw
+-48 -48 -48 -3
+ADFHNR BCab CDEFGIJKLMOPQRTXYZb HNS
+stand stand either 8000
+AGHMV ABCDEFGHIJKUV medium PuppyChow the guilds~
+#14008
+brain~
+a brain~
+One of many brains are floating here, oblivious to your presence.
+~
+This strange brain appears to be floating around the room for absolutely
+no reason.  
+~
+gnome~
+ABOQ FJNTUZ 1000 0
+30 3 6d12+853 1d1+100 4d6+8 none
+-18 -18 -18 -18
+ABCDFHR ABb BE HK
+stand stand none 0
+ABHMV ABCDEFGHIJKUV medium silk the guilds~
+#14009
+human fear scarred~
+A frightened human~
+Someone is hiding here, fearing for his life.
+~
+A battle-scared human is cowering in the corner.  His weapon bent, his
+armor pierced, his courage destroyed.  
+~
+elf~
+ABS CFJQTV -1000 0
+53 5 50d10+6000 1d1+100 6d7+21 scratch
+-23 -23 -23 -23
+CHJ ABa BL JZ
+stand stand male 100
+AHMV ABCDEFGHIJK small fear the guilds~
+#14010
+The Necromancer~
+A Necromancer~
+An evil pressence flows within this room.
+~
+~
+giant~
+AB 0 -1000 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 b BHI JZ
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14011
+hell hound dog~
+A greater hound of hell~
+This dog seems more bloodthirsty than the rest.
+~
+This hound of hell is the necromancer's prized pet.  His teeth bared, his
+eyes bloodthirty and his hunger for flesh is all that is bothering you.  
+~
+human~
+ABGT HJPVZa -1000 0
+53 5 50d10+6000 1d1+100 6d7+21 claw
+-23 -23 -23 -23
+ADFHN BKa DEFGIJKLMOPQRXYZ HNS
+stand stand none 5000
+AHMV ABCDEFGHIJK huge flesh the guilds~
+#14012
+ghoul~
+A ghoul~
+A ghoul stands here, hungry for flesh.
+~
+This being appears to be some sort of ghoul, if you can call it that. 
+Its mismatched body parts and messed up face is contorted in such a way that
+it could be called anything.  These ghouls appear to be linked together
+telepathically and will not hesitate to assist eachother in bloody combat.  
+~
+deamon~
+ABGOT DFHJNOT -500 0
+20 2 3d9+333 1d1+100 2d8+5 none
+-4 -4 -4 -4
+CFHR ABHKL DHIJ NS
+stand stand none 0
+ABGZ ACDEFHJKQVX medium flesh the guilds~
+#14013
+water elemental~
+A water elemental~
+A water elemental is sleeping peacefully here, dreaming dreams of his master of old.
+~
+This great watery being is as large as they come.  Once the pet of a
+great summoner, this elemental is now alone.  Freedom has caused this
+monster to catch up on slumber, meaning you had better not bother him.  
+~
+human~
+ABGT SUV 0 0
+53 5 50d10+6000 1d1+100 2d27+5 slash
+-23 -23 -23 -23
+EFLN Aa LOQ HI
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14014
+kirre assassin~
+A kirre assassin~
+A kirre has wondered from his pack in search of treasure.
+~
+This feline has all the tricks up his sleeve, and none so much as his
+taste for battle.  Whip in hand, his dexterity is unmatched by anyone. 
+Unless you can figure a way to pin him, you won't be hitting him much.  
+~
+kirre~
+AB JQV 0 0
+50 5 1d1+500 1d1+100 5d8+19 scratch
+-988 -988 -988 -988
+BF ABC J I
+stand stand male 10000
+AGHMV ABCDEFGHIJKQ small fur the guilds~
+#14015
+crusader~
+A prisoner crusader~
+A crusader stands proud here, even in his moment of defeat.
+~
+This stout fellow has reached the end of battle.  Adorned in nothing more
+than rags.  He wields only a great blade which is useless within these
+walls.  Perhaps one should end his suffering.  
+~
+human~
+ABG HJ 1000 0
+52 5 50d10+5500 1d1+100 6d7+20 divine
+-22 -22 -22 -22
+CFHK ABK LQ HR
+stand stand none 150000
+AHMV ABCDEFGHIJK medium flesh the guilds~
+#14016
+spectre~
+A shadow spectre~
+A ghostly spectre is here, tormented by his recent death.
+~
+A black translucent figure stands before you with ominous eyes.  His icy
+touch reaching out do grasp anything with a soul.  You feel almost sorry for
+this pathetic shadow as it looms around the room.  And all the same you feel
+the urge to slice it to bits.  
+~
+human~
+ABGOQ TUb 0 0
+35 3 10d10+1300 1d1+100 5d7+11 chill
+-11 -11 -11 -11
+EF Ia M LNO
+stand stand none 2000
+AHMV ABCDEFGHIJK medium ghostly the guilds~
+#14017
+gorgon~
+A fanatical gorgon~
+A gorgon is here, scratching the walls and seaching for food.
+~
+This beast is half animal, half demon.  Its two horns are its weapon of
+choice and it is not afraid to use it.  Something odd is affecting the
+behavior of this being.  It looks dazed, as though it has been possessed by
+someone.  You think twice before confronting this fanatical gorgon looking
+at its reinforced hide which seems to resist even the toughest weapon.  
+~
+human~
+ABGT H -1000 0
+52 5 50d10+5500 1d1+100 6d7+20 slash
+-27 -27 -27 -7
+AMO Iab D 0
+stand stand none 5000
+AHMV ABCDEFGHIJK medium love the guilds~
+#14018
+rat~
+A stubby rat~
+A stubby rat is here, chewing at the floor.
+~
+A little beady nose!  That's so cute 
+~
+human~
+ABC Y -1000 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+FH Ma IJ 0
+stand stand none 3000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#14019
+statue~
+An animated statue~
+A beautiful bronze statue is here, watching your every move.
+~
+This beautiful statue depicts a woman in a beautiful dress carrying a
+waterjug on her shoulders.  Oddly enough you have an odd feeling that its
+eyes are watching you.  
+~
+human~
+ABG Z -900 0
+51 5 50d10+5000 1d1+100 5d8+20 slash
+-21 -21 -21 -21
+CEN ABa L H
+stand stand female 2000
+AGHMVXc ABCDEFGHIJKQV large bronze the guilds~
+#14020
+Spectre~
+A spooky spectre~
+A strange force is within this room.
+~
+~
+human~
+ABG 0 -1000 0
+1 0 2d6+10 1d1+100 1d4+0 slash
+9 9 9 9
+0 A HI HJ
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14021
+brain~
+a brain~
+One of many brains are floating here, oblivious to your presence.
+~
+This strange brain appears to be floating around the room for absolutely
+no reason.  
+~
+human~
+ABCGOQ FJNTUZ 1000 0
+30 3 6d12+853 1d1+100 4d6+8 none
+-9 -9 -9 -9
+ABCDFHU ABb BE BE
+stand stand none 200
+AHMV ABCDEFGHIJK medium silk the guilds~
+#14022
+baby blue dragon~
+a baby dragon~
+A baby dragon roars at your presence!
+~
+This dragon has not yet reached maturity.  His scales are a dark shiny
+blue and he looks very territorial as if he would charge anything that
+entered his space.  
+~
+blue dragon~
+ABFG JTZa 1000 0
+52 5 50d10+5500 1d1+100 6d7+20 claw
+-22 -22 -22 -22
+DEFHO 0 BEJ K
+stand stand male 100
+BHMZ ABCDEFGHIJKLPQUVWX giant 0 the guilds~
+#14023
+bronze statue~
+a bronze statue~
+A stout statue is here, holding the key you require.
+~
+Appearently this statue has a life of its own as it is moving with the
+draft in this room.  You can see a key around the neck of this statue and
+you wonder where the key fits.  
+~
+giant~
+ABFG Ha 0 0
+52 5 50d10+5500 1d1+100 6d7+20 crush
+-22 -22 -22 -22
+CFJNO ABa HI J
+stand stand none 100
+AHMV ABCDEFGHIJK medium bronze the guilds~
+#14024
+DeathKnight~
+a Death Knight~
+The DeathKnight of the Halls is here, absorbing the life from this once sacred place.
+~
+Drapped in a dark hood and black cape, you cannot see the face of this
+warrior.  Everything around him is in decay and purged of everything pure. 
+His raises his blade and aims it at you for your first move.  
+~
+undead~
+ABFGQ DFHJNOTVZa -1000 0
+58 5 50d10+8500 1d1+100 5d10+25 entangle
+-28 -28 -28 -28
+ACFHJO ABHab I HNS
+stand stand male 13000
+ABGHMVZ ABCDEFGHIJKQVX large 0 the guilds~
+#14025
+target dummy~
+A stuffed dummy~
+A stuffed dummy is here, ready to take a beating
+~
+~
+human~
+ABG HV 1000 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABP 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#14026
+man~
+an ordinary man~
+A man is here
+~
+~
+snake~
+ABG V 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+HR AB L I
+stand stand none 0
+AGHMVXYc ABCDEFGHIJKLQVX medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#14000
+Gateway Gate Portal~
+A Portal~
+A Dark Shimmering GateWay beckons you.~
+stone~
+portal AG 0
+0 0 0 14010 0
+0 15000 0 P
+#14001
+Cecilia Portal Gate~
+Cecilia's Portal~
+A pink flowery portal wants YOU, to enter here.~
+Love~
+portal AG 0
+1 0 1 13202 0
+0 1000 0 P
+#14002
+Recall Portal~
+Portal to Dominia Recall!~
+Yet another one of Cecilia's many portals lie here.~
+wood~
+portal A A
+0 0 1 31000 0
+0 0 0 P
+#14003
+Parchment~
+Poetic Parchment~
+A large parchment is sitting on a pedestal, waiting to be examined.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+parchment~
+{DThe Halls of the Damned{x
+ 
+On the eve of stars and moons aligned
+The sky rained fire of Entities combined
+That grew to whom they are this day
+Some with greatness, and others with hate
+An attempt at balance, or chaotic par
+The brings took form with great powers by far
+To crush the love of hate of sin
+To poison the lands of Dominia, to win
+If evil conquers, our lands are lost
+The journey is fallen, such is warmth to frost
+We are the last of the crusaders, of the holy, of gold
+The only force left defending this accused stronghold
+We seek a strong group of warriors to fight
+A balance of wisdom, and a balance of might
+To scourge this temple of evil's dreams
+That good will come once more, peaceful, serene
+~
+#14004
+Cecilia's Angel Blade~
+Cecilia's Angel Blade~
+Cecilia's Angel Blade~
+wood~
+weapon AH AN
+sword 8 8 pierce EFQR
+54 10 10000 P
+#14005
+Blue Aura~
+Blue Aura~
+A strange {CPale Blue{x light brightens the room.~
+Light~
+trash AB 0
+0 0 0 0 0
+60 1000 0 P
+#14006
+Cecilia Heart~
+Cecilia's Heart~
+A Heart belonging to Cecilia?~
+love~
+armor AYe AQ
+-100 -100 -100 -100 0
+54 1000 1000 P
+A
+18 15  
+A
+2 5  
+A
+1 5  
+A
+19 28  
+A
+13 250  
+A
+12 60  
+#14007
+Throne key~
+Throne Key~
+A small and jagged key is here, opening the depths of despair.~
+wood~
+key T AO
+0 0 0 0 0
+0 10 0 P
+#14008
+pill absolute darkness~
+A pill of absolute darkness~
+A small pill is here, defying the light.~
+shadow~
+pill P AO
+20 'darkness' 'continual light' 'reserved' 'reserved'
+40 20 1000 P
+#14009
+Wooden Key~
+A wooden key~
+This key has the markings of a fire emblem.~
+wood~
+key AT AO
+0 0 0 0 0
+0 10 0 P
+#14010
+corpse paladin~
+A corpse of a Paladin~
+The corpse of a Paladin rests here, contemplating decay.~
+flesh~
+container 0 A
+1000 AC 0 10000 0
+0 8000 0 P
+#14011
+rat arm scavenger~
+the arm of a scavenger rat~
+The sliced-off arm of a scavenger rat is lying here.~
+rat~
+key 0 AO
+0 0 0 0 0
+0 10 0 P
+#14012
+Broken double edged sword~
+A broken double edged sword~
+A long and shattered blade is here, useless to the wielder.~
+rust~
+weapon AK AN
+sword 5 8 pierce J
+48 30 1000 P
+A
+19 -6  
+A
+18 -8  
+#14013
+page book damned~
+a page from the book of the damned~
+A page is torn from the book of the damned. With careful inspection, one may be able to decipher its words.~
+parchment~
+trash HTY AO
+0 0 0 0 0
+0 10 0 P
+E
+word~
+The hellhounds are ferocious beasts summoned from the pits of hell.  They
+bare weakness to power divine and weakness to flame stronger than the fiery
+plains that they reside in.  All other elements, the hellhound resists.  Do
+not approach the hounds of hell unless you are prepared.  They are not
+magical creatures and only attack relentlessly with their teeth that can
+instantly cut flesh of summoned beings in your party.  
+~
+#14014
+slayer teeth~
+slayer's teeth~
+Unnatural sharp fangs are here, taunting you.~
+bone~
+weapon M AN
+exotic 6 5 bite BN
+42 20 1000 P
+A
+1 2  
+A
+2 -1  
+#14015
+rock~
+A crack in the rock~
+~
+stone~
+container 0 0
+0 0 0 0 0
+0 0 0 P
+E
+rock~
+{DSomething is glowing inside this rock.  {x 
+~
+#14016
+shelf~
+A shelf~
+~
+wood~
+container 0 0
+0 0 0 10 10
+0 0 0 P
+#14017
+scroll beast~
+a scroll of the beast~
+A scroll is here, containing the power of the wild~
+wood~
+scroll 0 AO
+40 'animal growth' 'bark skin' 'reserved' 'reserved'
+50 10 1000 P
+#14018
+toilet~
+A toilet~
+~
+wood~
+container 0 0
+10 0 0 0 0
+0 0 0 P
+#14019
+chest~
+A chest~
+~
+stone~
+container 0 0
+10 AC 0 20 0
+0 500 0 P
+#14020
+death veil~
+Death's Veil~
+A translucent veil is here, devouring the essence of life around it.~
+silk~
+armor AGY AE
+10 10 10 10 0
+49 40 10000 P
+A
+2 -3  
+A
+4 3  
+A
+13 25  
+#14021
+emerald tiger~
+an emerald key~
+A gleaming green key is here, with the mark of a tiger.~
+emerald~
+key T AO
+0 0 0 0 0
+0 10 5000 P
+#14022
+mystic shackles~
+mystic shackles~
+Strange shackles are here, awaiting a new soul.~
+steel~
+armor CEHM AG
+5 5 5 5 0
+30 10 1000 P
+A
+1 -10  
+A
+4 -10  
+#14023
+pile bones~
+A pile of bones~
+A pile of bones are here.~
+wood~
+container 0 0
+100 0 0 0 0
+0 0 0 P
+#14024
+water drop~
+A water drop~
+A small water drop~
+water~
+weapon A AN
+exotic 2 19 grep B
+45 0 0 P
+A
+19 3  
+A
+18 3  
+#14025
+corpse crusader~
+A corpse of a crusader~
+A corpse of a crusader is here, contemplating decay.~
+flesh~
+container A A
+20 AC 0 0 0
+0 0 0 P
+#14026
+scroll damned~
+The scroll of the damned~
+A cursed scroll is here with strange but legible writings of death and suffering.~
+paper~
+scroll EJ AO
+51 'crushing hand' 'reserved' 'reserved' 'reserved'
+50 10 100 P
+E
+writings~
+Deep within the dark halls lie a crypt.  Concealed beneath the throne of
+the ancient ruler of the halls.  6 keys guarded by 6 beings unlocking the
+way to a hidden power.  
+~
+#14027
+lightning bolt key~
+a lightning bolt shaped key~
+A lightning bolt key is here.~
+wood~
+key BT AO
+0 0 0 0 0
+0 10 0 P
+#14028
+page book damned~
+A torn page from the book of the damned~
+A page is torn from the book of the damned. With careful inspection, one may be able to decipher its words.~
+paper~
+trash 0 A
+0 0 0 0 0
+0 10 0 P
+E
+word~
+The kirre assassins are a clever bunch full of dexterity and wisdom. 
+Much knowledge is required to attack a approach these lightning fast
+hunters.  The trick is nothing more than to use attacks that never fail. 
+That is the key.  
+~
+#14029
+cursed cloak~
+cloak of the cursed~
+A translucent neck item is here, making your older than you actually are.~
+shadow~
+armor AHM AC
+5 5 5 2 0
+30 10 1800 P
+A
+2 -1  
+A
+9 7  
+A
+19 2  
+#14030
+slimey egg~
+a slimey egg~
+A slimey egg is here, ready to hatch.~
+shell and yoke~
+food 0 A
+1 1 0 A 0
+0 0 500 P
+#14031
+waterfall key~
+waterfall key~
+A key of the waterfall appears to unlock a door within the temple.~
+bronze~
+key 0 AO
+0 0 0 0 0
+0 10 0 P
+#14032
+double edged sword~
+a double edged sword~
+A double edged sword is here.~
+steel~
+weapon 0 AN
+sword 5 8 slash D
+49 20 1000 P
+A
+13 20  
+A
+18 3  
+#14033
+jail cell key~
+jail cell key~
+A cell to a jail cell is here.~
+iron~
+key 0 AO
+0 0 0 0 0
+0 10 0 P
+#14034
+voodoo doll~
+a voodoo doll~
+A little doll is here, for pain and pleasure alike.~
+wood~
+recall_crystal 0 AO
+AEFHJKMN AB AB 0 0
+0 10 0 P
+#14035
+void crystal~
+a void crystal~
+A brilliant black crystal lies here, absorbing light.~
+nothingness~
+jewelry TW AO
+0 0 0 0 0
+0 20 11000 P
+A
+1 -5  
+#14036
+cracked holy shield~
+a cracked holy shield~
+A holy shield is here, radiating a holy glow.~
+divinity~
+armor 0 AJ
+10 10 10 10 0
+45 20 300 P
+A
+19 -3  
+#14037
+page book damned~
+a page from the book of the damned~
+A page is torn from the book of the damned. With careful inspection, one may be able to decipher its words.~
+parchment~
+trash 0 AO
+0 0 0 0 0
+0 10 0 P
+E
+word~
+Beneath the throne lies a crypt.  The greatest of treasures concealed
+here.  To reveal the path one requires seven keys.  Each key unique.  Seven
+keys and seven doors to the greatest force.  
+~
+#14038
+holy shield~
+a holy shield~
+A holy shield is here, radiating a holy glow.~
+divinity~
+armor I AJ
+10 10 10 10 0
+50 20 300 P
+A
+19 3  
+A
+18 1  
+A
+13 10  
+#14039
+lair~
+A dragon has set up their lair in this room.~
+A dragon has set up their lair in this room.~
+nest~
+trash 0 0
+0 0 0 0 0
+0 10 0 P
+#14040
+claws agony~
+claws of agony~
+Large deadly claws are here, longing for battle.~
+enchanted bone~
+weapon BE AN
+exotic 6 6 claw EF
+51 20 3000 P
+A
+20 -1  
+A
+19 3  
+#14041
+Giant's Bane~
+Bane of Giants~
+A long razor chain is here, sending volts of electricity around the room.~
+steel~
+weapon H AN
+whip 5 8 shbite G
+49 20 3000 P
+A
+19 1  
+A
+18 1  
+#14042
+key life death~
+the key of life and death~
+A silver key is here, unlocking untold secrets.~
+diamond~
+key 0 AO
+0 0 0 0 0
+0 10 0 P
+#14043
+dragonscale chastity belt~
+a chastity belt~
+A belt made from dragonscales is here.~
+dragonscale~
+armor A AL
+8 8 8 6 0
+41 10 12000 P
+A
+20 -2  
+A
+3 2  
+#14044
+fountain anti matter~
+A Fountain of Anti-matter~
+A fountain of anti-matter is here, as you near the end of your quest.~
+stone~
+fountain A 0
+-1 -1 'anti-matter' 0 0
+0 0 0 P
+#14045
+throne~
+the king's throne.~
+A king's throne is here, nearing the point of collapse.~
+wood~
+furniture 0 0
+1 5000 ACDEHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+#14046
+darksplint bracers~
+Darksplint Bracers~
+At~
+darkness~
+armor AB AM
+12 12 12 10 0
+50 100 10000 P
+A
+4 1  
+A
+20 -2  
+A
+19 1  
+A
+18 2  
+#14047
+piece scrap metal~
+a piece of scrap metal~
+A piece of scrap metal is here.~
+steel~
+trash B AO
+0 0 0 0 0
+0 40 0 P
+#14048
+skullcap~
+a lace-boned skullcap~
+A skullcap is here, radiating an evil energy.~
+wood~
+armor EHad AE
+14 14 14 14 0
+40 10 0 P
+A
+20 -2  
+#14049
+Seer arm guards~
+Seer's armguards~
+Something glimmering in the light catches your eyes.~
+crystal~
+armor 0 AI
+5 5 5 5 0
+40 30 0 P
+A
+1 -1  
+A
+12 10  
+A
+3 2  
+A
+4 2  
+#14050
+box~
+small box~
+~
+wood~
+container 0 0
+100 AC 0 10 10
+0 0 0 P
+#14051
+gold key~
+a golden key~
+An oddly shaped gold key is here.~
+gold~
+key P A
+0 0 0 0 0
+0 0 0 P
+#14052
+bent silver spear~
+a bent silver spear~
+A holy silver spear is here, broken beyond repair~
+silver~
+weapon 0 AN
+staff 5 7 pierce 0
+45 10 0 P
+#14053
+pandora box~
+Pandora's Box~
+Pandora's Box is here, concealing the wonders of the temple.~
+wood~
+container HPTZ A
+100 ABCD 14051 100 0
+0 10 0 P
+#14054
+piece wool~
+a piece of wool~
+A small fluffy object is here, carried around the room why a draft.~
+wood~
+trash H A
+0 0 0 0 0
+0 0 100 P
+#14055
+little hat~
+a little hat~
+A little hat is here~
+cloth~
+pill M AE
+0 'sanctuary' 'reserved' 'reserved' 'reserved'
+1 0 0 P
+#14056
+bent sword~
+bent sword~
+A bent sword is here.~
+wood~
+weapon M AN
+exotic 0 0 none 0
+0 0 0 P
+#14084
+key wind~
+wind key~
+A key is here with an odd breeze to accompany it.~
+bronze~
+key C A
+0 0 0 0 0
+0 10 0 P
+#14085
+pedistal~
+A pedistal~
+A pedistal is here, holding a radiant object.~
+bronze~
+container A 0
+100 AC 0 0 0
+0 100 0 P
+#0
+
+
+
+#ROOMS
+#14000
+{GCecilia's {xLittle {RWorkshop {Bof {RHorrors{x~
+~
+0 32788 3
+M 1000 H 1000
+S
+#14001
+The Bane of Existence~
+You have wandered beyond the reach of the sun.  Plunged beneath eternal
+darkness, do you dare press on?  Surrounding you is nothing as far as the
+eye can see, maybe you should go back.  
+~
+0 268435456 3
+D0
+~
+~
+0 0 14003
+D3
+~
+~
+0 0 14097
+S
+#14002
+A Swirling Vortex~
+You have been consumed by a great evil.  Nothing seems to escape the
+surrounding mist.  Can you?  Blindly wandering around, the rooms seem to
+repeat.  Perhaps this was not a good idea?  In the distance, you can barely
+make out a shimmering gate.  If you can follow your senses, maybe you can
+reach the gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 14004
+D1
+~
+~
+0 0 14003
+D2
+~
+~
+0 0 14006
+D3
+~
+~
+0 0 14004
+S
+#14003
+{DA Swirling Vortex{x~
+You have been consumed by a great evil.  Nothing seems to escape the
+surrounding mist.  Can you?  Blindly wandering around, the rooms seem to
+repeat.  Perhaps this was not a good idea?  In the distance, you can barely
+make out a shimmering gate.  If you can follow your senses, maybe you can
+reach the gate.
+~
+0 0 0
+D1
+~
+~
+0 0 14005
+D2
+~
+~
+0 0 14001
+D3
+~
+~
+0 0 14002
+S
+#14004
+A Swirling Vortex~
+You have been consumed by a great evil.  Nothing seems to escape the
+surrounding mist.  Can you?  Blindly wandering around, the rooms seem to
+repeat.  Perhaps this was not a good idea?  In the distance, you can barely
+make out a shimmering gate.  If you can follow your senses, maybe you can
+reach the gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 14004
+D1
+~
+~
+0 0 14002
+D2
+~
+~
+0 0 14009
+D3
+~
+~
+0 0 14003
+S
+#14005
+A Swirling Vortex~
+You have been consumed by a great evil.  Nothing seems to escape the
+surrounding mist.  Can you?  Blindly wandering around, the rooms seem to
+repeat.  Perhaps this was not a good idea?  In the distance, you can barely
+make out a shimmering gate.  If you can follow your senses, maybe you can
+reach the gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 14006
+D1
+~
+~
+0 0 14004
+D2
+~
+~
+0 0 14002
+D3
+~
+~
+0 0 14003
+S
+#14006
+A Swirling Vortex~
+You have been consumed by a great evil.  Nothing seems to escape the
+surrounding mist.  Can you?  Blindly wandering around, the rooms seem to
+repeat.  Perhaps this was not a good idea?  In the distance, you can barely
+make out a shimmering gate.  If you can follow your senses, maybe you can
+reach the gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 14007
+D1
+~
+~
+0 0 14009
+D2
+~
+~
+0 0 14005
+D3
+~
+~
+0 0 14004
+S
+#14007
+A Swirling Vortex~
+You have been consumed by a great evil.  Nothing seems to escape the
+surrounding mist.  Can you?  Blindly wandering around, the rooms seem to
+repeat.  Perhaps this was not a good idea?  In the distance, you can barely
+make out a shimmering gate.  If you can follow your senses, maybe you can
+reach the gate.  
+~
+0 9 0
+D0
+~
+~
+0 0 14002
+D1
+~
+~
+0 0 14006
+D2
+~
+~
+0 0 14006
+D3
+~
+~
+0 0 14008
+S
+#14008
+The Forsaken Gate~
+~
+0 268435465 0
+D1
+~
+~
+0 0 14007
+S
+#14009
+A Swirling Vortex~
+You have been consumed by a great evil.  Nothing seems to escape the
+surrounding mist.  Can you?  Blindly wandering around, the rooms seem to
+repeat.  Perhaps this was not a good idea?  In the distance, you can barely
+make out a shimmering gate.  If you can follow your senses, maybe you can
+reach the gate.  
+~
+0 9 0
+D0
+~
+~
+0 0 14003
+D1
+~
+~
+0 0 14009
+D2
+~
+~
+0 0 14002
+D3
+~
+~
+0 0 14009
+S
+#14010
+Halls of the Damned~
+You are standing at the entrance of what looks to be a large hallway.
+The torches that line the walls of the hall are consumed by an unnatural
+darkness here.  Your own source of light is dimmed within this dark hall but
+you cannot stop exploring now.  A series of archways seem to extend the hall
+to the east and west.  A silver pedestal is here, displaying something.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 14013
+D1
+~
+~
+0 0 14018
+D3
+~
+~
+0 0 14011
+M 500 H 1000
+S
+#14011
+Halls of the Damned~
+You notice a large steel door off to the west.  It seems to be demanding
+your attention as the dark mist surrounding you is flowing in that
+direction.  Rats, and more rats are scouting your every move.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 14012
+D1
+~
+~
+0 0 14010
+D3
+~
+~
+0 0 14022
+S
+#14012
+Before a Stone Column~
+These great stone pillars are the support of this hall.  They are the
+only objects in this hall not destroyed by the death and decay of war. 
+These great stone pillars are the support of this hall.  They are the only
+objects in this hall not destroyed by the death and decay of war.  They have
+been beautifully carved to resemble women carrying water flasks and pots
+over their heads.  This pillar in particular has writings inscribed on it.  
+~
+0 268443648 0
+E
+pill~
+One adventurer within these halls will have no luck indeed.
+Two adventurers will fare much better, but not as well as three.
+Fight together or do not fight
+Use all magics as well as might
+~
+D0
+~
+~
+0 0 14015
+D1
+~
+~
+0 0 14013
+D2
+~
+~
+0 0 14011
+D3
+~
+~
+0 0 14023
+S
+#14013
+Halls of the Damned~
+Deeper into the main chamber of this temple, you begin to hear wailing
+cries of agony coming from several directions.  Surrounding your feet are
+little scavenger rats that appear to be harmless enough.  They are feeding
+off what appear to be the remains of an unlucky mangled corpse.  The hall
+continues off into all directions.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 14014
+D1
+~
+~
+0 0 14017
+D2
+~
+~
+0 0 14010
+D3
+~
+~
+0 0 14012
+S
+#14014
+Halls of the Damned~
+This section of the hall appears to be different somehow.  You no longer
+feel cursed by the surrounding darkness.  A pale {Cblue aura{x surrounds you
+and you feel that you can once again communicate with your deity.  
+~
+0 0 0
+D0
+~
+~
+0 0 14027
+D1
+~
+~
+0 0 14016
+D2
+~
+~
+0 0 14013
+D3
+~
+~
+0 0 14015
+S
+#14015
+Infested Den~
+This section of the main hall has been overrun by a host of black eggs. 
+There are countless numbers growing here, protected by an impenetrable dark
+aura.  You don't know exactly what these eggs will grow into, but you can
+hear hatching in the room to the west.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 14028
+D1
+~
+~
+0 0 14014
+D2
+~
+~
+0 0 14012
+D3
+~
+~
+0 0 14024
+S
+#14016
+Halls of the Damned~
+There is very little of interest in this area save the section of the
+ceiling that has collapsed to the east.  Large stones block your way, but
+still nothing of interest is buried here.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 14026
+D2
+~
+~
+0 0 14017
+D3
+~
+~
+0 0 14014
+S
+#14017
+Before a Stone Column~
+These great stone pillars are the support of this hall.  They are the
+only objects in this hall not destroyed by the death and decay of war. 
+These great stone pillars are the support of this hall.  They are the only
+objects in this hall not destroyed by the death and decay of war.  They have
+been beautifully carved to resemble women carrying water flasks and pots
+over their heads.  This pillar in particular has a note attached to it.  
+~
+0 268443648 0
+E
+pillar~
+The guardians of the keys will not give up their treasures unless you
+prove your worth.  Guardians scattered who lay in hiding.  
+~
+D0
+~
+~
+0 0 14016
+D1
+~
+~
+0 0 14020
+D2
+~
+~
+0 0 14018
+D3
+~
+~
+0 0 14013
+S
+#14018
+Halls of the Damned~
+You are traveling east from the way you came.  Nothing lightens your path
+except for your own source of light.  This hall is massive.  The only
+audible sounds being the little rats who fill the hall of death, scavenging
+for remains.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 14017
+D1
+~
+~
+0 0 14019
+D3
+~
+~
+0 0 14010
+S
+#14019
+Halls of the Damned~
+A large steel framed door leads out of the hall to the east.  There is
+no sound coming from the other side and a small draft coming from the door
+makes the hair on your flesh stand on end.  The door appears to be marked
+with an X written in blood.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 14020
+D1
+~
+~
+1 0 14040
+D3
+~
+~
+0 0 14018
+S
+#14020
+Halls of the Damned~
+This section of the hall has collapsed for some reason.  You stare up at
+the hole in the ceiling and only a swirling mist can be seen outside, much
+like the vortex you entered this temple by.  Large stones block your way to
+the north, and there is nothing of interest amongst the rubble.  A {Cpale
+blue aura{x brightens this room.  
+~
+0 0 0
+D2
+~
+~
+0 0 14019
+D3
+~
+~
+0 0 14017
+S
+#14021
+Halls of the Damned~
+~
+0 268443652 0
+S
+#14022
+Entrance to the Western Corridor~
+A large steel framed door leads out of the hall to the west.  There is no
+sound coming from the other side and a small draft coming from the door
+makes the hair on your flesh stand on end.  The door appears to be marked
+with a circle written in blood.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 14023
+D1
+~
+~
+0 0 14011
+D3
+~
+~
+1 0 14035
+S
+#14023
+Halls of the Damned~
+Statues of once great figures lay smashed and scattered in this area.  A
+great battle took place here and you aren't sure who came out victorious. 
+One thing is for sure, the invaders left nothing in this hall standing. 
+These statues appear to have been smashed some time ago.  A {Cblue aura{x
+surrounds you.  
+~
+0 0 0
+D0
+~
+~
+0 0 14024
+D1
+~
+~
+0 0 14012
+D2
+~
+~
+0 0 14022
+S
+#14024
+Infested Den~
+A lush blackness covers the ground.  As you take a closer look, you
+realize they are small eggs coming from the east.  These eggs look very
+delicate, but are protected by a dark force that prevents you from crushing
+them.  You can hear hatching sounds to the north.  Perhaps you can discover
+what are concealed within these eggs.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 14029
+D1
+~
+~
+0 0 14015
+D2
+~
+~
+0 0 14023
+S
+#14025
+Halls of the Damned~
+To the south of you is where the hall collapsed on itself.  It seems that
+monsters entered this hall from above and, by the looks of it, there were
+many.  Small unimportant corpses lay around the debris of rock.  One thing
+amongst the rock catches your eye.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 14034
+D3
+~
+~
+0 0 14026
+S
+#14026
+Before a Stone Column~
+These great stone pillars are the support of this hall.  They are the
+only objects in this hall not destroyed by the death and decay of war. 
+These great stone pillars are the support of this hall.  They are the only
+objects in this hall not destroyed by the death and decay of war.  They have
+been beautifully carved to resemble women carrying water flasks and pots
+over their heads.  This particular pillar has a sign in front of it.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 14033
+D1
+~
+~
+0 0 14025
+D2
+~
+~
+0 0 14016
+D3
+~
+~
+0 0 14027
+S
+#14027
+Halls of the Damned~
+The stealthy scavenger rats are becoming a nuisance.  This section of the
+hall is much like the previous.  Clean, polished, and silent.  No movements
+within the shadows of the torches are noticed, much like your dead would go
+unnoticed within this hall. 
+~
+0 268443648 0
+D0
+~
+~
+0 0 14032
+D1
+~
+~
+0 0 14026
+D2
+~
+~
+0 0 14014
+D3
+~
+~
+0 0 14028
+S
+#14028
+Before a Stone Column~
+These great stone pillars are the support of this hall.  They are the
+only objects in this hall not destroyed by the death and decay of war.  They
+have been beautifully carved to resemble women carrying water flasks and
+pots over their heads.  This pillar in particular bears the mark of the jade
+tiger.  
+
+~
+0 268443648 0
+D0
+~
+~
+0 0 14031
+D1
+~
+~
+0 0 14027
+D2
+~
+~
+0 0 14015
+D3
+~
+~
+0 0 14029
+D5
+~
+~
+4 0 14068
+S
+#14029
+Infested Den~
+Ghouls fill this room!  Growing from the eggs you saw in the other room,
+these bloodthirsty savages hunger for life force and nothing more.  There
+are groups of them hatching from the eggs at a time.  They look surprisingly
+weak as they have just hatched, but perhaps they are stronger than they
+look.  A new door can be seen past this gruesome sight to the north.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 14030
+D1
+~
+~
+0 0 14028
+D2
+~
+~
+0 0 14024
+S
+#14030
+Infested Den~
+More ghastly ghouls fill this room as you try to squeeze past them.  They
+seem brain dead, but you're pretty sure they can work together to kill you
+if given a chance.  To the north is a small door leading out of the main
+hall.  That is, if you can push your way past the legion of ghouls that fill
+this room.  
+~
+0 268443648 0
+D0
+~
+~
+1 0 14049
+D1
+~
+~
+0 0 14031
+D2
+~
+~
+0 0 14029
+S
+#14031
+Halls of the Damned~
+The sanctity of this {Cpale blue aura{x has you feeling safe once more to
+communicate with your deity.  Now would be a better chance than ever to flee
+the confines of this hall.  Otherwise, venture deeper into the depths of
+despair.  
+~
+0 0 0
+D1
+~
+~
+0 0 14032
+D2
+~
+~
+0 0 14028
+D3
+~
+~
+0 0 14030
+S
+#14032
+Throne Room~
+The throne that stands proudly before you is fit for a king.  Small
+sockets were jewels once were cover this magnificantly crafted chair. 
+Sadly, this throne has fallen into disrepair.  You can picture a once proud
+king sitting atop this throne and leading his subjects to victory.  You
+notice a trap door behind the throne.  Without much effort, you realize it
+is locked.  
+~
+0 268443648 0
+D1
+~
+~
+0 0 14033
+D2
+~
+~
+0 0 14027
+D3
+~
+~
+0 0 14031
+D5
+~
+~
+4 14007 14045
+S
+#14033
+Halls of the Damned~
+~
+0 268435456 0
+D1
+~
+~
+0 0 14034
+D2
+~
+~
+0 0 14026
+D3
+~
+~
+0 0 14032
+S
+#14034
+Halls of the Damned~
+You have reached the corner of the main hall.  Large spider webs fill the
+corner which either means this place has been empty for some time, or a
+giant spider is lurking about.  You notice a hidden large iron door to the
+east.  With closer inspection you notice the markings of a Fire Emblem.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 14069
+D1
+~
+~
+4 14009 14067
+D2
+~
+~
+0 0 14025
+D3
+~
+~
+0 0 14033
+S
+#14035
+Western Corridor~
+This looks to be a long corridor with more torches than in the previous
+hall.  Screams can no longer be heard since you left the main hall.  But now
+a strange whisper is heard that seems to make your blood curdle.  The
+corridor continues west, or you can enter through the door to the east back
+towards the main hall.  
+~
+0 0 0
+D1
+~
+~
+1 0 14022
+D3
+~
+~
+0 0 14036
+S
+#14036
+Within the Western Corridor~
+You are in the center of this small hallway.  To the west you see the end
+of the Western Corridor and to the east leads back towards the main hall. 
+The whispers seem to be getting louder.  
+~
+0 0 0
+D1
+~
+~
+0 0 14035
+D3
+~
+~
+0 0 14037
+S
+#14037
+Western Corridor~
+You have reached the end of the western corridor.  A door leads to the
+north of this room and to the south.  The door to the south appears much
+cleaner and well polished as you can see your reflection in the steel frame.
+You notice a small discarded wooden key lying on the ground.  
+~
+0 0 0
+D0
+~
+~
+1 0 14038
+D1
+~
+~
+0 0 14036
+D2
+~
+~
+1 0 14039
+S
+#14038
+The Beckoning Shadow~
+This room has been twisted by the darkness.  Beautiful glass windows that
+once let in sunlight are now covered with a black ooze.  Your own light is
+shining against something or someone that is absorbing light.  You had
+better keep your distance.  
+~
+0 513 0
+D2
+~
+~
+1 0 14037
+S
+#14039
+Barracks~
+You have arrived inside the quarters of the guards.  It appears empty
+enough except for the few scavangers that are hiding front your sight. 
+Corpses lay around and you can tell it was a fierce battle that took place
+here.  
+~
+0 0 0
+D0
+~
+~
+1 0 14037
+D1
+~
+~
+0 0 14046
+D2
+~
+~
+0 0 14047
+S
+#14040
+Eastern Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 14041
+D3
+~
+~
+1 0 14019
+S
+#14041
+Eastern Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 14042
+D3
+~
+~
+0 0 14040
+S
+#14042
+Eastern Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 14043
+D2
+~
+~
+1 0 14044
+D3
+~
+~
+0 0 14041
+S
+#14043
+The Brain Room~
+Oddy enough, small brains are circling the room around you.  This room
+has been magically altered to reflect the intelligence of the dark arts
+itself.  The room itself is radiating from the small brains that can be
+found here.  Just starting at it makes you want to leave quickly.  The exit
+from this room lies to the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 14042
+S
+#14044
+Empty Room~
+This room is completely empty.  There are no objects in this room.  One
+of the emptiest rooms you have seen within this cursed hall.  A slight draft
+is blowing through the door towards the north.  But other that this, nothing
+else appears to be in the room.  
+~
+0 268967937 0
+D0
+~
+~
+1 0 14042
+S
+#14045
+Beneath the Throne~
+The trap door you have come from has led you into a dark room.  A quiet
+echo of death is comming from a door to the north.  This door is {Dblack{x and
+cold to the touch.  You feel the an odd pressence in this room, as though
+there are eyes within the dark pockets of this room.  When you flash your
+light in that direction ...  Nothing.  You feel the door to the north is
+worth examining.  
+~
+0 537395204 0
+E
+door~
+{RA mark of the fire emblem can be found on the door.  {x 
+~
+D0
+~
+~
+4 14009 14087
+D4
+~
+~
+4 14007 14032
+S
+#14046
+Barracks~
+The eastern side of the barracks is much the same as the entrance you
+have come from.  Nothing of value has escaped the grasp of the pillagers and
+looters that entered this room.  
+~
+0 0 0
+D2
+~
+~
+0 0 14048
+D3
+~
+~
+0 0 14039
+S
+#14047
+Barracks~
+The southern side of the barracks is much the same as the entrance you
+have come from.  Nothing of value has escaped the grasp of the pillagers and
+looters that entered this room.  
+~
+0 0 0
+D0
+~
+~
+0 0 14039
+D1
+~
+~
+0 0 14048
+S
+#14048
+Barracks~
+Ghouls have setup a den in this room.  Mangled corpses create a small
+barricade here to fend off arrow attacks from the entrance of the barracks. 
+The ghouls appear hungry, and are slowly making their way towards you.  
+~
+0 0 0
+D0
+~
+~
+0 0 14046
+D3
+~
+~
+0 0 14047
+S
+#14049
+Northern Corridor~
+This corridor is significantly darker than the main hall.  A putrid smell
+fills your nostrils and makes you sick.  Nothing of interest catches your
+eye since your vision is corrupted by the ensuing dark.  You have ventured
+deeper still into a new hallway completely overrun by death.  Large hounds
+of hell have flourished to this hall, commanded by some force within this
+accursed place.  They bare their teeth waiting for you to strike first.  
+~
+0 0 0
+D0
+~
+~
+0 0 14050
+D2
+~
+~
+1 0 14030
+S
+#14050
+Northern Corridor~
+Vicious dogs fill the northern corridor and they do not look very
+helpless.  Blood and bones riddle the ground which leads you to believe
+you're in for one heck of a fight.  
+~
+0 0 0
+D0
+~
+~
+0 0 14051
+D2
+~
+~
+0 0 14049
+S
+#14051
+Silent Crossway~
+This room splits off into all directions.  As in the previous rooms it is
+too dark to tell what awaits you in each direction.  You notice cobwebs have
+formed near the meager torches and on the floor around you.  Strangly
+enough, a crude door lies to the east, but not as strange as the mumbilngs
+that can be heard off in the distance to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 14052
+D1
+~
+~
+1 0 14054
+D2
+~
+~
+0 0 14050
+D3
+~
+~
+0 0 14053
+S
+#14052
+Hall of Bone~
+The room you have entered is covered in bones of animals and humans
+alike.  This is a nesting ground for some sort of beast.  Looking closer
+into the darkness you notice a pair of fangs illuminated from your light. 
+With a closer look, you realize there is a huge dog in the room with you. 
+He is guarding the door to the north.  The door has a mark of the sapphire
+angel.  
+~
+0 0 0
+D0
+~
+~
+4 14033 14072
+D2
+~
+~
+0 0 14051
+S
+#14053
+Hall of Dispair~
+This corridor is significantly darker than the main hall.  A putrid smell
+fills your nostrils and makes you sick.  Nothing of interest catches your
+eye since your vision is corrupted by the ensuing dark.  
+~
+0 0 0
+D1
+~
+~
+0 0 14051
+D3
+~
+~
+0 0 14055
+D4
+~
+~
+1 0 14096
+S
+#14054
+Dug Tunnel~
+This tunnel appears to have been freshly dug.  Scratch marks fill the
+dirt walls and celling showing you that something with very sharp claws have
+made this tunnel.  The tunnel appears to twist furthur in.  
+~
+0 0 0
+D1
+~
+~
+0 0 14060
+D3
+~
+~
+1 0 14051
+S
+#14055
+Screams of the Banshee~
+This corridor has you heading westwards once more.  Screams fill the air
+that startles you suddenly.  They appear to be coming from the west and are
+piercingly loud.  You find yourself covering your ears.  
+~
+0 0 0
+D1
+~
+~
+0 0 14053
+D3
+~
+~
+0 0 14056
+S
+#14056
+Screams of the Banshee~
+The piercing screams are ever closer to your mind, ever closer to your
+ears.  The tone has changed to an actual coherent sentence.  You can tell
+that the banshee of death lies behind the door to the north.  Westwards is a
+plain green door that appears to have some fungus creeping from it.  To the
+south is another door, much more inviting since it is away from the noise. 
+Both north and south doors are engraved with emblems of a small rodent.  
+~
+0 0 0
+D0
+~
+~
+4 14011 14057
+D1
+~
+~
+0 0 14055
+D2
+~
+~
+4 14011 14059
+D3
+~
+~
+1 0 14058
+S
+#14057
+The Banshee's Torment~
+The endless torment of this sad being bellows in your mind.  Shrieking at
+the world is her voice that echoes beyond the darkness, beyond terror.  This
+banshee is glowing from a veil that wraps pitifully around her body.  To the
+south is the direction you came from.  
+~
+0 0 0
+D2
+~
+~
+4 0 14056
+S
+#14058
+Empty Room~
+This room has been long abandoned.  Several bent weapons lay against the
+wall that you see no practical use for.  Other than the door to the east
+that you came from, nothing is worth looking at. 
+~
+0 0 0
+E
+door~
+The door is marked with the writings:
+ 
+Seek out a room like this, there you will find what you seek.
+~
+D1
+~
+~
+1 0 14056
+S
+#14059
+Screams of the Banshee~
+The walls of this room are well-padded.  Giving you some comfort and
+protection from the screams nearby.  A new fear fills your heart, as you
+wonder what this room has been used for previously.  The room has been
+looted and pillaged and aside from the padded walls and locked door, you
+cannot find anything else that would explain the uses of this room.  
+~
+0 1048576 0
+D0
+~
+~
+4 0 14056
+D5
+~
+~
+3 0 14073
+S
+#14060
+Dug Tunnel~
+This section of the tunnel makes a sharp turn to the north, probably
+because of the strong metal to the east that made it impossible to dig. 
+Maybe the beasts that dug this tunnel made use of this strange metal.  To
+the north you can hear soft purring.  
+~
+0 0 0
+D0
+~
+~
+0 0 14061
+D3
+~
+~
+0 0 14054
+S
+#14061
+Dug Tunnel~
+This room has a creature lurking within.  With closer inspection you
+notice it is nothing more than a feline who is in the corner silently
+scratching the walls, taking no notice of you.  The tunnel continues north,
+and back towards the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 14062
+D2
+~
+~
+0 0 14060
+S
+#14062
+Dug Tunnel~
+You have come to the end of this tunnel.  It seems that the race of
+Kirres have dug upwards from here into another chamber of the halls.  Steel
+reinforcements hold the door open and you can see a bright golden shine
+entering the room from the chamber above.  A ladder is here leading you
+upwards into the next chamber.  
+~
+0 0 0
+D2
+~
+~
+0 0 14061
+D4
+~
+~
+0 0 14077
+S
+#14063
+Hall of Triumph~
+The halls of triumph are before you.  Statues of great kings and other
+royal figures align the walls.  You feel a warm draft coming from this hall
+that leaves you feeling couragous and invicible.  The hall continues north. 
+To the west is the main hall from which you came.  
+~
+0 269492224 0
+D0
+~
+~
+0 0 14064
+D3
+~
+~
+0 0 14067
+S
+#14064
+Hall of Triumph~
+The halls of triumph are before you.  Statues of great kings and other
+royal figures align the walls.  You feel a warm draft coming from this hall
+that leaves you feeling couragous and invicible.  The hall continues north. 
+To the south is the main hall from which you came.  
+~
+0 269492224 0
+D0
+~
+~
+0 0 14065
+D2
+~
+~
+0 0 14063
+S
+#14065
+Hall of Triumph~
+The halls of triumph are before you.  Statues of great kings and other
+royal figures align the walls.  You feel a warm draft coming from this hall
+that leaves you feeling couragous and invicible.  The hall continues east. 
+To the south is the main hall from which you came.  Strangely enough, there
+seems to be a vortex in the corner of this room leading back to the
+beginning of the hall.  
+~
+0 269492224 0
+D1
+~
+~
+0 0 14066
+D2
+~
+~
+0 0 14064
+D5
+~
+~
+0 0 14010
+S
+#14066
+Dead End~
+You feel a strong sense of irony as you reach the end of this hall.  This
+room has collapsed because of a baby dragon who has set up their lair in
+this room.  You have reached a dead end, and this hall has not been so
+truimphant after all.  
+~
+0 270016512 0
+D3
+~
+~
+0 0 14065
+S
+#14067
+Hall of Triumph~
+The halls of triumph are before you.  Statues of great kings and other
+royal figures align the walls.  You feel a warm draft coming from this hall
+that leaves you feeling couragous and invicible.  The hall continues east. 
+To the west is the main hall from which you came.  
+~
+0 269492224 0
+D1
+~
+~
+0 0 14063
+D3
+~
+~
+4 0 14034
+S
+#14068
+Beneath the Pillar ~
+Opening the trapdoor, you venture beneath the hall into a single room. 
+This room is empty, except for a loud rumbling that seems to be coming from
+the back of this room.  With a closer look, you realize you have come face
+to face with a slumbering {gGreen Dragon!  {x 
+~
+0 268444161 0
+D4
+~
+~
+4 0 14028
+S
+#14069
+Entrance to the Holding Cells~
+This area has been used for caging creatures.  You notice each cell has
+been destroyed from the inside and the contents have now escaped into the
+halls.  These cells extend down a long corridor but the roof has caved in
+just north of you, probably from a previous ambush, as corpses of guards and
+monsters alike now lie before you.  
+~
+0 0 0
+D1
+~
+~
+0 0 14070
+D2
+~
+~
+0 0 14034
+D3
+~
+~
+0 0 14071
+S
+#14070
+East Holding Cell~
+This jail room appears to have been containing a monster of some sort. 
+The gate into the cell has been smash beyond repair and the ground is
+covered in blood and bones.  Oddly enough, you feel you are being watched by
+something here.  As you examine the cell, you see nothing of interest
+besides the odd presence watching you.  
+~
+0 0 0
+D3
+~
+~
+0 0 14069
+S
+#14071
+West Holding Cell~
+This jail cell has been destroyed by something angry.  The bars to this
+cell have been twisted and bent by strength beyond your imagining.  Whatever
+used to be confined to this room, now lurks elsewhere.  All that remains in
+this room is a shelf, a toilet and a chest.  Oddly enough, you feel that a
+search of this room is an order.  
+~
+0 0 0
+D1
+~
+~
+0 0 14069
+S
+#14072
+North Jail Cell~
+To your surprise, you have come face to face with a human crusader.  His
+shining blade in hand is all that remains of the glory and courage he once
+stood for.  All there is now is an empty shell.  You have unlocked the north
+jail gate, but the crusader just looks blankly at you.  The exit is to the
+south.  
+~
+0 268435457 0
+D2
+~
+~
+4 0 14052
+S
+#14073
+Secret Passage~
+Venturing beneath the strange room, you discover a long corridor that
+leads off to the north.  Drips of water can be heard which is much more
+pleasent to the ears than the screams you heard previously.  The secret door
+you uncovered is up from here.  
+~
+0 1572865 0
+D0
+~
+~
+0 0 14074
+D4
+~
+~
+3 0 14059
+S
+#14074
+Secret Passage~
+You continue to venture forth down the long corridor.  The walls are
+carved smooth that feel like the water dripping somehow played a role.  As
+you continue north, the dripping has become increasingly difficult to stand.
+Drip, drip, drip.  
+~
+0 1572864 0
+D0
+~
+~
+0 0 14075
+D2
+~
+~
+0 0 14073
+S
+#14075
+Secret Passage~
+This room is completely {Bwet{x!  Water is flowing from the north and you
+slip and slide as you make your way through this section of the corridor. 
+The source of the water lies to the north, or you can return the way you
+came from to the south.  
+~
+0 1572864 0
+D0
+~
+~
+0 0 14076
+D2
+~
+~
+0 0 14074
+S
+#14076
+End of the Secret Passage~
+The flooded corridor suddenly makes sense.  A summoned being of water is
+sleeping in this room, long forgotten by its master.  Water is trickling
+from this great being of water, down the corridor from which you came.  You
+notice the elemental is sleeping and perhaps you can sneak back the way you
+came to avoid confrontation.  
+~
+0 270016513 0
+D2
+~
+~
+0 0 14075
+S
+#14077
+Dug Tunnel~
+You are climbing a ladder towards an inexplicably bright room.  The
+ladder is cold in your hands but that is the last thing on your mind as you
+cannot wait until you reach the new chamber.  The tunnel from where you came
+is downwards.  
+~
+0 0 0
+D4
+~
+~
+0 0 14078
+D5
+~
+~
+0 0 14062
+S
+#14078
+King's Chamber~
+A splendid room has appeared before your eyes!  Golden light shines from
+above th is chamber filling the room with a fresh warm glow.  The walls
+around you are painted gold and you are certain this room has extrodinary
+value.  The chamber extends in all directions with no real doors in the room
+except for the tunnel dug below you.  
+~
+0 268443648 0
+D0
+~
+~
+0 0 14082
+D1
+~
+~
+0 0 14080
+D3
+~
+~
+0 0 14079
+D5
+~
+~
+0 0 14077
+S
+#14079
+King's Chamber~
+You have wandered to the western section of the royal tomb.  Many parts
+of this tomb has been looted before your arrival.  The ground here is bare
+but once held unimaginable treasures and priceless items.  The floor is
+dusty but you can tell the floor is gold plated along with the walls and
+pillars surrounding you. 
+~
+0 268443648 0
+D0
+~
+~
+0 0 14083
+D1
+~
+~
+0 0 14078
+S
+#14080
+King's Chamber~
+You have wandered to the eastern section of the royal tomb.  Many parts
+of this tomb has been looted before your arrival.  The ground here is bare
+but once held unimaginable treasures and priceless items.  The floor is
+dusty but you can tell the floor is gold plated along with the walls and
+pillars surrounding you. 
+~
+0 268443648 0
+D0
+~
+~
+0 0 14081
+D3
+~
+~
+0 0 14078
+S
+#14081
+King's Chamber~
+~
+0 268443648 0
+D2
+~
+~
+0 0 14080
+D3
+~
+~
+0 0 14082
+S
+#14082
+King's Chamber~
+You have wandered to the northern section of the royal tomb.  Many parts
+of this tomb has been looted before your arrival.  The ground here is bare
+but once held unimaginable treasures and priceless items.  The floor is
+dusty but you can tell the floor is gold plated along with the walls and
+pillars surrounding you.  To the north you notice the wall has the markings
+of a translucent being.  
+~
+0 268443648 0
+D0
+~
+~
+2 0 14084
+D1
+~
+~
+0 0 14081
+D2
+~
+~
+0 0 14078
+D3
+~
+~
+0 0 14083
+S
+#14083
+King's Chamber~
+~
+0 268443648 0
+D1
+~
+~
+0 0 14082
+D2
+~
+~
+0 0 14079
+S
+#14084
+Behind the King's Chamber~
+You have found a secret passage behind the King's Chamber.  A strange
+statue lies before you.  Other than that the room appears unuseful.  The
+north is blocked by a large iron door with a small keyhole.  
+~
+0 268435456 0
+D0
+~
+~
+0 0 14085
+D2
+~
+~
+2 0 14082
+S
+#14085
+Behind the King's Chamber~
+This room appears to be untouched by the corruption within these halls. 
+A pedistal is at the center of the room, containing a key.  Perhaps this key
+will lead to something great.  Or perhaps it will unlock further dangers to
+plague these halls.  
+~
+0 268435456 0
+D0
+~
+~
+1 14084 14086
+D2
+~
+~
+0 0 14084
+S
+#14086
+Hidden Chamber~
+The room you have entered is cold and empty.  A single white pedistal is
+in the middle of this room with its contents glowing.  The door from which
+you came is the only obvious exit.  
+~
+0 0 0
+D2
+~
+~
+1 0 14085
+S
+#14087
+Beneath the Throne~
+This room beneath the throne is much like the previous room to the south.
+A darkened room with no lights but your own.  Another {Dblack{x steel door
+is to the north which is worth your time examining.  
+~
+0 0 0
+E
+door~
+{RA mark of the scavanger can be seen on the door.  {x 
+~
+D0
+~
+~
+4 14011 14088
+D2
+~
+~
+4 14009 14045
+S
+#14088
+Beneath the Throne~
+This room beneath the throne is much like the previous room to the south.
+A darkened room with no lights but your own.  Another black steel door is to
+the north which is worth your time examining.  
+~
+0 0 0
+E
+door~
+{RA mark of the emerald tiger can seen on the door.  {x 
+~
+D0
+~
+~
+4 14021 14089
+D2
+~
+~
+4 14011 14087
+S
+#14089
+Beneath the Throne~
+This room beneath the throne is much like the previous room to the south.
+A darkened room with no lights but your own.  Another black steel door is to
+the north which is worth your time examining.  
+~
+0 0 0
+E
+door~
+{RA mark of the lightning bolt can be seen on the door.{X
+~
+D0
+~
+~
+4 14027 14090
+D2
+~
+~
+4 14021 14088
+S
+#14090
+Beneath the Throne~
+This room beneath the throne is much like the previous room to the south.
+A darkened room with no lights but your own.  Another black steel door is to
+the north which is worth your time examining.  
+~
+0 0 0
+E
+door~
+{RA mark of the waterfall can be seen on the door{x 
+~
+D0
+~
+~
+4 14031 14091
+D2
+~
+~
+4 14027 14089
+S
+#14091
+Beneath the Throne~
+This room beneath the throne is much like the previous room to the south.
+A darkened room with no lights but your own.  Another black steel door is to
+the north which is worth your time examining.  
+~
+0 0 0
+E
+door~
+{RA mark of the wind goddess can be seen on the door.  {X 
+~
+D0
+~
+~
+4 14084 14092
+D2
+~
+~
+4 14031 14090
+S
+#14092
+Beneath the Throne~
+This room beneath the throne is much like the previous room to the south.
+A darkened room with no lights but your own.  Another black steel door is to
+the north which is worth your time examining.  
+~
+0 268443648 0
+E
+door~
+{RA mark of {G{Glife{x{x and {BDeath{x {Rcan be seen on the door.  {x 
+~
+D0
+~
+~
+4 14042 14093
+D2
+~
+~
+4 14084 14091
+S
+#14093
+The Room Before the End~
+You have reached the end of the tunnel.  At the same time it also feels
+like the end of existence, the end of purity, and the end of everything good
+you have known.  A great despair fills this room and even the very corners
+of this room do not escape a great pressence.  A great anguish is coming
+from a sealed door to the north marked with a ghost.  
+~
+0 1048576 0
+D0
+~
+~
+2 0 14094
+D2
+~
+~
+4 0 14092
+S
+#14094
+Temple of the Damned~
+An invisible black death fills the new room has appeared before you. 
+This larg e room is aligned with small candles along the wall.  They light
+they are radiating seems twisted in an inexplicable way.  Small crosses can
+also be seen on the walls.  With a closer look, you notice they are stained
+with blood.  
+~
+0 269484032 0
+D0
+~
+~
+0 0 14095
+D2
+~
+~
+2 0 14093
+S
+#14095
+Temple of the Damned~
+The source of death and decay of this temple lies before you.  The temple
+has been infected with a great knight of the undead.  His sword raised above
+his head, he charges towards you without fear waiting to deal a mortal blow.
+~
+0 269484032 0
+D2
+~
+~
+0 0 14094
+S
+#14096
+In the Ceiling~
+You have found a gap in the ceiling through the darkness and have found a
+new path.  You notice a small box near your position.  This room if pitched
+black and you cannot make sense of where you are anymore.  You know for sure
+down is the direction you came from.  
+~
+0 268967936 0
+D5
+~
+~
+1 0 14053
+S
+#14097
+Dark Forest~
+This room will connect with another, which will connect to Dominia.
+~
+0 0 0
+D1
+~
+~
+0 0 14001
+S
+#0
+
+
+
+#SPECIALS
+M 14004 spec_breath_gas Load to: An emerald dragon
+M 14022 spec_breath_lightning Load to: a baby dragon
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 14019 1 1
+D 0 14022 3 1
+D 0 14028 5 2
+D 0 14030 0 1
+D 0 14032 5 1
+D 0 14034 1 2
+D 0 14035 1 1
+D 0 14037 0 1
+D 0 14037 2 1
+D 0 14039 0 1
+D 0 14040 3 1
+D 0 14042 2 1
+D 0 14044 0 1
+D 0 14045 0 2
+D 0 14045 4 2
+D 0 14049 2 1
+D 0 14051 1 1
+D 0 14052 0 2
+D 0 14053 4 1
+D 0 14054 3 1
+D 0 14056 0 2
+D 0 14056 2 2
+D 0 14056 3 1
+D 0 14057 2 2
+D 0 14058 1 1
+D 0 14059 0 2
+D 0 14059 5 1
+D 0 14067 3 2
+D 0 14068 4 2
+D 0 14072 2 2
+D 0 14073 4 1
+D 0 14082 0 2
+D 0 14084 2 2
+D 0 14085 0 2
+D 0 14086 2 2
+D 0 14087 0 2
+D 0 14087 2 2
+D 0 14088 0 2
+D 0 14088 2 2
+D 0 14089 0 2
+D 0 14089 2 2
+D 0 14090 0 2
+D 0 14090 2 2
+D 0 14091 0 2
+D 0 14091 2 2
+D 0 14092 0 2
+D 0 14092 2 2
+D 0 14093 0 2
+D 0 14093 2 2
+D 0 14094 2 2
+D 0 14096 5 1
+M 1 14003 1 14000 1
+O 0 14000 0 14008
+M 1 14000 12 14010 1
+O 0 14003 0 14010
+M 1 14000 12 14011 1
+M 1 14018 2 14011 1
+E 0 14054 0 17
+M 1 14000 12 14012 1
+O 0 14010 0 14013
+M 1 14005 4 14013 1
+E 0 14012 0 16
+O 0 14005 0 14014
+M 1 14000 12 14015 1
+O 0 14030 0 14015
+M 1 14000 12 14016 1
+M 1 14000 12 14017 1
+E 0 14047 0 17
+M 1 14000 12 14019 1
+O 0 14005 0 14020
+M 1 14016 1 14020 1
+E 0 14029 0 3
+M 1 14000 12 14022 1
+O 0 14005 0 14023
+O 0 14030 0 14024
+M 1 14000 10 14025 1
+O 0 14011 0 14025
+O 0 14015 0 14025
+P 0 14034 1 14015 1
+M 1 14000 12 14026 1
+M 1 14000 12 14028 1
+M 1 14000 1 14029 1
+M 1 14012 12 14029 6
+M 1 14000 12 14030 1
+M 1 14012 12 14030 6
+O 0 14005 0 14030
+O 0 14005 0 14031
+M 1 14018 2 14031 1
+E 0 14009 0 3
+M 1 14000 12 14032 1
+O 0 14045 0 14032
+O 0 14005 0 14033
+M 1 14000 12 14034 1
+O 0 14009 0 14037
+M 1 14001 1 14038 1
+E 0 14048 0 6
+E 0 14026 0 17
+E 0 14027 0 17
+O 0 14010 0 14039
+P 0 14037 1 14010 1
+M 1 14005 4 14040 1
+E 0 14012 0 16
+M 1 14000 1 14040 1
+O 0 14005 0 14043
+M 1 14021 5 14043 5
+M 1 14009 1 14044 1
+E 0 14012 0 16
+E 0 14031 0 17
+O 0 14005 0 14045
+M 1 14018 1 14046 1
+M 1 14002 3 14048 3
+E 0 14008 0 17
+M 1 14007 3 14049 1
+E 0 14014 0 16
+M 1 14005 4 14050 1
+E 0 14012 0 16
+E 0 14013 0 17
+M 1 14007 3 14051 1
+E 0 14014 0 16
+M 1 14007 3 14052 1
+E 0 14014 0 16
+M 1 14011 1 14052 1
+E 0 14033 0 3
+O 0 14052 0 14056
+O 0 14012 0 14056
+M 1 14006 1 14057 1
+E 0 14020 0 6
+E 0 14021 0 17
+E 0 14022 0 8
+M 1 14014 2 14061 1
+E 0 14041 0 16
+M 1 14014 2 14062 1
+E 0 14041 0 16
+M 1 14019 4 14063 1
+M 1 14019 4 14064 1
+M 1 14000 10 14064 1
+M 1 14019 4 14065 1
+O 0 14039 0 14066
+M 1 14022 1 14066 1
+E 0 14040 0 16
+M 1 14019 4 14067 1
+M 1 14004 1 14068 1
+E 0 14043 0 13
+M 1 14005 4 14069 1
+E 0 14012 0 16
+O 0 14016 0 14071
+O 0 14010 0 14071
+O 0 14018 0 14071
+O 0 14019 0 14071
+P 0 14007 1 14018 1
+P 0 14037 1 14010 1
+M 1 14015 2 14072 1
+E 0 14032 0 16
+E 0 14036 0 11
+O 0 14023 0 14073
+P 0 14035 1 14023 1
+O 0 14023 0 14074
+P 0 14035 1 14023 1
+O 0 14023 0 14075
+P 0 14035 1 14023 1
+O 0 14023 0 14076
+M 1 14013 1 14076 1
+E 0 14024 0 16
+E 0 14049 0 10
+E 0 14051 0 3
+M 1 14016 2 14079 1
+M 1 14016 2 14080 1
+M 1 14017 2 14081 1
+E 0 14038 0 11
+M 1 14017 2 14083 1
+E 0 14038 0 11
+M 1 14023 1 14084 1
+E 0 14084 0 3
+O 0 14085 0 14085
+P 0 14042 1 14085 1
+O 0 14085 0 14086
+P 0 14042 1 14085 1
+O 0 14002 0 14086
+O 0 14005 0 14093
+O 0 14044 0 14093
+M 1 14024 1 14095 1
+E 0 14053 0 17
+P 0 14046 1 14053 1
+O 0 14050 0 14096
+P 0 14051 1 14050 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

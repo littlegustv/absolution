@@ -1,0 +1,917 @@
+#AREADATA
+Name The Abyssal Seam~
+Builders Rcrossed Rcrossed~
+VNUMs 6468 6499
+Credits { All } StarCrossed The Abyssal Seam~
+Security 9
+Xcontinent 0
+Age 10
+Questable 0
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#6468
+Yllidys nether dragon~
+Yllidys, the Nether Dragon~
+{DYllidys{x, the former mount of {mBosco{x is trapped here, ready to feast.
+~
+A gaunt, pale shade of a dragon is here, every bit as powerful in this
+form as it was in life.  Slain by Selina herself, Yllidys chose the Abyss
+over the final resting place of its kind, hopeful to be returned to Terra by
+Bosco one day.  Stuck between some of the ghostly scales, you see a {mriding{x
+{mcrop{x, perhaps the very one used by Bosco!  While dodging around Yllidis, you
+get a better look, and with some experimentation, you might be able to craft
+one!  
+ 
+To make a 'riding crop dragon mount', you believe you shall need:
+ 
+20 pet dragon collars
+1 hellfire core
+1 dragon tailed whip
+ 
+~
+red dragon~
+AFc JT 0 0
+60 55 1d1+56999 1d1+4999 10d6+65 claw
+-55 -55 -55 -35
+ABCEFJKMNO ABEHab BCDEH I
+stand stand none 100000
+BHMZ ABCDEFGHIJKLPQUVWX giant 0 the guilds~
+M death 6468 5~
+#6469
+assault mob sliver~
+desc sliver assault name~
+A sliver assault mob
+~
+~
+sliver~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 thrust
+0 0 0 0
+CEFHK AB B K
+stand stand none 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#6470
+assault mob gargoyle~
+desc gargoyle assault name~
+A gargoyle assault mob
+~
+~
+gargoyle~
+A JT 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CEFJK AB B LQ
+stand stand none 0
+ABHMX ABCDEFGHIJKPQUVW medium 0 the guilds~
+#6471
+assault mob troll~
+desc troll assault name~
+A troll assault mob
+~
+~
+troll~
+A J 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CFJKO AB BQ H
+stand stand none 0
+BHMZ ABCDEFGHIJKLQUVWX medium 0 the guilds~
+#6472
+assault mob kirre~
+desc kirre assault name~
+A kirre assault mob
+~
+~
+kirre~
+A J 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+EFHJKN AB BJ I
+stand stand none 0
+AGHMV ABCDEFGHIJKQU medium 0 the guilds~
+#6473
+assault mob human~
+a human assault name~
+A human assault mob
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CEFJK AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6474
+assault mob elf~
+an elf assault name~
+An elf assault mob
+~
+~
+elf~
+A J 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+EFHKN AB B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6475
+assault mob dwarf~
+desc dwarf assault name~
+A dwarf assault mob
+~
+~
+dwarf~
+A JZ 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CDFHK AB BLQ KR
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#6476
+tear drinker~
+an abyssal tear drinker~
+A large shuffling "tear drinker" demon is here.
+~
+A large demon almost twelve feet long shuffles along here on four stubby
+legs.  Covered in masses of decaying flesh, this demon feasts on the tears
+of the departed. 
+~
+deamon~
+A DFJT -1000 0
+56 5 50d10+7500 1d1+99 10d4+35 digestion
+-40 -40 -40 -35
+CFHO B H NS
+stand stand none 5500
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#6477
+stolen spirits north~
+stolen spirits of the north~
+A vast swarm of spirits surround you.
+~
+Row upon row of angry translucent faces stare out at you, longing to give
+you the chance to join them.  
+~
+undead~
+ABF DFJTZ -1000 0
+56 15 50d10+7500 1d1+99 10d4+35 chill
+-40 -40 -40 -35
+CFHO B I HNS
+stand stand none 5500
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#6478
+stolen spirits south~
+stolen spirits of the south~
+A vast swarm of spirits surround you.
+~
+Row upon row of angry translucent faces stare out at you, longing to give
+you the chance to join them.  
+~
+undead~
+ABF DFJTZ -1000 0
+56 15 50d10+7500 1d1+99 10d4+35 flame
+-40 -40 -40 -35
+CFHO B I HNS
+stand stand none 5500
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#6479
+stolen spirits east~
+stolen spirits of the east~
+A vast swarm of spirits surround you.
+~
+Row upon row of angry translucent faces stare out at you, longing to give
+you the chance to join them.  
+~
+undead~
+ABF DFJTZ -1000 0
+56 15 50d10+7500 1d1+99 10d4+35 acbite
+-40 -40 -40 -35
+CFHO B I HNS
+stand stand none 5500
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#6480
+stolen spirits west~
+stolen spirits of the west~
+A vast swarm of spirits surround you.
+~
+Row upon row of angry translucent faces stare out at you, longing to give
+you the chance to join them.  
+~
+undead~
+ABF DFJTZ -1000 0
+56 15 50d10+7500 1d1+99 10d4+35 shbite
+-40 -40 -40 -35
+CFHO B I HNS
+stand stand none 5500
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#6481
+unremort trainer~
+Unremort trainer~
+The unremort trainer is here to remove remorts and reclasses.
+~
+~
+human~
+AZ 0 0 0
+0 0 99d9+9 0d0+0 100d10+10 none
+0 0 0 0
+0 CD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#6468
+glowing black arch gate portal~
+a {Dblack archway{x leads back to the normal universe~
+A {Dblack archway{x leads back to the normal universe. It seems stable.~
+darkness~
+portal O 0
+0 0 2 8618 0
+0 75000 0 P
+#6469
+abyssal crossbow arbalest nightscream~
+an {babyssal{x arbalest, {D"Nightscream"{x~
+A pitch black, abyssal crossbow is here.~
+darkmatter~
+weapon ACE ANZ
+ranged 5 10 bolt F
+2
+51 100 60000 P
+A
+18 12  
+A
+13 30  
+A
+12 30  
+A
+2 2  
+#6470
+nether plate~
+a coat of {Wnether plate{x~
+A coat of dragon scales from a nether dragon is here.~
+wood~
+armor ACEG AKZ
+20 20 20 20 0
+50 100 70000 P
+A
+13 30  
+A
+26 2  
+A
+5 4  
+A
+12 -30  
+#6471
+nether dragon skull~
+the {rskull{x of a {Wnether {Ddragon{x~
+The large skull of a nether dragon is here.~
+bone~
+armor ACEG AEZ
+10 10 10 10 0
+51 200 75000 P
+A
+27 5  
+A
+13 -25  
+#6472
+great sword skull blight~
+a two-handed greatsword named, {W"Skullblight"{x~
+A greatsword traditionally used for beheading in executions is here.~
+darkmatter~
+weapon ABCE ANRZ
+sword 7 6 chew FGW
+48 4 4 'feeblemind' 0
+51 150 75000 P
+A
+3 -2  
+A
+4 -2  
+A
+18 4  
+A
+19 6  
+#6473
+abyssal greaves~
+a pair of {babyssal{x greaves~
+A pair of greaves from the abyss is here.~
+darkmatter~
+armor ACEG AGRZ
+20 20 20 20 0
+51 1 1 'summon lord' 0
+51 100 75000 P
+A
+13 30  
+A
+1 2  
+A
+18 2  
+A
+19 2  
+#6474
+abyssal gauntlets~
+a pair of {babyssal{x gauntlets~
+A pair of black gauntlets from the Abyss are here.~
+darkmatter~
+armor ACEG AHRZ
+20 20 20 20 0
+51 3 3 'pentagram' 0
+51 100 75000 P
+A
+12 30  
+A
+18 2  
+A
+19 2  
+A
+2 2  
+#6475
+Starcrossed's stuffed whipping monkey Elisa unique item~
+{cS{bt{Ba{cr{bc{Br{co{bs{Bs{c{be{Bd'{cs {bs{Bt{cu{bf{Bf{ce{bd {Bw{ch{bi{Bp{cp{bi{Bn{cg {bm{Bo{cn{bk{Be{cy{x~
+Starcrossed's stuffed whipping monkey is here.~
+felt~
+treasure TYe AOR
+0 0 0 0 0
+51 6 6 'confusion' 0
+30 100 60000 P
+A
+2 1  
+A
+3 -2  
+#6476
+Mikoto Backstabbing Rogues 2006 Elisa Unique item~
+{RMikoto {RB{Da{Rc{DK{Rs{Dt{Ra{Db{Rb{Di{Rn{Dg {RR{Do{Rg{Du{Re{Ds {R2006{x~
+Get all the action with the latest installment of Mikoto's own Backstabbing Rogues, 2006! Draw your daggers and slash your foes through 100 challenging and fun dungeons! Battle bosses and obtain rare equipment along the way!~
+plastic~
+treasure ITYe AQ
+0 0 0 0 0
+45 100 60000 P
+A
+5 2  
+A
+2 2  
+A
+19 1  
+#6477
+Angel's Shooting Star Elisa unique item~
+{MAngel's {CS{ch{Co{Co{ct{Ci{cn{Cg {CS{ct{Ca{cr{x~
+'A shooting star illuminates the Pathway to the Gods.' is here.~
+gem~
+treasure ATYe AQ
+0 0 0 0 0
+45 100 60000 P
+A
+4 2  
+A
+2 2  
+A
+12 50  
+#6478
+A Cauthonopoly board Elisa unique item~
+{gA {GC{ga{Gu{gt{Gh{go{Gn{go{Gp{go{Gl{gy board{x~
+A Cauthonopoly board is here.~
+paper~
+scroll TYe AO
+40 'oracle' 'reserved' 'reserved' 'reserved'
+25 100 40000 P
+A
+4 1  
+A
+3 3  
+#6479
+Cicada's stuffed spider Elisa unique item~
+{RC{Wi{Rc{Wa{Rd{Wa'{Rs {Dstuffed spider{X~
+Here lies Cicada's stuffed spider. You realize quickly it is one of the cutest stuffed animals you've seen.~
+felt~
+armor ITYe AD
+10 10 10 10 0
+46 100 60000 P
+A
+1 3  
+A
+20 -3  
+#6480
+Marvelisa comic book Elisa unique item~
+{GM{ga{cr{Cv{Ge{gl{ci{Cs{Ga {gC{co{Cm{Gi{gc {cB{Co{Go{gk{x~
+{DYou see a {c'Twisted Fantasy'{D before you.  It contains rare items such as {BLuporine, {GArachnid-man, {MEmma Ice, {CFrostman, {YJean Chartreuse.  {DWhat else lies inside? Perhaps the story of {RHalberet{D...{x~
+paper~
+container TYe AL
+700 A 0 50 25
+50 100 60000 P
+A
+18 1  
+A
+13 20  
+A
+20 -2  
+A
+19 3  
+#6481
+Avacar's Moonbeam Catcher Elisa unique item~
+{BAvacar's {cMoonbeam Catcher{x~
+A small device with a highly reflective surface.  When pointed at moonlight, it glows for hours with a blue luminescence.~
+light~
+light ATYe A
+0 0 999 0 0
+25 100 30000 P
+A
+18 3  
+A
+19 5  
+A
+20 -6  
+#6482
+Happy Christmas Elf Elisa christmas item~
+{ra{x {RH{ra{Rpp{ry {GC{gh{Gr{gi{Gs{gt{Gm{ga{Gs {YE{yl{Yf{x~
+LONG You see {ra {RH{ra{Rpp{ry {GC{gh{Gr{gi{Gs{gt{Gm{ga{Gs {YE{yl{Yf{x.  Tied to a stick.  With it's kerosene-dipped head on {Rfire{X... That *is* a smile, right?!~
+fire~
+light ATYe AR
+0 0 999 0 0
+40 1 1 'animal growth' 0
+3 100 10000 P
+A
+18 1  
+#6483
+Nogusto Candy Cane Belt Elisa unique item~
+{GN{go{Gg{gu{Gs{gt{Go{g'{gs {RC{wa{Rn{wd{Ry {wC{Ra{wn{Re {GB{ge{Gl{gt{x~
+A belt made of {RCANDY!!{X is here.~
+jelly~
+armor ATYe AL
+20 20 20 20 0
+51 100 60000 P
+A
+12 -40  
+A
+19 3  
+A
+18 2  
+A
+13 35  
+#6484
+Sylus cloak imperceptibility elisa unique item~
+{GSylus' {gCloak of {G'{gimperceptibility{G'{x~
+This is the famous cloak that Sylus uses when he has to escape from all of those Elven women that keep chasing him and it can be YOURS! for 29.95 (Not always a guarantee that it will work).~
+velvet~
+clothing TYe AKR
+0 0 0 0 0
+40 3 3 'mass invis' 0
+48 100 60000 P
+A
+4 1  
+A
+3 3  
+#6485
+stryder chain bling bling~
+Stryder's chains of {YB{yling-{YB{yling{x~
+Some chains of Bling-Bling are here, ready to be worn with style.~
+gold~
+jewelry ATYe ACR
+0 0 0 0 0
+30 1 1 'chain lightning' 0
+50 120 100000 P
+A
+17 -10  
+A
+20 -4  
+A
+19 2  
+A
+18 2  
+#6486
+lump coal~
+a {Clump{x of {Dcoal{x~
+A {Clump{x of {Dcoal{x is here, ready to be given to a {Rbad {Bboy {xor {Mgirl{x.~
+coal~
+treasure C AQR
+0 0 0 0 0
+35 1 1 'cloak of mind' 0
+5 14 100 P
+A
+19 1  
+#6487
+hersheys kiss~
+{Da {RH{De{Rr{Ds{Rh{De{Ry{Ds {RKiss{X~
+Yummie!!! {Da {RH{De{Rr{Ds{Rh{De{Ry{Ds {RKiss{X !~
+food~
+pill 0 A
+30 'aurora' 'reserved' 'reserved' 'reserved'
+1 10 100 P
+#6488
+oath loyalty (elisa)~
+{BO{ba{rt{Rh {rof {RL{ro{by{Ba{bl{rt{Ry{x~
+A band of adamantite set with a dark blue sapphire hums with promised loyalty.~
+adamantite~
+armor BY AC
+15 15 15 15 0
+50 10 50000 P
+A
+13 40  
+A
+12 40  
+A
+19 3  
+A
+18 3  
+#6489
+Loveseat (elisa)~
+{ra soft {RLove{rseat{x~
+{ra soft {RLove{rseat{x is beckoning you to cuddle on it.~
+velvet~
+furniture ATYe AO
+2 0 ACDEHIJKLMNOPQRSTUVWXYZabcdef 230 230
+20 40 60000 P
+#6490
+Hersheys Kiss~
+{ya {DHersheys {yK{Yi{yss{x~
+A Hersheys Kiss lies here, yummmiiiieee!~
+wood~
+pill 0 A
+35 'frenzy' 'animal growth' 'giant strength' 'reserved'
+1 10 100 P
+#6491
+death vortex~
+a swirling black death vortex~
+A swirling black {DDeath Vortex{x leads into the unknown...~
+wood~
+portal C 0
+0 0 0 6484 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#6468
+Entrance of the Abyssal Seam~
+The temperature falls below freezing as you stand in the Abyss.  Your
+breath emerges in a foggy mist as you gather your wits about you.  As the
+mist drifts away, you get the eerie feeling it is the Abyss stealing a part
+of your soul.  
+ 
+The ground beneath your feet resembles human skin stretched over a 
+frame of bone, and it gives a little with each step you take. Looking off to 
+the horizon, you can see only a great starless void that continues out to infinity.
+ 
+The oddly featured path extends to the north.
+~
+0 270016516 0
+D0
+~
+~
+0 0 6469
+S
+#6469
+Bend in the Abyssal Seam~
+You shiver from the cold... and more. This place seems hostile to your 
+very existence. The ground beneath your feet resembles human stretched 
+over a frame of bone. The emptiness of the vast pure black sky is matched 
+only by the perfect silence.
+ 
+Ahead, the seam bends to the east, and you see the base of a hill of some 
+kind. Looking back to the south, you can see a black archway of some kind.
+~
+0 270016516 0
+D1
+~
+~
+0 0 6470
+D2
+~
+~
+0 0 6468
+S
+#6470
+Base of Skull Mountain~
+You can't believe what you are seeing.  The hill before you is massive,
+nearly half a mile upwards so that the top isn't visible.  It is built
+entirely of skulls!  From the massive skulls of ancient dragons down to the
+tiny skulls of murdered children...  As if the remains of every single
+person who died in a great war had perished and been shovelled into an
+enormous mountain.  There is a navigable path up the mountain extending to
+the north.  
+~
+0 270016512 0
+D0
+~
+~
+0 0 6471
+D3
+~
+~
+0 0 6469
+S
+#6471
+Southern Face of Skull Mountain~
+The bones shift and occasionally one clatters down the hill behind you. Ahead 
+you can see the summit of mountain of skulls.
+~
+0 270016512 0
+D0
+~
+~
+0 0 6472
+D2
+~
+~
+0 0 6470
+S
+#6472
+Summit of Skull Mountain~
+As you reach the summit of the mountain of skulls, something unusual
+seems to be happening.  Towads the edge of this open space at the summit,
+some of the skulls are covered with tattered fragments of flesh.  Towards
+the middle, somehow, the heads almost seem to be more and more alive. 
+Several have one or both eyes, peering at you helplessly from within the
+mountain.  The stench of rotting flesh nearly overwhelms you, and your
+spirit nearly breaks at the sight of tears rolling down the partially formed
+cheeks of others.  Whatever disaster, man-made or otherwise, that caused the
+death of so many, still seems to hold some strength in this place.  
+~
+0 270016512 0
+D2
+~
+~
+0 0 6471
+D5
+~
+~
+1 0 6473
+S
+#6473
+Fortress of Skulls~
+Like the throat of a corpse, a fleshy tunnel descends into the bowels of
+the skull mountain.  Spiraling downwards into the darkness, utter silence
+reigns.  The only sound is the ocassional flapping of loose skin in the
+ever-present wind.  
+~
+0 1048576 0
+D0
+~
+~
+0 0 6474
+D3
+~
+~
+0 0 6479
+D4
+~
+~
+1 0 6472
+S
+#6474
+The Sound of Tears~
+Alone in the darkness, you nearly trip over the ripcage of some poor
+soul.  Farther to the north you hear the distant sound of weeping.  
+~
+0 1048580 0
+D0
+~
+~
+0 0 6475
+D2
+~
+~
+0 0 6473
+S
+#6475
+Pool of Tears~
+The sound of muffled crying echos across this cavern inside the mountain
+of skulls.  Tears shed for a hundred years gradually trickle down through
+the bones until they drip steadily into the pool here.  
+~
+0 1048576 0
+D0
+~
+~
+0 0 6476
+D1
+~
+~
+0 0 6477
+D2
+~
+~
+0 0 6474
+S
+#6476
+Pool of Tears~
+The sound of muffled crying echos across this cavern inside the mountain
+of skulls.  Tears shed for a hundred years gradually trickle down through
+the bones until they drip steadily into the pool here.  
+~
+0 1048576 0
+D1
+~
+~
+0 0 6478
+D2
+~
+~
+0 0 6475
+S
+#6477
+Pool of Tears~
+The sound of muffled crying echos across this cavern inside the mountain
+of skulls.  Tears shed for a hundred years gradually trickle down through
+the bones until they drip steadily into the pool here.  
+~
+0 1048576 0
+D0
+~
+~
+0 0 6478
+D3
+~
+~
+0 0 6475
+S
+#6478
+Pool of Tears~
+The sound of muffled crying echos across this cavern inside the mountain
+of skulls.  Tears shed for a hundred years gradually trickle down through
+the bones until they drip steadily into the pool here.  
+~
+0 1048576 0
+D2
+~
+~
+0 0 6477
+D3
+~
+~
+0 0 6476
+S
+#6479
+Shrieking Souls of the East~
+The wind grows louder and stronger here, making the footing treacherous. 
+Bit of bone and cartilege blown loose by the winds pose a constant hazard. 
+Here, you are not alone...  Emerging from orifices in the walls are the
+angry spirits of all those who died in the east.  
+~
+0 1048576 0
+D1
+~
+~
+0 0 6473
+D3
+~
+~
+0 0 6480
+S
+#6480
+Soul Vortex~
+The shrieking winds are at their strongest here and you can barely keep
+your footing.  The source of the wind seems to be a black vortex of some
+kind.  Dare you enter?  
+~
+0 1048576 0
+D0
+~
+~
+0 0 6482
+D1
+~
+~
+0 0 6479
+D2
+~
+~
+0 0 6483
+D3
+~
+~
+0 0 6481
+S
+#6481
+Shrieking Souls of the West~
+The wind grows louder and stronger here, making the footing treacherous. 
+Bit of bone and cartilege blown loose by the winds pose a constant hazard. 
+Here, you are not alone...  Emerging from orifices in the walls are the
+angry spirits of all those who died in the west.  
+~
+0 1048576 0
+D1
+~
+~
+0 0 6480
+S
+#6482
+Shrieking Souls of the North~
+The wind grows louder and stronger here, making the footing treacherous. 
+Bit of bone and cartilege blown loose by the winds pose a constant hazard. 
+Here, you are not alone...  Emerging from orifices in the walls are the
+angry spirits of all those who died in the north.  
+~
+0 1048576 0
+D2
+~
+~
+0 0 6480
+S
+#6483
+Shrieking Souls of the South~
+The wind grows louder and stronger here, making the footing treacherous. 
+Bit of bone and cartilege blown loose by the winds pose a constant hazard. 
+Here, you are not alone...  Emerging from orifices in the walls are the
+angry spirits of all those who died in the south.  
+~
+0 1048576 0
+D0
+~
+~
+0 0 6480
+S
+#6484
+End of the Line~
+You stand in a place of infinite black space. Faint echoes and whispers
+hang in the air, coming from a vast distance. You have reached the end of
+the line. No living creature can pass beyond this place, and very few
+creatures from beyond can return from it.
+ 
+Here at the edge of life, you can give up a part of your soul should you
+wish to part from it. Doing so will gain you nothing; nothing except the
+power to make different choices the next time around.
+ 
+Collect a "soul aggregate" by crafting three different soul fragments
+together. Soul fragments may be found on high level demons throughout Terra 
+and Dominia. Return here with an aggregate and type 'remort forsake' to give 
+up your racial remort. 
+ 
+Collect a "draught of oblivion" by crafting the ewer, water and stopper
+together. These parts may be found on high level undead throughout Terra
+and Dominia. Return here with a draught and type 'reclass forsake' to use it
+to give up your class remort.
+ 
+You will not be delevelled when forsaking a remort.
+
+~
+0 524292 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 6468 spec_nether_dragon Load to: Yllidys, the Nether Dragon
+M 6477 spec_cast_mage Load to: stolen spirits of the north
+M 6481 spec_unremort Load to: Unremort trainer
+S
+
+
+
+#MOBPROGS
+#6468
+if rand 30
+mob oload 6469
+endif
+if rand 30
+mob oload 6470
+endif
+if rand 30
+mob oload 6471
+endif
+if rand 30
+mob oload 6472
+endif
+if rand 30
+mob oload 6473
+endif
+if rand 30
+mob oload 6474
+endif
+~
+A
+#0
+
+#RESETS
+D 0 6472 5 1
+D 0 6473 4 1
+O 0 6468 0 6468
+M 1 6468 1 6472 1
+M 1 6476 4 6475 1
+M 1 6476 4 6476 1
+M 1 6476 4 6477 1
+M 1 6476 4 6478 1
+M 1 6479 1 6479 1
+O 0 6491 0 6480
+M 1 6480 1 6481 1
+M 1 6477 1 6482 1
+M 1 6478 1 6483 1
+C 100 percent for next reset
+M 1 6481 1 6484 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

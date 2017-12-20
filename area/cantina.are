@@ -1,0 +1,1483 @@
+#AREADATA
+Name Cantina~
+Builders None~
+VNUMs 5700 5734
+Credits { 5 15} Angelique   Cantina~
+Security 9
+Xcontinent 0
+Age 8
+Questable 1
+End
+
+
+
+#MOBILES
+#5700
+Tim Bits Baker~
+Tim Bits, the jolly Baker~
+Tim Bits the jolly baker stands here with flour all over him.
+~
+A rather large man, the only thing larger than his girth is his heart. 
+He is known for his generosity to the poor.  
+~
+human~
+AB DLZ 0 0
+15 1 3d9+208 1d1+100 2d6+3 squeeze
+-2 -2 -2 -2
+0 B P O
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5701
+Alisa woman ~
+Alisa~
+A woman is here expertly decorating a wedding cake.
+~
+A lovely woman, the years have been nice to her.  The lines on her face
+can best be described as laugh lines, for it appears that she has always
+been happy.  Her hands are gentle but nimble as they fly across the hundreds
+of pastries she creates each day.  
+~
+human~
+AB DF 0 0
+53 5 50d10+6000 1d1+100 6d7+21 none
+-23 -23 -23 -23
+0 ABCD 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5702
+moonmaeven witch magick~
+Moonmaeven~
+The witch contemplates you in silence as she prepares an herbal remedy.
+~
+Purple eyes look up at you from under a cascading mane of silver hair. 
+They seem to smile at you, as if knowing your inner thoughts.  Are you
+really at peace with yourself, they ask?  
+~
+elf~
+Aa DFHJLTZ 1000 0
+45 4 25d10+3000 1d1+100 8d4+16 none
+-15 -15 -15 -15
+0 ABCD BE Z
+stand stand female 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 5702 100~
+#5703
+elderly lady woman~
+a lonely old woman~
+An elderly woman is here carefully dusting her precious antiques.
+~
+Her hair is unkempt..  Grey with streaks of white.  Her face, lined with
+wrinkles.  Her movements are slow, aided by her cane, which is an
+intricately carved piece of wood.  The symbols are unintelligible to you,
+however they seem to have been painstakingly wrought into the wood.  
+~
+human~
+AB DF -1000 0
+10 1 2d7+121 1d1+100 2d4+2 thwack
+1 1 1 1
+0 0 0 0
+stand stand female 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 5701 good day~
+#5704
+mom woman~
+a harried mom~
+A woman stands here picking at her nails fretfully. 
+~
+Short hair and an even shorter temper and her pocketbook looks like it
+packs a mean punch.  Do you really want to bother her right now?  
+~
+human~
+A V -1000 0
+15 1 3d9+208 1d1+100 2d6+3 smother
+-2 -2 -2 -2
+0 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5705
+baby~
+a screaming baby~
+A baby is here crying loudly.
+~
+Of course she's crying, her diaper is soiled so badly that you can smell
+it from where you stand.  You'd be crying too if you had to sit in that!  
+~
+human~
+A 0 -1000 0
+7 0 2d6+85 1d1+100 1d8+1 bite
+4 4 4 4
+0 0 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5706
+toddler~
+a running toddler~
+A toddler is here running over people's feet.
+~
+A tempestuous child, you can tell by the crooked grin that he has no clue
+that he's actually hurting people, he just wants to play with you.  
+~
+human~
+AF 0 -1000 0
+10 1 2d7+121 1d1+100 2d4+2 chomp
+1 1 1 1
+0 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5707
+teen teenager~
+a complaining teenager~
+A teenager is here mumbling about the unfairness of it all. 
+~
+Short and petite, she belongs at cheerleading practice, not out shopping
+with her mom, and from her constant grumbling, you know she agrees.  
+~
+human~
+A 0 -1000 0
+12 1 2d10+150 1d1+100 1d10+3 scratch
+0 0 0 0
+0 0 0 0
+stand stand female 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5708
+old lady ~
+an old lady~
+An old lady is here clipping coupons furiously.
+~
+The years have not been kind to this woman, and she takes it out on
+everyone around her.  You might want to turn away before you catch her eye. 
+~
+human~
+A 0 -1000 0
+13 1 2d10+170 1d1+100 2d5+3 skewer
+-1 -1 -1 -1
+0 0 0 0
+stand stand female 400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5709
+business executive man~
+a business executive~
+A man is here talking on a strange contraption.
+~
+Crisply ironed clothes, and a large briefcase slung over his shoulder, he
+looks ready for anything.  Except perhaps for the news that he is getting
+from whomever he is talking to.  He does not look happy.  
+~
+human~
+A 0 -1000 0
+15 1 3d9+208 1d1+100 2d6+3 entangle
+-2 -2 -2 -2
+0 0 0 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5710
+cashier woman~
+a bored cashier~
+A woman stands here waiting to take your money.
+~
+Chewing gum, she flashes her yellowed teeth in a semblance of a smile as
+she waits for you to pay her.  
+~
+human~
+AB 0 -1000 0
+12 1 2d10+150 1d1+100 1d10+3 charge
+0 0 0 0
+0 0 0 0
+stand rest female 350
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5711
+stock boy~
+a stock boy~
+A boy is here stacking cans on shelves.
+~
+With a look of sheer determination on his face, this boy concentrates on
+the task at hand...  Stacking the cans on the shelf so that they don't fall
+over.  It would not be a good idea to break his concentration.  
+~
+human~
+A 0 -1000 0
+10 1 2d7+121 1d1+100 2d4+2 crush
+1 1 1 1
+0 0 0 0
+stand stand male 225
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5712
+bag boy~
+a bag boy~
+A boy is waiting here to pack your bags for you.
+~
+With a bored look on his face, you know that this youngster does not have
+your food's best interests in mind.  You watch as he packs the bags with no
+regard for heavy items, putting them on top of eggs and bread in no
+particular order.  
+~
+human~
+AB 0 -1000 0
+10 1 2d7+121 1d1+100 2d4+2 force
+1 1 1 1
+0 0 0 0
+stand stand male 225
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#5713
+butcher man~
+the butcher~
+A grim looking man stands here slicing meat from a bone.
+~
+His hands are gnarled and covered with scars, most likely from mistakes
+made when cutting meat.  He looks formidable, but the smile on his face
+tells you he is very friendly.  Just don't make him mad.  
+~
+human~
+AB 0 -1000 0
+15 1 3d9+208 1d1+100 2d6+3 gutting
+-2 -2 -2 -2
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 5706 100~
+#5714
+bunnicula vampire bunny~
+Bunnicula~
+A cute, fluffy innocent bunny hops around. Don't let him see you looking at him or he might get scared.
+~
+Is it just your imagination, or does this bunny have fangs?  
+~
+rabbit~
+A 0 -1000 0
+8 0 2d7+96 1d1+100 1d7+2 drain
+3 3 3 3
+FHM 0 0 0
+stand stand none 0
+AGV ACDEFHJK medium 0 the guilds~
+M grall 5717 100~
+#5715
+big man~
+a jolly big man~
+A big man is here serving up platters of grease for his customers.
+~
+A rather large man with an engaging smile, the proprietor
+of this less than elegant establishment is happy with his
+life. His hair is neatly pulled back in a ponytail, and 
+if you look closely you'll see that it is streaked in purple.
+~
+human~
+AB 0 -1000 0
+59 5 50d10+9000 1d1+100 8d6+26 none
+-29 -29 -29 -29
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 5715 100~
+#5716
+Angel~
+Angel~
+Angel is here quietly humming to herself.
+~
+Her blue scales are awash with an irridescent light that is almost
+surreal.  The glow illuminates the store and everything around her in a
+gentle blue hue.  
+~
+blue dragon~
+ABI DEFHJTZ 0 0
+59 5 50d10+9000 1d1+100 8d6+26 none
+-29 -29 -29 -29
+0 ABCDa BEJ K
+stand stand female 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M grall 5716 100~
+#5717
+kitten marmalade orange Shammyra~
+Shammyra~
+A beautiful flame coloured kitten licks herself contentedly.
+~
+Fluffy orange and white fur masks a powerful feline form.
+~
+cat~
+AI VZ 0 0
+5 0 2d6+60 1d1+100 1d6+1 scratch
+5 5 5 5
+FH 0 0 0
+stand stand none 0
+AGV ACDEFHJKQUV medium 0 the guilds~
+#5718
+dog dogmutt mutt puppy~
+Dogmutt~
+A rather strange looking dog is here happily chewing on a bone.
+~
+Everything is so out of place!  My ears are too long, and my nose is too
+short.  My tail knocks things over when I wag it, but I get so darned
+excited I can't help myself!  
+~
+dog~
+AI VZ 0 0
+8 0 2d7+96 1d1+100 1d7+2 chomp
+3 3 3 3
+H 0 0 0
+stand stand female 0
+AGV ACDEFHJKUV medium 0 the guilds~
+#5719
+Douve man dragon blue~
+Douve~
+An old blue dragon has offered to share his wisdom with others.
+~
+With a smile for everyone but his enemies, this blue dragon can be your
+best friend, or your worst nightmare.  
+~
+blue dragon~
+AI JTVZ 0 0
+12 1 2d10+150 1d1+100 1d10+3 wrath
+0 0 0 0
+E 0 BEJ K
+stand stand male 0
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#5720
+Catacomb dragon red man~
+Catacomb~
+A big red dragon is here daring you to hurt his master.
+~
+Protector of Innocents, am I.
+~
+red dragon~
+AI JTVZ 0 0
+15 1 3d9+208 1d1+100 2d6+3 wrath
+-2 -2 -2 -2
+C A BEH I
+stand stand male 0
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#5700
+timbits shield box~
+a box of Timbits~
+This shield won't protect you from a sugar craving.~
+cardboard~
+container AI AJ
+1 AC 0 20 25
+5 1 2000 P
+A
+2 1  
+#5701
+shopping cart~
+a toy shopping cart~
+A toy shopping cart really hurts when it slams into you!~
+plastic~
+armor Aac AO
+1 3 2 0 0
+5 2 1200 P
+A
+19 1  
+#5702
+french crueller timbit~
+a french crueller timbit~
+A glazed french crueller is dreaming of life in Paris.~
+cream~
+throwing 0 AO
+2 4 chill 10 'shocking grasp'
+10 1 1000 P
+#5703
+crunchy timbit~
+a crunchy timbit~
+A crunchy coated timbit could be bad for your teeth.~
+food~
+pill A AO
+10 'stone skin' 'reserved' 'reserved' 'reserved'
+5 1 1000 P
+#5704
+bag crunchy carrots~
+a bag of crunchy carrots~
+A bag filled with fresh crunchy carrots.~
+plastic~
+container T A
+10 AC 0 10 25
+5 1 0 P
+#5705
+pocketbook purse~
+a leather pocketbook~
+A leather pocketbook is filled with coins.~
+leather~
+weapon AI AN
+whip 2 4 none 0
+10 1 600 P
+A
+19 2  
+A
+18 1  
+#5706
+baby bottle~
+a baby bottle~
+A baby's bottle is half-full of milk.~
+plastic~
+weapon AI AN
+mace 2 2 none 0
+5 1 600 P
+A
+18 1  
+A
+19 1  
+#5707
+cleaver axe~
+a blood spattered cleaver~
+A sharp object on the counter top glistens wetly.~
+metal~
+weapon AI AN
+axe 2 4 none 0
+12 1 600 P
+A
+19 1  
+A
+18 1  
+#5708
+coupon book flail~
+a coupon book~
+Pages have already been torn out of this well-used booklet.~
+paper~
+weapon AI AN
+flail 2 4 none 0
+7 1 600 P
+A
+19 2  
+#5709
+wooden cane~
+an old wooden cane~
+An intricately carved cane made from bamboo rests here.~
+bamboo~
+weapon 0 AN
+polearm 2 3 none 0
+8 1 600 P
+A
+19 1  
+#5710
+watering hole~
+a watering hole~
+A well is here with cool clear water for everyone.~
+earth~
+fountain 0 0
+0 0 'water' 0 0
+0 50000 0 P
+#5711
+apron~
+a raggedy apron~
+A raggedy apron covered in flour has been discarded here.~
+cloth~
+armor 0 AL
+4 5 4 0 0
+12 1 200 P
+A
+4 1  
+#5712
+pajamas~
+comfy pajamas~
+A pair of pink pajamas looks so comfortable!~
+cloth~
+armor 0 AF
+1 1 1 0 0
+0 1 200 P
+A
+2 1  
+#5713
+necktie tie neck~
+a paisley necktie~
+A necktie is here ready to choke its owner.~
+cloth~
+armor 0 AC
+5 4 5 0 0
+12 1 200 P
+A
+3 1  
+#5714
+bunny slippers~
+a pair of bunny slippers~
+A pink pair of bunny slippers seems to be missing its owner.~
+energy~
+armor 0 AG
+4 3 4 0 0
+8 0 200 P
+A
+14 10  
+#5715
+friendship bracelet~
+a friendship bracelet~
+A circlet of woven multi-coloured fibers looks for a new friend.~
+hemp~
+armor 0 AM
+1 2 1 0 0
+7 0 200 P
+A
+3 1  
+A
+5 1  
+#5716
+diamond promise ring~
+a diamond promise ring~
+An echo of a long forgotten promise has been discarded.~
+diamond~
+armor 0 AB
+3 2 3 0 0
+7 0 200 P
+A
+5 1  
+#5717
+rolling pin rollingpin wooden~
+a rolling pin~
+A long wooden rolling pin covered in flour looks for some dough to roll out.~
+wood~
+armor 0 AO
+1 2 1 0 0
+7 0 200 P
+A
+19 1  
+#5718
+carrots~
+crunchy carrots~
+A bag of crunchy carrots is good for you, and not just your eye-sight!~
+food~
+pill T A
+15 'animal growth' 'reserved' 'reserved' 'reserved'
+0 0 200 P
+#5719
+gallon orange juice oj~
+a gallon of orange juice~
+A plastic jug sits here holding a bright orange liquid.~
+jelly~
+potion 0 A
+8 'haste' 'blur' 'reserved' 'reserved'
+5 0 2500 P
+#5720
+gallon milk~
+a gallon of milk~
+A plastic jug sits here holding a white, frothy liquid.~
+jelly~
+potion 0 A
+8 'giant strength' 'shield' 'reserved' 'reserved'
+5 0 2500 P
+#5721
+tankard beer~
+a tankard of beer~
+A foamy tankard of chilled beer calls out to you.~
+jelly~
+drink 0 A
+3 3 'beer' 0 0
+0 1 200 P
+#5722
+jug lemonade~
+a jug of lemonade~
+A jug of lemonade can quenche your thirst for hours.~
+snake~
+drink P A
+84 84 'lemonade' 0 0
+0 1 200 P
+#5723
+hotdog hot dog~
+a delicious hot dog~
+A delicious hot dog with all the fixin's is just waiting to be eaten.~
+food~
+food 0 A
+10 10 0 0 0
+0 1 200 P
+#5724
+hamburger~
+a delicious hamburger~
+A delicious hamburger with all the fixin's is just waiting to be eaten.~
+food~
+food 0 A
+10 10 0 0 0
+0 1 200 P
+#5725
+apple streudel~
+apple streudel~
+A delicious slice of freshly baked apple streudel has just come out of the oven.~
+food~
+food 0 A
+10 10 0 0 0
+0 1 200 P
+#5726
+lemon chiffon pie~
+a piece of lemon chiffon pie~
+A delicious piece of lemon chiffon pie is waiting to be eaten.~
+food~
+food 0 A
+10 10 0 0 0
+0 1 200 P
+#5727
+plain timbit~
+a plain timbit~
+A plain timbit looks very boring to eat.~
+food~
+food 0 AO
+10 10 0 0 0
+0 1 100 P
+#5729
+coconut timbit~
+a coconut coated timbit~
+A coconut coated timbit from far off places would like to suffuse your senses.~
+food~
+pill 0 AO
+8 'shield' 'reserved' 'reserved' 'reserved'
+5 1 1000 P
+#5730
+chocolate timbit~
+a chocolate timbit~
+A chocolate timbit is looking for a glass of milk.~
+cream~
+throwing 0 AO
+2 4 flame 10 'burning hands'
+10 0 1000 P
+#5732
+tear reality~
+a green leaf~
+A green leaf is lying here on the ground.~
+energy~
+portal O 0
+0 0 0 10763 0
+0 0 0 P
+#5733
+banyan~
+a hole in the tree trunk~
+A dark hole in the tree seems to lead somewhere.~
+energy~
+portal O 0
+0 0 0 10759 0
+0 20000 0 P
+#5734
+jelly timbit~
+a jelly timbit~
+A timbit with red jelly all over it is really sweet and sticky.~
+jelly~
+throwing A AO
+3 3 splatter 10 'colour spray'
+10 1 1000 P
+#0
+
+
+
+#ROOMS
+#5700
+The Path to the Cantina~
+From here, you can hear the noise of the Cantina already.  Inside they
+are supposed to have all the wonders of the unknown world, brought back from
+an explorer's latest excursion.  You can come here any time of the day or
+night, and find almost anything you need.  There is a large stone wall to
+the east.  At first glance, there doesn't appear to be any way around it,
+but you may get lucky.  
+~
+0 4 1
+D1
+~
+~
+0 0 11086
+D3
+~
+~
+0 0 5701
+S
+#5701
+The Path to the Cantina~
+~
+0 0 0
+D1
+~
+~
+0 0 5700
+D3
+~
+~
+0 0 5703
+S
+#5702
+A Quiet Corner of the Cantina~
+You've found a small corner of the Cantina without any stores.  Not many
+people seem to pass through here, choosing to go from store to store in
+search of new things.  Rest and catch your breath while you can.  
+~
+0 0 0
+D0
+~
+~
+0 0 5703
+D5
+~
+~
+0 0 5704
+S
+#5703
+Eastern Entrance to the Cantina~
+As you enter the Cantina, there's a long row of unsmiling cashiers to
+your left and right.  It looks like a really busy day, and they can't be
+bothered with trying to be pleasant.  Bag boys swarm around the end of the
+registers, putting customers purchases into bags.  Noting how heavily they
+pack the bags, you plan to remember to ask them to double bag your things.  
+~
+0 0 0
+D0
+~
+~
+0 0 5704
+D1
+~
+~
+0 0 5701
+D2
+~
+~
+0 0 5702
+D3
+~
+~
+0 0 5706
+S
+#5704
+Alisa's Sweets & Confections~
+The sweet smell of baking breads and cookies engulfs you as you step
+inside the store.  All around you are glass cases filled with pastries,
+danishes and confections.  Everything looks so good, it's hard to pick.  You
+want to try one of everything.  
+~
+0 0 0
+D4
+~
+~
+0 0 5702
+S
+#5705
+The Cattle Yard~
+Wow, does it smell here!  There's cattle everywhere, their breath is hot
+on your skin as you carefully walk on the pathway provided for you.  Better
+hope you don't slip, the floor doesn't look like it's been cleaned in a long
+time.  Why exactly are you here, anyways?  
+~
+0 0 0
+D0
+~
+~
+0 0 5706
+D3
+~
+~
+0 0 5709
+S
+#5706
+The Butcher Shop~
+As you enter the butcher shop, the pungent, coppery aroma of fresh blood
+assails your nose.  Cases filled with assorted meats surround you.  Pork
+chops, bacon, sausage, hamburger, steaks.  If you can think of it, they
+probably have it.  To the north, you hear the squeals of pigs as they forage
+for food.  To the south, the unmistakable smell of manure tells you that
+cows are close by.  
+~
+0 0 0
+D0
+~
+~
+0 0 5707
+D1
+~
+~
+0 0 5703
+D2
+~
+~
+0 0 5705
+D3
+~
+~
+0 0 5710
+S
+#5707
+The Pig Pen~
+Hundreds of pigs squeal when they see you, thinking that you have brought
+them food.  They cram up against the wooden fence, trying to get closer to
+you.  The fence groans under their weight, and you wonder if it's wise to
+stay for much longer.  
+~
+0 0 0
+D2
+~
+~
+0 0 5706
+D3
+~
+~
+0 0 5711
+S
+#5708
+Public Restrooms~
+Crowded and dirty, these public toilets are not someplace that you want
+to go unless you want to get sick.  Germs fill the air so thickly that you
+swear you can see them dance by.  
+~
+0 0 0
+D3
+~
+~
+0 0 5717
+D5
+~
+~
+0 0 5721
+S
+#5709
+Concession Stand~
+A brightly painted wagon is here with food to sell to hungry shoppers. 
+Obviously the owner of this place is not very health conscious, but no one
+seems to care.  Hot dogs and hamburgers sizzle on the grill, and french
+fries splatter grease everywhere.  
+~
+0 0 0
+D0
+~
+~
+0 0 5710
+D1
+~
+~
+0 0 5705
+D2
+~
+~
+0 0 5708
+D3
+~
+~
+0 0 5718
+S
+#5710
+The Fountain~
+Almost 20 feet across, the fountain takes up the center of the
+marketplace.  In the center of the fountain is a large dolphin standing on
+its tail.  The dolphin shoots water out of its mouth, and it goes almost 100
+feet in the air before gravity takes over.  As the water falls back down, a
+fine mist sprays across the onlookers.  You see children in the fountain,
+they dive and come back up holding coins and you wonder just how deep the
+water is.  
+~
+0 0 0
+D5
+~
+~
+0 0 5730
+S
+#5711
+Northern Entrance to the Cantina~
+As you enter the Cantina, there's a long row of unsmiling cashiers to
+your left and right.  It looks like a really busy day, and they can't be
+bothered with trying to be pleasant.  Bag boys swarm around the end of the
+registers, putting customers' purchases into bags.  Noting how heavily they
+pack the bags, you plan to remember to ask them to double bag your things.  
+~
+0 0 0
+D0
+~
+~
+0 0 5712
+D1
+~
+~
+0 0 5707
+D2
+~
+~
+0 0 5710
+D3
+~
+~
+0 0 5720
+S
+#5712
+The Path to the Cantina~
+From here, you can hear the noise of the Cantina already.  Inside they
+are supposed to have all the wonders of the unknown world, brought back from
+an explorer's latest excursion.  You can come here any time of the day or
+night, and find almost anything you need.  
+~
+0 0 0
+D0
+~
+~
+0 0 5713
+D2
+~
+~
+0 0 5711
+D3
+~
+~
+0 0 5721
+S
+#5713
+The Path to the Cantina~
+~
+0 0 0
+D0
+~
+~
+0 0 5714
+D2
+~
+~
+0 0 5712
+S
+#5714
+A Dead End~
+An immense briar patch engulfs you, and as thorns entangle themselves in
+your hair, your clothes, and ultimately your skin, you realize you came the
+wrong way.  
+~
+0 0 0
+D2
+~
+~
+0 0 5713
+S
+#5715
+The Path to the Cantina~
+From here, you can hear the noise of the Cantina already.  Inside they
+are supposed to have all the wonders of the unknown world, brought back from
+an explorer's latest excursion.  You can come here any time of the day or
+night, and find almost anything you need.  The road leads north to the
+Cantina, and south back to the Holy Grove.  
+~
+0 4 0
+D0
+~
+~
+0 0 5716
+D2
+~
+~
+0 0 8902
+S
+#5716
+The Path to the Cantina~
+~
+0 0 0
+D0
+~
+~
+0 0 5717
+D2
+~
+~
+0 0 5715
+S
+#5717
+Southern Entrance to the Cantina~
+As you enter the Cantina, there's a long row of unsmiling cashiers to
+your left and right.  It looks like a really busy day, and they can't be
+bothered with trying to be pleasant.  Bag boys swarm around the end of the
+registers, putting customers' purchases into bags.  Noting how heavily they
+pack the bags, you plan to remember to ask them to double bag your things.  
+~
+0 0 0
+D0
+~
+~
+0 0 5718
+D1
+~
+~
+0 0 5708
+D2
+~
+~
+0 0 5716
+S
+#5718
+Concession Stand~
+A brightly painted wagon is here with food to sell to hungry shoppers. 
+Obviously the owner of this place is not very health conscious, but no one
+seems to care.  Hot dogs and hamburgers sizzle on the grill, and french
+fries splatter grease everywhere.  
+~
+0 0 0
+D0
+~
+~
+0 0 5719
+D1
+~
+~
+0 0 5709
+D2
+~
+~
+0 0 5717
+D3
+~
+~
+0 0 5722
+S
+#5719
+The Fountain~
+Almost 20 feet across, the fountain takes up the center of the
+marketplace.  In the center of the fountain is a large dolphin standing on
+its tail.  The dolphin shoots water out of its mouth, and it goes almost 100
+feet in the air before gravity takes over.  As the water falls back down, a
+fine mist sprays across the onlookers.  You see children in the fountain,
+they dive and come back up holding coins and you wonder just how deep the
+water is.  
+~
+0 0 0
+D5
+~
+~
+0 0 5730
+S
+#5720
+The Stock Room~
+Row upon row of canned food items are stored here, stacked all the way to
+the ceiling which is way above you.  Mules drag pallets of cans back and
+forth across the floor, rotating the stock so that everything is used by the
+date printed in red on the can.  A crashing sound in the distance warns you
+that these piles of cans aren't as stable as they appear, and you make your
+way warily between them.  
+~
+0 4 0
+D0
+~
+~
+0 0 5721
+D1
+~
+~
+0 0 5711
+D2
+~
+~
+0 0 5719
+D3
+~
+~
+0 0 5724
+S
+#5721
+The Break Room~
+This is where Cantina employees come to take their break.  There is a
+pool table in one corner, and a slot machine in the other.  A jukebox plays
+music, but there doesn't seem to be much of a collection.  
+~
+0 4 0
+D1
+~
+~
+0 0 5712
+D4
+~
+~
+0 0 5708
+S
+#5722
+The Dairy Aisle~
+Cartons of milk and orange juice line the walls here.  Cold air from the
+cooler trickles over your toes and gives you a slight chill.  There is a
+slight musty odor here, as if some milk spilled once, and was never cleaned
+up all the way.  
+~
+0 4 0
+D0
+~
+~
+0 0 5723
+D1
+~
+~
+0 0 5718
+D3
+~
+~
+0 0 5725
+S
+#5723
+The Produce Aisle~
+Lettuce, tomatoes and carrots are only a few of the vegetables that you
+can find here.  A man is here spraying everything down with water to keep
+them cool and fresh, and to keep away the bugs that would eat without
+paying.  
+~
+0 4 0
+D0
+~
+~
+0 0 5724
+D1
+~
+~
+0 0 5719
+D2
+~
+~
+0 0 5722
+D3
+~
+~
+0 0 5726
+S
+#5724
+The Canned Goods Aisle~
+Canned peaches, canned tuna fish, canned ham.  If it was canned, it's in
+this aisle.  Shelves rise up on both sides of you filled with aluminum cans
+with names that you've never heard of before, Del Monte, Bumblebee and Spam
+to name a few.  
+~
+0 4 0
+D1
+~
+~
+0 0 5720
+D2
+~
+~
+0 0 5723
+D3
+~
+~
+0 0 5727
+S
+#5725
+The Antique Store~
+This store doesn't seem to fit in with the rest of them, and you wonder
+why it is even here.  The proprietor is an elderly woman, with white hair
+and bright blue eyes.  Looking around the store, you are reminded of the
+stories your grandfather used to tell you from when he was a child.  Sensing
+your interest, the woman begins to tell you about her store, and you realize
+that she is here because she is lonely, and has no place else to go. 
+  
+~
+0 4 0
+D4
+~
+~
+0 0 5727
+S
+#5726
+Western Entrance to the Cantina~
+As you enter the Cantina, there's a long row of unsmiling cashiers to
+your left and right.  It looks like a really busy day, and they can't be
+bothered with trying to be pleasant.  Bag boys swarm around the end of the
+registers, putting customers' purchases into bags.  Noting how heavily they
+pack the bags, you plan to remember to ask them to double bag your things.  
+~
+0 0 0
+D0
+~
+~
+0 0 5727
+D1
+~
+~
+0 0 5723
+D2
+~
+~
+0 0 5725
+D3
+~
+~
+0 0 5728
+S
+#5727
+A Quiet Corner of the Cantina~
+You've found a small corner of the Cantina without any stores.  Not many
+people seem to pass through here, choosing to go from store to store in
+search of new things.  Rest and catch your breath while you can.  
+~
+0 0 0
+D2
+~
+~
+0 0 5726
+D5
+~
+~
+0 0 5720
+S
+#5728
+The Path to the Cantina~
+~
+0 0 0
+D1
+~
+~
+0 0 5726
+D3
+~
+~
+0 0 5729
+S
+#5729
+The Path to the Cantina~
+From here, you can hear the noise of the Cantina already.  Inside they
+are supposed to have all the wonders of the unknown world, brought back from
+an explorer's latest excursion.  You can come here any time of the day or
+night, and find almost anything you need.  To the east lies the cantina, or
+you can try to find the dwarven kingdom by heading west.  
+~
+0 4 0
+D1
+~
+~
+0 0 5728
+D3
+~
+~
+0 0 6500
+S
+#5730
+Deeper in the Fountain~
+The water closes over your head, and you can see the lights sparkling
+above you.  It is a different world down here.  Schools of brightly coloured
+fish swim by you, and you resist the urge to reach out and touch them.  You
+are in their world now and don't want to intrude.  Jellyfish float around
+you, but they are harmless, their tentacles feel like a cool caress against
+your skin.  
+~
+0 0 0
+D1
+~
+~
+0 0 5731
+D4
+~
+~
+0 0 5708
+S
+#5731
+Deeper in the Fountain~
+The water closes over your head, and you can see the lights sparkling
+above you.  It is a different world down here.  Schools of brightly coloured
+fish swim by you, and you resist the urge to reach out and touch them.  You
+are in their world now and don't want to intrude.  Jellyfish float around
+you, but they are harmless, their tentacles feel like a cool caress against
+your skin.  
+~
+0 0 0
+D2
+~
+~
+0 0 5732
+D4
+~
+~
+0 0 5708
+S
+#5732
+Deeper in the Fountain~
+The water closes over your head, and you can see the lights sparkling
+above you.  It is a different world down here.  Schools of brightly coloured
+fish swim by you, and you resist the urge to reach out and touch them.  You
+are in their world now and don't want to intrude.  Jellyfish float around
+you, but they are harmless, their tentacles feel like a cool caress against
+your skin.  
+~
+0 0 0
+D3
+~
+~
+0 0 5733
+D4
+~
+~
+0 0 5708
+S
+#5733
+Angel's Place~
+As you stand dripping in the entrance of Angel's Place, you realize that
+you just swam through her personal aquarium.  Feeling a little more than
+foolish, you look around and find that there is more to this place than
+meets the eye, and you wonder how she got everything down here.  
+~
+0 4096 0
+D4
+~
+~
+0 0 5714
+S
+#5734
+Angel's Place~
+As you stand dripping in the entrance of Angel's Place, you realize that
+you just swam through her personal aquarium.  Feeling a little more than
+foolish, you look around and find that there is more to this place than
+meets the eye, and you wonder how she got everything down here.  
+~
+0 268738572 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#5717
+cower
+~
+A
+#5716
+say Hello $n and welcome to my quiet little retreat.
+contemplate
+say Please let me know if anything strikes your fancy.
+~
+A
+#5715
+emote shouts "Step right up! Who's next?"
+emote points at $n and smiles broadly.
+say And what can I be serving up for ye today?
+~
+A
+#5705
+emote cries "Please don't leave me! I'm so lonely!"
+kill $n
+~
+A
+#5703
+say Thank you, come again!
+wave $n
+mob gtransfer $n 5702
+~
+A
+#5701
+say You were such pleasant company. Come again soon!
+tweak $n
+mob gtransfer $n 5727
+~
+A
+#5725
+smi $n
+say Good Day
+~
+A
+#5726
+~
+A
+#5704
+beam $n
+say Welcome!
+say Please let me know if you snif anything you'd like to try!
+~
+A
+#5706
+grumble
+~
+A
+#5702
+bisou $n
+say Greetings my child. What seek you?
+~
+A
+#5700
+say Bright blessings and fair journeys.
+wave $n
+mob gtransfer $n 5704
+~
+A
+#0
+
+#RESETS
+M 1 5704 5 5701 5
+E 0 5705 0 16
+M 1 5702 1 5702 1
+M 1 5705 5 5703 5
+E 0 5706 0 16
+M 1 5710 5 5703 5
+M 1 5712 5 5703 5
+G 0 5720 0
+M 1 5701 1 5704 1
+G 0 5725 0
+G 0 5726 0
+G 0 5702 0
+G 0 5730 0
+G 0 5734 0
+M 1 5708 5 5705 5
+M 1 5709 5 5705 5
+M 1 5713 1 5706 1
+E 0 5707 0 16
+M 1 5706 5 5707 5
+E 0 5701 0 17
+M 1 5711 5 5708 5
+G 0 5719 0
+O 0 5710 0 5709
+M 1 5706 5 5709 5
+E 0 5701 0 17
+M 1 5700 1 5709 1
+E 0 5700 0 11
+P 0 5703 -1 5700 1
+P 0 5727 -1 5700 5
+P 0 5729 -1 5700 1
+M 1 5704 5 5710 5
+E 0 5705 0 16
+E 0 5711 0 13
+M 1 5708 5 5712 5
+M 1 5710 5 5712 5
+M 1 5712 5 5712 5
+M 1 5704 5 5713 5
+E 0 5705 0 16
+M 1 5709 1 5714 1
+M 1 5708 1 5715 1
+E 0 5708 0 16
+M 1 5704 5 5716 5
+E 0 5705 0 16
+M 1 5710 5 5717 5
+E 0 5716 0 1
+M 1 5712 5 5717 5
+M 1 5709 5 5718 5
+E 0 5713 0 3
+M 1 5715 1 5718 1
+G 0 5721 0
+G 0 5722 0
+G 0 5723 0
+G 0 5724 0
+M 1 5708 5 5720 5
+E 0 5712 0 7
+M 1 5711 5 5720 5
+M 1 5705 5 5721 5
+E 0 5706 0 16
+M 1 5709 5 5722 5
+M 1 5714 5 5723 5
+M 1 5714 5 5723 5
+E 0 5714 0 8
+M 1 5714 5 5723 5
+G 0 5704 0
+P 0 5718 15 5704 1
+M 1 5714 5 5723 5
+M 1 5714 5 5723 5
+M 1 5706 5 5724 5
+E 0 5701 0 17
+M 1 5711 5 5724 5
+M 1 5703 1 5725 1
+E 0 5709 0 16
+M 1 5710 5 5726 5
+M 1 5712 5 5726 5
+M 1 5707 5 5727 5
+E 0 5715 0 15
+M 1 5708 5 5728 5
+E 0 5712 0 7
+M 1 5704 5 5728 5
+E 0 5705 0 16
+M 1 5705 5 5729 5
+E 0 5706 0 16
+M 1 5708 5 5732 5
+E 0 5708 0 16
+M 1 5706 5 5732 5
+E 0 5701 0 17
+M 1 5716 1 5733 1
+M 1 5717 1 5734 1
+M 1 5718 1 5734 1
+M 1 5719 1 5734 1
+M 1 5720 1 5734 1
+S
+
+
+
+#SHOPS
+5701 0 0 0 0 0 100 50 0 23
+5715 0 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

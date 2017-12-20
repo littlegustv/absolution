@@ -1,0 +1,192 @@
+#AREADATA
+Name Maclav's~
+Builders Maclav~
+VNUMs 69 80
+Credits { IMP } Maclav  Maclav's~
+Security 9
+Xcontinent 0
+Age 15
+End
+
+
+
+#MOBILES
+#69
+Hole~
+Marius Hollseher~
+Marius Hollsher is here.
+~
+Marius Hollsher is here reading from Liber Malefic.
+~
+human~
+A DFHNOTVZ 0 3000
+60 0 1500d1+0 799d1+1 6d7+5 slice
+-43 -43 -43 -30
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK huge 0
+#0
+
+
+
+#OBJECTS
+#69
+black silk sheet bed~
+a king sized, well used bed~
+A king sized bed greets you, inviting you to join in the fun.~
+~
+furniture MRT 0
+5 0 DGH 100 100
+1 100 0 P
+E
+bed~
+Mounds pillows reveals that this bed was meant for.. fun :)
+~
+E
+~
+~
+#70
+chair plush red~
+a plush red velvet chair~
+An eligant red velvet chair stands here on scrolled oak legs.~
+~
+furniture 0 0
+1 0 BFIL 100 100
+1 100 0 P
+#71
+table large oak~
+a large oak table~
+A large oak table attracts your attention in the center of the room.~
+~
+furniture 0 0
+0 0 0 100 100
+1 100 0 P
+E
+table stuff books scrolls gizmoes~
+A heap of books and scrolls and a other assorted gizmoes cluters the surface
+of this table.  You might have been able to sit on it, if it wern't for
+all of the stuff.  You see books on teraforming, genetiks and other things
+that escape your knowledge.
+~
+#72
+high backed chair comphy~
+a comportable high backed chair~
+A comportable looking high backed chair stands here reagaly.~
+~
+furniture 0 0
+1 0 BFIL 100 100
+1 100 0 P
+#73
+potion wrath~
+a potion of wrath~
+A potion of wrath sits here.~
+~
+potion WY AO
+50 'wrath' 'wrath' 'wrath' 'wrath'
+1 100 0 P
+#74
+blob amorphus~
+an amorphous blob~
+An amorphous blob is here, ready to mold.~
+~
+gem 0 AO
+0 0 0 0 0
+1 20 100 P
+#75
+white potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 150 P
+#76
+potpie pot pie~
+a big pot pie~
+A big pot pie has been left here.~
+food~
+food 0 A
+20 40 0 0 0
+0 20 11 P
+#77
+cookie worm ridden~
+a worm infested cookie~
+A cold, hard and worm infested cookie is here, looks unpalitable.~
+bone~
+pill ACEY AO
+60 'skeletal warrior' 'reserved' 'reserved' 'reserved'
+0 1 0 P
+#78
+yoda~
+yoda~
+~
+stone~
+portal 0 0
+0 0 0 1221 0
+0 0 0 P
+#79
+potion infra~
+a potion of infravition~
+A potion of infravition, don't take tomany~
+water~
+potion 0 A
+60 'infravision' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#80
+table round large~
+Avacar's round table~
+{BA Large Round Table is here for you to sit around{x~
+wood~
+furniture AG 0
+200 300000 BDEHN 0 0
+0 200000 0 P
+#0
+
+
+
+#ROOMS
+#69
+The Abby~
+You gaze around this fair sized room, amazed at the clutter of books
+and scrolls and other amazing, and unidentifiable gizmos.  Atop a
+table, amidst open maps and heaps of books stands a spinning globe
+of green and blue, you recognize it as the world.  A huge window 
+occupies one wall, on the ledge of the window are small figurines
+and other oddities.  Under the window rests a large bed, coverd in
+pillows and blankets.
+~
+0 268992525 3
+E
+~
+Generic extended description.
+~
+M 500 H 500
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+O 0 78 0 69
+O 0 72 0 69
+O 0 71 0 69
+O 0 70 0 69
+O 0 69 0 69
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,2192 @@
+#AREADATA
+Name Fantasy Land~
+Builders None~
+VNUMs 14500 14599
+Credits { 5 30} Karmon      Fantasy Land~
+Security 9
+Xcontinent 1
+Age 8
+Questable 1
+End
+
+
+
+#MOBILES
+#14500
+white rabbit hurry~
+a White Rabbit~
+A white rabbit is here, seems to be always in a hurry!
+~
+It is white and fluffy, and a bit big for your everyday rabbit. He looks at you while stomping on the ground repeatedly, saying : "I must hurry, the is no time..."
+~
+rabbit~
+ABCG 0 0 0
+5 -1 2d7+71 0d0+0 1d8+1 pound
+8 7 6 9
+FH 0 0 0
+stand stand none 500
+AGHMV ABCDEFHJK large 0 the guilds~
+#14501
+kobold ugly~
+an ugly kobold~
+An UGLY LOOKING Kobold stands here, ready to attack you!
+~
+Yuck! That kobold haven't had a shower for the past few years, not to mention a decent meal....
+~
+kobold~
+ABCFG DJ -1000 0
+2 -1 1d1+20 8d100+1000 1d1+8 beating
+10 11 12 13
+0 0 L C
+stand stand female 100
+ABHMV ABCDEFGHIJKQ medium 0 the guilds~
+#14502
+toto~
+Toto~
+Toto is here, wagging his tail!
+~
+Toto is a sweet small black dog. he looks at you back with his big puppy eyes.
+~
+dog~
+ABG 0 1000 0
+6 0 2d7+71 1d1+1 1d8+1 scratch
+8 7 6 9
+FH 0 E 0
+stand stand none 500
+AGHMV ABCDEFHJKUV medium 0 the guilds~
+#14503
+lilac flower~
+a Lilac flower~
+A Lilac flower is planted here, grinning at you.
+~
+This is a beautiful Lilac flower.
+Hmm... since when do flowers have sharp teeth?
+~
+unique~
+ABCG 0 -500 0
+10 0 3d6+100 0d0+0 1d9+1 digestion
+9 9 8 7
+E 0 0 0
+stand stand female 150
+AHMV KL medium 0 the guilds~
+#14504
+primrose~
+a huge Primrose~
+A huge Primrose is planted here.
+~
+The primrose is red and beautiful.
+~
+unique~
+ABG 0 -400 0
+10 0 2d8+100 0d0+0 2d5+2 digestion
+8 7 8 7
+E 0 0 0
+stand stand male 1000
+HMV KL medium 0 the guilds~
+#14505
+yellow sunflower~
+a sunflower~
+A yellow Sunflower is here, having fun in the sun.
+~
+The SunFlower seems to be enjoying the warm sun.
+~
+unique~
+ABG 0 -300 0
+10 0 4d6+100 0d0+0 4d2+2 digestion
+6 6 5 4
+E 0 C 0
+stand stand none 150
+HMV KL medium 0 the guilds~
+#14506
+tulip~
+a Tulip~
+A Tulip is here, changing it's colours.
+~
+The Tulip is lovely and it seem it has mastered the art of changing
+its colours!
+~
+unique~
+ABCG 0 -700 0
+10 0 4d8+100 0d0+0 3d2+1 digestion
+7 8 9 10
+EJ 0 0 0
+stand stand none 400
+HMV KL medium 0 the guilds~
+#14507
+tin man~
+the Tin Man~
+The Tin Man stands here, rusting slowly.
+~
+The Tin Man can use another gallon of oil. He is really stuck here, rusting slowly. He has an evil look in his eyes, probably because he still doesn't have a heart.
+~
+unique~
+ABG 0 -500 0
+15 0 3d9+200 0d0+0 2d6+3 pound
+6 6 5 5
+CEK 0 0 0
+stand stand male 150
+HMV ABCE medium 0 the guilds~
+#14508
+scarecrow~
+the Scarecrow~
+The Scarecrow stands in the field, scaring off the birds.
+~
+He is an idiot, he can barely do his job right. He looks for a brain, you happen to see one?
+~
+unique~
+ABG 0 10 0
+15 0 3d9+200 0d0+0 2d6+3 scratch
+6 6 5 5
+CEJK 0 0 0
+stand stand male 150
+HMV ABCDK medium 0 the guilds~
+#14509
+tiger~
+a tiger~
+The tiger looks ready to charge!
+~
+The tiger is quick and deadly, do not under-estimate him!
+~
+unique~
+AG 0 -1000 0
+16 0 3d9+233 1d1+100 2d6+4 slash
+-2 -2 -2 -2
+CEJK Z 0 0
+stand stand either 150
+AHMV ACDEFHJQ medium 0 the guilds~
+#14510
+bear brown~
+a brown bear~
+The big brown bear is here, growling at you!
+~
+This bear is HUGE, he has brown fur and seems to be coming at you!
+~
+bear~
+AG 0 -999 0
+17 0 4d9+210 0d0+0 2d6+3 pound
+5 5 4 5
+DEO 0 EI 0
+stand stand none 150
+AGHMV ABCDEFHJKUV medium 0 the guilds~
+#14511
+winged monkey~
+a winged monkey~
+A winged monkey is flying above your head.
+~
+This is a weird monkey, it has wings, a stupid smile on his face, and the will to kill you!
+ 
+~
+unique~
+AFG QT -1000 0
+14 0 2d10+190 0d0+0 2d6+3 pound
+7 6 7 5
+0 0 0 0
+stand stand either 150
+AHMV ABCDEFP medium 0 the guilds~
+#14512
+monkey guard~
+a monkey guard~
+A winged monkey is here, guarding the gate.
+~
+This monkey has been dressed in guard's uniform and is now protecting the gate to the north of you.
+~
+unique~
+ABG T -1000 0
+17 0 3d9+200 0d0+0 2d6+3 pound
+6 7 8 7
+CEFIJK 0 0 0
+stand stand either 150
+AHMV ABCDEFP medium 0 the guilds~
+#14513
+scared lion~
+the Scared Lion~
+The Scared Lion is here, hiding behind some leaves.
+~
+The Lion is Big and Strong... but is a scared kitten! he cries "Go away, Im afraid". This isn't the King of the Animals...
+~
+unique~
+ABG JQ -1000 0
+18 0 4d9+200 0d0+0 2d6+3 pound
+6 5 3 4
+0 0 H I
+stand stand male 150
+AHMV ABCDEFHIJQU medium 0 the guilds~
+#14514
+wicked witch west~
+the Wicked Witch of the West~
+The Wicked Witch of the West is here, casting spells on you!
+~
+She is the ugliest creature you ever seen! And she is planning to kill you!
+~
+human~
+ABG DH -1000 0
+20 0 5d10+350 1d1+399 4d4+9 punch
+-5 -4 -3 1
+E 0 0 0
+stand stand female 990
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14515
+sleepy~
+Sleepy~
+Sleepy the Dwarf is here... well... sleeping...
+~
+Sleepy is tired! let him sleep!
+~
+dwarf~
+ABG J 1000 0
+21 0 5d10+390 0d0+0 4d4+9 pound
+-5 -4 -3 -1
+JN 0 LQ R
+stand stand male 150
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14516
+Sneezy~
+Sneezy~
+Sneezy the dwarf is here, sneezing on you!
+~
+Sneezy has a cold, do you have a tissue?
+~
+dwarf~
+ABG J 1000 0
+22 0 5d10+400 0d0+0 4d4+10 pound
+-5 -5 -5 0
+JN 0 LQ R
+stand stand male 250
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14517
+doc~
+Doc~
+Doc the dwarf is here, giving out orders.
+~
+Doc is the smart one... Duhh...
+~
+dwarf~
+ABG J 1000 0
+27 0 5d10+600 0d0+0 2d10+7 pound
+-5 -5 -5 5
+JN 0 LQ R
+stand stand male 350
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14518
+grumpy~
+Grumpy~
+Grumpy the dwarf grumps about the room.
+~
+Grumpy is difficult, don't talk to him.
+~
+dwarf~
+ABG J 1000 0
+23 0 5d10+400 0d0+0 4d4+10 pound
+-5 -5 -5 0
+JN 0 LQ R
+stand stand male 250
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14519
+happy~
+Happy~
+Happy the Dwarf is here, smiling at you.
+~
+Happy is just happy!
+~
+dwarf~
+ABG J 1000 0
+24 0 6d10+398 0d0+0 4d4+10 pound
+-5 -5 -5 0
+JN 0 LQ R
+stand stand male 250
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14520
+dopey~
+Dopey~
+Dopey the Dwarf is here, Duhhhhh.
+~
+Dopey is trying to calculate 1+1, don't bother him.
+~
+dwarf~
+ABG J 1000 0
+25 0 6d9+400 0d0+0 4d4+11 pound
+-7 -7 -7 -2
+JN 0 LQ R
+stand stand male 250
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14521
+Bashful~
+Bashful~
+Bashful the Dwarf is here, hiding in the corner.
+~
+Eeek, he is too shy.
+~
+dwarf~
+ABG J 1000 0
+26 0 5d10+600 0d0+0 2d10+7 pound
+-5 -5 -5 5
+JN 0 LQ R
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14522
+Snow White~
+Snow White~
+Snow White is here.  She looks so beautiful!
+~
+Snow White is the most beautiful woman you have ever seen.  She has a
+shy smile, white skin, and long dark hair.
+~
+human~
+ABG J 1000 0
+28 0 6d11+600 0d0+0 2d10+10 stab
+-5 -5 -7 -2
+F 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14523
+prince charm~
+Prince Charming~
+Prince Charming is here, ready to marry Snow White.
+~
+The prince is handsome and loyal. You can see he is deeply in love and wishes to marry Snow White!
+~
+human~
+ABG DFJ 1000 0
+29 0 6d11+650 0d0+0 2d9+10 pierce
+-7 -7 -5 -1
+FK 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14524
+guard~
+the guard~
+The guard stands here.  There is no way you're getting in!
+~
+The guard looks tough...
+~
+human~
+ABG 0 -1000 0
+25 0 5d10+660 0d0+0 2d10+7 pierce
+-4 -7 -6 -1
+CFKN 0 0 0
+stand stand either 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14525
+Queen evil~
+the Evil Queen~
+The Evil Queen stands here, talking to her mirror...
+~
+"Mirror Mirror on the wall, whose the prettiest woman of all?"
+~
+human~
+ABG 0 -1000 0
+30 0 6d12+853 1d1+100 4d6+8 pound
+-9 -9 -9 -9
+N 0 0 0
+stand stand female 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14526
+red riding hood~
+Red Riding Hood~
+Red Riding Hood is going to visit her grandma.
+~
+She is sooo red.
+~
+human~
+ABG 0 -500 0
+35 0 10d10+1300 0d0+0 4d7+11 pound
+-10 -10 -10 -10
+0 0 0 0
+stand stand female 3500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14527
+hansel gretel~
+Hansel and Gretel~
+Hansel and Gretel are here licking a house.
+~
+These are FAT kids..
+~
+human~
+ABG 0 -800 0
+38 0 10d10+1300 0d0+0 4d7+11 pound
+-10 -10 -10 -9
+CEFJKN 0 0 0
+stand stand none 1420
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14528
+sleeping beauty~
+Sleeping Beauty~
+Sleeping Beauty is here, sleeping...
+~
+*Snore*
+~
+human~
+ABG 0 300 0
+40 0 15d10+1700 0d0+0 5d6+12 pound
+-5 -7 -7 -7
+CFIJK 0 0 0
+sleep stand female 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14529
+Jack~
+Jack~
+Jack is here climbing a large bean stalk.
+~
+He just stole a golden egg laying goose!
+ 
+~
+human~
+ABG 0 -1000 0
+43 0 25d10+2500 1d1+100 3d12+15 pound
+-15 -15 -15 -15
+A 0 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14530
+pinnochio~
+Pinnochio~
+Pinnochio is here, telling a lie.
+~
+He has one heck of a nose!
+~
+unique~
+ABG 0 -1000 0
+50 0 1d1+5500 0d0+0 8d5+20 pound
+-15 -15 -15 -10
+EFK a 0 0
+stand stand male 5000
+AHMV ABCDEF medium 0 the guilds~
+#14531
+Black beauty~
+Black Beauty~
+Black Beauty is here, winning yet another race.
+~
+Big, Strong, Black.
+~
+unique~
+ABG H -1000 0
+51 0 1d1+5555 1d1+999 8d5+21 pound
+-16 -16 -16 -10
+ACDFHIN 0 0 0
+stand stand none 10000
+AHMV ABCDEF large 0 the guilds~
+#14560
+wolf~
+a wolf~
+A wolf stalks you through the trees.
+~
+A grey wolf looks at you with hungar.
+~
+wolf~
+A Z -1000 0
+15 0 3d9+208 1d1+100 2d6+3 bite
+-2 -2 -2 -2
+FH 0 0 0
+stand stand male 0
+AGV ACDEFJKQV medium 0 the guilds~
+#14561
+racoon~
+a racoon~
+A racoon scrouges the forest for food.
+~
+This forest animal has grey fur, a black mask, and a striped tail.
+~
+rabbit~
+A 0 -500 0
+10 1 2d7+121 1d1+100 2d4+2 bite
+1 1 1 1
+FH 0 0 0
+stand stand female 0
+AGV ACDEFHJK medium 0 the guilds~
+#14562
+muskrat~
+a muskrat~
+A muskrat almost blends into the debris on the forest floor.
+~
+This animal looks a little like a beaver, but with the tail of rat.
+~
+rabbit~
+A 0 -200 0
+11 1 2d8+134 1d1+100 1d10+2 bite
+1 1 1 1
+FH 0 0 0
+stand stand male 0
+AGV ACDEFHJK medium 0 the guilds~
+#14563
+eagle~
+an eagle~
+A large eagle watches you from a pine tree branch.
+~
+This bird must be close to 2 feet in height, with powerful wing and claws.
+~
+song bird~
+A T -350 0
+12 1 2d10+150 1d1+100 1d10+3 none
+0 0 0 0
+FH 0 0 0
+stand stand male 0
+AGW ACDEFHKP medium 0 the guilds~
+#14564
+deer~
+a deer~
+A pretty dark tan deer eats some of the ground cover.
+~
+This deer looks well fed and happy with life in the forest.
+~
+dog~
+A 0 -100 0
+13 1 2d10+170 1d1+100 2d5+3 none
+-1 -1 -1 -1
+H 0 0 0
+stand stand female 0
+AGV ACDEFHJKUV medium 0 the guilds~
+#14581
+test~
+{YKarmon's {Gtest{x~
+{YKarmon's {Gtest{x is Cring here
+~
+UGLY!!!!!!!
+ok it's test ;)
+~
+giant~
+A 0 -1000 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 HI J
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14582
+Mprog tring~
+Stupid mob~
+Stupid mob is standing here
+~
+Just a stupid mob that i try to MPROG him:)
+~
+human~
+A 0 -1000 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#14500
+golden watch~
+a golden watch~
+A golden watch lies here, seems to be owned by a white rabbit...~
+gold~
+treasure A AO
+0 0 0 0 0
+2 5 0 P
+A
+2 1  
+A
+1 1  
+#14501
+potion bottle label me~
+a bottle labeled: "Quaff Me"~
+A smalled bottle is on the table.  It is labeled: "Quaff Me".~
+crystal~
+potion 0 AO
+10 'minimation' '(null)' '(null)' '(null)'
+5 5 0 P
+#14502
+kobold puke~
+some Kobold's puke~
+Yuck!  There is some Kobold puke in here!~
+puke~
+potion 0 AO
+10 'poison' '(null)' '(null)' '(null)'
+0 2 0 P
+#14503
+rusty old key~
+a rusty old key~
+A rust key has been dropped here, it looks very old.~
+iron~
+key BPUV AO
+0 0 0 0 0
+0 5 0 P
+#14504
+sink marble~
+a marble sink~
+A marble sink is here.  Do you care to wash your hands?~
+marble~
+container 0 0
+100 0 0 100 100
+0 5 0 P
+#14505
+golden key ~
+a shining golden key~
+A key has been dropped here.  It reflects the sunlight.~
+gold~
+key PUV AO
+0 0 0 0 0
+0 2 0 P
+#14506
+Sneezy Phlegm~
+Sneezy's Phlegm~
+Phlegm is on the floor... YICK!!!!!~
+food~
+pill A A
+15 'animal growth' '(null)' '(null)' '(null)'
+0 5 0 P
+#14507
+talking mirror~
+A talking Mirror~
+A mirror is here, telling you are the most beatiful person in the world!~
+glass~
+treasure AHMY AO
+0 0 0 0 0
+30 10 0 P
+A
+24 -2  
+A
+9 -1  
+A
+3 1  
+#14508
+bean magical~
+a magical bean~
+A magical bean is dropped here.~
+food~
+pill 0 A
+20 'heal' 'giant strength' '(null)' '(null)'
+10 2 0 P
+#14509
+rose candy~
+a candy~
+A piece of candy has been dropped here.  It is labled: "Rosey Candy."~
+food~
+pill 0 A
+10 'create rose' 'change sex' '(null)' '(null)'
+0 5 0 P
+#14550
+karmon's candy~
+{cKarmon's {mCandy{x~
+{cKarmon's {mCandy{x is droped here.~
+Gold~
+pill 0 AO
+25 'armor' 'create rose' 'frenzy' 'create rose'
+0 1 10000 P
+#14551
+karmon's Sofa~
+{DKarmon's Sofa{x~
+{DKarmon's Sofa{x is in the side.~
+wood~
+furniture 0 0
+2 9999 EHK 250 250
+54 100 100 P
+#14552
+Karmon's diamond~
+{YKarmon's {Gdiamond{x~
+{YKarmon's {Gdiamond{x Is droped here after long trivia quest~
+diamond~
+jewelry 0 AO
+0 0 0 0 0
+0 1 100 P
+#14553
+karmon's container~
+{ckarmon's {mcontainer{x~
+{ckarmon's {mcontainer{x is droped here , give it back to karmon.~
+slime~
+container 0 AO
+10000000 A 0 1000000 10
+54 1 100 P
+#14554
+Karmon's sword~
+{BKarmon's {Rsword{x~
+{BKarmon's {Rsword{x is droped here,give back to karmon.~
+wood~
+weapon 0 AN
+exotic 100 100 none ACDG
+54 0 1 P
+A
+13 1000  
+A
+12 1000  
+A
+18 8000  
+A
+19 8000  
+F
+A 0 1000 0
+F
+A 0 1000 0
+F
+A 0 1000 0
+F
+A 0 1000 0
+F
+A 0 100 0
+#14555
+karmon's Healing~
+{GKarmon's {Dhealing{x~
+{GKarmon's {Dhealing{x is droped here.~
+wood~
+pill 0 AO
+100 'heal' 'frenzy' 'heal' 'heal'
+54 0 0 P
+#14556
+Karmon's cool hat~
+{MKarmon's {Ycool {Chat{x~
+{MKarmon's {Ycool {Chat{x is droppend here.~
+wood~
+armor 0 AE
+9000 9000 9000 9000 0
+54 0 0 P
+#0
+
+
+
+#ROOMS
+#14500
+Falling...~
+You suddenly find yourself falling down at an extreme speed in what
+appears to be a gigantic rabbit hole!!!  
+~
+0 8204 0
+D5
+~
+~
+0 -1 14501
+S
+#14501
+Falling...~
+You are still falling.  All around you is simply darkness.  There is a
+horrible smell coming from the walls of the hole.  
+~
+0 8204 0
+D5
+~
+~
+0 -1 14502
+S
+#14502
+Falling...~
+You suddenly spot some light coming from beneath you.  You begin
+shivering as you suddenly understand that you are about to end your fall!!! 
+~
+0 8204 0
+D5
+~
+~
+0 -1 14503
+S
+#14503
+On a Leaf Stretch.~
+BOOM!  You fall on a soft and comfortable leaf stretch, which seems to
+have been prepared for you somehow.  You feel a bit dizzy from the long,
+fast fall, and all you can see at the moment is a big white rabbit...  
+~
+0 12 0
+D3
+~
+~
+0 -1 14504
+S
+#14504
+A large cave.~
+You stand in a rather large cave, lit by an unknown source.  Inside, you
+spot 2 doors.  One leads north and the other leads south.  Other then that,
+you spot a large wooden table with a small bottle upon it...  
+~
+0 8 0
+D0
+~
+~
+0 -1 14506
+D1
+~
+~
+0 -1 14503
+D2
+~
+~
+0 -1 14505
+S
+#14505
+Wrong Room!!!~
+Uh oh!  It seems like you chose the wrong room to enter!!!  
+~
+0 9 0
+D0
+~
+~
+0 -1 14504
+S
+#14506
+On the yellow brick road.~
+You suddenly find yourself standing on a road made from yellow bricks. 
+Around you is a field with many wierd and exotic flowers that you have never
+seen before.  Some of them appear to be smiling.  
+~
+0 0 2
+D0
+~
+~
+0 -1 14507
+D2
+~
+~
+0 -1 14504
+S
+#14507
+On the yellow brick road.~
+You suddenly find yourself standing on a road made from yellow bricks. 
+Around you is a field with many wierd and exotic flowers that you have never
+seen before.  Some of them appear to be smiling.  
+~
+0 0 2
+D0
+~
+~
+0 -1 14508
+D2
+~
+~
+0 -1 14506
+S
+#14508
+On the yellow brick road.~
+You suddenly find yourself standing on a road made from yellow bricks. 
+Around you is a field with many wierd and exotic flowers that you have never
+seen before.  Some of them appear to be smiling.  
+~
+0 0 2
+D0
+~
+~
+0 -1 14509
+D2
+~
+~
+0 -1 14507
+S
+#14509
+On the yellow brick road.~
+You suddenly find yourself standing on a road made from yellow bricks. 
+Around you is a field with many wierd and exotic flowers that you have never
+seen before.  Some of them appear to be smiling.  
+~
+0 0 2
+D1
+~
+~
+0 -1 14510
+D2
+~
+~
+0 -1 14508
+D3
+~
+~
+0 -1 14512
+S
+#14510
+On the yellow brick road.~
+You suddenly find yourself standing on a road made from yellow bricks. 
+Around you is a field with many wierd and exotic flowers that you have never
+seen before.  Some of them appear to be smiling.  
+~
+0 0 2
+D1
+~
+~
+0 -1 14511
+D3
+~
+~
+0 -1 14509
+S
+#14511
+A large filthy smithy.~
+You enter a large smithy, which appears to have been abandoned.  Tools
+and workshop materials have been thrown on the ground, and there is
+absolutely no sign of life.  All of a sudden, you spot a big Tin Man
+standing in the back of the room, unable to move.  
+~
+0 0 0
+D0
+~
+~
+0 -1 14514
+D3
+~
+~
+0 -1 14510
+S
+#14512
+On the yellow brick road.~
+You suddenly find yourself standing on a road made from yellow bricks. 
+Around you is a field with many wierd and exotic flowers that you have never
+seen before.  Some of them appear to be smiling.  
+~
+0 0 2
+D1
+~
+~
+0 -1 14509
+D3
+~
+~
+0 -1 14513
+S
+#14513
+A warm field.~
+You have reached the open field.  It is warm out here, and many crops
+seem to be growing here.  You suddenly notice a stupid-looking scarecrow in
+the middle of the field.  
+~
+0 0 2
+D0
+~
+~
+0 -1 14517
+D1
+~
+~
+0 -1 14512
+S
+#14514
+In the Dark Forest~
+The yellow brick road leads you towards a large, dark forest.  You start
+shivering as you imagine what kind of man-eating animals may live here...  
+~
+0 5 3
+D0
+~
+~
+0 -1 14515
+D2
+~
+~
+0 -1 14511
+S
+#14515
+In the Dark Forest~
+The yellow brick road leads you towards a large, dark forest.  You start
+shivering as you imagine what kind of man-eating animals may live here...  
+~
+0 1 3
+D0
+~
+~
+0 -1 14516
+D2
+~
+~
+0 -1 14514
+S
+#14516
+In the Dark Forest~
+The yellow brick road leads you towards a large, dark forest.  You start
+shivering as you imagine what kind of man-eating animals may live here...  
+~
+0 1 3
+D2
+~
+~
+0 -1 14515
+D3
+~
+~
+0 -1 14520
+S
+#14517
+In the Dark Forest~
+The yellow brick road leads you towards a large, dark forest.  You start
+shivering as you imagine what kind of man-eating animals may live here...  
+~
+0 5 3
+D0
+~
+~
+0 -1 14518
+D2
+~
+~
+0 -1 14513
+S
+#14518
+In the Dark Forest~
+The yellow brick road leads you towards a large, dark forest.  You start
+shivering as you imagine what kind of man-eating animals may live here...  
+~
+0 1 3
+D0
+~
+~
+0 -1 14519
+D2
+~
+~
+0 -1 14517
+S
+#14519
+In the Dark Forest~
+The yellow brick road leads you towards a large, dark forest.  You start
+shivering as you imagine what kind of man-eating animals may live here...  
+~
+0 1 3
+D1
+~
+~
+0 -1 14520
+D2
+~
+~
+0 -1 14518
+S
+#14520
+The End of the Dark Forest.~
+You have finally reached the end of the dark forest.  You begin to hear
+again the sound of birds and see the sunshine, but your path is not
+completed yet.  The yellow brick road now leads you toward a sandy place.  
+~
+0 0 3
+D0
+~
+~
+0 -1 14521
+D1
+~
+~
+0 -1 14516
+D3
+~
+~
+0 -1 14519
+S
+#14521
+A warm desert.~
+The yellow brick road starts to become covered with sand.  You realize
+you have stepped into a desert!  It is very warm in here.  You wish you
+could get out of this place as soon as possible.  
+~
+0 4 10
+D0
+~
+~
+0 -1 14522
+D2
+~
+~
+0 -1 14520
+S
+#14522
+A warm desert.~
+The yellow brick road starts become covered with sand.  You realize you
+have stepped into a desert!  It is very warm in here.  You wish you could
+get out of this place as soon as posible.  
+~
+0 0 10
+D0
+~
+~
+0 -1 14523
+D2
+~
+~
+0 -1 14521
+S
+#14523
+A warm desert.~
+The yellow brick road starts to become covered with sand.  You realize
+you have stepped into a desert!  It is very warm in here.  You wish you
+could get out of this place as soon as possible.  
+~
+0 0 10
+D0
+~
+~
+0 -1 14524
+D2
+~
+~
+0 -1 14522
+S
+#14524
+Before the Fortress.~
+You find yourself standing in front of a huge black fortress.  There are
+many winged monkeys flying around it, protecting it.  All of a sudden, you
+hear an evil giggle followed by a scream of a little girl.  There is also a
+sign here.  You think that you should read it first.  
+~
+0 0 10
+E
+sign~
+**********************************
+*                                *
+* This is the Fortress of the    *
+* Evil Wicked witch of the West  *
+*                                *
+*    Turn back NOW!              *
+*                                *
+**********************************~
+D0
+there is a large metal gate here.~
+gate door~
+1 14503 14525
+D2
+~
+~
+0 -1 14523
+S
+#14525
+Inside a fortress.~
+This is a large fortress, and it is even more black from the inside! 
+From the north, you can hear an evil screech.  
+~
+0 9 0
+D0
+~
+~
+0 -1 14526
+D2
+~
+~
+1 14503 14524
+S
+#14526
+Inside a Fortress~
+You have reached the middle room of the fortress.  To the east, you can
+see the kitchen, and to the west, you see a sort of barracks.  To the north,
+there is a large steel door.  
+~
+0 9 0
+D0
+~
+~
+0 -1 14529
+D1
+~
+~
+0 -1 14527
+D2
+~
+~
+0 -1 14525
+D3
+~
+~
+0 -1 14528
+S
+#14527
+A Dirty Kitchen~
+This kitchen is a filthy mess!  Plates and glasses are all over the
+floor, and strange, smelly liquids bubble here...  You see that the winged
+monkeys have declared themselves chefs and are now trying to fix a proper
+dinner...  
+~
+0 8 0
+D3
+~
+~
+0 -1 14526
+S
+#14528
+Inside a big Barracks~
+You find yourself inside a big barracks.  This is where the winged
+monkeys train in the art of war.  Soon they will become quite experienced,
+and they will undoubtedly be angry with your presence...
+~
+0 8 0
+D1
+~
+~
+0 -1 14526
+S
+#14529
+The Throne of The Witch~
+This is the throne of the Wicked Witch of the West!  It is dark and
+scary!  Many bats are flying around the room, and evil red eyes look at you
+from various places...  You feel like you want to get out of here as soon as
+possible.  
+~
+0 8 0
+D2
+~
+~
+0 -1 14526
+D4
+~
+~
+0 -1 14530
+S
+#14530
+Inside the Dwarven Hut.~
+You are in a very small hut, which seems to be occupied by little
+dwarves...  
+~
+0 12 0
+D1
+~
+~
+0 -1 14531
+S
+#14531
+A small Corridor.~
+This is a very small corridor.  To the north and south, there are small
+wooden doors.  The main lobby and the entrance to the dwarven hut are to the
+east.  
+~
+0 8 0
+D0
+A small wooden door is here.~
+door~
+1 -1 14532
+D1
+~
+~
+0 -1 14534
+D2
+A wooden door is here.~
+door~
+1 -1 14533
+D3
+~
+~
+0 -1 14530
+S
+#14532
+Sleepy's Room.~
+The dwarf that lives here doesn't need much, just a bed and some peace
+and quiet.  
+~
+0 8 0
+D2
+A small Wooden door is here.~
+door~
+1 -1 14531
+S
+#14533
+Sneezy's Room.~
+This room is filled with tissues!  Inside, there is a small dwarf who
+can't stop sneezing!  Ewww...  
+~
+0 8 0
+D0
+A small wooden door is here.~
+door~
+1 -1 14531
+S
+#14534
+A Small Dwarven Lobby.~
+This is a small lobby, designed in the dwarven way (yup, small).  The
+floor is made from wood, and a group of four dwarves dances around you...  
+~
+0 8 0
+D1
+~
+~
+0 -1 14536
+D3
+~
+~
+0 -1 14531
+D4
+~
+~
+0 -1 14535
+S
+#14535
+The Roof.~
+This is the nice small roof of the dwarven hut.  It's actually about one
+meter high...  The view is wonderful and full of greenery.  You suddenly
+notice a huge castle in the distance....  
+~
+0 0 0
+D5
+~
+~
+0 -1 14534
+S
+#14536
+Outside the Dwarven Hut.~
+You have left the dwarven hut, and are now taking a walk in a big, dark
+forest.  Strange voices and spooky sights fill the forest.  You really want
+to get out of here as soon as possible.  
+~
+0 0 3
+D0
+~
+~
+0 -1 14537
+D3
+~
+~
+0 -1 14534
+S
+#14537
+A dark spooky forest.~
+You are walking in a big, dark forest.  Strange voices and spooky sights
+fill the forest.  You really want to get out of here as soon as possible.  
+~
+0 0 1
+D0
+~
+~
+0 -1 14538
+D2
+~
+~
+0 -1 14536
+S
+#14538
+A dark spooky forest~
+You are walking in a big, dark forest.  Strange voices and spooky sights
+fill the forest.  You really want to get out of here as soon as possible.  
+~
+0 0 1
+D0
+~
+~
+0 -1 14539
+D2
+~
+~
+0 -1 14537
+S
+#14539
+A dark spooky forest~
+You are walking in a big, dark forest.  Strange voices and spooky sights
+fill the forest.  You really want to get out of here as soon as possible.  
+~
+0 0 1
+D1
+~
+~
+0 -1 14540
+D2
+~
+~
+0 -1 14538
+S
+#14540
+A dark spooky forest~
+You are walking in a big, dark forest.  Strange voices and spooky sights
+fill the forest.  You really want to get out of here as soon as possible.  
+~
+0 0 1
+D1
+~
+~
+0 -1 14541
+D3
+~
+~
+0 -1 14539
+S
+#14541
+A dark spooky forest~
+You are walking in a big, dark forest.  Strange voices and spooky sights
+fill the forest.  You really want to get out of here as soon as possible.  
+~
+0 0 1
+D0
+~
+~
+0 -1 14542
+D3
+~
+~
+0 -1 14540
+S
+#14542
+A dark spooky forest~
+You are walking in a big, dark forest.  Strange voices and spooky sights
+fill the forest.  You really want to get out of here as soon as possible.  
+~
+0 0 1
+D0
+~
+~
+0 -1 14543
+D2
+~
+~
+0 -1 14541
+S
+#14543
+A dark spooky forest~
+You are walking in a big, dark forest.  Strange voices and spooky sights
+fill the forest.  You really want to get out of here as soon as possible.  
+~
+0 0 1
+D2
+~
+~
+0 -1 14542
+D3
+~
+~
+0 -1 14544
+S
+#14544
+A dark spooky forest~
+You are walking in a big, dark forest.  Strange voices and spooky sights
+fill the forest.  You really want to get out of here as soon as possible.  
+~
+0 0 1
+D0
+~
+~
+0 -1 14545
+D1
+~
+~
+0 -1 14543
+S
+#14545
+A dark spooky forest~
+You are walking in a big, dark forest.  Strange voices and spooky sights
+fill the forest.  You really want to get out of here as soon as possible.  
+~
+0 0 1
+D0
+~
+~
+0 -1 14546
+D2
+~
+~
+0 -1 14544
+S
+#14546
+Entrance to the castle.~
+You stand before the grand gates of the castle.  The guards looks at you
+suspiciously, and you realize that you won't be able to enter without a
+fight.  
+~
+0 0 3
+D0
+~
+gate~
+1 14505 14547
+D2
+~
+~
+0 -1 14545
+S
+#14547
+Inside The castle.~
+The castle is very large and is made from hard stone.  The walls seem
+thick and tidy, and the ceiling is decorated with symbols and pictures,
+while the floor is polished and well cleaned in lemony fresh.  
+~
+0 8 0
+D0
+~
+~
+0 -1 14549
+D2
+~
+gate~
+1 14505 14546
+S
+#14548
+The Queen's Chambers~
+The Queen's Chambers is probably the biggest room in this entire castle! 
+It is well decorated with valuable pictures and objects.  A golden bed and
+the Queen's personal jewlery box lay at the far end.  The Queen doesn't seem
+happy with your presence...  
+~
+0 8200 0
+D2
+~
+~
+1 -1 14549
+D4
+~
+~
+0 -1 14550
+S
+#14549
+a small corridor in the castle~
+The castle is very large and is made from hard stone.  The walls seems
+thick and tidy, and the ceiling is decorated with symbols and pictures,
+while the floor is polished, well cleaned in lemony freshness.  This
+corridor seems to head towards the Queen's chambers!  
+~
+0 8 0
+D0
+~
+~
+0 -1 14548
+D2
+~
+~
+0 -1 14547
+S
+#14550
+Between the pages.~
+Oh No!  The magic fairytale book begin to lose its marbles!  The pages
+begin turning by themselves, and you find yourself trapped within the book. 
+You need to find your way out!  
+~
+0 8200 0
+D1
+~
+~
+0 -1 14551
+S
+#14551
+{RRed{x Riding Hood{x~
+Page No.  352 
+~
+0 8200 0
+D1
+~
+~
+0 -1 14552
+S
+#14552
+Hansel and Gretel~
+Page No.  597 
+~
+0 8200 0
+D1
+~
+~
+0 -1 14553
+S
+#14553
+Sleeping Beauty~
+Page No.  45 
+~
+0 8200 0
+D1
+~
+~
+0 -1 14554
+S
+#14554
+Jack and the Magic Bean~
+Page No.  13 
+~
+0 8200 0
+D1
+~
+~
+0 -1 14555
+S
+#14555
+Table of Contents.~
+Page No.  1 
+~
+0 8200 0
+D1
+~
+~
+0 -1 14556
+S
+#14556
+Pinnochio~
+Page No.  732 
+~
+0 8200 0
+D1
+~
+~
+0 -1 14557
+S
+#14557
+Black Beauty~
+Page No.  891 
+~
+0 8200 0
+D1
+~
+~
+0 -1 14558
+S
+#14558
+The Cover.~
+You have finally reached the cover of the magic book.  If you are strong
+enough, you might want to see what's behind its cover and travel east.  Or,
+if you found this book intresting, you might want to read it again, by going
+down.  
+~
+0 8200 0
+D1
+~
+~
+0 0 31000
+D5
+~
+~
+0 -1 14500
+S
+#14560
+Deep in Volrath Forest~
+You stand amidst the dense trees and brush of the Volrath Forest.
+It must be 10 degrees cooler in here than it is out in the sun.  You
+can travel deeper into the forest by heading south, or reach the
+Slemr Track by going north.
+~
+0 0 3
+D0
+~
+~
+0 0 8150
+D2
+~
+~
+0 0 14562
+S
+#14561
+A Huge Moss-Covered Rock~
+You stand next to one of the largest boulders that you have ever seen. 
+It is covered with thick moss and looks like it has been here for thousands
+of years.  The boulder prevents any movement to the north or west, but
+travel through the forest is possible to the east and south.  
+~
+0 0 3
+D1
+~
+~
+0 0 14562
+D2
+~
+~
+0 0 14566
+S
+#14562
+Within the Forest~
+Thick, prickly shrubs cover most of this section of the forest.
+You will have to be careful not to snag your clothing on the thorns
+that cover the shrubs.  You can travel in any direction.
+~
+0 0 3
+D0
+~
+~
+0 0 14560
+D1
+~
+~
+0 0 14563
+D2
+~
+~
+0 0 14567
+D3
+~
+~
+0 0 14561
+S
+#14563
+Admist the Trees~
+Extremely tall pine trees line the north edge of the forest.  
+Shrubs and thick ivy cover much of the forest's ground.  You can
+travel to the east, west, or south.
+~
+0 0 3
+D1
+~
+~
+0 0 14564
+D2
+~
+~
+0 0 14568
+D3
+~
+~
+0 0 14562
+S
+#14564
+Deep in the Volrath Forest~
+The pine trees along the northern edge of the forest are so tall
+that they block out most of the light from the forest floor.  No
+grass or weak plants can grow within the depths of Volrath.  You
+can travel east, west, or south.
+~
+0 0 3
+D1
+~
+~
+0 0 14565
+D2
+~
+~
+0 0 14569
+D3
+~
+~
+0 0 14563
+S
+#14565
+Surrounded by Pines~
+Tall, wide trees prevent any movement or view to the north and east.
+Thick ivy and wild ferns cover the ground making it impossible to
+see your feet.  The only exits like to the west and south.
+~
+0 0 3
+D2
+~
+~
+0 0 14570
+D3
+~
+~
+0 0 14564
+S
+#14566
+Before a Wooden Bridge~
+You stand before a well-built wooden bridge and wonder who would
+bother building it in the middle of this dense forest.  The bridge
+crosses a small pond to the south.  To the east lies the bank of a
+pond, and the forest continues to the north.
+~
+0 0 3
+D0
+~
+~
+0 0 14561
+D1
+~
+~
+0 0 14567
+D2
+~
+~
+0 0 14572
+S
+#14567
+On the Bank of a Pond~
+You stand at the top of a rocky pond bank.  The pond lies down the
+hill to the south.  The forest continues to the north, west, and
+east.
+~
+0 0 3
+D0
+~
+~
+0 0 14562
+D1
+~
+~
+0 0 14568
+D2
+~
+~
+0 0 14573
+D3
+~
+~
+0 0 14566
+S
+#14568
+A Fallen Tree~
+Several trees have fallen in this section of the forest.  You
+can either walk on them or around them.  To the south you hear
+a noise that sounds like the pages of a large book turning in
+the breeze.
+~
+0 0 3
+D0
+~
+~
+0 0 14563
+D1
+~
+~
+0 0 14569
+D2
+~
+~
+0 0 14500
+D3
+~
+~
+0 0 14567
+S
+#14569
+Standing on a Fallen Tree~
+This section of the Volrath Forest is covered with several fallen
+tree trunks.  You stand on one that is at least 15 feet wide and
+70 feet long.  Exits lie in all directions.
+~
+0 0 3
+D0
+~
+~
+0 0 14564
+D1
+~
+~
+0 0 14570
+D2
+~
+~
+0 0 14574
+D3
+~
+~
+0 0 14568
+S
+#14570
+In the Volrath Forest~
+Several large trees have fallen to the ground in this section of
+the forest.  They must have been here for a long time, because
+most are covered with heavy vines and thick ferns.  Exits lie in
+all directions.
+~
+0 0 3
+D0
+~
+~
+0 0 14565
+D1
+~
+~
+0 0 14571
+D2
+~
+~
+0 0 14575
+D3
+~
+~
+0 0 14569
+S
+#14571
+At the Edge of the Forest~
+You stand at the edge of the Volrath Forest.  Thick trees and
+shrubs lie to your north and south preventing any movement in 
+those directions.  Caldera Road lies to the east and the forest
+continues to the west.
+~
+0 0 3
+D1
+~
+~
+0 0 31403
+D3
+~
+~
+0 0 14570
+S
+#14572
+On a Wooden Bridge~
+You stand in the middle of a sturdy bridge deep in the Volrath
+Forest.  A rocky, shallow pond lies twenty feet below you.  The 
+only exits lie to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 0 14566
+D2
+~
+~
+0 0 14576
+S
+#14573
+In the Pond~
+You stand in the middle of a shallow pond.  The water is freezing
+and seems to be coming from some kind of natural spring.  Rocky
+banks lies to the north and south.  The bottom of a wooden bridge
+prevents any movement to west, and a vertical rock front prevents
+you from heading east.
+~
+0 0 3
+D0
+~
+~
+0 0 14567
+D2
+~
+~
+0 0 14577
+S
+#14574
+Vine-Covered Ground~
+Dead vines cover the ground in this part of the forest.  They
+are so thick in some places that they seem to grab your feet.
+A strange sound is coming from the west, it seems almost like
+the pages of a large book turning in the wind.  Exits lie in 
+all directions.
+~
+0 0 3
+D0
+~
+~
+0 0 14569
+D1
+~
+~
+0 0 14575
+D2
+~
+~
+0 0 14579
+D3
+~
+~
+0 0 14500
+S
+#14575
+Twisting Vines~
+Vines cover much of the area.  They run overhead, along the ground,
+and are so thick to the east that you can't even walk in that
+direction.  You can reach other parts of the forest by heading
+north, south, or west.
+~
+0 0 3
+D0
+~
+~
+0 0 14570
+D2
+~
+~
+0 0 14580
+D3
+~
+~
+0 0 14574
+S
+#14576
+By a Wooden Bridge~
+You are deep in the Volrath Forest, yet obvious signs of civilization
+exist even here.  You stand just south of a short wooden bridge.
+Tall pine trees block any movement to the south or west, but the
+bank of a small pond lies to your east.
+~
+0 0 3
+D0
+~
+~
+0 0 14572
+D1
+~
+~
+0 0 14577
+S
+#14577
+On a Rock Covered Bank~
+You stand on a steep pond bank that slopes to the north.  Thousands
+of small grey rocks cover the ground.  Trees and thick brush prevent
+any movement to the south, but you can reach other parts of the
+forest by heading west and east.
+~
+0 0 3
+D0
+~
+~
+0 0 14573
+D1
+~
+~
+0 0 14578
+D3
+~
+~
+0 0 14576
+S
+#14578
+Dead Pine Needles~
+Tall pine trees line the southern edge of the forest preventing
+any movement in that direction.  Their needles from the last
+winter has fallen to the ground and created something of a 
+carpet in this area.  A strange noise is coming from the north,
+it sounds like the pages of a book turning.  The forest continues
+to the east and a pond bank lies to the west.
+~
+0 0 3
+D0
+~
+~
+0 0 14500
+D1
+~
+~
+0 0 14579
+D3
+~
+~
+0 0 14577
+S
+#14579
+A Rocky Landing~
+This part of the Volrath Forest is very rocky.  Besides the tall
+trees that line the southern edge of the forest, there is no
+other living plants.  The rocky landing continues to the east,
+more forest lies to the north and west.
+~
+0 0 3
+D0
+~
+~
+0 0 14574
+D1
+~
+~
+0 0 14580
+D3
+~
+~
+0 0 14578
+S
+#14580
+A Rocky Incline~
+The rocky ground begins to slant up becoming sheer walls of
+stone to the south and east.  There is a rock landing to the
+west, the forest contines to the north.
+~
+0 0 3
+D0
+~
+~
+0 0 14575
+D3
+~
+~
+0 0 14579
+S
+#14581
+{Ykarmon's {groom{x~
+Karmon's room...
+yes yes karmon's room
+and you not karmon i think so feel good to leave ;)
+Joke ... every one can be here 
+~
+0 268436488 0
+D0
+~
+~
+0 0 14582
+D1
+~
+~
+0 0 3001
+D2
+~
+~
+0 0 14500
+D3
+~
+~
+0 0 31000
+M 1000 H 1000
+S
+#14582
+{YKarmon's {GTest room{x~
+~
+0 268435456 0
+D2
+~
+~
+0 0 14581
+M 250 H 250
+S
+#0
+
+
+
+#SPECIALS
+M 14514 spec_cast_mage Load to: the Wicked Witch of the West
+M 14525 spec_cast_mage Load to: the Evil Queen
+S
+
+
+
+#MOBPROGS
+#14582
+tell $n greetings. are you brave enugh to face your own mind?
+-
+~
+A
+#0
+
+#RESETS
+D 0 14524 0 2
+D 0 14525 2 2
+D 0 14531 0 1
+D 0 14531 2 1
+D 0 14533 0 1
+D 0 14546 0 2
+D 0 14547 2 2
+D 0 14548 2 2
+M 1 14500 1 14503 1
+E 0 14500 0 17
+O 0 14501 0 14504
+M 1 14501 1 14505 1
+G 0 14502 0
+M 1 14502 1 14506 1
+M 1 14505 5 14507 1
+M 1 14503 5 14507 1
+M 1 14504 5 14508 1
+M 1 14505 5 14509 1
+M 1 14506 5 14509 1
+M 1 14503 5 14510 1
+M 1 14507 1 14511 1
+M 1 14506 5 14512 1
+M 1 14508 1 14513 1
+M 1 14510 5 14515 1
+M 1 14509 5 14515 1
+M 1 14509 5 14518 1
+M 1 14510 5 14519 2
+M 1 14513 1 14520 1
+M 1 14511 1 14521 1
+M 1 14511 8 14522 3
+M 1 14511 1 14523 1
+M 1 14512 2 14524 2
+G 0 14503 0
+O 0 14504 0 14527
+P 0 14505 1 14504 1
+M 1 14511 8 14528 3
+M 1 14514 1 14529 1
+M 1 14515 1 14532 1
+M 1 14516 1 14533 1
+G 0 14506 0
+M 1 14520 1 14534 1
+M 1 14519 1 14534 1
+M 1 14518 1 14534 1
+M 1 14517 1 14534 1
+M 1 14521 1 14535 1
+M 1 14522 1 14541 1
+M 1 14523 1 14541 1
+M 1 14524 2 14546 2
+M 1 14525 1 14548 1
+E 0 14507 0 17
+M 1 14526 1 14551 1
+M 1 14527 1 14552 1
+M 1 14528 1 14553 1
+M 1 14529 1 14554 1
+G 0 14508 0
+O 0 14509 0 14555
+M 1 14530 1 14556 1
+M 1 14531 1 14557 1
+M 1 14563 5 14560 1
+M 1 14563 5 14561 1
+M 1 14561 5 14562 1
+M 1 14564 5 14563 1
+M 1 14563 5 14563 1
+M 1 14560 2 14564 1
+M 1 14561 5 14567 1
+M 1 14564 5 14568 1
+M 1 14564 5 14569 1
+M 1 14561 5 14569 1
+M 1 14563 5 14572 1
+M 1 14562 3 14573 1
+M 1 14561 5 14575 1
+M 1 14561 5 14576 1
+M 1 14562 3 14577 2
+M 1 14562 3 14577 2
+M 1 14564 5 14578 2
+M 1 14564 5 14578 2
+M 1 14560 2 14579 1
+O 0 14551 0 14581
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

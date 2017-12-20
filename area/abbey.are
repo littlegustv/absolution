@@ -1,0 +1,1612 @@
+#AREADATA
+Name Estinzione Abbey~
+Builders Tyger~
+VNUMs 13800 13949
+Credits { None} Tyger       Estinzione Abbey~
+Security 1
+Xcontinent 0
+Age 9
+Questable 1
+End
+
+
+
+#MOBILES
+#13800
+horse brunellus~
+A magnificent horse~
+A magnificent horse grazes on the grass under a nearby tree.
+~
+I'm a horse. I'm brown and have four legs! What more do you want?
+Oh.. and my name is Brunellus.
+~
+modron~
+AB J 0 0
+10 1 2d7+121 1d1+100 2d4+2 none
+1 1 1 1
+QR BMNPQ HIK 0
+stand stand male 0
+H ABCGHJK medium 0 the guilds~
+#13801
+pig~
+a pig~
+A noisy pig squeals at your approach.
+~
+Mmmmmmm .....BACON!!!!
+~
+pig~
+ABG 0 0 0
+8 0 2d7+96 1d1+100 1d7+2 none
+3 3 3 3
+0 0 0 0
+stand stand either 0
+AGV ACDEFHJK medium 0 the guilds~
+#13802
+pious monk~
+A pious monk~
+A pious monk meditates while he walks.
+~
+Dressed in a plain robe, a monk walks around quietly.
+~
+human~
+A 0 0 0
+17 1 3d9+258 1d1+100 3d4+4 punch
+-3 -3 -3 -3
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13803
+cranix~
+Cranix the smithy~
+Cranix pounds away at some metal.
+~
+A hefty blacksmith hammers away at with his hammer crafting metal into
+useful tools.  
+~
+human~
+AB V 0 0
+19 1 3d9+308 1d1+100 2d7+5 punch
+-4 -4 -4 -4
+CF 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13804
+a white dove~
+a white dove~
+A white dove is staring at you
+~
+~
+song bird~
+ACG T 1000 0
+7 1 2d6+85 1d1+100 1d8+1 none
+4 4 4 4
+FH 0 0 0
+stand stand either 100
+AGW ACDEFHKP small 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#13800
+Altar~
+A solid marble altar ~
+A solid marble altar sits ontop of a platform overlooking the entire church.~
+marble~
+furniture 0 0
+0 0 0 0 0
+0 10000 0 P
+#13801
+stone cot~
+a stone cot~
+A stone cot looks uncomfortable and uninviting.~
+stone~
+furniture 0 0
+1 500 DGJ 50 50
+0 1000 0 P
+#13802
+bunk beds~
+bunk bed~
+A bunk bed has been allocated for the altar boys to sleep in.~
+wood~
+furniture 0 0
+2 500 DGJ 50 50
+0 0 0 P
+#13803
+iron tub~
+An iron tub~
+A large tub is close to overfilling with water.~
+iron~
+furniture 0 0
+8 5000 FI 0 0
+0 300 0 P
+#13804
+soiled towel~
+a soiled towel~
+A soiled towel lies crumpled on the ground.~
+linen~
+armor 0 L
+3 3 3 3 0
+0 10 50 P
+#13805
+king sized bed~
+A king sized bed~
+A king sized bed looks like it could have four to five people sleeping in it.~
+feather~
+furniture 0 0
+5 5000 DGJ 75 75
+0 5000 0 P
+#13806
+vat of blood~
+A vat of blood.~
+A large vat full of coagulating blood looks ready to burst.~
+blood~
+container 0 0
+5000 0 0 5000 0
+0 5000 0 P
+#13807
+A red pepper~
+A red pepper~
+A red pepper looks juicy and spicy.~
+food~
+pill 0 AO
+10 'cloud of poison' 'reserved' 'reserved' 'reserved'
+0 1 0 P
+#13808
+curtains~
+curtains~
+~
+silk~
+portal O 0
+0 0 0 13817 0
+0 0 0 P
+#13809
+desk~
+a desk~
+~
+wood~
+container 0 0
+0 AC 0 500 0
+0 1000 0 P
+#13810
+desk~
+a desk~
+~
+wood~
+container 0 0
+5000 AC 0 1000 0
+0 0 0 P
+#13811
+bound scroll~
+a bound scroll~
+A bound scroll~
+wood~
+scroll 0 A
+20 'karma' 'reserved' 'reserved' 'reserved'
+30 0 4000 P
+#13812
+book~
+A large book~
+A large leather-bound books looks heavy.~
+paper~
+container 0 0
+10 0 0 50 10
+1 60 0 P
+#13813
+meathook~
+a meathook~
+A meathook is caked with dry blood~
+iron~
+weapon 0 AN
+axe 2 4 slash 0
+6 20 200 P
+#13814
+smithy hammer~
+A smithy hammer~
+A smithy hammer~
+iron~
+weapon I AN
+mace 3 3 crush 0
+14 20 1000 P
+#13815
+mint plant~
+a mint plant~
+You see a mint plant on the ground.~
+vege~
+pill 0 AO
+20 'cure critical' 'refresh' 'reserved' 'reserved'
+1 5 0 P
+#13816
+green grapes~
+green grapes~
+A bunch of green grapes has been left here.~
+fruit~
+pill 0 AO
+20 'water breathing' 'reserved' 'reserved' 'reserved'
+1 0 0 P
+#13817
+red grapes~
+red grapes~
+A bunch of red grapes have been left here.~
+fruit~
+pill 0 AO
+10 'reserved' 'ignore wounds' 'reserved' 'reserved'
+1 5 1 P
+#13818
+shelf~
+a shelf~
+~
+wood~
+container OT 0
+1000 0 0 500 500
+0 500 0 P
+#13819
+jar of pickles~
+a jar of pickles~
+A jar of pickles looks forgotten.~
+food~
+pill 0 A
+20 'cure disease' 'reserved' 'reserved' 'reserved'
+10 0 400 P
+#13820
+wheat~
+wheat~
+You spy a forgotten sheaf of wheat!~
+food~
+pill 0 A
+15 'slow' 'reserved' 'reserved' 'reserved'
+10 1 1 P
+#13821
+carrot~
+a carrot~
+A nibbled on carrot lies discarded.~
+wood~
+pill 0 0
+15 'detect invis' 'reserved' 'reserved' 'reserved'
+1 1 0 P
+#13822
+tobacco leaf~
+a tobacco leaf~
+A tobacco leaf has been left in the dust.~
+leaf~
+pill 0 A
+20 'plague' 'detect magic' 'reserved' 'reserved'
+10 1 100 P
+#13823
+green three-eyed redshade plant~
+a green three-eyed redshade~
+A strange looking plant has been left to root itself into the ground.~
+plant~
+pill 0 A
+20 'heal' 'refresh' 'reserved' 'reserved'
+10 5 100 P
+#13824
+tapestry~
+a tapestry~
+~
+canvas~
+portal MOT 0
+0 0 0 13865 0
+0 0 0 P
+#13825
+sarcophagus~
+a sarcophagus~
+An uncovered sarcohagus sits in the room gathering dust.~
+stone~
+furniture 0 0
+1 500 ACDEHIJKLMNOPQRSTUVWXYZabcdef 100 100
+0 500 0 P
+#13826
+sarcophagus~
+A sarcophagus~
+An uncovered sarcohagus sits in the room gathering dust.~
+stone~
+portal 0 P
+0 0 0 13857 0
+0 0 0 P
+#13828
+kaka~
+(no short description)~
+~
+iron~
+weapon F N
+exotic 2 10 none A
+24 40 500 P
+#13829
+a white feather~
+a white feather~
+A white feather is floating in the air.~
+feather~
+armor A AQ
+0 0 0 0 0
+7 1 200 P
+A
+4 1  
+#13899
+Gattling gun~
+A gattling gun~
+A steel gattling gun looks horrifically evil.~
+steel~
+weapon 0 ANR
+exotic 20 5 blast C
+60 10 10 'prismatic spray' 0
+54 0 0 P
+#0
+
+
+
+#ROOMS
+#13800
+The Road to Salvation~
+~
+0 4 3
+D0
+~
+~
+0 0 13801
+S
+#13801
+~
+~
+0 0 5
+D0
+~
+~
+0 0 13802
+D2
+~
+~
+0 0 13800
+S
+#13802
+~
+~
+0 0 5
+D1
+~
+~
+0 0 13803
+D2
+~
+~
+0 0 13801
+S
+#13803
+~
+~
+0 0 5
+D0
+~
+~
+0 0 13804
+D3
+~
+~
+0 0 13802
+S
+#13804
+~
+~
+0 0 5
+D2
+~
+~
+0 0 13803
+D3
+~
+~
+0 0 13805
+S
+#13805
+The Entranceway~
+~
+0 0 5
+D0
+~
+~
+1 0 13806
+D1
+~
+~
+0 0 13804
+S
+#13806
+~
+~
+0 0 0
+D0
+~
+~
+0 0 13808
+D2
+~
+~
+1 0 13805
+D3
+~
+~
+0 0 13807
+S
+#13807
+A booth~
+~
+0 0 0
+D1
+~
+~
+0 0 13806
+S
+#13808
+A Path~
+A dusty path leads you through the abbey.  To the north east you see what
+appears to be a large church.  From it you can discern a slight hum of
+voices chanting in unison.  A little to the north west you see a medium
+sized building.  To the south is the entrance to the abbey.  The pathway
+that you walk on keeps you off the carefully tended grass.  
+~
+0 0 0
+D0
+~
+~
+0 0 13809
+D1
+~
+~
+0 0 13834
+D2
+~
+~
+0 0 13806
+S
+#13809
+~
+~
+0 0 0
+D1
+~
+~
+0 0 13810
+D2
+~
+~
+0 0 13808
+D3
+~
+~
+0 0 13818
+S
+#13810
+The steps to the church~
+~
+0 0 0
+D0
+~
+~
+1 0 13811
+D3
+~
+~
+0 0 13809
+S
+#13811
+~
+~
+0 0 0
+D0
+~
+~
+0 0 13812
+D2
+~
+~
+1 0 13810
+S
+#13812
+~
+~
+0 0 0
+D0
+~
+~
+0 0 13813
+D2
+~
+~
+0 0 13811
+S
+#13813
+~
+~
+0 0 0
+D0
+~
+~
+0 0 13816
+D1
+~
+~
+0 0 13814
+D2
+~
+~
+0 0 13812
+D3
+~
+~
+0 0 13815
+S
+#13814
+~
+~
+0 0 0
+D3
+~
+~
+0 0 13813
+S
+#13815
+~
+~
+0 0 0
+D1
+~
+~
+0 0 13813
+S
+#13816
+The Altar~
+The whole of the church can be seen from this part of the room.  Here
+the Abbott holds his sermons and presides over the other monks in the order.
+Large stained glass windows provide all the light that the church needs. 
+Long curtains hang from the ceilings and paintings of unknown people adorn
+the walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 13813
+S
+#13817
+The Reliquaries.~
+Although dark and slightly musty, you discern the room to be of moderate
+size.  In the room you notice artifacts that have been brought to the
+monastary to be stored away for safe keeping.  Several pedestals with glass
+cases over them, house different treasures from all over the world.  You spy
+in one of the cases, a jar with a floating eyeball in it.  
+~
+0 524292 0
+D4
+~
+~
+0 0 13816
+S
+#13818
+A side path~
+A small cobbled path leads to the north and to the east.  To the west is
+a rather sombre looking stone structure.  Your surmise its gloomy
+apprearance can be alleviated by some pretty flowers.  
+~
+0 0 0
+D0
+~
+~
+0 0 13853
+D1
+~
+~
+0 0 13809
+D3
+~
+~
+1 0 13819
+S
+#13819
+The Residence~
+~
+0 0 0
+D0
+~
+~
+0 0 13820
+D1
+~
+~
+1 0 13818
+D2
+~
+~
+0 0 13823
+D3
+~
+~
+1 0 13822
+D4
+~
+~
+0 0 13830
+D5
+~
+~
+0 0 13825
+S
+#13820
+~
+~
+0 0 0
+D2
+~
+~
+0 0 13819
+D3
+~
+~
+1 0 13821
+S
+#13821
+A monk's cell~
+A small cell is the only room that has been allotted for a monk to have
+any privacy for themselves.  A small window allows for light to shine in
+during the day alleviating the somewhat gloomy atmosphere of the cell. A few
+~
+0 0 0
+D1
+~
+~
+1 0 13820
+S
+#13822
+A monk's cell~
+A small cell is the only room that has been allotted for a monk to have
+any privacy for themselves.  A small window allows for light to shine in
+during the day alleviating the somewhat gloomy atmoshere of the cell.  A few
+scattered books lie on a table nearby.  
+~
+0 0 0
+D1
+~
+~
+1 0 13819
+S
+#13823
+A Gloomy Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 13819
+D3
+~
+~
+1 0 13824
+S
+#13824
+A monk's cell~
+~
+0 0 0
+D1
+~
+~
+1 0 13823
+S
+#13825
+~
+~
+0 0 0
+D0
+~
+~
+1 0 13826
+D1
+~
+~
+1 0 13829
+D2
+~
+~
+1 0 13828
+D3
+~
+~
+1 0 13827
+D4
+~
+~
+0 0 13819
+S
+#13826
+A Monk's Cell~
+A small cell is the only room that has been allotted for a monk to have
+any privacy for themselves.  This cold, windowless room is freezing!  The
+monk who occupies this room has managed to sneak in a few extra blankets for
+himself and they pile neatly ontop of his stone bed.  
+~
+0 0 0
+D2
+~
+~
+1 0 13825
+S
+#13827
+A Monk's Cell~
+A small cell is the only room that has been allotted for a monk to have
+any privacy for themselves.  Although they are not to have any worldly
+possessions the monks are allowed to keep several books with them in order
+for them to keep their mind sharp and alert.  This room seems to have
+several books on enlightenment but little else.  A small candle on a table
+is the only light source available.  
+~
+0 0 0
+D1
+~
+~
+1 0 13825
+S
+#13828
+A Monk's Cell~
+A small cell is the only room that has been allotted for a monk to have
+any privacy for themselves.  Windowless and devoid of any furnishings, this
+room serves as a monks sanctuary away from the rest of the world.  Here a
+monk may pray in peace and attempt to better himself.  
+~
+0 0 0
+D0
+~
+~
+1 0 13825
+S
+#13829
+Jorge the Elder's Room~
+Unlike the other rooms, this room has a small fireplace built into the
+wall.  A small fire burns merrily away heating the room.  A small stool and
+table have been set into the corner of the room opposite the stone bed.  The
+room is void of any objects except for a wood pile for the fire, and what
+appears to be a symbol that hangs on the wall.  
+~
+0 0 0
+D3
+~
+~
+1 0 13825
+S
+#13830
+A Waiting Room~
+Plush carpeting softens your footsteps as you step off the stairs and
+onto the landing of the top floor.  There is a door leading to the east and
+a door leading to the south.  A small table with a set of chairs is all that
+adorns this room.  
+~
+0 8 0
+D1
+~
+~
+1 0 13831
+D2
+~
+~
+1 0 13833
+D5
+~
+~
+0 0 13819
+S
+#13831
+The Abbott's Quarters~
+It takes a few minutes for your eyes to adjust to what can only be the
+Abbott's bedroom.  Paintings of non-religious nature adorn the walls, as
+well as personal effects of different nature.  You spy on his cherry wood
+desk several glass jars of what appears to be different coloured beans. 
+Against the wall is a king sized bed that is adorned by large plush pillows
+and silk sheets.  
+~
+0 8 0
+D2
+~
+~
+0 0 13832
+D3
+~
+~
+1 0 13830
+S
+#13832
+The Lavatory~
+A window lets fresh air run through the room.  This room is the washroom
+for the abbott and is for his personal use.  A small pot filled with coal
+sits near the tub.  You theorize that it heats the room during the night
+allowing the abbott to stay warm.  Against the wall is a chair with a large
+chamber pot underneath.  Beside it a few scrolls and books have been placed
+ontop of a small table.  
+~
+0 8 0
+D0
+~
+~
+0 0 13831
+D3
+~
+~
+0 0 13833
+S
+#13833
+The Altar Boys' Quarters~
+Nothing adorns this room.  It is empty and void of any personal items,
+except for a single object that hangs against the wall.  A few towels have
+been piled neatly against the side of the bunk bed, and what appears to be
+an altar boy's habit, hangs from a nearby hook.  
+~
+0 8 0
+D0
+~
+~
+1 0 13830
+D1
+~
+~
+0 0 13832
+S
+#13834
+A pathway~
+A carefully tended pathway leads you in an easterly and westerly
+direction.  The path seems to be void of any stones or pebbles.  You see a
+monk nearby carefully picking up any loose stones or pebbles off the path. 
+Lush green grass grows on the othersides of the path.  
+~
+0 0 2
+D1
+~
+~
+0 0 13835
+D3
+~
+~
+0 0 13808
+S
+#13835
+A pathway~
+A small bend in the road leads to the north where you see a little bit of
+activity as monks wander about their daily chores.  The path seems free of
+all rocks and pebbles.  
+~
+0 0 2
+D0
+~
+~
+0 0 13836
+D3
+~
+~
+0 0 13834
+S
+#13836
+A pathway~
+The small path that you're on continues in a north south direction.  To
+the north you see various small buildings while to the south you see the
+distant gates of the abbey.  You notice the abbey's cathedral to the west
+while to the east you see a few monks tending to what appears to be a field
+of crops.  
+~
+0 0 0
+D0
+~
+~
+0 0 13846
+D1
+~
+~
+0 0 13837
+D2
+~
+~
+0 0 13835
+S
+#13837
+The Garden~
+The monks have turned some sparse fields into a moderate garden. 
+Vegetables of all kinds can be found here in various stages of growth. Your
+keen eye notices there are herbs here of medicinal value being carefully cultivated. 
+Judging by the yield, you estimate that the Order can live several months
+without having to go into town to buy other vegetables.  
+~
+0 0 2
+D0
+~
+~
+0 0 13838
+D1
+~
+~
+0 0 13840
+D2
+~
+~
+0 0 13839
+D3
+~
+~
+0 0 13836
+S
+#13838
+The Garden~
+Vegetables and fruits of all assortment are carefully being grown and
+harvested by the monks.  Every day several monks gather enough food for the
+kitchen to provide for the whole abbey.  Mmm..  These vegetables look ready
+to be harvested.  Hey!  Those look like green peppers!  
+~
+0 0 2
+D2
+~
+~
+0 0 13837
+S
+#13839
+The Garden~
+Vegetables and fruits of all assortment are carefully being grown and
+harvested by the monks.  Every day several monks gather enough food for the
+kitchen to provide for the whole abbey.  Mmm..  These vegetables look ready
+to be harvested.  Hey!  Those look to be some grapes!  
+~
+0 0 2
+D0
+~
+~
+0 0 13837
+S
+#13840
+The Garden~
+A moderate garden has been carefully tended to by the monks.  Their
+dedication results in a plentiful yield for their own stores as well as
+leaving them extra to trade in the city for other supplies.  
+~
+0 0 2
+D0
+~
+~
+0 0 13841
+D1
+~
+~
+0 0 13843
+D2
+~
+~
+0 0 13842
+D3
+~
+~
+0 0 13837
+S
+#13841
+The Garden~
+A moderate garden has been carefully tended to by the monks.  Their
+dedication results in a plentiful yield for their own stores as well as
+leaving them extra to trade in the city for other supplies.  Wow!  Are those
+carrots you see over there?  
+~
+0 0 2
+D2
+~
+~
+0 0 13840
+S
+#13842
+The Garden~
+A moderate garden has been carefully tended to by the monks.  Their
+dedication results in a plentiful yield for their own stores as well as
+leaving them extra to trade in the city for other supplies.  Nice!  There
+are some nice wheat growing here!  
+~
+0 0 2
+D0
+~
+~
+0 0 13840
+S
+#13843
+The Garden~
+Some identifiable crops are being grown in this region.  Some of the
+yields are brightly coloured while others look darker and more sinister in
+nature.  You notice that the workers who tend these fields wear heavy work
+gloves and cover their faces with masks.  
+~
+0 0 2
+D0
+~
+~
+0 0 13844
+D2
+~
+~
+0 0 13845
+D3
+~
+~
+0 0 13840
+S
+#13844
+The Garden~
+Some identifiable crops are being grown in this region.  Some of the
+yields are brightly coloured while others look darker and more sinister in
+nature.  You notice that the workers who tend these fields wear heavy work
+gloves and cover their faces with masks.  Hey!  Is that tobacco being grown
+over there?  
+~
+0 0 2
+D2
+~
+~
+0 0 13843
+S
+#13845
+The Garden~
+Some identifiable crops are being grown in this region.  Some of the
+yields are brightly coloured while others look darker and more sinister in
+nature.  You notice that the workers who tend these fields wear heavy work
+gloves and cover their faces with masks.  Hey!  That plant looks like green
+three-eyed redshade!  
+~
+0 0 2
+D0
+~
+~
+0 0 13843
+S
+#13846
+A pathway~
+A small trail leads in all the cardinal directions.  To the north the
+path extends further into the abbey while to the south you return to the
+path to the gates.  Directly east you hear the whinnie of horses while to
+the west you see a stone structure.  
+~
+0 0 0
+D0
+~
+~
+0 0 13849
+D1
+~
+~
+0 0 13847
+D2
+~
+~
+0 0 13836
+D3
+~
+~
+0 0 13848
+S
+#13847
+The Stables~
+A small stable has room for about six horses.  Although it looks quite
+comfortable for the horses, you can never be sure what really lies beneath
+the straw that lines their stalls.  A monk casually cleans the stalls
+ignoring your presence.  
+~
+0 0 0
+D3
+~
+~
+0 0 13846
+S
+#13848
+Apothecary~
+A few lanterns provide a moderate amount of light in this windowless
+structure.  Little shadows caused by the flickering light dance across the
+walls revealing rows upon rows of labelled bottles and jars.  A long table
+sits in the middle of the room and serves as the only furnishing.  A monk
+stands nearby sorting different herbs into their proper containers.  
+~
+0 0 0
+D1
+~
+~
+0 0 13846
+S
+#13849
+End of the path~
+The trail along the abby ends here.  To the west you hear the
+distinctive sound of a hammer tapping away on metal, while to the east you
+see a small house with a pig pen.  
+~
+0 0 0
+D1
+~
+~
+0 0 13850
+D2
+~
+~
+0 0 13846
+D3
+~
+~
+0 0 13852
+S
+#13850
+The Butcher~
+The stench of fresh blood and raw meat assails your senses as you step
+into the butcher shop.  A freshly slaughtered pig hangs from the ceiling. 
+Below the carcass a large vat collects the blood as it drains from it.  The
+blood will be used for blood pudding made specially by the butcher.  Several
+cutting instruments lie on a table soaked in blood.  
+~
+0 0 0
+D0
+~
+~
+0 0 13851
+D3
+~
+~
+0 0 13849
+S
+#13851
+The Pig Sty~
+Your boots sink into the muck as you enter into the pig pens.  The muck
+threatens to pull you further down unless you move quicly.  You can already
+feel the mud start to slowly creep into your clothing and into your boots. 
+A pig looks sourly in your direction and grunts in disapproval.  
+~
+0 0 2
+D2
+~
+~
+0 0 13850
+S
+#13852
+The Workshop~
+A clean and well stocked workshop allows for the monks to do their own
+repairs and create their own devices to simplify their living.  Although
+personal possessions are frowned upon, the Order does allow them create
+devices to simplify and ease some of the workpain.  
+~
+0 1073741824 0
+D1
+~
+~
+0 0 13849
+S
+#13853
+~
+A dusty path leads you through the abbey.  To the not so distant north
+you see three large buildings.  One of the buildings towers over the others,
+while the one to the west seems to be a hub of activity.  Directly to the
+east is a large church.  You hear some chanting emmanating from the church,
+and a wave of peace flashes over you.  
+~
+0 0 0
+D0
+~
+~
+0 0 13854
+D2
+~
+~
+0 0 13818
+S
+#13854
+A Path~
+The pathways ends directly in front of the tallest building in the
+abbey.  A door at the base seems to be the only visible entranceway.  To the
+left of you is the abbey's study, while to the right is the dinning hall.  
+~
+0 0 0
+D0
+~
+~
+3 0 13864
+D1
+~
+~
+1 0 13855
+D2
+~
+~
+0 0 13853
+D3
+~
+~
+1 0 13858
+S
+#13855
+The Banquet Hall~
+A large hall has been set as the dinning area.  Long tables and simple
+benches serve as furnishings for the monks.  A larger and more elaborate
+table has been set up on a platform a little higher than the other tables. 
+This table seems to preside over the room and you can only assume that the
+abbot sits here with the other elders.  The room is oddly silent even though
+you can hear the clamour of the cooks in the kitchen.  
+~
+0 0 0
+D1
+~
+~
+1 0 13856
+D3
+~
+~
+1 0 13854
+S
+#13856
+The Kitchen~
+The kitchen is a flury of activity as several monks try to prepare a
+meal that is to feed the whole abbey.  Cauldrons of sweet smelling soups
+slowly simmer over a large fire in the middle of the room.  A few monks in
+the corner of the kitchen busily chop away at what seems to be a hoard of
+vegetables.  A few monks rush past you as they hurry to their kitchen
+duties.  
+~
+0 0 0
+D1
+~
+~
+1 0 13857
+D3
+~
+~
+1 0 13855
+S
+#13857
+The Cold Storage~
+A stone walled room provides a cold storage for the monks.  Here in
+storage the kitchen staff store some of their more perishable items.  A few
+jars of pickeled vegetables sit on the shelves carefully labelled.  
+~
+0 0 0
+D3
+~
+~
+1 0 13856
+S
+#13858
+The Lower Study~
+You step into silence.  Several monks sitting at their desks look up at
+you with suspicion.  Their study is where the monks channel much of their
+energy into manuscripts and illustrations.  You spy several monks doing
+calligraphy at several desks nearby.  The room is strangely silent as none
+of the monks say a word to each other.  Here, the rule of silence is golden.
+~
+0 0 0
+D1
+~
+~
+1 0 13854
+D3
+~
+~
+0 0 13859
+S
+#13859
+The Lower Study~
+Stacks of papers and books have been piled high on desks.  Although there
+seems to be a flurry of chaotic activity, there is always a method to the
+madness of the monks.  Several decorative paintings hang on the walls of the
+study depecting unknown people doing unknown things.  Several monks look at
+you with suspicion as you stand there staring awkwardly at them.  You notice
+that although the monks hasten about their business, it is strangely silent.
+No one says anything to anyone.  
+~
+0 0 0
+D1
+~
+~
+0 0 13858
+D3
+~
+~
+0 0 13860
+S
+#13860
+The Lower Study~
+Stacks of papers and books have been piled high on desks.  Although
+there seems to be a flurry of chaotic activity, there is always a method to
+the madness of the monks.  Several decorative paintings hang on the walls of
+the study depecting unknown people doing unknown things.  
+~
+0 0 0
+D1
+~
+~
+0 0 13859
+D4
+~
+~
+0 0 13861
+S
+#13861
+The Grand Study~
+Almost every waking hour is spent here in the grand study by the monks. 
+Here they illustrate manuscripts which is highly valued by the rest of the
+world.  Painstakingly detailed the manuscripts take weeks to months to
+finish.  Some of the more inexperienced monks will sit with other monks to
+learn the basic fundamentals of illustrating manuscripts.  There seem to be
+alot more desks crowded here near the stairs as opposed to the back where
+there are fewer.  
+~
+0 0 0
+D1
+~
+~
+0 0 13862
+D5
+~
+~
+0 0 13860
+S
+#13862
+The Grand Study~
+Almost every waking hour is spent here in the grand study by the monks. 
+Here they illustrate manuscripts which is highly valued by the rest of the
+world.  Painstakingly detailed the manuscripts take weeks to months to
+finish.  Some of the more inexperienced monks will sit with other monks to
+learn the basic fundamentals of illustrating manuscripts.  You notice that
+one of the desks in the room has been set a little more apart from the
+others.  
+~
+0 0 0
+D1
+~
+~
+0 0 13863
+D3
+~
+~
+0 0 13861
+S
+#13863
+The Grand Study~
+Almost every waking hour is spent here in the grand study by the monks. 
+Here they illustrate manuscripts which is highly valued by the rest of the
+world.  Painstakingly detailed the manuscripts take weeks to months to
+finish.  Some of the more experienced monks will often throw away beautiful
+illustrations because of one missed stroke.  You notice that quite a few of
+the desks have name tags put on them.  
+~
+0 0 0
+D3
+~
+~
+0 0 13862
+S
+#13864
+The Entrance~
+You step into an almost empty room.  Several pieces of furniture like
+scattered about.  Uh oh...  A heavy iron door has just dropped from the
+ceiling from where you came in from.  Nice going.  
+~
+0 0 0
+D2
+~
+~
+3 0 13854
+S
+#13865
+A Dark Chamber~
+A small torch offers the only light in this room.  The room is made of
+stone and empty.  A single solid looking door to the north seems to be the
+only way out.  
+~
+0 4 0
+D0
+~
+~
+1 0 13866
+S
+#13866
+~
+~
+0 0 0
+D0
+~
+~
+0 0 13867
+D2
+~
+~
+1 0 13865
+S
+#13867
+~
+~
+0 0 0
+D2
+~
+~
+0 0 13866
+D5
+~
+~
+0 0 13868
+S
+#13868
+~
+A dusty set of stairs have led you down into what seems to be the lower
+~
+0 8193 0
+D1
+~
+~
+0 0 13869
+D2
+~
+~
+0 0 13873
+D4
+~
+~
+0 0 13867
+S
+#13869
+~
+~
+0 0 0
+D1
+~
+~
+0 0 13870
+D2
+~
+~
+0 0 13872
+D3
+~
+~
+0 0 13868
+S
+#13870
+~
+~
+0 0 0
+D2
+~
+~
+0 0 13871
+D3
+~
+~
+0 0 13869
+S
+#13871
+~
+~
+0 0 0
+D0
+~
+~
+0 0 13870
+D3
+~
+~
+0 0 13872
+S
+#13872
+~
+~
+0 0 0
+D0
+~
+~
+0 0 13869
+D1
+~
+~
+0 0 13871
+D3
+~
+~
+0 0 13873
+S
+#13873
+~
+~
+0 0 0
+D0
+~
+~
+0 0 13868
+D1
+~
+~
+0 0 13872
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 13806 2 1
+D 0 13810 0 1
+D 0 13811 2 1
+D 0 13818 3 1
+D 0 13819 1 1
+D 0 13819 3 1
+D 0 13820 3 1
+D 0 13821 1 1
+D 0 13822 1 1
+D 0 13823 3 1
+D 0 13824 1 1
+D 0 13825 0 1
+D 0 13825 1 1
+D 0 13825 2 1
+D 0 13825 3 1
+D 0 13827 1 1
+D 0 13828 0 1
+D 0 13829 3 1
+D 0 13830 1 1
+D 0 13830 2 1
+D 0 13854 0 2
+D 0 13854 1 1
+D 0 13854 3 1
+D 0 13855 1 1
+D 0 13855 3 1
+D 0 13856 1 1
+D 0 13856 3 1
+D 0 13857 3 1
+D 0 13858 1 1
+D 0 13864 2 2
+D 0 13865 0 1
+D 0 13866 2 1
+M 1 13800 1 13800 1
+O 0 13808 0 13816
+O 0 13800 0 13816
+O 0 13801 0 13821
+O 0 13801 0 13822
+O 0 13801 0 13824
+O 0 13801 0 13826
+O 0 13801 0 13827
+O 0 13801 0 13828
+O 0 13801 0 13829
+O 0 13805 0 13831
+O 0 13803 0 13832
+O 0 13804 0 13832
+O 0 13810 0 13832
+P 0 13811 1 13810 2
+O 0 13802 0 13833
+O 0 13807 0 13838
+O 0 13816 0 13839
+O 0 13817 0 13839
+O 0 13821 0 13841
+O 0 13820 0 13842
+O 0 13815 0 13843
+O 0 13822 0 13844
+O 0 13823 0 13845
+M 1 13804 1 13846 1
+E 0 13829 0 18
+O 0 13806 0 13850
+M 1 13801 3 13851 3
+M 1 13803 1 13852 1
+E 0 13814 0 9
+M 1 13802 3 13854 3
+O 0 13818 0 13857
+P 0 13819 1 13818 1
+O 0 13809 0 13861
+O 0 13809 0 13862
+O 0 13824 0 13863
+O 0 13809 0 13863
+O 0 13810 0 13863
+O 0 13825 0 13868
+O 0 13825 0 13869
+O 0 13825 0 13870
+O 0 13825 0 13871
+O 0 13826 0 13872
+O 0 13825 0 13873
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

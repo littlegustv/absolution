@@ -1,0 +1,2738 @@
+#AREADATA
+Name Crown of Command~
+Builders None~
+VNUMs 11800 11899
+Credits {15 51} Haver       Crown of Command~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#11800
+dragon king great~
+Spirit of the Dragon King~
+The Spirit of the Dragon King sits on his throne, snorting at you.
+~
+This is indeed an enemy to fear, for there is no living being as huge and
+powerful looking as he.  But doesn't that crown look good?
+~
+unique~
+ABGT DFHO -1000 0
+55 -1 50d10+7000 1d1+100 10d4+23 bite
+-25 -25 -25 -25
+ACEFHKO ABLQ 0 0
+sit stand male 15000
+BX 0 giant 0 the guilds~
+M grall 11800 99~
+#11801
+wolf~
+Wolves of the Talisman~
+The wolf is drooling as it searches for its food.
+~
+Standing 5 feet at the shoulder, there is no doubt this is the largest wolf
+you have ever seen.
+~
+wolf~
+ABFGT Z -1000 0
+48 -2 25d10+3750 1d1+100 6d6+18 chomp
+-18 -18 -18 -18
+FHKNU A 0 0
+stand stand either 7000
+AGHV ABCDEFJKQV large 0 the guilds~
+#11802
+death~
+Death~
+Standing here is Death.
+~
+A bony hand extended from a black tattered robe clutches a scythe.  With the
+shadows cast in its face, it is all you can make out from this dark creature.
+~
+human~
+ABGO BHO -1000 0
+50 0 50d10+4500 20d10+300 5d8+9 slash
+-48 -53 -53 -43
+FGK ABLQR C NY
+stand stand none 1200
+ADHIMV ABCDEFGHIJK medium 0 the guilds~
+#11803
+yjinn scaly~
+scaly Yjinn~
+The scaly yjinn draws his stilletto.
+~
+This cross of a human and a reptile seems to have taken well.  It is hard to
+imagine that any such mixture could have turned out good.  But, then again,
+this one looks pretty evil...
+~
+lizard~
+ABFG Q -1000 0
+45 0 20d10+1000 10d20+0 2d8+3 scratch
+-26 -26 -26 -18
+BEJKR 0 L I
+stand stand either 1000
+AGHMVXac ABCDEFHIJKQV medium 0 the guilds~
+#11804
+cloaked yjinn gursh lizard~
+Gursh~
+This cloaked yjinn looks far more dangerous than the others.
+~
+Another Lizardman, this being is truly cold blooded.  In fact, it really does
+look very pale, almost as if it were dead.  Its lips part, showing unnaturally
+large fangs, covered in a red-brown stain.
+~
+lizard~
+ABGOS OPQb -1000 0
+48 -1 25d10+3750 1d1+100 6d6+18 suction
+-18 -18 -18 -18
+BEFJK AB ILOPQR INX
+stand stand male 2000
+AGHMVXc ABCDEFGHIJKQV medium 0 the guilds~
+#11805
+vorlash demon~
+the demon Vorlash~
+The smouldering eyes of a demon peer at you.
+~
+Wearing a long black cape, this demon's glowing yellow eyes stare around.
+Though he looks like he is asleep, those eyes just follow your every move.
+~
+unique~
+ABOS BHOPQTb -1000 0
+50 0 50d10+4500 1d1+100 5d8+19 wrath
+-20 -20 -20 -20
+DEFK ABQ ILP NRX
+stand stand male 3050
+DHIM ABCEGV large 0 the guilds~
+#11806
+ghost~
+a ghost~
+A ghost haunts here.
+~
+BOO!
+~
+unique~
+ABGO IQZ 0 0
+24 0 5d10+500 1d1+100 2d10+6 chill
+-6 -6 -6 -6
+FG 0 BDFGHI NY
+stand stand none 800
+DIMVc 0 medium 0 the guilds~
+#11807
+great hobgoblin huge brutal~
+a huge hobgoblin~
+A brutal hobgoblin is stalking this area.
+~
+This is the biggest hobgoblin you have ever seen.  What are they feeding it?
+~
+hobgoblin~
+ABGT J -500 0
+25 -2 5d10+550 1d1+100 2d10+7 pound
+-7 -7 -7 -1
+EF 0 LQ 0
+stand stand male 500
+AHMV ABCDEFGHIJKY large 0 the guilds~
+#11808
+black dragon~
+a black dragon's spirit~
+A black dragon's spirit is terrorizing this area.
+~
+The black dragon looks back at you!
+~
+unique~
+ABGT O 0 0
+42 -2 25d10+2250 1d1+100 3d12+14 acbite
+-14 -14 -14 -14
+EFKM K 0 L
+stand stand male 2400
+0 0 huge 0 the guilds~
+#11809
+ghost vile undead jailer~
+the jailer~
+This jailer has returned as a ghost.
+~
+This undead creature saps your will to live.
+~
+unique~
+ABGOR HOU -1000 0
+30 1 6d12+778 6d12+853 5d4+7 none
+-19 -19 -19 -13
+FK IR DH NXYZ
+stand stand either 500
+DHIMVc ABCDEF medium 0 the guilds~
+#11810
+shadow mysterious creature~
+a shadow~
+A mysterious wraith-like creature.
+~
+This rotting creature is translucent.
+~
+unique~
+ABGHO PQU 0 0
+22 1 5d10+400 1d1+100 4d4+6 scratch
+-5 -5 -5 0
+0 0 HI N
+stand stand either 300
+DHIMVc ABCDEF medium 0 the guilds~
+#11811
+spectre~
+a spectre~
+A spectre rests here.
+~
+Tired of haunting, the spectre rests here.
+~
+unique~
+ABGHO 0 -500 0
+25 0 5d10+550 1d1+100 2d10+7 stab
+-7 -6 -7 -1
+FJQ 0 HI N
+rest stand either 800
+BHIMVc ABCDEF medium 0 the guilds~
+#11812
+giant lizard~
+a lizard~
+A giant lizard is skulking in this area.
+~
+This scaly beast is flicking his tongue at you.
+~
+lizard~
+ABGH 0 0 0
+26 0 5d10+600 1d1+100 3d7+7 bite
+-7 -7 -7 -3
+HJ 0 L I
+stand stand either 700
+AGHVXc ABCDEFHKQV large 0 the guilds~
+#11813
+ape~
+an ape~
+An ape is missing from the zoo.
+~
+A hairy brute, you almost feel sorry for the poor thing.  Until it looks at
+you with a quest for food in its eyes.  Then your pity turns to fear for your
+life.
+~
+unique~
+AG 0 0 0
+20 0 3d9+333 1d1+100 2d8+5 punch
+-4 -4 -4 1
+CEFN 0 0 0
+stand stand male 200
+AHMV ABCDEFGHUV large 0 the guilds~
+#11814
+stone giant brutal~
+the stone giant~
+A brutal giant has set up residence in this area.
+~
+The giant is playing with rocks.
+~
+giant~
+ABGT NO -200 0
+35 -3 10d10+1300 1d1+100 4d7+11 smash
+-11 -11 -11 -11
+DEFJKO 0 HI JP
+stand stand male 2000
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#11815
+shade shadow~
+a shade~
+A shadow is lurking in the dark corners of this area.
+~
+A figure of a man holds his head in his hand.
+~
+human~
+ABGOQ 0 -200 0
+23 0 5d10+450 1d1+100 3d6+6 scratch
+-6 -6 -6 0
+0 0 HI N
+stand stand male 500
+ADHIMV ABCDEFGHIJK medium 0 the guilds~
+#11816
+grey wolf~
+a grey wolf~
+A vicious wolf dwells in this area.
+~
+The wolf throws back his head and howls.
+~
+wolf~
+ABG Z 0 0
+22 1 5d10+400 1d1+100 4d4+6 bite
+-5 -5 -8 0
+FHR 0 0 0
+stand stand either 0
+AGHMV ABCDEFJKQV medium 0 the guilds~
+#11817
+gargoyle~
+stone gargoyle~
+A gargoyle is scaring and preying on everyone in this area.
+~
+The stony visage of this gargoyle will haunt your dreams tonight.
+~
+unique~
+ABGT Z -600 0
+31 -1 6d12+928 1d1+100 4d6+9 claw
+-10 -10 -10 -10
+FIK 0 FG E
+stand stand male 1000
+HMV ABCDEF large 0 the guilds~
+#11818
+lich undead~
+a lich~
+A lich stands here, preparing spells.
+~
+This lich is drooling with the thoughts of chewing your bones.
+~
+unique~
+ABGOQ OZ -1000 0
+25 0 5d10+550 5d10+500 2d10+6 drain
+-7 -7 -7 -2
+K BP FGHI NY
+stand stand male 1200
+DHIMVc ABCDEF medium 0 the guilds~
+#11819
+cave troll~
+a cave troll~
+A cave troll stands here, working on building a cave.
+~
+This troll is irrate at being interrupted.
+~
+troll~
+ABFGS DJZ -1000 0
+30 0 6d12+853 3d9+208 4d6+8 pound
+-9 -9 -9 -1
+BF 0 Q H
+stand stand male 500
+BHMZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+#11820
+chinese dragon~
+a chinese dragon spirit~
+The chinese dragon spirit is very long, but rather slim.
+~
+The chinese dragon is very long, but rather slim.
+~
+centipede~
+ABFGR TZc -500 0
+40 -1 15d10+1850 1d1+100 4d8+13 claw
+-13 -13 -13 -13
+AFHM 0 FI EF
+stand stand none 6000
+ABGHMOVZ ABCDEFKPQUW giant 0 the guilds~
+#11821
+golem~
+a golem~
+A monstrous golem is listening to his master.
+~
+Standing over 7 feet tall, this pitiful being is enslaved to do the bidding of
+his master.  A lot of crude stitches were used to hold him together.
+~
+troll~
+ABGO Ja 0 9922
+40 0 15d10+1850 1d1+100 4d8+13 punch
+-13 -13 -13 -13
+FPU Q Q H
+stand stand none 100
+BHMZ ABCDEFGHIJKLPQUVWX large 0 the guilds~
+#11822
+summoner master~
+a summoner~
+A summoner sits in a chair, talking to his golem.
+~
+His flowing grey beard is covered in the chalk that he used to make his
+pentagram.  Evil intent is visible in his scowl as he concentrates to hold his
+power over the demon in the pentagram.
+~
+elf~
+ABGR HJNOc -1000 0
+40 1 15d10+1850 1d1+100 4d8+13 shock
+-13 -13 -13 -13
+G Q BEP Z
+sit stand male 2500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11823
+vampire bat~
+vampire bats~
+A swarm of vampire bats swoop down upon you.
+~
+With fangs about an inch long, your neck feels rather vulnerable.
+~
+bat~
+AFG DFJTZc -1000 0
+24 0 5d10+500 1d1+100 2d10+6 bite
+-6 -6 -6 -6
+BFHPR 0 0 S
+stand stand either 0
+AGHMV ABCDEFHJKP medium 0 the guilds~
+#11824
+bandit~
+a bandit~
+A bandit is marauding in this area.
+~
+A man with a sword asks for your purse.
+~
+human~
+ABG Pc -400 0
+20 0 3d9+333 2d7+121 2d8+5 punch
+-4 -4 -4 0
+BFKN 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11825
+wraith~
+the wraith~
+A wraith is wreaking havoc in this area.
+~
+All you can see inside the hooded cloak are glowing eyes.  A fetid smell
+surrounds the being.
+~
+unique~
+ABGO HZc -1000 0
+25 0 5d10+550 5d10+550 2d10+7 slice
+-7 -7 -7 0
+EF 0 HI NY
+stand stand male 200
+AHIMVc ABCDEF medium 0 the guilds~
+#11826
+demon~
+a demon~
+A demon has been summoned from the underworld.
+~
+A massive brute, the heat coming off him can speak of the energy he possesses.
+~
+unique~
+ABCGO DFJLOXZc -2000 0
+55 -2 50d10+7000 50d10+4500 10d4+23 crush
+-25 -25 -25 -18
+CEF ABMQ CHIJKLP NSXY
+stand stand male 1000
+ABHMV ABCDEFW giant 0 the guilds~
+#11827
+ogre~
+a large ogre~
+A large ogre has decided this area is easy pickings.
+~
+Related to the giant, this ogre is tough skinned.
+~
+giant~
+ABG c -200 0
+23 0 5d10+450 2d8+134 3d6+6 beating
+-6 -6 -6 -2
+CFJ 0 HI JP
+stand stand male 1200
+AHMV ABCDEFGHIJK large 0 the guilds~
+#11828
+berserker madman~
+a berserker~
+A madman swings an axe around.
+~
+This guy is ticked at something.  Better get out of his way.
+~
+human~
+ABFGT ac 200 0
+19 -1 3d9+308 1d1+100 2d7+5 smash
+-4 -4 -4 -4
+CDEFP 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#11829
+griffin~
+a griffin~
+A griffin has made its home here in the chasm.
+~
+Body of a lion and head and wings of an eagle, this is a formidable creature,
+guarding its nest.
+~
+wyvern~
+ABFG DFTc 300 0
+28 -1 6d12+703 1d1+100 2d12+8 claw
+-8 -8 -8 -8
+CFHP L C HS
+stand stand either 300
+ABGHMVZ ABCDEFHJKPQUVX large 0 the guilds~
+#11830
+great serpent huge~
+a great serpent~
+A huge serpent seems to be able to fight the whirlpool.
+~
+This scaly beast coils itself around your boat.
+~
+snake~
+ABG bc 0 0
+25 -1 5d10+550 3d9+308 2d10+7 bite
+-7 -7 -7 0
+FH R L I
+stand stand either 0
+AGHMXYc ABCDEFKLQVX huge 0 the guilds~
+#11831
+serpent~
+a serpent~
+A serpent rises from the bottom of the water.
+~
+This scaly beast prepares to wrap around you.
+~
+snake~
+ABG bc 0 0
+20 0 3d9+333 1d1+100 2d8+5 bite
+-4 -4 -4 1
+FH R L I
+stand stand either 0
+AGHMVXYc ABCDEFKLQVX large 0 the guilds~
+#11832
+zombie~
+a zombie~
+A rotting zombie wanders in this space.
+~
+Parts of their flesh sloughs away from their bodies.
+~
+human~
+AGO c 0 0
+21 -1 4d10+360 1d1+100 4d4+5 chomp
+-4 -4 -4 0
+JP PQ IL GHN
+stand stand either 0
+ABHIMV ABCDEFGHIJK medium 0 the guilds~
+#11833
+black knight man~
+the black knight~
+A large man in black armor prepares for battle.
+~
+Probably the deadliest warrior you have ever seen, dressed all in black,
+looks very prepared to draw and quarter you personally.
+~
+giant~
+ABCGT HNO -1000 0
+51 -2 50d10+5000 1d1+100 5d8+20 slash
+-21 -21 -21 -21
+BEFHJK ABP CHI JP
+stand stand male 2200
+AHMV ABCDEFGHIJK large 0 the guilds~
+#11834
+great hobgoblin huge brutal~
+a huge hobgoblin~
+A brutal hobgoblin is stalking this area.
+~
+This is the biggest hobgoblin you have ever seen.  What are they feeding it?
+~
+hobgoblin~
+ABGT J -500 0
+25 2 5d10+550 1d1+100 2d10+7 smash
+-7 -7 -7 -1
+EF 0 LQ 0
+stand stand male 500
+AHMV ABCDEFGHIJKY large 0 the guilds~
+#11835
+Felisha~
+Felisha~
+Haver's personnal nurse, Felisha is a dedicated servant.
+~
+Although retired from adventuring, the healer still lends a hand for a
+large price.  Type 'heal' to see what he has to offer.  
+~
+human~
+ABa DFH 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+FHIK ACDK 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#11800
+Talisman~
+a talisman~
+A bright platinum talisman is here.  Who knows what it will open.~
+platinum~
+key AUW AC
+0 0 0 0 0
+40 500 3000 P
+A
+17 5  
+A
+13 25  
+#11801
+raft~
+a raft~
+A bamboo raft lies here.~
+bamboo~
+boat S A
+0 0 0 0 0
+0 300 300 A
+#11802
+bag of carrying~
+a bag of carrying~
+A magic bag is much larger than it appears.~
+satin~
+container GM AM
+50 AB 0 5 25
+5 10 1200 P
+A
+1 1  
+#11803
+golden statue~
+a golden statue~
+A valuable relic lies here.~
+gold~
+treasure W A
+0 0 0 0 0
+0 100 2000 P
+#11804
+amulet of spells~
+amulet of spells~
+An amulet with the face of a mage on it lies here.~
+adamantite~
+jewelry AGT AC
+0 0 0 0 0
+15 10 1500 P
+A
+24 -2  
+A
+23 -2  
+A
+12 10  
+#11805
+helm of bone~
+helm of bone~
+A helmet sculpted of bone lies here.~
+bone~
+armor 0 AE
+5 6 5 1 1
+12 40 1200 P
+A
+19 1  
+#11806
+glass shield~
+a glass shield~
+A see through shield looks fragile.  Handle with care.~
+glass~
+armor G AJ
+5 5 5 2 3
+15 50 1500 P
+A
+13 10  
+A
+17 -3  
+#11807
+water bottle~
+a water bottle~
+A water bottle is covered in ash.~
+hard leather~
+drink Y A
+5 5 'water' 0 0
+0 15 30 P
+#11808
+berserking axe~
+a berserkers axe~
+A sharp axe is quivering with energy here.~
+steel~
+weapon G AN
+axe 2 7 slash DF
+19 90 2500 P
+A
+18 2  
+A
+19 1  
+#11809
+field plate~
+suit of field plate~
+A suit of black armor absorbs all light.~
+ebony~
+armor BEJLMSTY AD
+11 11 11 3 5
+48 50 3000 P
+A
+9 10  
+A
+13 25  
+A
+14 -25  
+A
+24 -2  
+#11810
+golden brooch~
+golden brooch~
+A glimmering golden brooch lies here.~
+porcelain~
+trash AG AC
+0 0 0 0 0
+20 80 0 P
+#11811
+crystal of power~
+a crystal of power~
+A gleaming crystal lies on the ground.~
+crystal~
+gem AFGY AO
+0 0 0 0 0
+40 10 1000 P
+A
+3 2  
+A
+12 15  
+A
+19 1  
+#11812
+iron cross~
+an iron cross~
+A rusted iron cross lies in the dirt.~
+iron~
+weapon ALd AN
+flail 2 4 pound 0
+10 50 10 P
+A
+19 1  
+A
+24 -2  
+#11813
+ancient artifact~
+an ancient artifact~
+A long staff with a curiously shaped head lies here.~
+wood~
+weapon AG AN
+polearm 3 9 crush CG
+40 40 1400 P
+A
+18 2  
+#11814
+staff mystery~
+a staff of mystery~
+A carved pole lies here.~
+wax~
+staff AGHMZ AO
+5 10 10 'charm person' 0
+40 150 0 P
+A
+17 -10  
+A
+9 -10  
+#11815
+belt strength~
+a belt of strength~
+A strong red leather belt lies here.~
+kid leather~
+armor FG ALY
+9 9 8 4 0
+30 50 500 P
+A
+1 3  
+#11816
+blessed lance~
+a blessed lance~
+A lance with a blood stained tip lies here.~
+mithril~
+weapon Aa AN
+polearm 6 5 pierce BF
+40 300 4000 P
+A
+19 1  
+A
+18 1  
+#11817
+runed flail~
+a runed flail~
+A flail marked with magic runes lies here.~
+ivory~
+weapon GL AN
+flail 3 4 pound G
+18 80 600 P
+A
+18 -1  
+#11818
+rod of ruin~
+a rod of ruin~
+A black rod of coal with an emerald skull head lies here.~
+coal~
+weapon BEJ AN
+mace 9 3 crush FH
+40 200 1000 P
+#11819
+holy grail~
+a holy grail~
+A chipped clay grail lies here.~
+clay~
+drink GKY AO
+20 2 'water' 0 0
+10 10 100 W
+A
+5 1  
+A
+24 -2  
+#11820
+winged boots~
+a pair of feathered boots~
+A pair of feathered boots lie here.~
+ebony~
+armor 0 AG
+9 9 9 6 0
+48 50 500 P
+A
+14 30  
+A
+18 2  
+A
+2 1  
+#11821
+solomons crown~
+Solomon's crown~
+A royal crown lies in the ash.~
+gold~
+armor G AE
+7 7 7 4 3
+25 50 5000 D
+A
+4 2  
+A
+3 2  
+#11822
+wand of light~
+a wand of light~
+A gold tipped brass wand glows.~
+brass~
+wand CFGJK AO
+35 2 2 'chain lightning' 0
+35 500 1500 P
+A
+12 -20  
+#11823
+thin ring~
+a thin ring~
+A thin band of platinum is ground into the dirt.~
+platinum~
+jewelry FG AB
+0 0 0 0 0
+18 10 1000 P
+A
+19 1  
+A
+3 1  
+A
+1 1  
+#11824
+orb of knowledge~
+the orb of knowledge~
+A large ball of crystal sits on a small stand.~
+crystal~
+staff AG AO
+30 5 5 'farsight' 0
+35 200 3500 P
+A
+4 1  
+A
+3 1  
+#11825
+pine casket~
+a casket~
+A pine casket stands here, just the right size for YOU.~
+wood~
+container A A
+300 AC 0 50 60
+0 600 200 P
+#11826
+bottle broken potion strength~
+a broken bottle~
+A broken bottle lies here, somehow holding a thick liquid.~
+glass~
+potion 0 A
+5 'shield' 'giant strength' '(null)' 'stone skin'
+15 20 150 W
+#11827
+encrusted key~
+an encrusted key~
+A nitrate encrusted key is here.~
+bronze~
+key UW A
+0 0 0 0 0
+0 50 0 R
+#11828
+jailers key~
+a jailer's key~
+A key with a tag marked 'Cell Block' lies here.~
+iron~
+key 0 A
+0 0 0 0 0
+0 50 0 P
+#11829
+bookshelf~
+a bookshelf~
+A large bookshelf with shattered glass doors lines the wall.~
+wood~
+container O 0
+50 AC 0 50 100
+0 5000 0 P
+#11830
+desk~
+a desk~
+An oak desk sits here.~
+wood~
+container 0 0
+50 AC 0 50 100
+0 5000 0 P
+#11831
+four poster bed~
+a four poster bed~
+A four poster bed sits alongside the wall.~
+feathers~
+furniture 0 0
+3 5000 IL 100 100
+0 5000 0 P
+#11832
+pool fountain life~
+the pool of life~
+A glimmering pool of clear water is here.~
+stone~
+fountain AO Y
+10000 10000 'water' 0 0
+0 200 0 P
+#11833
+scythe key~
+a miniature scythe~
+A miniature scythe has fallen to the ground here.~
+bone~
+key CPU A
+0 0 0 0 0
+20 50 15000 P
+#11834
+scale key~
+a lizard scale~
+An oddly shaped lizard scale has been left behind.~
+snakeskin~
+key CPUY A
+0 0 0 0 0
+20 10 15000 P
+#11835
+fang tooth bloody~
+a bloody tooth~
+A bloody tooth, knocked loose in battle, lies here.~
+air~
+key CFP ANY
+0 0 0 0 0
+20 10 15000 P
+#11836
+crown command~
+the crown of command~
+Intracately woven bands of gold and platinum make a crown fit for a god.~
+gold~
+armor AGTY AEY
+12 12 12 12 0
+50 200 4000 P
+A
+12 10  
+A
+19 2  
+A
+3 2  
+#11837
+black cape~
+a black cape~
+A flowing black cape is folded here.~
+silk~
+armor B AC
+7 7 7 3 2
+45 15 1300 P
+A
+17 -2  
+A
+24 -1  
+#11838
+vest~
+a tuxedo vest~
+A black tuxedo vest looks like a perfect fit for you.~
+cotton~
+armor B AK
+9 9 9 4 1
+48 50 1800 P
+A
+23 -2  
+A
+2 3  
+#11839
+pants~
+tuxedo pants~
+A pair of pressed tuxedo pants are a rare find.~
+cotton~
+armor E AF
+12 12 12 12 1
+49 30 2400 P
+A
+19 1  
+A
+5 2  
+#11840
+stilleto pin dagger knife~
+'Pin'~
+A sharp knife called 'Pin' is here.~
+ivory~
+weapon AE AN
+dagger 5 7 stab C
+50 10 1500 P
+A
+19 1  
+A
+18 3  
+#11841
+spear stick~
+a long spear~
+A sharpened stick lies here.~
+wood~
+weapon 0 AN
+exotic 4 9 pierce F
+40 50 500 P
+A
+18 3  
+#11842
+scythe~
+Death's Scythe~
+A wicked looking scythe gleams with fresh blood.~
+stone~
+weapon S AN
+exotic 4 10 none FG
+48 500 1200 R
+A
+9 5  
+A
+18 2  
+#11843
+robe long~
+a long robe~
+A long black robe has fallen here.~
+wool~
+armor HMTY AD
+12 12 12 -4 5
+48 40 1200 P
+A
+19 -2  
+A
+2 -3  
+#11844
+scale suit torso plate breast~
+Dragon torso~
+A breast plate made of dragon scales is piled here.~
+black dragonscale~
+armor ASY AK
+12 12 12 8 5
+50 750 7500 P
+A
+24 -3  
+A
+23 -3  
+#11845
+wings~
+set of huge wings~
+A set of huge black wings lie here.~
+soft leather~
+armor SY AH
+5 5 5 0 5
+48 400 480 P
+A
+19 2  
+A
+18 2  
+#11846
+great sword~
+a great sword~
+A huge sword carved from the rib of a god lies here.~
+bone~
+weapon BS AN
+sword 5 8 cleave A
+50 400 5000 P
+A
+19 1  
+A
+1 1  
+A
+18 1  
+#11847
+book spine~
+the spine of a book~
+All that remains of this book is a spine.~
+paper~
+key 0 A
+0 0 0 0 0
+0 10 0 P
+#11880
+axe haver wrath~
+Haver's Wrath~
+A furiously screaming axe vibrates 1 the floor~
+adamantite~
+weapon 0 AN
+axe 9 9 pierce ACH
+54 0 10000 P
+A
+19 5  
+A
+18 15  
+A
+19 15  
+A
+18 5  
+#11881
+necklace collar~
+Collar of the Gods~
+A decorative necklace hums with power~
+platinum~
+armor 0 AC
+30 30 30 30 0
+54 10 10000 P
+A
+19 5  
+A
+18 5  
+A
+13 50  
+A
+12 50  
+#11882
+thermal underwear long~
+long underwear~
+You see a set of thermal underwear here.~
+A
+oldstyle~
+armor A AD
+20 20 20 20 0
+54 40 13700 P
+A
+19 5  
+A
+18 2  
+#11883
+streamer~
+Party Streamer~
+A bright pink party streamer floats to the ground at your feet.~
+paper~
+scroll 0 A
+3 'cure serious' '(null)' '(null)' '(null)'
+0 10 1000 P
+#11884
+bright gem~
+{WB{Rr{Ii{Gg{Mh{Bt{x gem~
+A {WB{Rr{Ii{Gg{Mh{Bt{x gem glitters in the dust.~
+glass~
+gem A A
+0 0 0 0 0
+0 10 1000 P
+#0
+
+
+
+#ROOMS
+#11800
+Crown of Command~
+You have reached the pinnacle of the mountain in the crater.  Before you
+rises a great throne standing over forty feet tall.  It is constructed from
+the bones of other fallen would-be heroes and encrusted with the battered
+armor they once wore.
+   You peer up and look at the Crown.  The only problem is, you will have to
+kill the Dragon King to get it.
+~
+0 8200 9
+D5
+The crater smoulders below you.
+~
+~
+0 0 11801
+M 0 H 0
+S
+#11801
+Valley of Fire~
+The heat emanating from this valley would make a red dragon sweat.  Molten
+lava pours forth from the earth and pools in great rifts, while sulfur leaks
+from the vents in the canyon walls.
+  Your eyes water as you look up to the end of the canyon, to your destiny.
+Hopefully you will make it there alive.
+~
+0 8200 5
+D1
+A den of wolves lies to the east.
+~
+~
+0 0 11802
+D3
+A large door bars the way west.
+~
+gate~
+4 11834 11804
+D4
+A throne floats above you.
+~
+~
+0 0 11800
+M 50 H 50
+S
+#11802
+The Den~
+Here, there is the stench of wet dogs.  All around you are the homes of the
+great Wolves of the Talisman.  There are so many that you fear you will have
+to have a flea bath, if you live through the attack of the wolves that now
+face you.
+~
+0 8 5
+D2
+The stench of death drifts from the south.
+~
+gate~
+4 11833 11803
+D3
+The crater smoulders to the west.
+~
+~
+0 0 11801
+M 70 H 70
+S
+#11803
+A Date with Death~
+As far as you can see, lies dust.  Any stirring of the wind is not welcome,
+as little dust devils spin up, obscuring any view of the bleak area.  To the
+north is a great gate, a massive keyhole in the center.
+~
+0 0 5
+D0
+The howling of wolves can be heard to the north.
+~
+gate~
+4 11833 11802
+D2
+Lava conceals a cairn to the south.
+~
+~
+0 -1 11811
+M 70 H 70
+S
+#11804
+The Pits~
+This dark, dank pit has a rank odor to it, smelling of fish.  Through the
+dim light, shadows fleet and ripples can be seen in the nearly stagnant water.
+   You have a feeling that the breathing you feel on the back of your neck is
+bad, and are pretty sure of it when you hear the whisper of steel on leather
+as a weapon is drawn...
+~
+0 262153 6
+D1
+The crater smoulders to the east.
+~
+gate~
+4 11834 11801
+D2
+A tower lies to the south.
+~
+door~
+1 -1 11805
+M 70 H 70
+S
+#11805
+Vampire's Tower~
+You stand in the lower level of the infamous Tower of Vorlash.  Known as a
+ruthless killer, he built this massive Aerie from which he ventures at night,
+to feed on the hapless inhabitants in the surrounding rural areas.
+   An archway with a large oaken door can be seen to the north, while a
+beautiful ebony staircase rises to the next level.  To the south is a carved
+archway, leading into a tunnel.
+~
+0 9 0
+D0
+A smell of fish emanates from the north.
+~
+oaken~
+1 -1 11804
+D2
+A travelled path leads south.
+~
+~
+0 -1 11809
+D4
+An ebony staircase leads up.
+~
+~
+0 -1 11806
+M 70 H 70
+S
+#11806
+The Ebony Staircase~
+A landing is here, with windows facing the mountain.  A red glow lights
+the hazy, smoky clouds to the north.  A faint smell of sulfur hangs in the
+air.  Only darkness is visible above you, though you feel the presence of
+evil in the air.  
+~
+0 262153 0
+D0
+~
+door~
+1 -1 11807
+D4
+~
+trap door~
+1 11835 11808
+D5
+~
+~
+0 -1 11805
+M 50 H 40
+S
+#11807
+Servants Room~
+This is the living quarters for the lone servant of Vorlash.  Gursh is a
+very privileged lizardman indeed, for he has been given everlasting life, as
+a vampire.
+~
+0 8 0
+D2
+~
+door~
+1 -1 11806
+S
+#11808
+The Chamber~
+You realize now that you have heard stories about Vorlash.  They told of a
+demon who was obsessed with the taste of blood.  That he has created a lair
+that was unassailable by mortal armies, because they could not fly.  This is
+not a time to get squeamish, though, because he is upon you!
+~
+0 9 9
+D5
+~
+trap door ~
+1 11835 11806
+M 85 H 80
+S
+#11809
+The Tunnel~
+An old lava tunnel leads into the darkness before you.  It takes many
+twists and turns, with smaller branches leading off in all directions.  There
+are drag marks on the floor, made by an unknown source, that show the true
+path, deeper into the mountain.
+~
+0 8 5
+D0
+The true path leads north.
+~
+~
+0 -1 11805
+D1
+A tunnel leads to the east.
+~
+~
+0 -1 11810
+M 50 H 50
+S
+#11810
+Plains of Peril~
+Past the Ridge of Death, you stand inside the ringed mountains, only to
+look at a smoldering volcano before you.  To the west is a tunnel leading
+into the back spine of the mountain.  To the east, the path leads to a cairn
+on the rising path that leads that way.
+   This must be the place that the legends were about, for only here can it
+truly be hell above earth. Selina help you...
+~
+0 0 5
+D1
+Lava conceals a cairn to the east.
+~
+~
+0 -1 11811
+D3
+A tunnel leads off to the west.
+~
+~
+0 -1 11809
+D5
+A tunnel leads out of the volcano.
+~
+gate~
+4 11800 11812
+S
+#11811
+The Crypt~
+This ancient cairn has almost been covered by the flow of lava from the
+volcano.  A single sarcophagos lies in the center of the room, its lid thrown
+to the side by its inhabitant.
+~
+0 8 0
+D0
+The stench of death drifts from the north.
+~
+~
+0 -1 11803
+D3
+A path leads down to the Plains of Peril.
+~
+~
+0 -1 11810
+M 50 H 50
+S
+#11812
+Portal of Power~
+At last!  You have found an access to the foothills of the volcano.  Watch
+your step though, for Death awaits your visit, just around the corner.
+~
+0 0 5
+D0
+The remains of a castle lies to the north.
+~
+~
+0 -1 11832
+D3
+A battle ground lies to the west.
+~
+~
+0 -1 11813
+D4
+A tunnel leads up into the volcano.
+~
+gate~
+4 11800 11810
+S
+#11813
+The Black Knight~
+To the north and east lie the mountains that surround the volcano.  A black river lies to the south.
+~
+0 0 4
+D1
+A plain lies to the east.
+~
+~
+0 -1 11812
+D3
+A small grove of trees lie to the west.
+~
+~
+0 -1 11814
+S
+#11814
+Hidden Valley~
+It is strange to find such a lush area here, with the smoking volcano to
+the north.  Very little ash can be seen here.  Trees line a path that runs
+east-west.
+~
+0 0 4
+D1
+A battle ground lies to the east.
+~
+~
+0 -1 11813
+D3
+A path leads into the hills on the west.
+~
+~
+0 -1 11815
+S
+#11815
+Hills~
+These hills are rather tall and the tops of them are very rocky, covered
+in the fallout from the smouldering volcano.  The footing is very treacherous
+and you must be sure to look where you are going.  Far below to the south is
+a smelly black river.
+~
+0 0 4
+D1
+A small grove of trees lie to the east.
+~
+~
+0 -1 11814
+D3
+A small group of dead trees lie to the west.
+~
+~
+0 -1 11816
+S
+#11816
+Cursed Glade~
+Nothing that grows here is normal.  All things are covered in a heavy
+layer of ash, and the constant smell of sulfur burns your eyes.  Trees and
+bushes are abundant here, but none grow any higher than a human, and all are
+twisted into painful contortions.  
+~
+0 4 4
+D0
+A path leads north.
+~
+~
+0 -1 11817
+D1
+A path leads into the hills on the east.
+~
+~
+0 -1 11815
+M -20 H -20
+S
+#11817
+Runes~
+The path that runs alongside the river here passes beneath an ancient stone
+archway.  There is writing on the archway.
+~
+0 0 4
+E
+archway~
+Beware the dangers of the Chasm.~
+D0
+A path leads into a rocky area north.
+~
+~
+0 -1 11818
+D2
+A small group of dead trees lie to the south.
+~
+~
+0 -1 11816
+S
+#11818
+The Chasm~
+A deep chasm is located here.  Once a canyon ran through the mountains to
+the east, but that end has filled with boulders.  The river cascades down to
+the smoking depths from both the northwest and southwest.  A path leads down
+the steep side here.
+~
+0 0 5
+D2
+A path leads south.
+~
+~
+0 -1 11817
+D5
+A steep path leads down the wall of the chasm.
+~
+~
+0 -1 11819
+S
+#11819
+Bottom of the Chasm~
+An arduous trek down the cliff side has led you to the bottom of the
+chasm.  To the east is a wall of boulders that seems impassible.  To the west
+is a large lake that is fed by the cascading rivers, a sound that is all but
+deafening from this distance.  The path continues north.
+~
+0 1 5
+D0
+A path leads north.
+~
+~
+0 -1 11820
+D3
+A large lake is formed by the river west of here.
+~
+~
+0 -1 11823
+D4
+A steep path climbs the wall of the chasm.
+~
+~
+0 -1 11818
+S
+#11820
+Bottom of the Chasm~
+An arduous trek down the cliff side has led you to the bottom of the chasm.
+To the east is a wall of boulders that seems impassible.  To the west is a
+large lake that is fed by the cascading rivers, a sound that is all but
+deafening from this distance.  The path continues south.
+~
+0 1 5
+D2
+A path leads south.
+~
+~
+0 -1 11819
+D3
+A large lake is formed by the river west of here.
+~
+~
+0 -1 11823
+D4
+A steep path climbs the wall of the chasm.
+~
+~
+0 -1 11821
+S
+#11821
+The Chasm~
+A deep chasm is located here.  Once a canyon that ran through the mountains
+to the east, that end has filled with boulders.  The river cascades down to
+the smoking depths from both the northwest and southwest.  A path leads down
+the steep side here.
+~
+0 0 5
+D0
+A path leads north.
+~
+~
+0 -1 11822
+D5
+A steep path descends into the chasm.
+~
+~
+0 -1 11820
+S
+#11822
+Runes~
+The path that runs alongside the river here passes beneath an ancient
+stone archway.  There is writing on the archway.
+~
+0 0 4
+E
+archway~
+Beware the dangers of the Chasm.~
+D0
+~
+~
+0 -1 11824
+D2
+~
+~
+0 -1 11821
+S
+#11823
+The Lake~
+AAARRRGG!!  The rivers cascading down into this room not only smell awful,
+but they have created a swirling whirlpool that has trapped your craft.  You
+will never escape this area with your life!
+~
+0 4 7
+S
+#11824
+Outside the cave~
+The hills here are quite steep and covered in ash.  The plume of the great
+volcano is carried by the wind to the west of here.  A very large boulder
+sits precariously on the hillside above you.
+~
+0 0 4
+E
+boulder~
+Looking precarious, you notice that it sits in a rut.~
+D1
+~
+~
+0 -1 11826
+D2
+~
+~
+0 -1 11822
+D4
+~
+boulder~
+1 -1 11825
+S
+#11825
+The cave~
+This small cave is very clean and contains very fine furniture.  The man
+sitting in the chair by the pentagram obviously has good taste and prefers
+the comfortable life.
+~
+0 8 0
+D5
+~
+boulder~
+1 -1 11824
+S
+#11826
+Rolling dunes~
+This area lies directly under the plume of the volcano, which is carried
+by the prevailing wind from the south.  Your feet sink deep into the ash,
+which the wind blows into dunes, making the landscape ever changing.
+~
+0 0 10
+D1
+~
+~
+0 -1 11827
+D3
+~
+~
+0 -1 11824
+M 30 H 30
+S
+#11827
+An oasis~
+A pool of life bubbles here.  It is the first clear water you have seen
+in days.  While there is still no sign of vegetation here, the boulders that
+surround this pool protect it from the wind and small animal tracks can be
+seen in the dust.
+~
+0 1024 10
+D1
+~
+~
+0 -1 11828
+D3
+~
+~
+0 -1 11826
+S
+#11828
+Dusty desert~
+Wind has blown heaps of ash here from the south.  It is difficult to see
+anything more than a couple of feet in front of you, and the dirt is getting
+all through your gear.
+~
+0 0 10
+D1
+~
+~
+0 -1 11829
+D3
+~
+~
+0 -1 11827
+M 0 H 0
+S
+#11829
+Ruined temple~
+An ancient temple entrance is here, half buried in the ash.  Above the
+door can be seen a new carving of the head of a great dragon.  Is this the
+likeness of the Great Dragon that destroyed the temple of Selina?  If so,
+maybe you should turn back now, for your life is in obvious danger.
+~
+0 0 10
+D2
+~
+~
+0 -1 11830
+D3
+~
+~
+0 -1 11828
+D5
+~
+grate~
+2 11827 11833
+S
+#11830
+A wooded depression~
+A shallow depression is here, free of ash.  Many trees are struggling to
+grow here amongst the rocks.  Few are succeeding to gain that tangible
+foothold.
+~
+0 0 3
+D0
+~
+~
+0 -1 11829
+D2
+~
+~
+0 -1 11831
+S
+#11831
+The monolith~
+A large black spike of adamantite stabs into the sky here.  The tip can
+barely be seen far above in the smog of the volcano.
+~
+0 0 4
+E
+monolith~
+This towering black chunk of adamantite seems to have burst for the sky right
+out of the ground.  Its perfectly smooth surface gives off no gleam and is 
+warm to the touch.~
+D0
+~
+~
+0 -1 11830
+D2
+~
+~
+0 -1 11832
+S
+#11832
+A castle~
+The cellar is all that remains of the castle that once guarded the pass to
+the mountain from here.  Only a great being could have caused such destruction.
+No sign of the original inhabitants can be seen.  Perhaps the giant will
+answer your questions.
+~
+0 0 4
+D0
+~
+~
+0 -1 11831
+D2
+~
+~
+0 -1 11812
+M 50 H 50
+S
+#11833
+End of the tunnel~
+The tunnel seems to end here.  There are a few items on the ground here.
+At least you did not waste your time coming all this way.
+~
+0 9 0
+D1
+~
+heavy door~
+1 -1 11834
+D4
+~
+grate~
+2 11827 11829
+S
+#11834
+A cavern~
+The walls here open up into a very large natural cavern.  Coffins line the
+walls and figures can be seen milling about in the shadows.
+~
+0 8 8
+D0
+~
+~
+0 -1 11835
+D3
+~
+heavy door~
+1 11827 11833
+S
+#11835
+The corridor continues~
+The roughly hewn corridor leads you around the corner.  The dust has not
+been disturbed by any living creature for a long time.
+~
+0 8 0
+D2
+~
+~
+0 -1 11834
+D3
+~
+~
+0 -1 11836
+S
+#11836
+The kitchen~
+This must have been the place where corpses were prepared for burial at
+one time, but now some fiend has set up house here and uses the scalpels to
+feed upon the dead.
+~
+0 8 0
+D1
+~
+~
+0 -1 11835
+D3
+~
+~
+0 -1 11837
+S
+#11837
+The corridor continues~
+The roughly hewn corridor leads you around the corner.  The smell of
+rotting flesh hangs heavily on the air here.
+~
+0 8 0
+D1
+~
+~
+0 -1 11836
+D2
+~
+~
+0 -1 11838
+S
+#11838
+The corridor continues~
+The roughly hewn corridor leads you to the north.
+~
+0 8 0
+D0
+~
+~
+0 -1 11837
+D2
+~
+~
+0 -1 11839
+S
+#11839
+A patch of darkness~
+Only the echos in this room let you know where the walls are.  But are you
+alone?
+~
+0 8201 0
+D0
+~
+~
+0 -1 11838
+D1
+~
+~
+0 -1 11840
+M 50 H 50
+S
+#11840
+A small cavern~
+Here is a small cavern.  Many oak pillars were used at one time to support
+the ceiling.  A partial collapse in the west end of the room all but obscures
+the exit.
+~
+0 8200 0
+D1
+~
+~
+0 -1 11841
+D3
+~
+~
+0 -1 11839
+S
+#11841
+A wet corridor~
+The walls of this corridor are seeping water slowly.  A white crystal
+grows from the rock and you realize that it may be explosive.  Watch your
+torch!
+~
+0 8 0
+D1
+~
+~
+0 -1 11842
+D3
+~
+~
+0 -1 11840
+S
+#11842
+Torture Chamber~
+This room is littered with objects of torture.  Iron maidens and shackles
+line the walls.  Skeletons with crushed bones litter the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11843
+D3
+~
+~
+0 -1 11841
+S
+#11843
+Cavern~
+This cavern shows signs of having been excavated quite a bit.  Shackles
+line the walls to hold the prisoners before they were taken to the torture
+chambers.  Whips that were used to enliven the prisoners lie on the floor
+rotting.
+~
+0 8 0
+D0
+~
+~
+0 -1 11844
+D2
+~
+~
+0 -1 11842
+S
+#11844
+The tunnel~
+This tunnel has been framed in with huge timbers.  It is hard to imagine
+the weight of the stone that these ancient beams are holding up.  As long as
+they do not let go right away, you have a chance to live for a little longer.
+~
+0 8 0
+D0
+~
+~
+0 -1 11845
+D2
+~
+~
+0 -1 11843
+S
+#11845
+Jailer's Room~
+This room contains a desk that the jailer sat behind, waiting for the
+executioner to call for the next victim.  A haunting howl leaves you
+wondering if there are any victim's ghosts in the area.  
+~
+0 8 0
+D0
+~
+door jail cell~
+1 11828 11846
+D2
+~
+~
+0 -1 11844
+D3
+~
+~
+0 -1 11853
+S
+#11846
+Hallway~
+Either side of this hallway is lined with the cells used by the temple's
+priests to hold non-conformists.  The sound of a chain rattling echoes through
+the area, raising the hair on the back of your neck.
+~
+0 8 0
+D0
+~
+~
+0 -1 11849
+D1
+~
+door~
+1 11828 11848
+D2
+~
+door~
+1 11828 11845
+D3
+~
+door~
+1 11828 11847
+S
+#11847
+A cell~
+This cell still smells of the rotting straw that was used for a bed by the
+last inhabitant.  The rough stone walls have many smears of blood from the
+beatings the prisoners were given.
+~
+0 8 0
+D1
+~
+door~
+1 11828 11846
+S
+#11848
+A cell~
+This cell still smells of the rotting straw that was used for a bed by the
+last inhabitant.  The rough stone walls have many smears of blood from the
+beatings the prisoners were given.
+~
+0 8 0
+D3
+~
+door~
+1 11828 11846
+S
+#11849
+Hallway~
+All the sides of this hallway are lined with the cells that were used by
+the temple's priests to hold non-conformists.  The sound of a chain rattling
+echoes through the area.
+~
+0 8 0
+D0
+~
+door~
+1 11828 11852
+D1
+~
+door~
+1 11828 11851
+D2
+~
+~
+0 -1 11846
+D3
+~
+door~
+1 11828 11850
+S
+#11850
+A Cell~
+This cell still smells of the rotting straw that was used for a bed by the
+last inhabitant.  The rough stone walls have many smears of blood from the
+beatings the prisoners were given.
+~
+0 8 0
+D1
+~
+door~
+1 11828 11849
+S
+#11851
+A Cell~
+This cell still smells of the rotting straw that was used for a bed by the
+last inhabitant.  The rough stone walls have many smears of blood from the
+beatings the prisoners were given.
+~
+0 8 0
+D3
+~
+door~
+1 11828 11849
+S
+#11852
+A Cell~
+This cell still smells of the rotting straw that was used for a bed by the
+last inhabitant.  The rough stone walls have many smears of blood from the
+beatings the prisoners were given.
+~
+0 8 0
+D2
+~
+door~
+1 11828 11849
+S
+#11853
+Corridor~
+A corridor with plastered walls leads beyond the vault to the east.
+~
+0 8 0
+D1
+~
+~
+0 -1 11845
+D3
+~
+~
+0 -1 11854
+S
+#11854
+The Vault~
+Two withered corpses lie by the walls.  They wear the uniform of temple
+guards.  It is doubtful that they were alive long.  Whatever destroyed the
+huge doors in the west walls probably was able to snuff them without incident.
+~
+0 8 0
+D1
+~
+~
+0 -1 11853
+D3
+~
+door~
+0 -1 11855
+S
+#11855
+Crumbling Entrance~
+This tunnel has seen better days.  To the east lies the remains of what
+were once very solid oak doors.  Even with the iron reinforcement, their six
+inch thickness obviously were insufficient.
+~
+0 8 0
+D1
+~
+door~
+0 -1 11854
+D3
+~
+~
+0 -1 11856
+S
+#11856
+A large tunnel~
+This large tunnel was dug right out of the living rock.  Beams made of
+iron sag under the weight of the roof, although it will be a few years yet
+before they collapse.
+~
+0 8 0
+D1
+~
+~
+0 -1 11855
+D2
+~
+~
+0 -1 11857
+S
+#11857
+Secret passage~
+This tunnel is large enough for a dragon, yet something went through here
+that was too large.  Deep gouges can be seen in the walls where the body of
+some immense being passed recently.
+~
+0 8 0
+D0
+~
+~
+0 -1 11856
+D2
+~
+door~
+1 -1 11858
+S
+#11858
+A library~
+This ruined rooms carpet shows the footprint of an immense being, with
+claws that look a foot long.  Bookshelves line all the walls, except to the
+north, where they look like they were blasted out of place.
+   A diary can be seen on a table.
+~
+0 8 0
+E
+diary~
+A hurried hand has written something in the book.  Ink has spilled across
+much of it and only some words can be read:
+
+
+   'We must have displeased ....
+Who could have know that he .....
+do so much damage.  Now the g......
+hold the doors, although we.......
+do not know how much lon........
+Can anything stop it? .........
+I will try the anc............
+The spells can.................
+           .....................
+It is in ........................
+must g............................
+       .........................
+        ...................
+          .............
+            ........
+~
+D0
+~
+door book~
+1 11847 11857
+D2
+~
+~
+0 -1 11859
+S
+#11859
+A wide corridor~
+A wide corridor slopes downward here, leading from the living quarters of
+the high priest.
+~
+0 8 0
+D0
+~
+~
+0 -1 11858
+D2
+~
+door~
+1 -1 11860
+S
+#11860
+Bed Room~
+This room was the bed room of the High Priest.  Much of the room is in
+disarray, although the bed appears to have survived fairly well and still
+looks fresh.  A battle of some intensity was fought here, but the outcome
+was written with the blood of the high priest.  {R{rI am the supreme being{x{x is
+clearly visible on the walls.
+~
+0 8 0
+D0
+~
+door~
+1 -1 11859
+D1
+~
+~
+0 0 11861
+S
+#11861
+Guard Room~
+The outline of a man can still be seen where he was crushed into the south
+wall here.  Whatever did this, was in a rage and not to be delayed.
+~
+0 8 0
+D1
+~
+~
+0 -1 11862
+D3
+~
+~
+0 0 11860
+S
+#11862
+A natural cavern~
+A large cavern of limestone is here.  Construction has been done in the
+west side to create a tunnel.  A small tunnel to the south leads somewhere.
+~
+0 8 0
+D1
+~
+~
+0 -1 11865
+D2
+~
+~
+0 -1 11863
+D3
+~
+~
+0 -1 11861
+S
+#11863
+Guard Barracks~
+A smaller cavern lies here.  Once filled with rushing water, the only sign
+of it is a large sink hole in the floor.  Beds line the walls that once held
+the temple guards.
+~
+0 8 0
+D0
+~
+~
+0 -1 11862
+D5
+~
+~
+0 -1 11864
+S
+#11864
+Sinkhole~
+Oh N
+      o
+       o
+        o
+         o
+          o
+           !
+            !
+             !
+
+
+** {RCRUNCH{x **
+
+
+You seem to have slipped on the smooth surface of the sinkhole walls.  Now,
+how do you get outta here?
+~
+0 12 0
+S
+#11865
+Stairway down~
+Smooth stairs have been carved out of the natural cave here leading down
+into the depths.  You wonder at the purpose of their existance.
+~
+0 8 0
+D3
+~
+~
+0 -1 11862
+D4
+~
+~
+0 -1 11866
+S
+#11866
+Behind the Altar~
+Well, isn't this a surprise?  It does not seem like there is any room at
+the back of the Temple for such a large room.  And there is a stairway
+leading down.  Could it lead under the black river?  
+~
+0 8 0
+D2
+~
+door~
+1 0 11867
+D5
+~
+~
+0 -1 11865
+S
+#11867
+The altar~
+A huge ebony slab is set above the ground here and served as an altar.
+Now, it is encrusted with blood and is gouged from the passing of some battle.
+A large velvet tapestry serves as a curtain on the north wall.
+~
+0 0 0
+D0
+~
+door~
+1 0 11866
+D2
+~
+~
+0 -1 11868
+S
+#11868
+Pews~
+The congregation used to sit in what remains of the oaken pews here. 
+Some battle has recently been fought here, at the cost of the church being
+destroyed by some force.  Flies still hover over the badly destroyed bodies
+of those who died, defending their faith.  
+~
+0 8 0
+D0
+~
+~
+0 -1 11867
+D1
+~
+~
+0 0 11869
+D2
+~
+door ~
+1 -1 11871
+D3
+~
+~
+0 0 11870
+S
+#11869
+Eastern Wing~
+The congregation used to sit in what remains of the oaken pews here. 
+Some battle has recently been fought here, at the cost of the church being
+destroyed by some force.  
+~
+0 8 0
+D3
+~
+~
+0 0 11868
+S
+#11870
+Western Wing~
+The congregation used to sit in what remains of the oaken pews here. 
+Some battle has recently been fought here, at the cost of the church being
+destroyed by some force.  
+~
+0 8 0
+D1
+~
+~
+0 0 11868
+S
+#11871
+Entrance to the Temple~
+Here stands the entrance of a most sacred sect of priests.  Known to go
+into the surrounding towns, they would kidnap those who did not follow their
+god.  Those who were taken were never seen again.  
+ Recently, the church has been quiet, but no one knows the reason.  The temple
+doors are cast to the side, torn off their hinges.
+ A statue in the image of Selina lies shattered on the ground, torched and etched
+by the great being that swept through here.
+~
+0 262144 2
+D0
+~
+door~
+1 -1 11868
+D2
+~
+~
+0 -1 11872
+S
+#11872
+Black River~
+This river used to be crossed by a bridge.  The immense weight of the dragon
+must have caused it to crash into the river, to be swept away in the current.
+A foul black river is shallow enough here to cross, although the smell of
+sulfur makes you cautious of the possibility of acid.  Better use the raft
+here.  To the north lies a temple of Selina.
+~
+0 0 7
+D0
+~
+~
+0 -1 11871
+D2
+~
+~
+0 -1 11873
+S
+#11873
+Wooded Path~
+A wooded path leads to the north here.  The path has been widened recently
+by some clawed beast smashing the trees aside.  The path is now 30 feet wide!
+Looking to the north, you can see a large smoking mountain rising in the
+gloomy sky.
+~
+0 0 3
+E
+river beach north~
+Many sets of footprints can be seen up and down the beach.  They all 
+lead north.~
+D0
+~
+~
+0 -1 11872
+D2
+~
+~
+0 -1 11874
+S
+#11874
+Along the road~
+Here, a path leads to the north, into a wooded area.  The smell of clover
+almost makes you forget about the huge footprints that lead north to the
+mountains in the distance.
+~
+0 0 2
+D0
+~
+~
+0 -1 11873
+D2
+~
+~
+0 -1 11875
+S
+#11875
+The crater~
+You stand at the bottom of a large crater.  It was recently created.
+Whatever caused it climbed up the north face towards the mountains in the
+background.  It must have been tough to have survived such an impact.
+~
+0 0 2
+D0
+~
+~
+0 -1 11874
+D2
+~
+~
+0 -1 11876
+S
+#11876
+Smashed trees~
+A large mound is risen to the north.  All around you, trees have been
+uprooted as if some wind storm blew through the area.
+~
+0 0 2
+D0
+~
+~
+0 -1 11875
+D2
+~
+~
+0 -1 11877
+S
+#11877
+Edge of the woods~
+As you approach the northern side of this area, you can see that many of
+the trees have been damaged as if by some great wind.  Branches are snapped
+and trees lean heavily upon each other.
+~
+0 0 3
+D0
+~
+~
+0 -1 11876
+D3
+~
+~
+0 -1 11878
+S
+#11878
+Path through the woods~
+A path meanders through this old-growth forest of oak and maple.  You
+find it a little strange that a place of such beauty could be so quiet.  Not
+even the sound of a bird breaks the silence.  
+   A large slate rock leans against an old oak tree.  Someone has written in 
+charcoal upon it.
+   A sign is twisted on its post.
+~
+0 4 3
+E
+slate~
+Be WARNED!  Beyond this place there be dragons!
+A fortnight ago, a huge dragon fell from the stars and crashed into
+the ground to the north of this spot.  Such was the impact that magma
+has been pouring from the peak of the mountain since that day.  No one
+has heard from the priests at the temple since that time.
+~
+E
+sign ~
+Welcome, faithful, to the temple of the one true goddess, Selina.  All
+donations are gladly accepted at the temple entrance.  Please enjoy the
+promenade through the heavenly forest.  Let Selina's powers rejuvenate you. 
+Be warned however, the way is not safe for those of less than 20 levels.  
+~
+D1
+~
+~
+0 -1 11877
+D2
+~
+~
+0 0 10869
+S
+#11879
+Haver's Playpen~
+This elegant yet rustic room is laid out in the best style for immortals
+this fall.  Below you on the floor is the finest flooring, made from
+crushed bones of the fallen enemies of Haver.
+ 
+ 
+~
+0 262148 0
+M 500 H 500
+S
+#0
+
+
+
+#SPECIALS
+M 11800 spec_breath_any Load to: Spirit of the Dragon King
+M 11802 spec_cast_undead Load to: Death
+M 11803 spec_nasty Load to: scaly Yjinn
+M 11804 spec_cast_undead Load to: Gursh
+M 11805 spec_poison Load to: the demon Vorlash
+M 11806 spec_cast_undead Load to: a ghost
+M 11808 spec_breath_acid Load to: a black dragon's spirit
+M 11809 spec_cast_undead Load to: the jailer
+M 11818 spec_cast_undead Load to: a lich
+M 11819 spec_janitor Load to: a cave troll
+M 11820 spec_breath_any Load to: a chinese dragon spirit
+M 11822 spec_cast_mage Load to: a summoner
+M 11826 spec_breath_fire Load to: a demon
+M 11830 spec_poison Load to: a great serpent
+M 11831 spec_poison Load to: a serpent
+S
+
+
+
+#MOBPROGS
+#11800
+if ispc $n
+ say Prepare to die, puny mortal.  Breathe deeply, it will be your last.
+ delay
+ kill $n
+endif
+~
+A
+#0
+
+#RESETS
+D 0 11801 3 2
+D 0 11802 2 2
+D 0 11803 0 2
+D 0 11804 1 2
+D 0 11804 2 1
+D 0 11805 0 1
+D 0 11806 4 2
+D 0 11808 5 2
+D 0 11810 5 2
+D 0 11812 4 2
+D 0 11824 4 1
+D 0 11825 5 1
+D 0 11829 5 2
+D 0 11833 1 1
+D 0 11833 4 2
+D 0 11834 3 1
+D 0 11845 0 2
+D 0 11846 1 2
+D 0 11846 2 2
+D 0 11846 3 2
+D 0 11847 1 2
+D 0 11848 3 2
+D 0 11849 0 2
+D 0 11849 1 2
+D 0 11849 3 2
+D 0 11850 1 2
+D 0 11851 3 2
+D 0 11852 2 2
+D 0 11857 2 2
+D 0 11858 0 2
+D 0 11859 2 1
+D 0 11860 0 1
+D 0 11866 2 1
+D 0 11867 0 1
+D 0 11868 2 1
+D 0 11871 0 1
+M 1 11800 1 11800 1
+E 0 11836 0 6
+E 0 11845 0 9
+E 0 11844 0 12
+E 0 11846 0 16
+O 0 11822 0 11801
+M 1 11801 5 11802 3
+E 0 11818 0 16
+M 1 11802 1 11803 1
+E 0 11811 0 17
+E 0 11843 0 5
+E 0 11842 0 16
+G 0 11833 0
+M 1 11803 4 11804 2
+E 0 11841 0 16
+G 0 11834 0
+M 1 11803 4 11804 2
+E 0 11841 0 16
+M 1 11823 4 11805 2
+M 1 11823 4 11805 2
+M 1 11804 1 11807 1
+E 0 11816 0 16
+G 0 11835 0
+M 1 11805 1 11808 1
+E 0 11839 0 7
+E 0 11838 0 5
+E 0 11840 0 16
+E 0 11814 0 17
+M 1 11833 1 11813 1
+E 0 11800 0 3
+E 0 11809 0 5
+E 0 11815 0 13
+E 0 11802 0 14
+E 0 11813 0 16
+M 1 11808 1 11814 1
+M 1 11813 2 11815 2
+M 1 11820 1 11817 1
+M 1 11829 4 11818 2
+M 1 11834 1 11819 1
+E 0 11817 0 16
+M 1 11829 4 11821 2
+M 1 11820 1 11822 1
+M 1 11830 1 11823 1
+M 1 11819 1 11824 1
+M 1 11822 1 11825 1
+E 0 11821 0 6
+M 1 11821 1 11825 1
+M 1 11826 1 11825 1
+E 0 11820 0 8
+O 0 11832 0 11827
+M 1 11811 2 11829 1
+E 0 11812 0 16
+M 1 11817 1 11830 1
+M 1 11827 1 11831 1
+M 1 11814 1 11832 1
+E 0 11824 0 17
+O 0 11826 0 11833
+O 0 11819 0 11833
+M 1 11825 2 11834 1
+G 0 11827 0
+M 1 11832 5 11834 5
+M 1 11825 2 11836 1
+E 0 11810 0 3
+E 0 11805 0 6
+G 0 11827 0
+M 1 11806 1 11839 1
+M 1 11810 1 11841 1
+O 0 11825 0 11842
+M 1 11818 1 11842 1
+M 1 11832 3 11843 3
+O 0 11830 0 11845
+M 1 11809 1 11845 1
+G 0 11828 0
+M 1 11810 2 11847 2
+M 1 11815 1 11848 1
+M 1 11807 1 11850 1
+E 0 11817 0 16
+M 1 11811 2 11851 1
+E 0 11812 0 16
+M 1 11806 1 11852 1
+M 1 11832 6 11854 2
+M 1 11811 1 11856 1
+M 1 11810 1 11857 1
+O 0 11829 0 11858
+P 0 11847 1 11829 1
+M 1 11809 1 11858 1
+O 0 11831 0 11860
+M 1 11806 1 11860 1
+E 0 11804 0 3
+M 1 11810 1 11861 1
+M 1 11832 5 11863 5
+M 1 11807 1 11866 1
+E 0 11817 0 16
+M 1 11811 1 11867 1
+O 0 11803 0 11867
+M 1 11815 1 11868 1
+M 1 11815 1 11869 1
+M 1 11815 1 11870 1
+M 1 11832 5 11871 5
+M 1 11831 2 11872 2
+M 1 11816 2 11873 2
+O 0 11801 0 11873
+M 1 11816 4 11874 4
+M 1 11828 1 11875 1
+E 0 11806 0 11
+E 0 11808 0 16
+M 1 11824 1 11876 1
+E 0 11823 0 0
+M 1 11812 1 11877 1
+M 1 11835 1 11879 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

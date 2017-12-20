@@ -1,0 +1,403 @@
+#AREADATA
+Name Darkenwood~
+Builders Bouncer~
+VNUMs 4200 4399
+Credits [ None] Bouncer Darkenwood~
+Security 1
+Xcontinent 0
+Age 15
+End
+
+
+
+#MOBILES
+#4200
+deathxxx~
+death incarnate~
+Death Incarnate is standing here wondering how to kill you.
+~
+DEATH is to scary to describe because what you see
+may not be the same scary thing as what your friend
+might see while looking at death in the face.
+He brings the worst fear you have to life 10 fold.
+~
+deamon~
+ABOQRSTU CDFJTV 0 0
+60 6 50d10+9500 1d1+100 8d6+28 wrath
+-30 -30 -30 -30
+CFH B H NS
+stand stand none 10000
+ABGZ ACDEFHJKQVX medium 0
+M grall 4200 100~
+#0
+
+
+
+#OBJECTS
+#4200
+pill power~
+a Bouncer's Pill of Power~
+A pill pulsing with power quivers on the ground.~
+wood~
+pill 0 AO
+35 'haste' 'frenzy' '(null)' '(null)'
+0 0 0 P
+#4201
+formless void~
+a formless void~
+A formless void hangs in the air where a wall should be.~
+air~
+portal C A
+0 0 0 3001 0
+0 10000 0 P
+#4202
+couch aged~
+an old used couch~
+An old used couch is here looking quite inviting.~
+leather~
+furniture 0 A
+10 10000 BEHK 100 100
+0 0 0 P
+#4203
+no name~
+(no short description)~
+(no description)~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#4200
+Bouncers First Room the Sequel :)~
+As you enter this room you have a sense of deja vue.  You
+know you've seen this room before somewhere at sometime in the
+past.  There is a old couch here crumbling from ages of use.
+You notice a huge cloud hanging up around the ceiling.
+On the mantle over the fire place you see a figurine dueling a
+large beast with a bottle labeled XXX.
+There appears to be no exits from here except for a formless
+void on the far wall.
+~
+0 32780 0
+S
+#4201
+Entrance to Darkenwood~
+You have entered the Darkened Woods.  Terrible things await those
+fortunate or unfortunate to stumble in to its dark bowels.  Death
+may await but to those few who are hardy enough treasures will abound.
+~
+0 1 3
+D0
+~
+~
+0 0 4202
+S
+#4202
+A stream Crossing~
+A tiny murky stream is here flowing up hill...  What strange magics
+could be at work here.
+~
+0 1 7
+D0
+~
+~
+0 0 4205
+D1
+~
+~
+0 0 4203
+D2
+~
+~
+0 0 4201
+D3
+~
+~
+0 0 4204
+S
+#4203
+Further down the stream~
+The water is totally still and calm right here... by all rights it
+should be flowing in one direction or another.  You can see clear
+down to the bottom like a huge piece of glass.
+~
+0 0 0
+D3
+~
+~
+0 0 4202
+S
+#4204
+Further down the stream~
+In the center of the stream is a small whirl pool.  It seems to be
+flowing as backwards as the stream itself.
+~
+0 1 3
+D1
+~
+~
+0 0 4202
+S
+#4205
+A dark forest path~
+This section of the forest is starting to get darker what lies ahead...
+~
+0 1 3
+D0
+~
+~
+0 0 4206
+D2
+~
+~
+0 0 4202
+S
+#4206
+A darker forest path~
+As you enter this section of the forest you are compelled to travel East.
+You can hear someone whispering in the back of your brain are you Ready?
+~
+0 1 3
+D1
+~
+~
+0 0 4207
+D2
+~
+~
+0 0 4205
+S
+#4207
+A dense path~
+Almost all the sounds of the forest are dampened here.  You notice
+it seems harder for you to breath like the air has become more dense.
+~
+0 1 3
+D1
+~
+~
+0 0 4208
+D3
+~
+~
+0 0 4206
+S
+#4208
+No Turning Back~
+It seems the hands of fate have made this descision for you.  There is
+no turning back now...
+~
+0 1 3
+D1
+~
+~
+0 0 4209
+S
+#4209
+A non descript path~
+This portion of the path through the forest is about as non descript
+as you can get without being in a void.  It is void of any distinguishing 
+landmarks...
+~
+0 1 3
+D1
+~
+~
+0 0 4210
+D3
+~
+~
+0 0 4208
+S
+#4210
+A strange clearing~
+The clearing is eerily quiet...  You notice 3 paths that fork
+off into the north east and south.  They seem to disappear into darkness
+~
+0 8197 3
+D0
+~
+~
+0 0 4211
+D1
+~
+~
+0 0 4213
+D2
+~
+~
+0 0 4212
+S
+#4211
+A well lit path~
+Alas you can't turn back.  You are being forced by a benevolent entity
+to travel north...
+~
+0 0 0
+D0
+~
+~
+0 0 4214
+S
+#4212
+Lost in the Forest~
+As you step onto this path you notice the way behind you close.  YOU!
+are trapped in the forest forever now.
+~
+0 5 3
+M 0 H 0
+S
+#4213
+A dead end Path~
+As you enter this room you realize the folly of your choice.
+~
+0 4 0
+M 0 H 0
+S
+#4214
+Knocking on Deaths Door~
+As you enter this section of the forest you notice a little sign.
+It states : North you go south you'll never come...
+~
+0 8193 0
+D0
+~
+~
+0 0 4215
+D2
+~
+~
+0 0 4211
+S
+#4215
+Deaths Door~
+You see a smoothly polished oak door to the north with a very ornate handle.
+~
+0 1 0
+D0
+~
+door~
+1 0 4216
+D2
+~
+~
+0 0 4214
+S
+#4216
+Inside Deaths House of Horrors~
+The smell of death and decay is very apparent in this room.
+You can feel bones and ages of dust being trampled on by every step you take.
+~
+0 8192 0
+D0
+~
+~
+0 0 4217
+D1
+~
+~
+0 0 4219
+D2
+~
+door~
+1 0 4215
+D3
+~
+~
+0 0 4218
+S
+#4217
+Inside Deaths House of Horrors~
+As you enter this room you notice a cold draft coming from the north.
+On the wall is a mural of cloaked figure with a long sickle.
+~
+0 8192 0
+D0
+~
+~
+0 0 4220
+D2
+~
+~
+0 0 4216
+S
+#4218
+Inside Deaths House of Horrors~
+As you enter this room you notice a vast assortment of torturing devices.
+What does death need with torture equipment...
+~
+0 8192 0
+D1
+~
+~
+0 0 4216
+S
+#4219
+Inside Deaths House of Horrors~
+At first glance it looks like Death has been waiting for you personally.
+This room has anything any adventurer could ever want.  A hot bath
+cold beer & wine.  With fresh clothes and towels.  It is like your
+last meal before the inevitable execution...
+~
+0 8192 0
+D3
+~
+~
+0 0 4216
+S
+#4220
+Death's Bed Room~
+Since when does death sleep...  He is here angered that you would disturb
+death while it tries to relax after a hard day and night of work.  
+~
+0 0 0
+D2
+~
+~
+0 0 4217
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#4200
+if isimmort $n
+bow $n
+mob echoat $n $I say's Even I can't escape death at your hands my Lord $N
+else
+if sex $n <2
+mob echoat $n $I say's I hope you brought an extra pair of underwear little man!
+grin
+else
+mob echoat $n $I say's You are a brave little girl for facing the inevitable!
+grin
+endif
+endif
+~
+#0
+
+#RESETS
+D 0 4215 0 1
+D 0 4216 2 1
+O 0 4202 0 4200
+M 1 4200 1 4220 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

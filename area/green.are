@@ -1,0 +1,3025 @@
+#AREADATA
+Name The Green House~
+Builders Stryder~
+VNUMs 4200 4349
+Credits { None} Stryder     The Green House~
+Security 1
+Xcontinent 1
+Age 3
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#4200
+beautiful flower~
+a beautiful flower~
+A beautiful flower is blooming here under a ray of light.
+~
+{r        .     .      
+    ...  :``..':          
+     : ````.'   :''::'    
+   ..:..  :     .'' :         
+ ``.    `:    .'     :           
+    :    :   :        :      
+     :   :   :         :        
+     :    :   :        :      
+      :    :   :{g..''''``::.     
+       {r: {g...:..'     .''
+       {g.'   .'  .::::'  
+      :..'''``:::::::       
+      '         `::::   
+                  `::.
+                   `::
+                    :::. 
+         ..:```.:'`. ::'`.
+       ..'      `:.: :: 
+      .:        .:``:::
+      .:    ..''     :::
+       : .''          ::
+        :             ::
+                       :
+                        :
+{x
+~
+human~
+AB La 1000 0
+5 0 2d6+60 1d1+49 1d6+1 smite
+5 5 5 5
+0 AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M death 4200 100~
+#4201
+pitcher plant~
+a pitcher plant~
+An oddly shaped plant is here, with a red pitcher on top.
+~
+It sits there partially in the water.  There is a flower like structure
+on it which is a vibrant red and is shaped like a pitcher.  You would like
+to see what is in it, but the top is a little out of your reach.  
+~
+human~
+ABCR CZ 1000 0
+46 3 30d10+3300 1d1+99 6d6+16 digestion
+-16 -16 -16 -16
+EFG 0 ER H
+stand stand none 6503
+AHMV ABCDEFGHIJK large 0 the guilds~
+#4202
+pussywillow~
+a pussywillow~
+A fuzzy pussywillow is growing out of the ground.
+~
+It is a small tree with many small branches.  Each branch is covered with
+many fuzzy grey buds on them.  It looks so soft that you just want to reach
+out and touch it.  
+~
+human~
+AB V 1000 0
+38 2 10d10+1600 1d1+99 5d6+12 slash
+-13 -13 -13 -13
+FGHKN 0 R H
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4203
+water lily~
+a water lily~
+A large water lily is here in the middle of the pond.
+~
+~
+human~
+AB 0 1000 0
+41 2 25d10+2000 1d1+99 4d8+14 slap
+-14 -14 -14 -14
+0 0 0 0
+stand stand none 3500
+AEHMV ABCDEFGHIJK medium 0 the guilds~
+#4204
+rose bush~
+a rose bush~
+A lovely rose bush is here, covered in thorns.
+~
+What a lovely bush!  It is so green and full of blooming roses.  You want
+to bend down to take a sniff of the lovely scent of the flowers but the
+thick layer of thorns seem to block your way.  You see a very pretty blossom
+sticking out of the side of the bush.  
+ 
+{R                    "M,        .mM"
+{R                     IMIm    ,mIM"
+{R                     ,MI{r:{R"IM,mIMm
+{R          "IMmm,    ,IM{r::::{RIM{r::{RIM,          ,m"
+{R             "IMMIMMIMm{r::{RIM{r:::::{RIM""==mm ,mIM"
+{R    __      ,mIM{r::::::{RMIM{r:::::::{RIM{r::::{RmIMIM"
+{R ,mMIMIMIIMIMM{r::::::::{RmM{r::::::::{RIMIMIMIMMM"
+{RIMM{r:::::::::{RIMM{r::::::{RM{r::::::::{RIIM{r:::::::{RMM,
+{R "IMM{r::::::::::{RMM{r:::{RM{r:::::::{RIM{r:::::::::::{RIM,
+{R    "IMm::::::::{RIMMM{r:::::::{RIM{r:::::::::::::{RIM,
+{R      "Mm{r:::::::::{RIM{r::::::{RMM{r::::::::::::::::{RIM,
+{R       IM{r:::::::::{RIM{r::::::{RMM{r::::::::::::::::::{RIM,
+{R        MM{r::::::::{RIM{r:::::::{RIM{r::::::::::::::::::{RIM
+{R        "IM{r::::::::{RIM{r:::::::{RIM{r:::::::::::::::::{RIM;.
+{R         "IM{r::::::::{RMM{r::::::::{RIM{r::::::::::{GmmmIMMMMMMMm,.
+{R           IM{r::::::::{RIM{r:::::::{RIM{r::::{GmIMIMM{g"""". .. {G"IMMMM
+{R           "IM{r::::::::{RIM{r::::::{GmIMIMM""{g. . . . . .{G,mM"   "M
+{R            IMm{r:::::::{RIM{r::::{GIIMM"{g . . . . . ..{G,mMM"
+{G            "IMMIMIMMIMM{r::{GIMM"{g . . . ._.{G,mMMMMM"
+{G             ,IM"{g. . .{G"IMIM"{g. . . .{G,mMMMMMMMM"
+{G           ,IM{g . . . .{G,IMM"{g. . . {G,mMMMMMMMMM"
+{G          IM{g. . . .{G,mIIMM,{g. . ..{GmMMMMMMMMMM"
+{G         ,M"{g..{G,mIMMIMMIMMIMmmmMMMMMMMMMMMM"
+{G         IM{g.{G,IMI"""        ""IIMMMMMMMMMMM
+{G        ;IMIM"                  ""IMMMMMMM
+{G        ""                         "IMMMMM
+{G                                     "IMMM
+{G                                      "IMM,
+{G                                       "IMM
+{G                                        "MM,
+{G                                         IMM,              ______   __
+{G                        ______           "IMM__        .mIMMIMMIMMIMMIMM,
+{G                   .,mIMMIMMIMM, ,mIMM,   IMM"""     ,mIM"{g. . . . {G"IM{g,..{GM,
+{G                 ,IMMM'{g . . . {G"IMM.\ "M,  IMM      ,IM"{g. . . .  {G/{g :{G;IM \ M,
+{G               .mIM'{g . . .  {G/{g .:{G"IM.\ MM  "MM,    ,M"{g. . .  {G/{g .{G;mIMIMIM,\ M
+{G              ,IM'{g. . .  {G/{g . .:;,{GIMIMIMMM  IMM   ,M"{g. .  {G/{g .:{GmIM"'   "IM,:M
+{G             ,IM'{g. . . {G/{g . .:;,{GmIM"  `"IMM IMM   IM{g. .  {G/{g .{GmM"         "IMI
+{G            ,IM{g . .  {G/{g . .:;,{GmIM"      "IMMMMM   MM{g,.  {G/{g ,{GmM            "M'
+{G            IM{g'. .  {G/{g . .;,{GmIM"          "IIMMM ,IMIM{g,.,{GIM"
+{G            IM{g . . {G/{g . .,{GmIM"              IMMMMMMM' """
+{G            `IM{g,.  {G/{g ;,{GmIM"                 IIMMM
+{G             "IMI{g, {G/{g,{GmIM"                 __IMMM
+{G               "IMMMM"                   """IMM
+{G                 ""                         IMM
+{G                                            IMM__
+{G                                            IMM"""
+{G                                            IMM
+{G                                            IMM
+{G                                          __IMM
+{G                                         """IMM
+{G                                            IMM
+{G                                            IMM
+{G                                            IMM__
+{G                                            IMM"""
+{G                                            IMM{x
+~
+tree~
+AG J 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+CFH B I H
+stand stand none 0
+AEHMV ABCDEFGHIJK medium 0 the guilds~
+#4205
+empty vnum~
+empty vnum~
+No stay
+~
+~
+human~
+A 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4208
+blank~
+empty~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4209
+blank~
+empty~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4210
+mars toe nipper~
+a mars toe nipper~
+A small plant is here trying to nip at your toes.
+~
+It is a rather small, as plants go, not even making it above your ankles.
+A small beak tries to get at your toes and nibble away at them.  Below is
+beak is a small red pouch, which likely contains last night's dinner.  The
+colour tapers off as you look down the plant, eventually going white.  
+~
+tree~
+AB J 1000 0
+25 2 5d10+550 1d1+99 2d10+7 peck
+-7 -7 -7 -7
+CFHN B IR H
+stand stand none 0
+AHMV ABCDEFGHIJK tiny 0 the guilds~
+#4211
+venus fly trap~
+a venus fly trap~
+A plant is here trying to swallow up some flies.
+~
+It has several small closable flowers at its peak.  Each one of them can
+close on an unsuspecting fly that had picked the wrong place to take a rest.
+There are a couple small green leaves at the base of the plant.  As you walk
+past, it sits there quietly waiting for its next meal.  
+~
+tree~
+AB J 1000 0
+30 3 6d12+853 1d1+99 4d6+8 bite
+-9 -9 -9 -9
+CFHN B IR H
+stand stand none 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+#4212
+earth beatle trap~
+an earth beatle trap~
+A plant is here looking for some delicious beatles.
+~
+This is a really odd carniverous plant.  It has several long pedals
+stemming from a central flower, each of them striped yellow and brown.  The
+central flower is a large and resembles a pot, which the beatles this plant
+feeds on are digested.  The tips of the pedals twitch slightly as you walk
+past, with the hopes you are stirring up a meal.  
+~
+tree~
+ABF JV 1000 0
+35 1 10d10+1300 1d1+99 4d7+11 bite
+-11 -11 -11 -11
+CFHMN B IR H
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4213
+saturn sliver trap~
+a saturn sliver trap~
+A plant is growing here, looking for some yummy slivers.
+~
+The base of the plant has several vines surrouding it, each of them
+moving around, seeking prey.  Just above the base is something that
+resembles a cactus with large razor sharp leaves around it.  The entire
+thing looks almost metallic, glimmering in the light.  
+~
+tree~
+ABF JV 1000 0
+40 2 15d10+1850 1d1+99 4d8+13 bite
+-13 -13 -13 -13
+CFHMNO B IR H
+stand stand none 0
+AHMV ABCDEFGHIJK large 0 the guilds~
+#4214
+jupiter death trap~
+a jupiter death trap~
+A HUGE jupiter death trap is here, looking voracious.
+~
+This is definately something you do not want to tangle with.  It has
+multiple tenticle-like vines coming out around it.  The center of the plant
+is slightly larger than you, and is salivating as you near closer to it. 
+Large teeth portrude from the flower's "pedals" ready to rip up anything it
+happens to get its clutches on.  
+~
+tree~
+ABF JV 1000 0
+45 2 25d10+3000 1d1+99 8d4+16 pobite
+-15 -15 -15 -15
+CFHKMNO AB IR H
+stand stand none 0
+AHMV ABCDEFGHIJK huge 0 the guilds~
+#4215
+sprout tiny roots~
+some sprouting roots~
+Some roots are here, sprouting from the ground.
+~
+They look like tiny roots from which larger plants stem from.
+~
+human~
+AHc PZ 1000 0
+10 1 2d7+121 1d1+99 2d4+2 slap
+1 1 1 1
+FKN AB I H
+stand stand none 0
+AHMV ABCDEFGHIJK tiny 0 the guilds~
+#4216
+some fungus~
+some fungus~
+Some fungus is quietly growing here, decomposing the dead plants.
+~
+It grows in lobes everywhere, completely covering what it is quietly
+digesting.  The top of the lobes form semi-circular shapes and give off a
+faint orange glow in the darkness.  Underneath the lobes there are many fans
+where its spores are stored.  While it hasn't made any signs of motion, you
+swear that it is eyeing you as its next meal.  
+~
+human~
+AC CFZ 800 0
+33 2 10d10+1100 1d1+99 4d4+10 digestion
+-11 -11 -11 -11
+0 LQ I 0
+stand stand none 500
+ABHMV ABCDEFGHIJK medium 0 the guilds~
+M death 4216 50~
+#4217
+some fungus~
+some fungus~
+Some fungus is quietly growing here, decomposing the dead plants.
+~
+You see small balls of fungus that are completely covering up (and
+devouring) all the dead vegetation around you.  You think that it looks
+fairly harmless, until *POOF* It releases a cloud of spores into the air. 
+Better keep your distance.  
+~
+human~
+AC CFZ 800 0
+29 2 6d12+778 1d1+99 2d12+8 digestion
+-9 -9 -9 -9
+0 LQ I 0
+stand stand none 500
+ABHMV ABCDEFGHIJK medium 0 the guilds~
+M death 4217 50~
+#4218
+some fungus~
+some fungus~
+Some fungus is quietly growing here, decomposing the dead plants.
+~
+There is a thick white fuzz that covers the ground here.  It just sits
+there ignoring you, as it continues to happily munch on dead remains
+scattered about the room.  Then again, when was the last time some bread
+mould actually moved?  Still, it would likely be best not to disturb it.  
+~
+human~
+AC CFZ 800 0
+37 2 10d10+1500 1d1+99 3d10+12 digestion
+-12 -12 -12 -12
+0 LQ I 0
+stand stand none 500
+ABHMV ABCDEFGHIJK medium 0 the guilds~
+M death 4218 50~
+#4220
+name~
+empty~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 K 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4221
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4249
+coordinator moridin~
+a coordinator~
+A coordinator is here, sending out the trap mobs.
+~
+~
+human~
+ABGc 0 0 0
+60 0 50d10+9500 1d1+99 8d6+28 none
+-30 -30 -30 -30
+0 ABCDab 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 4245 2~
+M random 4244 2~
+M random 4243 2~
+M random 4242 2~
+M random 4241 2~
+M random 4240 2~
+#4250
+sprouting roots~
+some sprouting roots~
+Some roots are here, sprouting from the ground.
+~
+They look like tiny roots from which larger plants stem from.
+~
+human~
+AB PVZ 1000 0
+5 0 2d6+60 1d1+99 1d6+1 whip
+5 5 5 5
+HN AB I H
+stand stand none 0
+AHMV ABCDEFGHIJK tiny 0 the guilds~
+#4290
+small sapling~
+a small sapling~
+A small sapling is here, growing all alone in the light.
+~
+It stands only three feet tall or so.  The plant has several small
+branches, and little budding leaves on the tips.  It looks like given some
+time, this sapling could grow up to be a great tree one day.  
+~
+human~
+ABG N 1000 0
+30 0 6d12+853 1d1+100 4d6+8 scratch
+-15 -15 -15 -15
+N ABa 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M death 4290 100~
+#4291
+seed pod~
+a seed pod~
+A seed pod is here on the ground, waiting to open.
+~
+It looks like a very large nut of some kind.  It has a very hard shell
+which could prove to be a challenge to dent even with your weapon.  It just
+sits there on the ground.  
+~
+tree~
+ABG J 1000 0
+58 1 25d25+9500 1d1+249 5d5+20 pound
+-70 -70 -70 -70
+CEFGHK ABPab DIQX H
+stand stand none 0
+ABDHMV ABCDEFGHIJK medium 0 the guilds~
+M death 4298 100~
+M hpcnt 4295 15~
+M fight 4291 6~
+M fight 4293 7~
+M fight 4292 5~
+M hpcnt 4294 25~
+#4292
+large tangled vine~
+a large tangled vine~
+A large tangled vine is here, tripping you.
+~
+The vine slowly wriggles and moves about as you observe it.  It is green
+in colour and covered in many sharp red thorns.  It seems to be slowly
+moving towards you...  
+~
+tree~
+ABFGT DJTVZa 1000 0
+51 2 50d10+5000 1d1+99 5d8+20 whip
+-21 -21 -21 -21
+CEFHKLNRU ABa I H
+stand stand none 0
+ABDHMV ABCDEFGHIJK small 0 the guilds~
+#4293
+bird paradise~
+a bird of paradise~
+A large beautiful flowering Bird of Paradise is here.
+~
+You look at it with awe...  It is so beautiful.  The flower has huge
+green leaves which are the same size as you, rolled out in all directions. 
+In the center of this large green mass of plant lies a gigantic flower.  The
+flower is mainly red in colour, with yellow and orange tips.  The flower
+slowly moves as you approach it.  It looks like a giant red bird, it glares
+at you with its eyes and caws loudly at you.  
+~
+tree~
+ABFG DHIJVZ 1000 0
+60 2 50d50+12500 1d1+499 10d9+30 pobite
+-35 -35 -35 -35
+ACDEFHJKN ABPab I H
+stand stand none 7000
+ACHMVW ABCDEFGHIJK large 0 the guilds~
+M death 4297 100~
+M fight 4296 3~
+#4294
+a sprout~
+A sprout~
+A sprout is here, coming out of the ground.
+~
+~
+human~
+A AK 0 0
+60 6 1d1+10 1d1+100 8d6+28 none
+-30 -30 -30 -30
+C 0 0 0
+stand stand male 1000
+ACHIMV ABCDEFGHIJK medium flesh the guilds~
+#4300
+chuck norris~
+Chuck Norris~
+A storage mob, ensuring frozen people can't log their alts to keep the character safe from pwipes.
+~
+~
+elf~
+A BHJVZa -1000 0
+1 0 2d6+10 1d1+100 1d4+0 crush
+7 7 7 7
+ABCEFHKNO Bb ABCEFILQ GHNSZ
+stand stand none 10000
+ABHMVZ ABCDEFGHIJKLQUVWX giant 0 the guilds~
+#4301
+blank~
+test~
+Test
+~
+~
+human~
+A 0 0 0
+20 2 3d9+333 1d1+100 2d8+5 none
+-4 -4 -4 -4
+0 0 0 0
+stand stand none 2000000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4302
+blank~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4310
+arawn kisic~
+empty~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 punch
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4311
+blank~
+empty~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4312
+blank~
+empty~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4313
+blank~
+empty~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4314
+blank~
+empty~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4315
+blank~
+empty~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4316
+blank~
+empty~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4317
+blank~
+empty~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4318
+blank~
+empty~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4319
+blank~
+empty~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4320
+blank~
+empty~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 punch
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#4200
+beautiful flower head~
+a head of a beautiful flower~
+The head of a beautiful flower is here, looking almost as if it could be used as a boat.~
+wood~
+boat AP AE
+0 0 0 0 0
+3 34 1460 P
+#4201
+aquifer water~
+the aquifer~
+~
+water~
+fountain O P
+-1 -1 'water' 0 0
+0 100000 0 P
+#4202
+small ledge~
+a small ledge~
+{x~
+stone~
+furniture O 0
+1 500 BEHKN 110 110
+0 1000000 0 P
+#4203
+pile leaves stems~
+a pile of leaves~
+~
+leaves~
+container O P
+500 0 0 500 0
+0 10000000 0 P
+#4205
+corpse gardener~
+the corpse of a gardener~
+Among the piles of rot lies a corpse of a once proud gardener.~
+bones~
+trash T APR
+0 0 0 0 0
+23 4 1 'poison' 0
+27 1050 0 P
+A
+5 -20  
+#4206
+gardening hat~
+a gardening hat~
+A hat once belonging to a gardener is here.~
+wood~
+clothing Gbd AE
+0 0 0 0 0
+28 15 1550 P
+A
+17 -6  
+#4208
+some reeds~
+some reeds~
+Some reeds are here, waving in the water.~
+wood~
+trash TYe P
+0 0 0 0 0
+0 47 0 P
+E
+reeds~
+Long slender poles run up from the water, breaking the water's surface. 
+Their green color contrasts the dark water from where they came.  As you
+look at them you can seem them gently swaying with the ripples in the water.
+{x
+Some reeds are in excellent condition.
+~
+#4209
+empty vnum~
+empty vnum~
+A dangerous spore is here, having fallen off a victim.~
+spore~
+key CMPTUYZe AC
+0 0 0 0 0
+0 0 0 P
+#4210
+empty vnum~
+empty vnum~
+A dangerous spore is here, having fallen off a victim.~
+spore~
+key CMOPTUYZe A
+0 0 0 0 0
+0 0 0 P
+#4211
+empty vnum~
+empty vnum~
+A dangerous spore is here, having fallen off a victim.~
+spore~
+key CMOPTUYZe A
+0 0 0 0 0
+0 0 0 P
+#4212
+empty vnum~
+empty vnum~
+A dangerous spore is here, having fallen off a victim.~
+spore~
+key CMOPTUYZe A
+0 0 0 0 0
+0 0 0 P
+#4213
+empty vnum~
+empty vnum~
+A dangerous spore is here, having fallen off a victim.~
+spore~
+key CMOPTUYZe A
+0 0 0 0 0
+0 0 0 P
+#4214
+empty vnum~
+empty vnum~
+A dangerous spore is here, having fallen off a victim.~
+spore~
+key CMOPTUYZe A
+0 0 0 0 0
+0 0 0 P
+#4216
+sticky spore~
+a sticky spore~
+A sticky spore is here, sticking to whatever it touches~
+fungus~
+food GHMPYe AB
+4 8 0 0 0
+0 0 0 P
+A
+17 10  
+#4217
+sticky spore~
+a sticky spore~
+A sticky spore is here, sticking to whatever it touches~
+fungus~
+food GHMPYe AQ
+6 10 0 0 0
+0 0 0 P
+A
+17 10  
+#4218
+sticky spore~
+a sticky spore~
+A sticky spore is here, sticking to whatever it touches~
+fungus~
+food GHMPYe AC
+16 2 0 A 0
+0 0 0 P
+A
+17 10  
+#4220
+empty vnum~
+a shard of Stryder~
+Blank~
+cloth~
+room_key HMYZe AC
+0 0 0 0 0
+1 0 1000 P
+#4288
+hole root folliage~
+a tiny hole in the twisted mass of roots~
+~
+nothing~
+portal OT P
+0 0 0 4289 0
+0 0 0 P
+#4292
+no name~
+(no short description)~
+~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#4293
+5120frenzy~
+5120frenzy~
+~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 5120 P
+#4300
+rat flail ratflail~
+a rat-flail~
+A rat-flail is here, ready to kick your ass.~
+fur~
+weapon ABEIYe ANPR
+flail 5 10 thwack HNY
+60 100 100 'poison' 0
+58 30 1 P
+#4301
+pan galatic gargle blaster gold brick lemon~
+a pan-galatic gargle blaster... acutally it is a gold brick with a twist of lemon~
+It looks like a yummy drink... wait no it's not! It's a brick with a lemon wrapped around it.~
+wood~
+weapon 0 AN
+dagger 1 1 pound JK
+58 1 0 P
+#4310
+empty vnum~
+empty vnum~
+A shimmering portal is here.~
+darkness~
+portal AGT P
+1 0 0 4310 0
+0 10000 0 P
+#4311
+empty vnum~
+empty vnum~
+A shimmering portal is here.~
+darkness~
+portal AGT P
+1 0 0 4311 0
+0 10000 0 P
+#4312
+empty vnum~
+empty vnum~
+A shimmering portal is here.~
+darkness~
+portal AGT P
+1 0 0 4312 0
+0 10000 0 P
+#4314
+empty vnum~
+empty vnum~
+A shimmering portal is here.~
+darkness~
+portal AGT P
+1 0 0 4314 0
+0 10000 0 P
+#4315
+empty vnum~
+empty vnum~
+A shimmering portal is here.~
+darkness~
+portal AGT P
+1 0 0 4315 0
+0 10000 0 P
+#4316
+empty vnum~
+empty vnum~
+A shimmering portal is here.~
+darkness~
+portal AGT P
+1 0 0 4316 0
+0 10000 0 P
+#4317
+empty vnum~
+empty vnum~
+A shimmering portal is here.~
+darkness~
+portal AGT P
+1 0 0 4317 0
+0 10000 0 P
+#4318
+empty vnum~
+empty vnum~
+A shimmering portal is here.~
+darkness~
+portal AGT P
+1 0 0 4318 0
+0 10000 0 P
+#4319
+empty vnum~
+empty vnum~
+A shimmering portal is here.~
+darkness~
+portal AGT P
+1 0 0 4319 0
+0 10000 0 P
+#0
+
+
+
+#ROOMS
+#4200
+The Realm of the Dead~
+You are standing on an immense, grey stone floor that stretches as far as you
+can see in all directions.  Rough winds plunging from the dark, starless sky
+tear savagely at your fragile body.
+~
+0 806920220 0
+E
+floor~
+The stone floor is the same shade of grey as the sky and is completely plain
+and unscratched.  It is probably too hard for anything to leave as much as a
+scratch on it.
+~
+E
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+~
+M 0 H 0
+S
+#4201
+~
+Somehow you have managed to get through the dense folliage blocking the
+way down.  Too bad it isn't any more pleasent down here.  Your clothing
+sticks to your body like glue, and the air is so heavy to are having trouble
+breathing.  You manage to push some of the dense folliage out of the way. 
+The folliage is so dense you can't even tell where the ground is, you are
+just standing on a mass of plants.  You think you can slowly work your way
+through the green in every direction around you.  
+~
+0 8 0
+D0
+~
+~
+0 0 4202
+D1
+~
+~
+0 0 4203
+D2
+~
+~
+0 0 4204
+D3
+~
+~
+0 0 4205
+D5
+~
+~
+0 0 4207
+S
+#4202
+~
+~
+0 9 0
+D2
+~
+~
+0 0 4201
+D5
+~
+~
+0 0 4209
+S
+#4203
+~
+This is really cool ;)
+Now see this.. there is a lot of crap here, and it isn't very pretty right? it is off center and way too long.
+~
+0 9 0
+D3
+~
+~
+0 0 4201
+D5
+~
+~
+0 0 4210
+S
+#4204
+~
+~
+0 9 0
+D0
+~
+~
+0 0 4201
+S
+#4205
+~
+~
+0 9 0
+D5
+~
+~
+0 0 4206
+S
+#4206
+~
+~
+0 8 0
+D1
+~
+~
+0 0 4207
+D4
+~
+~
+0 0 4205
+S
+#4207
+~
+The heat and the extreme humidity cause you to cough as you try to make
+your way through this mess of vines and roots.  You struggle as the plants
+get wrapped around your foot almost every step.  You strain your eyes and
+can barely tell where to go, maybe you should just wander.  
+~
+0 8 0
+D0
+~
+~
+0 0 4209
+D1
+~
+~
+0 0 4210
+D2
+~
+~
+0 0 4208
+D3
+~
+~
+0 0 4206
+D4
+~
+~
+0 0 4201
+S
+#4208
+~
+~
+0 8 0
+D0
+~
+~
+0 0 4207
+D2
+~
+~
+0 0 4211
+D4
+~
+~
+0 0 4204
+S
+#4209
+~
+~
+0 8 0
+D1
+~
+~
+0 0 4213
+D2
+~
+~
+0 0 4207
+D4
+~
+~
+0 0 4202
+S
+#4210
+~
+~
+0 8 0
+D2
+~
+~
+0 0 4212
+D3
+~
+~
+0 0 4207
+D4
+~
+~
+0 0 4203
+S
+#4211
+~
+~
+0 8 0
+D0
+~
+~
+0 0 4208
+D5
+~
+~
+0 0 4216
+S
+#4212
+~
+~
+0 8 0
+D0
+~
+~
+0 0 4210
+D5
+~
+~
+0 0 4215
+S
+#4213
+~
+~
+0 8 0
+D3
+~
+~
+0 0 4209
+D5
+~
+~
+0 0 4214
+S
+#4214
+~
+~
+0 8 0
+D4
+~
+~
+0 0 4213
+S
+#4215
+~
+~
+0 8 0
+D4
+~
+~
+0 0 4212
+D5
+~
+~
+0 0 4217
+S
+#4216
+~
+~
+0 12 0
+D4
+~
+~
+0 0 4211
+S
+#4217
+~
+~
+0 8 0
+D3
+~
+~
+0 0 4219
+D4
+~
+~
+0 0 4215
+D5
+~
+~
+0 0 4220
+S
+#4218
+~
+~
+0 8 0
+D2
+~
+~
+0 0 4217
+D5
+~
+~
+0 0 4227
+S
+#4219
+Into the rot~
+All you can smell is the foul stench of death and decay which seems to be
+pouring from the west.  The green that you have come to expect around you is
+slowly fading to brown.  The plants are shrivelling and withering as death
+slowly takes its hold on them.  You can head towards fresher air to the east
+or further into the decay to the west.  
+~
+0 8 0
+D1
+~
+~
+0 0 4217
+D3
+~
+~
+0 0 4221
+M 80 H 80
+S
+#4220
+~
+add the mob here that requires fertelizer ;)
+~
+0 12 0
+D4
+~
+~
+0 0 4217
+S
+#4221
+A rotting passageway~
+There is nothing here, only death.  The roots dangling down from the
+ceiling are britle, and break as you brush up against them.  Everything
+around you is the same dull yellow-brown color.  Leaves and stems lay strewn
+across your path, and snap underneath your feet.  You can look to the east
+and see a faint light coming from that direction, or head down, further into
+this abyss.  
+~
+0 9 0
+D1
+~
+~
+0 0 4219
+D5
+~
+~
+0 0 4222
+M 80 H 80
+S
+#4222
+Deeper into the rot~
+~
+0 9 0
+D3
+~
+~
+0 0 4223
+D4
+~
+~
+0 0 4221
+M 80 H 80
+S
+#4223
+A rotting passageway~
+~
+0 9 0
+D1
+~
+~
+0 0 4222
+D5
+~
+~
+0 0 4224
+M 80 H 80
+S
+#4224
+Deeper into the rot~
+~
+0 9 0
+D3
+~
+~
+0 0 4225
+D4
+~
+~
+0 0 4223
+M 80 H 80
+S
+#4225
+A rotting passageway~
+~
+0 9 0
+D1
+~
+~
+0 0 4224
+D5
+~
+~
+0 0 4226
+M 80 H 80
+S
+#4226
+A pile of dead plants~
+Your feet feel almost completely stuck in the deep rot.  It surrounds you
+on all sides, almost putting you in the center of a pit.  In the center of
+the pit is a large pile of leaves.  All the dead plants are rotting,
+becoming food again for a new generation of plants.  The idea of sitting
+here isn't too appealing leading you to the obvious conclusion that you
+should get out of here, up the way you came.  
+~
+0 9 0
+D4
+~
+~
+0 0 4225
+M 70 H 70
+S
+#4227
+~
+~
+0 8 0
+D2
+~
+~
+0 0 4228
+D4
+~
+~
+0 0 4218
+S
+#4228
+~
+~
+0 8 0
+D0
+~
+~
+0 0 4227
+D4
+~
+~
+0 0 4229
+S
+#4229
+~
+~
+0 8 0
+D2
+~
+~
+0 0 4230
+D5
+~
+~
+0 0 4228
+S
+#4230
+~
+~
+0 8 0
+D5
+~
+~
+0 0 4231
+S
+#4231
+~
+~
+0 8 0
+D1
+~
+~
+0 0 4232
+D4
+~
+~
+0 0 4230
+S
+#4232
+~
+~
+0 8 0
+D3
+~
+~
+0 0 4231
+S
+#4233
+~
+~
+0 8 0
+D1
+~
+~
+0 0 4231
+D5
+~
+~
+0 0 4234
+S
+#4234
+~
+~
+0 8 0
+D4
+~
+~
+0 0 4233
+S
+#4235
+~
+~
+0 8 0
+D1
+~
+~
+0 0 4236
+S
+#4236
+~
+~
+0 8 0
+D3
+~
+~
+0 0 4235
+S
+#4237
+~
+~
+0 8 0
+D3
+~
+~
+0 0 4234
+D5
+~
+~
+0 0 4238
+S
+#4238
+~
+~
+0 8 0
+D1
+~
+~
+0 0 4240
+D4
+~
+~
+0 0 4237
+D5
+~
+~
+0 0 4239
+S
+#4239
+~
+~
+0 8 0
+D3
+~
+~
+0 0 4241
+D4
+~
+~
+0 0 4238
+D5
+~
+~
+0 0 4247
+S
+#4240
+~
+~
+0 8 0
+D3
+~
+~
+0 0 4238
+S
+#4241
+~
+~
+0 8 0
+D0
+~
+~
+0 0 4242
+D1
+~
+~
+0 0 4239
+D2
+~
+~
+0 0 4244
+S
+#4242
+~
+~
+0 8 0
+D2
+~
+~
+0 0 4241
+D5
+~
+~
+0 0 4245
+S
+#4243
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4241
+D4
+~
+~
+0 0 4250
+D5
+~
+~
+0 0 4248
+S
+#4244
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4241
+D5
+~
+~
+0 0 4249
+S
+#4245
+~
+~
+0 8 0
+D2
+~
+~
+0 0 4246
+D4
+~
+~
+0 0 4242
+S
+#4246
+~
+~
+0 8 0
+D0
+~
+~
+0 0 4245
+D1
+~
+~
+0 0 4247
+D2
+~
+~
+0 0 4249
+D3
+~
+~
+0 0 4248
+S
+#4247
+~
+~
+0 8 0
+D4
+~
+~
+0 0 4239
+S
+#4248
+~
+~
+0 8 0
+D1
+~
+~
+0 0 4246
+D4
+~
+~
+0 0 4243
+S
+#4249
+~
+~
+0 8 0
+D0
+~
+~
+0 0 4246
+D4
+~
+~
+0 0 4244
+S
+#4250
+~
+~
+0 8 0
+D3
+~
+~
+0 0 4251
+D5
+~
+~
+0 0 4243
+S
+#4251
+~
+~
+0 8 0
+D4
+~
+~
+0 0 4252
+S
+#4252
+~
+~
+0 8 0
+D1
+~
+~
+0 0 4253
+D5
+~
+~
+0 0 4251
+S
+#4253
+~
+~
+0 8 0
+D3
+~
+~
+0 0 4252
+D5
+~
+~
+0 0 4255
+S
+#4254
+~
+~
+0 8 0
+D1
+~
+~
+0 0 4252
+S
+#4255
+~
+Compared to the room above, it is really dark in here, allowing the light
+to stream in casting shadows everywhere.  A cool dryer breeze air comes from
+the west, blowing slowy up into the light.  The floor here is very spongey
+moss, forming an almost velvet like carpet.
+~
+0 8 0
+D3
+~
+~
+0 0 4256
+D4
+~
+~
+0 0 4253
+S
+#4256
+~
+It is hard to see anything in this space, as it is in complete darkness. 
+You can feel a shiver run up your spine as the cold dampness starts to seep
+into your bones.  As you step, you can feel the water get squished out of
+the mossy floor and onto your feet.  You can see a glimmer of light coming
+from the east, or you can go down into the darkness.  
+~
+0 9 0
+D1
+~
+~
+0 0 4255
+D5
+~
+~
+0 0 4257
+S
+#4257
+~
+This part of the connecting maze of tunnels is quite large.  It is too
+dark to see where anything is, but you think you can see branches leading
+out in all the cardinal directions.  Upwards there also appears to be a
+path, leading out towards the surface.  All you can hear is the occasional
+drip from somewhere in the darkness.  
+~
+0 9 0
+D0
+~
+~
+0 0 4258
+D1
+~
+~
+0 0 4260
+D2
+~
+~
+0 0 4261
+D3
+~
+~
+0 0 4259
+D4
+~
+~
+0 0 4256
+S
+#4258
+~
+*Wham* You walk right into the wall before you to the north...  Ouch! 
+Well atleast there shouldn't be any marks as the dense foliage seemed to
+have cushioned your encounter.  It is a bit dryer here than it was to the
+south, although that isn't saying much.  You can either head back into the
+darkness to the south or stay here a bit.  
+~
+0 9 0
+D2
+~
+~
+0 0 4257
+S
+#4259
+~
+Just walking into this area makes you uncomfortable.  It is somehow
+darker here and more depressing.  A trickle of water falling from the
+ceiling saps any warmth you had left, leaving your bones chilled.  The water
+flows down into the depths of something resembling your despair, and the
+darkness continues on to the east.  
+~
+0 9 0
+D1
+~
+~
+0 0 4257
+D5
+~
+~
+0 0 4262
+S
+#4260
+~
+The vegetations seems to be getting really thick in this direction. 
+There is the normal moss growing here and there, but vines are starting to
+cover everything.  You can see more vines as you look down into a well lit
+passage.  Some of the vines seem to be reaching for you, maybe you should
+get out of here!  You can go to the west into the darkness or down towards
+the vines.  
+~
+0 9 0
+D3
+~
+~
+0 0 4257
+D5
+~
+~
+0 0 4280
+S
+#4261
+~
+You appear to have come to a dead end.  A slimy substance covers the
+walls, while the floor remains a nice plush moss.  You can head back towards
+the south, or just sit here a bit and hope there isn't anything out there
+lurking in the shadows.  
+~
+0 9 0
+D0
+~
+~
+0 0 4257
+S
+#4262
+~
+Cold air and water flows down from above, chilling you.  Shivers are sent
+down your spine as the wet leaves glide across your body...  Atleast you
+think they're leaves.  It is fairly dark here, allowing you to barely see
+shadows.  The chamber you are in seems to continue to the west and south. 
+You can also head into the cold by going up, or follow the warmth by your
+feet.  
+~
+0 9 0
+D2
+~
+~
+0 0 4264
+D3
+~
+~
+0 0 4263
+D4
+~
+~
+0 0 4259
+D5
+~
+~
+0 0 4266
+S
+#4263
+~
+~
+0 8 0
+D1
+~
+~
+0 0 4262
+D2
+~
+~
+0 0 4265
+D5
+~
+~
+0 0 4266
+S
+#4264
+~
+~
+0 8 0
+D0
+~
+~
+0 0 4262
+D3
+~
+~
+0 0 4265
+D5
+~
+~
+0 0 4266
+S
+#4265
+~
+~
+0 8 0
+D0
+~
+~
+0 0 4263
+D1
+~
+~
+0 0 4264
+D5
+~
+~
+0 0 4266
+S
+#4266
+~
+A dim light fills the area, giving you enough light to see. As you look around you can see vines everywhere, crawling and covering everything.
+As you look up you can see some water trickling down the vines towards the ground.
+The ground is covered with vines with thorns, better be careful not to step on them!
+You think you can work your way down through the vines, or you can crawl back up by heading in any direction other direction.
+~
+0 8 0
+D0
+~
+~
+0 0 4265
+D1
+~
+~
+0 0 4262
+D2
+~
+~
+0 0 4264
+D3
+~
+~
+0 0 4263
+D5
+~
+~
+0 0 4267
+S
+#4267
+~
+As you enter here you notice just how different this room is.  Somehow
+this room is being mysteriously lit, allowing your eyes time to rest from
+all the strain in the darkness.  Every surface is covered with a thick
+covering of thorny vines, with the exception of a small circle in the center
+of the room.  A ray of light shines down from somewhere onto the bare patch
+in the room.  You can go either up or down.  
+~
+0 8 0
+D4
+~
+~
+0 0 4266
+D5
+~
+~
+0 0 4268
+S
+#4268
+On the water's surface~
+A bit of light from the room above shines down, and illuminates you.  You
+are standing at the edge or a rather large aquifer.  The water looks clean
+and cool, great for drinking.  You can see it span off into the darkness to
+the east and south, and of course down into its depths.  
+~
+0 8 6
+D1
+~
+~
+0 0 4270
+D2
+~
+~
+0 0 4269
+D4
+~
+~
+0 0 4267
+D5
+~
+~
+0 0 4274
+S
+#4269
+On the water's surface~
+You are on the surface of an underground lake.  The water is still, cool
+and clear.  From here you think you can make out what appears to be the
+bottom.  You can see on the ceiling a large staligtite, so large that it has
+merged with the cavern wall to the south making a partial barrier.  You can
+go to the north and east onto the water.  
+~
+0 8 6
+D0
+~
+~
+0 0 4268
+D1
+~
+~
+0 0 4271
+D5
+~
+~
+0 0 4277
+S
+#4270
+On the water's surface~
+The water is quiet, the only ripples you can see are those which are
+eminating from your body.  You can hear the bubbling of water off in the
+distance somewhere.  Large staligtites dangle down from the ceiling almost
+touching the water.  You could dive into the water, or continue exploring
+the surface to the east, west and south.  
+~
+0 9 6
+D1
+~
+~
+0 0 4273
+D2
+~
+~
+0 0 4271
+D3
+~
+~
+0 0 4268
+D5
+~
+~
+0 0 4275
+M 80 H 80
+S
+#4271
+On the water's surface~
+The surface of the aquifer is completely still, making it look like one
+large, dark sheet of glass.  Down the surface of the wall, a trickle of
+water runs quietly from the rocks above into the aquifer.  You can continue
+out onto the aquifer to the east, west and north.  
+~
+0 9 6
+D0
+~
+~
+0 0 4270
+D1
+~
+~
+0 0 4272
+D3
+~
+~
+0 0 4269
+D5
+~
+~
+0 0 4278
+S
+#4272
+On the water's surface~
+It is very dim here, only a small amount of light is visible, leaving figures cast in the shadows.
+Rock formations from around you cast shadows, obscuring anything that could be lurking in and around the water.
+~
+0 9 6
+D0
+~
+~
+0 0 4273
+D3
+~
+~
+0 0 4271
+D5
+~
+~
+0 0 4279
+M 80 H 80
+S
+#4273
+On the water's surface~
+You are in a corner of a giant aquifer.  There is a small ledge here on
+which you can sit.  The walls feel cold and wet to the touch but they are as
+smooth as glass.  A drop of water drips onto your head and hits you in the
+eye!  What a cold and miserable place to stay, maybe you should go off to
+the west or south.  
+~
+0 9 6
+D2
+~
+~
+0 0 4272
+D3
+~
+~
+0 0 4270
+M 60 H 60
+S
+#4274
+~
+~
+0 9 12
+D1
+~
+~
+0 0 4275
+D2
+~
+~
+0 0 4277
+D4
+~
+~
+0 0 4268
+S
+#4275
+~
+~
+0 9 12
+D2
+~
+~
+0 0 4278
+D3
+~
+~
+0 0 4274
+S
+#4276
+Just inside a cave~
+It is fairly dark in here, shadows are cast all over the walls from the
+trickle of light coming from the south.  Out of the corner of your eye you
+think you see some movement, but when you turn to face it, it's gone.  You
+can feel the tickle of some bubbles rise from below you as they flow over
+your body.  The cave seems to end here, cornering you in a dead end.  
+~
+0 9 12
+D2
+~
+~
+0 0 4279
+S
+#4277
+~
+~
+0 9 12
+D0
+~
+~
+0 0 4274
+D1
+~
+~
+0 0 4278
+D4
+~
+~
+0 0 4269
+S
+#4278
+~
+~
+0 9 12
+D0
+~
+~
+0 0 4275
+D1
+~
+~
+0 0 4279
+D3
+~
+~
+0 0 4277
+D4
+~
+~
+0 0 4271
+S
+#4279
+~
+It is fairly cool and crisp submerged beneath the waves.  As you look
+above you, you can see the shimmer of light reflect and refract off the
+surface.  If you feel like exploring, a submerged cave lies to the north, or
+you could head west into body of the lake.  
+~
+0 9 12
+D0
+~
+~
+0 0 4276
+D3
+~
+~
+0 0 4278
+D4
+~
+~
+0 0 4272
+S
+#4280
+Deeper and deeper~
+The passageway here has become very difficult to traverse.  There are
+many roots and other things blocking the way.  As you try working your way
+through, the plants seem to be moving towards you, almost as if they are
+trying to stop you.  Maybe you should get out of here by going up, rather
+than heading deeper down.  
+~
+0 9 0
+D4
+~
+~
+0 0 4260
+D5
+~
+~
+0 0 4281
+S
+#4281
+Deeper and deeper~
+The flaura is getting unquestionably thicker the further down you go. 
+You can barely manage to squeeze yourself through.  Tiny hairs off the roots
+cover your mouth, making it difficult to breathe.  You can either squeeze
+your way further down into this forsaken passage, or get out of here by
+heading upwards.  
+~
+0 9 0
+D4
+~
+~
+0 0 4280
+D5
+~
+~
+0 0 4288
+S
+#4282
+~
+~
+0 9 0
+D0
+~
+~
+0 0 4285
+D1
+~
+~
+0 0 4286
+D2
+~
+~
+0 0 4284
+D3
+~
+~
+0 0 4283
+D4
+~
+~
+0 0 4289
+S
+#4283
+~
+am I missing a room south?
+end
+p
+asav
+~
+0 8 0
+D1
+~
+~
+0 0 4285
+D4
+~
+~
+0 0 4282
+D5
+~
+~
+0 0 4290
+S
+#4284
+~
+~
+0 8 0
+D0
+~
+~
+0 0 4283
+D4
+~
+~
+0 0 4282
+D5
+~
+~
+0 0 4290
+S
+#4285
+~
+~
+0 8 0
+D2
+~
+~
+0 0 4286
+D3
+~
+~
+0 0 4283
+D4
+~
+~
+0 0 4282
+D5
+~
+~
+0 0 4290
+S
+#4286
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4285
+D4
+~
+~
+0 0 4282
+D5
+~
+~
+0 0 4290
+S
+#4288
+The end of the line~
+The roots are too thick at this point to allow you to go further down in
+the passage.  In combination with the dense folliage and the sudden increase
+in temperature and humidity, it seems as if you're almost swimming in a sea
+of roots.  The only obvious way is back up the way you came.  
+~
+0 9 0
+E
+roots~
+You look more closely at the roots, and you think you can see a small
+hole you could just fit through.  
+~
+E
+folliage~
+You look more closely at the roots, and you think you can see a small
+hole you could just fit through.  
+~
+D4
+~
+~
+0 0 4281
+S
+#4289
+Through a hole~
+The roots have thinned out a bit here, enough so you can actually breathe
+without having root bits filling your mouth.  The hole you came through is
+much more obvious here, allowing you to go easily back up.  You peer
+downwards into the darkness and you wonder what could be lurking down here,
+in the depths of the earth.  
+~
+0 9 0
+D4
+~
+~
+0 0 4288
+D5
+~
+~
+0 0 4282
+S
+#4290
+Into the light~
+The entire room is almost completely cloaked in darkness.  There is a
+stream of light that is pouring down from the ceiling, isolating a small
+area where a single plant grows.  The soil that the light shines upon is
+dark and rich, perfect for growing.  It is fairly odd that there are no
+other indications of plant life around.  
+~
+0 805306392 0
+D4
+~
+~
+0 0 4282
+S
+#4291
+Empty~
+~
+0 806888708 0
+S
+#4292
+Empty~
+~
+0 4 0
+S
+#4293
+Empty~
+~
+0 806888708 0
+S
+#4294
+Empty~
+~
+0 806888708 0
+S
+#4295
+Empty~
+~
+0 806888708 0
+S
+#4296
+Empty~
+~
+0 806888708 0
+S
+#4297
+Empty~
+~
+0 806888708 0
+S
+#4298
+Empty~
+~
+0 806888708 0
+S
+#4299
+Empty~
+~
+0 806888708 0
+S
+#4300
+Holding Pen~
+This room is for holding certain mobs, if you are in here, please contact
+an imm and explain how you got in here.  
+~
+0 806888716 0
+S
+#4301
+Empty~
+For all those who have sinned, there lies... 
+{x
+{BREDEMPTION{bREDEMPTION{BREDEMPTION{bREDEMPTION{BREDEMPTION{bREDEMPTION{BREDE
+MPTION{bREDEMPTION{BREDEMPTION{bRE           PTION{BREDEMPTION{bREDEMPTION
+{BREDEMPTION{bREDEMPTION{BREDM      {Y@@@@@@@       {bTION{bREDEMTION{BREDMETI
+NION{bREDEMPTION{BREDEMPT    {Y@@@@       @@@@     {BONTION{bREDEMPTION{BRED
+EMPTION{bREDEMPTION{BRE     {Y@@@    @@@@     @@     {BEPTION{bREDEMPTION{BR
+EDEMPTION{bREDEMPTIO     {Y@@@    @@@@@@     @@     {BEDEMPTION{bREDEMPT
+ION{BREDEMPTION{bREDE     {Y@@@     @@@@@@    @@@     {bION{BREADEMPTION{bRE
+EMPTION{BREDEMPTIO       {Y@@@    @@@@@@   @@@       {bEDEMPTION{BREDEMP
+TION{bREDEMPTION{BR         {Y@@@@   @@@@  @@@@         {bMPTION{BREDEMPTI
+ON{bREDMEPTION{BREDE  {R^      {Y@@@@@@@@@@@@@@@   {r^     {bMTION{BREDEMPTION
+{bNTION{BREDEMTION{bRE    {R^{r^     {Y@@@@@@@@@@@@ {r^  ^{R^ ^  {BMPTION{bREDEMPTIO
+{BREDEMEPTION{bREDEMP   {R^^  {r^^  {Y@@@@@@@@@@   {r^^ {R^   {BION{bREDEMPTION{BRED
+{bREDEMPTION{BREDEMPT   {R^ ^{r^ ^  {Y@@@@@@@@@     {r^^ {R^  {bN{BREDEMPTION{bREDEM
+{BEMPTION{bREDEMPTION{BR   {R^^ {r^   {Y@@@@@@@@@     {R^{r^   {bPTION{BREDEMTION{bRED
+N{BREDEIPTION{bREDEMPTI  {R^{r^{R^{r^   {Y@@@@@@@@@   {R^{r^{R^{r^  {BTION{bREDEMPTION{BREDE
+{bREDEMPTION{BREDEMPTION{bR                        EDEMPTION{BREDEMPTION
+{bEMPTION{BREDEMPTION{bREDEMPTION{BREDEMPTION{bREDEMPTION{BREDEMPTION{bREDEMPT 
+~
+0 806888708 0
+S
+#4302
+Empty~
+~
+0 806888708 0
+S
+#4303
+Empty~
+~
+0 806888708 0
+S
+#4304
+Empty~
+~
+0 806888708 0
+S
+#4305
+Empty~
+~
+0 806888708 0
+S
+#4310
+Empty~
+~
+0 4 0
+S
+#4311
+East 1st pair~
+~
+0 4 0
+S
+#4312
+West 2st pair~
+~
+0 0 0
+D1
+~
+~
+0 0 4313
+S
+#4313
+East 2st pair~
+~
+0 0 0
+D3
+~
+~
+0 0 4312
+S
+#4314
+West 3st pair~
+~
+0 4 0
+S
+#4315
+East 3st pair~
+~
+0 0 0
+D3
+~
+~
+0 0 4314
+S
+#4316
+West 4st pair~
+~
+0 0 0
+D1
+~
+~
+0 0 4317
+S
+#4317
+East 4st pair~
+~
+0 0 0
+D3
+~
+~
+0 0 4316
+S
+#4318
+West 5st pair~
+~
+0 0 0
+D1
+~
+~
+0 0 4319
+S
+#4319
+East 5st pair~
+~
+0 0 0
+D3
+~
+~
+0 0 4318
+S
+#4320
+{GCecilia's {xLittle {RWorkshop {Bof {RHorrors and Cheats{x~
+~
+0 805871644 0
+E
+floor~
+The stone floor is the same shade of grey as the sky and is completely plain
+and unscratched.  It is probably too hard for anything to leave as much as a
+scratch on it.
+~
+E
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+~
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 4293 spec_breath_acid Load to: a bird of paradise
+S
+
+
+
+#MOBPROGS
+#4298
+mob echo You hear a sudden CRACK come from the seed!
+mob echo A seed pod explodes! Bits of the shell fly everywhere and hit everyone!
+mob remember $r
+mob echoat $q A piece of shell hits you! OUCH!
+mob damage $q 100 150 lethal
+mob mload 4293
+mob echo You see something emerge from the remains of the seed pod. It is a giant Bird of Pa
+radise!
+mob echo The Bird of Paradise squawks loudly!
+mob forget
+~
+A
+#4297
+mob goto 4300
+mob purge
+mob goto 4293
+~
+A
+#4300
+mob purge $i
+~
+A
+#4210
+~
+A
+#4293
+if isnpc $n
+if ischarm $n
+else
+mob cast teleport $n
+endif
+endif
+~
+A
+#4209
+~
+A
+#4208
+~
+A
+#4318
+~
+A
+#4253
+~
+A
+#4246
+mob goto 4256
+mob call 4250
+~
+A
+#4245
+say down
+if mobs < 6
+mob mload 4250
+endif
+~
+A
+#4244
+say up
+if mobs < 6
+mob mload 4250
+endif
+~
+A
+#4243
+say west
+if mobs < 6
+mob mload 4250
+endif
+~
+A
+#4242
+say south
+if mobs < 6
+mob mload 4250
+endif
+~
+A
+#4241
+say east
+if mobs < 6
+mob mload 4250
+endif
+~
+A
+#4240
+say north
+if mobs < 6
+mob mload 4250
+endif
+~
+A
+#4247
+mob goto 4259
+mob call 4250
+~
+A
+#4252
+mob goto 4261
+mob call 4250
+~
+A
+#4251
+mob goto 4260
+mob call 4250
+~
+A
+#4248
+mob goto 4257
+mob call 4250
+~
+A
+#4250
+~
+A
+#4249
+mob goto 4258
+mob call 4250
+~
+A
+#4200
+mob oload 4200
+drop flower
+mob echo The beautiful flower glistens as the last drop of dew on it fall off.
+~
+A
+#4310
+~
+A
+#4312
+~
+A
+#4314
+~
+A
+#4316
+~
+A
+#4319
+~
+A
+#4317
+~
+A
+#4315
+~
+A
+#4313
+~
+A
+#4320
+~
+A
+#4321
+~
+A
+#4322
+~
+A
+#4290
+if mobhere 4291
+else
+mob echo The sapling drops a small seedpod, which grows into a large seedpod.
+mob mload 4291
+mob goto 4300
+mob mload 4290
+mob goto 4290
+endif
+~
+A
+#4291
+mob echo The earth trembles and shakes!
+mob mload 4292
+mob echo A large vine breaks through the earth and looks for prey to ensnare!
+~
+A
+#4292
+mob echo A seed pod opens a crack and fills the room with spores!
+mob cast discordance $r
+~
+A
+#4294
+if isdelay $i
+else
+emote starts to break and crack!
+mob delay 2
+endif
+~
+A
+#4295
+mob echo You hear a sudden CRACK come from the seed!
+mob echo A seed pod explodes! Bits of the shell fly everywhere and hit everyone!
+mob remember $r
+mob echoat $q A piece of shell hits you! OUCH!
+mob damage $q 100 150 lethal
+mob mload 4293
+mob echo You see something emerge from the remains of the seed pod. It is a giant Bird of Paradise!
+mob echo The Bird of Paradise squawks loudly!
+mob forget
+mob purge $i
+~
+A
+#4296
+emote flaps its wing's and it starts to get very cold!
+mob echo The temperature in the room starts to drop!
+mob cast hailstorm
+~
+A
+#4201
+~
+A
+#4235
+wave
+sleep 4
+wave
+~
+A
+#4325
+~
+A
+#4215
+if ispc $r
+else
+if mobs > 2
+mob purge $i
+else
+if mobhere 4213
+mob purge saturn
+mob mload 4214
+mob purge $i
+else
+if mobhere 4212
+mob purge earth
+mob mload 4213
+mob purge $i
+else
+if mobhere 4211
+mob purge venus
+mob mload 4212
+mob purge $i
+else
+if mobhere 4210
+mob purge mars
+mob mload 4211
+mob purge $i
+else
+mob mload 4210
+mob purge $i
+endif
+endif
+endif
+endif
+endif
+endif
+~
+A
+#4216
+mob echo A sticky spore is released, and floats into the air.
+mob remember $r
+mob echoat $q A sticky spore comes towards you and sticks to you!
+mob echoaround $q A sticky spore comes towards $q and sticks to them!
+give sticky $q
+mob echoat $q The spore tries to stick to your finger, you try and rip it off in disgust!
+mob echoaround $q The spore tries to stick to $q's finger, causing them to try to rip the spore off!
+mob force $q wear sticky
+mob forget
+~
+A
+#4217
+mob echo A sticky spore is released, and floats into the air.
+mob remember $r
+mob echoat $q A sticky spore comes towards you and starts to circle you!
+mob echoaround $q A sticky spore comes towards $q and starts to circle around them!
+give sticky $q
+mob echoat $q The sticky spore tries to displace your floats!
+mob echoaround $q The sticky spore tries to displace $q's floats!
+mob force $q wear sticky
+mob forget
+~
+A
+#4218
+mob echo A sticky spore is released, and floats into the air.
+mob remember $r
+mob echoat $q A sticky spore comes towards you and sticks to you!
+mob echoaround $q A sticky spore comes towards $q and sticks to them!
+give sticky $q
+mob echoat $q The spore sticks to your neck, displacing everything there!
+mob echoaround $q The spore sticks to $q's neck, displacing everything there!
+mob force $q wear sticky
+mob forget
+~
+A
+#4202
+~
+A
+#4203
+~
+A
+#0
+
+#RESETS
+C 15 percent for next reset
+M 1 4216 3 4219 1
+G 0 4216 0
+O 0 4203 0 4221
+C 14 percent for next reset
+M 1 4216 3 4221 1
+G 0 4216 0
+C 14 percent for next reset
+M 1 4217 3 4222 1
+G 0 4217 0
+C 13 percent for next reset
+M 1 4217 3 4223 1
+G 0 4217 0
+C 13 percent for next reset
+M 1 4218 3 4224 1
+G 0 4218 0
+C 10 percent for next reset
+M 1 4218 3 4225 1
+G 0 4218 0
+O 0 4205 0 4226
+O 0 4203 0 4226
+P 0 4206 20 4203 1
+C 100 percent for next reset
+M 1 4215 12 4257 2
+C 100 percent for next reset
+M 1 4215 12 4258 2
+C 100 percent for next reset
+M 1 4215 12 4259 2
+C 100 percent for next reset
+M 1 4215 12 4260 2
+C 100 percent for next reset
+M 1 4215 12 4261 2
+C 30 percent for next reset
+M 1 4200 1 4267 1
+C 15 percent for next reset
+M 1 4201 3 4268 2
+C 15 percent for next reset
+M 1 4202 3 4268 1
+C 3 percent for next reset
+O 0 4208 0 4268
+O 0 4201 0 4268
+C 15 percent for next reset
+M 1 4201 3 4269 2
+O 0 4201 0 4269
+C 3 percent for next reset
+O 0 4208 0 4269
+C 15 percent for next reset
+M 1 4203 3 4270 2
+C 15 percent for next reset
+M 1 4201 3 4270 2
+C 3 percent for next reset
+O 0 4208 0 4270
+O 0 4201 0 4270
+C 15 percent for next reset
+M 1 4201 3 4271 2
+C 15 percent for next reset
+M 1 4202 3 4271 1
+C 3 percent for next reset
+O 0 4208 0 4271
+O 0 4201 0 4271
+C 15 percent for next reset
+M 1 4203 3 4272 2
+C 15 percent for next reset
+M 1 4201 3 4272 2
+C 3 percent for next reset
+O 0 4208 0 4272
+O 0 4201 0 4272
+C 15 percent for next reset
+M 1 4202 3 4273 1
+C 15 percent for next reset
+M 1 4201 3 4273 2
+C 3 percent for next reset
+O 0 4208 0 4273
+O 0 4202 0 4273
+O 0 4201 0 4273
+O 0 4201 0 4274
+O 0 4201 0 4275
+O 0 4201 0 4276
+O 0 4201 0 4277
+O 0 4201 0 4278
+O 0 4201 0 4279
+C 100 percent for next reset
+M 1 4215 12 4280 2
+O 0 4288 0 4288
+M 1 4290 1 4290 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,2840 @@
+#AREADATA
+Name Digger's Bane~
+Builders None~
+VNUMs 12100 12199
+Credits { 5 15} Avacar      Digger's Bane~
+Security 9
+Xcontinent 1
+Age 11
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#12100
+explorer~
+an explorer~
+An explorer marches towards the encampment.
+~
+An explorer like you is heading towards the encampment.
+~
+troll~
+AG J 0 0
+5 0 2d6+30 1d1+100 1d6+6 none
+5 5 5 5
+O 0 Q H
+stand stand either 200
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12101
+camp dweller someone~
+a camp dweller~
+Someone wanders by, taking care of the daily activities of camp.
+~
+One of the many troll citizens of this camp, they don't really catch your
+eye, and simply shuffle on their way, going about their duties.
+~
+troll~
+AG J 600 0
+7 1 2d6+85 1d1+100 1d8+3 punch
+4 4 4 4
+O 0 Q H
+stand stand either 230
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12102
+camp guard thug~
+a camp guard~
+A hired thug protects the entrance to the camp.
+~
+This fellow is a rather large, slow-witted, burly man who has been hired
+to protect the camp from the surrounding area.  
+~
+troll~
+AB JV 800 0
+9 1 2d6+80 1d1+100 2d4+5 slash
+2 2 2 2
+0 0 Q H
+stand stand male 200
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12103
+Adventurer troll~
+an adventurer~
+An adventurer is getting ready to head north and find the buried treasure!
+~
+This person means business.  They're wearing a certified adventuring cap,
+shirt, and pants, carrying a certified 'map to the temple's treasure'
+(bought from a camp dweller most likely) and carry a certified
+treasure-digging shovel.  
+~
+troll~
+AG J 600 0
+8 1 2d7+70 1d1+100 2d4+4 cleave
+3 3 3 3
+O 0 Q H
+stand stand either 230
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12104
+Camp Chef~
+a camp chef~
+A camp chef wanders around, swinging his laddle at you.
+~
+One of the army of cooks needed to keep everyone fed, this guy knows his
+soup.  I'd stay away from him if I were you.  
+~
+troll~
+ABG J 600 0
+7 1 2d6+85 1d1+100 1d8+1 cleave
+4 4 4 4
+O 0 Q H
+stand stand either 230
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12105
+Waiter shopkeeper~
+a small waiter~
+A waiter waits upon your selection.
+~
+A waiter wearing a white tuxedo (in the desert?)  Calmly taps his foot as
+he waits for your order.  
+~
+troll~
+AB J 0 0
+20 2 3d9+333 1d1+100 2d8+5 none
+-4 -4 -4 -4
+0 0 Q H
+stand stand male 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12106
+Servant~
+a servant~
+A noble's servant bows before you.
+~
+This person is wearing the light red robes of a servant.  Bowing their
+head, they move out of the way as people pass.  
+~
+troll~
+AG J 600 0
+7 1 2d6+85 1d1+100 1d8+1 punch
+4 4 4 4
+O 0 Q H
+stand stand either 230
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12107
+Male falcon~
+a male falcon~
+A male falcon watches over his chicks.
+~
+This beautiful falcon watches over the camp, and keeps it otherwise bird-free.
+~
+song bird~
+AB T 0 0
+10 1 2d7+121 1d1+100 2d4+2 peck
+1 1 1 1
+FHR 0 0 0
+stand stand male 0
+AGW ACDEFHKP medium 0 the guilds~
+#12108
+Falcon Female~
+a female falcon~
+A female falcon watches over her chicks.
+~
+This beautiful falcon watches over the camp, and keeps it otherwise bird-free.
+~
+song bird~
+AB T 0 0
+10 1 2d7+121 1d1+100 2d4+2 none
+1 1 1 1
+FHR 0 0 0
+stand stand female 0
+AGW ACDEFHKP medium 0 the guilds~
+#12109
+Moira Camp Leader~
+Moira~
+Moira, one of the leaders of this excavation is looking over her notes.
+~
+Archeologist by day, adventurer by night, Moira has followed Bell here to
+find the supposed treasure buried in the temple to the north.  Recently, she
+thinks they're getting close but lacks real evidence.  
+~
+troll~
+AB J 0 0
+12 1 2d10+150 1d1+100 2d8+4 slash
+0 0 0 0
+0 0 Q H
+stand stand female 1500
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12110
+Bell~
+Bell, leader of the expedition~
+Bell is giving detailed instructions to a crowd.
+~
+Bell is a tall troll, like all the others here, and found the original
+map to the temple they're trying to recover.  He hopes to find a great
+treasure in the temple.  
+~
+troll~
+AB J 0 0
+13 1 2d10+170 1d1+100 2d5+3 none
+-1 -1 -1 -1
+0 0 Q H
+stand stand male 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12111
+crowd onlookers~
+a crowd of onlookers~
+A crowd is here.
+~
+This is not one person, but many people in a huge mob!
+~
+troll~
+AB J 1000 0
+14 1 4d10+200 1d1+100 1d3+3 stomp
+1 1 1 1
+ACD 0 Q H
+stand stand none 1000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12112
+camp noble~
+a camp noble~
+A noble wanders past.
+~
+One of the nobles who have has brought money to fund this expedition,
+this person is wearing expensive clothing and orders everyone around.  
+~
+troll~
+AG J 600 0
+9 0 2d6+110 1d1+100 1d8+2 none
+2 2 2 2
+O 0 Q H
+stand stand either 1000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12113
+Qlaxnor elf forgemaster shopkeeper~
+Qlaxnor the Terratar~
+A strange elf pounds away on an anvil.
+~
+Qlaxnor is a Terratar, from the far off land of Palankcaren.  His skin is
+of an earthy tone, and seems hard as rock.  He's wearing a blacksmith's vest
+and sweat pours down his face.  No one from the encampment is quite sure why
+he joined them, but he arrived with a purpose, and now intends to stay until
+the dig is complete...  
+~
+elf~
+AB J 0 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12114
+Crector shopkeeper~
+Crector, the general store owner~
+The shop owner wanders among the tables.
+~
+Crector is an ugly, twisted troll.  He is wearing simple clothing, and wanders
+among the tables, trying to sell you trinkets and other 'useful' things.
+~
+troll~
+AB J 0 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 0 BQ HZ
+stand stand male 0
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12115
+baby gliglantari creature~
+a baby gliglantari~
+A small, but putrid creature is wandering the hills.
+~
+This creature is obviously a baby.  Its features and claws are not fully
+formed.  It has claws on short arms, mini fangs from its mouth, and scales
+running up its back.  
+~
+deamon~
+A CDFJT 0 0
+5 0 2d6+60 1d1+100 1d6+1 bite
+5 5 5 5
+CFH BKTZ H NS
+stand stand none 0
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#12116
+worker~
+a worker~
+A worker is heading between the excavation site and the camp.
+~
+One of the hired workers, this person is either just on or off duty since
+they're travelling between the two sites.  Wearing overalls with large
+pockets, and carrying a toolbox, they have everything they need with them.  
+~
+troll~
+AG J 600 0
+7 1 2d6+50 1d1+100 2d8+3 none
+4 4 4 4
+O 0 Q H
+stand stand either 230
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12117
+Archeologist~
+an archeologist~
+An archeologist works to recover the temple.
+~
+The archeologist is wearing a once-white lab coat.  The pockets of the
+coat are filled with brushes and files.
+~
+troll~
+AG J 600 0
+10 1 2d7+121 1d1+100 2d4+2 none
+1 1 1 1
+O 0 Q H
+stand stand either 230
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12118
+crazed bloody kraxnor person corpse~
+Kraxnor the crazy~
+A crazed, bloody person is lying on the floor.
+~
+Clothing torn to rags, blood all over his body, one eye clawed out,
+Kraxnor is in bad shape.  All his companions have left the area or been
+killed by something...  Kraxnor himself is raving that 'They!  They are
+coming'!  He's holding a strange shape in his hand.  
+~
+troll~
+AF J 0 0
+12 1 1d10+120 1d1+100 1d10+3 punch
+0 0 0 0
+0 0 Q H
+rest rest male 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M greet 12100 90~
+M death 12102 100~
+M kill 12101 20~
+#12119
+baby gliglantari~
+a baby gliglantari~
+A small gliglantari has tunneled out of the walls to find you!
+~
+This creature is obviously a baby.  Its features and claws are not fully
+formed.  It has claws on short arms, mini fangs from its mouth, and scales
+running up its back.  
+~
+deamon~
+AF CDFJT 0 0
+5 0 2d6+60 1d1+100 1d6+1 none
+5 5 5 5
+CFH B H NS
+stand stand none 0
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#12120
+gliglantari lesser~
+a lesser gliglantari~
+A gliglantari prowling the halls.
+~
+This is a medium-sized Gliglantari.  Long, sharp claws on three-fingered
+hands hang on each of its short but powerful arms.  It balances on two feet,
+with the aid of a tail, and is covered in black, slimy scales.  Fangs,
+protruding from black lips, drip acid, burning holes in the floor.  
+~
+deamon~
+AF DFJPTa -1000 0
+13 -1 2d10+150 1d1+100 2d6+5 acbite
+-1 -1 -1 -1
+CFHKLR BK H NSY
+stand stand male 2000
+ABCGZa ABCDEFHJKQUVX medium 0 the guilds~
+#12121
+lesser temple guardian~
+a lesser temple guardian~
+A lesser temple guardian stands to one side.
+~
+A large, stone guardian watches over the temple.  It is part of the very
+temple itself, and cannot leave this room.  Made of obsidian, it looks like
+a rather tough target.  
+~
+human~
+ABR D -1000 0
+10 1 2d7+121 1d1+100 2d4+2 smite
+1 1 1 1
+CFH B H NS
+stand stand none 800
+ADHJMV ABCDEFGHIJK medium 0 the guilds~
+#12122
+Temple Guardian~
+the temple guardian~
+Hooked into the very building, the Temple Guardian has watched your progress.
+~
+A large, stone guardian watches over the temple.  It is part of the very
+temple itself, and cannot leave this room.  Made of obsidian, it looks like
+a rather tough target.  
+~
+human~
+ABR D -1000 0
+14 1 3d10+150 1d1+100 3d1+2 smite
+-1 -1 -1 -1
+CFH B H NS
+stand stand none 800
+AHJMV ABCDEFGHIJK medium 0 the guilds~
+M death 12104 100~
+#12123
+construct~
+Wizi construct~
+A wizi construct
+~
+~
+human~
+AZ 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 12103 You will never reach the gateway!~
+#12124
+gliglantari greater~
+a greater gliglantari~
+A gliglantari from the Worship room looks rather hungry.
+~
+This is a large-sized Gliglantari.  Long, sharp claws on three-fingered
+hands hang on each of its short but powerful arms.  It balances on two feet,
+with the aid of a tail, and is covered in black, slimy scales.  Fangs,
+protruding from black lips, drip acid, which burns holes in the floor.  
+~
+deamon~
+AF DFJPTVa -1000 0
+15 -1 3d9+208 1d1+100 2d6+3 acbite
+-2 -2 -2 -2
+CFHKLR BK H NSY
+stand stand either 2500
+ABCGZa ABCDEFHJKQUVX medium 0 the guilds~
+#12125
+gliglantari priest~
+a gliglantari priest~
+Wearing flowing, scaled robes, a gliglantari priest worships the portal.
+~
+The gliglantari priest is larger than most gliglantari, yet its claws are
+shorter.  It is wearing ragged robes which end in cruel hanging spikes.  
+~
+deamon~
+ABF DFJPTVa -1000 0
+15 0 3d9+208 1d1+100 2d6+3 none
+-2 -2 -2 -2
+CFHKL BK H NSY
+stand stand either 2500
+ABCGZa ABCDEFHJKQUVX medium 0 the guilds~
+#12126
+Gliglantari high priest~
+the gliglantari High Priest~
+Floating nearby the portal, the gliglantari High Priest summons minions from beyond.
+~
+The Gliglantari High Priest has tattoos all over its body.  It waves its
+arms in a strange motion, and enchants in a language foreign to you.  
+~
+deamon~
+AF DFJPTVa -1000 0
+20 -3 3d9+333 1d1+100 2d8+5 acbite
+-4 -4 -4 -4
+ACEFHKL BK H NSY
+stand stand either 4000
+ABCGZa ABCDEFHJKQUVX medium 0 the guilds~
+#12190
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12191
+mistress dragon~
+Skywise's Mistress~
+Skywise's Mistress is resting here peacefully.
+~
+Skywise's Mistress is resting here peacefully.
+You see a beautiful young Dragoness lying here in wait of her
+Hero to return.
+~
+green dragon~
+A HJT -1000 0
+60 40 50d10+9500 1d1+100 8d6+28 claw
+-30 -30 -30 -30
+ABCDFIK BHIb BEHIL J
+rest rest female 100
+ABHMVZ ABCDEFGHIJKLPQUVWX giant ? the guilds~
+#12192
+A small gargoyle~
+A small gargoyle~
+A small gargoyle is here.
+~
+A small gargoyle stands here, ready to be worked on.@
+-
+~
+gargoyle~
+A JT 0 0
+60 6 50d11+15000 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 LQ
+stand stand none 0
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#12199
+Guardian of Palankcaren~
+A Guardian of Palankcaren~
+Visiting from her home, a Guardian of Palankcaren watches over the Barracks.
+~
+Wearing the long, flowing robes of a Valocarian Guardian, this woman
+watches over the barracks for Avacar.  Any visitors must check in with her,
+and should listen to her instructions.  
+~
+human~
+ABJKa 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#12100
+stream water river~
+The shallow river~
+The river babbles around the ford stones.~
+water~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#12101
+cookfire fire~
+a small cook fire~
+Hot coals are glowing in the cookfire.~
+fire~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+cook~
+A cookfire burns slowly, within its circle of rocks.  Some food is being
+heated over it.  
+~
+#12102
+tables chairs~
+A driftwood table~
+Some tables with chairs offer a place to rest while eating your meal.~
+wood~
+furniture 0 0
+10 1000 AEN 0 0
+0 0 0 P
+#12103
+water pool shrine~
+a small pool of water~
+Around the statue, a small pool of water slowly whirls.~
+water~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#12104
+sliver stick~
+Sliver on a Stick~
+A squewered insect has been char-broiled.~
+wood~
+food 0 AO
+3 3 0 0 0
+0 13 13 P
+#12105
+gargoyle tongue~
+the cooked tongue of a gargoyle~
+The tongue of a large beast is releasing a nice aroma.~
+meat~
+food 0 AO
+5 5 0 0 0
+0 13 30 P
+#12106
+official adventuring shovel silver~
+an Official Adventuring Shovel (TM)~
+A long silver shovel has been left in the ground.~
+silver~
+weapon 0 AN
+mace 2 3 none 0
+8 40 500 P
+#12107
+sunhat~
+a sunhat~
+A sunhat with a large brim is covered with dirt.~
+wood~
+armor I AE
+4 4 4 3 0
+9 15 400 P
+#12108
+key small~
+a small metal key~
+A key has been left to rust.~
+metal~
+key 0 AO
+0 0 0 0 0
+0 0 20 P
+#12109
+wooden chest~
+a wodden chest~
+A wooden chest sits in the corner.~
+wood~
+container 0 0
+0 ACD 12108 1000 10
+0 0 0 P
+#12110
+silver shovel~
+a silver shovel~
+A long silver shovel has been left in the ground.~
+silver~
+weapon 0 AN
+mace 2 3 none 0
+9 40 800 P
+A
+19 1  
+#12111
+silver pick axe~
+a silver-handled pick-axe~
+A pick-axe has a silver handle.~
+silver~
+weapon 0 AN
+axe 3 2 pierce 0
+8 30 750 P
+A
+18 1  
+#12112
+toolbox red~
+a {rred{x toolbox~
+A toolbox was left behind.~
+metal~
+weapon 0 AN
+exotic 3 2 smash 0
+11 45 500 P
+#12113
+purple potion SOOPP vial~
+a vial of SOOPP~
+A large vial of a strange purple liquid is here.~
+alcohol~
+potion 0 AO
+7 'scramble' 'slow' 'frenzy' 'reserved'
+0 0 500 P
+A
+2 -5  
+#12114
+crimson pill~
+a crimson pill~
+A crimson pill sparkles like blood.~
+plastic~
+pill 0 AO
+13 'infravision' 'reserved' 'reserved' 'reserved'
+5 2 0 P
+#12115
+small torch~
+a small torch~
+A torch has fallen here.~
+wood~
+light 0 A
+0 0 2 0 0
+0 0 150 P
+#12116
+oblong device~
+an oblong device~
+A strange, oblong device has been pulled out of the statue in the temple.~
+adamantite~
+key 0 AO
+0 0 0 0 0
+0 8 0 P
+#12117
+parchment note~
+a parchment note~
+A slip of parchment has a note written on it.~
+parchment~
+map P AO
+0 0 0 0 0
+0 2 0 P
+E
+note~
+Kraxnor disappeared into the temple yesterday.  He took
+ten workers with him.  We haven't found any of them since.
+I hope they're okay.
+-Bell
+~
+#12118
+work gloves pair~
+a pair of work gloves~
+A pair of work gloves are covered in dirt.~
+leather~
+armor 0 AH
+5 5 5 1 0
+11 12 560 P
+A
+1 1  
+#12119
+bloody corpse mess~
+a bloody corpse~
+A bloody mess on the floor was once a corpse.~
+corpse~
+container 0 0
+1000 0 0 1000 30
+0 5000 0 P
+#12120
+bloody journal~
+a bloody journal~
+With pages scattered everywhere, there isn't much left of a bloody journal.~
+parchment~
+map 0 AO
+0 0 0 0 0
+0 8 100 P
+E
+journal~
+The pages of the journal are mostly soaked in blood, obscuring
+the text.  A few passages are still legible:
+ 
+ ... found the inner sanctum.  Strange creatures everywhere.  They
+seem to speak some sort of language among them, but I don't know it...
+ 
+ 
+ ... the guardian is somehow linked to this place.  It might be the
+key to finding the treasure...
+ 
+The rest is illegible.
+~
+#12121
+obsidian key metal~
+an obsidian key~
+A key made of dark metal has fallen here.~
+obsidian~
+key F AO
+0 0 0 0 0
+0 8 20 P
+#12122
+large key~
+a large key~
+A large key was dropped here.~
+metal~
+key 0 AO
+0 0 0 0 0
+0 8 100 P
+#12123
+sceptre pain spikes strange~
+a sceptre of pain~
+A strange, sceptre with spikes glints in the light.~
+obsidian~
+wand 0 AO
+15 8 5 'cause serious' 0
+13 32 600 P
+#12124
+cruel green claws~
+cruel {ggreen{x claws~
+Green claws were cut off a gliglantari.~
+nail~
+weapon 0 AN
+exotic 2 6 claw L
+14 43 0 P
+#12125
+cruel red fangs~
+cruel {rred{x fangs~
+Red fangs were cut off a gliglantari.~
+nail~
+weapon 0 AN
+dagger 2 5 claw C
+14 43 0 P
+#12126
+Gliglantari Scales~
+the scales of a gliglantari~
+A set of gliglantari scales have fallen here.~
+scale~
+armor A AD
+4 4 4 3 0
+15 120 2000 P
+A
+1 1  
+A
+5 1  
+#12127
+A Portal Focus~
+a portal focus~
+Drawing power from another dimension, a portal focus pulsates.~
+crystal~
+warp_stone 0 AO
+0 0 0 0 0
+13 14 1200 P
+A
+13 10  
+A
+14 -30  
+A
+2 1  
+A
+1 1  
+#12190
+midday sun pill piece essence~
+the essence of the {Wmidday{Y sun{x~
+The bottled essence of the {Wmidday{Y sun{x has been captured in a vial, and left here.  ~
+wood~
+pill 0 AO
+25 'sanctuary' 'summon angel' 'haste' 'bless'
+0 0 0 P
+#12191
+restring role play voucher rp~
+a role-play restring voucher~
+Turn this voucher into any participating level 56+ imm to receive an in-character restring~
+paper~
+trash TY A
+0 0 0 0 0
+0 10 0 P
+E
+voucher~
+This voucher is for a role-play restring.  If redeemed with a
+participating immortal, this voucher is only valid for a restring which is
+in-character for you.  It must be pertinent to your back story, and not
+simply a good joke.  
+ 
+Non-participating immortals can choose to redeem or not redeem this
+in any way they see fit.
+~
+#12192
+Midnight Moon~
+the concentrated essence of the {Dmidnight{W moon{x~
+A vial of essence of {DMidnight{W Moon{x has been left here, sucking in all light.~
+food~
+pill 0 AO
+30 'cloak of mind' 'animal growth' 'darkness' 'mirror image'
+0 5 0 P
+#12193
+Poster hanging sign~
+A Large Poster~
+A poster reminds you of the {RCapture the Flag{x game tonight at {Y7pm{x.  Note {RCicada{x to sign up.~
+cloth~
+trash O 0
+0 0 0 0 0
+0 0 0 P
+E
+poster~
+Hear-ye, Hear-ye: you are invited to a game of {RCapture the Flag{x.  The
+game begins tonight at {Y7pm{x.  You must note {RCicada{x to sign up.  There
+are {Ws{bp{Ge{Dc{mi{Ra{xl{ prizes available.  
+~
+#12194
+an Arena and Portal Key~
+the arena and portal key~
+The Key to the Command Centre has been left here.~
+metal~
+key T AO
+0 0 0 0 0
+0 0 0 P
+E
+key~
+In the case of mortals arriving in the Command Centre, this key can be
+used to lock the portal room off, or to lock them into the arena for the
+purposes of fighting.  The Doors default open, since most of the time we
+don't need those areas locked away.  
+~
+#12195
+emergency portal portable transponder~
+Avacar's Emergency Portable Portal~
+For use in emergency cases only, a Portable Portal is here.~
+wood~
+portal 0 AO
+0 0 4 12199 0
+0 0 0 P
+E
+portal~
+For use during emergencies, Avacar supplies his warriors with an
+emergency portal portal to be used to return to the Command Centre.  
+~
+#12196
+Avacar's Chair~
+Avacar's Chair~
+Tall, and carved of Dragons, Avacar's chair sits at the end of the table.~
+mohogany~
+furniture O 0
+1 0 EHKN 0 0
+0 0 0 P
+#12197
+table strategy~
+Avacar's mahogany strategy table~
+Covered in maps and pins, Avacar's Strategy Table takes up most of the hall.~
+mahogany~
+furniture O 0
+15 0 ADGJN 0 0
+0 0 0 P
+#12198
+barrack bunks~
+the barrack bunks~
+Against a wall, the barrack bunks offer comfort.~
+wood~
+furniture O 0
+30 0 AILN 110 110
+0 0 0 P
+#12199
+fountain~
+an Elder Dragon Fountain~
+Built into the wall, an Elder Dragon serves you sustenance.~
+flesh~
+fountain O 0
+0 0 'lemonade' 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#12100
+A Path through the Hills~
+Rolling hills with trees and low shrubbery extend out as far as the eye
+can see.  There is a small path leading north from this point, around the
+next hill.  In the far distance, one hill seems a fair bit larger than the
+rest.  The sound of running water is coming from the north.  
+~
+0 0 4
+D0
+~
+~
+0 0 12101
+D1
+~
+~
+0 0 12185
+S
+#12101
+The Ford~
+Wolds and foothills are the terrain here.  A small path leads up to a
+shallow river, which runs east-west.  Some stepping stones have been placed
+in the water to ease the crossing.  The path continues north and south of
+the ford.  
+~
+0 0 4
+D0
+~
+~
+0 0 12102
+D2
+~
+~
+0 0 12100
+S
+#12102
+A Path Through the Foothills~
+Small hills obscure the view of the surrounding terrain.  A path winds
+among the hills, and disappears behind the next one.  From the south, the
+sound of water can be heard.  North, some smoke plumes rise somewhere past
+the hill.  
+~
+0 0 4
+D0
+~
+~
+0 0 12103
+D2
+~
+~
+0 0 12101
+S
+#12103
+A Path Through the Foothills~
+Smoke rises in the distance and the sounds of a gathering of people can
+be heard to the north, just around the next hill.  South, a path wanders off
+into the distance, around shrubbery and foothill, rock and tree.  Some frogs
+are hopping in a southern direction.  Exits are north and south.  
+~
+0 0 4
+E
+frog~
+These frogs must be heading toward the stream.
+~
+D0
+~
+~
+0 0 12104
+D2
+~
+~
+0 0 12102
+S
+#12104
+Entrance to the Treasure Seeker's Camp~
+Two large poles lean together to form a gateway into the camp.  A wooden
+fence circles the camp, which looks to be a few square leagues in size. 
+Large and small tents dot the campground, with small cook fires shared
+between every few tents.  A shack or two has been put together from sticks
+and rocks scavenged from the area.  Off to the side, a smithy can be made
+out.  South, a path begins and leads away into the foothills, which stretch
+out in all directions.  A large gate blocks the way into the camp to the
+North.  
+~
+0 0 4
+D0
+~
+gate~
+1 0 12105
+D2
+~
+~
+0 0 12103
+S
+#12105
+A Crossroads in the Camp~
+This is a crossroads of the camp.  South, two large poles stand to form a
+gate in the camp walls.  All around, there are tents with people running
+about.  A path runs north through the camp, and a distance away, you can
+make out a central fire pit.  East and west, the camp stretches out towards
+yet more tents.  
+~
+0 0 10
+D0
+~
+~
+0 0 12125
+D1
+~
+~
+0 0 12106
+D2
+~
+gate~
+1 0 12104
+D3
+~
+~
+0 0 12126
+S
+#12106
+A Path through the Tents~
+The tents in this area seem to be larger, with secondary tents attached.
+To the east, a cook fire can be seen, while west, there appears to be an
+intersection.  A wooden fence circles the camp ground to the south.  
+~
+0 0 10
+D1
+~
+~
+0 0 12107
+D3
+~
+~
+0 0 12105
+S
+#12107
+The South-East Cookfire~
+A small cook fire is contained in a circle of rocks.  Some pots are
+boiling water over it.  South, a largish tent has some delicious smells
+coming from it.  East, a small tent seems to be someone's temporary home on
+this excursion.  West leads towards a path through the tents, while north
+heads off around a larger tent.  
+~
+0 0 10
+D0
+~
+~
+0 0 12110
+D1
+~
+~
+0 0 12109
+D2
+~
+~
+0 0 12108
+D3
+~
+~
+0 0 12106
+S
+#12108
+Inside a "Restaurant"~
+This tent seems to be as close to a restaurant as is available from this
+camp.  A largish man sits behind a counter, with a few choice plates ready
+to be served to you.  A few tables have been thrown together from drift
+wood, and the chairs are fairly inviting after all the walking around the
+campground.  Today's special: Sliver on a stick, and Gargoyle tongue.  A
+tent flap allows exit north, back out to the camp.  
+~
+0 8 10
+D0
+~
+~
+0 0 12107
+S
+#12109
+A House-Tent~
+This tent is evidently someone's home.  A small pallet is laid out
+against one wall.  At the other side, a folding desk is covered with maps
+and sketches of the surrounding area.  A few writing implements are
+scattered all over the desk, but for the most part, the tent is clean.  A
+small pile of clothing sits in one corner.  Light shines into the tent from
+the door to the west.  
+~
+0 8 10
+D3
+~
+~
+0 0 12107
+S
+#12110
+A Path Past the Fence~
+A narrow path circles a large tent to the south; there are some good
+smells coming from that direction.  Directly to the east, a wooden palisade
+protects the camp from nocturnal predators.  West, some medium sized tents
+have been set up, blocking your path deeper into the campground.  North, an
+intersection is around the tent.  
+~
+0 0 10
+D0
+~
+~
+0 0 12112
+D2
+~
+~
+0 0 12107
+D3
+~
+~
+0 0 12111
+S
+#12111
+Inside a Small Tent~
+This is a small tent.  A large tent stands right beside it, but guards
+barred the entrance; as such, this is the tent that was accessible.  This
+tent is evidently that of a servant.  There is no bed or pallet, only a pile
+of straw.  In one corner, some dishes are sitting in cold water.  A single
+change of clothes are draped over a chair.  East, there is a path near a
+fence, leading North-South.  
+~
+0 8 10
+D1
+~
+~
+0 0 12110
+S
+#12112
+An Intersection at a Large Pole~
+Two paths cross at a small clearing in the tents.  A large pole is
+standing upright here.  At the top, some falcons appear to be nesting.  The
+pole was probably placed here especially for these falcons.  They seem to
+keep away most other small birds.  South, the path continues towards some
+cook fires, along the fence.  North the path winds around yet more tents. 
+West, you can make out a clearing in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 12142
+D2
+~
+~
+0 0 12110
+D3
+~
+~
+0 0 12114
+D4
+~
+~
+0 0 12113
+S
+#12113
+Hovering Beside the Nest~
+About two feet away from the falcon's nest, it is easy to make out their
+home.  The nest is made mostly of feathers and leaves.  It is placed on a
+wooden platform, built into the pole.  Some chicks are awaiting food from
+their mother, while both parent falcons are perched.  Below, a clearing can
+be seen around the pole, and tents circling it in all directions.  It would
+be possible to fly down to the clearing.  
+~
+0 0 9
+D5
+~
+~
+0 0 12112
+S
+#12114
+A Path Between Clearings~
+East and west, clearings are on both sides of this path.  The eastern
+clearing seems to be centered around a pole, while the western one around a
+very large fire pit.  North and south, tents line the trodden ground.  Far
+east, you can make out a wooden palisade which circles the campground.  
+~
+0 0 10
+D0
+~
+~
+0 0 12115
+D1
+~
+~
+0 0 12112
+D3
+~
+~
+0 0 12116
+S
+#12115
+Moira's Tent~
+This is the tent of Moira.  She's one of the key explorers in this
+expedition.  A small bed rests against one wall, while a lamp on a desk at
+the other side flickers in the breeze.  A small journal sits upon the table.
+The tent opens through a flap, south, to the outside.  
+~
+0 8 10
+E
+journal~
+Flipping to the most recent entry, the page reads: It has been 91 days
+since we first arrived.  The dig site was progressing well, but now I fear
+the worst.  Six of our employees have now disappeared after entering the
+temple we discovered.  We had hoped to find the treasure alluded to in
+Bell's map, but now I wonder if the treasure exists at all.  
+~
+D2
+~
+~
+0 0 12114
+S
+#12116
+Eastern Side of the Central Clearing~
+A large common ground is defined by a circle of tents and cabins.  In the
+centre, just west of here, a large fire pit is surrounded by people.  East, a
+path wanders off between the tents.  
+~
+0 0 0
+D0
+~
+~
+0 0 12123
+D1
+~
+~
+0 0 12114
+D2
+~
+~
+0 0 12117
+D3
+~
+~
+0 0 12124
+S
+#12117
+South-Eastern Side of the Central Clearing~
+A large camp fire area opens up here.  It expands north and west from
+this position.  South, a path leads through the tents.  In that direction,
+the southern gate to the campground can just barely be seen.  
+~
+0 0 10
+D0
+~
+~
+0 0 12116
+D2
+~
+~
+0 0 12125
+D3
+~
+~
+0 0 12118
+S
+#12118
+Southern Side of the Central Clearing~
+A large common area has been cleared in the middle of the camp.  To the
+north, a huge fire pit acts as the nucleus to the clearing.  South, there
+are tents blocking passage, while the clearing itself stretches east and
+west.  
+~
+0 0 10
+D0
+~
+~
+0 0 12124
+D1
+~
+~
+0 0 12117
+D3
+~
+~
+0 0 12119
+S
+#12119
+South-Western Side of the Central Clearing~
+This is the south west corner of the large clearing at the centre of the
+camp.  The clearing is ringed by numerous tents on all sides.  Directly
+west, a small cabin has been cobbled together from some wood and stone. 
+South, the ring of tents bar the path, while north, a turn off to the west
+can be seen.  
+~
+0 0 10
+D0
+~
+~
+0 0 12120
+D1
+~
+~
+0 0 12118
+D3
+~
+~
+0 0 12132
+S
+#12120
+Western Side of the Central Clearing~
+This is the western side of a large clearing in the camp.  To the east,
+there is a large fire pit.  The grass around here looks dead, trampled and
+yellow.  A few bugs crawl through cracks in the caked earth, and the people
+of the camp pass by without taking much notice of anything.  Exits lead off
+in all cardinal directions.  
+~
+0 0 10
+D0
+~
+~
+0 0 12121
+D1
+~
+~
+0 0 12124
+D2
+~
+~
+0 0 12119
+D3
+~
+~
+0 0 12131
+S
+#12121
+North-Western Side of the Central Clearing~
+A large clearing has been trampled into the centre of the camp.  The
+campground was evidently chosen because it is the only flat ground around
+for miles.  This clearing is the flattest part.  Many tents circle the edges
+of the campground, and bar the way.  
+~
+0 0 10
+D1
+~
+~
+0 0 12122
+D2
+~
+~
+0 0 12120
+S
+#12122
+Northern Side of the Central Clearing~
+A large common ground has been trampled into the centre of the camp. 
+Nothing grows in this part of the clearing; the ground is cracked and dry. 
+South, a large fire pit is at the centre of the clearing.  The clearing
+itself is surrounded by tents on all sides, but there seems to be a small
+path winding north past the tents.  
+~
+0 0 10
+D0
+~
+~
+0 0 12138
+D1
+~
+~
+0 0 12123
+D2
+~
+~
+0 0 12124
+D3
+~
+~
+0 0 12121
+S
+#12123
+North-Eastern Side of the Central Clearing~
+A large common ground has been stamped out in the centre of the camp. 
+This is the north-eastern corner of that ground.  The ground itself is
+surrounded by tents, and even a few cabins.  A few tables have been made,
+and left here for the use of all who need to sit down near the central fire.
+The clearing continues to the south and west.  
+~
+0 0 10
+D2
+~
+~
+0 0 12116
+D3
+~
+~
+0 0 12122
+S
+#12124
+The Fire Pit~
+The fire pit is the centre of the camp.  Surrounding a central bonfire,
+numerous smaller pits are being used to cook food and broths.  There are
+logs set up for chairs around each of the fires, while enough wood is
+stacked beside the central fire pit to light a blaze that could be seen back
+in Shandalar.  
+~
+0 0 10
+D0
+~
+~
+0 0 12122
+D1
+~
+~
+0 0 12116
+D2
+~
+~
+0 0 12118
+D3
+~
+~
+0 0 12120
+S
+#12125
+A North-South Path Through the Tents~
+The tents sprawl out in all directions.  South, two large poles can be
+seen in the distance forming a gate to outside the camp ground.  North, the
+peaks of tents just obscure what appears to be a very large clearing;
+perhaps a central staging area?  
+~
+0 0 10
+D0
+~
+~
+0 0 12117
+D2
+~
+~
+0 0 12105
+S
+#12126
+A Twisting Path Through the Tents~
+The path through the tents cannot seem to make up its mind.  It twists
+and turns, as if some small child had drawn a line in the sand...  Or maybe
+just a drunk giant.  East, a crossroads seems to meet outside two large
+poles, which form a gate, while west, the sounds of a hammer rings through
+the air.  
+~
+0 0 10
+D1
+~
+~
+0 0 12105
+D3
+~
+~
+0 0 12127
+S
+#12127
+Outside the Forge~
+A small clearing has been made in the tents here.  A cook fire with some
+tables is centered in the clearing, but off to one side, a lean-to has been
+converted into a forge.  The inside of the lean-to is not visible, but the
+hammer noises give away its use.  East and north, paths wind through the
+tents.  
+~
+0 0 10
+D0
+~
+~
+0 0 12129
+D1
+~
+~
+0 0 12126
+D3
+~
+~
+0 0 12128
+S
+#12128
+The Forge~
+The forge is a small lean-to.  It has been tailored to produce digging
+equipment and other tools from the camp.  A number of dies for pick-axes sit
+cooling beside barrels of salted water.  East, the missing wall of the
+lean-to leads out into the clearing.  
+~
+0 8 10
+D1
+~
+~
+0 0 12127
+S
+#12129
+North of the Forge~
+A path winds through yet more tents.  This camp isn't very large, but
+everyone and their dogs have their own tent.  To the south, the sound of a
+hammer is audible at all hours of day and night, while north, the glow of a
+small cook fire is barely visible.  
+~
+0 0 10
+D0
+~
+~
+0 0 12130
+D2
+~
+~
+0 0 12127
+S
+#12130
+The Western Edge of the Camp~
+A small clearing is here though, and a cook fire is shared among the six
+tents within easy reach.  Some of the shorter tents on the west side of the
+fire are short enough to be seen over, allowing a vista of wold and
+foothills beyond the palisade.  There are paths running through the tents in
+all directions but that of the fence.  
+~
+0 0 10
+D0
+~
+~
+0 0 12133
+D1
+~
+~
+0 0 12131
+D2
+~
+~
+0 0 12129
+S
+#12131
+An East-West Walk Through the Tents~
+The tents line the path to the north and south.  In a few places, the dry
+ground has crumbled away completely, and wooden planks have been laid down
+to support the path.  East, a large clearing seems to be at the centre of
+the encampment, while west leads back towards the outer edge of camp.  
+~
+0 0 10
+D1
+~
+~
+0 0 12120
+D3
+~
+~
+0 0 12130
+S
+#12132
+Inside the Cabin~
+This is the inside of Mr. Bell's cabin.  He leads the expedition, and
+has taken the time to build walls around his desk.  A bed leans against one
+wall, and a large chest rests at its foot.  Maps are lying all over the
+ground, rolled up.  East, a door leads back out to the clearing.  
+~
+0 8 10
+D1
+~
+~
+0 0 12119
+S
+#12133
+A Straight Path Through the Tents~
+There must be a rather bossy person staying in one of the nearby tents. 
+The tents in this section are all in perfect lines!  There is a very
+straight and obvious path leading north-south through the section.  Small
+sign posts direct readers towards cook fires, and the outhouse.  
+~
+0 0 10
+D0
+~
+~
+0 0 12134
+D2
+~
+~
+0 0 12130
+S
+#12134
+A Campfire Near the Edge~
+A small clearing forms a circle in the camps among the tents.  Past the
+tents, in the northern direction, more foothills stretch onwards with a
+rather large one visible even at this distance.  South and east, paths
+wander through the camp.  
+~
+0 0 10
+D1
+~
+~
+0 0 12135
+D2
+~
+~
+0 0 12133
+S
+#12135
+A Path along the Northern Palisade~
+This is a small, trodden down path along the northern palisade.  Tents
+line the south side of the path.  Looking through the gaps in the wooden
+wall, a wold and foothilled landscape can be seen.  Many paths run through
+them, and a few holes have been dug all through the nearby field.  West, a
+camp fire is burning, while east, there appears to be a make-shift gate.  
+~
+0 0 10
+D1
+~
+~
+0 0 12136
+D2
+~
+~
+0 0 12137
+D3
+~
+~
+0 0 12134
+S
+#12136
+The North Gate~
+Two large poles conclude the rather large palisade wall.  Leaning against
+each other, they form an archway, and support a large wooden gate.  The gate
+and walls are probably required to keep out some sort of predator.  Tents
+create the boundaries of the clearing, but they're a respectful distance
+from the gate.  Paths wind through the tents and away from the gate in all
+directions.  
+~
+0 0 10
+D0
+~
+gate~
+1 0 12143
+D1
+~
+~
+0 0 12139
+D2
+~
+~
+0 0 12138
+D3
+~
+~
+0 0 12135
+S
+#12137
+Inside a Tent~
+A small tent leads into a slightly larger one.  There are weapons and
+tools lying all around the outer tent, while the inner one holds only of two
+beds (one obviously for a servant) and a nightstand for clothing and other
+objects.  North, the tent flap has been tied back, and the outside can be
+seen.  
+~
+0 8 10
+D0
+~
+~
+0 0 12135
+S
+#12138
+A Path Through the Tents~
+A path runs through the tents, wandering around poles and ropes. 
+Occasionally, a pot has fallen to block the path.  Frequently camp fires
+are lit, cooking food or boiling water.  North, there appears to be a large
+wooden gate, while south, a huge clearing opens up at the centre of the
+camp ground.  
+~
+0 0 10
+D0
+~
+~
+0 0 12136
+D2
+~
+~
+0 0 12122
+S
+#12139
+A Walk Along the Northern Palisade~
+A path of packed dirt wanders along the northern palisade.  Tents line
+the south side of the path.  The tents are picked mostly at random, but they
+all seem to want to keep a respectful distance from the palisade.  Looking
+through occasional cracks, large hills can be seen.  Holes seem dug at
+random through those hills, and track wander all over.  The path continues
+east and west.  
+~
+0 0 10
+D1
+~
+~
+0 0 12140
+D3
+~
+~
+0 0 12136
+S
+#12140
+A Clearing Before a Cabin~
+A clearing has been made in the tents.  A small cook fire is at the
+center of the clearing, while on the northern side, against the palisade, a
+small cabin has been constructed.  "Supplies and Stuff" has been written on
+the door.  Paths wind out through the camp west and south, dodging tents.  
+~
+0 0 10
+D0
+~
+~
+0 0 12141
+D2
+~
+~
+0 0 12142
+D3
+~
+~
+0 0 12139
+S
+#12141
+Supplies and Stuff~
+The cabin has been thrown together to be a temporary general store. 
+Every spare bit of floor space has a table with junk on it, while all four
+walls hae shelves.  Walking around within the cabin is the proprietor,
+hoping to sell everyone exactly what they need.  
+~
+0 8 10
+D2
+~
+~
+0 0 12140
+S
+#12142
+A Path through the Tents~
+There is a path winding through the tents here, circling tent poles and
+ropes.  It heads north-south through the encampment.  East, the palisade is
+visible behind a few more rows of tents, while west, the encampment
+stretches out for probably a kilometer or so.  North, the path arrives at a
+cabin, while south there seems to be some sort of large pole.  
+~
+0 0 10
+D0
+~
+~
+0 0 12140
+D2
+~
+~
+0 0 12112
+S
+#12143
+North of the Encampment~
+Only feet away from the encampment the ground looks badly tended.  It is
+dry and cracked, with a few tufts of grass.  Everywhere there are large
+holes dug.  Some appear to be attempts at excavations, revealing parts of
+statues or pottery, but many look a lot more like pit traps.  There are
+strange markings all over the ground.  The tracks are unfamiliar.  South,
+the encampment stretches out, surrounded by its palisade, while north, a
+well-beaten path leads towards some large hills.  
+~
+0 0 10
+D0
+~
+~
+0 0 12144
+D2
+~
+~
+1 0 12136
+S
+#12144
+Along a Path Through the Foothills~
+Just past a foothill to the south, the encampment can be glimpsed.  Its
+tall palisade doesn't look so strong from here.  The path itself is well
+traveled and made of packed dirt.  It winds east around the next hill.  
+~
+0 0 10
+D1
+~
+~
+0 0 12145
+D2
+~
+~
+0 0 12143
+S
+#12145
+A Path Towards an Excavation Site~
+The hard-packed dirt path winds past a large hill to the south, and leads
+north and west.  West, it will eventually return to the camp, while north it
+leads to an excavation site.  The site itself can be glimpsed just past the
+next hill.  There is a much larger hill than all the others, and the path is
+evidently heading that direction.  The terrain around this part is very
+rocky, and there is almost no areas which are level.  There are strange
+tracks crossing the path and heading south over the hill back towards the
+camp.  The path continues west and north.  
+~
+0 0 10
+D0
+~
+~
+0 0 12146
+D3
+~
+~
+0 0 12144
+S
+#12146
+Before the Excavation Site~
+The hard-packed path begins here, leading out of the excavation site just
+to the north.  The trail heads south around some hills.  The whole site can
+be seen from this higher vantage point.  A large temple extrudes out of the
+hill, only half visible.  To the west and east of the temple, large
+structures have been set up in an attempt to allow easy access for the
+adventurers to reveal the temple.  The path continues north and south.  
+~
+0 0 10
+D0
+~
+~
+0 0 12147
+D2
+~
+~
+0 0 12145
+S
+#12147
+Before the Temple~
+A large temple spreads out to the north.  Large chunks of rock still
+stick to the temple in many places, obscuring the architecture.  East and
+west, the excavation continues, as it does, most likely, inside the temple. 
+The people of the excavation team are here to both find and restore the
+temple, while also looking for....  Something.  The Temple's architecture is
+unlike anything you've ever seen before.  It was obviously not built with a
+...  Humanoid, Draconian, or slivarian body in mind.  Marid would never live
+this far inland, and there just doesn't seem to be any of the usual gothic
+style of the gargoyle.  Who could have made it?  A large temple spreads out
+to the north.  Large chunks of rock still stick to the temple in many
+places, obscuring the architecture.  East and west, the excavation
+continues, as it does, most likely, inside the temple.  The people of the
+excavation team are here to both find and restore the temple, while also
+looking for some hidden secret.  The Temple's architecture is unlike
+anything you've ever seen before.  It was obviously not built with Humanoid,
+Draconian, or Slivarian bodies in mind.  Marid would never live this far
+inland, and there isn't any of the usual gothic style of the gargoyle.  Who
+could have built it?  
+~
+0 0 10
+D0
+~
+~
+0 0 12150
+D1
+~
+~
+0 0 12149
+D2
+~
+~
+0 0 12146
+D3
+~
+~
+0 0 12148
+S
+#12148
+The Western Excavations~
+Large piles of rocks border the south side of the work area.  North, the
+western side of the temple is jutting out of the rock.  Scaffolding along the
+rock wall allows easier access up onto the rock, where workers with brushes
+and chisels are slowly discovering the temple.  The excavation site extends
+east.  
+~
+0 0 10
+D1
+~
+~
+0 0 12147
+S
+#12149
+The Eastern Escavations~
+The eastern side of the excavation site is similar to the rest.  Large
+piles of rocks, random tools, and the occasional artifact litter the area. 
+The scaffolding has been mostly removed from this side, as most of the
+high-up work has been completed.  The temple itself looks like a statue of a
+strange figure with two legs and two not-quite formed arms with long cruel
+claws.  Its head is obscured in some form of cloak.  The excavation site
+extends west.  
+~
+0 0 10
+D3
+~
+~
+0 0 12147
+S
+#12150
+A Few Feet into the Temple~
+Natural light blares in from the south, through the large entrance to the
+temple.  A huge mural of strange-looking elves fighting some horrible
+monster-looking creatures is depicted on the wall.  But the monsters are
+winning.  Large, dark hallways stretch out east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 12158
+D2
+~
+~
+0 0 12147
+D3
+~
+~
+0 0 12151
+S
+#12151
+Down a Western Hallway~
+From the east, light shines into the tunnel.  An entrance into the temple
+can be seen from that direction.  West, the tunnel continues in darkness. 
+The walls depict some sort of battle between some elves and some strange
+monsters...  The monsters are winning.  The hallway stretches east and west.
+~
+0 8 0
+D1
+~
+~
+0 0 12150
+D3
+~
+~
+0 0 12152
+S
+#12152
+A Turn in the Passage~
+There is dim light from the far east, but otherwise these passages are
+shroud in darkness.  Occasionally tools or pieces of rock are left lying on
+the ground, where a worker was doing some restoration.  The passage twists
+north and east.  
+~
+0 1 0
+D0
+~
+~
+0 0 12153
+D1
+~
+~
+0 0 12151
+S
+#12153
+A Door in the Passage~
+The temple passage continues north.  Small fungus grows along the rocks. 
+The floors are made of large tiled bricks, and the walls of huge blocks of
+stone.  West, a passageway leads into a small chamber.  North and south, the
+dark passage continues.  
+~
+0 9 0
+D0
+~
+~
+0 0 12155
+D2
+~
+~
+0 0 12152
+D3
+~
+~
+0 0 12154
+S
+#12154
+A Small Shrine~
+This small enclave is a shrine to some form of god.  There is a
+statue of some hideous beast in the middle of a pool of water.  The creature
+has seven legs and six hands, four eyes and two mouths.  It has no apparent
+nose or ears.  Close inspection shows incredible detail on the statue,
+showing even small hairs covering its whole body.  The cavern itself seems
+carved of rock, with the temple claiming the east wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 12153
+S
+#12155
+Dead End?~
+North, the temple passage has been filled with lose rock; the
+excavationists haven't yet reclaimed this part.  The floor itself is covered
+in planks, to help people walk over the holes in the floor.  South, the
+darkness obscures any possibility of looking down the tunnel.  There are
+strange noises coming through the planks in the floor.  
+~
+0 0 0
+D2
+~
+~
+0 0 12153
+D5
+~
+planks~
+1 0 12156
+S
+#12156
+In a Lower Tunnel~
+There are planks up above, covering up some holes in the ceiling.  A
+short rope leads up to one of the holes.  North, a large pile of stone
+blocks the corridor, while south, a wall of blackness greets all who try to
+look that way.  A strange sound is coming from the south.  
+~
+0 9 0
+D2
+~
+~
+0 0 12157
+D4
+~
+~
+1 0 12155
+S
+#12157
+The Slaughter~
+A slaughter everywhere.  There are bodies of the excavation team all over
+the room.  Most are in pieces.  Claw marks cover the bodies, and the walls,
+and the floors, and the ceilings.  On one wall, scaffolding is half set up
+around a strange statue.  There appears to be something missing at the base
+of the statue, but it is hard to make out.
+~
+0 536870921 0
+D0
+~
+~
+0 0 12156
+S
+#12158
+An Eastern Passage Through the Temple~
+From the west, light illuminates the temple hall.  All along the east and
+west wall, a huge mural depicts some elves fighting some strange creatures. 
+The temple walls are made of large stone blocks, while the floor is covered
+in sand and moss.  There are tools lying all over left by lazy workers.  The
+passage continues north.  
+~
+0 8 0
+D1
+~
+~
+0 0 12159
+D3
+~
+~
+0 0 12150
+S
+#12159
+A Turn in the Passage~
+A faint glow comes from the far west.  Perhaps it is an exit to outside? 
+The tunnel through the temple turns north here, and bends west.  The walls
+are covered in strange glyphs, and are cool to the touch.  Darkness obscures
+what lies further down the tunnel in either direction.  
+~
+0 9 0
+D0
+~
+~
+0 0 12160
+D3
+~
+~
+0 0 12158
+S
+#12160
+Deeper into the Temple~
+Deeper into the Temple, footsteps echo in the distance.  They are
+probably from another member of the encampment.  On all sides, darkness
+closes in.  The temple hall used to branch north and east here, but the
+restoration crew has yet to renew those passages.  As it stands, it only
+swings west into a small enclave.  The main corridor continues south.  
+~
+0 9 0
+D2
+~
+~
+0 0 12159
+D3
+~
+~
+0 0 12161
+S
+#12161
+An Enclave~
+Off from the main temple passage to the east, this is a small enclave. 
+The semi-circular room has been cut into the regular path of the temple
+walls.  A small statue is built into the west wall.  It has its hand held
+out for something.  
+~
+0 9 0
+D1
+~
+~
+0 0 12160
+D3
+~
+statue~
+1 12116 12162
+S
+#12162
+The Top of the Circular Stair~
+A narrow staircase spirals downward into darkness.  East, there is a
+secret panel which leads into an enclave on the main floor of the temple. 
+The stairs are not built for any creature commonly known.  The steps are
+spaced at a strange interval and feel very awkward to step upon.  Each step
+is not level, but in fact is slanted forward slightly.  Strange growling and
+snapping noises ring up from below.  
+~
+0 9 0
+D1
+~
+panel~
+1 12116 12161
+D5
+~
+~
+0 0 12163
+S
+#12163
+Bottom of the Circular Stair~
+At the bottom of a circular stair, a small pool of red blood is
+collecting.  The stairs themselves are not made for any normal creature;
+they are too narrow, an uncomfortable spacing, and slope downwards.  The
+blood is flowing from under a small door to the west.  Strange noises are
+coming from that direction.  
+~
+0 9 0
+D3
+A small door in the stone walls of the temple is made of wood.  Although
+it has no handle, it swings fairly freely when pushed.  
+~
+~
+1 0 12164
+D4
+~
+~
+0 0 12162
+S
+#12164
+Within the Inner Sanctum~
+One of the adventurers from the encampment seems to have found their way
+here.  All that's left of his body oozes blood, which flows downhill, under
+a doorway to the east.  This area appears to be some sort of inner-sanctum. 
+South, a passageway is now obscured with rock.  North and west, though,
+lights can be glimpsed in the distance.  There are strange claw marks and
+tracks all around the body, but the rest of the area seems clean...  Almost
+as if this place was built to accommodate whatever made those marks.  
+~
+0 9 0
+D0
+~
+~
+0 0 12165
+D1
+~
+~
+1 0 12163
+D3
+~
+~
+0 0 12166
+S
+#12165
+Within the Inner Sanctum~
+Strange arches along the walls seem to hold the temple together.  They
+glow with a mysterious {Dblack{x light that illuminates but does not add
+colour.  South, darkness obscures the view, while north, the passage
+continues into the distance, with arches every few meters.  Occasionally
+there are doorways leading into small rooms, but they are all abandoned. 
+Horrid clicking sounds as of claws on stone, accompanied by growsls which
+resound throughout the tunnels.  
+~
+0 8 0
+D0
+~
+~
+0 0 12167
+D2
+~
+~
+0 0 12164
+S
+#12166
+Within the Inner Sanctum~
+The hallways of the Inner Sanctum stretch out east and west.  Although
+there is no natural light, the halls are easy to see.  Every few feet large
+archways support the ceiling, and these seem to give off a strange {Ddark{x
+light.  Bloody claw prints head west.  The passage stretches east and west. 
+~
+0 8 0
+D1
+~
+~
+0 0 12164
+D3
+~
+~
+0 0 12172
+S
+#12167
+Within the Inner Sanctum~
+The hallway continues, illuminated by the strange black arches.  The
+temple itself is made of large stone blocks, with a fairly obvious
+repetition to their pattern.  Strange glyphs mark the walls.  A passage
+leads north and south stretching on with glowing arches, while another
+branch swings west.  
+~
+0 8 0
+D0
+~
+~
+0 0 12168
+D2
+~
+~
+0 0 12165
+D3
+~
+~
+0 0 12169
+S
+#12168
+A Statue~
+Once again, rock has fallen and blocks the nearby passage ways to the
+west and east.  The arm of a golden statue sticks out from the rocks on the
+north wall; its arm ends in cruel claws.  South, a hallway stretches on,
+illuminated by strange black arches.  
+~
+0 9 0
+D2
+~
+~
+0 0 12167
+S
+#12169
+Within the Inner Sanctum~
+The inner sanctum continues to be illuminated by the strange black
+arches.  They line the halls and hold the temple together.  A large stone
+disk is embedded in the the northern wall, while south, stone has blocked
+the entrance into another passage.  East and west, the hallway continues. 
+Bloody claw prints lead around the passage.  
+~
+0 8 0
+D0
+~
+~
+2 0 12174
+D1
+~
+~
+0 0 12167
+D3
+~
+~
+0 0 12170
+S
+#12170
+Within the Inner Sanctum~
+The passageways of the Inner Sanctum turn east and south here.  In ages
+past, hallways also branched north, but that has since been blocked by rock.
+The strange black archways illuminate the passage.  Bloody claw-prints lead
+around the passage.  
+~
+0 8 0
+D1
+~
+~
+0 0 12169
+D2
+~
+~
+0 0 12171
+S
+#12171
+Within the Inner Sanctum~
+The Hallways of the Inner Sanctum run north-south here.  No doors open
+into the hall.  The east wall depicts a large number of the Gliglantari
+worshiping some strange god.  At the god's feet, a great treasure is
+depicted as a shinning light.  Bloody claw prints head north.  
+~
+0 8 0
+D0
+~
+~
+0 0 12170
+D2
+~
+~
+0 0 12172
+S
+#12172
+Within the Inner Sanctum~
+The hallways of the Inner Sanctum echo with claws on brick and strange
+growls.  Every few feet a large black arch holds the hallway in place,
+glowing slightly to light the passage.  Here, the hall turns north and east,
+while a small chamber opens to the south.  Another passage used to run west,
+but it has been blocked by fallen rock.  Bloody claw marks cover the floor
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 12171
+D1
+~
+~
+0 0 12166
+D2
+~
+~
+1 12121 12173
+S
+#12173
+The Guardian Room~
+At the centre of this room is the Guardian of the Inner Sanctum.  The
+strange statue seems almost alive.  It is connected to all the walls by long
+metallic ropes.  North, an arch leads back out into the hallway.  
+~
+0 0 0
+D0
+~
+~
+1 12121 12172
+S
+#12174
+Entrance Hallway to the Altar~
+The heart of the temple itself, this is a secret chamber leading to the
+center of the temple.  In the far distance, a strange, glowing object can be
+made out to the north.  East, rocks block passage through an archway, as
+they do to the west.  South, a strange circular door opens back to the Inner
+Sanctum.  The black arches of the Inner Sanctum are missing here, yet there
+is no difficulty in seeing.  The hallway continues north.  
+~
+0 8 0
+D0
+~
+~
+0 0 12175
+D2
+~
+~
+2 12122 12169
+S
+#12175
+The Hallway to the Altar~
+Along a long hallway heading north and south, alcoves are placed in the
+walls to the east and west.  South, there seems to be some collapsed walls
+and perhaps even a working door, while north, a great altar can be made out
+in the distance.  
+~
+0 8 0
+D0
+~
+~
+0 0 12178
+D1
+~
+~
+0 0 12177
+D2
+~
+~
+0 0 12174
+D3
+~
+~
+0 0 12176
+S
+#12176
+An Alcove~
+Receded into the western wall, this alcove has a statue of a Gliglantari
+holding a horrid sceptre.  It is also wearing some strange clothing, unlike
+many encountered in the temple thus far.  East, the hallway to the altar
+passes between columns running north-south.  
+~
+0 8 0
+D1
+~
+~
+0 0 12175
+S
+#12177
+An Alcove~
+This alcove is set in the eastern side of the hallway.  Large pillars
+made of obsidian surround the entrance into the alcove.  Built into the
+wall, a strange map of Palankcaren can be seen.  It seems to outline strange
+portal passages to key attack points throughout the country.  A strange
+thing indeed to be built right into the temple.  West, the hallway continues
+north and south, to the altar.  
+~
+0 8 0
+D3
+~
+~
+0 0 12175
+S
+#12178
+The Worship Altar~
+This is the altar room of the Gliglantari Temple.  The Gliglantari come
+from the far off land of Palankcaren.  They are the mortal enemy of the
+people native to that land.  Long ago, the Gliglantari entered this world,
+and founded this temple.  It was abandoned and lost.  Recently, though,
+something has awakened the portal to the Gliglantari home land once more. 
+Up above, a huge portal swirls, maintained in this world by the Gliglantari
+on all sides, worshipping it.  The altar itself is made of pure obsidian,
+and has a large marble slab for sacrifices.  Who knows what treasure people
+expect to find here, instead, they would find only death.  The hallway leads
+south, away from the altar.  Above, a large portal swirls.  
+~
+0 8 0
+D2
+~
+~
+0 0 12175
+D4
+~
+~
+0 0 12179
+S
+#12179
+The Portal~
+This is the portal to the Gliglantari home world.  There is no reason why
+anyone in this world could possibly want to go through the portal.  The
+portal itself is so strong, though, that it is nullifying gravity for the
+surrounding area, allowing anyone to float around without the need to fly. 
+The portal itself is a large, glowing sphere with mirror-like qualities, yet
+as if covered in an oily film.  Below, the altar can be seen.  
+~
+0 8 0
+D5
+~
+~
+0 0 12178
+S
+#12180
+At the Edge of the Woods~
+A dark and thick wooded area lies to the north.  To the south and
+west the rolling hills of Dominia continue.
+~
+0 0 4
+D1
+~
+~
+0 0 4556
+D3
+~
+~
+0 0 12181
+S
+#12181
+The Gentle Hills of Dominia~
+The rolling hills of Dominia are covered with tall grasses and
+colorful wildflowers.  While the incline to the south is too
+steep to climb, a more moderate incline to the west has encourage
+someone to construct a trail in that direction.
+~
+0 0 4
+D1
+~
+~
+0 0 12180
+D3
+~
+~
+0 0 12182
+S
+#12182
+Along the Hillside~
+It is hard to believe that the once mighty dragon army once occupied
+these peaceful hills.  Little evidence remains any longer of their
+terrible battles with the races of Dominia.  A faint path cuts through
+the high grasses going east and west.
+~
+0 0 4
+D1
+~
+~
+0 0 12181
+D3
+~
+~
+0 0 12183
+S
+#12183
+In the Hills of Dominia~
+You stand near the top of a large hill.  From this vantage point you
+can see much of the countryside before you.  More hills and great Mountains 
+lies to the South.  A dark forest consumes to the northeast.  And the
+rolling hills continue to the west.
+~
+0 0 4
+D1
+~
+~
+0 0 12182
+D3
+~
+~
+0 0 12184
+S
+#12184
+Hilly Terrain~
+The hills of Dominia in this area are covered with tall grass.  They
+could provide a hiding area for an ambush, but it is quiet and peaceful
+that you find it difficult to imagine a battle raging here.  A faint path
+runs to the east and west.
+~
+0 524288 4
+D1
+~
+~
+0 0 12183
+D3
+~
+~
+0 0 12185
+S
+#12185
+A Path through the Hills~
+The dirt path is wide here, pounded down by the recent travel of many
+feet.  It continues to thicken heading westward, winding between the hills
+to stay on the lowground.  
+~
+0 0 4
+D1
+~
+~
+0 0 12184
+D3
+~
+~
+0 0 12100
+S
+#12190
+Encounter with the {WV{Balocar{x~
+You are standing at the centre of a large circular chamber.  The ceiling
+towers up to for a huge dome, the top of which is lost in shadow.  Large
+benches on all sides contain Valocar, who watch your every move.  You are
+going nowhere until they are done with you.  
+~
+0 270017804 0
+S
+#12191
+UNUSED ROOM~
+~
+0 268435460 9
+M 150 H 150
+S
+#12192
+UNUSED ROOM~
+~
+0 4 0
+S
+#12195
+The Barracks and Engine Room~
+This room is divided in two.  One one side, the Engine that keeps this
+flying castle-command centre stable between the worlds resides.  Control
+levers and pulleys interface directly with the magical core.  The core
+itself hovers about 4 feet above the ground, and shines with a mirror-like
+quality.  On the other, side, a small barracks has been set up.  Beds for
+warriors and guests alike abound, while a small kitchenette and a fountain
+are also supplied.  
+~
+0 524296 0
+D0
+~
+~
+0 0 12199
+S
+#12196
+The Command Centre's Portal Room~
+Powered by the Portal energy of Palankcaren, this is both the arrival and
+departure point for the Command Centre.  Exits lead off into various parts
+of the world.  
+North: Dominian Recall
+West: Palankcaren
+South: Terran Recall
+Down: High Embassy from the Lands of Palankcaren, Terran branch.
+~
+0 1572872 0
+D0
+~
+~
+0 0 31000
+D1
+~
+~
+4 12194 12199
+D2
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 15403
+D5
+~
+~
+0 0 11138
+S
+#12197
+Avacar's Personal Arena~
+In the east side of the Command Centre, a room has been set aside for
+personal training.  Warriors assigned to Avacar's cause often stay here for
+months, and this room allows them to practice their skills in safety.  A
+large door leading west stands open normally, but can be closed in the case
+of a battle.  A window looks out at one of the suns orbitting the Command
+Centre.  
+~
+0 270008336 0
+D3
+~
+~
+4 12194 12199
+S
+#12198
+The Immortal Rejuvination chamber~
+In the north wing of the Command Centre, the Immortal rejuvination
+chamber has been built to refresh the strength of the Valocar.  Travelling
+between the worlds can be very tiring.  The walls, and, similar to the Tower
+of Power, energy feed lines circle into a spiral in the floor focusing as
+much energy as possible in any who rest here.  
+ 
+The Moebius - 10199
+Encounter with the Valocar - 12190
+Arena Waiting Room - 8299
+In the Face of Death - 8298
+Karmon's Room (Trivia Candies) - 17799
+Tsongas' Info Center - 4599
+Cauthon's Headquarters - 15399
+Lufia's Web - 13500
+Chain's Heavy Metal Room  - 3860
+Realm of the Dead - 1212
+Cicada's Spider Cavern - 19699
+Mikoto's Treetop Retreat - 19300
+A Tourney Room ({rblood{x) - 13054
+Starcrossed Test Room (legendary spawn) - 30803
+~
+0 268992524 0
+D2
+~
+~
+0 0 12199
+M 30000 H 30000
+S
+#12199
+Avacar's Command Centre~
+Floating somewhere between the world of Redemption and Palankcaren, this
+is Avacar's Command Centre.  A large table with maps of both worlds and
+markers takes up the centre of the room.  At the end of the table is
+Avacar's Chair.  Windows on the walls look out on a strange landscape.  Not
+quite real, various parts of both worlds can be glimpsed, fading in and out
+of existance, vague liked viewed through oil.  The room itself is made of
+stone.  Exits lead in all directions.  
+~
+0 1342701576 0
+D0
+~
+~
+0 0 12198
+D1
+~
+~
+4 12194 12197
+D2
+~
+~
+0 0 12195
+D3
+~
+~
+4 12194 12196
+S
+#0
+
+
+
+#SPECIALS
+M 12122 spec_cast_mage Load to: the temple guardian
+S
+
+
+
+#MOBPROGS
+#12103
+if isnpc $n
+mob goto 12174
+unlock south
+open south
+mob echo You hear a large sound as the wall to the south opens before you.
+mob goto 12169
+mob echo You hear a large sound as the wall to the north suddenly opens wide.
+mob goto 12173
+mob echo You hear a loud sound of rocks shifting somewhere deep inside the Inner Sanctum.
+endif
+~
+A
+#12102
+mob echo You hear the sound of something tunnelling...
+mob echo Suddenly the wall to the east blasts open, and two baby Gliglantari break out!
+mob mload 12119
+mob mload 12119
+~
+A
+#12101
+mob echo You here the sound of something tunnelling...
+~
+A
+#12100
+emote rants and raves: {y'They're coming!  They're coming for me!'{x
+~
+A
+#12104
+say You will never reach the gateway!
+~
+A
+#0
+
+#RESETS
+D 0 12104 0 1
+D 0 12105 2 1
+D 0 12136 0 1
+D 0 12143 2 1
+D 0 12155 5 1
+D 0 12156 4 1
+D 0 12161 3 2
+D 0 12162 1 2
+D 0 12163 3 1
+D 0 12164 1 1
+D 0 12169 0 2
+D 0 12172 2 2
+D 0 12173 0 2
+D 0 12174 2 2
+M 1 12100 3 12101 1
+O 0 12100 0 12101
+M 1 12100 3 12102 1
+M 1 12102 4 12105 2
+M 1 12104 5 12107 1
+O 0 12101 0 12107
+M 1 12105 1 12108 1
+O 0 12102 0 12108
+G 0 12105 0
+G 0 12104 0
+M 1 12103 8 12109 1
+M 1 12106 5 12111 1
+M 1 12101 5 12112 1
+M 1 12108 1 12113 1
+M 1 12107 1 12113 1
+M 1 12106 5 12114 1
+M 1 12109 1 12115 1
+E 0 12107 0 6
+M 1 12103 5 12116 1
+E 0 12106 0 16
+M 1 12101 1 12119 1
+M 1 12101 10 12121 1
+M 1 12112 5 12122 1
+M 1 12110 1 12124 1
+G 0 12114 0
+G 0 12123 0
+E 0 12108 0 17
+M 1 12111 1 12124 1
+M 1 12101 10 12125 1
+M 1 12101 10 12126 1
+O 0 12101 0 12127
+M 1 12104 4 12127 1
+M 1 12103 5 12127 1
+E 0 12106 0 16
+M 1 12113 1 12128 1
+G 0 12110 0
+G 0 12111 0
+M 1 12106 5 12129 1
+M 1 12112 5 12130 1
+O 0 12109 0 12132
+M 1 12106 5 12132 1
+P 0 12117 1 12109 1
+P 0 12118 1 12109 1
+M 1 12101 10 12133 1
+M 1 12104 4 12134 1
+O 0 12101 0 12134
+M 1 12101 10 12135 1
+M 1 12102 4 12136 2
+M 1 12106 5 12137 1
+M 1 12112 5 12137 1
+M 1 12101 10 12138 1
+M 1 12103 5 12139 1
+E 0 12113 0 17
+E 0 12106 0 16
+O 0 12101 0 12140
+M 1 12104 4 12140 1
+M 1 12114 1 12141 1
+G 0 12115 0
+M 1 12101 10 12142 1
+M 1 12115 3 12143 1
+M 1 12116 3 12144 1
+E 0 12112 0 16
+M 1 12115 3 12145 1
+M 1 12116 3 12146 1
+E 0 12112 0 16
+M 1 12117 8 12148 1
+E 0 12112 0 16
+M 1 12117 1 12149 1
+E 0 12112 0 16
+M 1 12117 8 12152 1
+E 0 12115 0 0
+O 0 12103 0 12154
+M 1 12117 8 12155 1
+E 0 12115 0 0
+M 1 12117 8 12156 1
+E 0 12115 0 0
+M 1 12118 1 12157 1
+E 0 12116 0 17
+M 1 12117 8 12159 1
+E 0 12115 0 0
+O 0 12119 0 12164
+P 0 12120 1 12119 1
+M 1 12120 8 12165 1
+M 1 12120 8 12166 1
+M 1 12120 8 12167 1
+M 1 12120 8 12168 1
+E 0 12121 0 17
+M 1 12120 8 12169 1
+M 1 12120 8 12171 1
+M 1 12120 8 12172 1
+M 1 12122 1 12173 1
+M 1 12123 1 12173 1
+E 0 12122 0 17
+M 1 12121 1 12174 1
+E 0 12122 0 17
+M 1 12124 8 12175 1
+E 0 12125 0 16
+M 1 12122 1 12176 1
+M 1 12122 1 12177 1
+M 1 12124 8 12178 2
+E 0 12124 0 16
+M 1 12125 4 12178 4
+E 0 12123 0 17
+M 1 12126 1 12179 1
+E 0 12127 0 17
+E 0 12126 0 5
+E 0 12125 0 16
+O 0 12198 0 12195
+O 0 12199 0 12195
+M 1 12199 1 12195 1
+O 0 12195 0 12198
+O 0 12194 0 12198
+O 0 12197 0 12199
+O 0 12196 0 12199
+S
+
+
+
+#SHOPS
+12105 19 0 0 0 0 130 70 0 23
+12113 5 0 0 0 0 100 100 6 22
+12114 26 10 0 1 0 200 30 10 18
+0
+
+
+
+#$

@@ -1,0 +1,1005 @@
+#AREADATA
+Name Jericho~
+Builders Lhotus~
+VNUMs 15400 15499
+Credits { None} Lhotus      Jericho~
+Security 1
+Xcontinent 1
+Age 8
+End
+
+
+
+#MOBILES
+#15400
+Kirre Scout~
+a Kirre Scout~
+A Kirre Scout is prawling the border of the encampment.
+~
+~
+kirre~
+ABT JPV 0 0
+50 0 10d200+4000 5d5+0 5d9+10 claw
+0 0 0 0
+EJMN 0 J I
+stand stand male 1000
+AGHMV ABCDEFGHIJKQ medium 0
+#15401
+Kirre Sentry~
+a Kirre Sentry~
+A Kirre Sentry is guarding the entrance to the encampment.
+~
+~
+kirre~
+ABT DJPV 0 0
+50 0 10d200+4000 5d5+0 5d9+10 none
+0 0 0 0
+EJMN AB J I
+stand stand male 1000
+AGHMV ABCDEFGHIJKQ medium 0
+M greet 15400 100~
+M death 15402 100~
+M hpcnt 15401 20~
+#15402
+Kirre Sentry 2~
+Kirre Sentry 2~
+A Kirre Sentry is here guarding the entrance to the encampment.
+~
+~
+kirre~
+ABT DFHJLNOVZ 0 0
+60 6 1d1+10 1d1+100 8d6+28 none
+-30 -30 -30 -30
+EFJKMNR AB J I
+stand stand male 2000
+AGHV ABCDEFGHIJKQ medium 0
+#15404
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#15405
+Brain Man~
+Brain Man~
+Brain man
+~
+~
+human~
+A 0 0 0
+60 6 1d1+1 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AEHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#15400
+lhotus weap spear~
+Lhotus Weap~
+This is Lhotus's Crazy Spear.  What the HELL are you doing with it?!?~
+oldstyle~
+weapon ABHTZ AN
+exotic 5 18 frbite D
+54 1 500000 P
+A
+3 15  
+A
+5 15  
+A
+4 15  
+A
+2 15  
+A
+1 15  
+A
+19 40  
+A
+18 20  
+#15401
+Test Wand~
+This is a Test Wand.~
+This is a Test Wand.~
+electrum~
+wand ABG AO
+51 100 100 'acid blast' 0
+54 500 100000 P
+A
+20 -32  
+A
+2 10  
+A
+1 10  
+A
+5 10  
+A
+3 10  
+A
+4 5  
+A
+19 40  
+A
+18 20  
+#15402
+Welcome to the Jungle~
+Welcome to the Jungle~
+Welcome to the Jungle~
+wood~
+portal 0 A
+50 0 0 15400 0
+54 0 0 P
+#15403
+Potion 1~
+Potion 1~
+~
+wood~
+potion 0 A
+60 'sanctuary' 'stone skin' 'shield' 'armor'
+54 0 0 P
+#15404
+Potion 2~
+Potion 2~
+~
+wood~
+potion 0 A
+60 'armor' 'bark skin' 'blur' 'reserved'
+54 0 0 P
+#15405
+Potion 3~
+Potion 3~
+~
+wood~
+potion 0 A
+60 'fortify' 'stone skin' 'mass protect' 'reserved'
+54 0 0 P
+#15406
+Potion 4~
+Potion 4~
+~
+wood~
+potion 0 A
+60 'scalemail' 'quill armor' 'animal skins' 'reserved'
+54 0 0 P
+#15407
+Potion 5~
+Potion 5~
+~
+wood~
+potion 0 AO
+60 'giant strength' 'frenzy' 'animal growth' 'reserved'
+54 0 0 P
+#15408
+Lhotus' Shield~
+Lhotus's Shield~
+Lhotus' Shield~
+oldstyle~
+armor 0 AJ
+0 0 0 0 0
+54 0 0 P
+#0
+
+
+
+#ROOMS
+#15400
+Entrance 1~
+At first glance all you can see is a wall of greenery, but upon closer
+examination you notice what looks to be some broken twigs.  
+~
+0 0 3
+D0
+~
+~
+0 0 15401
+S
+#15401
+Entrance/Border~
+~
+0 0 0
+D0
+~
+~
+0 0 15424
+D1
+~
+~
+0 0 15402
+D2
+~
+~
+0 0 15400
+D3
+~
+~
+0 0 15422
+S
+#15402
+South Wall 3~
+~
+0 0 0
+D1
+~
+~
+0 0 15403
+D3
+~
+~
+0 0 15401
+S
+#15403
+South Wall 4~
+~
+0 0 0
+D1
+~
+~
+0 0 15404
+D3
+~
+~
+0 0 15402
+S
+#15404
+Border SouthEast Corner~
+~
+0 0 0
+D0
+~
+~
+0 0 15405
+D3
+~
+~
+0 0 15403
+S
+#15405
+East Wall 1~
+~
+0 0 0
+D0
+~
+~
+0 0 15406
+D2
+~
+~
+0 0 15404
+S
+#15406
+East Wall 2~
+~
+0 0 0
+D0
+~
+~
+0 0 15407
+D2
+~
+~
+0 0 15405
+S
+#15407
+East Wall 3~
+~
+0 0 0
+D0
+~
+~
+0 0 15408
+D2
+~
+~
+0 0 15406
+S
+#15408
+East Wall 4~
+~
+0 0 0
+D0
+~
+~
+0 0 15409
+D2
+~
+~
+0 0 15407
+S
+#15409
+North East Corner~
+~
+0 0 0
+D2
+~
+~
+0 0 15408
+D3
+~
+~
+0 0 15410
+S
+#15410
+North Wall 1~
+~
+0 0 0
+D1
+~
+~
+0 0 15409
+D3
+~
+~
+0 0 15411
+S
+#15411
+North Wall 2~
+~
+0 0 0
+D1
+~
+~
+0 0 15410
+D3
+~
+~
+0 0 15412
+S
+#15412
+North Wall 3~
+~
+0 0 0
+D1
+~
+~
+0 0 15411
+D3
+~
+~
+0 0 15413
+S
+#15413
+North Wall 4~
+~
+0 0 0
+D1
+~
+~
+0 0 15412
+D3
+~
+~
+0 0 15414
+S
+#15414
+North Wall 5~
+~
+0 0 0
+D1
+~
+~
+0 0 15413
+D3
+~
+~
+0 0 15415
+S
+#15415
+North West Corner~
+~
+0 0 0
+D1
+~
+~
+0 0 15414
+D2
+~
+~
+0 0 15416
+S
+#15416
+West Wall 4~
+~
+0 0 0
+D0
+~
+~
+0 0 15415
+D2
+~
+~
+0 0 15417
+S
+#15417
+West Wall 3~
+~
+0 0 0
+D0
+~
+~
+0 0 15416
+D2
+~
+~
+0 0 15418
+S
+#15418
+West Wall 2~
+~
+0 0 0
+D0
+~
+~
+0 0 15417
+D2
+~
+~
+0 0 15419
+S
+#15419
+West Wall 1~
+~
+0 0 0
+D0
+~
+~
+0 0 15418
+D2
+~
+~
+0 0 15420
+S
+#15420
+South West Corner~
+~
+0 0 0
+D0
+~
+~
+0 0 15419
+D1
+~
+~
+0 0 15421
+S
+#15421
+South Wall 1~
+~
+0 0 0
+D1
+~
+~
+0 0 15422
+D3
+~
+~
+0 0 15420
+S
+#15422
+South Wall 2~
+~
+0 0 0
+D1
+~
+~
+0 0 15401
+D3
+~
+~
+0 0 15421
+S
+#15423
+This is where Sentry 1 goes~
+~
+0 0 0
+D0
+~
+~
+0 0 15425
+D2
+~
+~
+0 0 15401
+S
+#15424
+This is where Sentry 1 goes~
+~
+0 0 0
+D2
+~
+~
+0 0 15401
+S
+#15425
+Path 1~
+~
+0 0 0
+D0
+~
+~
+0 0 15426
+D2
+~
+~
+0 0 15423
+S
+#15426
+Intersection With Hut 1~
+~
+0 0 0
+D0
+~
+~
+0 0 15430
+D1
+~
+~
+0 0 15427
+D2
+~
+~
+0 0 15425
+S
+#15427
+Path to Hut 1~
+~
+0 0 0
+D2
+~
+~
+0 0 15428
+D3
+~
+~
+0 0 15426
+S
+#15428
+Path to Hut 1 (2)~
+~
+0 0 0
+D0
+~
+~
+0 0 15427
+D1
+~
+~
+0 0 15429
+S
+#15429
+Hut 1~
+~
+0 0 0
+D3
+~
+~
+0 0 15428
+S
+#15430
+Intersection with Hut 2~
+~
+0 0 0
+D0
+~
+~
+0 0 15434
+D2
+~
+~
+0 0 15426
+D3
+~
+~
+0 0 15431
+S
+#15431
+Path to Hut 2~
+~
+0 0 0
+D1
+~
+~
+0 0 15430
+D2
+~
+~
+0 0 15432
+S
+#15432
+Path to Hut 2(2)~
+~
+0 0 0
+D0
+~
+~
+0 0 15431
+D3
+~
+~
+0 0 15433
+S
+#15433
+Hut 2~
+~
+0 0 0
+D1
+~
+~
+0 0 15432
+S
+#15434
+South Square~
+~
+0 0 0
+D0
+~
+~
+0 0 15437
+D1
+~
+~
+0 0 15436
+D2
+~
+~
+0 0 15430
+D3
+~
+~
+0 0 15435
+S
+#15435
+South West Square~
+~
+0 0 0
+D0
+~
+~
+0 0 15438
+D1
+~
+~
+0 0 15434
+S
+#15436
+South East Square~
+~
+0 0 0
+D0
+~
+~
+0 0 15439
+D3
+~
+~
+0 0 15434
+S
+#15437
+Center Square~
+~
+0 0 0
+D0
+~
+~
+0 0 15441
+D1
+~
+~
+0 0 15439
+D2
+~
+~
+0 0 15434
+D3
+~
+~
+0 0 15438
+S
+#15438
+West Square~
+~
+0 0 0
+D0
+~
+~
+0 0 15440
+D1
+~
+~
+0 0 15437
+D2
+~
+~
+0 0 15435
+D3
+~
+~
+0 0 15443
+S
+#15439
+East Square~
+~
+0 0 0
+D0
+~
+~
+0 0 15442
+D1
+~
+~
+0 0 15445
+D2
+~
+~
+0 0 15436
+D3
+~
+~
+0 0 15437
+S
+#15440
+North West Square~
+~
+0 0 0
+D1
+~
+~
+0 0 15441
+D2
+~
+~
+0 0 15438
+S
+#15441
+North Square~
+~
+0 0 0
+D0
+~
+~
+0 0 15450
+D1
+~
+~
+0 0 15442
+D2
+~
+~
+0 0 15437
+D3
+~
+~
+0 0 15440
+S
+#15442
+North East Square~
+~
+0 0 0
+D2
+~
+~
+0 0 15439
+D3
+~
+~
+0 0 15441
+S
+#15443
+Path to Hut 3~
+~
+0 0 0
+D1
+~
+~
+0 0 15438
+D3
+~
+~
+0 0 15444
+S
+#15444
+Hut 3~
+~
+0 0 0
+D1
+~
+~
+0 0 15443
+S
+#15445
+Path to Huts 4 and 5~
+~
+0 0 0
+D0
+~
+~
+0 0 15446
+D2
+~
+~
+0 0 15448
+D3
+~
+~
+0 0 15439
+S
+#15446
+Path to Hut 4~
+~
+0 0 0
+D2
+~
+~
+0 0 15445
+D3
+~
+~
+0 0 15447
+S
+#15447
+Hut 4~
+~
+0 0 0
+D1
+~
+~
+0 0 15446
+S
+#15448
+Path to Hut 5~
+~
+0 0 0
+D0
+~
+~
+0 0 15445
+D1
+~
+~
+0 0 15449
+S
+#15449
+Hut 5~
+~
+0 0 0
+D3
+~
+~
+0 0 15448
+S
+#15450
+Intersection with Hut 6~
+~
+0 0 0
+D0
+~
+~
+0 0 15452
+D2
+~
+~
+0 0 15441
+D3
+~
+~
+0 0 15451
+S
+#15451
+Hut 6~
+~
+0 0 0
+D1
+~
+~
+0 0 15450
+S
+#15452
+Warning~
+~
+0 0 0
+D0
+~
+~
+0 0 15453
+D2
+~
+~
+0 0 15450
+S
+#15453
+Sentry 2~
+~
+0 0 0
+D2
+~
+~
+0 0 15452
+S
+#15454
+Tribal Leader 1~
+~
+0 4 0
+S
+#15455
+Tribal Leader 2~
+~
+0 4 0
+S
+#15456
+Tribal Leader 3~
+~
+0 4 0
+S
+#15457
+Tribal Leader 4~
+~
+0 4 0
+S
+#15458
+Tribal Leader 5~
+~
+0 4 0
+S
+#15459
+Tribal Leader 6~
+~
+0 4 0
+S
+#15460
+Council Meeting Room~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#15400
+if race $n kirre
+say Ahh, so good of you to make it here.
+say No need to make the others wait, move along.
+mob transfer $n 15425
+mob force $n look
+else
+say You have seen too much!
+say Now you must die!
+mob kill $n
+endif
+~
+#15401
+emote realizes he is losing the fight and attempts to flee.
+~
+#15402
+mob echo {X
+emote stumbles backwards and crushes some plants behind him.
+mob echo You notice there seems to be a path where the sentry fell.
+mob transfer $n 15423
+mob transfer $i 15423
+~
+#0
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

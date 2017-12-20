@@ -1,0 +1,495 @@
+#AREADATA
+Name Justice Stronghold~
+Builders Stryder  Cicada Elisa Whispertread~
+VNUMs 23200 23299
+Credits { All }             Justice Stronghold~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#23200
+justice goon stronghold~
+Basic Goon~
+A clan goon is here, protecting the door to the north. 
+~
+~
+orc~
+ABCGT CDHJQVZa 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+ABCEFHKNR ABab KQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#23201
+justice goon stronghold~
+Basic Goon~
+A clan goon is here, protecting the door to the north. 
+~
+~
+orc~
+ABCGT CDHJQVZa 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+ABCEFHKNR ABab EFGHKQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#23202
+healer justice avatar sky~
+an Avatar of Sky~
+An Avatar of Sky stands here, waiting to heal you.
+~
+~
+human~
+ABQVa DFJZ 0 0
+50 5 50d10+4500 1d1+100 5d8+19 none
+-20 -20 -20 -20
+0 ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#23203
+justice quartermaster~
+the Justice Quartermaster~
+The Justice Quartermaster is here, to help you find supplies.
+~
+He is a swift man. Long black hair and two black eyes on a pretty face make
+him look like an angel. Don't be fooled by appearances, as he has been known
+to cut a few throats should he not get what he wants.
+~
+human~
+ABQR DJZ 1000 0
+1 0 1d1+999 1d1+999 10d10+10 none
+-15 -15 -15 -15
+FGH ABCDQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#23204
+justice usher slasher~
+the usher~
+The usher of Justice leads you into the outpost of Justice.
+~
+The usher quickly leads you into the outpost of Justice.
+~
+human~
+ABCGT DZ 0 0
+60 0 10d10+1400 17d9+100 4d7+11 none
+-10 -10 -10 -10
+FU ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#23205
+Empty vnum~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#23200
+justice outpost key fake~
+justice outpost key~
+The key to Justice outpost is on the floor.~
+steel~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the clan_d of the world of Redemption. 
+~
+#23201
+justice outpost key~
+justice outpost key~
+The key to Justice outpost is on the floor.~
+steel~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+E
+clan hall key~
+This key belongs to the clan_d of the world of Redemption. 
+~
+#23202
+wrath justice tetragon sabre~
+the wrath of Justice~
+The wrath of JUSTICE!!!~
+steel~
+weapon ABIPUV AN
+sword 5 7 cleave EF
+42 450 0 P
+#23203
+clan couch~
+the clan couch~
+The clan couch is here ready to receive your butt.~
+cloth~
+furniture IO 0
+8 50 BEHKN 100 100
+0 0 0 P
+#23204
+stone fountain lemonade~
+a {Dstone {xfountain~
+{xA {Dstone{x fountain sits in the middle of the Hall, spouting {ylemonade{x.~
+marble~
+fountain O P
+100000 100000 'lemonade' 0 0
+0 0 0 P
+#23205
+clan couch~
+the clan couch~
+The clan couch is here ready to receive your butt.~
+cloth~
+furniture IO 0
+8 50 BEHKN 100 100
+0 0 0 P
+#23206
+raft~
+a raft~
+A raft has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 750 400 A
+E
+raft~
+The raft looks very primitive. 
+~
+#23207
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#23208
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#23209
+vial psychedelic ink~
+a vial of psychedelic ink~
+A vial of multicolored ink.~
+cream~
+potion 0 AO
+5 'invisibility' 'pass door' '(null)' '(null)'
+1 1 500 P
+#23210
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#23211
+white off potion~
+an off white potion~
+An off white potion lies here.~
+oldstyle~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#23212
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 4000 P
+#23213
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#23214
+vial black ink~
+a vial of black ink~
+A vial of black writing ink sits here.~
+cream~
+potion 0 AO
+25 'remove curse' 'blur' '(null)' '(null)'
+25 1 3000 P
+#23215
+wand detect invis~
+a wand of glinting yellow~
+A wand of glinting yellow lies here.~
+oldstyle~
+wand G AO
+1 15 15 'detect invis' 0
+5 10 1800 P
+E
+wand~
+You see a shape slowly fading into exsistance at the base of this wand.
+~
+#23216
+potion cure blindness~
+a potion of cure blindness~
+A potion of cure blindness is here.~
+glass~
+potion G AO
+13 'cure blindness' '(null)' '(null)' '(null)'
+0 10 1150 P
+#23217
+clear pill~
+a clear pill~
+A cute clear pill has the letter 'S' stamped on it.~
+glass~
+pill 0 A
+30 'haste' 'reserved' 'reserved' 'reserved'
+20 0 2500 P
+#23218
+lime potion~
+a lime potion~
+A greenish vial is here.~
+wood~
+potion 0 A
+25 'detect invis' 'detect magic' 'reserved' 'reserved'
+40 10 2000 P
+#23219
+malevolus evil dart~
+the Malevolus~
+An evil-looking dart sits here.~
+mithril~
+throwing C AO
+7 5 bite 50 'curse'
+45 1 4000 P
+#23220
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+12 'identify' '(null)' '(null)' '(null)'
+7 10 890 P
+E
+scroll identify~
+The scroll has a magic formula drawn upon it: 
+	  ??? 
+	 ?   ? 
+		 ? 
+		? 
+		? 
+		* 
+~
+#23221
+figurine mist~
+mist figurine~
+A misty figurine lays on the ground.~
+oldstyle~
+wand AG AO
+45 3 3 'gate' 0
+40 30 11800 P
+A
+14 75  
+#23222
+stormbringer bringer dart~
+a stormbringer~
+A storm-painted dart lies here.~
+silver~
+throwing 0 AO
+6 3 sting 28 'hurricane'
+25 1 2000 P
+#23223
+white pill~
+a white pill~
+A white pill with the letter 'C' stamped on it.~
+none~
+pill 0 A
+35 'frenzy' 'giant strength' 'reserved' 'reserved'
+35 0 5000 P
+#23224
+deep blue pill~
+a deep blue pill~
+A deep blue pill with the letter 'E' stamped on it.~
+food~
+pill 0 A
+53 'frenzy' 'heal' 'reserved' 'reserved'
+50 0 15000 P
+#23225
+figurine winged horse pegasus~
+a figurine of a winged horse~
+You see a small figurine of a winged horse on the ground.~
+oldstyle~
+wand AG AO
+45 25 25 'fly' 0
+20 30 16600 P
+#23226
+bola~
+a bola~
+A bola sits here.~
+stone~
+throwing 0 AO
+3 4 whip 20 'slow'
+15 2 1000 P
+#0
+
+
+
+#ROOMS
+#23200
+A Ruined Palace~
+Stepping off of the King's Way, you see a huge hall in front of you.  A
+great palace once stood here, large enough to hold dozens of people
+comfortably.  It looks not to have been used in a long time; it has an air
+of abandonment around it, and an aura of sorrow pervades the area.  
+~
+0 0 2
+D0
+~
+~
+1 0 23202
+D1
+~
+~
+0 0 23201
+D3
+~
+~
+0 0 10928
+S
+#23201
+A Vandalized Tunnel~
+This small tunnel used to be the secret entrance into the Justice
+Stronghold.  After Justice fell, the magics protecting this entrance failed.
+Thieves, vagabonds and worse have since passed through here, desecrating and
+vandalizing it as they've passed though.  
+~
+0 8 0
+D3
+~
+~
+0 0 23200
+C loner~
+S
+#23202
+The Hall of Archos~
+Tapestries and paintings of Justice's great deeds line the walls of this
+enormous palace hall.  Fluted marble pillars crisscross the outskirts of the
+hall itself, holding aloft the high, vaulted ceiling.  Shafts of sunlight
+enter through massive, curved glass windows set carefully into the ceiling -
+a veritable work of art, yet strong and secure.  Torches flicker along the
+smooth walls as well, lighting the gallery below.  A series of couches and
+pillows, piled high with furs, are centered in the middle of the gallery, as
+well as a giant iron throne set at the far end.  Racks of gleaming steel
+weaponry line the walls.  An air of great deeds done is prevalent in the
+vaulted chamber - the truly great of the world relax here.  
+~
+0 8 0
+D1
+~
+~
+0 0 23203
+D2
+~
+~
+1 0 23200
+D4
+~
+~
+0 0 23204
+S
+#23203
+The Room of Broken Mirrors~
+The first thing you notice is that there is broken glass all around you. 
+It appears the walls were once lined with mirrors, but the mirrors have
+since all been shattered.  These mirrors hold to some shimmering colour, as
+though they used to reflect beautiful scenes in some magical way.  Alas,
+their splendour and beauty have been broken.  
+~
+0 12 0
+D3
+~
+~
+0 0 23202
+S
+#23204
+Portals of the Just~
+You have wandered into the majestic halls of the wandering prophets that
+once led justice.  A quick glance shows their handy craftsmanship, their
+delightfully painted and embroided diamonds.  Another glance shows their
+lack of ingenuity, leaving empty holes leading to the abyss and beyond. 
+Enter at your own risk!  
+~
+0 12 0
+D4
+~
+~
+1 0 23205
+D5
+~
+~
+0 0 23202
+S
+#23205
+The Room of the Adept~
+You have entered the halls of the lowly adept.  You can see all around
+you, the room has the scars that attest to the fact that it has born witness
+to the many tasks that early trainees are set to.  All around you are worn
+out pieces of equipment, targets, and reminders.  This room was meant for
+training one's spirit and soul until that person reaches their ultimate goal
+of perfection.  Hope that from these walls you can get the wisdom and
+courage to work towards your goal.  
+~
+0 12 0
+D5
+~
+~
+1 0 23204
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#23200
+~
+A
+#0
+
+#RESETS
+D 0 23200 0 1
+D 0 23202 2 1
+D 0 23204 4 1
+D 0 23205 5 1
+S
+
+
+
+#SHOPS
+23203 0 0 0 0 0 120 100 0 23
+0
+
+
+
+#$

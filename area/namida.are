@@ -1,0 +1,3640 @@
+#AREADATA
+Name City of Tears~
+Builders Aql~
+VNUMs 13500 13599
+Credits {35 51} Lufia       City of Tears~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#13500
+moose~
+moose~
+Moose
+~
+~
+human~
+A d -1000 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+I 0 0 0
+stand stand none 157334
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13501
+glow worm~
+a glow worm~
+A wriggly little worm is here.
+~
+A little worm is here, wriggling around on the ground emitting
+a small glow from his torso.
+~
+sliver~
+A 0 99 0
+45 -4 25d10+3000 1d1+100 8d4+16 clobber
+-15 -15 -15 -15
+0 0 BL IK
+stand stand male 2341
+ABGHMXZc ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13502
+earth fly bug~
+an earth-fly~
+A little bug is here, fluttering around.
+~
+This giant bug wants nothing more than to flutter
+about freely in the open air.  It's great leafy wings
+make it look like it's wearing a dress rather than wings.
+It's not very clear, but you seem to be able to make out a real human face on that of the bug...
+~
+sliver~
+A QTV 900 0
+50 -3 50d10+4500 1d1+100 5d8+19 splatter
+-20 -20 -20 -20
+FHK 0 B K
+stand stand female 4534
+BHMOZ ABCDEFGHIJKLPQUVWX small none the guilds~
+M random 13503 4~
+#13503
+Eto Shouji~
+Eto Shouji~
+Shouji is here, fiddling with a new potion.
+~
+A little man with owl-shaped glasses sits at a desk surrounded
+by vials of herbs, and small trays of what look like animal-parts.
+He is hunched over his table, carefully slicing a flower petal, and ignoring
+you completely.
+~
+human~
+AB JZ 0 0
+54 5 50d10+6500 1d1+100 7d6+22 none
+-24 -24 -24 -24
+0 ABPa 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 13503 jotarou~
+#13504
+Hanari Eiichi~
+Eiichi~
+Hanari Eiichi ignores your presence.
+~
+Eiichi sits behind his counter, pouring over his
+account books.  He glances sharply in your direction, but
+returns to his books, waiting for you to make up your mind.
+~
+human~
+AB DEFZ 0 0
+54 5 50d10+6500 1d1+100 7d6+22 none
+-24 -24 -24 -24
+0 ABTZa 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 13502 4~
+#13505
+firefly bug~
+a firefly~
+A small bug is fluttering around here, radiating a warm glow.
+~
+A small insect flies annoyingly around you.
+*Bzzt* *Bzzt*
+~
+sliver~
+A HQTV 888 0
+58 -2 50d10+8500 1d1+100 5d10+25 thwack
+-28 -28 -28 -28
+FK 0 B K
+stand stand none 3456
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13506
+maid Kiku~
+Kiku~
+Kiku is here, desperately looking for an escape.
+~
+A beautiful woman looks at you with pleading eyes.  She looks like she
+wants to be released from her prison, at any cost.
+You could swear you've seen her face before....
+The bugs!! Those bugs look like her!
+I wonder why....
+~
+human~
+AB HV 1000 0
+55 -3 50d10+7000 1d1+100 10d4+23 slap
+-25 -25 -25 -25
+I 0 0 0
+stand stand female 1023
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13507
+hairy spider~
+a spider~
+A spider is here, hissing in your general direction.
+~
+A huge spider stands before you.
+With legs hairier than a female troll, and pincers
+large enough to take down a small dragon, it doesn't
+look pleased with your presence.
+~
+centipede~
+AB Z -200 0
+55 -3 50d10+7000 1d1+100 10d4+23 bite
+-25 -25 -25 -25
+FHK 0 FI E
+stand stand none 0
+ABGO ACK medium 0 the guilds~
+#13508
+oni ogre~
+an oni~
+An oni is here.
+~
+A horrific looking ogre is here.  More than just looks, this oni has the
+misfortune (for you) to know just a little bit of magic to do that extra
+little damage.  Maybe he's having a dumb day today, and won't remember to
+use it.  
+~
+orc~
+AB HJVa 700 0
+51 -13 50d10+5000 1d1+100 5d8+20 rip
+-21 -21 -21 -21
+C 0 Q S
+stand stand male 4243
+AHMV ABCDEFGHIJK large 0 the guilds~
+#13509
+chittering squirrel~
+a chittering squirrel~
+A squirrel is here, chittering maniacally at you.
+~
+Aww, a cute little squirrel sits before you.  His coat is an extra-fluffy
+cream colour, quite possibly making him the most rare of his kind.  He seems
+to find you especially amusing.
+~
+bat~
+AW TVZ 635 0
+55 -3 50d10+7000 1d1+100 10d4+23 bite
+-25 -25 -25 -25
+FHK 0 0 S
+stand stand male 1562
+AGV ACDEFHJKP medium 0 the guilds~
+#13510
+baby panda~
+a baby panda~
+A baby panda bear looks lost.
+~
+A baby panda is here, wailing his heart out.  As cute as he looks, you
+notice between wails his razor-sharp teeth used for munching on the rougher
+pieces of bamboo.  
+~
+bear~
+AB V 400 0
+55 -3 50d10+7000 1d1+100 10d4+23 none
+-25 -25 -25 -25
+CDEHO Z EI 0
+stand stand male 12
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13511
+wood turtle~
+a wood turtle~
+A large turtle is here, blending in with the scenery.
+~
+A turtle slowly moves from location to location, pulling his large
+wood-coloured shell with him.  He looks just like a big piece of tree
+with legs, a good disguise for keeping him hidden from the less
+smarter animals in this area.
+~
+lizard~
+AW Qd 500 0
+39 -3 15d10+1700 1d1+100 5d6+13 none
+-13 -13 -13 -13
+0 Z L I
+stand stand male 1923
+AGHMVXc ABCDEFGHIJKQV medium 0 the guilds~
+#13512
+half breed raccoon dog~
+a raccoon dog~
+A half-breed is here, looking at you with watery eyes.
+~
+A weird looking animal, with patchy fur, and slightly cockeyed, sits
+on his hind legs with his floppy ears slightly perked.  It would seem
+that he is the offspring of a raccoon and a dog.  It would also
+seem that in his nightly rummagings, he came across a stray
+bottle of firebreather.
+~
+dog~
+A PQV -100 0
+35 -1 10d10+1300 1d1+100 4d7+11 rip
+-11 -11 -11 -11
+FH Z 0 0
+stand stand male 2453
+AGV ACDEFHJKUV medium 0 the guilds~
+#13513
+Hisae~
+Hisae~
+Hisae is here, staring blankly at you.
+~
+An elderly woman stands in front of you.
+She shows no intention of leaving, nor of causing you any harm.
+~
+gnome~
+AB FHJV 1000 0
+57 -2 50d10+8000 1d1+100 6d8+24 slap
+-27 -27 -27 -27
+D 0 BEK HKL
+stand stand female 5432
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13514
+sika deer~
+a sika deer~
+A regal looking deer is here, eyeing you warily.
+~
+A large spotted deer stands before you, his coat gleaming
+without the aide of sunlight.  Not only is his coat
+impeccable, but his antlers look strong enough to take
+you down, and anyone with you.
+~
+dog~
+AW V 0 0
+37 -2 10d10+1500 1d1+100 3d10+12 none
+-12 -12 -12 -12
+FHI 0 0 0
+stand stand male 2314
+AGHMV ABCDEFGHIJKUV medium 0 the guilds~
+#13515
+river otter~
+a river otter~
+An otter is here, snarling at your presence.
+~
+A wet otter scampers out of the water to gnaw on your ankles.
+~
+water fowl~
+AW TV 100 0
+40 -3 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+FK 0 R 0
+stand stand female 1342
+AGW ACDEFHKP medium 0 the guilds~
+#13516
+large oni~
+a large oni~
+A large oni is here, it's busy bashing rocks.
+~
+A large ogre-type monster is here, bashing his
+way towards you!
+~
+bear~
+AB 0 -500 0
+37 -2 10d10+1500 1d1+100 3d10+12 rip
+-12 -12 -12 -12
+DEO Z EI 0
+stand stand male 3451
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13517
+weak sick gryphon~
+a weak dragon~
+A sickly gryphonis here, looking at you balefully.
+~
+The gryphon that stands before you is barely able to stand at all.
+His colouring is a pale green, if any of his original colour were
+visible it is undistinguishable from his sickly pallor.  His sickness seems to have
+taken over all of his body.
+~
+gargoyle~
+AB JTXZd 0 0
+39 -2 15d10+1700 1d1+100 5d6+13 chomp
+-13 -13 -13 -13
+0 0 BEK LQ
+stand stand male 1234
+ABHMXZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13518
+tiny village man~
+a tiny man~
+A tiny man is here, waiting for you to move out of his way.
+~
+A little man looks anxious to go about
+his daily business.  You seem to be in his way.
+~
+human~
+A HV 220 0
+57 -2 50d10+8000 1d1+100 6d8+24 knock
+-27 -27 -27 -27
+I 0 0 0
+stand stand male 2312
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13519
+sheep~
+a sheep~
+A wooly sheep is here, blinking cutely at you.
+~
+*Baaaaaaaaaa*
+Is all this sheep can say.
+~
+dog~
+AB FJ 100 0
+38 -2 10d10+1600 1d1+100 5d6+12 gore
+-13 -13 -13 -13
+DH 0 BE HK
+stand stand female 1151
+ABGHMV ABCDEFGHIJKUV medium 0 the guilds~
+#13520
+small monkey~
+a monkey~
+A small monkey is here, perched on a rock.
+~
+A small light-brown face peers at you curiously from a black-furred body.
+This monkey hops from rock to tree branch to look at you from all angles.
+~
+goblin~
+AB JV 400 0
+38 -2 10d10+1600 1d1+100 5d6+12 scratch
+-13 -13 -13 -13
+FHK 0 Q C
+stand stand female 2134
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13521
+small village girl~
+a small girl~
+A little girl is here, fiddling with the sleeves of her dress.
+~
+A young girl skips along, stopping from time to time to examine the
+various flowers along her path.  As soon as she collects enough, she
+begins to wind the stems together to create a crown, or a delicate
+hand-held arrangement.
+~
+human~
+AB H 330 0
+56 -2 50d10+7500 1d1+100 10d4+24 knock
+-26 -26 -26 -26
+I 0 0 0
+stand stand female 1234
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13522
+tiny village boy~
+a village boy~
+A small boy is here, engrossed in his daydreams.
+~
+A young boy wanders about aimlessly staring at the sky.  He barely
+even notices the path he is walking on, or you in front of him.
+~
+human~
+AW V 450 0
+40 -3 15d10+1850 1d1+100 4d8+13 knock
+-13 -13 -13 -13
+FI 0 0 0
+stand stand male 1434
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13523
+tiger~
+a tiger~
+A tiger is here, sitting on its haunches waiting to pounce.
+~
+Coiled like a cobra ready to strike, so is this tiger.  Tufts
+of fur on his back stand on end, and his ears are flattened against his head
+so much that they are nearly invisible.  It would be wise to watch your step.
+~
+kirre~
+AB JPQ 400 0
+40 -3 15d10+1850 1d1+100 4d8+13 rip
+-13 -13 -13 -13
+F 0 J I
+stand stand male 2341
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#13524
+bird peacock~
+a peacock~
+A beautiful bird is here, looking at you haughtily.
+~
+No matter how much you try to follow this peacock around, she just
+refuses to show off her tail feathers in your presence.  Turning her
+blue-feathered body away from you, the peacock ruffles its feathers
+angrily and stalks off.
+~
+song bird~
+AB T 1000 0
+51 -3 50d10+5000 1d1+100 5d8+20 peckb
+-21 -21 -21 -21
+FHKM 0 0 0
+stand stand female 2341
+AGW ACDEFHKP medium 0 the guilds~
+#13525
+drunken courtesan~
+a drunken courtesan~
+A drunken courtesan is here, her kimono all akimbo.
+~
+At first glance, you see a beautiful young woman sleeping on the ground
+before you.  As you look closer, you notice her eyes are watery, her nose
+is red, and her mouth half-open.  As she snores gently, you wonder if
+she spent a bit too much time in the tea house, not drinking tea.
+Her kimono is askew, showing much more than she intended.
+~
+human~
+AB Rd -100 0
+50 -3 50d10+4500 1d1+100 5d8+19 slap
+-20 -20 -20 -20
+C 0 0 0
+stand stand female 3432
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13526
+pheasant bird~
+a pheasant~
+A pheasant is here, perched on a nearby tree branch.
+~
+A rather fat bird sits on a tree branch directly above you.
+Either it is too stupid to fly away, or it isn't afraid of you.
+~
+song bird~
+AB T 500 0
+49 -3 50d10+4000 1d1+100 4d10+18 peckb
+-19 -19 -19 -19
+FHK 0 0 0
+stand stand male 0
+AGW ACDEFHKP medium 0 the guilds~
+#13527
+surly sake gorilla~
+sake gorilla~
+A surly looking gorilla is here, don't antagonize him!
+~
+I don't think you want to risk upsetting this angry drunken gorilla.
+~
+modron~
+AB JPVZ 400 0
+55 -3 50d10+7000 1d1+100 10d4+23 rip
+-25 -25 -25 -25
+DEFHKOQR BMNPQ EHIKQ S
+stand stand male 0
+AGHMV ABCDEFGHIJKQUV medium 0 the guilds~
+#13528
+Hara Kyo~
+Hara Kyo~
+Kyo is here, working on a new piece of weaponry.
+~
+A nubile young woman is here, hammering out a new sword.
+If you didn't know any better, you might think she was too
+delicate for such work.
+~
+human~
+AB DZ 0 0
+55 5 50d10+7000 1d1+100 10d4+23 none
+-25 -25 -25 -25
+0 ABKa 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13529
+luck goddess~
+goddess of luck~
+The goddess of luck is here.
+~
+A young woman, dressed all in white flips a coin repeatedly.
+She grins coyly in your direction.
+~
+human~
+AB HV 1000 0
+60 -2 50d10+9500 1d1+100 8d6+28 pound
+-30 -30 -30 -30
+HIK AB 0 0
+stand stand female 4923
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13530
+warrior patron~
+the patron of warriors~
+The patron of warriors is here.
+~
+This man is ignoring you.
+~
+human~
+AB HV 800 0
+25 1 5d10+550 1d1+100 2d10+7 rip
+-7 -7 -7 -7
+B AB 0 0
+stand stand male 3523
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13531
+phoenix fire bird~
+a phoenix~
+A fiery looking bird sits in a corner, looking statuesque.
+~
+Not rising from any ashes to be reborn, this phoenix
+sits regally before you, paying you no mind.  It is
+a great honour indeed to be in the presence of this creature.
+~
+wyvern~
+AB DFHTV 1000 0
+55 -3 50d10+7000 1d1+100 10d4+23 slaughter
+-25 -25 -25 -25
+CFH L 0 S
+stand stand female 3212
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#13532
+wealth god~
+god of wealth~
+The god of wealth is here.
+~
+He has no hair, but who cares!
+He's loaded with gold!  Banzai!
+~
+human~
+AB DHV 900 0
+60 4 50d10+9500 1d1+100 8d6+28 clobber
+-30 -30 -30 -30
+CHI AB 0 0
+stand stand male 30000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13533
+glowing oni~
+a glowing oni~
+A rather large oni is here, emitting a strange glow.
+~
+You can't even fathom the colour or source of the glow
+~
+human~
+AB HJTV -1000 0
+58 5 50d10+8500 1d1+100 5d10+25 slice
+-28 -28 -28 -28
+DEO 0 BEHI I
+stand stand male 3413
+ABGHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13534
+laughter god~
+god of laughter~
+The god of laughter.
+~
+You can't seem to get a word in edge-wise.
+This man is just too jolly for his own good.
+~
+human~
+AB HVa 1000 0
+52 -13 50d10+5500 1d1+100 6d7+20 stomp
+-22 -22 -22 -22
+CIK AB 0 0
+stand stand male 3502
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13535
+fire cricket insect~
+a fire cricket~
+A small insect is here, burning blades of grass with its music.
+~
+A high-pitched chirping sound whizzes past your ear,
+along with a slight burning sensation as a fiery cricket
+leaps over your shoulder.
+~
+sliver~
+AB HTV 0 0
+58 -3 50d10+8500 1d1+100 5d10+25 scratch
+-28 -28 -28 -28
+FHK 0 B K
+stand stand none 3242
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13536
+tiny village woman~
+a tiny woman~
+A diminutive woman is here, avoiding your gaze.
+~
+She's just a common villager, wandering around for no apparent reason.
+~
+human~
+A V 300 0
+57 -2 50d10+8000 1d1+100 6d8+24 slap
+-27 -27 -27 -27
+I 0 0 0
+stand stand female 1943
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13537
+man chokaro~
+chokaro~
+An elegantly dressed man is here, holding a rather large pumpkin.
+~
+A strikingly elegant-looking man stands before you.  He seems to be
+holding a rather large pumpkin under his arm.
+~
+human~
+A H 800 0
+50 -3 50d10+4500 1d1+100 5d8+19 thwack
+-20 -20 -20 -20
+F 0 0 0
+stand stand male 5321
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13538
+dog lion half breed~
+a "halfbreed" creature~
+An odd looking dog or lion is here snapping at your heels.
+~
+Yet another crossbred creature stands before you.
+This time, however, the floppy ears are accompanied
+by a rich golden coat and paws with vicious looking claws.
+~
+fido~
+AB V 500 0
+53 -3 50d10+6000 1d1+100 6d7+21 chomp
+-23 -23 -23 -23
+FR 0 0 C
+stand stand male 2314
+ABGV ACDEFHJKQV medium 0 the guilds~
+#13539
+man happy~
+a happy man~
+A very happy man is here, with a smile plastered to his face.
+~
+You will get no conversation from this man.
+He can't seem to stop grinning even if he wanted to.
+~
+human~
+AB H 1000 0
+56 -2 50d10+7500 1d1+100 10d4+24 stab
+-26 -26 -26 -26
+0 0 0 0
+stand stand male 3412
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13540
+female panda~
+a cute panda bear~
+A female panda bear is here.  She is furiously looking for something.
+~
+A mother panda bear eyes you warily as you
+walk past her.  Though her appearance
+may be cute, with her fuzzy black and white
+fur, her wet nose wiggling about as she snuffles
+at the ground trying to pick up a scent, make no mistake,
+she can be vicious when pushed.
+~
+bear~
+AB V 500 0
+56 -4 50d10+7500 1d1+100 10d4+24 bite
+-26 -26 -26 -26
+CDEO 0 EI 0
+stand stand female 2312
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13541
+tortoise turtle~
+a tortoise~
+A rather large tortoise is here, blinking at you.
+~
+You turn a corner and slam into a huge slimey green wall.
+That's no wall...that's the shell of a giant tortoise!!
+A huge leathery head swings around to look at what disturbed its
+slumber, and an equally huge eyelid blinks at you.
+~
+lizard~
+AB 0 500 0
+48 -3 25d10+3750 1d1+100 6d6+18 chew
+-18 -18 -18 -18
+0 Z L I
+stand stand female 2312
+AGVXc ABCDEFHJKQUV giant 0 the guilds~
+#13542
+rabbit~
+a fuzzy rabbit~
+A little rabbit hippity hops around you.
+~
+A little rabbit is here, twitching its nose.
+~
+rabbit~
+AB V 1000 0
+48 -3 25d10+3750 1d1+100 6d6+18 scratch
+-18 -18 -18 -18
+FH 0 0 0
+stand stand female 2512
+AGV ACDEFHJK medium 0 the guilds~
+#13543
+rooster~
+a black rooster~
+A black-feathered rooster is here, preening himself.
+~
+This evil looking rooster eyes you with much animosity,
+despite the fact that you have done nothing to antagonize it.
+~
+water fowl~
+AB T 1000 0
+48 -3 25d10+3750 1d1+100 6d6+18 whip
+-18 -18 -18 -18
+0 0 R 0
+stand stand male 2341
+AGW ACDEFHKP medium 0 the guilds~
+#13544
+snake~
+a snake~
+A yellow-scaled snake slithers away from your approaching footfalls.
+~
+This yellowish reptile seems to be more scared of you than you are of it.
+~
+snake~
+AB 0 0 0
+48 -3 25d10+3750 1d1+100 6d6+18 thwack
+-18 -18 -18 -18
+0 0 L I
+stand stand male 2344
+AGXYc ADEFKLQVX medium 0 the guilds~
+#13545
+wild grizzled boar~
+a grizzled boar~
+A grizzled boar is here, snuffling about.
+~
+A huge smelly boar is here, fresh from rooting about
+in a mud puddle.  He seems to be trying to hide himself
+from you.
+~
+pig~
+AB 0 0 0
+55 -3 50d10+7000 1d1+100 10d4+23 bite
+-25 -25 -25 -25
+0 0 0 0
+stand stand female 3221
+AGV ACDEFHJK medium 0 the guilds~
+#13546
+dog beagle~
+a dog~
+A small beagle is here, looking at you imperiously.
+~
+A cute little puppy sits here, with brown and white patches of fur.
+He is sitting so stiff, with his front paws crossed, that you could
+almost swear he were a statue, except for the fact that he growls when
+approached.
+~
+dog~
+AB 0 0 0
+48 -3 25d10+3750 1d1+100 6d6+18 bite
+-18 -18 -18 -18
+H 0 0 0
+stand stand male 2345
+AGV ACDEFHJKUV medium 0 the guilds~
+#13547
+horse~
+a white horse~
+A beautiful white horse is here, grazing.
+~
+This beautiful stallion is more occupied with his
+grazing than with anything you have to say.
+~
+kirre~
+AB J 0 0
+48 -3 25d10+3750 1d1+100 6d6+18 stomp
+-18 -18 -18 -18
+0 0 J I
+stand stand male 2341
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#13548
+ox oxen~
+a large ox~
+An ox is here, gazing at you with big brown eyes.
+~
+An ox looks at you with big, watery, brown eyes.
+He saunters slowly up to you, stretching out his
+neck to sniff you with his wet nose.
+~
+bear~
+AB 0 0 0
+56 -2 50d10+7500 1d1+100 10d4+24 gore
+-26 -26 -26 -26
+DEO 0 EI 0
+stand stand male 3411
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13549
+rat~
+a rat~
+A large mottled-grey rat is here, squeaking loudly.
+~
+This rat pretends that he doesn't notice your presence, but there
+is a slight pause in his munching on a piece of forgotten cheese.
+Upon closer inspection you notice he is of the flying-squirrel variety.
+However, when he flies he looks like a rat that fell into a
+bucket of faerie dust.
+~
+bat~
+AB TZ 0 0
+48 -3 25d10+3750 1d1+100 6d6+18 bite
+-18 -18 -18 -18
+FH 0 0 S
+stand stand male 3214
+AGV ACDEFHJKP medium 0 the guilds~
+#13551
+crane bird~
+a crane~
+A beautiful bird is here, perched on one leg.
+~
+Standing perfectly still on one leg, one could almost carry the
+crane away with it tucked under their arm.  The razor sharp beak
+is quite the deterrent however.
+~
+water fowl~
+AB HT 400 0
+57 -2 50d10+8000 1d1+100 6d8+24 peck
+-27 -27 -27 -27
+FIK 0 R 0
+stand stand male 2345
+AGW ACDEFHKP medium 0 the guilds~
+#13552
+Saoi~
+Saoi~
+Saoi, the sake mistress is here.
+~
+A rather severe looking woman, she merely goes by the name Saoi.
+Probably because she doesn't want the local drunkards to get
+too friendly with her.  She is not exceptionally beautiful,
+although many claim that there is something about her..or her
+home-made sake that keep people returning to her shop.
+~
+human~
+AB 0 0 0
+54 -3 50d10+6500 1d1+100 7d6+22 none
+-24 -24 -24 -24
+0 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13553
+hoseki man~
+Hoseki~
+A dark looking man is sitting, rather floating, cross-legged here.
+~
+The man sitting before you radiates a powerful magic beyond any that you
+have encountered before.  His robes hang loosely, but exquisitely upon him. 
+His eyes closed, he seems to be meditating, and despite the fact that he is
+floating, his face betrays no sign of stress at this feat.  Truly, he must
+be a master to accomplish this so easily.  
+~
+human~
+AB HNOTV -500 0
+60 -1 50d10+9500 1d1+100 8d6+28 cleave
+-30 -30 -30 -30
+ABCDEFHKO ABFGab 0 0
+stand stand male 5213
+AHMVX ABCDEFGHIJKPQUV medium 0 the guilds~
+#13554
+insect waterfly water fly bug~
+a waterfly~
+A silver insect is here, it looks like a drop of rain.
+~
+*buzz* *buzz*
+What?  You expect an insect to talk to you?
+~
+sliver~
+A HTV 900 0
+51 -3 50d10+5000 1d1+100 5d8+20 splatter
+-21 -21 -21 -21
+FH 0 B K
+stand stand none 3534
+BHMZ ABCDEFGHIJKLPQUVWX small 0 the guilds~
+#13555
+woman seiobo~
+seiobo~
+A beautiful woman is here, looking at you with ancient eyes.
+~
+At first glance she seems like an ordinary woman, with extraordinary
+beauty.  Yet, upon closer inspection you notice that with
+each step she takes, the ground she steps on grows lush
+grass, and flowers begin to bloom exceptionally fast.
+~
+human~
+A 0 1000 0
+50 -3 50d10+4500 1d1+100 5d8+19 blast
+-20 -20 -20 -20
+FK 0 0 0
+stand stand female 4521
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13556
+Keitaro~
+Keitaro the fool~
+Keitaro, the bumbling fool is here casting various spells.
+~
+With the buttons on his clothes all askew, and his glasses miraculously
+dangling from one ear, it is a wonder this man can even dress
+himself in the morning.  He seems to be in a deep trance to try and cast a
+spell.  However, the book he is carrying is not a spell book, but a 
+book of nursery rhymes.
+~
+human~
+Aa 0 0 0
+54 -3 50d10+6500 1d1+100 7d6+22 none
+-24 -24 -24 -24
+I AB 0 0
+stand stand male 3490
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13557
+Arimi Sake Geisha~
+Arimi, the sake geisha~
+A beautiful geisha girl is here to serve your pleasure.
+~
+A beautiful geisha girl gazes demurely at you from behind the counter.
+She giggles lightly, and quickly turns away.
+~
+human~
+AY DE 0 0
+54 5 50d10+6500 1d1+100 7d6+22 none
+-24 -24 -24 -24
+0 ABa 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13558
+faint manifestation melpomene mel1~
+a faint manifestation of Melpomene~
+A faint manifestation of Melpomene, the goddess of tragedy, hovers here.
+~
+~
+human~
+ABGI IN 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 ABCDb 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13559
+wavering manifestation melpomene mel2~
+a wavering manifestation of Melpomene~
+A wavering manifestation of Melpomene, the goddess of tragedy, hovers here.
+~
+~
+human~
+ABGI IN 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 ABCDb 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13560
+solid manifestation melpomene mel3~
+a solidifying manifestation of Melpomene~
+A solidifying manifestation of Melpomene, the goddess of tragedy, hovers here.
+~
+~
+human~
+ABGI IN 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 ABCDb 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13561
+opaque manifestation melpomene mel4~
+an opaque manifestation of Melpomene~
+A fully opaque manifestation of Melpomene, the goddess of tragedy, hovers here.
+~
+~
+human~
+ABGI IN 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 ABCDb 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13562
+melpomene~
+Melpomene~
+Melpomene, the goddess of tragedy, lies before you.
+~
+~
+human~
+ABGI HN 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 ABCDb 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13563
+kneeling melpomene~
+Melpomene~
+Melpomene, the goddess of tragedy, kneels before you.
+~
+~
+human~
+ABGI HN 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 ABCDb 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13564
+crouching melpomene~
+Melpomene~
+Melpomene, the goddess of tragedy, crouches before you.
+~
+~
+human~
+ABGI HN 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 ABCDb 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13565
+shaky melpomene~
+Melpomene~
+Melpomene, the goddess of tragedy, stands shakily before you.
+~
+~
+human~
+ABGI HN 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 ABCDb 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13566
+strong melpomene~
+Melpomene~
+Melpomene, the goddess of tragedy, stands strongly before you.
+~
+~
+human~
+ABGI HN 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 ABCDb 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13567
+armored melpomene~
+Melpomene~
+Melpomene, the goddess of tragedy, stands before you, clad in glowing armor.
+~
+~
+human~
+ABGI HN 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 ABCDb 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13568
+melpomene~
+Melpomene~
+Melpomene, the goddess of tragedy, stands before you in her divine glory.
+~
+~
+human~
+ABG CHNOVZa -500 0
+54 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 ABb C 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13569
+wizi construct~
+(no short description)~
+A wizi construct, act: wizi; therefore invisible to mortals
+~
+~
+human~
+ABIZ 0 0 0
+60 0 1d1+99 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 13505 melpomene~
+#13594
+oni ogre~
+an oni~
+An oni is here, rumbling towards you.
+~
+"No talk! Just die!"
+Is what the oni bellows as he charges towards you.
+~
+orc~
+AB HJ -300 0
+55 -2 50d10+7000 1d1+100 10d4+23 stomp
+-25 -25 -25 -25
+CN B Q S
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#13500
+package haw flakes~
+some haw flakes~
+A little package of haw flakes are here.~
+jelly~
+pill 0 A
+35 'animal growth' 'bark skin' 'shield' 'reserved'
+0 10 0 P
+#13501
+tanto~
+a tanto~
+A decorative dagger is here.~
+steel~
+weapon 0 AN
+dagger 4 8 thrust 0
+38 30 7000 P
+#13502
+potion of fortitude~
+potion of fortitude~
+A potion of fortitude.~
+glass~
+potion 0 A
+35 'giant strength' 'sanctuary' 'reserved' 'reserved'
+40 10 5000 P
+#13503
+tonfa stick sticks staves~
+a tonfa~
+A pair of staves is here.~
+wood~
+weapon I AN
+exotic 12 3 none FJ
+49 20 8400 P
+#13504
+jade ring~
+a jade ring~
+A delicate ring is here.~
+jade~
+jewelry 0 AB
+0 0 0 0 0
+36 10 2312 P
+#13505
+vial trick trickery~
+vial of trickery~
+A vial of trickery is here.~
+food~
+potion 0 A
+35 'dispel magic' 'heal' 'teleport' 'reserved'
+40 10 4000 P
+#13506
+rope~
+a length of rope~
+A length of rope is here.~
+wood~
+wand 0 AO
+40 2 2 'charm person' 0
+40 30 234 P
+#13507
+hoseki diamond gem~
+the hoseki gem~
+A rough piece of diamond is here.~
+diamond~
+gem Tbd AQ
+0 0 0 0 0
+51 10 1245 P
+A
+3 3  
+A
+4 2  
+#13508
+warrior katana~
+a sturdy katana~
+A warrior's katana is here.~
+steel~
+weapon a AN
+sword 4 8 skewer D
+42 30 3224 P
+A
+19 2  
+A
+1 1  
+#13509
+luck blade~
+blade of luck~
+A blade is here, looking lucky.~
+iron~
+weapon I AN
+sword 5 7 slash 0
+44 25 3563 P
+A
+3 2  
+#13510
+silk robe~
+a flowing robe~
+A beautiful silk robe is here.~
+silk~
+armor 0 AD
+8 7 7 2 0
+39 20 4500 P
+A
+2 2  
+#13511
+pebble~
+a pebble~
+An ominous looking pebble is here.~
+stone~
+throwing 0 AO
+5 7 splatter 35 'acid blast'
+40 10 5500 P
+#13512
+whip~
+a whip~
+A devilish looking whip is here.~
+wood~
+weapon K AN
+whip 5 8 thwack 0
+48 40 5500 P
+A
+18 2  
+#13513
+wooden club~
+a wooden club~
+A club is here.~
+wood~
+weapon 0 AN
+mace 5 8 none 0
+49 60 2352 P
+A
+1 1  
+A
+13 20  
+A
+18 1  
+#13514
+flail~
+a flail~
+A wicked looking flail is here.~
+wood~
+weapon 0 AN
+flail 5 8 crush 0
+45 40 3423 P
+#13515
+starfruit fruit~
+a piece of starfruit~
+A chunk of luscious fruit is here.~
+food~
+pill 0 A
+35 'fly' 'detect invis' 'reserved' 'reserved'
+30 10 2111 P
+#13516
+jackfruit fruit~
+a piece of jackfruit~
+A luscious piece of fruit is here.~
+food~
+pill 0 A
+25 'frenzy' 'pass door' 'reserved' 'reserved'
+35 10 2342 P
+#13517
+lychee fruit~
+some lychee~
+A bunch of small fruits are here.~
+food~
+pill 0 A
+25 'bless' 'blur' 'reserved' 'reserved'
+30 10 2312 P
+#13518
+sugar cane sugarcane~
+a piece of sugarcane~
+A piece of sugarcane is here.~
+wood~
+pill 0 A
+25 'fly' 'shield' 'reserved' 'reserved'
+30 10 2124 P
+#13519
+ruby bracelet~
+a ruby bracelet~
+A glittering bracelet is here.~
+ruby~
+armor 0 AM
+7 7 7 3 0
+41 10 1242 P
+A
+1 2  
+#13520
+leather pouch bag~
+a leather pouch~
+A small bag is here, gathering dust.~
+leather~
+container 0 AL
+5 A 0 100 50
+20 50 234 P
+#13521
+hovel key~
+a wooden key~
+A beaten up key is here.~
+wood~
+key 0 AO
+0 0 0 0 0
+1 10 0 P
+#13522
+phoenix chain~
+a phoenix chain~
+A large, ornate gold chain is here.~
+gold~
+armor 0 AC
+5 5 5 3 0
+40 50 3421 P
+A
+2 2  
+A
+17 -7  
+#13523
+dragon chain~
+a dragon chain~
+A large, dull looking chain is here.~
+pewter~
+armor 0 AC
+8 8 8 8 0
+49 50 3421 P
+A
+17 -4  
+A
+18 2  
+A
+19 2  
+#13524
+fox greaves~
+a pair of fox greaves~
+A pair of intricately designed greaves are here.~
+mithril~
+armor A AF
+10 10 8 1 0
+45 40 0 P
+A
+2 1  
+A
+19 1  
+A
+12 5  
+A
+13 5  
+#13525
+silk sleeves~
+a pair of silk sleeves~
+A beautiful pair of sleeves are here, getting dirty.~
+silk~
+armor 0 AIY
+10 10 10 3 0
+45 10 2142 P
+A
+20 -3  
+#13526
+red canvas bracer~
+a red canvas bracer~
+A length of red cloth has been thrown on the ground here.~
+canvas~
+armor 0 AM
+4 4 4 4 0
+46 10 0 P
+A
+12 10  
+A
+13 10  
+A
+18 1  
+A
+19 1  
+#13527
+lime potion~
+a lime potion~
+A greenish vial is here.~
+wood~
+potion 0 A
+25 'detect invis' 'detect magic' 'reserved' 'reserved'
+40 10 2000 P
+#13528
+manriki gusari flail~
+manriki gusari~
+A dull looking flail is here.~
+pewter~
+weapon 0 AN
+flail 9 4 splatter D
+49 30 2945 P
+#13529
+ebo club~
+an ebo club~
+A short, menacing club is here.~
+steel~
+weapon 0 AN
+mace 5 8 beating K
+46 30 2421 P
+A
+3 1  
+#13530
+fire blossoms~
+fire blossoms~
+A pile of glowing flowers are here.~
+fire~
+light Y AOY
+0 0 200 0 0
+25 10 99 P
+A
+3 -2  
+#13531
+yari blade spear~
+a yari spear~
+A sharp looking spear is here.~
+steel~
+weapon 0 AN
+staff 4 8 skewer D
+40 50 2315 P
+#13532
+tessen fan shield~
+a fan shield~
+A metal fan appears to have been abandoned here.~
+iron~
+armor 0 AJ
+10 10 10 4 0
+40 30 2451 P
+A
+19 2  
+A
+13 20  
+#13533
+glow rock~
+a glowing rock~
+A rock is here, pulsating with light.~
+stone~
+light A AO
+0 0 300 0 0
+37 20 2312 P
+#13534
+mask shikami~
+shikami mask~
+A blood coloured mask is lying here.~
+wood~
+armor EJb AE
+12 12 12 8 0
+49 20 2312 P
+A
+19 2  
+A
+18 1  
+#13535
+ko mask~
+mask of ko~
+A cute little mask is here.~
+wood~
+armor AKc AE
+10 10 10 6 0
+41 20 2314 P
+A
+4 1  
+A
+1 -2  
+#13536
+dragon kimono~
+a dragon kimono~
+An intricately designed garment is here.~
+silk~
+armor AG AD
+6 6 5 4 0
+45 10 2314 P
+A
+2 -1  
+A
+19 1  
+A
+18 1  
+#13537
+garment bird kimono crane~
+a crane kimono~
+A garment, with the design of a bird painted on it, is here.~
+silk~
+armor 0 AD
+10 10 8 4 0
+50 10 2312 P
+#13538
+vial herbs~
+a vial of herbs~
+A vial full of vile smelling herbs is here.~
+oil~
+potion 0 A
+45 'heal' 'bless' 'reserved' 'reserved'
+35 10 2000 P
+#13539
+lucky cat figurine~
+a lucky cat figurine~
+The figurine of a cat is lying here on the ground.~
+wood~
+armor ac AO
+5 5 5 4 0
+39 10 2313 P
+A
+2 2  
+#13540
+jade necklace~
+a jade necklace~
+A simple green-stoned necklace is here.~
+jade~
+jewelry A AC
+0 0 0 0 0
+35 10 2500 P
+#13541
+ruby necklace~
+a ruby necklace~
+A red-stoned necklace is here.~
+ruby~
+jewelry A AC
+0 0 0 0 0
+35 10 2400 P
+#13542
+jeweled hair comb~
+a jeweled hair comb~
+A silvery comb is lying here.~
+silver~
+jewelry 0 AE
+0 0 0 0 0
+0 10 3421 P
+#13543
+pagoda lantern~
+a pagoda lantern~
+A bronze lantern is here.~
+bronze~
+light A AO
+0 0 400 0 0
+35 50 2000 P
+#13544
+jade bracelet~
+a jade bracelet~
+A green-stoned bracelet is here.~
+jade~
+jewelry 0 AM
+0 0 0 0 0
+35 10 2300 P
+#13545
+flint rock~
+a flint rock~
+A glowing hunk of rock is lying here.~
+flint~
+light 0 AO
+0 0 400 0 0
+30 10 2000 P
+#13546
+pumpkin~
+a small pumpkin~
+A small, magical-looking pumpkin is here.~
+jelly~
+wand 0 AO
+36 3 3 'gate' 0
+45 1 3452 P
+#13547
+iron key~
+an iron key~
+A beaten up key is here.~
+iron~
+key 0 A
+0 0 0 0 0
+0 10 0 P
+#13548
+silver pavilion key~
+pavilion key~
+A battered key is lying here.~
+silver~
+key 0 A
+0 0 0 0 0
+0 10 0 P
+#13549
+stone key~
+a stone key~
+A greyish key carved from stone is here.~
+stone~
+key 0 A
+0 0 0 0 0
+0 10 0 P
+#13550
+Lemony Fountain~
+a lemony fountain~
+A fountain of lemony goodness is here.~
+marble~
+fountain 0 0
+600 600 'lemonade' 0 0
+1 6000 0 P
+#13551
+big bottle sake~
+a big bottle of sake~
+A sake bottle is here.~
+wood~
+drink 0 AO
+15 15 'red wine' 0 0
+1 10 100 P
+#13552
+cup of green tea~
+a cup of green tea~
+A little cup full of sweet-smelling liquid is here.~
+porcelain~
+drink 0 A
+15 15 'tea' 0 0
+1 10 100 P
+#13553
+a cup of sake~
+a cup of sake~
+A cup of warm sake is here.~
+porcelain~
+drink 0 A
+15 15 'red wine' 0 0
+11 10 500 P
+#13554
+glass lychee bubble tea~
+a glass of lychee bubble tea~
+A luscious glass of lychee bubble tea is here.~
+glass~
+drink 0 A
+15 15 'tea' 0 0
+1 10 1000 P
+#13555
+glass strawberry bubble tea~
+a glass of strawberry bubble tea~
+A scrumptious glass of strawberry bubble tea is here.~
+glass~
+drink 0 A
+15 15 'tea' 0 0
+1 10 1000 P
+#13556
+tapioca pearls~
+some tapioca pearls~
+A small package of tapioca pearls.~
+jelly~
+food 0 A
+15 15 0 0 0
+1 10 100 P
+#13557
+sneaky giant picture~
+a picture of a sneaky looking giant~
+A picture of Farbeyond sneaking a pair of Rosalie's underwear in the freezer!~
+parch~
+trash 0 AO
+0 0 0 0 0
+60 1 0 P
+E
+portal~
+|                        ...     .....xxxxxxxxxx.....x##****#x..x#***#x..x#*
+|  ...                        .....xxxxxxx####****##x....x#***#x..x#**#x..x#
+| ...                       ...................xx#****#x...x#***#...x#**#...
+|....   ...                       .....xxxxxxxx....x#****#x..x#**#x..x#**#..
+|...   ....    ..               .....xxxx###*****#x...x#***#...x#*#x...###x.
+|... ......  ....                ............xx#****#x..x#**#x..x#*#x...x##x
+|..  .....  .....  ....              ...xxxxx....x#***x...x#*#x..x###x..xx##
+|.. ...... .....  .....   ..        ...xx##****#x..x#**#...x###...x##x...x##
+|....xx......x.. ...... .....         .....xx#***x...###x...x##x...x#xx...xx
+|....xx.....xx.....xx........  ....    ..xx...x###x...x#x....xxx....xxx...xx
+|...xxxx...xxx....xxx....xx.....xx.. .. .**#x...xxx....xx....xxx....xxx....x
+|...xxxx...x#x....x#x...x##x...x##x..x#**.......xxx...x##x...x##x..x##x...x#
+|...x##x...x##x...x##x..x###x..x#*#x...xx.    ........xxx....xxx...xx#x...x#
+|x..x###...x##x...x##x...#**#x..x***#x....      ..  .........xx....xxx....xx
+|x...x##x..x#*#x..x#**x..x#**#x..x#***##xx...       ..... ...x.....xxx....xx
+|#x..x#*#x..x#*#x..x#**#...#***#x....xxxx...         .    .....  ..x......xx
+|*#...x**#x..x**#x..x#**#x..x#****#xx......              .....  ...... .....
+|**x...#**#x..x***x...#***#x...x##**###xxx......               .....  ......
+|#**x..x#**#x..x#**#x..x#****#x.....xxxxx.....                 ....  ...... 
+|x#**#...#***x..x#***#x...x#****#xx......... ....                   .....   
+|.x#**#x..x***#x..x#***#x....x########xxxxx........                 ...    .
+|..x#***x..x#***#x..x#****#xx......xxxxxxx......                          ..
+~
+#13558
+Halloween Candy~
+a delicious piece of candy~
+{DH{Wa{Dl{Wl{Do{Ww{De{We{Dn {rCandy{x is here!~
+jelly~
+food 0 A
+0 0 0 0 0
+1 10 0 P
+#13559
+tear~
+a {ct{Ce{xa{Wr~
+{xA single {ct{Ce{xa{Wr lies on the ground here.~
+water~
+treasure 0 A
+0 0 0 0 0
+0 0 0 P
+#13599
+pavilion key~
+the pavilion key~
+A gleaming silver key is here.~
+silver~
+key 0 A
+0 0 0 0 0
+45 10 0 P
+#0
+
+
+
+#ROOMS
+#13500
+Lufia's Web~
+Terra:
+Merchants - 11312
+HELP - 11240
+Treasure Hunters - 11305
+Traveller's Rest - 16005
+Illuminati - 16001
+Waterfall - 5282
+    
+Dominia:
+Merchants - 31199
+HELP 31193
+Treasure Hunters - 31168
+Imperial - 30900
+Traveller's Rest - 30801
+~
+0 268967956 3
+M 0 H 0
+S
+#13501
+Entry-way~
+You stand at the entrance to a lush city.  Every which way you look you
+see cute little bugs flying around.  You can travel towards the east and
+west on this path.  
+~
+0 0 2
+E
+sign~
+This is Namida no Toshii,
+Land of Tears.
+~
+D1
+~
+~
+0 0 13502
+D2
+~
+~
+0 0 31488
+D3
+~
+~
+0 0 13505
+S
+#13502
+Path of Tears~
+As you wander through the city, you begin to think that it might be
+deserted.  The area seems to be ripe with an odd assortment of exotic
+creatures, rather than real people.  
+~
+0 0 2
+D3
+~
+~
+0 0 13501
+D4
+~
+~
+0 0 13503
+S
+#13503
+Eto Shouji's Potions~
+You walk in and nearly stumble over a crate of empty vials.  Every single
+wall in the room is covered from the floor to the ceiling with vials of all
+shapes and sizes.  Some of the vials are filled with liquids, some powders,
+and some with herbs.  Hanging upside down from the ceiling are even more
+herbs, flowers, and dead animals for later use.  The room is being heated by
+various tiny insects that generate the warmth of ten torches.  In the middle
+of the room sits a tiny man on a stool, squinting at a flower stem that he
+is peeling.  There is also an enormous apothecary's chest of drawers that
+takes up an entire length of the far wall.  
+~
+0 8 3
+D3
+~
+~
+0 0 13504
+D5
+~
+~
+0 0 13502
+S
+#13504
+Hanari Eiichi's Haberdasherie~
+A little man sits behind a counter.  He is surrounded by various pieces
+of armour, however they don't look like his craftsmanship.  The shopkeeper
+is more concerned with the gold in his pouch rather than your presence in
+his store.  
+~
+0 0 2
+D1
+~
+~
+0 0 13503
+D3
+~
+~
+0 0 13510
+D5
+~
+~
+0 0 13505
+S
+#13505
+On the pathway~
+Bugs flutter past you as you walk along the path.  You can hear the quiet
+shuffle of nearby footsteps, maybe you can find a real person to talk to. 
+To the west you notice some linen hanging on a line creating a makeshift
+door.  
+~
+0 0 2
+D1
+~
+~
+0 0 13501
+D3
+~
+~
+0 0 13506
+D4
+~
+~
+0 0 13504
+S
+#13506
+Kiku's prison~
+Silk sheets hang from invisible wires all around you, forming a makeshift
+room with no visible exits.  The wind travels through the silk sheets in
+such a way as to purposefully keep you tangled up in them.  
+~
+0 0 2
+D1
+~
+~
+0 0 13505
+D3
+~
+~
+0 0 13507
+S
+#13507
+Path of tears~
+Only odd looking creatures can be found along this path.  The path
+continues east and westwards.  
+~
+0 0 2
+D1
+~
+~
+0 0 13506
+D3
+~
+~
+0 0 13508
+S
+#13508
+Path of tears~
+There seems to be nothing of particular interest along this path.  You
+can travel east or west in search of something more interesting.  
+~
+0 0 2
+D1
+~
+~
+0 0 13507
+D3
+~
+~
+0 0 13509
+S
+#13509
+Along the path~
+Walking along the path, you can hear the sound of creatures scampering
+through the underbrush.  The path continues to the north and east.  
+~
+0 0 2
+D0
+~
+~
+0 0 13515
+D1
+~
+~
+0 0 13508
+S
+#13510
+Along a path~
+A few creatures look quizzically around for the presence of other, more
+scary, creatures.  The path continues on east and westwards.  
+~
+0 0 2
+D1
+~
+~
+0 0 13504
+D3
+~
+~
+0 0 13511
+S
+#13511
+Along a path~
+A few odd-looking creatures scamper into the trees at the slightest sound
+of foreign forest-movement.  Exits are north and eastwards.  
+~
+0 0 2
+D1
+~
+~
+0 0 13510
+D3
+~
+~
+0 0 13512
+S
+#13512
+A curve in the path~
+The only scenery around is the few creatures clambering around the tree
+tops.  The path continues to the east, and up.  
+~
+0 0 2
+D1
+~
+~
+0 0 13511
+D4
+~
+~
+0 0 13513
+S
+#13513
+On a knoll~
+You have walked onto a grass knoll.  Flowers of all sorts of shapes and
+scents surround you.  A light breeze wafts through the area, and causes some
+passing fireflies to spin out of control.  Exits are east and down.  
+~
+0 0 2
+D1
+~
+~
+0 0 13514
+D5
+~
+~
+0 0 13512
+S
+#13514
+Further along a path~
+The surrounding area is just a mess of overhanging branches.  Little
+beasties are hiding in nearby trees, breaking off twigs to munch on.  The
+creatures around here climb higher into the leaves and branches of the
+trees, so that they may hide from view.  There is only one visible exit to
+the west.  
+~
+0 0 2
+D3
+~
+~
+0 0 13513
+S
+#13515
+Further along a path~
+You can see that a few trees are the only scenery in this portion of the
+forest.  Falling leaves flutter slowly through the air, creating small piles
+on the ground.  The path continues to the north and east.  
+~
+0 4 2
+D0
+~
+~
+0 0 13516
+D2
+~
+~
+0 0 13509
+S
+#13516
+Along a path~
+You push branches and leaves out of your way as you walk along the path. 
+The underbrush hinders any movement in any direction, making it difficult to
+navigate through the forest.  The path leads on to the east, and south.  
+~
+0 4 2
+D1
+~
+~
+0 0 13517
+D2
+~
+~
+0 0 13515
+S
+#13517
+Along the path~
+As you walk along the path, paw prints of creatures that have walked here
+before you are visible in the dirt.  The only audible noise here is that of
+various creatures hiding in the trees.  The path continues east and
+westwards.  
+~
+0 0 2
+D1
+~
+~
+0 0 13518
+D3
+~
+~
+0 0 13516
+S
+#13518
+A branch of paths~
+Your wandering has brought you to a small clearing.  This clearing is in
+the shape of a perfect circle, surrounded by trees.  The path continues to
+the east and west, but also branches off and slopes upwards.  
+~
+0 4 2
+D1
+~
+~
+0 0 13519
+D3
+~
+~
+0 0 13517
+D4
+~
+~
+0 0 13520
+S
+#13519
+The end of a path~
+This portion of the forest is a very pretty dead end.  Nevertheless,
+sweet smelling flowers and lovely green foliage line the path.  The only
+exit is toward the west.  
+~
+0 0 2
+D3
+~
+~
+0 0 13518
+S
+#13520
+Turning a corner~
+As you walk along the steep slope, a new path appears in front of you. 
+Rocks and small crevices allow for decent foot and hand-holds.  Exits are
+east and down.  
+~
+0 0 2
+D1
+~
+~
+0 0 13521
+D5
+~
+~
+0 0 13518
+S
+#13521
+Path of tears~
+As you walk along the path, a gentle breeze drifts through the
+surrounding area.  Exotic flowers can be found on either side of the path,
+adding a sweet scent to the air.  The path contines north, and westwards.  
+~
+0 4 2
+D0
+~
+~
+0 0 13522
+D3
+~
+~
+0 0 13520
+S
+#13522
+On the path~
+The path you are on suddenly veers towards an area full of brambles and
+shrubs.  Insects occasionaly fly towards you with the express purpose of
+wanting to be a nuisance.  Exits are north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 13523
+D2
+~
+~
+0 0 13521
+S
+#13523
+On the straight~
+You are on a very straight path.  A path as straight as this, is rarely
+seen.  Everything in this section of the forest is perfectly symmetrical,
+right down to the leaves on trees.  This very orderly path continues to the
+north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 13524
+D2
+~
+~
+0 0 13522
+S
+#13524
+On the narrow~
+The path you are walking on suddenly narrows, and closes in on itself. 
+The trees are clustered together so tightly, it is almost suffocating.  The
+exits here allow you to travel east, south, and westwards.  
+~
+0 0 2
+D1
+~
+~
+0 0 13526
+D2
+~
+~
+0 0 13523
+D3
+~
+~
+0 0 13525
+S
+#13525
+Along the path of tears~
+The path widens onto another clearing.  There is nothing of great
+importance here, just some shrubbery and flowers.  Exits lead to the east
+and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 13524
+D3
+~
+~
+0 0 13529
+S
+#13526
+Below the slope~
+Standing at the base of a slope, all that is noticeable are shrubs
+decorated with a variety of delicate flowers.  The grass fades into a dirt
+path leading upwards.  Other exits are west and up.  
+~
+0 0 2
+D3
+~
+~
+0 0 13524
+D4
+~
+~
+0 0 13527
+S
+#13527
+A dirty path~
+You step over discarded half-eaten fruits, and look around your
+surroundings.  It seems like a rather large animal takes up residence here
+from time to time.  Exits lead north and down.  
+~
+0 0 2
+D0
+~
+~
+0 0 13528
+D5
+~
+~
+0 0 13526
+S
+#13528
+Hara Kyo's Metalworks~
+Walking along the path, you come across a young woman that has set up a
+makeshift shop for travellers.  Weapons of all types, for anyone's slashing
+pleasure adorn a few rickety tables.  It takes a finely honed mind and
+exceptional warrior skills to know how to create such implements of
+destruction.  It hardly seems likely that the beautiful young woman
+hammering out a sword to your left is the creator of such work.  
+~
+0 8 2
+D2
+~
+~
+0 0 13527
+S
+#13529
+Top of the slope~
+The path suddenly drops off at a steep decline.  A few scraggly tree
+roots stick out from the cliff.  The only exits are east and down.  
+~
+0 0 2
+D1
+~
+~
+0 0 13525
+D5
+~
+~
+0 0 13530
+S
+#13530
+Beneath the cliff~
+As you stand at the base of the cliff, you notice you have two options. 
+Travel up the cliff while clinging to roots and rocks to keep you from
+falling, or follow the sparingly grassy path to the west.  
+~
+0 0 2
+D3
+~
+~
+0 0 13531
+D4
+~
+~
+0 0 13529
+S
+#13531
+Path of Wealth~
+A brisk wind washes over the surrounding area.  The leaves on the trees
+have a gold hue to them, and the surrounding foliage seems to be outlined
+with silver.  The plant-life could be a veritable gold mine if processed
+properly.  This path continues to the east and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 13530
+D3
+~
+~
+0 0 13532
+S
+#13532
+Path of War~
+Wandering through the area, the grassy path dwindles into dirt.  Only one
+tree is visible in the middle of the path, and the warm gentle breeze makes
+it an ideal spot for meditating.  Scratch marks on the tree indicate that
+others before you have practiced their fighting techniques on it.  Exits are
+east and west.  
+~
+0 4 2
+D1
+~
+~
+0 0 13531
+D3
+~
+~
+0 0 13533
+S
+#13533
+Path of Laughter~
+As you enter this section of the path, you hear a sharp twittering sound
+all around you.  Peering at the bushes and hedges, the source of the
+laughter is nowhere to be found.  Exits are north and east.  
+~
+0 0 2
+D0
+~
+~
+0 0 13534
+D1
+~
+~
+0 0 13532
+S
+#13534
+A curve in the path~
+A strong gust of wind hits the area, causing leaves and dust to fly
+towards your face.  Hardly any creatures can be seen here.  You can keep
+travelling to the north and south.  
+~
+0 0 2
+D0
+~
+~
+0 0 13535
+D2
+~
+~
+0 0 13533
+S
+#13535
+Path of Luck~
+As you walk along the path, you notice light bouncing from the ground. 
+Apparently this part of the path is paved with silver and sunlight reflects
+off it into your eyes.  You can keep walking to the east and south.  
+~
+0 0 2
+D1
+~
+~
+0 0 13536
+D2
+~
+~
+0 0 13534
+S
+#13536
+A field~
+The trees have thinned out in this portion of the forest.  The
+surrounding vegetation is so lush, it is unlikely that any creatures have
+wandered through here lately.  Exits are east and down.  
+~
+0 0 2
+D3
+~
+~
+0 0 13535
+D5
+~
+~
+0 0 13537
+S
+#13537
+Path of fire~
+The woods along this path look similar to most other wooded paths.  The
+trees here look ancient, their trunks the size of a well-proportioned
+dragon's torso.  Exits are east and up.  
+~
+0 0 2
+D1
+~
+~
+0 0 13538
+D4
+~
+~
+0 0 13536
+S
+#13538
+Another field~
+You come across a small field with tall grass and violet flowers, just
+inviting you to lie down and take a nap.  You can stay and nap, or continue
+on the path traveling east or west.  
+~
+0 0 2
+D1
+~
+~
+0 0 13539
+D3
+~
+~
+0 0 13537
+S
+#13539
+Path of fire~
+As you walk along the path you notice that despite the nice breeze, waves
+of heat can be seen in the air around you.  There is not a shade tree in
+sight.  The only visible exits are to the north and west.  
+~
+0 4 2
+D0
+~
+~
+0 0 13540
+D3
+~
+~
+0 0 13538
+S
+#13540
+Amidst the shrubs~
+You suddenly find yourself entangled in thorny shrubs and vines.  They
+seem to be moving around your limbs in an effort to hamper your movement. 
+If you didn't know any better, you might just think this vegetation were
+alive.  Hrmm..  
+~
+0 0 2
+D1
+~
+~
+0 0 13541
+D2
+~
+~
+0 0 13539
+S
+#13541
+A flat path~
+You find yourself on a very, very flat path.  If it were anymore flat, it
+would be...  Well..  Even *more* flat.  This flat path leads on to the east
+and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 13542
+D3
+~
+~
+0 0 13540
+S
+#13542
+Further along the flat path~
+The ground beneath you is so flat it hurts your feet.  There are some
+pretty little shrubs in the area, and quite possibly some creatures
+scampering underfoot.  Exits are west and up.  
+~
+0 0 2
+D3
+~
+~
+0 0 13541
+D4
+~
+~
+0 0 13543
+S
+#13543
+Top of the cliff~
+Reaching the cliff on this mountain wasn't so tough.  The trees around
+here look quite young, as if they were only recently planted.  The path you
+are on can take you down the mountain, and north through more of the forest.
+~
+0 0 2
+D0
+~
+~
+0 0 13544
+D5
+~
+~
+0 0 13542
+S
+#13544
+A mountain peak~
+Looking over your surroundings, you notice that there is a severe lack of
+vegetation here.  The few trees in the vicinity are half dead, and the grass
+is brown and sparse.  You can climb down the mountain, or slide down the
+southern slope.  
+~
+0 0 2
+D2
+~
+~
+0 0 13543
+D5
+~
+~
+0 0 13545
+S
+#13545
+Bottom of the slope~
+You are at the bottom of a slope.  This part of the forest looks like a
+giant or dragon has trampled around, flattening everything in its way.  You
+can climb the slope upwards, or follow a dirt path to the south.  
+~
+0 0 2
+D2
+~
+~
+0 0 13546
+D4
+~
+~
+0 0 13544
+S
+#13546
+Base of the hill~
+You find yourself at the bottom of a hill.  The grass here is brown and
+patchy, and the trees are almost dead.  The air feels so dry that if it
+could talk, it would ask for a pitcher of water.  You can climb the hill to
+the north or travel eastward.  
+~
+0 4 2
+D0
+~
+~
+0 0 13545
+D1
+~
+~
+0 0 13547
+S
+#13547
+A sloping path~
+You nearly stumble over your own feet as you find yourself on a sloping
+path.  Peering nervously around in the hopes that nobody saw you, you notice
+that the path continues to the south and west.  
+~
+0 0 2
+D2
+~
+~
+0 0 13548
+D3
+~
+~
+0 0 13546
+S
+#13548
+A quiet clearing~
+You find yourself face to face with another hill to climb.  This part of
+the forest is devoid of any and all sounds.  You cannot even hear the wind
+rustle through the leaves, even though they are clearly moving.  The path
+continues to the east and north.  
+~
+0 0 2
+D0
+~
+~
+0 0 13547
+D1
+~
+~
+0 0 13549
+S
+#13549
+A clearing~
+There seems to be a surprising lack of creatures in the vicinity.  If you
+decide to take a rest, however, the flowers here are pretty enough to hold
+your gaze.  The path continues to the south and west.  
+~
+0 0 2
+D2
+~
+~
+0 0 13550
+D3
+~
+~
+0 0 13548
+S
+#13550
+A rough trail~
+Rocks and pebbles are all that make up the terrain here.  You could try
+walking through the forest, but every time you attempt to take a step off
+the beaten path, it mysteriously connects with you again.  The only visible
+exits are to the south or west.  
+~
+0 0 3
+D0
+~
+~
+0 0 13549
+D1
+~
+~
+0 0 13551
+S
+#13551
+By a pond~
+Whoops!  Don't fall into the pond!  You notice dry land on the other side
+of it, just wade through the water and you should be fine.  
+~
+0 0 6
+D1
+~
+~
+0 0 13552
+D3
+~
+~
+0 0 13550
+S
+#13552
+An eastern trail~
+You walk through the forest, pushing branches and leaves out of your way.
+A few rocks and broken twigs are scattered here on the path.  The path
+continues to the east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 13553
+D3
+~
+~
+0 0 13551
+S
+#13553
+Further along the eastern trail~
+As you walk through the forest, you push low hanging branches out of your
+way.  A few rocks and broken twigs are scattered on the ground here.  The
+path continues to the east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 13554
+D3
+~
+~
+0 0 13552
+S
+#13554
+More of the eastern path~
+You walk through the forest, pushing branches and leaves out of your way.
+A few rocks and broken twigs are scattered here on the path.  The path
+continues to the east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 13555
+D3
+~
+~
+0 0 13553
+S
+#13555
+End of the eastern path~
+This is the end of a grassy path.  The foliage encompasses you, as if it
+had sprouted arms and was hugging you.  The only visible exits are towards
+the east and south.  
+~
+0 0 3
+D2
+~
+~
+0 0 13556
+D3
+~
+~
+0 0 13554
+S
+#13556
+Southern slope~
+Sweet smelling grass covers all of the surrounding area.  An entry-way to
+some sort of cave is visible to the south.  The path also leads to the
+north, possibly the top of the slope.  
+~
+0 0 2
+D0
+~
+~
+0 0 13555
+D2
+~
+~
+0 0 13557
+S
+#13557
+Outside a cavern~
+You have reached the entrance to a small cave.  All the vegetation has
+died off here.  The grass, long and dead, ends in sparse patches as you near
+the cave.  Exits are north, down and east.  
+~
+0 0 2
+D0
+~
+~
+0 0 13556
+D1
+~
+~
+0 0 13574
+D5
+~
+~
+0 0 13558
+S
+#13558
+Cavern entrance~
+You enter a cave and stumble around trying to walk as you wait for your
+eyesight to adjust to the darkness.  The walls of the cave are lined with
+some kind of moss, from which emanates an eerie green glow.  You notice some
+steps leading down further into the cave.  The only visible exits are up and
+down.  
+~
+0 0 0
+D4
+~
+~
+0 0 13557
+D5
+~
+~
+0 0 13559
+S
+#13559
+Stone corridor~
+Torches line the walls at this end of the cave.  The firelight casts a
+frightening glow as your shadow flickers around.  The walls here are smooth
+to the touch, and definately were not created by any force of nature.  Exits
+lead up the stairs, or through a corridor to the west.  
+~
+0 0 0
+D3
+~
+~
+0 0 13560
+D4
+~
+~
+0 0 13558
+S
+#13560
+Stone corridor~
+Torches line the walls in this section of the cave.  The dim firelight
+casts a frightening glow making your shadows dance around the walls.  The
+walls here are smooth to the touch, and definately were not created by any
+forces of nature.  Exits lead up the stairs or through a corridor to the
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 13559
+D3
+~
+~
+0 0 13561
+S
+#13561
+Along the corridor~
+Torches line the walls of the cave, with the firelight casting an eerie
+glow allowing your shadow to flicker around.  The walls are smooth to the
+touch, definately not a room created by nature.  The only visible exits are
+to the east and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 13560
+D3
+~
+~
+0 0 13562
+S
+#13562
+End of the corridor~
+This is the end of one corridor, however there seems to be another one
+just around the bend.  The sound of scuttling creatures is barely audible
+throughout the cavern.  Exits lead towards the east and north.  
+~
+0 0 2
+D0
+~
+~
+0 0 13563
+D1
+~
+~
+0 0 13561
+S
+#13563
+Another stone corridor~
+As you enter this corridor, the scuttle of creatures becomes a little
+louder.  You notice that the walls here are quite jagged, and even a little
+cracked in certain spots.  The only visible exits lead to the south and
+north.  
+~
+0 0 2
+D0
+~
+~
+0 0 13565
+D1
+~
+~
+1 13549 13564
+D2
+~
+~
+0 0 13562
+S
+#13564
+A stone room~
+Aha!  You have found your way into a hidden cavern.  You notice something
+that looks like a moving shadow out of the corner of your eye.  If
+something, or someone, is there, it would be best to act cautiously.  
+~
+0 0 2
+D3
+~
+~
+1 13549 13563
+S
+#13565
+End of another stone corridor~
+You have reached the end of this corridor.  It seems that this
+passage-way curves into another one.  A gust of wind smacks you in the face,
+possibly a hint that you are near an exit.  More noises can be heard to your
+west, however no visible path in that direction can be seen.  The only
+visible exits are to the east and south.  
+~
+0 0 2
+D1
+~
+~
+1 0 13567
+D2
+~
+~
+0 0 13563
+D3
+~
+~
+1 0 13566
+S
+#13566
+A stone cage~
+You have found your way into a hidden room.  The air around you is thick,
+and humid.  The stench of death is definately nearby.  There is a door to
+the east.  
+~
+0 0 0
+D1
+~
+~
+1 0 13565
+S
+#13567
+Towards the end of the corridor~
+A lot of moss seems to be growing on the walls around you.  The ceilings
+here are simply covered in a thick blanket of the soft greenery.  The air
+around you smells faintly of various flowers, possibly a sign that you are
+near an exit-way from these deep caverns.  You can continue traveling to the
+east and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 13568
+D3
+~
+~
+1 0 13565
+S
+#13568
+End of the cave~
+The gorund here has become a little more jagged, and the corridor more
+narrow because of all the moss on the walls.  The air feels fresh, and you
+find that you can breathe easier now.  Exits are north and west.  
+~
+0 0 2
+D0
+~
+~
+0 0 13569
+D3
+~
+~
+0 0 13567
+S
+#13569
+A rocky mountain~
+You have reached the base of a mountain.  It does not really look like a
+difficult climb.  Your mother could probably scale this mountain.  Exits are
+south into the cave, or climb northwards up the rocky terrain.  
+~
+0 0 2
+D0
+~
+~
+0 0 13570
+D2
+~
+~
+0 0 13568
+S
+#13570
+Mountain peak~
+You have reached the summit of the mountain.  All sorts of flowers
+decorate the area in waves of red, purple, pink, and fuschia.  You notice a
+small hut towards the east that looks so run-down your fear that it might
+collapse at any moment.  The windows are so dirty that wiping them just
+causes the dirt to smear, futher obscuring any vision into the hut.  Exits
+are east and south.  
+~
+0 0 2
+D1
+~
+~
+0 0 13571
+D2
+~
+~
+0 0 13569
+S
+#13571
+A small hut~
+You have entered a small, grass-roofed hut about the size of a small
+room.  A couple of rickety chairs lean against the far wall, and an equally
+abused table sits in the centre of the room with piles of dirty wooden
+dishes on it.  A small mountain of grass sits in one corner of the hut,
+probably acting as a bed for whatever creature lives here.  Exits are east
+and west.  
+~
+0 0 2
+D1
+~
+~
+1 0 13572
+D3
+~
+~
+0 0 13570
+S
+#13572
+A rocky cliff~
+It is very difficult to maintain proper footing on this rocky terrain. 
+Rocks and pebbles keep sliding out from beneath you, and it does not help
+that the wind feels like it could pierce your skin.  You peer nervously over
+the cliff and wonder how much it would hurt if you fell down.  Exits are
+south and west.  
+~
+0 0 2
+D2
+~
+~
+0 0 13573
+D3
+~
+~
+1 0 13571
+S
+#13573
+A rocky end~
+{RSPLAT{x!!!!!!  You have fallen onto a rocky ledge, there seems to be no
+escape.  Birds begin to circle overhead, mistaking you for prey.  
+~
+0 4 2
+M 0 H 0
+S
+#13574
+A grassy field~
+There is certainly no lack of nature here.  Tall grass encompasses you as
+soon as you step into the area, blocking out everything in sight except for
+the sky.  You just hope the creatures here are not as tall as the grass. 
+Exits are east, south, and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 13575
+D2
+~
+~
+0 0 13576
+D3
+~
+~
+0 0 13557
+S
+#13575
+More of a grassy field~
+You wander through some tall grass.  If there were anything significant
+here, there would be no way to tell.  It is obvious someone has here before
+you because the vegetation looks squashed, as if it had been trampled on by
+a large animal.  Exits are east and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 13578
+D3
+~
+~
+0 0 13574
+D5
+~
+~
+1 0 13593
+S
+#13576
+Into the thicket~
+You wander through a large thicket.  There is so much grass here that it
+is almost impossible to retain your sense of direction.  Exits are north and
+east.  
+~
+0 0 2
+D0
+~
+~
+0 0 13574
+D1
+~
+~
+0 0 13577
+S
+#13577
+Further into the thicket~
+You wander through some tall grass.  THere is not much of importance
+here, unless you consider vast amounts of grass important.  Only the sky is
+visible, and it looks very far away from your current position.  Exits are
+east and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 13591
+D3
+~
+~
+0 0 13576
+D5
+~
+~
+1 0 13592
+S
+#13578
+A grassy knoll~
+You stand atop a small knoll in the thicket.  The knoll gives you some
+height, but not enough to look over the whole forest, the grass is far too
+tall to allow that.  A large earthy patch upsets the monotony of the grass,
+it looks like someone has been here before you and done some digging.  The
+only visible exits are to the west and through the thicket to the south.  
+~
+0 0 2
+D2
+~
+~
+0 0 13579
+D3
+~
+~
+0 0 13575
+D5
+~
+~
+3 13521 13596
+S
+#13579
+Northern grassy field~
+You find yourself in the midst of a field.  Tall grass sways around you,
+blocking your view of any other structures there might be in the area. 
+There seem to be some patches of dirt on the ground, perhaps it is a sign
+that you are not the first visitor to this forest.  
+~
+0 0 2
+D0
+~
+~
+0 0 13578
+D2
+~
+~
+0 0 13580
+S
+#13580
+A tall grassy field~
+You wander through some tall grass.  There is not much of importance
+here, unless you consider vast amounts of grass important.  The sky is the
+only thing visible to you, and it looks very far away from your current
+position.  Exits are north and east.  
+~
+0 0 2
+D0
+~
+~
+0 0 13579
+D1
+~
+~
+0 0 13581
+S
+#13581
+More of a tall grassy field~
+You wander through some tall grass.  If there were anything significant
+here, there would be no way to tell.  It is obvious someone has here before
+you because the vegetation looks squashed, as if it had been trampled on by
+a large animal.  Exits are east and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 13582
+D3
+~
+~
+0 0 13580
+S
+#13582
+A tall grassy field~
+~
+0 0 2
+D1
+~
+~
+0 0 13583
+D3
+~
+~
+0 0 13581
+S
+#13583
+The edge of a field~
+This is quite the thicket that you have wandered into.  Surrounded on all
+sides by tall grass, you are not able to see beyond it no matter how high
+you jump.  The path continues to the east and west.  
+~
+0 0 2
+D2
+~
+~
+0 0 13584
+D3
+~
+~
+0 0 13582
+S
+#13584
+A corner of the field~
+You have reached a small corner of the field where the grass has grown so
+thick that you cannot even hack through it with your weapon.  It has grown
+so tall that it has almost completely blocked out the sky, and could act
+like a roof to the elements.  The only visible exits are to the east and
+north.  
+~
+0 0 2
+D0
+~
+~
+0 0 13583
+D1
+~
+~
+0 0 13585
+S
+#13585
+Further Along the Path~
+You wander through some tall grass.  If there were anything of
+consequence around, it would not be visible through all the surrounding
+vegetation.  Exits are west and south.  
+~
+0 4 2
+D3
+~
+~
+0 0 13584
+S
+#13586
+A Tear-Stained Altar~
+The grass parts abruptly and the path is clearly visible, heading off to
+the west and north. However, your attention is immediately drawn to a large
+marble slab lying just to the side of the path. Runes along the edge of the
+slab are indecipherable, but it gives off a feeling of great power and seems
+to be some sort of altar.
+~
+0 524288 2
+E
+runes~
+The runes are almost impossible to read, but close examination reveals a
+recurring name in the scrawls: "Melpomene". You recognize the name as that 
+of the goddess of tragedy.
+~
+E
+altar~
+The marble slab is non-descript except for runic markings along its edges.
+~
+S
+#13587
+In the tall grass~
+You find yourself entrenched in a sea of grass.  All that surrounds you,
+for as far as the eye can see, is grass.  Your only visible exits are to the
+north and east.  
+~
+0 0 2
+D0
+~
+~
+0 0 13588
+S
+#13588
+Further in the field~
+You wander through more of the long, tall, grass.  If there were anything
+of consequence, you wouldn't be able to see it through all this.  Exits are
+south and west.  
+~
+0 0 2
+D2
+~
+~
+0 0 13587
+D3
+~
+~
+0 0 13589
+S
+#13589
+Further into the field~
+You wander through more of the long, tall grass.  If there were anything
+of consequence, you wouldn't be able to see it through all this.  There is a
+large patch of dirt on the far side of the path.  Exits are east and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 13588
+D3
+~
+~
+0 0 13590
+D5
+~
+~
+3 13547 13594
+S
+#13590
+Amidst a clump of trees~
+There is not much of interest here, just some trees that have grown so
+close together they are now intertwined.  You notice that someone has been
+through here before you, and been digging around, possibly in search of
+something.  Your only visible exits are to the east and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 13589
+D3
+~
+~
+0 0 13591
+D5
+~
+~
+4 13548 13597
+S
+#13591
+Further Along the Path~
+You wander through more of the long, tall, grass.  If there were anything
+else of consequence, you wouldn't be able to see it through all this.  Exits
+are east and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 13590
+D3
+~
+~
+0 0 13577
+S
+#13592
+A hidden hovel~
+You find yourself in a rather cozy room.  A fire in the hearth, and a pot
+of bubbling stew tantalizes your senses as you take in your surroundings. 
+The room is also outfitted with some beat up, but comfortable looking
+leather chairs.  This could be a very comfortable room to rest in.  The only
+visible exits lead to the north and up.  
+~
+0 0 2
+D0
+~
+~
+0 0 13593
+D4
+~
+~
+1 0 13577
+S
+#13593
+A hidden hovel~
+It does not make any sense that such a habitable home would exist beneath
+the earth, but this is obviously such a home.  There is a small fire burning
+in a nearby hearth, casting a warm glow around the room.  The room is fairly
+cozy, with a large cushiony chair in a corner, and a makeshift bed of hay
+and pillows in another.  This is obviously the home to just one person. 
+Exits are south and up.  
+~
+0 0 2
+D2
+~
+~
+0 0 13592
+D4
+~
+~
+1 0 13575
+S
+#13594
+A disheveled hovel~
+You have found your way into an underground abode.  This home seems to
+have been hit by a tornado.  Books and blankets are scattered all around the
+room, and the fireplace glows with the fire of burning papers that were
+flung into it.  You can hear a low rumble vibrate through the earthen walls.
+The only visible exit is towards the south.  
+~
+0 0 2
+D2
+~
+~
+0 0 13595
+D4
+~
+~
+3 13547 13589
+S
+#13595
+A clearing in the pasture~
+You wander through more of the long, tall, grass.  If there were anything
+of consequence, you wouldn't be able to see it through all this.  Exits are
+north and west.  
+~
+0 0 2
+D0
+~
+~
+0 0 13594
+D3
+~
+~
+0 0 13596
+S
+#13596
+Underground poppy field~
+You find yourself in some sort of underground garden.  The only life
+being nursed here are some poppies.  This botannical wonder seems like an
+ideal place to rest for a spell.  The path continues up and to the east.  
+~
+0 0 2
+D1
+~
+~
+0 0 13595
+D4
+~
+~
+3 13521 13578
+S
+#13597
+The tea room~
+You find yourself in a strange underground shop.  Jars line the walls,
+filled with all sorts of tea leaves, and herbs.  An old woman sits in a
+corner of the room, pretending that she doesn't notice anyone entering her
+shop.  A few tables are scattered around, with scraggly looking red-eyed
+patrons sitting around them.  Exits are north and up.  
+~
+0 0 2
+D0
+~
+~
+4 13599 13598
+D4
+~
+~
+4 13548 13590
+S
+#13598
+The back room~
+A loud hum erupts in your ears as you enter the back room.  This room is
+apparently the distillery for the tea-room.  Large wooden casks fill the
+room, and a strong smell of a liquid that is obviously *not* tea fills your
+nostrils.  
+~
+0 0 0
+D1
+~
+~
+0 0 13599
+D2
+~
+~
+4 13599 13597
+S
+#13599
+Underground Silver Pavilion~
+You have entered a beautiful one-room temple.  Gilded, silver walls
+surround you, with cherry blossom trees planted in each corner.  A large
+silk painting stands against the far wall, depicting a phoenix with a fox
+caught in its claws.  
+~
+0 806354944 0
+D3
+~
+~
+0 0 13598
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#13507
+if vnum $o == 13507
+junk $o
+~
+N
+#13506
+if mobexists 'faint manifestation melpomene'
+mob zecho {DThe City of Tears falls completely silent as the name of the Goddess of Tragedy echoes throughout the area.{x
+mob at 13586 mob echo {mA faint form begins to take shape on the altar. It appears the invocation has been successful.{x
+mob trans faint 13586
+else
+mob at 13586 mob echo {mNothing occurs as the name is spoken. The goddess does not yet have sufficient strength to reach the plane again.{x
+endif
+~
+A
+#13504
+~
+A
+#13500
+emote runs around yelling, "Kotobuki!"
+~
+A
+#13501
+echo A cockroach skitters across the table.
+~
+A
+#13502
+mob echo A cockroach skitters across the floor.
+emote snatches it up and flicks it towards you.
+say Keep your filth to yourself!
+~
+A
+#13503
+emote ruffles its wings and preens itself.
+~
+A
+#13505
+if mobhere 13558
+else
+ if mobhere 13559
+ else
+  if mobhere 13560
+  else
+   if mobhere 13561
+   else
+    if mobhere 13562
+    else
+     if mobhere 13563
+     else
+      if mobhere 13564
+      else
+       if mobhere 13565
+       else
+        if mobhere 13566
+        else
+         if mobhere 13567
+         else
+          if mobhere 13568
+          else
+           mob call 13506 $n
+          endif
+         endif
+        endif
+       endif
+      endif
+     endif
+    endif
+   endif
+  endif
+ endif
+endif
+~
+A
+#0
+
+#RESETS
+D 0 13563 1 2
+D 0 13564 3 2
+D 0 13565 3 1
+D 0 13566 1 1
+D 0 13575 5 1
+D 0 13577 5 1
+D 0 13578 5 2
+D 0 13589 5 2
+D 0 13590 5 2
+D 0 13592 4 1
+D 0 13593 4 1
+D 0 13594 4 2
+D 0 13596 4 2
+D 0 13597 0 2
+D 0 13597 4 2
+D 0 13598 2 2
+M 1 13568 1 13500 1
+M 1 13567 1 13500 1
+M 1 13566 1 13500 1
+M 1 13565 1 13500 1
+M 1 13564 1 13500 1
+M 1 13563 1 13500 1
+M 1 13562 1 13500 1
+M 1 13561 1 13500 1
+M 1 13560 1 13500 1
+M 1 13559 1 13500 1
+M 1 13558 1 13500 1
+M 1 13501 3 13501 1
+E 0 13545 0 17
+M 1 13502 3 13502 1
+M 1 13503 1 13503 1
+G 0 13505 0
+G 0 13502 0
+G 0 13527 0
+M 1 13504 1 13504 1
+G 0 13530 0
+G 0 13510 0
+G 0 13544 0
+G 0 13541 0
+G 0 13540 0
+M 1 13505 3 13505 1
+M 1 13506 1 13506 1
+E 0 13504 0 2
+M 1 13507 2 13507 1
+M 1 13508 2 13508 1
+M 1 13509 2 13509 1
+M 1 13510 1 13510 1
+M 1 13513 1 13513 1
+E 0 13542 0 6
+M 1 13515 2 13514 1
+M 1 13519 1 13519 1
+M 1 13516 2 13520 1
+M 1 13521 2 13521 1
+E 0 13537 0 5
+M 1 13508 2 13522 1
+E 0 13531 0 16
+M 1 13505 3 13523 1
+M 1 13502 3 13524 1
+M 1 13520 1 13526 1
+M 1 13527 1 13527 1
+M 1 13528 1 13528 1
+G 0 13503 0
+G 0 13501 0
+G 0 13511 0
+G 0 13512 0
+M 1 13532 1 13531 1
+E 0 13520 0 13
+M 1 13530 1 13532 1
+E 0 13508 0 16
+G 0 13547 0
+M 1 13534 1 13533 1
+M 1 13507 2 13534 1
+M 1 13522 2 13534 1
+M 1 13529 1 13535 1
+E 0 13509 0 16
+E 0 13539 0 17
+G 0 13521 0
+M 1 13512 2 13538 1
+M 1 13514 2 13539 1
+M 1 13539 1 13539 1
+M 1 13540 1 13540 1
+M 1 13501 3 13541 1
+M 1 13541 1 13541 1
+M 1 13556 1 13542 1
+M 1 13542 1 13542 1
+M 1 13505 3 13543 1
+M 1 13543 1 13543 1
+M 1 13535 1 13544 1
+M 1 13544 1 13544 1
+M 1 13545 1 13545 1
+E 0 13534 0 6
+M 1 13546 1 13546 1
+M 1 13547 1 13547 1
+M 1 13511 2 13548 1
+M 1 13548 1 13548 1
+E 0 13535 0 6
+M 1 13549 1 13549 1
+G 0 13518 0
+M 1 13554 4 13550 4
+M 1 13515 2 13551 1
+M 1 13509 2 13552 1
+M 1 13516 2 13553 1
+E 0 13529 0 16
+M 1 13502 3 13555 1
+M 1 13538 2 13557 1
+M 1 13521 2 13559 1
+G 0 13515 0
+M 1 13522 2 13562 1
+E 0 13536 0 5
+M 1 13537 1 13563 1
+E 0 13546 0 17
+M 1 13555 1 13564 1
+E 0 13519 0 15
+E 0 13540 0 3
+E 0 13544 0 14
+G 0 13599 0
+M 1 13517 1 13566 1
+E 0 13533 0 17
+M 1 13538 2 13568 1
+M 1 13519 1 13569 1
+M 1 13520 1 13572 1
+M 1 13523 1 13574 1
+M 1 13518 2 13575 1
+E 0 13524 0 7
+M 1 13551 1 13576 1
+E 0 13537 0 5
+M 1 13511 2 13577 1
+M 1 13512 2 13578 1
+M 1 13518 2 13578 1
+E 0 13524 0 7
+M 1 13524 1 13581 1
+E 0 13532 0 11
+M 1 13501 3 13582 1
+M 1 13514 2 13584 1
+M 1 13569 1 13586 1
+M 1 13533 1 13588 1
+E 0 13523 0 3
+M 1 13524 1 13589 1
+M 1 13535 4 13590 4
+M 1 13536 2 13592 1
+E 0 13543 0 17
+M 1 13594 1 13594 1
+G 0 13538 0
+E 0 13506 0 17
+G 0 13549 0
+M 1 13525 1 13595 1
+E 0 13504 0 2
+E 0 13525 0 10
+G 0 13548 0
+G 0 13551 0
+M 1 13526 1 13596 1
+M 1 13552 1 13597 1
+G 0 13551 0
+M 1 13557 1 13597 1
+G 0 13552 0
+G 0 13553 0
+G 0 13554 0
+G 0 13555 0
+G 0 13556 0
+M 1 13536 2 13598 1
+E 0 13519 0 14
+M 1 13531 1 13599 1
+E 0 13522 0 3
+M 1 13553 1 13599 1
+E 0 13507 0 18
+S
+
+
+
+#SHOPS
+13503 0 0 0 0 0 110 100 0 25
+13504 0 0 0 0 0 100 100 0 24
+13528 0 0 0 0 0 110 100 0 25
+13557 0 0 0 0 0 100 100 0 25
+0
+
+
+
+#$

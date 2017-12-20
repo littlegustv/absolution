@@ -1,0 +1,985 @@
+#AREADATA
+Name Defunct Dom Mud School~
+Builders Beorg~
+VNUMs 20000 20199
+Credits [ ALL ]~
+Security 1
+Xcontinent 1
+Age 0
+Questable 1
+End
+
+
+
+#MOBILES
+#20000
+short man teacher learned selina school~
+A learned teacher of Selina's School~
+A short man waits for someone for him to help.
+~
+He paces slowly and calmly in the middle of the room, and stops to look up at you.  He smiles a gentle smile and informs you he is here to help you practice anything.
+~
+sliver~
+ABK 0 1000 0
+1 0 2d6+10 1d1+99 1d4+0 none
+9 9 9 9
+0 ABR B K
+stand stand male 0
+BCHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#20001
+tall big man teacher learned school selina~
+A learned teacher of Selina's School~
+A tall burly man waits here to assist you.
+~
+This man is big, smiling, and waiting here to help you with whatever you need.  He's got a gentle feeling about him, but also, his looks convey a sense of danger.
+~
+human~
+ABJ 0 0 0
+1 0 2d6+10 1d1+99 1d4+0 none
+9 9 9 9
+0 ABR 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20002
+old man historian school selina~
+An ancient looking man~
+A man older than dirt itself sits here reading books.
+~
+This old man is OLD!  There is probably no one older than this guy.  He
+sits at his desk, reading a book and introduces himself to you as the
+school's historian.  He claims that the only person who knows more than him,
+is Selina herself!  He says, 'Sit down, and I shall tell you a tale of this
+world.  ' 
+~
+sliver~
+ABJ H 0 0
+1 0 2d6+10 1d1+99 1d4+0 none
+9 9 9 9
+0 ABDR B KLQ
+sit sit male 0
+ABHMVXZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#20003
+short stocky teacher selina dominia~
+A short stocky teacher~
+A short stocky teacher
+~
+This man stands proud and tall in the middle of the classroom, prepared
+to teach everything he knows about every war and battle that ever occured on
+Dominia's soil.  Selina trusts his great knowledge of the past of her lands,
+so you should listen.  
+~
+gargoyle~
+ABJ HJT 1000 0
+1 0 2d6+10 1d1+99 1d4+0 none
+9 9 9 9
+0 ABR 0 LQ
+stand stand male 0
+ABCHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#20004
+Selina's School Shopkeeper~
+The school's shopkeeper~
+The school's shopkeeper stands here behind the counter.
+~
+He's smiling at nothing in particular, actually he seems quite bored.  He
+greets you with a warm hello and a wave of his hand.  
+~
+human~
+AB 0 0 0
+60 6 50d10+9500 1d1+99 8d6+28 none
+-30 -30 -30 -30
+0 ABD 0 0
+stand stand male 1000000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20199
+Test dude~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 0 1d1+10 1d1+99 1d12+0 none
+22 -7 -7 -7
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#20000
+''~
+(no short description)~
+A book lays here on the table, open and waiting for you to read it.~
+paper~
+trash T 0
+0 0 0 0 0
+0 0 0 P
+#20001
+no name~
+(no short description)~
+A plaque glows brightly, screaming for your attention.~
+wood~
+trash A 0
+0 0 0 0 0
+0 0 0 P
+#20002
+tiny pill~
+a very tiny pill~
+A tiny pill lays here almost invisible.~
+vellum~
+pill G A
+10 'minimation' 'fly' 'giant strength' 'haste'
+1 0 50 P
+#20003
+A large pill~
+A large pill~
+A large pill that seems to big to swallow.~
+wood~
+pill 0 A
+10 'sanctuary' 'bless' 'stone skin' 'animal growth'
+1 0 50 P
+#20004
+A purple filled vial potion~
+A purple filled vial~
+A vial filled with a purple liquid sits here, waiting to be quaffed.~
+wood~
+potion 0 A
+5 'shield' 'armor' 'mirror image' 'reserved'
+1 0 50 P
+#20005
+egg juice potion strange~
+An odd drink made of egg~
+A drink, or a potion? Made of egg?~
+wood~
+potion 0 A
+10 'cure serious' 'cure poison' 'cure blindness' 'cure plague'
+1 0 80 P
+#20006
+wild pill~
+One wild looking pill~
+A wild looking pill, filled with power, bounces around.~
+wood~
+pill 0 A
+10 'animal growth' 'frenzy' 'bark skin' 'reserved'
+1 0 50 P
+#20197
+Groeb's Super Duper Leggings~
+{bGroeb's {rSuper Duper {DLeggings{X~
+{bGroeb's {rSuper Duper {DLeggings{X~
+diamond~
+armor GITYZ AFP
+-100 -100 -100 -100 0
+54 20 10000000 R
+A
+18 100  
+A
+19 100  
+A
+14 1000  
+A
+30 10  
+A
+29 10  
+A
+5 25  
+A
+2 25  
+#20198
+groeb something sword axe dagger other~
+{bGroeb's {rSomething {Dor Other{X~
+Groeb's something or other~
+platinum~
+weapon ABHIOT ANP
+dagger 7 2 none ABDGH
+54 10 0 R
+A
+1 25  
+A
+3 25  
+A
+4 25  
+A
+18 40  
+A
+19 40  
+A
+13 5000  
+A
+12 5000  
+A
+31 10  
+A
+32 10  
+A
+28 10  
+A
+20 -100  
+A
+30 10  
+A
+5 25  
+A
+19 100  
+A
+18 100  
+#20199
+Groeb's Huge Cushion couch~
+an enourmously huge cushion~
+There's a cushion here big enough for a family to LIVE in! And you can sit on it!~
+wood~
+furniture 0 0
+10 5000 BEHK 500 500
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#20000
+Selina's School Entrance~
+Selina welcomes you and all other newcomers to her land with open arms! 
+She has had this school constructed for your learning and protection. 
+Beyond here, you shall learn about Dominia, and the rest of the land that
+makes up Redemption.  Your first lesson is on the nearby wall, type "look
+plaque" to look at it.  When you are done, continue northwards.  
+~
+0 8 1
+E
+plaque~
+You may move in six directions on Redemption, North, South, East, West,
+Up, Down.  You may use the first letter of each direction to move around. 
+Many other commands on Redemption can be shortened in a similar fashion.  
+~
+D0
+~
+~
+0 0 20001
+S
+#20001
+Lobby of Selina's School~
+This is the lobby of Selina's School.  It's huge!  There are exits in all
+directions, rooms to the east and west, stairs leading up and down, the
+entrance to the south, and the school continues on to the north.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20006
+D1
+~
+~
+0 0 20002
+D2
+~
+~
+0 0 20000
+D3
+~
+~
+0 0 20003
+D4
+~
+~
+0 0 20004
+D5
+~
+~
+0 0 20005
+S
+#20002
+Practice Room~
+The room is filled with dummies and weapons.  Books are also neatly lined up on shelves along the walls.  There's a man, pacing in the middle of the room.  There is a sign on the wall.
+~
+0 131080 0
+D3
+~
+~
+0 0 20001
+S
+#20003
+Training Room~
+There's an abundance of magic, holiness and sweat in this room.  There's tools all over the place for physical and mental training in a neat mess.  There's a sign on the wall.
+~
+0 131080 0
+D1
+~
+~
+0 0 20001
+S
+#20004
+History Room~
+The walls of this room are covered in books.  There's a window, but only
+a small part of it can be seen through all the shelves that cover the walls.
+There's a man who looks older than dirt sitting at a desk in the middle of
+the room.  There are stairs leading back down to the lobby.  
+~
+0 131080 0
+D5
+~
+~
+0 0 20001
+S
+#20005
+War Room~
+This room is covered in battle gear and books of strategy and histories
+of past wars.  There's an enourmous table in the middle of the room. 
+Sitting at one of the chairs around the table is a battle scarred Sliver. 
+At the other end of the table from him is an oversized book left open.  
+~
+0 131080 0
+E
+book~
+There is a long history of war on the lands of our goddess, Selina.  Ever
+since the dragons found these lands, they have attempted to push their way
+onto Dominia.  Selina's creatures were forced to band together to form
+the clan of Pragmati, to fight these invading wyrms and forbid them entrance
+to her lands.
+ 
+Pragmati spent several years fighting these wyrms, and had to fight harder yet
+as they lost their own people to the dirty wyrms' cause.  Terran creatures
+and those Dominian people who had joined their cause, created the clan
+of Harper.  These two clans battled constantly, and Shandalar ran heavy
+with the blood of both wyrms and slivers.
+ 
+As the years and the battles continued on, the upper hand switched constantly
+between the two clans.
+ 
+Pragmati became the well-known clan of Venari, and Harper shortly thereafter
+became Kenshi.  These two clans still vied for prominence on Selina's land
+and still to this day fight their war within the city of Shandalar
+and all over Dominia.
+ 
+The only good that should be spoken of Kenshi, was they left the peaceful
+clan of Seeker alone.  But even this, was tossed aside as the clans'
+leaders changed from one to another.  Now Kenshi harbours barely anhything
+of its old "honourable" self.  They protect their own dragons, and defile
+Selina's lands.  Venari continues to fight this growing evil, that shan't
+be allowed safe haven here.
+~
+D4
+~
+~
+0 0 20001
+S
+#20006
+Hallway Doors~
+The main hallway of the school begins here, the school's lobby is to the
+south.  There are a pair of huge fancy doors blocking your continuation
+though the school to the east.  There's a sign hanging from the door.  
+~
+0 131080 0
+E
+sign~
+The sign reads:
+ 
+ 
+All around the world of Redemption, you may find doors, gates, and other such openable and closeable things.  To open any object that is closed, simply type "open (object)".  To close any object that is open, simply type "close (object)"
+~
+E
+door~
+These doors are simply gigantic!  Just 2 doors cover the entire span of the hallway, from floor to ceiling from wall to wall!  They've got beautiful stained glass and you can see it spells out, "Selina".
+~
+E
+east~
+These doors are simply gigantic!  Just 2 doors cover the entire span of the hallway, from floor to ceiling from wall to wall!  They've got beautiful stained glass and you can see it spells out, "Selina".
+~
+D1
+~
+~
+1 0 20007
+D2
+~
+~
+0 0 20001
+S
+#20007
+Beginning of a Hallway~
+This hallway seems like it could go on forever.  But that just might be
+an illusion.  There is a grand set of doors behind you that remain open and
+to the north there's a similar hallway, lined with what seems like lockers. 
+~
+0 131080 0
+E
+door~
+These doors are simply gigantic! Just 2 doors cover the entire span of the hallway, from floor to ceiling from wall to wall!  They've got beautiful stained glass and you can see it spell out "anileS".
+~
+E
+west~
+These doors are simply gigantic! Just 2 doors cover the entire span of the hallway, from floor to ceiling from wall to wall!  They've got beautiful stained glass and you can see it spell out "anileS".
+~
+D0
+~
+~
+0 0 20008
+D1
+~
+~
+0 0 20010
+D3
+~
+~
+1 0 20006
+S
+#20008
+Hallway of Lockers~
+This hallway seems just like the last, seems like it goes on forever!  But there's one difference, this one's lined with lockers as far as the eye can see.  The nearest one has a note on it.  The only exit is south, back the way you came.
+~
+0 131080 0
+D2
+~
+~
+0 0 20007
+S
+#20009
+School Shop~
+A sign is hanging down from the celing in plain view just within the
+entrance.  Standing behind a counter is an energetic dumb-founded Troll. 
+She looks ready to help you do whatever you need!  She stares for a moment
+and points at the sign.  There are things everywhere that you've never seen
+before.  You may go back north to get back into the hallway.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20036
+S
+#20010
+End of the Hallway~
+You've reached the end of this hallway, the ceiling reaches high into the
+sky.  There are stairs leading down, the guardrails intricately adorned. 
+Behind you lies the main hallway.  The stairs seem to lead down deeper into
+the earth.  
+~
+0 131080 0
+D3
+~
+~
+0 0 20007
+D5
+~
+~
+0 0 20011
+S
+#20011
+Grand Stairs~
+These stairs are slowing turning from metals and woods to dirt.  The
+walls are beginning to look like a dug out tunnel made of earth.  There are
+lights at the bottom of the stairs.  You may turn around and go back up, or
+continue downwards.  
+~
+0 131080 0
+D4
+~
+~
+0 0 20010
+D5
+~
+~
+0 0 20012
+S
+#20012
+Bottom of the Stairs~
+The entire place is dug out of the earth, and feels very damp.  There are lights along the ceiling to guide your way through the school.  Continue eastwards to begin your physical training.
+~
+0 0 0
+D1
+~
+~
+0 0 20013
+D4
+~
+~
+0 0 20011
+S
+#20013
+Wide Tunnel~
+The opening into this tunnel is only just big enough for a fair sized
+troll to walk through.  As the tunnel stretches out, it gets much wider, and
+a lot higher ceilinged.  There's a faint roar, sounds like a baby dragon.  
+~
+0 0 0
+D1
+~
+~
+0 0 20014
+D3
+~
+~
+0 0 20012
+S
+#20014
+Enourmous Cavern~
+This school has changed quite a bit since the entrance.  There's a
+resemblance of a castle wall built into one end of the cavern, you can see a
+forest, tunnels leading further underground, and a swamp takes up another
+part of the cavern.  There are exits in all directions, east continues on to
+your final task, and west leads back towards the stairs.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20023
+D1
+~
+~
+0 0 20031
+D2
+~
+~
+0 0 20027
+D3
+~
+~
+0 0 20013
+D4
+~
+~
+0 0 20015
+D5
+~
+~
+0 0 20019
+S
+#20015
+Castle Wall~
+Through the holes in the wall nothing can be seen except for the crumbles
+of brick that have fallen over time.  Exits to the north and west lead into
+holes in the walls, up is the top of the castle wall, and east leads you on
+towards your final tasks.  
+~
+0 0 0
+D0
+~
+~
+0 0 20016
+D1
+~
+~
+0 0 20031
+D3
+~
+~
+0 0 20017
+D4
+~
+~
+0 0 20018
+S
+#20016
+Hole in the Wall~
+This hole in the wall is only just big enough for two people to stand
+comfortably.  Here stands a gargoyle, ready to teach students the ways of
+fighting, he's got a nifty set of sleeves on.  Type "k gargoyle" to attack
+him.  
+~
+0 131080 0
+D2
+~
+~
+0 0 20015
+S
+#20017
+Hole in the Wall~
+This hole in the wall is only just big enough for two people to stand
+comfortably.  Here stands a gargoyle, ready to teach students the ways of
+fighting, he's got a nifty helmet on.  Type "k gargoyle" to attack him.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20015
+S
+#20018
+Top of the Castle Wall~
+The roof of the cavern is only barely high enough for a gargoyle to stand
+tall, which there just happens to be one standing, holding his polearm,
+ready to teach students in the ways of fighting.  Type "k gargoyle" to
+attack him.  
+~
+0 131080 0
+D5
+~
+~
+0 0 20015
+S
+#20019
+Sliver Tunnel~
+This tunnel is large enough to hold a couple slivers comfortably, there's
+webbing all over the walls.  The tunnel seems to lead to 3 dead ends, one
+goes down, and the other two are to the west and south.  East leads to the
+final tasks.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20032
+D2
+~
+~
+0 0 20020
+D3
+~
+~
+0 0 20021
+D5
+~
+~
+0 0 20022
+S
+#20020
+End of the Tunnel~
+The tunnel ends abruptly, yet purposefully.  A sliver waits patiently in
+the deepest part of this dead end, to teach his next student.  Type 'k
+sliver" to attack him.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20019
+S
+#20021
+End of the Tunnel~
+The tunnel ends abruptly, yet purposefully.  A sliver waits patiently in
+the deepest part of this dead end, to teach his next student.  Type 'k
+sliver" to attack him.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20019
+S
+#20022
+Deeper into the Ground~
+~
+0 131080 0
+D4
+~
+~
+0 0 20019
+S
+#20023
+Forest~
+Trees cover this area completely, any view of the cavern is lost.  The
+only clue that this forest is underground is the complete lack of light
+through the leaves.  There are slight clearings to the north and west, the
+very edge of the forest stands to the south, and east leads towards the
+final tasks of the school.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20024
+D1
+~
+~
+0 0 20033
+D2
+~
+~
+0 0 20026
+D3
+~
+~
+0 0 20025
+S
+#20024
+A Slight Clearing~
+This slight clearing gives a view to the cavern roof, confirming that the
+forest is underground.  There's enough room to comfortably move around in. 
+A Kirre stands proudly, prepared to teach students.  Type "k kirre" to
+attack him.  
+~
+0 131080 0
+D2
+~
+~
+0 0 20023
+S
+#20025
+A Slight Clearing~
+This slight clearing gives a view to the cavern roof, confirming that the
+forest is underground.  There's enough room to comfortably move around in. 
+A Kirre stands proudly, prepared to teach students.  Type "k kirre" to
+attack him.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20023
+S
+#20026
+Very Edge of the Forest~
+Lights from the lanterns within the cavern can be seen here, the only
+proof that this forest really is within the school.  There's very little
+space between the trees to do much, but there is a Kirre standing proudly,
+waiting to teach what he knows to students.  Type "k kirre" to attack him.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20023
+S
+#20027
+Swamp~
+There is a dank smell to this part of the cavern, fog surrounds the
+swamp.  In many directions, a blurry shape of a humanoid figure can be seen.
+There are exits in all cardinal directions.  East leads towards the final
+tasks.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20028
+D1
+~
+~
+0 0 20034
+D2
+~
+~
+0 0 20030
+D3
+~
+~
+0 0 20029
+S
+#20028
+Fog Engulfed end of the Swamp~
+The fog is thickest here, even the light can barely be seen.  The only
+way to tell south from any other direction is the Troll form standing in
+silence, he's obviously facing what seems to be the center of this swamp. 
+He waits on a student to teach.  Type "k troll" to attack him.  
+~
+0 131080 0
+D2
+~
+~
+0 0 20027
+S
+#20029
+Foggy Swamp~
+The fog makes the lights fromt he roof of the cavern spread out as if
+only one enourmous single lamp was giving off light.  A troll's blurred
+figure stands in the fog, waiting to train students.  Type "k troll" to
+attack him.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20027
+S
+#20030
+Foggy Swamp~
+The fog makes the lights fromt he roof of the cavern spread out as if
+only one enourmous single lamp was giving off light.  A troll's blurred
+figure stands in the fog, waiting to train students.  Type "k troll" to
+attack him.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20027
+S
+#20031
+Gargoyle Training Room~
+Polearms of varying lengths, sizes and sharpness line the walls of this
+room.  A large mat is spread out in the middle, ready for spar.  Blocking
+the other exit stands a gargoyle, holding a fancy looking polearm, the
+race's choice of weapon.  After defeating him, the exit leads to the very
+last task, and then a diploma.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20035
+D3
+~
+~
+0 0 20015
+S
+#20032
+Sliver Training Room~
+h2h? ask
+~
+0 131080 0
+D1
+~
+~
+0 0 20035
+D3
+~
+~
+0 0 20019
+S
+#20033
+Kirre Training Room~
+Flails of varying shapes and styles line the walls of this room.  A large
+mat is spread out in the middle, ready for spar.  Blocking the other exit,
+stands a kirre, weilding the biggest, meanest looking flail in the room, the
+race's choice of weapon.  After defeating him, the exit leads to the very
+last task, and then a diploma.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20035
+D3
+~
+~
+0 0 20023
+S
+#20034
+Troll Training Room~
+~
+0 131080 0
+D1
+~
+~
+0 0 20035
+D3
+~
+~
+0 0 20027
+S
+#20035
+School's Continuation~
+A beautiful view out the single window shows the entrance to the school a
+short distance to the west.  There is nowhere to go but down from the top of
+these stairs, onwards towards the next task.  
+~
+0 131080 0
+D5
+~
+~
+0 0 20036
+S
+#20036
+Beginning of the Final Hall~
+Standing at the bottom of the stairwell, the view to the end of the
+hallway is clear.  A small dragon's roar can be heard coming from up ahead. 
+The final task is at the end of the hall.  To the south, there is a small
+school shop.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20037
+D2
+~
+~
+0 0 20009
+D4
+~
+~
+0 0 20035
+S
+#20037
+End of the Hallway~
+Standing at the very end of the hallway, the stairs seem much further
+away than they should.  The door to the east is locked, and the key to it is
+through the open door to the south.  Selina's final two tasks await.  
+~
+0 131080 0
+D1
+~
+~
+0 0 20039
+D2
+~
+~
+0 0 20038
+D3
+~
+~
+0 0 20036
+S
+#20038
+Dragon Cage~
+This room is enourmous, and very spacious.  Human-like outlines are
+marked by scorches all over the wall.  There's a dragon roaring, he's got a
+large key hanging from the collar on his neck.  Get that key.  
+~
+0 131080 0
+D0
+~
+~
+0 0 20037
+S
+#20039
+The Final Task~
+The room is neat to a disgusting tee.  It's brightly lit, and pads line
+the walls.  A priestess stands off to the side to heal the students who make
+it this far.  The final task stands at the only exit, a closed door to the
+east.  
+~
+0 131084 0
+S
+#20199
+Groeb's Laughing House~
+This room is so annoying to stand in.  It's enourmously gigantic and
+there's laughter coming from every single corner, and it's keeping you from
+thinking quietly.  In the very middle there's an unthinkably big cushion for
+you to sit, sleep or do whatever on!  
+~
+0 32772 0
+M 500 H 500
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 20006 1 1
+D 0 20007 3 1
+O 0 20001 0 20000
+M 1 20000 1 20002 1
+M 1 20001 1 20003 1
+M 1 20002 1 20004 1
+M 1 20003 1 20005 1
+O 0 20000 0 20005
+C 100 percent for next reset
+M 1 20004 1 20009 1
+G 0 20002 0
+G 0 20003 0
+G 0 20004 0
+G 0 20005 0
+G 0 20006 0
+C 100 percent for next reset
+O 0 20199 0 20199
+S
+
+
+
+#SHOPS
+20004 0 26 0 0 0 70 50 0 24
+0
+
+
+
+#$

@@ -1,0 +1,2614 @@
+#AREADATA
+Name Bosco's Breach~
+Builders Vexatin Aql~
+VNUMs 4350 4399
+Credits { All } Cauthon      Bosco's Breach~
+Security 9
+Xcontinent 0
+Age 0
+Questable 0
+Control Venari~
+End
+
+
+
+#MOBILES
+#4350
+lazranjlfight stone statue lazranjl gargoyle~
+{gLazranjl{x, the stone gargoyle~
+A stone statue stands watch here.
+~
+A large statue stands on a raised earth platform in the middle of this
+chamber.  It stands balanced on two powerful back legs that support the
+hunched over body of a wolf, complete with a defined ridge of moss-colored
+fur that grows from the base of its spine to the crown of its head.  It has
+three pairs of large wings that hang unfolded around its body, creating an
+impenetrable shield of stone.  Its tail lays lazily wrapped around the base
+of the pedestal, drawing your attention to a small {dengraving{x.  
+~
+gargoyle~
+ABGT DHJTVZa 1000 0
+51 45 20d336+1820 0d0+0 15d4+0 bite
+1 1 1 17
+CEFHJKMN ABRb FGHZ ELQ
+stand stand none 50
+ABHMX ABCDEFGHIJKMPQUV large 0 the guilds~
+M death 4353 100~
+#4351
+dragon1fight great green dragon Demsarok eyes glow~
+The great dragon {gDemsarok{x~
+A pair of {Gglowing {ggreen{x eyes watch you from a distance.
+~
+~
+green dragon~
+ABCGS BDHJLNQTVZb 0 0
+51 5 50d10+7000 1d1+99 10d4+23 pobite
+-25 -25 -25 -25
+BFHIJKMN ABRb BEL J
+stand stand none 0
+ABHMZ ABCDEFGHIJKLPQUVWX giant 0 the guilds~
+M death 4361 100~
+M hpcnt 4362 95~
+M kill 4359 100~
+M hpcnt 4365 30~
+M fight 4363 4~
+#4352
+dark elf Atraveche~
+The {Ddark{x elf {RAtraveche{x~
+{RAtraveche{x stands waiting for you, her arms akimbo.
+~
+{RAtraveche{x stands near the wall, keeping to the shadows. She glances around
+nervously as you approach. Her arms are out and ahead of her, ready to block
+or attack or, should she get the chance, to take the coins right out of your
+pocket.
+~
+elf~
+ABCGRS DEFHJOPVZ -1000 0
+57 5 50d20+9500 1d1+99 7d9+32 scratch
+-27 -27 -27 -27
+BDEFHIJKN ABRb BC Z
+stand stand female 125
+AHMV ABCDEFGHIJK small 0 the guilds~
+M death 4367 100~
+#4353
+Ildsamad giant monk~
+Ildsamad~
+Ildsamad towers menacingly over you, refusing to let you pass.
+~
+A powerful looking giant stands here, blocking the door with his considerable
+mass. He mutters phrases in a strange and indecipherable language that that
+sounds almost magical in its rhythmic meter and smooth syllables. Though he
+blocks your way, he looks calm to the point of being relaxed, but the sinewy
+cords that ripple under his skin tell you that he is ready for battle at any
+time. His body is covered from head to toe in tattoos. They depict both strange
+designs and patterns along with glyphs that appear to be the words of some
+ancient text. You can only guess that the words he speaks are the same as those
+covering his body. You hope that they are not in fact magical sigils to give
+him more strength than he already possesses.
+~
+giant~
+A DFHJLNVZa 1000 0
+60 6 50d20+13000 1d1+99 9d7+30 punch
+-30 -30 -30 -30
+CDEFHJKNO ABR EHI JT
+stand stand male 60
+AHMV ABCDEFGHIJK large 0 the guilds~
+M exall 4371 3~
+M speech 4367 Do you have any idea how long I had to wait for him to let down his guard?~
+M death 4370 100~
+#4354
+Crienech marid black creature~
+{DCrienech{x~
+{DCrienech{x floats here, his body pulsing with impatience.
+~
+An ugly creature with slimy black skin floats in the water.  It looks
+like it was once a marid, but years of floating in this tepid water seem to
+have corrupted it into a horrible mutant freak.  Flaps of skin dangle off of
+him like large slime filled blisters that float disgustingly on top of the
+water.  At the base of its skull are soppy mane-like fins that droop
+sickeningly over three jagged gashes that serve as gills that look like they
+were clawed open with blunt nails.  Large barnacles grow across his back and
+limbs, creating a jagged armor plating.  With every rasping breath through
+its gills, the water ripples around him, pushing away the detritus that
+floats on the surface.  Its tail slowly slides back and forth, keeping him
+from floating away with the weak current that circles the water.  
+~
+marid~
+AB DEFGHJOVYZ 750 0
+58 5 50d10+8500 1d1+99 5d10+25 entangle
+-28 -28 -28 -28
+AFHIKMNO ABR HQR JP
+stand stand male 50
+ABHMVb ABCDEFGHIJK large 0 the guilds~
+M death 4371 100~
+M speech 4370 Wal wl gajr iah candusgh jihur u pazz znsjioze hpug zzur!~
+#4355
+ruby statue~
+a {rr{Ru{rb{Ry{x statue~
+An inconspicuous {rr{Ru{rb{Ry{x statue hovers here.
+~
+Many large rubies are fused together into the shape of a large ruby. This
+statue hovers just above the ground, kept aloft by some mysterious magical
+energy. Though it is bathed in shadows, a flickering red light can be seen
+radiating from its core.
+~
+homonculus~
+A DHJQTV 0 0
+48 5 50d10+6500 1d1+99 7d6+22 blast
+-24 -24 -24 -24
+FHIJKLR ABHR GLO EHT
+stand stand either 10
+DJM ABCDEFGHIJKPV small 0 the guilds~
+M kill 4364 10~
+M death 4366 100~
+#4356
+gold guardian Natael Marinth~
+{mNatael{x, the guardian of {YMarinth{x~
+{mNatael{x waits here for you, guarding the entrance to the temple of {YMarinth{x.
+~
+A tall woman stands here watching you as you enter the chamber.  She
+stands with one arm posed at waist level and the other lifted over her head.
+Her skin looks like the golden walls in this chamber, except it's not the
+clothes or the light that are giving it this hue: her skin itself seems to
+be made of gold.  As you move around the chamber, her eyes follow you and
+the expression on her face belies her curiosity.  You are as much of a
+wonder to her as she is to you.  She must not have very many visitors in
+these chambers.  
+~
+deamon~
+AB BDEFHJLTZa 0 0
+60 35 350d200+1000 0d0+0 10d10+30 divine
+-27 -27 -27 -17
+ACDFHIK ABCDb CHNOR NSY
+stand stand none 0
+ABCGMZ ACDEFHJKQVX medium 0 the guilds~
+M give 4396 all~
+M grall 4373 100~
+M kill 4379 100~
+#4357
+sapphire statue sapphirefight~
+a {bs{Ba{bp{Bp{bh{Bi{br{Be{x statue~
+An inconspicuous {bs{Ba{bp{Bp{bh{Bi{br{Be{x statue hovers here.
+~
+Many large sapphires are fused together into the shape of a large sapphire.
+This statue hovers just above the ground, kept aloft by some mysterious magical
+energy. Though it is bathed in shadows, a shifting blue light can be seen
+radiating throughout its body.
+~
+homonculus~
+A DHJQTV 0 0
+48 5 50d10+6500 1d1+99 7d6+22 pound
+-24 -24 -24 -24
+FHIJK ABR L H
+stand stand either 10
+DJM ABCDEFGHIJKPV small 0 the guilds~
+M kill 4364 10~
+M death 4366 100~
+#4358
+emerald statue emeraldfight~
+an {ge{Gm{ge{Gr{ga{Gl{gd{x statue~
+An inconspicuous {ge{Gm{ge{Gr{ga{Gl{gd{x statue hovers here.
+~
+Many large emeralds are fused together into the shape of a large emerald. This
+statue hovers just above the ground, kept aloft by some mysterious magical
+energy. Though it is bathed in shadows, a sickly green radiance pulses from
+within it.
+~
+homonculus~
+A DHJQTV 0 0
+48 5 50d10+6500 1d1+99 7d6+22 pound
+-24 -24 -24 -24
+FHIJKLR ABR GLO EHT
+stand stand either 10
+DJM ABCDEFGHIJKPV small 0 the guilds~
+M kill 4364 10~
+M death 4366 100~
+#4359
+diamond statue diamondfight~
+a {wd{Wi{wa{Wm{wo{Wn{wd{x statue~
+An inconspicuous {wd{Wi{wa{Wm{wo{Wn{wd{x statue hovers here.
+~
+Many large diamonds are fused together into the shape of a large sapphire. This
+statue hovers just above the ground, kept aloft by some mysterious magical
+energy. Though it is bathed in shadows, a blinding white light can be seen
+beaming from its facets.
+~
+homonculus~
+A DHJQTV 0 0
+54 6 5d10+9500 1d1+99 8d6+28 pound
+-30 -30 -30 -30
+FHIJK ABR L H
+stand stand either 10
+DJM ABCDEFGHIJKPV small 0 the guilds~
+M kill 4364 10~
+M death 4366 100~
+#4360
+hairy troll toll guardian~
+A hairy troll~
+A large, hairy troll stands here demanding the toll for the bridge.
+~
+The troll is wearing a patchwork of clothes, raided its various victims.
+In one hand, it carries a large blank with nails, and in the other, a stone
+the size of your head.  Numerous other trolls are above him on the barracade, aiming at you with crossbows.
+~
+troll~
+ABG DFHJNVZa 1000 0
+51 5 50d10+7000 1d1+99 10d4+23 pound
+-25 -25 -25 -25
+CDEFHIJKNO ABR FQ H
+stand stand male 0
+BHMZ ABCDEFGHIJKLQUVWX huge 0 the guilds~
+M bribe 4352 10000~
+M fight 4399 10~
+M speech 4350 tithe~
+M speech 4350 toll~
+M exall 4351 3~
+M random 4395 1~
+#4361
+hairy troll toll guardian~
+A hairy troll~
+A large, hairy troll stands here demanding the toll for the bridge.
+~
+~
+troll~
+A DFHJNVa 1000 0
+60 45 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CDEFHIJK ABR FQ H
+stand stand male 0
+BHMZ ABCDEFGHIJKLQUVWX huge 0 the guilds~
+#4362
+door troll guardian breach master~
+the troll guardian of the doors~
+A large troll stands in front of the door.
+~
+This troll is gigantic in comparison to his brethren. His bulging, rotund belly
+does nothing to shake the fear of the thick and powerful muscles of his arms
+and legs. Attached to his belt is an iron ring of keys. You have no chance of
+taking it from him.
+~
+troll~
+AILZ DFJe 0 0
+54 0 100d1000+100000 0d0+0 0d0+0 none
+0 0 0 0
+0 CD Q H
+stand stand male 0
+BHMZ ABCDEFGHIJKLQUVWX large 0 the guilds~
+M speech 4357 Adventurers entered, begin countdown.~
+M delay 4358 100~
+M speech 4380 Time Reset~
+#4363
+lazranjlpet stone statue lazranjl gargoyle~
+{gLazranjl{x, the stone gargoyle~
+A stone statue stands watch here.
+~
+A large statue stands on a raised earth platform in the middle of this
+chamber.  It stands balanced on two powerful back legs that support the
+hunched over body of a wolf, complete with a defined ridge of moss-colored
+fur that grows from the base of its spine to the crown of its head.  It has
+three pairs of large wings that hang unfolded around its body, creating an
+impenetrable shield of stone.  Its tail lays lazily wrapped around the base
+of the pedestal, drawing your attention to a small {dengraving{x.  
+~
+gargoyle~
+ABGIT DHJTVZa 0 0
+58 45 200d200+1000 0d0+0 5d10+30 none
+-27 -27 -27 -15
+CEFHJKMN ABRb EFGHZ LQ
+stand stand none 50
+ABHMX ABCDEFGHIJKMPQUV large 0 the guilds~
+M grall 4354 100~
+#4364
+rubypet ruby statue column~
+a {rr{Ru{rb{Ry{x statue~
+A {rr{Ru{rb{Ry{x statue hovers inconspicuously over a column by the door.
+~
+A meter high marble column stands by the door. Its base is covered in moss and
+lichen, making it blend in with the walls of the cavern. Above it hovers a
+{rr{Ru{rb{Ry{x statue that ironically depicts a large ruby. The statue is
+bathed in shadows and would be almost invisible if not for the flickering red
+light that is emitted from its body.
+~
+human~
+ABGI Q 0 0
+60 0 1d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M death 4366 100~
+#4365
+emeraldpet emerald statue column~
+an {ge{Gm{ge{Gr{ga{Gl{gd{x statue~
+An {ge{Gm{ge{Gr{ga{Gl{gd{x statue hovers inconspicuously over a column by the door.
+~
+A meter high marble column stands by the door. Its base is covered in moss and
+lichen, making it blend in with the walls of the cavern. Above it hovers an
+{ge{Gm{ge{Gr{ga{Gl{gd{x statue that ironically depicts a large emerald. The statue is
+bathed in shadows and would be almost invisible if not for the pulsing green
+glow that radiates from its core.
+~
+human~
+ABGI Q 0 0
+60 0 1d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4366
+Mob Loader the Quest Preparator~
+Mob Loader the Quest Preparator~
+Mob Loader the Quest Preparator should not be seen by anyone.
+~
+This mobile does not really exist.
+~
+troll~
+ABGIVZ BJQ 0 0
+55 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 CD Q H
+stand stand none 0
+BHMZ ABCDEFGHIJKLQUVWX tiny 0 the guilds~
+M random 4356 5~
+#4367
+Mob Loader the Quest Advancer~
+Mob Loader the Quest Advancer~
+Mob Loader the Quest Advancer should not be seen by anyone.
+~
+This mobile does not really exist.
+~
+troll~
+ABGIVZ BJQ 0 0
+55 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 CD Q H
+stand stand none 0
+BHMZ ABCDEFGHIJKLQUVWX tiny 0 the guilds~
+M speech 4372 Gurgle burble splurt... garble... eck!~
+M speech 4355 Wait, have mercy and I'll let you pass.~
+#4368
+dragon2 great green dragon Demsarok~
+The great dragon {gDemsarok{x~
+The great dragon {gDemsarok{x rests leisurely upon his treasure, awaiting your return with his treasures.
+~
+The massive green dragon {gDemsarok{x lays sprawled upon a pile of precious
+treasures. He flicks coins around lazily with his claw and watches them skitter
+across the pile. He glances passingly at you.
+ 
+{gDemsarok{y says 'Did you get the gems for me yet?'{x
+ 
+When he hears your negative response, he sighs.
+ 
+{gDemsarok{y says 'If you need some help... I'll sell it to you...'{x
+{gDemsarok {ysays 'If the door locks, just ask me to open it for you.'{x
+~
+green dragon~
+ABG DFHJLNTVZb 0 0
+51 42 220d170+1500 0d0+0 7d10+30 none
+-22 -27 -22 -27
+BFHIJKMN ABCDRb BEL J
+stand stand none 24
+ABHMZ ABCDEFGHIJKLPQUVWX giant 0 the guilds~
+M speech 4360 You aren't even a challenge for me, so I'll give you a chance.~
+M bribe 4368 1~
+M give 4369 4352~
+M give 4369 4354~
+M give 4369 4382~
+M give 4369 4383~
+M speech 4375 open~
+M give 4378 4350~
+#4369
+dragon3 great green dragon Demsarok~
+The great dragon {gDemsarok{x~
+{gDemsarok{x, sensing your hostility, stands ready to defend his treasure.
+~
+Demsarok stands tensely between you and his treasure. His muscles are taught,
+ready to cause any one of his limbs to snap out and dismember you. His brow is
+furrowed angrily over his glowing green eyes. His lips are pulled back,
+allowing toxic gasses to spill over them through his rows of razor sharp teeth.
+~
+green dragon~
+ABCGS DHJLNTVZb 0 0
+60 9 50d40+12000 1d1+99 8d9+30 pobite
+-30 -30 -30 -30
+BFHIJKMN ABRb BEL J
+stand stand none 0
+ABHMZ ABCDEFGHIJKLPQUVWX giant 0 the guilds~
+M death 4374 100~
+M fight 4364 40~
+#4370
+door opener demsarok proxy~
+the great dragon {gDemsarok{x~
+This is a proxy for Demsarok, he is not really here
+~
+~
+green dragon~
+ABGIVZ JT 0 0
+54 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 CD BEL J
+stand stand none 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M speech 4375 open~
+M exall 4377 4~
+#4386
+diamondfall diamond statue crystalline surface~
+a diamond statue~
+The greenish hue of the light glints off of a crystalline surface.
+~
+Light from the moss is twisted into a beautiful array through the facets of the
+diamond statue. Too bad it is too high to see clearly.
+~
+homonculus~
+A JT 0 0
+1 0 1d1+10000 1d1+99 1d4+0 none
+9 9 9 9
+FHIJ B L H
+stand stand none 0
+ADHJMV ABCDEFGHIJKPV medium 0 the guilds~
+M kill 4362 100~
+#4388
+keystripper~
+keystripper~
+A mob to take aways keys for bridge control area.
+~
+~
+human~
+ABIZ 0 0 0
+54 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 CD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 4376 100~
+#4399
+hairy troll toll guardian~
+A hairy troll~
+A large, hairy troll stands here demanding the toll for the bridge.
+~
+The troll is wearing a patchwork of clothes, raided its various victims.
+In one hand, it carries a large blank with nails, and in the other, a stone
+the size of your head.  Numerous other trolls are above him on the barracade, aiming at you with crossbows.
+~
+troll~
+ABG DEFHJNVZa 1000 0
+51 5 50d10+7000 1d1+99 10d4+23 none
+-25 -25 -25 -25
+CDEFHIJKN ABR FQ H
+stand stand male 0
+BHMZ ABCDEFGHIJKLQUVWX huge 0 the guilds~
+M bribe 4397 10000~
+M fight 4399 10~
+M exall 4398 1~
+M speech 4350 toll~
+M speech 4350 tithe~
+M random 4395 1~
+#0
+
+
+
+#OBJECTS
+#4350
+the gnarled black perishable wooden key staff of lazranjl~
+a gnarled wooden key~
+This key appears to be made from an old, bumpy and twisted tree root.~
+wood~
+key FVYe AOP
+0 0 0 0 0
+0 0 30 P
+#4351
+portal water temple marinth whirl pool whirlpool vortex~
+a swirling {Bw{ga{bt{Be{gr {Dv{mo{br{Dt{me{bx{x~
+The water in the room swirls around the room, creating a {Cw{bh{Bi{cr{Cl{bp{Bo{co{Cl{x that sucks everything downwards.~
+water~
+portal AGTYe P
+0 0 1 4385 0
+0 10000 0 P
+E
+vortex~
+The south wall has a large, knobby, golden frame in the center that wraps
+around a vortex of swirling water. It looks as if you could jump into it and be
+sucked right back up to the cavern.
+~
+#4352
+large fire ruby treasure fragment gem~
+a large {rruby{x~
+A large {rruby{x floats here, shining with the light of burning flames.~
+gem~
+gem GWY AO
+0 0 0 0 0
+35 5 15000 P
+#4353
+a ruby statue~
+a {rr{Ru{rb{Ry{x statue~
+An inconspicuous {rr{Ru{rb{Ry{x statue stands here.~
+gem~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+a~
+This is amazingly a ruby statue of a ruby. It emits a faint flickering red
+light but is generally inconspicuous.
+~
+E
+ruby~
+This is amazingly a ruby statue of a ruby. It emits a faint flickering red
+light but is generally inconspicuous.
+~
+E
+statue~
+This is amazingly a ruby statue of a ruby. It emits a faint flickering red
+light but is generally inconspicuous.
+~
+#4354
+large light diamond treasure fragment gem~
+a large {Wdiamond{x~
+A large {Wdiamond{x floats here, gleaming brilliantly in the sunlight.~
+gem~
+gem AGW AO
+0 0 0 0 0
+0 5 15000 P
+#4355
+bottomless bag infinite wisdom~
+a bottomless bag of INFINITE wisdom~
+A rather nondescript looking bag sits here, who could guess that it contains the mysteries of the universe.~
+canvas~
+container GITYe AOP
+9999 A 0 9999 0
+54 0 0 P
+A
+9 5000  
+A
+33 100  
+A
+18 999  
+A
+19 999  
+A
+20 -1000  
+A
+17 -10000  
+A
+26 500  
+A
+27 500  
+E
+seeker~
+Moving a fold in the canvas, you find some words written in shifting black ink:
+ 
+Seeker Terra: 10804
+Seeker Dominia: 23302
+~
+E
+kindred~
+Moving a fold in the canvas, you find some words written in shifting black ink:
+ 
+Kindred Terra: 10604
+Kindred Dominia: 23002
+~
+E
+venari~
+Moving a fold in the canvas, you find some words written in shifting black ink:
+ 
+Venari Terra: 23102
+Venari Dominia: 10654
+~
+E
+kenshi~
+Moving a fold in the canvas, you find some words written in shifting black ink:
+ 
+Kenshi Terra: 23401
+Kenshi Dominia: 1253
+~
+E
+vouchers~
+Moving a fold in the canvas, you find some words written in shifting black ink:
+ 
+Partial: 15314
+Quest Points: 21022 (2 Partials)
+Hours: 8154 (3 Partials)
+Equipment: 21017 (4 Partials)
+Restring: 21018 (6 Partials)
+Enchant: 21019 (8 Partials)
+Skills: 10924
+Practice: 21020
+Train: 21021
+Owner: 21024
+~
+E
+arena~
+Moving a fold in the canvas, you find some words written in shifting black ink:
+ 
+Standard: 8299
+Moebius: 10199
+Blood: 13054
+Mutiny: 8298
+Champion League: 13055
+~
+E
+recall~
+Moving a fold in the canvas, you find some words written in shifting black ink:
+ 
+Terra: 3001
+Dominia: 31000
+~
+E
+immortals~
+Moving a fold in the canvas, you find some words written in shifting black ink:
+ 
+Avacar's Command Centre: 12199
+Karmon's Room: 17799 (Trivia Candies)
+Tsongas' Info Center: 4599
+Cauthon's Headquarters: 15399
+Lufia's Web: 13500
+Chain's Heavy Metal Room: 3860
+Cicada's Spider Cavern: 19699
+Mikoto's Treetop Retreat: 19300
+Starcrossed Test Room: 30803
+bottomless bag of INFINITE wisdom: 4355
+~
+E
+gifts~
+Moving a fold in the canvas, you find some words written in shifting black ink:
+ 
+A little doll in the shape of Starcrossed: 78
+A little Doll in the shape of Tsongas: 4596
+the concentrated essence of the midnight moon: 12192
+the essence of the midday sun: 12190
+The Holy Handgrenade of Antioch: 15349, 20666
+a piece of Power Pie: 15315
+a greasy meat pie: 17610
+a squirming spider: 19670
+a wilderness survival kit: 14697
+The Green Goblin Gummy: 15351
+a glowing coal floating on a bed of smoke: 16216
+~
+#4356
+lichen coated flint lichencoatedglowingflintdagger~
+a lichen coated flint~
+A piece of sharpened flint lies here. It is coated with a layer of lichen that emits a faint aqua glow.~
+flint~
+weapon AHPSTU AN
+dagger 2 23 slime MN
+54 1 8500 P
+#4357
+ruby sapphire emerald diamond dragon demsarok treasure gem statue~
+the statue gems from the dragon's treasure~
+A {rr{Ru{rb{Ry{x, {bs{Ba{bp{Bp{bh{Bi{br{Be{x, {ge{Gm{ge{Gr{ga{Gl{gd{x, and {wd{Wi{wa{Wm{wo{Wn{wd{x from {gDemsarok's{x treasure.~
+gem~
+treasure 0 AOP
+0 0 0 0 0
+0 10 0 P
+#4358
+aql gift undeath~
+{rAql's {DGi{xft {Wof {xUnd{Death{x~
+A {rdark gift {xlies here, daring you to accept it.~
+darkmatter~
+pill 0 AO
+22 'skeletal warrior' 'moonbeam' 'taunt' 'haste'
+0 1 250 P
+#4382
+large poison emerald treasure fragment gem~
+a large {gemerald{x~
+A large {gemerald{x floats here, glowing with a sickly green light.~
+gem~
+gem GW AO
+0 0 0 0 0
+0 5 15000 P
+#4383
+large water sapphire treasure fragment gem~
+A large {bsapphire{x~
+A large {bsapphire{x floats here, emitting a pulsing blue aura.~
+gem~
+gem GW AO
+0 0 0 0 0
+0 5 15000 P
+#4384
+lazrangl bridge quest begun marker object~
+A token marking a mobile event.~
+This object does not exist.~
+gem~
+gem HOTYZe AO
+0 0 0 0 0
+54 0 0 P
+#4385
+10armor demsarokspelltoken~
+10armor~
+Demsarok's spell marker.~
+gem~
+gem HPSTUYZe A
+0 0 0 0 0
+0 0 10 P
+#4386
+20fly demsarokspelltoken~
+20fly~
+Demsarok's spell marker.~
+gem~
+gem HPSTUYZe A
+0 0 0 0 0
+0 0 20 P
+#4387
+40shield demsarokspelltoken~
+40shield~
+Demsarok's spell marker.~
+gem~
+gem HPSTUYZe A
+0 0 0 0 0
+0 0 40 P
+#4388
+80blur demsarokspelltoken~
+80blur~
+Demsarok's spell marker.~
+gem~
+gem HPSTUYZe A
+0 0 0 0 0
+0 0 80 P
+#4389
+160barkskin demsarokspelltoken~
+160barkskin~
+Demsarok's spell marker.~
+gem~
+gem HPSTUYZe A
+0 0 0 0 0
+0 0 160 P
+#4390
+320giantstrength demsarokspelltoken~
+320giantstrength~
+Demsarok's spell marker.~
+gem~
+gem HPSTUYZe A
+0 0 0 0 0
+0 0 320 P
+#4391
+640mistycloak demsarokspelltoken~
+640mistycloak~
+Demsarok's spell marker.~
+gem~
+gem HPSTUYZe A
+0 0 0 0 0
+0 0 640 P
+#4392
+1280haste demsarokspelltoken~
+1280haste~
+Demsarok's spell marker.~
+gem~
+gem HPSTUYZe A
+0 0 0 0 0
+0 0 1280 P
+#4393
+2560bless demsarokspelltoken~
+2560bless~
+Demsarok's spell marker.~
+gem~
+gem HPSTUYZe A
+0 0 0 0 0
+0 0 2560 P
+#4394
+5120frenzy demsarokspelltoken~
+5120frenzy~
+Demsarok's spell marker.~
+gem~
+gem HPSTUYZe A
+0 0 0 0 0
+0 0 5120 P
+#4395
+10240sanctuary demsarokspelltoken~
+10240sanctuary~
+Demsarok's spell marker.~
+gem~
+gem HPSTUYZe A
+0 0 0 0 0
+0 0 10240 P
+#4396
+20480aurora demsarokspelltoken~
+20480aurora~
+Demsarok's spell marker.~
+gem~
+gem HPSTUYZe A
+0 0 0 0 0
+0 0 20480 P
+#4397
+40960greaterrevitalize demsarokspelltoken~
+40960greaterrevitalize~
+Demsarok's spell marker.~
+gem~
+gem HPSTUYZe A
+0 0 0 0 0
+0 0 40960 P
+#4398
+81720karma demsarokspelltoken~
+81720karma~
+Demsarok's spell marker.~
+gem~
+gem HPSTUYZe A
+0 0 0 0 0
+0 0 81720 P
+#4399
+portal water flooded passage swirling vortex south wall~
+a swirling {Bw{ga{bt{Be{gr {Dv{mo{br{Dt{me{bx{x~
+On the south wall is a swirling {Dv{mo{br{Dt{me{bx{x of {Bw{ga{bt{Be{gr{x that leads back to the cavern.~
+water~
+portal AGOTYe 0
+0 0 1 4384 0
+0 10000 0 P
+E
+vortex~
+The south wall has a large, knobby, golden frame in the center that wraps
+around a vortex of swirling water. It looks as if you could jump into it and be
+sucked right back up to the cavern.
+~
+#0
+
+
+
+#ROOMS
+#4350
+Beginning of the Air Bridge~
+You are standing directly above the beach on Terra.  Far below you can
+see the sands that marks the beginning of the realm of Bosco.  Stretching to
+the east, you see a faint shimmering bridge that spans the Dragon Sea. 
+At the far end, you presume, lies the lands of Selina, and Dominia.  
+~
+0 268443648 9
+D1
+~
+~
+0 0 4351
+D5
+~
+~
+0 0 4393
+S
+#4351
+The Air Bridge~
+All around you are faintly shimmering and sparkling lights, which mark
+out the air bridge that spans the continents.  Far below you, you can see
+the waves and currents of the Dragon Sea.  From your vantage point high
+above the world, you can see a large landmass looming towards the west,
+which must be Terra.  To the east is a greener and wilder land, which must
+be Dominia.  
+~
+0 268443648 9
+D1
+~
+~
+0 0 4352
+D3
+~
+~
+0 0 4350
+S
+#4352
+The Air Bridge~
+All around you are faintly shimmering and sparkling lights, which mark
+out the air bridge that spans the continents.  Far below you, you can see
+the waves and currents of the Dragon Sea.  From your vantage point high
+above the world, you can see a large landmass looming towards the west,
+which must be Terra.  To the east is a greener and wilder land, which must
+be Dominia.  
+~
+0 268443648 9
+D1
+~
+~
+0 0 4353
+D3
+~
+~
+0 0 4351
+S
+#4353
+The Air Bridge~
+All around you are faintly shimmering and sparkling lights, which mark
+out the air bridge that spans the continents.  Far below you, you can see
+the waves and currents of the Dragon Sea.  From your vantage point high
+above the world, you can see a large landmass looming towards the west,
+which must be Terra.  To the east is a greener and wilder land, which must
+be Dominia.  
+~
+0 268443648 9
+D1
+~
+~
+0 0 4354
+D3
+~
+~
+0 0 4352
+S
+#4354
+The Air Bridge~
+All around you are faintly shimmering and sparkling lights, which mark
+out the air bridge that spans the continents.  Far below you, you can see
+the waves and currents of the Dragon Sea.  From your vantage point high
+above the world, you can see a large landmass looming towards the west,
+which must be Terra.  To the east is a greener and wilder land, which must
+be Dominia.  
+~
+0 268443648 9
+D1
+~
+~
+0 0 4355
+D3
+~
+~
+0 0 4353
+S
+#4355
+The Air Bridge~
+All around you are faintly shimmering and sparkling lights, which mark
+out the air bridge that spans the continents.  Far below you, you can see
+the waves and currents of the Dragon Sea.  From your vantage point high
+above the world, you can see a large landmass looming towards the west,
+which must be Terra.  To the east is a greener and wilder land, which must
+be Dominia.  
+~
+0 268443648 9
+D1
+~
+~
+0 0 4356
+D3
+~
+~
+0 0 4354
+S
+#4356
+The Air Bridge~
+All around you are faintly shimmering and sparkling lights, which mark
+out the air bridge that spans the continents.  Far below you, you can see
+the waves and currents of the Dragon Sea.  From your vantage point high
+above the world, you can see a large landmass looming towards the west,
+which must be Terra.  To the east is a greener and wilder land, which must
+be Dominia.  
+~
+0 268443648 9
+D1
+~
+~
+0 0 4357
+D3
+~
+~
+0 0 4355
+S
+#4357
+The Air Bridge~
+All around you are faintly shimmering and sparkling lights, which mark
+out the air bridge that spans the continents.  Far below you, you can see
+the waves and currents of the Dragon Sea.  From your vantage point high
+above the world, you can see a large landmass looming towards the west,
+which must be Terra.  To the east is a greener and wilder land, which must
+be Dominia.  
+~
+0 268443648 9
+D1
+~
+~
+0 0 4358
+D3
+~
+~
+0 0 4356
+S
+#4358
+The Air Bridge~
+All around you are faintly shimmering and sparkling lights, which mark
+out the air bridge that spans the continents.  Far below you, you can see
+the waves and currents of the Dragon Sea.  From your vantage point high
+above the world, you can see a large landmass looming towards the west,
+which must be Terra.  To the east is a greener and wilder land, which must
+be Dominia.  
+~
+0 268443648 9
+D1
+~
+~
+0 0 4359
+D3
+~
+~
+0 0 4357
+S
+#4359
+The Air Bridge~
+All around you are faintly shimmering and sparkling lights, which mark
+out the air bridge that spans the continents.  Far below you, you can see
+the waves and currents of the Dragon Sea.  From your vantage point high
+above the world, you can see a large landmass looming towards the west,
+which must be Terra.  To the east is a greener and wilder land, which must
+be Dominia.  
+~
+0 268443648 9
+D1
+~
+~
+0 0 4360
+D3
+~
+~
+0 0 4358
+S
+#4360
+The Air Bridge~
+All around you are faintly shimmering and sparkling lights, which mark
+out the air bridge that spans the continents.  Far below you, you can see
+the waves and currents of the Dragon Sea.  From your vantage point high
+above the world, you can see a large landmass looming towards the west,
+which must be Terra.  To the east is a greener and wilder land, which must
+be Dominia.  
+~
+0 268443648 9
+D1
+~
+~
+0 0 4361
+D3
+~
+~
+0 0 4359
+S
+#4361
+The Air Bridge~
+All around you are faintly shimmering and sparkling lights, which mark
+out the air bridge that spans the continents.  Far below you, you can see
+the waves and currents of the Dragon Sea.  From your vantage point high
+above the world, you can see a large landmass looming towards the west,
+which must be Terra.  To the east is a greener and wilder land, which must
+be Dominia.  
+~
+0 268443648 9
+D1
+~
+~
+0 0 4362
+D3
+~
+~
+0 0 4360
+S
+#4362
+The Air Bridge~
+All around you are faintly shimmering and sparkling lights, which mark
+out the air bridge that spans the continents.  Far below you, you can see
+the waves and currents of the Dragon Sea.  From your vantage point high
+above the world, you can see a large landmass looming towards the west,
+which must be Terra.  To the east is a greener and wilder land, which must
+be Dominia.  
+~
+0 268443648 9
+D1
+~
+~
+0 0 4363
+D3
+~
+~
+0 0 4361
+S
+#4363
+Beginning of the Air Bridge~
+You are standing directly above the beach on Dominia.  Far below you can
+see the sands the mark the beginning of the realm of Selina.  Stretching to
+the west, you see a faint shimmering bridge that spans the Dragon Sea.  At
+the far end, you presume, lies the lands of Bosco, and Terra.  
+~
+0 268443648 9
+D3
+~
+~
+0 0 4362
+D5
+~
+~
+0 0 4394
+S
+#4364
+Beginning of the Water Tunnel~
+You are swimming directly beneath the beaches of Terra.  All around you
+can see the flora and fauna of the Dragon Sea.  You can swim up and out of
+the water, towards the beaches of Terra.  Or, you can swim to the east,
+through the perilous Dragon Sea, and try to reach Dominia on the far side.  
+~
+0 268443648 12
+D1
+~
+~
+0 0 4365
+D4
+~
+~
+0 0 4393
+S
+#4365
+The Water Tunnel~
+You are swimming through the Dragon Sea.  You are surrounded by the
+breathtaking sights of the depths of the ocean.  Rare corals and flowers
+litter the ocean floor, and beautiful sea creatures swim around you on all
+sides.  Swimming towards the west would bring you closer to Terra and
+Bosco's realm, whereas swimming eastwards would bring you neared to Selina's
+lands and Dominia.  
+~
+0 268443648 12
+D1
+~
+~
+0 0 4366
+D3
+~
+~
+0 0 4364
+S
+#4366
+The Water Tunnel~
+You are swimming through the Dragon Sea.  You are surrounded by the
+breathtaking sights of the depths of the ocean.  Rare corals and flowers
+litter the ocean floor, and beautiful sea creatures swim around you on all
+sides.  Swimming towards the west would bring you closer to Terra and
+Bosco's realm, whereas swimming eastwards would bring you neared to Selina's
+lands and Dominia.  
+~
+0 268443648 12
+D1
+~
+~
+0 0 4367
+D3
+~
+~
+0 0 4365
+S
+#4367
+The Water Tunnel~
+You are swimming through the Dragon Sea.  You are surrounded by the
+breathtaking sights of the depths of the ocean.  Rare corals and flowers
+litter the ocean floor, and beautiful sea creatures swim around you on all
+sides.  Swimming towards the west would bring you closer to Terra and
+Bosco's realm, whereas swimming eastwards would bring you neared to Selina's
+lands and Dominia.  
+~
+0 268443648 12
+D1
+~
+~
+0 0 4368
+D3
+~
+~
+0 0 4366
+S
+#4368
+The Water Tunnel~
+You are swimming through the Dragon Sea.  You are surrounded by the
+breathtaking sights of the depths of the ocean.  Rare corals and flowers
+litter the ocean floor, and beautiful sea creatures swim around you on all
+sides.  Swimming towards the west would bring you closer to Terra and
+Bosco's realm, whereas swimming eastwards would bring you neared to Selina's
+lands and Dominia.  
+~
+0 268443648 12
+D1
+~
+~
+0 0 4369
+D3
+~
+~
+0 0 4367
+S
+#4369
+The Water Tunnel~
+You are swimming through the Dragon Sea.  You are surrounded by the
+breathtaking sights of the depths of the ocean.  Rare corals and flowers
+litter the ocean floor, and beautiful sea creatures swim around you on all
+sides.  Swimming towards the west would bring you closer to Terra and
+Bosco's realm, whereas swimming eastwards would bring you neared to Selina's
+lands and Dominia.  
+~
+0 268443648 12
+D1
+~
+~
+0 0 4370
+D3
+~
+~
+0 0 4368
+S
+#4370
+The Water Tunnel~
+You are swimming through the Dragon Sea.  You are surrounded by the
+breathtaking sights of the depths of the ocean.  Rare corals and flowers
+litter the ocean floor, and beautiful sea creatures swim around you on all
+sides.  Swimming towards the west would bring you closer to Terra and
+Bosco's realm, whereas swimming eastwards would bring you neared to Selina's
+lands and Dominia.  
+~
+0 268443648 12
+D1
+~
+~
+0 0 4371
+D3
+~
+~
+0 0 4369
+S
+#4371
+The Water Tunnel~
+You are swimming through the Dragon Sea.  You are surrounded by the
+breathtaking sights of the depths of the ocean.  Rare corals and flowers
+litter the ocean floor, and beautiful sea creatures swim around you on all
+sides.  Swimming towards the west would bring you closer to Terra and
+Bosco's realm, whereas swimming eastwards would bring you neared to Selina's
+lands and Dominia.  
+~
+0 268443648 12
+D1
+~
+~
+0 0 4372
+D3
+~
+~
+0 0 4370
+S
+#4372
+The Water Tunnel~
+You are swimming through the Dragon Sea.  You are surrounded by the
+breathtaking sights of the depths of the ocean.  Rare corals and flowers
+litter the ocean floor, and beautiful sea creatures swim around you on all
+sides.  Swimming towards the west would bring you closer to Terra and
+Bosco's realm, whereas swimming eastwards would bring you neared to Selina's
+lands and Dominia.  
+~
+0 268443648 12
+D1
+~
+~
+0 0 4373
+D3
+~
+~
+0 0 4371
+S
+#4373
+The Water Tunnel~
+You are swimming through the Dragon Sea.  You are surrounded by the
+breathtaking sights of the depths of the ocean.  Rare corals and flowers
+litter the ocean floor, and beautiful sea creatures swim around you on all
+sides.  Swimming towards the west would bring you closer to Terra and
+Bosco's realm, whereas swimming eastwards would bring you neared to Selina's
+lands and Dominia.  
+~
+0 268443648 12
+D1
+~
+~
+0 0 4374
+D3
+~
+~
+0 0 4372
+S
+#4374
+The Water Tunnel~
+You are swimming through the Dragon Sea.  You are surrounded by the
+breathtaking sights of the depths of the ocean.  Rare corals and flowers
+litter the ocean floor, and beautiful sea creatures swim around you on all
+sides.  Swimming towards the west would bring you closer to Terra and
+Bosco's realm, whereas swimming eastwards would bring you neared to Selina's
+lands and Dominia.  
+~
+0 268443648 12
+D1
+~
+~
+0 0 4375
+D3
+~
+~
+0 0 4373
+S
+#4375
+The Water Tunnel~
+You are swimming through the Dragon Sea.  You are surrounded by the
+breathtaking sights of the depths of the ocean.  Rare corals and flowers
+litter the ocean floor, and beautiful sea creatures swim around you on all
+sides.  Swimming towards the west would bring you closer to Terra and
+Bosco's realm, whereas swimming eastwards would bring you neared to Selina's
+lands and Dominia.  
+~
+0 268443648 12
+D1
+~
+~
+0 0 4376
+D3
+~
+~
+0 0 4374
+S
+#4376
+The Water Tunnel~
+You are swimming through the Dragon Sea.  You are surrounded by the
+breathtaking sights of the depths of the ocean.  Rare corals and flowers
+litter the ocean floor, and beautiful sea creatures swim around you on all
+sides.  Swimming towards the west would bring you closer to Terra and
+Bosco's realm, whereas swimming eastwards would bring you neared to Selina's
+lands and Dominia.  
+~
+0 268443648 12
+D0
+~
+~
+0 0 4399
+D1
+~
+~
+0 0 4377
+D3
+~
+~
+0 0 4375
+S
+#4377
+Beginning of the Water Tunnel~
+You are swimming directly below the beaches of Dominia.  All around you
+can see the flora and fauna of the Dragon Sea.  You can swim up and out of
+the water, onto the dry lands of Dominia.  Or, you can swim west, through
+the perilous Dragon Sea, and try to reach Terra on the far side.  
+~
+0 268443648 12
+D3
+~
+~
+0 0 4376
+D4
+~
+~
+0 0 4394
+S
+#4378
+a dark cave~
+You are in a narrow, stone cave, the water of the dragon sea laps at the rocks
+and is held at bay only by the pressure of the air. The walls feel slimey. To
+the north you can see a faint green glow.
+~
+0 270016513 6
+D0
+~
+~
+0 0 4380
+D5
+~
+~
+0 0 4399
+S
+#4379
+An {DEntrance{x to the {bUnderground Channel{x~
+The air feels cool down here, but it is thick with moisture, just like
+the ground beneath you, which has all but turned to mud.  After allowing
+your eyes to adjust to the darkness that fills this claustrophobically small
+chamber, you find yourself cornered by three walls: one at your back and two
+on their side.  Looking up you see the dark clouds, but after falling
+through them, trying to climb back up onto the clouds would only be a futile
+exercise.  Only the way forward seems to be clear.  
+~
+0 268435457 6
+D0
+A light florescent glow draws you towards the north.{x
+~
+~
+0 0 4380
+S
+#4380
+The {bmurky{D depths{x~
+Walking into the underground passage, you notice a small trail of florescent
+moss growing from the walls at the entrance of the room, illuminating the
+chamber with an eerie green glow. Even with the luminescent moss, it is too
+dark for most creatures to walk these passages without a light, but there is
+enough light to allow you to see a large statue that stands in the center of
+room. The trail of moss continues north along the passage, past a sturdy set of
+wrought iron gates.
+~
+0 806887433 0
+E
+wrought~
+A pair of wrought iron gates protects the cave from any who
+would trespass beyond them into the sanctuary of the bridge troll's leader. 
+~
+E
+iron~
+A pair of wrought iron gates protects the cave from any who
+would trespass beyond them into the sanctuary of the bridge troll's leader. 
+~
+E
+gates~
+A pair of wrought iron gates protects the cave from any who
+would trespass beyond them into the sanctuary of the bridge troll's leader. 
+~
+E
+engraving~
+This passage leads to the temple of Marinth. The area is devoid of all known
+gods, so transportation magic will not work. If you do not survive, there is no
+return.
+~
+D0
+To north is a chamber so dark that you can barely see the outline of the
+wrought iron gates.  
+~
+wrought iron gates~
+4 4350 4381
+D2
+~
+~
+0 0 4378
+M 130 H 130
+S
+#4381
+Below the Dragon Sea~
+You step past the gate into a room that is dark as pitch.  As you take a
+step forward, you feel something wet hit the top of your head.  It could be
+water seeping through the ceiling, or it could be something completely
+different like rotting green moss.  Whatever it is, maybe it's a good thing
+that it is so dark in here.  A wrought iron gate blocks the exit to the
+south, while to the east there stands a large wooden door.  Guarding the
+gate, you see two glowing orbs floating in midair.  Paired with whatever is
+dripping from the ceiling, this is just plain creepy.  
+~
+0 269492233 0
+D1
+The sound of water dripping echoes from beyond the door. If you ask, {gDemsarok
+{xmay open it for you.
+~
+large wooden door~
+4 4350 4382
+D2
+A light florescent glow draws you towards the south.
+~
+wrought iron gates~
+4 4350 4380
+S
+#4382
+The {DDark Depths{x of the Passage~
+Stepping into the room you feel your feet sink into the mushy ground. 
+Droplets periodically soak through the ceiling, falling heavily to the floor
+where a pool of liquid is gathering around your ankles.  The ceilings here
+are probably so laden with water that if you touch them, you have a chance
+of dipping your hand directly into the Dragon Sea.  To the north there is a
+large curtain of moss that blocks the way.  To the west, a large wooden door
+blocks the other entrance to the room.  
+~
+0 269492233 0
+D0
+To the north lies a long corridor.
+~
+curtain of moss~
+4 4350 4383
+D3
+There is a heavy wooden door here. If you ask, {gDemsarok{x may hear and open
+it for you.
+~
+large wooden door~
+4 4350 4381
+D4
+~
+~
+0 0 4398
+S
+#4383
+A Long {bUnderground{x Passage~
+Stepping past the mossy curtain you step into a chamber that is as dark
+as pitch and that is not so wide as it is long.  As you trudge through the
+long chamber droplets hit you on the head, as though a light rain were
+falling indoors.  There is a definite musky odor in here.  The water at the
+south of the chamber is low enough so you can feel it gathering at your
+ankles, but at the north of the chamber it's already up to your knees,
+giving you the impression that the floor is downward sloping.  Blocking your
+exit to the western chamber is a guarded steel door with so many padlocks on
+it that it looks like it could keep out a small army.  
+~
+0 269492233 0
+E
+wrought~
+If you ask, the dragon will open the gate for you. He should be able to hear
+you through the bars.
+~
+D2
+A long corridor lies to the south.
+~
+curtain of moss~
+4 4350 4382
+D3
+To the west lies a room full of water.
+~
+guarded steel door~
+4 4350 4384
+S
+#4384
+A {bFlooded{x Passage~
+Stepping into this passage you feel the ground drop beneath your feet,
+submersing you in a pool of water.  It's so deep that you might as well be
+swimming directly in the Dragon Sea rather than traveling below it.  The
+water is filled with floating pieces of dirt and moss, making it difficult
+to see the tip of your nose, let alone anything else.  If you try to swim up
+to the top of the chamber, you'll quickly learn that the water has completed
+flooded the room so your only exit remains to the east.  
+~
+0 269484041 6
+D1
+To the east the ground in the chamber is much drier, or at least it's
+only up to your knees.  
+~
+guarded steel door~
+4 4350 4383
+S
+#4385
+The Beginning of a {YGilded Gold{x Chamber~
+You step in the chamber and you almost cannot believe your eyes.  As far
+as your eyes can see, the walls here are completely covered in gold.  Sure
+it is a little tarnished here and there, but all it needs is a good coat of
+polish and this room could be worth millions and it doesn't end here! 
+Extending to the east, west and north you can see rooms that the rooms of
+the walls there are completely covered with gold as well.  This just keeps
+getting better and better.  
+~
+0 269484040 0
+D0
+The central room of the temple lies north of here.
+~
+~
+0 0 4388
+D1
+To the east lies the Ruby Chamber.
+~
+~
+0 0 4387
+D3
+To the west lies the Sapphire Chamber.
+~
+~
+0 0 4386
+S
+#4386
+The {rR{Ru{rby Ch{Ramb{rer{x~
+It doesn't seem as though much of the temple was excavated because as
+soon as you step to the west, the passage ends.  Nevertheless, the remaining
+walls are still covered in gold and strange little symbols the resemble
+hieroglyphics and run from ceiling to floor on all the walls in this room. 
+Instead of being engraved into the walls, the rubies that make up the
+hieroglyphs have been laid into the gold and if you run your hands over the
+words, you can feel the coolness of the smooth jewels beneath your fingers. 
+The floor in this room is a deep blood red and when you glance up to the
+ceiling, you can see golden panels separated by little red stones that
+glisten in the flickering candlelight like stars.  Back to the east is the
+only exit leading towards the main entrance of the temple.  
+~
+0 269492232 0
+D1
+To the east lies the main entrance to the temple.
+~
+~
+0 0 4385
+S
+#4387
+The {bS{Bap{bphir{Be{b Cha{Bm{bber{x~
+Unlike the chamber to the far west, this one has a deep blue floor with
+little pieces of gold inlayed in it to resemble the night sky.  Large
+symbols made of inlaid sapphires begin on the southern wall and extend along
+the western and northern walls before continuing around the corner.  They
+probably tell of the history of this hidden treasure, or maybe they even
+speak of a curse being cast upon anybody who dares to steal anything from
+the guardian of Marinth, but you can't read them anyways so you can't be too
+sure.  Back to the west is the only exit leading towards the main entrance
+of the temple.  
+~
+0 269492232 0
+D3
+To the west lies the main entrance to the temple.
+~
+~
+0 0 4385
+S
+#4388
+In the Middle of the {YTemple{x~
+Wall-mounted candles line both east and west walls, giving this central
+passage a warm, honey glow from the light bounces off the gold walls.  Both
+walls are also covered with engravings that look like lines and lines of
+hieroglyphics.  You have no idea what of what the characters say, but the
+hours of work that must have gone into carving the texts into the walls is
+simply awe-inspiring.  Exits along the north and south lead to even more
+gold-walled chambers.  
+~
+0 269492232 0
+D0
+North is the exit leading deeper into the temple.
+~
+~
+0 0 4389
+D2
+South lies the entrance to the temple.
+~
+~
+0 0 4385
+S
+#4389
+The End of the {YGilded Gold{x Chamber~
+This is the end of the gold chamber. To the north you can see the arras of the
+Temple of Marinth through a gilded gold door frame. The the gold walls continue
+back behind you towards the entrance.
+~
+0 269492232 0
+D0
+To the north is the only exit to the temple.
+~
+~
+0 0 4392
+D1
+To the east lies the Diamond Chamber.
+~
+~
+0 0 4391
+D2
+The central room of the temple lies south of here.
+~
+~
+0 0 4388
+D3
+To the west lies the Emerald Chamber.
+~
+~
+0 0 4390
+S
+#4390
+The {gEm{Ge{grald {GCh{gamb{Ge{gr{x~
+Stepping into this room you are engulfed by a warm green glow reminiscent
+of the green of fresh spring leaves.  The emerald hieroglyphics twinkle
+brightly at you, showing off their beauty and richness.  The sparkly green
+floor is almost like walking through underbrush with each step you take and,
+once again, if you look up, the emeralds in the golden ceiling look like
+little stars twinkling down at you.  The only exit here remains to the east
+where you can find even more riches.  
+~
+0 269492232 0
+D1
+To the east lies the end of the temple.
+~
+~
+0 0 4389
+S
+#4391
+The {WD{wia{Wmond C{wham{Wber{x~
+This chamber seems to have received a much better restoration than the others.
+The diamonds that line the wall shine with a rainbow of golden hues. Then whole
+effect is completely enrapturing. Standing in the center of the chamber is a
+polished stone pedestal. There are grooves in the top as if something large had
+once been there.
+~
+0 269492232 0
+D3
+To the west lies the end of the temple.
+~
+~
+0 0 4389
+S
+#4392
+In Front of the Central {mArras{x~
+No hieroglyphics or marks mar the smooth gold walls in this room, though
+the northern wall is completely covered by a gigantic arras.  The giant
+tapestry has been painstakingly made completely out of jewels and stones
+that have been threaded together to form a map of a distant land that
+resembles nothing you have ever seen.  At the top of the arras the word
+{BMarinth{x is spelt out in diamond to denote the name of this continent. 
+Whatever it is, this curtain is a work of art.  The exit to the south leads
+back into the main rooms of the temple.  
+~
+0 270016520 0
+D2
+To the south are the main rooms of the temple.
+~
+~
+0 0 4389
+S
+#4393
+Entrance to Bosco's Breach~
+The shattered remnants of an abandoned dock lie here, the ferry man's hut
+an empty wreck.  A pattern of shimmering lights can be seen in the sky above
+you, a magically created path known as Bosco's Breach, which will connect
+you to the continent of Dominia.  As well, a rocky beach provides access to
+the waters for those without wings.  
+~
+0 262148 2
+D3
+~
+~
+0 0 4396
+D4
+~
+~
+0 0 4350
+D5
+~
+~
+0 0 4364
+S
+#4394
+Staging Area for Bosco's Breach~
+This is the staging area for Bosco's new invasion of Dominia.  He has
+forged a path through the skies and seas to allow his creatures easier
+access to Dominia.  Those paths lead here.  All around you, you see a
+gathering of Bosco's creatures, all preparing to head east, into Dominia. 
+Up above, you can see the air bridge which crosses the continents, and below
+you in the sea, you glimpse the underwater path the marids took.  Off to one
+side you notice a small, ruined hut where the ferryman used to work.  This
+is only the first casualty of the war about to come.  
+~
+0 270340 2
+D1
+~
+~
+0 0 4395
+D4
+~
+~
+0 0 4363
+D5
+~
+~
+0 0 4377
+S
+#4395
+The Tollbooth~
+As you approch Bosco's Breach, the bridge between the continents, you
+notice a large, makeshift barricade has been built to block your way.  While
+Bosco did intend this bridge to be the lead-in to an invasion, his passivity
+has lead some other force to misappropriate it.  It looks like some ugly
+trolls are stationed with crossbows to prevent anyone from passing without
+addressing their leader.  You notice a large sign, scrawled with bad
+penmanship.  
+~
+0 268443648 0
+E
+sign~
+The toll is 100 gold.  For those who control the bridge, they may pass
+for free, or request the toll money as tithe from the trolls.  
+~
+D1
+~
+~
+0 0 1901
+D3
+~
+~
+0 0 4394
+S
+#4396
+The Tollbooth~
+As you approch Bosco's Breach, the bridge between the continents, you
+notice a large, makeshift barricade has been built to block your way.  While
+Bosco did intend this bridge to be the lead-in to an invasion, his passivity
+has lead some other force to misappropriate it.  It looks like some ugly
+trolls are stationed with crossbows to prevent anyone from passing without
+addressing their leader.  You notice a large sign, scrawled with bad
+penmanship.  
+~
+0 268443648 2
+E
+sign~
+The toll is 100 gold.  For those who control the bridge, they may pass
+for free, or request the toll money as tithe from the trolls.  
+~
+D1
+~
+~
+0 0 4393
+D3
+~
+~
+0 0 207
+S
+#4397
+A reality bubble in the sea~
+This room contains information about the universe.
+~
+0 268993797 0
+M 100000 H 100000
+S
+#4398
+A cleft in the rock~
+There is a dark ledge in a cleft of rock above. It is faintly lit by moss that
+grows up hrough a crack in the wall.
+~
+0 0 5
+D5
+~
+~
+0 0 4382
+S
+#4399
+a water filled cavern~
+You are in a cave that is dug into the side of the underwater rock formations.
+It is too evenly shaped to be a natural occurrence. To the south is the
+underwater passage. Above you, you can see the surface of the water.
+~
+0 270016513 12
+D2
+~
+~
+0 0 4376
+D4
+~
+~
+0 0 4378
+S
+#0
+
+
+
+#SPECIALS
+M 4351 spec_breath_gas Load to: The great dragon {gDemsarok{x
+M 4352 spec_cast_thief Load to: The {Ddark{x elf {RAtraveche{x
+S
+
+
+
+#MOBPROGS
+#4378
+say {yKeep the key, I do not need it.{x
+give $o $n
+~
+A
+#4396
+IF vnum $o == 4357
+MOB control_chr $n
+MOB GECHO {mThe bridge has changed posession.{x
+say {yThank you, I can restore these and return the temple to its rightful glory.{x
+say {yWe use the profits from the toll bridge to maintain the temple.{x
+say {yAs a token of our appreciation, we will share these profits with you.{x
+MOB GTRANSFER $n 4380
+ELSE
+give $o $n
+ENDIF
+~
+A
+#4375
+MOB OLOAD 4350 1
+unlock east
+unlock west
+open east
+open west
+MOB JUNK "the gnarled black perishable wooden key staff of lazranjl"
+~
+A
+#4374
+MOB OLOAD 4357 1
+~
+A
+#4373
+IF carries $i treasure
+say {yThank you for returning the temple's treasures.{x
+say {yHopefully a portion of our tolls is enough to repay your kindness.{x
+MOB GTRANSFER $n 4380
+ELSE
+MOB ECHOAT $n {y$I says '{yIf only I had not gone on break, the temple would not have been looted.{x'
+MOB ECHOAT $n {y$I says '{yWhere could those statues have gone? Why didn't my troll guards stop the thieves?{x'
+ENDIF
+~
+A
+#4372
+MOB GOTO 4384
+MOB FORCE Natael drop treasure
+MOB PURGE treasure
+MOB GOTO 4381
+MOB PURGE dragon
+MOB MLOAD 4369
+MOB GOTO 4397
+say Time Reset
+MOB PURGE $i
+~
+A
+#4371
+IF vnum $i == 4353
+MOB ECHOAT $n $I stands in your way.
+MOB ECHOAROUND $n $I knocks $n back, preventing $m from going further down the passage.
+say {yLaj gparr iah sagg!{x
+ENDIF
+IF vnum $i ==  4354
+MOB MLOAD 4367
+say {yGurgle burble splurt... garble... eck!{x
+MOB ECHO Blood sprays from $I's mouth as he tries to speak his last words.
+MOB ECHO The waters begin to swirl, sucking everything towards the center of the vortex.
+MOB OLOAD 4351
+ENDIF
+~
+A
+#4397
+if isvisible $n
+mob echoat $n {y$I takes your money and steps aside.{x
+mob echoaround $n $I takes $n's money, and lets $m pass.
+mob trans $n 4393
+ 
+else
+say I can't help you if I can't see you!  Oh, and I'm keeping the money!
+endif
+~
+A
+#4398
+if control $n
+OR isimmort $n
+OR level $n <= 25
+say You may pass.
+bow $n
+mob transfer $n 4393
+else
+say Toll is one hundred gold! You don pay, on Terra you stay.
+endif
+~
+A
+#4399
+if ispc $n
+mob echoat $n {rThe trolls on the barricade fire a barrage of arrows at you!{x
+mob echoaround $n {rThe trolls on the barricade fire a barrage of arrows at $n{x!
+endif
+~
+A
+#4367
+IF vnum $i == 4352
+MOB OLOAD 4350 1
+MOB MLOAD 4353
+say {yCurse you $n! Do you have any idea how long I had to wait for him to let down his guard?{x
+ENDIF
+IF vnum $i == 4353
+MOB GOTO 4383
+MOB OLOAD 4350 1
+MOB PURGE 2.Ildsamad
+close west
+lock west
+MOB JUNK "the gnarled black perishable wooden key staff of lazranjl"
+ENDIF
+~
+A
+#4370
+IF vnum $i == 4353
+MOB MLOAD 4354
+say {ybl hpz ojabraeuaig ay wabrauihp, u pazz yaurze.{x
+say {yWal wl gajr iah candusgh jihur u pazz znsjioze hpug zzur!{x
+ENDIF
+IF VNUM $i == 4354
+MOB GOTO 4384
+MOB PURGE vortex
+MOB PURGE 2.crienech
+ENDIF
+~
+A
+#4360
+MOB GOTO 4382
+MOB PURGE atraveche
+MOB PURGE statue
+MOB OLOAD 4350
+close north
+lock north
+MOB GOTO 4398
+MOB PURGE statue
+MOB MLOAD 4386 1
+MOB GOTO 4381
+~
+A
+#4361
+IF mobhere 4355
+ELSE
+MOB CALL 4365 $n $n $n
+ENDIF
+MOB MLOAD 4368
+MOB CAST hallow Demsarok
+MOB ECHO The great dragon {gDemsarok{x stumbles.
+MOB ECHO {gDemsarok{x laughs as he regains his footing.
+say {yYou aren't even a challenge for me, so I'll give you a chance.{x
+say {yI have a pair of keys here that I stole from some fools.{x
+say {yDo you see the statues? There are four of them hidden in this cave.{x
+say {yEach one is made of a different precious stone.{x
+say {yI want a piece of each of them for my collection.{x
+say {yI would get them myself, but they are protected by powerful magic.{x
+say {yAs a show of good faith, I'll unlock the first door now.{x
+say {yWhen I have a large {rruby{y, {bsapphire{y, {gemerald{y, and {Wdiamond{y,{x
+say {yI will open the second door for you.{x
+MOB OLOAD 4350 1
+unlock east
+open east
+MOB GOTO 4397
+~
+A
+#4365
+IF carries $i "40shield"
+ELSE
+MOB OLOAD 4387 1
+MOB ECHO You evade {gDemsarok's {xbash and he slams into the wall.
+MOB ECHO The whole room shakes violently from the impact.
+MOB ECHO A {rruby{x statue tumbles to the floor from a column by the door.
+MOB ECHO An {gemerald{x statue tumbles to the floor from a column by the door.
+MOB PURGE statue
+MOB PURGE statue
+MOB MLOAD 4355
+MOB MLOAD 4358
+ENDIF
+~
+A
+#4364
+IF ispc $n
+IF vnum $i == 4355
+IF rand 5
+MOB ECHOAT $n Your hands are burned by the fiery energies of $I.
+MOB ECHOAROUND $n The heat of the flames burns $n as he approaches $I.
+MOB DAMAGE $n 1 10
+ELSE
+MOB ECHO $n Cracks spiderweb across the surface of $I and a jet of flame shoots out.
+MOB CAST flamestrike $n
+ENDIF
+ENDIF
+IF vnum $i == 4357
+IF rand 5
+MOB ECHOAT $n You are chilled by the watery energies of $I.
+MOB ECHOAROUND $n The chill of the saturated air around $I freezes $n.
+MOB CAST 'chill touch' $n
+ELSE
+MOBECHO A jet of icy water sprays from a crack in the surface of $I.
+MOB CAST 'ice bolt' $n
+ENDIF
+ENDIF
+IF vnum $i == 4358
+IF rand 5
+MOB ECHOAT $n You feel ill as you approach $I.
+MOB ECHOAROUND $n $n stumbles and chokes as he enters the vapours of $I.
+MOB CAST poison $n
+ELSE
+MOB ECHO $I is chipped by the blow and a greenish mist billows out.
+MOB CAST 'blast of rot' $n
+ENDIF
+ENDIF
+IF vnum $i == 4359
+IF rand 5
+MOB ECHO $I emits a brilliant flash of light when struck.
+MOB CAST blind $n
+ELSE
+MOB ECHO $I is pierced, emitting a brilliant radiance.
+MOB CAST 'energy drain' $n
+ENDIF
+ENDIF
+ENDIF
+~
+A
+#4363
+MOB REMEMBER $r
+IF ispc $r
+IF rand 30
+MOB ECHOAT $q {gDemsarok{x spits a glob of poisonous mucus all over your face.
+MOB ECHOAROUND $q {gDemsarok{x horks up a poisonous lugie and spits it in $q's face.
+MOB CAST poison $q
+MOB CAST poison $q
+MOB CAST poison $q
+ELSE
+MOB ECHOAT $q {gDemsarok{x sprays you with sludgey black spittle.
+MOB ECHOAROUND $q {gDemsarok{x shoots a spray of black, foul smelling spit at $q.
+MOB CAST 'blast of rot' $q
+MOB CAST 'plague' $q
+ENDIF
+ENDIF
+MOB FORGET
+~
+A
+#4362
+IF vnum $i == 4351
+IF carries $i "20fly"
+ELSE
+MOB OLOAD 4386 1
+MOB ECHO {gDemsarok{x snarls angrily.
+MOB CAST cloudkill demsarok
+ENDIF
+ENDIF
+IF vnum $i == 4386
+MOB GOTO 4382
+MOB ECHO A {wd{Wi{wa{Wm{wo{Wn{wd{x statue tumbles from the ledge.
+MOB MLOAD 4359
+MOB GOTO 4397
+MOB PURGE $i
+ENDIF
+~
+A
+#4350
+if control $n
+if money $i <= 0
+say No money!
+else
+give 1000 gold $n
+give 500 gold $n
+give 100 gold $n
+give 50 gold $n
+ 
+endif
+else
+say You are not my master!
+endif
+~
+A
+#4351
+if control $n
+OR isimmort $n
+OR level $n <= 25
+say You may pass.
+bow $n
+mob transfer $n 4394
+else
+say Toll is one hundred gold!  You don't pay, on Dominia you stay!
+endif
+~
+A
+#4352
+if isvisible $n
+mob echoat $n {y$I takes your money and steps aside.{x
+mob echoaround $n $I takes $n's money and, and let's $m pass.
+mob trans $n 4394
+else
+say I can't see you or I'm blind, so I am keeping the money and not moving for you!
+endif
+~
+A
+#4353
+MOB MLOAD 4367
+MOB ECHO {gLazranjl's{x living stone cracks, sending bits of gravel flying.{x
+say {yWait, have mercy and I'll let you pass.{x
+say {ySee, here's the key!{x
+MOB OLOAD 4350 1
+unlock north
+open north
+MOB JUNK "the gnarled black perishable wooden key staff of lazranjl"
+MOB GOTO 4397
+~
+A
+#4354
+MOB GOTO 4381
+IF mobhere 4368
+OR mobhere 4369
+OR mobhere 4351
+MOB GOTO 4380
+MOB ECHO $N {gLazranjl {ysays 'Already adventurers have defeated me and passed into the cavern,'{x
+MOB ECHO $N {gLazranjl {ysays 'You must wait until they return, or die, before you challenge me.'{x
+ELSE
+MOB GOTO 4380
+IF mobhere 4350
+ELSE
+MOB MLOAD 4350
+ENDIF
+MOB ECHOAT $N {gLazranjl{x looks at you and laughs out loud.
+MOB ECHOAT $N {gLazranjl {ysays 'I am {gLazranjl{y the guardian of the bridge.'{x
+MOB ECHOAT $N {gLazranjl {ysays 'If you want to pass, it would be better to turn back now,'{x
+MOB ECHOAT $N {gLazranjl {ysays 'Or else you'll have to face me.'{x
+MOB GOTO 4397
+MOB PURGE $i
+ENDIF
+~
+A
+#4355
+MOB OLOAD 4350 1
+MOB GOTO 4381
+close east
+lock east
+MOB PURGE dragon
+MOB PURGE statue
+MOB PURGE statue
+MOB MLOAD 4351
+MOB MLOAD 4364
+MOB MLOAD 4365
+MOB GOTO 4397
+say Adventurers entered, begin countdown.
+MOB PURGE $i
+~
+A
+#4356
+IF mobhere 4363
+OR mobhere 4350
+ELSE
+IF carries $i "lazrangl bridge quest begun marker object"
+ELSE
+MOB OLOAD 4384 1
+MOB MLOAD 4363
+ENDIF
+ENDIF
+~
+A
+#4357
+MOB GOTO 4380
+MOB ECHO Heavy footsteps echo through the cave.
+MOB ECHO The sound of iron grating against iron rattles your nerves.
+Mob ECHO A door slams in the distance.
+MOB CANCEL
+MOB DELAY 200
+MOB GOTO 4397
+~
+A
+#4358
+MOB GOTO 4380
+IF mobhere 4363
+OR mobhere 4350
+ELSE
+MOB MLOAD 4363
+MOB OLOAD 4350
+close north
+lock north
+MOB JUNK "the gnarled black perishable wooden key staff of lazranjl"
+ENDIF
+MOB GOTO 4397
+MOB ECHO The lock turns with a heavy clunk and the door slams open.
+MOB ECHO The whole cave shakes as a gigantic troll lumbers into the room.
+MOB ECHO The troll looks at you and grunts.
+MOB ECHO {yThe troll cavern guardian says 'Hi you! Me come look for 'trudors...'{x
+MOB ECHO {yThe troll cavern guardian says 'You no bridge troll. You get out!'{x
+MOB ECHO The troll guardian grabs you by the scruff of the neck and tosses you out.
+MOB GOTO 4381
+MOB ECHO The lock turns with a heavy clunk and the door slams open.
+MOB ECHO The whole cave shakes as a gigantic troll lumbers into the room.
+MOB ECHO The troll looks at you and grunts.
+MOB ECHO {yThe troll cavern guardian says 'Hi you! Me come look for 'trudors...'{x
+MOB ECHO {yThe troll cavern guardian says 'You no bridge troll. You get out!'{x
+MOB ECHO The troll guardian grabs you by the scruff of the neck and tosses you out.
+MOB TRANSFER ALL 4380
+MOB PURGE dragon
+MOB GOTO 4382
+MOB ECHO The lock turns with a heavy clunk and the door slams open.
+MOB ECHO The whole cave shakes as a gigantic troll lumbers into the room.
+MOB ECHO The troll looks at you and grunts.
+MOB ECHO {yThe troll cavern guardian says 'Hi you! Me come look for 'trudors...'{x
+MOB ECHO {yThe troll cavern guardian says 'You no bridge troll. You get out!'{x
+MOB ECHO The troll guardian grabs you by the scruff of the neck and tosses you out.
+MOB TRANSFER ALL 4380
+MOB GOTO 4383
+MOB ECHO The lock turns with a heavy clunk and the door slams open.
+MOB ECHO The whole cave shakes as a gigantic troll lumbers into the room.
+MOB ECHO The troll looks at you and grunts.
+MOB ECHO {yThe troll cavern guardian says 'Hi you! Me come look for 'trudors...'{x
+MOB ECHO {yThe troll cavern guardian says 'You no bridge troll. You get out!'{x
+MOB ECHO The troll guardian grabs you by the scruff of the neck and tosses you out.
+MOB TRANSFER ALL 4380
+MOB GOTO 4384
+MOB ECHO The lock turns with a heavy clunk and the door slams open.
+MOB ECHO The whole cave shakes as a gigantic troll lumbers into the room.
+MOB ECHO The troll looks at you and grunts.
+MOB ECHO {yThe troll cavern guardian says 'Hi you! Me come look for 'trudors...'{x
+MOB ECHO {yThe troll cavern guardian says 'You no bridge troll. You get out!'{x
+MOB ECHO The troll guardian grabs you by the scruff of the neck and tosses you out.
+MOB TRANSFER ALL 4380
+MOB GOTO 4385 
+MOB ECHO The lock turns with a heavy clunk and the door slams open.
+MOB ECHO The whole cave shakes as a gigantic troll lumbers into the room.
+MOB ECHO The troll looks at you and grunts.
+MOB ECHO {yThe troll cavern guardian says 'Hi you! Me come look for 'trudors...'{x
+MOB ECHO {yThe troll cavern guardian says 'You no bridge troll. You get out!'{x
+MOB ECHO The troll guardian grabs you by the scruff of the neck and tosses you out.
+MOB TRANSFER ALL 4380
+MOB GOTO 4386
+MOB ECHO The lock turns with a heavy clunk and the door slams open.
+MOB ECHO The whole cave shakes as a gigantic troll lumbers into the room.
+MOB ECHO The troll looks at you and grunts.
+MOB ECHO {yThe troll cavern guardian says 'Hi you! Me come look for 'trudors...'{x
+MOB ECHO {yThe troll cavern guardian says 'You no bridge troll. You get out!'{x
+MOB ECHO The troll guardian grabs you by the scruff of the neck and tosses you out.
+MOB TRANSFER ALL 4380
+MOB GOTO 4387
+MOB ECHO The lock turns with a heavy clunk and the door slams open.
+MOB ECHO The whole cave shakes as a gigantic troll lumbers into the room.
+MOB ECHO The troll looks at you and grunts.
+MOB ECHO {yThe troll cavern guardian says 'Hi you! Me come look for 'trudors...'{x
+MOB ECHO {yThe troll cavern guardian says 'You no bridge troll. You get out!'{x
+MOB ECHO The troll guardian grabs you by the scruff of the neck and tosses you out.
+MOB TRANSFER ALL 4380
+MOB GOTO 4388 
+MOB ECHO The lock turns with a heavy clunk and the door slams open.
+MOB ECHO The whole cave shakes as a gigantic troll lumbers into the room.
+MOB ECHO The troll looks at you and grunts.
+MOB ECHO {yThe troll cavern guardian says 'Hi you! Me come look for 'trudors...'{x
+MOB ECHO {yThe troll cavern guardian says 'You no bridge troll. You get out!'{x
+MOB ECHO The troll guardian grabs you by the scruff of the neck and tosses you out.
+MOB TRANSFER ALL 4380
+MOB GOTO 4389 
+MOB ECHO The lock turns with a heavy clunk and the door slams open.
+MOB ECHO The whole cave shakes as a gigantic troll lumbers into the room.
+MOB ECHO The troll looks at you and grunts.
+MOB ECHO {yThe troll cavern guardian says 'Hi you! Me come look for 'trudors...'{x
+MOB ECHO {yThe troll cavern guardian says 'You no bridge troll. You get out!'{x
+MOB ECHO The troll guardian grabs you by the scruff of the neck and tosses you out.
+MOB TRANSFER ALL 4380
+MOB GOTO 4390 
+MOB ECHO The lock turns with a heavy clunk and the door slams open.
+MOB ECHO The whole cave shakes as a gigantic troll lumbers into the room.
+MOB ECHO The troll looks at you and grunts.
+MOB ECHO {yThe troll cavern guardian says 'Hi you! Me come look for 'trudors...'{x
+MOB ECHO {yThe troll cavern guardian says 'You no bridge troll. You get out!'{x
+MOB ECHO The troll guardian grabs you by the scruff of the neck and tosses you out.
+MOB TRANSFER ALL 4380
+MOB GOTO 4391 
+MOB ECHO The lock turns with a heavy clunk and the door slams open.
+MOB ECHO The whole cave shakes as a gigantic troll lumbers into the room.
+MOB ECHO The troll looks at you and grunts.
+MOB ECHO {yThe troll cavern guardian says 'Hi you! Me come look for 'trudors...'{x
+MOB ECHO {yThe troll cavern guardian says 'You no bridge troll. You get out!'{x
+MOB ECHO The troll guardian grabs you by the scruff of the neck and tosses you out.
+MOB TRANSFER ALL 4380
+MOB GOTO 4392 
+MOB ECHO The lock turns with a heavy clunk and the door slams open.
+MOB ECHO The whole cave shakes as a gigantic troll lumbers into the room.
+MOB ECHO The troll looks at you and grunts.
+MOB ECHO {yThe troll cavern guardian says 'Hi you! Me come look for 'trudors...'{x
+MOB ECHO {yThe troll cavern guardian says 'You no bridge troll. You get out!'{x
+MOB ECHO The troll guardian grabs you by the scruff of the neck and tosses you out.
+MOB TRANSFER ALL 4380
+MOB GOTO 4397
+~
+A
+#4359
+IF carries $i "10armor"
+ELSE
+MOB OLOAD 4385 1
+MOB ECHO {gDemsarok{x lets out a mighty roar that makes the cavern tremble.
+MOB ECHO {gDemsarok{x swirls around and slams the door with his tail.
+MOB ECHO Stalagtites break off from the ceiling and rain down.
+MOB ECHO The rubble from the stalagtites blocks the door to the east.
+MOB OLOAD 4350 1
+MOB AT 4380 MOB MLOAD 4363
+MOB AT 4380 close north
+MOB AT 4380 lock north
+MOB JUNK "the gnarled black perishable wooden key staff of lazranjl"
+MOB ECHO Water gushes from the ceiling, You are battered by the debris filled current.
+MOB CAST tsunami $r
+ENDIF
+~
+A
+#4368
+MOB GOTO 4397
+buy 81720karma
+buy 40960greaterrevitalize
+buy 20480aurora
+buy 10240sanctuary
+buy 5120frenzy
+buy 2560bless
+buy 1280haste
+buy 640mistycloak
+buy 320giantstrength
+buy 160barkskin
+buy 80blur
+buy 40shield
+buy 20fly
+buy 10armor
+MOB GOTO 4381
+IF carries $i "demsarokspelltoken"
+emote utters the words 'yazajf ay hpz wuophl'
+MOB ECHOAT $n You are bathed in a holy light.
+MOB ECHOAROUND $n $n is bathed in a holy light.
+IF carries $i "10armor"
+MOB CAST armor $n
+MOB JUNK 10armor
+ENDIF
+IF carries $i "20fly"
+MOB CAST fly $n
+MOB JUNK 20fly
+ENDIF
+IF carries $i "40shield"
+MOB CAST shield $n
+MOB JUNK 40shield
+ENDIF
+IF carries $i "80blur"
+MOB CAST blur $n
+MOB JUNK 80blur
+ENDIF
+IF carries $i "160barkskin"
+MOB CAST "bark ski"n $n
+MOB JUNK 160barkskin
+ENDIF
+IF carries $i "320giantstrength"
+MOB CAST "giant strength" $n
+MOB JUNK 320giantstrength
+ENDIF
+IF carries $i "640mistycloak"
+MOB CAST mistycloak $n
+MOB JUNK 640mistycloak
+ENDIF
+IF carries $i "1280haste"
+MOB CAST haste $n
+MOB JUNK 1280haste
+ENDIF
+IF carries $i "2560bless"
+MOB CAST bless $n
+MOB JUNK 2560bless
+ENDIF
+IF carries $i "5120frenzy"
+MOB CAST frenzy $n
+MOB JUNK 5120frenzy
+ENDIF
+IF carries $i "10240sanctuary"
+MOB CAST sanctuary $n
+MOB JUNK 10240sanctuary
+ENDIF
+IF carries $i "20480aurora"
+MOB CAST aurora $n
+MOB JUNK 10480aurora
+ENDIF
+IF carries $i "40960greaterrevitalize"
+MOB CAST "greater revitalize" $n
+MOB JUNK 40960greaterrevitalize
+ENDIF
+IF carries $i "81720karma"
+MOB CAST karma $n
+MOB JUNK 81720 karma
+ENDIF
+ELSE
+MOB ECHO {gDemsarok{y says 'As if you could bribe me with such a pittance!'{x
+ENDIF
+~
+A
+#4366
+IF vnum $i == 4355
+MOB ECHO The {rr{Ru{rb{Ry{x statue explodes in a ball of searing flames.
+MOB ECHO A large {rr{Ru{rb{Ry{x fragment tumbles to the floor.
+MOB OLOAD 4352 1 room
+IF mobhere 4358
+ELSE
+MOB ECHO A {bs{Ba{bp{Bp{bh{Bi{br{Be{x statue tumbles down from a hidden alcove above the door.
+MOB MLOAD 4357
+ENDIF
+ENDIF
+IF vnum $i == 4358
+MOB ECHO The {ge{Gm{ge{Gr{ga{Gl{gd{x statue shatters, spraying green ooze everywhere.
+MOB ECHO A large {ge{Gm{ge{Gr{ga{Gl{gd{x fragment tumbles to the floor.
+MOB OLOAD 4382 1 room
+IF mobhere 4355
+ELSE
+MOB ECHO A {bs{Ba{bp{Bp{bh{Bi{br{Be{x statue tumbles down from a hidden alcove above the door.
+MOB MLOAD 4357
+ENDIF
+ENDIF
+IF vnum $i == 4357
+MOB ECHO The {bs{Ba{bp{Bp{bh{Bi{br{Be{x statue shatters, spraying ice cold water everywhere.
+MOB ECHO A large {bs{Ba{bp{Bp{bh{Bi{br{Be{x fragment tumbles to the floor.
+MOB OLOAD 4383 1 room
+ENDIF
+IF vnum $i == 4359
+MOB ECHO The {wd{Wi{wa{Wm{wo{Wn{wd{x statue shatters, sending out blinding rays of light.
+MOB ECHO A large {wd{Wi{wa{Wm{wo{Wn{wd{x tumbles to the floor.
+MOB OLOAD 4354 1 room
+ENDIF
+~
+A
+#4369
+say {ythis will make an excellent addition to my treasure.{x
+IF carries $i "large fire ruby treasure fragment"
+say {yI have a large ruby.{x
+ELSE
+say {yI still need a large ruby.{x
+ENDIF
+IF carries $i "large poison emerald treasure fragment"
+say {yI have a large emerald.{x
+ELSE
+say {yI still need a large emerald.{x
+ENDIF
+IF carries $i "large water sapphire treasure fragment"
+say {yI have a large sapphire.{x
+ELSE
+say {yI still need a large sapphire.{x
+ENDIF
+IF carries $i "large light diamond treasure fragment"
+say {yI have a large diamond.{x
+ELSE
+say {yI still need a large diamond.{x
+ENDIF
+IF carries $i "large fire ruby treasure fragment"
+IF carries $i "large light diamond treasure fragment"
+IF carries $i "large poison emerald treasure fragment"
+IF carries $i "large water sapphire treasure fragment"
+say {yThat is all of them, but I dont have the key anymore.{x
+say {yIt was stolen not long ago, so the thief is probably still nearby.{x
+MOB GOTO 4382
+MOB PURGE statue
+MOB PURGE atraveche
+MOB TRANSFER atraveche 4382
+MOB GOTO 4397
+say Time Reset
+MOB GOTO 4381
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+~
+A
+#4377
+MOB ECHOAT $n You try to climb up into a crevice, but you can't seem to find a way in.
+mob echoaround $n $n attempts to scale the walls and falls flat on $s face.
+~
+A
+#4376
+IF carries $n 4350
+MOB ECHOAT $n The gnarled wooden key decays into a worthless handful of mulch.
+MOB REMOVE $n 4350
+ENDIF
+~
+A
+#4379
+MOB CAST calm $n
+~
+A
+#4380
+MOB CANCEL
+MOB DELAY 120
+~
+A
+#4395
+mob cast 'cure blind' $i
+~
+A
+#0
+
+#RESETS
+D 0 4380 0 2
+D 0 4381 1 2
+D 0 4381 2 2
+D 0 4382 0 2
+D 0 4382 3 2
+D 0 4383 2 2
+D 0 4383 3 2
+D 0 4384 1 2
+C 100 percent for next reset
+M 1 4388 1 4376 1
+M 1 4366 1 4380 1
+C 100 percent for next reset
+M 1 4370 1 4382 1
+C 100 percent for next reset
+M 1 4356 1 4385 1
+C 100 percent for next reset
+O 0 4399 0 4385
+M 1 4360 1 4395 1
+M 1 4399 1 4396 1
+C 100 percent for next reset
+M 1 4362 1 4397 1
+C 100 percent for next reset
+G 0 4385 0
+C 100 percent for next reset
+G 0 4386 0
+C 100 percent for next reset
+G 0 4387 0
+C 100 percent for next reset
+G 0 4388 0
+C 100 percent for next reset
+G 0 4389 0
+C 100 percent for next reset
+G 0 4390 0
+C 100 percent for next reset
+G 0 4391 0
+C 100 percent for next reset
+G 0 4392 0
+C 100 percent for next reset
+G 0 4393 0
+C 100 percent for next reset
+G 0 4394 0
+C 100 percent for next reset
+G 0 4395 0
+C 100 percent for next reset
+G 0 4396 0
+C 100 percent for next reset
+G 0 4397 0
+C 100 percent for next reset
+G 0 4398 0
+C 100 percent for next reset
+M 1 4352 3 4397 3
+C 100 percent for next reset
+E 0 4356 0 16
+S
+
+
+
+#SHOPS
+4362 0 0 0 0 0 100 100 0 24
+0
+
+
+
+#$

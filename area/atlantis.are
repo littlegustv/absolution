@@ -1,0 +1,4148 @@
+#AREADATA
+Name Atlantis~
+Builders None~
+VNUMs 4700 4899
+Credits {40-48} Liceo        Atlantis~
+Security 9
+Xcontinent 1
+Age 12
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#4709
+Sam Sailor~
+Sailor Sam~
+A burly sailor sits at his kiosk, smoking a pipe.
+~
+This sailor looks like he's seen his share of foul weather!  Retired, he
+now makes his services available to the rest of the ocean-going people of
+Atlantis.  His strong hands look like they could build a very worthy sailing
+vessel.  Or tear one apart, for that matter...  
+~
+human~
+AB 0 0 0
+10 1 2d7+121 1d1+100 2d4+2 charge
+1 1 1 1
+IJ 0 0 0
+rest stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4711
+city guard~
+a city guard~
+A guard stands here, protecting people from those like you.
+~
+A city guard stands here, dressed in full plate armour.  He looks like he
+is ready to do battle at a moment's notice.  Standing stiffly at attention,
+he narrows his eyes whenever an unfamiliar face passes by.
+~
+human~
+AB DV 800 0
+20 0 3d9+333 1d1+100 2d8+5 pound
+-4 -4 -4 -4
+CDKTU A B 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4715
+Drunken Sailor~
+A drunken sailor~
+A sailor is sleeping here, looking more than a little drunk.
+~
+The sailor looks like he just got off the night-shift. He's snoring
+loudly and probably wouldn't appreciate being disturbed.
+~
+human~
+AB CG -300 0
+24 -1 5d10+500 1d1+100 2d10+6 slap
+-6 -6 -6 -6
+DFN 0 0 T
+sleep stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 4758 3~
+#4716
+dolphin~
+a dolphin~
+A dolphin cavorts and plays in the waves.
+~
+A small gray dolphin seems to be in a good mood. He jumps in the
+air and does elaborate acrobatics.
+~
+human~
+AB DJZ 800 0
+30 -1 6d12+853 1d1+100 4d6+8 thwack
+-9 -9 -9 -9
+M ABR E F
+stand stand none 0
+AHMV ABCDEFGHIJKOQ medium 0 the guilds~
+M kill 4715 100~
+M random 4711 100~
+M grall 4716 100~
+M exit 4717 0~
+#4717
+dolphin~
+a dolphin~
+A dolphin cavorts and plays in the waves.
+~
+A small gray dolphin seems to be in a good mood. He jumps in the
+air and does elaborate acrobatics.
+~
+human~
+AB DJZ 800 0
+30 -1 6d12+853 1d1+100 4d6+8 thwack
+-9 -9 -9 -9
+M ABR E F
+stand stand none 0
+AHMV ABCDEFGHIJKOQ medium 0 the guilds~
+M kill 4715 100~
+M exit 4718 0~
+M exit 4720 2~
+M random 4711 100~
+M grall 4716 100~
+#4718
+dolphin~
+a dolphin~
+A dolphin cavorts and plays in the waves.
+~
+A small gray dolphin seems to be in a good mood. He jumps in the
+air and does elaborate acrobatics.
+~
+human~
+AB DJZ 800 0
+30 -1 6d12+853 1d1+100 4d6+8 thwack
+-9 -9 -9 -9
+M AB E F
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M exit 4717 2~
+M kill 4715 100~
+M exit 4719 0~
+M random 4711 100~
+M grall 4716 100~
+#4719
+testmob~
+testmob~
+A testmob is here, hopefully doing what it's supposed to.
+~
+~
+human~
+AB 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M exit 4830 0~
+#4729
+fisherman~
+a fisherman~
+A fisherman is here, testing his luck.
+~
+A fisherman stands on the shore casting his fishing
+rod out into the sea, hoping for a bite.
+~
+human~
+AB DJV 0 0
+42 -3 25d10+2250 1d1+100 3d12+14 punch
+-14 -14 -14 -14
+FK 0 R T
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 4730 100~
+#4730
+fisherman~
+a fisherman~
+A fisherman is here, testing his luck.
+~
+A fisherman stands on the shore casting his fishing
+rod out into the sea, hoping for a bite.
+~
+human~
+AG HV 0 0
+42 -3 25d10+2250 1d1+100 3d12+14 punch
+-14 -14 -14 -14
+FK 0 R T
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4731
+citizen atlantian~
+a citizen~
+A young citizen of Atlantis goes about his business.
+~
+The man is well dressed and fairly young.  His mannerisms suggest that he
+is a recent graduate from the military academy.  He seems patriotic to his
+city.  The citizen walks with purpose and direction, striving to achieve
+his goals and to be productive and efficient.
+~
+human~
+AG 0 300 0
+5 0 2d6+60 1d1+100 1d6+1 slap
+5 5 5 5
+U 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 4732 100~
+M random 4710 40~
+#4732
+citizen female woman~
+a female citizen~
+An Atlantian woman nods at you curtly as you approach.
+~
+This woman looks like a no-nonsense, hardened citizen.  You imagine
+she must have been a tomboy as a child, but perhaps her behaviour
+is a result of years of living in this stately environment.  She
+hardly bats an eyelash toward you as she continues on her way.
+~
+human~
+AG 0 600 0
+4 0 2d7+46 1d1+100 1d5+1 scratch
+6 6 6 6
+U 0 0 0
+stand stand female 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 4731 100~
+M random 4710 40~
+#4733
+guard officer military~
+a military officer~
+A military officer walks smartly along the streets.
+~
+This citizen of Atlantis looks weary, but alert all the same.  He has been
+training intensively in practice battle situations lately, and is glad to
+have a rest while he does his personal business.  Best not to upset him.
+~
+human~
+A 0 1000 0
+35 -2 10d10+1300 1d1+100 4d7+11 slice
+-11 -11 -11 -11
+DU 0 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4734
+tree~
+a tree~
+A large tree stands here, nearly in the center of the clearing.
+~
+You look up into the boughs of this large old tree. It seems quite
+healthy and will probably live to be much older. You wonder why
+it is situated where it is, surrounded by fruit trees of other types.
+~
+tree~
+AB J 0 0
+25 -1 5d10+550 1d1+100 2d10+7 crush
+-7 -7 -7 -7
+CFH B I H
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 4713 100~
+M random 4814 50~
+M speech 4813 nut~
+#4735
+Nagheem shopkeeper woman~
+Nagheem~
+A charmingly beautiful young woman smiles sweetly at you.
+~
+You are slightly taken by how pretty she is, but you must remind yourself
+that whatever you might imagine, cannot possibly be!  You are sadly
+enchanted by her light brown hair, combed sideways past her face, and the
+sparkling eyes which look at you through her spectacles, framing an
+angelic light face.  She wears dental work, but even that seems to add to
+her appearance.
+~
+human~
+AB 0 0 0
+25 2 5d10+550 1d1+100 2d10+7 none
+-7 -7 -7 -7
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4739
+banker cashier~
+a cashier~
+A cashier stands behind a till, anxious to relieve you of your money.
+~
+A pretty young girl, she appears to be half hidden behind piles of paperwork.
+~
+human~
+ABde 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABa 0 0
+stand stand female 99999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4742
+guard~
+a guard~
+A buff guard stands here frowning intensely at you.
+~
+This guard looks significantly more fearsome than those which
+guard the gates to northern Atlantis. Not only that, but
+significantly less friendly as well, and that's saying a lot.
+~
+kobold~
+AB JV 1000 0
+45 -4 25d10+3000 1d1+100 8d4+16 slice
+-15 -15 -15 -15
+CERT AB L C
+stand stand either 5000
+ABHMV ABCDEFGHIJKQ medium 0 the guilds~
+M greet 4742 100~
+#4750
+burly gatekeeper~
+the burly gatekeeper~
+A great big burly gatekeeper impedes your view of the city.
+~
+Atlantis really takes their city security seriously.  Look at the size of
+the gatekeeper they posted!  There must be something valuable hidden behind
+the locked doors he protects.  His menacing stare is almost enough to melt 
+your armour.
+~
+kobold~
+AB HJV 0 0
+55 -3 50d10+7000 1d1+100 10d4+23 none
+-25 -25 -25 -25
+BDFKT ABab L C
+stand stand male 5100
+ABHMV ABCDEFGHIJKQ large 0 the guilds~
+#4766
+Ruth shopkeeper elf~
+Ruth~
+Ruth stands behind the counter, ready to help you.
+~
+This elf looks like she's been through a lot.  The burden of raising
+two elven boys to maturity, especially in a city such as this, has added
+more than a few grey hairs to her head!  Nevertheless her elven nature
+still lets her look youthful and mysterious.  She smiles with a twinkle
+in her eye.
+~
+elf~
+AB J 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABa B Z
+stand stand female 99999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4767
+Zyantha shopkeeper man~
+Zyantha~
+A comical old man in flowing grey robes stands behind a counter.
+~
+An old man, judging by his heavily lined face,
+and his pure white hair, he nonetheless seems to radiate
+energy and youthful exuberance.
+~
+human~
+AB 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABa 0 0
+stand stand male 99999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4768
+maverick shopkeeper veteran~
+Maverick~
+A grizzled old veteran stands here polishing armour.
+~
+Although old, this man looks to be in good shape. He was obviously
+a competent warrior in his youth. You can see his love for his wares in
+the way he takes care of them. Although many years old, they shine
+like new.
+~
+human~
+AB 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABa 0 0
+stand stand male 99999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 4722 3~
+M random 4821 3~
+M greet 4768 100~
+M random 4820 3~
+#4769
+Elias shopkeeper man~
+Elias~
+A heavily built, balding man stands here fussing over a rack of weapons.
+~
+This man, although obviously past his prime, looks like he could
+swing a sword with the best of them. His care for his weapons shows
+in the way they shine.
+~
+human~
+AB 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABa 0 0
+stand stand male 99999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 4776 3~
+M random 4775 3~
+M random 4772 3~
+M random 4771 3~
+M random 4770 3~
+M random 4773 3~
+#4770
+Lydia shopkeeper~
+Lydia~
+Lydia welcomes you from behind mounds of fabric.
+~
+This elderly shopkeeper is wearing beautiful robes of silk and velvet.  Her
+skilled fingers can work wonders with fabrics of all kinds.  Lydia has a
+sparkle in her eyes when she looks at you, making you wonder if perhaps she
+knows something about you that you don't.
+~
+human~
+AB 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABa 0 0
+stand stand female 99999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4771
+Valerie witch woman shopkeeper~
+Valerie~
+An ancient woman tries to sell you a miracle potion.
+~
+She looks hundreds of years old, if that's even possible.  If not, then
+it's a really good illusion.  Valerie doesn't look like a woman to be
+trifled with.  She has an extremely hot temper, and you really don't
+know what the things in her bottles do...
+~
+human~
+AB 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABa 0 0
+stand stand female 99999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 4774 witch~
+#4773
+man owner~
+the grille's owner~
+The owner of this restaurant is working feverishly.
+~
+A large and brawny man, he works with astounding speed filling
+out the orders of his many customers. Sweat runs down his brow
+from the heat of his grille, but he doesn't seem to notice.
+~
+human~
+AB Va 0 0
+51 -13 50d10+5000 1d1+100 5d8+20 punch
+-21 -21 -21 -21
+0 0 H 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4774
+Philindros~
+Philindros~
+Philindros the vintner offers you a sample of his finest.
+~
+This old man smells of wine, but certainly not because he drinks too
+much!  Rather, Philimon has mastered his practice and offers the
+best wines this side of the continent.  He is old, wise, and very
+passionate about his work.
+~
+human~
+AB 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABa 0 0
+stand stand male 99999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4775
+merchant fish~
+the fish merchant~
+The fish merchants line up along the road, displaying their goods.
+~
+A number of fish merchants, men and women, young and old, all gather
+here every afternoon after a hard morning's work.  The fish are fresh
+and quite strong smelling.  The prices are posted on signs over the
+bins, and a lot of yelling and haggling can be heard.
+~
+human~
+AB 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABK 0 0
+stand stand either 9999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4776
+shopkeeper~
+The storekeeper~
+The store's owner stands here.
+~
+~
+human~
+AB 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand either 9999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4777
+Barabbas bartender~
+Barabbas the bartender~
+The bartender stands in the back, mixing drinks.
+~
+Barabbas the bartender looks like he was born right into his job.  He
+is a very jovial fellow, sporting a big dimpled grin and an equally
+big belly!  He expertly mixes combinations of drinks from the various
+fountains under the bar.
+~
+human~
+AB 0 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABa 0 0
+stand stand male 9999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 4779 20~
+M random 4778 10~
+M random 4777 10~
+#4778
+patron customer~
+a bar patron~
+A patron of the bar eats and drinks merrily.
+~
+The bar patron is one of many who frequently enter the pub.  Whether
+they come here for fellowship, to escape the stresses of the city, or
+just to taste the famous Atlantian ale, is hard to guess.  This
+patron looks like he's been drinking a fair bit.
+~
+human~
+ABL 0 -200 0
+35 -2 10d10+1300 1d1+100 4d7+11 punch
+-11 -11 -11 -11
+FI AB 0 0
+sit sit male 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4779
+cleric priest~
+A cleric~
+A cleric stands here meditating.
+~
+A holy man of this temple, he stands ready to help you... for a price.
+~
+human~
+ABa 0 0 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 ABCDa 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4784
+man scholar~
+a scholar~
+A bookish man stands here, oblivious to your presence.
+~
+This quiet, unobtrusive man seems to be totally absorbed in the exhibits
+which surround him. 
+~
+human~
+AB C 800 0
+20 0 3d9+333 1d1+100 2d8+5 scratch
+-4 -4 -4 -4
+0 0 P T
+stand stand male 700
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M fight 4784 15~
+#4788
+mayor~
+the mayor~
+The Mayor looks up at you, curiousity in his eyes.
+~
+The mayor shows polite interest in your presence, but is obviously
+occupied with something else. He seems slightly nervous about something.
+~
+human~
+AB HU 0 0
+51 -3 50d10+5000 1d1+100 5d8+20 punch
+-21 -21 -21 -21
+0 ABab 0 0
+sit sit none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 4790 100~
+M hpcnt 4788 99~
+#4789
+mayor widgit~
+the mayor~
+The Mayor stares at you, with terror in his eyes.
+~
+Someone seems to have attacked the mayor, as he is bleeding in many places.
+He looks to be scared witless.
+~
+human~
+AB H 0 0
+51 -3 50d10+5000 1d1+100 5d8+20 punch
+-21 -21 -21 -21
+0 ABab 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M death 4789 100~
+#4790
+military officer~
+a military officer~
+A military officer walks smartly along the streets.
+~
+This citizen of Atlantis looks weary, but alert all the same.  He has been
+training intensively in practice battle situations lately, and is glad to
+have a rest while he does his personal business.  Best not to upset him.
+~
+human~
+A 0 1000 0
+15 1 3d9+208 1d1+100 2d6+3 punch
+-2 -2 -2 -2
+U 0 0 0
+stand stand none 800
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 4791 100~
+M random 4710 40~
+#4801
+scout atlantian~
+an Atlantian scout~
+A scout stands here alertly, scanning the horizon.
+~
+The scout is a tall, thin man dressed in plain attire.
+~
+human~
+AB 0 0 0
+32 -2 10d10+1000 1d1+100 4d4+9 none
+-10 -10 -10 -10
+0 AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#4822
+imp zxc~
+an imp~
+A strange little imp stands here, blocking your way.
+~
+It stands about a foot and a half tall, and is green from top to bottom.
+Its head is round, and bald, and its large, bright eyes are the size
+of tennis balls. It wears a mischievous smile on its face, and is hopping
+from foot to foot, obviously excited by your presence.
+~
+human~
+AB Vab 0 0
+60 -21 50d10+9500 1d1+100 8d6+28 pound
+-30 -30 -30 -30
+BHM ABCDab 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M give 4829 4823~
+M give 4828 1512~
+M grall 4822 100~
+M speech 4823 yes~
+M speech 4823 Yes~
+M give 4824 4728~
+#4823
+imp~
+an imp~
+A strange little imp stands here, blocking your way.
+~
+It stands about a foot and a half tall, and is green from top to bottom.
+Its head is round, and bald, and its large, bright eyes are the size
+of tennis balls. It wears a mischievous smile on its face, and is hopping
+from foot to foot, obviously excited by your presence.
+~
+human~
+AB Vab 0 0
+60 -21 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+BHIM ABCDb 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M give 4831 4728~
+M give 4825 4823~
+M grall 4826 100~
+#4830
+Skeleton~
+a skeleton~
+The skeleton in your closet.
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 999999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 4721 50~
+#0
+
+
+
+#OBJECTS
+#4700
+fishing rod~
+a fishing rod~
+A long fishing rod lies here.~
+wood~
+weapon 0 AN
+whip 5 6 whip I
+40 50 2000 P
+#4701
+carp~
+a carp~
+A large carp lies here, mouth gaping.~
+food~
+food 0 A
+20 20 0 0 0
+0 3 120 P
+#4702
+Fountain~
+the golden fountain~
+A great golden fountain gushes water for the thirsty traveller to drink.~
+gold~
+fountain 0 P
+99999 99999 'water' 0 0
+0 0 0 P
+#4703
+fish swordfish~
+a swordfish~
+A huge swordfish lies here, what a feast that would make!~
+food~
+food 0 A
+25 30 0 0 0
+0 0 350 P
+#4704
+coral figurine~
+a coral figurine~
+A coral figurine in the shape of a mermaid lies here.~
+bone~
+treasure TW AOY
+0 0 0 0 0
+0 1 4000 P
+#4705
+shrimp~
+shrimp~
+A small pink shrimp lies here.~
+food~
+food 0 A
+3 3 0 0 0
+0 1 20 P
+#4706
+platter smoked salmon~
+a smoked salmon platter~
+The unique smell of salty smoked salmon beckons you to feast.~
+food~
+food 0 A
+22 24 0 0 0
+0 2 200 P
+#4712
+orange~
+an orange~
+A large orange seems to have fallen from a tree.~
+food~
+food 0 AO
+4 1 0 0 0
+0 1 0 P
+#4720
+bag rolls bread breadbag~
+a bag of rolls~
+A small bag of bread rolls lies here.~
+food~
+food 0 A
+3 2 0 0 0
+0 3 0 P
+#4721
+oyster shell~
+some oysters on a shell~
+A colourful oyster shell holds some raw meat on it.~
+food~
+food 0 A
+20 20 0 0 0
+0 1 80 P
+#4722
+fish broiled piece~
+a piece of broiled fish~
+A large chunk of broiled salmon sits on a platter.~
+food~
+food 0 A
+10 10 0 0 0
+0 1 50 P
+#4723
+clam chowder bowl soup~
+a bowl of chowder~
+A piping hot bowl of chunky clam chowder is stuffed full of fresh seafood.~
+food~
+food 0 A
+10 15 0 0 0
+0 1 150 P
+#4725
+shell dollar~
+a sea dollar~
+A small, cracked sea shell sits in the sand.~
+shell~
+trash 0 A
+0 0 0 0 0
+0 1 0 P
+#4726
+crate~
+a broken crate~
+An old, broken crate lies battered in the sand.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#4727
+pile crates~
+a stack of crates~
+Old, broken crates lie in a pile in the back.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#4728
+peanut nut~
+a peanut~
+A peanut lies here.~
+wood~
+food T A
+1 1 0 0 0
+0 1 0 P
+#4732
+shell~
+a shell~
+A colourful shell lies neglected on the sand.~
+shell~
+trash 0 AO
+0 0 0 0 0
+0 1 0 P
+#4742
+key iron~
+a large iron key~
+A large iron key lies here, discarded.~
+iron~
+key 0 AC
+0 0 0 0 0
+0 5 0 P
+#4743
+seashell breastplate plate~
+a colourful breastplate~
+A multicoloured plate imbedded with seashells lies here~
+shell~
+armor 0 AD
+10 10 10 6 0
+45 8 2800 P
+A
+4 2  
+#4745
+small key~
+a small key~
+A small key lies on the ground~
+brass~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#4750
+ornamental blade~
+an ornamental blade~
+A shiny white blade looks more ornamental than functional~
+shell~
+weapon 0 AN
+sword 4 10 slice 0
+49 7 6800 P
+A
+12 -10  
+#4751
+string pearls~
+a string of pearls~
+A string of pearls trails along the ground~
+pearl~
+jewelry A AC
+0 0 0 0 0
+28 1 4000 P
+A
+18 1  
+A
+19 1  
+#4766
+ring depths~
+Ring of the Depths~
+A deep green ring glimmers and gleams.~
+emerald~
+jewelry 0 AB
+0 0 0 0 0
+35 2 8200 P
+A
+19 2  
+A
+12 10  
+A
+17 -1  
+#4767
+dragonskin scroll~
+a dragonskin scroll~
+A strip of dragon skin lies curled on the ground.~
+skin~
+scroll 0 AO
+20 'fireball' 'reserved' 'reserved' 'reserved'
+8 1 1200 P
+#4768
+divining rod~
+a divining rod~
+A long branch lies here.~
+wood~
+wand 0 AO
+30 2 2 'locate object' 0
+51 5 3600 P
+#4769
+ancient dagger~
+an ancient dagger~
+An old, but well kept dagger lies here.~
+iron~
+weapon 0 AN
+dagger 4 6 slice 0
+32 4 5600 P
+#4770
+ancient iron helm~
+an ancient iron helm~
+An old fashioned helm lies on the ground.~
+iron~
+armor 0 AE
+5 5 5 4 0
+13 15 4500 P
+A
+19 1  
+#4771
+knife~
+a knife~
+A small knife lies here.~
+iron~
+throwing 0 AO
+5 6 stab 0 'reserved'
+20 3 2200 P
+#4772
+silk cloth robe~
+a silk robe~
+A beautiful silk robe lies in a pile.~
+silk~
+clothing 0 AD
+0 0 0 0 0
+10 5 2800 P
+A
+4 1  
+#4773
+chocolate pill~
+a chocolate coated pill~
+A small brown pill lies here.~
+wood~
+pill 0 A
+35 'refresh' 'heal' 'reserved' 'reserved'
+30 2 5000 P
+#4774
+tongs~
+a pair of tongs~
+A pair of tongs lie here.~
+aluminum~
+weapon 0 AN
+mace 3 14 skewer A
+50 8 4200 P
+A
+19 2  
+#4775
+bottle white wine~
+a bottle of white wine~
+A bottle of white wine sits here.~
+glass~
+drink 0 A
+4 4 'white wine' 0 0
+0 3 1200 P
+#4776
+bottle red wine~
+a bottle of red wine~
+A bottle of red wine sits here.~
+wood~
+drink 0 A
+4 4 'red wine' 0 0
+0 3 1200 P
+#4777
+bar stool~
+the bar~
+Stools are lined up at the finely finished black bar.~
+wood~
+furniture 0 P
+4 99999 D 0 0
+0 0 0 P
+#4778
+flagon beer~
+a flagon of beer~
+A foaming flagon of beer sits here, almost brimming over.~
+glass~
+drink 0 A
+3 3 'beer' 0 0
+0 4 50 P
+#4788
+desk~
+a desk~
+A spartan wooden desk stands in the corner.~
+wood~
+furniture 0 P
+1 100000 D 0 0
+0 0 0 P
+#4823
+pomegranate~
+a pomegranate~
+A fat red pomegranate lies on the ground.~
+wood~
+food TY A
+1 1 0 0 0
+0 2 2 P
+#4824
+Replica Atlantis~
+a replica of Atlantis~
+A replica of Atlantis sits on a table, complete to every detail.~
+wood~
+portal 0 0
+0 0 0 4825 0
+0 0 0 P
+E
+replica~
+A swirling mist encompasses the replica of Atlantis.
+Perhaps this mist is another of these wizards' projects.
+~
+#4825
+replica Atlantis~
+a replica of Atlantis~
+A miniature replica of Atlantis lies on the floor.~
+wood~
+recall_crystal 0 AO
+CDEGJM AC AC 0 0
+0 5 0 P
+#4826
+wand sea companion~
+Sea's companion~
+A glistening blue wand lies here.~
+water~
+wand T AOY
+45 3 3 'tsunami' 0
+40 5 60000 P
+#4827
+bubble~
+a glistening bubble~
+A small, glistening bubble floats slowly around the room.~
+wood~
+container 0 0
+10 0 0 10 100
+0 0 0 P
+#4828
+swirling mist~
+A {cs{bw{Bi{cr{bl{Bi{cn{bg {Bm{ci{bs{Bt{x~
+A pale mist twists and swirls.~
+air~
+armor ABT AFZ
+9 9 9 12 0
+50 0 18900 P
+A
+2 1  
+A
+3 1  
+A
+18 2  
+A
+19 1  
+#4830
+umbrella~
+an umbrella~
+Liceo's umbrella is here.~
+wood~
+weapon 0 AN
+exotic 8 7 none D
+54 0 0 P
+A
+1 9  
+A
+3 10  
+A
+2 10  
+A
+5 10  
+A
+4 10  
+A
+18 50  
+A
+19 50  
+#4831
+spike display case~
+a display case~
+A sealed display case containing an arrangement of spikes.~
+wood~
+furniture O 0
+0 0 0 0 0
+0 5000 0 P
+E
+spike~
+Glancing at the sealed display case, you see a ring of
+seven metallic spikes radiating out from a currently dim
+core. A plaque underneath the strange item explains,
+ 
+"You witness the remnants of a powerful artifact, a
+legendary tool known as the "ring of adamantite spokes".
+These razor sharp spikes are used by powerful warriors for
+both offense and defense, and properly maintained they gleam
+bright enough to chase away the darkness. They were forged
+from:
+ 
+12 bars of adamantite
+7 spikes of crackling energy
+3 gems of entrapment
+30 diamonds from midgaard
+ 
+The sample shown here has grown dim and useless with age,
+but with the right skills, this legendary tool could still
+be forged.
+ 
+Good luck!"
+~
+#0
+
+
+
+#ROOMS
+#4700
+On the Sea~
+On the horizon, you can make out distant sailing ships through the
+outline of an island.  To all other directions you see nothing but an
+endless expanse of water.  Gulls scream overhead.  By your feet a bottle
+bobs in the current.  You can see a note in the bottle.  
+~
+0 0 6
+E
+bottle~
+A note has been carefully tucked into the bottle and left floating on the
+sea water. The note says:
+     Prepare thee to learn the secrets of the Isles of the Blessed
+     known also as Atlantis.  Researched and constructed by Liceo.
+~
+E
+note~
+A note has been carefully tucked into the bottle and left floating on the
+sea water. The note says:
+     Prepare thee to learn the secrets of the Isles of the Blessed
+     known also as Atlantis.  Researched and constructed by Liceo.
+~
+D0
+~
+~
+0 0 4701
+D1
+~
+~
+0 0 4827
+S
+#4701
+Waters near Atlantis~
+The seas here recede slightly and become murkier as the water finds
+itself closer to a shoreline.  Beneath the water's surface, you can see
+multicolored fish swimming by beautiful coral formations.  The fog clears
+somewhat to reveal a definite land mass to the north.  Back south, and
+everywhere else, you see only mile upon mile of clear blue sea.  The outline
+of sailing ships becomes clearer in the distance.  
+~
+0 0 6
+D0
+~
+~
+0 0 4702
+D2
+~
+~
+0 0 4700
+S
+#4702
+South shores of Atlantis~
+The water here is not nearly as deep as it is to the south.  Further
+north, the waters crest and lap against the sandy beaches of a large island.
+On the horizon you can see that there are buildings on the island.  You
+suddenly realize that there are no birds calling anymore.  Apart from the
+dull roar of the sea, there is an eerie silence about this beach.  
+~
+0 0 6
+D0
+~
+~
+0 0 4703
+D2
+~
+~
+0 0 4701
+S
+#4703
+South of Atlantis~
+The air is very warm and humid here. There is sand to the east and to the
+west.  The sound of water licking at the beach shores comes from the south. 
+To the north, you can see what looks like a great gateway, with a gigantic
+pillar on each side.  
+~
+0 0 0
+D0
+~
+~
+0 0 4742
+D1
+~
+~
+0 0 4704
+D2
+~
+~
+0 0 4702
+D3
+~
+~
+0 0 4708
+S
+#4704
+On the southern shore~
+You are feeling the wear of the constant beating sun.  You wish you could
+simply lie down in the sea and forget about everything.  The clear blue
+waters look so relaxing...  Be careful that you don't stumble on the thin,
+sharp rocks jutting from the sand.  
+~
+0 0 0
+D1
+~
+~
+0 0 4705
+D3
+~
+~
+0 0 4703
+S
+#4705
+The southern beach~
+The beach is warm and humid.  There is sand to the east and to the west. 
+The sound of water licking at the beach shore comes from the south.  To the
+north is a forest, with beautiful fruit trees, obscuring your vision
+in that direction.
+~
+0 0 0
+D0
+~
+~
+0 0 4813
+D1
+~
+~
+0 0 4706
+D3
+~
+~
+0 0 4704
+S
+#4706
+A rocky path~
+The sandy beach becomes grainier as you hike up onto a course path set in
+the ground.  The inviting aroma of fresh pomegranates emanates from the
+trees up north.  A cool sea breeze, said to be of Selina, gives you the
+opportunity to relax a moment as you travel through the hazy climate of this
+island.
+~
+0 0 0
+D1
+~
+~
+0 0 4707
+D3
+~
+~
+0 0 4705
+S
+#4707
+The Southeastern Shore~
+The beach is hot and humid.  From the south and the east, you hear the
+sound of water lapping at the shore.  To the north and to the west, your
+view is filled with only the sandy beach and the trees in the distance.  You
+have reached a corner of the island, and you see that travelling further
+north will bring you toward rockier terrain.  You hear faint sounds of
+activity over the dull roar of the surf.  
+~
+0 0 0
+D0
+~
+~
+0 0 4741
+D3
+~
+~
+0 0 4706
+S
+#4708
+On the Southern Shore~
+A palm tree gives you some relief from the heat.  Although the palm tree
+before the southern waves is classic, the orange trees to the north are more
+interesting for their promise of a refreshing snack.  You stop for a moment
+to marvel at the patterns made by creatures on the sandy beach.  
+~
+0 0 0
+D1
+~
+~
+0 0 4703
+D3
+~
+~
+0 0 4709
+S
+#4709
+On the Southern Shore~
+You notice a few signs of habitation here, such as old twine and broken
+fish nets.  The wind and sand have obscured any other signs that may have
+been here.  For an inhabited island, this area seems strangely quiet.  
+~
+0 0 0
+D1
+~
+~
+0 0 4708
+D3
+~
+~
+0 0 4710
+S
+#4710
+On the Southern Shore~
+The beach is hot and humid.  There is sand to the east and to the west. 
+The sound of water licking at the beach shore comes from the south.  To the
+north are beautiful fruit trees obscuring your vision.  You can see evidence
+that there was activity here once -- a child's sand castle, and some faint
+footprints.  The smell of salt air is strong as a slight breeze cools you.
+~
+0 0 0
+D1
+~
+~
+0 0 4709
+D3
+~
+~
+0 0 4711
+S
+#4711
+The Southwestern Beach~
+All around you the beach is hot and humid.  You see more beach to the
+north and to the east.  A dense forest full of beautiful fruit trees lies
+northeast of here.  The area is filled with the sound of water lapping
+against the sandy shores.  
+~
+0 0 0
+D0
+~
+~
+0 0 4712
+D1
+~
+~
+0 0 4710
+S
+#4712
+On the Western Shore~
+Surely this island is the most beautiful place in the world.  The weather
+is warm and the trees are swaying in the breeze.  To the west lies a
+seemingly endless expanse of warm blue water, and to the east lie orange
+trees by the dozen.  Yet something remains that makes you feel
+uncomfortable...  
+~
+0 0 0
+D0
+~
+~
+0 0 4713
+D2
+~
+~
+0 0 4711
+S
+#4713
+Western Shore by the Forest~
+The sand fills in your footsteps behind you as you walk.  The ocean view
+to the west is scenic and the orange trees to the east seem promising. 
+Other fruits catch your eye from the trees growing in the dense forest.  The
+horizon is definitely filled with the silhouettes of sailing ships, and you
+hear activity further north.  
+~
+0 0 0
+D0
+~
+~
+0 0 4714
+D2
+~
+~
+0 0 4712
+S
+#4714
+Past the South Forest~
+The sand feels hot beneath your feet.  To the west, the sun sparkles off
+the ocean and the fruit scented breeze reaches you from the grove to the
+east.  North and south, the beach stretches on.  It begins to smell of
+rotting fish.  The beach is littered with broken sea shells and even a few
+orange peels.
+~
+0 0 0
+D0
+~
+~
+0 0 4715
+D2
+~
+~
+0 0 4713
+S
+#4715
+By the Shipyard~
+You stop for a rest and step under the shade of a nearby pomegranate
+tree.  The humidity is beginning to feel uncomfortable, and you are grateful
+for the cool breezes that occasionally sail your way.  With those breezes
+waft the sounds of activity from the north.  You hear the distinct sounds of
+clothwork and construction.  
+~
+0 0 0
+D0
+~
+~
+0 0 4716
+D2
+~
+~
+0 0 4714
+S
+#4716
+West Atlantis Construction Yard~
+As you approach you notice a flurry of activity to the north.  This is
+the western sea port, one of the activity centres of the island.  You hear
+the sounds of construction as ships are being built in the yards.  The scent
+of fabric is also strong in the air as sails flap in the wind.  The cool
+shade of a fruit tree beckons you to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 4717
+D2
+~
+~
+0 0 4715
+S
+#4717
+Western Sea Port~
+What you first believe to be a large building turns out to be a large
+ship docked at the port.  The beach becomes firmer and graduates into
+a stone roadway leading east toward the inner city gates.  There is a
+great deal of movement as people carry barrels and crates to load and
+unload the many ships docked here.  As you look out into the western
+horizon, you notice many more ships out on the sea.
+~
+0 0 0
+D0
+~
+~
+0 0 4718
+D1
+~
+~
+0 0 4744
+D2
+~
+~
+0 0 4716
+S
+#4718
+West Atlantis Docks~
+You step out onto a wooden walkway that leads west into the sea and forms
+a pier where ships dock and unload.  The planks lead north for some distance
+and recede back into a stone walkway leading east into the city.  As you
+walk by, you come across a number of sailors angrily pushing their way past
+as they gather toward a run-down sailboat at the pier.  There is talk of the
+boat, whose origin is unknown.  You sense distaste and wisely back away.  
+~
+0 0 0
+D0
+~
+~
+0 0 4719
+D2
+~
+~
+0 0 4717
+S
+#4719
+The Old Dock~
+The wooden platform coming from the sea port ends abruptly here, turning
+back onto coarse, rocky beach.  There are a few trees here, but nothing like
+the dense forests you see further south.  This used to be a part of the busy
+sea port, until some years ago when it was suddenly abandoned.  A metal
+grating covers a large hole which appears to lead underground to the sea.  
+~
+0 0 0
+D0
+~
+~
+0 0 4720
+D2
+~
+~
+0 0 4718
+S
+#4720
+Beach Dunes~
+If you wondered at all where the island inhabitants put all the sand they
+dug out to make their western sea port, you wonder no more.  The beach
+changes from flat sands to large, hilly sand dunes.  The winds and the tides
+have formed fascinating patterns in the sand, leaving behind shell fragments
+and seaweed.  The city walls lie to the east, and an unending expanse of
+water fills your view to the horizon.  To the south, the western sea port
+bustles with activity.  
+~
+0 0 0
+D0
+~
+~
+0 0 4721
+D2
+~
+~
+0 0 4719
+S
+#4721
+Green Sands~
+The constant pounding of the surf along the beach sands often drags sea
+vegetation along the sand, staining it with a bit of a green colour.  The
+air here seems stiller than it was before.  You cannot place anything
+specific, but you feel as though there is tension in the air.  You also feel
+as though you are being watched...  
+~
+0 0 0
+D0
+~
+~
+0 0 4722
+D2
+~
+~
+0 0 4720
+S
+#4722
+The Shallow Cliffs~
+You cannot escape the feeling that you are being watched as you explore
+the northern area of the beach.  Something in the air doesn't seem quite
+right, and it's not just the smell of dead fish.  You ponder this carefully
+as you look over the edge of the island, which drops sharply here about 20
+feet to meet the seas.  You marvel at the way the sea water has cut patterns
+into the sedimentary rock.
+~
+0 0 0
+D0
+~
+~
+0 0 4723
+D2
+~
+~
+0 0 4721
+S
+#4723
+The Northwest Corner~
+You step back and take in the view of the entire island as your eyes
+sweep the horizon.  It's no wonder they call this place the Fortunate
+Islands.  You imagine that the social and economic culture of the city of
+Atlantis must be thriving.  The city looks majestic, and the seaport to the
+south looks particularly interesting.  There are people on the beach to the
+east.  
+~
+0 0 0
+D1
+~
+~
+0 0 4724
+D2
+~
+~
+0 0 4722
+S
+#4724
+The Fishing Rocks~
+You step onto a set of large rocks which jut out of the island forming a
+shallow cliff hanging over the sea.  You are not alone here; fishermen are
+spread among the rocks trying to catch enough to sell at the market.  A
+fisherman casts his line and you narrowly miss being hooked.  Perhaps you
+should keep your distance.  
+~
+0 0 0
+D1
+~
+~
+0 0 4725
+D3
+~
+~
+0 0 4723
+S
+#4725
+The Fishing Rocks~
+The island is not nearly as sandy here as it is further south.  Instead,
+you step onto a plateau of large rocks which form a cliff about 30 feet
+high.  Below you, the sparkling waters of the clear, blue sea lap at the
+shores.  This spot is popular with the local fisherman, and you see a number
+of them resting by the rock edges.  Their lines have been cast out and form
+glistening threads in the air, catching the sun.  
+~
+0 0 0
+D1
+~
+~
+0 0 4726
+D3
+~
+~
+0 0 4724
+S
+#4726
+The Forest by the Clearing~
+Your path along the northern city perimeter takes you into another dense
+forest full of fruit trees in their prime.  You look around, as you stop
+for a rest in the shade of a nearby orange tree.  To the west lies a fishing
+rock which appears to be well-occupied, a path leads south toward the city
+gates, and more beach lies further east.
+~
+0 0 0
+D1
+~
+~
+0 0 4727
+D2
+~
+~
+0 0 4743
+D3
+~
+~
+0 0 4725
+S
+#4727
+Northern Forests~
+The vegetation gets thicker here, a result of the years of growth in the
+sun and nutrients offered by this particular area.  You see a clearing to
+the east, which leads back into more forest as you approach the corner of
+the island.  To the west, you see a path leading into the city's north
+entrance.  You hear the sound of a sailing ship making its way across the
+sea somewhere to the north.
+~
+0 0 0
+D1
+~
+~
+0 0 4728
+D3
+~
+~
+0 0 4726
+S
+#4728
+A Clearing in the Forest~
+You are in a small natural clearing.  It's a nice place to relax
+after the huge amount of tension you sensed earlier among the
+villagers. The trees around you provide shade, and you feel
+very sleepy...
+~
+0 0 0
+D1
+~
+~
+0 0 4730
+D3
+~
+~
+0 0 4727
+S
+#4729
+East Atlantis Trade Centre~
+Money-changers line the inside walls of this modern-looking business
+complex, as Atlantians of all backgrounds come to trade.  You hear the
+sounds of coins being exchanged, papers ruffled, and the murmurs of the
+well-dressed nobles as they ponder the stock lists which are posted on the
+walls.  A sign nearby catches your attention.  
+~
+0 4 1
+E
+sign~
+The sign says,
+ 
+Welcome to the First National Bank of Atlantis!  We invite you to perform
+your transactions with us.  Our network allows you to access your account
+from ANY bank branch!
+ 
+deposit - deposit silver coins into your account
+withdraw - withdraw silver coins
+balance - check your balance
+~
+D3
+~
+~
+0 0 4759
+S
+#4730
+The Northeast Corner~
+You have reached one of the four corners of the island.  That's a long
+walk; you take a quick rest under the shade of a tree.  The breezes soothe
+you as you contemplate snacking on a juicy orange.  Your decision is made
+much easier when an overripe orange falls from the tree and hits you on the
+head.    
+~
+0 0 0
+D2
+~
+~
+0 0 4731
+D3
+~
+~
+0 0 4728
+S
+#4731
+By the Watchtower~
+A noise from somewhere far above you catches your attention.  You turn to
+see a large watchtower erected at the corner of the city walls.  You can't
+see well enough from here, but you can be sure that someone up in the tower
+can see you...  There is forest in just about every direction except the
+east, from which the sound of water is heard, lapping at the beach shore.  
+~
+0 0 0
+D0
+~
+~
+0 0 4730
+D2
+~
+~
+0 0 4732
+S
+#4732
+Path by the City Wall~
+To the south, you can still hear the bustle of the fishermen and sailors.
+It's not the normal excited, energetic sounds you're used to though.  You
+wonder what has made these islanders so grim.  Your mind quickly strays to
+more pleasant topics.  The beautiful scenery around you is hard to ignore.  
+~
+0 0 0
+D0
+~
+~
+0 0 4731
+D2
+~
+~
+0 0 4733
+S
+#4733
+Dense Forest~
+You continue on your journey and discover even more lush, green
+vegetation growing by the sandy beach.  The climate here seems well-suited
+to these large, abundant fruit trees.  You recognize many of their offerings
+but there are still some fruits that you don't recognize.  Perhaps you
+should stop and... get acquainted with them.
+~
+0 0 0
+D0
+~
+~
+0 0 4732
+D2
+~
+~
+0 0 4734
+S
+#4734
+The Fish Market~
+Here in the outdoor market, many fishermen have set up stands along the
+quay, peddling their wares to hungry sailors and passers-by.  You can choose
+from a hearty selection of fresh saltwater fish, some shellfish, and even a
+few cooked seafood dishes, ready to eat.  The aroma is mouth-watering, and
+you suddenly feel ravenously hungry.  
+~
+0 0 0
+D0
+~
+~
+0 0 4733
+D2
+~
+~
+0 0 4735
+S
+#4735
+A Docked Fishing Boat~
+The heart of the eastern fishery lies to the south.  You can hear a lot
+of activity coming from the fishing boats out in the sea.  A small sailboat
+is perched precariously by the shore, tied down with a rope to a nearby
+tree.  Its nets are well used and smell of their catch.  Fishermen from the
+boat are on shore, preparing their fish to be sold and to be cooked.  It
+smells even more strongly of fish further north. 
+~
+0 0 0
+D0
+~
+~
+0 0 4734
+D2
+~
+~
+0 0 4736
+S
+#4736
+The Fishery~
+Ships are anchored out in the sea just east of here.  It is a perfect
+fishing spot, and the bulging nets the men draw in are distinct proof of
+that fact.  Most of these boats have identifying markings of Atlantis
+itself, so they must have sailed here from the sea port to the west.  They
+don't come too close to shore, though; it's very rocky in the water near the
+shore, and not terribly safe for approaching ships.  
+~
+0 0 0
+D0
+~
+~
+0 0 4735
+D2
+~
+~
+0 0 4737
+D3
+~
+~
+0 0 4745
+S
+#4737
+By the Fishery~
+The people here are hard at work, not stopping to chat, not playing.  It
+looks as though everybody is preparing for something.  Nervous sailors keep
+their eyes trained on the horizons, scouting for that which you know nothing
+about.  The fishing boats, which have sailed here from the sea port to the
+west, haul in their daily catch quickly, and efficiently.  There is little
+celebrating over good catches, like you might expect.  These men are
+unsettled.  Perhaps it is your presence that bothers them.  After all,
+you're not supposed to be here... 
+~
+0 0 0
+D0
+~
+~
+0 0 4736
+D2
+~
+~
+0 0 4738
+S
+#4738
+Near the Fishery~
+Splashing.  People shouting.  Nets flapping.  Sails being blown by the
+wind.  Barrels creaking.  Ropes being pulled and scraped along the sides of
+boats.  The air is filled with the sound of activity as you approach the
+eastern fishery.  An inviting cool breeze brings with it the smell of fresh
+sea air, and freshly caught fish.  
+~
+0 0 0
+E
+wall~
+~
+E
+wall~
+There is some writing engraved neatly onto one of the clay bricks in the
+wall.  It reads:
+   "Here, 'mid the bleak waves of our strife and care,
+    float the green 'Fortunate isles,'
+    Where all thy hero-spirits dwell and share
+    Our martyrdoms and toils.
+    The present moves attended
+    With all of brave and excellent and fair
+    That made the old time splendid."
+~
+D0
+~
+~
+0 0 4737
+D2
+~
+~
+0 0 4739
+S
+#4739
+By the City Wall~
+The forest that was so much denser and so lush down to the south thins
+out a little bit here, a remnant from the days when Atlantis's strong outer
+walls were being constructed.  Through the gaps in the forest you can see
+the sunlight reflecting off the clear blue waters to the east, making it
+seem much brighter than it really is.  The walls here loom high above you,
+offering great protection to its inhabitants.  There is something written on
+the wall.
+~
+0 0 0
+E
+wall~
+There is some writing engraved neatly onto one of the clay bricks in the
+wall.  It reads:
+   "Here, 'mid the bleak waves of our strife and care,
+    float the green 'Fortunate isles,'
+    Where all thy hero-spirits dwell and share
+    Our martyrdoms and toils.
+    The present moves attended
+    With all of brave and excellent and fair
+    That made the old time splendid."
+~
+D0
+~
+~
+0 0 4738
+D2
+~
+~
+0 0 4740
+S
+#4740
+A Small Inlet~
+The island forms a bit of an inlet here, almost as if something had taken
+a bite out of the western shore.  Given your choice of wading through the
+cool, refreshing water or hiking through the dense forest and rocks, you
+choose the easy course.  The water feels great as you relax and take a rest
+from the humid sea air.  
+~
+0 0 0
+D0
+~
+~
+0 0 4739
+D2
+~
+~
+0 0 4741
+S
+#4741
+Southeastern Forest~
+As you travel through this corner of the island you depart from the hot
+sands and travel through a path of the southern forest that extends all the
+way to the water's edge.  The pomegranates and oranges are ripe and look
+delicious.  Clear blue water peeks through cracks in the forest.  You feel
+like taking a swim.
+~
+0 0 0
+D0
+~
+~
+0 0 4740
+D2
+~
+~
+0 0 4707
+S
+#4742
+Main Gates of Atlantis~
+You have come to the front gate of Atlantis.  To both sides of you are
+great pillars carved of a single piece of coral. The great gates stand
+before you, and the guards on both sides seem somewhat nervous. You wonder if
+maybe they're expecting company...
+~
+0 0 1
+D0
+~
+~
+4 4742 4812
+D2
+~
+~
+0 0 4703
+S
+#4743
+Northern gate of Atlantis~
+You have come to the northern gate of Atlantis.  To both sides of you are
+great pillars carved of what appears to be a single piece of coral.  The
+gates are generally kept closed, opening only to let in the fishermen that
+wander toward the beach and forests.  The guards on both sides of the gate
+stand alertly, ready to react to any intrusion.  
+~
+0 0 0
+D0
+~
+~
+0 0 4726
+D2
+~
+~
+1 0 4764
+S
+#4744
+Western Gate of Atlantis~
+You travel along the road and come to a large set of coral pillars. 
+They tower majestically above you, enclosing a set of heavy iron gates.  The
+gate is closed, securely locked, and heavily guarded as well.  A side
+entrance is open to allow activity through the ports, but the guards there
+are very wary of intruders.  These people take their city's security quite
+seriously.  
+~
+0 0 0
+D1
+~
+~
+1 4745 4746
+D3
+~
+~
+0 0 4717
+S
+#4745
+Eastern Gate of Atlantis~
+The nature of the area surrounding the city wall means that this entrance
+to Atlantis is not heavily used, but it is nonetheless guarded just as
+astutely.  The heavy gates are enclosed by two towering pillars carved of
+single pieces of coral.    
+~
+0 0 0
+D1
+~
+~
+0 0 4736
+D3
+~
+~
+1 4745 4755
+S
+#4746
+Inside the Western Gates~
+You afford yourself a moment of satisfaction, looking at all the
+precautions in place to keep people out.  You, however, have your means. 
+You stand along the main road running east-to-west, and you can vaguely see
+the eastern city gates from here.  Many residents travel along the wide
+stone road, turning into the great number of shops along the streets.  
+~
+0 0 1
+D0
+~
+~
+0 0 4786
+D1
+~
+~
+0 0 4747
+D3
+~
+~
+1 4745 4744
+S
+#4747
+On the Western Road~
+To the west you can see the gates, and the guards by it seem markedly
+nervous.  You consider asking them why, but it occurs to you that they may
+not take kindly to your intrusion.  You continue to walk along buildings on
+each side, and the almost abandoned square to the east.  A lot of men
+carrying crates turn into the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 4785
+D1
+~
+~
+1 0 4748
+D2
+~
+~
+0 0 4784
+D3
+~
+~
+0 0 4746
+S
+#4748
+Travelling Along West Main~
+What used to be a central district in Atlantis is now a very quiet
+square.  The statue you see in the square seems to represent a historical
+figure, likely a prominent, former ruler.  That era resulted in marked
+changes in the political and economical atmosphere here, and this area has
+become a monument to those great days.  A classy looking establishment lies
+to the north.
+~
+0 0 1
+D1
+~
+~
+0 0 4749
+D3
+~
+~
+1 0 4747
+S
+#4749
+By the Crossroads~
+The paved brick road reflects sun into your eyes, and the tall
+surrounding buildings add to the glare.  The streets are magnificent,
+embracing natural vegetation with artistic stone carvings in the walls.  A
+great statue is visible in the square to the west, and the centre of the
+city is to the east.
+~
+0 0 1
+D1
+~
+~
+0 0 4750
+D3
+~
+~
+0 0 4748
+S
+#4750
+Crossroads~
+Arguably the busiest part of town, this intersection is, at the very least,
+among the most travelled parts of town.  The main road leads both east and
+west from here, and you can make out another twin street to the north.  The
+neighbourhood to the south looks like the political centre of Atlantis, and
+thus only the highly respected are seen travelling through.
+~
+0 0 1
+D0
+~
+~
+0 0 4756
+D1
+~
+~
+0 0 4751
+D2
+~
+~
+0 0 4765
+D3
+~
+~
+0 0 4749
+S
+#4751
+Approaching the Intersection~
+People mill about doing their business as you approach a busy
+intersection to the west.  You cannot help but admire the great design of
+Atlantis and each of its buildings, exquisitely designed from coral and fine
+wood.  A great temple spire towers above you to the south.  The large
+building sits here on the corner and extends further east.
+~
+0 0 1
+D1
+~
+~
+0 0 4752
+D3
+~
+~
+0 0 4750
+S
+#4752
+The Heart of East Main~
+You stop here for a moment, and look at the fine building beside you. 
+Carved directly into the coral are scenes probably coming from the ancient
+myths of these people.  Battles, maidens, beasts...  Everything imaginable. 
+And the workmanship is surely among the best you've ever seen.  The wooden
+door leading south is carved with strange looking, seemingly ancient runes. 
+~
+0 0 1
+D1
+~
+~
+0 0 4753
+D2
+~
+~
+0 0 4779
+D3
+~
+~
+0 0 4751
+S
+#4753
+The Eastern Road~
+There's a strange heaviness to the air here.  You feel like things here
+aren't entirely as they seem.  Even the hustle of people through the streets
+is strangely muted and passive.  The road continues to the east and west,
+great gates visible in both directions.  The white noise of running water
+seems only to add to the peculiar atmosphere.
+~
+0 0 1
+D1
+~
+~
+0 0 4754
+D3
+~
+~
+0 0 4752
+S
+#4754
+Near the City Gates~
+As you continue your walk down East Main street, you look back and marvel
+at the beautiful blending of man and nature. Lush vegetation grows easily
+amongst the golden white buildings which tower above you.  The eastern city
+gates are clearly visible from here.  
+~
+0 0 1
+D0
+~
+~
+0 0 4789
+D1
+~
+~
+0 0 4755
+D3
+~
+~
+0 0 4753
+S
+#4755
+Inside the Eastern Gates~
+People walking casually by the gates stare at you, as they see you are
+obviously not a local.  They do not take kindly to outsiders.  However, they
+also put strong faith in the gatekeepers, so they carry on.  You alone know
+how you really bought your entrance.  The main road runs west from here and
+you can make out the other city gate at the end of the road.  
+~
+0 0 1
+D1
+~
+~
+1 4745 4745
+D2
+~
+~
+0 0 4790
+D3
+~
+~
+0 0 4754
+S
+#4756
+The Wide Intersection North~
+You are standing in what appears to be the widest road in the city.  The
+twin roads of the commercial areas join together through this connecting
+path, well travelled by all kinds of people.  The paved roads to the south
+and the stone roads of the north majestically lead toward the very edges of
+the city.  The tall, yellowing, stone buildings reflect sunlight in your eyes.
+
+~
+0 0 1
+D0
+~
+~
+0 0 4757
+D1
+~
+~
+0 0 4791
+D2
+~
+~
+0 0 4750
+S
+#4757
+North Main and Parallel Roads~
+North Main street ends here, intersecting with another large street which
+runs east and west, parallel to Main Street.  Somewhere north, you see
+another road which leads to the northern gates, the beach, and ultimately to
+the sea.    
+~
+0 0 1
+D0
+~
+~
+0 0 4770
+D1
+~
+~
+0 0 4758
+D2
+~
+~
+0 0 4756
+D3
+~
+~
+0 0 4760
+S
+#4758
+Along Parallel East~
+The wide-laned road runs east a few blocks before ending at a polished
+looking building.  Along the sides of the road you see a number of shops
+and storefronts, from modern boutiques to more antiquated businesses.
+~
+0 0 1
+D0
+~
+~
+0 0 4768
+D1
+~
+~
+0 0 4759
+D2
+~
+~
+0 0 4769
+D3
+~
+~
+0 0 4757
+S
+#4759
+The Centre of the Commercial District.~
+The road gets busier as people walk through the district, getting their
+errands done.  Whether it's a new set of armour or some beautiful
+adornments, it looks like the shops here sell it all.  Well-dressed
+gentlemen curse as they examine some sort of poster to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 4767
+D1
+~
+~
+0 0 4729
+D2
+~
+~
+0 0 4766
+D3
+~
+~
+0 0 4758
+S
+#4760
+An Intersection at Parallel West~
+The roads here form an irregular intersection which leads north toward a
+city gate and southeast to the other twin road.  This particular region is
+populated by a number of folks shopping in the markets for the best
+offerings in food and drink.  To the east lies the commerce district, where
+you can shop for Atlantian artifacts and do your trading.
+~
+0 0 1
+D0
+~
+~
+0 0 4772
+D1
+~
+~
+0 0 4757
+D2
+~
+~
+0 0 4771
+D3
+~
+~
+0 0 4761
+S
+#4761
+At the end of Parallel West~
+The older part of town, this block looks slightly run down.  The stone
+roads are slightly irregular, and the shops surrounding you have creaky,
+dilapidated looking walls.  Still, this area has a particular charm about it
+which draws a fair share of loyal visitors.  Great smells waft toward you
+from the north and south.  The road continues east into the distance.  
+~
+0 0 1
+D0
+~
+~
+0 0 4774
+D1
+~
+~
+0 0 4760
+D2
+~
+~
+0 0 4773
+D3
+~
+~
+0 0 4762
+S
+#4762
+Abandoned~
+Who knows what used to be here?  What looks like an old storefront has
+been long closed down.  Cobwebs cover the ceilings and corners, wooden
+beams have fallen across the room and shattered glass lies on the floor. 
+Wooden crates are still stacked along the back wall.  You notice, oddly,
+that although a thick layer of dust covers the counters, you leave no
+footprints on the floorboards.  
+~
+0 0 1
+D1
+~
+~
+0 0 4761
+S
+#4763
+Toward the North Gate~
+The road widens as it takes you further into the northern district of
+Atlantis.  Made of clean brick, it looks well-used by the pedestrian market
+and fishermen.  Sounds of happy activity can be heard to the south, and the
+sounds of the surf emanate from north.  
+~
+0 0 1
+D0
+~
+~
+0 0 4764
+D2
+~
+~
+0 0 4772
+S
+#4764
+Inside the Northern Gates~
+You find yourself staring in awe at the sight arranged before you.  The
+smell of fish is distinct in the air, likely a side-effect of having the
+fishing rocks so close.  Sunlight casts a golden gleam on the surfaces of
+the city walls, which neatly line a small road beckoning you toward shops
+and other buildings. 
+~
+0 0 1
+D0
+~
+~
+1 0 4743
+D1
+~
+~
+0 0 4795
+D2
+~
+~
+0 0 4763
+D3
+~
+~
+0 0 4802
+S
+#4765
+On South Main~
+There's something about this place that is distinctively different from
+the rest of the city.  You sense a sort of apprehension among the people
+here, mostly uniformed citizens.  Along both sides of the road stand
+unmarked buildings which look as though they may be shops of some kind.
+~
+0 0 0
+D0
+~
+~
+0 0 4750
+D2
+~
+~
+0 0 4778
+M 0 H 0
+S
+#4766
+Ruth's Jewelry Shop~
+At closer glance, "Jewelry Shop" seems slightly too broad a description. 
+Ruth, an amiable looking elf, stands behind her wares, which include mostly
+pearls with scatterings of carved and patterned coral.  She must have
+settled here long ago before the island became so inhospitable to strangers.
+~
+0 8 1
+D0
+~
+~
+0 0 4759
+S
+#4767
+Wizard's Emporium~
+The room smells oddly of something burning, and in the background you
+hear liquids bubbling and boiling.  The walls of this old building are
+covered in scrolls bearing odd runes and inscriptions of an ancient
+language.  You sense something powerful in here.  Shelves behind a counter
+are well-stocked with vials, scrolls, and wands of all sorts.
+~
+0 8 1
+D2
+~
+~
+0 0 4759
+S
+#4768
+The Antique Armory~
+Something smells...  Old.  No wonder, since all of the gear you see on
+display has got to be decades old, at the very least!  This antique store
+could almost be a museum of olden-day fighting garb.  Still, some of the
+metalwork looks sturdy and could probably be useful in battle today.
+~
+0 8 1
+D2
+~
+~
+0 0 4758
+S
+#4769
+Ye Olde Weaponnery~
+This store, while as modern as the rest of the buildings on this street,
+specializes in the old and antiquated.  On the back walls you see various
+weapons from previous eras of Atlantis' history.  They go back from crude
+slingshots to various forms of knives and swords.  The shopkeeper looks like
+he could be a retired soldier.  He probably knows the history of every one
+of these artifacts.  
+~
+0 8 1
+D0
+~
+~
+0 0 4758
+S
+#4770
+Lydia's Tailor Shop~
+You see an incredible amount of luxurious-looking fabric in rolls behind
+the counter of this shop.  A lot of it is purple in colour, silky, with gold
+highlights along the edges.  It looks fit for royalty!  You imagine that
+Lydia, the elderly shopkeeper, must be well-off.  Her skilled hands weave
+more of the delicate refinements into the robe she is currently working on. 
+~
+0 0 0
+D2
+~
+~
+0 0 4757
+S
+#4771
+An Ancient Apothecary~
+An energetic hag of a lady barks at you as you enter this shop, startling
+you.  You decide to ignore this questionable business practice and see what
+she's offering.  The herbs and spices you see on display look unremarkable,
+but the shopkeeper, who looks like a witch herself, assures you of their
+varied healing and restorative powers.  You consider the most diplomatic
+approach to making your exit.  
+~
+0 8 1
+D0
+~
+~
+0 0 4760
+S
+#4772
+Near Parallel Road~
+In between the buildings and the road are open-air markets selling fresh
+fruits picked from the forest, and fish from the sea.  The brick road you
+travel on approaches an intersection to a busier road to the south.  People
+mill briskly about you, shopping for food.  From the east, you hear sounds
+of singing and boisterous activity.  
+~
+0 0 1
+D0
+~
+~
+0 0 4763
+D1
+~
+~
+0 0 4775
+D2
+~
+~
+0 0 4760
+D3
+~
+~
+0 0 4776
+S
+#4773
+The Market Grille~
+Delicious aromas waft toward you, from the grill in the back. It smells
+like nothing you've ever experienced...  Meat, fried over charcoal with a
+tantalizing blend of spices mixed in. A swarthy young man stands in front
+working feverishly to supply the wants of his many customers.  
+~
+0 8 1
+D0
+~
+~
+0 0 4761
+S
+#4774
+Philindros' Wine Rack~
+Many old, wooden barrels rest in racks along the back of this aging shop
+building.  Dark, green bottles with colourful labels seem to beckon to you
+from the collections on the counter.  The wrinkled shopkeeper seems to know
+all about his wares.
+~
+0 8 1
+D2
+~
+~
+0 0 4761
+S
+#4775
+The outdoor fish market~
+One of the great staples of island cities is fish, and Atlantis is no
+exception.  Many of the vendors spend their mornings out by the beach
+catching fish, to sell here in the market around noon.  The smell of seafood
+is strong in the air, and many merchants try to persuade you to sample their
+wares.  Rowdy male banter can be heard from the stairs leading down.
+~
+0 0 1
+D3
+~
+~
+0 0 4772
+D5
+~
+~
+0 0 4777
+S
+#4776
+Max's Fruit & Nuts~
+It makes perfect sense for a fresh fruit market to be placed near the
+city gates.  The lush forests outside the city would provide a great stock,
+as would the less-obvious trees and plants that garner nuts of all sorts. 
+Mouth-watering selections are sorted in bins all around the market, with
+prices written on the front.  You longingly eye the bins of peanuts,
+cashews, macademias, and pecans.
+~
+0 0 1
+D1
+~
+~
+0 0 4772
+S
+#4777
+The Bull's Horn Pub~
+Who on earth decided to put a commoner's pub downstairs from a fish
+market?  The lanky, ruddy and often generously sized patrons wander in and
+out from the streets above.  The bartender, appropriately named Barabbas,
+laughs heartily as he serves drinks to his customers.  Occasionally a wife
+descends from the market to pull her reluctant companion back to the stores,
+which smell distinctly of fish.  Or is that just the man next to you?
+~
+0 8 1
+D4
+~
+~
+0 0 4775
+S
+#4778
+On South Main~
+You are approaching the Southern half of Atlantis, and the atmosphere
+is more and more militaristic. The way south seems to have been
+recently blockaded; there's no way you can pass. To the north you 
+return to the main street.
+~
+0 0 0
+D0
+~
+~
+0 0 4765
+S
+#4779
+The Great Temple~
+Right in the heart of the city, the temple stands tall and proud.  The
+inside is awesome to behold.  The high ceilings are painted with huge murals
+telling stories of ancient Atlantis.  The stained-glass windows are equally
+breathtaking.  Several people kneel by the altar, meditating.  It looks like
+this building could seat hundreds, and no doubt it does.  
+~
+0 8 1
+D0
+~
+~
+0 0 4752
+S
+#4780
+A Stone Road~
+This apparently well-travelled stone road has been laid down with
+remarkable precision, each stone matching those that surround it so
+perfectly that they leave hardly a crack between them.  To the east is a
+large stone tower.
+~
+0 0 1
+D1
+~
+~
+0 0 4782
+D3
+~
+~
+0 0 4781
+S
+#4781
+A well kept road~
+You're walking along a wide, much-travelled road.  It's clean, but the
+color and style are very uniform, and somewhat drab.
+~
+0 0 1
+D1
+~
+~
+0 0 4780
+D3
+~
+~
+1 0 4899
+S
+#4782
+The southeast tower~
+This is the base of one of Atlantis' two southern watch towers.  There's
+a ladder leading up to the top of the tower.  The room is totally empty,
+giving it a rather odd echo. You seem to hear a noise from below you.
+~
+0 8 1
+D3
+~
+~
+0 0 4780
+D4
+~
+~
+0 0 4783
+D5
+~
+~
+1 0 4794
+S
+#4783
+Southeast watch tower~
+You're half way up the tower in a small empty room.  Looking down you see
+the base of the tower.  Above you, is the top of the tower, where they send
+scouts to watch for incoming ships.
+~
+0 8 1
+D4
+~
+~
+0 0 4793
+D5
+~
+~
+0 0 4782
+S
+#4784
+The Old City Hall~
+The aging brick and stone building still stands dignified here in the
+west of the city.  During days long before, this was the center of Atlantis'
+government.  You can make out faded murals that were once painted on the
+walls.  No longer of importance, this building now serves as a museum,
+sharing the stories and reminding the people of the Days of Glory.  
+~
+0 0 1
+D0
+~
+~
+0 0 4747
+S
+#4785
+The Greater Atlantis Shipping Co.~
+The burly sailors coming in from the west docks stop in this old wooden
+building, which smells readily of sea scum and tobacco.  Crates, barrels and
+sacks lie stacked in the back of the warehouse.  You can only imagine what
+their contents may be.  Off to the side, some tired seamen relax, talk and
+smoke their pipes contentedly.  Papers are posted on the walls listing the
+scheduled deliveries and drop-offs.  
+~
+0 0 1
+D2
+~
+~
+0 0 4747
+S
+#4786
+Boat Registration~
+A number of people line up at the desks in this small office, filling in
+registrations and applying for the necessary permits to dock their boats in
+the marina.  These people look like they come from all walks of life, from
+the lower-class fishermen to the nobles with their yachts, to family men
+with their sailboats.  A few boats are listed for sale at a side kiosk.  
+~
+0 0 0
+D2
+~
+~
+0 0 4746
+S
+#4787
+unused~
+This shop could pass for the local bookstore, its shelves filled with
+scrolls, maps, and various other parchments.  Sections are laid out for
+clerics, mages, general interest, and tourism.  Identifying you as a
+newcomer, the shopkeeper waves toward you as she chats with two of her
+friends.  
+~
+0 32780 1
+S
+#4788
+The Mayor's Office~
+This small room, generously referred to as an office is really more
+accurately described as a cubicle.  There is a small desk and scant
+decoration.  
+~
+0 0 1
+D2
+~
+~
+1 0 4801
+S
+#4789
+Entrance to the Apartments~
+The large, towering building you saw outside seems to be a housing
+complex, and this is the main entrance.  Families and business people alike
+are constantly coming in and out of the double doors ahead of you, using
+their apartment keys to gain access.  While the door is open you catch a
+glimpse of great hallways and staircases leading to a number of apartments. 
+A sign marked 'No Vacancy' sits by the reception desk.  
+~
+0 8 1
+D2
+~
+~
+0 0 4754
+S
+#4790
+The Guardhouse~
+Guards dressed smartly in their military uniforms pass each other as they
+take their shifts patrolling the city and serving as gatekeepers.  This room
+seems to be overcrowded, since it looks like the security in the city has
+been recently stepped up.  A few civilians stand here consulting with the
+head soldier about some security matter.  A few burly men on break keep a
+watchful eye on you.  
+~
+0 8 1
+D0
+~
+~
+0 0 4755
+S
+#4791
+The Gymnasium~
+Not an athletic complex as you first believed, the Gymnasium is actually
+the formal education center for young Atlantians.  The sophists and tutors
+are well trained in ethics, geometry, government, and rhetoric.  The
+higher-class male children work here with their pedagogues.  You see other
+subjects being taught as well, such as grammar and music.  Philosophical
+writings from the great thinkers line the walls.  
+~
+0 8 1
+E
+wall~
+Better to do a little well, than a great deal badly.
+ 
+The unexamined life is not worth living.
+ 
+Living well and beautifully and justly are all one thing.
+~
+D3
+~
+~
+0 0 4756
+S
+#4792
+Unused~
+You've entered Atlantis' local pet shop.  In the back of the room you see
+a large iron door, looking fit to keep out an army.  Obviously the pets are
+kept behind it.  You feel glad that you're on THIS side of the door.  A sign
+on the wall lists the different pets you can buy.
+~
+0 32772 0
+E
+sign~
+Pets for sale:
+~
+M 0 H 0
+S
+#4793
+Top of the Tower~
+The scout on the top level of the tower stands watch over the beautiful
+city.  From here, you can see the ships out on the horizon, and
+the people wandering the main street.  The scout from the next tower waves
+at you, and you wave back, hoping not to call attention to yourself.  
+~
+0 0 1
+D5
+~
+~
+0 0 4783
+S
+#4794
+Cellar~
+You've entered a small room underneath the tower.  Several crates are
+stacked neatly against the wall, and a tunnel leads to the west.  The room,
+although damp and slightly musty, has been kept clean and you see no signs
+of neglect.  
+~
+0 8 0
+D3
+~
+~
+0 0 4798
+D4
+~
+~
+1 0 4782
+S
+#4795
+A narrow alleyway~
+You're in a narrow, but well kept avenue leading to a large tower.  The
+path is paved, and kept quite clean.  You notice that none of the citizens
+enter it, and they look worried to see you do so...  
+~
+0 0 1
+D1
+~
+~
+0 0 4796
+D3
+~
+~
+0 0 4764
+S
+#4796
+The narrow path by the tower~
+You stand before a solemn looking soldier, guarding the entrance
+to the tower. He looks grim, and you don't think he would take kindly to
+your attempting to pass him.
+~
+0 0 1
+D1
+~
+~
+0 0 4797
+D3
+~
+~
+0 0 4795
+S
+#4797
+The base of the tower~
+You've entered one of the four large towers that you saw from the
+outside.  They must be used by scouts for advance warning of attacks.  The
+room is small, and only vaguely lit.  It looks as if there has been
+recent activity here, and the grate on the floor has definitely been used
+recently.  There is a ladder on the wall leading up to the top of the tower.
+~
+0 8 1
+D3
+~
+~
+0 0 4796
+D4
+~
+~
+0 0 4800
+D5
+~
+~
+0 0 4799
+S
+#4798
+Underground Tunnel~
+This dark, underground tunnel seems to be an important factor of military
+life here.  It's well kept and leads to deep underneath the city.  You hear
+odd echos and what you presume to be footsteps.  
+~
+0 8 0
+D1
+~
+~
+0 0 4794
+D3
+~
+~
+0 0 4814
+S
+#4799
+The tower foundations~
+The bottom of this tower looks like it has been used as a storage area.
+Boxes and barrels have a rather dank aura about them, and you see a rat
+briefly duck behind something in the corner.  The room is lit only by the
+grating which sends light shafting in from the tower base.  A dark cavern
+seems to form to the west.
+~
+0 8 1
+D3
+~
+~
+0 0 4811
+D4
+~
+~
+0 0 4797
+S
+#4800
+In the watch tower~
+You're half way up the north-east tower.  The only light in the room
+comes from the small slits in the walls.  The ladder here is in bad repair
+and is missing a few rungs, but looks steady enough to trust with your
+weight.  The ladder continues up to the top of the tower.
+~
+0 8 1
+D4
+~
+~
+0 0 4801
+D5
+~
+~
+0 0 4797
+S
+#4801
+Top of the north-east tower~
+The view from here is incredible!  You can easily believe that the city
+will see attackers coming by sea or air several hours before their arrival. 
+The ocean stretches out in all directions like a shimmering emerald blanket,
+forming a marked contrast with the brown and black coast line of the island.
+The city itself seems much larger than you'd thought, there being a whole
+section of the city in the south that you'd not previously noticed.  There
+is a small door to the north.  
+~
+0 0 1
+D0
+~
+~
+1 0 4788
+D5
+~
+~
+0 0 4800
+S
+#4802
+A narrow alleyway~
+This alley seems to be almost a mirror image of the one you noticed to
+the east.  Its fastidiously well kept aura strikes of military use.  It
+leads to the north-west tower.
+~
+0 0 0
+D1
+~
+~
+0 0 4764
+D3
+~
+~
+0 0 4803
+S
+#4803
+Narrow alley in front of tower~
+You stand in front of a large watch-tower, with two grim soldiers staring
+down at you.  The tower is made of a dark stone, matching the city walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 4802
+D3
+~
+~
+0 0 4804
+S
+#4804
+The Base of the Tower~
+You have stepped into the ground floor of the watch tower.  It is very
+plain, with only a metal ladder leading down to the cellar, and leading up
+to the upper levels of the tower.  
+~
+0 0 1
+D1
+~
+~
+0 0 4803
+D4
+~
+~
+0 0 4806
+D5
+~
+~
+1 0 4805
+S
+#4805
+Beneath the Tower~
+You hear the echoing sound of water dripping from a ceiling somewhere nearby.
+A small metal ladder leads up to the base of the tower, and the dark
+shape of a tunnel opens up someplace toward the east.  The musty cellar
+is filled with containers and barrels, their contents a mystery.
+~
+0 8 1
+D1
+~
+~
+0 0 4808
+D4
+~
+~
+1 0 4804
+S
+#4806
+Up the ladder~
+The metal ladder continues in both directions, up toward the top of the
+tower and down to the base.  A small room forms the middle storey, but there
+is nothing here of interest.  A cool breeze wafts down from the opening
+above.  
+~
+0 0 1
+D4
+~
+~
+0 0 4807
+D5
+~
+~
+0 0 4804
+S
+#4807
+The top of the tower~
+You stand upon the top level of the north-west watch tower.  The four
+towers stand high above the city, affording their scouts a strategic vantage
+point.  You can see the whole island from up here.  
+~
+0 0 1
+D5
+~
+~
+0 0 4806
+S
+#4808
+The dark tunnel~
+The opening to the tunnel is illuminated only by the faint light which
+shines down from the west.  The damp, musty walls were crudely fashioned in
+typical military fashion: practical and no-nonsense.  It looks like it has
+been abandoned for any sort of practical device, but you see some footprints
+which seem fresh...  
+~
+0 8 1
+D1
+~
+~
+0 0 4809
+D3
+~
+~
+0 0 4805
+S
+#4809
+Deeper in the Tunnel~
+The tunnel here is dark and cold.  No light shines here, nor have they
+for a long time.  The stark walls are almost nondescript, with no markings
+of any kind.  The floor of the tunnel, made of packed dirt, has obviously
+been well used, but the fine layer of dust betrays its abandonment.  The
+markings in the dust, however, indicate otherwise.
+~
+0 8 1
+D1
+~
+~
+0 0 4810
+D3
+~
+~
+0 0 4808
+S
+#4810
+A blocked junction~
+You're in a dark and somewhat musty passageway beneath the city.  It was
+obviously used at one point by the city's military to get around without the
+hassle of the citizens above.  It looks like there was once a branch of this
+tunnel leading to the south, but it has been boarded up firmly and cannot be
+opened.  
+~
+0 8 1
+D1
+~
+~
+0 0 4811
+D3
+~
+~
+0 0 4809
+S
+#4811
+Near the junction~
+The tunnel is long, but not very wide.  It's not impossible to imagine it
+once being used to move troops across the city in times of war.  The stone
+walls would have offered them protection and covertness.  Faint glows of
+light are visible to the east and the west, but otherwise the tunnel is
+without light.  What appears to be a junction opens up in the west.  
+~
+0 8 1
+D1
+~
+~
+0 0 4799
+D3
+~
+~
+0 0 4810
+S
+#4812
+Inside the Gates of Atlantis~
+You almost fail to notice the blood stains on the gates which seem to
+indicate a past skirmish.  A great feeling of dread passes over you as
+you walk through the very plain and militaristic inner gate.
+~
+0 0 1
+D0
+~
+~
+0 0 4899
+D2
+~
+~
+4 4742 4742
+S
+#4813
+A Small Grove~
+You've entered a small, dimly lit clearing, surrounded by fruit trees
+of several types.  The trees block out the sun, and the temperature is at
+least several degrees lower than that of the beach.  You hear the scampering
+of small animals through the trees, obviously disturbed by your presence.
+~
+0 0 0
+D2
+~
+~
+0 0 4705
+S
+#4814
+A Junction in the Tunnel~
+The dank tunnel widens slightly here, and you see the markings made by
+the scuffing of boots in the dirt.  The area to the north looks like a dusty
+wall, but the thin outline of a door indicate otherwise.
+~
+0 8 0
+D0
+~
+~
+1 0 4822
+D1
+~
+~
+0 0 4798
+D3
+~
+~
+0 0 4815
+S
+#4815
+Tunnel~
+You're passing through a dark and, although well taken care of, somewhat
+musty tunnel that leads under the southern portion of Atlantis.  To the
+west, is the bottom of one of Atlantis' four scout towers.  
+~
+0 8 0
+D1
+~
+~
+0 0 4814
+D3
+~
+~
+0 0 4816
+S
+#4816
+The Cellar~
+You're in a small room beneath the tower.  A tunnel to the east leads
+through a tunnel underneath the city.  You hear noises coming from that
+direction.
+~
+0 8 0
+D1
+~
+~
+0 0 4815
+D4
+~
+~
+1 0 4817
+S
+#4817
+The Southwest Stone Tower~
+You stand at the base of a huge stone tower.  The stone road leads right
+up to the tower wall and into the great building itself.  A sturdy wooden
+door stands open at the entrance.  You see a ladder leading up, its base
+secured onto a metal grate.
+~
+0 8 1
+D1
+~
+~
+0 0 4820
+D4
+~
+~
+0 0 4818
+D5
+~
+~
+1 0 4816
+S
+#4818
+The Second-storey Window~
+The second level of the tower is small and drab.  Only a few items
+scattered on the floor indicate that people have been here.  The ladder
+continues up and down.  From the window, you see the northern city of
+Atlantis.
+~
+0 8 1
+D4
+~
+~
+0 0 4819
+D5
+~
+~
+0 0 4817
+S
+#4819
+A View of the City~
+The top of the ladder opens up to a scout's post, from which you can see
+the most strategic points of the city of Atlantis.  You can see each of the
+other tower scouts...  And they can all see you.
+~
+0 8 1
+D5
+~
+~
+0 0 4818
+S
+#4820
+The Stone Road~
+You're traversing a well-kept stone road, the likes of which you have
+never seen in a city like this.  It leads you on a straight path toward a
+building in either direction.
+~
+0 0 1
+D1
+~
+~
+0 0 4821
+D3
+~
+~
+0 0 4817
+S
+#4821
+A Well-kept Road~
+This stone road was laid down with great precision.  There isn't a sign
+of weed growth or even dirt trails.  You wonder just how often this road is
+patrolled.
+~
+0 0 1
+D1
+~
+~
+1 0 4899
+D3
+~
+~
+0 0 4820
+S
+#4822
+A narrow hallway~
+This hallway contrasts heavily with the crudely dug tunnel it connects
+to.  Judging by the smoothness of walls and floor, it must have been created
+magically by a sorceror of great skill.  At the end of the hallway you see a
+plain wooden door, with a small imp standing in front of it.  
+~
+0 8 0
+D0
+~
+~
+0 0 4823
+D2
+~
+~
+1 0 4814
+S
+#4823
+The end of the hallway~
+You have come to the end of a long hallway.  It stretches back to the
+south, meeting up with a dark tunnel.  Before you is a plain, but sturdy
+wooden door, and the strangest creature you've ever seen.
+~
+0 8 0
+D0
+~
+~
+4 0 4824
+D2
+~
+~
+0 0 4822
+S
+#4824
+A cavernous workshop~
+You've entered a spacious cavern.  The room is brightly lit by huge
+incandescent spheres that float near the ceiling.  The walls are covered in
+star-charts, and mystical diagrams depicting what are primarily weather
+related processes.  There are several tables covered with open spellbooks
+and other assorted tomes.  In the center of the room, on an otherwise clear
+table, lies a detailed replica of the city of Atlantis.  
+~
+0 1342177280 0
+D1
+~
+~
+0 0 4826
+D2
+~
+~
+4 0 4823
+S
+#4825
+Prototype~
+Don't look now, but you're standing in a transparent bubble several
+hundred feet above the city of Atlantis.  You can see all the streets and
+shops below, though the sight makes you feel a little uneasy.  Looking up,
+you see that a gigantic version of the bubble you stand in surrounds the
+city, separating it from the crushing weight of the ocean...  Fish swim by,
+just beyond the sphere.  
+~
+0 268959748 0
+S
+#4826
+A small office~
+You've entered a small, plain room with very little furnishing.  A desk
+covered in papers immediately catches your eye.  This seems to be an office
+for the wizards who work down here.  A book lies open on the table...  
+There is a page that is half ripped out of the book.
+~
+0 268435456 0
+E
+page~
+have also been working on the crafting of a mighty new defensive
+magick. Using the Companion and an item provided by Ruth, we have been
+able to crea (The rest of the page has had ink spilled all over it.)
+~
+E
+book~
+"says that the public is growing increasingly anxious
+  that we complete our project. The spells needed to
+  sink Atlantis are nearly completed, but the energy
+  required will be enormous.
+        We sometimes discuss the necessity of this project,
+  but we recognize that one day the dragons will return to
+  Dominia, and in order to avoid the bloodshed it will bring, 
+  it is infinitely preferable to be out of sight, and out of 
+  the conflict entirely.
+       I am increasingly confident that our magiks will be 
+  sufficient to sustain the pocket of air around Atlantis
+  indefinitely, but I am concerned that the isolation may
+  cause our population to adapt in strange and unforeseeable"
+~
+D3
+~
+~
+0 0 4824
+S
+#4827
+Off the Coast~
+A sense of calm fills you as you stare out over the waters.  To your east
+lies a small cove on the continent of Dominia, and you think you can see the
+vague outline of an island to your north.  
+~
+0 0 7
+D1
+~
+~
+0 0 1919
+D3
+~
+~
+0 0 4700
+S
+#4830
+Liceo's closet.~
+~
+0 268468228 0
+S
+#4893
+Courtyard~
+You have reached the corner of the courtyard.  Unfortunately your way
+north is blocked, to prevent your approach to the practicing soldiers.  Back
+to the east, you approach the city gates.  
+~
+0 0 1
+D1
+~
+~
+0 0 4896
+S
+#4894
+A gate in the courtyard~
+You stand along the brick road wondering what kinds of carriages and
+humans have travelled here before.  The soldiers assembled this fortress
+with remarkable precision.  Unfortunately this is the end of your road, as
+the massive gate prevents you from going any further north.  
+~
+0 0 1
+D2
+~
+~
+0 0 4895
+S
+#4895
+At the corner~
+You stand at the corner of the courtyard, where the stone road makes an
+abrupt turn and continues north and west.  Metal fencing serves to form
+a decorative but deceptive barrier to all other directions.
+~
+0 0 1
+D0
+~
+~
+0 0 4894
+D3
+~
+~
+0 0 4897
+S
+#4896
+Along the Stone Road~
+The trim road continues further east and west, as you travel along the
+field watching the soldiers train.  Their remarkable precision is almost
+hypnotic.  
+~
+0 0 1
+D1
+~
+~
+0 0 4898
+D3
+~
+~
+0 0 4893
+S
+#4897
+The trim stone road~
+You stand amidst a very plain but highly ordered stone roadway.  It is
+immaculately clean, to the point that you begin to question the apparent
+perfection in this area of the city.  Is it really as perfect as it seems? 
+~
+0 0 1
+D1
+~
+~
+0 0 4895
+D3
+~
+~
+0 0 4898
+S
+#4898
+South of the Courtyard~
+You stand in front of a large training field, where soldiers practice
+military exercises and routine maneuvers.  To the south stands the entrance
+to this southern portion of the city.  
+#
+~
+0 0 1
+D1
+~
+~
+0 0 4897
+D2
+~
+~
+0 0 4899
+D3
+~
+~
+0 0 4896
+S
+#4899
+The Guard's Check-In~
+Access to the southern city is restricted, and all who wish to enter must
+pass through this checkpoint.  Failing to recognize you or your business
+here, burly guards stand with their swords ready.
+~
+0 0 1
+D0
+~
+~
+0 0 4898
+D1
+~
+~
+1 0 4781
+D2
+~
+~
+0 0 4812
+D3
+~
+~
+1 0 4821
+S
+#0
+
+
+
+#SPECIALS
+M 4711 spec_guard Load to: a city guard
+M 4750 spec_breath_any Load to: the burly gatekeeper
+M 4779 spec_cast_cleric Load to: A cleric
+M 4822 spec_breath_any Load to: an imp
+M 4823 spec_breath_any Load to: an imp
+S
+
+
+
+#MOBPROGS
+#4831
+say Thanks, but someone already brought me a peanut.
+say Right now I'm in the mood for a pomegranate.
+~
+A
+#4829
+say Thanks, but someone already brought me a pomegranate.
+say Right now I'm in the mood for a peanut.
+~
+A
+#4828
+say Thanks!
+em eats a peanut.
+say Eagh! Where'd you get that thing? It's obviously not of premium Atlantis quality.
+shudder
+say You'll have to do better than that.
+~
+A
+#4742
+if race $n dragon
+yell A dragon! We're under attack!!
+kill $n
+endif
+~
+A
+#4774
+mob echo {yValerie says 'I'm not a witch, I'm your wife!'{x
+say ... and after what you just said, I'm not even sure I want to be THAT anymore!
+em coughs.
+say Sorry... conditioned response.
+~
+A
+#4710
+if objhere fountain
+drink
+east
+endif
+~
+A
+#4776
+mob echo Maverick leans in.
+mob echo {yMaverick says 'Hey Baldy! Sold any of those toothpicks?'{x
+mob echo Maverick slips back across the street, laughing.
+~
+A
+#4775
+say Maverick sells his tin cans at ridiculous prices.
+~
+A
+#4773
+mob echo Maverick leans in the door.
+mob echo {yMaverick says{x
+mob echo {y   'Don't waste your time in here. Just because he can spew out a fairy
+mob echo {y   tale about those weapons doesn't change the fact that they couldn't{x
+mob echo {y   cut through swiss cheese.'{x
+emote picks up a knife and throws it after Maverick's retreating figure.
+~
+A
+#4770
+emote picks out a sword, mutters something and returns it to the rack.
+~
+A
+#4771
+say Just between you and me, that crook across the street sells lousy armour.
+~
+A
+#4772
+say You seen that old fool who sells armour accross the street?
+say You know that broken nose he says he got fighting off pirates?
+say His wife broke it with her frying pan before leaving him!
+~
+A
+#4790
+if mobexists widgit
+  mob purge $i
+endif
+~
+A
+#4788
+open south
+em flees south.
+mob goto 4801
+mob mload 4789
+mob damage widgit 400 500
+mob oload 4823
+ give pom wid
+mob goto 4830
+mob purge $i
+~
+A
+#4715
+mob echoat $n A dolphin blinks at you accusingly, does a backflip and submerges.
+mob echoaround $n A dolphin blinks at $n accusingly, and dives below the water.
+mob purge $i
+~
+A
+#4830
+~
+A
+#4814
+if players >= 1
+mob echo A nut falls (is thrown?) down from the tree and hits you on the head.
+mob oload 4728 0 room
+endif
+~
+A
+#4713
+mob echoat $n A barrage of nuts come flying down from the tree and hit you HARD!
+mob damage $n 20 40
+mob echoaround $n A barrage of nuts comes flying down from the tree and hits $n HARD!
+~
+A
+#4716
+if players == 1
+mob echoat $n A dolphin swims circles around you.
+mob echoaround $n A dolphin swims circles around $n.
+endif
+if players > 1
+em feels threatened by the number of people in this room.
+em submerges beneath the waves, with a flip of the tail.
+mob goto 4830
+endif
+~
+A
+#4717
+mob transfer $n 4701
+mob echo $n leaves north, with a dolphin following behind.
+mob goto 4701
+if players == 1
+mob mload 4717
+endif
+mob echoat $n A dolphin has arrived.
+mob echoat $n It seems to be following you.
+mob echoaround $n $n has arrived with a cute dolphin in tow!
+if players > 1
+em feels threatened by the number of people in this room.
+em submerges beneath the waves, with a flip of the tail.
+endif
+mob goto 4830
+mob purge $i
+~
+A
+#4718
+mob transfer $n 4702
+mob goto 4702
+if players == 1
+mob mload 4718
+endif
+mob echoat $n A dolphin has arrived.
+mob echoat $n It seems to be following you.
+mob echoaround $n $n has arrived with a cute dolphin in tow!
+if players > 1
+em feels threatened by the number of people in this room.
+em submerges beneath the waves, with a flip of the tail.
+endif
+mob goto 4830
+mob purge $i
+~
+A
+#4719
+mob echoaround $n $n leaves north.
+mob echoaround $n The dolphin pauses a moment, then submerges.
+mob transfer $n 4703
+mob goto 4703
+mob echoaround $n $n has arrived.
+mob echoat $n A dolphin looks at you mournfully from the sea.
+mob echoat $n A dolphin turns and slowly swims south.
+mob goto 4700
+mob mload 4716
+mob goto 4830
+mob purge $i
+~
+A
+#4720
+mob transfer $n 4700
+mob goto 4700
+if players == 1
+mob mload 4716
+endif
+mob echoat $n A dolphin has arrived.
+mob echoat $n It seems to be following you.
+mob echoaround $n $n has arrived with a cute dolphin in tow!
+if players > 1
+em feels threatened by the number of people in this room.
+em submerges beneath the waves, with a flip of the tail.
+endif
+mob goto 4830
+mob purge $i
+~
+A
+#4721
+mob purge
+~
+A
+#4731
+if race $n 'red dragon' or
+race $n 'blue dragon' or
+race $n 'black dragon' or
+race $n 'green dragon' or
+race $n 'white dragon'
+mob echo A female citizen of Atlantis backs away, and lets out a startled shriek.
+mob echoat $n A female citizen of Atlantis slaps you with her purse.
+mob echoaround $n A female citizen of Atlantis slaps $n with her purse.
+~
+A
+#4730
+MOB REMEMBER $r
+if carries $q breadbag
+say Hey!
+say That's my lunch!
+slap $q
+mob force $q drop breadbag
+~
+A
+#4822
+say You really shouldn't be here... what AM I to do...
+ 
+say Do you really want in here?
+em looks at you slyly.
+~
+A
+#4823
+say Well...
+say I'm rather partial to peanuts.
+say Perhaps if you bring me one, I'll let you pass.
+wink $n
+ 
+~
+A
+#4824
+say Oh I do so adore peanuts. :)
+say Know what? Bring me a pomegranate and I'll definitely let you in.
+mob mload 4823
+mob goto 4787
+
+~
+A
+#4825
+say What a lovely pomegranate!
+say I suppose I shall have to let you enter now...
+say Don't tell anyone that I let you in!
+mob echoat $n An imp waves his spindly fingers at you.
+mob echoat $n You feel woozy as the room dissolves around you, and reforms.
+mob transfer $n 4824
+mob echo An imp waves his fingers at $n and $n disappears!
+mob echo An imp raises his eyebrow at you.
+mob mload 4822
+mob goto 4787
+mob purge zxc
+mob purge $i
+~
+A
+#4789
+em staggers backwards, hits the edge and slowly topples over.
+mob echo You watch as the mayor plummets and hits the beach below.
+mob echo A red pomegranate rolls from his lifeless fingers onto the beach.
+mob goto 4730
+mob echo A corpse falls from the tower above and nearly hits you!
+drop pom
+mob kill $i
+~
+A
+#4768
+mob echoat $n The old shopkeeper puts down some armour, and prepares to attend you.
+~
+A
+#4769
+emote picks up a piece of armour and absently polishes it.
+~
+A
+#4820
+mob echo {yMaverick says{x
+mob echo {y   'My brother. What a fool he is. Do you know, I once defended him{x
+mob echo {y   from vicious pirates? Ran and hid, the coward. I got a broken nose{x
+mob echo {y   for my troubles. You'd be wise to keep away from him.{x
+~
+A
+#4821
+emote throws a dart at a picture of Elias, the shopkeeper.
+say Ha!  Right on the nose.
+~
+A
+#4722
+mob echo Elias pokes his head in the door.
+mob echo {yElias says 'Still trying to sell that old junk, are you?'
+mob echo Elias says 'How many dents are in that ancient iron helm?'{x
+emote throws the iron helm at Elias.
+~
+A
+#4784
+mob echoat $n The scholar grabs a heavy book from the shelves and WHACKS you with it!
+mob echoaround $n The scholar grabs a heavy book from the shelves and WHACKS $n with it!
+mob damage $n 20 30
+~
+A
+#4779
+if people > 5
+and rand 20
+say Big crowd tonight, don't you think?
+break
+endif
+if rand 65
+emote wipes the counter.
+break
+endif
+if rand 45
+say Everything OK over here, $r?
+smile
+break
+endif
+if rand 20
+emote gets a bottle from underneath the bar.
+break
+endif
+if rand 20
+mob echo A bottle crashes to the floor.
+say Oops.. I'd better go clean that up.
+break
+endif
+~
+A
+#4778
+if mobhere patron
+mob echo A bar patron gets up to leave.
+say See you later!
+mob purge patron
+endif
+~
+A
+#4777
+if people < 8
+mob echo A bar patron arrives from the streets above.
+mob mload 4778
+say Good day, sir!
+smile patron
+endif
+~
+A
+#4758
+hicc
+~
+A
+#4827
+goto 4823
+~
+A
+#4711
+if people > 2
+em feels threatened by the number of people in this room.
+em submerges beneath the waves, with a flip of the tail.
+mob goto 4830
+mob purge $i
+endif
+~
+A
+#4791
+if race $n 'red dragon'
+or race $n 'blue dragon'
+or race $n 'black dragon'
+or race $n 'green dragon'
+or race $n 'white dragon'
+mob zecho {RA military officer yells 'A dragon in Atlantis? Call the wizards!'{x
+if level $n < 15
+mob kill $n
+endif
+endif
+~
+A
+#4732
+if race $n 'red dragon' or
+race $n 'blue dragon' or
+race $n 'black dragon' or
+race $n 'green dragon' or
+race $n 'white dragon'
+mob echoat $n A citizen of Atlantis trembles visibly upon seeing you.
+mob echoaround $n A citizen of Atlantis trembles visibly.
+endif
+~
+A
+#4826
+say Did you bring me a pomegranate?
+wink $n
+~
+A
+#4813
+mob echo A nut falls (is thrown?) down from the tree and hits you on the head.
+mob oload 4728 0 room
+~
+A
+#0
+
+#RESETS
+D 0 4742 0 2
+D 0 4743 2 1
+D 0 4744 1 2
+D 0 4745 3 2
+D 0 4746 3 2
+D 0 4755 1 2
+D 0 4764 0 1
+D 0 4781 3 1
+D 0 4782 5 1
+D 0 4788 2 1
+D 0 4794 4 1
+D 0 4801 0 1
+D 0 4804 5 1
+D 0 4805 4 1
+D 0 4812 2 2
+D 0 4814 0 1
+D 0 4816 4 1
+D 0 4817 5 1
+D 0 4821 1 1
+D 0 4822 2 1
+D 0 4823 0 2
+D 0 4824 2 2
+D 0 4899 1 1
+D 0 4899 3 1
+M 1 4716 1 4700 1
+O 0 4712 0 4703
+O 0 4732 0 4703
+O 0 4732 0 4705
+O 0 4725 0 4707
+O 0 4725 0 4714
+O 0 4732 0 4714
+O 0 4726 0 4717
+O 0 4725 0 4720
+O 0 4732 0 4723
+M 1 4729 1 4724 1
+E 0 4700 0 16
+O 0 4720 0 4724
+M 1 4730 2 4725 1
+E 0 4700 0 16
+M 1 4739 1 4729 1
+O 0 4712 0 4730
+O 0 4732 0 4731
+O 0 4712 0 4733
+M 1 4775 2 4734 1
+G 0 4703 0
+G 0 4701 0
+G 0 4705 0
+M 1 4730 2 4735 1
+E 0 4700 0 16
+M 1 4750 1 4742 1
+E 0 4750 0 16
+E 0 4742 0 3
+M 1 4742 4 4742 2
+E 0 4743 0 5
+M 1 4711 10 4743 2
+E 0 4743 0 5
+M 1 4711 10 4744 2
+E 0 4745 0 3
+E 0 4743 0 5
+M 1 4711 10 4745 2
+E 0 4745 0 3
+E 0 4743 0 5
+O 0 4702 0 4748
+O 0 4702 0 4753
+M 1 4731 6 4753 1
+O 0 4727 0 4762
+O 0 4726 0 4764
+M 1 4766 1 4766 1
+G 0 4766 0
+G 0 4751 0
+G 0 4704 0
+M 1 4767 1 4767 1
+G 0 4767 0
+G 0 4768 0
+M 1 4768 1 4768 1
+G 0 4770 0
+G 0 4743 0
+O 0 4831 0 4768
+M 1 4790 6 4769 1
+M 1 4769 1 4769 1
+G 0 4771 0
+G 0 4769 0
+M 1 4732 6 4770 1
+M 1 4770 1 4770 1
+G 0 4772 0
+M 1 4771 1 4771 1
+G 0 4773 0
+M 1 4790 6 4773 1
+M 1 4773 1 4773 1
+E 0 4774 0 16
+M 1 4774 1 4774 1
+G 0 4776 0
+G 0 4775 0
+M 1 4731 6 4774 1
+M 1 4732 6 4775 1
+M 1 4775 2 4775 1
+G 0 4721 0
+G 0 4706 0
+G 0 4705 0
+M 1 4790 6 4777 2
+M 1 4777 1 4777 1
+G 0 4778 0
+G 0 4723 0
+G 0 4722 0
+O 0 4777 0 4777
+M 1 4790 6 4778 1
+M 1 4779 1 4779 1
+M 1 4711 10 4780 1
+M 1 4784 1 4784 1
+M 1 4715 1 4785 1
+M 1 4709 1 4786 1
+M 1 4788 1 4788 1
+E 0 4823 0 17
+O 0 4788 0 4788
+M 1 4790 6 4790 2
+M 1 4801 4 4793 1
+E 0 4769 0 16
+M 1 4711 10 4796 1
+M 1 4801 4 4801 1
+E 0 4769 0 16
+M 1 4711 10 4803 1
+M 1 4801 4 4807 1
+E 0 4769 0 16
+M 1 4734 1 4813 1
+O 0 4712 0 4813
+M 1 4801 4 4819 1
+E 0 4769 0 16
+M 1 4711 10 4820 1
+M 1 4822 1 4823 1
+O 0 4824 0 4824
+O 0 4827 0 4825
+P 0 4826 1 4827 1
+P 0 4825 1 4827 1
+M 1 4830 1 4830 1
+M 1 4742 4 4899 2
+E 0 4743 0 12
+S
+
+
+
+#SHOPS
+4735 28 0 0 0 0 85 115 0 24
+4766 33 32 8 0 0 120 100 0 24
+4767 3 4 0 0 105 105 30 0 24
+4768 9 0 0 0 0 100 60 0 24
+4769 5 35 0 0 0 105 55 0 24
+4770 11 0 0 0 0 100 50 0 24
+4771 10 26 0 0 0 200 25 0 24
+4774 17 0 0 0 0 105 95 0 24
+4775 19 0 0 0 0 100 0 0 24
+4776 19 0 0 0 0 100 0 0 24
+4777 17 19 0 0 0 100 0 0 24
+0
+
+
+
+#$

@@ -1,0 +1,2890 @@
+#AREADATA
+Name Suldanesselar~
+Builders Cicada Elisa Whispertread~
+VNUMs 17300 17449
+Credits { None} Cicada      Suldanesselar~
+Security 1
+Xcontinent 0
+Age 9
+Questable 1
+End
+
+
+
+#MOBILES
+#17300
+tree~
+a tree~
+A living tree is here guarding something unknown.
+~
+~
+tree~
+ABZ J 0 0
+60 -3 50d10+9500 1d1+100 8d6+28 pound
+-30 -30 -30 -30
+CFH BCDIJNOPQSTXYZab I H
+stand stand none 0
+AHMV ABCDEFGHIJK large 0 the guilds~
+M greet 17301 100~
+#17301
+Airmid elven child~
+Airmid~
+An elven child is here, making arts and crafts.
+~
+Here stands the cutest elven girl that ever existed.  She wears an
+adorable pink dress and little pink shoes.  She spends most of her time in
+the house working on arts and crafts because there is not enough young elves
+for her to play with.  Will you play with her?  
+~
+elf~
+AB JV 1000 0
+30 3 6d12+853 1d1+100 4d6+8 chomp
+-9 -9 -9 -9
+0 0 B Z
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17302
+Diancecht elf milk~
+Diancecht~
+An elf who delivers food and milk is here.
+~
+Diancecht works hard to ensure that all elves, especially the queen, have
+enough food and milk delivered for breakfast and lunch.  He is a middle aged
+man who spent his teenage years training in archery and swordsmanship like
+every other young elf.  Now he does this job to relax.  
+~
+elf~
+AG J 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 thrust
+-13 -13 -13 -13
+0 0 B Z
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17303
+kyran elf master archer~
+Kyran~
+Kyran is here keeping his archery skills in tip-top shape.
+~
+Kyran, the top archer in all of Suldanesslar spends his days ensuring his
+skills remain in top condition.  He will retire soon and hopes that his son
+will take his place as master.  
+~
+elf~
+AG J 1000 0
+45 4 25d10+3000 1d1+100 8d4+16 pierce
+-15 -15 -15 -15
+0 0 B Z
+stand stand male 4000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17304
+Thaliea birthing woman elf~
+Thaliea~
+Thaliea, Suldanesslar's birthing woman is here.
+~
+Thaliea, Kyran's wife is a birthing woman who spends her days with Moreta
+to learn the basic skills of healing.  Although she will never be a master
+healer because of her age she enjoys lending a helping hand and of course
+spending time with her best friend.  
+~
+elf~
+A J 1000 0
+38 3 10d10+1600 1d1+100 5d6+12 tear
+-13 -13 -13 -13
+0 0 B Z
+stand stand female 3500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17305
+Miach elf son archer~
+Miach~
+Miach is here, practicing his archery skills.
+~
+Miach has almost mastered his archery skills on the medium target.  He
+spends his days studying hard so he can be the youngest master in archery
+the elves have ever had.  
+~
+elf~
+AB J 0 0
+32 3 10d10+1000 1d1+100 4d4+9 pierce
+-10 -10 -10 -10
+0 0 B Z
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17306
+Ameathon cook elf~
+Ameathon~
+Amaethon is here cooking up a storm.
+~
+She is a pudgy woman who loves to cook.  She leaves her house only to
+grab some guests to sample her cooking when none arrive uninvited. 
+Otherwise she stays at home and cooks up her new ideas.  
+~
+elf~
+AB J 1000 0
+36 3 10d10+1400 1d1+100 3d10+11 none
+-12 -12 -12 -12
+0 0 B Z
+stand stand female 3600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17307
+cristen~
+Cristen~
+Cristen is here, searching for her husband.
+~
+A knowlegdable arachnologist stands before you.  She has a constant
+stream of tears running down here face as she searching frantically for the
+man who left her for unknown reasons.  She believe he is hurt and lost
+somewhere when infact he has left the city forever.  She'll will not be
+getting much work done for awhile.  Poor poor woman.  
+~
+elf~
+A JV 1000 0
+28 2 6d12+703 1d1+100 2d12+8 thwack
+-8 -8 -8 -8
+0 0 B Z
+stand stand female 2500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 17303 60~
+#17308
+test mob~
+test mob~
+(no long description)
+~
+~
+human~
+A 0 0 0
+60 6 1d1+0 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17340
+clan goon kindred stronghold~
+the Kindred Goon~
+A clan goon is here, protecting the door to the north.
+~
+~
+orc~
+ABCGT BDHJLNOQTVZ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+ABCDEFHIJKMNOR ABab CDEFGQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#17400
+Jayge~
+Jayge~
+Jayge, the portly bar keeper is here serving drinks.
+~
+Jayge looks at you warily with his one wonky eye.
+Despite his portly appearance he strikes you as
+the type to be quick with a blade.
+~
+human~
+ABV DZ 900 0
+23 0 1d1+999 1d1+99 1d8+20 none
+-15 -15 -15 -15
+CDF ABCD 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17443
+blob~
+a blob~
+The blob is here
+~
+~
+human~
+AG I -1000 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 Z 0 FG
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17446
+blank mob~
+blank mob~
+A blank mob is here
+~
+~
+human~
+A 0 69 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand female 1000000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#17447
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 17447 100~
+#17448
+testies~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 17447 100~
+#17449
+Taeneth~
+Taeneth~
+Taeneth, the barkeep is here, serving drinks.
+~
+~
+sliver~
+AB D 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+U BCDPa B DKY
+stand stand male 100000
+BGHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M greet 17302 100~
+#0
+
+
+
+#OBJECTS
+#17300
+unused~
+unused~
+The restful presence of Selina can be felt from above you.~
+spirit~
+furniture AGTYe AERZ
+5 0 L 300 300
+0 0 0 'reserved' 0
+42 30 0 P
+A
+20 -4  
+A
+5 5  
+A
+26 3  
+#17301
+target~
+a target~
+A target, on an old wooden stand is here, ideal for pratice.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+target~
+Close inspection of the target shows many holes put there by the years of intense practice. It is deinatly well worn in.
+~
+#17302
+skeleton remains~
+a skeleton~
+Here lie the remains of a forgotten prisoner.~
+bone~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+remains~
+His clothes have crumbled apart and fallen off,his skin rotted away to
+nothing, his teeth erroding.  Someone has left this body here, untouched for
+a long time.  It is clear this paticular cell is unused.  
+~
+#17303
+tree west~
+a tree~
+~
+wood~
+container 0 0
+1000 0 0 1000 20
+0 0 0 P
+#17304
+sharp leaf throw~
+a sharp leaf~
+A sharp jagged edged leaf lies here.~
+leaf~
+throwing 0 AO
+5 6 stab 40 'poison'
+30 30 240 P
+#17305
+no name~
+(no short description)~
+~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#17306
+sacred suldanesslar talisman~
+a talisman~
+~
+wood~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#17307
+emerald~
+an emerald~
+A shimmering stone lays here.~
+crystal~
+gem 0 AO
+0 0 0 0 0
+25 2 300 P
+#17340
+potion sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#17341
+potion haste~
+a potion of haste~
+A haste potion has been dropped here.~
+glass~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#17349
+Marduk~
+Marduk~
+Marduk is here~
+wood~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+#17350
+small leaf~
+{xa small {gleaf{x~
+A little {ggreen leaf{x lays here.~
+leaf~
+pill GI AO
+20 'heal' 'blink' 'grandeur' 'grandeur'
+1 1 0 P
+#17365
+no name~
+(no short description)~
+~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#17388
+wreath leaves~
+a {gwreath {xof {gleaves{x from the ancient forest {yAnhendal{x~
+A lush {ggreen {xwreath of {gleaves {xthat was plucked from the forest of {yAnhendal {xlays here.~
+leaves~
+armor ABHITYZe ACRZ
+15 15 15 15 0
+60 5 5 'giant strength' 0
+51 1 0 P
+A
+18 2  
+A
+19 6  
+A
+12 50  
+A
+13 50  
+A
+3 9  
+#17389
+daikybo armguards~
+Armguards of the {gDaikybo{x~
+An excellent set of well oiled leather armguards await their owner.~
+leather~
+sheath ABHITYZe AIZ
+katana 1 DE 0
+51 1 0 P
+A
+19 2  
+A
+18 2  
+A
+17 -15  
+A
+20 -4  
+#17390
+unholy light abyss~
+{DUn{Wholy {xlight {xfrom the {DAbyss{x~
+A dim light that gives off an orangish glow has been left here.~
+silver~
+light ABHITYZde AOZ
+0 0 999 0 0
+51 1 0 P
+A
+12 20  
+A
+26 2  
+A
+3 3  
+A
+4 3  
+#17391
+leather sleeves~
+a pair of {yleather {xsleeves{x~
+A normal pair of leather sleeves has been left here.~
+leather~
+armor ABHITYZae AIZ
+15 15 15 15 0
+51 50 0 P
+A
+20 -3  
+A
+19 2  
+A
+18 6  
+A
+28 1  
+A
+1 1  
+#17392
+star crystal~
+{DSt{xar Cry{Dsta{xl~
+Conjurer item~
+crystal~
+light ABHITYZbe AORZ
+0 0 999 0 0
+51 2 2 'flag' 0
+51 1 0 P
+A
+20 3  
+A
+27 2  
+A
+12 20  
+A
+4 2  
+A
+3 2  
+#17393
+girdle might~
+{xa girdle of {ymight{x~
+A girdle made of the finest bronze glints in the sunlight.~
+bronze~
+container ABHITYZae ALZ
+50 A 0 700 25
+51 5 0 P
+A
+26 2  
+A
+18 2  
+A
+19 2  
+A
+28 1  
+#17394
+shadow greaves~
+{DSh{Wad{xow {DGre{Wave{xs~
+A dusty pair of leather greaves lay in a heap on the floor.~
+leather~
+armor ABHITYZce AIZ
+15 15 15 15 0
+51 1 0 P
+A
+18 8  
+A
+2 1  
+A
+29 1  
+#17395
+seeing stone~
+{Ca {Cse{cein{Wg st{con{Ce{x~
+A perfectly shaped clear orb seems to have been misplaced.~
+crystal~
+armor ABHITYZbe AOZ
+10 10 10 10 0
+51 2 0 P
+A
+31 1  
+A
+3 4  
+A
+12 70  
+#17396
+dark shimmering orb~
+{xa {Ddar{xk shi{Wmmeri{xng {Dorb{x~
+A dark shimmering orb hovers off the ground with brilliant radiance.~
+crystal~
+light ABHITYZbe AOZ
+0 0 999 0 0
+51 1 0 P
+A
+12 60  
+A
+27 3  
+A
+3 2  
+A
+4 2  
+#17397
+girdle many pouches~
+a {Cgirdle {xof MANY {ypouches{x~
+A small girdle lies here.~
+leather~
+container ABHITYZbe ALZ
+50 A 0 700 25
+51 1 0 P
+A
+3 1  
+A
+12 40  
+A
+31 1  
+#17398
+tribal tattoo eagle~
+a {gtribal{x {Dtattoo{x of an {Yeagle{x~
+A runist fire, blah.~
+fire~
+light ABHITYZce AOZ
+0 0 999 0 0
+51 0 0 P
+A
+20 -8  
+A
+19 7  
+A
+18 7  
+#17399
+armbands superior strength bands~
+{YArmbands {xof {ySuperior Strength{x~
+A set of gleaming armbands lie in wait.~
+fire~
+armor ABHITYZae AIZ
+13 13 13 13 0
+51 2 0 P
+A
+18 3  
+A
+19 2  
+A
+1 1  
+A
+28 1  
+#17443
+zebian birthright~
+the Zebian birthright~
+A birthright of the Zebian is here.~
+nothing~
+trash U AI
+0 0 0 0 0
+1 0 0 P
+A
+9 20  
+A
+20 -2  
+#17447
+Loveseat (elisa)~
+{ra soft {RLove{rseat{x~
+{ra soft {RLove{rseat{x is beckoning you to cuddle on it.~
+velvet~
+furniture ATYe AO
+2 0 ACDEHIJKLMNOPQRSTUVWXYZabcdef 230 230
+20 40 60000 P
+#17448
+pink dress vianca~
+a {Mpink{x maiden of honor dress~
+A pink maiden of honor dress lays here, Vianca must have dropped it.~
+wood~
+clothing 0 AK
+0 0 0 0 0
+0 0 0 P
+#17449
+fountain champagne magical~
+a magical fountain of champagne~
+A magical fountain appears out of nowhere, offering everyone its champagne.~
+wood~
+fountain 0 0
+999 0 'champagne' 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#17408
+~
+~
+0 0 0
+D3
+~
+~
+0 0 17409
+D5
+~
+~
+0 0 17407
+S
+#17409
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17408
+S
+#17410
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17406
+D2
+~
+~
+0 0 17411
+S
+#17411
+The Western Street~
+Looking north and south all that is seen is more streets.  This one
+differs from the others because there is a path leading down towards many
+houses that can be seen between the arms of the trees.  The street continues
+north and south and branches off down to the houses.  
+~
+0 0 3
+D0
+~
+~
+0 0 17410
+D2
+~
+~
+0 0 17420
+D5
+~
+~
+0 0 17412
+S
+#17412
+~
+~
+0 0 1
+D0
+~
+~
+0 0 17419
+D2
+~
+~
+0 0 17413
+D3
+~
+~
+0 0 17415
+D4
+~
+~
+0 0 17411
+S
+#17413
+The End of the Street~
+The laundry of the family that lives to the west is hanging here to dry
+in the wind.  It is evident that a large man, a young boy and a small girl
+live in the house.  The street leads north.  
+~
+0 0 1
+D0
+~
+~
+0 0 17412
+D3
+~
+~
+0 0 17414
+S
+#17414
+Diancecht's House~
+Diancecht lives here with his daughter Airmid, and his son Miach. 
+Together they keep a farly clean house, only a few children's toys are lying
+around the house.  Diancecht's desk is in the corner, maybe there's something
+of interest there.  The only exit is east.  
+~
+0 8 0
+D1
+~
+~
+0 0 17413
+S
+#17415
+Llyr's House~
+This house is cluttered; Llyr is a single man who has few visitors and
+sees no reasons to keep his house spotless.  The bed is unmade, the dishes
+left dirty and clothes have been left on the floor.  The only exit is east. 
+~
+0 8 0
+D1
+~
+~
+0 0 17412
+S
+#17416
+Kyran's House~
+This house is filled with awards for the master of achery, Kyran.  He is
+a simple man with few belongings other than the awards kept on shelves thet
+he chersihes so.  There is a small table with two chairs and a simlpe
+kitchen in one corner and a small bed in the opposite corner.  The only exit
+is east.  
+~
+0 8 0
+D1
+~
+~
+0 0 17419
+S
+#17417
+Ameathon's House~
+This house has a large table with 8 chairs to accomodate the many guests
+that happen by.  Ameathon loves to have people sample her new and many
+recipes.  It is said that she makes the best deserets Terra has to offer. 
+The only exit is east.  
+~
+0 8 0
+D1
+~
+~
+0 0 17418
+S
+#17418
+The End of the Street~
+The tree branches sway gently in the breeze.  The sweet smell of desserts
+is in the air; it must be Ameathon's baking.  Her cozy little house lies to
+the west while the city street leads south.  
+~
+0 0 1
+D2
+~
+~
+0 0 17419
+D3
+~
+~
+0 0 17417
+S
+#17419
+The City Street~
+Elven crafted wind chimes hang in the trees making soothing peaceful
+sounds in the breeze.  To the west is Kyran's house, the street leads north
+and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17418
+D2
+~
+~
+0 0 17412
+D3
+~
+~
+0 0 17416
+S
+#17420
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17411
+D2
+~
+~
+0 0 17421
+S
+#17421
+A Strange Tree~
+This street is like all the others.  It has a wooden path built through
+the trees and is frequently used by the townsfolk.  There is a large tree to
+the west with sharp jagged leaves that look rather dangerous.  Some of them
+are close enough to grab but be careful they don't stab you!  The street
+continues north and south, Taernath's tavern is to the east.  
+~
+0 0 3
+D0
+~
+~
+0 0 17420
+D1
+~
+~
+0 0 17422
+D2
+~
+~
+0 0 17424
+S
+#17422
+Outside Taeneth's Tavern~
+This clearing is shaded by the trees which keep the sun of those who
+prefer to drink outside.  There are stools to get comfortable on and a fire
+pit for when the sun drops in the sky.  Even still most of the commotion is
+in the tavern itself.  The entrance the tavern is east, west is the western
+street.  
+~
+0 0 1
+D1
+~
+~
+0 0 17423
+D3
+~
+~
+0 0 17421
+S
+#17423
+Taeneth's Tavern~
+Half of the room has cherry wood tables populated by laughing people. 
+The other half a dance floor full of energy.  There is a live band singing
+the latest Elven music.  Directly in front of you is the bar, and Taeneth
+himself.  The door is to th west.  
+~
+0 8 0
+D3
+~
+~
+0 0 17422
+S
+#17424
+The Western Street~
+In the southward direction it is clear that the wooden planks that make
+up he street stop and are replaced by the vast branch of one of the trees. 
+This branches then turns to the west The street continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17421
+D2
+~
+~
+0 0 17425
+S
+#17425
+The Western Street~
+A vast tree limb mimics a street and because of this there is no planking
+here.  The limb is hundreds of feet above the forest floor without a railing
+to guide travelers.  The surface of the tree limb is worn from use.  The
+street continues north and south.  The park lies to the west.  
+~
+0 0 3
+D0
+~
+~
+0 0 17424
+D2
+~
+~
+0 0 17427
+D3
+~
+~
+0 0 17426
+S
+#17426
+The Park~
+Hop scotch lines and children's toys have been left here.  There is a
+sandbox of to one side and a swing set in another.  The park is surronded by
+a huge tree branch, allowing children to play without worry of falling, The
+city street lies east.  
+~
+0 0 2
+D1
+~
+~
+0 0 17425
+S
+#17427
+The Western Street~
+To the north it is seen that the street planks stop as a large tree
+branch takes their place.  The branch then turns to the west.  The street
+continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17425
+D2
+~
+~
+0 0 17428
+S
+#17428
+An Intersection~
+There is a rope ladderder here used by the guards to get to the guard
+tower.  These guards watch the happenings on the forest floor below and
+ensure no one is getting close to finding the forgotten city.  The city
+street continues north and east.  The rope lad leads down.  
+~
+0 0 1
+D0
+~
+~
+0 0 17427
+D1
+~
+~
+0 0 17431
+D5
+~
+~
+0 0 17429
+S
+#17429
+The Rope Ladder~
+The trees here are so condensed that the path up and down the rope ladder
+is a tight fit for any average sized man.  It also makes the venture very
+dark, who knows what kind of bugs are in the trees waiting to crawl on
+living flesh.  The rope ladder continues up and down.  
+~
+0 0 3
+D4
+~
+~
+0 0 17428
+D5
+~
+~
+0 0 17430
+S
+#17430
+Guard's Tower~
+This is a small room in the trees for the guards to keep watch.  There is
+a chair here facing the multiple sets of binoculars set on poles for easy
+viewing.  The rope ladder leads up.  
+~
+0 8 3
+D4
+~
+~
+0 0 17429
+S
+#17431
+The Southern Street~
+A mysterious stream falls down from the trees.  The cups that are placed
+on the wooden rails make it clear that it is drinkable.  But where does the
+water come from?  Where does it go?  Will elven wonder never cease?  
+~
+0 0 1
+D1
+~
+~
+0 0 17432
+D3
+~
+~
+0 0 17428
+S
+#17432
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17328
+D3
+~
+~
+0 0 17431
+S
+#17433
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17335
+S
+#17434
+~
+~
+0 0 0
+D4
+~
+~
+0 0 17339
+D5
+~
+~
+0 0 17435
+S
+#17435
+~
+~
+0 0 0
+D3
+~
+~
+0 0 17436
+D4
+~
+~
+0 0 17434
+S
+#17436
+Guard's Tower~
+~
+0 8 3
+D1
+~
+~
+0 0 17435
+S
+#17437
+~
+~
+0 4 0
+S
+#17438
+Unused~
+This room is flagged arena so that mortals wont be sent on quests here,
+as it was built, but not needed.  
+~
+0 20 3
+S
+#17439
+Hanging Gardens~
+Dangling from the walls and ceiling are many hanging flowers.  Northward
+beside a huge set of stone stairs a water machine can be seen pumping water
+from an unknown destination up to the highest level of this garden.  Is this
+another trick of the elven magic?  To path leads south and the stone stairs
+lead up to the tier above.  
+~
+0 0 3
+D2
+~
+~
+0 0 17385
+D4
+~
+~
+0 0 17440
+S
+#17440
+Hanging Gardens~
+Here the water machines can be seen in action as the water pools into a
+small resevoir and feeds not only this level but flows down to the one
+below.  Palm trees and other tropical plants bask in the warm sunlight.  A
+decorative stone path leads south, and the stairs lead down.  
+~
+0 0 3
+D2
+~
+~
+0 0 17441
+D5
+~
+~
+0 0 17439
+S
+#17441
+Hanging Gardens~
+A thin stone path leads the way amoung the tree tops of the trees planted
+below.  Intercately decorated brass rails prevent falling.  The whole lower
+floor or the garden can be seen from here.  The path leads north and south. 
+~
+0 0 3
+D0
+~
+~
+0 0 17440
+D2
+~
+~
+0 0 17442
+S
+#17442
+Hanging Gardens~
+Here the water machines can be seen in action as the water pools into a
+small resevoir and feeds not only this level but flows down to the one
+below.  Palm trees and other tropical plants bask in the warm sunlight.  A
+decorative stone path leads north, and the stairs lead down.  
+~
+0 0 3
+D0
+~
+~
+0 0 17441
+D5
+~
+~
+0 0 17443
+S
+#17443
+Hanging Gardens~
+Dangling from the walls and ceiling are many hanging flowers.  Southward
+beside a huge set of stone stairs a water machine can be seen pumping water
+from an unknown destination up to the highest level of this garden.  Is this
+another trick of the elven magic?  To path leads north and the stone stairs
+lead up to the tier above.  
+~
+0 0 3
+D0
+~
+~
+0 0 17385
+D4
+~
+~
+0 0 17442
+S
+#17447
+~
+~
+0 4 0
+S
+#17448
+~
+~
+0 32772 0
+S
+#17449
+The Full Circle~
+Twelve huge stones making up the foundation of a true relationship circle
+the edge of the clearing in the dense forest.  The moon light shines, making
+them glow with an irresistible beauty.  Directly in the center is a platform
+where the couple sharing their love stands during the ceremony.  The moss on
+the trees and the heads of all the flowers under them face the stones as if
+drawn towards them, just as you feel somehow drawn towards them.  There is
+no exit through the trees; only through magical means may one enter.  
+~
+0 806888452 3
+E
+stones~
+The twelve stones make up the foundation of a true relationship, each
+stone symbolizing something different; trust, friendship, love, wisdom,
+beauty, honor, courage, understanding, attraction, truth, respect and lust. 
+~
+S
+#17300
+A Slight Incline~
+A path leads winding through the trees, destination unknown.  The sun is
+beating down making the foliage glow with an incandescent aura, and the
+birds sing a happy song.  In the distance rushing water can be heard but its
+direction is unclear.  The path continues up this slight but somehow very
+pleasant incline.  
+~
+0 0 3
+D4
+~
+~
+0 0 17301
+S
+#17301
+A Slight Incline~
+~
+0 0 0
+D4
+~
+~
+0 0 17302
+D5
+~
+~
+0 0 17300
+S
+#17302
+~
+incline peaks, path lvls out
+~
+0 0 0
+D1
+~
+~
+0 0 17303
+D5
+~
+~
+0 0 17301
+S
+#17303
+A Path Through the Forest~
+The trees are thick here and their branches hang low.  They seem to be
+alive and move at will; creating a new path if they wish a traveller to get
+lost.  It surely would be dangerous to rest here.  The path leads west north
+and east.  
+~
+0 0 3
+D0
+~
+~
+0 0 17307
+D1
+~
+~
+0 0 17304
+D3
+~
+~
+0 0 17302
+S
+#17304
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17305
+D3
+~
+~
+0 0 17303
+D4
+~
+~
+0 0 17311
+S
+#17305
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17306
+D3
+~
+~
+0 0 17304
+S
+#17306
+A Cliff~
+cliff... over view of lake
+~
+0 0 0
+D3
+~
+~
+0 0 17305
+S
+#17307
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17308
+D2
+~
+~
+0 0 17303
+S
+#17308
+~
+~
+0 0 0
+D2
+~
+~
+0 0 17307
+D3
+~
+~
+0 0 17309
+S
+#17309
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17308
+S
+#17310
+An Escape!~
+Alas you have finally found the way out of the escape tunnel!  The birds
+chirp a harmony, almost as if they are celebrating your success.  A path
+leads south.  
+~
+0 268959744 3
+D2
+~
+~
+0 0 17309
+S
+#17311
+~
+~
+0 0 0
+D4
+~
+~
+0 0 17312
+D5
+~
+~
+0 0 17304
+S
+#17312
+The City Street~
+This once well used dirt road is beginning to grow small plants and
+grasses.  It has been a long time since any significant traffic has
+travelled this path.  To the north you can see a house through the thick
+forest but there is no path here to follow.  Exits lie to the east, to the
+west and down.  
+~
+0 8 0
+E
+north~
+The small one level house is made out of logs and appears to be very old.
+The outside has not been maintained through the years.  Some of the logs are
+getting loose and hanging in such a way that they will surely fall soon.  
+~
+E
+house~
+The small one level house is made out of logs and appears to be very old.
+The outside has not been maintained through the years.  Some of the logs are
+getting loose and hanging in such a way that they will surely fall soon.
+~
+D1
+~
+~
+0 0 17322
+D3
+~
+~
+0 0 17313
+D5
+~
+~
+0 0 17311
+S
+#17313
+The City Street~
+This once well used dirt road is beginning to grow small plants and
+grasses.  It has been a long time since any significant traffic has
+travelled this path.  The curve in the road leads north and east.  
+~
+0 8 0
+D0
+~
+~
+0 0 17314
+D1
+~
+~
+0 0 17312
+S
+#17314
+The City Street~
+This once well used dirt road is beginning to grow small plants and
+grasses.  It has been a long time since any significant traffic has
+travelled this path.  The road continues north.  A small path to the east
+leads to a small house.  
+~
+0 8 0
+D0
+~
+~
+0 0 17316
+D1
+~
+~
+0 0 17315
+D2
+~
+~
+0 0 17313
+S
+#17315
+The Abandoned House~
+The log house has been abandoned for years.  The walls are collapsing
+with age and the floor is caving in.  The only thing left inside is what is
+left of a dinning table.  Many squirrels have moved into all the nooks.  Who
+owned this house or where they are now is unknown.  The only exit is west.  
+~
+0 8 0
+D3
+~
+~
+0 0 17314
+S
+#17316
+The City Street~
+This once well used dirt road is beginning to grow small plants and
+grasses.  It has been a long time since any significant traffic has
+travelled this path.  The curve in the road leads east and south.  
+~
+0 8 0
+D1
+~
+~
+0 0 17317
+D2
+~
+~
+0 0 17314
+D4
+~
+~
+0 0 17327
+S
+#17317
+The City Street~
+This once well used dirt road is beginning to grow small plants and
+grasses.  It has been a long time since any significant traffic has
+travelled this path.  The street continues east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 17318
+D3
+~
+~
+0 0 17316
+S
+#17318
+The City Street~
+This once well used dirt road is beginning to grow small plants and
+grasses.  It has been a long time since any significant traffic has
+travelled this path.  The street continues east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 17319
+D3
+~
+~
+0 0 17317
+S
+#17319
+The City Street~
+This once well used dirt road is beginning to grow small plants and
+grasses.  It has been a long time since any significant traffic has
+travelled this path.  The curve in the road leads east, south and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 17323
+D2
+~
+~
+0 0 17320
+D3
+~
+~
+0 0 17318
+S
+#17320
+The City Street~
+This once well used dirt road is beginning to grow small plants and
+grasses.  It has been a long time since any significant traffic has
+travelled this path.  The street continues north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 17319
+D2
+~
+~
+0 0 17321
+S
+#17321
+The City Street~
+This once well used dirt road is beginning to grow small plants and
+grasses.  It has been a long time since any significant traffic has
+travelled this path.  The curve in the road leads north and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 17320
+D3
+~
+~
+0 0 17322
+S
+#17322
+The City Street~
+This once well used dirt road is beginning to grow small plants and
+grasses.  It has been a long time since any significant traffic has
+travelled this path.  The street continues east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 17321
+D3
+~
+~
+0 0 17312
+S
+#17323
+The City Street~
+This once well used dirt road is beginning to grow small plants and
+grasses.  It has been a long time since any significant traffic has
+travelled this path.  A large oak tree is south, west is the city street.  
+~
+0 8 0
+D2
+~
+~
+0 0 17324
+D3
+~
+~
+0 0 17319
+S
+#17324
+Inside the Large Oak Tree~
+The aroma of live oak permeates in the air.  Old torches line the walls
+of what evidently is a set of stairs built within the tree itself.  North
+leads back to the road and up leads to mysteries within the tree.  
+~
+0 8 3
+D0
+~
+~
+0 0 17323
+D4
+~
+~
+0 0 17325
+S
+#17325
+Inside the Large Oak Tree~
+The stair case is in immaculate condition although the torches that line
+the walls have been long burnt out.  The tree hums as if to trying to tell
+you to leave this place.  The stairs continue up and down.  
+~
+0 8 3
+D4
+~
+~
+0 0 17326
+D5
+~
+~
+0 0 17324
+S
+#17326
+Inside the Large Oak Tree~
+This is a flat platform built into the tree for reasons unknown.  It is
+empty, but wait...  Over there on the floor, someone has left something
+shiny.  The only exit is down.  
+~
+0 8 3
+D5
+~
+~
+0 0 17325
+S
+#17327
+A Huge Tree~
+The largest tree in all the lands is here, it must be at least 40 feet
+around, with bark undoubtedly a foot thick.  Other then that it looks like a
+perfectly normal tree.  But is it?  Some have rumored that a tree is the
+gatekeeper into the secret city but these rumors have never been proven.  
+~
+0 0 3
+D5
+~
+~
+0 0 17316
+S
+#17328
+A City Street~
+This street is made out of dark wooden planks and has been clearly well
+used and maintained over the years.  The inviting noise of the city is heard
+from all directions accompanied by the sweet smell of an Elven feast.  The
+street leads east and west through the tree branches.  
+~
+0 0 1
+D1
+~
+~
+0 0 17329
+D3
+~
+~
+0 0 17432
+D5
+~
+~
+0 0 17327
+S
+#17329
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17330
+D3
+~
+~
+0 0 17328
+S
+#17330
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17334
+D2
+~
+~
+0 0 17329
+D4
+~
+~
+0 0 17331
+S
+#17331
+~
+~
+0 0 0
+D4
+~
+~
+0 0 17332
+D5
+~
+~
+0 0 17330
+S
+#17332
+~
+~
+0 0 0
+D3
+~
+~
+0 0 17333
+D5
+~
+~
+0 0 17331
+S
+#17333
+An elven house~
+Round carpets of subdued earth tones fill the circular elven homestead. 
+Limbs cross the ceiling blooming with sling-like flowers that could be used
+as a bed.  There is a cherry wood dresser in the corner.  The exit is east. 
+~
+0 0 0
+D1
+~
+~
+0 0 17332
+S
+#17334
+The Southern Street~
+Light shade is produced by the sparse branches above.  In all directions
+the tree trunks are unnaturally thick.  This blocks the whole city from view
+except where the street continues east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 17335
+D3
+~
+~
+0 0 17330
+S
+#17335
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17336
+D2
+~
+~
+0 0 17433
+D3
+~
+~
+0 0 17334
+S
+#17336
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17337
+D3
+~
+~
+0 0 17335
+S
+#17337
+Blank Room~
+~
+0 0 3
+D0
+~
+~
+0 0 17338
+D1
+~
+~
+0 0 17339
+D3
+~
+~
+0 0 17336
+S
+#17338
+~
+~
+0 0 0
+D2
+~
+~
+0 0 17337
+S
+#17339
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17341
+D1
+~
+~
+0 0 17340
+D3
+~
+~
+0 0 17337
+D5
+~
+~
+0 0 17434
+S
+#17340
+The Southern Street~
+Years ago this street continued east but since a lot of the wooden planks
+broke the elves decided not to fix it.  This was not only because of lack of
+use but also because of the difficulty of keeping a larger kingdom hidden
+from the world below.  The only exit is west.  
+~
+0 8 1
+D3
+~
+~
+0 0 17339
+S
+#17341
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17348
+D2
+~
+~
+0 0 17339
+D4
+~
+~
+0 0 17342
+S
+#17342
+The Temple~
+The stairs to the temple are made of large white rocks making the temple
+seem out of place.  How are the trees possibly holding up that much weight? 
+It has to be elven magic.  The stairs continue up to the temple and down
+towards the city street.  
+~
+0 0 1
+D4
+~
+~
+0 0 17343
+D5
+~
+~
+0 0 17341
+S
+#17343
+The Temple~
+The top of the stairs is here where large meieval style doors lie before
+you.  Exits are down the stairs and east into the temple.  
+~
+0 0 1
+D1
+~
+~
+0 0 17344
+D5
+~
+~
+0 0 17342
+S
+#17344
+The Temple~
+Twelve foot tall peaked stained glass windows allow colorful light to
+shine through onto the thick marble floor.  Statues of passed elven kings
+and queens stare down with a powerful glare.  East is the altar room, west
+leads outs the large doors 
+~
+0 8 1
+D1
+~
+~
+0 0 17346
+D3
+~
+~
+0 0 17343
+S
+#17345
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17346
+S
+#17346
+The Altar Room~
+marble floor, pool of water, altar in form of queen and tree, enimantly colored light
+~
+0 0 0
+D0
+~
+~
+0 0 17347
+D2
+~
+~
+0 0 17345
+D3
+~
+~
+0 0 17344
+S
+#17347
+~
+The room is empty due to the construction it is undergoing.  There is a
+sign on the wall.  Exits are north, east, south and west.  
+~
+0 0 0
+D2
+~
+~
+0 0 17346
+S
+#17348
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17349
+D2
+~
+~
+0 0 17341
+S
+#17349
+An Intersection~
+A large birch tree, the only one for miles, lies north throbbing with
+magical energy.  East lies a cave that only the highest of elven mages
+enter, the street continues south and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 17350
+D2
+~
+~
+0 0 17348
+D3
+~
+~
+0 0 17351
+S
+#17350
+The cave~
+This cave is used to study and practice the most powerful spells known to
+elvenkind.  There is a ring of stones in the center of the cave with a torch
+forever burning in the middle.  The exit is west.  
+~
+0 536870912 0
+D3
+~
+~
+0 0 17349
+S
+#17351
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17353
+D1
+~
+~
+0 0 17349
+D3
+~
+~
+0 0 17352
+S
+#17352
+Construction Zone~
+Daily carpenters meet here and continue their job extending this street
+across to meet the west street.  It will be many sunrises before it is
+complete but when that time comes it will provide more housing for the
+growing city without extending into new trees and extending the size of the
+city.  The only exit is east.  
+~
+0 0 3
+D1
+~
+~
+0 0 17351
+S
+#17353
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17354
+D2
+~
+~
+0 0 17351
+S
+#17354
+An Intersection~
+Carved into the tree to the north is the face of Queen Ellesime well over
+6 feet in height.  The respect the townsfolk have for her is clear as they
+carved this themselves, totally by their own motivations.  The street heads
+south and west.  
+~
+0 0 3
+D2
+~
+~
+0 0 17353
+D3
+~
+~
+0 0 17355
+S
+#17355
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17354
+D3
+~
+~
+0 0 17356
+S
+#17356
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17357
+D1
+~
+~
+0 0 17355
+S
+#17357
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17358
+D2
+~
+~
+0 0 17356
+S
+#17358
+The Eastern Street~
+Among the branches to the east of the street is a humungous spider web. 
+The web has large bugs and some small birds wrapped in cocoons for later. 
+The spider that wove this web is probably hiding in the trees somewhere. 
+The street continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 17359
+D2
+~
+~
+0 0 17357
+S
+#17359
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17371
+D1
+~
+~
+0 0 17360
+D2
+~
+~
+0 0 17358
+S
+#17360
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17361
+D3
+~
+~
+0 0 17359
+S
+#17361
+~
+~
+0 0 0
+D2
+~
+~
+0 0 17362
+D3
+~
+~
+0 0 17360
+S
+#17362
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17361
+D1
+~
+~
+0 0 17366
+D2
+~
+~
+0 0 17365
+D3
+~
+~
+0 0 17363
+S
+#17363
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17362
+D2
+~
+~
+0 0 17364
+S
+#17364
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17363
+S
+#17365
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17362
+S
+#17366
+~
+~
+0 0 0
+D2
+~
+~
+0 0 17367
+D3
+~
+~
+0 0 17362
+S
+#17367
+Prison Cell~
+This is one of three prison cells that are in Suldanesslar.  The elven
+people don't belive in taking prisoners unless absolutely necessary.  The
+cell is just a dark hole carved into the tree with a barred gate bolted to
+the outside.  If the door closed on an unsuspecting guest the lone
+adventurer would be trapped here for many hours before the elves notice
+their friend was missing.  The only exit is north.  
+~
+0 9 3
+D0
+~
+~
+0 0 17366
+D5
+~
+~
+0 0 17368
+S
+#17368
+The Hidden Escape Tunnel~
+Prisoners that occupied the cell above spent many years digging this hole
+through the trees with nothing but their fingers.  It surely took many
+prisoners doing their share and then be released or dieing to get this far. 
+The tunnel continues down.  Another exit is back up to the cell.  
+~
+0 9 3
+D4
+~
+~
+0 0 17367
+D5
+~
+~
+0 0 17369
+S
+#17369
+The Hidden Escape Tunnel~
+There is a corpse half rotted here, probably belonging to one of the most
+recent prisoners to occupy the cell above.  The tunnel leads up and down.  
+~
+0 9 3
+D4
+~
+~
+0 0 17368
+D5
+~
+~
+0 0 17370
+S
+#17370
+The Hidden Escape Tunnel~
+The tunnel seems to go on forever.  Can you imagine grown men tearing
+away their finger tips as they slowly progressed their way down this tree? 
+Exits are up and down.  
+~
+0 9 3
+D4
+~
+~
+0 0 17369
+D5
+~
+~
+0 0 17310
+S
+#17371
+~
+~
+0 0 0
+D2
+~
+~
+0 0 17359
+D3
+~
+~
+0 0 17372
+S
+#17372
+The Northern Street~
+Sprawling branches from the enormous Tree of Life cast dark shadows on
+the street.  Due to this constant darkness glowing fungus embued with magic
+grow on the surrounding trees.  The street continues east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 17371
+D3
+~
+~
+0 0 17374
+S
+#17373
+Blank~
+~
+0 1074266120 0
+D2
+~
+~
+0 0 17374
+S
+#17374
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17373
+D1
+~
+~
+0 0 17372
+D3
+~
+~
+0 0 17375
+S
+#17375
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17374
+D3
+~
+~
+0 0 17376
+S
+#17376
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17377
+D1
+~
+~
+0 0 17375
+D2
+~
+~
+0 0 17397
+D4
+~
+~
+0 0 17382
+S
+#17377
+~
+~
+0 0 0
+D2
+~
+~
+0 0 17376
+D3
+~
+~
+0 0 17378
+S
+#17378
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17379
+D1
+~
+~
+0 0 17377
+S
+#17379
+The Archery Range~
+It is here young sons begin their training in the skill of archery on the
+close target.  Once mastered they can proceed on to the medium target to the
+east followed by the far target to the west.  
+~
+0 0 3
+D1
+~
+~
+0 0 17381
+D2
+~
+~
+0 0 17378
+D3
+~
+~
+0 0 17380
+S
+#17380
+The Archery Range~
+Here the archery students can master their skills on a target further
+from the shooting line by a distance of four times that of the close target.
+After this they are considered proficient in archery.  The close target is
+east.  
+~
+0 0 3
+D1
+~
+~
+0 0 17379
+S
+#17381
+The Archery Range~
+Here students that have mastered the basic archery skills can improve
+them on the medium target which is further from the shooting line by double
+the distance of the close target.  The only exit is west back to the close
+target.  
+~
+0 0 3
+D3
+~
+~
+0 0 17379
+S
+#17382
+Path to The Tree of Life~
+The immense power of The Tree of Life is felt even though it is
+rooms away.  The sound of the city is barely heard because of the musical
+hum the tree emits.  A beautiful sound it is, making one forget all stresses
+and be mesmerized by it.  Exits lead up towards to The Tree of Life and down
+towards the happenings of the city.  
+~
+0 0 3
+D4
+~
+~
+0 0 17383
+D5
+~
+~
+0 0 17376
+S
+#17383
+Path to The Tree of Life~
+The planks that line the road here appear to be made out of some sort of
+precious metal.  It is only a miniscule example of the riches that the Queen
+holds.  The road continues east.  Another exit is down.  
+~
+0 0 3
+D1
+~
+~
+0 0 17384
+D5
+~
+~
+0 0 17382
+S
+#17384
+Path to The Tree of Life~
+Here the precious metal planks split into two directions.  The hanging
+gardens lie to the east and the protector of the elves lies north.  
+~
+0 0 3
+D0
+~
+~
+0 0 17386
+D1
+~
+~
+0 0 17385
+D3
+~
+~
+0 0 17383
+S
+#17385
+Hanging Gardens~
+Trees of all sorts have been planted thickly on cube like foundations,
+somehow floating high above the forest floor, creating a lush magical
+environment.  The shade from the large willows, cedars and many other
+unknown trees provides a pleasent place to strole.  Seemingly impossible so
+high in the air without supports, a decorative stone path leades the way
+north and south further into the gardens while precious metal planks lead
+west.  
+~
+0 0 3
+D0
+~
+~
+0 0 17439
+D2
+~
+~
+0 0 17443
+D3
+~
+~
+0 0 17384
+S
+#17386
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17387
+D2
+~
+~
+0 0 17384
+S
+#17387
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17388
+D3
+~
+~
+0 0 17386
+S
+#17388
+The Tree of Life~
+~
+0 8 3
+D3
+~
+~
+0 0 17387
+D4
+~
+~
+0 0 17389
+S
+#17389
+The Tree of Life~
+~
+0 8 3
+D4
+~
+~
+0 0 17390
+D5
+~
+~
+0 0 17388
+S
+#17390
+The Tree of Life~
+~
+0 8 3
+D1
+~
+~
+0 0 17391
+D3
+~
+~
+0 0 17396
+D5
+~
+~
+0 0 17389
+S
+#17391
+The Tree of Life~
+~
+0 8 3
+D0
+~
+~
+0 0 17392
+D3
+~
+~
+0 0 17390
+S
+#17392
+The Tree of Life~
+~
+0 8 3
+D2
+~
+~
+0 0 17391
+D3
+~
+~
+0 0 17393
+S
+#17393
+The Tree of Life~
+~
+0 8 3
+D1
+~
+~
+0 0 17392
+D3
+~
+~
+0 0 17395
+D4
+~
+~
+0 0 17394
+S
+#17394
+Queen Ellesime's Chambers~
+A beautiful elegant bed is here in the center of this chamber which is
+built into The Tree of Life.  It is made of the softest cushion the
+elvenkind have to offer and looks very inviting with its red silky sheets
+but Queen Ellesime would be quite upset if you fouled her bed.  The rest of
+the room contains many riches, kept in the possession of the elves for many
+generations.  To lose even one piece would be horrifying which is why they
+have constructed this city above the trees with the Tree of Life to protect
+them.  
+~
+0 8 3
+D5
+~
+~
+0 0 17393
+S
+#17395
+The Tree of Life~
+~
+0 8 3
+D1
+~
+~
+0 0 17393
+D2
+~
+~
+0 0 17396
+S
+#17396
+The Tree of Life~
+~
+0 8 3
+D0
+~
+~
+0 0 17395
+D1
+~
+~
+0 0 17390
+S
+#17397
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17376
+D2
+~
+~
+0 0 17398
+S
+#17398
+An Intersection~
+The noise from the happy people conversing at the city center can be
+heard here; the aroma of the feast that is always in the air can be smelt. 
+There is a plaque nailed to one of the trees depicting some ancient elven
+poems.  The street runs in all cardinal directions.  
+~
+0 0 1
+D0
+~
+~
+0 0 17397
+D1
+~
+~
+0 0 17402
+D2
+~
+~
+0 0 17399
+D3
+~
+~
+0 0 17405
+S
+#17399
+The City Center~
+This is the section of the city center that is populated all day long. 
+Folks gather to talk when they have free time, enjoy the scenery or even
+over hear the latest gossip.  The more important sections of the city center
+lie south, the northern street is to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 17398
+D2
+~
+~
+0 0 17400
+S
+#17400
+The City Center~
+In this section of what is known as the city center a large table sits
+empty until the queen and her elf lords have important matters to discuss. 
+Since this city is very peaceful and impossible to enter if you are a foe
+the table remains empty more often than not.  Exits lead north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 17399
+D2
+~
+~
+0 0 17401
+S
+#17401
+The City Center~
+This is the part of the city center where the legendary feasts are held.
+A fire is made in the large metal pit and food is placed among the many flat
+branches.  The elves sing and drink until the moon starts to fall in the
+sky.  North leads to the rest of the city center.  
+~
+0 0 3
+D0
+~
+~
+0 0 17400
+S
+#17402
+The Northern Street~
+This street leads to the huge house belonging to Moreta, the noble
+healer.  It is easy to notice the large variety of small shrubs, hanging
+from the branches, that she maintains.  Her house is located east, west is
+the main street.  
+~
+0 0 1
+D1
+~
+~
+0 0 17403
+D3
+~
+~
+0 0 17398
+S
+#17403
+The Healer's Hut~
+Work benches where Moreta brews her medications line the walls. 
+Numbweed and needlethorn plants hang in the window to catch the sun as they
+finish blooming.  Her bedroom is downstairs, the exit is west.  
+~
+0 0 0
+D3
+~
+~
+0 0 17402
+D5
+~
+~
+0 0 17404
+S
+#17404
+Moreta's Bedroom~
+~
+0 0 0
+D4
+~
+~
+0 0 17403
+S
+#17405
+The Northern Street~
+The streets in this city are clearly well kept.  There is no garbage
+anywhere and the wood planks shine as if they have been recently scrubbed
+clean.  The street continues east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 17398
+D3
+~
+~
+0 0 17406
+S
+#17406
+An Intersection~
+The Western and Northern street meet here.  The trees above are well
+parted letting the sunshine make the planks of the street glow brightly.  A
+strange cold is felt coming from the east, the streets continue west and
+south.  
+~
+0 0 1
+D1
+~
+~
+0 0 17405
+D2
+~
+~
+0 0 17410
+D3
+~
+~
+0 0 17407
+S
+#17407
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17406
+D4
+~
+~
+0 0 17408
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#17446
+mob mload 17305
+~
+A
+#17300
+mob transfer $n 17328
+~
+A
+#17449
+~
+A
+#17301
+if carries $n sacred talisman
+mob echo The tree comes to life before your eyes.
+mob echo {yThe tree says 'So you are a friend of Suldanesslar, then I will show you the way in'{x{x
+mob echo A opening in the tree is now seen, you feel some force pushing you in.
+mob gtransfer $n 17328
+endif
+~
+A
+#17302
+say Welcome to my establishment $n. Would you like a drink?
+~
+A
+#17303
+say *sniff* Oh where could my precious husband be?! *sniff*
+~
+A
+#17448
+give $n emerald
+~
+A
+#17447
+if hour == 6
+mob echo As the sun rises $I crumbles into dust!
+mob echo $I is DEAD!
+mob purge $i
+endif
+~
+A
+#0
+
+#RESETS
+O 0 17303 0 17421
+P 0 17304 10 17303 1
+M 1 17449 1 17423 1
+G 0 17340 0
+S
+
+
+
+#SHOPS
+17449 0 0 0 0 0 100 100 0 24
+0
+
+
+
+#$

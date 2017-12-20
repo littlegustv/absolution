@@ -1,0 +1,682 @@
+#AREADATA
+Name Kenshi Stronghold~
+Builders Teldin Aql~
+VNUMs 23400 23499
+Credits { All } None        Kenshi Stronghold~
+Security 9
+Xcontinent 0
+Age 5
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#23400
+castle guard goon kenshi outpost~
+a Castle Guard~
+A Castle Guard stands at attention before the iron gates.
+~
+You look at the guards of the castle, and notice that with their armor and
+helmets on that it is impossible to determine race. Each of them all have
+the same rank and the exact same garb as the next. There shields bare the
+crst of the clan to which lays within the castle, and their weapons look
+deadly just from the glance. When you ask of their employment in the service
+of the Harpers, you are politely told that they greatly enjoy their duties
+and to either move along or leave.
+~
+orc~
+ABCGT J 0 0
+51 5 50d10+5000 1d1+99 5d8+20 none
+-21 -21 -21 -21
+R ABab FQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kenshi~
+#23401
+castle guard goon kenshi outpost~
+a Castle Guard~
+A Castle Guard stands at attention before the iron gates.
+~
+You look at the guards of the castle, and notice that with their armor and
+helmets on that it is impossible to determine race. Each of them all have
+the same rank and the exact same garb as the next. There shields bare the
+crst of the clan to which lays within the castle, and their weapons look
+deadly just from the glance. When you ask of their employment in the service
+of the Harpers, you are politely told that they greatly enjoy their duties
+and to either move along or leave.
+~
+orc~
+ABCGT DHJLNOQVZ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+BCDEFJKOR ABab Q S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kenshi~
+#23402
+slasher usher elven hand maiden~
+Elven Hand Maiden~
+An Elven Hand Maiden waits to do your bidding.
+~
+You look up to catch the gaze of a drow elf maiden here, whom has been
+working on her chores. She hushes you, her blue eyes watching you as her
+pitch as night skin remains still other then the whispering from her lips.
+Once you prove you are of the Harpers, she turns; her white as snow hair
+twirls a little and blends into her translusant white dress. She shows
+you the way trough the path, so you may enter into the castle.
+~
+human~
+ABCGJT DZ 0 0
+60 0 10d10+1400 17d9+100 4d7+11 none
+-10 -10 -10 -10
+FU ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK giant 0 kenshi~
+#23403
+healer elven cleric kenshi outpost~
+Elven Cleric~
+An Elven Cleric waits to heal you.
+~
+Standing here is a tall beauty of the elven race. Her face is angular but
+soft to gaze at with bright green eyes and auburn hair. Her form is kept
+soft and womanly but very well concealed within her priestly robes and the
+smallest touch of armour. She stands with a large book of spells in her
+right arm, ready to cast which ever spell you wish her to cast on you for
+a small fee.
+ 
+Type 'heal' to see a listing of spells.
+~
+human~
+ABQVa DZ 1000 0
+43 4 25d10+2500 1d1+100 3d12+15 none
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 kenshi~
+#23404
+pusher natural man selling shopkeeper~
+The Pusher~
+The Pusher is here, trying to sell you things you shouldn't buy.
+~
+The Pusher seems like a natural man but he is a monster selling you lots
+of sweet dreams to ruin your body and leave your mind in total war.  As he
+slowly watches your spirit deteriorate, he sees the tombstones in your
+{DE{xy{DE{xs and doesn't care if you live or if you die.  It was this
+mornin' he last saw your good friend lying on the pavement, his mind racing,
+stoned on some new potion he found upon the wall of some unholy bathroom in
+some ungodly hall.  
+Though he wanted Heaven, Hell is where the Kenshi go.
+Though he wanted Heaven, but prayer was too slow. 
+His life had no meaning, so Hell is where you all will go.
+Though we all want Heaven, as a blade slits your throat,
+Hell sure can't beat that.
+~
+human~
+ABG CD 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+0 ABCD 0 0
+stand stand none 300000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#23405
+castle guard goon kenshi outpost~
+a Castle Guard~
+A Castle Guard stands at attention before the iron gates.
+~
+You look at the guards of the castle, and notice that with their armor and
+helmets on that it is impossible to determine race. Each of them all have
+the same rank and the exact same garb as the next. There shields bare the
+crst of the clan to which lays within the castle, and their weapons look
+deadly just from the glance. When you ask of their employment in the service
+of the Harpers, you are politely told that they greatly enjoy their duties
+and to either move along or leave.
+~
+orc~
+ABCGT DHJQV 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+BCDEFJKOR ABab EFGQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kenshi~
+#23406
+castle guard goon kenshi outpost~
+a Castle Guard~
+A Castle Guard stands at attention before the iron gates.
+~
+You look at the guards of the castle, and notice that with their armor and
+helmets on that it is impossible to determine race. Each of them all have
+the same rank and the exact same garb as the next. There shields bare the
+crst of the clan to which lays within the castle, and their weapons look
+deadly just from the glance. When you ask of their employment in the service
+of the Harpers, you are politely told that they greatly enjoy their duties
+and to either move along or leave.
+~
+orc~
+ABCGT DHJQVZ 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+BCDEFJKOR ABab EFGQ S
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 kenshi~
+#0
+
+
+
+#OBJECTS
+#23400
+kenshi outpost key~
+{mKenshi {xOutpost key~
+The key to {mKenshi{x Clan Outpost is on the floor.~
+iron~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+#23401
+vengeance kenshi tetragon sabre~
+the Vengeance of {mKenshi{x~
+The {DVengeance of {mKenshi{x has been dropped here.~
+adamantite~
+weapon ABIP AN
+sword 5 7 cleave EF
+42 450 5600 P
+E
+scimitar~
+It is quite heavy.  The blade is made of some metal that you can't even
+spell.  The edge of the blade looks as if it could cut through anything or
+anyone.  
+~
+#23402
+kenshi outpost key~
+{mKenshi{x Outpost key~
+The key to {mKenshi{x Clan Outpost is on the floor.~
+iron~
+key PU AC
+0 0 0 0 0
+0 100 0 P
+#23403
+gargoyle spouting statue pond fountain~
+the spouting statue of a gargoyle~
+A carved statue of a gargoyle spouts water into the pond beneath it.~
+ivory~
+fountain O 0
+-1 0 'lemonade' 0 0
+0 0 0 P
+#23404
+pewter sack~
+a pewter sack~
+A small bag made of metal is gathering dust here.~
+pewter~
+throwing N AO
+3 7 blast 37 'acid blast'
+30 20 3500 P
+#23405
+flame broiled elfkabob~
+a flame broiled elfkabob~
+A flame broiled elfkabob is here, giving off a juicy, almost intoxicating smell.~
+food~
+pill GS A
+10 'stone skin' 'shield' 'reserved' 'reserved'
+0 1 2500 P
+#23406
+incredible potion strength~
+an incredible potion of strength~
+An incredible potion of strength has been dropped here.~
+glass~
+potion C AO
+25 'giant strength' 'slow' '(null)' '(null)'
+20 10 3000 P
+E
+incredible~
+Poua! It smell awfull. Yon don't want really drink it ?
+~
+#23407
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#23408
+vial black ink~
+a vial of black ink~
+A vial of black writing ink sits here.~
+cream~
+potion 0 AO
+25 'remove curse' 'blur' '(null)' '(null)'
+25 1 3000 P
+#23409
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'fly' '(null)' '(null)' '(null)'
+3 10 1250 P
+#23410
+clear pill~
+a clear pill~
+A cute clear pill has the letter 'S' stamped on it.~
+glass~
+pill 0 A
+30 'haste' 'reserved' 'reserved' 'reserved'
+20 0 2500 P
+#23411
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '(null)' '(null)' '(null)'
+11 10 4000 P
+#23412
+potion sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#23413
+raft~
+a raft~
+A raft has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 750 400 A
+E
+raft~
+The raft looks very primitive. 
+~
+#23414
+set spikes metal pole~
+a set of spikes on a metal pole~
+A bunch of spikes on a metal pole.~
+steel~
+weapon A AN
+staff 5 8 thrust FG
+50 50 8500 P
+A
+19 2  
+A
+18 2  
+#23415
+gingerbread cookie~
+a gingerbread cookie~
+A gingerbread cookie is here, luring you in with an irresistable aroma.~
+food~
+pill GS A
+10 'bark skin' 'pass door' 'reserved' 'reserved'
+10 1 2500 P
+#23416
+figurine mist~
+mist figurine~
+A misty figurine lays on the ground.~
+oldstyle~
+wand AG AO
+45 3 3 'gate' 0
+40 30 11800 P
+A
+14 75  
+#23417
+tent~
+a sturdy canvas tent~
+A sturdy canvas tent is here.~
+canvas~
+container S A
+70 A 0 10 100
+1 25 150 P
+#23418
+potion haste~
+a potion of haste~
+A haste potion has been dropped here.~
+glass~
+potion G AO
+21 'haste' '(null)' '(null)' '(null)'
+11 10 820 P
+#23419
+vial psychedelic ink~
+a vial of psychedelic ink~
+A vial of multicolored ink.~
+cream~
+potion 0 AO
+5 'invisibility' 'pass door' '(null)' '(null)'
+1 1 500 P
+#23420
+white pill~
+a white pill~
+A white pill with the letter 'C' stamped on it.~
+none~
+pill 0 A
+35 'frenzy' 'giant strength' 'reserved' 'reserved'
+35 0 5000 P
+#23421
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#23422
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+12 'identify' '(null)' '(null)' '(null)'
+7 10 890 P
+E
+scroll identify~
+The scroll has a magic formula drawn upon it: 
+	  ??? 
+	 ?   ? 
+		 ? 
+		? 
+		? 
+		* 
+~
+#23448
+mist portal~
+A {DMist{x~
+A {DMist{x is here, rising slowly~
+wood~
+portal AO 0
+0 0 0 23402 0
+0 0 0 P
+#23449
+mist portal~
+A {DMist{x~
+A {DMist{x is here, rising slowly~
+wood~
+portal AO 0
+0 0 0 23404 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#23400
+Off the Beaten Path~
+You stand in a small stone courtyard.  To the east lies a
+narrow door for servants. To the north is a small stone fortress
+with a thick, wooden door.
+~
+0 0 1
+D0
+~
+~
+4 23400 23401
+D1
+~
+~
+0 0 23403
+D2
+~
+~
+0 0 11039
+S
+#23401
+Within the Fortress~
+The stronghold walls look ominous and have seen many battles although
+they seem to hold well enough, for now.  A large tapestry on the north side
+wall hangs low to the ground, proudly displaying the Kenshin banner.  A
+thick wooden door to the south blocks entry from intruders.  
+~
+0 872677388 0
+D2
+~
+~
+0 0 23400
+D4
+~
+~
+0 0 3001
+C kenshi~
+S
+#23402
+{RK{re{Dn{Rs{rh{Di{Rn {DPo{Wrta{Dls{x ~
+Up from the stronghold, you arive into the portals of Kenshi. 
+From here, you can peer further into the conteninent of Terra.
+                 ___________________________________
+                 Northwards into Recall
+                 Eastwards into Docks
+                 Southwards into Hell
+                 Westwards into Istanbul
+                 ___________________________________
+~
+0 872677388 0
+D0
+~
+~
+0 0 23410
+D1
+~
+~
+0 0 23411
+D2
+~
+~
+0 0 23412
+D3
+~
+~
+0 0 23413
+D4
+~
+~
+0 0 23404
+C kenshi~
+S
+#23403
+Through the Side~
+~
+0 1006895372 0
+D3
+~
+~
+0 0 23400
+C kenshi~
+S
+#23404
+{RK{re{Dn{Rs{rh{Di{Rn {DPo{Wrta{Dls{x ~
+Up from the stronghold, you arive into the portals of Kenshi. 
+From here, you can peer further into the conteninent of Terra.
+                 ___________________________________
+                 Northwards into Time
+                 Eastwards into Olympus
+                 Southwards into Ivory and Arachnos
+                 Westwards to New Thalos
+                 Up into High Tower
+                 ___________________________________
+~
+0 872677388 0
+D0
+~
+~
+0 0 23405
+D1
+~
+~
+0 0 23406
+D2
+~
+~
+0 0 23407
+D3
+~
+~
+0 0 23408
+D4
+~
+~
+0 0 23409
+D5
+~
+~
+0 0 23402
+C kenshi~
+S
+#23405
+{mAmong{x the portals~
+You have a strong urge to go further, to explore other parts of this vast
+continent. 
+~
+0 872677388 0
+D0
+~
+~
+0 0 15000
+C kenshi~
+S
+#23406
+{mAmong{x the portals~
+You have a strong urge to go further, to explore other parts of this vast
+continent. 
+~
+0 872677388 0
+D1
+~
+~
+0 0 902
+C kenshi~
+S
+#23407
+{mAmong{x the portals~
+You have a strong urge to go further, to explore other parts of this vast
+continent. 
+~
+0 872677388 0
+D1
+~
+~
+0 0 6200
+D2
+~
+~
+0 0 501
+C kenshi~
+S
+#23408
+{mAmong{x the portals~
+You have a strong urge to go further, to explore other parts of this vast
+continent. 
+~
+0 1006895116 0
+D3
+~
+~
+0 0 9669
+C kenshi~
+S
+#23409
+{mAmong{x the portals~
+You have a strong urge to go further, to explore other parts of this vast
+continent. 
+~
+0 872677388 0
+D4
+~
+~
+0 0 1312
+C kenshi~
+S
+#23410
+{mAmong{x the portals~
+You have a strong urge to go further, to explore other parts of this vast
+continent. 
+~
+0 872677388 0
+D0
+~
+~
+0 0 3001
+C kenshi~
+S
+#23411
+{mAmong{x the portals~
+You have a strong urge to go further, to explore other parts of this vast
+continent. 
+~
+0 872677388 0
+D1
+~
+~
+0 0 254
+C kenshi~
+S
+#23412
+{mAmong{x the portals~
+You have a strong urge to go further, to explore other parts of this vast
+continent. 
+~
+0 872677388 0
+D2
+~
+~
+0 0 10401
+C kenshi~
+S
+#23413
+{mAmong{x the portals~
+You have a strong urge to go further, to explore other parts of this vast
+continent. 
+~
+0 872677388 0
+D3
+~
+~
+0 0 22336
+C kenshi~
+S
+#0
+
+
+
+#SPECIALS
+M 23400 spec_goon Load to: a Castle Guard
+M 23401 spec_goon Load to: a Castle Guard
+M 23402 spec_doorman Load to: Elven Hand Maiden
+M 23405 spec_goon Load to: a Castle Guard
+M 23406 spec_goon Load to: a Castle Guard
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 23400 0 2
+M 1 23400 1 23400 1
+E 0 23400 0 3
+M 1 23404 1 23401 1
+M 1 23403 1 23401 1
+O 0 23403 0 23401
+M 1 23402 1 23403 1
+O 0 23449 0 23405
+O 0 23449 0 23406
+O 0 23449 0 23407
+O 0 23449 0 23408
+O 0 23449 0 23409
+O 0 23448 0 23410
+O 0 23448 0 23411
+O 0 23448 0 23412
+O 0 23448 0 23413
+S
+
+
+
+#SHOPS
+23404 5 9 4 32 3 200 50 0 23
+0
+
+
+
+#$

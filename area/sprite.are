@@ -1,0 +1,1778 @@
+#AREADATA
+Name Sprite Forest~
+Builders None~
+VNUMs 7500 7599
+Credits { 5 15} Grog        Sprite Forest~
+Security 9
+Xcontinent 1
+Age 8
+Questable 1
+End
+
+
+
+#MOBILES
+#7500
+tiny wood sprite~
+a tiny wood sprite~
+A tiny wood sprite is here, heading for the trees.
+~
+Large, bright orange eyes are set in the pale face of the sprite.  Its
+hair is a bluish silver, and hangs to just above its shoulders.  
+~
+elf~
+AGW J -200 0
+7 -1 2d6+65 1d1+100 1d6+1 slap
+4 4 4 9
+FNU 0 BE Z
+stand stand either 250
+AHMV ABCDEFGHIJK small 0 the guilds~
+#7501
+wood sprite~
+a wood sprite~
+A wood sprite merrily walks along here.
+~
+The sprite's hair is dark green and shoulder length.  Its eyes are deep
+brown in color and its skin has a somewhat greenish tint to it.  
+~
+elf~
+AGW J -300 0
+9 -1 2d6+90 1d1+100 1d6+2 punch
+2 2 2 7
+EFU 0 BE Z
+stand stand either 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7502
+woodchuck~
+a woodchuck~
+A woodchuck is here, gnawing on the walls.
+~
+Dark greyish brown fur covers its body.  Two large teeth protrude from
+the center of its mouth.  Its tail is thick and wide.  
+~
+fox~
+ACGY Z -250 0
+7 -1 2d6+65 1d1+100 1d6+1 bite
+4 4 4 8
+EFH A 0 0
+stand stand either 200
+AGV ACDEFHJKQV small 0 the guilds~
+#7503
+woodchuck~
+a woodchuck~
+A woodchuck is here, gnawing on the walls.
+~
+Dark greyish brown fur covers its body.  Two large teeth protrude from
+the center of its mouth.  Its tail is thick and wide.  
+~
+fox~
+ACGY Z -250 0
+7 -1 2d6+65 1d1+100 1d6+1 bite
+4 4 4 8
+EFH A 0 0
+stand stand either 200
+AGV ACDEFHJKQV small 0 the guilds~
+#7504
+forest maiden~
+a forest maiden~
+A forest maiden is here, gazing at the trees.
+~
+Her pitch black hair contrasts sharply with her lily white skin.  Long,
+sharp fingernails stick out from the ends of her boney fingers.  Her eyes
+are black as coal, matching her hair, they gaze blankly at the forest.  
+~
+elf~
+AGW J -200 0
+9 -1 2d6+90 1d1+100 1d6+2 scratch
+2 2 2 7
+EFN 0 BE Z
+stand stand female 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7505
+forest sprite~
+a forest sprite~
+A forest sprite is here, admiring the trees.
+~
+Pointed ears poke out from his short cropped green hair.  His eyes have a
+yellowish tint to them.  There is an odd grin on his face.  
+~
+elf~
+AGW JP -300 0
+10 -1 2d7+101 1d1+100 2d3+2 chop
+1 1 1 7
+EFJNU 0 BE Z
+stand stand male 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7506
+alanna~
+Alanna~
+Alanna, the fairy princess, is meditating here.
+~
+A beautiful young fairy with long flowing hair.  Her eyes sparkle like
+gems, her complexion is quite fair.  She appears to be lost in deep thought.
+~
+elf~
+ABG JO -300 0
+10 -1 2d7+101 1d1+100 2d1+2 punch
+1 1 1 7
+EFHK 0 BE Z
+stand stand female 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7507
+shrub sprite~
+a shrub sprite~
+A shrub sprite is here, trying to blend into the fauna.
+~
+The sprite is crouching down.  It blends in perfectly with the forest
+shrubs, except for its eyes which glow with an eerie yellow light.  
+~
+elf~
+ABG DJZ -300 0
+11 -1 2d8+104 1d1+100 1d9+2 pound
+1 1 1 9
+EFJN AB BE Z
+stand stand either 400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 7500 100~
+#7508
+galin elven prince~
+Galin, the dryad prince~
+An elven prince stands here, ever alert.
+~
+His facial features are close to those of a human.  If not for his
+pointed ears, one could not be certain of his race.  His hands are poised at
+his chest, whether in prayer or preparation for attack is unknown.  
+~
+elf~
+AGY JV -350 0
+12 -1 2d8+130 1d1+100 1d9+3 smash
+0 0 0 7
+DEFK AB BE Z
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 7501 100~
+M delay 7503 100~
+#7509
+sprite elder~
+a sprite elder~
+A sprite elder is here, recording sprite history.
+~
+His hair is long and grey.  His skin is unusually pale and wrinkled. 
+There is a look of experience and wisdom in is aged eyes.  
+~
+elf~
+AGY J -400 0
+13 -1 2d10+140 1d1+100 2d3+3 beating
+-1 -1 -1 4
+EFNU 0 BE Z
+stand stand male 230
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7510
+wind sprite~
+a wind sprite~
+A wind sprite hovers here, enjoying the view.
+~
+The sprite has small wings coming out of its back.  Very thin, light
+brown hair tops its head.  Its face is rounded and pudgy.  
+~
+elf~
+AGW JT -500 0
+14 -1 2d10+130 1d1+100 1d9+3 punch
+-1 -1 -1 5
+EFNU AB BE Z
+stand stand either 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M delay 7504 100~
+M grall 7502 100~
+M entry 7505 100~
+#7511
+sprite guard~
+a sprite guard~
+A sprite guard is patrolling here, protecting against intruders.
+~
+His eyes search the hall for any movement.  A fire of loyalty burns
+within his red eyes.  His frame is somewhat stocky, but quite fit.  His hair
+has been cropped quite close to his head, giving the appearance of baldness.
+~
+elf~
+ABGY DJ -400 0
+16 -1 3d9+133 1d1+100 2d5+4 smash
+-2 -2 -2 4
+CEFHKP AB BE Z
+stand stand male 230
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M delay 7508 100~
+M grall 7507 100~
+#7512
+jester sprite~
+the sprite jester~
+The sprite jester is here, laughing at life.
+~
+He stands in the corner, hiding as best he can.  There is an evil grin
+upon his face.  With every breath he makes, comes a slight chuckle.  
+~
+elf~
+ABGS JQ -400 0
+15 -1 3d9+240 1d1+100 2d4+3 slap
+-2 -2 -2 3
+FHIN AB BE Z
+stand stand male 290
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7513
+sprite guard~
+a sprite guard~
+A sprite guard is patrolling here, protecting against intruders.
+~
+His eyes search the hall for any movement.  A fire of loyalty burns
+within his red eyes.  His frame is somewhat stocky, but quite fit.  His hair
+has been cropped quite close to his head, giving the appearance of baldness.
+~
+elf~
+AGY DJ -400 0
+16 -1 3d9+133 1d1+100 2d4+4 smash
+-2 -2 -2 4
+CEFHKP AB BE Z
+stand stand male 230
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#7514
+reilla~
+Reilla~
+Reilla, the queen of the sprites, slowly strolls around the room.
+~
+A beautiful sprite, her hair flows to her neckline.  Her blue grey eyes
+shine brightly.  Her skin is white as the clouds and free of wrinkles.  It
+is impossible to determine her age, there is an air of knowledge about her,
+yet she does not carry herself as an aged sprite.  
+~
+elf~
+AGR HJ -500 0
+17 -1 3d9+158 1d1+100 3d3+4 scratch
+-3 -3 -3 3
+EFN 0 BE Z
+stand stand female 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 7506 3~
+#7515
+zidan king~
+Zidan~
+Zidan, the king of the sprites, is thinking about his subjects.
+~
+The king has grey hair and a small white beard to match.  His pointed
+ears twitch every so often.  He appears to be worried about something, as is
+evident by the frown on his face and the wrinkle on his forehead.  
+~
+elf~
+AGT J -500 0
+19 -2 3d9+208 1d1+100 2d4+5 blast
+-4 -4 -4 3
+CEFHIJKN 0 BE Z
+stand stand male 400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#7500
+carved wood flint spear~
+a flint tipped spear~
+A thick piece of carved wood, with a piece of flint at its end, lies here.~
+wood~
+weapon 0 AN
+staff 2 4 pierce 0
+10 30 150 P
+#7501
+jewelled dagger~
+a jewelled dagger~
+A small dagger, encrusted with jewels, sparkles on the ground here.~
+silver~
+weapon G AN
+dagger 2 4 stab 0
+10 40 240 P
+A
+19 1  
+#7502
+felt sprite boots~
+a pair of sprite boots~
+A tiny pair of felt boots are sitting in the corner.~
+felt~
+armor G AG
+5 5 5 0 0
+10 30 190 P
+A
+2 1  
+#7503
+runed polearm~
+a runed polearm~
+A long wooden pole, with intricate runes upon it, has been stuck into the ground.~
+wood~
+weapon AG AN
+polearm 2 3 smash I
+11 120 220 P
+A
+19 1  
+#7504
+threshing flail~
+a threshing flail~
+A small, steel flail has been dropped here.~
+steel~
+weapon G AN
+flail 2 6 slice 0
+14 50 180 P
+A
+19 2  
+A
+18 2  
+#7505
+black satin gloves~
+a pair of black satin gloves~
+Two black gloves are gathering dust here.~
+satin~
+armor G AH
+6 6 6 1 0
+17 20 210 P
+#7506
+black satin sash cloth~
+a black satin sash~
+A pile of shiny black cloth lies here.~
+satin~
+armor G AL
+6 6 6 2 0
+17 40 210 P
+A
+1 2  
+#7507
+small cameo ivory~
+a small cameo~
+A small piece of ivory, set in onyx, lies on the ground.~
+ivory~
+armor G AC
+6 6 6 1 0
+17 30 220 P
+E
+small cameo~
+A tiny ivory carving of a female sprite is set into black onyx.  The
+cameo is attached to a black satin choker.  
+~
+#7508
+jewel encrusted crown~
+a jewel encrusted crown~
+A gold crown, sparkling with jewels, has been left here.~
+gold~
+armor 0 AE
+7 7 7 1 0
+19 100 1100 P
+#7509
+orc slayer stone~
+the orc slayer~
+A large stone is here, it has been chiseled in the shape of an axe.~
+stone~
+weapon G AN
+axe 2 8 cleave 0
+19 200 230 P
+A
+19 1  
+A
+18 1  
+#0
+
+
+
+#ROOMS
+#7500
+The Entrance to the Sprite Forest~
+A small dirt path wainds its way through the tall trees here.  To the
+south, the road which leads to Shandalar can be seen.  The small dirth path
+continues north into the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 7501
+D2
+~
+~
+0 0 10863
+S
+#7501
+In The Forest~
+A dirt path winds through the trees.  The path runs uphill from the
+south, splitting off to the east and west.  The paths east and west are
+narrow, but passable.  
+~
+0 0 3
+D1
+~
+~
+0 0 7502
+D2
+~
+~
+0 0 7500
+D3
+~
+~
+0 0 7515
+S
+#7502
+In The Forest~
+Immense, aged trees line the north and south of the path.  There appears
+to be movement in the forest, but upon looking, only trees can be seen.  The
+path continues to the east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 7503
+D3
+~
+~
+0 0 7501
+S
+#7503
+In The Forest~
+The dirt path below you winds its way through the trees, gently curving
+from north to west.  High pitched sounds can be heard from within the
+forest, but the source of the noise cannot be seen.  
+~
+0 0 3
+D0
+~
+~
+0 0 7504
+D3
+~
+~
+0 0 7502
+S
+#7504
+In The Forest~
+The trail is extremely narrow here.  The wind blows through the trees
+causing what sounds like laughter.  The path continues to the north and
+south.  
+~
+0 0 3
+D0
+~
+~
+0 0 7505
+D2
+~
+~
+0 0 7503
+S
+#7505
+In The Forest~
+Tall trees line the north of the trail.  The forest growth is far too
+dense to allow passage in that direction.  The dirt path curves from south
+to west, while a smaller path branced off to the east.  
+~
+0 0 3
+D1
+~
+~
+0 0 7560
+D2
+~
+~
+0 0 7504
+D3
+~
+~
+0 0 7506
+S
+#7506
+In The Forest~
+The forest is quite dense to the north and south of the path below you. 
+Strange sounds can be heard from the forest, but the source of the sounds is
+not within sight.  The trail continues east and west through the trees.  
+~
+0 0 3
+D1
+~
+~
+0 0 7505
+D3
+~
+~
+0 0 7507
+S
+#7507
+In The Forest~
+A narrow dirt trail moves through the trees from east to west.  Small
+flashes of light appear to twinkle in the forest to the north and south.  
+~
+0 0 3
+D1
+~
+~
+0 0 7506
+D3
+~
+~
+0 0 7508
+S
+#7508
+In The Forest~
+A small dirt path, covered with forest debris, winds its way through the
+trees from east to west.  The forest growth to the south is too dense to
+allow passage.  To the north, a tremendous aged oak tree rises high into the
+sky.  
+~
+0 0 3
+D0
+~
+treetrunk~
+1 0 7509
+D1
+~
+~
+0 0 7507
+D3
+~
+~
+0 0 7510
+S
+#7509
+Inside The Oak Tree~
+You are inside of a tremendous oak tree.  Someone or something has
+hollowed out the tree.  There are hinges on the treetrunk to the south.  The
+hollowed tree continues down.  
+~
+0 9 3
+D2
+~
+treetrunk~
+1 0 7508
+D5
+~
+~
+0 0 7516
+S
+#7510
+In The Forest~
+A dense line of trees border the northern and western sides of the path. 
+The forest growth is too thick to travel in those directions.  The ground is
+covered with fallen leaves and twigs.  Strange sounds can be heard eminating
+from within the forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 7508
+D2
+~
+~
+0 0 7511
+S
+#7511
+In The Forest~
+There is a small clearing in the woods here.  The immense and aged trees
+of the forest encircle the clearing.  The clearing continues to the south
+and west, while a small path leads north into the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 7510
+D2
+~
+~
+0 0 7514
+D3
+~
+~
+0 0 7512
+S
+#7512
+In The Forest~
+There is a small clearing within the forest here.  The forest stands tall
+to the north and west of the clearing.  Flickers of movement can be seen
+amongst the trees.  The clearing continues to the south and east.  
+~
+0 0 3
+D1
+~
+~
+0 0 7511
+D2
+~
+~
+0 0 7513
+S
+#7513
+In The Forest~
+A small clearing begins here and continues to the north and east.  The
+ground is covered with fallen leaves and other forest debris.  Tall trees
+line the western and southern perimeters.  
+~
+0 0 3
+D0
+~
+~
+0 0 7512
+D1
+~
+~
+0 0 7514
+S
+#7514
+In The Forest~
+A break in the dense forest growth has created a small clearing here. 
+Unusual sounds can be heard coming from with the trees which lie south.  The
+clearing continues north and west, while a small dirt path leads to the
+east.  
+~
+0 0 3
+D0
+~
+~
+0 0 7511
+D1
+~
+~
+0 0 7515
+D3
+~
+~
+0 0 7513
+S
+#7515
+In The Forest~
+Strange sounds, accompanied by flashes of motion, eminate from the trees
+to the north and south.  A small path, covered with fallen twigs and leaves,
+winds its way to the east.  To the west, a small clearing can be seen
+through the trees.  
+~
+0 0 3
+D1
+~
+~
+0 0 7501
+D3
+~
+~
+0 0 7514
+S
+#7516
+Inside The Oak Tree~
+The center of this large tree has been carved out.  It has formed a very
+large room.  The darkness of the room continues above.  There appear to be
+hinges on the treetrunk to the north.  
+~
+0 9 3
+D0
+~
+treetrunk~
+1 0 7517
+D4
+~
+~
+0 0 7509
+S
+#7517
+The Sprite Glade~
+A wide open space stands in the center of the forest.  The glade is a
+blanket of green grass, covered with fallen leaves.  A tremendous oak tree
+lies directly south.  The glade continues to the north, west and east.  
+~
+0 0 3
+D0
+~
+~
+0 0 7523
+D1
+~
+~
+0 0 7519
+D2
+~
+treetrunk~
+1 0 7516
+D3
+~
+~
+0 0 7518
+S
+#7518
+The Sprite Glade~
+You are in the southwest corner of the glade.  Thick shrubs and tall
+trees line the southern and western sides of the clearing.  The ground is
+covered with grass, fallen leaves and small twigs.  The clearing continues
+to the east and north.  
+~
+0 0 3
+D0
+~
+~
+0 0 7524
+D1
+~
+~
+0 0 7517
+S
+#7519
+The Sprite Glade~
+There is a small clearing withing the forest here.  Tall aged trees hide
+the clearing from view of anyone outside the forest.  The glade continues
+east and west, along the treeline, as well as to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 7522
+D1
+~
+~
+0 0 7520
+D3
+~
+~
+0 0 7517
+S
+#7520
+The Sprite Glade~
+You are in the southeast corner of the glade.  A tremendous maple tree
+lies directly south.  The forest fauna to the east is too dense to travel
+through.  The glade continues to the north and west.  
+~
+0 0 3
+D0
+~
+~
+0 0 7521
+D2
+~
+treetrunk~
+1 0 7531
+D3
+~
+~
+0 0 7519
+S
+#7521
+The Sprite Glade~
+Small twigs and fallen leaves cover the grassy ground here.  The forest
+borders the eastern side of the clearing.  The glade continues to the north,
+south and west.  
+~
+0 0 3
+D0
+~
+~
+0 0 7528
+D2
+~
+~
+0 0 7520
+D3
+~
+~
+0 0 7522
+S
+#7522
+The Sprite Glade~
+Fallen leaves rest on the grass covered ground.  This clearing is quiet
+and peaceful.  The only sounds which can be heard are coming from the forest
+which surrounds the glade.  Travel is possible in every direction, save for
+above and below.  
+~
+0 0 3
+D0
+~
+~
+0 0 7527
+D1
+~
+~
+0 0 7521
+D2
+~
+~
+0 0 7519
+D3
+~
+~
+0 0 7523
+S
+#7523
+The Sprite Glade~
+Green grass covers the floor of the glade.  Fallen leaves tumble
+sporadically along it, pushed by the breeze.  The clearing continues to the
+north, south, east and west.  
+~
+0 0 3
+D0
+~
+~
+0 0 7526
+D1
+~
+~
+0 0 7522
+D2
+~
+~
+0 0 7517
+D3
+~
+~
+0 0 7524
+S
+#7524
+The Sprite Glade~
+This small clearing, deep with the forest, is surrounded by huge trees on
+all sides.  There does not appear to be any way in or out of it.  Forest
+debris covers the glade, which continues to the north, south and east.  
+~
+0 0 3
+D0
+~
+~
+0 0 7525
+D1
+~
+~
+0 0 7523
+D2
+~
+~
+0 0 7518
+S
+#7525
+The Sprite Glade~
+You are in the northeast corner of the clearing.  Aged trees reach high
+above to the north and west.  The tree growth is far too thick to travel
+through.  The glade stretches on to the east and south.  
+~
+0 0 3
+D1
+~
+~
+0 0 7526
+D2
+~
+~
+0 0 7524
+S
+#7526
+The Sprite Glade~
+A large clearing stands in the center of the vast forest.  Fallen leaves
+and twigs lie scattered about the ground.  Directly north, the door to a
+small cabin sits amongst the trees.  The glade continues to the west, east
+and south.  
+~
+0 0 3
+D0
+~
+door~
+1 0 7529
+D1
+~
+~
+0 0 7527
+D2
+~
+~
+0 0 7523
+D3
+~
+~
+0 0 7525
+S
+#7527
+The Sprite Glade~
+Tall aged trees surround a break in the greenbelt here.  Strange sounds
+can be heard eminating from the trees, but their source is unseen.  The
+grassy floor of the glade continues to the west, east and south.  
+~
+0 0 3
+D1
+~
+~
+0 0 7528
+D2
+~
+~
+0 0 7522
+D3
+~
+~
+0 0 7526
+S
+#7528
+The Sprite Glade~
+You are in the northeast corner of the glade.  A line of trees blocks the
+way to the north.  A large group of bushes stand between the trees to the
+east.  The clearing continues to the south and west.  
+~
+0 0 3
+D1
+~
+bush~
+1 0 7533
+D2
+~
+~
+0 0 7521
+D3
+~
+~
+0 0 7527
+S
+#7529
+Alanna's House~
+You are in the home of Alanna, the princess of the fairies.  Everything
+within the home is sized for an elf.  Tiny elf windows, framed with tiny elf
+curtains, tiny elf furniture, even the door is elf sized.  
+~
+0 8 3
+E
+furniture~
+It is tiny elven furniture!
+~
+E
+curtains~
+Curtains made by elves, for elves, frame the elf windows.
+~
+E
+windows~
+They are tiny elf windows!
+~
+D2
+~
+door~
+1 0 7526
+S
+#7530
+The Treasure Room~
+This room is made of solid gold, the walls, the floor, the ceiling, all
+gold.  Ancient elven runes cover the walls here.  The room is completely
+empty.  
+~
+0 268468236 0
+E
+runes~
+The runes appear to be elven in nature.
+If only you could decipher them.
+~
+S
+#7531
+Inside The Maple Tree~
+The inside of this maple tree has been hollowed out.  Someone has put
+hinges on the treetrunk to the north.  The darkness of the tree continues
+upwards.  
+~
+0 9 3
+D0
+~
+treetrunk~
+1 0 7520
+D4
+~
+~
+0 0 7532
+S
+#7532
+Inside The Maple Tree~
+You have reached the top of the tree.  The smell of wood and sap is quite
+intense here.  There appear to be hinges built into the tree on the northern
+side.  The hollowed tree continues down.  
+~
+0 9 3
+D0
+~
+treetrunk~
+1 0 7540
+D5
+~
+~
+0 0 7531
+S
+#7533
+In The Bushes~
+Thick bushes and vines are all about you.  Large, ancient trees rise up
+above you.  To the west, a small clearing can be seen through the bushes.  A
+small door to a stone building lies directly east.  
+~
+0 0 3
+D1
+~
+door~
+1 0 7534
+D3
+~
+bush~
+1 0 7528
+S
+#7534
+The Gathering Place~
+You are in a tremendous hall.  Candles burn in holders made of gold on
+the walls.  The sprites gather here to talk and pass on stories to the
+young.  There are doors to the north and west, the hall continues to the
+south and east.  
+~
+0 8 1
+D0
+~
+door~
+1 0 7535
+D1
+~
+~
+0 0 7538
+D2
+~
+~
+0 0 7536
+D3
+~
+door~
+1 0 7533
+S
+#7535
+Galin's Room~
+A small window looks out over the forest.  While the furnishings in the
+room are few, they are quite regal in design.  The only exit is the door to
+the south.  
+~
+0 8 1
+E
+window~
+The view of the forest is astounding!
+~
+D2
+~
+door~
+1 0 7534
+S
+#7536
+The Gathering Place~
+The walls of this hall are covered with colorful murals.  The murals
+depict sprites frolicing about the forest and clouds.  Golden candle holders
+provide more than ample light here.  The hall continues to the north and
+east.  
+~
+0 8 1
+E
+murals~
+You see vivid paintings of sprites frolicing about the forest and the
+clouds.  
+~
+D0
+~
+~
+0 0 7534
+D1
+~
+~
+0 0 7537
+S
+#7537
+The Gathering Place~
+This large hall is where the sprites gather and pass on traditions.  A
+large candlestand in the corner provides light for the room.  The eastern
+wall has small windows set into it.  The hall continues to the north, south
+and west.  
+~
+0 8 1
+E
+windows~
+You can see the forest!
+~
+D0
+~
+~
+0 0 7538
+D2
+~
+~
+0 0 7539
+D3
+~
+~
+0 0 7536
+S
+#7538
+The Gathering Place~
+This enormous well lit hall has been decorated with bright, vivid colors.
+Small windows line the eastern wall, leading out to the forest.  The sounds
+of birds chirping and small animals communicating drift in through the
+windows.  The hall continues to the west and south.  
+~
+0 8 1
+E
+windows~
+You can see a countless number of trees through the window.  
+~
+D2
+~
+~
+0 0 7537
+D3
+~
+~
+0 0 7534
+S
+#7539
+The Gathering Place~
+Ancient runes cover the walls in this section of the hall.  Their message
+known only to those who carved them, and the sprite elders.  Intricate gold
+guilding frames the corners of the room.  
+~
+0 8 1
+E
+runes~
+~
+E
+runes~
+The runes are ancient, and impossible to decipher.
+~
+D0
+~
+~
+0 0 7537
+S
+#7540
+Above The Glade~
+You are on a small cloud, high above the clearing in the forest.  From
+this height, the fall would be quite deadly.  A tremendous tree pokes
+through the cloud to the south.  There are more clouds to the north, west
+and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 7544
+D1
+~
+~
+0 0 7541
+D2
+~
+treetrunk~
+1 0 7532
+D3
+~
+~
+0 0 7542
+S
+#7541
+Above The Glade~
+Peering over the side of the small cloud below you, a clearing can be
+seen in the forest below.  Movement can be seen on the ground, but the forms
+are indistinguishable.  A large cloud lies to the north, another lies to the
+west.  
+~
+0 0 1
+D0
+~
+~
+0 0 7545
+D3
+~
+~
+0 0 7540
+S
+#7542
+Above The Glade~
+You are on a small cloud, high above the glade in the forest.  Looking to
+the south and west provides an extraordinary view of the forest.  Another
+cloud lies to the east, and still another to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 7543
+D1
+~
+~
+0 0 7540
+S
+#7543
+Above The Glade~
+A fluffy white cloud is below you.  Some strange magic is preventing you
+from falling through it.  It is a good thing, too, for the drop into the
+clearing below would be fatal.  More clouds lie to the north, south, west
+and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 7548
+D1
+~
+~
+0 0 7544
+D2
+~
+~
+0 0 7542
+D3
+~
+~
+0 0 7546
+S
+#7544
+Above The Glade~
+You are in the center of a small group of clouds.  Directly below you
+lies a puffy cloud of white.  Below the cloud is a long, long drop into a
+clearing in the forest.  The pack of clouds continues to the north, south,
+east and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 7547
+D1
+~
+~
+0 0 7545
+D2
+~
+~
+0 0 7540
+D3
+~
+~
+0 0 7543
+S
+#7545
+Above The Glade~
+You are on the eastern side of a small group of clouds.  Magic of some
+sort has been cast upon the cloud, for anyone can stand on the cloud and not
+fall through it.  Far below you, a small clearing can be seen in a vast
+forest. 
+~
+0 0 1
+D2
+~
+~
+0 0 7541
+D3
+~
+~
+0 0 7544
+S
+#7546
+Above The Glade~
+A white, fluffy cloud is directly below you.  Beyond the edge of the
+cloud, a small clearing can be seen below.  Looking south and west provide
+extraordinary views of the forest.  More clouds lie to the north and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 7549
+D1
+~
+~
+0 0 7543
+S
+#7547
+Above The Glade~
+A large white cloud is below you.  It is a most unusual cloud, as you
+cannot seem to pass through it.  To the north and east, the treetops of the
+forest can be seen.  Additional clouds float to the south and west.  
+~
+0 0 1
+D2
+~
+~
+0 0 7544
+D3
+~
+~
+0 0 7548
+S
+#7548
+Above The Glade~
+A very fluffy, puffy white cloud floats below you.  The north displays an
+amazing view of the forest.  Beyond the cloud below, a small glade can be
+seen in the forest.  More clouds lie to the south, west and east.  
+~
+0 0 1
+D1
+~
+~
+0 0 7547
+D2
+~
+~
+0 0 7543
+D3
+~
+~
+0 0 7549
+S
+#7549
+Above The Glade~
+A large white cloud billows around you.  Beyond the fluffiness, a small
+glade can be seen below.  A spectacular view of the forest can be seen
+looking west.  A large stone structure lies directly north.  To the south
+and east, more clouds float merrily.  
+~
+0 0 1
+D0
+~
+door~
+1 0 7550
+D1
+~
+~
+0 0 7548
+D2
+~
+~
+0 0 7546
+S
+#7550
+The Castle In The Clouds~
+You stand in a large hallway of built of stone.  Vivid tapestries
+depicting sprites throughout the forest hang on the walls.  There is a large
+stone door to the south.  The hallway continues to the north.  
+~
+0 8 1
+D0
+~
+~
+0 0 7551
+D2
+~
+door~
+1 0 7549
+S
+#7551
+The Castle In The Clouds~
+A large candle chandelier hangs from the high arched ceiling.  Colorful
+tapestries hang from the walls.  The hallway continues to the south, a well
+lit room lies to the north.  
+~
+0 8 1
+E
+chandelier~
+The hundreds of candles withing it provide light for the room.  
+~
+E
+tapestries~
+You see colorful renditions of sprites in the forest.
+~
+D0
+~
+~
+0 0 7552
+D2
+~
+~
+0 0 7550
+S
+#7552
+The Throne Room~
+Intricate golden guilding covers the walls and ceiling of this room. 
+Marble pillars, with strips of inlaid gold, support the curved ceiling. 
+Numerous torches throughout the room provide light, which reflect off the
+gold in turn causing further illumination.  An immense throne of gold rests
+on a pedestal, while a smaller, silver one sits to its right.  
+~
+0 8 1
+E
+throne~
+You see two thrones, one of gold and one of silver.
+~
+D1
+~
+door~
+1 0 7554
+D2
+~
+~
+0 0 7551
+D3
+~
+door~
+1 0 7553
+S
+#7553
+Reilla's Antechamber~
+This is the antechamber of Reilla, queen of the sprites.  Large windows
+allow sunshine to stream in during the daytime.  Pleasant perfumed scents
+fill the air.  There are many plush couches and cushions scattered about the
+room.  
+~
+0 8 1
+E
+windows~
+You can see the entire sprite forest!  
+~
+D1
+~
+door~
+1 0 7552
+S
+#7554
+Zidan's Antechamber~
+This is the antechamber of Zidan, ruler of the sprites.  A large painting
+of Zidan's forefathers, leading the sprites through a portal to the forest
+hangs on one wall.  A large window looks out over the forest.  The only exit
+is the door to the west.  
+~
+0 8 1
+E
+painting~
+You see a few sprites leading thousands through a portal.
+~
+E
+window~
+Every section of the sprite forest can be seen through this window.  
+~
+D3
+~
+door~
+1 0 7552
+S
+#7555
+A Narrow Dirt Path~
+A well travelled road can be seen to the north.  Trees line the side of
+this small dirt path.  River banks lie to the east and the west.  To the
+south, an aged stone bridge crosses over the Shandalar River.
+~
+0 0 3
+D0
+~
+~
+0 0 31120
+D1
+~
+~
+0 0 31476
+D2
+~
+~
+0 0 7561
+D3
+~
+~
+0 0 31479
+S
+#7556
+A Narrow Dirt Path~
+The dirt path below you winds its way through the greenbelt around you. 
+The path is quite narrow, but just wide enough to allow passage.  It travels
+from the stone bridge to the north through the trees and continues west.  
+~
+0 0 3
+D0
+~
+~
+0 0 7561
+D3
+~
+~
+0 0 7557
+S
+#7557
+A Narrow Dirt Path~
+Thick vines grow amidst the trees which line the sides of the path. 
+Travel through the tree line is not possible.  The path bends from east to
+south.  
+~
+0 0 3
+D1
+~
+~
+0 0 7556
+D2
+~
+~
+0 0 7558
+S
+#7558
+A Narrow Dirt Path~
+The tree growth to the south is much denser than the growth to the north.
+To the southwest, immense trees and clouds tower above those which line the
+path.  The dirt path below you continues to the north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 7557
+D2
+~
+~
+0 0 7559
+S
+#7559
+A Narrow Dirt Path~
+Large trees surround the path below you on all sides, save for north and
+west.  The narrow trail curves through the trees from north to west. 
+Immense trees, much larger than those by the path, can be seen to the west. 
+~
+0 0 3
+D0
+~
+~
+0 0 7558
+D3
+~
+~
+0 0 7560
+S
+#7560
+By The Runestone~
+The trees by the pathside are ancient and large.  They come together
+above you to form a canopy.  Neither sunlight nor moonlight have touched the
+ground here for centuries.  There is a large {Rstone {xby the side of the
+path.  The only exits from the trees are east and west.  
+~
+0 9 3
+E
+stone~
+The stone is covered with ancient runes which are incomprehensible.  As
+you stare at it, the runes magically change into a language you can
+understand.  It reads, "The Forest of Zidan lies to the west.  All who are
+of Zidan's tribe may enter freely.  All others beware."  
+~
+D1
+~
+~
+0 0 7559
+D3
+~
+~
+0 0 7505
+S
+#7561
+An Ancient Stone Bridge~
+A large bridge built of huge, square chunks of stone closes the gap to
+the north and south.  Beneath the bridge, a deep river flows rapidly from
+east to west.  All is silent here save for the bubbling water flowing below
+you.  Steep river banks lie to the east and west.  
+~
+0 0 3
+D0
+~
+~
+0 0 7555
+D2
+~
+~
+0 0 7556
+S
+#0
+
+
+
+#SPECIALS
+M 7512 spec_thief Load to: the sprite jester
+M 7514 spec_cast_mage Load to: Reilla
+S
+
+
+
+#MOBPROGS
+#7507
+if ispc $n
+ mob echoat $n A sprite guard says, 'I am sworn to protect. You are not welcome here, $n.'
+ mob remember $n
+ mob delay 1
+endif
+~
+A
+#7506
+mob zecho {YFrom amidst the trees, the laughter of sprites echoes through the forest.{x
+~
+A
+#7505
+if isdelay $i
+ break
+ else
+ if level $r < 20
+ say You are not so strong, $r. To prove it I will kill you.
+ mob remember $r
+ mob delay 1
+endif
+~
+A
+#7504
+if hastarget $i
+ kill $q
+ else
+mob forget
+~
+A
+#7502
+if isdelay $i
+ break
+ else
+ if level $n < 20
+ say You are not so strong, $n. To prove it I will kill you.
+ mob remember $n
+ mob delay 1
+endif
+~
+A
+#7501
+if isdelay $i
+ break
+ else
+ if clan $n Venari
+ mob echoat $n Galin says, 'Selina welcomes Venari with open arms, and I welcome you.'
+ mob remember $n
+ mob delay 1
+ else
+ if clan $n Loner
+ mob echoat $n Galin says, 'The life of a loner is one of danger, fare thee well.'
+ mob remember $n
+ mob delay 1
+ else 
+ if clan $n Kindred
+ mob echoat $n Galin says, 'Selina depises the clans of Terra, leave immediately!'
+ mob remember $n
+ mob delay 1
+ else
+ if clan $n Eclipse 
+ mob echoat $n Galin says, 'Selina depises the clans of Terra, leave immediately!'
+ mob remember $n
+ mob delay 1
+ else
+ if clan $n Justice
+ mob echoat $n Galin says, 'Selina depises the clans of Terra, leave immediately!'
+ mob remember $n
+ mob delay 1
+ else
+ if clan $n Seeker
+ mob echoat $n Galin says, 'Selina depises the clans of Terra, leave immediately!'
+ mob remember $n
+ mob delay 1
+endif
+~
+A
+#7500
+if ispc $n
+ mob echoat $n A shrub sprite says, 'I don't want to die, $n!'
+endif
+~
+A
+#7503
+if hastarget $i
+ if clan $q Loner
+ smile $q
+ else 
+ if clan $q Venari
+ smile $q
+ else
+ if clan $q Seeker
+ kill $q
+ else
+ if clan $q Kindred
+ kill $q
+ else 
+ if clan $q Justice
+ kill $q
+ else
+ if clan $q Eclipse
+ kill $q
+ else
+ mob forget
+endif
+~
+A
+#7508
+if hastarget $i
+ kill $q
+ else
+ mob forget
+endif
+~
+A
+#0
+
+#RESETS
+D 0 7508 0 1
+D 0 7509 2 1
+D 0 7516 0 1
+D 0 7517 2 1
+D 0 7520 2 1
+D 0 7526 0 1
+D 0 7528 1 1
+D 0 7529 2 1
+D 0 7531 0 1
+D 0 7532 0 1
+D 0 7533 1 1
+D 0 7533 3 1
+D 0 7534 0 1
+D 0 7534 3 1
+D 0 7535 2 1
+D 0 7540 2 1
+D 0 7549 0 1
+D 0 7550 2 1
+D 0 7552 1 1
+D 0 7552 3 1
+D 0 7553 1 1
+D 0 7554 3 1
+M 1 7500 4 7503 1
+M 1 7501 3 7503 1
+M 1 7501 3 7507 1
+M 1 7500 4 7508 2
+M 1 7500 4 7508 2
+M 1 7502 1 7509 1
+M 1 7501 3 7512 1
+M 1 7500 4 7513 1
+M 1 7504 4 7518 1
+M 1 7505 3 7518 1
+E 0 7500 0 16
+M 1 7504 4 7520 1
+M 1 7504 4 7522 1
+M 1 7505 3 7522 1
+E 0 7500 0 16
+M 1 7505 3 7525 1
+E 0 7500 0 16
+M 1 7504 4 7526 1
+M 1 7506 1 7529 1
+E 0 7501 0 16
+E 0 7502 0 8
+M 1 7503 1 7532 1
+M 1 7507 1 7533 1
+M 1 7509 3 7534 1
+M 1 7508 1 7535 1
+E 0 7503 0 16
+M 1 7509 3 7537 1
+M 1 7509 3 7539 1
+M 1 7510 5 7541 1
+M 1 7510 5 7542 1
+M 1 7510 5 7544 1
+M 1 7510 5 7548 2
+M 1 7510 5 7548 2
+M 1 7511 1 7550 1
+E 0 7504 0 16
+M 1 7513 1 7552 1
+E 0 7504 0 16
+M 1 7514 1 7553 1
+E 0 7505 0 9
+E 0 7506 0 13
+E 0 7507 0 3
+M 1 7512 1 7554 1
+M 1 7515 1 7554 1
+E 0 7508 0 6
+E 0 7509 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

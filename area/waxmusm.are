@@ -1,0 +1,1802 @@
+#AREADATA
+Name Wax Museum~
+Builders None~
+VNUMs 14800 14899
+Credits { 8 16} Khadar      Wax Museum~
+Security 9
+Xcontinent 1
+Age 12
+Questable 1
+End
+
+
+
+#MOBILES
+#14800
+butler~
+the Butler~
+Khadar's Butler is here seeing to your needs.
+~
+Khadar's butler isn't the sharpest Knife in the drawer. But he serves well,
+so leave him alone.
+~
+human~
+ABG LV 1000 0
+51 5 50d10+5000 1d1+100 5d8+20 shbite
+-21 -21 -21 -21
+BCEFHIK AZ 0 0
+stand stand none 200000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14801
+puddle goo~
+puddle of goo~
+A living puddle is here.
+~
+A puddle of living wax slides across the floor. Leaving waxen trails like
+slime from a disgusting snail, for all to slip and fall in.
+~
+human~
+ABGH a -500 0
+8 0 2d7+96 1d1+100 1d7+2 slime
+6 6 6 9
+FKNP 0 0 0
+stand stand none 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14802
+the doorman~
+the doorman~
+The Doorman stands here daring you to enter the Wax Museum.
+~
+He's a stout man with his arms folded firmly across his chest. You feeling
+lucky, Punk?
+~
+human~
+ABG DV -100 0
+7 0 2d6+85 1d1+100 1d8+1 crush
+4 4 4 9
+EFP Z B 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14803
+the doorman~
+the doorman~
+The Doorman stands here daring you to enter the Wax Museum.
+~
+He's a stout man with his arms folded firmly across his chest. You feeling
+lucky, Punk?
+~
+human~
+ABG DV -100 0
+7 0 2d6+85 1d1+100 1d8+1 crush
+4 4 4 9
+EFP Z B 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14804
+Zachi Scribe~
+Zachi~
+Zachi the Master Scribe is here penning out history.
+~
+This odd little man doesn't even notice you as you enter the room. He is 
+far too busy scribbling down notes in his little book of parchment.
+~
+human~
+ABGHS PV -500 0
+8 0 2d7+96 1d1+100 1d7+2 slap
+6 6 6 8
+0 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14805
+ancient beast~
+the ancient beast~
+A strange beast towers over you.
+~
+Red eyes glow at you through a face covered in hair. Steam pours from
+it's nostrils, and hate pulsates from it's body.
+~
+bear~
+ABGH V -400 0
+8 0 2d7+96 1d1+100 1d7+2 bite
+4 4 4 5
+DEO 0 EI 0
+stand stand none 200
+AGV ABCDEFHJKUV giant 0 the guilds~
+#14806
+waxen wolf~
+a waxen wolf~
+A wolf carved from wax is here.
+~
+This statue sure looks like a wolf. Kinda smells like one too.
+~
+wolf~
+ABG Z -550 0
+7 0 2d6+85 1d1+100 1d8+1 bite
+4 4 4 4
+FH 0 0 0
+stand stand none 223
+AGV ACDEFJKQV medium 0 the guilds~
+#14807
+dust bunny~
+a dust bunny~
+A Dust Bunny is here chewing your toes!
+~
+This dust bunny has been under the bed for too long.  He's small but he's
+mean.  
+~
+rabbit~
+AFGY BV -400 0
+8 0 2d7+96 1d1+100 1d7+2 chomp
+3 3 3 8
+FHIJ 0 E 0
+stand stand female 330
+AGV ACDEFHJK tiny 0 the guilds~
+#14808
+Serpent Warlord~
+The Serpent Warlord~
+A Serpent Warlord is here defending the race.
+~
+This Serpent Warlord once led his minions to battle.  Legend has it that
+the race was slaughtered and butchered, and that at the end of the battle
+only this one serpent warlord remained.  Driven by guilt he hurled himself
+off of the edge of a cliff and was never seen again.    
+~
+lizard~
+ABFGT HVa -800 0
+9 0 2d6+110 1d1+100 1d8+2 smash
+2 2 2 4
+CJK 0 L I
+stand stand male 1500
+AGXc ACDEFHKQV medium 0 the guilds~
+#14809
+waxen horror freak~
+a waxen horror~
+Some kind of wax freak cowers in the corner.
+~
+Liquid wax bubbles and drips from every limb. This Wax horror should never
+have come to be. It writhes in pain, but greed and hatred glow from within
+it's liquid form.
+~
+modron~
+ABGSY JVa -700 0
+9 0 2d6+110 1d1+100 1d8+2 slime
+2 2 2 4
+QR BMNPQ HIK 0
+stand stand male 700
+H ABCGHJK medium 0 the guilds~
+#14810
+Serpent Soldier~
+A serpent soldier~
+A Serpent Soldier is here dying for his race.
+~
+This foot soldier was once a part of the serpent army. Long since dead he 
+has been brought back to serve the Curator and his dark powers.
+~
+lizard~
+ABG V -500 0
+7 0 2d6+85 1d1+100 1d8+1 punch
+4 4 4 6
+EFP 0 L I
+stand stand male 238
+AGXc ACDEFHKQV medium 0 the guilds~
+#14811
+worshipper~
+a worshipper~
+A worshipper is here pleading with the gods.
+~
+On bended knee he cries out to the gods. 
+~
+human~
+ABGH V -300 0
+9 0 2d6+110 1d1+100 1d8+2 none
+2 2 2 2
+CEFI 0 0 0
+stand stand male 90
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14812
+giant moth~
+a giant moth~
+A giant moth is here chewing on an old costume.
+~
+This is the biggest moth that you've ever seen. He must've eaten hundreds
+of costumes to get this size. He notices your clothing and licks his lips
+in glee. MMMMMMM fresh food!
+~
+wyvern~
+ABGTY CDFTV -500 0
+11 -1 2d8+134 1d1+100 1d10+2 pierce
+1 1 1 4
+CFH KL 0 S
+sit stand male 990
+ABGZ ACDEFHJKQVX large 0 the guilds~
+#14813
+petty thief~
+a petty thief~
+A petty thief is here hiding in the shadows
+~
+Hang out in the museum.  Go unnoticed, rip off a few wallets.  Easy Money!  
+~
+human~
+ACGHS QV -500 0
+9 0 2d6+110 1d1+100 1d8+2 none
+2 2 2 4
+BCEF 0 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14814
+mutant statue~
+a mutant statue~
+A Wax Statue of a Mutant is set here.
+~
+What was the sculptor on when he carved this?? The eyes are uneven, the 
+mouth is twisted into a snarl and set off to the side of it's head. The
+limbs are uneven, but powerfully built. This Mutant is messed up and ticked
+off!
+~
+orc~
+ABFGTY DIJV -900 0
+12 -1 2d10+150 1d1+100 1d10+3 pound
+0 0 0 1
+CJK A Q S
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14815
+bran man~
+a bran man~
+A sick man is quivering near the stalls.
+~
+This guy had one taco too many! P-U.
+~
+goblin~
+ABG JMV -400 0
+9 0 2d6+110 1d1+100 1d8+2 beating
+2 2 2 4
+EI 0 Q C
+stand stand none 600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14816
+wax molder~
+a wax molder~
+A Wax Molder is here sizing you up.
+~
+This is an odd looking creature. Wax covers his hands and clothing. He 
+looks at you and begins to mumble measurements. He'd like to make you 
+immortal, forever incased in wax.
+~
+human~
+ABGRY QV -300 0
+14 1 2d10+190 1d1+100 1d12+3 slash
+-1 -1 -1 4
+CEN 0 0 C
+stand stand male 1200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14817
+Chloe Red~
+Chloe the Red~
+Chloe the Red fallen priestess of love is here.
+~
+A fair maiden with flowing red hair, Chloe was once a disciple of the 
+goddess of love. Now, she serves a dark master. The Nameless one from the
+bowels of hell. Prepare to feed the demons with your flesh!
+~
+human~
+ABGQ HV -600 0
+8 1 2d7+96 1d1+100 1d7+2 magic
+3 3 3 3
+ACK 0 0 0
+stand stand female 987
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14818
+wax soldier~
+a wax soldier~
+A Wax Soldier stands here defensively
+~
+This is a very crude statue. There are faint white scars covering the body.
+The face is rough but somehow comforting. This must have been a true hero.
+~
+giant~
+ABGT Va 400 0
+16 -2 3d9+233 1d1+100 2d6+4 crush
+-2 -2 -2 1
+CEP 0 HI JP
+stand stand male 2300
+AHMV ABCDEFGHIJK huge 0 the guilds~
+#14819
+Gimp~
+a gimp~
+An evil Gimp is here setting small fires.
+~
+The Gimp is a tiny devil that dances around giggling while setting fire to
+anything and everything near it.
+~
+gnome~
+ABG FJV -400 0
+8 0 2d7+96 1d1+100 1d7+2 none
+2 2 2 4
+DJR 0 BE HK
+stand stand male 50
+ABHMV ABCDEFGHIJKUV medium 0 the guilds~
+#14820
+Curator~
+the Curator~
+The Curator is here to mold your soul.
+~
+The Curator grins at you with insanity in his eyes. You notice tiny horns
+protruding from his temples. He leers at you from across the room, and 
+runs his pointy tongue over blood-drenched fangs.
+~
+modron~
+ABFGR BDHJV -880 0
+18 1 3d9+283 1d1+100 2d7+4 blast
+3 3 3 6
+CFQR BMNPQ HIK NS
+stand stand male 1000
+ABGHZ ABCDEFGHJKQVX medium 0 the guilds~
+#14821
+stinky janitor~
+stinky janitor~
+A Stinky Janitor mops up around the museum.
+~
+This guy should stop washing floors, and start washing himself. He's 
+covered in some sort of strange muck. And he STINKS!
+~
+human~
+AGY PV 5 0
+15 1 3d9+208 1d1+100 2d6+3 whip
+-2 -2 -2 3
+EI 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14822
+horny toad~
+horny toad~
+A Horny Toad floats around in the muck.
+~
+He's skinny dipping in the septic tank. He's stinky, he's dirty, and he
+love's it.
+~
+lizard~
+ABFG QV 0 0
+15 1 3d9+208 1d1+100 2d6+3 thwack
+-2 -2 -2 4
+FINP 0 L I
+stand stand none 222
+AGXc ACDEFHKQV medium 0 the guilds~
+#14823
+Crazy Uncle Joe halfwit~
+Crazy Uncle Joe~
+There is a halfwit cowering in the corner.
+~
+Joe was always an embarassment to his relatives. So for a reasonable price
+his nephew the musuem curator agreed to take him in and take care of him.
+Ever since that day Crazy Uncle Joe has been boarded up here in the museum
+attic.
+~
+troll~
+ABCG JX -400 0
+12 1 2d10+150 1d1+100 1d10+3 slap
+0 0 0 3
+DEFK 0 Q H
+stand stand male 90
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M grall 14800 100~
+#14824
+animated chair~
+a chair~
+A chair sits in the middle of the floor.
+~
+Kinda looks like.....a chair.
+~
+human~
+ABFGT V -500 0
+10 0 2d7+121 1d1+100 2d4+2 crush
+1 1 1 4
+EFI 0 0 0
+stand stand female 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14825
+wax worker~
+A wax worker~
+A wax worker is here sculpting.
+~
+Leave me alone!! Can't you see I'm busy!! The wax worker is annoyed and
+walking towards you!
+~
+human~
+ABG V -500 0
+9 0 2d6+110 1d1+100 1d8+2 beating
+2 2 2 4
+P 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14826
+Master Pain Executioner~
+The Master of Pain~
+The Master of Pain is here poised for the kill.
+~
+A stout figure stands grimmly beside the guillotine. No emotion is shown 
+on his plain face. Pain is his father and Death is his bride. Prepare to Die!!
+~
+dwarf~
+ABGT JVa -600 0
+12 -1 2d10+150 1d1+100 1d10+3 crush
+0 0 0 5
+EFJK 0 LQ R
+stand stand none 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14827
+Red Death~
+The Red Death~
+The Red Death is here to carry you to oblivion.
+~
+The Red Death is a figure of awesome power. As his gaze turns to you the
+room becomes colder. Cloaked in robes the color of blood, he seeks to end
+all life. With a wicked cackle he walks towards YOU!!
+~
+wyvern~
+ABG DFTVb -800 0
+21 0 4d10+360 1d1+100 4d4+5 chill
+-3 -3 -3 0
+CFH L 0 S
+stand stand male 2500
+ABGZ ACDEFHJKQVX huge 0 the guilds~
+#14828
+suit of armor~
+a suit of armor~
+A Suit of Armor is here glowing with an unholy aura.
+~
+Standing, glistening, adorned with an unrecognizable crest.  This armor
+was once worn by a great warrior, or perhaps it's just a replica and only
+ever worn by a waxen statue of a great warrior.  
+~
+human~
+ABFGT DVa -500 0
+10 0 2d7+121 1d1+100 2d4+2 beating
+1 1 1 2
+EFJK 0 0 0
+stand stand male 2123
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14829
+artificial elf~
+an artificial elf~
+A waxen elf crouches behind artificial shrubs.
+~
+Fair hair, light eyes, upswept ears. Yep, looks like an elf. But the flesh
+is firm and waxen. Is it a statue, real, or something between the two.
+~
+elf~
+ABGT JPQV -550 0
+11 0 2d8+134 1d1+100 1d10+2 punch
+1 1 1 4
+FINP 0 BE Z
+stand stand none 900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14830
+Pirate Statue~
+A Pirate Statue~
+The statue of a pirate is here plundering.
+~
+Once a powerful and feared being this hapless pirate has been immortalized
+in wax. It looks much like a statue, and you would've passed by it without
+a second glance except for the blood-red eyes.
+~
+human~
+ABGS V -800 0
+10 1 2d7+121 1d1+100 2d4+2 stab
+1 1 1 1
+BEF 0 0 0
+stand stand male 700
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14831
+Pandar~
+Pandar the Unholy~
+Pandar the Unholy priest of the Goblins is before you in wax.
+~
+Pandar in his time was known for his bloody ways. He was a force behind
+evil magic that roamed Dominia for centuries. He was slain by a demon
+of his own creation long ago. But the Curator found a way to bring him back!
+~
+goblin~
+ABGQ JV -400 0
+12 0 2d10+150 1d1+100 1d10+3 magic
+1 1 1 6
+EK 0 Q C
+stand stand male 900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14833
+mad maiden~
+the mad maiden~
+A Maiden is here shivering in the dirt.
+~
+This woman was probably kidnapped long ago for her once beautiful body. 
+Now she has been reduced to a half-starved raving lunatic.
+~
+human~
+ABGH PV -400 0
+22 1 5d10+400 1d1+100 4d4+6 scratch
+-4 -4 -4 -2
+EFHIK 0 0 C
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14834
+Priest of Yar~
+a Priest of Yar~
+A Priest draped in black is here preparing a sacrifice to the dark gods.
+~
+His face is hidden beneath a black cowl. Blood drips from his finger tips,
+and evil pulsates from his very being. 
+~
+modron~
+ABGR DHJV -900 0
+24 0 5d10+500 1d1+100 2d10+6 blast
+-8 -8 -8 2
+QR BMNPQ HIK 0
+stand stand male 2000
+H ABCGHJK huge 0 the guilds~
+#14835
+Pepe mutant ~
+Pepe~
+Pepe the failed creation of the curator is here.
+~
+Pepe was once an innocent child that roamed through the city streets
+whistling and merry-making. He was kidnapped by the Curator as a child
+and was on of his first experiments with flesh, wax, and magic. The Curator
+failed.
+~
+hobgoblin~
+AFG JV -600 0
+24 0 5d10+500 1d1+100 2d10+6 grep
+-6 -6 -6 0
+EFJ 0 LQ 0
+stand stand none 800
+AHMV ABCDEFGHIJKY medium 0 the guilds~
+#14836
+blind ghoul~
+a blind ghoul~
+A Ghoul is here with empty eye-sockets searching in the dark.
+~
+Whatever this thing was before it died, will always be a mystery. Now all
+that's left is a rotted and undead corpse.
+~
+dwarf~
+ABG AJV -500 0
+23 1 5d10+450 1d1+100 3d6+6 bite
+-4 -4 -4 5
+0 0 LQ R
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#14801
+iron key~
+a dull key~
+The Museum key lies here.~
+iron~
+key 0 A
+0 0 0 0 0
+0 1 0 P
+#14802
+display case~
+a glass display case~
+A display case sits here shimmering.~
+glass~
+container Y 0
+1000 ACD 14803 3 100
+0 0 0 P
+#14803
+marble case key~
+a marble key~
+The Key to the Display Case is here.~
+marble~
+key 0 AO
+0 0 0 0 0
+0 100 0 P
+#14804
+broken twig~
+a twig~
+A broken twig lies here humming softly.~
+wood~
+wand AG AO
+10 3 3 'bark skin' 0
+5 20 800 P
+#14805
+Crystal Sword~
+the Crystal Sword~
+A Weapon of absolute power hovers here.~
+Crystal~
+weapon 0 AN
+exotic 20 20 wrath ABDGH
+54 50 0 P
+A
+12 1000  
+A
+13 1000  
+A
+18 15  
+A
+19 15  
+#14806
+Glowing Skull~
+A Glowing Skull~
+A human skull lies here glowing brightly.~
+bone~
+light ABMT A
+0 0 999 0 0
+9 20 300 P
+A
+1 1  
+#14807
+ostrich feather~
+an Ostrich Feather~
+A Feather with a sharp steel tip is here.~
+feathers~
+weapon 0 AN
+dagger 2 2 stab 0
+6 10 700 P
+#14808
+dented shield~
+a dented shield~
+An old shield lies here.~
+iron~
+armor 0 AJ
+5 5 4 1 0
+6 20 998 P
+#14809
+Wax mask~
+a wax mask~
+A wax mask lies here hoping to be worn on warm flesh.~
+wax~
+armor Gbd AE
+4 3 4 1 0
+4 10 100 P
+#14810
+serpent heart~
+a serpent's heart~
+A dried out heart is here~
+sponge~
+pill 0 AOY
+9 'reserved' 'haste' 'detect invis' 'reserved'
+5 10 1204 P
+#14811
+bran muffin~
+a bran muffin~
+A tasty bran muffin is here.~
+food~
+food 0 AO
+10 10 0 0 0
+0 10 5 P
+#14812
+broken fang~
+a broken fang~
+A broken piece of bone rests here.~
+bone~
+weapon I AN
+dagger 2 3 stab 0
+6 30 1000 P
+A
+18 1  
+A
+2 1  
+#14813
+Mask Red Death~
+The Mask of the Red Death~
+A liquid Mask is here throbbing with need.~
+jelly~
+jewelry BGJY AE
+0 0 0 0 0
+18 20 1587 P
+A
+18 1  
+A
+19 1  
+#14814
+Twisted Shovel~
+a twisted shovel~
+A twisted shovel with a sharp edge sits here.~
+brass~
+weapon ad AN
+axe 3 2 slice H
+10 40 999 P
+A
+19 1  
+#14816
+Lily pad necklace~
+lily pad~
+A slimy lily pad is here.~
+coral~
+armor GT AC
+5 7 5 3 0
+7 10 600 P
+A
+5 -2  
+#14817
+Moth Ball~
+a moth ball~
+A moth ball hovers here.~
+clay~
+gem 0 AQ
+0 0 0 0 0
+4 10 500 P
+A
+1 1  
+#14818
+Jularo Great~
+Jularo the Great is here destorying infidels in the holy war.~
+Jularo the Great is here destroying infidels in the holy war.~
+wax~
+furniture Y 0
+0 0 0 0 0
+0 0 0 P
+#14819
+spear destiny~
+The Spear of Destiny~
+A well-balanced spear is here.~
+porcelain~
+weapon 0 AN
+staff 2 4 thrust 0
+9 60 0 P
+A
+4 2  
+#14820
+rubber gloves~
+rubber gloves~
+Some gloves covered in goo are here collecting dust.~
+rubber~
+armor B AH
+2 2 1 0 0
+9 10 1205 P
+A
+19 1  
+A
+18 1  
+A
+4 -1  
+#14821
+soaking mop~
+a soaking mop~
+A dirty old mop has been discarded here.~
+sponge~
+weapon A AN
+whip 1 7 whip 0
+6 20 120 P
+#14822
+The Shield of Valor~
+The Shield of Valor~
+A bright steel shield sits here.~
+steel~
+armor abd AJ
+4 5 5 2 0
+7 20 999 P
+A
+3 1  
+#14823
+wand magi~
+a magic wand~
+A wand rests here.~
+wood~
+wand GT AO
+15 4 4 'ice bolt' 0
+7 10 1500 P
+#14824
+Rusty manacles~
+some old manacles~
+Some rusty old manacles lie here~
+iron~
+armor H AM
+2 1 1 0 0
+5 20 0 P
+A
+3 -3  
+#14825
+rags of the blind~
+rags of the blind~
+Some old torn-up rags are here.~
+wool~
+armor CH AF
+6 6 7 4 0
+15 10 12 P
+A
+1 2  
+A
+3 -1  
+A
+2 -2  
+#14826
+a guillotine~
+a guillotine~
+A guillotine is here and covered in blood.~
+wood~
+furniture Y 0
+0 0 0 0 0
+0 0 0 P
+#14827
+red robes~
+blood red robes~
+A flowing robe the color of blood is here.~
+wool~
+armor ALYbd AD
+6 6 6 7 0
+14 40 899 P
+A
+13 15  
+A
+2 1  
+#14828
+rod of wax~
+rod of wax~
+A stout waxen rod is here.~
+wax~
+weapon 0 AN
+exotic 2 6 pound A
+13 40 500 P
+A
+18 2  
+A
+19 1  
+#14829
+wax slippers~
+wax slippers~
+Some slippers made of wax lie here.~
+wax~
+armor Y AG
+4 4 2 3 0
+8 100 300 P
+A
+2 1  
+#14830
+Patio furniture~
+The patio furniture~
+Patio furniture sit's where a couch should be.~
+wood~
+furniture 0 0
+5 999 BEHK 900 900
+0 0 0 P
+#14831
+bent sabre~
+a bent sabre~
+An old bent sabre has been left here.~
+iron~
+weapon A AN
+sword 2 2 slash 0
+6 30 19 P
+#14832
+blessed ring~
+blessed ring~
+A ring is here radiating a holy aura.~
+lead~
+armor 0 ABY
+1 1 1 1 0
+5 10 1200 P
+A
+19 1  
+A
+18 1  
+A
+20 -1  
+#14833
+Dark Dagger~
+A Darkened Dagger~
+A shaft of dark bone is here.~
+bone~
+weapon ACb AN
+dagger 2 5 pierce D
+14 10 1230 P
+A
+18 2  
+#14834
+Evil Cowl~
+a black cowl~
+A hood as black as night is here.~
+wool~
+armor JYbcd AE
+2 2 0 1 0
+15 20 1500 P
+A
+1 -1  
+A
+12 10  
+A
+3 1  
+#14880
+Crown of Glory~
+The Crown of Glory~
+A diamond crown is here.~
+diamond~
+armor A AE
+30 30 50 49 0
+54 10 10 P
+A
+12 500  
+A
+19 30  
+A
+18 35  
+#14881
+baked bean~
+a baked bean~
+A long brown bean is here looking tasty.~
+food~
+pill 0 AO
+51 'giant strength' 'heal' 'stone skin' 'haste'
+1 10 99 P
+#0
+
+
+
+#ROOMS
+#14800
+Khadar's Hole~
+Welcome to my humble hole.
+~
+0 268443916 0
+O khadar~
+M 500 H 500
+S
+#14801
+Outside the Wax Museum~
+The Wax Museum stands here. Looming above you in the still night air, you
+think that you can hear faint noises coming from within. There is a LARGE
+SIGN here. Enter if you dare!
+~
+0 0 1
+E
+sign~
+Beware the Wax Museum is for characters levels 5-15.
+Pass through these doors at your own risk.
+Lost corpse's and equipment are not the responsibility of 
+the management. Thank you for your patronage.
+~
+D0
+~
+~
+0 0 31072
+D2
+~
+door~
+1 14801 14802
+S
+#14802
+Inside the Parlour~
+You stand in the parlour of the Wax Museum. You think you hear faint 
+scurrying sounds in the hall that leads south. Are you brave enough to 
+investigate?
+~
+0 8 0
+D0
+~
+door~
+1 0 14801
+D1
+~
+~
+0 0 14804
+D2
+~
+~
+0 0 14805
+D3
+~
+~
+0 0 14806
+S
+#14803
+Inside The Museum~
+You've started to wander around the Wax Museum. What mysteries does it 
+hold? Will you live long enough to tell others of the horrors you've 
+witnessed here? Only time will tell.
+~
+0 8 0
+D0
+~
+~
+0 0 14806
+D2
+~
+~
+0 0 14807
+S
+#14804
+The Hallway~
+You wander down a dismal corridor. You can continue on into the darkness 
+or you can turn and run back to safety. 
+~
+0 8 0
+D0
+~
+~
+0 0 14835
+D1
+~
+~
+0 0 14808
+D3
+~
+~
+0 0 14802
+S
+#14805
+The Hallway~
+Nothing special here. Just 2 walls a floor and a ceiling. You can travel 
+onward to the south, or you can head back the way you came.
+~
+0 8 0
+D0
+~
+~
+0 0 14802
+D1
+~
+~
+0 0 14825
+D2
+~
+~
+0 0 14810
+S
+#14806
+The Display Room~
+You've stumbled into the Display Room. This is where the most valuable 
+items are set to entice the populace. In the center of the room a crystal
+case sits, exposing it's treasures to the world.
+~
+0 8 0
+D1
+~
+~
+0 0 14802
+D2
+~
+~
+0 0 14803
+S
+#14807
+Scholars and Scribes~
+This room is a tribute to the men and women that wrote the history of
+Dominia, and taught it to the people. Not quite as exciting as Heros, 
+Masters of Magic, or Holy Leaders, but an important part all the same.
+~
+0 8 0
+D0
+~
+~
+0 0 14803
+D2
+~
+~
+0 0 14817
+S
+#14808
+A Musty corridor~
+The hallway has closed in. Bricks have been replaced by damp soil. The
+light seems to fade the further you travel. Better turn back now while 
+you still can.
+~
+0 8 0
+D1
+~
+~
+0 0 14809
+D3
+~
+~
+0 0 14804
+S
+#14809
+The Backroom~
+This room is a mess! Chips of wax and broken tools litter the floor. Long
+smears of red liquid color the walls. Could it be blood?
+~
+0 8 0
+D1
+~
+~
+0 0 14830
+D3
+~
+~
+0 0 14808
+M 150 H 150
+S
+#14810
+The Hallway~
+The hallway turns to the east here. Other than that you'll just have to go
+back the way you came. The room to the east pulsates with mystic light. 
+Suddenly the path to the north sounds like a good idea.
+~
+0 8 0
+D0
+~
+~
+0 0 14805
+D1
+~
+~
+0 0 14811
+S
+#14811
+The Shadow of Kings~
+Before you stand wax images of incredible beauty. All the legendary Kings
+of Dominia decorate the room. Standing in poses of majesty, these images
+look so real you feel the sudden need to bow.
+THERE IS A HUGE SIGN HERE!!!!!
+~
+0 8 0
+E
+huge sign~
+Beware foolish mortals!!!
+          If you travel to the lower regions
+          Of the Wax Museum you will surely Die!
+          Travel there only if you are above the level
+          of 11, or suffer the consequences!!!!
+~
+D3
+~
+~
+0 0 14810
+D4
+~
+~
+0 0 14812
+D5
+~
+~
+0 0 14813
+S
+#14812
+The Museum Attic~
+In the attic of the museum all of the old costumes and props from days gone
+by are stored. This place looks like it hasn't been cleaned in years. And
+what in the heck is that funky smell? Must be moth-balls, heck it might
+even be a whole moth. What's that partition to the east all about?
+~
+0 8 0
+D1
+~
+trapdoor~
+1 0 14823
+D5
+~
+~
+0 0 14811
+S
+#14813
+The bottom of the stairs~
+You've reached the sub-floor of the Wax Museum. It's cold and it's damp.
+From here you can travel to the south or you could try the door to the
+east. On second thought you might want to go back upstairs where it's safe.
+There seems to be some kind of door to the west as well. Wonder what's in
+there?
+~
+0 8 0
+D1
+~
+~
+0 0 14814
+D2
+~
+~
+0 0 14815
+D3
+~
+door~
+1 0 14822
+D4
+~
+~
+0 0 14811
+S
+#14814
+The Nightmare Pit~
+You hold your stomach as you walk into the carnage of the Nightmare Pit. 
+The name is so fitting, as you are surrounded by bits and pieces of
+creatures.  Every race from human to dragon has been ripped up and tossed
+into this room.  The question now is, how much of this is wax and how much
+is real?  
+~
+0 8 0
+D0
+~
+~
+0 0 14826
+D3
+~
+~
+0 0 14813
+S
+#14815
+Under the Wax Museum~
+Under the wax museum time seems to move slower. Thoughts of your life race
+through your mind. Walk slowly, because soon you will die.
+~
+0 8 0
+D0
+~
+~
+0 0 14813
+D2
+~
+~
+0 0 14816
+S
+#14816
+A sudden stop~
+What's this? Where has the hall gone? You're surrounded by tight walls.
+This is no way for a hall to end! On closer inspection you notice a faint
+outline directly to the south.
+~
+0 8 0
+D0
+~
+~
+0 0 14815
+D2
+~
+door~
+1 0 14818
+S
+#14817
+Waxen Beasts~
+This room is a tribute to the strange and powerful beasts that roam or 
+roamed Dominia. Beasts of incredible power and beauty are lined up on 
+display for the world to see. Aren't you glad that they are just statues.
+~
+0 8 0
+D0
+~
+~
+0 0 14807
+D2
+~
+~
+0 0 14819
+S
+#14818
+The Warriors Den~
+This room is filled with Hero's and Legends. Brave Knights are set in 
+positions that portray great battles, fought over now forgotten lands.
+~
+0 8 0
+D0
+~
+door~
+1 0 14816
+D1
+~
+door~
+1 0 14820
+S
+#14819
+Throne of the Serpent King~
+This room is dedicated to a legendary race of snake people. The display's
+are awe-inspiring and look real enough to kill you!
+~
+0 8 0
+D0
+~
+~
+0 0 14817
+D1
+~
+~
+0 0 14821
+S
+#14820
+The Curator's Room~
+You've reached the Curator's Room. This is the brain of this twisted 
+museum. All around you is the evidence of destroyed lives, husbands 
+dunked in wax, children consumed by dark creatures. The legacy of this
+evil abode litters the floor like disregarded trash.
+~
+0 8 0
+D2
+~
+closet~
+1 0 14827
+D3
+~
+door~
+1 0 14818
+S
+#14821
+Hall of the Gods~
+This room is one of the most visited in the musuem. From all over Dominia
+crowds gather here, to look upon the faces of the gods. Most fall and 
+worship the images as if they were the gods themselves. Foolish mortals!
+The museum restrooms are through the door to the south, should the need
+arise.
+~
+0 8 0
+D0
+~
+~
+0 0 14836
+D2
+~
+door~
+1 0 14824
+D3
+~
+~
+0 0 14819
+M 120 H 120
+S
+#14822
+Septic Tank~
+Waste from the occupants of the museum has collected here for years. 
+You can barely breath as a mad orgy of stench attacks your nose. You better
+get out of here quick before you toss.
+~
+0 8 0
+D1
+~
+door~
+1 0 14813
+M 10 H 10
+S
+#14823
+A Walled Up Section of the Attic~
+You've entered a small room, made up of crude walls. Not really a room as
+much as a partitioned section of the attic. The ground is littered with
+feces and old gnawed bones. 
+~
+0 8 0
+D3
+~
+trapdoor~
+1 0 14812
+S
+#14824
+The Can~
+Hey, even a wax museum has to have one.
+~
+0 8 0
+D0
+~
+door~
+1 0 14821
+M 0 H 0
+S
+#14825
+The Museum Workshop~
+So this is where all those wax statues are made! Everywhere you look there
+are molds and tools, and huge blocks or wax. The artisans of the museum
+must really know what they are doing.
+~
+0 8 0
+D3
+~
+~
+0 0 14805
+S
+#14826
+The Torture Chamber~
+Now what kind of wax musuem would be complete without a torture chamber?
+You are surrounded by grisly events depicting the most heinous acts 
+imaginable. Death, pain, and agony surround you. Is that your mother calling
+you? You might want to run out of this museum before you become lost in
+its bowels.
+~
+0 8 0
+D0
+~
+~
+0 0 14828
+D2
+~
+~
+0 0 14814
+S
+#14827
+The Curator's Closet~
+This is where the Curator has hidden his latest masterpiece. The waxen 
+statue was brought to life by his dark arts, and proved to be too powerful
+for even him to control.
+~
+0 8 0
+D0
+~
+door~
+1 0 14820
+D1
+~
+secretdoor~
+1 0 14832
+S
+#14828
+Deep Within The Wax Museum~
+You travel deeper into the horror of the Wax Museum. There seems to be
+a light ahead. Maybe your luck has changed! Maybe your not doomed to die
+in the Wax Museum after all.
+~
+0 8 0
+D0
+~
+~
+0 0 14829
+D2
+~
+~
+0 0 14826
+S
+#14829
+The Wax Forest~
+Drats!! This wasn't an exit after all. Just a bunch of fake trees and 
+artificial sunlight. Well, this is a brighter display then you've seen so
+far in the wax museum. This looks like a nice place for a rest. Wait, what
+was that moving in the waxen trees? 
+ 
+~
+0 8 0
+D2
+~
+~
+0 0 14828
+S
+#14830
+The Path of the Wicked~
+You are surrounded by every scoundrel from the days or yore. Cut-throats
+and Thieves that have somehow made legends of themselves are on disply.
+All for your viewing pleasure, only here, at the Wax Museum.
+~
+0 8 0
+D2
+~
+~
+0 0 14831
+D3
+~
+~
+0 0 14809
+S
+#14831
+Footprints of The Gods~
+How ironic it is that the legendary holy leaders of our time have been 
+placed next to the most utterly evil people known to this generation. Do 
+you think that the Curator is trying to prove a point, in his twisted mind?
+~
+0 8 0
+D0
+~
+~
+0 0 14830
+M 150 H 150
+S
+#14832
+The Secret Passage~
+You've found a secret passage from the Curator's Closet! You can travel 
+deeper into the darkness or head back the way you came.
+~
+0 8 0
+D1
+~
+~
+0 0 14833
+D3
+~
+secretdoor~
+1 0 14827
+S
+#14833
+The passage continues~
+You are travelling deeper into the unknown. What horrors await you in
+the passages ahead? You can continue east from here or you can turn back
+to the west now while you still have a chance.
+~
+0 8 0
+D1
+~
+~
+0 0 14834
+D3
+~
+~
+0 0 14832
+S
+#14834
+Temple of the Damned~
+You've walked into some sort of dark temple. So this is where the Curator
+drew his dark powers! The wax museum has been a front the whole time! The
+Curator was infact a priest of some sort, performing rituals to dark gods!
+You notice a pile of bones on the floor of the temple.
+~
+0 8 0
+D3
+~
+~
+0 0 14833
+D5
+~
+rib-cage~
+1 0 14838
+S
+#14835
+The Wayward Path~
+This room has been dedicated to those men and women in the history of 
+Dominia that could've attained greatness but were led away and into 
+darkness. The room has been set up quite well. Looks like the curator is
+a big fan of the darker path.
+~
+0 8 0
+D2
+~
+~
+0 0 14804
+S
+#14836
+Storage~
+This room is a clutter with all the prop furniture that the curator uses
+in his displays. It's all here, ancient thrones, famous tables where
+the fate of nations were discussed. It's really kinda boring in here.
+~
+0 8 0
+D0
+~
+door~
+1 0 14837
+D2
+~
+~
+0 0 14821
+S
+#14837
+Suits and Arms~
+This room seems to be a place for the designing of armor and arms banners
+that are used in the displays in the wax museum. You are surrounded by 
+mysterious banners and odd looking suits of armor.
+~
+0 8 0
+D2
+~
+door~
+1 0 14836
+S
+#14838
+Beneath the Temple~
+You have descended into a tunnel beneath the Temple. Where does it lead? 
+Why is it here? What dark mysteries will you uncover? Continue down into
+the darkness if you dare!
+~
+0 8 0
+D4
+~
+rib-cage~
+1 0 14834
+D5
+~
+~
+0 0 14839
+S
+#14839
+Beneath the Temple~
+The Tunnel travels further into the earth.
+~
+0 8 0
+D4
+~
+~
+0 0 14838
+D5
+~
+~
+0 0 14840
+S
+#14840
+The Branches of Darkness~
+The tunnel into the earth has ended here. You can travel east into the 
+darkness from here, or you can travel west into.....well the darkness.
+~
+0 8 0
+D1
+~
+~
+0 0 14841
+D3
+~
+~
+0 0 14842
+D4
+~
+~
+0 0 14839
+S
+#14841
+Halls of the blind~
+The Halls of the blind close around you, threatening to forever detain you
+from the outside world. The walls themselves expand and contract lightly 
+as if the hall was breathing.
+~
+0 8 0
+D0
+~
+~
+0 0 14843
+D3
+~
+~
+0 0 14840
+S
+#14842
+Hall of Shadows~
+The light is so dim in this hall that you can barely make out anything.
+Strange shadows dance in arcane patterns along the walls. The hall turns
+here to the north
+~
+0 8 0
+D0
+~
+~
+0 0 14844
+D1
+~
+~
+0 0 14840
+S
+#14843
+Wax Waste~
+This room is filled with the carnage created over the years. The Curator
+dumped everything here, bones, wax, old costumes, and corpses.
+~
+0 8 0
+D2
+~
+~
+0 0 14841
+S
+#14844
+Traces of the Damned~
+This section of the hallway looks like it has been among the most used
+in the whole of the Wax Museum. The floor is covered in scrape marks and
+dried up blood, as if someone has been dragged into the room to the east.
+The air carries the stench of urine, sweat and fear. 
+~
+0 8 0
+D1
+~
+~
+0 0 14845
+D2
+~
+~
+0 0 14842
+S
+#14845
+The Chamber of the Damned~
+To your horror you've walked into the room that the Curator used to store
+his victims until he was ready to consume them with his dark arts. There
+are strange runes on the wall, and you are surrounded by echo's of sorrow.
+~
+0 8 0
+D3
+~
+~
+0 0 14844
+M 50 H 50
+S
+#0
+
+
+
+#SPECIALS
+M 14817 spec_cast_cleric Load to: Chloe the Red
+M 14820 spec_cast_mage Load to: the Curator
+M 14831 spec_cast_cleric Load to: Pandar the Unholy
+M 14834 spec_cast_mage Load to: a Priest of Yar
+S
+
+
+
+#MOBPROGS
+#14800
+if isimmort $n
+ mob echoat $n Crazy Uncle Joe says, 'Hmmm...nice set there, $n.'
+ else
+ if ispc $n
+ mob echoat $n Crazy Uncle Joe says, 'Gimme a sammig.'
+endif
+~
+A
+#0
+
+#RESETS
+D 0 14801 2 2
+D 0 14802 0 2
+D 0 14812 1 1
+D 0 14813 3 1
+D 0 14816 2 1
+D 0 14818 0 1
+D 0 14818 1 1
+D 0 14820 2 1
+D 0 14820 3 1
+D 0 14821 2 1
+D 0 14822 1 1
+D 0 14823 3 1
+D 0 14824 0 1
+D 0 14827 0 1
+D 0 14827 1 1
+D 0 14832 3 1
+D 0 14834 5 1
+D 0 14836 0 1
+D 0 14837 2 1
+D 0 14838 4 1
+O 0 14830 0 14800
+M 1 14800 1 14800 1
+M 1 14802 1 14801 1
+M 1 14803 1 14801 1
+G 0 14801 0
+M 1 14807 6 14802 1
+M 1 14801 2 14803 2
+M 1 14807 2 14804 1
+O 0 14802 0 14806
+P 0 14804 99 14802 1
+P 0 14823 99 14802 1
+M 1 14804 1 14807 1
+E 0 14807 0 16
+M 1 14809 2 14809 2
+E 0 14809 0 6
+M 1 14821 5 14811 3
+E 0 14821 0 16
+M 1 14812 1 14812 1
+E 0 14812 0 16
+E 0 14817 0 18
+M 1 14814 1 14814 1
+E 0 14814 0 16
+M 1 14816 3 14816 3
+M 1 14806 1 14817 1
+M 1 14805 1 14817 1
+O 0 14818 0 14818
+M 1 14818 3 14818 3
+E 0 14819 0 16
+M 1 14808 1 14819 1
+E 0 14810 0 17
+M 1 14810 2 14819 2
+M 1 14820 1 14820 1
+E 0 14820 0 9
+E 0 14803 0 17
+M 1 14813 2 14821 2
+M 1 14811 3 14821 3
+M 1 14822 1 14822 1
+E 0 14816 0 3
+M 1 14823 1 14823 1
+E 0 14824 0 14
+M 1 14815 2 14824 2
+E 0 14811 0 17
+M 1 14825 2 14825 2
+O 0 14826 0 14826
+M 1 14826 1 14826 1
+M 1 14827 1 14827 1
+E 0 14827 0 5
+E 0 14828 0 16
+E 0 14813 0 6
+M 1 14829 2 14829 2
+E 0 14829 0 8
+M 1 14830 1 14830 1
+E 0 14831 0 16
+M 1 14831 1 14831 1
+E 0 14832 0 1
+M 1 14834 1 14834 1
+E 0 14834 0 6
+E 0 14833 0 16
+E 0 14806 0 0
+M 1 14817 1 14835 1
+E 0 14808 0 11
+M 1 14819 3 14835 3
+M 1 14824 2 14836 2
+M 1 14828 1 14837 1
+E 0 14822 0 11
+M 1 14835 3 14840 3
+M 1 14836 2 14841 2
+E 0 14825 0 7
+M 1 14833 3 14845 3
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

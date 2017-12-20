@@ -1,0 +1,3103 @@
+#AREADATA
+Name Kenwood Keep~
+Builders None~
+VNUMs 20700 20799
+Credits {40 51} Blizzard    Kenwood Keep~
+Security 9
+Xcontinent 1
+Age 3
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#20700
+rabbit bunny prisoner~
+a big bunny rabbit~
+A big bunny rabbit is here, tied in chains.
+~
+Why did someone stick a big bunny in prison.  
+~
+rabbit~
+ABG 0 0 0
+25 0 5d10+550 1d1+100 2d10+7 bite
+-7 -7 -7 -7
+FH AB 0 0
+stand stand none 0
+AGV ACDEFHJK medium 0 the guilds~
+#20701
+man prisoner warrior human~
+a human prisoner~
+A human prisoner is here, bound in leather.
+~
+~
+human~
+ABGT 0 20 0
+25 -4 5d10+550 1d1+100 2d10+7 none
+-7 -7 -7 1
+FH AB 0 0
+stand stand male 0
+AGHMV ABCDEFGHIJK medium 0 the guilds~
+#20702
+aimee woman lady~
+Aimee~
+A well dressed woman is sobing in the corner.
+~
+Aimee is the daughter of the human commander.  The trolls have left her
+fairly untouched so far.  They may plan to use her as a barganing chip.  
+~
+human~
+ABG 0 1000 0
+25 0 5d10+550 1d1+99 2d10+7 slap
+-7 -7 -7 -7
+0 AB 0 0
+stand stand female 0
+AGHMV ABCDEFGHIJK medium 0 the guilds~
+#20703
+sand beast monster~
+the sand beast~
+The sand beast is here, feasting on creatures trapped in the sand.
+~
+The beast is a nasty-looking creature who lives on the flesh of animals
+and wanderers who fall victim to the quick sand.  
+~
+hobgoblin~
+ABF J 0 0
+30 -1 6d12+853 1d1+100 4d6+8 crush
+-9 -9 -9 -9
+CN 0 LQ 0
+stand stand none 0
+AHMV ABCDEFGHIJKY medium 0 the guilds~
+M random 20700 70~
+#20704
+sentry soldier~
+a soldier~
+A soldier is here on sentry duty.
+~
+The soldier is a young man not even in his twenties.  He has a look of
+nervous fear on his face, but seems to also have the confidence of a highly
+trained individual.  
+~
+human~
+ABFGT 0 0 0
+33 -5 10d10+1100 1d1+100 4d4+10 pierce
+-11 -11 -11 -11
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20705
+shambling mounds shambler~
+the shambler~
+Shambling mounds are shambling your way!
+~
+The mound is seven feet tall, and resembles a tall, walking shrubbery. 
+Green leaves of slime drip down its body and into the swamp.  The shambler
+reeks, and probably scavenges dead creatures.  Its eyes seem to be set-in
+holes in the neck-less head of the beast.  It has no mouth, instead
+absorbing through touch.  
+~
+tree~
+ABFG J 0 0
+35 -2 10d10+1300 1d1+100 4d7+11 sting
+-11 -11 -11 -11
+CFH B I H
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20706
+small troll~
+a small troll~
+A small troll is here, bathing in the slime.
+~
+~
+troll~
+AF J 0 0
+38 -3 10d10+1600 1d1+100 5d6+12 thwack
+-13 -13 -13 -13
+0 0 Q H
+stand stand none 50
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#20707
+medium troll~
+the medium troll~
+A medium-sized troll is here, licking the marrow out of a bone.
+~
+~
+troll~
+AF J -40 0
+40 -3 15d10+1850 1d1+100 4d8+13 claw
+-13 -13 -13 -13
+0 0 Q H
+stand stand none 50
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#20708
+large troll~
+the large troll~
+A large troll is here, chewing a hunk of flesh.
+~
+~
+troll~
+AF J -40 0
+42 -3 25d10+2250 1d1+100 3d12+14 none
+-14 -14 -14 -14
+0 0 Q H
+stand stand none 50
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#20709
+troll supply captain~
+a troll supply captain~
+A supply captain is here checking the supplies.
+~
+This tough looking troll looks quite upset by your intrusion.  
+~
+troll~
+ABFG J -30 0
+36 -3 10d10+1400 1d1+99 3d10+11 smash
+-12 -12 -12 -12
+0 0 Q H
+stand stand male 500
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#20710
+name miguil human commander uniform man~
+Miguil, the Human Commander~
+A man in uniform stands proud ready to bark out orders.
+~
+Miguil is a proud middle aged soldier.  He was sent in recently to deal
+with the troll problem once and for all.  However it appears he will need
+some assistance.  
+~
+human~
+ABGTa DHJ 500 0
+40 -3 15d10+1850 1d1+100 4d8+13 divine
+-13 -13 -13 -13
+CEH AB 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJKLUVWX medium 0 the guilds~
+#20711
+lunimera goddess eastern star unearthly woman~
+{WLunimera{x, Goddess of the Eastern Star~
+An unearthly woman if overlooking the battlefield with a tear falling down her cheek.
+~
+You see before you a woman of unearthly beauty.  Her long white hair
+seems to stretch down to her feet.  Her silvery eyes are filled with the
+tears of sorrow for the deaths of the soldiers that she observes.  Her
+purpose here is unknown.  
+~
+human~
+ABEG BDHJLNO 1000 0
+60 -4 50d10+12000 1d1+99 8d6+28 slap
+-30 -30 -30 -30
+AFIKN ABZ 0 0
+stand stand female 150000
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#20712
+shambling rotting zombie~
+a shambling zombie~
+A rotting zombie is shambling around looking for someone to eat.
+~
+A walking corpse seems to have been animated through some unnatural means.  
+~
+undead~
+AFGO CDZ 0 0
+50 -3 50d10+4500 1d1+99 5d8+19 smash
+-20 -20 -20 -20
+CFO AB IQ HNS
+stand stand none 0
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#20713
+daedra prince blood ferngaliz demonic creature~
+Ferngaliz, Daedra Prince of Blood~
+A tall demonic creature stands before you, dominating all with a glance.
+~
+This is the legendary Daedric Prince of Blood.  His powerful body is
+covered in strong plates.  A wicked mace rests in his grip.  He glares
+triumphantly at you and dares you to attack.  
+~
+deamon~
+ABEFGT DFJNOT -1000 0
+60 -5 50d10+9500 1d1+99 8d6+28 crush
+-30 -30 -30 -30
+ACFHK AB HLQ INS
+stand stand male 150000
+ABGHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#20714
+hobgoblin goblin scout~
+a hobgoblin scout~
+A hobgoblin is here looking a bit out of place.
+~
+This hobgoblin is much smaller than the trolls around him.  He appears to
+be checking defenses.  
+~
+hobgoblin~
+ACGS JQ 0 0
+40 -3 15d10+1850 1d1+99 4d8+13 pierce
+-13 -13 -13 -13
+B 0 LQ H
+stand stand none 50
+ABHMVZ ABCDEFGHIJKLPQUVWXY medium 0 the guilds~
+#20715
+troll leader~
+a troll leader~
+A particularly strong troll is here, chewing on rocks.
+~
+~
+troll~
+ABF J 0 0
+45 -4 25d10+3000 1d1+100 8d4+16 punch
+-15 -15 -15 -15
+0 0 Q H
+stand stand male 500
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#20716
+crafty ranger cloaked man~
+a crafty ranger~
+A cloaked man is kneeling in some bushes, hiding from sight.
+~
+He wears a green cloak that matches the near by trees.  He looks like hes
+been out here for a while.  
+~
+human~
+ACGT Q 0 0
+45 -4 25d10+3000 1d1+100 8d4+16 slash
+-15 -15 -15 -15
+0 0 Q H
+stand stand male 500
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#20717
+troll leader chieftan gigantic large~
+the troll chieftan~
+A HUGE troll is here, glaring at you.
+~
+This troll is gigantic.  Towering 8 feet tall, he hovers terrifyingly
+over you.  This breath reeks of rotting flesh, his teeth are black with
+decay.  He moves quickly and has great muscles that would put any great
+warrior to shame.  
+~
+troll~
+ABF DFJV 0 0
+50 -3 50d10+4500 1d1+100 5d8+19 none
+-20 -20 -20 -20
+0 0 Q H
+stand stand male 500
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#20718
+castle guard~
+a castle guard~
+A guard is here, securing the castle.
+~
+Before you is a goblin - ugly even by goblin standards.  An infected red
+scar across its face shows where an axe found it in a battle several weeks
+ago, but this soul somehow escaped alive.  
+~
+goblin~
+AG J 0 0
+40 -3 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 0 Q C
+stand stand none 50
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20719
+mordan ship captain pirate~
+Mordan~
+A ship's Captain is here, drinking away his woes.
+~
+Captain Mordan is here after many days at sea.  Relaxing, smiling, and
+enjoying a small vacation, he seems quite out of place here.  
+~
+human~
+AB 0 1000 0
+46 -4 25d10+3250 1d1+100 6d6+16 none
+-16 -16 -16 -16
+0 P 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20720
+Grolm king goblin leader~
+King Grolm~
+King Grolm, ruler of the swamps, is chewing on a lump of meat.
+~
+King Grolm is before you, the leader of the goblins in the swamp.  It was
+he who organized the trolls and goblins to fight together against the
+humans, and one day he may manage to lead them from the swamps.  
+~
+goblin~
+ABG J -20 0
+48 -4 25d10+3750 1d1+100 6d6+18 none
+-18 -18 -18 -18
+0 0 Q C
+sit stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20721
+human soldier knight~
+a human soldier~
+A human soldier is here, holding his ground.
+~
+A human soldier is before you, smelling of many days at battle.  Although
+his armor is tarnished and he appears run-down, his sword is clean and shiny
+in true noble fashion.  
+~
+human~
+AG 0 30 0
+37 -3 10d10+1500 1d1+100 3d10+12 punch
+-12 -12 -12 -12
+CDFU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20722
+troll soldier warrior hunter~
+a troll warrior~
+A troll warrior searches for victims.
+~
+A large troll squished into stolen human warrior aparal is before you. 
+He reeks of rotten flesh and many years of combat in this area.  
+~
+troll~
+AG J -80 0
+35 -2 10d10+1300 1d1+100 4d7+11 none
+-11 -11 -11 -11
+U 0 Q H
+stand stand none 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#20723
+catapult crew~
+the catapult crew~
+A catapult crew mans the nearest war machine.
+~
+Before you are five young men working in unison to operate one of the
+giant catapults used in the battle.  They operate wordlessly and
+effectively, cooly efficient.  
+~
+human~
+ABG H 0 0
+60 -2 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+H 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20724
+mutilated soldier~
+a poor soldier~
+A soldier mutilated above the waist is trying to crawl away.
+~
+The soldier has large wounds on his torn chest where he suffered blows
+from a terrible battle.  He screams in agony, and has no interest for
+fighting.  
+~
+human~
+A 0 0 0
+15 0 3d9+208 1d1+100 2d6+3 none
+-2 -2 -2 -2
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20725
+mutilated soldier young man missing legs~
+a poor soldier~
+A young man missing his legs is here, moaning.
+~
+This soldier is missing his legs; they were severed in a terrible battle
+that nearly took his life.  He looks at you, large hazel eyes pleading for
+help.  
+~
+human~
+AB 0 0 0
+15 0 3d9+208 1d1+100 2d6+3 bite
+-2 -2 -2 -2
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20726
+poor mutilated soldier~
+a poor soldier~
+A soldier missing an eye and his stomach is squirming away.
+~
+This young man has been involved in a serious fight that claimed his eye
+and his gut.  He is bleeding very badly from the gaping hole in his front,
+and will probably soon die from the shock.  He moans slightly and avoids eye
+contact with you.  
+~
+human~
+AB 0 0 0
+15 0 3d9+208 1d1+100 2d6+3 none
+-2 -2 -2 -2
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20727
+poor mutilated soldier~
+a poor soldier~
+A soldier missing an eye and his stomach is squirming away.
+~
+This young man has been involved in a serious fight that claimed his eye
+and his gut.  He is bleeding very badly from the gaping hole in his front,
+and will probably soon die from the shock.  He moans slightly and avoids eye
+contact with you.  
+~
+human~
+AB 0 0 0
+15 0 3d9+208 1d1+100 2d6+3 none
+-2 -2 -2 -2
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#20728
+hobgoblin goblin archer~
+a hobgoblin archer~
+A goblin archer is manning the south arrowslit.
+~
+The archer is a small green hobgoblin, with the look of hate in his eyes.
+The scar across his lower jaw is a souvenir marking a close fight he was
+recently in.  
+~
+hobgoblin~
+ABF J -20 0
+45 -4 25d10+3000 1d1+100 8d4+16 slice
+-15 -15 -15 -15
+0 0 LQ C
+stand stand male 0
+AHMV ABCDEFGHIJKY medium 0 the guilds~
+#20729
+hobgoblin goblin archer~
+a hobgoblin archer~
+A goblin archer is manning the north arrowslit.
+~
+The archer is a large brown hobgoblin, fairly old-looking, no scars on
+his face signifying near-death encounters.  He has the look of a hardened
+warrior, and probably knows how to use his weapon better than most of the
+other guards.  
+~
+hobgoblin~
+ABF J -20 0
+45 -4 25d10+3000 1d1+100 8d4+16 none
+-15 -15 -15 -15
+0 0 LQ C
+stand stand male 0
+AHMV ABCDEFGHIJKY medium 0 the guilds~
+#20730
+hobgoblin large bodyguard guard~
+a hobgoblin bodyguard~
+A large hobgoblin stands on guard, blocking your path.
+~
+Nearly six feet tall, this hobgoblin looks like he could cause some
+serious damage.  
+~
+hobgoblin~
+ABGT J -20 0
+40 -4 15d10+1850 1d1+99 4d8+13 slash
+-13 -13 -13 -13
+CN 0 LQ 0
+stand stand male 1000
+AHMV ABCDEFGHIJKY medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#20700
+bunny feet~
+bunny feet~
+A pair of rabbit feet are here.~
+wood~
+armor S AG
+5 5 5 1 0
+15 40 2400 P
+E
+bunny feet rabbit~
+The feet are big, and seem to have a cushioned bottom (although not
+footpads, since rabbits do not have footpads).  You could hop very far, very
+high, and very fast with these on!  
+~
+#20701
+sentry pike~
+a sentry's pike~
+A long pike used for sentry duty is here.~
+wood~
+weapon 0 AN
+polearm 4 5 pierce F
+27 120 3500 P
+E
+sentry pike~
+It is a fine blade, although obviously very hastely created.  
+~
+#20702
+skull~
+a skull~
+The skull of a fallen warrior has been dishonoured.~
+bone~
+trash Y AOY
+0 0 0 0 0
+0 1 20 D
+E
+skull warrior~
+The skull is forever pitted with black stains of rotting in a filthy
+swamp.  Shambling mounds have sine found it, and digested almost all
+recognition out of it.  Now, it beams at you with an eerie dead grin of evil
+magic.  
+~
+#20703
+small crack portal~
+a small crack~
+There is a tiny crack in the walls here.~
+wood~
+portal 0 0
+-1 0 0 20771 0
+0 0 0 P
+E
+tiny small crack~
+It looks really small.  You couldn't possibly slip through it.  
+~
+#20704
+golden pedestal~
+the golden pedestal~
+A gleaming, golden pedestal is here.~
+wood~
+container A 0
+0 0 0 0 0
+0 50000 0 P
+E
+golden pedestal~
+Its made of solid gold, and soft to the touch.  It gives off warmth and
+light, giving the entire room a heavenly glow.  
+~
+#20705
+cheeseburger paradise~
+a cheeseburger from paradise~
+It must be a Cheeseburger in Paradise!~
+wood~
+pill A A
+45 'cure light' 'cure light' 'refresh' 'reserved'
+30 0 0 P
+E
+cheeseburger paradise jimmy buffet had in tortola~
+Its a medium rare cooked burger with cheese slopped onto it.  Topped with
+lettuce, tomato, and Heinze 57 with a side of fried potatoes, add a cold
+draft beer, and good God almighty wherever else would you steer?  
+~
+#20706
+bottle of rum~
+a bottle of rum~
+A half-empty bottle of rum from Terra is here.~
+glass~
+drink 0 AO
+20 10 'rum' 1 0
+0 0 0 P
+#20707
+goblin throne~
+Grolm's throne~
+The great stone throne of King Grolm is in this room.~
+wood~
+furniture 0 0
+1 500 BDGL 110 110
+30 0 0 P
+E
+stone throne great~
+The throne is made of limestone, and crafted by unskilled goblin workers,
+the same who made the castle.  However, it has the look of power, and seems
+to fit the person for whom it was made for.  
+~
+#20708
+worn sword~
+a worn sword~
+A sword worn from battle has been lost by its owner.~
+wood~
+weapon 0 AN
+sword 3 9 pierce 0
+30 0 2300 G
+#20709
+dented helmet~
+a dented helmet~
+A helmet dented by a heavy foot is on the ground.~
+steel~
+armor 0 AE
+7 7 7 3 0
+20 0 1200 P
+#20710
+young man corpse~
+a young man's corpse~
+The corpse of a dead catapult officer is here.~
+wood~
+npc_corpse 0 0
+0 0 0 0 0
+0 0 0 P
+E
+corpse young man~
+You see the corpse of a young man, hacked to death by a terrible force
+that shows no mercy.  
+~
+#20711
+hobgoblin longbow bow~
+a hobgoblin longbow~
+A hobgoblin longbow is here.~
+wood~
+weapon 0 AN
+ranged 7 5 blast FH
+4
+43 10 1000 P
+A
+18 2  
+A
+2 1  
+E
+hobgoblin longbow~
+The longbow is well-constructed by skillfull hands, and every inch of its
+design is made for killing.  At long distances, the taught string can launch
+bolts of sharp sticks or rocks into an opponent.  In close combat, the
+endges of the bow are razor sharp and can easily be used to attack the enemy
+in all directions.  
+~
+#20712
+roasted moridin~
+a bit of Moridin~
+Little roasted bits of Moridin are scattered about, good to eat!~
+wood~
+food 0 A
+5 2 0 0 0
+0 20 12 P
+#20713
+large iron castle key~
+a large iron key~
+A large iron key.~
+wood~
+key 0 AO
+0 0 0 0 0
+0 200 0 P
+E
+large iron castle key~
+The key is heavyset iron, obviously made to open a very large door or
+gate of some sort.  
+~
+#20714
+klondike bar imm pill ravenfeather~
+a {DK{Wl{Do{Wn{Dd{Wi{Dk{We{x {DB{War{x~
+An irresistable ice cream bar is melting slowly here.~
+energy~
+pill 0 AO
+40 'sanctuary' 'haste' 'frenzy' 'animal growth'
+1 10 1000 P
+#20715
+portal ancient dark~
+a Dark Ancient Portal~
+A large portal of metal, wood, and stone has been constructed here.~
+adamantite~
+portal ABY 0
+0 0 1 20792 0
+1 10000 1 P
+E
+portal~
+This must be the portal Ravenfeather constructed!  Who knows what
+terrible creature or wonderous treasure lies within its swirling depths.  
+~
+#20716
+crate box supplies troll~
+a Crate of Supplies~
+A crate of supplies belonging to the troll army has been left here.~
+wood~
+key PTU AO
+0 0 0 0 0
+30 100 12 P
+#20717
+aimee favor hankerchief~
+Aimee's Favor~
+A tear stained hankerchief has been left here by some uncaring soul.~
+cloth~
+key PTU AO
+0 0 0 0 0
+20 10 1000 P
+A
+6 1  
+#20718
+slim wooden well made bow~
+a slim wooden bow~
+A well made bow has been left here.~
+wood~
+weapon 0 AN
+ranged 3 7 pierce F
+3
+25 30 100 P
+A
+18 3  
+#20719
+porgren sceptre king~
+Porgren's Sceptre~
+The sceptre of a dead king lies here.~
+gold~
+key PTU AO
+0 0 0 0 0
+10 20 10000 P
+A
+4 1  
+#20720
+grolm crown king~
+Grolm's Crown~
+The crown of a dead king lies here.~
+mithr~
+key PTU AE
+0 0 0 0 0
+40 30 100000 P
+A
+13 30  
+#20721
+prison key~
+a Prison Key~
+A key for a special prison door lies here.~
+brass~
+key PTU AO
+0 0 0 0 0
+1 10 1 P
+#20722
+bottle vintage wine potion~
+a Bottle of Vintage Wine~
+A bottle of fine wine has been left here.~
+glass~
+potion C AO
+30 'mirror image' 'haste' 'reserved' 'reserved'
+15 10 1000 P
+#20723
+dagger isis curved slim~
+dagger of isis~
+A curved slim dagger coated in slime has been left here.~
+iron~
+weapon 0 AN
+dagger 4 9 pierce H
+41 20 100 P
+A
+18 1  
+A
+19 1  
+#20724
+pure black onyx~
+{DPure Black Onyx{x~
+A piece of pure black onyx is sitting in some corpse remains.~
+gem~
+gem TY A
+0 0 0 0 0
+1 10 5000 P
+E
+onyx~
+If you turn in 5 of these to Ravenfeather, you will get a Partial Voucher.  
+~
+#20725
+white bow crescent moon~
+Bow of the {WCrescent {CMoon{x~
+A midnight blue bow is here, with starlike dots shimmering across its string.~
+ivory~
+weapon AB ANY
+ranged 7 6 divine B
+5
+51 20 10000 P
+A
+18 5  
+A
+19 2  
+A
+2 2  
+#20726
+arrow healing quiver white~
+Arrows of Healing~
+A quiver of white arrows has been left here.~
+wood~
+ammunition A AO
+0 0 divine 10 'cure serious'
+20 100 10000 P
+A
+18 2  
+#20727
+oblivion sword drengaliz~
+Drengaliz, Sword of {DO{rb{Dliv{ri{Don{x~
+This dagger should not be on the ground.~
+Adamantine~
+weapon HTUZ AN
+sword 6 10 divine CP
+55 20 0 P
+A
+3 16  
+A
+18 50  
+A
+19 50  
+#20728
+quiver arrow fireball red~
+a quiver of fireballs~
+A bright red quiver lies here, humming with an unknown force.~
+wood~
+ammunition B AO
+3 10 flbite 30 'fireball'
+35 200 10000 P
+A
+18 3  
+#20729
+dark blue quiver arrow eastern stars~
+quiver of the eastern stars~
+A dark blue quiver seems to be shining brightly.~
+wood~
+ammunition ABT AO
+7 6 smite 43 'ray of truth'
+51 500 100000 P
+#20730
+daedric breastplate plate armor~
+a {DD{ra{Dedr{ric{x Breastplate~
+A plate-armor carved from the heart of oblivion has been left here.~
+adamantite~
+armor ABCTYa AD
+16 16 16 10 0
+51 100 10000 P
+A
+20 -1  
+A
+1 1  
+A
+19 2  
+A
+18 2  
+#20731
+selina blessing mark~
+Selina's Blessing~
+A mark of Selina's blessing has been dropped here.~
+silk~
+armor T AI
+0 0 0 0 0
+35 10 5000 P
+A
+4 2  
+A
+1 2  
+A
+20 2  
+#20732
+enraged troll blood bottle~
+Enraged Troll Blood~
+A bottle of blood seems infused with rage.~
+glass~
+potion BE A
+35 'giant strength' 'frenzy' 'reserved' 'reserved'
+30 5 5000 P
+#20733
+shield bronze~
+a bronze coated shield~
+A shield coated in bronze had been discarded here.~
+bronze~
+armor Y AJ
+5 5 5 0 0
+13 40 3500 P
+A
+5 1  
+#20734
+shiny bronze breastplate~
+a bronze breastplate~
+A shiny bronze breastplate has been left here.~
+bronze~
+armor Y AD
+5 5 5 0 0
+13 100 5000 P
+A
+1 1  
+#20735
+helmet bronze~
+a bronze helmet~
+A helmet crafted of bronze had been left here.~
+bronze~
+armor Y AE
+5 5 5 0 0
+13 20 2500 P
+A
+2 1  
+#20737
+test shard~
+a black shard~
+A black shard seems to draw from the life and light all around it.~
+wood~
+gem 0 R
+0 0 0 0 0
+0 0 0 'reserved' 0
+20 0 0 P
+A
+1 -2 D
+#0
+
+
+
+#ROOMS
+#20700
+Stump~
+The stump of a giant oak tree protrudes from the water here, which
+becomes shallower northwards.  High underwater plants pull at creatures
+moving east and west, making the way too perilous to move.  
+~
+0 0 11
+E
+tree stump~
+The stump is cut almost perfectly, as if it were fallen by a pair of
+primitive hands.  The bark left revealed has since become mossy with age,
+but it appears to be tampered with often, as if it were a door to a passage
+below.  There is some writing in common etched on a smooth area of the
+stump.  
+~
+D0
+~
+~
+0 0 20707
+D2
+~
+~
+0 0 31427
+D5
+It sure looks dark down there, it may be dangerous, although the stump
+looks to have been hollowed out by sentient hands.  
+~
+tree stump bark door trap~
+1 0 20701
+X <midi/night.mid>~
+S
+#20701
+Inside Hollowed Tree~
+You are in a narrow opening at the top of the hollowed oak tree stump. 
+The tunnel downward seems to lead forever, although it is difficult to tell
+in the almost pitch darkness.  
+~
+0 2061 0
+E
+abyss hollow darkness~
+Down from here the darkness seems impenetrable, although from the look of
+the walls it widens out, allowing room for more people.  
+~
+D4
+If you go up, you will leave the tree stump and come out in the Shandalar
+River.  
+~
+~
+1 0 20700
+D5
+Down from here the darkness seems impenetrable, although from the look of
+the walls it widens out, allowing room for more people.  
+~
+down~
+0 0 20702
+S
+#20702
+Hollowed Tree Base~
+The hollowed out tree opens here to make a large honeycomb-like room,
+with passages branching away north and south, both into darkness.  A rope
+leads back up the way you came.  
+~
+0 9 0
+E
+honeycomb honey comb~
+The room is very tall and very wide, carved with great skill.  The hard
+bank of the river above holds up the ceilng, and the walls are made of
+packed wood where the tree was hollowed too thin.  
+~
+D0
+~
+~
+0 0 20757
+D2
+~
+~
+0 0 20703
+D4
+~
+~
+0 0 20701
+S
+#20703
+Dark Hall~
+The hallway has been hollowed out of a very thick tree root, but the
+walls were reinforced with steel, with extra doors added to the west, east
+and south.  This place is being used as a prison!  You can smell the rot of
+living bodies, but you do not hear any sounds...  
+~
+0 9 0
+E
+steel door wall~
+The steel walls block the escape attempts of the prisoners to the west,
+east and south.  The doors are reinforced with a wooden center, providing
+uncomparable stability.  Behind the doors (which have no windows) prisoners
+silently rot alive.  
+~
+E
+rot smell death~
+It's very hard to look at a smell, but you manage to do it quite nicely! 
+Keep up the good work, follower of Kyp!  
+~
+D0
+~
+~
+0 0 20702
+D1
+~
+~
+1 0 20705
+D2
+~
+~
+1 0 20706
+D3
+~
+~
+1 0 20704
+S
+#20704
+Prison~
+The prison is dark and murky, with mold growing in thick, slimy colonies
+on the wood and stone walls.  The door has no windows, and is made out of
+steel with a wooden core, unbreakable.  It is obvious that whoever is sent
+to punishment in this room is not meant to survive.  
+~
+0 9 0
+D1
+~
+~
+1 0 20703
+S
+#20705
+Prison~
+The prison is dark and murky, with mold growing in thick, slimy colonies
+on the wood and stone walls.  The door has no windows, and is made out of
+steel with a wooden core, unbreakable.  It is obvious that whoever is sent
+to punishment in this room is not meant to survive.  
+~
+0 9 0
+D3
+~
+~
+1 0 20703
+S
+#20706
+Prison~
+The prison is dark and murky, with mold growing in thick, slimy colonies
+on the wood and stone walls.  The door has no windows, and is made out of
+steel with a wooden core, unbreakable.  It is obvious that whoever is sent
+to punishment in this room is not meant to survive.  
+~
+0 9 0
+D0
+~
+~
+1 0 20703
+S
+#20707
+Marsh~
+Weeds and dead creatures pull at your legs as you move around this area. 
+The air is sticky, and reeks of death and disease.  Dimly, to the north, you
+can hear sounds of battle.  
+~
+0 0 11
+D0
+~
+~
+0 0 20708
+D2
+~
+~
+0 0 20700
+S
+#20708
+Marsh~
+The air here smells bad, and the water level is only up to your knees. 
+Insects the size of babies fly around here, seemingly not noticing you. 
+Cattails grow all about, a prelude to the swamp north of here, or the river
+to the south.  North, you can here the sounds of battle.  
+~
+0 4 11
+D0
+~
+~
+0 0 20709
+D2
+~
+~
+0 0 20707
+S
+#20709
+Swamp~
+The water is sticky, and is rotten with the dead.  Swords and other
+weapons float and rust on the surface of the nasty liquid, the contents of
+the 'water' is unknown.  
+~
+0 0 11
+D0
+~
+~
+0 0 20710
+D1
+~
+~
+0 0 20717
+D2
+~
+~
+0 0 20708
+D3
+~
+~
+0 0 20718
+S
+#20710
+Swamp~
+You are in a dirty swamp filled with weapons and bodies which were either
+killed or drowned in the heat of a battle.  To the west a battle rages on
+dry land, and in every other direction the swamp continues.  
+~
+0 0 11
+D0
+~
+~
+0 0 20711
+D1
+~
+~
+0 0 20716
+D2
+~
+~
+0 0 20709
+D3
+~
+~
+0 0 20723
+S
+#20711
+Swamp~
+You are in a swamp of deep, filthy water.  Maggots crawl across your
+body, and you are bitten relentlessly by all the other insects and arachnids
+here.  
+~
+0 0 11
+D0
+~
+~
+0 0 20712
+D1
+~
+~
+0 0 20715
+D2
+~
+~
+0 0 20710
+D3
+~
+~
+0 0 20726
+S
+#20712
+Swamp~
+You are in a swamp that is about knee-high to a humanoid in depth.  Fish
+and amphibians gurgle and go about their business in the filthy water, and
+you can hear the sounds of something much larger stalking you, but it's
+always just out of reach.  
+~
+0 0 11
+D0
+~
+~
+0 0 20713
+D2
+~
+~
+0 0 20711
+D3
+~
+~
+0 0 20727
+S
+#20713
+Swamp~
+You are in a filthy-looking and foul-smelling swamp, but the banks of the
+river are just low enough to climb up.  
+~
+0 0 11
+D0
+~
+~
+0 0 20714
+D2
+~
+~
+0 0 20712
+D4
+~
+~
+0 0 20732
+S
+#20714
+Swamp~
+You are in a deep area of the swamp, possibly over a drop.  It is
+possible (but not recommended) to investigate by diving down.  
+~
+0 0 11
+D2
+~
+~
+0 0 20713
+D3
+~
+~
+0 0 20739
+D5
+~
+~
+0 0 20740
+S
+#20715
+Swamp~
+You are in a cold, wet swamp filled with dead bodies and bugs.  To the
+east a castle rises, but somewhere nearby something is emitting a lord-awful
+smell.  
+~
+0 4 11
+D1
+~
+~
+0 0 20746
+D2
+~
+~
+0 0 20716
+D3
+~
+~
+0 0 20711
+S
+#20716
+Swamp~
+To the west of here stretches a messy battlefield, and you can hear the
+screams and cries of those who day after day await their demise as they do
+battle.  Far to the east a castle can be seen.  
+~
+0 4 11
+D0
+~
+~
+0 0 20715
+D1
+~
+~
+0 0 20747
+D2
+~
+~
+0 0 20717
+D3
+~
+~
+0 0 20710
+S
+#20717
+Swamp~
+You are in a deep, filthy swamp.  Around you are insects and animals that
+feed on the decay from the battlefield to the west.  
+~
+0 4 11
+D0
+~
+~
+0 0 20716
+D1
+~
+~
+0 0 20748
+D3
+~
+~
+0 0 20709
+S
+#20718
+Battlefield~
+You are in a bloody battlefield to the west of a dirty swamp filled with
+the blood and guts of the people killed on the ground beneath you.  Weapons
+and people lay scattered about, as others fight for control of the land.  
+~
+0 0 1
+D0
+~
+~
+0 0 20723
+D1
+~
+~
+0 0 20709
+D3
+~
+~
+0 0 20719
+S
+#20719
+Battlefield~
+You are in the battlefield, where opposing armies fight over the land to
+the east of here, where a mighty warlord holds keep.  Death and destruction
+surround you, filling your nostrils with the smell of decaying corpses and
+your ears with shouts of shattered lives.  
+~
+0 0 1
+D0
+~
+~
+0 0 20722
+D1
+~
+~
+0 0 20718
+D3
+~
+~
+0 0 20720
+S
+#20720
+Battlefield~
+All around you battle rages, and the screams of fallen warriors echo
+chillingly through your bones.  The ground is muddy and poppies grow around
+decaying corpses.  
+~
+0 0 1
+D0
+~
+~
+0 0 20721
+D1
+~
+~
+0 0 20719
+S
+#20721
+Battlefield~
+You are at the northern end of a large battlefield.  The smell of death
+surrounds you, and the moaning of the wounded fills your ears.  Exits are in
+all the cardinal directions, north will lead you away from this place.  
+~
+0 0 1
+D0
+~
+~
+0 0 20724
+D1
+~
+~
+0 0 20722
+D2
+~
+~
+0 0 20720
+S
+#20722
+Battlefield~
+You are surrounded by {RBLOOD{x and {bDEATH{x!  Soldiers and knights are
+doing battle all around you, and have been doing so for years.  A great
+castle looms far to the east, and a short dozen yards in that direction can
+be found a swamp which you must pass through if you intend to find said
+castle.  
+~
+0 0 1
+D0
+~
+~
+0 0 20725
+D1
+~
+~
+0 0 20723
+D2
+~
+~
+0 0 20719
+D3
+~
+~
+0 0 20721
+S
+#20723
+Battlefield~
+All around you is destruction and screaming.  To the east is a swamp,
+where soldiers fight and drown, to the north is a forest, where the trees
+block most of the fighting, but in all other directions battle rages
+relentlessly.  
+~
+0 0 1
+D0
+~
+~
+0 0 20726
+D1
+~
+~
+0 0 20710
+D2
+~
+~
+0 0 20718
+D3
+~
+~
+0 0 20722
+S
+#20724
+Forest~
+To the north is a forest path, and to the east is plain dense forest.  A
+huge battlefield is to the south.  All around you animals go about their
+daily lives, either unaware or your presence or uncaring.  
+~
+0 0 3
+D0
+~
+~
+0 0 20729
+D1
+~
+~
+0 0 20725
+D2
+~
+~
+0 0 20721
+S
+#20725
+Forest~
+You are in the forest just to the south of a path.  South from you seems
+to be a large battlefield, and to the east a swamp begins.  
+~
+0 0 3
+D0
+~
+~
+0 0 20728
+D1
+~
+~
+0 0 20726
+D2
+~
+~
+0 0 20722
+D3
+~
+~
+0 0 20724
+S
+#20726
+Swampy Forest~
+You are in a foot-deep puddle that leads to the swamps east of here and
+trickles west.  There is a dry forest path to the north of here, and what
+appears to be the north part of a battlefield to the south.  
+~
+0 0 3
+D0
+~
+~
+0 0 20727
+D1
+~
+~
+0 0 20711
+D2
+~
+~
+0 0 20723
+D3
+~
+~
+0 0 20725
+S
+#20727
+Forest Path~
+Just to the east of you begins a nasty looking swamp.  To the west the
+path goes straight out of the forest.  The ground under you is very sticky
+and muddy, almost like quicksand but not quite.  You can leave the path to
+the north or south.  
+~
+0 0 3
+D0
+~
+~
+0 0 20732
+D1
+~
+~
+0 0 20712
+D2
+~
+~
+0 0 20726
+D3
+~
+~
+0 0 20728
+S
+#20728
+Forest Path~
+You are on a forest path that leads into the bright fields to the west
+and the dark swamps to the east.  Strange sounds echo all around you, and
+the sounds of branches beneath your feet is like thunder in your ears.  
+~
+0 0 3
+D0
+~
+~
+0 0 20730
+D1
+~
+~
+0 0 20727
+D2
+~
+~
+0 0 20725
+D3
+~
+~
+0 0 20729
+S
+#20729
+Forest Path~
+You are on a path going through a swampy, dark forest.  All around you
+can be heard the hoots and howls of animals, many unknown, and perhaps even
+the sound of little feet prancing about.  
+~
+0 0 3
+D1
+~
+~
+0 0 20728
+D2
+~
+~
+0 0 20724
+S
+#20730
+Forest~
+You are in a thick forest just to the north of a trail.  The ground below
+you is sticky, and threatens to pull you under if you advance in the wrong
+direction.  
+~
+0 4 3
+E
+quicksand sand~
+The quicksand looks very dangerous.  Many tales are told of hapless
+wanderers who have fallen into the trap of the 'waterless drowning'.  
+~
+D1
+~
+~
+0 0 20732
+D2
+~
+~
+0 0 20728
+D3
+~
+~
+0 0 20731
+S
+#20731
+Quicksand!~
+Yuck!  Your clothes and equipment begin to feel heavy as you walk into
+the quicksand.  This is not a good way to go, and it is too dangerous to
+continue any further.  The only safe exit is east to the forest.  
+~
+0 0 12
+D1
+~
+~
+0 0 20730
+S
+#20732
+Forest~
+You are in a dense forest which is situated nearby to a swamp.  You can
+smell water to the east, but a giant oak blocks your passage.  In all other
+directions the forest continues.  
+~
+0 0 3
+E
+oak tree~
+The oak tree is tall and fat, also probably able to withstand any and all
+pressure put onto it.  
+~
+D0
+~
+~
+0 0 20734
+D2
+~
+~
+0 0 20727
+D3
+~
+~
+0 0 20730
+D4
+~
+~
+0 0 20733
+D5
+~
+~
+0 0 20713
+S
+#20733
+In The Oak Canopy~
+You have climbed up the giant oak, and gotten stuck.  You may progess
+only down into the swamp.  
+~
+0 8 0
+D5
+~
+~
+0 0 20732
+S
+#20734
+Dense Forest~
+You have reached the farthest position north-eastern of the forest.  The
+only exits are south and west, and all there is to be found here are trees
+and bushes.  
+~
+0 0 3
+E
+trees bushes~
+Nothing interesting there.
+~
+D2
+~
+~
+0 0 20732
+D3
+~
+~
+0 0 20735
+S
+#20735
+Forest~
+You are in a dense forest, surrounded by nothing but trees and plants. 
+In the distance you can hear birds and animals going about their normal
+daily lives, supporting the food chain.  
+~
+0 0 0
+D0
+~
+~
+0 0 20736
+D1
+~
+~
+0 0 20734
+S
+#20736
+Forest Path~
+You are on a path in the forest that seems to have recently been treaded
+by HUMAN feet!  Very heavy human feet, probably armored.  You may go south
+into the forest, or east or west onto the path.  
+~
+0 0 2
+D1
+~
+~
+0 0 20739
+D2
+~
+~
+0 0 20735
+D3
+~
+~
+0 0 20737
+S
+#20737
+Manmade Path~
+To the east the path on which you walk is unpaved, but here it is a road.
+To the west it widens, and the stones that you are on now give way to gravel
+and stones, laid perfectly for moving wagons, horses, and instruments of
+warfare, like the dreaded catapult.  
+~
+0 0 2
+D1
+~
+~
+0 0 20736
+D3
+~
+~
+0 0 20738
+S
+#20738
+Stone Road~
+You are on a paved road with perfectly laid stones that is used for
+wagons and equipment transportation.  To the east the road breaks into a
+path, which in turn leads into trenches.  
+~
+0 0 2
+D1
+~
+~
+0 0 20737
+S
+#20739
+End of Path~
+You are on the easternmost part of a man-made path through the forest. 
+To the north seems to be some kind of dug-out that you can climb down to get
+into.  To the west the path continues, and to the east lies a swamp.  A huge
+oak tree blocks your passage south, but you may climb up into it.  
+~
+0 0 2
+E
+oak tree~
+What can be said?  It's a big oak tree.
+~
+D1
+~
+~
+0 0 20714
+D3
+~
+~
+0 0 20736
+D5
+~
+~
+0 0 20741
+S
+#20740
+Trapped!~
+You got stuck in a hole!  Water seeps into your lungs, and you struggle
+in vain to get back to the surface.  
+~
+0 4 6
+S
+#20741
+Trench~
+You have entered an elaborate trench system, filled with soldiers in
+various states of repair and consciousness.  Discarded tools and equipment
+abound, and you can hear the sound of battle above you.  
+~
+0 0 0
+D0
+~
+~
+0 0 20742
+D4
+~
+~
+0 0 20739
+S
+#20742
+Trench~
+You are inside a zig-zagging trench with a very thin wall, behind which
+seeps the waters of the deadly swamp to the east.  Tools, equipment, and men
+lay strewn about, as an age-old battle continues all around.  
+~
+0 0 0
+D2
+~
+~
+0 0 20741
+D3
+~
+~
+0 0 20743
+S
+#20743
+Trench~
+You are at a turn in the trench system created by the human army.  The
+turns allow for hiding and stabbing around corners easily.  
+~
+0 0 0
+D0
+~
+~
+0 0 20744
+D1
+~
+~
+0 0 20742
+S
+#20744
+Trench~
+You are in the main line of the trench system designed for defensive
+combat.  You are eyed with suspicion from all around as you move, but most
+of the soldiers are busy fighting their enemy.  
+~
+0 0 0
+D0
+~
+~
+0 0 20745
+D2
+~
+~
+0 0 20743
+D4
+~
+~
+0 0 20791
+S
+#20745
+Trench~
+You are in a dugout system designed for defensive fighting against a
+powerful foe.  The trench belongs to that of the army invading Kenwood Keep
+far to the east, and this position represents the farthest forward the army
+has managed to get.  
+~
+0 0 0
+D2
+~
+~
+0 0 20744
+S
+#20746
+Swamp~
+In the middle of this section of the swamp there lies a great mound of a
+black foul-smelling waste.  
+~
+0 0 11
+D1
+~
+~
+0 0 20751
+D2
+~
+~
+0 0 20747
+D3
+~
+~
+0 0 20715
+S
+#20747
+Swamp~
+In the distance you can hear the screams of dying warriors in the
+battlefield to the west.  To the east looms a tall, ominous castle, said to
+be the home of goblins and trolls.  
+~
+0 0 11
+D0
+~
+~
+0 0 20746
+D1
+~
+~
+0 0 20750
+D2
+~
+~
+0 0 20748
+D3
+~
+~
+0 0 20716
+S
+#20748
+Swamp~
+The swamp is very dirty, filled with disease and droppings.  The water,
+if water it may be called, is thick and drags at your feet as you move.  The
+air is foul and what little greenery grows here seems to be half-dead.  
+~
+0 0 11
+D0
+~
+~
+0 0 20747
+D1
+~
+~
+0 0 20749
+D3
+~
+~
+0 0 20717
+S
+#20749
+Swamp~
+The sounds of battle from the west fill this room with dreadfull volume. 
+The way the hollows in the trees have been shaped creates a colliseum effect
+which carries all the cries of the dying to you.  The swamp is up to your
+waist, the waters of it thick and pastey, restricting your movement.  
+~
+0 0 11
+D0
+~
+~
+0 0 20750
+D1
+~
+~
+0 0 20754
+D3
+~
+~
+0 0 20748
+S
+#20750
+Swamp~
+The swamp stretches on as far as the eye can see.  There are many holes
+under the surface from which eminate great bubbles of reeking air-pockets. 
+To the north, the swamp continues.  To the east, it continues toward a huge
+stone keep.  To the south, the swamp continues.  To the west you can hear
+the sounds of battle.  
+~
+0 0 11
+D0
+~
+~
+0 0 20751
+D1
+~
+~
+0 0 20753
+D2
+~
+~
+0 0 20749
+D3
+~
+~
+0 0 20747
+S
+#20751
+Shamblers~
+Heaps of foul-smelling waste seem to claw at your feet, and the half-dead
+trees dump black slime on your head.  The water reeks terribly, and the
+shadows seem to shift with green vines.  The situation does not appear to be
+any better in any of the traversible exits.  
+~
+0 0 11
+D1
+~
+~
+0 0 20752
+D2
+~
+~
+0 0 20750
+D3
+~
+~
+0 0 20746
+S
+#20752
+Swamp~
+You are in a filthy, stinking swamp.  As you wade through the thick
+waters, plants and dead animals cling to your feet and hinder your progress.
+To the east, a stone keep looms.  To the west, a battlefield screams.  
+~
+0 0 11
+E
+stone keep kenwood~
+The keep is made of black stone from the bottom of the swamp.  It looks
+extremely dark and evil, radiating with terrible magicks.  
+~
+E
+battlefield scream~
+The battlefield is a place of horrible dying, for many many years.  Many
+knights have fallen fighting for and against the keep to the east, and many
+brave, honourable (and not-so-honourable) lives have been lost.  
+~
+D2
+~
+~
+0 0 20753
+D3
+~
+~
+0 0 20751
+S
+#20753
+Swamp~
+Thick, gooey water clings to your legs and tries to seep up to your face.
+Insects the size of human hands fly about, sucking the blood out of anything
+that wanders near.  There are, however, no sounds of animal activity, no
+sounds of life, other than the constant sounds of death and destruction of
+battle to the far west.  
+~
+0 0 11
+D0
+~
+~
+0 0 20752
+D1
+~
+~
+0 0 20755
+D2
+~
+~
+0 0 20754
+D3
+~
+~
+0 0 20750
+S
+#20754
+Swamp~
+You are surrounded by evil twigs and trees that seem to be reaching out,
+clawing at your face.  The ground, it seems, is in league with these trees,
+seeming to slope toward them as you struggle to evade their grasp.  A low
+moan drifts in from the west, where days of fighting and many deaths have
+caused the land to grieve.  
+~
+0 0 11
+D0
+~
+~
+0 0 20753
+D3
+~
+~
+0 0 20749
+S
+#20755
+Top of Cliff~
+Tread is hard to find here, where slimy vines seem to be nudging you
+toward the edge of a very steep cliff.  Looking out, you can see the
+parapets of a menacing castle, set into the swamp and looming high above it.
+Carefull climbing could bring you down to its base, or the path to the west
+toward the battlefield may be followed.  
+~
+0 0 11
+D3
+~
+~
+0 0 20753
+D5
+~
+~
+0 0 20756
+S
+#20756
+Base of Kenwood Keep~
+You stand in front of Kenwood Keep, a huge, evil-looking fortress set
+with strength into the base of the swamp.  The guards eye you suspiciously
+from the parapets, but greet you with eerie silence, not budging a muscle. 
+The only defense the castle seems to have is its giant steel gate, which
+itself seems to shine with evil glow.  There is a hole in the ground at the
+base of the huge cliff you are under.  
+~
+0 0 5
+E
+hole base cliff~
+The hole is very large, leading down into a cave.  There are many huge
+footprints leading into it, footprints that have been recently made.  
+~
+D1
+~
+~
+3 20713 20770
+D4
+~
+~
+0 0 20755
+D5
+~
+~
+1 0 20757
+S
+#20757
+Troll Cave~
+The smell of rotten flesh permeates this area.  Green slime drips from
+the walls, and reflects light all around the caverns.  The patter of rodent
+feet are all around, and in the distance (or perhaps just beyond the corner)
+you can hear the shuffle of huge creatures.  The locations of the movements
+are hard to determine, as the caves echo sound everywhere and distort the
+origin.  
+~
+0 12 0
+D0
+~
+~
+0 0 20758
+D2
+~
+~
+0 0 20702
+D4
+~
+~
+1 0 20756
+S
+#20758
+Troll Den~
+You are in a dimly lit cave, where shadows are cast from every contour in
+the stone walls.  Slimy fungus grows everywhere, dripping green goo onto the
+slippery ground.  From deep within the caves you can hear the shuffling of a
+huge monster.  
+~
+0 8 0
+D0
+~
+~
+0 0 20759
+D2
+~
+~
+0 0 20757
+S
+#20759
+Troll Den~
+You are in a narrow cave used by trolls.  Bones are scattered in the
+green muck on the ground, while slimy fuguses grow along the wall.  The cave
+continues north and south.  From both directions you can hear the shuffling
+of large creatures.  
+~
+0 8 0
+D0
+~
+~
+0 0 20760
+D2
+~
+~
+0 0 20758
+S
+#20760
+Caves~
+The cave closes in around you, choking you with its stale air and reeking
+smells of rotting flesh and tissue.  The cave can be travelled north and
+south.  From both of those directions can be heard the sounds of large
+creatures shuffling about.  
+~
+0 8 0
+D0
+~
+~
+0 0 20761
+D2
+~
+~
+0 0 20759
+S
+#20761
+Pool of Slime~
+You are in a pool of green, sticky, smelling slime.  The stuff sticks to
+your body and works its way into the cracks of your covering.  Swishing
+sounds are coming from all around you in this place.  Under you, something
+moves quickly through the slime.  
+~
+0 9 6
+D1
+~
+~
+0 0 20762
+D2
+~
+~
+0 0 20760
+S
+#20762
+Caves~
+You are deep within the dark caves of the swamp trolls.  Rotting moss
+drips fluid down from the rock ceiling.  Grooves in the floor take the
+liquid westward, while stench from that direction is blown your way by an
+underground breeze.  
+~
+0 0 0
+E
+liquid fluid moss~
+The darkly coloured moss is a species that doesn't exist on the surface
+world.  It excretes an odourous fluid that clings to the walls as it slowly
+drips down to the floor.  It then flows west, to a giant pool of slush.  
+ 
+~
+D1
+~
+~
+0 0 20763
+D3
+~
+~
+0 0 20761
+S
+#20763
+Caves~
+The caves are filled with a blinding darkness, the kind that blankets
+over you and chokes the life out of everything good.  All around sounds
+shuffle eerily as the inhabitants of the caves move about looking for your
+location.  
+~
+0 0 0
+D2
+~
+~
+0 0 20764
+D3
+~
+~
+0 0 20762
+S
+#20764
+Caves~
+The darkness in the caves is almost overwhelming.  Coupled with the smell
+and closed-in feeling of the walls, this is a very nasty place to be. 
+Trolls shuffle around in various passageways, and you can hear the patter of
+their heavy feet coming toward you.  
+~
+0 8 0
+D0
+~
+~
+0 0 20763
+D2
+~
+~
+0 0 20765
+S
+#20765
+Caves~
+The caves here split into 3 different exits, north south and west.  To
+the west comes a cold breeze, filled with the smell of death and decay. 
+Slime and gore drip from the ceiling of the cave wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 20764
+D2
+~
+~
+0 0 20767
+D3
+~
+~
+0 0 20766
+S
+#20766
+Caves and Water~
+Slime and gunk from the caves has dripped down over the years and
+collected in this foul-smelling cavern.  Rotted bodies seem to clutch at you
+from under the opaque liquid, and the walls seem to close in as they drip
+more of the stuff onto you.  
+~
+0 0 0
+D1
+~
+~
+0 0 20765
+S
+#20767
+Caves~
+This part of the caves is very small and narrow, compared to the north
+and south exits.  The air is stuffy and heavy here, and you must force it in
+and out of your lungs.  
+~
+0 0 0
+D0
+~
+~
+0 0 20765
+D2
+~
+~
+0 0 20768
+S
+#20768
+Caves~
+The caves are infested with slime and trolls.  Foul smells come out of
+every nook and cranny and attack your nostrils.  Rotting flesh is evident
+everywhere in the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 20767
+D3
+~
+~
+0 0 20769
+S
+#20769
+Below The Keep~
+You are in the sublevels of Kenwood Keep.  Driplets of water can be heard
+echoing throughout the caves to the east, as can the sound of gigantic
+bodies moving around.  A foul smell eminates here.  A metal ladder leads up
+into the main hall of Kenwood Keep.  
+~
+0 0 0
+D1
+~
+~
+0 0 20768
+D4
+~
+~
+1 0 20770
+S
+#20770
+Inside Kenwood Keep~
+You are in the main foyer of the swamp castle.  The floor is steel, with
+a trapdoor in the center leading to the castle's underground passages.  You
+can hear the sound of castle activity to the east, perhaps the guards have
+realized you are here.  
+~
+0 0 0
+D1
+~
+~
+0 0 20772
+D3
+~
+~
+3 0 20756
+D5
+~
+~
+1 0 20769
+S
+#20771
+Some Immortal Goofed Here...~
+.c 
+Hmm
+.f
+Um
+Hey
+How do I get out of this?
+Gah I hate olc
+Someone help!
+Hey... tell me how to get out of this...
+Crap don't poofout!
+Aww no.. Daisy... Delstar... Help!!!
+Oh no!
+~
+0 32772 0
+S
+#20772
+Hall~
+You are on the first level on Kenwood Keep, a castle buried deep in the
+swamps of Dominia.  The floors are made of solid stone, but from cracks mud
+oozes out, squishing under you.  
+~
+0 0 0
+D0
+~
+~
+0 0 20773
+D1
+~
+~
+0 0 20774
+D3
+~
+~
+0 0 20770
+S
+#20773
+Smooth Walls~
+The walls of this room are perfectly smooth, with no cracks or evidence
+of construction.  The corners are prefectly straight, done masterfully with
+a hand obviously of a higher race.  The goblin constructors of the rest of
+the castle could never hope to achieve this level of workmanship.  
+~
+0 0 0
+D2
+~
+~
+0 0 20772
+S
+#20774
+Hall~
+Kenwood keep was built in the swamps to serve as the stronghold for the
+goblin King Grolm.  As in all structures built by goblins and trolls, this
+castle seems built hastily and with poor workmanship, but the thickness of
+the stones and solidness of the floor make it unlikely for this structure to
+fall.  The floors are cracked and chipped from being put in place
+improperly, and you can see under their bases the slime from the swamp, a
+breeding ground for small nasty creatures.  
+~
+0 0 0
+D1
+~
+~
+0 0 20777
+D2
+~
+~
+0 0 20775
+D3
+~
+~
+0 0 20772
+S
+#20775
+Mess Hall~
+You are in the dining lounge of the goblin stronghold Kenwood Keep.  The
+room is filthy, with stains of blood and raw meat everywhere.  Obviously
+nobody ever cleans.  The tables have no seats, and are littered with rotting
+food substances that reek of spoils that have been sitting for months.  
+~
+0 0 0
+D0
+~
+~
+0 0 20774
+D2
+~
+~
+1 0 20776
+S
+#20776
+Game Room~
+This is the goblin game room, where the castle guards come to enjoy the
+little free time that they are given.  Cages line the room, where captured
+creatures are forced to fight.  In the middle of the room is a roast where
+the soldiers cook whoever they can capture in the battle field to the west
+of the castle.  North is the mess hall.  
+~
+0 0 0
+D0
+~
+~
+1 0 20775
+S
+#20777
+Main Level~
+You are on the main level of Kenwood Keep, the goblin castle built in the
+centre of a stinking swamp.  The keep is currently under seige from the
+west, but the trolls defending the castle keep the attackers at bay.  Under
+you, you can hear the shuffling of hundreds of feet as soldiers move about
+through the underground passages.  
+~
+0 0 0
+D1
+~
+~
+0 0 20778
+D3
+~
+~
+0 0 20774
+S
+#20778
+Outside the Throne Room~
+You are just outside the throne room of this castle.  To the north and
+south are stairs.  This is the darkest area of the castle.  Situated in the
+middle of the structure, the only light that enters here does so only
+through small cracks in the hastily-constructed walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 20779
+D1
+~
+~
+1 0 20781
+D2
+~
+~
+0 0 20780
+D3
+~
+~
+0 0 20777
+S
+#20779
+Bottom of North Stairs~
+You are at the bottom of dangerous, unsteady-looking stone stairs leading
+to the top of Kenwood Keep.  Around you, sounds of guards moving about can
+be heard, although the direction in which they are located is impossible to
+discern because of the echo being carried by the stone walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 20778
+D4
+~
+~
+0 0 20783
+S
+#20780
+Bottom of South Stairs~
+A cool, wet breeze touches you in this part of the castle.  The stones of
+the floor are crudely made, and placed far enough apart that the
+'splish-splosh' of swamp water can be heard between them.  Stone stairs lead
+up from here to the high level of the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 20778
+D4
+~
+~
+0 0 20784
+S
+#20781
+Throne Room South~
+You are in the southern portion of King Grolm's throne room.  Here,
+servants await the call of their master, and several tables are set up to
+allow nobles to go about their business.  However, being a goblin castle,
+there are no nobles, only slimy, disguisting, small goblins.  
+~
+0 0 0
+D0
+~
+~
+0 0 20782
+D3
+~
+~
+1 0 20778
+S
+#20782
+Throne Room~
+You are in the throne room of King Grolm, the goblin lord of this swamp
+castle.  This hall seems to give an impression of might and power, and is
+the most carefully built room in the entire castle made by the goblins.  In
+the ceiling, a giant hole lets in sunlight (and rain).  
+~
+0 0 0
+D2
+~
+~
+0 0 20781
+S
+#20783
+Top of North Stairs~
+You are at the top of perilously steep, narrow stairs carved hastily from
+stone.  While a goblin's short, stumpy foot could easily traverse such
+ground, yours cannot.  Luckily, some of the cracks in the wall are large
+enough to help keep balance.  
+~
+0 0 0
+D2
+~
+~
+0 0 20785
+D5
+~
+~
+0 0 20779
+S
+#20784
+Top of South Stairs~
+You are at the top of perilously steep, narrow stairs carved hastily
+from stone.  While a goblin's short, stumpy foot could easily traverse such
+ground, yours cannot.  Luckily, some of the cracks in the wall are large
+enough to help keep balance.  
+~
+0 0 0
+D0
+~
+~
+0 0 20785
+D5
+~
+~
+0 0 20780
+S
+#20785
+Upstairs Hall~
+You are at the access-point for the upstairs level of Kenwood Keep.  To
+the north and south, great stairwells lead back to the main level.  The
+sloppy craftmanship is apparant here on the top level, where improper
+planning is causing the supports to buckle under the weight of improperly
+placed stone walls.  However, the castle has stood for quite a few years
+now, and likely won't fall down soon, so long as it does not take much abuse
+from the catapults of the battlefield outside.  
+~
+0 0 0
+D0
+~
+~
+0 0 20783
+D1
+~
+~
+0 0 20786
+D2
+~
+~
+0 0 20784
+D3
+~
+~
+0 0 20787
+S
+#20786
+Over the Throne Room~
+You are on the top outside of Kenwood Keep.  Just down and to the north,
+out of reach, there is a hole in the top of the castle leading to the throne
+room.  Here, the stone appears ready to fall inward.  
+~
+0 0 0
+D3
+~
+~
+0 0 20785
+D5
+~
+~
+1 0 20781
+S
+#20787
+Upstairs Hall~
+You are in the upstairs hall of the Kenwood Keep.  An archer's post on
+the south wall allows light and air to enter, although it would be just as
+well to do without them.  The stench of rotting corpses and sounds of death
+cries come from the nearby battlefield.  
+~
+0 0 0
+D1
+~
+~
+0 0 20785
+D3
+~
+~
+0 0 20788
+S
+#20788
+Upstairs Hall~
+The top hallway of Kenwood keep is dark, slimy, and smelly.  From the
+east and west, where slits in the walls have been cracked, comes a breeze,
+filled with the stench of rotting corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 20787
+D3
+~
+~
+0 0 20789
+S
+#20789
+Upstairs Hall~
+You are in the upstairs hall of Kenwood keep.  Small slits in the wall,
+made for archers, allow in light.  To the northwest a battlefield stretches
+far across the landscape.  
+~
+0 0 0
+E
+northwest battle field battlefield~
+~
+D1
+~
+~
+0 0 20788
+D3
+~
+~
+0 0 20790
+S
+#20790
+Tortola~
+The smell of freshly cooked meat permeates this room, and teases your
+nose.  This room is large and well-lit, with a giant lamp of fireflies
+emulating the sun.  There are no windows, but a salty breeze rubs against
+you.  To the east the castle halls await.  
+~
+0 0 0
+E
+fireflies lantern firefly sun lamp light bulb~
+Whoever put the fireflies in that jar must be very talented.  They fly
+around generating light, and never seem to need food or rest.  Strange.  
+~
+E
+wind salty breeze~
+You look at the wind.  Yeah, right.  
+~
+D1
+~
+~
+0 0 20789
+S
+#20791
+Catapult Platform~
+You are on a strong wooden platform designed for the catapults of the
+human army.  These massive war machines are set up in a straight line as far
+as the eye can see, launching balls of fire at the battlefield to the
+south-east.  
+~
+0 0 0
+D5
+~
+~
+0 0 20744
+X fireball.wav~
+S
+#20792
+{DO{rb{Dliv{rion{x~
+Oblivion is filled with the fires of hate and destruction.  The heat is
+overwhelming, and the sky is the color of blood.  White lightning crackles
+and flashes across it.  There are many strange buildings and structures
+around.  A path seems to lead to the north, south, east, and west.  The
+portal you came through has closed up.  
+~
+0 805838848 0
+D0
+~
+~
+0 0 20793
+D1
+~
+~
+0 0 20796
+D2
+~
+~
+0 0 20795
+D3
+~
+~
+0 0 20794
+M 50 H 50
+S
+#20793
+{DO{rb{Dliv{rion{x~
+Oblivion is filled with the fires of hate and destruction.  The heat is
+overwhelming, and the sky is the color of blood.  White lightning crackles
+and flashes across it.  There are many strange buildings and structures
+around.  A path seems to lead to the south.  Lava surrounds you to the
+north, east, and west.  
+~
+0 268959744 0
+D2
+~
+~
+0 0 20792
+S
+#20794
+{DO{rb{Dliv{rion{x~
+Oblivion is filled with the fires of hate and destruction.  The heat is
+overwhelming, and the sky is the color of blood.  White lightning crackles
+and flashes across it.  There are many strange buildings and structures
+around.  A path seems to lead to the east.  Lava surrounds you to the north,
+south, and west.  
+~
+0 268959744 0
+D1
+~
+~
+0 0 20792
+S
+#20795
+{DO{rb{Dliv{rion{x~
+Oblivion is filled with the fires of hate and destruction.  The heat is
+overwhelming, and the sky is the color of blood.  White lightning crackles
+and flashes across it.  There are many strange buildings and structures
+around.  A path seems to lead to the north.  Lava surrounds you to the east,
+south, and west.  
+~
+0 268959744 0
+D0
+~
+~
+0 0 20792
+S
+#20796
+{DO{rb{Dliv{rion{x~
+Oblivion is filled with the fires of hate and destruction.  The heat is
+overwhelming, and the sky is the color of blood.  White lightning crackles
+and flashes across it.  There are many strange buildings and structures
+around.  A path seems to lead to the west.  Lava surrounds you to the north,
+south, and east.  
+~
+0 268959744 0
+D3
+~
+~
+0 0 20792
+S
+#20797
+Empty Vnum~
+~
+0 4 0
+S
+#20798
+Empty Vnum~
+~
+0 4 0
+S
+#20799
+Ravenfeather's Reference Room~
+~
+0 537437452 0
+S
+#0
+
+
+
+#SPECIALS
+M 20713 spec_demon_greater Load to: Ferngaliz, Daedra Prince of Blood
+M 20730 spec_guard Load to: a hobgoblin bodyguard
+S
+
+
+
+#MOBPROGS
+#20710
+salute $n
+say Thank you for your assistance.
+say This will give us the upper hand in the battle.
+wait
+junk crate
+oload 20722
+give bottle $n
+say I hope this Wine will be reward enough.
+wait
+say I have another mission for you.
+say I need you to rescue my daughter, Aimee.
+say She has been locked in the troll prisons.
+say Please rescue her and bring me a sign that she is alright.
+cont
+salute $n
+~
+N
+#20707
+mob remember $n
+~
+A
+#20706
+if isnpc $q
+mob echoaround $q $I screams as $Q's attack finishes $l off!
+mob transfer human 20799
+mob mload 20721
+mob goto 20799
+endif
+~
+A
+#20705
+if isnpc $q
+say Bested by demons from hell!  My honour is lost!
+mob transfer troll 20799
+mob mload 20722
+mob goto 20799
+endif
+~
+A
+#20704
+mob mload 20724
+mob mload 20725
+mob mload 20726
+mob mload 20727
+mob oload 20710
+mob echoat $n Your combat prowess has broken apart the catapult crew.
+mob echoat $n You killed one of the soldiers, the others are now trying to get away.
+mob echoaround $n The catapult crew scatters!
+~
+A
+#20703
+mob echoat $n You are hit by flying debris from a nearby catapult blast!
+mob damage $n 25 50
+~
+A
+#20702
+if mobhere human
+emote snarls.
+kill human
+yell GAARGH!
+else
+emote sniffs the air.
+endif
+~
+A
+#20700
+mob echo $I gurgles and growls.
+~
+A
+#20701
+if mobhere troll
+say Har!  Troll!  For the glory of Shandalar!
+kill troll
+else
+say If ye find trolls, call me.
+endif
+~
+A
+#20709
+say Good day $n.
+salute $n
+say Have you come to aid me in some tasks?
+eye
+~
+N
+#20708
+salute $n
+say Thank you for your assistance $n.
+wait
+say Your first task is to elimintate the troll supply captain, and bring me his box of supplies.
+say Do this and you shall be rewarded.
+salute $n
+~
+N
+#0
+
+#RESETS
+D 0 20700 5 1
+D 0 20701 4 1
+D 0 20703 1 1
+D 0 20703 2 1
+D 0 20703 3 1
+D 0 20704 1 1
+D 0 20705 3 1
+D 0 20706 0 1
+D 0 20756 1 2
+D 0 20756 5 1
+D 0 20757 4 1
+D 0 20769 4 1
+D 0 20770 3 2
+D 0 20770 5 1
+D 0 20775 2 1
+D 0 20776 0 1
+D 0 20778 1 2
+D 0 20781 3 2
+D 0 20786 5 1
+M 1 20700 1 20704 1
+E 0 20700 0 8
+C 100 percent for next reset
+M 1 20702 1 20705 1
+M 1 20701 1 20706 1
+G 0 20713 0
+C 100 percent for next reset
+M 1 20722 30 20711 3
+C 50 percent for next reset
+G 0 20732 0
+C 100 percent for next reset
+M 1 20722 30 20715 3
+C 50 percent for next reset
+G 0 20732 0
+C 100 percent for next reset
+M 1 20722 30 20716 3
+C 50 percent for next reset
+G 0 20732 0
+C 100 percent for next reset
+M 1 20722 30 20718 10
+C 50 percent for next reset
+G 0 20732 0
+C 100 percent for next reset
+M 1 20721 30 20719 5
+C 75 percent for next reset
+E 0 20731 0 10
+C 10 percent for next reset
+M 1 20711 1 20720 1
+C 100 percent for next reset
+G 0 20725 0
+C 25 percent for next reset
+G 0 20726 0
+C 25 percent for next reset
+G 0 20728 0
+C 10 percent for next reset
+G 0 20729 0
+C 100 percent for next reset
+M 1 20721 30 20720 5
+C 50 percent for next reset
+E 0 20731 0 10
+C 100 percent for next reset
+M 1 20721 30 20721 5
+C 75 percent for next reset
+E 0 20731 0 10
+C 100 percent for next reset
+M 1 20721 30 20722 5
+C 75 percent for next reset
+E 0 20731 0 10
+C 100 percent for next reset
+M 1 20722 30 20722 5
+C 50 percent for next reset
+G 0 20732 0
+C 100 percent for next reset
+M 1 20722 30 20723 10
+C 50 percent for next reset
+G 0 20732 0
+C 100 percent for next reset
+M 1 20721 30 20724 2
+C 75 percent for next reset
+E 0 20731 0 10
+C 100 percent for next reset
+M 1 20721 30 20725 2
+C 75 percent for next reset
+E 0 20731 0 10
+C 100 percent for next reset
+M 1 20722 30 20725 5
+C 50 percent for next reset
+G 0 20732 0
+C 100 percent for next reset
+M 1 20722 30 20726 3
+C 50 percent for next reset
+G 0 20732 0
+C 100 percent for next reset
+M 1 20721 30 20728 2
+M 1 20710 1 20729 1
+M 1 20721 30 20729 2
+C 75 percent for next reset
+E 0 20731 0 10
+M 1 20703 1 20731 1
+C 100 percent for next reset
+M 1 20716 1 20735 1
+G 0 20718 0
+M 1 20704 1 20741 1
+E 0 20701 0 16
+C 100 percent for next reset
+M 1 20722 30 20749 1
+C 50 percent for next reset
+G 0 20732 0
+C 100 percent for next reset
+M 1 20722 30 20750 1
+C 50 percent for next reset
+G 0 20732 0
+M 1 20705 3 20751 3
+G 0 20702 0
+C 100 percent for next reset
+M 1 20722 30 20752 1
+C 50 percent for next reset
+G 0 20732 0
+M 1 20709 1 20752 1
+G 0 20716 0
+C 100 percent for next reset
+M 1 20722 30 20753 1
+C 50 percent for next reset
+G 0 20732 0
+C 100 percent for next reset
+M 1 20722 30 20754 1
+C 50 percent for next reset
+G 0 20732 0
+C 100 percent for next reset
+M 1 20714 3 20754 1
+E 0 20723 0 16
+C 100 percent for next reset
+M 1 20730 5 20772 1
+C 100 percent for next reset
+E 0 20733 0 11
+C 100 percent for next reset
+O 0 20715 0 20773
+C 100 percent for next reset
+M 1 20730 5 20774 1
+C 100 percent for next reset
+E 0 20734 0 5
+O 0 20712 0 20776
+C 100 percent for next reset
+M 1 20730 5 20777 1
+C 100 percent for next reset
+E 0 20735 0 6
+C 100 percent for next reset
+M 1 20730 5 20778 1
+C 100 percent for next reset
+M 1 20730 5 20781 1
+O 0 20707 0 20782
+M 1 20720 1 20782 1
+M 1 20728 1 20787 1
+E 0 20711 0 16
+M 1 20729 1 20789 1
+E 0 20711 0 16
+O 0 20704 0 20790
+P 0 20705 1 20704 1
+M 1 20719 1 20790 1
+E 0 20706 0 17
+M 1 20723 1 20791 1
+C 10 percent for next reset
+M 1 20713 1 20792 1
+C 100 percent for next reset
+E 0 20730 0 5
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

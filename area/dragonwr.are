@@ -1,0 +1,4034 @@
+#AREADATA
+Name Ruins of Dragonwar~
+Builders Tyger~
+VNUMs 18700 18899
+Credits { None} Vasrel      Dragonwar Ruins~
+Security 1
+Xcontinent 1
+Age 10
+Questable 1
+End
+
+
+
+#MOBILES
+#18700
+animated human skeleton~
+an animated human skeleton~
+The animated skeleton of a human limps toward you.
+~
+A large human skeleton staggers about looking for life. 
+~
+undead~
+AGO VZ 6 0
+51 5 50d10+5000 1d1+100 5d8+20 claw
+-21 -21 -21 -21
+CFHK BKP I HNSY
+stand stand none 0
+ADHMV ABCDEFGHIJK medium bone the guilds~
+#18701
+animated dwarven skeleton~
+an animated dwarven skeleton~
+The animated skeleton of a dwarf grimaces at you.
+~
+The dwarven skeleton looks completely unaware of all the obstacles in its
+path.  Staggering toward you, it chips the bones that make up its feet on
+the rubble that litters the ruins.  
+~
+undead~
+AGO JZ 6 0
+41 4 25d10+2000 1d1+100 4d8+14 claw
+-14 -14 -14 -14
+CDEFIK BP FILQ HNRSY
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18702
+a tendril from the darkness~
+Tendril from the darkness~
+A twisting tendril stretches in from the darkness.
+~
+A horrible writhing tenticle stretches in from the black depths of the
+fog.
+~
+snake~
+ABFG QV -1000 0
+50 5 40d10+4600 1d1+100 5d8+19 suction
+-20 -20 -20 -20
+FHN 0 L I
+stand stand none 0
+AGXYc ADEFKLQVX huge oil the guilds~
+#18703
+Small chest~
+a small chest~
+A small chest sits here.
+~
+It appears to be a small chest with no seam.
+~
+modron~
+ABG JVZ -1000 0
+45 4 25d10+3000 1d1+100 8d4+16 chomp
+-15 -15 -15 -15
+QR ABKMNPQZ HIK 0
+stand stand none 89
+H ABCGHJK medium wood the guilds~
+#18704
+Adrew-Cett~
+Adrew-Cett~
+Adrew-Cett the undead black dragon staggers around.
+~
+The huge undead dragon glares at you with non-comprehending eyes. 
+Adrew-Cett seems to know you are here though..  And prepared to kill you
+because of it.  
+~
+undead~
+ABFO TVZ -1 0
+51 5 10d10+5000 1d1+100 4d8+25 claw
+-21 -21 -21 -21
+CFKM AB BEIK HLNS
+stand stand male 800
+ABHMVZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+#18705
+Jeffrey Williams~
+Jeffrey Williams~
+Sir Jeffrey Williams the Knight of Selina looks pretty pale.
+~
+The undead knight staggers toward you animated by unnatural magic. 
+~
+undead~
+ABGO HVZa 1 0
+55 5 50d10+7000 1d1+100 10d4+23 none
+-25 -25 -25 -25
+CDFIK AB CHI HNSY
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#18706
+Adian Wol'dike~
+Adian Wol'dike~
+The corpse of Adian Wol'Dike the human commander is standing here.
+~
+A tall warrior stands before you.  His eyes are glazed over with death
+yet you can imagine the pride that once shone there.  
+~
+undead~
+ABGOT VZa 3 0
+48 4 25d10+3750 1d1+100 6d6+18 punch
+-18 -18 -18 -18
+CDEFHK ABK BI HNSY
+stand stand male 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 18700 50~
+#18707
+Jasin-Fawl~
+Jasin-Fawl~
+The very 'animate' green dragon Jasin-fawl stands here.
+~
+The huge scaly beast stares down at you through emerald eyes.  The scales
+on the undead beast's chin give the impression of a short beard.  
+~
+green dragon~
+AG HJTV -400 0
+51 5 20d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -21
+0 0 BEL JNY
+stand stand male 2000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M grall 18705 100~
+#18708
+Trollish Zombie~
+a trollish zombie~
+An almost perfectly intact trollish zombie groans here.
+~
+The trollish zombie is in such good condition you hardly can tell it's
+dead.  All that gives it's life-impared state a detectable quality is 
+it's milky white eyes.  You wonder if it's the trolls regenerative 
+qualities that sustain it.
+~
+troll~
+ACGHY JQVZa -45 0
+44 4 25d10+2750 1d1+100 8d4+15 scratch
+-15 -15 -15 -15
+EFIJ 0 Q H
+stand stand either 20
+BHMZ ABCDEFGHIJKLPQUVWX small 0 the guilds~
+#18709
+Matrim Hastings Baron Necromancer~
+Baron Matrim Hastings~
+Baron Matrim Hastings, the insane necromancer, stands here.
+~
+A dark figure cloaked in black robes stands glaring at you.  Pale
+unsmiling lips only part just enough to allow for a truly frightening sneer.
+Malevolent power flows like a lake about his feet swelling and diminishing
+as he moves toward the fountain.  
+~
+human~
+ABGQ V -1000 0
+52 5 50d10+5500 10d10+300 6d7+20 drain
+-22 -22 -22 -22
+AEK AB 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium meat the guilds~
+#18710
+Aspictalism~
+Aspictalism~
+A Daemon stands here staring blankly.
+~
+A huge red daemon stands glaring out into the darkness with eyes filled
+with hatred.  
+~
+deamon~
+ABFGO DFJTV -1000 0
+58 5 50d10+8500 1d1+100 5d10+25 acbite
+-28 -28 -28 -28
+CFH B H NS
+sleep sleep none 0
+ABGZ ACDEFHJKQVX huge meat the guilds~
+#18711
+Ysuptincrag~
+Ysuptincrag~
+A Daemon stands here staring blankly.
+~
+A huge red daemon stands glaring out into the darkness with eyes filled
+with hatred.  
+~
+deamon~
+ABFGO DFJTV -1000 0
+58 5 50d10+8500 1d1+100 5d10+25 none
+-28 -28 -28 -28
+CFH B H NS
+sleep sleep none 0
+ABGZ ACDEFHJKQVX huge 0 the guilds~
+#18712
+moving skeleton dragon~
+a moving skeletal dragon~
+A large skeletal dragon staggers about.
+~
+A large dragon's skeleton staggers about the room uncomprehending of its
+surroundings.  
+~
+red dragon~
+AGO JTV 6 0
+48 4 25d10+3750 1d1+100 6d6+18 thwack
+-18 -18 -18 -18
+FHK KP BEH INY
+stand stand none 100
+ABDHMVZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+#18713
+Sliver Carapace~
+a sliver carapace~
+A sliver's animated carapace is here.
+~
+A large sliver's carapace lumbers around confused in its dead state.
+~
+sliver~
+AG FQVZ -2 0
+52 5 20d10+4000 1d1+100 6d7+20 pierce
+-22 -22 -22 -22
+AFKR 0 B K
+stand stand none 300
+BHMZ ABCDEFGHIJKLPQUVWX medium shell the guilds~
+#18714
+Gezzt sliver~
+Gezzt the sliver mage~
+A large sliver sways as he watches you.
+~
+A large dark sliver stands before you.  Strange glowing runes cover his
+old animated corpse.  There still seems to be life in his eyes though.  
+~
+sliver~
+AFGR HVb -300 0
+51 5 50d10+5000 1d1+100 5d8+20 peck
+-21 -21 -21 -21
+AEFKR H B K
+stand stand male 3000
+BHMZ ABCDEFGHIJKLPQUVWX medium shell the guilds~
+M grall 18706 100~
+#18715
+Mage Hamin Kylthos~
+the mage Hamin Kylthos~
+The Mage Hamin Kylthos glares at the shimmering door.
+~
+A tall dark haired man stands here.  Skin drawn and pale, lips tight and
+small, he is the picture of undeath.  Draped down his back is a long red
+robe that reaches to the floor.  
+~
+human~
+ABFG HLV 500 0
+51 5 50d10+5000 1d1+100 5d8+20 blast
+-21 -21 -21 -21
+FK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 18704 9~
+#18716
+Rhakis~
+Rhakis~
+Rhakis the Dragon general screams with insanity caused by imprisonment.
+~
+A huge black dragon with glowing amber eyes stands screaming here.  Large
+black wings and lashing tail make him a blur of motion.  Rhakis turns to
+you, not comprehending much but death.  
+~
+black dragon~
+ABFG HTVZ -1000 0
+55 5 50d10+7000 1d1+100 10d4+23 claw
+-25 -25 -25 -25
+FIJKM B BEK L
+stand stand male 3945
+BHMZ ABCDEFGHIJKLPQUVWX huge meat the guilds~
+#18717
+Rat~
+a rat~
+A rat skitters across the floor.
+~
+A large rat squeeks, then squeeks more.
+~
+fido~
+ACG 0 -1 0
+1 0 2d6+10 1d1+100 1d4+0 bite
+9 9 9 9
+FR Z 0 C
+stand stand male 0
+ABGV ACDEFHJKQV medium meat the guilds~
+#18718
+Greenver troll~
+Greenver~
+A small black haired troll snarls and foams at you.
+~
+The angry undead troll is covered in white welts.  His milky eyes stare
+at you with unliving hatrid.  
+~
+troll~
+ACFGY J -500 0
+49 4 50d10+4000 1d1+100 4d10+18 none
+-19 -19 -19 -19
+EHJ 0 Q HJ
+stand stand none 2000
+BHMZ ABCDEFGHIJKLPQUVWX small meat the guilds~
+#18719
+troll tretch~
+the upper half of a troll~
+The upper half of a troll lays here.
+~
+A sickly looking pile of intestines spills out from the upper half of a
+mangled troll corpse.  The trolls eyes follow you as it licks its rotten lips.
+You are horrified as you see the trolls flesh desperately attempting to knit 
+itself back together.
+~
+troll~
+ACG CJ 0 0
+47 4 25d10+3500 1d1+100 6d6+17 thwack
+-17 -17 -17 -17
+E L Q H
+stand stand none 243
+BHMZ ABCDEFGHIJKLPQUVWX medium meat the guilds~
+#18720
+Sleeping gnome~
+a drowsy undead gnome~
+A gnome leans up against the wall sleeping.
+~
+You notice a gnome asleep against the wall.  You can't help but ponder the
+state in which the gnome is when a chunk of flesh loosens and falls to the
+ground.
+~
+gnome~
+AG FJZ 0 0
+41 4 25d10+2000 1d1+100 4d8+10 none
+-14 -14 -14 -14
+D 0 BE HK
+sleep sleep none 2000
+ABHMV ABCDEFGHIJKUV small meat the guilds~
+#18721
+undead bladesmaster robed figure~
+the undead bladesmaster~
+A dark robed figure with a shining longsword stands here.
+~
+Before you stands a tall lithe figure.  Loosely wrapped in a black robe 
+and wearing a dark hooded cloak, his piercing gaze makes him look almost
+alive.  He grips his longsword tightly as if it his most prized possesion.
+~
+human~
+ABG 0 3 0
+53 5 50d10+6000 1d1+100 6d7+21 drain
+-23 -23 -23 -23
+AEFK A BR 0
+stand stand none 2500
+AHMV ABCDEFGHIJK medium meat the guilds~
+M death 18703 100~
+M fight 18702 20~
+M kill 18701 100~
+#18722
+maeroch wolf~
+Maeroch the twisted~
+A huge twisted wolf lopes about with insanity.
+~
+A huge black wolf with a serrated spine growls and snarls.  The claws
+on his twisted paws look to be made of steel.  Snorting a gust of hot
+air out of his nostrels it lopes toward you.
+~
+wolf~
+AFG HVZ -400 0
+45 4 20d10+2000 1d1+100 8d4+16 chomp
+-15 -15 -15 -15
+DFHKL 0 0 B
+stand stand male 0
+AGHMV ABCDEFGHIJKQV huge meat the guilds~
+#18899
+The Vas Mobile~
+The Vas Mobile~
+The Vas Mobile stands on a rotating pad.
+~
+This is a slick black Vas.. MOBile
+~
+human~
+AS Vb -1000 0
+51 5 50d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -21
+BFIKN 0 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#18700
+Human skull~
+a human skull~
+A cracked human skull lays staring at you.~
+bone~
+throwing 0 AO
+1 4 bite 25 'scramble'
+1 1 30 P
+#18701
+Wreckage Siege Engine Catapult~
+the scattered wreckage of a huge catapult~
+A large destroyed siege engine lays here in a million pieces.~
+gold~
+furniture 0 P
+10 10000 E 100 100
+1 1 1000 P
+#18702
+Black candle~
+a black candle~
+A black candle slowly burns here.~
+wax~
+light I AO
+0 0 999 0 0
+5 1 80 P
+A
+12 30  
+#18703
+HUGE chest~
+a huge chest~
+A HUGE chest sits here filling up the room.~
+wood~
+portal 0 P
+100 0 0 18804 0
+0 0 0 P
+#18704
+Dagger of Mimicry~
+the Dagger of Mimicry~
+The dagger gleefully changes its quality with rapid speed.~
+iron~
+weapon BG AN
+exotic 1 45 slash DK
+45 8 8000 P
+#18705
+crest dragonwar~
+a Crest of the Dragonwar~
+A large crest of the Dragonwar lays here.~
+wood~
+armor G AJ
+5 6 6 4 0
+45 10 1000 R
+A
+2 1  
+A
+18 2  
+A
+19 1  
+#18706
+adian smasher axe~
+Adian's Smasher~
+A large axe lays here.~
+wood~
+weapon 0 AN
+flail 4 11 crush BG
+48 0 9000 P
+#18707
+Iron Key~
+an iron key~
+An iron key is sitting here.~
+iron~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#18708
+Ancient Helmet~
+an ancient helment~
+An ancient helmet rests here.~
+bronze~
+armor 0 AE
+10 9 9 9 0
+47 10 2000 P
+A
+20 -2  
+A
+19 1  
+#18709
+Dragon Fountain~
+a dragon fountain~
+A large dragon shooting bloody water into the air.~
+marble~
+fountain 0 0
+-1 -1 'blood' 0 0
+0 100 0 P
+#18710
+human corpse~
+a human corpse~
+A torn up human corpse lays here.~
+wood~
+npc_corpse 0 A
+0 0 0 0 0
+0 180 0 P
+#18711
+dragon corpse~
+a dragon corpse~
+A dragon corpse lays sprawled across the ground.~
+snakeskin~
+npc_corpse 0 A
+0 0 0 0 0
+0 200 0 P
+#18712
+black leather wrist bands~
+a pair of black wrist bands~
+A pair of black leather wrist bands lay here.~
+leather~
+armor 0 AM
+7 7 7 7 0
+48 9 1000 P
+A
+12 30  
+A
+13 30  
+A
+1 1  
+#18713
+Rusted Sword~
+a rused sword~
+A large rusted sword lays here.~
+iron~
+weapon 0 AN
+sword 10 4 slash J
+50 10 800 P
+#18714
+page one book~
+page one~
+A book has been left open to the first page.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+page~
+My name is Hamin Kylthos.  I am the last remaining of the small army that
+has sieged the Stronghold of Rahkis.  I say i am the last, though this is
+not technically true for the Baran Matrim Hastings is still a part of this
+mortal world as we know it; however, after losing his wife he has gone 
+insane to a degree i fear is untouchable.  He has already killed and animated
+the remaining survivors, aside from myself, and animated them to mimic the
+reality that he wants.. no needs.  I myself have been forced to prepare a 
+spell that will hide me from his undead legions the only way i know. I will
+become one of them. Should this spell be a success i will forever be casting
+one spell.  The same spell that i have already used to trap the lord general
+of this stronghold-- Rahkis.
+I fear the worst is yet to come though for i have heard the howls of 
+Daemons echoing the hallways.  I may not have time.  I write this in urgence
+to you.  Please do not continue!  Leave this eternal trap be and let Rahkis'
+sentence remain in place.  I have set a spell that will force me to attack
+whomever enters, so choose your path wisely.
+~
+#18715
+sliver throwing wedge~
+Sliver throwing wedge~
+A large steel wedge, apparantly a sliver weapon, lays here.~
+wood~
+throwing B AO
+1 10 thwack 45 'blast of rot'
+45 2 1000 P
+#18716
+staff misfortune~
+the Staff of Misfortune~
+A long glowing staff shimmers in and out of existance here.~
+air~
+weapon F AN
+polearm 5 7 magic BH
+45 0 3000 P
+#18717
+Broken Spell~
+a broken spell shard~
+A shard of a broken spell lays here.~
+wood~
+key 0 AO
+0 0 0 0 0
+0 1 100 P
+#18718
+huge stone bed~
+a huge stone bed~
+A huge stone bed lays here.~
+stone~
+furniture 0 0
+3 2000 EHK 110 100
+0 0 0 P
+#18719
+Dragon Rotting Head~
+a rotting dragon head~
+A large rotting dragon head lays here.~
+wood~
+container 0 AO
+500 0 0 40 15
+39 10 0 P
+A
+20 -1  
+A
+19 1  
+#18720
+Dented Helmet~
+a dented helmet~
+An old dented helmet lies on its side.~
+iron~
+armor H AE
+5 6 6 6 0
+0 0 0 P
+A
+18 -4  
+#18721
+Trollish cape~
+a trollish cape~
+A short black trollish cape lays in a bundle here.~
+velvet~
+portal 0 AC
+1 0 0 18700 0
+40 13 180 P
+A
+19 2  
+A
+2 1  
+#18722
+gnomish tinker goggles~
+a pair of gnomish tinker goggles~
+The goggles of a gnomish machinist lay here.~
+leather~
+armor 0 AE
+1 1 1 20 0
+35 9 2500 P
+A
+3 2  
+A
+4 -1  
+#18723
+starlight longsword~
+the starlight longsword~
+A longsword glows with soft but intense starlight.~
+steel~
+weapon AGM AN
+sword 5 8 slice 0
+40 3 4500 P
+A
+18 1  
+A
+17 -10  
+#18724
+tasks crescendo focused volume~
+The Tasks Crescendo~
+A focused volume of human aspirations floats here.~
+energy~
+orb FG AQ
+B B 0 0 0
+25 1 3000 P
+A
+2 -3  
+A
+1 -1  
+A
+5 2  
+A
+3 1  
+A
+4 1  
+#18725
+Wolf collar~
+a wolf's collar~
+A collar with 'Baron Matrim Hastings' written on it lays here.~
+leather~
+armor 0 AC
+7 7 7 6 0
+30 7 1300 P
+A
+3 -1  
+A
+19 1  
+A
+1 1  
+#18897
+Building Tool Belt~
+Building Tool Belt~
+A belt is here.~
+leather~
+container 0 AL
+1000 0 0 1000 1
+0 0 0 P
+#18898
+Vasrel's OLC Manual~
+Vasrel' OLC Manual~
+A manual sits here.~
+crystal~
+gem 0 AO
+0 0 0 0 0
+0 0 0 P
+A
+18 30  
+#18899
+Building Lab Coat~
+Vasrel's Building Lab Coat~
+A large white lab coat lays here.~
+rubber~
+armor ISc AD
+-100 -100 -100 -100 0
+45 0 100 P
+#0
+
+
+
+#ROOMS
+#18700
+Surrounded by darkness~
+The ground here is uneven and rough.  In all directions except south, you
+can see a thick, writhing fog.  Voices call to you, urging you to enter the
+darkness.
+~
+0 524288 4
+D0
+~
+~
+0 0 18701
+D1
+~
+~
+0 0 18703
+D3
+~
+~
+0 0 18704
+S
+#18701
+Writhing Fog~
+You are swallowed by the dark vapor.  An oily stench envelops you as you
+look around.  Familiar voices call to you from the darkness, urging you onwards. 
+~
+0 1 0
+D0
+~
+~
+0 0 18709
+D1
+~
+~
+0 0 18702
+D2
+~
+~
+0 0 18700
+D3
+~
+~
+0 0 18705
+S
+#18702
+Writhing Fog~
+You are swallowed by the dark vapor.  An oily stench envelops you as you
+look around.  Familiar voices call to you from the darkness, urging you onwards.
+~
+0 1 0
+D0
+~
+~
+0 0 18708
+D1
+~
+~
+0 0 18707
+D2
+~
+~
+0 0 18703
+D3
+~
+~
+0 0 18701
+S
+#18703
+Writhing Fog~
+~
+0 1 0
+D0
+~
+~
+0 0 18702
+D1
+~
+~
+0 0 18706
+D2
+~
+~
+0 0 18706
+D3
+~
+~
+0 0 18700
+S
+#18704
+Writhing Fog~
+~
+0 1 0
+D0
+~
+~
+0 0 18705
+D1
+~
+~
+0 0 18700
+D2
+~
+~
+0 0 18712
+D3
+~
+~
+0 0 18712
+S
+#18705
+Writhing Fog~
+~
+0 1 0
+D0
+~
+~
+0 0 18710
+D1
+~
+~
+0 0 18701
+D2
+~
+~
+0 0 18704
+D3
+~
+~
+0 0 18711
+S
+#18706
+Writhing Darkness~
+You are swallowed by the dark vapor.  An oily stench envelops you as you
+look around.  Familiar voices call to you from the darkness, urging you onwards.
+~
+0 5 0
+S
+#18707
+Writhing Darkness~
+~
+0 5 0
+S
+#18708
+Writhing Fog~
+~
+0 1 0
+D0
+~
+~
+0 0 18704
+D1
+~
+~
+0 0 18707
+D2
+~
+~
+0 0 18702
+D3
+~
+~
+0 0 18709
+S
+#18709
+Writhing Fog~
+~
+0 1 0
+D0
+~
+~
+0 0 18710
+D1
+~
+~
+0 0 18708
+D2
+~
+~
+0 0 18701
+D3
+~
+~
+0 0 18710
+S
+#18710
+Writhing Darkness~
+~
+0 5 0
+S
+#18711
+Writhing Fog~
+~
+0 1 0
+D0
+~
+~
+0 0 18713
+D1
+~
+~
+0 0 18705
+D2
+~
+~
+0 0 18712
+S
+#18712
+Writhing Darkness~
+~
+0 5 0
+S
+#18713
+Writhing Darkness~
+~
+0 1 0
+D0
+~
+~
+0 0 18716
+D1
+~
+~
+0 0 18710
+D2
+~
+~
+0 0 18711
+D3
+~
+~
+0 0 18714
+S
+#18714
+Writhing Darkness~
+~
+0 1 0
+D0
+~
+~
+0 0 18715
+D1
+~
+~
+0 0 18713
+D2
+~
+~
+0 0 18715
+D3
+~
+~
+0 0 18709
+S
+#18715
+Writhing Darkness~
+~
+0 1 0
+D0
+~
+~
+0 0 18714
+D1
+~
+~
+0 0 18712
+D2
+~
+~
+0 0 18703
+D3
+~
+~
+0 0 18712
+S
+#18716
+Writhing Darkness~
+~
+0 1 0
+D0
+~
+~
+0 0 18717
+D1
+~
+~
+0 0 18710
+D2
+~
+~
+0 0 18713
+D3
+~
+~
+0 0 18710
+S
+#18717
+Writhing Fog~
+~
+0 1 0
+D0
+~
+~
+0 0 18721
+D1
+~
+~
+0 0 18718
+D2
+~
+~
+0 0 18716
+D3
+~
+~
+0 0 18723
+S
+#18718
+Writhing Darkness~
+~
+0 1 0
+D0
+~
+~
+0 0 18717
+D1
+~
+~
+0 0 18719
+D2
+~
+~
+0 0 18710
+D3
+~
+~
+0 0 18717
+S
+#18719
+Writhing Darkness~
+~
+0 1 0
+D0
+~
+~
+0 0 18720
+D1
+~
+~
+0 0 18706
+D2
+~
+~
+0 0 18706
+D3
+~
+~
+0 0 18718
+S
+#18720
+Writhing Fog~
+~
+0 1 0
+D0
+~
+~
+0 0 18725
+D1
+~
+~
+0 0 18721
+D2
+~
+~
+0 0 18719
+D3
+~
+~
+0 0 18722
+S
+#18721
+Writhing Darkness~
+~
+0 5 0
+S
+#18722
+Writhing Fog~
+~
+0 1 0
+D0
+~
+~
+0 0 18722
+D1
+~
+~
+0 0 18720
+D2
+~
+~
+0 0 18721
+D3
+~
+~
+0 0 18721
+S
+#18723
+Writhing Fog~
+~
+0 1 0
+D0
+~
+~
+0 0 18721
+D1
+~
+~
+0 0 18717
+D2
+~
+~
+0 0 18707
+D3
+~
+~
+0 0 18724
+S
+#18724
+Untouched Earth~
+The intrusive swirling darkness seems to cower from this small clearing.  A
+human skeleton lays sprawled across a large granite boulder in the middle of
+the clearing.  
+~
+0 0 3
+D1
+~
+~
+0 0 18723
+S
+#18725
+Writhing Fog~
+~
+0 1 0
+D0
+~
+~
+0 0 18728
+D1
+~
+~
+0 0 18726
+D2
+~
+~
+0 0 18720
+D3
+~
+~
+0 0 18708
+S
+#18726
+Writhing Fog~
+~
+0 1 0
+D0
+~
+~
+0 0 18727
+D1
+~
+~
+0 0 18714
+D2
+~
+~
+0 0 18714
+D3
+~
+~
+0 0 18725
+S
+#18727
+Writhing Fog~
+~
+0 1 0
+D0
+~
+~
+0 0 18711
+D1
+~
+~
+0 0 18712
+D2
+~
+~
+0 0 18726
+D3
+~
+~
+0 0 18712
+S
+#18728
+Entrance to the Fog~
+You are in the huge courtyard of a stronghold that has been built into a hill.
+The doors are of a grand scale as though to allow a creature of immense
+size.  The courtyard appears to have barely survived the ravages of a small
+battle.  The rubble covered ground is littered with skeletons of all sizes
+from draconic to dwarf. 
+~
+0 0 0
+D0
+~
+~
+0 0 18733
+D1
+~
+~
+0 0 18729
+D2
+~
+~
+0 0 18725
+D3
+~
+~
+0 0 18737
+S
+#18729
+Giant Courtyard~
+You are standing amidst rubble and debris created from a battle between
+dragons and men.  Bones, rusty weapons, and other such leftovers from
+battle lay strewn about the courtyard.  The huge spinning darkness is south
+of you. 
+~
+0 0 0
+D0
+~
+~
+0 0 18732
+D1
+~
+~
+0 0 18730
+D3
+~
+~
+0 0 18728
+S
+#18730
+East Wall of Courtyard~
+You stand alongside where the huge east wall of the stronghold connects
+with the black fog.  North is an entrance and more of a courtyard.  A huge
+skeleton lays up against the wall staring off into nothing.  
+~
+0 0 0
+D0
+~
+~
+0 0 18731
+D3
+~
+~
+0 0 18729
+S
+#18731
+East Wall of Courtyard~
+The east wall of the stronghold towers high above you.  The echo of clattering 
+bone upon bone resounds throughtout the area gaining your immediate attention. 
+~
+0 0 0
+D0
+~
+~
+0 0 18742
+D2
+~
+~
+0 0 18730
+D3
+~
+~
+0 0 18732
+S
+#18732
+Giant Courtyard~
+You are standing amidst rubble and debris created from a battle between
+dragons and men.  Bones, rusty weapons, and other such leftovers from
+battle lay strewn across the courtyard.
+~
+0 0 0
+D0
+~
+~
+0 0 18741
+D1
+~
+~
+0 0 18731
+D2
+~
+~
+0 0 18729
+D3
+~
+~
+0 0 18733
+S
+#18733
+Giant Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18740
+D1
+~
+~
+0 0 18732
+D2
+~
+~
+0 0 18728
+D3
+~
+~
+0 0 18734
+S
+#18734
+Giant Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18739
+D1
+~
+~
+0 0 18733
+D2
+~
+~
+0 0 18737
+D3
+~
+~
+0 0 18735
+S
+#18735
+West Wall of Courtyard~
+The west wall looms above you creating a shadow that stretches across to
+the middle of the stronghold.  Bones clutter the courtyard floor making it
+hard to remain quiet.  
+~
+0 0 0
+D0
+~
+~
+0 0 18738
+D1
+~
+~
+0 0 18734
+D2
+~
+~
+0 0 18736
+S
+#18736
+West Wall of Courtyard~
+The west wall looms above you creating a shadow that stretches across to
+the middle of the stronghold.  Bones clutter the courtyard floor making it
+hard to remain quiet.  To your south the huge spinning blackness seems to
+call to you.  
+~
+0 0 0
+D0
+~
+~
+0 0 18735
+D1
+~
+~
+0 0 18737
+S
+#18737
+Giant Courtyard~
+You are standing amidst rubble and debris created from a battle between
+dragons and men.  Bones, rusty weapons, and other such left overs from
+battle lay strewn across the courtyard.  To your south the huge spinning
+blackness seems to call to you.  
+~
+0 0 0
+D0
+~
+~
+0 0 18734
+D1
+~
+~
+0 0 18728
+D3
+~
+~
+0 0 18736
+S
+#18738
+Alongside the Stronghold's West Entrance~
+A huge door allows for entrance into the west part of the draconic
+stronghold.  The clanking of bones in the courtyard is disturbing, but what
+is more frightening is the muffled moans from within the stronghold.  
+~
+0 0 0
+D0
+~
+~
+0 0 18743
+D1
+~
+~
+0 0 18739
+D2
+~
+~
+0 0 18735
+D3
+~
+~
+1 0 18753
+S
+#18739
+Giant Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18744
+D1
+~
+~
+0 0 18740
+D2
+~
+~
+0 0 18734
+D3
+~
+~
+0 0 18738
+S
+#18740
+Giant Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18745
+D1
+~
+~
+0 0 18741
+D2
+~
+~
+0 0 18733
+D3
+~
+~
+0 0 18739
+S
+#18741
+Giant Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18746
+D1
+~
+~
+1 0 18742
+D2
+~
+~
+0 0 18732
+D3
+~
+~
+0 0 18740
+S
+#18742
+East Entrance to Stronghold~
+A huge door allows for entrance into the east part of the draconic
+stronghold.  The clanking of bones in the courtyard is disturbing, but what
+is more frightening is the muffled moans from within the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 18747
+D1
+~
+~
+0 0 18774
+D2
+~
+~
+0 0 18731
+D3
+~
+~
+1 0 18741
+S
+#18743
+West Wall of Courtyard~
+The west wall looms above you creating a shadow that streches across to
+the middle of the stronghold.  Bones clutter the courtyard floor making it
+hard to remain quiet.  
+~
+0 0 0
+D0
+~
+~
+0 0 18748
+D1
+~
+~
+0 0 18744
+D2
+~
+~
+0 0 18738
+S
+#18744
+Giant Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18749
+D1
+~
+~
+0 0 18745
+D2
+~
+~
+0 0 18739
+D3
+~
+~
+0 0 18743
+S
+#18745
+Giant Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18750
+D1
+~
+~
+0 0 18746
+D2
+~
+~
+0 0 18740
+D3
+~
+~
+0 0 18744
+S
+#18746
+Giant Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 18751
+D1
+~
+~
+0 0 18747
+D2
+~
+~
+0 0 18741
+D3
+~
+~
+0 0 18745
+S
+#18747
+East Wall of Courtyard~
+The east wall of the stronghold towers up next to you.  The clattering of
+bone on bone fills your ears.  
+~
+0 0 0
+D0
+~
+~
+0 0 18752
+D2
+~
+~
+0 0 18742
+D3
+~
+~
+0 0 18746
+S
+#18748
+Corner Wall of Courtyard~
+You are standing in the corner created by the west wall coming in contact
+with the north.  This place feels totally devoid of life.  
+~
+0 0 0
+D1
+~
+~
+0 0 18749
+D2
+~
+~
+0 0 18743
+S
+#18749
+North Wall of Courtyard~
+You are standing along side the north courtyard wall.  To the east is the
+main stronghold's entrance.  
+~
+0 0 0
+D1
+~
+~
+0 0 18750
+D2
+~
+~
+0 0 18744
+D3
+~
+~
+0 0 18748
+S
+#18750
+Main Stronghold Entrance~
+Huge draconic gargoyles sit on the ledge above the massive double doors
+which make up the main entrance to the stronghold.  Carvings and symbols of
+some ancient language are scrawled into the door frame giving the entire
+place a dangerous feeling.  
+~
+0 0 0
+D0
+~
+~
+1 0 18805
+D1
+~
+~
+0 0 18751
+D2
+~
+~
+0 0 18745
+D3
+~
+~
+0 0 18749
+S
+#18751
+North Wall of Courtyard~
+You are stanging along side the huge north wall of the courtyard.  The
+large entrance to the stronghold is to your west.  
+~
+0 0 0
+D1
+~
+~
+0 0 18752
+D2
+~
+~
+0 0 18746
+D3
+~
+~
+0 0 18750
+S
+#18752
+Corner Wall of Stronghold~
+You are standing in the corner created by the east wall coming in contact
+with the north wall.  
+~
+0 0 0
+D2
+~
+~
+0 0 18747
+D3
+~
+~
+0 0 18751
+S
+#18753
+Inside the West Keep~
+You are just inside the entrance of the west keep of the stronghold.  The
+cobblestones that make up the walls are carefully sculpted to look like
+dragons embroiled in combat with each other.  A large oak door adorns the
+east wall.  
+~
+0 1 0
+D1
+~
+~
+1 0 18738
+D3
+~
+~
+0 0 18754
+S
+#18754
+Hallway Entrance~
+To your east is the exit to the west keep.  The hallway extends north and
+south to multiple doors.  Old burnt out torches line the walls.  
+~
+0 1 0
+D0
+~
+~
+0 0 18764
+D1
+~
+~
+0 0 18753
+D2
+~
+~
+0 0 18755
+S
+#18755
+South Hallway~
+A large, battered door is sealed to the west wall of the hallway.  Claw
+marks stretch out along the stone floor from draconic claws.  
+~
+0 1 0
+D0
+~
+~
+0 0 18754
+D2
+~
+~
+0 0 18756
+D3
+~
+~
+1 0 18763
+S
+#18756
+South Hallway~
+There is a large door to your west.  The hall continues north and south.  
+~
+0 1 0
+D0
+~
+~
+0 0 18755
+D2
+~
+~
+0 0 18757
+D3
+~
+~
+0 0 18762
+S
+#18757
+South Hallway~
+There is a large door to your west.  A thick layer of ash covers the
+walls and ceiling.  You are unsure what caused the fire, but you surmize
+that there was likely an incredible amount of heat.  
+~
+0 1 0
+D0
+~
+~
+0 0 18756
+D2
+~
+~
+0 0 18758
+D3
+~
+~
+1 0 18761
+S
+#18758
+End of South Hallway~
+You are standing at the southern most end of the hallway.  There is a
+door on the south and west wall.  Bones and debris litter the floor here.  
+~
+0 1 0
+D0
+~
+~
+0 0 18757
+D2
+~
+~
+0 0 18759
+D3
+~
+~
+1 0 18760
+S
+#18759
+Dragon's Room~
+This room looks it has seen a lot of damage.  Nothing is truly intact
+enough to identify.  
+~
+0 0 0
+D0
+~
+~
+0 0 18758
+S
+#18760
+Dragon's Room~
+An intricate mural of a dragon wearing a crown made of jewels, drapes
+the south wall.  This room doesn't appear to have suffered damaged by the
+ravages of war.
+~
+0 0 0
+D1
+~
+~
+1 0 18758
+S
+#18761
+Dragon's Room~
+This appears to have been the room of a mighty draconic warrior.  Beaten,
+rusty plate-mail and broken weapons lay strewn across the floor.  On the
+armor you see the word 'Dith-Gor.' You notice upon closer inspection that the
+armor is filled with dragon bones.  Several feet away from the armor is a
+helmet with a dragon skull in it.
+~
+0 0 0
+D1
+~
+~
+1 0 18757
+S
+#18762
+Dragon's Room~
+A horrific scene fills your eyes as you enter this room.  Humanoid and
+dragon skeletons alike cover every square inch of the room.  What in the
+name of unspoken gods could have caused this?  Huge pits and holes gouged
+into the walls, seem to have been caused by some explosion.  Splinters of
+wood from an old door litter the hallway.  
+~
+0 0 0
+D1
+~
+~
+0 0 18756
+S
+#18763
+Dragon's Room~
+This room is completely empty of all furnishing.  The back of the door is
+pitted with acid burns. A black dragon's room?  
+~
+0 0 0
+D1
+~
+~
+1 0 18755
+S
+#18764
+North Hallway~
+You are standing withing the north hallway.  A large door is set in the west
+wall while shattered humanoid bones litter the floor.  
+~
+0 1 0
+D0
+~
+~
+0 0 18765
+D2
+~
+~
+0 0 18754
+D3
+~
+~
+0 0 18772
+S
+#18765
+North Hallway~
+Standing in the north hallway, you notice a door to the west. The
+clattering of dry, bones echoes throughout the keep.
+~
+0 1 0
+D0
+~
+~
+0 0 18766
+D2
+~
+~
+0 0 18764
+D3
+~
+~
+0 0 18771
+S
+#18766
+North Hallway~
+You are within the north hallway.  There is a door to your west.  Claw
+marks have cut into the floor from draconic feet.  
+~
+0 1 0
+D0
+~
+~
+0 0 18767
+D2
+~
+~
+0 0 18765
+D3
+~
+~
+1 0 18770
+S
+#18767
+End of North Hallway~
+You have reached the end of the north hallway.  There is a huge door to
+the north and west walls.  The floor is covered in acid burns and dragon
+claw marks.  Humanoid and dragon bones powder the floor.  
+~
+0 1 0
+D0
+~
+~
+1 0 18768
+D2
+~
+~
+0 0 18766
+D3
+~
+~
+0 0 18769
+S
+#18768
+Dragon's Bedroom~
+You are standing in a large dragon's bedroom.  It would seem the battle
+never reached this place.  The large stone bed is covered in scratch marks
+possibly from claws or scales.  Two orbs are set into the walls, softy
+illuminating the ancient room.  
+~
+0 0 0
+D2
+~
+~
+1 0 18767
+S
+#18769
+Dragon's room~
+This dragon's resting place is trashed.  Burn marks and black soot encase
+everything.  There is a large wooden door to the west as well as the
+entrance to the hallway on the east side of the room.  The door to this room
+is totally mangled.  
+~
+0 1 0
+D1
+~
+~
+0 0 18767
+D3
+~
+~
+1 0 18773
+S
+#18770
+Dragon's Bedroom~
+Huge hooks are set into the walls all around this dragon's room.  Hanging
+limply from the hooks are skeletal frames of humanoids.  Bones are scattered
+all around the floor.  Tattered clothes and rusty weapons are all that
+remind you they were once alive.  
+~
+0 1 0
+D1
+~
+~
+1 0 18766
+S
+#18771
+Dragon's room~
+This room is totally destroyed.  The faint outline of a dragon is burnt
+into the west wall.  Ash covers the large stone bed and floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 18765
+S
+#18772
+Dragon's Room~
+A huge chain net drooping from the ceiling looks as though it was used
+as a bed.  A pile of bones in the corner looks irritably tidy.  Part of you
+wonders if this dragon didn't last long when the fighting started.  
+~
+0 0 0
+D1
+~
+~
+0 0 18764
+S
+#18773
+Creepy Closet~
+You are standing within the dragon's closet.  The dragon appears to have
+been a mage of some sort.  Magical runes and symbols cover the walls.  This
+place gives you the creeps..  Maybe you should leave.  
+~
+0 524288 0
+D1
+~
+~
+1 0 18769
+S
+#18774
+Inside West Keep~
+You are within the west stronghold gates.  A long hallway stretches out
+into the dark.  Lining the north and south hallway walls are doors, some
+intact while others are not.
+~
+0 0 0
+D1
+~
+~
+0 0 18775
+D3
+~
+~
+0 0 18742
+S
+#18775
+Long Hallway~
+West of you is the exit of the west keep of the stronghold.  To the north
+is a blasted doorframe, and to the south an intact wooden door.  Bones
+litter the hallway for as long as you can see.  
+~
+0 1 0
+D0
+~
+~
+0 0 18789
+D1
+~
+~
+0 0 18776
+D2
+~
+~
+1 0 18790
+D3
+~
+~
+0 0 18774
+S
+#18776
+Long Hallway~
+You can leave the keep if you head far enough west in this hallway. 
+To the north and south, doors stand wide open allowing for entry into the rooms
+once used by dragons.  The hallway streches out farther to the east.
+~
+0 1 0
+D0
+~
+~
+1 0 18793
+D1
+~
+~
+0 0 18777
+D2
+~
+~
+1 0 18792
+D3
+~
+~
+0 0 18775
+S
+#18777
+Long Hallway~
+You attempt to be as quiet as is possible in a room filled with broken
+bones of dragon and men alike.  There is a door to your north possibly
+leading into a dragon's room, and to your south there is a shattered door
+drooping weakly from its frame.  
+~
+0 1 0
+D0
+~
+~
+1 0 18791
+D1
+~
+~
+0 0 18778
+D2
+~
+~
+1 0 18794
+D3
+~
+~
+0 0 18776
+S
+#18778
+The Hallway's Intersection~
+You can go towards the exit by going west or you can continue in the
+hallway by going north or south 
+~
+0 1 0
+D0
+~
+~
+0 0 18779
+D2
+~
+~
+0 0 18782
+D3
+~
+~
+0 0 18777
+S
+#18779
+North Hallway~
+There is a door to your east side.  The hallway continues north or south.  
+~
+0 1 0
+D0
+~
+~
+0 0 18780
+D1
+~
+~
+1 0 18797
+D2
+~
+~
+0 0 18778
+S
+#18780
+North Hallway~
+This part the west keep is trashed as bones completely cover the floor like
+a blanket.  Shockingly though, the doors on the west and east of the hallway
+remain shut and intact.  You can continue north or south.
+~
+0 1 0
+D0
+~
+~
+0 0 18781
+D1
+~
+~
+1 0 18796
+D2
+~
+~
+0 0 18779
+D3
+~
+~
+1 0 18795
+S
+#18781
+End of North Hallway~
+The hallway abruptly ends.  A huge iron door is to your north.  Strange
+symbols are written all around the doorframe.  Besides the door you can only
+go south.  
+~
+0 1 0
+D0
+~
+~
+1 18707 18787
+D2
+~
+~
+0 0 18780
+S
+#18782
+South Hallway~
+Rats scurry about looking for things to eat amongst the bare skeletons. 
+The floor is chipped and covered with claw marks.  You can go north or south
+from here in the hallway or go through the trashed door to your east.  
+~
+0 1 0
+D0
+~
+~
+0 0 18778
+D1
+~
+~
+1 0 18798
+D2
+~
+~
+0 0 18783
+S
+#18783
+South Hallway~
+Along the south hallway you can see the carnage of an old war.  There are
+doors to your east and west.  You can go north or south along the hallway.  
+~
+0 262145 0
+D0
+~
+~
+0 0 18782
+D1
+~
+~
+1 0 18799
+D2
+~
+~
+0 0 18784
+D3
+~
+~
+1 0 18800
+S
+#18784
+End of the South Hallway~
+There is a large metal door to your south covered with a thick coat of
+red-brown rust.  The bones in this room seem to move every once in a while. 
+Upon closer inspection you notice that insects crawling in and among the corpses are
+causing the movement.  
+~
+0 1 0
+D0
+~
+~
+0 0 18783
+D2
+~
+~
+1 0 18785
+S
+#18785
+Room of Dag-Magna the Dragon General~
+You stand in a huge,finely, furnished room of a dragon.  Tapestries
+made of fine cloths and gold are sealed to the walls by magic.  Orbs set
+into the wall illuminate everything with a soft light.  There seems to be a
+private study to the south. 
+~
+0 0 0
+D0
+~
+~
+1 0 18784
+D2
+~
+~
+0 0 18786
+S
+#18786
+Dag-Magna's Study~
+This is the study of Dag-Magna the Dragon General.  A huge oak table worn
+away by the affects of time is in the corner.  You wonder at the possible
+strategies that must have been created on that table.  
+~
+0 0 0
+D0
+~
+~
+0 0 18785
+S
+#18787
+The Private Rooms of Adrew-Cett~
+The huge furnished room positively glows with richness.  Sealed into the
+walls by magic are chains of gold and silver giving the room a web like
+appearance.  A large iron door is set into the north wall. It appears to have
+a large lock on it. 
+~
+0 0 0
+D0
+~
+~
+1 0 18788
+D2
+~
+~
+1 0 18781
+S
+#18788
+Storage room of Adrew-Cett~
+You are standing inside a large closet.  Most everything here is worn
+away and worthless.  All that is in the room is a large pile of cloth that
+reaches to the ceiling of the north wall.  
+~
+0 0 0
+D0
+~
+~
+1 0 18801
+D2
+~
+~
+1 0 18787
+S
+#18789
+Dragon's Room~
+The door to the south has been totally blasted to pieces.  The room is in
+similar shape also for nothing is identifiable. 
+~
+0 1 0
+D2
+~
+~
+0 0 18775
+S
+#18790
+Elf's Room?!~
+Elvish paintings line the walls of this room.  A bed looks small, yet
+strangely comfortable.  Could an elven traitor have actually lived in this
+very room?!  
+~
+0 1 0
+D0
+~
+~
+1 0 18775
+S
+#18791
+Dragon's Room~
+This room has seen battle.  Skeletons are spread out across the floor
+laying in ways that would indicate a violent death.  A large stone bed in
+the corner of the room doesn't look very comfortable.  
+~
+0 1 0
+D2
+~
+~
+1 0 18777
+S
+#18792
+Dragon's Room~
+Chains hang from the wall.  A small stone bed is pressed up against
+the south wall.  You notice a small note written on the south wall above the
+bed that says the following: 'I have not revealed, nor will I reveal
+anything to the legged snakes!' Signed- Chloe Dasher servant of Selina 
+~
+0 1 0
+D0
+~
+~
+1 0 18776
+S
+#18793
+Dragon's Room~
+This is appears to be an untouched bedroom of a dragon.  A large stone
+bed has been placed against the east wall.
+~
+0 1 0
+D2
+~
+~
+1 0 18776
+S
+#18794
+Dragon's Room~
+~
+0 0 0
+D0
+~
+~
+1 0 18777
+S
+#18795
+Dragon's Room~
+There are bones scattered across the floor of this room.  Dark stains
+pocket the floor.  There is a stone bed in the west corner of the room.  
+~
+0 1 0
+D1
+~
+~
+1 0 18780
+S
+#18796
+Dragon's Room~
+This room is plain in appearance like all the other bedrooms you have
+seen.  
+~
+0 1 0
+D3
+~
+~
+1 0 18780
+S
+#18797
+Dragon's Room~
+This room is completely empty except for a huge stone bed that lays near
+the door.  This dragon must have tried to block the door.  
+~
+0 1 0
+D3
+~
+~
+1 0 18779
+S
+#18798
+Dragon's Room~
+The door hooked into the wall by a single hinge to the east, has been
+shattered to pieces.  Huge burn marks decorate the north wall.
+~
+0 1 0
+D3
+~
+~
+1 0 18782
+S
+#18799
+Dragon's Room~
+A dragon's skeleton is pinned up to the north wall by huge spears buried
+deep into the rock.  You can't help but wonder what could do that to a
+dragon of that size.  
+~
+0 1 0
+D3
+~
+~
+1 0 18783
+S
+#18800
+Dragon's Room~
+This room is void of anything of interest.  The door stands intact to
+your east.  
+~
+0 9 0
+D1
+~
+~
+1 0 18783
+S
+#18801
+Secret Tunnel~
+You are standing inside a tunnel of some sort that curves down into the
+darkness.  You can walk on a downwards curve to the east.  
+~
+0 524297 0
+D2
+~
+~
+1 0 18788
+D3
+~
+~
+0 0 18802
+S
+#18802
+Secret Tunnel~
+You are standing inside a tunnel of some sort that curves down into the
+darkness.  You can walk on a downwards curve to the south.  
+~
+0 524297 0
+D1
+~
+~
+0 0 18801
+D2
+~
+~
+0 0 18803
+S
+#18803
+End of Secret Tunnel~
+You reach the end of the tunnel to see a large oval shaped cave.  
+~
+0 524297 0
+D0
+~
+~
+0 0 18802
+S
+#18804
+Inside the HUGE chest~
+Wow, there is a lot of room in here.  You can climb back up and out of it
+rather easily though.  
+~
+0 8 0
+D4
+~
+~
+0 0 18803
+S
+#18805
+Inside the Stronghold~
+You are in a small dark gate room.  The clatter of bones can be heard
+throughout the stronghold.  An iron gate sits to your north.  
+~
+0 9 0
+D0
+~
+~
+0 0 18806
+D2
+~
+~
+1 0 18750
+S
+#18806
+The Grand Entrance of the Stronghold~
+You are surrounded by huge murals torn to shreds by the passage of time. 
+The cracked marble floor is dulled by the coat of dust along its surface. 
+There are rooms to the east and west that look to be for guards.  Marble
+seats were placed below the huge murals for people to wait audience with the
+stronghold's leaders.  There is a large sculpted bronze door set into the
+north wall.  
+~
+0 8 0
+D0
+~
+~
+0 0 18809
+D1
+~
+~
+0 0 18807
+D2
+~
+~
+0 0 18805
+D3
+~
+~
+0 0 18808
+M 0 H 0
+S
+#18807
+East Guard's Room~
+The room is empty save a stone ledge on the east wall for the guard to
+sit on.  
+~
+0 9 0
+D3
+~
+~
+0 0 18806
+S
+#18808
+West Guard's Room~
+A large skeleton of a dragon is spread out along the floor here.  A ledge
+set into the west wall is covered with dark stains that may have been blood
+or the left overs of some dark spell.  
+~
+0 9 0
+D1
+~
+~
+0 0 18806
+S
+#18809
+The Inner Garden~
+A beautiful garden explodes into your vision.  Somehow preserved through
+time this unnatural garden looks as though it were constantly tended by some
+immortal hands.  The bushes and flowers seem to glow with power.  Small
+statues in odd poses are spread out throughout the garden.  You are standing
+on a cobble stone path that leads north into the garden or east and west
+around the garden.  There is a door to your south.  
+~
+0 8 0
+D0
+~
+~
+0 0 18814
+D1
+~
+~
+0 0 18810
+D2
+~
+~
+0 0 18806
+D3
+~
+~
+0 0 18816
+S
+#18810
+The Walkway~
+You are standing along the south east wall of the garden.  Every once in
+a while you think you can see movement amongst the trees to your north. 
+There are flowers carved into the south wall.  
+~
+0 8 0
+D0
+~
+~
+0 0 18812
+D1
+~
+~
+0 0 18811
+D3
+~
+~
+0 0 18809
+S
+#18811
+Corner of Walkway~
+You are in the south east corner of the walkway.  You can walk north or
+west from here.  Strangely there don't seem to be any bones around.  
+~
+0 8 0
+D0
+~
+~
+0 0 18813
+D3
+~
+~
+0 0 18810
+S
+#18812
+Within the Garden~
+You are standing amongst trees, hedges, flowers, and other such creations
+of nature.  A small bird flutters about the upper branches of the garden.  
+~
+0 8 0
+D0
+~
+~
+0 0 18822
+D1
+~
+~
+0 0 18813
+D2
+~
+~
+0 0 18810
+D3
+~
+~
+0 0 18814
+S
+#18813
+The Walkway~
+You are on the southern end of the east wall.  Birds sing a light hearted
+melody throughout the garden.  A large puddle of fresh blood lays across
+your path.
+~
+0 8 0
+D0
+~
+~
+0 0 18823
+D2
+~
+~
+0 0 18811
+D3
+~
+~
+0 0 18812
+S
+#18814
+The Garden Path~
+You are standing amidst warm flower scents.  Butterflies flutter about
+enjoying there simple lives.  You can see a huge fountain to your north.  
+~
+0 8 0
+D0
+~
+~
+0 0 18821
+D1
+~
+~
+0 0 18812
+D2
+~
+~
+0 0 18809
+D3
+~
+~
+0 0 18815
+S
+#18815
+Within the Garden~
+Twigs snap and break as you carefully maneuver through the trees.  A
+twinkling sound brings two frolicking will-o-wisps to your attention.  The
+very air here feels gentle.  
+~
+0 8 0
+D0
+~
+~
+0 0 18820
+D1
+~
+~
+0 0 18814
+D2
+~
+~
+0 0 18816
+D3
+~
+~
+0 0 18818
+S
+#18816
+The Walkway~
+You are on the west side of the south wall.  Things here feel so tranquil,
+it's almost as though time doesn't touch it.  
+~
+0 0 0
+D0
+~
+~
+0 0 18815
+D1
+~
+~
+0 0 18809
+D3
+~
+~
+0 0 18817
+S
+#18817
+Corner of the Walkway~
+You are standing on the south western corner of the walkway that
+surrounds the garden.  You can here the sound of water coming from inside
+the garden.  
+~
+0 0 0
+D0
+~
+~
+0 0 18818
+D1
+~
+~
+0 0 18816
+S
+#18818
+The Walkway~
+You are standing on the southern end of the west walkway.  A warm breeze
+from nowhere glances across your face as the perfumes of nature entice you
+on.  
+~
+0 0 0
+D0
+~
+~
+0 0 18819
+D1
+~
+~
+0 0 18815
+D2
+~
+~
+0 0 18817
+M 0 H 0
+S
+#18819
+The Walkway~
+A huge double-door sits to the west wall.  Small sculpted faeries
+overhang from the door frame.  You think you can here music from within the
+door.  There is a path leading into the garden to your east.  
+~
+0 0 0
+D0
+~
+~
+0 0 18824
+D1
+~
+~
+0 0 18820
+D2
+~
+~
+0 0 18818
+D3
+~
+~
+1 0 18835
+S
+#18820
+The Garden Path~
+You are standing just within the garden.  Songbirds elate you as you
+breath in the eternal unchanged beauty of the garden.  Nothing seems to be
+any older then what you would grant it as the perfect age.  No wilted
+flowers, no fallen leaves, all that is here is beauty.  
+~
+0 0 0
+D0
+~
+~
+0 0 18825
+D1
+~
+~
+0 0 18821
+D2
+~
+~
+0 0 18815
+D3
+~
+~
+0 0 18819
+S
+#18821
+The Garden's Fountain~
+You are in the middle of the inner garden.  A huge fountain of a dragon
+spitting a gush of water straight up into the air meets your eyes.  The
+water that shoots up is as red as blood.  Hands, arms, legs, all undecayed
+float in the water.  Bodies float around the huge pool that surrounds the
+dragon.  Revulsion racks your body at the sight.  
+~
+0 0 0
+D0
+~
+~
+0 0 18826
+D1
+~
+~
+0 0 18822
+D2
+~
+~
+0 0 18814
+D3
+~
+~
+0 0 18820
+S
+#18822
+The Garden Path~
+You are standing amongst a whirl wind of powerful beauty.  Nothing here
+seems to be affected by time.  A squirrel sits chewing on a acorn amidst the
+branches of a nearby oak tree.  
+~
+0 0 0
+D0
+~
+~
+0 0 18827
+D1
+~
+~
+0 0 18823
+D2
+~
+~
+0 0 18812
+D3
+~
+~
+0 0 18821
+M 0 H 0
+S
+#18823
+The Walkway~
+You can head west into the garden, or you can head east into a large lit
+cavern that bubbles with an underground spring.  
+~
+0 0 0
+D0
+~
+~
+0 0 18828
+D1
+~
+~
+1 0 18834
+D2
+~
+~
+0 0 18813
+D3
+~
+~
+0 0 18822
+S
+#18824
+The Walkway~
+You are standing on the north end of the west wall.  The marble floor
+radiates with a river of power that you can only sense, not see.  
+~
+0 0 0
+D0
+~
+~
+0 0 18829
+D1
+~
+~
+0 0 18825
+D2
+~
+~
+0 0 18819
+S
+#18825
+Within the Garden~
+Huge trees and hedges surround you as you sit among the trees.  Brambles
+snare your clothes but don't break your skin.  Peace glows from all the life
+around you.  You dimly notice a undecayed corpse of a human beneath the
+mossy blanket on the garden floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 18830
+D1
+~
+~
+0 0 18826
+D2
+~
+~
+0 0 18820
+D3
+~
+~
+0 0 18824
+S
+#18826
+The Garden Path~
+You are standing on a cobblestone path that leads deeper south into the
+garden and north out to the walkway.  An owl swings flaps by your head
+carrying what looks like a human finger.  
+~
+0 0 0
+D0
+~
+~
+0 0 18831
+D1
+~
+~
+0 0 18827
+D2
+~
+~
+0 0 18821
+D3
+~
+~
+0 0 18825
+S
+#18827
+Inside the Garden~
+A gentle breeze brushes your face with life.  Truly beautiful.  
+~
+0 0 0
+D0
+~
+~
+0 0 18832
+D1
+~
+~
+0 0 18828
+D2
+~
+~
+0 0 18822
+D3
+~
+~
+0 0 18826
+S
+#18828
+The Walkway~
+A gigantic flower grows down from the ceiling.  You are within the
+northern end of the east wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 18833
+D2
+~
+~
+0 0 18823
+D3
+~
+~
+0 0 18827
+S
+#18829
+Corner of Walkway~
+You are standing in the north west corner of the walkway.  A gentle
+breeze warms the air leaving you feeling tranquil.  
+~
+0 0 0
+D1
+~
+~
+0 0 18830
+D2
+~
+~
+0 0 18824
+S
+#18830
+The Walkway~
+The walkway's marble floor is devoid of dust, cracks, or any other
+blemish to perfection.  How could this garden remained so untouched by time?
+Light trickles through the nearby branches without any noticable source.  
+~
+0 0 0
+D1
+~
+~
+0 0 18831
+D2
+~
+~
+0 0 18825
+D3
+~
+~
+0 0 18829
+S
+#18831
+Garden's North Exit~
+Two iron statues stand at attention to either side of the door.  The
+statues are wingless dragons with a look of bland disintrest.  The huge
+double doors they surround are enscribed with gold runes in a language you
+cannot understand.  
+~
+0 0 0
+D0
+~
+~
+1 0 18836
+D1
+~
+~
+0 0 18832
+D2
+~
+~
+0 0 18826
+D3
+~
+~
+0 0 18830
+S
+#18832
+The Walkway~
+You are standing to the north eastern side of the walkway.  The thick
+garden is to your south and you can continue to the corner by going east.  
+~
+0 0 0
+D1
+~
+~
+0 0 18833
+D2
+~
+~
+0 0 18827
+D3
+~
+~
+0 0 18831
+S
+#18833
+Corner of the Walkway~
+The north east corner of the garden is scented with red roses that seem
+to grow up from the marble floor.  A severed hand seems to twitch as it lays
+next to the small thorny flower bush.  
+~
+0 0 0
+D2
+~
+~
+0 0 18828
+D3
+~
+~
+0 0 18832
+S
+#18834
+~
+~
+0 0 0
+D3
+~
+~
+1 0 18823
+M 0 H 0
+S
+#18835
+~
+~
+0 0 0
+D1
+~
+~
+1 0 18819
+M 0 H 0
+S
+#18836
+The Grand Hallway~
+You are standing within a giant hallway glorifying dragons of the war. 
+Huge replicas of generals and commanders line the walls all the way to the
+end.  A thick scent of the dead is here.  The walls are decimated with the
+battle that was waged.  
+~
+0 1 0
+D0
+~
+~
+0 0 18837
+D2
+~
+~
+1 0 18831
+S
+#18837
+End of the Grand Hallway~
+At the end of the grand hallway are two adjoining hallways, one leads
+west the other east.  There is a large double-door set into the north wall. 
+The scratching sounds of bone on rock echo throughout the hallways.  
+~
+0 1 0
+D0
+~
+~
+1 0 18846
+D1
+~
+~
+0 0 18838
+D2
+~
+~
+0 0 18836
+D3
+~
+~
+0 0 18842
+S
+#18838
+East Hallway~
+You are standing before a door that is on the south wall.  Muffled moans
+echo throughout the hallways filling you with nervous excitement.  
+~
+0 1 0
+D1
+~
+~
+0 0 18840
+D2
+~
+~
+1 0 18839
+D3
+~
+~
+0 0 18837
+M 0 H 0
+S
+#18839
+The Strategy Room~
+A huge burnt map is pinned to the east wall.  In the middle of the room
+is a board with tiny replicas of human and dragon pieces.  What plans were
+devised here?  Brilliant?  Dark?  
+~
+0 1 0
+D0
+~
+~
+1 0 18838
+M 0 H 0
+S
+#18840
+End of East Corner~
+You are standing at the end of the east hallway.  A door is set into the
+south wall.  A huge hole is blasted into the north wall at least two feet in
+diameter.  
+~
+0 1 0
+D2
+~
+~
+1 0 18841
+D3
+~
+~
+0 0 18838
+S
+#18841
+The Study~
+Large bookcases line all the walls of this cathedral sized library.  Dust
+laces everything with a thick dark coat.  Tables are spread out randomly
+throughout the room, some have books while others don't.  
+~
+0 1 0
+D0
+~
+~
+1 0 18840
+S
+#18842
+West Hallway~
+A large painting is splayed across the ceiling of a dragon in flight.  On
+the south wall is a iron door.  The hallway continues west.  
+~
+0 1 0
+D1
+~
+~
+0 0 18837
+D2
+~
+~
+1 0 18843
+D3
+~
+~
+0 0 18844
+S
+#18843
+Dueling Room~
+A huge red circle surrounds the white sand floor of the otherwise empty
+room.  This appears to be some sort of dueling room used for practice.  
+~
+0 1 0
+D0
+~
+~
+1 0 18842
+S
+#18844
+End of West Hallway~
+There is a door set into the south wall covered with symbols that most
+likely represent words.  This door is for a special place, of that you are
+sure.  
+~
+0 1 0
+D1
+~
+~
+0 0 18842
+D2
+~
+~
+1 0 18845
+S
+#18845
+The Private Room of Lord General Rahkis~
+This room is spartan to say the least.  Nothing of beauty reaches this
+hole in nature, even the air seems dead with its thickness.  
+~
+0 1 0
+D0
+~
+~
+1 0 18844
+M 0 H 0
+S
+#18846
+Small Hallway~
+At the end of this hallway you can see a staircase leading both up and
+down.  Shrieks can be heard throughout the hallway.  The east wall has words
+scrawled in apparently fresh blood: "Beware or enter the trap of Rahkis!" 
+~
+0 1 0
+D0
+~
+~
+0 0 18847
+D2
+~
+~
+1 0 18837
+S
+#18847
+The Stairs~
+You can go up from here into a slender tower or south into the deeps of
+the stronghold.  From here you can go south out of the stronghold.  
+~
+0 1 0
+D2
+~
+~
+0 0 18846
+D4
+~
+~
+0 0 18848
+D5
+~
+~
+0 0 18851
+S
+#18848
+On the Stairs~
+You are standing on a circular staircase.  Cracks web along the walls.  
+~
+0 1 0
+D4
+~
+~
+0 0 18849
+D5
+~
+~
+0 0 18847
+S
+#18849
+On the Stairs~
+You are standing on the stairs.  Above you fresh air seems to be leaking
+into the stagnant ruin.  
+~
+0 0 0
+D4
+~
+~
+0 0 18850
+D5
+~
+~
+0 0 18848
+S
+#18850
+The Take Off Room~
+This is the room in which the dragons lept off to fly outside of the
+stronghold.  There is a staircase leading down from here.  
+~
+0 0 1
+D5
+~
+~
+0 0 18849
+S
+#18851
+Below the Stronghold~
+The floors are covered with dust and bones.  Darkness surrounds you... 
+and whatever else may be here.  
+~
+0 1 0
+D0
+~
+~
+0 0 18852
+D1
+~
+~
+0 0 18858
+D2
+~
+~
+0 0 18853
+D3
+~
+~
+0 0 18855
+D4
+~
+~
+0 0 18847
+S
+#18852
+The Underground~
+The dust covered floor seems to be relatively untouched by the passage of
+time.  Every once in a while a shuffling sound echos through the
+underground.  
+~
+0 1 0
+D0
+~
+~
+0 0 18870
+D1
+~
+~
+0 0 18857
+D2
+~
+~
+0 0 18851
+D3
+~
+~
+0 0 18854
+S
+#18853
+The Underground~
+Not even mold has survived on the walls of this underground hole beneath
+the stronghold.  
+~
+0 1 0
+D0
+~
+~
+0 0 18851
+D1
+~
+~
+0 0 18859
+D3
+~
+~
+0 0 18856
+S
+#18854
+The Underground~
+Pebbles have crumbled down from the blocks that make up the west
+wall.  Otherwise this place is empty.  
+~
+0 1 0
+D1
+~
+~
+0 0 18852
+D2
+~
+~
+0 0 18855
+S
+#18855
+The Underground~
+The floor is covered with dust.  Darkness overwhelms you.  There is a
+small hallway leading west.  
+~
+0 0 0
+D0
+~
+~
+0 0 18854
+D1
+~
+~
+0 0 18851
+D2
+~
+~
+0 0 18856
+D3
+~
+~
+0 0 18860
+S
+#18856
+The Underground~
+The underground place within the stronghold seems to have avoided the
+conflict of the dragon war.  
+~
+0 1 0
+D0
+~
+~
+0 0 18855
+D1
+~
+~
+0 0 18853
+D5
+~
+~
+1 0 18875
+S
+#18857
+The Underground~
+You are in the dark old corner of the north eastern side of the
+underground room.  
+~
+0 1 0
+D2
+~
+~
+0 0 18858
+D3
+~
+~
+0 0 18852
+S
+#18858
+The Underground~
+A bat flutters by your head then flaps off into another part of the
+darkness.  There seems to be a hallway leading east.  
+~
+0 1 0
+D0
+~
+~
+0 0 18857
+D1
+~
+~
+0 0 18868
+D2
+~
+~
+0 0 18859
+D3
+~
+~
+0 0 18851
+S
+#18859
+The Underground~
+Nothing has been here for a very long time.  Even the dust looks to be
+old.  
+~
+0 1 0
+D0
+~
+~
+0 0 18858
+D3
+~
+~
+0 0 18853
+S
+#18860
+Small Hallway~
+A small hallway continues west hear.  The hallways exit is to the east. 
+You can here the squeeks of bats inside the darkness.  
+~
+0 0 0
+D1
+~
+~
+0 0 18855
+D3
+~
+~
+0 0 18861
+S
+#18861
+Small Hallway~
+You are standing between two doors.  One is to the north, while the other
+is to the south.  The dust here makes it hard to breathe.  
+~
+0 1 0
+D0
+~
+~
+1 0 18863
+D1
+~
+~
+0 0 18860
+D2
+~
+~
+1 0 18867
+D3
+~
+~
+0 0 18862
+S
+#18862
+Small Hallway~
+There is a door to the north, south, and east walls.  
+~
+0 1 0
+D0
+~
+~
+1 0 18864
+D1
+~
+~
+0 0 18861
+D2
+~
+~
+1 0 18866
+D3
+~
+~
+1 0 18865
+S
+#18863
+Storage Room~
+This room appears to have been used to store weapons at one time.  All
+the weapons are rusted and broken from their prolonged lack of use.  
+~
+0 1 0
+D2
+~
+~
+1 0 18861
+S
+#18864
+Storage Room~
+Whatever was kept here seems to have completely rotted away.  Thick dust
+blankets the floor.  Time has ravaged this room.  
+~
+0 1 0
+D2
+~
+~
+1 0 18862
+S
+#18865
+Storage Room~
+Giant barrels of water fill the room.  What was stored here is obvious.  
+~
+0 1 0
+D1
+~
+~
+1 0 18862
+S
+#18866
+Storage Room~
+Huge rolls of cloth lay here decayed from the passage of time.  Other
+than that this place is empty.  
+~
+0 0 0
+D0
+~
+~
+1 0 18862
+S
+#18867
+Storage Room~
+Suits of old rusted armor litter the floor.  Helmets, gloves, torsos,
+leg-plates, everything.  Obviously this room was used to store armor.  
+~
+0 1 0
+D0
+~
+~
+1 0 18861
+S
+#18868
+Small Hallway~
+The small hallway ends at a wooden doorway.  The floor here like
+everywhere else seems untouched.  
+~
+0 1 0
+D1
+~
+~
+1 0 18869
+D3
+~
+~
+0 0 18858
+S
+#18869
+Storage Room~
+This looks to be a storage room filled with odds and ends.  Amidst the
+heap of garbage you can see everything from rotting furniture to clothes. 
+The dragons that lived here didn't seem to like throwing things away.  
+~
+0 0 0
+D3
+~
+~
+1 0 18868
+M 0 H 0
+S
+#18870
+Small Hallway~
+A door blocks your passage to the north.  Dust lines everything.  
+~
+0 1 0
+D0
+~
+~
+1 0 18871
+D2
+~
+~
+0 0 18852
+S
+#18871
+Hallway~
+This hallway is lit by magic orbs implanted into the walls.  Like the
+garden this place seems preserved by magic.  A huge black book sits open on
+a stand in the middle of the room.  
+~
+0 0 0
+D0
+~
+~
+0 0 18872
+D2
+~
+~
+1 0 18870
+S
+#18872
+Hallway~
+You can see a figure standing north of you.  He seems to be muttering
+something before a large shimmering doorway.  The orbs implanted into the
+walls seem to glow stronger here.  
+~
+0 0 0
+D0
+~
+~
+0 0 18873
+D2
+~
+~
+0 0 18871
+S
+#18873
+The Trap~
+A large shimmering door sits attached to the north wall.  Orbs of light
+ring the walls and ceiling.  Behind the shimmering door muffled growls and
+groans can be heard.  
+~
+0 8 0
+D0
+~
+~
+1 18717 18874
+D2
+~
+~
+0 0 18872
+M 110 H 110
+S
+#18874
+Inside the Trap of Rhakis~
+Claw marks rake the walls of the eternal dungeon of Rhakis.  Black rock
+makes you feel totally empty as you glance around.  
+~
+0 1 0
+D0
+~
+~
+1 0 18700
+M 0 H 0
+S
+#18875
+Secret Room~
+This room must have been used to hide in at one time.  No corpse lays
+here so apparantly nobody used it.  
+~
+0 0 0
+D4
+~
+~
+1 0 18856
+M 110 H 110
+S
+#18899
+The Vas'Cave~
+You are standing in the large study of Vasman.  Huge rubber suits with
+strange yellow symbols on them line the walls.  
+~
+0 4 0
+M 400 H 400
+S
+#0
+
+
+
+#SPECIALS
+M 18704 spec_breath_acid Load to: Adrew-Cett
+M 18705 spec_guard Load to: Jeffrey Williams
+M 18707 spec_breath_gas Load to: Jasin-Fawl
+M 18709 spec_cast_undead Load to: Baron Matrim Hastings
+M 18712 spec_breath_any Load to: a moving skeletal dragon
+M 18714 spec_poison Load to: Gezzt the sliver mage
+M 18716 spec_breath_acid Load to: Rhakis
+M 18718 spec_thief Load to: Greenver
+S
+
+
+
+#MOBPROGS
+#18703
+say $n, you are a worthy adversary!
+emote falls to the ground in a bloody heap.
+~
+A
+#18702
+emote stifles a yawn as he easily parries your attacks.
+~
+A
+#18701
+if hpcnt $i == 100
+say You DARE to challenge me, $n? I invite you!!
+end if
+~
+A
+#18700
+if ispc $n
+mob echoat $n Adian Wol'dike glares at you with unnatural hatred.
+end if
+~
+A
+#18704
+emote maintains the shimmering door.
+~
+A
+#18705
+growl
+say Please leave me alone.
+~
+A
+#18706
+emote clicks his mandibles together sharply as you approach.
+~
+A
+#18707
+~
+A
+#0
+
+#RESETS
+D 0 18738 3 1
+D 0 18741 1 1
+D 0 18742 3 1
+D 0 18750 0 1
+D 0 18753 1 1
+D 0 18755 3 1
+D 0 18758 3 1
+D 0 18760 1 1
+D 0 18763 1 1
+D 0 18767 0 1
+D 0 18768 2 1
+D 0 18769 3 1
+D 0 18773 1 1
+D 0 18775 2 1
+D 0 18776 0 1
+D 0 18779 1 1
+D 0 18780 1 1
+D 0 18780 3 1
+D 0 18781 0 2
+D 0 18782 1 1
+D 0 18783 3 1
+D 0 18784 2 1
+D 0 18785 0 1
+D 0 18787 0 1
+D 0 18787 2 2
+D 0 18788 0 1
+D 0 18788 2 1
+D 0 18790 0 1
+D 0 18793 2 1
+D 0 18795 1 1
+D 0 18796 3 1
+D 0 18797 3 1
+D 0 18798 3 1
+D 0 18800 1 1
+D 0 18801 2 1
+D 0 18805 2 1
+D 0 18819 3 1
+D 0 18823 1 1
+D 0 18831 0 1
+D 0 18834 3 1
+D 0 18835 1 1
+D 0 18836 2 1
+D 0 18837 0 1
+D 0 18838 2 1
+D 0 18839 0 1
+D 0 18840 2 1
+D 0 18841 0 1
+D 0 18844 2 1
+D 0 18845 0 1
+D 0 18846 2 1
+D 0 18856 5 1
+D 0 18861 0 1
+D 0 18861 2 1
+D 0 18862 0 1
+D 0 18862 2 1
+D 0 18862 3 1
+D 0 18863 2 1
+D 0 18864 2 1
+D 0 18865 1 1
+D 0 18866 0 1
+D 0 18867 0 1
+D 0 18868 1 1
+D 0 18869 3 1
+D 0 18870 0 1
+D 0 18871 2 1
+D 0 18873 0 2
+D 0 18874 0 1
+D 0 18875 4 1
+M 1 18702 10 18701 10
+M 1 18702 10 18706 10
+M 1 18702 10 18706 10
+M 1 18702 10 18707 10
+M 1 18702 10 18707 10
+M 1 18702 10 18710 10
+M 1 18702 10 18711 10
+O 0 18701 0 18713
+M 1 18702 10 18714 10
+M 1 18702 10 18718 10
+M 1 18702 10 18719 10
+M 1 18702 10 18723 10
+O 0 18700 0 18728
+M 1 18700 15 18728 15
+M 1 18700 15 18729 15
+M 1 18700 15 18733 15
+E 0 18713 0 16
+M 1 18700 15 18734 15
+M 1 18701 6 18737 6
+M 1 18712 9 18740 9
+M 1 18700 15 18741 15
+M 1 18700 15 18746 15
+M 1 18700 15 18750 15
+M 1 18712 9 18750 9
+E 0 18720 0 6
+M 1 18700 15 18753 15
+M 1 18701 6 18754 6
+M 1 18712 9 18754 9
+M 1 18701 6 18755 6
+M 1 18712 9 18755 9
+M 1 18708 4 18759 4
+M 1 18712 9 18760 9
+M 1 18706 1 18761 1
+E 0 18705 0 11
+E 0 18706 0 16
+M 1 18712 9 18761 9
+M 1 18700 15 18764 15
+M 1 18708 4 18767 4
+M 1 18712 9 18769 9
+O 0 18718 0 18769
+M 1 18719 1 18769 1
+M 1 18707 1 18770 1
+O 0 18718 0 18771
+O 0 18718 0 18772
+O 0 18702 0 18773
+M 1 18700 15 18776 15
+M 1 18701 6 18778 6
+M 1 18700 15 18779 15
+M 1 18701 6 18780 6
+M 1 18712 9 18780 9
+M 1 18712 9 18781 9
+M 1 18717 1 18781 1
+M 1 18705 1 18786 1
+E 0 18707 0 17
+E 0 18708 0 6
+E 0 18719 0 0
+M 1 18701 6 18787 6
+M 1 18718 1 18787 1
+E 0 18721 0 3
+M 1 18704 1 18788 1
+M 1 18708 4 18789 4
+M 1 18700 15 18791 15
+O 0 18718 0 18791
+M 1 18700 15 18792 15
+M 1 18700 15 18794 15
+O 0 18718 0 18794
+O 0 18718 0 18796
+O 0 18718 0 18797
+M 1 18721 1 18797 1
+E 0 18723 0 16
+E 0 18724 0 0
+M 1 18708 4 18800 4
+O 0 18703 0 18803
+M 1 18703 1 18804 1
+E 0 18704 0 16
+M 1 18700 15 18808 15
+E 0 18713 0 16
+O 0 18720 0 18808
+M 1 18720 1 18808 1
+E 0 18722 0 6
+O 0 18711 0 18814
+O 0 18710 0 18815
+O 0 18711 0 18817
+O 0 18709 0 18821
+M 1 18709 1 18821 1
+E 0 18712 0 0
+M 1 18710 1 18821 1
+M 1 18711 1 18821 1
+O 0 18711 0 18824
+O 0 18710 0 18828
+M 1 18722 1 18830 1
+E 0 18725 0 3
+M 1 18713 4 18847 4
+M 1 18713 4 18850 4
+M 1 18713 4 18851 4
+M 1 18713 4 18852 4
+E 0 18715 0 17
+M 1 18714 1 18865 1
+E 0 18713 0 16
+E 0 18715 0 0
+O 0 18714 0 18871
+M 1 18715 1 18873 1
+E 0 18716 0 16
+E 0 18717 0 17
+M 1 18716 1 18874 1
+M 1 18899 1 18899 1
+O 0 18713 0 18899
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

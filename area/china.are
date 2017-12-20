@@ -1,0 +1,990 @@
+#AREADATA
+Name China Town~
+Builders Belar~
+VNUMs 6800 6899
+Credits [ None] Belar   China Town~
+Security 1
+Xcontinent 1
+Age 15
+End
+
+
+
+#MOBILES
+#6800
+Bambi the Bartender~
+Bambi~
+Bambi the Bartender awaits your command.
+~
+Bambi the bartender leans towards you, offering a view of bountiful
+cleavage.  "See anything you like?"  She purrs.  
+~
+human~
+A b 0 0
+51 5 50d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -21
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#6801
+Kung Fu Student~
+A Kung Fu Student~
+A Student of Kung Fu
+~
+~
+human~
+A V 500 0
+45 8 25d10+3000 1d1+100 8d4+16 beating
+-3 -3 -3 2
+HNP 0 HL 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#6802
+Kungfu Instructor~
+Kungfu Instructor~
+An Instructor from the Kung Fu School
+~
+~
+human~
+A HV -500 0
+48 4 25d10+3750 1d1+100 6d6+18 chop
+-18 -18 -18 -18
+EFHIJK L 0 H
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#6800
+Fridge~
+a fridge~
+A fride covered with bumber stickers bulges with brewed beverages~
+Steel~
+container 0 0
+500 AC 0 500 0
+0 500 0 P
+#6801
+Belar's Extra Stout Ale~
+Belar's Extra Stout Ale~
+(no description)~
+glas~
+drink A AO
+16 16 'beer' 0 0
+0 10 0 P
+#6802
+Colt Peacemaker~
+A Colt Peacemaker~
+Stupid Belar has dropped his Colt Peacemaker.~
+steel~
+weapon 0 AN
+exotic 20 40 blast G
+54 100 0 P
+A
+19 25
+A
+18 25
+A
+1 5
+A
+2 5
+#6803
+Black Cowboy Hat~
+A Black Cowboy Hat~
+A fine looking black cowboy hat is here.~
+cloth~
+armor 0 AE
+15 15 15 15 0
+54 20 0 P
+#6804
+A Black Trenchcoat~
+A black trenchcoat~
+A dusty black trenchcoat is here.~
+cloth~
+armor 0 AK
+15 15 15 15 0
+54 20 0 P
+#6805
+A hand-tooled holster~
+A Hand-Tooled Holster~
+A fancy belt and hoster is are here.~
+cloth~
+armor 0 AL
+15 15 15 15 0
+54 20 0 P
+#6806
+Burrito~
+A burrito~
+A big ol' burrito~
+food~
+pill 0 A
+54 'frenzy' 'shield' 'haste' 'reserved'
+30 0 0 P
+#0
+
+
+
+#ROOMS
+#6800
+Belar's Bar & Grill~
+A fire roars in the fireplace on the north wall, while Bambi the
+bartender smiles at you from behind the polished mahogany bar.  From her
+glazed eyes and straining cleavage, you know you've come to the right place.
+A place where everybody knows your name.  So pull up a chair and crack a
+cold one.  
+~
+0 524548 0
+M 500 H 500
+S
+#6801
+Chinese Gate~
+You are standing before an ancient Chinese gate.  It is covered with
+delicate calligraphy and vibrant paintings.  Hong Kong Row runs north under
+the gate and is crowded with people.  
+~
+0 4 1
+D0
+~
+~
+0 0 6802
+S
+#6802
+China Town Square~
+You have arrived in the crowded central square of China Town.  The square
+is colourfully decorated in anticipation of the coming holiday and crowds
+hustle and bustle from one side of the square to the other.  Street vendors
+offer up unidentifable grilled lizards on sticks, secret herbal remembies,
+bamboo hats, and pirated copies of Windows 98.  Hong Kong Row leaves north
+and south while Eagle Claw Alley heads west.  To the east delicious smells
+are coming from a noodle shop.  
+~
+0 0 1
+D0
+~
+~
+0 0 6853
+D1
+~
+~
+0 0 6803
+D2
+~
+~
+0 0 6801
+D3
+~
+~
+0 0 6807
+S
+#6803
+Foo Hong's Chop Suey~
+Foo Hong's Chop Suey is world famous for making the best Chinese Food on
+the planet.  A dingy and tacky little lunch-counter type restaurant, its
+looks hide the genius of the chef.  Foo Hong's is crowded with locals, all
+slurping down a healthy serving of chef Lo Fat's delicious noodles.  The
+owner, Foo Hong himself, is nowhere to be seen.  A curtain covers the east
+doorway into the kitchen.  A faded trapdoor in the floor likely leads to a
+cellar.  
+~
+0 8 0
+D1
+~
+~
+0 0 6806
+D3
+~
+~
+0 0 6802
+D5
+~
+trapdoor~
+1 0 6804
+M 150 H 150
+S
+#6804
+A Dark Cellar~
+The only light in this filthy old cellar comes from a low burning lamp. 
+The room is crowded with dusty old boxes, crates, backs, and packages.  Only
+the east wall is clear of obstructions.  Aside from a lot of cockroaches,
+the room also appears to be home to numerous spiders and other critters.  
+~
+0 8 0
+D1
+~
+secret~
+1 0 6805
+D4
+~
+trapdoor~
+1 0 6803
+S
+#6805
+Opium Den~
+Going through the secret door leads you into a small smokey room.  It looks like you've found Foo Hong's
+secret opium den.  Man, does he look ticked at you...
+~
+0 8 0
+D3
+~
+secret~
+1 0 6804
+S
+#6806
+Lo Fat's Kitchen~
+The kitchen is full of mouth watering odors and bustling waiters.  Lo Fat oversees the operation like a king
+surveying his realm.  And he is most certainly not happy at your intrustion.
+~
+0 8 0
+D3
+~
+~
+0 0 6803
+S
+#6807
+Eagle Claw Alley~
+A narrow alley leads between dark windowless buildings.  You quickly leave the crush of the crowd behind and 
+find yourself heading towards a large structure off to the west.
+~
+0 0 1
+D1
+~
+~
+0 0 6802
+D3
+~
+~
+0 0 6808
+S
+#6808
+The End of Eagle Claw Alley~
+Eagle Claw Alley ends at the front door to the Eagle Claw Kung Fu School.
+The area in front of the school is a favourite hang out for punks and
+trouble-makers, looking for a brawl with the school's students.  A large
+bronze door to the west is the main entrance to the school.  
+~
+0 0 1
+D1
+~
+~
+0 0 6807
+D3
+~
+~
+1 0 6809
+S
+#6809
+Kung Fu School~
+The main entrance to the Eagle Claw school is decorated in a simple,
+subdued style.  An old battered desk sits in a corner with the receptionist.
+A couple of students are milling around a billboard holding announcements of
+upcoming tournaments and special instruction.  An archway to the west leads
+into the dojo and a simple door leads south.  
+~
+0 0 0
+D1
+~
+~
+1 0 6808
+D2
+~
+~
+1 0 6810
+D3
+~
+~
+0 0 6812
+S
+#6810
+Change Room~
+Rows of clothes hanging neatly on hooks suggest that this must be the
+school's changing room.  The sounds of splashing water come from the west
+while a curtain hides an archway to the east.  
+~
+0 8 0
+D0
+~
+~
+1 0 6809
+D1
+~
+~
+0 0 6817
+D3
+~
+~
+0 0 6811
+S
+#6811
+The Baths~
+After a long hard day of being kicked in the crotch or beaten with bamboo sticks, the students like to relax with
+a long soak in a hot tub.  Several large tubs of steaming hot water are scattered around the room.
+~
+0 8 0
+D1
+~
+~
+0 0 6810
+S
+#6812
+The Eagle Claw Dojo~
+This room is full of students of the Eagle Claw style, all training hard.
+The floor is covered with tatami mats and exotic weapons decorate the walls.
+Doors to the west and north lead to private areas of the school while an
+archway to the east leads to the main foyer.  
+~
+0 8 0
+D0
+~
+~
+1 0 6815
+D1
+~
+~
+0 0 6809
+D3
+~
+~
+1 0 6813
+S
+#6813
+Weapons Room~
+This room holds the weapons used in training the students.  The walls are
+covered with a variety of deadly instruments.  A door to the east leads to
+the dojo, while a simple, unmarked door leads south.  
+~
+0 8 0
+D1
+~
+~
+1 0 6812
+D2
+~
+~
+1 0 6814
+S
+#6814
+Instructor's Room~
+This appears to be the private room of the schools Master Weapons
+Instructor.  Coming in here may have been a bad idea...  
+~
+0 8 0
+D0
+~
+~
+1 0 6813
+S
+#6815
+Instructors Room~
+~
+0 24 0
+D0
+~
+~
+1 0 6816
+D2
+~
+~
+1 0 6812
+S
+#6816
+Masters Room~
+You have entered the school's Master's private room.  Prepare to die...
+~
+0 8 0
+D2
+~
+~
+1 0 6815
+S
+#6817
+Students' Dorm~
+Rows of cots line the students' dorm room.  Only the most promising students are permitted to live at the
+school full-time.  Maybe someday you will be worthy...
+~
+0 8 0
+D3
+~
+~
+0 0 6810
+M 200 H 200
+S
+#6818
+Parade Square~
+Hong Kong Row continues north, while a small alley leads off to the west.
+A crowd has gathered to watch a dragon parade which is just now heading off
+west down the alley.  You're not sure what the occasion is, but people are
+certainly enjoying themselves with food, drink, and impressive firecrackers.
+To the east is a humble shop.  
+~
+0 0 0
+D0
+~
+~
+0 0 6828
+D1
+~
+~
+0 0 6819
+D2
+~
+~
+0 0 6853
+D3
+~
+~
+0 0 6821
+S
+#6819
+Lao Tzu's Pawn Shop~
+Lao Tzu, part-time author and full-time pawnshop owner, waits here to examine your merchandise.
+~
+0 8 0
+D3
+~
+~
+0 0 6818
+D4
+~
+~
+0 0 6820
+S
+#6820
+Lao Tzu's Room~
+This simple room is Lao Tzu's living space.  Not much here except his
+personal posessions.  
+~
+0 8 0
+D5
+~
+~
+0 0 6819
+S
+#6821
+Dragon Parade~
+The parade winds its way down the alley between the buildings.  The
+closer you get to the front of the parade, the more firecrackers are being
+let off.  
+~
+0 0 0
+D1
+~
+~
+0 0 6818
+D3
+~
+~
+0 0 6822
+S
+#6822
+Dragon Parade~
+You have made it to the front of the Parade.  Now you know where all of
+the fireworks have been coming from...  The fireworks factory to the north. 
+The alley turns south here, but few people seem to be going that way.  
+~
+0 0 0
+D0
+~
+~
+0 0 6824
+D1
+~
+~
+0 0 6821
+D2
+~
+~
+0 0 6823
+S
+#6823
+Dead End Alley~
+The alley ends here.  Its a dead end...  They call it that because if
+you're here, you'll end up dead.  
+~
+0 0 0
+D0
+~
+~
+0 0 6822
+S
+#6824
+Fireworks Factory~
+This warehouse is obviously home to an illegal fireworks factory. 
+Assembly lines are churning out bottle rockets, block busters, and other
+items not suitable for children under the age of 12.  
+~
+0 8 0
+D2
+~
+~
+0 0 6822
+D3
+~
+secret~
+1 0 6825
+S
+#6825
+Jade Dragon Tong Hideout~
+The factory is being run by the evil Jade Dragon Tong.  Now that you have
+discovered the location of their secret hideout, you'll have to be silenced.
+~
+0 8 0
+D1
+~
+secret~
+1 0 6824
+D3
+~
+~
+0 0 6826
+S
+#6826
+Tong Headquarters~
+You have penetrated to the headquarters of the Tong.  From here they plan
+their nefarious schemes and celebrate their successful plots.  
+~
+0 8 0
+D1
+~
+~
+0 0 6825
+D3
+~
+~
+1 0 6827
+S
+#6827
+Tong Leader's Room~
+This is the inner sanctum of the Jade Dragon Tong.  Only the leader and
+his trusted henchmen are allowed in here.  The room is probably full of
+ill-gotten loot...  
+~
+0 8 0
+D1
+~
+~
+1 0 6826
+S
+#6828
+Hong Kong Row~
+Hong Kong Row continues to the north and south with lots of traffic
+travelling in both directions.  To the east is a gambling parlour
+specializing in dominoes and pachinko.  
+~
+0 0 0
+D0
+~
+~
+0 0 6829
+D1
+~
+~
+0 0 6831
+D2
+~
+~
+0 0 6818
+S
+#6829
+Hong Kong Row~
+The traffic on Hong Kong Row is starting to thin out.  The road continues
+north and south and the Warlord's private gardens are to the west.  An odd
+looking building to the east holds a fortune teller's shop.  
+~
+0 0 0
+D0
+~
+~
+0 0 6830
+D1
+~
+~
+0 0 6832
+D2
+~
+~
+0 0 6828
+D3
+~
+~
+0 0 6833
+S
+#6830
+Path to the Hall~
+Hong Kong Row heads south from here while an impressive avenue heads east
+towards an imposing palace.  Hong Kong Row heads south from here while an
+impressive avenue heads east towards a large Hall.  
+~
+0 0 0
+D1
+~
+~
+0 0 6841
+D2
+~
+~
+0 0 6829
+S
+#6831
+Gambling Hall~
+This noisy establishment specializes in games of chance.  Several tables
+are taken up by older gentlemen playing dominoes while younger clients are
+playing the loud Pachinko games against the north wall.  The place is filled
+with smoke and noise, and plenty of loose cash.  
+~
+0 8 0
+D3
+~
+~
+0 0 6828
+S
+#6832
+Tea Leaf Reader~
+An old woman waits here to read your tea leaves.  What does your future
+hold....?  
+~
+0 8 0
+D3
+~
+~
+0 0 6829
+S
+#6833
+Warlord's Garden~
+You have entered the Warlord's personal garden.
+~
+0 0 0
+D0
+~
+~
+0 0 6840
+D1
+~
+~
+0 0 6829
+D3
+~
+~
+0 0 6834
+S
+#6834
+Warlord's Garden~
+You have entered the Warlord's personal garden.
+~
+0 0 0
+D0
+~
+~
+0 0 6839
+D1
+~
+~
+0 0 6833
+D3
+~
+~
+0 0 6835
+S
+#6835
+Warlord's Garden~
+You have entered the Warlord's personal garden.
+~
+0 0 0
+D0
+~
+~
+0 0 6838
+D1
+~
+~
+0 0 6834
+D3
+~
+~
+0 0 6836
+S
+#6836
+The Warlord's Fountain~
+A beautiful fountain surrounded by magnificent statues stands in the
+middle of this flower garden.  This is the most remote spot in the garden,
+perfect for quiet contemplation.  
+~
+0 0 0
+D0
+~
+~
+0 0 6837
+D1
+~
+~
+0 0 6835
+S
+#6837
+Warlord's Garden~
+You have entered the Warlord's personal garden.
+~
+0 0 0
+D1
+~
+~
+0 0 6838
+D2
+~
+~
+0 0 6836
+S
+#6838
+Warlord's Garden~
+You have entered the Warlord's personal garden.
+~
+0 0 0
+D1
+~
+~
+0 0 6839
+D2
+~
+~
+0 0 6835
+D3
+~
+~
+0 0 6837
+S
+#6839
+Warlord's Garden~
+You have entered the Warlord's personal garden.
+~
+0 0 0
+D1
+~
+~
+0 0 6840
+D2
+~
+~
+0 0 6834
+D3
+~
+~
+0 0 6838
+S
+#6840
+Warlord's Garden~
+You have entered the Warlord's personal garden.
+~
+0 0 0
+D2
+~
+~
+0 0 6833
+D3
+~
+~
+0 0 6839
+S
+#6841
+Path to the Hall~
+You are on the east/west avenue which leads towards the Tournament Hall.  
+~
+0 0 0
+D1
+~
+~
+0 0 6842
+D3
+~
+~
+0 0 6830
+S
+#6842
+In Front of the Tournament Hall~
+You are standing in front of the tournament hall.  A steady stream of wealthy looking people flows
+into the building.  A banner out front proclaims, "Tournament tonight!"
+~
+0 0 0
+D1
+~
+~
+0 0 6843
+D3
+~
+~
+0 0 6841
+S
+#6843
+Entrance Hall~
+You are in the entrance hall of the Warlord's Tournament Hall.  The
+Warlord holds illegal full contact martial arts tournaments here.  From the
+sounds coming from the hall to the east, there must be a tournament on right
+now!  
+~
+0 8 0
+D0
+~
+~
+1 0 6846
+D1
+~
+~
+0 0 6845
+D2
+~
+~
+1 0 6844
+D3
+~
+~
+0 0 6842
+S
+#6844
+Guard Room~
+The Warlord's personal bodyguards are relaxing here.  
+~
+0 8 0
+D0
+~
+~
+1 0 6843
+S
+#6845
+Tournament Hall~
+You are in a large arena, with bloodthirsty crowds yelling from the
+bleachers.  In the centre of the arena, two bloodied fighters are thrashing
+each other in an apparent fight to the death.  There are dressing rooms to
+the north, south, and east.  
+~
+0 8 0
+D0
+~
+~
+1 0 6847
+D1
+~
+~
+1 0 6849
+D2
+~
+~
+1 0 6848
+D3
+~
+~
+0 0 6843
+S
+#6846
+The Warlord's Room~
+These are the private chambers of the underworld Kingpin known as The
+Warlord.  He is famous for squashing inquisitive nobodies like tiny annoying
+bugs.  Allow him to demonstrate...  
+~
+0 8 0
+D2
+~
+~
+1 0 6843
+S
+#6847
+Fighters' Dressing Room~
+This is a dressing room used by the fighters participating in the
+tournament.  
+~
+0 8 0
+D2
+~
+~
+1 0 6845
+S
+#6848
+Fighters' Dressing Room~
+This is a dressing room used by the fighters participating in the
+tournament.  
+~
+0 8 0
+D0
+~
+~
+1 0 6845
+S
+#6849
+Fighters' Dressing Room~
+This is a dressing room used by the fighters participating in the
+tournament.  
+~
+0 8 0
+D3
+~
+~
+1 0 6845
+S
+#6853
+Hong Kong Row~
+This street is crowded with people.  You are pushed along by the crowd
+along this narrow route that leads north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 6818
+D2
+~
+~
+0 0 6802
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 6803 5 1
+D 0 6804 1 1
+D 0 6804 4 1
+D 0 6805 3 1
+D 0 6808 3 1
+D 0 6809 1 1
+D 0 6809 2 1
+D 0 6810 0 1
+D 0 6812 0 1
+D 0 6812 3 1
+D 0 6813 1 1
+D 0 6813 2 1
+D 0 6814 0 1
+D 0 6815 0 1
+D 0 6815 2 1
+D 0 6816 2 1
+D 0 6824 3 1
+D 0 6825 1 1
+D 0 6826 3 1
+D 0 6827 1 1
+D 0 6843 0 1
+D 0 6843 2 1
+D 0 6844 0 1
+D 0 6845 0 1
+D 0 6845 1 1
+D 0 6845 2 1
+D 0 6846 2 1
+D 0 6847 2 1
+D 0 6848 0 1
+D 0 6849 3 1
+O 0 6800 0 6800
+P 0 6801 20 6800 20
+M 1 6800 1 6800 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

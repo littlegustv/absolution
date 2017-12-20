@@ -1,0 +1,1351 @@
+#AREADATA
+Name Bunny Forest~
+Builders Blizzard~
+VNUMs 19100 19299
+Credits { 5 25} ChiBliz Bunny Forest~
+Security 1
+Xcontinent 1
+Age 6
+End
+
+
+
+#MOBILES
+#19100
+Ian Wolf~
+Ian Wolf~
+Ian Wolf, the most evilest creature ever, is here gnawing on a deer leg.
+~
+His hair is matted, and his face is covered in fresh deer blood.  His
+teeth are very large, pointed and yellow, with big chunks of meat stuck
+between them.  His tail is very thin, and reminds you of a rat.  
+~
+wolf~
+AB Z -1000 0
+25 0 10d61+200 0d0+0 2d10+1 pierce
+0 0 0 0
+EFHN 0 0 GT
+stand stand male 0
+AGV ACDEFJKQV medium 0
+#19101
+baby wolf cub~
+the dirty wolf cub~
+A dirty wolf cub sniffs around the pile.
+~
+If the little wolf cub wasn't so dirty, and didn't smell so bad, it would
+almost be cute!  
+~
+wolf~
+ABI Z -1000 0
+17 0 5d30+160 0d0+0 2d6+0 pierce
+0 0 0 0
+FH 0 0 E
+stand stand none 0
+AGV ACDEFJKQV medium 0
+#19102
+tiny ladybug lady bug female girl~
+a tiny ladybug~
+A female lady bug hides here, with sunshine on her ruby wings.
+~
+A pretty little ladybug is so happy that you found her!  She loves to
+play hide-And-Seek in the ladybug Meadow with her other friends.  
+~
+centipede~
+AB QTZ -1000 0
+8 1 1d17+50 0d0+0 2d3+4 slap
+0 0 0 0
+P 0 FI AE
+stand stand female 0
+ABGO ACK medium 0
+#19103
+tiny ladybug lady bug male boy~
+a tiny male ladybug~
+A tiny male ladybug is hoping his girlfriend doesn't spot him!
+~
+The male ladybug may look very feminine, but he is actually very
+masculine.  
+~
+centipede~
+AB QTZ -1000 0
+9 1 1d17+50 0d0+0 2d3+4 slap
+0 0 0 0
+P 0 FI AE
+stand stand male 0
+ABGO ACK medium 0
+#19104
+Crocodile alligator gator ~
+a crocodile~
+A hungry crocodile nips at your leg.
+~
+A big crocodile is slithering around in the moat, with sea-plants all
+over his back.  
+~
+lizard~
+ABF DFVb -1000 0
+20 0 7d35+160 0d0+0 4d5+10 bite
+0 0 0 0
+0 0 L I
+stand stand male 0
+AGXc ACDEFHKQV medium 0
+#19105
+princess baby valonia little ~
+Princess Valonia~
+Princess Valonia was napping till you walked in.
+~
+Princess Valonia is the youngest of King Michael and Queen Lindsay's
+three children.  She is very young and playful, and has known to get into a
+lot of trouble around the castle.  She wears a cute little purple sleeper,
+and a soft crown.  
+~
+rabbit~
+AB P 1000 0
+5 0 1d17+42 0d0+0 2d3+2 suction
+0 0 0 0
+FHINP 0 0 QR
+stand stand female 0
+AGV ACDEFHJK small 0
+#19106
+Lindsay Queen Beautiful Linny Lin Linz~
+the Beautiful Queen Lindsay~
+Queen Lindsay is enjoying the company of King Michael
+~
+She is the most stunningly beautiful Bunny you have ever seen.  Her
+reddish fur shines, even now that she is soaking wet and bubbled from an
+intimate bath with King Michael.  She is wearing nothing but a sheer lace
+robe.  
+~
+rabbit~
+ABT HV 1000 0
+25 0 10d60+416 0d0+0 5d6+13 whip
+0 0 0 0
+FH JPT 0 H
+stand stand female 20000
+AGV ACDEFHJK small 0
+M greet 19101 100~
+M give 19102 19165~
+M give 19102 penelope~
+#19107
+Michael King Handsome Mike Mikey~
+the Handsome King Michael~
+King Michael looks pleased, but a little worried.
+~
+What a handsome Bunny!  Especially when he sports nothing but the family
+jewels..  
+~
+rabbit~
+ABT HV 1000 0
+25 0 10d60+416 0d0+0 5d6+13 punch
+0 0 0 0
+FH JPT 0 H
+stand stand male 20000
+AGV ACDEFHJK medium 0
+#19108
+watchman man watch watchmen guard~
+a watchman~
+A tough looking watchman stands on guard.
+~
+He is very tall and is in very good shape.  He loves having the
+occupation of protecting the royal family.  
+~
+giant~
+AB Pd -1000 0
+22 0 5d30+250 0d0+0 4d5+10 bite
+0 0 0 0
+JPT 0 HI JP
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+M greet 19100 100~
+#19109
+squirrel cute happy~
+a cute squirrel~
+A happy squirrel is scampering around eating seeds.
+~
+Its a cute little brown squirrel, thats really annoying.
+~
+cat~
+AB Z 1000 0
+14 0 5d30+160 0d0+0 3d5+8 none
+0 0 0 0
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQUV small 0
+#19110
+honey bunny hunny hunnybunny honeybunny~
+a Honey Bunny~
+A cute yellow Honey Bunny is sticking around.
+~
+It is so cute!  Its honey coloured, and is sitting in a puddle of honey,
+eating happily!  
+~
+rabbit~
+AB PU -1000 0
+20 0 5d30+170 0d0+0 4d5+10 sting
+0 0 0 0
+EFHI T K R
+stand stand either 0
+AGV ACDEFHJK medium 0
+#19111
+bunny buns mrs lady baker old~
+Mrs. Baker Bunny~
+Old Mrs. Baker Bunny is tasting some chocolate batter.
+~
+She's a short old bunny, with grey fur and glasses.  She wears a little
+green shall over her shoulders to keep warm, even though the bakery is very
+warm.  A scarf is wrapped around her long wrinkled ears to prevent little
+grey hairs from being in here cookies!  
+~
+human~
+AB 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 0
+#19112
+Mr. Money Bunny banker bank teller bankteller~
+Mr. Money Bunny~
+Mr. Money Bunny is carefully counting his coins.
+~
+Mr.  Money Bunny is an old man, he's run this bank for over 100 years. 
+You can almost see dollar signs in his eyes..  
+~
+rabbit~
+ABd DF 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 0 0
+stand stand male 0
+AGV ACDEFHJK medium 0
+#19113
+sandy sandleford bunny teenager teenaged teen cute~
+Sandy Sandleford~
+A cute teenaged bunny offers to serve you a salad.
+~
+Sandy has long golden fur, and bright pink ears.  Her chest is covered in
+very fluffy and soft looking fur, like a baby bunnies.  You think she's so
+cute!  
+~
+rabbit~
+AB S 0 0
+69 0 12d369+690 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 0 0
+stand stand female 0
+AGV ACDEFHJK small 0
+#19114
+massuse massuses massage massager mass sex sexy sexual healer healing~
+a sexy massuse~
+A sexy massues offers you sexual healing.
+~
+She's very sexy, in a tiny white dress, that doesn't quite cover all. 
+Her hair is long and silky, and her nails are perfectly manicured.  
+She hums softly "When I get that feeling, I need sexual healing.."
+~
+doll~
+ABa DFHV 0 0
+55 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 ILMNPQR EILMNPQRS GHJKO
+rest stand female 0
+EJMc ABCGHK huge 0
+#19115
+bird cute tiny~
+a tiny cute bird~
+A tiny cute bird flutters about.
+~
+Its a plain brown tiny little cute bird.  
+~
+song bird~
+AB T -1000 0
+15 0 5d30+160 0d0+0 3d5+8 peck
+0 0 0 0
+FH R 0 BEFGHIKLOR
+stand stand either 0
+AGW ACDEFHKP small 0
+#19116
+bellboy bell boy ugly dirty~
+the ugly bell tower boy~
+A dirty and ugly bell boy looks rather confused.
+~
+He's naked, and dirty.  He's also ugly, hunched, and ugly.  
+~
+goblin~
+ABCFS MPWXZd -1000 0
+25 0 10d61+179 0d0+0 2d10+1 beating
+0 0 0 0
+BCIJ 0 Q CJN
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0
+#19117
+cute servant orphan girl maid cleaner~
+a servant girl~
+A cute servant girl is cleaning up the castle.
+~
+Even though she's a poor orphan girl, she's still pretty cute.  Her hairs
+a mess and her dress is torn, but there's something special about her.  
+~
+rabbit~
+ACG PUV -1000 0
+22 0 5d30+170 0d0+0 2d6+1 slap
+0 0 0 0
+FH 0 0 ABPQ
+stand stand female 4050
+AGV ACDEFHJK small 0
+#19119
+bee adult~
+an adult bee~
+An adult bee buzzily works on making honey.
+~
+Small, black, yellow.  
+~
+centipede~
+ABFG Z -1000 0
+16 -1 5d30+165 0d0+0 3d5+8 sting
+0 0 0 0
+0 0 FI EHKR
+stand stand none 1000
+ABGO ACK small 0
+#19120
+baby bee~
+a baby bee~
+A cute baby bee, has a cute baby stinger.
+~
+Small, baby, yellow, black.
+~
+centipede~
+AB Z -1000 0
+15 -2 5d29+150 0d0+0 3d5+7 sting
+0 0 0 0
+0 0 FI E
+sleep sleep none 500
+ABGO ACK small 0
+#19121
+secretary bunny nun~
+the Bunny Nun~
+A tall bunny is dressed in black, and wears a cross around her neck.
+~
+This tall bunny is dressed in black, and wears a cross around her neck.
+~
+rabbit~
+ABGQa DFHUZ 1000 0
+50 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 ILQ N
+stand stand female 1000
+AGV ACDEFHJK huge 0
+#19122
+baby bunny bunnybaby hoppy wuv~
+a hoppy baby bunny~
+A hoppy baby bunny loves its new parent!
+~
+This cute little baby bunny just wants to be wuved!
+~
+rabbit~
+AI 0 0 0
+5 0 2d20+50 0d0+0 2d3+2 bite
+0 0 0 0
+FH G 0 LR
+stand stand either 0
+AGV ACDEFHJK small 0
+#19123
+a baby wolf~
+a baby wolf~
+An innocent looking baby wolf dances about.
+~
+~
+wolf~
+AI VZa 0 0
+7 0 3d22+96 0d0+0 2d5+5 slash
+0 0 0 0
+FH FI 0 0
+stand stand either 0
+AGV ACDEFJKQV huge 0
+#19124
+a baby duck duckling quacker wacker~
+a duckling~
+A baby duck flaps its wings about
+~
+Awwwwwww! What a cute little duckling!
+It has cute fluffy feathers.
+~
+song bird~
+AI Ta 0 0
+10 1 3d22+99 10d10+100 2d5+6 bite
+0 0 0 0
+FH R J I
+stand stand either 0
+AGW ACDEFHKP medium 0
+#19125
+baby fox cute foxling~
+a cute baby fox~
+A baby fox reminds you of fire with its bright red coat.
+~
+This is one of the finer looking baby foxes you have seen.
+It's coat is a brilliant red, with not a bug on it.
+~
+fox~
+AI Z 0 0
+12 1 5d30+161 11d10+200 3d5+8 claw
+0 0 0 0
+FH LOX 0 E
+stand stand none 0
+AGV ACDEFHJKQV medium 0
+#19126
+tough waitress~
+a tough looking waitress~
+A tough looking waitress offers you a drink.
+~
+Her fur is a mess, and she smells like organic cigarrettes more than any
+of the customers.  Her apron is covered in stains.  
+~
+rabbit~
+ABG DFH 0 0
+51 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 0 0
+stand stand female 0
+AGV ACDEFHJK medium 0
+#19127
+a tough guy~
+a tough guy~
+You must have looked at this tough guy the wrong way...
+~
+He looks so tough!  And he doesn't look like he likes you!  
+~
+rabbit~
+ABFGT NPQ -1000 0
+10 1 3d22+96 0d0+0 2d5+5 punch
+0 0 0 0
+FH 0 0 EFGN
+stand stand none 0
+AGV ACDEFHJK medium 0
+#19128
+boss big tough guy evil fat~
+the big boss~
+The big boss has other people to do his work for him.
+~
+He wears clothing of a noble richman, but you get the feeling
+that he isn't so noble as he is bad!
+~
+rabbit~
+ABC NWXZ -1000 0
+10 0 3d22+96 0d0+0 2d5+4 punch
+0 0 0 0
+FH 0 0 0
+rest rest male 0
+AGV ACDEFHJK huge 0
+#19129
+sexy female hare stripper~
+A sexy female stripper~
+A sexy female hare starts to strip off her clothes...
+~
+She's actually kind of cute..
+~
+rabbit~
+AB TWd -1000 0
+7 -1 1d17+42 0d0+0 2d3+3 whip
+0 0 0 0
+FH 0 0 BEFGHIJLNQ
+rest rest female 69
+AGV ACDEFHJK medium 0
+#19130
+duck billed bunnyhops~
+a duck-billed bunnyhop~
+A duck-billed bunnyhops is waddling and hopping about here, quacking merrily.
+~
+You see before you a creature that is neither bunny, nor duck, nor
+anything.  Its feet are webbed and it has a long fluffy tail.  Its long ears
+perk when it notices you, and it waddles lazily toward you with a hoppy
+quack.  
+~
+song bird~
+AB T 10 19130
+4 0 2d7+46 4d10+400 1d5+1 peck
+6 6 6 14
+FH 0 0 0
+stand stand either 50
+AGW ACDEFHKP medium 0
+#19131
+nun young bunny sing nanny~
+the young nun~
+A young bunny nun sings softly to the children.
+~
+She has a cute, innocent aura, kind of like ChibiUsa.  
+~
+rabbit~
+ABQ NOW 1000 0
+25 0 6d40+300 6d40+300 4d6+12 divine
+0 0 0 0
+FH QZ 0 BN
+stand stand none 0
+AGV ACDEFHJK medium 0
+#19132
+lonely lost horse pony stallion stalion ~
+a big stallion~
+A big stallion is untied, and looking kind of lonely.
+~
+He's a true black beauty.  Judging by his size, you would have to guess
+that he is a war horse.  
+~
+dwarf~
+ABT PVa 1000 0
+20 1 7d40+300 0d0+0 4d5+10 charge
+0 0 0 0
+CIJL E LQ BKRT
+stand stand male 100
+AHMV ABCDEFGHIJK huge 0
+#19133
+hedgehog wee~
+a wee hedgehog~
+A wee hedgehog feels at home with the thorns.
+~
+It is all prickly and wee
+~
+fox~
+ABC Z -1000 0
+9 0 3d22+90 0d0+0 2d5+5 scratch
+0 0 0 0
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQV medium 0
+#19134
+shopper~
+a shopper~
+A shopper counts their money.
+~
+~
+human~
+AB 0 -1000 0
+12 0 3d22+96 0d0+0 2d5+5 slap
+0 0 0 0
+0 0 0 0
+stand stand either 10000
+0 0 medium 0
+#19135
+the chilliness cold winter rushes in from north~
+winter~
+The chilliness of the cold winter rushes in from the north.
+~
+Brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+Brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+Brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr 
+~
+unique~
+AB J -1000 0
+25 0 10d61+400 0d0+0 5d5+14 chill
+0 0 0 0
+S I CLQ EH
+stand stand none 5000
+AHMV ABCDEFGHIJK medium 0
+#19136
+gusts summer breezes brush you west~
+summer~
+Gusts of summer breezes brush you from the west.
+~
+The drying effects of the summer burn through everything.  
+~
+unique~
+AB J -1000 0
+25 0 10d61+400 0d0+0 5d5+14 none
+0 0 0 0
+S H CJLQ EI
+stand stand none 5000
+AHMV ABCDEFGHIJK medium 0
+#19137
+new life new-life feeling the spring of~
+spring~
+The new-life feeling of the spring moves in from the south.
+~
+A little muddy smelling, sometimes a little chilly, sometimes a little
+warm.  
+~
+unique~
+AB J -1000 0
+25 0 10d61+400 0d0+0 5d5+14 none
+0 0 0 0
+S JR CLQ EHI
+stand stand none 5000
+AHMV ABCDEFGHIJK medium 0
+#19138
+autumn fall barren trees leaves~
+autumn~
+Autumn leaves fall from the barren trees above
+~
+Beautiful colours, beautiful leaves.  
+~
+unique~
+AB J -1000 0
+25 0 10d61+400 0d0+0 5d5+14 magic
+0 0 0 0
+0 XZ CLQ EHIJM
+stand stand none 5000
+AHMV ABCDEFGHIJK medium 0
+#19139
+butter fly butterfly flutterbye~
+a butterfly~
+A butterfly flutters by.
+~
+A very pretty butterfly.  
+~
+unique~
+AB JPT -1000 0
+5 0 1d17+40 0d0+0 2d3+2 slash
+0 0 0 0
+LS E BEH FI
+stand stand either 1000
+AHZ ACDEFGHIJKPQUVX medium 0
+#19140
+flutterbye flutterby flutter bye butterfly~
+a flutterby?~
+A flutterby butters by?!
+~
+A very pretty flutterby?  Butterfly?  Flutterby?  
+~
+unique~
+AB JPT -1000 0
+5 0 1d17+40 0d0+0 2d3+2 slash
+0 0 0 0
+LS E BEH FI
+stand stand either 1500
+AHZ ACDEFGHIJKPQUVX medium 0
+#19141
+collecting bee nectar busy~
+a collecting bee~
+A busy looking bee sprints from flower to flower collecting nectar.
+~
+He looks pretty busy!
+~
+centipede~
+AB Z -1000 0
+9 0 3d22+90 0d0+0 2d4+4 none
+0 0 0 0
+F 0 FI E
+stand stand male 1000
+ABGO ACK medium 0
+#19142
+something~
+something~
+Something is here.
+~
+It's something alright... something weird!
+~
+water fowl~
+AG Tb -20 0
+7 0 2d6+85 10d70+700 1d8+1 chop
+4 4 4 12
+0 0 R 0
+stand stand none 5
+AGW ACDEFHKP medium 0
+#19143
+someone~
+someone~
+Someone is here.
+~
+Its either someone, or some{Rthing{x!  
+~
+troll~
+AG FJc -5 0
+8 0 2d7+96 10d80+800 1d7+2 cleave
+3 3 3 11
+D 0 BEQ HK
+stand stand none 0
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0
+#19144
+somebody~
+somebody~
+Somebody saw you.
+~
+Somebody, not nobody.
+~
+rabbit~
+AFG Tb -5 0
+6 0 2d7+71 10d60+600 1d7+1 slash
+4 4 4 12
+FH 0 R 0
+stand stand none 10
+AGVW ACDEFHJKP medium 0
+#19145
+vanilla penguin~
+the vanilla penguin~
+The vanilla penguin waddles around.
+~
+The penguin is all white, with grey tips on its wings and beak.  It
+waddles around honking happily and licking itself because it likes the taste
+of vanilla.  The strangest part about this bird its its long floppy ears
+that bounce when it waddles.  
+~
+rabbit~
+ABG 0 -10 0
+15 0 3d9+208 10d15+1500 2d6+3 peck
+-2 -2 -2 6
+FH 0 0 0
+stand stand female 0
+AGHMV ABCDEFGHIJK medium 0
+#19146
+raspberry penguin~
+the raspberry penguin~
+The raspberry penguin is waddling about.
+~
+This penguin is all {Mpink{x, save for her white tummy and inner wings. 
+She honks hoppily at you and waddles around, wiggling her fluffy bunny tail!
+Her large ears point straight up at the sky, and seem to wave at you very
+frendily.  
+~
+rabbit~
+ABG 0 -20 0
+16 0 3d9+233 10d16+1600 2d6+4 peck
+-2 -2 -2 4
+FH 0 0 0
+stand stand female 0
+AGV ACDEFHJK medium 0
+#19147
+chocolate penguin~
+the chocolate penguin~
+The chocolate penguin waddles about here.
+~
+This penguin is dark brown, save for her light brown tummy.  She waddles
+a little, then jumps into the ice, sliding a bit.  She wiggles her bottom at
+you, honks with a grin, and perks her long, floppy bunny ears.  
+~
+rabbit~
+ABG 0 -20 0
+17 0 3d9+258 10d17+1700 3d4+4 peck
+-3 -3 -3 5
+FH 0 0 0
+stand stand female 0
+AGV ACDEFHJK medium 0
+#19148
+butterscotch penguin~
+the butterscotch penguin~
+The butterscotch penguin is blowing bubbles.
+~
+The penguin is golden and carmelly.  It smells sweetly of butterscotch as
+it honks at you.  Its rabbit ears look delicious, as they wave hoppily at
+you.  
+~
+rabbit~
+ABG 0 0 0
+18 0 3d9+283 10d18+1800 2d7+4 peck
+-3 -3 -3 5
+FH 0 0 0
+stand stand female 0
+AGV ACDEFHJK medium 0
+#19149
+racing rabbit~
+the racing rabbit~
+A rabbit is racing around on skates here.
+~
+The rabbit has long ears that snap around as the wind blows it.  He wears
+a snazzy pair of bunny blades on his feet that let him shoot across the ice
+really fast!  Go bunny!  
+~
+rabbit~
+AB 0 0 0
+12 0 2d10+150 10d12+1200 1d10+3 bite
+0 0 0 0
+FH 0 0 0
+stand stand none 0
+AGV ACDEFHJK medium 0
+#19150
+Mysticalla~
+Mysticalla~
+Mysticalla seems to be a gentle horse.
+~
+She has a brown silky coat.
+~
+dwarf~
+ABT J 1000 0
+15 0 5d30+161 0d0+0 3d5+8 charge
+0 0 0 0
+CIL 0 LQ BKR
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#19151
+a cluster pink pigs piglets~
+a cluster of pigs~
+A cluster of pigs oink about.
+~
+All the pigs cluster together.
+~
+pig~
+AB d 1000 0
+15 0 5d30+170 0d0+0 3d5+8 smash
+0 0 0 0
+ACI AE 0 IR
+stand stand none 0
+AGV ACDEFHJK medium 0
+#19152
+Hettie Heffers hefers hetty cow moo-moo happily hacks hacker hay~
+Hettie the Heffer~
+Hettie Heffer happily hacks hay.
+~
+A pretty white cow with black flower shaped black spots.
+~
+pig~
+AB U 1000 0
+15 0 5d30+170 0d0+0 3d5+9 chomp
+0 0 0 0
+J L 0 B
+stand stand female 0
+AGV ACDEFHJK medium 0
+#19153
+Kelvin stallion~
+Kelvin~
+Kelvin, a proud stallion.
+~
+Kelvin looks very sturdy and would probably be excellent at any job.  
+~
+dwarf~
+ABT J 1000 0
+20 0 7d45+350 0d0+0 4d5+10 none
+0 0 0 0
+0 0 LQ BK
+stand stand male 0
+AHMV ABCDEFGHIJK huge 0
+#19154
+Oxten plough plow ox cow sturdy~
+Oxten~
+Oxten is clearing the fields.
+~
+He's soooo big!
+~
+pig~
+ABG ad 1000 0
+20 0 7d45+350 0d0+0 4d5+10 charge
+0 0 0 0
+CJ B 0 HQ
+stand stand male 0
+AGV ACDEFHJK huge 0
+#19155
+a duckling waddling feet~
+a duckling~
+Some ducklings waddle across your feet.
+~
+They're fluffy and {Yyellow{x!!!!!!!!!!!!!!!!  
+~
+song bird~
+AB Tb 1000 0
+12 0 3d22+96 0d0+0 2d5+5 peck
+0 0 0 0
+FH 0 0 0
+stand stand none 0
+AGW ACDEFHKP small 0
+#19156
+a rude teenaged bunny~
+a rude teenaged bunny~
+A rude teenaged bunny is bound to have lashing-out moodswings.
+~
+She's pretty cute and punky, but with a foul attitude.  Maybe being
+adopted will make her nicer.  
+~
+rabbit~
+AI Pa 0 0
+16 1 5d30+169 0d0+0 3d5+8 slap
+0 0 0 0
+FH 0 0 EL
+stand stand female 0
+AGV ACDEFHJK medium 0
+#19157
+Jemima Puddle-duck duck~
+Jemima Puddle-duck~
+Jemima Puddle-duck quacks loudly.
+~
+She's a pretty white noble duck.  
+~
+song bird~
+AB T 1000 0
+15 0 5d30+140 0d0+0 3d5+7 peck
+0 0 0 0
+FH 0 0 0
+stand stand female 15
+AGW ACDEFHKP medium 0
+#19158
+duck Rebeccah Puddle-duck~
+Rebeccah Puddle-duck~
+Rebeccah Puddle-duck is Jemima's sister-in-law.
+~
+She's a little bit smaller than Jemima, but her feathers seem to be much
+whiter.  
+~
+song bird~
+AB T 1000 0
+15 0 5d30+140 0d0+0 3d5+7 peck
+0 0 0 0
+FH 0 0 0
+stand stand female 15
+AGW ACDEFHKP medium 0
+#19159
+Semolina duck~
+Semolina~
+Semolina is younger than the Puddle-ducks.
+~
+She's a little bitter smaller and younger than Rebeccah and Jemima.  
+~
+song bird~
+AB T 1000 0
+10 0 3d22+90 0d0+0 2d5+5 peck
+0 0 0 0
+FH 0 0 0
+stand stand female 100
+AGW ACDEFHKP medium 0
+#19160
+Tapioca duck proud~
+Tapioca~
+Tapioca looks like a proud duck.
+~
+She is a little on the plump side.  
+~
+song bird~
+AB T 1000 0
+10 0 3d22+90 0d0+0 2d5+5 peck
+0 0 0 0
+FH 0 0 0
+stand stand female 100
+AGW ACDEFHKP medium 0
+#19161
+sago duck~
+Sago the male duck~
+Sago is the only male duck splashing around.
+~
+He honks about with male pride.  
+~
+song bird~
+AB T 1000 0
+10 0 3d22+101 0d0+0 2d5+5 peck
+0 0 0 0
+FH 0 0 0
+stand stand male 100
+AGW ACDEFHKP medium 0
+#19162
+Mrs. Cannon farmers wife cook baking~
+Mrs. Cannon~
+Mrs. Cannon is chopping up some vegetables.
+~
+She's a pretty woman in about her early fourties or late thirties.  She
+probably is very knowledgable.  
+~
+human~
+AB 0 1000 0
+22 0 7d40+300 0d0+0 4d5+10 slap
+0 0 0 0
+0 0 0 0
+stand stand female 250
+0 0 medium 0
+#19163
+Erin Cannon farmer folk children~
+Erin Cannon~
+Erin Cannon, one of the oldest farm children, is fixing up the table.
+~
+She's a rather pretty young woman, about the right age to get married
+off.  She looks strong, yet feminine.  
+~
+human~
+AB 0 1000 0
+16 0 5d30+160 0d0+0 3d5+8 slap
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium 0
+#19164
+Ashley Cannon farmer children folk~
+Ashley Cannon~
+A girl about eight years of age, Ashley Cannon, scrubs the floors.
+~
+She is still young, but is being forced into acting like a proper young
+lady.  She would much rather be out by the pond catching frogs with her
+brothers.  
+~
+human~
+AB 0 1000 0
+8 0 3d22+85 0d0+0 2d4+5 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium 0
+#19165
+Emily Cannon farmer folk children clean scrub dust sweep~
+Emily Cannon~
+Emily Cannon sweeps the dusty floors.
+~
+Any moment now she'll probably sneeze from all the dust she's sweeping
+towards the mudroom.  
+~
+human~
+AB 0 1000 0
+10 0 3d22+90 0d0+0 2d5+5 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium 0
+#19166
+Jamie Cannon children farmer folk saw wood cut sandpapering smooth~
+Jamie Cannon~
+A child carefully runs a piece of sandpaper over a block of wood.
+~
+Jamie Cannon looks like a very hard working boy, ready to do any task for
+his father.  
+~
+human~
+AB 0 1000 0
+12 0 3d22+105 0d0+0 3d5+7 punch
+0 0 0 0
+0 0 0 0
+stand stand male 15
+0 0 medium 0
+#19167
+Jennifer Cannon folding neatly children farmer folk~
+Jennifer Cannon~
+Jennifer Cannon neatly folds away some linens.
+~
+She's about the second oldest Cannon sister.  She's also probably the
+prettiest, but also the laziest.  
+~
+human~
+AB 0 1000 0
+13 0 4d27+150 0d0+0 3d5+7 slap
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium 0
+#19168
+neat freak neat-freak Julia Cannon farmer folk children mess disbelief~
+Julia Cannon~
+Julia Cannon stares in disbelief at the mess.
+~
+Julia Cannon is a very good housekeeper, and she cannot stand the way her
+brothers and sisters keep their bedroom.  She's kind of the Neat-Freak
+Cannon.  
+~
+human~
+AB 0 1000 0
+13 0 5d27+150 0d0+0 3d5+7 slap
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium 0
+#19169
+Daniel Cannon trouble brat kid children farmer folk~
+Daniel Cannon~
+Daniel Cannon is looking for trouble by not doing his chores.
+~
+He really should be doing his chores right now out in the smelly barn.  
+~
+human~
+AB 0 1000 0
+10 0 3d22+96 0d0+0 2d5+5 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium 0
+#19170
+Jason Cannon smoker cigarrette bad farmer children folk alone~
+Jason Cannon~
+Jason Cannon likes to sit up here smoking his organic cigarrettes alone.
+~
+He has a really well toned body, and looks like your perfect farmer. 
+Since he's the oldest Cannon Child at eighteen years old he'll inherit this
+whole farm.  He often rides Kelvin his horse into town to the Rabbit Habit
+where he buys organic blends.  
+~
+human~
+AB 0 1000 0
+18 0 7d45+300 0d0+0 4d5+9 none
+0 0 0 0
+0 0 0 0
+stand stand male 100
+0 0 medium 0
+#19171
+David farmer folk childen Cannon attempts clean barn stall~
+David Cannon~
+Poor David Cannon has been ordered to try to clean up this mess.
+~
+He'll probably never get the task of cleaning up this stall done.  The
+task is very hard and boring, and he can't help but wonder what Jason is
+doing up in the hayloft.  
+~
+human~
+AB 0 1000 0
+10 0 3d22+100 0d0+0 2d5+5 beating
+0 0 0 0
+0 0 0 0
+stand stand male 5
+0 0 medium 0
+#19172
+Mr. Cannon Jason senior Sr. farmer folk daddy father~
+Mr. Jason Cannon Senior~
+Mr. Cannon walks northwards into town.
+~
+He's carrying with him several bottles of milk to sell in town.  
+~
+human~
+AB 0 1000 0
+25 0 10d50+350 0d0+0 5d6+12 beating
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium 0
+#19173
+a war royal horse black tall big~
+a royal war horse~
+A large black royal war horse is ready for battle.
+~
+What a handsome horse!  His coat glistens.  
+~
+dwarf~
+ABT J 1000 0
+20 0 7d45+300 0d0+0 4d5+9 charge
+0 0 0 0
+0 0 LQ R
+stand stand male 100
+AHMV ABCDEFGHIJK large 0
+#19174
+crow a pesky black large~
+a large crow~
+A large pesky black grow is poking about.
+~
+He has something shiny in his beak.  
+~
+song bird~
+ABF T 1000 0
+6 0 1d17+40 0d0+0 2d3+2 peck
+0 0 0 0
+FH 0 0 0
+stand stand either 5
+AGW ACDEFHKP medium 0
+#19175
+Prince Cedric resting brown trunks wet drying~
+Prince Cedric~
+Prince Cedric is resting in a lounging chair wearing nothing but his wet brown swim trunks.
+~
+He's a little scrawny now, but when he grows up he'll probably be strong
+and handsome like his father, King Michael.  
+~
+rabbit~
+AB HV 1000 0
+16 1 5d32+170 0d0+0 4d5+9 punch
+0 0 0 0
+FH 0 0 0
+stand stand male 5000
+AGV ACDEFHJK medium 0
+#19176
+Splashasia Bunkini saleswoman storeclerk sell swimwear offer~
+Splashasia~
+Splashasia offers to sell you swimwear.
+~
+She's wearing a nice little bikini, and looks very good in it.  
+~
+rabbit~
+AB 0 1000 0
+69 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 0 0
+stand stand female 0
+AGV ACDEFHJK medium 0
+#19177
+Princess Penelope sleeping beautiful~
+Princess Penelope~
+Princess Penelope seems to be doing much better now.
+~
+The princess sleeps peacefully, thankfully she was found after the evil
+Ian Wolf kidnapped her and left her for dead.  She's very pretty, pale
+skinned and golden haired.  Her soft looking rosy cheeks have scrapes and
+scratches on them now, but time heals most wounds.  
+~
+rabbit~
+AB P 1000 0
+18 0 5d31+160 0d0+0 4d5+9 chomp
+0 0 0 0
+FH 0 0 0
+stand stand female 500
+AGV ACDEFHJK medium 0
+#19178
+snowbunny guard bunny~
+the snowbunny guard~
+A snowbunny guard is here, and he looks unhappy to see you!
+~
+Hey!  This isn't REALLY a bunny, its just a fake guard made out of snow. 
+Those snowbunnies are crafty creatures, for sure.  
+~
+rabbit~
+ABG 0 0 0
+18 0 3d9+283 10d18+99 2d7+4 none
+-3 -3 -3 5
+FH 0 0 0
+stand stand female 50
+AGV ACDEFHJK medium 0
+#19192
+greeter noble royal man~
+the royal greeter~
+A noble man is here to greet you into the Bunny Castle!
+~
+The noble greeter is very tall and wears a red velvet suit, with a cute
+little hat.  
+~
+rabbit~
+AB a -1000 0
+22 0 5d30+160 0d0+0 4d5+10 punch
+0 0 0 0
+FH 0 0 EG
+stand stand male 5000
+AGV ACDEFHJK giant 0
+#0
+
+
+
+#OBJECTS
+#19100
+waves~
+the ocean~
+The ocean waves crash lazily onto the sand.~
+0~
+fountain 0 0
+-1 -1 'vodka' 0 0
+0 0 0 P
+E
+waves over great big sea~
+Where its wave over wave, sea over bow
+I'm as happy a man as the sea will allow
+Theres no other life for a sailor like me
+And to sail the salt sea boys, sail the sea
+There's no other life but to sail the salt sea
+~
+#19101
+A Sparkling Diamond Rabbit fountain~
+a Sparkling Diamond Rabbit Fountain~
+A Sparkling Diamond Rabbit Fountain is here, spewing beautiful fresh cordial.~
+jem~
+fountain 0 0
+0 0 'cordial' 0 0
+0 0 0 P
+#19102
+fountain amethyst bunny drink~
+a Sparkling Amethyst Bunny Fountain~
+A Sparkling Amethyst Bunny fountain is here, spewing beautiful purple icewind.~
+0~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 P
+#19103
+bed canopy~
+the King and Queen's bed~
+The King and Queen's bed is here, making you think kinky thoughts.~
+0~
+furniture 0 0
+3 2000 EHL 0 0
+10 0 0 P
+#19104
+toys play-pen playpen play pen~
+the big playpen~
+A big playpen is here, littered with the princess' toys.~
+0~
+furniture 0 0
+5 10000 FIL 0 0
+0 0 0 P
+#19105
+loveseat loveswing love swing~
+a loveswing~
+A loveswing sways softly with the cool breeze~
+0~
+furniture 0 0
+2 0 FIK 0 0
+0 0 0 P
+#19106
+clothes basket laundry~
+the laundry basket~
+Cedric's laundry basket is in the corner.~
+0~
+container 0 0
+500 ACE 0 500 5000
+0 0 0 P
+E
+basket~
+The laundry basket is covered with a goo of some sort.  It contains
+bedsheets, pants, and skirts that belong to prince Cedric.  
+~
+#19107
+prince cedric bed~
+a worn bed~
+Prince Cedric's bed is in the corner of the room, and smells of Cedric!~
+0~
+furniture 0 0
+2 600 EHL 20 20
+0 0 0 P
+E
+bed~
+The bed looks like is has definately seen alot of abuse from its primary
+occupant, Prince Cedric.  The sheets look like they have recently been
+changed, but even more recently used...  A visitor might think twice before
+sleeping on the bed, let alone even TOUCHING it.  
+~
+#19108
+waterbed bed water penelope princess~
+a comfortable waterbed~
+Princess Penelope's waterbed looks as inviting as she does.~
+0~
+furniture 0 0
+4 0 FIL 0 0
+0 0 0 P
+#19109
+A filthy rotting bed~
+a filthy rotting bed.~
+A small rotting bed emits strange odours and secretions.~
+0~
+furniture 0 0
+2 0 EHL 0 0
+0 0 0 P
+#19110
+BoyBunny Monthly Magazine bunny boy~
+a magazine~
+BoyBunny Monthly is opened to a busty bunny photo.~
+sticky paper~
+scroll H AN
+35 'cure blindness' 'create spring' 'giant strength' 'reserved'
+20 0 7000 P
+#19111
+dirty sheets~
+dirty bedsheets~
+Some dirty bedsheets are here.~
+0~
+trash 0 A
+0 0 0 0 0
+0 70 0 P
+E
+bedsheets~
+The sheets are blue and have white sticky spots in them...  
+~
+#19112
+feet bath tub footed bathtub~
+a large footed poreceline bathtub~
+A large footed porceline bathtub is bubbling in front of the window~
+?~
+furniture 0 0
+2 6969 FI 0 0
+0 0 0 P
+#19113
+frontkey key castle~
+the castle key~
+A large iron key~
+iron~
+key A A
+0 0 0 0 0
+0 2 0 P
+#19114
+carrot shaped cookie~
+a carrot shaped cookie~
+A yummy looking carrot shaped cookie rests on a plate~
+cookie~
+food A AJ
+15 30 0 0 0
+0 0 15 P
+#19115
+cinnemon bunny bun buns~
+a large cinnemon Bunny Bun~
+A big sugar-coated cinnemon bun.~
+pastery~
+food 0 AO
+20 40 0 0 0
+0 0 30 P
+#19116
+chocolate muffin~
+a huge yummy looking chocolate muffin~
+A huge yummy looking chocolate muffi

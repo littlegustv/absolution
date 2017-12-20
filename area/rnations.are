@@ -1,0 +1,4038 @@
+#AREADATA
+Name Rival Nations~
+Builders None~
+VNUMs 19200 19299
+Credits { None} Thiamber    Rival Nations~
+Security 1
+Xcontinent 1
+Age 8
+Questable 1
+End
+
+
+
+#MOBILES
+#19200
+Raven Guard~
+A Raven Guard~
+A Raven Guard stands here.
+~
+A large man with dark eyes and hair stands here glowering at you. His armour
+is jet-black and covered in raven engravings. He doesn't look happy to see you.
+As you look at him, he readies his weapon for combat.
+~
+human~
+ABT O -800 0
+35 10 20d10+1200 1d1+1 3d8+6 punch
+-10 -15 -9 -11
+FNQT Zb E S
+stand stand male 2000
+AHMV ABCDEFGHIJK medium flesh the guilds~
+#19201
+Raven Guard Captain~
+Raven-Guard Captain~
+A Raven-Guard Captain stands here, barking orders. 
+~
+A large man in black armour stands here barking orders
+to his troops. His weathered features show that
+it has taken him many years to earn his rank.
+~
+human~
+ABT JVa -850 0
+43 4 25d10+2500 1d1+100 3d12+15 none
+-15 -15 -15 -15
+CEJLQT a F C
+stand stand none 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19202
+Raven sargeant guard~
+A Raven-Guard Sargeant~
+A Raven-Guard Sargeant stands here guarding the Keep
+~
+A large man in black armour glowers at you. He stands a bit taller then the other guards
+and the wings on his helmet are a sign of his position.
+He doesn't seem to like having you in his Keep.
+~
+human~
+AB Va -800 0
+40 10 35d10+1750 1d1+1 2d12+19 smash
+-13 -13 -13 -13
+CFK a E F
+stand stand none 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19203
+shadowbright elite guard~
+A Shadowbright Elite Guard~
+An elite guard of Shadowbright stands here.
+~
+A large man in ornate armour stands here
+guarding the keep against intruders.
+Better move on before he gets the idea that your
+trespassing.
+~
+human~
+AB V -850 0
+42 4 25d10+2250 1d1+100 3d12+14 punch
+-14 -14 -14 -14
+FIKQ a I H
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19204
+Royal guard shadowbright~
+A Royal Guard~
+A Royal Guard stands here protecting his Lord.
+~
+A watchful man stands here in polished black armour,
+watching the entire room at once, looking for any potential
+threats to his Lord.
+~
+human~
+ABT OTV -900 0
+45 7 1d1+3250 1d1+100 8d4+16 crush
+-15 -15 -15 -15
+CEILU AB Eb 0
+stand stand none 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19205
+shadowbright noble warrior~
+A Shadowbright Noble~
+A Shadowbright Noble stands here talking politics.
+~
+A wealthy man in a robe stands here talking politics with anything 
+that moves.
+He may be a politician, but he looks liek he served in the army
+at some time.
+~
+human~
+AB LV -700 0
+40 4 15d10+1850 1d1+100 4d8+13 beating
+-13 -13 -13 -13
+EIJ 0 F G
+stand stand none 3500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19206
+Lord Shadowbright King~
+Lord Shadowbright~
+The Lord of Shadowbright rests on his throne.
+~
+A tall man with broad shoulders and a grim face stands here.
+He wears a circlet of silver and black gems upon his brow,
+over grey eyes akin to steel.
+He looks down upon you, and a shiver runs down your spine, He
+is a very dangerous man.
+~
+human~
+ABT HJLOTVZab -900 0
+51 15 1d1+6000 1d1+100 5d8+20 slaughter
+-21 -21 -21 -21
+CDEFHJKQR ABJab ELMX 0
+stand stand male 15000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19207
+archmage mage wizard shadowbright~
+The Arch-mage of Shadowbright~
+The Arch-mage of Shadowbright stands here contemplating the universe.
+~
+An old and weathered man stands here in dark robes,
+power radiates from him, and his eyes glow an eerie blue
+when he looks towards you.
+~
+human~
+ABR FHJLOTV -890 0
+51 5 50d10+5000 1d1+100 5d8+20 magic
+-21 -21 -21 -21
+FK ABa HIJ 0
+stand stand none 3500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19208
+Apprentice mage wizard~
+An Apprentice Mage~
+An apprentice mage is here training in the mystical arts.
+~
+A man ina simple robe stands here casting various spells
+and enchantments just for practice.
+~
+human~
+ABR V -790 0
+40 4 15d10+1850 1d1+100 4d8+13 magic
+-13 -13 -13 -13
+FQ AB HIb KL
+stand stand none 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19209
+Shadow dragon mist~
+A Shadow Dragon~
+A dragon made of shifting shadows is here.
+~
+You gaze upon a shifting mass of shadows and evil which make up the form of a massive dragon. His glowing red eyes find yours and a shiver runs up your spine.
+~
+black dragon~
+AR BHOQTVZ -800 0
+50 8 100d10+4200 30d10+200 8d5+25 drain
+-20 -20 -20 -20
+AFHMQ ABa BEKM LS
+stand stand none 10000
+BHMZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+#19210
+mist walker shadow~
+A Mist Walker~
+A Mist Walker lurks about here.
+~
+A tumulting form of shadow and mist with vaguely
+resembles the shape of a humanoid.
+Evil resonates form the core of it's being like
+the shadows it walks.
+~
+deamon~
+A BDFJOTVXb 0 0
+42 4 50d10+2100 1d1+100 3d12+14 drain
+-14 -14 -14 -14
+CFH B H NS
+stand stand none 0
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#19211
+alchemist mad scientist~
+The Alchemist~
+The Keep's Alchemist stands here, dabbling with his strange magics.
+~
+A small man stands here in a lab coat stained with blood
+and other strange liquids.
+A grin covers his face ear to ear as he plays with some
+flasks and liquids.
+~
+human~
+ABR V -900 0
+46 4 50d10+3000 1d1+100 6d6+6 gutting
+-16 -16 -16 -16
+F KL b HI
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19212
+wandering healer~
+A Wandering Healer~
+A wandering healer is here ready to heal you.
+~
+A short bald man in brown robes, he seems a 
+humble little helper of some diety.
+He walks these lands aiding the injured
+in the name of his god.
+~
+human~
+Aa 0 1000 0
+53 5 50d10+6000 1d1+100 6d7+21 smite
+-23 -23 -23 -23
+0 ABa 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19213
+Abomination mutilated corpse~
+An Abomination~
+A mutilated corpse stands here, enhanced by magic.
+~
+A mutilated corpse of an old guard stands here,
+endowed with unholy strength and size.
+~
+undead~
+AB VZ -800 0
+45 4 25d10+3000 1d1+100 8d4+16 tear
+-15 -15 -15 -15
+CFQ B I HNS
+stand stand none 0
+AHMV ABCDEFGHIJK huge 0 the guilds~
+#19214
+failed creation body disfigured~
+A Failed Creation~
+A horribly disfigured body stands here.
+~
+A disfigured corpse stands here, well, you think hes
+standing. Limbs sprout off everywhere, and things aren't
+attached right on him. Stiches line his body and blood spurts out
+of him as he shambles about.
+~
+undead~
+A Z -750 0
+42 4 25d10+2250 1d1+100 3d12+14 beating
+-14 -14 -14 -14
+CF B I HNS
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19215
+ginat raven bird~
+A Giant {DRaven{x~
+A Giant {DRaven{x is here, readying itself for flight.
+~
+Standing at least 7 feet tall, this really is a giant raven.
+Long black feathers shine in the light along it's wings as it
+prepares for flight.
+~
+song bird~
+A TV -800 0
+41 4 25d10+2000 1d1+100 4d8+14 peck
+-14 -14 -14 -14
+FH Sa F H
+stand stand none 0
+AGW ACDEFHKP medium 0 the guilds~
+#19216
+archer guard shadowbright~
+A Shadowbright Archer~
+An archer dressed in black stands here.
+~
+A short man dressed in black clothing
+stands here, eyeing the surrounding area
+for something to shoot at.
+~
+human~
+AB V -750 0
+37 3 10d10+1500 1d1+100 3d10+12 stab
+-12 -12 -12 -12
+0 a F J
+stand stand none 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19217
+Knight shadowbright warrior guard~
+A Knight of Shadowbright~
+A Knight of Shadowbright is here.
+~
+A rather large man in heavy armour stands here looking
+for his horse.
+He is a veteran knight of Shadowbright, and after all his battles,
+is fairly confident you won't put him down.
+~
+human~
+AB V -900 0
+44 4 25d10+2750 1d1+100 8d4+15 crush
+-15 -15 -15 -15
+CEHI AB Hb J
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19218
+moat crocodile ravenous~
+A Ravenous moat crocodile~
+A snarling crocodile patrols the moat here.
+~
+A large snarling crocdile, with thick
+heavy sacles swims here, better swim away
+before he notices you.
+~
+lizard~
+AB 0 -100 0
+16 1 3d10+250 1d1+100 1d8+4 bite
+-2 -2 -2 -2
+D a L I
+stand stand none 0
+AGXc ACDEFHKQV medium 0 the guilds~
+#19219
+serpent snake moat poisonous~
+A Poisonous moat Serpent~
+A long serpent swims here in the Moat.
+~
+A long serpent swims here, guarding the moat.
+His scales look valueable, but his long fangs are quite
+the deterrant.
+~
+snake~
+AB 0 -200 0
+15 1 3d9+208 1d1+100 2d6+3 bite
+-2 -2 -2 -2
+0 a L I
+stand stand none 0
+AGXYc ADEFKLQVX medium 0 the guilds~
+#19220
+mage merchant wizard~
+The Mage Merchant~
+The Mage tower's merchant stands here.
+~
+~
+human~
+ABR HV 0 0
+60 100 50d10+9500 100d10+1000 10d6+100 none
+-77 -77 -77 -77
+0 ABa 0 0
+stand stand none 1000000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19222
+Noble healer sage~
+A Noble Healer~
+A noble looking healer stands here, ready to aid you.
+~
+Robed in white, this healer is a young noble, out
+to help others in the hopes of joining the priest-hood.
+~
+human~
+ABa DFHJZ 800 0
+60 6 1d1+30000 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19223
+scout rogue sneak spy~
+A Scout~
+A Scout stands here looking for secret passageways.
+~
+A small man hides here lookign for a secret
+passageway into Ironstone Keep.
+~
+human~
+A QTV -775 0
+38 3 10d10+1600 1d1+100 5d6+12 stab
+-13 -13 -13 -13
+EIJ AB F E
+stand stand none 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19224
+knight keldorn warrior~
+A Knight of Keldorn~
+A Knight of Keldorn stands here waiting for battle.
+~
+An honourable man stands here awaiting battle
+with the hordes of Shadowbright.
+~
+human~
+AB NV 800 0
+41 4 25d10+2000 1d1+100 4d8+14 slash
+-14 -14 -14 -14
+CH J 0 0
+stand stand none 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19225
+High templar paladin warrior knight~
+The High Templar~
+The High Templar of Ironstone Keep stands here.
+~
+A valiant man stands here. Goodness seems to
+radiate from him. He stands tall and proud, as he should,
+being the Captain of the Paladins of Ironstone.
+~
+human~
+AB HNV 1000 0
+49 4 50d10+4000 1d1+100 4d10+18 smite
+-19 -19 -19 -19
+EIN J B 0
+stand stand none 2500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19226
+Temple guard knight paladin~
+A Temple Guard~
+A Temple Guard stands here protecting the sanctity of Ironstone Keep.
+~
+A man in white gleaming armour with a grim expression
+stands here protecting the noble temple of Ironstone Keep.
+~
+human~
+AB NV 900 0
+46 4 25d10+3250 1d1+100 6d6+16 slash
+-16 -16 -16 -16
+QT AB S I
+stand stand none 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19227
+lord gareth ironstone keldorn~
+Lord Gareth~
+The Lord of Ironstone Keep stands here.
+~
+A tall proud man, Lord Gareth isn't one to be trifled with.
+His cloak is covered in medals from many victories in battle.
+~
+human~
+AT DFHLTVab 900 0
+51 5 50d10+5000 1d1+100 5d8+20 slaughter
+-21 -21 -21 -21
+CDEFHIKNQ ABa HIJ L
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19228
+conscript soldier warrior guard~
+A Conscript~
+A Conscript of Ironstone stands here guarding the keep.
+~
+A relatively untrained man, this conscript
+looks as if he'd get torn apart by any knight in
+combat.
+~
+human~
+AB 0 650 0
+33 3 10d10+1100 1d1+100 4d4+10 beating
+-11 -11 -11 -11
+IN 0 0 0
+stand stand none 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19229
+keldorn soldier keldorian guard~
+A Keldorian Soldier~
+A Soldier stands here guarding the keep.
+~
+A soldier dressed in white stands here guarding his keep.
+Sent from Keldorn, he isn't happy about serving here.
+~
+human~
+AB V 780 0
+38 3 10d10+1600 1d1+100 5d6+12 slash
+-13 -13 -13 -13
+I 0 HSb 0
+stand stand none 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19230
+Thief silent eye brigand~
+A Thief of the Silent Eye~
+A Thief of the Silent Eye hides in the shadows here.
+~
+A small man cloaked in shadows stands here waiting
+to steal a nice bit of gold.
+~
+human~
+ABS BQTV -800 0
+40 4 15d10+1850 1d1+100 4d8+13 skinning
+-13 -13 -13 -13
+0 ABE 0 F
+stand stand none 4000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19231
+blacksmith smith ~
+The Blacksmith~
+The blacksmith stands at his forge hammering away.
+~
+A large man covered in soot and burns. His arms are
+the size of your chest, probably best to leave him to
+his work.
+~
+human~
+ABT HVa 600 0
+46 4 25d10+3250 1d1+100 6d6+16 pound
+-16 -16 -16 -16
+CEFK ABHa I 0
+stand stand male 5000
+AHMV ABCDEFGHIJK huge 0 the guilds~
+#19232
+captain of the knights~
+Captain of the Knights~
+The Captain of the Knights stands here issueing orders.
+~
+A large man in heavy armour stands here
+issuing orders to his knights. He looks as
+if he'd rather be out on the battlefield amidst
+the bloody mayhem.
+~
+human~
+ABT HV 700 0
+48 4 25d10+3750 1d1+100 6d6+18 none
+-18 -18 -18 -18
+EFIK Aa HI KL
+stand stand male 4000
+AHMV ABCDEFGHIJK large 0 the guilds~
+#19233
+jailer dungeon keeper~
+The Jailer~
+The jailer stands here watching over his charge.
+~
+A large and dirty man, he doesn't look as if he's
+seen the light of day or had a bath in a long
+while.
+~
+human~
+ABT V 300 0
+42 4 25d10+2250 1d1+100 3d12+14 punch
+-14 -14 -14 -14
+FH 0 H I
+stand stand male 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19234
+prisoner inmate victim~
+A Prisoner~
+A tortured prisoner lies here, victim of the Jailer.
+~
+A small man, covered in fresh wounds and 
+infections sits here struggling to breath.
+~
+human~
+AB 0 0 0
+30 3 5d10+500 1d1+100 4d6+8 none
+-9 -9 -9 -9
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19235
+peasant militia concript~
+A Peasant Militia-man~
+A Peasant stands here in hastily donned armour ready to guard his homeland.
+~
+Wearing hastily donned armour and a 
+provisional weapon, this peasant stands
+ready to defend his homeland, despite
+his lack of skill.
+~
+human~
+AB 0 500 0
+29 2 6d12+778 1d1+100 2d12+8 beating
+-9 -9 -9 -9
+FIN 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19236
+high priest keldorn~
+The High Priest~
+The high priest of Keldorn stands here blessing his mace.
+~
+A large man garbed in heavy armour and white robes
+stands here casting blessings upon his mace.
+~
+human~
+ABR HTV 1000 0
+50 5 50d10+4500 1d1+100 5d8+19 smite
+-20 -20 -20 -20
+FIK ABa HJ IL
+stand stand male 4000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19237
+frightened soldier~
+A Frightened soldier~
+A frightened soldier cowers here.
+~
+He cowers as he sees you enter the room,
+trying to hide from you.
+As you look at him, he begins to tremble.
+~
+human~
+AB 0 400 0
+36 3 10d10+1400 1d1+100 3d10+11 beating
+-12 -12 -12 -12
+FI 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19238
+treasurer man~
+The Treasurer~
+The keep's treasurer stand's here counting gold marks.
+~
+A small man with glasses sits here counting
+a fair sum of gold marks.
+You have to wonder how many he's swiped for himself.
+~
+human~
+AB V -600 0
+32 3 10d10+1000 1d1+100 4d4+9 grep
+-10 -10 -10 -10
+0 A b I
+stand stand none 7500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19239
+dog war attack~
+An attack dog~
+A snarling attack dog stands here foaming at the mouth.
+~
+A large dog with long fangs stands here growling at you.
+Drool runs from his jaws, mixed with blood.
+~
+dog~
+AB V 200 0
+31 3 6d12+928 1d1+100 4d6+9 bite
+-10 -10 -10 -10
+DFH 0 0 0
+stand stand none 0
+AGV ACDEFHJKUV medium 0 the guilds~
+#19240
+war horse~
+A war horse~
+A war horse stands here waiting for it's master's commands.
+~
+A rather large war horse stands here in shining
+metal barding.
+It's large hooves look very ready to kick you if needed.
+~
+fido~
+AB V 800 0
+36 3 10d10+1700 1d1+100 3d8+4 none
+-12 -12 -12 -12
+FIQR 0 b C
+stand stand none 0
+ABGV ACDEFHJKQV medium 0 the guilds~
+#19241
+Iron Golem spiked automaton~
+An Iron Golem~
+A large spiky iron golem stands here ready to slay anything that enters.
+~
+A large form of sharp spikey iron stands here
+ready to slay all at it's masters command.
+~
+giant~
+ABF FHJNVZab 100 0
+55 5 1d1+8000 1d1+100 10d4+23 impale
+-25 -25 -25 -25
+CIKN ABLPQ CEFHI J
+stand stand none 10000
+AHMV ABCDEFGHIJK huge 0 the guilds~
+#19242
+Merchant vendor shopkeeper~
+A Local Merchant.~
+A Merchant stands here, trying to sell his wares.
+~
+The local merchant stands here trying to rake in some gold.
+His prices are horribly high, as he doesn't seel much,
+and what he does sell he needs the gold desperately.
+~
+human~
+AB 0 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 a 0 0
+stand stand none 999999999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19243
+priest of the light~
+A Priest of the Light~
+A priest of the holy light kneels here parying.
+~
+An older man in white plate mail
+and flowing robes kneels here praying.
+~
+human~
+ABR HV 999 0
+47 4 25d10+3500 1d1+100 6d6+17 smite
+-17 -17 -17 -17
+FN ABa HJ IL
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19244
+pyrohyrda dragon fire~
+A Pyrohydra~
+A many headed serpentine engulfed in flame writhes at you here.
+~
+A many headed hydra writhes in it's pit of fire
+occaisonally spitting out a ball of fire to test you.
+~
+red dragon~
+ABT HJTV 500 0
+53 5 50d10+6000 1d1+100 6d7+21 flbite
+-23 -23 -23 -23
+AF AB BCEHI IK
+stand stand none 12000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#19248
+cook~
+A Cook~
+The keep's cook stands here burning something that used to be food.
+~
+A large woman stands here in an apron covered
+with weeks of grease and blood.
+~
+human~
+AB V 550 0
+38 3 10d10+1600 1d1+100 5d6+12 flame
+-13 -13 -13 -13
+FHI H 0 I
+stand stand female 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19250
+bird caller~
+The Bird caller~
+The bird caller stands here searching for his avian friends.
+~
+A man covered in a  cloak of raven feathers
+stands here calling out to his avian friends.
+~
+human~
+AB TV -750 0
+46 4 25d10+3250 1d1+100 6d6+16 peck
+-16 -16 -16 -16
+0 Sa E HI
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19251
+Elven diplomat Lanithoair~
+Lanithoair, the Elven Diplomat~
+An elven diplomat in fine armour stands here.
+~
+A tall and slender elven lord in fine
+mithril chainmail stands here with a message
+for the Lord of Ironstone keep.
+~
+elf~
+ABT JNPTVZ 1000 0
+44 7 1d1+3250 1d1+100 8d5+12 stab
+-15 -15 -15 -15
+FHIKN a BEHI Z
+stand stand none 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19252
+paladin knight keeper of the light~
+The Keeper of the Light~
+A paladin stands here liek a shining beacon of goodness.
+~
+A tall man in shining white armour, this
+paladin is not one to be trifled with.
+~
+human~
+ABT V 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 smite
+-13 -13 -13 -13
+FKN LPQb B HI
+stand stand none 1750
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19255
+squire page boy~
+A squire~
+A squire stands here, ready to attend his master.
+~
+A small, eager boy stands here dreaming of
+being a knight and fighting dragons and rescueing maidens.
+~
+human~
+AB 0 750 0
+30 3 6d12+853 1d1+100 4d6+8 slice
+-9 -9 -9 -9
+0 0 0 0
+stand stand none 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19256
+guard in training~
+A Guard in Training~
+A Guard in training is here practicing.
+~
+Dressed in training equipment, this guy isn't too menacing.
+~
+human~
+AB 0 -600 0
+30 3 6d12+853 1d1+100 4d6+8 punch
+-9 -9 -9 -9
+I 0 0 0
+stand stand none 20
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19264
+cryohydra cold ice dragon~
+A Cryohydra~
+A many headed serpent-like creature stands here shrouded in ice.
+~
+A many headed hydra stands here in a shroud of ice,
+waiting to freeze you with it's breath so it can eat you.
+~
+white dragon~
+ABT HJTV 500 0
+53 5 50d10+6000 1d1+100 6d7+21 frbite
+-23 -23 -23 -23
+AF AB BCEHIPQ HK
+stand stand none 10000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#19299
+puppy dog~
+Captain ev0l and the Zombie crew!~
+Captain ev0l and his zombie crew iS here!
+~
+~
+dog~
+A HV 0 0
+60 6 1d1+25000 1d1+100 10d5+50 frbite
+-30 -30 -30 -30
+H 0 D I
+stand stand none 0
+AGV ACDEFHJKUV medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#19200
+Raven Plate~
+{DRaven{x Engraved Plate Mail~
+A set of {Djet{x-{Dblack{x plate-mail engraved with ravens lies here.~
+Admantite~
+armor C AD
+9 12 8 10 0
+30 150 3000 P
+A
+12 20  
+A
+1 1  
+A
+3 1  
+#19201
+Raven Sword~
+A {DRaven{x Sword~
+A {Djet{x-{Dblack{x sword with ravens on the hilt lies here.~
+steel~
+weapon ac AN
+sword 5 5 impale 0
+34 60 1750 P
+A
+18 4  
+A
+2 2  
+#19202
+Raven Shield~
+A {DRaven{x Shield~
+A {Djet{x-{Dblack{x shield covered in raven engravings lies here.~
+steel~
+armor C AJ
+6 10 8 9 0
+28 100 2000 P
+A
+4 1  
+A
+12 10  
+A
+3 1  
+#19203
+Raven Mace~
+A {DRaven{x Mace~
+A {Djet{x-{Dblack{x mace with a raven engraved head lies here.~
+iron~
+weapon C AN
+mace 4 5 knock C
+29 100 1000 P
+A
+1 1  
+A
+5 1  
+A
+18 1  
+A
+19 3  
+#19204
+Raven Glaive~
+A {DRaven{x Glaive~
+A long {Dblack{x glaive lies here.~
+steel~
+weapon Ca AN
+polearm 5 4 gore BF
+32 120 1100 P
+A
+1 2  
+A
+20 -2  
+#19205
+Raven Spear~
+A {DRaven{x Spear~
+A long sleek {Dblack{x spear lies here.~
+wood~
+weapon 0 AN
+staff 2 13 skewer R
+31 50 750 P
+A
+2 1  
+A
+18 2  
+#19206
+A Fountain with a dragon statue~
+A Fountain with a dragon statue spewing water out it's mouth~
+A Fountain with a dragon statue sits in the middle of the room.~
+stone~
+fountain OT 0
+2147483647 2147483647 'water' 0 0
+0 5000 0 P
+#19207
+Raven wing helmet~
+A Raven-Winged helmet~
+A black helmet with raven wings lies here.~
+steel~
+armor 0 AE
+10 10 10 8 0
+29 30 500 P
+A
+1 1  
+#19208
+Alchemist's Flask~
+An Alchemist's Flask~
+A small glass used by an Alchemist lies here.~
+glass~
+gem C AO
+0 0 0 0 0
+29 5 3000 P
+A
+3 1  
+A
+4 1  
+A
+12 30  
+A
+1 -1  
+A
+20 -1  
+#19209
+Black gem~
+A Black Gem~
+A small black gem lies here.~
+gem~
+armor 0 AQ
+1 1 1 1 0
+19 20 1500 P
+A
+4 1  
+A
+13 -5  
+A
+3 1  
+A
+5 -1  
+A
+12 10  
+#19210
+Raven signet ring~
+A Raven signet ring~
+A small onyx signet ring lies here.~
+wood~
+armor C ABY
+2 2 2 2 0
+29 1 2000 P
+A
+18 3  
+A
+20 -1  
+#19211
+jet black robe magi~
+A Jet-Black Robe~
+A jet-black robe lies here in a pile.~
+cloth~
+armor C AK
+3 4 3 3 0
+30 30 2000 P
+A
+17 -2  
+A
+12 10  
+A
+13 10  
+#19212
+shadow orb soul~
+Shadow Orb~
+A small glass orb with swirling shadows inside lies here.~
+glass~
+armor C AQ
+1 1 1 6 0
+35 30 4000 P
+A
+9 5  
+A
+3 1  
+A
+4 1  
+A
+20 -1  
+#19213
+shadow dagger spike~
+A Shadowy Dagger~
+A small spike of darkness lies here.~
+shadow~
+weapon C AN
+dagger 3 8 sting CR
+32 10 1000 P
+#19214
+Shadowbright Crown~
+The Crown of Shadowbright~
+A flickering crown made of shadows and light lies here.~
+shadow~
+armor 0 AEY
+5 5 5 5 0
+40 1 7500 P
+A
+20 -2  
+A
+5 1  
+A
+4 1  
+A
+12 5  
+A
+13 5  
+#19215
+Cloak Ravens Wings~
+Ravenwing Cloak~
+A cloak made of large raven wings lies here.~
+feathers~
+armor 0 AC
+1 2 1 1 0
+32 50 1500 P
+A
+14 30  
+A
+2 2  
+#19216
+Girth honour belt~
+Girth of Honour~
+The girth of an honourable warrior lies here.~
+cloth~
+armor 0 AL
+1 8 2 1 0
+31 40 2000 P
+A
+13 20  
+A
+19 2  
+#19217
+shadow sword blade~
+A {DShadow{x Sword~
+A blade composed of shadows lies here.~
+shadow~
+weapon C AN
+sword 5 7 chill P
+40 10 2500 P
+A
+18 1  
+A
+3 1  
+#19218
+Raven tabard~
+A Raven Tabard~
+A grey peice of cloth with a raven emblem on it lies here.~
+cloth~
+armor 0 AF
+4 5 4 4 0
+31 30 1500 P
+A
+14 10  
+A
+2 1  
+A
+18 2  
+A
+19 1  
+#19219
+Raven Bracers~
+Raven Bracers~
+A set of black, feathered bracers lie here.~
+feather~
+armor C AM
+2 4 2 3 0
+30 30 1250 P
+A
+1 1  
+A
+2 1  
+A
+19 1  
+#19220
+Raven Arm guards~
+Raven Arm-Guards~
+A set of black arm guards lies here.~
+steel~
+armor 0 AI
+6 9 7 7 0
+29 90 2000 P
+A
+1 1  
+A
+2 1  
+A
+18 2  
+#19221
+crocodile skin scales~
+Crocodile Scales~
+The scales of a dead crocodile lie here.~
+scales~
+armor 0 AK
+2 3 2 2 0
+11 70 200 P
+A
+1 1  
+A
+13 5  
+#19222
+serpent skin scales~
+Serpent Scales~
+A dead serpent's scales lie here.~
+scales~
+armor 0 AK
+4 1 3 2 0
+11 20 300 P
+A
+12 10  
+A
+2 1  
+#19223
+Blessed blade templar sword~
+A Blessed Blade~
+A long white sword lies here radiating good.~
+Steel~
+weapon AKa AN
+sword 5 5 slash Q
+33 50 2000 P
+A
+4 1  
+A
+1 1  
+A
+18 1  
+A
+19 1  
+#19224
+blessed cloak white holy~
+A Blessed Cloak~
+A clean white cloak lies here.~
+wood~
+armor Aad AK
+3 3 3 3 0
+31 30 1000 P
+A
+20 -3  
+A
+13 10  
+#19225
+Blessed Plate holy~
+Blessed Plate~
+A set of gleamign white plate lies here.~
+steel~
+armor A AD
+8 8 8 8 0
+31 100 3000 P
+A
+13 5  
+A
+12 5  
+#19226
+White ring holy signet~
+A White Ring~
+A small white ring with a pearl in it lies here.~
+gem~
+armor 0 ABY
+1 0 1 0 0
+31 5 1500 P
+A
+4 1  
+A
+19 1  
+A
+18 1  
+A
+20 -1  
+#19227
+Blessed shield holy light~
+Blessed Shield~
+A radiant white shield lies here reflecting light.~
+wood~
+armor 0 AJ
+5 5 5 5 0
+32 50 1000 P
+A
+1 1  
+A
+4 1  
+#19228
+Shoddy sword worn~
+A Shoddy sword~
+A rusty, half-broken sword lies here.~
+steel~
+weapon 0 AN
+sword 3 2 cleave KO
+9 120 1 D
+A
+19 1  
+A
+18 -2  
+A
+1 1  
+#19229
+straight blade sword~
+A Straight blade~
+A long straight blade lies here.~
+steel~
+weapon 0 AN
+sword 3 9 slash 0
+30 30 900 P
+A
+1 1  
+A
+4 1  
+A
+19 2  
+A
+18 2  
+#19230
+curved knife dagger~
+A Curved Dagger~
+A curved dagger lies here stained with blood.~
+steel~
+weapon 0 AN
+dagger 1 25 skinning CO
+31 20 750 P
+A
+18 2  
+A
+19 4  
+#19231
+Iron breastplate~
+An Iron Breastplate~
+A breastplate made of iron lies here.~
+iron~
+armor 0 AD
+7 8 7 8 0
+28 100 1000 P
+#19232
+Heroe's cloak hero~
+A Hero's Cloak~
+A well worn cloak lies here.~
+cloth~
+armor 0 AKY
+3 3 3 3 0
+40 30 2000 P
+A
+13 10  
+A
+1 1  
+A
+5 2  
+#19233
+smithy's hammer~
+A Smithy's Hammer~
+A hammer used for forging iron lies here.~
+steel~
+weapon 0 0
+mace 5 5 smash A
+35 100 500 P
+#19234
+Gold mark~
+a Gold mark~
+A shiny golden coin with a crown on it lies here.~
+gold~
+treasure W A
+0 0 0 0 0
+0 1 750 P
+#19235
+silver candle candlestick~
+A Silver cnadlestick~
+An ornate silver candlestick sits here.~
+silver~
+treasure 0 A
+0 0 0 0 0
+0 25 3000 P
+#19236
+Silver comb~
+A Silver comb~
+A small silver comb lies here.~
+silver~
+treasure 0 AO
+0 0 0 0 0
+1 3 2000 P
+A
+12 5  
+#19237
+Goosedown pillow~
+A Goosedown Pillow~
+A big soft pillow sits here.~
+feather~
+treasure 0 AO
+0 0 0 0 0
+3 3 500 P
+A
+1 -1  
+A
+4 1  
+A
+3 1  
+#19238
+soul ring~
+A Soul Ring~
+A ring sits here ready to possess someone.~
+silver~
+armor 0 ABY
+1 1 1 0 0
+36 1 400 P
+A
+12 -10  
+A
+13 10  
+A
+19 2  
+A
+3 -2  
+A
+1 1  
+#19239
+Broken blade shattered~
+A Broken Blade~
+An old blade lies here shattered in pieces.~
+steel~
+weapon 0 AN
+sword 1 1 none J
+1 50 10 P
+A
+18 -3  
+#19240
+pike war trophy greusome~
+A Pike with a war-trophy~
+A greusome pike with the head of a fallen enemy stands here stuck in the ground.~
+iron~
+weapon 0 AN
+staff 7 5 gutting F
+43 1200 50 P
+A
+19 2  
+A
+18 -2  
+#19241
+golden necklace~
+A Golden necklace~
+A small necklace of golden links lies here.~
+gold~
+armor 0 AC
+0 0 0 0 0
+5 5 5000 P
+A
+12 10  
+#19242
+no name~
+A Shadow Gem~
+A gem filled with shadows lies here.~
+shadow~
+gem 0 AQ
+0 0 0 0 0
+39 1 500 P
+A
+3 1  
+A
+12 10  
+#19243
+holy ring~
+A {YHoly{x ring~
+A small glowing ring lies here radiating good.~
+silver~
+armor AIKLYad AB
+1 1 1 1 0
+30 2 500 P
+A
+19 1  
+A
+4 2  
+#19244
+mercenary ring~
+A Mercenary ring~
+A small ring depicting crossed swords lies here.~
+bronze~
+armor 0 AB
+2 2 2 2 0
+20 1 500 P
+A
+19 1  
+A
+2 1  
+#19245
+boots springing speed~
+Boots of Springing~
+A pair of leather boots lies here.~
+leather~
+armor 0 AG
+1 1 1 1 0
+31 20 1000 P
+A
+14 30  
+A
+1 1  
+A
+2 1  
+#19246
+ring defense protection~
+Ring of Defense~
+A small ring with a shield insignia lies here.~
+steel~
+armor 0 AB
+6 6 6 6 0
+35 1 1000 P
+A
+5 1  
+A
+13 5  
+A
+20 -1  
+#19247
+cleaved shield broken~
+A Cleaved Shield~
+A shield sits here, almost cleaved in two.~
+wood~
+armor 0 AJ
+1 1 1 1 0
+9 30 1 P
+A
+19 1  
+#19248
+Battle horn~
+A Battle Horn~
+A small horn lies here.~
+wood~
+wand 0 AO
+35 10 10 'frenzy' 0
+30 10 500 P
+#19249
+Black Bow~
+A Black Bow~
+A slender black bow lies here.~
+wood~
+weapon 0 AN
+exotic 3 8 bolt C
+32 10 20 P
+A
+2 1  
+A
+18 4  
+#19250
+quiver arrows~
+A quiver of arrows~
+A quiver of arrows lies here.~
+leather~
+container 0 AL
+15 A 0 100 75
+16 10 15 P
+A
+1 1  
+A
+2 1  
+#19251
+black feathered arrow raven~
+A raven-fletched arrow~
+An arrow with black fletchings lies here.~
+wood~
+throwing 0 AO
+5 4 bolt 35 'harm'
+25 1 2000 P
+#19252
+sack of gold~
+a sack of gold~
+A sack of gold lies here.~
+gold~
+treasure 0 AO
+0 0 0 0 0
+0 50 4000 P
+#19253
+magi stone~
+A Magi Stone.~
+A small gem lies here radiating magic.~
+gem~
+armor 0 AQ
+0 0 0 0 0
+36 1 1500 P
+A
+12 20  
+#19254
+Dim lantern~
+A Dim lantern~
+A lantern sits here, barely lighting the room.~
+iron~
+light 0 A
+0 0 999 0 0
+15 50 500 P
+A
+3 1  
+A
+18 2  
+#19255
+glowing stone~
+a {Yglowing{x stone.~
+A glowing stone lies here.~
+stone~
+light 0 A
+0 0 999 0 0
+12 1 500 P
+A
+18 2  
+#19256
+piece bark~
+a piece of bark~
+A piece of bark lies here, freshly cut off a tree.~
+wood~
+wand 0 AO
+30 5 5 'bark skin' 0
+30 1 5 P
+#19257
+broken stone~
+A piece of broken stone~
+A broken piece of stone lies here, recently fallen off the keep wall.~
+rock~
+trash 0 A
+0 0 0 0 0
+0 100 1 P
+#19260
+Training armour~
+A set of Training armour~
+A set of well-worn armour used for training lies here.~
+wood~
+armor 0 AD
+2 2 2 2 0
+3 50 10 P
+A
+13 10  
+#19261
+Training sword~
+A Training sword~
+A well-worn sword used for training lies here.~
+wood~
+weapon 0 AN
+sword 3 1 smash 0
+2 20 10 P
+A
+2 1  
+#19262
+Training shield~
+Training shield~
+A well-worn shield used for training lies here.~
+wood~
+armor 0 AJ
+2 2 2 2 0
+2 20 10 P
+A
+1 1  
+#19263
+Potion of power~
+Potion of power~
+A small red potion lies here.~
+glass~
+potion 0 A
+30 'giant strength' 'armor' 'bless' 'reserved'
+20 1 1750 P
+#19264
+draught of ale~
+a draught of ale~
+A wooden mug filled with ale sits here ready to be chugged.~
+wood~
+drink 0 AO
+30 30 'ale' 0 0
+1 20 50 P
+#19265
+pack rations~
+a pack of rations~
+A pack of rations sits here ready to be eaten.~
+food~
+food 0 A
+2 2 0 0 0
+1 10 50 P
+#19266
+staff of radiance~
+Staff of radiance~
+A staff leans against the wall here.~
+glass~
+staff 0 AO
+51 15 15 'refresh' 0
+35 40 2000 P
+A
+3 1  
+A
+4 1  
+#19267
+Sage's staff~
+Sage's staff~
+A Sage's staff lies here.~
+wood~
+weapon 0 AN
+staff 5 4 pound 0
+30 0 0 P
+A
+3 1  
+A
+12 10  
+#19268
+scroll of battle~
+Scroll of Battle~
+~
+paper~
+scroll 0 A
+35 'burning hands' 'shocking grasp' 'magic missile' 'reserved'
+20 1 2000 P
+#19269
+scroll speed~
+Scroll of Speed~
+A scroll lies here.~
+paper~
+scroll 0 A
+35 'haste' 'reserved' 'reserved' 'reserved'
+25 1 2500 P
+#19270
+potion of illusion~
+A Potion of Illusion~
+A small potion lies here.~
+glass~
+potion 0 A
+45 'invisibility' 'mirror image' 'reserved' 'reserved'
+31 1 4000 P
+#19271
+potion of prowess~
+Potion of Prowess~
+A small vial with a murky white liquid inside lies here.~
+glass~
+potion 0 AO
+25 'giant strength' 'shield' 'reserved' 'reserved'
+21 1 2000 P
+#19272
+potion of enlightenment~
+Potion of Enlightenment~
+A small blue potion lies here.~
+glass~
+potion 0 A
+35 'fly' 'cloak of mind' 'heal' 'reserved'
+25 2 3500 P
+#19273
+A Plush Couch~
+A Plush Couch~
+~
+wood~
+furniture 0 0
+3 0 BEHK 110 110
+0 999999 0 P
+#19274
+potion of curing~
+Potion of Curing~
+~
+glass~
+potion 0 A
+20 'cure blindness' 'cure disease' 'heal' 'remove curse'
+30 2 5000 P
+#19275
+a crate~
+A Crate~
+~
+wood~
+container 0 0
+9000 0 0 9999 50
+0 5000 0 P
+#19276
+mercenary cape~
+a mercenary cape~
+A cape lies here flapping in the wind.~
+cloth~
+armor 0 AK
+4 4 4 4 0
+30 20 500 P
+A
+1 1  
+A
+19 1  
+A
+20 -1  
+#19277
+Cape of the two kingdoms shadowbright keldorn~
+{DCape {rof {DTwo {rKing{Ddoms{x.~
+A Cape from an age when the kingdoms of Shadowbright and Keldorn were one.~
+cloth~
+armor acd AKZ
+8 8 8 8 0
+43 50 25000 P
+A
+1 1  
+A
+2 1  
+A
+12 20  
+A
+13 20  
+A
+20 -1  
+#19278
+a cot~
+A Cot~
+A Cot is here, ready to be used.~
+wood~
+furniture 0 A
+1 1000 K 5 5
+35 100 500 P
+#19279
+fire stone orb fiery~
+A Fire stone~
+A small orb of fire floats here.~
+fire~
+armor 0 AQ
+0 0 0 0 0
+35 5 2000 P
+A
+2 2  
+A
+3 1  
+A
+18 1  
+#19280
+ice stone frost orb~
+An Ice stone~
+A small orb of ice floats here.~
+ice~
+armor 0 AQ
+0 0 0 0 0
+35 5 2000 P
+A
+5 2  
+A
+4 1  
+A
+20 -1  
+#19281
+simple bench~
+A simple bench~
+A simple bench is here.~
+wood~
+furniture 0 0
+3 1000 BEHK 0 0
+0 500 0 P
+#19282
+raven feather wing~
+a Raven feather~
+A small black feather sits here.~
+feather~
+armor 0 AO
+0 0 0 0 0
+0 1 1 P
+A
+4 1  
+A
+2 1  
+#19283
+ornate long sword blade~
+An Ornate longsword~
+A rather ornate longsword lies here ready to slice flesh.~
+silver~
+weapon 0 AN
+sword 7 3 slash 0
+32 50 2500 P
+A
+2 2  
+#19284
+wooden javelin~
+A wooden javelin~
+A wooden javelin is here ready to be thrown.~
+wood~
+throwing 0 AO
+4 4 stab 20 'rukus magna'
+25 20 1200 P
+#19285
+bench~
+a bench~
+~
+wood~
+furniture 0 0
+9 5000 EHK 0 0
+0 0 0 P
+#19286
+claymore sword blade~
+A Claymore~
+A large sword lies here.~
+iron~
+weapon 0 AN
+sword 1 26 slash F
+29 120 1200 P
+A
+1 1  
+A
+19 3  
+#19287
+elven chain mithril~
+Elven Chainmail~
+A glittering shirt of mithril lies here.~
+mithril~
+armor 0 AD
+10 10 10 6 0
+37 30 3000 P
+A
+2 1  
+A
+18 2  
+#19288
+elven dagger~
+An Elven Dagger~
+A shiny dagger glitters on the ground.~
+mithril~
+weapon 0 AN
+dagger 5 5 slash 0
+37 10 3000 P
+A
+18 4  
+A
+19 4  
+#19289
+a half ripped-scroll~
+a half ripped-scroll~
+An ancient looking scroll lies here, it's other half ripped off.~
+paper~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+E
+exam~
+The scroll's top half was ripped off long ago,
+but from what's left, it appears to have been
+an alliance document between Shadowbright and
+Keldorn.
+A cape was fashioned once in honour of this event,
+using items from the 2 kingdoms.
+Cape of Two Kingdoms:
+10 Raven signet rings
+10 White rings
+5 crowns of Shadowbright
+5 Heroes cloaks
+10 diamonds from Midgaard
+~
+#19290
+simple axe~
+A Simple Axe~
+A simple axe lies here unused.~
+wood~
+weapon 0 AN
+axe 3 3 dicing 0
+10 30 50 P
+#19291
+mercenary flail warrior~
+A Mercenary flail~
+A warrior's flail lies here.~
+steel~
+weapon 0 AN
+flail 3 7 crush 0
+29 60 1000 P
+A
+19 1  
+A
+18 2  
+#19292
+spiked chain~
+A Spiked Chain~
+A long chain with many spikes and barbs lies here.~
+iron~
+weapon 0 AN
+flail 3 8 rip F
+34 150 50 P
+A
+19 4  
+#19293
+black leather whip~
+A Black Leather Whip~
+A small black whip lies here.~
+leather~
+weapon 0 AN
+whip 2 13 whip 0
+32 10 500 P
+A
+18 2  
+#19294
+black cloak~
+A Black Cloak~
+A black cloak lies here.~
+cloth~
+armor 0 AC
+4 4 4 4 0
+35 5 750 P
+A
+2 1  
+A
+20 -1  
+#19295
+brazier~
+(no short description)~
+~
+bronze~
+light 0 A
+0 0 999 0 0
+29 20 50 P
+#19296
+mace of smiting~
+Mace of Smiting~
+A mace with a blood-stained head lies here.~
+steel~
+weapon 0 AN
+mace 4 6 smite AOQ
+30 90 2200 P
+#19297
+elven spear ornate~
+An Elven Spear~
+A slender, ornate spear lies here.~
+wood~
+weapon 0 AN
+staff 5 4 stab 0
+31 5 2000 P
+A
+2 2  
+A
+18 3  
+#19298
+A masterwork Bench.~
+An expertly carved stone bench~
+An expertly carved stone bench rests near the fountain.~
+Stone~
+furniture O 0
+4 5000 BEHK 20 20
+0 500 0 P
+#19299
+Beer Converter!~
+A {GSpecial {BHelmet {M!!!!!{x~
+Thiamber's mighty axe.~
+Ice~
+trash MNW AE
+0 0 0 0 0
+54 100 99999999 P
+A
+19 5000  
+A
+18 5000  
+A
+9 50000  
+A
+14 500000  
+A
+20 -100  
+A
+17 -1500  
+A
+12 500000  
+A
+13 500000  
+#0
+
+
+
+#ROOMS
+#19200
+{BT{bhrone{x Room~
+This is the great throne room of the Shadowbright Keep.  The hall itself
+is massive, with large tapestries running up the walls, depicting the many
+victories of the Lord of Shadowbright.  A large stone throne covered in
+carvings of ravens rises up at the back of the hall, looming over you. 
+There is a small stairwell in the back of the hall leading upwards, and to
+the east lies the Palace entrance.  
+~
+0 805306368 0
+D1
+~
+~
+0 0 19201
+D4
+~
+~
+0 0 19203
+D5
+~
+~
+1 0 19202
+S
+#19201
+Palace Entrance~
+You step out into a room lit by ornate lanterns.  Low, wide steps lead to
+the palace in the west, and small stairwells lead up to the walls defences. 
+The inner courtyard lies to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 19210
+D2
+~
+~
+0 0 19209
+D3
+~
+~
+0 0 19200
+D4
+~
+~
+0 0 19204
+S
+#19202
+Treasury~
+You come down a small ladder into this dimly lit room.  The room smells
+of dust and metal, and from the many chests and spilt coins lying around the
+room, you know that this must be the palace treasury, though the chests are
+indeed small.  
+~
+0 0 0
+D4
+~
+~
+1 0 19200
+S
+#19203
+Lord's Chamber~
+This is the personal chamber of the Lord of Shadowbright Keep.  Lavish
+rugs line the floors, and the walls are covered in luxurious tapestries. 
+There is a very large bed in the corner of the room, with the finest silk
+sheets and goose down pillows.  A window overlooks the inner courtyard of
+the Keep.  A stairwell leads down to the throne room.  
+~
+0 0 0
+D5
+~
+~
+0 0 19200
+M 102 H 102
+S
+#19204
+Stairwell~
+You enter a simple stone stairwell, which runs between the palace
+entrance and the walls defences of Shadowbright Keep.  Your footsteps echo
+through the long stone passageway as you traverse the stairwell.  The door
+leading to the Palace entrance is down from here.  The walls defences are up
+from here.  
+~
+0 0 0
+D4
+~
+~
+0 0 19205
+D5
+~
+~
+0 0 19201
+S
+#19205
+The North-West Wall~
+You stand atop the walls defences of the Shadowbright Keep.  From here you
+overlook the forest that surrounds the Keep, and can hear the distant cries
+of battle to the east.  You walk along a small stone path, guarded on one
+side by a a short wall and on the other by the Keep itself.  You can go down
+into a stairwell, or east along the wall.  
+~
+0 0 1
+D1
+~
+~
+0 0 19206
+D5
+~
+~
+0 0 19204
+S
+#19206
+The North-East Wall~
+You stand atop the wall defences of Shadowbright Keep.  From here you
+overlook the Forest that surrounds the Keep, and the battlefield in the
+east.  The small stone path you stand on is guarded on one side by a short
+wall, and the Keep on the otherside.  You can go back west along the wall,
+or south across the front of the Keep.  
+~
+0 0 1
+D2
+~
+~
+0 0 19207
+D3
+~
+~
+0 0 19205
+S
+#19207
+The South-East Wall~
+You stand atop the wall defences of Shadowbright Keep.  To the east you
+can see the battlefield, and the hills surrounding the southern part of the
+Keep.  The small stone pathway you stand on is guarded by a short stone wall
+on one side and the Keep on the other.  You can go north or west along the
+wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 19206
+D3
+~
+~
+0 0 19208
+S
+#19208
+The South-West Wall~
+You stand atop the wall defence of Shadowbright Keep.  You can see long
+rolling hills to the south, and can hear the sounds of battle in the
+distance.  The small stone pathway you stand on is guarded by a short wall
+on one side and the Keep on the other.  There is a stone stairwell leading
+down, and you can go east along the wall.  
+~
+0 0 1
+D1
+~
+~
+0 0 19207
+D5
+~
+~
+0 0 19209
+S
+#19209
+Stairwell~
+You stand in a small stone stairwell.  A few torches along the walls
+provide a dim light and leave flickering shadows across the cracked stone
+walls.  Your footsteps echo through the empty corridor as you traverse the
+stairwell.  The stairs lead up to the outer wall defences, and the Palace
+entrance is to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 19201
+D4
+~
+~
+0 0 19208
+S
+#19210
+Inner Courtyard~
+There is a large fountain in the center of the room, with a bench nearby.
+The rest of the room is filled with gardens, and statues of the previous
+rulers of Shadowbright lining the outer walls.  This is the meeting place of
+the Noble's of Shadowbright, and seems a good place to rest from your
+journeys.  To the east is the Inner Gatehouse, to the west is the Entrance
+to the Palace, and to the north and south are Houses of the Nobles.  
+~
+0 268435456 0
+D0
+~
+~
+0 0 19211
+D1
+~
+~
+1 0 19213
+D2
+~
+~
+0 0 19212
+D3
+~
+~
+0 0 19201
+M 105 H 105
+S
+#19211
+Noble's House~
+You walk through the elaborately carved stone arch of a doorway into a
+well-lit clean house.  The floors are covered in expensive carpets, and the
+walls are painted with scenes of great battles.  There are a few plush
+couches around the room to sit on.  The Inner Courtyard is to the south.  
+~
+0 268435456 0
+D2
+~
+~
+0 0 19210
+S
+#19212
+Noble's House~
+You walk through the elaborately carved stone arch of a doorway into a
+well-lit clean house.  The floors are covered in expensive carpets, and the
+walls are painted with scenes of great battles.  There are a few plush
+couches around the room to sit on.  The Inner Courtyard is to the north.  
+~
+0 268435456 0
+D0
+~
+~
+0 0 19210
+S
+#19213
+Inner Gatehouse~
+You enter a large stone corridor through a heavy iron door.  Torches line
+the walls to the other side and cast shadows across the cold stone.  Your
+footsteps echo loudly in the large room.  The Barracks is through the
+eastern door, and the western door leads to the Inner Courtyard.  
+~
+0 0 0
+D1
+~
+~
+1 0 19214
+D3
+~
+~
+1 0 19210
+S
+#19214
+Barracks~
+You stand in the barracks of Shadowbright Keep.  The stone floors are
+well worn from many guards traveling through here.  Braziers line the walls,
+and tables are scattered around the room.  This is where the guards eat and
+rest, and as such is not the cleanest room in the Keep.  To the west are the
+doors to the Inner gatehouse, and to the east is the Outer Courtyard.  The
+guard's quarters are to the north, and the training grounds are to the
+south.  
+~
+0 0 0
+D0
+~
+~
+0 0 19215
+D1
+~
+~
+0 0 19218
+D2
+~
+~
+0 0 19216
+D3
+~
+~
+1 0 19213
+S
+#19215
+Guard's Sleeping Quarters~
+You go through a small hallway into a dark room.  There are many cots
+around the room, and a few little racks with clothing and mundane items. 
+This is the sleeping quarters for guards who are off-duty.  Back south is
+the Barracks.  
+~
+0 0 0
+D2
+~
+~
+0 0 19214
+M 101 H 101
+S
+#19216
+Training Grounds~
+You stand in the training room for the warriors of Shadowbright.  The
+floor is made of thick wood, as are the walls, and there is a few wooden
+pillars with many notches in them.  A few empty racks line the walls, the
+equipment in use by many guards.  To the north is the barracks, and there is
+a small door on the east wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 19214
+D1
+~
+~
+1 0 19217
+S
+#19217
+Guard's Storage Room~
+You walk into a small room, more like a big closet that the guards of
+Shadowbright use to store excess equipment in.  The only light comes from
+outside the room, and from the dust, it's clear that not too many people
+come through here.  The training grounds are to the west.  
+~
+0 268435456 0
+D3
+~
+~
+1 0 19216
+S
+#19218
+Outer Courtyard~
+You enter a large stone courtyard, bustling with guards and people
+everywhere.  Amid the confusion, you can see a large Black Tower to the
+south, and a small shop to the north.  There's a gatehouse leading out of
+the castle to the east, and the barracks in the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 19219
+D1
+~
+~
+1 0 19220
+D2
+~
+~
+0 0 19221
+D3
+~
+~
+0 0 19214
+S
+#19219
+Market~
+It's a small stand, in an open area lined with a few odd crates and sacks
+of merchandise.  The sole merchant of Shadowbright Keep stays here, and he
+obviously isn't too well off.  To the south is the outer courtyard.  
+~
+0 0 0
+D2
+~
+~
+0 0 19218
+S
+#19220
+Front Gatehouse~
+The front gatehouse of Shadowbright Keep is heavily fortified with large
+iron doors on either side and thick stone walls.  There are a few benches
+along the walls for the guards to sit on, and the floor is well worn from
+many feet traveling over it.  The Portcullis is in the east, and the outer
+courtyard is in the west.  
+~
+0 0 0
+D1
+~
+~
+1 0 19229
+D3
+~
+~
+1 0 19218
+S
+#19221
+Base of the Mage Tower~
+You enter the small front entrance to the Mage's tower of Shadowbright
+Keep.  It is a small room with a single bench along one wall and a counter
+on the other.  A man stands behind it, ready to sell you some magical items.
+There are large stone stairs leading up, and you can notice a small trapdoor
+behind the counter.  
+~
+0 0 0
+D0
+~
+~
+0 0 19218
+D4
+~
+~
+0 0 19223
+D5
+~
+trapdoor~
+1 0 19222
+S
+#19222
+Alchemist's Lab~
+You step down through the trapdoor into a well-lit room.  Tables covered
+in jars and bodies and strange liquids litter the room, and many tools line
+the walls.  This is the laboratory of the local Alchemist.  Up through the
+trapdoor is the entrance to the Mage's tower.  
+~
+0 0 0
+D4
+~
+~
+1 0 19221
+S
+#19223
+Magi Training Academy~
+You stand in a large stone room, it's walls marked with scorches and
+cracks from many misfired spells in the training of young mages.  Stairs
+lead down to the entrance, and up to the Archmage's quarters.  The training
+area continues to the east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 19225
+D3
+~
+~
+0 0 19228
+D4
+~
+~
+0 0 19224
+D5
+~
+~
+0 0 19221
+S
+#19224
+Arch-Magi's Quarters~
+The walls of this room are a shining white, blazing with spell-emboldened
+crystal.  Many pillars hold up various valueable items, all leading up to a
+large crystal chair with a small bowl filled with a strange liquid, in
+front.  These are the chambers of the Arch-Mage of Shadowbright.  Stairs
+lead back down to the Training area.  
+~
+0 0 0
+D2
+~
+~
+1 0 19293
+D5
+~
+~
+0 0 19223
+S
+#19225
+Magi's Library~
+An essential part of Mage training, the library is filled with many books
+and tables, as well as ambitious students learning the ways of the arcane. 
+The training area continues to the west and south.  
+~
+0 0 0
+D2
+~
+~
+0 0 19226
+D3
+~
+~
+0 0 19223
+S
+#19226
+Magi Combat Training~
+Blood and scorch marks line the walls here, the trials of many young
+mages' training.  The training area continues west and north.  
+~
+0 0 0
+D0
+~
+~
+0 0 19225
+D3
+~
+~
+0 0 19227
+S
+#19227
+Magi Power Training~
+This room has wards of silence weaved on the outside, so as the mages
+meditating within won't be disturbed by the noisy training of others.  The
+training area continues north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 19228
+D1
+~
+~
+0 0 19226
+S
+#19228
+Magi Illusion Training~
+The walls dance and change shapes from trees, to monsters, to shifting
+colours.  This is the illusion trainign section.  The training area
+continues east and south.  
+~
+0 0 0
+D1
+~
+~
+0 0 19223
+D2
+~
+~
+0 0 19227
+S
+#19229
+Portcullis~
+You stand under the heavy iron portcullis of Shadowbright Keep.  Better
+move before it comes down on you!  To the east is the drawbridge, and
+through large iron doors to the west is the Front Gatehouse.  
+~
+0 4 0
+D1
+~
+~
+0 0 19230
+D3
+~
+portcullis~
+1 0 19220
+S
+#19230
+Shadowbright Keep's Drawbridge~
+You stand on the thick iron-bound planks of a drawbridge.  Ahead of you
+looms the great black citadel called Shadowbright Keep.  The portcullis lies
+to the west, and a moat surrounds you on the north and south sides, and a
+road leads back east.  
+~
+0 4 1
+D0
+~
+~
+0 0 19231
+D1
+~
+~
+0 0 19235
+D2
+~
+~
+0 0 19234
+D3
+~
+~
+0 0 19229
+S
+#19231
+The North-East Moat~
+You are currently swimming in the cold murky waters of the Keep.  Who
+knows what creatures lurk in these dangerous waters?  The moat continues to
+the west,and you can climb back onto the drawbridge in the south.  You can
+also climb over the bank and into a field in the east.  
+~
+0 0 12
+D1
+~
+~
+0 0 19236
+D2
+~
+~
+0 0 19230
+D3
+~
+~
+0 0 19232
+S
+#19232
+The North-West Moat~
+You are currently swimming in the cold murky waters of the Keep.  Who
+knows what creatures lurk in these dangerous waters?  The moat continues
+east and south.  
+~
+0 0 12
+D1
+~
+~
+0 0 19231
+D2
+~
+~
+0 0 19233
+S
+#19233
+The South-West Moat~
+You are currently swimming in the cold murky waters of the Keep.  Who
+knows what creatures lurk in these dangerous waters?  The moat continues
+east and north.  
+~
+0 0 12
+D0
+~
+~
+0 0 19232
+D1
+~
+~
+0 0 19234
+S
+#19234
+The South-East Moat~
+You are currently swimming in the cold murky waters of the Keep.  Who
+knows what creatures lurk in these dangerous waters?  The moat continues
+west, and you can climb onto the drawbridge north.  
+~
+0 0 12
+D0
+~
+~
+0 0 19230
+D3
+~
+~
+0 0 19233
+S
+#19235
+The Road to Battle~
+You stand on a well worn cobbled road which overlooks a battle to the
+east, and leads up to a great Black citadel in the west.  Fields lie to the
+north and south of here.  
+~
+0 0 2
+D0
+~
+~
+0 0 19236
+D1
+~
+~
+0 0 19246
+D2
+~
+~
+0 0 19244
+D3
+~
+~
+0 0 19230
+S
+#19236
+A Field~
+You stand in a field of long grass, overlooking a great battle.  There is
+a moat to the west, and woods lie to the north.  To the south is a road, and
+in the east, the field.  
+~
+0 4 2
+D0
+~
+~
+0 0 19237
+D1
+~
+~
+0 0 19243
+D2
+~
+~
+0 0 19235
+D3
+~
+~
+0 0 19231
+S
+#19237
+The Woods~
+You stand in a thinner section of the woods.  Through gnarled branches,
+you see a field to the south, and the forest continues on east.  
+~
+0 4 0
+D1
+~
+~
+0 0 19238
+D2
+~
+~
+0 0 19236
+S
+#19238
+A Thick Forest~
+You stand in a thicket of gnarled trees.  You see a shady clearing to the
+east, and more woods to the south and west.  
+~
+0 4 3
+D1
+~
+~
+0 0 19239
+D2
+~
+~
+0 0 19241
+D3
+~
+~
+0 0 19237
+S
+#19239
+A Shady Clearing~
+You stand in a small clearing, well, less of a clearing, more that the
+branches of the trees are higher up here.  You can see a hole in the ground,
+recently dug, and the woods continue on west and south.  
+~
+0 4 3
+D2
+~
+~
+0 0 19240
+D3
+~
+~
+0 0 19238
+D5
+~
+~
+0 0 19276
+S
+#19240
+Deeper in the Woods~
+You stand in the thickest part of the woods, it's very dark, and you can
+barely squeeze through the trees.  Theres a small clearing to the north, and
+the woods continue west.  
+~
+0 0 3
+D0
+~
+~
+0 0 19239
+D3
+~
+~
+0 0 19241
+S
+#19241
+A Path in the Woods~
+You stand at the end of the path into the woods.  You can go east or
+north into the forest.  
+~
+0 4 3
+D0
+~
+~
+0 0 19238
+D1
+~
+~
+0 0 19240
+D2
+~
+~
+0 0 19242
+S
+#19242
+A Path into the Woods~
+You stand on a small dirt path through the twisted trees of the
+Nevergreen forest.  The trees are grey, and very few have leaves.  You can
+go west into a field, or deeper into the woods in the north.  
+~
+0 4 2
+D0
+~
+~
+0 0 19241
+D3
+~
+~
+0 0 19243
+S
+#19243
+A Field~
+You stand amid a grassy field, with trees on both sides.
+You can go west into the field, or east into the woods.
+~
+0 4 2
+D1
+~
+~
+0 0 19242
+D3
+~
+~
+0 0 19236
+S
+#19244
+A Field~
+You stand in a field of long grass away from the heart of the
+battlefield.  You can take a plunge into the moat in the east, or go north
+to a road.  
+~
+0 4 2
+D0
+~
+~
+0 0 19235
+D1
+~
+~
+0 0 19245
+S
+#19245
+The South-West End of the Battlefield~
+You stand amid bodies of dying soldiers and fields of blood stained
+grass.  This is the battlefield the 2 Keep's fight upon.  You can go west,
+north, or east on the field.  
+~
+0 0 2
+D0
+~
+~
+0 0 19246
+D1
+~
+~
+0 0 19249
+D3
+~
+~
+0 0 19244
+S
+#19246
+West-End of the Battlefield~
+You stand amid bodies of dying soldiers and fields of blood stained
+grass.  This is the battlefield the 2 Keep's fight upon.  To the west is a
+road, and you can go east, south or north on the field.  
+~
+0 0 2
+D0
+~
+~
+0 0 19247
+D1
+~
+~
+0 0 19248
+D2
+~
+~
+0 0 19245
+D3
+~
+~
+0 0 19235
+S
+#19247
+The North-West End of the Battlefield~
+You stand amid bodies of dying soldiers and fields of blood stained
+grass.  This is the battlefield the 2 Keep's fight upon.  You can go south
+or east.  
+~
+0 0 2
+D1
+~
+~
+0 0 19250
+D2
+~
+~
+0 0 19246
+S
+#19248
+Heart of the Battlefield~
+You stand amid bodies of dying soldiers and fields of blood stained
+grass.  This is the battlefield the 2 Keep's fight upon.  You can go any
+direction on the field.  
+~
+0 0 2
+D0
+~
+~
+0 0 19250
+D1
+~
+~
+0 0 19251
+D2
+~
+~
+0 0 19249
+D3
+~
+~
+0 0 19246
+S
+#19249
+The Battlefield~
+You stand amid bodies of dying soldiers and fields of blood stained
+grass.  This is the battlefield the 2 Keep's fight upon.  You can go north,
+east, or west on the field.  
+~
+0 0 2
+D0
+~
+~
+0 0 19248
+D1
+~
+~
+0 0 19252
+D3
+~
+~
+0 0 19245
+S
+#19250
+The Battlefield~
+You stand amid bodies of dying soldiers and fields of blood stained
+grass.  This is the battlefield the 2 Keep's fight upon.  You can go east,
+west or south.  
+~
+0 0 2
+D1
+~
+~
+0 0 19253
+D2
+~
+~
+0 0 19248
+D3
+~
+~
+0 0 19247
+S
+#19251
+The East-End of the Battlefield~
+You stand amid bodies of dying soldiers and fields of blood stained
+grass.  This is the battlefield the 2 Keep's fight upon.  There is a stone
+road to the east, and the field surrounds in all other directions.  
+~
+0 0 2
+D0
+~
+~
+0 0 19253
+D1
+~
+~
+0 0 19255
+D2
+~
+~
+0 0 19252
+D3
+~
+~
+0 0 19248
+S
+#19252
+The South-East End of the Battlefield~
+You stand amid bodies of dying soldiers and fields of blood stained
+grass.  This is the battlefield the 2 Keep's fight upon.  You can go north,
+south or west.  
+~
+0 0 2
+D0
+~
+~
+0 0 19251
+D2
+~
+~
+0 0 19254
+D3
+~
+~
+0 0 19249
+S
+#19253
+The North-East End of the Battlefield~
+You stand amid bodies of dying soldiers and fields of blood stained
+grass.  This is the battlefield the 2 Keep's fight upon.  The rest of the
+battlefield lies south and west.  
+~
+0 0 2
+D2
+~
+~
+0 0 19251
+D3
+~
+~
+0 0 19250
+S
+#19254
+A Hill Over-Looking the Battle~
+You stand on a low hill, overlooking 2 keeps and a battlefield in between
+in the north.  
+~
+0 0 4
+D0
+~
+~
+0 0 19252
+S
+#19255
+A Stone Road~
+You stand on a worn stone road leading to a Small stone keep in the east,
+and to a battlefield in the west.  
+~
+0 0 2
+D1
+~
+~
+1 0 19256
+D3
+~
+~
+0 0 19251
+S
+#19256
+Gatehouse to the Ironstone Keep~
+You stand in the front gate of Ironstone keep.  Giant iron double-doors
+lead to the outside, and protect the Keep from enemies.  To the south is the
+guardhouse, and to the east is the Barracks.  
+~
+0 0 0
+D1
+~
+~
+0 0 19261
+D2
+~
+~
+0 0 19257
+D3
+~
+front~
+1 0 19255
+S
+#19257
+Gaurdhouse~
+This little room is a place for guards to watch the stairs up to the
+walls, and guard the front gates.  Stone stairs lead to the walls, and to
+the north is the front gatehouse.  
+~
+0 0 0
+D0
+~
+~
+0 0 19256
+D4
+~
+~
+0 0 19258
+S
+#19258
+South-West Wall Defense~
+You stand atop the wall defenses of the Ironstone keep, a shabby stone
+pathway with low stone walls on either side.  You can see rolling hills to
+the south, and a battlefield to the west.  Stairs lead down, and the pathway
+continues north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 19259
+D1
+~
+~
+0 0 19262
+D5
+~
+~
+0 0 19257
+S
+#19259
+North-West Wall Defense~
+You stand atop the wall defenses of the Ironstone keep, a shabby stone
+pathway with low stone walls on either side.  You can see rolling hills to
+the south, and a battlefield to the west, and a forest to the north 
+~
+0 0 0
+D1
+~
+~
+0 0 19260
+D2
+~
+~
+0 0 19258
+S
+#19260
+North-East Wall Defense~
+You stand atop the wall defenses of the Ironstone keep, a shabby stone
+pathway with low stone walls on either side.  You can see rolling hills to
+the south, and a battlefield to the west, and a forest to the north.  The
+pathway continues south and west.  
+~
+0 0 0
+D2
+~
+~
+0 0 19262
+D3
+~
+~
+0 0 19259
+S
+#19261
+Ironstone Barracks~
+This low stone building is the central place for the warriors of
+Ironstone.  Worn benches and weapon racks line the walls.  To the west is
+the front gatehouse and in the west is the Inner City.  
+~
+0 0 0
+D1
+~
+~
+0 0 19263
+D3
+~
+~
+0 0 19256
+S
+#19262
+South-East Wall Defense~
+You stand atop the wall defenses of the Ironstone keep, a shabby stone
+pathway with low stone walls on either side.  You can see rolling hills to
+the south, and a battlefield to the west.  The pathway continues west and
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 19260
+D3
+~
+~
+0 0 19258
+S
+#19263
+Inner City~
+The bustling Inner City of Ironstone keep, less a city and more a shamble
+of low houses and hurrying people.  The shabby stone road is well worn from
+many people.  A large stone building is in the south, the Barracks in the
+west, a bunch of low houses in the north, and the Keep gate to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 19265
+D1
+~
+~
+0 0 19270
+D2
+~
+~
+0 0 19264
+D3
+~
+~
+0 0 19261
+S
+#19264
+Ironstone's Temple~
+You step into a room that radiates holiness.  The walls are made of white
+stone, and tapestries of great holy heroes line the walls.  A simple blue
+carpet leads through a few rows of benches to an altar.  The doors to the
+north lead back to the Inner City of the Ironstone Keep.  
+~
+0 0 0
+D0
+~
+~
+0 0 19263
+S
+#19265
+Shabby Houses~
+You stand among a group of shabby little houses.  They are poorly made,
+and look as if they'd fall apart if you gave em a good boot.  The
+marketplace lies to the east, and the Inner city to the south 
+~
+0 0 0
+D1
+~
+~
+0 0 19266
+D2
+~
+~
+0 0 19263
+S
+#19266
+Marketplace~
+You stand in the center of business for Ironstone keep.  A few shabby
+little carts are around, but only one merchant stands out.  The blacksmith
+is to the east, and more houses lie north and west of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 19268
+D1
+~
+~
+0 0 19267
+D3
+~
+~
+0 0 19265
+S
+#19267
+Ironstone Blacksmith~
+You enter this small dark building through a small wooden door, turned
+black with ages of soot.  In fact, the entire inside is covered in soot.  A
+man stands in front of a forge, wondering why your interupting him.  The
+marketplace lies back to the west.  
+~
+0 0 0
+D3
+~
+~
+0 0 19266
+S
+#19268
+Alley~
+You stand in a small alley between a few of the little houses.  The
+marketplace lies to the south, and you can see a small trapdoor along a
+western wall.  
+~
+0 0 0
+D2
+~
+~
+0 0 19266
+D3
+~
+trapdoor~
+1 0 19269
+S
+#19269
+A Thieve's Guild~
+You come through the tiny trapdoor into a room much like a tavern, but
+filled with dark and shadowy people.  This is the secret Thieve's guild in
+Ironstone, stealing whatever profit they can.  The trapdoor leads east into
+the alley.  
+~
+0 0 0
+D1
+~
+~
+1 0 19268
+S
+#19270
+Keep Gate~
+You stand at the large wooden gate that leads into the actual keep part
+of Ironstone.  The Inner City lies to the west, and Inside the gates to the
+east is the Keep.  
+~
+0 0 0
+D1
+~
+~
+1 0 19271
+D3
+~
+~
+0 0 19263
+S
+#19271
+Keep Entrance~
+You stand within the front gate of the Ironstone keep.  The walls are
+made of what seems solid stone, as if the keep were grown out of the ground.
+Torches light the room, and a few benches are scattered for guards.  Large
+wooden double doors lead to the Main Hall in the east.  The west Gate leads
+back out to the keep entrance.  
+~
+0 0 0
+D1
+~
+~
+0 0 19272
+D3
+~
+gate~
+1 0 19270
+S
+#19272
+Ironstone Keep's Main Hall~
+You stand within the Main Hall of Ironstone keep.  The hall itself is
+HUGE, strecthing out for at least 200 feet.  Many tables, benches and chairs
+lie scattered about the room.  This is where all meetings, meals and other
+dealings of the keep transpire.  The kitchen is north of here, the sleeping
+quarters south, and the keep entrance to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 19273
+D2
+~
+~
+0 0 19274
+D3
+~
+~
+0 0 19271
+S
+#19273
+Kitchen of the Keep~
+Many ovens flare with large fires as the servants of the keep try to
+prepare meals for the soldiers.  The Main hall is back south.  
+~
+0 0 0
+D2
+~
+~
+0 0 19272
+S
+#19274
+Sleeping Quarters~
+You stand amid an assortment of cots and beds in the soldiers sleeping
+area.  There is a stairwell downwards, and to the north is the main hall.  
+~
+0 0 0
+D0
+~
+~
+0 0 19272
+D5
+~
+~
+0 0 19275
+S
+#19275
+Ironstone Keep's Cellar~
+You stand in the cellar of Ironstone keep, a small stone room, with
+stairwells leading up and down.  The dungeon is in the west.  
+~
+0 0 0
+D3
+~
+~
+0 0 19276
+D4
+~
+~
+0 0 19274
+D5
+~
+~
+0 0 19280
+S
+#19276
+Ironstone Dungeon~
+You stand in the dungeon of the Ironstone keep.  Blood stains the cold
+stone floors, and jail cells are north, west, and south of here.  There's a
+small tunnel leading up, and to the east is the Cellar.  
+~
+0 0 0
+D0
+~
+~
+1 0 19277
+D1
+~
+~
+0 0 19275
+D2
+~
+~
+1 0 19279
+D3
+~
+~
+1 0 19278
+D4
+~
+~
+0 0 19239
+S
+#19277
+Jail Cell~
+You stand in a small jail cell, it is very cramped, damp and
+uncomfortable.  You can hears rats squeking in the area, and footsteps
+echoing off of stone.  
+~
+0 0 0
+D2
+~
+~
+1 0 19276
+S
+#19278
+Jail Cell~
+You stand in a small jail cell, it is very cramped, damp and
+uncomfortable.  You can hears rats squeking in the area, and footsteps
+echoing off of stone.  
+~
+0 0 0
+D1
+~
+~
+1 0 19276
+S
+#19279
+Jail Cell~
+You stand in a small jail cell, it is very cramped, damp and
+uncomfortable.  You can hears rats squeking in the area, and footsteps
+echoing off of stone.  
+~
+0 0 0
+D0
+~
+~
+1 0 19276
+S
+#19280
+Under the Keep~
+You stand in a small cavern under the Ironstone cellar, which leads
+downward into a dark cavern.  
+~
+0 0 0
+D4
+~
+~
+0 0 19275
+D5
+~
+~
+0 0 19281
+S
+#19281
+Dark Cave~
+You stand in a dark cave, below the dungeon of Ironstone keep, which
+leads down into an even darker cavern.  
+~
+0 0 0
+D4
+~
+~
+0 0 19280
+D5
+~
+~
+0 0 19282
+S
+#19282
+Shadowy Cavern~
+You stand at the bottom of a dark cave.  Shadows dance on the walls, your
+light barely letting you see.  You can go up into the dark cave, or enter
+the mist in the west.  
+~
+0 4 0
+D3
+~
+~
+0 0 19283
+D4
+~
+~
+0 0 19281
+S
+#19283
+In the {DDark {gMist{x~
+You stand in a dark swirling mist.  There are distant lights and sounds
+around you, but they continually move in the mist.  You stumble around
+trying to find your way, but you can see nothing obvious. 
+~
+0 0 0
+D0
+~
+~
+0 0 19284
+D1
+~
+~
+0 0 19282
+D2
+~
+~
+0 0 19290
+S
+#19284
+In the {DDark {gMist{x~
+You stand in a dark swirling mist.  There are distant lights and sounds
+around you, but they continually move in the mist.  You stumble around
+trying to find your way, but you can see nothing obvious. 
+~
+0 0 0
+D2
+~
+~
+0 0 19283
+D3
+~
+~
+0 0 19285
+S
+#19285
+In the {DDark {gMist{x~
+You stand in a dark swirling mist.  There are distant lights and sounds
+around you, but they continually move in the mist.  You stumble around
+trying to find your way, but you can see nothing obvious. 
+~
+0 0 0
+D1
+~
+~
+0 0 19284
+D2
+~
+~
+0 0 19288
+D3
+~
+~
+0 0 19286
+S
+#19286
+In the {DDark {gMist{x~
+You stand in a dark swirling mist.  There are distant lights and sounds
+around you, but they continually move in the mist.  You stumble around
+trying to find your way, but you can see nothing obvious. 
+~
+0 0 0
+D1
+~
+~
+0 0 19285
+D2
+~
+~
+0 0 19287
+S
+#19287
+In the {DDark {gMist{x~
+You stand in a dark swirling mist.  There are distant lights and sounds
+around you, but they continually move in the mist.  You stumble around
+trying to find your way, but you can see nothing obvious.  
+~
+0 4 0
+D0
+~
+~
+0 0 19286
+D1
+~
+~
+0 0 19288
+D2
+~
+~
+0 0 19291
+D3
+~
+~
+0 0 19292
+S
+#19288
+In the {DDark {gMist{x~
+You stand in a dark swirling mist.  There are distant lights and sounds
+around you, but they continually move in the mist.  You stumble around
+trying to find your way, but you can see nothing obvious. 
+~
+0 0 0
+D0
+~
+~
+0 0 19285
+D2
+~
+~
+0 0 19289
+D3
+~
+~
+0 0 19287
+S
+#19289
+In the {DDark {gMist{x~
+You stand in a dark swirling mist.  There are distant lights and sounds
+around you, but they continually move in the mist.  You stumble around
+trying to find your way, but you can see nothing obvious. 
+~
+0 0 0
+D0
+~
+~
+0 0 19288
+D1
+~
+~
+0 0 19290
+D3
+~
+~
+0 0 19291
+S
+#19290
+In the {DDark {gMist{x~
+You stand in a dark swirling mist.  There are distant lights and sounds
+around you, but they continually move in the mist.  You stumble around
+trying to find your way, but you can see nothing obvious. 
+~
+0 0 0
+D0
+~
+~
+0 0 19283
+D3
+~
+~
+0 0 19289
+S
+#19291
+In the {DDark {gMist{x~
+You stand in a dark swirling mist.  There are distant lights and sounds
+around you, but they continually move in the mist.  You stumble around
+trying to find your way, but you can see nothing obvious. 
+~
+0 0 0
+D0
+~
+~
+0 0 19287
+D1
+~
+~
+0 0 19289
+S
+#19292
+Shadow Chamber~
+You emerge from the {DDark {gMist{x into a chamber of dancing
+{Dshadows{x.  You are surrounded by the swirling shadows as they flicker and
+wave, you can't truly be sure of where you are or where you came from here. 
+You cannot see any walls, if there are any, and can only sense an evil
+presence nearby.  
+~
+0 268967936 0
+D1
+~
+~
+0 0 19287
+S
+#19293
+Magical Cage~
+You step into a magical cage of force, not knowing
+what could be lurking here.
+~
+0 536879104 0
+D0
+~
+~
+1 0 19224
+D1
+~
+~
+1 0 19295
+D3
+~
+~
+1 0 19294
+S
+#19294
+Chamber of fire~
+This room is intensely hot, what with
+being nothign but a large pit of fire.
+~
+0 268443648 0
+D1
+~
+~
+1 0 19293
+S
+#19295
+Chamber of Ice~
+Brrrrr.  You stand in a vortex of cold winds and blinding snow.  
+~
+0 268443648 0
+D3
+~
+~
+1 0 19293
+S
+#19299
+{BT{Ch{Bi{Ca{Bm{Cb{Be{Cr{x'{Bs{x {CC{chillaxation{x Room~
+~
+0 557060 3
+M 750 H 750
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 19200 5 1
+D 0 19202 4 1
+D 0 19210 1 1
+D 0 19213 1 1
+D 0 19213 3 1
+D 0 19214 3 1
+D 0 19216 1 1
+D 0 19217 3 1
+D 0 19218 1 1
+D 0 19220 1 1
+D 0 19220 3 1
+D 0 19224 2 1
+D 0 19229 3 1
+D 0 19255 1 1
+D 0 19256 3 1
+D 0 19268 3 1
+D 0 19269 1 1
+D 0 19270 1 1
+D 0 19271 3 1
+D 0 19276 0 1
+D 0 19276 2 1
+D 0 19276 3 1
+D 0 19277 2 1
+D 0 19278 1 1
+D 0 19279 0 1
+D 0 19293 0 1
+M 1 19206 1 19200 1
+E 0 19214 0 6
+M 1 19204 2 19200 2
+E 0 19200 0 5
+E 0 19205 0 16
+M 1 19204 2 19200 2
+E 0 19200 0 5
+E 0 19205 0 16
+M 1 19205 5 19200 1
+M 1 19200 50 19201 2
+E 0 19201 0 16
+E 0 19202 0 11
+M 1 19200 50 19201 2
+E 0 19204 0 16
+E 0 19220 0 10
+M 1 19202 1 19201 1
+E 0 19205 0 16
+E 0 19207 0 6
+M 1 19205 5 19201 1
+E 0 19210 0 1
+M 1 19238 1 19202 1
+G 0 19234 0
+G 0 19234 0
+G 0 19234 0
+G 0 19234 0
+G 0 19234 0
+O 0 19234 0 19202
+O 0 19234 0 19202
+O 0 19234 0 19202
+O 0 19234 0 19202
+O 0 19234 0 19202
+O 0 19237 0 19203
+M 1 19216 10 19205 1
+E 0 19249 0 16
+E 0 19250 0 13
+P 0 19251 3 19250 3
+M 1 19216 10 19206 1
+E 0 19249 0 16
+E 0 19250 0 13
+P 0 19251 3 19250 3
+M 1 19216 10 19207 1
+E 0 19249 0 16
+E 0 19250 0 13
+P 0 19251 3 19250 3
+M 1 19216 10 19208 1
+E 0 19249 0 16
+E 0 19250 0 13
+P 0 19251 3 19250 3
+M 1 19205 5 19210 1
+O 0 19298 0 19210
+O 0 19206 0 19210
+M 1 19222 1 19210 1
+M 1 19205 5 19211 1
+G 0 19235 0
+G 0 19241 0
+O 0 19273 0 19211
+M 1 19205 5 19212 1
+O 0 19273 0 19212
+M 1 19203 4 19213 2
+E 0 19203 0 16
+E 0 19220 0 10
+M 1 19203 4 19213 2
+E 0 19203 0 16
+E 0 19202 0 11
+M 1 19200 50 19214 2
+E 0 19201 0 16
+M 1 19200 50 19214 2
+E 0 19204 0 16
+E 0 19219 0 14
+M 1 19200 50 19215 1
+E 0 19200 0 5
+E 0 19205 0 16
+O 0 19278 0 19215
+M 1 19202 5 19216 1
+M 1 19256 2 19216 2
+E 0 19260 0 5
+E 0 19261 0 16
+M 1 19256 2 19216 2
+E 0 19262 0 11
+E 0 19261 0 16
+O 0 19248 0 19217
+O 0 19200 0 19217
+O 0 19201 0 19217
+M 1 19200 50 19218 2
+M 1 19200 50 19218 2
+M 1 19242 1 19219 1
+G 0 19254 0
+G 0 19248 0
+G 0 19210 0
+G 0 19262 0
+G 0 19261 0
+G 0 19260 0
+O 0 19275 0 19219
+M 1 19201 1 19220 1
+E 0 19210 0 1
+E 0 19219 0 14
+E 0 19201 0 16
+M 1 19200 50 19220 2
+E 0 19205 0 16
+M 1 19200 50 19220 2
+E 0 19204 0 16
+M 1 19220 1 19221 1
+G 0 19268 0
+G 0 19269 0
+G 0 19263 0
+G 0 19272 0
+G 0 19274 0
+G 0 19271 0
+M 1 19211 1 19222 1
+E 0 19208 0 17
+M 1 19213 1 19222 1
+M 1 19214 1 19222 1
+M 1 19208 10 19223 2
+E 0 19211 0 12
+M 1 19208 10 19223 2
+E 0 19211 0 12
+M 1 19207 1 19224 1
+E 0 19217 0 16
+E 0 19211 0 12
+E 0 19218 0 13
+M 1 19208 10 19225 2
+E 0 19213 0 16
+G 0 19272 0
+M 1 19208 10 19225 2
+M 1 19208 10 19226 2
+G 0 19263 0
+M 1 19208 10 19226 2
+M 1 19208 10 19227 2
+G 0 19268 0
+M 1 19208 10 19227 2
+M 1 19208 10 19228 2
+G 0 19270 0
+E 0 19213 0 16
+M 1 19208 10 19228 2
+M 1 19218 4 19231 1
+E 0 19221 0 5
+M 1 19219 4 19231 1
+E 0 19222 0 5
+M 1 19218 6 19232 1
+M 1 19219 6 19232 1
+M 1 19218 6 19233 1
+M 1 19219 6 19233 1
+M 1 19218 6 19234 1
+M 1 19219 6 19234 1
+M 1 19237 1 19236 1
+M 1 19223 1 19239 1
+E 0 19210 0 1
+E 0 19230 0 16
+M 1 19217 1 19245 1
+E 0 19201 0 16
+E 0 19200 0 5
+M 1 19216 10 19246 2
+M 1 19216 10 19246 2
+E 0 19249 0 16
+M 1 19217 1 19247 1
+E 0 19201 0 16
+E 0 19200 0 5
+M 1 19200 50 19248 2
+M 1 19200 50 19248 2
+M 1 19224 50 19248 2
+M 1 19224 50 19248 2
+G 0 19239 0
+M 1 19224 5 19249 1
+E 0 19229 0 16
+E 0 19225 0 5
+E 0 19227 0 11
+M 1 19239 1 19250 1
+M 1 19240 1 19250 1
+M 1 19235 1 19250 1
+E 0 19291 0 16
+E 0 19244 0 1
+M 1 19224 5 19251 1
+E 0 19223 0 16
+E 0 19224 0 12
+M 1 19228 10 19251 2
+G 0 19290 0
+G 0 19228 0
+M 1 19228 10 19251 2
+G 0 19228 0
+M 1 19229 20 19252 2
+E 0 19229 0 16
+M 1 19229 20 19252 2
+E 0 19229 0 16
+M 1 19229 1 19252 1
+E 0 19229 0 16
+M 1 19224 1 19253 1
+E 0 19229 0 16
+G 0 19265 0
+G 0 19265 0
+G 0 19265 0
+E 0 19247 0 11
+M 1 19224 5 19255 1
+E 0 19240 0 16
+E 0 19225 0 5
+M 1 19228 30 19256 2
+M 1 19228 30 19256 2
+M 1 19229 30 19256 2
+E 0 19229 0 16
+M 1 19229 30 19256 2
+E 0 19229 0 16
+M 1 19229 30 19257 2
+M 1 19229 30 19257 2
+M 1 19255 3 19257 1
+M 1 19217 5 19257 1
+E 0 19224 0 12
+E 0 19229 0 16
+M 1 19228 30 19258 1
+E 0 19244 0 1
+E 0 19291 0 16
+G 0 19284 0
+M 1 19228 30 19259 1
+E 0 19244 0 1
+E 0 19291 0 16
+G 0 19284 0
+M 1 19228 30 19260 1
+E 0 19244 0 1
+E 0 19291 0 16
+G 0 19284 0
+M 1 19232 1 19261 1
+E 0 19283 0 16
+E 0 19227 0 11
+E 0 19225 0 5
+E 0 19216 0 13
+M 1 19229 30 19261 2
+E 0 19229 0 16
+M 1 19229 30 19261 2
+E 0 19229 0 16
+M 1 19228 30 19262 1
+E 0 19244 0 1
+E 0 19291 0 16
+G 0 19284 0
+O 0 19281 0 19263
+M 1 19229 30 19263 1
+E 0 19229 0 16
+M 1 19236 1 19264 1
+E 0 19296 0 16
+E 0 19226 0 1
+M 1 19225 1 19264 1
+E 0 19226 0 1
+E 0 19223 0 16
+E 0 19225 0 5
+E 0 19224 0 12
+E 0 19227 0 11
+M 1 19226 2 19264 2
+E 0 19223 0 16
+M 1 19226 2 19264 2
+E 0 19223 0 16
+M 1 19242 1 19266 1
+G 0 19229 0
+G 0 19292 0
+G 0 19276 0
+G 0 19244 0
+G 0 19291 0
+G 0 19231 0
+G 0 19254 0
+M 1 19231 1 19267 1
+E 0 19233 0 16
+E 0 19231 0 5
+M 1 19230 3 19268 2
+E 0 19230 0 16
+M 1 19230 3 19269 2
+E 0 19230 0 16
+M 1 19230 3 19269 2
+E 0 19230 0 16
+M 1 19243 1 19270 1
+E 0 19224 0 12
+E 0 19253 0 18
+M 1 19229 30 19270 2
+E 0 19229 0 16
+M 1 19229 30 19270 2
+E 0 19229 0 16
+O 0 19281 0 19271
+M 1 19229 30 19271 1
+E 0 19229 0 16
+M 1 19224 5 19271 1
+E 0 19229 0 16
+M 1 19227 1 19272 1
+E 0 19232 0 12
+E 0 19223 0 16
+E 0 19225 0 5
+E 0 19227 0 11
+M 1 19251 1 19272 1
+E 0 19287 0 5
+E 0 19297 0 16
+G 0 19288 0
+M 1 19229 30 19272 2
+E 0 19229 0 16
+M 1 19229 30 19272 2
+E 0 19229 0 16
+E 0 19245 0 8
+M 1 19248 1 19273 1
+M 1 19233 1 19276 1
+E 0 19293 0 16
+E 0 19294 0 3
+M 1 19234 3 19277 1
+M 1 19234 3 19278 1
+M 1 19234 3 19279 1
+M 1 19210 6 19284 1
+M 1 19210 6 19285 1
+M 1 19210 6 19286 1
+M 1 19210 6 19288 1
+M 1 19210 6 19289 1
+M 1 19210 6 19290 1
+M 1 19209 1 19292 1
+E 0 19212 0 18
+E 0 19209 0 17
+M 1 19241 1 19293 1
+E 0 19238 0 1
+M 1 19244 1 19294 1
+E 0 19279 0 18
+M 1 19264 1 19295 1
+E 0 19280 0 18
+S
+
+
+
+#SHOPS
+19220 2 4 3 10 0 200 50 1 22
+19242 9 5 19 1 0 300 30 1 20
+0
+
+
+
+#$

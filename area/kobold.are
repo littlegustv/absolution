@@ -1,0 +1,2704 @@
+#AREADATA
+Name Ruins of Kujou~
+Builders None~
+VNUMs 13400 13499
+Credits {25 35} Jotarou     Ruins of Kujou~
+Security 9
+Xcontinent 1
+Age 14
+Questable 1
+End
+
+
+
+#MOBILES
+#13400
+sly ghost elf drow thief rogue~
+a sly, undead drow rogue~
+A sly, undead drow rogue stands here, eyeing your belongings closely.
+~
+Hey, is that your money pouch he's holding???
+~
+human~
+ACHOSYc CDFGPQVZab 0 0
+25 0 5d10+550 1d1+100 2d10+7 pierce
+-7 -7 -7 -7
+BCEFJKN BK I HNS
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13401
+ghostly undead paladin~
+a ghostly paladin~
+An undead paladin stands here, ready for battle.
+~
+Proud, strong, and noble, this paladin waits here.  He does not seem to
+realize that he is already dead.  
+~
+modron~
+AOY DHJNOVZa 1000 0
+25 0 5d10+550 1d1+100 2d10+7 thrust
+-7 -7 -7 -7
+CFQR BMNPQ HIK HNS
+stand stand male 2500
+AHMV ABCGHJK medium blood the guilds~
+#13402
+ghostly customer~
+a ghostly customer~
+A ghostly customer stands here, shopping for bargains.
+~
+This ghost appears to be window shopping.
+~
+modron~
+AOY CJMXZ 0 0
+30 0 6d12+853 1d1+100 4d6+8 none
+-9 -9 -9 -9
+CFQR BLMNPQ HIK HNS
+stand stand none 0
+AHIMV ABCDEFGHIJK medium bone the guilds~
+#13403
+steadfast defender ghost~
+a steadfast defender~
+A large defender stands here, guarding the way into the city.
+~
+His eyes bore straight through you as you glance at him. "I shall
+recount a tale of great woe, should you be interested.", he says.
+"Would you like to hear the tale of the {rsettlers{x or their {rdemise{x?"
+~
+undead~
+ABO Z 0 0
+60 0 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+CF B I HNS
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 13402 demise~
+M speech 13401 settlers~
+#13404
+drunken ghost~
+a drunken ghost~
+A drunken ghost stands here, humming a long forgotten tune.
+~
+You didn't realize that ghosts could become intoxicated, but well, here's proof!
+~
+undead~
+AO Z 1000 0
+35 0 10d10+1300 1d1+100 4d7+11 none
+-11 -11 -11 -11
+CF BQ I HNS
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13405
+ghostly bartender barkeep~
+a ghostly bartender~
+A ghostly bartender stands here, washing a ghostly glass.
+~
+He looks like he's seen a lot in his many years.
+"What'll it be, stranger?"
+~
+human~
+ABO 0 0 0
+60 0 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 BLQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13406
+priscilla ghost stripper~
+Priscilla, the ghost stripper~
+Priscilla, the ghost stripper stands here, showing more than you can imagine!
+~
+[censored]
+~
+undead~
+ABCO HVZ -1000 0
+45 0 25d10+3000 1d1+100 8d4+16 slap
+-15 -15 -15 -15
+CF B I HNS
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13407
+ghost stripper grizlita~
+Grizlita, the skeleton stripper~
+Grizlita, the skeleton stripper stands here, displaying her wares.
+~
+[censored]
+~
+undead~
+ABO HVZ -1000 0
+45 0 25d10+3000 1d1+100 8d4+16 slap
+-15 -15 -15 -15
+CF B I HNS
+stand stand female 0
+AHMV ABCDEFGHIJK medium bone the guilds~
+#13408
+undead drow ghost stripper dominique~
+Dominique, the undead drow stripper~
+Dominique, the undead drow, strips for your amusement.
+~
+[censored]
+~
+undead~
+ABO HVZ -1000 0
+45 0 25d10+3000 1d1+100 8d4+16 slap
+-15 -15 -15 -15
+CF B I HNS
+stand stand female 0
+AHMV ABCDEFGHIJK medium bone the guilds~
+#13409
+ghost stripper tenrisa~
+Tenrisa, the ghostly stripper~
+Tenrisa, the ghostly stripper stands here, looking you up and down.
+~
+[censored]
+~
+undead~
+ABO HVZ -1000 0
+45 0 25d10+3000 1d1+100 8d4+16 slap
+-15 -15 -15 -15
+CF B I HNS
+stand stand female 0
+AHMV ABCDEFGHIJK medium bone the guilds~
+#13410
+ghost waitress jannice~
+Jannice, the ghost waitress~
+Jannice, the ghost waitress, patiently waits to take your order.
+~
+Wow, she's certainly not wearing too much in the way of clothing!
+~
+undead~
+ABOR HUVZ 0 0
+40 0 15d10+1850 1d1+100 4d8+13 slap
+-13 -13 -13 -13
+CF B I HNS
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13411
+ghost waitress Jynaal~
+Jynaal, the ghost waitress~
+Jynaal the ghost waitress stands here, fidgeting with her drink tray.
+~
+She looks like she hasn't been having a very good day.
+~
+undead~
+ABOR HTUVZ 1000 0
+40 0 15d10+1850 1d1+100 4d8+13 slap
+-13 -13 -13 -13
+CF B I HNS
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13412
+jacqueline ghost waitress~
+Jacqueline the ghost waitress~
+Jacqueline the ghost waitress stands here, ready to serve.
+~
+She may look small, but you have a feeling she's a lot tougher than she looks.
+~
+undead~
+ABOR HUVZ 1000 0
+40 0 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+CF B I HNS
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13413
+undead red dragon ghost~
+an undead red dragon~
+An undead red dragon skulks about, emanating heat.
+~
+She eyes you warily, wondering if you'll do any harm to her babies.
+~
+undead~
+ABFO HIJLOTVZ 1000 0
+30 0 6d12+853 1d1+100 4d6+8 bite
+-9 -9 -9 -9
+ACDEFJMNO B BEHI HINS
+stand stand female 5000
+ABHMVZ ABCDEFGHIJKLPQUVWX medium bone the guilds~
+#13414
+small rat~
+a small rat~
+A small, vile little rat squeaks here.
+~
+This little rodent looks pretty mean!
+~
+modron~
+A JM -1000 0
+10 0 2d7+121 1d1+100 2d4+2 bite
+1 1 1 1
+QR BMNPQ HIK 0
+stand stand none 0
+H ABCGHJK medium 0 the guilds~
+#13415
+a small spider~
+A small spider~
+A small spider scurries out of your way.
+~
+Gross! Those mandibles are filthy! Who knows where they've been!?
+~
+modron~
+A JM 0 0
+8 0 2d7+96 1d1+100 1d7+2 sting
+3 3 3 3
+QR BMNPQ HIK 0
+stand stand none 0
+H ABCGHJK medium 0 the guilds~
+#13416
+ghost hobo homeless undead beggar~
+a hobo~
+A homeless ghost stands here, begging for food.
+~
+This ghostly figure seems to be earnest in his request for aid... but
+something about him isn't quite right.  Is that his hand in your pocket???  
+~
+modron~
+ASY JPVZ 300 0
+38 0 10d10+1600 1d1+100 5d6+12 punch
+-13 -13 -13 -9
+BCEFHKQR BMNPQ HIK HNS
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13417
+dark spectre shopkeeper~
+a spectre shopkeeper~
+A dark, mysterious shopkeeper stands here, grinning mischievously.
+~
+A dark, grinning blur of shados stands here.  As you look him over he
+nods and points to his fine wares.  You wish you could wipe that smug grin
+off his face, but you get the feeling that you're lucky he's in a good mood.
+~
+undead~
+AB Z 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+CF B I HNS
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13418
+grinning skeleton shopkeeper~
+a grinning skeleton shopkeeper~
+A grinning skeleton stands here, plying her wares.
+~
+This skeleton looks like she's seen quite a lot in her time.
+~
+undead~
+AB Z 0 0
+1 0 2d6+10 1d1+100 1d4+0 none
+9 9 9 9
+CF AB I HNS
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13419
+rotting black dragon ghost~
+a rotting dragon ghost~
+A large, black, rotting dragon ghost is here.
+~
+It looks like he must have died while he was in the latter stages of decay.
+~
+undead~
+ABO QTVZ -1000 0
+40 0 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+CFHKNO BK BEGIK HLNS
+stand stand male 0
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13420
+gnome man shopkeeper store~
+an old man~
+A happy little old man stands here, excited to sell you magical items.
+~
+Its obvious that you are the first customer he's seen in quite some time.
+The old man seem very happy to talk with somebody at last.  
+~
+human~
+AB DFZ 0 0
+60 0 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 ABLQa 0 0
+stand stand none 100000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13421
+logginan dwarf dwarven warrior~
+Logginan, the dwarf warrior~
+Logginan, the dwarf warrior is here.
+~
+It looks as though he and his party are taking a short break from the grueling duties of adventurers.
+~
+dwarf~
+ABT JZ 1000 0
+40 0 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+CDEIJNQ 0 LQ R
+sleep sleep male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13422
+kolara elf elven mage~
+Kolara, the elven mage~
+Kolara, the elven mage is here.
+~
+Kolara and her party seem to be taking a break from exploring.
+~
+elf~
+ABR J 1000 0
+40 0 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+FKQ 0 B Z
+rest rest female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13423
+pouletta human thief~
+Pouletta, the human thief~
+Pouletta, the human thief stands here, eyeing you closely.
+~
+Pouletta keeps a safe distance from you as she eyes your belongings.
+~
+human~
+ABS PQ 1000 0
+40 0 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+BFKQ 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13424
+ghostly fisherman undead~
+a ghostly fisherman~
+An undead fisherman sits here, fishing in mid air.
+~
+It looks like he hasn't caught a fish in... well a really long time!
+~
+modron~
+ABO JTU 0 0
+45 0 25d10+3000 1d1+100 8d4+16 punch
+-15 -15 -15 -15
+QR BMNPQ HIK 0
+stand stand male 0
+H ABCGHJK medium 0 the guilds~
+#13425
+green blob slime~
+a large blob~
+A green, gelatinous, slimy blob is here!
+~
+GROSS!!! It looks like a thousand years of picked noses!
+~
+modron~
+AB HJQTV 0 0
+50 0 50d10+4500 1d1+100 5d8+19 none
+-20 -20 -20 -20
+QR BMNPQ HIK 0
+stand stand none 0
+H ABCGHJK large 0 the guilds~
+#13426
+undead ghost white dragon ice frost~
+an undead ice dragon~
+A white dragon ghost stands here.
+~
+The icicles hanging from her nose are a definite turn-off.  
+~
+white dragon~
+ABO HJT 0 0
+50 0 50d10+4500 1d1+100 5d8+19 none
+-20 -20 -20 -20
+0 0 BEI H
+stand stand female 5000
+BHMZ ABCDEFGHIJKLPQUVWX medium ice the guilds~
+#13427
+chanting priest~
+a chanting priest~
+A chanting priest stands here, chanting.
+~
+This priest looks just like every other priest - boring.  He just keeps
+chanting, and chanting, and chanting!  I wonder what it would take to shut
+him up...  
+~
+human~
+AB H 1000 0
+20 0 3d9+333 1d1+100 2d8+5 none
+-4 -4 -4 -4
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13428
+dead undead ghost shadow black dragon~
+a shadow dragon~
+A shadow of a great black dragon slithers about.
+~
+You can see right through this shadow, which seems to suck the light out
+of anything near it.  He is definitely not in a good mood.  
+~
+black dragon~
+ABO HPQTUVZ 0 0
+55 5 50d10+7000 1d1+100 10d4+23 none
+-25 -25 -25 -25
+CDFGHMNO B BCEK LNS
+stand stand female 5000
+ABHMVZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#13429
+beached whale~
+a beached whale~
+A whale flops about here, trapped.
+~
+A large whale flops about, flailing his tail from side to side in an
+effort to right himself.  
+~
+bear~
+AB 0 0 0
+25 2 5d10+550 1d1+100 2d10+7 chomp
+-7 -7 -7 -7
+DEO 0 EI H
+stand stand male 1000
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13430
+big mean angry giant~
+an angry giant~
+A big, mean, angry giant stands here, picking her teeth with a bone.
+~
+You can't quite figure out what the look in this big, mean giant's eyes
+is, and she looks you over and licks her lips.  Oh, thats what she's
+thinking.  Dinner.  
+~
+giant~
+AB 0 0 0
+30 3 6d12+853 1d1+100 4d6+8 none
+-9 -9 -9 -9
+CO 0 HI J
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13498
+steadfast defender ghost~
+a steadfast defender~
+A large defender stands here, guarding the way into the city.
+~
+His eyes bore straight through you as you glance at him. "I shall
+recount a tale of great woe, should you be interested.", he says.
+"Would you like to hear the tale of the {rsettlers{x or their {rdemise{x?"
+~
+undead~
+ABOde Z 0 0
+60 0 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+CF B I HNS
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13499
+healer chocolate man~
+a chocolate man~
+A chocolate man stands here, coalescing chocolate energy.
+~
+This crazy old healer is made out of chocolate.  He's got some bite marks
+in his arm....  
+~
+human~
+ABa DFZ 0 0
+55 5 50d10+7000 1d1+100 10d4+23 none
+-25 -25 -25 -25
+0 ABa 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#13400
+star platinum sword~
+{BStar Platinum{x~
+Jotarou's powerful stand - {BStar Platinum{R!!!{x~
+iron~
+weapon HSYZe ANO
+sword 9 6 pierce DEHILMNO
+54 1 0 P
+A
+19 30  
+A
+18 30  
+#13401
+iron nightmare dagger~
+an iron dagger~
+A short, sharp dagger made of iron lies here.~
+iron~
+weapon C AN
+dagger 3 5 stab CO
+20 10 3000 P
+#13402
+bloody cudgel mace~
+a bloody cudgel~
+A cudgel made entirely of blood lies here.~
+blood~
+weapon 0 AN
+mace 3 5 thwack P
+20 20 5000 P
+#13403
+glass absinthe~
+a glass of absinthe~
+A small glowing glass lies here.~
+air~
+drink A A
+0 0 'absinthe' 0 0
+0 1 500 P
+#13404
+glass firebreather~
+a glass of firebreather~
+A burning glass lies here.~
+air~
+drink A A
+0 0 'firebreather' 0 0
+0 0 500 P
+#13405
+aura stand gem~
+{YAura{x of a Stand~
+The captured Aura of a Stand~
+gem~
+jewelry TW AO
+0 0 0 0 0
+0 0 5000 P
+#13406
+drink tray~
+a drink tray~
+A drink tray lies here, glowing brightly.~
+metal~
+weapon A ANO
+exotic 3 9 crush E
+35 3 0 P
+#13407
+skimpy hot pants hotpants~
+skimpy hotpants~
+A skimpy pair of hotpants lies here.~
+velvet~
+armor Y AF
+9 9 9 5 0
+35 1 1000 P
+A
+4 2  
+A
+1 1  
+#13408
+ghostly glasses spectacles specs~
+attractive glasses~
+A small pair of attractive glasses rest here, waiting to be worn.~
+glass~
+armor ABSbd AE
+9 9 9 5 0
+37 0 5000 P
+A
+4 2  
+A
+3 2  
+A
+12 5  
+#13409
+catseye marble~
+a glittering catseye~
+A glittering catseye hovers here, awaiting a new owner.~
+glass~
+jewelry ad AQ
+0 0 0 0 0
+35 0 3000 P
+A
+19 1  
+A
+18 1  
+A
+2 1  
+#13410
+dragon scepter light~
+a dragon scepter~
+A glowing scepter in the shape of a dragon, emanating heat.~
+fire~
+light ABG AO
+0 0 999 0 0
+25 1 0 P
+A
+18 2  
+A
+19 2  
+#13411
+dragonbone bone bracelets~
+dragonbone bracelet~
+A snug bracelet made from dragonbone.~
+bone~
+armor Y AM
+5 5 5 2 0
+25 0 0 P
+A
+19 1  
+A
+2 2  
+#13412
+ice blue ring~
+a blue ice ring~
+A little blue ring made of ice.~
+ice~
+jewelry AB ABY
+0 0 0 0 0
+3 0 500 P
+A
+1 1  
+A
+13 4  
+#13413
+sparkling glass ball~
+a glass ball~
+A sparkling little glass ball rolls to and fro.~
+glass~
+jewelry 0 AQ
+0 0 0 0 0
+7 0 0 P
+A
+5 1  
+A
+2 1  
+#13414
+aura fallen paladin~
+paladin's aura~
+The aura of a fallen paladin floats here.~
+gem~
+jewelry 0 AQ
+0 0 0 0 0
+5 4 500 P
+A
+4 1  
+#13415
+onyx polearm~
+an onyx polearm~
+A long, sleek polearm made entirely from onyx.~
+onyx~
+weapon ABG AN
+polearm 5 5 stab E
+35 40 3000 P
+A
+2 1  
+A
+1 1  
+#13416
+shield black onyx~
+a black onyx shield~
+A big, black, onyx shield.~
+onyx~
+armor HYe AJ
+300 300 300 300 0
+54 2 1000 P
+A
+3 10  
+A
+2 10  
+A
+5 10  
+A
+4 10  
+A
+1 10  
+A
+20 -30  
+A
+13 300  
+A
+12 150  
+A
+19 30  
+A
+18 30  
+#13417
+fishing pole rod~
+a fishing rod~
+A long thin fishing pole is here.~
+wood~
+weapon S AN
+exotic 6 4 whip M
+30 10 10000 P
+A
+4 2  
+#13418
+fire fiery flaming mace~
+a fiery mace~
+A fiery mace is here, glowing with intense heat.~
+fire~
+weapon G AN
+mace 3 8 slice A
+35 40 3000 P
+A
+18 2  
+A
+19 -1  
+#13419
+fish bone~
+a fish bone~
+A rotting fish bone.~
+bone~
+food 0 AO
+0 0 0 A 0
+1 5 1 P
+#13420
+onyx black blade scimitar sword~
+an onyx scimitar~
+A long dark blade is here.~
+onyx~
+weapon 0 AN
+sword 2 2 slash F
+5 15 1000 P
+#13421
+faded dull shield~
+a faded shield~
+A large dull shield lies here.~
+wood~
+armor ABG AJ
+3 3 3 1 0
+6 20 2000 P
+#13422
+long black obsidian spear~
+an obsidian spear~
+A long, black spear is here.~
+wood~
+weapon 0 AN
+staff 1 6 pierce F
+5 10 1000 P
+#13423
+pair wooden clogs shoes boots~
+a pair of wooden clogs~
+A pair of wooden shoes.~
+wood~
+armor 0 AG
+2 2 2 1 0
+5 12 500 P
+#13424
+vial translucent liquid~
+a vial of translucent liquid~
+A vial of translucent liquid lies here.~
+glass~
+potion 0 AO
+20 'blindness' 'teleport' 'reserved' 'reserved'
+15 5 5000 P
+#13425
+potion leaves rootwood wood ~
+a potion of rootwood~
+A potion full of leaves lies here.~
+glass~
+potion 0 AO
+10 'bark skin' 'curse' 'reserved' 'reserved'
+10 5 5000 P
+#13426
+wooden pike spear~
+a wooden pike~
+A wooden pike lies here.~
+wood~
+weapon 0 AN
+staff 5 5 stab F
+34 10 1000 P
+#13427
+smiley bandaid happy~
+a bandaid~
+A bandaid with a little smiley face drawn on it.~
+cloth~
+jewelry FGYbcd AB
+0 0 0 0 0
+35 2 2500 P
+A
+4 2  
+A
+19 3  
+#13428
+rosary beads~
+rosary beads~
+A set of well used rosary beads.~
+wood~
+armor GI AM
+4 6 6 2 0
+12 4 1 P
+A
+1 1  
+#13429
+sack black dragon scale~
+a dragonscale sack~
+A pile of thick dragon scales is here.~
+dragonscale~
+container Y AO
+300 A 0 15 50
+40 30 0 P
+A
+2 1  
+A
+1 1  
+A
+12 10  
+A
+13 10  
+#13430
+fruitdrop drop candy~
+a fruit drop candy~
+This sweet round candy is just begging to be eaten.~
+candy~
+pill TUW AO
+30 'detect invis' 'fly' 'haste' 'reserved'
+1 0 5000 P
+#13496
+fish bone~
+a fish bone~
+A rotting fish bone.~
+bone~
+food 0 AO
+0 0 0 A 0
+1 5 1 P
+#13497
+faded dull shield~
+a faded shield~
+A large dull shield lies here.~
+wood~
+armor ABG AJ
+3 3 3 1 0
+6 20 2000 P
+A
+2 1  
+#13498
+onyx black blade scimitar sword~
+an onyx scimitar~
+A long dark blade is here.~
+onyx~
+weapon 0 AN
+sword 2 3 slash F
+5 15 1000 P
+#13499
+fountain chocolate lemonade~
+chocolate fountain~
+This chocolate fountain is full of lemonade. Odd.~
+chocolate~
+fountain 0 0
+0 0 'lemonade' 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#13400
+Stifler's Party~
+Welcome to Stifler's palace of love, fellahs.  The keg's back there!  
+~
+0 557060 0
+M 300 H 300
+S
+#13401
+A Deep Pit~
+Oh no!  You've fallen into a deep pit!  A sense of despair fills you as
+you see the entrance high above you suddenly close.  It doesn't look like
+you have anywhere to go.  
+~
+0 0 0
+D5
+~
+~
+1 0 13402
+S
+#13402
+An Old Stairwell~
+You find yourself on a dusty, ancient stairway.  Hewn from some unknown
+ore, the stairwell looks as though it has lasted an eternity, and indeed
+appears it will last another.  You see nothing but darkness emanating from
+the foot of the stairs.  
+~
+0 0 0
+D2
+~
+~
+0 0 13403
+D4
+~
+~
+1 0 13401
+S
+#13403
+The Landing~
+You cannot believe your eyes!!  What appears to be the ruins of an
+ancient city sprawls before you.  Tall buildings litter the huge cavern in
+every direction.  You quickly recover from your awe as you hear something
+move off in the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 13402
+D1
+~
+~
+0 0 13404
+D3
+~
+~
+0 0 13409
+S
+#13404
+A side street~
+You have entered a dark corner of the cavern.  On the east wall you can
+barely make out some ancient writing.  Erosion has blurred the writing so
+much, however, that you cannot make out any of the words.  To your west,
+lies the entrance to these ruins.  To your south, the dark path continues.  
+~
+0 0 0
+D2
+~
+~
+0 0 13405
+D3
+~
+~
+0 0 13403
+S
+#13405
+A Long North-South Road~
+The road widens as you approach the run down business district...  At
+least you think it's the business district.  The darkness permeates the very
+walls, making it seem like you are surrounded by nothing.  You can almost
+feel the weight of the stone surrounding you pushing in, enclosing you.  You
+would not want to be attacked in this place.  You notice movement in the
+cave to your east.  
+~
+0 8 0
+D0
+~
+~
+0 0 13404
+D1
+~
+~
+0 0 13417
+D2
+~
+~
+0 0 13406
+S
+#13406
+A North-South Stretch of Road~
+A long dark path leads from north to south in this dark, desolate cavern.
+You can faintly make out some moving shapes in the darkness, but they do not
+appear to be hostile.  North of you the path continues, while the cave to
+the east reveals the faint glint of armour.  To the south lies a dark corner
+of the cavern, and more moving shapes.  
+~
+0 8 0
+D0
+~
+~
+0 0 13405
+D1
+~
+~
+0 0 13418
+D2
+~
+~
+0 0 13407
+S
+#13407
+A Dark Corner~
+The ground beneath your feet crunches mysteriously as you walk about. 
+Glancing downward, you realize why; the ground is littered with bones.  You
+wonder at what could have decimated this civilization.  It certainly doesn't
+appear as though these victims had much of a chance.  
+~
+0 8 0
+D0
+~
+~
+0 0 13406
+D3
+~
+~
+0 0 13408
+S
+#13408
+The Mausoleum Stairs~
+You stand at the base of a makeshift Mausoleum, which lies to your North.
+The craftsmanship doesn't appear to fit with the rest of the city.  Its
+almost as if this was thrown together by someone or something other than the
+residents who once lived here.  To the south lies a shattered door; more of
+the cavern is to the east and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 13413
+D1
+~
+~
+0 0 13407
+D2
+~
+~
+0 0 13421
+D3
+~
+~
+0 0 13412
+S
+#13409
+The North-West Corner~
+The only sound you can hear is dripping water, coming from above you. 
+Several pools of stale water have coalesced here, concealing bones and other
+items of no interest beneath their murky depths.  As you walk about the
+street, you notice many ghostly shapes moving all around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 13403
+D2
+~
+~
+0 0 13410
+S
+#13410
+The Marketplace~
+You are in what appears to be a bustling marketplace - for ghosts. 
+Ghosts of all different races and sizes are happily doing business with one
+another.  As you draw near them, they slowly fade into the darkness, like
+some maddening dream.  
+~
+0 8 0
+D0
+~
+~
+0 0 13409
+D2
+~
+~
+0 0 13411
+D3
+~
+~
+0 0 13419
+S
+#13411
+A Crowded Marketplace~
+Several market stands lie empty and deserted, caked with dust.  You
+cannot fathom how such a bustling marketplace could have been wiped out and
+forgotten for so long.  Whatever it was that killed these people, it
+certainly didn't inspire anybody to come back and try removing it.  
+~
+0 8 0
+D0
+~
+~
+0 0 13410
+D2
+~
+~
+0 0 13412
+D3
+~
+~
+0 0 13420
+S
+#13412
+The South-West Courtyard~
+You stand in the midst of a large, creepy courtyard.  The air is eerily
+calm, and you get the feeling as though time is standing still.  You can see
+a large bustle of activity to your north, but to your east the air is
+deathly quiet.  
+~
+0 8 0
+D0
+~
+~
+0 0 13411
+D1
+~
+~
+0 0 13408
+S
+#13413
+The Makeshift Mausoleum~
+The closer you look at the walls and construction of this building, the
+more you realize this could not have been made by mortal hands.  The walls
+appear to be constructed of a material other than stone, but you cannot
+discern exactly what.  As you grow closer, you realize with horror that the
+entire building is constructed of bone.  You gather your composure as you
+hear noises coming from nearby.  
+~
+0 0 0
+D0
+~
+~
+0 0 13414
+D2
+~
+~
+0 0 13408
+D5
+~
+~
+0 0 13415
+S
+#13414
+The Main Altar~
+A large bone altar stands before you.  Oddly, there are no stains of
+blood as would be expected in this morbid room.  In fact, the altar and the
+room look as though they've never been used before.  You hear a lot of noise
+coming from underneath you.  A small ladder leads down.  
+~
+0 0 0
+D2
+~
+~
+0 0 13413
+D5
+~
+~
+1 0 13416
+S
+#13415
+Crypt Entrance~
+The ground is littered with bones.  It looks at though most of the city's
+population now resides here.  A strange glow comes from the south, while a
+small staircase leads up.  
+~
+0 0 0
+D2
+~
+~
+0 0 13422
+D4
+~
+~
+0 0 13413
+S
+#13416
+A Shadowy Lair~
+All the light in this room seems to disappear as you enter.  You can hear
+a loud scuffling sound coming from somewhere around you, but you can't quite
+locate the source.  The hairs on your neck stick up as your heart starts to
+beat faster.  You want to leave.  Now.  
+~
+0 0 0
+D4
+~
+~
+1 0 13414
+S
+#13417
+An Abandoned Smithy~
+You find yourself in an old, abandoned shop.  Behind the demolished
+counter you see an anvil and a bellows.  The walls have remnants of writing
+on them, but you cannot make them out due to the layers of dirt and dust.  
+~
+0 8 0
+D3
+~
+~
+0 0 13405
+S
+#13418
+An Abandoned Armoury~
+Before you lies a dilapidated cave, with what appears to be a shattered
+anvil behind the crumbled counter.  The walls have large dark burn marks, as
+if the room caught fire at one time, or perhaps, several times.  
+~
+0 8 0
+D3
+~
+~
+0 0 13406
+S
+#13419
+A Decrepit Tavern~
+Several tables, or rather, remnants of tables, lie strewn about this old
+alehouse.  The bar itself looks like it was a seedy, run-down hole, even in
+its best days.  It does not appear to have changed much in its old age.  
+~
+0 8 0
+D0
+~
+~
+0 0 13437
+D1
+~
+~
+0 0 13410
+D3
+~
+~
+0 0 13439
+S
+#13420
+A Magic Shop~
+You stand within a fairly well kept and, oddly enough, well lit cave. 
+Many scrolls, potions, wands, and other knick-knacks line the walls, jammed
+into every nook and cranny.  
+~
+0 8 0
+D1
+~
+~
+0 0 13411
+S
+#13421
+The Docks~
+Standing before you are several beached vessels.  The water has long
+since dried up, as the cavern appears to be blocked off by rubble.  Dried
+seaweed and bones litter the beach, and upon closer inspection you notice
+the beached vessels have been smashed.  It looks as though the only real
+exit to this cavern has been blocked up...  on purpose.  
+~
+0 0 0
+D0
+~
+~
+0 0 13408
+S
+#13422
+Entrance to the Tomb~
+You are at the entrance to a large, cavernous passage.  Unlike the rest
+of this city, there are sconces in the walls, and a dull glow comes from the
+magical torches.  It is by no means bright, but there is enough light to see
+clearly.  
+~
+0 0 0
+D0
+~
+~
+0 0 13415
+D1
+~
+~
+0 0 13423
+D2
+~
+~
+0 0 13426
+S
+#13423
+The North Wall~
+You find yourself staring at a blank wall to your north.  There seem to
+be many different shapes moving in the room to your east.  You can see
+footsteps in the dust here, which would suggest that you're not the only
+living creature down here.  
+~
+0 8 0
+D1
+~
+~
+0 0 13424
+D3
+~
+~
+0 0 13422
+S
+#13424
+A Sullen Corner~
+As you enter the room you notice a stark contrast with the rest of the
+area.  This room is very well lit, and has a bright mural on the north and
+east walls.  The mural depicts a pitch black dragon destroying what must be
+the village above.  Hopefully, the dragon should be long since dead....  
+~
+0 8 0
+D3
+~
+~
+0 0 13423
+S
+#13425
+A Red Hole~
+A dull red glow seems to come from all around you.  As you look around,
+it seems as though the lights are moving in unison.  You look closer, as you
+realize that the movement isn't light at all.  Several ashes, glowing from
+some unknown heat source are swirling about, causing the mesmerizing effect.
+~
+0 524296 0
+D1
+~
+~
+1 0 13426
+M 105 H 105
+S
+#13426
+The Entrance Hallway~
+The ground here has a mysterious burn mark which trails off the to east. 
+To the west, the burn mark fades straight into the wall, it would seem.  A
+bright light looms to the east, while darkness looms to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 13422
+D1
+~
+~
+0 0 13427
+D2
+~
+~
+0 0 13432
+D3
+~
+~
+1 0 13425
+S
+#13427
+A Long Corridor~
+You find yourself in a long, stagnant corridor.  You find it difficult to
+draw breath in the narrow confines of the passage.  The hallway grows colder
+yet brighter to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 13428
+D3
+~
+~
+0 0 13426
+S
+#13428
+The Tomb~
+There is a very large door embedded in the east wall.  Oddly enough,
+there are many lit sconces in the walls, which appear to be well kept.  Even
+more astonishing are the engravings in the door.  Looking closely, you can
+see a large dragon symbol etched in the door.  Could this be the resting
+place of a dragon?  
+~
+0 8 0
+D1
+~
+~
+1 0 13440
+D3
+~
+~
+0 0 13427
+S
+#13429
+A Concealed Passageway~
+It looks as though at one time this passageway was meant to be a secret
+passage.  It does not look like it was ever finished, however.  The dust
+covering the floor has been disturbed by dozens of tiny footprints, suggest
+that you may not be alone down here.  
+~
+0 0 0
+D1
+~
+~
+0 0 13430
+D4
+~
+~
+1 0 13440
+S
+#13430
+A Narrow Passage~
+This seems to be an unfinished area of the tomb.  The walls are still
+very rough, and the support beams don't look very sturdy.  There is a large
+amount of dust here, littered with tiny footprints.  
+~
+0 0 0
+D1
+~
+~
+0 0 13431
+D3
+~
+~
+0 0 13429
+S
+#13431
+A Dank Hole~
+The passage comes to an abrupt end here.  Looking closely you can see a
+small hole in the ground, in the southern corner.  There seems to be quite a
+bit of movement down there.  
+~
+0 0 0
+D3
+~
+~
+0 0 13430
+D5
+~
+~
+0 0 13435
+S
+#13432
+The South-Western Corner~
+Darkness seems to suck all the light out of this area.  The darkness
+grows more intense to the east, while to the north the darkness abates
+slightly.  
+~
+0 0 0
+D0
+~
+~
+0 0 13426
+D1
+~
+~
+0 0 13433
+S
+#13433
+The Southern Wall~
+A strange contrast of sensations overcomes you as you arrive in the
+passageway.  The south wall is extremely cold, so cold that frost nearly
+covers it completely.  A rancid smell comes from the east, almost bringing
+tears to your eyes.  
+~
+0 0 0
+D1
+~
+~
+0 0 13434
+D2
+~
+~
+1 0 13436
+D3
+~
+~
+0 0 13432
+S
+#13434
+Hidden Treasure?~
+The walls are piled high with garbage in this damp chamber.  You choke
+back the urge to vomit as the stench almost overcomes you.  Its so bad that
+it seems like you're looking through green-tinted glasses.  You hear
+movement coming from somewhere nearby.  
+~
+0 0 0
+D3
+~
+~
+0 0 13433
+M 90 H 90
+S
+#13435
+The Source~
+You've arrived in a deep, dank pit.  Something smells absolutely
+wretched, causing you to gag involuntarily.  Whatever it is, it must be long
+dead; nothing alive could smell so horrid.  
+~
+0 0 0
+D4
+~
+~
+0 0 13431
+S
+#13436
+A Deep Chill~
+Wow!  It's really cold in here!  Your breath practically freezes in front
+of your face.  Icicles hang low from the ceiling like stalactites, obscuring
+your view.  The only exit is the large door to your north.  
+~
+0 0 0
+D0
+~
+~
+1 0 13433
+S
+#13437
+The Copper Rail~
+You seem to be in the remains of an ancient topless bar.  Thats evident
+due to the many posters which line the walls of this decrepit establishment.
+The undeniable sound of music seems to be coming from your west.  
+~
+0 8 0
+D2
+~
+~
+0 0 13419
+D3
+~
+~
+0 0 13438
+S
+#13438
+The Brass Rail~
+Could a little bit of heaven somehow have made its way down here?  It
+looks like you're in the remains of an extremely expensive adult club. 
+Several poles extend from the floor to the ceiling, and tiny tables litter
+the room, surrounded by broken chairs and glasses.  
+~
+0 8 0
+D1
+~
+~
+0 0 13437
+D2
+~
+~
+0 0 13439
+M 110 H 110
+S
+#13439
+Sitting at the Bar~
+You're in the remains of a decreipt old tavern.  A bar lies across the
+west wall, with plenty of seating available.  You can see an old stage where
+bards and minstrels may have entertained the patrons.  The sconces on the
+wall all appear empty and burnt out, yet there is still the faint aroma of
+smoke in the air.  
+~
+0 8 0
+D0
+~
+~
+0 0 13438
+D1
+~
+~
+0 0 13419
+S
+#13440
+Darkness~
+Darkness shrouds the entire room, thick as fog.  You sense something
+nearby, but cannot see anything.  You can hear breathing nearby, accompanied
+by a sharp, musty smell.  
+~
+0 9 0
+D3
+~
+~
+1 0 13428
+D5
+~
+~
+1 0 13429
+S
+#13441
+A Rocky Outcropping~
+Large clusters of rocks appear to have sprung from the ground like weeds,
+obscuring much of the ground from view.  One large stone catches your
+attention for some reason.  It has a large, oval shape, that almost looks to
+be made by hand.  Upon closer inspection, you notice that it is the remains
+of a large door!!  Looking about, you see a small hole in the ground,
+covered by large rocks...  If you try really hard, you may be able to
+squeeze through the opening.  
+~
+0 0 5
+D0
+~
+~
+0 0 13442
+D5
+~
+~
+0 0 13401
+S
+#13442
+A Faint Path~
+A faint north-south path leads you along the stiff cliff face to the
+east.  A painful fall lies to your west.  As a persistent wind threatens to
+blow you off the path, you hunch down to retain your footing.  
+~
+0 0 5
+D0
+~
+~
+0 0 13443
+D2
+~
+~
+0 0 13441
+S
+#13443
+A Narrow Trail~
+The path changes directions here, as it leads down towards the west and
+up towards the south.  The mountains shoot up higher than ever here,
+accompanied by a strong wind that threatens to send you plummeting to the
+sharp rocks below.  
+~
+0 0 5
+D2
+~
+~
+0 0 13442
+D3
+~
+~
+0 0 13444
+S
+#13444
+The Sealed Doors~
+A large pile of rubble obstructs what looks to be a large door.  It seems
+impossible to dig through all these boulders and stones.  Perhaps there is
+another way in?  A small cave entrance lies to your west, while a small path
+through the rocks winds its way east towards the cliff face.  A large stone
+road leads north.  
+~
+0 0 5
+D0
+~
+~
+0 0 13445
+D1
+~
+~
+0 0 13443
+D3
+~
+~
+0 0 13453
+S
+#13445
+The Shandalar River Crossing~
+This sturdy stone bridge cascades over the fast moving shandalar river,
+which dumps out towards the west into the sea.  The roaring water to the
+west makes travel in that direction impossible.  A large number of bones
+litter the bridge's south end, suggesting that this portion of the road
+isn't entirely deserted.  
+~
+0 0 5
+D0
+~
+~
+0 0 13446
+D2
+~
+~
+0 0 13444
+S
+#13446
+Top of the Stairs~
+A large, sprawling staircase winds its way along the clif face to your
+south and another to your west.  The cliff walls rise sharply to your east,
+preventing any hope of passage that way.  To the south, a large structure
+looms.  
+~
+0 0 5
+D0
+~
+~
+0 0 13447
+D2
+~
+~
+0 0 13445
+D3
+~
+~
+0 0 13452
+S
+#13447
+A Long Staircase~
+The stairs come to a large landing here.  The cliff walls continue
+alongside the stairs to you east.  To the north and west, the stairs proceed
+down.  South, the stairs lead up.  
+~
+0 0 5
+D0
+~
+~
+0 0 13448
+D2
+~
+~
+0 0 13446
+D3
+~
+~
+0 0 13451
+S
+#13448
+The Foot of the Stairs~
+You are in a large, empty clearing.  Large sconces line the cliff walls,
+but appear to have been unused for decades.  A large staircase leads upwards
+to the south of you.  To your east, the path winds its way through the
+mountains.  
+~
+0 0 5
+D1
+~
+~
+0 0 13449
+D2
+~
+~
+0 0 13447
+S
+#13449
+The Path Twists~
+The large roads twists and turns its way through these mountains which
+lie to either side of you.  To the north the large open artificial valley
+lies, looking somewhat like a courtyard from here.  To the west, the large
+road continues its winding way.  
+~
+0 0 5
+D0
+~
+~
+0 0 13450
+D3
+~
+~
+0 0 13448
+S
+#13450
+The Path Narrows~
+A large ancient road bends sharply here to the north and the west.  Large
+sconces line the walls of the cliffs to your west, north-east, and south,
+suggesting that this was once a very well kept, very commonly used road.  
+~
+0 0 5
+D0
+~
+~
+0 0 13456
+D1
+~
+~
+0 0 13454
+D2
+~
+~
+0 0 13449
+S
+#13451
+A Small Cove~
+The cliff walls to your north end abrupty here.  Large, dangerous waves
+crash up against the shores of this very small beach, making a light swim
+impossible.  Large piece of driftwood and other garbage has washed up here,
+littering the beach and making it somewhat difficult to find steady footing.
+East lies the base of a large staircase, while to the south lies another
+large staircase, which proceeds up the cliff face.  
+~
+0 0 5
+D1
+~
+~
+0 0 13447
+D2
+~
+~
+0 0 13452
+S
+#13452
+A Bend in the Stairs~
+The stairs come to an abrupt turn here, to the north they lead down
+towards a small beach, and to the east they lead up towards thetop of the
+staircase.  A strong waterfall cascades to your south, as the shandalar
+river spills out into the sea.  To the west, large waves crash against the
+slippery stairs, making you more than a little nervous.  
+~
+0 0 5
+D0
+~
+~
+0 0 13451
+D1
+~
+~
+0 0 13446
+S
+#13453
+Quicksand!!!~
+Uh oh.  There doesn't appear to be any way out of this cave, as you are
+sucked into the depths of the quicksand.  The walls seem to close in on you,
+mocking your struggles to escape.  
+~
+0 524 0
+S
+#13454
+An Old Camp~
+The obvious remains of an old camp lie here.  A fire pit, long unused,
+still stands in the centre of the clearing.  Large stones remain near the
+pit, which you assume were at one point used as benches.  Now, however, they
+are eroded to the point that sitting on them would be very uncomfortable. 
+The cliff wall extends to your east and south, while a faint path runs to
+your north and to your west.  
+~
+0 0 5
+D0
+~
+~
+0 0 13455
+D3
+~
+~
+0 0 13450
+S
+#13455
+A Pile of Rubble~
+Rubble lies all around you, as something has destroyed portions of the
+large cliff face that still lies to your east.  The northern gate has also
+been crushed by the same forces, as the way north lies clear.  A large beach
+lies in that direction, while to the south this strange unnatural valley
+continues.  
+~
+0 0 5
+D0
+~
+~
+0 0 1908
+D2
+~
+~
+0 0 13454
+D3
+~
+~
+0 0 13456
+S
+#13456
+A Pile of Rubble~
+The remains of a large stone wall lies here, shattered by forces unknown. 
+Amidst the rubble you make out the faint remains of a path or road.  The
+faint path leads to the south, while a large beach sprawls to your north. 
+To the east lies more rubble, and to the west, a large, ancient cliff face. 
+~
+0 0 5
+D0
+~
+~
+0 0 1907
+D1
+~
+~
+0 0 13455
+D2
+~
+~
+0 0 13450
+S
+#13471
+WAIT HERE!!!!!!~
+Did I say go yet?  NO!  So wait here!  There's a fountain and a healer,
+use them!  
+~
+0 806364420 0
+D0
+~
+~
+0 0 13499
+S
+#13472
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D1
+~
+~
+0 0 13473
+D2
+~
+~
+0 0 13475
+D4
+~
+~
+0 0 13481
+S
+#13473
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D1
+~
+~
+0 0 13474
+D2
+~
+~
+0 0 13476
+D3
+~
+~
+0 0 13472
+D4
+~
+~
+0 0 13482
+S
+#13474
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D2
+~
+~
+0 0 13477
+D3
+~
+~
+0 0 13473
+D4
+~
+~
+0 0 13483
+S
+#13475
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13472
+D1
+~
+~
+0 0 13476
+D2
+~
+~
+0 0 13478
+D4
+~
+~
+0 0 13484
+S
+#13476
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13473
+D1
+~
+~
+0 0 13477
+D2
+~
+~
+0 0 13479
+D3
+~
+~
+0 0 13475
+D4
+~
+~
+0 0 13499
+S
+#13477
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13474
+D2
+~
+~
+0 0 13480
+D3
+~
+~
+0 0 13476
+D4
+~
+~
+0 0 13486
+S
+#13478
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13475
+D1
+~
+~
+0 0 13479
+D4
+~
+~
+0 0 13487
+S
+#13479
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13476
+D1
+~
+~
+0 0 13480
+D3
+~
+~
+0 0 13478
+D4
+~
+~
+0 0 13488
+S
+#13480
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13477
+D3
+~
+~
+0 0 13479
+D4
+~
+~
+0 0 13489
+S
+#13481
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D1
+~
+~
+0 0 13482
+D2
+~
+~
+0 0 13484
+D4
+~
+~
+0 0 13490
+D5
+~
+~
+0 0 13472
+S
+#13482
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D1
+~
+~
+0 0 13483
+D2
+~
+~
+0 0 13499
+D3
+~
+~
+0 0 13481
+D4
+~
+~
+0 0 13491
+D5
+~
+~
+0 0 13473
+S
+#13483
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D2
+~
+~
+0 0 13486
+D3
+~
+~
+0 0 13482
+D4
+~
+~
+0 0 13492
+D5
+~
+~
+0 0 13474
+S
+#13484
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13481
+D1
+~
+~
+0 0 13499
+D2
+~
+~
+0 0 13487
+D4
+~
+~
+0 0 13493
+D5
+~
+~
+0 0 13475
+S
+#13485
+Dueller's Haven~
+This is it.  You asked for it, you got it!  Feel free to bash eachother's
+brains in, thats why you're here.  
+~
+0 268443676 0
+S
+#13486
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13483
+D2
+~
+~
+0 0 13489
+D3
+~
+~
+0 0 13499
+D4
+~
+~
+0 0 13495
+D5
+~
+~
+0 0 13477
+S
+#13487
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13484
+D1
+~
+~
+0 0 13488
+D4
+~
+~
+0 0 13496
+D5
+~
+~
+0 0 13478
+S
+#13488
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13499
+D1
+~
+~
+0 0 13489
+D3
+~
+~
+0 0 13487
+D4
+~
+~
+0 0 13497
+D5
+~
+~
+0 0 13479
+S
+#13489
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13486
+D3
+~
+~
+0 0 13488
+D4
+~
+~
+0 0 13498
+D5
+~
+~
+0 0 13480
+S
+#13490
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D1
+~
+~
+0 0 13491
+D2
+~
+~
+0 0 13493
+D5
+~
+~
+0 0 13481
+S
+#13491
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D1
+~
+~
+0 0 13492
+D2
+~
+~
+0 0 13494
+D3
+~
+~
+0 0 13490
+D5
+~
+~
+0 0 13482
+S
+#13492
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D2
+~
+~
+0 0 13495
+D3
+~
+~
+0 0 13491
+D5
+~
+~
+0 0 13483
+S
+#13493
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13490
+D1
+~
+~
+0 0 13494
+D2
+~
+~
+0 0 13496
+D5
+~
+~
+0 0 13484
+S
+#13494
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13491
+D1
+~
+~
+0 0 13495
+D2
+~
+~
+0 0 13497
+D3
+~
+~
+0 0 13493
+D5
+~
+~
+0 0 13499
+S
+#13495
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13492
+D2
+~
+~
+0 0 13498
+D3
+~
+~
+0 0 13494
+D5
+~
+~
+0 0 13486
+S
+#13496
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13493
+D1
+~
+~
+0 0 13497
+D5
+~
+~
+0 0 13487
+S
+#13497
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13494
+D1
+~
+~
+0 0 13498
+D3
+~
+~
+0 0 13496
+D5
+~
+~
+0 0 13488
+S
+#13498
+The Cube~
+You'd best keep moving... unless you'd like to become...
+Just....
+Another..
+Victim.
+~
+0 268443672 0
+D0
+~
+~
+0 0 13495
+D3
+~
+~
+0 0 13497
+D5
+~
+~
+0 0 13489
+S
+#13499
+The Rich Chocolaty Center~
+Well here you are!  The center of this crazy tournament!  
+~
+0 268443672 0
+D0
+~
+~
+0 0 13482
+D1
+~
+~
+0 0 13486
+D2
+~
+~
+0 0 13488
+D3
+~
+~
+0 0 13484
+D4
+~
+~
+0 0 13494
+D5
+~
+~
+0 0 13476
+S
+#0
+
+
+
+#SPECIALS
+M 13400 spec_thief Load to: a sly, undead drow rogue
+M 13413 spec_breath_fire Load to: an undead red dragon
+M 13416 spec_thief Load to: a hobo
+M 13419 spec_breath_acid Load to: a rotting dragon ghost
+M 13426 spec_breath_frost Load to: an undead ice dragon
+M 13428 spec_breath_any Load to: a shadow dragon
+M 13430 spec_tree Load to: an angry giant
+M 13498 spec_breath_any Load to: a steadfast defender
+S
+
+
+
+#MOBPROGS
+#13402
+say Their doom was swift and merciless.
+say Several children had brought their pets along for the trip
+say They thought nothing of the tiny lizards... until they grew.
+say First, the dragons collapsed both entrances to the city.
+say Then, they decimated the population, killing everything in sight.
+say Fortunately for you, the dragons died of starvation ...
+~
+A
+#13401
+say Ah yes, that is a very sad story indeed.
+say They came here long ago, with the plan to trade between continents.
+say They built this town, within these caverns, and prospered.
+say But then they started to die, one by one...
+say That, however, is another story.
+~
+A
+#13400
+say Ah, you'd like a story then?
+say Very well. I shall tell such a story the likes of which you've never heard!
+say Would you like to hear of the {rsettlers{y or their {rdemise{g?
+~
+A
+#0
+
+#RESETS
+D 0 13401 5 1
+D 0 13402 4 1
+D 0 13425 1 1
+D 0 13426 3 1
+D 0 13428 1 1
+D 0 13429 4 1
+D 0 13433 2 1
+D 0 13436 0 1
+D 0 13440 3 1
+D 0 13440 5 1
+M 1 13403 1 13403 1
+M 1 13401 1 13404 1
+E 0 13402 0 16
+E 0 13414 0 18
+M 1 13416 2 13406 2
+M 1 13416 2 13407 2
+M 1 13400 1 13409 1
+E 0 13401 0 16
+M 1 13402 12 13410 5
+M 1 13402 12 13410 5
+M 1 13402 12 13410 5
+M 1 13402 12 13411 5
+M 1 13402 12 13411 5
+M 1 13402 12 13411 5
+M 1 13428 1 13416 1
+E 0 13429 0 17
+M 1 13417 1 13417 1
+G 0 13422 0
+G 0 13420 0
+M 1 13418 1 13418 1
+G 0 13423 0
+G 0 13421 0
+M 1 13404 2 13419 6
+M 1 13404 2 13419 6
+M 1 13402 12 13419 5
+M 1 13402 12 13419 5
+M 1 13402 12 13419 5
+M 1 13402 12 13420 5
+M 1 13402 12 13420 5
+M 1 13420 1 13420 1
+G 0 13424 0
+G 0 13425 0
+M 1 13424 1 13421 1
+E 0 13417 0 16
+G 0 13419 0
+G 0 13419 0
+M 1 13427 4 13424 4
+E 0 13428 0 15
+M 1 13427 4 13424 4
+E 0 13428 0 15
+M 1 13427 4 13424 4
+E 0 13428 0 15
+M 1 13427 4 13424 4
+E 0 13428 0 15
+M 1 13413 1 13425 1
+E 0 13410 0 0
+E 0 13411 0 15
+M 1 13423 1 13426 1
+E 0 13426 0 16
+M 1 13422 1 13426 1
+E 0 13418 0 16
+M 1 13421 1 13426 1
+E 0 13415 0 16
+M 1 13415 5 13430 5
+M 1 13415 5 13430 5
+M 1 13415 5 13430 5
+G 0 13413 0
+M 1 13415 5 13430 5
+M 1 13415 5 13430 5
+M 1 13425 1 13434 1
+G 0 13427 0
+M 1 13414 5 13435 5
+M 1 13414 5 13435 5
+M 1 13414 5 13435 5
+M 1 13414 5 13435 5
+G 0 13412 0
+M 1 13414 5 13435 5
+M 1 13419 1 13435 1
+G 0 13411 0
+M 1 13426 1 13436 1
+G 0 13411 0
+M 1 13410 1 13437 1
+E 0 13407 0 7
+M 1 13411 1 13437 1
+E 0 13406 0 16
+M 1 13412 1 13437 1
+E 0 13408 0 6
+E 0 13409 0 18
+M 1 13406 1 13438 1
+M 1 13407 1 13438 1
+M 1 13408 1 13438 1
+M 1 13409 1 13438 1
+M 1 13405 1 13439 1
+G 0 13404 0
+G 0 13403 0
+M 1 13430 1 13444 1
+M 1 13429 1 13451 1
+O 0 13499 0 13471
+M 1 13499 1 13471 1
+S
+
+
+
+#SHOPS
+13403 0 0 0 0 0 0 100 0 23
+13405 17 0 0 0 0 100 100 0 23
+13417 5 0 0 0 0 110 60 0 23
+13418 0 9 0 0 0 110 60 0 23
+13420 10 2 0 0 0 110 30 0 23
+0
+
+
+
+#$

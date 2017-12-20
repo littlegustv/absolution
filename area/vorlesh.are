@@ -1,0 +1,185 @@
+#AREADATA
+Name Church of Vor'Lesh~
+Builders Lizzy~
+VNUMs 12500 12649
+Credits { None} Lizzy       Church of Vor'Lesh~
+Security 1
+Xcontinent 1
+Age 11
+End
+
+
+
+#MOBILES
+#12501
+brother~
+A Brother of the Church~
+A Brother of the Church of Vor'Lesh stands here.
+~
+You see a brother of the church helping where ever he can.  Be kind to him, for he is a member of the church's order.
+~
+human~
+A NV 1000 0
+47 20 90d90+90 0d0+0 5d10+30 punch
+-12 -12 -12 3
+EFJK 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium 0
+#12524
+acolyte man ac acol~
+An Acolyte~
+An Acolyte stands here ushering the public to their seats.
+~
+An Acolyte is the assitant to the High Priests.  He helps with the tasks of the Sunday services and does the scroll writing when required for the sermines.  Right now he is doing his assign tasks.
+~
+human~
+ABGHR 0 1000 0
+40 20 10d169+920 40d10+100 5d8+18 beating
+-11 -11 -11 1
+EFK 0 0 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium 0
+#12529
+dragon red~
+A {rRed{X Dragon~
+A {rRed{X Dragon stands at the top of the bell tower munching on a Choir Boy
+~
+This Dragon is old.  Possibly over 100 years old.  He looks quite mad, and you can tell by the flames just protuding from his mouth.  He sees you and his eyes darken.  Run for it before it's to late! He's the one who has been descrating the church!
+~
+red dragon~
+ABFG HJTV -1000 0
+60 30 200d200+200 0d0+0 10d15+35 none
+-20 -20 -19 -1
+DEFKM 0 BEH I
+stand stand male 150000
+BHMZ ABCDEFGHIJKLPQUVWX huge 0
+#12532
+priest~
+A Priest~
+A Priest stands here praying to Selina.
+~
+The Priests are the assistants to the High Priest, but they serve Selina.  Their days include script writing, praying and pilgrimages to other villages.
+~
+human~
+ABQ HV 1000 0
+48 10 90d90+90 0d0+0 5d10+25 stab
+-22 -22 -22 -1
+FK Q B G
+stand stand none 4000
+AHMV ABCDEFGHIJK medium 0
+#12536
+choir boy ch cho~
+A Choir Boy~
+A Choir Boy stands here singing.
+~
+A Choir Boy stands here practicing sunday's songs that will be sung to the people of Dominia.  He is small and wears white robes.  His voice makes you mellow.
+~
+human~
+ABH V 500 0
+45 6 80d80+80 0d0+0 5d10+22 thwack
+-10 -10 -10 3
+CEFJK 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK small 0
+#12538
+page man~
+A Page~
+A Page stands here running errands for the church.
+~
+~
+human~
+ABH V 800 0
+39 20 10d160+920 0d0+0 5d8+18 pound
+-11 -11 -11 0
+EFK 0 0 0
+stand stand male 35000
+AHMV ABCDEFGHIJK small 0
+#12548
+sinner~
+A Sinner~
+A {rSinner{X stands here {Wpouring{X out his {DSoul{X.
+~
+A sinner stands here pouring out his soul to the gods.  Please do not interupt them while in confession.
+~
+dwarf~
+AB JV -1000 0
+45 30 100d100+100 0d0+0 5d8+20 chop
+-14 -14 -14 0
+CDEFJKN 0 LQ R
+stand stand male 8000
+AHMV ABCDEFGHIJK medium 0
+#12554
+High Priest~
+The High Priest~
+The {WHigh{X {CPriest{X of the Church of Vor'Lesh stands here preparing for a sermin.
+~
+~
+elf~
+ABR HJNV 1000 0
+60 30 200d200+100 60d10+100 5d10+30 crush
+-22 -22 -22 2
+AFHK 0 BP LQZ
+stand stand male 5000
+AHMVX ABCDEFGHIJKPQUV medium 0
+#12573
+A Ghost of a Builder~
+A Ghost of a Builder~
+A Ghost of a Builder floats here haunting the tunnels.
+~
+You look at it and can see the wall on the other side.
+~
+sliver~
+AB TV -1000 0
+45 25 100d100+100 0d0+0 5d12+27 blast
+-17 -17 -17 3
+FK 0 B K
+stand stand none 4500
+BHMZ ABCDEFGHIJKLPQUVWX medium 0
+#12582
+rat dark furry~
+A Dark furry Rat~
+A Dark furry Rat skuttles about the floor.
+~
+A Dark Furry little rat runs around your feet. Squish it!
+~
+rabbit~
+AB 0 -1000 0
+35 4 100d100+100 0d0+0 5d7+16 bite
+-4 -4 -4 6
+FH 0 0 0
+stand stand none 4000
+AGV ACDEFHJK medium 0
+#12606
+monk ghost~
+A Ghost of a Monk~
+A Ghost of a Monk stands here haunting his stone casket.
+~
+~
+troll~
+AB JV -500 0
+45 24 10d200+1000 0d0+0 5d10+25 pound
+0 0 0 0
+FK 0 Q H
+stand stand male 4000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0
+#12627
+monk head~
+Ghost of a Head Monk~
+The Ghost of the Head Monk floats here haunting the tunnels.
+~
+~
+gargoyle~
+ABT V 1000 0
+60 18 175d175+150 0d0+0 5d10+25 grep
+-21 -21 -21 0
+CEFJK 0 P GLQ
+stand stand none 6000
+AHMX ABCDEFGHIJKPQUV medium 0
+#12630
+snake sea~
+A Sea Snake~
+A Sea Snake floats in the river.
+~
+~
+snake~
+AB V -10

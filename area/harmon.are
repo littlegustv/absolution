@@ -1,0 +1,2756 @@
+#AREADATA
+Name Castle Harmondale~
+Builders Dagothur~
+VNUMs 17500 17599
+Credits { None} DragothUr   Castle Harmondale~
+Security 1
+Xcontinent 1
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#17500
+The Dude~
+The Dude~
+The Dude
+~
+What can be said about The Dude.  He's a 6 foot tall human male with
+blond hair and grey eyes.  Those eyes seem to pierce your soul.  He wears
+fancy coloured clothing and he looks like he's in good shape too.  You have
+no idea what he is doing here in this room.  
+~
+human~
+ABGJKYabcde BDFJPQZ 0 0
+60 10 1d1+10000 1d1+10000 10d10+60 strangle
+-40 -40 -40 -40
+0 ABCDPa 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17501
+Great White Shark~
+Great White Shark~
+A Great White Shark is here, swimming towards you.
+~
+You see a very large shark with his mouth open heading in your direction.
+You gaze admiringly at those long sharp teeth.  Unfortuanately the shark
+looks hungry and you might make a good snack.  It is a true Great White
+Shark.  
+~
+human~
+ABFT FJQZ -100 0
+48 0 25d10+3750 1d1+100 6d6+18 bite
+-18 -18 -18 -18
+CDFHM AB HILR J
+stand stand none 0
+AGHMVXYbc ABCDEFGHIJKLOQVX large 0 the guilds~
+#17502
+Castle Harmondale Knight~
+Castle Harmondale Knight~
+A Castle Harmondale Knight stands here, guarding the castle.
+~
+You see a tall knight fully armoured.  The knight is wielding a heavy
+polearm in one hand.  The knight glares at you but does nothing.  You
+present no threat to the castle.  This knight means business.  
+~
+human~
+AT DFJNZ 800 0
+52 0 50d10+5500 1d1+100 6d7+20 chop
+-22 -22 -22 -22
+CDEFHIKN AB 0 0
+stand stand either 6000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17503
+Elven Ranger~
+Elven Ranger~
+An Elven Ranger is blending into the shadows.
+~
+You barely make out the form of this elven ranger.  The elven ranger
+isn't really trying to be hard to see, it is just natural for them.  They
+barely offer you a passing notice.  You do not feel that challenging the
+ranger would be an easy fight.  
+~
+elf~
+AHT DFJNPQZ 750 0
+52 0 50d10+5500 1d1+100 6d7+20 punch
+-22 -22 -22 -22
+EFHIJKN AB B Z
+stand stand either 6000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#17504
+Black Stallion~
+Black Stallion~
+A Black Stallion is here, eating hay in its stall.
+~
+You see a large black stallion here.  This is a beautiful horse.  Not
+many horses in this world are as fine as this one.  The horse is busy
+munching on some hay, oblivious to you.  
+~
+dog~
+AB FJ 250 0
+48 0 25d10+3750 1d1+100 6d6+18 charge
+-18 -18 -18 -18
+CFHIN A 0 0
+stand stand male 0
+AGV ACDEFHJKQUV large 0 the guilds~
+#17505
+Pegasus~
+Pegasus~
+A magnificent Pegasus is here.
+~
+You see a beautiful white pegasus.  The pegasus is the epitome of beauty
+in the animal world.  The pegasus has a saddle on it for someone to ride. 
+You wonder why the pegasus would let anyone ride it.  
+~
+song bird~
+AB DFHJLNTZ 1000 0
+51 0 50d10+5000 1d1+100 5d8+20 smash
+-21 -21 -21 -21
+CEFHIJN A BCGQ 0
+stand stand either 0
+ACGHVW ACDEFHKP large 0 the guilds~
+#17506
+Dwarven Berserker~
+Dwarven Berserker~
+A Dwarven Berserker is pacing back and forth.
+~
+You see a dwarven berserker equipped in full armour but with some strange
+pieces added onto it.  There are spikes sticking out of his armour all over
+and you soon realize that this is to further hurt people that get close
+enough to the berserker.  You do not feel like testing those spikes.  
+~
+dwarf~
+ABT DFJNZ 750 0
+52 0 50d10+5500 1d1+100 6d7+20 beating
+-22 -22 -22 -22
+ACDFHIK AB CLQ R
+stand stand male 6000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17507
+Elven Archer~
+Elven Archer~
+An Elven Archer is here, patrolling the battlements.
+~
+You are looking at a well trained elven archer.  You have heard that they
+are amongst the finest archers in the land.  They look completely at ease
+with their bow strung across their shoulder.  They are watching for an
+attack on the castle.  
+~
+elf~
+ABH JPZ 900 0
+51 0 50d10+5000 1d1+100 5d8+20 punch
+-21 -21 -21 -21
+EFHJN A B Z
+stand stand either 4000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#17508
+Gold Golem~
+Gold Golem~
+A Gold Golem stands motionless here.
+~
+You see a large golem made completely out of gold.  It is standing here
+motionless.  This golem must be worth a lot if you could extract all the
+gold from it.  You suspect that it isn't activated right now and would pose
+a significant threat if it was.  
+~
+human~
+ABT CDFJVZb 0 0
+53 0 50d10+6000 1d1+100 6d7+21 slaughter
+-23 -23 -23 -23
+ACIKO ABLMNPQTab CFG 0
+stand stand none 0
+ACDHJMV ABCDEFGHIJK large gold the guilds~
+#17509
+Large Griffin~
+Large Griffin~
+A Large Griffin is here, motionless.
+~
+You are looking at a large griffin.  It has large white wings, a dark
+brown coloured body, four feet with large claws at the end of them and a
+head that looks like a larger version of an eagles.  It is standing
+motionless right now.  
+~
+human~
+AB DFJTZa 750 0
+52 0 50d10+5500 1d1+100 6d7+20 claw
+-22 -22 -22 -22
+CFHKMN A BGHJ 0
+stand stand either 0
+AGHMV ABCDEFGHIJKPQUV large 0 the guilds~
+#17510
+Dwarven Crossbowman~
+Dwarven Crossbowman~
+A Dwarven Crossbowman is patrolling the battlements.
+~
+You see a stout dwarf here carrying a large crossbow.  It doesen't look
+loaded but you suspect that could be remedied quite quickly.  The dwarf pays
+little attention to you as you aren't causing any trouble.  Or are you.  The
+dwarf is only lightly armoured.  
+~
+dwarf~
+AB JZ 850 0
+51 0 50d10+5000 1d1+100 5d8+20 clobber
+-21 -21 -21 -21
+CDEHK A CLQ R
+stand stand either 4000
+ABHMV ABCDEFGHIJK medium 0 the guilds~
+#17511
+Genie~
+Genie~
+A blue Genie is here, flying about.
+~
+You see a light blue Genie here flying around.  He has no legs like most
+genies.  There is just wispy blue smoke where his legs should be.  He looks
+quite muscular and is wearing a fancy tunic.  
+~
+human~
+ABR DFJLNT 750 0
+52 0 50d10+5500 1d1+100 6d7+20 blast
+-22 -22 -22 -22
+EFHN AB EHJ 0
+stand stand male 10000
+ABCHMV ABCDEFGHIJK medium 0 the guilds~
+#17512
+Archmage~
+Archmage~
+A human Archmage is here, sitting behind his desk.
+~
+You see a tall human mage here.  He is wearing long, flowing, red robes. 
+He has a pair of ebony arm guards on his arms on top of his robes.  They
+look very impressive.  He looks like he's in charge of the outer castle wall
+defense.  
+~
+human~
+ABR CDEFHJNOVZ 1000 0
+53 0 50d10+6000 1d1+100 6d7+21 magic
+-23 -23 -23 -23
+FK AB C 0
+stand stand male 7500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17513
+Elder Alchemist~
+Elder Alchemist~
+The Elder Alchemist is here, mixing another potion.
+~
+You see a very old alchemist mixing potions in various bubbling
+cauldrons.  He doesen't pay much attention to you.  He's wearing a black
+cloak that covers his entire body except his face which is lined with
+wrinkles.  
+~
+human~
+ABCR CDFJTV 800 0
+51 0 50d10+5000 1d1+100 5d8+20 squeeze
+-21 -21 -21 -21
+F A 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17514
+Master Bowyer Fletcher~
+The Master Bowyer and Fletcher~
+The Master Bowyer and Fletcher is here, stringing a bow.
+~
+You see an older man of medium height and build.  His hair is just
+starting to turn gray.  He looks fairly harmless but he does seem quite sure
+of himself.  Judging by the work in this room, he's also very good at what
+he does.  
+~
+human~
+ABT J 750 0
+51 0 50d10+5000 1d1+100 5d8+20 slaughter
+-21 -21 -21 -21
+CDEFHIN A 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17515
+Shadow Monk~
+Shadow Monk~
+A Shadow Monk is hiding here.
+~
+You see a shadowy figure clothed in a long dark robe.  You cannot even
+determine whether the monk is female or male let alone any other details
+about them.  They do not seem pleased to see you.  
+~
+human~
+ABF DFJLPQZ 500 0
+52 0 50d10+5500 1d1+100 6d7+20 smash
+-22 -22 -22 -22
+ACFHIJKN A BLPQ 0
+stand stand either 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17516
+Master Blacksmith~
+Master Blacksmith~
+The Master Blacksmith is here, making a sword.
+~
+You are looking at an average height dwarven man of middle age.  He is
+very strong from having worked at the forge for a long time.  He's wearing
+normal blacksmith gear like an apron to protect himself from heat from the
+forge.  
+~
+human~
+ABT JLa 800 0
+51 0 50d10+5000 1d1+100 5d8+20 sting
+-21 -21 -21 -21
+CDEHIK A CLQ R
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17517
+Elven Mystic~
+Elven Mystic~
+An Elven Mystic is here meditating.
+~
+You see a tall elf in a blue shroud sitting cross legged.  However, the
+elf isn't on the ground but levitating several feet above it.  You feel that
+this elf already knows why you are here and much more about you than you
+care to think about.  
+~
+elf~
+ABR BCDEFJNPTVZ 800 0
+51 0 50d10+5000 1d1+100 5d8+20 magic
+-21 -21 -21 -21
+F A BC Z
+stand stand either 6000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17518
+Diamond Golem~
+Diamond Golem~
+A Diamond Golem is here.
+~
+If you imagined a 10 foot tall diamond in the shape of a human, this is
+what you'd picture.  The diamond golem appears to be very close to
+indestructible and you wonder how you could even damage it.  
+~
+human~
+ABT DFJLVZb 0 0
+54 0 50d10+6500 1d1+100 7d6+22 splatter
+-24 -24 -24 -24
+ACEIKO ABCFGLMNPQTab E 0
+stand stand none 0
+ACHJMV ABCDEFGHIJK large 0 the guilds~
+#17519
+Phoenix~
+Phoenix~
+A phoenix stands here.
+~
+You see a large red bird standing here.  It has long beautiful wings and
+reminds you of a large peackock only much bigger and all red.  The mystical
+phoenix is said to have extraordinary powers of rebirth and you don't want
+to find out.  
+~
+human~
+ABQ CDFHJNTZ 1000 0
+53 0 50d10+6000 1d1+100 6d7+21 flbite
+-23 -23 -23 -23
+DEFHIKN ABHQ FNP IM
+stand stand either 0
+ACGHMVW ABCDEFGHIJKPQ large 0 the guilds~
+#17520
+Dwarven Demolition Guy~
+Dwarven Demolition Guy~
+A Dwarven Demolition Guy is here guarding the barrier.
+~
+You see a dwarf of normal stature.  Normal for a dwarf that is.  He
+appears to be looking at you to make sure you aren't going to try to make it
+through the barrier.  He has lots of explosives strapped to him and you
+question his sanity.  
+~
+dwarf~
+ABCT FJZa 800 0
+51 0 50d10+5000 1d1+100 5d8+20 blast
+-21 -21 -21 -21
+ACDEIK AB CLQ R
+stand stand male 5500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17521
+Black Demon~
+Black Demon~
+A large Black Demon is here, glowering at you.
+~
+You see a large Black Demon who is covered in spikes.  It appears to be a
+male but you aren't sure.  He has a long tail that flows behind him and
+horns that look like those on a bull atop his head.  His eyes look deep into
+your soul.  He hates your guts.  
+~
+human~
+ABFT DFJLOTZ -1000 0
+53 0 50d10+6000 1d1+100 6d7+21 none
+-23 -23 -23 -23
+ACDFHIM ABHM EJKQ IN
+stand stand male 7000
+ABCHMVc ABCDEFGHIJKPQUVW large 0 the guilds~
+#17522
+Human Lancer~
+Human Lancer~
+A Human Lancer is wandering the hallway.
+~
+You see a human infantry equipped with a long spear.  They are casually
+walking down the hallway but you are certain they could be quite dangerous
+in combat.  
+~
+human~
+AH J 850 0
+51 0 50d10+5000 1d1+100 5d8+20 pierce
+-21 -21 -21 -21
+DEFHN A 0 0
+stand stand either 4500
+AGHMV ABCDEFGHIJKQUV medium 0 the guilds~
+#17523
+Human Foot Soldier~
+Human Foot Soldier~
+A Human Foot Soldier is here at attention.
+~
+You are looking at a common foot soldier in the Castle Harmondale
+garrison.  They wield a sword and look accomplished with it.  
+~
+human~
+AC J 850 0
+51 0 50d10+5000 1d1+100 5d8+20 slash
+-21 -21 -21 -21
+EHJK A 0 0
+stand stand either 4600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17524
+Catapault~
+Catapault~
+A Catapault is ready to fire.
+~
+You see a very large catapault made mostly out of steel.  It appears to
+be of very sturdy craftsmanship.  The rocks that his catapault hurls must
+weigh in excess of 300 pounds.  You wouldn't want to be an invading army and
+get hit by one of those rocks.  
+~
+human~
+AB DFJZ 0 0
+53 0 50d10+6000 1d1+100 6d7+21 grind
+-23 -23 -23 -23
+ACHO ABLMNPQb D 0
+stand stand none 0
+AHJMV ABCDEFGHIJK medium 0 the guilds~
+#17525
+Elven War Leader~
+Eleven War Leader~
+An Elven War Leader is here regarding the maps.
+~
+You see a lightly armoured elven lady.  She is extraordinarily beautiful
+with very fine features and long red hair.  She appears to be quite
+important and expects to be obeyed.  
+~
+cat~
+ABST CDFJNPTVZb 1000 0
+55 0 50d10+7000 1d1+100 10d4+23 skinning
+-25 -25 -25 -25
+EFHIJKNR ABb GHJMNP Z
+stand stand female 10000
+AGHMV ABCDEFGHIJKQUV small 0 the guilds~
+#17526
+Castle Harmondale's King~
+Castle Harmondale's King~
+The King of Castle Harmondale appears to be in deep thought.
+~
+This is the King of Castle Harmondale.  He is a powerfully built tall man
+who is getting on in years but looks no less formidable.  He looks a bit
+shaken as if something bad is going to happen.  
+~
+cat~
+ABRT DFJLNOTVZb 1000 0
+56 0 50d10+7500 1d1+100 10d4+24 smite
+-26 -26 -26 -26
+CDEFHIJKNR ABb FIKMNP 0
+stand stand male 12000
+AGHMV ABCDEFGHIJKQUV medium 0 the guilds~
+#17527
+Dwarven Battle Leader~
+Dwarven Battle Leader~
+The Dwarven Battle Leader studies you intently.
+~
+This dwarf is much like most others but is taller than his brothers.  He
+has a big black beard and is quite stocky.  You believe he's of middle age
+but you aren't not sure.  He is watching you.  
+~
+cat~
+ABQT CDFJNVZb 1000 0
+55 0 50d10+7000 1d1+100 10d4+23 crush
+-25 -25 -25 -25
+ACDEFHIKOR ABb CELQ R
+stand stand male 11000
+AGHMV ABCDEFGHIJKQUV medium 0 the guilds~
+#17528
+Dwarven Axe Master~
+Dwarven Axe Master~
+A Dwarven Axe Master is sleeping here
+~
+You see a averaged size hairy dwarf who is sleeping soundly.  So soundly
+that they are making quite a lot of noise.  They are presently unarmed and
+don't look too dangerous.  
+~
+dwarf~
+A JZ 900 0
+51 0 50d10+5000 1d1+100 5d8+20 beating
+-21 -21 -21 -21
+DEHKN A BCLQ RS
+sleep sleep either 4000
+AGHMV ABCDEFGHIJKPQUV medium 0 the guilds~
+#17529
+Elven Infantry~
+Elven Infantry~
+An Elven Infantry sleeps here.
+~
+You are looking at a common infantry soldier in the elven army.  You
+can't help but notice how all elves just beautiful.  They look battle tested
+but they are presently asleep.  
+~
+elf~
+A JPZ 1000 0
+51 0 50d10+5000 1d1+100 5d8+20 slap
+-21 -21 -21 -21
+EFHIN A B Z
+sleep sleep either 4000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17530
+Assistant Chef~
+Assistant Chef~
+An Assistant Chef is scurrying about preparing a meal.
+~
+A human who is not quite good enough to yet be a chef.  Which means they
+do all the menial labour that the chef wants.  They look pretty busy cooking
+this meal.  
+~
+human~
+AB J 750 0
+48 0 25d10+3750 1d1+100 6d6+18 strangle
+-18 -18 -18 -18
+DFI A 0 0
+stand stand either 3500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17531
+Chef~
+Chef~
+A chef is here ordering the assistant about.
+~
+An older looking human is here stirring some sort of sauce.  They are
+also shouting orders for the assistant to carry out.  You see the chef taste
+test the sauce and the chef seems pleased of the results.  
+~
+human~
+ABS DJ 800 0
+49 0 50d10+4000 1d1+100 4d10+18 pierce
+-19 -19 -19 -19
+FHIN A 0 0
+stand stand either 3600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17532
+Human Bowman~
+Human Bowman~
+A Human Bowman is sleeping here.
+~
+A fairly unremarkable looking human sleeps here.  They are of average
+size and weight.  They look they are having pleasant dreams.  
+~
+human~
+A J 800 0
+51 0 50d10+5000 1d1+100 5d8+20 dicing
+-21 -21 -21 -21
+EFHN A 0 0
+sleep sleep either 3900
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17533
+Castle Harmondale Captain~
+Castle Harmondale Captain~
+A Castle Harmondale Captain is lounging here.
+~
+You see an attractive woman in her mid 20s.  She looks hardened by her
+years as a fighter but still seems to be friendly.  She's of average height
+and weight and equipped with a big mace.  
+~
+human~
+ABT DJNZ 1000 0
+52 0 50d10+5500 1d1+100 6d7+20 grep
+-22 -22 -22 -22
+DEFHIJK AB 0 0
+stand stand female 6000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17534
+Human Squire~
+Human Squire~
+A human squire is here practising.
+~
+You see a fairly ordinary looking human squire.  They are busy practising
+weaponry.  They are currently using a sword but they don't look too
+practised with it.  
+~
+human~
+AT F 800 0
+50 0 50d10+4500 1d1+100 5d8+19 slash
+-20 -20 -20 -20
+FHI A 0 0
+stand stand either 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17535
+Dwarven Trainee~
+Dwarven Trainee~
+A dwarven trainee is yelling out battlecries against his opponent.
+~
+This dwarf looks unstable.  You are glad they are only a trainee because
+if they were a full fledged warrior, you don't know if you could handle
+them.  They wield a funny looking warhammer.  
+~
+dwarf~
+AT FJ 700 0
+50 0 50d10+4500 1d1+100 5d8+19 punch
+-20 -20 -20 -20
+CDHK A LQ R
+stand stand either 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#17536
+Elven Apprentice~
+Elven Apprentice~
+An elven apprentice looks at you warily.
+~
+An elven apprentice armed with a dagger meets your stare with a frown. 
+Like all elves, they appear to be both beautiful and cold at the same time. 
+They carefully size you up.  
+~
+elf~
+AT FJ 900 0
+50 0 50d10+4500 1d1+100 5d8+19 pierce
+-20 -20 -20 -20
+FHIN A B Z
+stand stand either 3000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#17537
+Elven Trainer~
+Elven Trainer~
+An Elven Trainer watches the trainees and corrects their technique.
+~
+You see a very old elf who has the gait of a warrior.  He still looks
+like a formidable foe.  He is currently teaching the trainees here in all
+sorts of martial weapons.  You would be wise not to test him.  
+~
+elf~
+ABT DFJT 1000 0
+52 0 50d10+5500 1d1+100 6d7+20 punch
+-22 -22 -22 -22
+EFHIJN AB B Z
+stand stand male 7000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#17500
+Heavy Polearm~
+Heavy Polearm~
+Desc You see a long heavy iron polearm here. It has a faintly glowing blue aura.~
+iron~
+weapon AI AN
+polearm 6 6 crush BF
+48 300 5000 P
+#17501
+Assassin's Blade~
+Assassin's Blade~
+This short dagger seems to be dripping water.~
+iron~
+weapon ABCY AN
+dagger 6 6 stab M
+47 20 6000 P
+A
+18 1  
+A
+19 2  
+#17502
+Gold Bar~
+Gold Bar~
+You see a sparkling gold bar. It is quite valuable. ~
+gold~
+treasure WYe AD
+0 0 0 0 0
+0 50 35000 P
+#17503
+Golden Lamp~
+Golden Lamp~
+A Golden Lamp is here. There is smoke coming out of it.~
+gold~
+treasure AGTWYe AO
+0 0 0 0 0
+50 20 15000 P
+#17504
+Ebony Arm Guard~
+Ebony Arm Guard~
+You see a set of ebony arm guards. It is beautiful.~
+ebony~
+armor ABCG AI
+8 8 8 8 0
+46 50 4500 P
+A
+4 2  
+A
+12 20  
+#17505
+Berserker Boots~
+Berserker Boots~
+You see large iron boots with pointy spikes all over it. You don't want to be on the receiving end of a kick.~
+iron~
+armor BM AG
+8 8 8 5 0
+45 100 5000 P
+A
+18 1  
+A
+1 1  
+A
+19 2  
+#17506
+Bubbly Green Potion~
+Bubbly Green Potion~
+You see a bubbling green potion. It is very bubbly. You wonder what drinking it would do.~
+glass~
+potion GT AO
+50 'dispel good' 'dispel evil' 'reserved' 'reserved'
+50 10 2000 P
+#17507
+Shocking Dart~
+Shocking Dart~
+Energy crackles around this small dart.~
+wood~
+throwing G AO
+6 5 firing 46 'lightning bolt'
+44 20 1000 P
+#17508
+Blacksmith's Hammer~
+Blacksmith's Hammer~
+You see a heavy steel hammer used to make weapons.~
+steel~
+wand 0 AO
+48 1 1 'enchant weapon' 0
+48 100 6000 P
+#17509
+Scroll Seeing~
+Scroll of Seeing~
+You see a scroll in immaculate handwriting in the old tongue.~
+paper~
+scroll A AO
+51 'locate object' 'reserved' 'reserved' 'reserved'
+50 0 4000 P
+#17510
+24 Carat Diamond~
+24 Carat Diamond~
+You see a beautiful 24 Carat Diamond. It makes the light around it spark. No doubt this is worth a lot of money!~
+diamond~
+treasure WYe AD
+0 0 0 0 0
+0 10 50000 P
+#17511
+Phoenix Feathers~
+Phoenix Feathers~
+You see flaming red phoenix feathers which can be worn on your legs. They don't look like they offer much protection but they hold the power of a phoenix.~
+wood~
+armor AGY AF
+7 7 7 7 0
+44 20 10000 P
+A
+19 2  
+A
+18 2  
+#17512
+Blue Key~
+Blue Key~
+A Blue Glass Key lies here. It looks strange as you don't think it would fit in any keyhole that you've ever seen.~
+glass~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#17513
+Dark Ruby~
+Dark Ruby~
+A dark red ruby glints in the light.~
+ruby~
+warp_stone EGJTWY AO
+0 0 0 0 0
+40 0 25000 P
+#17514
+Bracers Speed~
+Bracers of Speed~
+Powerful magical bracers lie here.~
+iron~
+armor GY AM
+8 8 8 7 0
+43 20 7500 P
+A
+19 1  
+A
+18 1  
+A
+2 2  
+#17515
+Legacy Dwarves axe~
+Legacy of the Dwarves~
+Here lies a powerful one handed axe with runes inscribed on the edges.~
+mithril~
+weapon CE AN
+axe 9 4 slash G
+48 100 6500 P
+A
+18 1  
+A
+19 2  
+#17516
+Whip Pure~
+Whip of the Pure~
+A glowing ivory whip is here.~
+ivory~
+weapon AGIK AN
+whip 4 10 sting I
+48 50 9000 P
+A
+18 1  
+A
+19 2  
+#17517
+Castle Harmondale Sign~
+Castle Harmondale Sign~
+A large wooden sign with black printed letters is here.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 100 1 P
+E
+sign~
+Welcome to Castle Harmondale.  This area is intended for high level
+players only.  Some magic is restricted inside the castle.  
+~
+#17518
+Mahogany Chair~
+Mahogany Chair~
+A nice comfortable mahogany chair beckons.~
+wood~
+furniture 0 0
+1 150 E 0 0
+0 50 8500 P
+#17519
+Mahogany Desk~
+Mahogany Desk~
+A hand crafted mahogany desk sits here.~
+wood~
+furniture 0 0
+1 100 EN 0 0
+0 500 5000 P
+#17520
+Wooden Bookcase~
+Wooden Bookcase~
+A bookcase with various and odds and ends is here.~
+wood~
+furniture 0 0
+0 500 NO 0 0
+0 500 1000 P
+#17521
+Plain Throne~
+Plain Throne~
+The King's Throne is here.~
+wood~
+furniture 0 0
+1 5000 BEHKN 10 10
+0 2000 5000 P
+#17522
+War Table~
+War Table~
+A long and large wooden table sits here.~
+wood~
+furniture Y 0
+4 5000 BEHKN 0 0
+0 2000 10000 P
+#17523
+Forge~
+Forge~
+A very hot forge is here, ready to forge weapons.~
+steel~
+furniture BYe 0
+0 0 0 0 0
+0 5000 0 P
+#17524
+Anvil~
+Anvil~
+A heavy steel anvil is here.~
+steel~
+furniture Ye 0
+0 0 0 0 0
+0 5000 0 P
+#17525
+Bubbling Cauldron~
+Bubbling Cauldron~
+A cast iron bubbling cauldron sits here.~
+iron~
+furniture A 0
+0 0 0 0 0
+0 1000 0 P
+#17526
+Worktable~
+Worktable~
+A worktable covered with an assortment of tools is here.~
+wood~
+furniture 0 0
+1 1000 EHKN 0 0
+0 500 0 P
+#17527
+Darkness~
+Darkness~
+An area of darkness hums here~
+air~
+portal BCGOYe 0
+0 2 2 17508 0
+0 0 0 P
+#17528
+Bunk Bed~
+Bunk Bed~
+A sturdy oak bunk bed is here.~
+wood~
+furniture 0 0
+2 5000 BEHKN 10 10
+0 1000 5000 P
+#17529
+Oak Drawers~
+Oak Drawers~
+A functional set of oak drawers is here.~
+wood~
+furniture 0 0
+0 1000 NO 0 0
+0 1000 3000 P
+#17530
+Elven Tree Bed~
+Elven Tree Bed~
+A bed that looks like a tree is here.~
+wood~
+furniture 0 0
+4 5000 BEHKNO 10 10
+0 0 0 P
+#17531
+Mess Table~
+Mess Table~
+A long table to serve many people for one meal is here.~
+wood~
+furniture 0 0
+10 5000 ADN 0 0
+0 5000 2000 P
+#17532
+Kitchen Cupboard~
+Kitchen Cupboard~
+A large kitchen Cupboard contains many dishes and ingredients.~
+wood~
+furniture 0 0
+0 5000 NOP 0 0
+0 5000 3500 P
+#17533
+Stove~
+Stove~
+A few large stoves sit side by side here cooking some meat.~
+wood~
+furniture Y 0
+0 500 NO 0 0
+0 5000 6000 P
+#17534
+Pork Roast~
+Pork Roast~
+A delicious pork roast is here.~
+food~
+food 0 0
+24 24 0 0 0
+0 40 400 P
+#17535
+Bench~
+Bench~
+A long wooden bench is here to sit on.~
+wood~
+furniture 0 0
+10 5000 BEHKN 0 0
+0 1000 1500 P
+#17536
+Castle Harmondale Map~
+Castle Harmondale Map~
+A map of the castle and the surrounding country side sits here.~
+paper~
+map 0 0
+0 0 0 0 0
+0 0 1000 P
+E
+map~
+You see Castle Harmondale and the outlying region around it.  There
+appears to be several armies on their way to the castle.  You see one army
+labelled orcs, another goblins and a troll and giant army.  
+~
+#17537
+Bunk Bed~
+Bunk Bed~
+A sturdy oak bunk bed is here.~
+wood~
+furniture 0 0
+2 5000 BEHKN 10 10
+0 1000 5000 P
+#17538
+Oak Drawers~
+Oak Drawers~
+A functional set of oak drawers is here.~
+wood~
+furniture 0 0
+0 1000 NO 0 0
+0 1000 3000 P
+#17539
+Fountain~
+Fountain~
+A beautiful sandstone fountain depicts an angel spraying water.~
+sandstone~
+fountain 0 0
+10000 10000 'water' 0 0
+0 5000 50000 P
+#17540
+Oak Bed~
+Oak Bed~
+A twin sized oak bed is here.~
+wood~
+furniture 0 0
+2 5000 BEHKN 10 10
+0 1000 5000 P
+#17541
+Steel Mace~
+Steel Mace~
+A large steel mace rests here.~
+steel~
+weapon AB AN
+mace 8 5 pound F
+48 200 8000 P
+A
+18 2  
+A
+19 2  
+#17542
+Stone Sink~
+Stone Sink~
+A grey coloured stone sink with a button that say water on it is here.~
+stone~
+furniture Ye 0
+0 500 MN 0 0
+0 5000 100 P
+#17543
+Comfortable Chair~
+Comfortable Chair~
+A comfly looking chair with a dark pit in the middle is here.~
+wood~
+furniture Ye 0
+1 5000 BEHN 0 0
+0 5000 5000 P
+#17544
+Steel Spear~
+Steel Spear~
+A six foot steel spear rests here.~
+steel~
+weapon 0 AN
+staff 6 6 pierce 0
+45 100 2000 P
+#17545
+Steel Sword~
+Steel Sword~
+A steel sword that looks fairly ordinary.~
+steel~
+weapon 0 AN
+sword 5 8 slash 0
+46 50 2500 P
+#17546
+Dwarven Crossbow~
+Dwarven Crossbow~
+An excellently crafted dwarven crossbow lies here.~
+wood~
+weapon Ye AN
+exotic 7 5 bolt 0
+44 200 5000 P
+#17547
+Elven Longbow~
+Elven Longbow~
+A beautiful elven longbow sits here.~
+wood~
+weapon Y AN
+exotic 9 4 pierce 0
+47 50 8000 P
+#17548
+Training Dagger~
+Training Dagger~
+A blunted bronze dagger rests here.~
+bronze~
+weapon 0 AN
+dagger 5 6 pierce J
+42 10 500 P
+#17549
+Training Warhammer~
+Training Warhammer~
+A funny looking warhammer used for training appears pretty useless.~
+metal~
+weapon 0 AN
+mace 4 8 pound J
+43 100 1000 P
+#17550
+Training Sword~
+Training Sword~
+A training sword made of lead sits here.~
+lead~
+weapon Ye AN
+sword 9 3 slash J
+41 150 300 P
+#17553
+no name~
+(no short description)~
+~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#17500
+The Room~
+This is an empty room in the middle of nowhere.  You do not see anything
+except grey walls.  The room is mysteriously lit however, since you can
+still see but the source of the light is not apparent.  Suddenly, you think
+you see something out of the corner of your eye.  Wait a minute, it's The
+Dude.  
+~
+0 805863684 0
+M 300 H 300
+S
+#17501
+On the Drawbridge~
+Here you are, on the drawbridge.  It is down, luckily for you, or else
+you would be swimming in the moat.  Not a pleasant propsect as the water is
+very dark and you think you see movement in it.  From where you are, the
+porticullis in front of the castle appears lowered.  The porticullis is to
+the north and you can start swimming in the moat to the west.  The way east
+is blocked by a mountain.  
+~
+0 0 1
+D0
+~
+~
+0 0 17502
+D2
+~
+~
+0 0 17549
+D3
+~
+~
+0 0 17503
+S
+#17502
+In Front of the Porticullis~
+Here you are in front of the porticullis.  It is lowered and looks to be
+of solid metal.  You cannot break your way through this gate.  You notice a
+slight depression to your right where some sort of object might fit. 
+Perhaps that is how to gain entrance to Castle Harmondale.  The castle is to
+your north and the drawbridge to the south.  There is no way you are
+climbing up the walls.  The guards on the wall don't seem to care that you
+are here.  
+~
+0 4 1
+D0
+~
+~
+4 0 17505
+D2
+~
+~
+0 0 17501
+S
+#17503
+The Moat~
+You have decided to go for a swim in the moat for better or for worse. 
+You do not have the impression you are alone but it seems pleasant enough. 
+The water is tepid but very dark so you cannot see very far down.  The moat
+continues to the north around the southwestern tower and you can go back to
+the drawbridge to the east.  
+~
+0 0 6
+D0
+~
+~
+0 0 17504
+D1
+~
+~
+0 0 17501
+S
+#17504
+Western Moat~
+You are swimming around the western side of the castle.  The walls are
+still unscalable here and you can see archers manning the parapets.  They
+do not seem to notice your presence though.  They probably know you cannot do
+anything from where you are.  The water is calm here, no sharks or other
+sea creatures are visible.  The moat continues to the north and to the south.  
+~
+0 0 6
+D0
+~
+~
+0 0 17550
+D2
+~
+~
+0 0 17503
+S
+#17505
+Southern Courtyard~
+Here you are inside Castle Harmondale, though you are still outdoors.  You are
+in a large courtyard.  You see stables to the northwest and stairs up to the
+battlements to the northeast.  The guards are still ignoring your presence.
+You do notice, however, that there is a another smaller castle at the end of
+the courtyard to the north of you.  The courtyard extends to the north, west
+and east.  The porticullis is back to the south.   
+~
+0 268435456 1
+D0
+~
+~
+0 0 17508
+D1
+~
+~
+0 0 17507
+D2
+~
+~
+4 0 17502
+D3
+~
+~
+0 0 17506
+S
+#17506
+Western Courtyard~
+You are standing at the west side of the courtyard.  You can see various
+guards manning the walls up above you but they do not seem too interested in
+you.  You see stables up ahead to the north.  You notice a door to your west
+which enters the castle walls.  There is more of the courtyard to the east. 
+You can also climb up to the western castle wall.  
+~
+0 268435460 1
+D0
+~
+~
+0 0 17510
+D1
+~
+~
+0 0 17505
+D3
+~
+~
+3 0 17524
+D4
+~
+~
+0 0 17521
+S
+#17507
+Eastern Courtyard~
+You are at the eastern portion of the courtyard.  You see stairs to your
+north that lead up to the battlements.  There is a door on the east wall
+that goes into the castle walls.  To the northwest you see another keep and
+further west you see the stables.  You can go west back to the southern
+courtyard.  You can also climb the stairs to the southern castle wall.  
+~
+0 268435460 1
+D0
+~
+~
+0 0 17509
+D1
+~
+~
+3 0 17531
+D3
+~
+~
+0 0 17505
+D4
+~
+~
+0 0 17517
+S
+#17508
+Northern Courtyard~
+You are at the northern end of the courtyard.  You notice there are many
+archers guarding the walls all around you.  The courtyard itself is not too
+interesting.  Just more and more dirt.  There is however, stables to your
+west.  You can go to the stairs to go onto the battlements to your east. 
+The southern courtyard is back to your south.  The keep looms in front of
+you to the north.  
+~
+0 268435456 1
+D0
+~
+~
+0 0 17512
+D1
+~
+~
+0 0 17509
+D2
+~
+~
+0 0 17505
+D3
+~
+~
+0 0 17510
+S
+#17509
+Bottom of the Stairs~
+You are at the bottom of the stairs leading up to the battlements.  You
+can see the guards manning the battlements up above.  You notice that there
+is a symobl of a gold brick on the tower just above you.  The courtyard is
+back to the south and west and you can climb the stairs and go up onto the
+battlements.  
+~
+0 268435456 1
+D2
+~
+~
+0 0 17507
+D3
+~
+~
+0 0 17508
+D4
+~
+~
+0 0 17513
+S
+#17510
+Castle Harmondale Stables~
+You have entered the Castle's Stables.  The stable walls and supports
+are made of wood.  There are several well groomed horses here in the stables
+and there is another section of the stables to the west.  You can leave the
+stables and return to the courtyard to the east and to the south.  
+~
+0 268435464 0
+D1
+~
+~
+0 0 17508
+D2
+~
+~
+0 0 17506
+D3
+~
+~
+0 0 17511
+S
+#17511
+Back of the Stall~
+You are now at the back of the stables.  Here is where the Lord of the
+Castle keeps his finest.  And this is a magnificent pegasus.  The pegasus
+notes your presence but does nothing else.  It is pure white with graceful
+wings.  There is nothing else here.  This section is just for the pegasus. 
+You can return to the rest of the stables to the east.  
+~
+0 268435468 0
+D1
+~
+~
+0 0 17510
+S
+#17512
+Before the Inner Keep~
+You are standing at the northern end of the courtyard before the inner
+keep.  This is probably where the important people reside.  The inner keep
+is still quite impressive.  There is a formidable door guarding the keep but
+this is not a time of war so it is probably not locked.  You can enter the
+inner keep to the north or go explore the courtyard to the south.  
+~
+0 268435460 1
+D0
+~
+~
+4 0 17538
+D2
+~
+~
+0 0 17508
+S
+#17513
+Atop the North Wall~
+You have climbed the stairs to the top of the castle walls.  You are at
+the northern side of the castle walls and can see a large keep in front of
+you and to the west.  There are many guards patrolling the walls all around
+you.  There is a picture of a gold brick on the tower directly to your east.
+You can also go down the stairs to return to the courtyard.  
+~
+0 268435460 1
+D1
+~
+~
+0 0 17514
+D5
+~
+~
+0 0 17509
+S
+#17514
+Gold Golem Tower~
+You are in a fairly small tower which is dominated by the presence of a
+gold golem.  Now you know why there was a picture of a gold brick on the
+tower.  The gold golem is stationary at the moment.  He is likely only
+activated in the case of an attack.  You can return to the top of the castle
+walls to the west and to the south.  
+
+~
+0 268435464 0
+D2
+~
+~
+0 0 17515
+D3
+~
+~
+0 0 17513
+S
+#17515
+Atop the East Wall~
+You are on the east side of the castle walls.  Over the wall to the east
+is a large mountain.  There won't be many attacks coming from there.  You
+can see that there are numerous guards patrolling the top of the walls. 
+There are a few figures in the courtyard and you think one is a knight. 
+There is a symbol of a gold bar on the tower north of you and a symbol of a
+wing on the tower to your south.  You can go to either tower.  
+~
+0 268435456 1
+D0
+~
+~
+0 0 17514
+D2
+~
+~
+0 0 17516
+S
+#17516
+Griffin Tower~
+You are in a medium sized room which is dominated by a large griffin. 
+The griffin appears to be sleeping at the moment but even so, it looks quite
+dangerous.  There is probably a way that the masters of the castle can
+awaken all their tower guardians at once and defend the castle.  You can go
+to the top of the eastern wall to the north and you can go to the top of the
+southern castle wall to the west.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17515
+D3
+~
+~
+0 0 17517
+S
+#17517
+Atop the South Wall~
+You are atop the south wall of Castle Harmondale.  You can see a mountain
+range to your south that continues around the eastern portion of the castle.
+There are many guards patrolling the battlements.  The ones nearest to you
+are dwarven crossbowmen.  The tower to the east of you has a symbol of a
+wing on it.  You can go east to the tower and west to the top of the castle
+gate.  You may also go back down to the courtyard.  
+~
+0 268435460 1
+D1
+~
+~
+0 0 17516
+D3
+~
+~
+0 0 17518
+D5
+~
+~
+0 0 17507
+S
+#17518
+Guarding the Gates~
+You are atop the castle gate.  Through the battlements you see that the
+drawbridge is down and the shadow of some creature in the moat underneath
+it.  There is a mountain range to the south east and plains to the south. 
+There are guards all around you, dwarven crossbowmen and elven archers.  The
+towers to the west and to the east having markings on them but you are too
+far to see what they are from where you are.  You can go west or east. 
+Either way you will be atop the south wall.  
+~
+0 268435456 1
+D1
+~
+~
+0 0 17517
+D3
+~
+~
+0 0 17519
+S
+#17519
+Atop the South Wall~
+You are atop the south wall of Castle Harmondale.  There are guards all
+along the wall here.  You can see far to the south from here.  This would be
+a good place to notice an approaching army.  You see movement in the moat
+below you to the south.  There is a picture of a lamp to the west on the
+tower wall.  You can go to the tower to the west or go back to the top of
+the gates to the east.  
+~
+0 268435456 1
+D1
+~
+~
+0 0 17518
+D3
+~
+~
+0 0 17520
+S
+#17520
+Genie Tower~
+You are in a smaller tower than the others.  There is a blue genie flying
+around back and forth through the room.  He doesen't appear to notice you. 
+You can go back east to the top of the south wall or north to the western
+wall.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17521
+D1
+~
+~
+0 0 17519
+S
+#17521
+Atop the West Wall~
+You are atop the west wall of Castle Harmondale.  Over the wall to the
+west, you see the castle moat and further west, endless plains.  There are
+guards walking around the battlements here.  To the south you see a picture
+of a lamp on the tower.  There is a picture of gold brick to the north.  The
+courtyard is below you the east.  You can visit the towers to the north and
+to the south.  You can also go back down to the courtyard.  
+~
+0 268435460 1
+D0
+~
+~
+0 0 17522
+D2
+~
+~
+0 0 17520
+D5
+~
+~
+0 0 17506
+S
+#17522
+Archmage Tower~
+You are in another tower.  This one has a desk and a human archmage
+sitting on a chair in it.  He glances up at you and continues writing.  He
+looks important and might oversee the outer defense of the castle.  You can
+go to the west wall to the south or to the northern wall to the east.  
+~
+0 268435464 0
+D1
+~
+~
+0 0 17523
+D2
+~
+~
+0 0 17521
+S
+#17523
+Atop the North Wall~
+You are atop the western part of the northern wall.  You can see the keep
+to your north and beyond that, a large mountain range.  There appears to be
+a dwarf standing in front of it below you to the east.  There is no more
+castle wall to your east.  You can return to the Archmage's Tower to the
+west.  
+~
+0 268435456 1
+D3
+~
+~
+0 0 17522
+S
+#17524
+Western Wall Entrance~
+You have entered the castle walls.  This would seem like a poor
+construction strategy but you notice that the walls are still very thick and
+tough.  There are torches lining the walls so you can see.  There isn't much
+else of interest here.  There are long corridors to the north and to the
+south.  You can go back to the courtyard to the east.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17527
+D1
+~
+~
+3 0 17506
+D2
+~
+~
+0 0 17525
+S
+#17525
+Under the Southwestern Tower~
+You appear to be under a tower but there is no way to gain access to it. 
+The walls are still very thick here and it would likely take a large siege
+engine to break through them.  Torches line the wall and you see more of the
+same hallway to the north and to the east.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17524
+D1
+~
+~
+0 0 17526
+S
+#17526
+Inside the Southern Castle Wall~
+You are in the southern wall of Castle Harmondale.  The area is lighted
+by torchlight.  There are tapestries in between the torches.  Some of the
+tapestries are exquisitely done showing battles with dragons and other
+mythical creatures.  You can continue in the hallway to the west.  There is
+a room to the east.  
+~
+0 268435464 0
+D1
+~
+~
+0 0 17529
+D3
+~
+~
+0 0 17525
+S
+#17527
+Under the Northwestern Tower~
+You are under the northwestern tower inside the castle walls.  There is
+no way to reach the tower though.  The walls are thick stone.  You tap them
+to make sure they are not hollow and they are not.  It is still fairly dark
+here.  Only a few torches let you see at all.  There is more of the interior
+to the south and to the east.  
+~
+0 268435464 0
+D1
+~
+~
+0 0 17528
+D2
+~
+~
+0 0 17524
+S
+#17528
+Inside the Northern Castle Wall~
+You are in the northern castle wall.  The stone corridor extends to the
+west and to the east.  There is dim torchlight to see by.  There are grey
+statues of knights lining both walls.  The workmanship of the statues is
+quite impressive.  
+~
+0 268435464 0
+D1
+~
+~
+0 0 17530
+D3
+~
+~
+0 0 17527
+S
+#17529
+The Alchemist's Lair~
+The first thing that strikes you about this room is the noise.  The
+popping of bubbles from various nearby cauldrons is quite loud.  The room is
+lighted but you do not see any source.  You suspect it must be some sort of
+magical process.  You see a hunched over figure stirring the contents of one
+of the larger pots.  The only apparent exit is the way you came in.  
+~
+0 268435468 0
+D3
+~
+~
+0 0 17526
+S
+#17530
+Bowyer and Fletcher Workshop~
+This room is full of arrows and bows of all types from longbows to short
+bows.  There is even a composite longbow in the far corner.  There are
+quivers full of arrows stacked neatly against the walls and even more
+hanging from the ceiling.  In the center of the room is a large table where
+the fletcher and boywer works.  The same fellow appears to do both.  He's
+busy working right now stringing a bow.  There appear to be no other exits
+other than the door you came in by.  
+~
+0 268435468 0
+D3
+~
+~
+0 0 17528
+S
+#17531
+Eastern Wall Entrance~
+You are inside the eastern castle wall.  On this side of the castle, the
+mountain is a natural barrier which blocks the way east.  That side of the
+corridor also glows green which is your source of illumination.  You do not
+know why that would be the case.  It looks quite strange.  Above and below
+you is solid stone.  The hallway continues to the north and to the south. 
+You can exit the inside of the castle wall and return to the courtyard to
+the west.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17532
+D2
+~
+~
+0 0 17533
+D3
+~
+~
+3 0 17507
+S
+#17532
+Under the Northeastern Tower~
+Now you find yourself under the northeastern tower.  This room appears to
+be empty and there is no way to get up to the tower.  The green glow
+emanating from the mountain is still on the eastern side of The stone walls
+elsewhere are securely built to resist as siege and anything you could
+possibly muster.  You can go down the hallway to the west or to the south.  
+~
+0 268435464 0
+D2
+~
+~
+0 0 17531
+D3
+~
+~
+0 0 17534
+S
+#17533
+Under the Southeastern Tower~
+You have reached the end of the hallway that went south.  You are under
+the northeastern tower but there is no ladder for you to go up or a trapdoor
+to get into the tower.  The green glow from the mountain illuminates this
+room.  You can go back to the north or to the west to a different hallway.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17531
+D3
+~
+~
+0 0 17536
+S
+#17534
+Inside the Northern Castle Wall~
+You are in a hallway inside Castle Harmondale's walls.  There isn't
+anything particularly remarkable here.  There is a red carpet on the floor
+and torches on the walls to light the area.  You do wonder why anyone would
+make a hallway inside a castle wall.  You can go back east down the hallway.
+To your west, you hear the sound of a hammer hitting metal.  
+~
+0 268435464 0
+D1
+~
+~
+0 0 17532
+D3
+~
+~
+0 0 17535
+S
+#17535
+The Foundry~
+You are in the foundry of Castle Harmondale.  There is a forge over on
+the western wall and a large anvil in the middle of the room.  The resident
+blacksmith is presently hammering a sword into shape on the anvil.  The
+northern side of the room has a steel table and many iron molds on it for
+making various weapons.  The room is made of solid stone to prevent fires
+from doing much damage.  The only exit appears to be to return to the
+hallway to your east.  
+~
+0 268435468 0
+D1
+~
+~
+0 0 17534
+S
+#17536
+Inside the Southern Castle Wall~
+You are inside the southern castle walls of Castle Harmondale.  This
+hallways isn't very remarkable.  There are a torches along the walls
+lighting the area.  You can go down the hallway to the east and there is a
+dark room to your west.  
+~
+0 268435464 0
+D1
+~
+~
+0 0 17533
+D3
+~
+~
+0 0 17537
+S
+#17537
+Mystic's Lair~
+You are in a dark room.  There are colourful pillows spread out on a
+carpet in the center of the room.  There is a bookcase filled with old tomes
+on the far wall.  There are paintings of an elven city in an elven forest on
+the northern wall.  This room is not made of stone like the rest.  Or maybe
+it just looks like it isn't..  You can't tell what the dark walls are made
+of.  It's a pretty eerie effect whatever it is.  In the center of the room
+there is a hovering figure.  You only see the door to the east as your way
+out.  
+~
+0 268435469 0
+D1
+~
+~
+0 0 17536
+S
+#17538
+Inner Keep Entrance~
+You have now entered the keep.  The walls and floors sparkle and have a
+white colour.  You think perhaps that they are made of limestone.  The whole
+look is quite impressive and you had no idea from the outside of the keep of
+the splendour inside.  This area appears deserted.  You can continue in the
+keep to the north or go back out of the keep to the south.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17539
+D2
+~
+~
+4 0 17512
+S
+#17539
+Inside the Inner Keep~
+You are in a long corridor further into the keep of Castle Harmondale. 
+The whole interior is still made of sparkling white rock and is still very
+nice on the eyes.  There are alcoves to your west and to your east but they
+are shrouded in darkness and you cannot see further into them.  You can
+continue into the keep to the north or you can go back to the entrance to
+the south.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17542
+D1
+~
+~
+0 0 17540
+D2
+~
+~
+0 0 17538
+D3
+~
+~
+0 0 17541
+S
+#17540
+Dark Alcove~
+As your eyes adjust to the darkness, you notice little of interest in
+this alcove.  This area made up of an ebony coloured material which seems to
+absorb light and hence why it is so dark here.  There does appear to be a
+large clear coloured shape beside you but it isn't moving.  You can return
+to the hallway to your west.  
+~
+0 268435465 0
+D3
+~
+~
+0 0 17539
+S
+#17541
+Dark Alcove~
+You have entered a very dark alcove.  This alcove is not made up of
+limestone like the parts of the keep.  The walls and floor are made up of a
+black surface that absorbs light.  There appears to be a red bird here in
+this alcove too.  You can return to the hallway to the east.  
+~
+0 268435465 0
+D1
+~
+~
+0 0 17539
+S
+#17542
+An Intersection in the Keep~
+You have come to an intersection in the keep of Castle Harmondale.  The
+surrounding area looks quite similar to what you have seen already.  The
+white walls shine brightly.  There is no apparent sound coming from the west
+but you think you can make out the shape of a guard in that direction.  The
+throne room appears to be to your north because of the banners that you can
+see.  There appears to be a stairway to your east.  You can also go back to
+the entrance to the keep to the south.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17545
+D1
+~
+~
+0 0 17546
+D2
+~
+~
+0 0 17539
+D3
+~
+~
+0 0 17543
+S
+#17543
+Outside a Prisoner's Room~
+You have reached the end of this hallway in the keep.  There is a odd
+looking dwarf standing next to a blue barrier blocking the way westward. 
+You surmise that something important must be on the other side of that
+barrier.  It looks like it might prevent magic from crossing it.  The rest
+of the hallway is still pure white.  You can return to the east.  
+~
+0 268435464 0
+D1
+~
+~
+0 0 17542
+D3
+~
+barrier~
+3 17512 17544
+S
+#17544
+The Prison Chamber~
+This room is completely empty other than the large demon who isn't amused
+to have a visitor.  There are no windows and no objects in the room.  The
+walls are pure white which contrasts with the black demon.  The exit to this
+room is to the east.  
+~
+0 268435464 0
+D1
+~
+~
+3 0 17543
+S
+#17545
+In Front of the Throne Room~
+You are just before the throne room in the keep.  The walls are no longer
+bare here.  There are three banners strung on the walls.  One has a large
+tree on it, another has a shield on it and the other one a beer mug
+displayed on it.  This part of the keep is very quiet for some reason even
+though you are approaching the throne room.  This strikes you as somewhat
+odd.  You can enter the throne room to the north and you can return to the
+intersection to the south.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17547
+D2
+~
+~
+0 0 17542
+S
+#17546
+By the Stairs~
+You have come to the foot of a long winding staircase.  It goes upward
+for quite a distance and you cannot make out the second floor.  Everything
+in sight is all pure white much like the rest of the keep.  There is little
+else of interest.  You can go up the stairs or back to the intersection to
+the west.  
+~
+0 268435464 0
+D3
+~
+~
+0 0 17542
+D4
+~
+~
+0 0 17552
+S
+#17547
+Throne Room~
+You have entered a large throne room.  But there is noone here.  The
+walls are no longer white here but a more subdued grey colour.  There is a
+red carpet leading to the the throne itself.  The throne is large and
+somewhat plain looking.  There is a door beside the throne leading to
+another room.  You can also exit the throne room to your south.  
+~
+0 268435464 0
+D0
+~
+~
+3 0 17548
+D2
+~
+~
+0 0 17545
+S
+#17548
+The War Room~
+This is the room where the all the planning is done.  There is one large
+table in the middle of the room.  There are maps on all the walls and one
+spread out before three people at the other end of the table away from you. 
+It looks like the king and two of his advisers.  The only apparent exit is
+the way you came in.  
+~
+0 268435464 0
+D2
+~
+~
+3 0 17547
+S
+#17549
+Outside Castle Harmondale~
+You are standing on a road next to a grassy plain..  You see a large
+castle up ahead.  The sign next to you says that it is Castle Harmondale. 
+The castle is surrounded by a large moat and the drawbridge is currently
+down.  You see that the porticullis, however, is up.  There's a mountain
+range to the east and more empty plains to the west.  You can go north onto
+the drawbridge.  
+~
+0 0 0
+D0
+~
+~
+0 0 17501
+S
+#17550
+Still in the Moat~
+You are swimming in the moat around the northwestern part of the castle. 
+You are still swimming unnoticed by those guards on the wall.  There is
+nothing interesting about this section of the moat.  The way north is
+blocked by a mountain as the mountain range covers the north and east
+sections of the castle.  You can go south to return to the front of the
+castle but you also notice an underwater cave to the west.  
+~
+0 0 6
+D2
+~
+~
+0 0 17504
+D3
+~
+~
+0 0 17551
+S
+#17551
+Underwater Cave~
+Well that was a nice swim.  Luckily for you there is air here and land to
+walk on.  But there is no light and nothing to see by.  You figure this must
+be a strange cave indeed.  Even stranger is a humming noise and absolute
+blackness that is in front of you.  You can go swimming and back to the moat
+to the east.  
+~
+0 9 12
+D1
+~
+~
+0 0 17550
+S
+#17552
+On the Winding Staircase~
+You are now about halfway up the large winding staircase.  It seems kind
+of pointless to have such a large staircase but you see how it could make an
+attacker's life very difficult to get up to the top.  The walls are still a
+very bright white but there is nothing on them.  You can continue to the top
+of the stairs or go back down to the bottom of the stairs.  
+~
+0 268435464 1
+D4
+~
+~
+0 0 17553
+D5
+~
+~
+0 0 17546
+S
+#17553
+The Top of the Winding Staircase~
+You have now reached the second floor of the keep.  The walls remain very
+white and smooth like elsewhere in the keep.  There is a wonderful water
+fountain here to quench your thirst.  You are in a reasonably large room
+with corridors in all the cardinal directions.  The sounds of battle can be
+heard from the north and snoring from the south.  Or you can go back down
+the stairs.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17561
+D1
+~
+~
+0 0 17558
+D2
+~
+~
+1 0 17554
+D3
+~
+~
+1 0 17556
+D5
+~
+~
+0 0 17552
+S
+#17554
+Dwarven Barracks~
+The annoying sound of snoring greets you as you enter this room.  You see
+dwarves lying on bunk beds who are responsible for the racket.  The beds are
+custom made for dwarves and made of oak.  There is even more snoring to the
+south.  You can return to the top of the stairwell to the north.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 17553
+D2
+~
+~
+1 0 17555
+S
+#17555
+Dwarven Barracks~
+There is still loud snoring in this part of the barracks.  There are
+more dwarves here.  There is scribbling around the posts of the bunk beds
+that says that the axe masters sleep here.  You smell dwarven ale and
+dwarven ale breath.  The only apparent exit is north.  
+~
+0 268435464 0
+D0
+~
+~
+1 0 17554
+S
+#17556
+Elven Barracks~
+You have entered the barracks of the elves.  There are a few sleeping
+elves scattered on some beds that look almost like living trees.  The elves
+are far less noisy than the dwarves in their sleep.  There are drawers in
+the beds where the elves gear is stored but there is nothing of value stored
+in them.  The elven barracks continues to your west and you can leave the
+barracks to your east.  
+~
+0 268435464 0
+D1
+~
+~
+1 0 17553
+D3
+~
+~
+1 0 17557
+S
+#17557
+Elven Barracks~
+This is another room for the elves of the castle.  There are presently
+several elves sleeping here in similar arrangements as in the previous room.
+They look quite content in their sleep and don't care about a thing in the
+world.  You can go back to the other section of the elven barracks to your
+east.  
+~
+0 268435464 0
+D1
+~
+~
+1 0 17556
+S
+#17558
+Mess Hall~
+You have entered a fairly large room with a long table.  The table is set
+in such a way as to look like a meal will be served here soon.  There are
+quite a few spots set at the table so a lot of the castle can eat at once. 
+The walls here are made of stone with little ornamentation.  You think you
+see another big table in the room to your east or you can go back to the top
+of the staircase.  There is also a door blocking your way south.  
+~
+0 268435464 0
+D1
+~
+~
+0 0 17559
+D2
+~
+~
+3 0 17568
+D3
+~
+~
+0 0 17553
+S
+#17559
+Mess Hall~
+This appears to be another part of the mess hall.  There is another big
+table occupying much of the space in the room with many places set.  The
+food isn't around right now but looks to be on its way soon.  You can also
+smell some sort of cooked meat to your south.  You can return to the other
+part of the mess hall to the west.  
+~
+0 268435464 0
+D2
+~
+~
+0 0 17560
+D3
+~
+~
+0 0 17558
+S
+#17560
+The Kitchen~
+This is the kitchen of Castle Harmondale.  It doesn't appear to be
+spectacular but it does look functional.  There are a few stoves and many
+cupboards which contain all the normal cooking utensils and ingredients for
+cooking.  The chef and his assistant are presently preparing a large meal. 
+The only visible exit is back the way you came.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17559
+S
+#17561
+Second Floor of the Keep~
+You have come to another intersection on this second level.  This part of
+the keep is made of solid stone and looks like it as opposed to the first
+floor.  The pure whiteness of the first floor was getting on your nerves. 
+The room to your east looks like another barracks and there looks to be a
+little study to your west.  You can also continue along this corridor to the
+north or to the south.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17565
+D1
+~
+~
+1 0 17562
+D2
+~
+~
+0 0 17553
+D3
+~
+~
+0 0 17567
+S
+#17562
+Human Barracks~
+This very unkept room is where the humans stay.  There are articles of
+clothing thrown about everywhere.  This room also has bunk beds like the
+dwarven barracks.  One of the beds is currently occupied.  You can leave the
+barracks to your west or continue on to the east.  
+~
+0 268435464 0
+D1
+~
+~
+1 0 17563
+D3
+~
+~
+1 0 17561
+S
+#17563
+Human Barracks~
+The human barracks is far less noisy than the dwarves as the humans don't
+seem to snore as much.  Many of the humans in the castle must sleep here as
+you can see cooking utensils on one of the cupboards.  Probably the chef's
+stuff.  There is another room to your north or you can go back to your west.
+~
+0 268435464 0
+D0
+~
+~
+1 0 17564
+D3
+~
+~
+1 0 17562
+S
+#17564
+Human Barracks~
+You have entered another section of the human barracks.  The human
+barracks is quite large no doubt due to all the humans in the castle.  This
+room looks similar to the rest of the barracks.  There are clothes thrown
+about, bunk beds and cupboards and sleeping humans.  You can exit this room
+to your south.  
+~
+0 268435464 0
+D2
+~
+~
+1 0 17563
+S
+#17565
+Second Floor of the Keep~
+You are continuing down the north south hallway on the second floor of
+the keep.  The walls are barren but they are fairly nice looking.  The
+stones are well placed.  There is a room to your west but the door is
+closed.  The sounds of battle are fairly loud coming from your north.  You
+can also go back south.  
+~
+0 268435468 0
+D0
+~
+~
+0 0 17569
+D2
+~
+~
+0 0 17561
+D3
+~
+~
+3 0 17566
+S
+#17566
+Armoury~
+This room is filled with armour and weapons of every shape and size. 
+There are sets of both leather armour and metal armour including gloves,
+leggings, arm plates, and gauntlets.  There are shields hanging on the wall.
+There are lances, swords, spears, axes, and halberds stacked neatly in
+boxes.  But there is an impassable blue barrier covering everything that
+prevents you from touching it.  You can return to the hallway to your east. 
+~
+0 268435464 0
+D1
+~
+~
+3 0 17565
+S
+#17567
+Captain's Room~
+This is a medium sized room made from stone.  There is a bed for the
+captain on the opposite wall from you and a desk in the middle of the room. 
+The captain is presently sitting on a chair behind the desk.  She looks at
+you briefly before resuming her reading.  There is a dresser here as well
+for her belongings.  You see the way you came in as the only way to leave
+this room.  
+~
+0 268435464 0
+D1
+~
+~
+0 0 17561
+S
+#17568
+Washroom~
+You are now in a medieval washroom.  However, it looks very odd.  There
+is stone sink which appears to release water so you can wash up.  You don't
+know where the water goes though.  There is also a chair which looks like it
+has a bottomless pit in the middle.  There is also some paper located beside
+it.  You can sit on the chair and do your business.  There appears to be no
+other exit other than back to the north.  
+~
+0 268435464 0
+D0
+~
+~
+3 0 17558
+S
+#17569
+Southern Training Area~
+You have entered the southern end of a large training area.  There are
+numerous individuals practicing armed combat against each other.  The ground
+is soft like a carpet but it doesn't appear to be a carpet.  You can
+continue into the training area to the west, east or north.  You can leave
+the training area to the south.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17572
+D1
+~
+~
+0 0 17571
+D2
+~
+~
+0 0 17565
+D3
+~
+~
+0 0 17570
+S
+#17570
+Southern Training Area~
+This is the southwestern corner of the training area.  You can see many
+trainig bouts going on all over the training area.  You can go to the north
+or to the east.  Both lead to more of the training area.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17573
+D1
+~
+~
+0 0 17569
+S
+#17571
+Southern Training Area~
+This is the southeastern corner of the training area.  You see some
+humans squires training nearby.  The training area is well lit but you don't
+notice any source of light.  You can continue in the training area to the
+west or to the north.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17574
+D3
+~
+~
+0 0 17569
+S
+#17572
+Training Area~
+You are in the middle of the training area.  You notice some dwarves
+training with warhammers.  There isn't much to notice.  The training area is
+just a very big open area.  There is more of the training area in all
+cardinal directions.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17576
+D1
+~
+~
+0 0 17574
+D2
+~
+~
+0 0 17569
+D3
+~
+~
+0 0 17573
+S
+#17573
+Training Area~
+You have reached the western wall of the training area.  The din of
+battle is loud here.  Some of the trainees seem to be a bit overzealous. 
+You can continue to the east, to the north, or to the south.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17577
+D1
+~
+~
+0 0 17572
+D2
+~
+~
+0 0 17570
+S
+#17574
+Training Area~
+This is the eastern side of the training area.  You can see some elves
+training to the north.  You can go west, north, or south.  
+~
+0 268435464 0
+D0
+~
+~
+0 0 17575
+D2
+~
+~
+0 0 17571
+D3
+~
+~
+0 0 17572
+S
+#17575
+Northern Training Area~
+You are now in the northeastern corner of the training area.  Some elves
+are here training.  You can see an important looking elf to your west.  You
+can go west or south.  
+~
+0 268435464 0
+D2
+~
+~
+0 0 17574
+D3
+~
+~
+0 0 17576
+S
+#17576
+Northern Training Area~
+This is the northern area of the training room.  There is an important
+looking elf here.  He appears to be some sort of training master.  He is
+correcting some nearby elves.  You can continue in the training room to the
+west, to the east or to the south.  
+~
+0 268435464 0
+D1
+~
+~
+0 0 17575
+D2
+~
+~
+0 0 17572
+D3
+~
+~
+0 0 17577
+S
+#17577
+Northern Training Area~
+This is the northwestern corner of the training area.  You see some
+dwarves to your training.  They don't look they are practising but actually
+trying to kill each other.  The training area continues to your east and to
+your south.  
+~
+0 268435464 0
+D1
+~
+~
+0 0 17576
+D2
+~
+~
+0 0 17573
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 17502 0 2
+D 0 17505 2 2
+D 0 17506 3 1
+D 0 17507 1 1
+D 0 17512 0 1
+D 0 17524 1 1
+D 0 17531 3 1
+D 0 17538 2 1
+D 0 17543 3 2
+D 0 17544 1 2
+D 0 17547 0 1
+D 0 17548 2 1
+D 0 17558 2 1
+D 0 17565 3 1
+D 0 17566 1 1
+D 0 17568 0 1
+M 1 17500 1 17500 1
+M 1 17501 1 17503 1
+M 1 17502 1 17505 1
+E 0 17500 0 16
+M 1 17524 2 17506 1
+M 1 17524 2 17507 1
+M 1 17503 1 17508 1
+E 0 17501 0 16
+M 1 17504 1 17510 1
+M 1 17505 1 17511 1
+M 1 17506 1 17512 1
+E 0 17505 0 8
+M 1 17507 4 17513 1
+E 0 17547 0 16
+M 1 17508 1 17514 1
+E 0 17502 0 5
+M 1 17507 4 17515 1
+E 0 17547 0 16
+M 1 17509 1 17516 1
+M 1 17510 3 17517 1
+E 0 17546 0 16
+M 1 17510 3 17518 1
+E 0 17546 0 16
+M 1 17510 3 17519 1
+E 0 17546 0 16
+M 1 17511 1 17520 1
+E 0 17503 0 0
+M 1 17507 4 17521 1
+E 0 17547 0 16
+M 1 17512 1 17522 1
+E 0 17504 0 10
+O 0 17518 0 17522
+O 0 17519 0 17522
+M 1 17507 4 17523 1
+E 0 17547 0 16
+M 1 17522 5 17524 2
+E 0 17544 0 16
+M 1 17522 5 17526 2
+E 0 17544 0 16
+M 1 17522 5 17528 2
+E 0 17544 0 16
+M 1 17513 1 17529 1
+G 0 17506 0
+O 0 17525 0 17529
+M 1 17514 1 17530 1
+E 0 17507 0 17
+O 0 17526 0 17530
+M 1 17523 4 17532 2
+E 0 17545 0 16
+M 1 17523 4 17533 2
+E 0 17545 0 16
+M 1 17516 1 17535 1
+E 0 17508 0 17
+O 0 17523 0 17535
+O 0 17524 0 17535
+M 1 17517 1 17537 1
+E 0 17509 0 17
+O 0 17520 0 17537
+M 1 17518 1 17540 1
+E 0 17510 0 5
+M 1 17519 1 17541 1
+E 0 17511 0 7
+M 1 17520 1 17543 1
+G 0 17512 0
+M 1 17521 1 17544 1
+E 0 17513 0 17
+M 1 17515 2 17545 2
+O 0 17521 0 17547
+M 1 17526 1 17548 1
+E 0 17514 0 14
+M 1 17527 1 17548 1
+E 0 17515 0 16
+M 1 17525 1 17548 1
+E 0 17516 0 16
+O 0 17522 0 17548
+O 0 17536 0 17548
+O 0 17517 0 17549
+O 0 17527 0 17551
+O 0 17539 0 17553
+M 1 17528 4 17554 2
+O 0 17528 0 17554
+O 0 17529 0 17554
+O 0 17537 0 17554
+O 0 17538 0 17554
+M 1 17528 4 17555 2
+O 0 17528 0 17555
+O 0 17529 0 17555
+O 0 17537 0 17555
+O 0 17538 0 17555
+M 1 17529 4 17556 2
+O 0 17530 0 17556
+O 0 17530 0 17556
+M 1 17529 4 17557 2
+O 0 17530 0 17557
+O 0 17530 0 17557
+O 0 17531 0 17558
+O 0 17535 0 17558
+O 0 17531 0 17559
+O 0 17535 0 17559
+M 1 17530 1 17560 1
+M 1 17531 1 17560 1
+O 0 17532 0 17560
+O 0 17533 0 17560
+O 0 17534 0 17560
+M 1 17532 3 17562 1
+O 0 17528 0 17562
+O 0 17529 0 17562
+O 0 17537 0 17562
+O 0 17538 0 17562
+M 1 17532 3 17563 1
+O 0 17528 0 17563
+O 0 17529 0 17563
+O 0 17537 0 17563
+O 0 17538 0 17563
+M 1 17532 3 17564 1
+O 0 17528 0 17564
+O 0 17529 0 17564
+O 0 17537 0 17564
+O 0 17538 0 17564
+O 0 17529 0 17567
+O 0 17518 0 17567
+O 0 17519 0 17567
+O 0 17540 0 17567
+M 1 17533 1 17567 1
+E 0 17541 0 16
+O 0 17542 0 17568
+O 0 17543 0 17568
+M 1 17534 3 17569 1
+E 0 17550 0 16
+M 1 17534 3 17570 1
+E 0 17550 0 16
+M 1 17534 3 17571 1
+E 0 17550 0 16
+M 1 17535 3 17572 1
+E 0 17549 0 16
+M 1 17535 3 17573 1
+E 0 17549 0 16
+M 1 17535 3 17574 1
+E 0 17549 0 16
+M 1 17536 3 17575 1
+E 0 17548 0 16
+M 1 17537 1 17576 1
+M 1 17536 3 17577 1
+E 0 17548 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,5769 @@
+#AREADATA
+Name Solki Village~
+Builders Cauthon~
+VNUMs 13000 13199
+Credits { None} Cauthon     Solki Village~
+Security 1
+Xcontinent 1
+Age 15
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#13000
+small furry creature~
+the elevator guard~
+A small furry creature stands here at the bottom of the tree.
+~
+There is a small furry creature standing here on its hind legs. It is
+dressed in various hides, and seems to be intelligent. It looks over at
+you, and nods at you. He looks like he is guarding something of some sort,
+though you can see nothing of value around. Perhaps there is something in
+the tree behind him which is of value?
+~
+bear~
+ABI 0 1000 0
+60 6 1d1+99 1d1+100 8d6+28 none
+-30 -30 -30 -30
+DEO Z EI 0
+stand stand none 0
+AGV ABCDEFHJKUV medium 0 the guilds~
+M delay 13001 100~
+M speech 13000 ironwood~
+#13001
+deer animal fast~
+a deer~
+A deer is quietly grazing in the woods.
+~
+You see a single deer slowly drinking from a tiny creek. It seems to be
+spooked by almost every noise which doesn't seem natural. It looks up,
+and moves a short distance to a fresh part of the stream. The power in its
+legs simply amazes you. It seems so docile, and so beautiful. The white
+markings on its shiny coat seem to catch the sun occasionally.
+~
+fox~
+AGH JPZ 1000 0
+11 1 2d8+134 1d1+100 1d10+2 bite
+1 1 1 1
+FHKL 0 0 0
+stand stand none 600
+AGV ACDEFHJKQV medium 0 the guilds~
+M greet 13002 75~
+M grall 13002 30~
+#13002
+squirrel animal small~
+a squirrel~
+A squirrel is running around collecting nuts.
+~
+A tiny grey squirrel bounds from tree to tree. It chatters every so often
+to other squirrels in the area, and they occasionally respond. You notice 
+as it sees a single nut lying on the ground. It stuffs it into its mouth
+and bounds off for some secret hiding spot.
+~
+cat~
+AG GZ 1000 0
+5 1 2d7+55 1d1+100 1d6+1 bite
+5 5 5 5
+FHM 0 X GS
+stand stand none 125
+ABGV ACDEFHJKQUV small 0 the guilds~
+#13003
+fox animal~
+a fox~
+A fox is running through the grass.
+~
+You see a small brown fox running through the grass. It seems to
+disappear under a bush, only to re-appear out the side of it. You watch
+it as it runs back and forth around the forest for a bit, searching for food
+or eluding prey.
+~
+fox~
+AG Z 1000 0
+9 1 2d6+90 1d1+100 1d7+1 bite
+1 1 1 1
+FHJ 0 0 0
+stand stand none 240
+AGV ACDEFHJKQV medium 0 the guilds~
+#13004
+healer tournament~
+A Healer~
+A Healer is here to help you gear up for a tourney.
+~
+This healer is here to help you get ready for battle. He is fairly well
+trained in the clerical arts, though no doubt not quite as well as others
+you have encountered in your travels. He'll help you be the best you
+can be... for a price.
+~
+human~
+ABa DFHJZ 0 0
+50 5 50d10+4500 1d1+100 5d8+19 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13005
+solki guard green uniform~
+a solki guard~
+A Solki guard is standing here, doing his duty.
+~
+A large, burly, hairy fellow is standing here.  Beneath his bushy,
+drooping eyebrows, you can see his eyes are warily surveying the land
+around, to ensure nothing amiss is happening.  His stance implies that he
+knows very well how to use the weapon at his side as well as how to fight
+bare-handed when necessary.  
+~
+bear~
+ABG JLNT 900 0
+30 3 10d12+880 5d5+20 4d7+8 beating
+-6 -12 -9 -9
+DEORT 0 EI 0
+stand stand male 700
+AGV ABCDEFHJKUV large 0 the guilds~
+#13006
+sally seradon woman salad~
+Sally Seradon~
+A woman is here, making salads.
+~
+A tall Solki is here, standing behind the salad counter, waiting to serve
+you the salad of your choice.  She has long, brown hair, and is quite
+slender.  Perhaps eating salads all day long helps her keep in shape.  She
+is wearing an apron with pictures of a few vegetables on them.  Her friendly
+smile warms you right down to your toes.  
+~
+bear~
+ABG DJ 1000 0
+40 2 10d10+1600 7d9+125 3d7+12 claw
+-13 -13 -13 -13
+DEO ABCD EI 0
+stand stand female 100000
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13007
+large mustached solki albert armor dealer~
+Albert the armor dealer~
+A large, moustached Solki is reading up on the latest armor.
+~
+A very large Solki is standing here.  He wears a large brown mustache on
+his face, and less hair on the top of his head than most other Solki have. 
+He has tattoos of swords, shields, and snakes on his forearms and chest,
+which have coloured the hair which grow from those places, so that his fur
+looks tattooed as well as his body.  The quickness with which he does his
+job is more than you would expect from someone his size.  
+~
+bear~
+ABG JL -300 0
+50 6 50d15+4750 1d1+100 5d8+19 cleave
+-20 -20 -20 -20
+DEO ABCD EI 0
+stand stand male 250000
+AGV ABCDEFHJKUV large 0 the guilds~
+M random 13004 3~
+#13008
+pete potion tall bear solki~
+Pete the potion dealer~
+A tall Solki with dark hair peers over his glasses at you.
+~
+~
+bear~
+ABG DJT 1000 0
+55 4 50d10+7000 1d1+100 10d4+23 crush
+-25 -25 -25 -25
+DEO ABCD EI 0
+stand stand none 400000
+AGV ABCDEFHJKUV large 0 the guilds~
+M delay 13007 100~
+M random 13006 2~
+#13009
+solki cadet young training soldier~
+a Solki cadet~
+A young Solki is here, training to be a soldier.
+~
+A large, young looking Solki is here, looking rather unsure of himself. 
+He seems to glance around occasionally, as if confirming his surroundings. 
+He is in rather good shape, although still seems tired from his recent
+exercise.  He looks as though he will one day make a fine member of the
+Solki military.  
+~
+bear~
+AGT b 1000 0
+18 2 4d10+240 3d5+40 2d8+4 slice
+0 -6 -3 -3
+DELO 0 EI 0
+stand stand male 1000
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13010
+beverly banker well dressed solki~
+Beverly the banker~
+A well-dressed Solki is looking over her glasses at you.
+~
+A solki is standing behind a desk, going over some papers in front of
+her.  She is wearing a long, blue skirt and a light blue blouse, with a
+blazer draped over the chair behind her.  As you walk into the room, she
+lifts her glasses up over her perfectly prepared hair and looks
+inquisitively at you.  
+~
+bear~
+ABGe DJT 1000 0
+30 3 6d12+853 1d1+100 4d6+8 none
+-9 -9 -9 -9
+DEO ABCD EI 0
+stand stand female 400000
+AGV ABCDEFHJKUV large 0 the guilds~
+M random 13005 2~
+#13011
+old man examining walter weaponsmith solki~
+Walter the Weaponsmaster~
+An old man is here, examining a blade.
+~
+You see an old man, seemingly leaning against the wall for support as he
+checks the edge on a perfectly sharp dagger.  He looks at you, and you feel
+as if he has judged your ability to run, fight, and dodge, all in a single
+glance.  As you look at him more closely, you realise that underneath his
+fur are well toned muscles that have never forgotten their exertions from
+years past.  He has several scars along his arms, although you feel that his
+opponent likely left the fight in a much worse situation, if he left at all.
+~
+bear~
+ABG JL 400 0
+50 5 50d10+4500 1d1+100 5d8+19 none
+-20 -20 -20 -20
+DEO ABCD EI 0
+stand stand male 250000
+AGV ABCDEFHJKUV large 0 the guilds~
+#13012
+martin magic man short solki~
+Martin the magic man~
+A short Solki wearing a white coat is ready to sell you an artifact.
+~
+A short, skinny Solki is busy scurrying around his shop.  He steps over
+to one shelf and picks up a jaundice coloured wand.  He turns it over,
+shakes it a bit, and then replaces it with a self-satisfied nod.  As he
+turns around, he notices you watching him.  He makes a small squeek and
+turns back towards the main counter.  His extremely small steps manage to
+take him surprisingly quickly back to where his books lie.  Once there, he
+regards you more calmly, and inquires as to what service he can provide for
+you.  
+~
+bear~
+ABG DF 0 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+DEO BCDT EI 0
+stand stand male 400000
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13013
+michelle muffin maker blue solki~
+Michelle the muffin maker~
+A blue eyed Solki is cheerfully placing muffins on a rack to cool.
+~
+The owner of this shop is carefully setting some freshly baked muffins
+onto a rack to cool.  As you walk up to see the current selection, she turns
+her blue eyed gaze upon you.  She gestures for you to take your pick from
+any of the muffins you see before you.  A slight breeze runs through the
+shop, making her skirt flutter and her hair wave in the wind.  
+~
+bear~
+ABG J 1000 0
+50 5 50d10+4500 1d1+100 5d8+19 crush
+-20 -20 -20 -20
+DEO ABCD EI 0
+stand stand female 100000
+AGV ABCDEFHJKUV medium satin the guilds~
+M random 13008 2~
+#13014
+jeremy jeweler large burly solki~
+Jeremy the jeweler~
+A large, burly Solki is leaning against a table, arms crossed.
+~
+A muscular, burly Solki is leaning against a desk, slowly looking around
+the room.  Each of his fingers sports a ring with a jewel of unimaginable
+size.  As he notices you studying him, he smiles haughtily at you, and you
+can see that over half his teeth have been replaced with gold.  A large
+bejeweled dagger is sheathed at his belt, but you don't doubt that the blade
+is sharp enough to easily break through your skin.  
+~
+bear~
+ABG DJZ 500 0
+55 5 50d10+7000 1d1+100 10d4+23 crush
+-25 -25 -25 -25
+DEO ABCD EI 0
+stand stand male 600000
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13015
+gina tall solki~
+Gina~
+A tall Solki is sitting on a chair, painting her nails.
+~
+A tall Solki is sitting on a chair, noisily chewing her gum.  One hand
+occasionally reaches up to twirl a finger around a strand of perfectly done
+hair, while she admires the paint job on the nails on her other hand.  As
+you walk in the door, she looks up for a moment, gives you a quick, fake
+smile, then goes back to what she is doing. 
+~
+bear~
+ABG 0 1000 0
+55 5 50d10+7000 1d1+100 10d4+23 none
+-25 -25 -25 -25
+DEO ABCD EI 0
+sit sit female 400000
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13016
+middle aged solki woman~
+a Solki woman~
+A middle-aged solki is doing her daily shopping.
+~
+A solki woman is walking here, scanning everything around her looking for
+the best sale.  She is neatly and cleanly dressed, although you can tell no
+extra expense went into purchasing her outfit.  Her glance passes over you,
+dismissing you as being unable to help her shopping spree.  
+~
+bear~
+AG J 750 0
+34 3 11d10+1250 1d1+100 4d6+10 slap
+-8 -8 -8 -8
+DEFIO 0 EI 0
+stand stand female 2500
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13017
+solki child boy~
+a solki child~
+A solki child is here, playing a game of marbles.
+~
+A small child is sitting here on the ground, carefully flicking marbles
+into a small circle.  Despite the look of intense concentration on his face,
+he doesn't seem to be doing that well.  He's wearing a t-shirt with a
+picture of some sort of action figure on it, and a pair of beige shorts.  As
+you walk by, he looks up to make sure it isn't one of his parents, and then
+gets back to his game.  
+~
+bear~
+AG P 1000 0
+22 2 5d8+360 1d1+100 5d5+7 bite
+-4 -9 -4 -2
+DEFIO 0 EI 0
+stand stand male 500
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13018
+factory worker~
+a factory worker~
+A factory worker is here, assembling something.
+~
+A very tall woman is standing in working clothes, very intent on her
+work.  She is meticulous in her job, making sure that every piece she fits
+together is placed in its proper place.  She is evidently very highly
+skilled, able to perform any of a wide variety of tasks with great accuracy.
+Her brown her is cut short to ensure it doesn't interfere with her work.  
+~
+bear~
+AG JNZb 750 0
+35 3 10d11+1350 1d1+100 4d4+6 beating
+-11 -11 -11 -11
+DEIJO 0 EHI K
+stand stand female 1200
+AGV ABCDEFHJKUV medium flesh the guilds~
+M random 13010 1~
+#13019
+man hammering smith~
+a smith~
+A man is standing in front of an anvil, hammering away.
+~
+A middle-aged Solki is standing over an anvil, with a large hammer in one
+and a piece of stock iron in the other.  He is definately a man in his
+prime, with broad shoulders, a strong back, and arms as thick as tree
+trunks.  But not only is he strong, he is also intelligent, as he expertly
+crafts solid blocks of iron into beautifully worked knives, cups, armor,
+swords, and other useful things.  
+~
+bear~
+ABG DLa 825 0
+36 3 10d11+1450 1d1+100 3d10+11 rip
+-12 -12 -12 -12
+CDEO 0 EHI 0
+stand stand male 1800
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13020
+young man apprentice smith~
+an apprentice smith~
+A young man is here, trying to make a knife.
+~
+A young man is here, in his twenties, trying to hammer out a simple
+butter knife.  He suddenly realizes that the metal is too hot, and moves to
+quench it, but can't recall which barrel to quench it in.  He is attempting
+to learn the tricks of the trade of smithing.  His deep, brown eyes are set
+with determination to learn all he can from the smith, so that he can help
+him with larger, more difficult projects.  
+~
+human~
+ABG 0 800 0
+26 2 5d10+600 1d1+100 3d7+7 strangle
+-4 -9 -7 -7
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 13009 3~
+#13021
+large man brewer beer~
+a brewer~
+A very large man is here, brewing some beer.
+~
+This man is simply huge.  He towers above you, his almost almost brushing
+the ceiling as he walks.  You soon realise that he is slightly stooped over,
+so that his head doesn't hit the ceiling.  He has very large arms, which can
+probably lift a keg of a beer without any problems.  As you watch him, he
+turns to you, and asks you in a deep, rumbling voice if you wanted to
+perhaps buy a keg or two.  
+~
+bear~
+ABG J 650 0
+38 3 15d15+1650 1d1+100 5d6+12 crush
+-10 -15 -13 -13
+DEO 0 EIR F
+stand stand male 1500
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13022
+horse~
+a horse~
+A horse is standing here, waiting to be groomed.
+~
+A large horse is standing here, looking rather bored.  It looks as if it
+hasn't had much attention paid to it recently, either by having someone ride
+it, or by having someone groom it.  Despite this lack, it seems to be fairly
+healthy, with strong legs and good teeth in its mouth.  It seems to be
+fairly friendly, too.  
+~
+wolf~
+AG Z 750 0
+18 1 4d12+310 1d1+100 2d7+4 stomp
+0 -5 -3 -3
+FHI 0 0 0
+stand stand none 0
+AGV ACDEFJKQV medium 0 the guilds~
+#13023
+off duty soldier~
+an off-duty soldier~
+A off-duty soldier is here, taking a quick break to relax.
+~
+A large is sitting upon a chair here, looking at all the other people in
+this room.  He was already swept his gaze over you and discerned that you
+are no threat to him.  Although he is off duty, you is still a man well
+trained in unarmed combat, and is a foe you may wish to be wary of.  He is
+sharpening a belt knife to help pass the time.  
+~
+bear~
+ABGT 0 1000 0
+24 1 5d5+500 4d4+24 2d11+8 strangle
+-3 -8 -6 -6
+CDEIJOR 0 EI 0
+sit sit male 1000
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13024
+teenaged solki~
+teenaged solki~
+A teenaged solki is lying in bed, taking a midafternoon nap.
+~
+A teenaged Solki is lying in bed, wasting his day away, like so many
+youth tend to these days.  He is fairly strong, and looks as if he works out
+fairly regularly, playing sports and other physical activities.  Judging by
+his clothes, he seems to be a jock, so perhaps you had best be a bit wary fo
+challenging him.  
+~
+bear~
+AG Jab 850 0
+28 2 6d12+703 5d10+60 2d16+8 beating
+-5 -10 -8 -8
+DEIO 0 EGI 0
+sleep rest male 1500
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13025
+farmer~
+a farmer~
+A farmer stands here, tending his crops.
+~
+A very, very large man is standing in the field, working among the crops
+and helping them grow.  As you approach him, you realise that he is in fact
+a bear, walking upright, intelligently and diligently tending his fields. 
+His large, muscled hands can confidently grip any farm implement he may need
+to use, and you fear that they would be equally adept at bruising you in a
+fight.  
+~
+bear~
+AG J 800 0
+30 2 6d12+853 1d1+100 4d8+2 squeeze
+-9 -9 -9 -9
+DEINO 0 EIXb 0
+stand stand male 400
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13026
+factory supervisor large man~
+the factory supervisor~
+A large man is standing here, supervising the activity below.
+~
+A large man is pacing back and forth anxiously.  He frequently yells out
+orders to the people in the room with him, or asks people for status reports
+and other such information.  He occasionally looks down onto the factory
+floor, causing fear, panic, and increased productivity in all those who bear
+his glare.  He is fairly confident in all his decisions though, and you
+believe he would be a tough adversary to beat in combat.  
+~
+bear~
+ABGQ HJPZ 700 0
+42 4 25d25+2300 10d10+150 3d13+17 rip
+-14 -14 -14 -14
+DEFIJO A BEHIZ 0
+stand stand male 4000
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13027
+secretary colonel~
+a secretary~
+A colonel with secretarial duties is working here.
+~
+Despite the fact that this man is currently performing secretarial
+duties, you can easily see that he maintains a regular exercise schedule to
+keep himself in top shape.  It seems to be that this assignment is merely
+temporary, and that he cannot wait to get back into active duty.  In the
+meanwhile, he performs his duties carefully and accurately.  He would be
+very annoyed if you disturbed him while he was working.  
+~
+bear~
+ABT JZ 750 0
+32 3 10d10+1000 1d1+100 4d4+7 charge
+-10 -10 -10 -10
+BDEIKOR 0 EI 0
+sit stand male 1250
+AGV ABCDEFHJKUV medium 0 the guilds~
+M random 13011 2~
+#13028
+large burly solki dad baking~
+a Solki dad~
+A large, burly Solki is here, baking a loaf of bread.
+~
+Standing before you is a very large, very strong Solki.  He is the proud
+father of his family, both going to work during the day to earn a living,
+and coming home at night to help maintain a home.  As you watch, he is
+preparing some food for dinner, later tonight.  
+~
+bear~
+ABG JLV 700 0
+35 3 10d10+1300 1d1+100 4d7+11 knock
+-11 -11 -11 -11
+DEFJNOR 0 EHI P
+stand stand male 1200
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13029
+old solki grandfather~
+a Solki grandfather~
+An old Solki is standing here, leaning against his cane.
+~
+You see a very old Solki watching you, leaning heavily on his cane for
+support.  You can see that he was once a strong young man, but that the
+years have taken their toll on him.  None the less, from the glint in his
+eye, you can tell that he still retains all his mental abilities.  Judging
+from his confidence, it seems that perhaps he has some abilities that you
+might not necessarily expect.  
+~
+bear~
+AGQRS CDJb 750 0
+33 2 8d8+850 20d10+200 4d3+7 beating
+-11 -11 -11 -11
+BDEIJO 0 DEI 0
+stand stand male 2000
+AGV ABCDEFHJKUV small 0 the guilds~
+#13030
+small tiny caterpillar~
+a small caterpillar~
+A tiny caterpillar is inching along the branch of a tree.
+~
+A tiny green caterpillar with tiny spots is slowly inching its way down a
+tree-branch.  You can look very closely, and watch how it slowly wriggles
+its body along the bark of the tree.  You put your finger in front of it,
+and it calmly climbs over your finger and back onto the tree branch.  
+~
+centipede~
+AG Z -900 0
+1 0 2d4+10 5d5+10 1d2+1 digestion
+9 9 9 9
+0 0 FITb E
+stand stand none 0
+ABGO ACFK small 0 the guilds~
+#13031
+tall man solki~
+a tall Solki~
+A tall man is walking here, heading off to work.
+~
+A very tall man is walking pruposely to work.  He is dressed up for the
+occasion, leading you to wonder if he has an important meeting or other
+critical engagement.  He has a strong, purposeful stride, and looks as
+though he is very determined to get to his destination.  
+~
+bear~
+AGR D 800 0
+37 4 10d10+1700 10d10+50 3d9+12 thwack
+-12 -12 -12 -12
+DEFJO 0 EIJ 0
+stand stand male 2500
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13032
+desk worker~
+a desk worker~
+An desk worker is here, trying to make the day go by faster.
+~
+One of the company's many workers is sitting here at a desk, quickly
+preparing for a meeting with her supervisor.  You can tell she's trying to
+organize his thoughts before this important meeting, and you can also tell
+she's having very little success in getting her thoughts in order.  Despite
+spending her days in the office, you can tell that she probably still knows
+how to handle herself in a rough situation.  
+~
+bear~
+ABG O 800 0
+29 1 8d12+900 6d10+30 2d8+5 crush
+-9 -9 -9 -9
+DEFIJKOU 0 EI P
+sit sit female 1500
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13033
+solki warehouse worker~
+A warehouse worker~
+A warehouse worker is here, moving boxes around.
+~
+An extremely well built Solki is wandering around the dimly lit room.  He
+seems to have grown accustomed the both the dim lighting and the perpetual
+dustiness in the air.  He looks over at you and stops for a moment, as if
+not sure what to make of you.  After several moments of intense
+concentration, he seems to almost forget you exist, and continues along his
+way.  
+~
+bear~
+ABG LZ 850 0
+30 2 10d12+875 2d5+5 4d6+8 crush
+-9 -9 -9 -9
+CDEOU 0 EIPQ H
+stand stand male 500
+AGV ABCDEFHJKUV large 0 the guilds~
+#13034
+cow~
+a cow~
+A cow is here, grazing peacefully.
+~
+A large cow is standing quite still, head bowed over a patch of
+particularly green grass, contently munching away.  As you walk by, it looks
+up at you, still chewing.  You walk towards it and away from it, and it just
+looks at you, still chewing.  Eventually it puts its head down towards the
+grass, still chewing, having decided to ignore you.  
+~
+pig~
+AG 0 800 0
+20 2 3d9+333 1d1+100 2d8+5 charge
+-4 -4 -4 -4
+CIM 0 D 0
+stand stand none 0
+AGV ACDEFHJK large 0 the guilds~
+M random 13012 2~
+#13035
+average solki~
+An average Solki~
+An average looking Solki is walking around.
+~
+A solki is slowly walking around, taking in everything in view.  Looking
+at this fellow, you notice nothing extrordinary: Average build, average
+height, moderately good looking, and an easy going manner manage to make
+this Solki one of the least interesting and most boring Solki you have ever
+seen.  
+~
+bear~
+AG V 800 0
+26 2 10d15+700 4d5+60 3d7+7 crush
+-7 -7 -7 -7
+DEIO 0 CEI 0
+stand stand none 750
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13036
+drill sergeant~
+the drill sergeant~
+The drill sergeant is standing here, inspiring fear in all his cadets.
+~
+You cannot help but notice the drill sergeant standing here; his frequent
+loud and piercing bellows are impossible to ignore.  He seems to currently
+be berating some poor cadet for failing to button up the buttons on his
+tunic in the correct order.  He is very large for a Solki, and seems to be
+extremely skilled at a wide variety of martial arts.  
+~
+bear~
+AGT DL 700 0
+29 3 6d12+778 2d10+30 2d13+10 punch
+-9 -9 -9 -9
+DEFIJNOR 0 EIZ C
+stand stand male 1500
+AGV ABCDEFHJKUV large 0 the guilds~
+#13037
+general~
+the General~
+The General is slowly pacing back and forth, debating his next command.
+~
+A very large and very hairy Solki stands before you.  Despite his age,
+you can tell that he has kept in the very best of physical shape.  Even
+while at ease, there is a tension with him, as if he is always ready to
+fight.  His knowledge of both personal combat and group tactics would make
+him a worthy adversary.  
+~
+bear~
+ABFT DFHLTZ 800 0
+45 5 25d20+2800 1d1+100 8d4+16 strangle
+-15 -15 -15 -15
+DEFHIJKO AB EGI P
+stand stand male 4000
+AGV ABCDEFHJKUV large 0 the guilds~
+M fight 13014 15~
+#13038
+trained military man lieutenant~
+a Lieutenant~
+A well-trained military man is here, ready to do his duty.
+~
+A career officer stands tall before you.  He is everything a military man
+should be; strong, quick and decisive in his actions.  With a single glance,
+he has accurately gauged your current combat ability as well as your
+potential.  His broad shoulders and powerful jaw are quite intimidating, and
+make you think twice about crossing him.  
+~
+bear~
+ABGT DFLPZ 800 0
+42 4 25d10+2250 2d5+10 3d12+14 crush
+-14 -14 -14 -14
+DEFHILOR 0 CEI 0
+stand stand male 1000
+AGV ABCDEFHJKUV medium 0 the guilds~
+M fight 13013 25~
+#13039
+holding mob~
+holding mob~
+A holding mob
+~
+~
+human~
+ABGZ 0 800 0
+60 6 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -30
+0 0 0 0
+sleep sleep none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13040
+solki nanny~
+a Solki nanny~
+A Solki nanny is trying to calm down a crying child.
+~
+An elder lady is walking around, keeping a careful eye on her charges. 
+The children around her love her dearly, but are always trying to pull a
+prank or cause some mischief.  She has a cheerful disposition but a nasty
+temper.  Be careful not to get her angry!  
+~
+bear~
+AGQ J 800 0
+34 3 10d8+1150 1d1+99 4d7+8 beating
+-11 -11 -11 -11
+DEFIJO 0 EI 0
+stand stand female 1500
+AGV ABCDEFHJKUV medium 0 the guilds~
+#13044
+solki guard captain~
+the Solki captain~
+The Solki captain of the guards is guarding the gate.
+~
+An extremely large Solki is standing here, commanding the other guards
+around him.  He has more muscles than you can count, more weapons than you
+want to count, and a strong desire to kick your butt.  Don't give him a
+reason!  
+~
+bear~
+ABGT DH 850 0
+38 3 10d15+1800 1d1+99 5d6+12 crush
+-13 -13 -13 -13
+CEFO 0 EI 0
+stand stand none 1500
+AGHMV ABCDEFGHIJKUV medium 0 the guilds~
+#13054
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13055
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#13100
+jubilee~
+Jubilee~
+Jubilee the jeweler is here, trading precious metals and gems.
+~
+She is tall and slender and very proper looking.  Her brown curly hair
+comes down to just past her shoulders, showing a hint of red when the light
+from the gems is just right.  She looks at you with her green eyes for a
+second then continues working.  
+~
+elf~
+ABG JLP 950 0
+45 4 25d10+3000 1d1+100 8d4+16 slice
+-15 -15 -15 -15
+EHIN ABDN BJ Z
+stand stand female 110
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M fight 13100 100~
+#0
+
+
+
+#OBJECTS
+#13000
+wood wooden key~
+a wooden key~
+A large wooden key is here.~
+wood~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+A
+20 20  
+A
+9 2000  
+#13001
+test piece~
+A test piece.~
+This piece of eq is for testing only.~
+wood~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#13002
+pair blue pants~
+a pair of blue pants~
+A pair of blue pants are here, folded neatly.~
+cloth~
+armor acd AF
+7 8 9 4 0
+30 50 1650 P
+A
+18 2  
+#13003
+pair blue boots~
+a pair of blue boots~
+A pair of blue boots are standing here.~
+leather~
+armor acd AG
+7 8 9 5 0
+30 60 1450 P
+A
+18 1  
+A
+2 1  
+#13004
+blue tunic~
+a blue tunic~
+A blue tunic with a small embroidered tree embroidered is here.~
+cloth~
+armor acd AD
+7 8 10 4 0
+30 80 1860 P
+A
+20 -1  
+A
+18 2  
+#13005
+thick wooden spear broad point~
+a thick spear~
+A thick, wooden spear with a broad point is here.~
+wood~
+weapon acd AN
+staff 4 6 knock H
+30 80 1600 P
+A
+18 1  
+A
+4 -1  
+#13006
+garden salad lettuce tomatoes peppers vegetables~
+some garden salad~
+Some tossed lettuce, tomatoes, peppers, and other vegetables are here.~
+food~
+food 0 A
+16 24 0 0 0
+1 10 45 P
+#13007
+greek salad lettuce olives feta cheese salad dressing~
+some greek salad~
+Some lettuce, olives, and feta cheese with salad dressing are here.~
+food~
+food 0 A
+18 26 0 0 0
+1 10 60 P
+#13008
+oriental salad lettuce manadarin slices water chestnuts~
+some oriental salad~
+Some lettuce, mandarin slices, and water chestnuts are here.~
+food~
+food 0 A
+14 26 0 0 0
+1 10 60 P
+#13009
+caesar salad lettuce bacon bits croutons salad dressing~
+some caesar salad~
+Some lettuce, bacon bits, croutons, and a rich salad dressing are here.~
+food~
+food 0 A
+16 22 0 0 0
+1 10 45 P
+#13010
+square oak table~
+a table~
+A square, oak table is sitting here.~
+wood~
+furniture 0 0
+4 700 DGN 0 0
+1 600 0 P
+#13011
+wooden chair~
+a wooden chair~
+A wooden chair with a tall back is here.~
+wood~
+furniture 0 0
+1 200 EH 0 0
+1 250 0 P
+#13012
+magazine chainmail swords shields~
+The latest copy of "Swords & Shields"~
+A magazine with chainmail on the front cover is lying here.~
+paper~
+trash 0 AO
+0 0 0 0 0
+0 20 150 P
+#13013
+green apron garden vegetables~
+a green apron with a garden of vegetables on it~
+A green apron is lying on the ground.~
+cloth~
+clothing 0 AD
+0 0 0 0 0
+1 60 250 P
+#13014
+living shield branches vines~
+a living shield~
+A shield of intertwined branches and vines is growing here.~
+wood~
+armor A AJ
+6 6 8 4 0
+14 100 1850 P
+A
+13 5  
+#13015
+living helmet vines branches~
+a living helmet~
+Vines and branches, laced together to form a helmet, lie here.~
+wood~
+armor A AE
+5 6 8 3 0
+14 80 1760 P
+A
+13 5  
+#13016
+vines twigs living belt~
+a living belt~
+Vines and twigs are here, ready to wrap around your waist.~
+wood~
+armor A AL
+4 4 6 2 0
+14 60 2175 P
+A
+19 1  
+#13017
+branches leaves living leggings~
+some living leggings~
+Some branches and leaves are coiled up on the ground.~
+wood~
+armor A AF
+5 6 7 4 0
+14 70 1790 P
+A
+18 1  
+#13018
+bottle nyquil~
+a bottle of Nyquil~
+A bottle of Nyquil is here, curing your cold.~
+water~
+potion C AO
+38 'sleep' 'cure poison' 'cure disease' 'reserved'
+15 20 6000 P
+#13019
+buckley buckley's potion~
+a bottle of Buckley's~
+A bottle of Buckley's is here, curing the common cold.~
+wood~
+potion 0 0
+30 'poison' 'cure disease' 'cure serious' 'reserved'
+10 20 2500 P
+#13020
+bottle pink fluid~
+A bottle of pink fluid~
+A clear bottle filled with pink fluid is here.~
+water~
+potion G AO
+15 'protection neutral' 'reserved' 'reserved' 'reserved'
+18 20 3000 P
+#13021
+ritalin~
+Some Ritalin~
+Some Ritalin is waiting to be swallowed.~
+energy~
+potion 0 AO
+25 'calm' 'cure disease' 'chill touch' 'reserved'
+27 15 1740 P
+#13022
+used machete~
+a used machete~
+A machete, often used for cutting through forests, lies here.~
+wood~
+weapon 0 AN
+axe 4 4 slice N
+23 50 2800 P
+A
+18 2  
+A
+2 1  
+A
+1 -1  
+#13023
+length vine~
+a length of vine~
+A length of vine has been pulled off of a tree.~
+wood~
+weapon A AN
+flail 4 4 skinning N
+20 40 3200 P
+A
+17 5  
+A
+18 2  
+#13024
+long whip~
+a long whip~
+A long, thorn-tipped whip lies here.~
+wood~
+weapon AB AN
+whip 4 4 tear D
+21 45 3550 P
+A
+18 1  
+#13025
+frozen sword~
+a frozen sword~
+A sword lies before you, cold to the touch.~
+wood~
+weapon Aabd AN
+sword 3 6 frbite BO
+24 75 3200 P
+A
+18 2  
+A
+19 1  
+#13026
+sleeping pill~
+a sleeping pill~
+This pill will help relax you to sleep.~
+energ~
+pill 0 AO
+40 'calm' 'sleep' 'heal' 'reserved'
+30 15 3500 P
+#13027
+living bracelet~
+a living bracelet~
+A living bracelet is here, curling around whatever it can find.~
+wood~
+armor 0 AM
+6 6 4 3 0
+14 10 1500 P
+A
+13 5  
+#13028
+living necklace slithering snake~
+a living necklace~
+A slithering snake is here, ready to rest around your neck.~
+leather~
+armor 0 AC
+6 6 4 3 0
+14 35 1650 P
+A
+13 5  
+#13029
+steroid pill~
+a steroid pill~
+A steroid pill is here, pumping you up.~
+plastic~
+pill 0 A
+8 'giant strength' 'reserved' 'reserved' 'reserved'
+16 15 1800 P
+#13030
+large log~
+a large log~
+A large log is here, ready to bash someone over the head.~
+wood~
+weapon 0 AN
+mace 3 5 smash F
+20 80 1480 P
+A
+18 4  
+#13031
+well made spear excellent craftmanship~
+well made spear~
+A spear of excellent craftmanship lies here.~
+wood~
+weapon AG AN
+staff 4 4 stab E
+23 60 4000 P
+A
+18 2  
+A
+19 1  
+#13032
+iron tipped polearm iron-tipped long stick~
+iron-tipped polearm~
+A long stick is lying here, with its iron tip gleaming in the light.~
+iron~
+weapon 0 AN
+polearm 5 4 gore D
+22 55 2530 P
+A
+19 -2  
+E
+iron~
+~
+#13033
+stylish glasses~
+a pair of stylish glasses~
+A pair of stylish, blue glasses are lying here.~
+glass~
+trash 0 AE
+0 0 0 0 0
+1 10 3000 P
+#13034
+shard ironwood~
+a shard of ironwood~
+A shard of ironword has been splintered from a tree.~
+wood~
+weapon 0 AN
+dagger 3 6 stab 0
+20 20 2400 P
+A
+18 2  
+E
+shard~
+You see the word 'akydgyyc' engraved upon this shard.  You realise you
+can recall having heard this word whispered on the forest floor below.  
+~
+E
+ironwood~
+You see the word 'akydgyyc' engraved upon this shard.  You realise you
+can recall having heard this word whispered on the forest floor below.  
+~
+E
+iron~
+~
+#13035
+white stick wand haste~
+a wand of haste~
+A white stick is darting quickly back and forth across the ground.~
+wood~
+wand B AO
+18 6 6 'haste' 0
+15 20 2300 P
+#13036
+scroll faerie fire piece paper pink aura~
+scroll of faerie fire~
+A piece of paper with a pink aura is lying here.~
+parchment~
+scroll U AO
+5 'faerie fire' 'reserved' 'reserved' 'reserved'
+30 10 3800 P
+#13037
+long staff stone skin hardening~
+staff of stone skin~
+A long staff is slowly hardening into a stone.~
+stone~
+staff 0 AO
+12 3 3 'stone skin' 0
+27 40 3200 P
+#13038
+piece parchment scroll sanctuary~
+a scroll of sanctuary~
+A piece of parchment is surrounded by a white aura.~
+parchment~
+scroll A AO
+15 'sanctuary' 'reserved' 'reserved' 'reserved'
+40 20 4500 P
+#13039
+opal~
+an opal~
+A lustrous opal reminds you of far-off places.~
+gem~
+gem W AO
+0 0 0 0 0
+0 1 2000 P
+#13040
+ruby gem~
+a ruby~
+A beautiful, if small, ruby is here.~
+gem~
+gem TW AO
+0 0 0 0 0
+0 1 6000 P
+#13041
+diamond gem~
+a diamond~
+A diamond catches and reflects the lighting.~
+gem~
+gem W A
+0 0 0 0 0
+0 1 10000 P
+#13042
+topaz gem~
+a topaz~
+A topaz glitters in the light.~
+gem~
+gem W A
+0 0 0 0 0
+0 1 3000 P
+#13043
+ruby red slippers~
+ruby {Rr{re{Rd{x slippers~
+A pair of ruby {Rr{re{Rd{x slippers are ready to take you home.~
+gem~
+portal W AGO
+1 0 0 13080 0
+35 20 5000 P
+A
+14 25  
+A
+17 -8  
+A
+2 2  
+#13044
+blueberry muffin~
+a blueberry muffin~
+A blueberry muffin is making your mouth water.~
+food~
+food 0 A
+15 30 0 0 0
+1 10 250 P
+#13045
+chocolate chip muffin~
+a chocolate chip muffin~
+A chocolate chip muffin is looking very sweet.~
+food~
+food 0 A
+14 28 0 0 0
+1 10 275 P
+#13046
+bran muffin~
+a bran muffin~
+A bran muffin is here, ready to fill you up.~
+food~
+food 0 A
+23 40 0 0 0
+1 10 225 P
+#13047
+cranberry muffin~
+a cranberry muffin~
+A cranberry muffin is here, looking tart.~
+food~
+food 0 A
+15 30 0 0 0
+1 10 260 P
+#13048
+carrot muffin~
+carrot muffin~
+A carrot muffin is here, looking quite tasty.~
+food~
+food 0 A
+12 25 0 0 0
+1 10 240 P
+#13049
+raisin muffin~
+raisin muffin~
+A raisin muffin has been set down here.~
+food~
+food 0 A
+15 30 0 0 0
+1 10 250 P
+#13050
+blue skirt~
+a blue skirt~
+A blue skirt is lying here, waiting to be worn.~
+cloth~
+trash 0 AF
+0 0 0 0 0
+1 20 1000 P
+#13051
+large desk piled papers~
+a large desk~
+A large desk is here, piled high with papers.~
+wood~
+furniture 0 0
+3 1000 BEN 0 0
+1 200 5000 P
+#13052
+colourful gift box~
+a gift box~
+A colourful box lies here, perfect for gift giving.~
+cardboard~
+container 0 AO
+50 AE 0 15 100
+1 10 500 P
+#13053
+lit candle~
+a candle~
+A lit candle lies here in a little pool of wax.~
+wax~
+light 0 A
+0 0 50 0 0
+3 20 350 P
+#13054
+piece sweet candy~
+a piece of candy~
+A very sweet looking piece of candy is lying here.~
+food~
+food 0 A
+8 12 0 0 0
+1 10 450 P
+#13055
+sports magazine sporting illuminated latest issue~
+a sports magazine~
+The latest issue of Sporting Illuminated lies here.~
+parchment~
+trash 0 A
+0 0 0 0 0
+1 10 750 P
+#13056
+steaming cup coffee~
+a cup of coffee~
+A steaming cup of coffee smells delicious.~
+tin~
+drink 0 A
+3 5 'coffee' 0 0
+1 20 340 P
+#13057
+rack shelves~
+a rack of shelves~
+A rack of shelves is filled with merchandise.~
+wood~
+container 0 0
+100 0 0 20 100
+1 100 1500 P
+#13058
+waterskin skin~
+a waterskin~
+A skin is lying here, waiting to be filled with water.~
+leather~
+drink 0 AO
+8 1 'water' 0 0
+5 10 400 P
+#13059
+large polished mahogany desk~
+a large mahogany desk~
+A large, polished mahogany desk is covered with neat stacks of paper.~
+wood~
+furniture 0 0
+5 800 DHN 0 0
+1 1000 5000 P
+E
+papers~
+You shuffle through some of the papers on the desk.  One pile is supplies
+and requisitions for the army, the next is a list of personnel in various
+brigades, and another is the budget for maintaining the army.  
+~
+#13060
+piece of paper shopping list~
+a shopping list~
+A piece of paper is lying on the ground with a long list on it.~
+parchment~
+scroll 0 AO
+15 'create food' 'create spring' 'create rose' 'reserved'
+10 10 1800 P
+E
+paper~
+e cyvrd rnnl
+e fen yt zamw
+e myet yt fkrec
+~
+E
+list~
+e cyvrd rnnl
+e fen yt zamw
+e myet yt fkrec
+~
+#13061
+white shirt~
+a white shirt~
+A plain white shirt is lying here with a speck of dust on it.~
+cloth~
+clothing 0 AK
+0 0 0 0 0
+1 30 1000 P
+#13062
+pair coveralls~
+a pair of coveralls~
+A pair of denim coveralls have gotten dirty from being used while working.~
+cloth~
+clothing 0 AD
+0 0 0 0 0
+33 40 880 P
+A
+18 1  
+A
+5 1  
+A
+20 -1  
+A
+17 -5  
+#13063
+smith smith's hammer~
+a smith's hammer~
+A large hammer is lying here, suitable for shaping iron or skulls.~
+steel~
+weapon Iad AN
+mace 4 6 pound A
+32 200 3500 P
+A
+18 2  
+#13064
+belt knife~
+A belt knife~
+A recently sharpened belt knife is lying here.~
+steel~
+weapon 0 AN
+dagger 3 6 pierce DO
+24 10 450 P
+A
+18 2  
+A
+19 -1  
+#13065
+clipboard~
+a clipboard~
+A clipboard is here, holding a sheet summarizing the daily reports.~
+paper~
+scroll 0 AO
+30 'charm person' 'reserved' 'reserved' 'reserved'
+45 10 4000 P
+A
+1 2  
+A
+12 15  
+A
+18 2  
+E
+clipboard~
+You try to leaf through the pages of the clipboard, but they are so long
+and boring that you quickly give up.  
+~
+#13066
+pen~
+a pen~
+A pen, mightier then any sword, is lying here.~
+metal~
+weapon A AN
+dagger 5 5 impale 0
+32 30 2300 P
+A
+18 3  
+A
+19 1  
+#13067
+desk~
+a desk~
+A desk is here, stacked with many piles of papers.~
+wood~
+furniture C 0
+2 500 BDGKO 0 0
+1 200 200 P
+#13068
+apron~
+an apron~
+An apron saying "Wall Usr Gsrt" is hanging from a peg on the wall.~
+cloth~
+clothing 0 AD
+0 0 0 0 0
+33 10 350 P
+A
+1 1  
+A
+3 1  
+#13069
+king sized bed~
+a king sized bed~
+A large, king size bed is made with neatly folded sheets.~
+wood~
+furniture 0 0
+8 1000 BILN 0 0
+1 1000 0 P
+#13070
+queen sized bed~
+a queen sized bed~
+A fairly large queen sized bed is layered high with warm blankets.~
+wood~
+furniture 0 0
+8 1000 BILN 0 0
+1 1000 0 P
+#13071
+old man's cane~
+an old man's cane~
+An old man's cane is lying on the ground, waiting to support someone.~
+wood~
+weapon A AN
+staff 7 3 beating E
+29 40 3200 P
+A
+18 1  
+#13072
+pair overalls~
+A pair of overalls~
+A pair of dirty overalls are lying here, needing to be cleaned.~
+cloth~
+clothing 0 AD
+0 0 0 0 0
+30 10 500 P
+A
+18 1  
+A
+1 2  
+A
+2 1  
+A
+17 -5  
+A
+4 -1  
+A
+3 -2  
+#13073
+sabre sword~
+a sabre sword~
+The drill sergeant's sabre sword is not a weapon to be trifled with.~
+steel~
+weapon a AN
+sword 4 6 pierce DF
+30 40 2400 P
+A
+1 -1  
+A
+2 -1  
+A
+19 -1  
+A
+18 3  
+#13074
+bright red tunic medals~
+a bright red tunic~
+A bright red tunic once had many medals attached to it.~
+cloth~
+clothing Ae AK
+0 0 0 0 0
+43 30 4750 P
+A
+17 -5  
+A
+18 3  
+A
+20 -4  
+A
+14 25  
+#13075
+large thick heavy truncheon~
+a thick, heavy truncheon~
+An extremely large and heavy truncheon is waiting to smash in someone's skull.~
+steel~
+weapon 0 AN
+mace 4 10 force F
+45 200 3500 P
+A
+18 1  
+#13076
+class ring graduate westtop military college~
+a class ring~
+This ring is given to graduates of the WestTop Military College.~
+gold~
+jewelry Yade AB
+0 0 0 0 0
+39 10 8500 P
+A
+2 2  
+A
+18 2  
+#13077
+large scratched table~
+a large scratched-up table~
+A large scratched-up table is here, supporting a variety of containers.~
+wood~
+container 0 0
+300 0 0 100 0
+1 150 1000 P
+#13078
+blue vial~
+a blue vial~
+A vial of blue liquid is here.~
+glass~
+trash A A
+0 0 0 0 0
+1 10 10 P
+#13079
+red vial~
+a red vial~
+A vial of red liquid is here.~
+glass~
+trash A A
+0 0 0 0 0
+1 10 10 P
+#13080
+green vial~
+a green vial~
+A vial of green liquid is here.~
+glass~
+trash A A
+0 0 0 0 0
+1 10 10 P
+#13081
+yellow vial~
+a yellow vial~
+A vial of yellow liquid is here.~
+glass~
+trash A A
+0 0 0 0 0
+1 10 10 P
+#13082
+white vial~
+a white vial~
+A vial of white liquid is here.~
+wood~
+trash A 0
+0 0 0 0 0
+0 0 0 P
+#13083
+purple jar~
+a purple jar~
+A jar of purple liquid is here.~
+glass~
+trash A A
+0 0 0 0 0
+1 10 10 P
+#13084
+black jar~
+a black jar~
+A jar of black liquid is here.~
+glass~
+trash A A
+0 0 0 0 0
+1 10 10 P
+#13085
+brown powder~
+some brown powder~
+Some brown powder is here.~
+earth~
+trash A A
+0 0 0 0 0
+1 10 10 P
+#13086
+grey powder~
+some grey powder~
+Some grey powder is here.~
+earth~
+trash A A
+0 0 0 0 0
+1 10 10 P
+#13087
+iron key~
+an iron key~
+This iron key will open a door or gate.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 10 0 P
+#13150
+cool weapon~
+a cool weapon~
+A cool weapon is here.~
+wood~
+weapon AFH AN
+exotic 10 5 none Y
+58 0 0 P
+A
+18 5 D
+F
+A 0 0 V
+F
+A 0 0 B
+F
+V 0 0 D
+#13199
+bla~
+bla~
+Bla~
+wood~
+trash 0 A
+0 0 0 0 0
+0 10 0 P
+A
+13 10  
+A
+13 10 D
+A
+13 10  
+A
+13 10  
+E
+woot~
+say hi
+say bye
+say why
+ 
+~
+#0
+
+
+
+#ROOMS
+#13000
+The Forest Floor~
+You crunch a few leaves into the dust as you walk through here. Tall
+trees tower around you on either side, and there seems to be no clear
+path; you can merely wander wherever there is a gap in the trees large
+enough for you. Squirrels chatter in the distance, and the wind
+gently ruffles your hair.
+~
+0 4 3
+D0
+~
+~
+0 0 13001
+S
+#13001
+The Forest Floor~
+The trees here are spaced slightly further apart, giving you more
+options of where to go. The grass is a bit greener here, and the sunlight
+seems a bit brighter. A small animal of some sort darts across your
+path before you can identify it.
+~
+0 0 3
+D1
+~
+~
+0 0 13002
+D2
+~
+~
+0 0 13000
+D3
+~
+~
+0 0 13003
+S
+#13002
+The Forest Floor~
+A few bugs buzz by you, but you are definitely used to such pests by
+now. The leaves rustle a bit in the wind, and a few branches creak, and
+you try to gauge whether or not a storm will be coming soon or not.
+Deciding it is relatively safe, you decide to continue your explorations,
+which look like they would be most fruitful to the west or north.
+~
+0 0 3
+D0
+~
+~
+0 0 13004
+D3
+~
+~
+0 0 13001
+S
+#13003
+The Forest Floor~
+The trees are a bit closer together here, and land is slightly uneven to
+the west, making it a little harder to climb there. A few bushes are dotted
+here and there, filled with berries which you could swear you aren't
+supposed to eat, if you want to stay healthy.
+~
+0 0 3
+D0
+~
+~
+0 0 13005
+D1
+~
+~
+0 0 13001
+S
+#13004
+The Forest Floor~
+You see a tree off to one side which you think might bear some fruit. 
+After approaching it, you realise the fruit is most likely poisonous, and
+that it simply isn't worth the risk.  You continue to wander onwards,
+picking a random direction through the trees.  One direction looks just as
+good as any other at the moment.  
+~
+0 0 3
+D0
+~
+~
+0 0 13010
+D1
+~
+~
+0 0 13008
+D2
+~
+~
+0 0 13002
+D3
+~
+~
+0 0 13006
+S
+#13005
+The Forest Floor~
+You see just a quick second of a deer running through the trees at a
+distance. A few birds overhead sing a sweet melody. The entire forest
+seems to be rather at peace, as though it has been marred by human
+hands, but has been left to grow on its own.
+~
+0 0 3
+D0
+~
+~
+0 0 13007
+D1
+~
+~
+0 0 13006
+D2
+~
+~
+0 0 13003
+S
+#13006
+The Forest Floor~
+The songs of a few birds seem to be coming from somewhere above you.  As
+you try to pinpoint the location, you notice a few squirrels leaping from
+tree to tree in the search for food for the next winter.  Unable to find the
+birds, you look back down, and are rewarded by the sight of a deer, bounding
+along in the distance at full speed.  
+~
+0 0 3
+D1
+~
+~
+0 0 13004
+D3
+~
+~
+0 0 13005
+S
+#13007
+The Forest Floor~
+The trees rise out of the ground around you at all sorts of different
+angles. None of them are too severe, but you see a few trees which have
+a split trunk and are growing in different directions, and one tree
+which seems to only be alive on one half.
+~
+0 0 3
+D1
+~
+~
+0 0 13009
+D2
+~
+~
+0 0 13005
+S
+#13008
+The Forest Floor~
+The sun shines down on you through a small gap in the trees, and
+you pause for a moment to tlet that feeling warm you up a bit. The
+wind rustles the leaves, and you decide it's time to move on. The
+ground seems a little uneven here, but walking is still not terribly
+difficult, although it would be easier if there were a set path.
+~
+0 0 3
+D0
+~
+~
+0 0 13011
+D3
+~
+~
+0 0 13004
+S
+#13009
+The Forest Floor~
+There seems to be a large, thorny bush just to the south of you. You make
+sure to stay well away from it, not wanting to get pricked. You see a
+few other bushes around you, with berries on them. You sample a couple which
+seem non-poisonous. While they test fairly good, they aren't filling at all.
+~
+0 0 3
+D0
+~
+~
+0 0 13013
+D1
+~
+~
+0 0 13010
+D3
+~
+~
+0 0 13007
+S
+#13010
+The Forest Floor~
+There are all sorts of trees around you: Oak, pine, maple, every sort of
+tree you've ever thought of. They seem to also be some of the largest trees
+you've ever seen, though they are spaced enough apart to let light shine
+through. The light is just enough to let some flowers and bushes grow.
+~
+0 0 3
+D0
+~
+~
+0 0 13012
+D1
+~
+~
+0 0 13011
+D2
+~
+~
+0 0 13004
+D3
+~
+~
+0 0 13009
+S
+#13011
+The Forest Floor~
+The smell of the trees, bushes and flowers around you fills your nose
+as you walk past them, making you want to burst out in song. The birds
+seem to do the job for you, each kind of bird singing their own little song,
+making the forest seem just that much more alive and vibrant.
+~
+0 0 3
+D2
+~
+~
+0 0 13008
+D3
+~
+~
+0 0 13010
+S
+#13012
+The Forest Floor~
+You stop for a moment to take a look at one of the tree trunk nearby, as
+you see something colourful on it. Taking a closer look, you see a small
+caterpillar slowly crawling its way up the tree. You take it into your hand,
+and let it crawl around for a moment or two, before setting it back down.
+~
+0 0 3
+D0
+~
+~
+0 0 13016
+D1
+~
+~
+0 0 13018
+D2
+~
+~
+0 0 13010
+S
+#13013
+The Forest Floor~
+There seems to be a wide variety of colours around you. The flowers which
+occasionally poke up from the ground, the berries on the various bushes,
+the growing fruit you can see here and there, all make this by far one of
+the most colourful forests you've ever seen.
+~
+0 0 3
+D0
+~
+~
+0 0 13015
+D2
+~
+~
+0 0 13009
+D3
+~
+~
+0 0 13014
+S
+#13014
+The Forest Floor~
+You notice a fox running off underneath a bush. You bend down and try to
+see where it went, but the bush is so dense that you don't really see how
+even the tiny fox could possibly have made it through. A squirrel on a tree
+above you starts chattering at you, and you decide to move on.
+~
+0 0 3
+D0
+~
+~
+0 0 13017
+D1
+~
+~
+0 0 13013
+S
+#13015
+The Forest Floor~
+As you walk underneath a low-hanging branch, you reach up and pick off a
+single leaf. You fidget with it for a moment, before letting it drift slowly
+down to the ground. A butterfly flutters by to land on a branch not
+too far away. You try to get closer, but it keeps flying away. Eventually,
+you simply gaze at its beauty from a distance.
+~
+0 0 3
+D1
+~
+~
+0 0 13016
+D2
+~
+~
+0 0 13013
+D3
+~
+~
+0 0 13017
+S
+#13016
+The Forest Floor~
+The shines down through a gap in the trees, blinding you for a small
+moment. You hurry into a bit of shade, and realise how much cooler it is
+here. A breeze wafts past, bringing with it the scent of flowers and the
+rich smell of the forest. You lean back against a tree trunk for a while,
+just taking it all in.
+~
+0 0 3
+D2
+~
+~
+0 0 13012
+D3
+~
+~
+0 0 13015
+S
+#13017
+The Forest Floor~
+The trees seem to be getting a little thicker and darker around here, as
+if the sun seemed to shine a little less in this part of the forest. The
+trunks seem to be a little more twisted, and there are fewer flowers. Perhaps
+you should head east or south back towards the rest of the forest.
+~
+0 0 3
+D1
+~
+~
+0 0 13015
+D2
+~
+~
+0 0 13014
+S
+#13018
+Before The Oak Tree~
+The trees seem to thin towards one side here, and you see a gigantic
+oak tree rising up before you. There are still the same number of animals
+around, and there seems to be a large furry one standing right in front
+of the tree. There seem to be a few ropes attached to the tree around
+a pulley, which ascend up towards the higher branches. Looking up,
+you can almost see a few platforms suspended somewhere above your head.
+~
+0 4 3
+D0
+~
+~
+4 13000 13019
+D3
+~
+~
+0 0 13012
+M 100 H 0
+S
+#13019
+Inside The Elevator~
+You are inside this small wooden room. It seems to have been made with a
+great mount of skill. You can see how the various planks of wood seemed to
+be almost grown together: You can see no obvious means of how this room was
+assembled. The leaf roof above you lets just enough sunlight through to see
+by, yet you have no doubt it would keep out any inclement weather.
+~
+0 268435460 0
+D0
+~
+~
+4 13000 13020
+D2
+~
+~
+4 13000 13018
+S
+#13020
+The Platform~
+You have ascended to a wooden platform, floating somewhere in midair. You
+realise that this is built off a nearby tree. Around you, on the same
+platform, there seem to be a few buildings. There is a small pathway to the
+north, and another path seems to go east-west from there, with more buildings
+around them. You seem to have found an entire city up here in the trees.
+~
+0 0 1
+D0
+~
+~
+0 0 13022
+D2
+~
+~
+4 13000 13019
+S
+#13021
+A Room That Isn't Here.~
+~
+0 269000708 0
+D0
+~
+~
+0 0 13006
+D1
+~
+~
+0 0 13003
+D2
+~
+~
+0 0 13014
+D3
+~
+~
+0 0 13016
+D4
+~
+~
+0 0 13009
+D5
+~
+~
+0 0 13011
+S
+#13022
+The Platform~
+You are standing on a wooden platform. Behind you, rises a large oak tree.
+To the right of you is a large building, made entirely of wood. There is no
+door which you can see, though there are a few windows, with the shutters
+shut. To the left of you is a building with no windows but a single door,
+with a sign on it, saying: 'fekkeqml'.
+~
+0 0 1
+D0
+~
+~
+0 0 13024
+D2
+~
+~
+0 0 13020
+D3
+~
+~
+1 0 13023
+S
+#13023
+The Barracks~
+You have entered a large, long room. One side of the room is a long row
+of bunk beds, all neatly made. On the other side of the room are, for
+variety, another row of bunk beds, all neatly made. Behind a few, mainly
+hidden, are a few posters. There are a couple of table lying around,
+some dim lights overhead, and no other entrances to the room.
+~
+0 0 0
+D1
+~
+~
+1 0 13022
+S
+#13024
+The Main Road~
+You are on the main road through the city. This long, wooden road
+leads from tree to tree and building to building, dipping down where
+rope bridges span between trees, going up over occasional branches.
+To the north of you is a large building, with the words 'zrll seww' written
+above it. To the south is a small walkway.
+~
+0 0 1
+D0
+~
+~
+1 0 13027
+D1
+~
+~
+0 0 13026
+D2
+~
+~
+0 0 13022
+D3
+~
+~
+0 0 13025
+S
+#13025
+The Main Road~
+The main road continues, and you can feel that the wood beneath your feet
+is strong enough to easily support quite a lot of weight. To the north
+and south of you are a few buildings with closed doors. To the west of
+you there seems to be a small open space on the platform.
+~
+0 0 1
+D1
+~
+~
+0 0 13024
+D3
+~
+~
+0 0 13028
+S
+#13026
+The Main Road~
+The wooden platfrom extends to the east and west. In fact, with the two
+large buildings to the north and south of you, you can barely tell that
+you're up in the trees, except for the occasional branch high above you. 
+To the south is a sign saying 'fekkeqml', and a large door.
+~
+0 0 1
+D1
+~
+~
+0 0 13037
+D2
+~
+~
+0 0 13040
+D3
+~
+~
+0 0 13024
+S
+#13027
+The Mess Hall~
+You are standing in a very large room, with many, many tables in it. 
+They are all neatly lined up in rows, with benches along both sides.  Along
+the walls are holders for torches, as well as many windows, with which to
+light up this massive room.  There are still a few dishes scattered here and
+there, from the previous meal.  
+~
+0 0 1
+D2
+~
+~
+1 0 13024
+S
+#13028
+Military Square~
+You are standing in a fairly large, open space. Streets radiate off in all
+four cardinal directions. To the north-west of you, there seems to be a fairly
+tall building, taller than the other single-story buildings around you. To
+the east and south, the streets stretch as far as you can see. To the north
+and west, they seem to end abruptly after a short distance.
+~
+0 0 1
+D0
+~
+~
+0 0 13030
+D1
+~
+~
+0 0 13025
+D2
+~
+~
+0 0 13032
+D3
+~
+~
+0 0 13031
+S
+#13029
+A Wedding Chapel~
+You are standing in a beautiful wedding chapel.  The stained glass
+windows are breathtaking, and the organ music is actually good for once. 
+You are here to witness the marriage of Nyssa and Nephi, as administered by
+Cauthon.  
+~
+0 525588 0
+D0
+~
+~
+4 0 3001
+D2
+~
+~
+4 0 31000
+S
+#13030
+A Side Street~
+The small street you are on seems to end just to the north of you. There is
+a railing there, to keep you from falling off, and falling to the forest
+floor for below. To the east of you is a fairly squat, functional building,
+with a sign above which declares it to be an 'Ekzyko'. To the west of you
+is a slightly taller, and classier building, that looks as if it houses
+some offices.
+~
+0 0 1
+D1
+~
+~
+1 0 13041
+D2
+~
+~
+0 0 13028
+D3
+~
+~
+1 0 13033
+S
+#13031
+A Side Street~
+The street seems to end here. To the west of you is a railing to keep you
+from falling off the edge to the forest floor below. back to the east of you
+is a large square. To the north if you is a fairly tall building which seems to
+hold some offices, and to the south is a fairly large open area, which would be
+ideal for soldiers to practice military exercises.
+~
+0 0 1
+D0
+~
+~
+1 0 13033
+D1
+~
+~
+0 0 13028
+S
+#13032
+Main Street~
+To the right of you, you see a large wall which is the back of a building.
+There a few windows, but they are all too high up for you to see through.
+Ahead and to the left, a single building seems to tower above the others, in
+the corner of this section. Right beside you, opposite the building, there
+seems to be a large, open area, used for training exercises.
+~
+0 0 1
+D0
+~
+~
+0 0 13028
+D2
+~
+~
+0 0 13035
+D3
+~
+~
+0 0 13042
+S
+#13033
+Some Offices~
+There are a fair number of desks scattered around the room, each with a
+fairly large stack of papers on it. It takes a fair amount of paperwork to keep
+a military this size running smoothly, and all of it gets done here. In the 
+back of the room, there is a set of stairs which leads upstairs. The
+general's office is up there, where all the big decisions are made.
+~
+0 8 1
+D1
+~
+~
+1 0 13030
+D2
+~
+~
+1 0 13031
+D4
+~
+~
+0 0 13034
+S
+#13034
+The General's Office~
+You enter a large room at the top of the stairs.  Before you is a very
+large mahogany desk, which has been shined to perfection.  One wall is
+filled with pictures of various military battles.  On the other wall is a
+huge map of all the surrounding area, with a few little markers on it to
+denote strategic points.  The room is spotlessly clean, and has an aura of
+power.  
+~
+0 8 1
+D5
+~
+~
+0 0 13033
+S
+#13035
+Main Street~
+To the right of you, you see a large wall which is the back of a building.
+There a few windows, but they are all too high up for you to see through.
+Ahead and to the left, a single building seems to tower above the others, in
+the corner of this section. Right beside you, opposite the building, there
+seems to be a large, open area, used for training exercises. To the south of
+you, you spot the way towards the commercial center.
+~
+0 0 1
+D0
+~
+~
+0 0 13032
+D2
+~
+~
+0 0 13036
+D3
+~
+~
+0 0 13043
+S
+#13036
+Entrance to the Military Quarter~
+You are standing before the military section of this village. To one side
+of the road is a booth, where a guard can inspect those people who pass by.
+Before you, see you see large, orderly buildings, and troops moving to
+and fro. Behind you is a rope bridge which leads to another section of the town.
+~
+0 0 1
+D0
+~
+~
+0 0 13035
+D1
+~
+~
+0 0 13039
+D2
+~
+~
+0 0 13044
+S
+#13037
+Entrance to the Military Quarter~
+You are standing before the military section of this village. To one side
+of the road is a booth, where a guard can inspect those people who pass by.
+Before you, see you see large, orderly buildings, and troops moving to
+and fro. Behind you is a rope bridge which leads to another section of the town.
+~
+0 0 1
+D1
+~
+~
+0 0 13047
+D2
+~
+~
+0 0 13038
+D3
+~
+~
+0 0 13026
+S
+#13038
+A Guardpost~
+You are standing inside a small booth. There are a couple of chairs for
+guards to sit on, a table for work (or dice, more likely), and a large window
+facing the main road, so that guards sitting inside can make sure that people
+passing through here are not posing any threat.
+~
+0 8 1
+D0
+~
+~
+0 0 13037
+S
+#13039
+A Guardpost~
+You are standing inside a small booth. There are a couple of chairs for
+guards to sit on, a table for work (or dice, more likely), and a large window
+facing the main road, so that guards sitting inside can make sure that people
+passing through here are not posing any threat.
+~
+0 8 1
+D3
+~
+~
+0 0 13036
+S
+#13040
+The Barracks~
+You have entered a large, long room. One side of the room is a long row
+of bunk beds, all neatly made. On the other side of the room are, for
+variety, another row of bunk beds, all neatly made. Behind a few, mainly
+hidden, are a few posters. There are a couple of table lying around,
+some dim lights overhead, and no other entrances to the room.
+~
+0 0 0
+D0
+~
+~
+0 0 13026
+S
+#13041
+The Armory~
+You are standing in a fairly large room. This room is a single story, with
+a few high windows with bars over them. All around you, on all the racks
+that criss-cross the room, on every wall, you see row upon row of
+weapons: Axes, swords, shields, helms, everything. You also see a large number
+of armed guards wandering around, making it impossible to take any of these
+arms without permission.
+~
+0 9 1
+D3
+~
+~
+1 0 13030
+S
+#13042
+The Practice Yard~
+This seems to be a very large, and very open, part of the city. There aren't
+really any buildings of any sort here, though there are a few obstacles. This
+area is used for training exercises, and is set up for such. There are lines
+marked out on the ground for archery, and a few obstacles spread around
+to make any mock battle slightly more realistic.
+~
+0 0 1
+D1
+~
+~
+0 0 13032
+D2
+~
+~
+0 0 13043
+S
+#13043
+The Practice Yard~
+This is a large, open area, that seems to be slightly slanted. This is in
+order for a grunt troop or a general to see how being above or below your
+enemy really does make a difference in the battle. The military of this city
+trains here, running through various exercises and honing their skills.
+~
+0 0 1
+D0
+~
+~
+0 0 13042
+D1
+~
+~
+0 0 13035
+S
+#13044
+On the Rope Bridge~
+You are standing on a long rope bridge spanning between two sections
+of this village. The bridge sways a little as you walk over it, but feels
+sturdy enough for you not to be afraid. Looking over the edge may not be
+a good idea if you're afraid of heights, as you are very high off the ground.
+~
+0 0 1
+D0
+~
+~
+0 0 13036
+D2
+~
+~
+0 0 13045
+S
+#13045
+On the Rope Bridge~
+You are standing on a long rope bridge spanning between two sections
+of this village. The bridge sways a little as you walk over it, but feels
+sturdy enough for you not to be afraid. Looking over the edge may not be
+a good idea if you're afraid of heights, as you are very high off the ground.
+~
+0 0 1
+D0
+~
+~
+0 0 13044
+D2
+~
+~
+0 0 13046
+S
+#13046
+Entrance to the Commercial Quarter~
+You turn around, and are glad to see that you're not currently on
+that rope bridge, which is dangling between the trees, haphazardly. Before
+you, you see the hustle and bustle of a great city, with merchants from
+all the surrounding lands gathered here to sell their wares. You also see
+many people wandering the streets, trying to figure out where they can
+get the best buy.
+~
+0 0 1
+D0
+~
+~
+0 0 13045
+D2
+~
+~
+0 0 13056
+S
+#13047
+On the Rope Bridge~
+You are standing on a long rope bridge spanning between two sections
+of this village. The bridge sways a little as you walk over it, but feels
+sturdy enough for you not to be afraid. Looking over the edge may not be
+a good idea if you're afraid of heights, as you are very high off the ground.
+~
+0 0 1
+D1
+~
+~
+0 0 13048
+D3
+~
+~
+0 0 13037
+S
+#13048
+On the Rope Bridge~
+You are standing on a long rope bridge spanning between two sections
+of this village. The bridge sways a little as you walk over it, but feels
+sturdy enough for you not to be afraid. Looking over the edge may not be
+a good idea if you're afraid of heights, as you are very high off the ground.
+~
+0 0 1
+D1
+~
+~
+0 0 13049
+D3
+~
+~
+0 0 13047
+S
+#13049
+Entrance to the Industrial Quarter~
+The road stretches off to the east of you further into the industrial
+sector of this city.  To the west is a rope bridge which leads across to the
+military quarter, you think you can see a group of soldiers marching
+somewhere.  There are no decorations in this part of the city.  To the south
+of you is a door with a sign above it which says 'Lzauso'.  
+~
+0 0 1
+D1
+~
+~
+0 0 13143
+D2
+~
+~
+1 0 13150
+D3
+~
+~
+0 0 13048
+S
+#13050
+A tourney room~
+You can smell the scent of {rblood{x in the air. Some of it is yours, some of
+it belongs to others, but it's there, mingled with sweat and the stench of
+death. You can hear scream of people being hacked to bits, and realise that
+you can be next, unless you keep your eyes peeled, your wits sharp, and your
+sword at the ready.
+~
+0 268443664 0
+D0
+~
+~
+0 0 13053
+D1
+~
+~
+0 0 13051
+D2
+~
+~
+0 0 13053
+D3
+~
+~
+0 0 13051
+S
+#13051
+A tourney room~
+You can smell the scent of {rblood{x in the air. Some of it is yours, some of
+it belongs to others, but it's there, mingled with sweat and the stench of
+death. You can hear scream of people being hacked to bits, and realise that
+you can be next, unless you keep your eyes peeled, your wits sharp, and your
+sword at the ready.
+~
+0 268443664 0
+D0
+~
+~
+0 0 13052
+D1
+~
+~
+0 0 13050
+D2
+~
+~
+0 0 13052
+D3
+~
+~
+0 0 13050
+S
+#13052
+A tourney room~
+You can smell the scent of {rblood{x in the air. Some of it is yours, some of
+it belongs to others, but it's there, mingled with sweat and the stench of
+death. You can hear scream of people being hacked to bits, and realise that
+you can be next, unless you keep your eyes peeled, your wits sharp, and your
+sword at the ready.
+~
+0 268443664 0
+D0
+~
+~
+0 0 13051
+D1
+~
+~
+0 0 13053
+D2
+~
+~
+0 0 13051
+D3
+~
+~
+0 0 13053
+S
+#13053
+A tourney room~
+You can smell the scent of {rblood{x in the air. Some of it is yours, some of
+it belongs to others, but it's there, mingled with sweat and the stench of
+death. You can hear scream of people being hacked to bits, and realise that
+you can be next, unless you keep your eyes peeled, your wits sharp, and your
+sword at the ready.
+~
+0 268443664 0
+D0
+~
+~
+0 0 13050
+D1
+~
+~
+0 0 13052
+D2
+~
+~
+0 0 13050
+D3
+~
+~
+0 0 13052
+S
+#13054
+The Prep Room~
+You can feel the tension building. Here, finely tuned bodies and minds from
+across the two continents are about to compete in a bloody battle to the death.
+Everyone is at their absolute best, using the best equipment, and their
+bodies as magically enhanced as they can get. What makes you think you
+are better than them?
+~
+0 268444688 0
+D0
+~
+~
+0 0 13050
+D1
+~
+~
+0 0 13051
+D2
+~
+~
+0 0 13052
+D3
+~
+~
+0 0 13053
+S
+#13055
+The Champion League~
+You can feel the pressure. You're about to fight for glory and for honour.
+To see if you can make it to the top of the Champion League. A variety
+of blood splatters on the far wall give testimony to the many fights that
+have been held here. Prepare you meet your maker.
+~
+0 268476444 0
+S
+#13056
+Main Street~
+You are walking through the market area of the city. The sounds and smells
+of this place almost overwhelm you. To the east of you is a tiny little shop,
+which has a sign above it displaying a large lettuce leaf. You feel your
+stomach rumble a bit, and realise this may be a good place to find a little
+bite to eat.
+~
+0 0 1
+D0
+~
+~
+0 0 13046
+D1
+~
+~
+0 0 13057
+D2
+~
+~
+0 0 13058
+D3
+~
+~
+1 0 13076
+S
+#13057
+Sally's Salads~
+Behind the counter is a woman with brown hair who seems to be mixing
+something in a bowl.  Leaning over the counter, you see it's some sort of
+salad dressing.  Out for display in a variety of glass bowls are all sorts of
+salads: Caesar, Oriental, Garden, Greek, and a wide variety of others for
+you to choose from.  There are a few oddly shaped tables scattered about,
+with chairs for you to relax in and enjoy your nutricious treat.  
+~
+0 8 1
+D3
+~
+~
+0 0 13056
+S
+#13058
+Main Street~
+You hear the normal sounds of a thriving city around you. You here bartering,
+people trying to sell their wares, and other such noises of a normal
+marketplace. To the north and south you can see the road stretching on
+through the market, and to the east and west, you see two shops which are
+prosperous enough to have permanent stalls.
+~
+0 0 1
+D0
+~
+~
+0 0 13056
+D1
+~
+~
+0 0 13061
+D2
+~
+~
+0 0 13059
+D3
+~
+~
+0 0 13060
+S
+#13059
+Market Square~
+This is the center of the entire market. You can look in any direction
+you like and see nothing but stall after stall of goods and wares. Here,
+at the center of the area, is a large open space, for public announcements
+or gatherings. You can buy anything you'd like to. What will it be?
+~
+0 0 1
+D0
+~
+~
+0 0 13058
+D1
+~
+~
+0 0 13062
+D2
+~
+~
+0 0 13064
+D3
+~
+~
+0 0 13063
+S
+#13060
+Pete's Potions~
+You walk into the room, and are instantly dazzled by a wide variety of
+colours.  Shelves line all the walls, and there's even a few bookshelves
+standing in the middle of the room, all of which are being used to display a
+variety of potions in a variety of colours.  You see a door which leads to
+the back, more shelves, filled with beakers upon beakers of potions.
+There's a man behind the counter, a tall man with thick glasses who seems
+to be mumbling slightly as he makes sure all the potions are uncontaminated.
+~
+0 8 1
+D1
+~
+~
+0 0 13058
+S
+#13061
+Albert's Armor~
+You walk into a well lit room.  You see light reflecting off of many
+surfaces, which you soon realise to be well polished shield and other bits
+of armor.  There are many racks from which you can choose a wide variety of
+shapes and sizes of gauntlets, boots, shield, helmets, and other defensive
+pieces of equipment.  There's a man lazing behind the counter reading a
+magazine, with a mustache and a wide variety of tattoos.
+~
+0 8 1
+D3
+~
+~
+0 0 13058
+S
+#13062
+Main Street~
+You are standing in the middle of a fairly large avenue which is just to
+the east of the main market square.  There is a large door open to the south
+of you, and a picture of an axe crossed with a sword is suspended above the
+door.  To the east of you, the road continues through the market.  
+~
+0 0 1
+D0
+~
+~
+0 0 13109
+D1
+~
+~
+0 0 13065
+D2
+~
+~
+0 0 13066
+D3
+~
+~
+0 0 13059
+S
+#13063
+A Side Street~
+You are on a street in the middle of the marketplace of this village. To the
+east of you is the central square for the market. To the north of you is
+some sort of building; you can't tell what as the windows are too high for
+you to look through. To the west the street ends, and there is a sort of
+balcony overlooking the forest floor below. And to the south of you is a
+small entrance to some sort of shop. Overtop of the door, in plain writing,
+it says, 'nrkrkel luykr'.
+~
+0 0 1
+D1
+~
+~
+0 0 13059
+D2
+~
+~
+0 0 13070
+S
+#13064
+A Side Street~
+To the north of you, you can see the central square of the entire
+marketplace.  You are on one of the many branch-offs from that square.  To
+the south of you, the road abruptly ends, and there is a railing preventing
+you from dropping to the forest floor.  To the west are two large double
+doors, an entrance to one of the more well off shops in the town.  
+~
+0 0 1
+D0
+~
+~
+0 0 13059
+D3
+~
+~
+0 0 13070
+S
+#13065
+Main Street~
+This is one of the richer areas of the market.  The clientele around here
+are wearing finer clothes than those in other parts of the market.  Looking
+at the kind of shops around you, you see why this is the case.  To the north
+of you is a shop which sells only expensive jewellery, and to the south of
+you is a store which sells magical devices.  Neither of these are places
+where the average commoner can afford to shop.  
+~
+0 0 1
+D0
+~
+~
+0 0 13072
+D1
+~
+~
+0 0 13068
+D2
+~
+~
+0 0 13067
+D3
+~
+~
+0 0 13062
+S
+#13066
+Walter's Weapons~
+Your eyes slowly adjust to the dimly lit room.  The only sources of light
+seem to be various slits of glittering metal.  Once you regain your sight,
+you see an entire wall filled with swords, which seems to be one source of
+light.  On another wall, you see axes and flails lined up in rows.  On one
+stand, you see a variety of javelins.  A single window somehow illuminates
+the entire room.  There is one desk by the rear of the room, behind which
+sits an old man with a long beard, who is checking the edge on a dagger.  He
+looks up at you, sees that you seem to know something about weapons, and
+prepares to tell you a tale about whichever weapon it is you seek.  
+~
+0 8 1
+D0
+~
+~
+0 0 13062
+S
+#13067
+Martin's Magicks~
+As you walk into the room, you here this strange whirring sounds, and
+then a disembodied voice, welcoming you into the shop.  Looking around you,
+you see a wide variety of strange objects in a wide variety of colours,
+including a few shades you'd never seen before.  There's a door behind the
+counter which leads into a rear section of the shop, which seems to house a
+whole array of confusing devices.  A shortish man is scurrying around, sees
+you, and offers you his services.  
+~
+0 8 1
+D0
+~
+~
+0 0 13065
+S
+#13068
+Main Street~
+You are standing on the edge of the marketplace. To the west lies the rest
+of the market of this town, one of the main commercial centers of Dominia. To
+the north of you is a small shop where you could grab a snack to help give
+you the energy to make your way through the marketplace. To the east of you is
+a rope bridge which leads the way to the residential section of the city.
+~
+0 0 1
+D0
+~
+~
+0 0 13071
+D1
+~
+~
+0 0 13069
+D3
+~
+~
+0 0 13065
+S
+#13069
+Entrance to the Commercial Quarter~
+You are standing on the threshold of the marketplace for this city. To the
+east of you, across a rope bridge, lies the quieter residential area, where
+the people of this town live. To the west of you lies one of the busiest 
+marketplaces on all of Dominia.
+~
+0 0 1
+D1
+~
+~
+0 0 13073
+D3
+~
+~
+0 0 13068
+S
+#13070
+Gina's General Store~
+You step into a large and well-lit room. Looking around, all you can see are
+shelves. Shelves line all the walls, and there are many shelf units just 
+standing in the middle of the floor. There are a lot of things on these
+shelves: Candles, torches, skins for water, and other useful items for the
+adventuring type. There is a desk in the middle, behind which sits a pretty
+young thing about thirty years old. She appears to be the keeper of this shop.
+~
+0 8 1
+D0
+~
+~
+0 0 13063
+D1
+~
+~
+0 0 13064
+S
+#13071
+Michelle's Muffins~
+As you walk into the room, the smell of freshly baking muffins overwhelms
+you, making your mouth water.  In the rear of the shop is a lady in her
+thirties making the batter for some muffins.  Behind the counter is a lovely
+little thing, watching the cash.  There are a few chairs clustered into
+little groupings around the room, and a wide variety of muffins for you to
+choose from.  
+~
+0 8 1
+D2
+~
+~
+0 0 13068
+S
+#13072
+Jeremy's Jewels~
+You walk into the dimly lit room and are temporarily blinded by the
+brilliance.  Despite the fact that there is only one candle in the room, it
+is refracted and reflected so many times that it illuminates the entire
+room.  There are locked cabinets all around the room, each holding a
+different kind of precious jewel.  There is a strange magical feel to the
+room, a ward preventing you from stealing anything, and a large burly man
+behind the counter, who will only let you take a gem if you pay the
+appropriate price.  
+~
+0 8 1
+D2
+~
+~
+0 0 13065
+S
+#13073
+On the Rope Bridge~
+You are standing on a long rope bridge spanning between two sections
+of this village. The bridge sways a little as you walk over it, but feels
+sturdy enough for you not to be afraid. Looking over the edge may not be
+a good idea if you're afraid of heights, as you are very high off the ground.
+~
+0 0 1
+D1
+~
+~
+0 0 13074
+D3
+~
+~
+0 0 13069
+S
+#13074
+On the Rope Bridge~
+You are standing on a long rope bridge spanning between two sections
+of this village. The bridge sways a little as you walk over it, but feels
+sturdy enough for you not to be afraid. Looking over the edge may not be
+a good idea if you're afraid of heights, as you are very high off the ground.
+~
+0 0 1
+D1
+~
+~
+0 0 13075
+D3
+~
+~
+0 0 13073
+S
+#13075
+Entrance to the Residential Quarter~
+You are at the entrance to the main residential area of the city, where
+most if its inhabitants live.  To the west is a rope bridge which leads to
+another section of the city where most people do their buying and selling. 
+To the east you see a variety of houses, from bungalows and shacks to giant
+mansions and exquisite homes.  
+~
+0 0 1
+D1
+~
+~
+0 0 13077
+D3
+~
+~
+0 0 13074
+S
+#13076
+A Warehouse~
+You have entered a huge, single room.  This warehouse must be at least
+three stories high, judging by how tall some of the piles of crates are. 
+There are boxes of all sorts in various piles here, small boxes and big
+boxes in small and large piles.  You wonder whether or not there's any sort
+of organization to these piles, or whether people just dumped things here,
+hoping to return and find them later.  There are a few guards around,
+however, who deter you from taking something that isn't yours.  
+~
+0 0 1
+D1
+~
+~
+1 0 13056
+S
+#13077
+Main Street~
+You are on the main street which runs though the city, and at the moment,
+the residential section of the city.  You can see small gardens dotted
+about, and sign of children playing.  To the north of you is a small duplex,
+and to the south of you is a larger house.  The street stretches off to the
+east and west.  
+~
+0 0 1
+D0
+~
+~
+1 0 13100
+D1
+~
+~
+0 0 13078
+D2
+~
+~
+1 0 13110
+D3
+~
+~
+0 0 13075
+S
+#13078
+Main Street~
+You are walking through the main street of this village.  This is the
+residential section of the town.  To the south of you lies a medium-sized
+home, probably where a family of four lives.  The street extends to the east
+and west.  To the north of you a small crescent branches off, where more
+people live.  
+~
+0 0 1
+D0
+~
+~
+0 0 13086
+D1
+~
+~
+0 0 13079
+D2
+~
+~
+1 0 13104
+D3
+~
+~
+0 0 13077
+S
+#13079
+Main Street~
+You are standing in the middle of the main street.  There are a few
+people moving about on their own business.  A few of them are heading
+towards the cafe which lies to the north of you.  To the east of you is the
+central square for the residential area of this town, and there is a house
+to the south of you.  
+~
+0 0 1
+D0
+~
+~
+0 0 13135
+D1
+~
+~
+0 0 13080
+D2
+~
+~
+1 0 13128
+D3
+~
+~
+0 0 13078
+S
+#13080
+Residential Center~
+You are standing in the middle of the residential section of this town. 
+Roads extend in all directions except for east, where the largest home in
+the entire area is situated.  The main street leads north and west, and
+there is a shabby side street to the south.  You can hear the sounds of a
+lively cafe to the north-west of you.  
+~
+0 0 1
+D0
+~
+~
+0 0 13081
+D1
+~
+~
+1 0 13087
+D2
+~
+~
+0 0 13095
+D3
+~
+~
+0 0 13079
+S
+#13081
+Main Street~
+You are walking down the main street of this village, in the area where
+most people seem to have built there homes.  There is a small cafe to the
+west of you where people can gather and chat.  To the south of you is the
+center for the quarter of the town.  There are children playing in the
+street and the sounds of clothes being washed not too far off.  There is a
+home to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 13082
+D1
+~
+~
+1 0 13117
+D2
+~
+~
+0 0 13080
+D3
+~
+~
+0 0 13135
+S
+#13082
+Main Street~
+This is the main thoroughfare for this street.  You can see as it extends
+far the north and south.  There is also a smaller, quieter side street to
+the west of you.  The housing section ends just to the north of here, while
+many houses can be seen to the south of you.  You see a large building in
+the distance towards the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 13083
+D2
+~
+~
+0 0 13081
+D3
+~
+~
+0 0 13084
+S
+#13083
+Entrance to the Residential Quarter~
+You are at the beginning of the main section of this village where the
+townfolk have their homes.  Back to the north of you, you can cross a rope
+bridge back to the industrial section.  South you can hear the laughter of
+children playing in the streets, people cooking, and many happy and lively
+homes. East of you see you the top of a very tall staircase which leads
+down to the forest floor.
+~
+0 0 1
+D0
+~
+~
+0 0 13136
+D1
+~
+~
+0 0 13159
+D2
+~
+~
+0 0 13082
+S
+#13084
+A Crescent~
+This smaller side street gives you a break from the hustle and bustle of the
+main road, which lies to the east of you. To the west are a set of apartments
+which have been set aside for homes of non-clanners. This road continues to the
+south. It appears to have fairly little traffic, though there signs that
+children occasionally play here.
+~
+0 0 1
+D1
+~
+~
+0 0 13082
+D2
+~
+~
+0 0 13134
+D3
+~
+~
+0 0 13085
+S
+#13085
+The Main Floor of the Non-Clanner Apartments~
+This is a very neat room.  There are doors which lead in all of the
+cardinal directions, but they seem to be locked for the moment.  This
+building seems to be set up for the possibility of future expansion.  To the
+east and the south is the main road.  
+~
+0 0 1
+D1
+~
+~
+0 0 13084
+D2
+~
+~
+1 0 13086
+S
+#13086
+A Crescent~
+You are on a quiet side street in this town.  There doesn't appear to be
+a lot of traffic here.  There is a large apartment building to the north of
+you which appears to be under construction, but besides that, there are no
+houses here.  Perhaps this area is being saved for future development.  
+~
+0 0 1
+D0
+~
+~
+1 0 13085
+D1
+~
+~
+0 0 13134
+D2
+~
+~
+0 0 13078
+S
+#13087
+A Living Room~
+You are standing in a very tastefully decorated living room.  There is a
+couch in the north east corner of the room, and in front of the couch is a
+small table.  On the other sides of the table are two chairs.  In the south
+west corner is another couple of chairs, facing each other.  In the south
+east corner is a display cabinet filled with figurines.  In the north is a
+cupboard for coats and such.  The main entrance to the house if to the west,
+the kitchen is to the south, and to the east is a staircase which leads to
+the bedrooms upstairs.  
+~
+0 8 1
+D1
+~
+~
+0 0 13090
+D2
+~
+~
+0 0 13088
+D3
+~
+~
+1 0 13080
+S
+#13088
+A Kitchen~
+You are standing in an immense kitchen, the absolute best that money can
+buy.  There is counter space for at least ten maids to be working, a walk in
+pantry in one corner, and a gigantic stove for making anything from huge
+stews to giant turkeys.  Scattered about the kitchen are a wide variety of
+utensils, pots, pans, and a myriad of other implements.  Whoever lives in
+this house certainly eats well.  
+~
+0 8 1
+D0
+~
+~
+0 0 13087
+D1
+~
+~
+0 0 13089
+S
+#13089
+A Den~
+You are standing in a large den.  There is a fireplace against one wall
+which is crackling gently.  To the west is a door which leads to the
+kitchen, if ever you want a hot cup of tea or a quick snack.  To the north
+is a staircase which leads upstairs.  All the other walls are lined with
+books.  In the middle of the room is a large desk, behind which is a large,
+comfortable chair.  
+~
+0 8 1
+D0
+~
+~
+0 0 13090
+D3
+~
+~
+0 0 13088
+S
+#13090
+The Bottom of the Staircase~
+You are standing at the bottom of a long, curvy staircase.  To the west
+of you is the living room, and past that room is the street.  To the south
+of you is a large den that looks like a small library.  There are a couple
+of potted plants on the ground and a painting of some flowers on the wall.  
+~
+0 8 1
+D2
+~
+~
+0 0 13089
+D3
+~
+~
+0 0 13087
+D4
+~
+~
+0 0 13091
+S
+#13091
+The Top of the Staircase~
+You are standing on a landing at the top of a long, curving staircase. 
+There is a linen closet against one wall, and a large painting for a bed on
+another wall.  To the south of you is a door which leads to a medium sized
+bedroom, and to the west is a door which leads to the master bedroom.  
+~
+0 0 0
+D2
+~
+~
+1 0 13092
+D3
+~
+~
+1 0 13093
+D5
+~
+~
+0 0 13090
+S
+#13092
+A Bedroom~
+You are standing in a bedroom.  Against one wall is, of all things, a
+queen sized bed.  There is a night stand next to it, holding a pair of
+candlesticks.  There is a large cupboard for clothes against one wall.  To
+the north is a door which leads back to the hallway.  There is a window to
+the east which looks out into the forest.  
+~
+0 8 1
+D0
+~
+~
+1 0 13091
+S
+#13093
+The Master Bedroom~
+You are standing in a very large bedroom.  In the middle of the bedroom
+is a very large king size bed.  There are nightstands to either side of it. 
+Opposite the bed is a very large relaxing floral painting.  Against the
+walls on either side of the bed is a large cupboard and a chest of drawers. 
+To the south is a small door which leads to a private bathroom, and to the
+east is a door which leads to the hallway.  
+~
+0 8 1
+D1
+~
+~
+1 0 13091
+D2
+~
+~
+1 0 13094
+S
+#13094
+A Bathroom~
+You are standing in the private bathroom of the masters of this house. 
+There are pipes which lead to a holding tub on the room for water which has
+been heated by the sun.  There are other pipes for cold water which lead to
+tubs which are under the shade of the roof.  There is a large copper tub in
+one corner, a chamber pot, and a large stack of towels in the corner.  The
+door is to the north, which leads back to the master bedroom.  
+~
+0 8 1
+D0
+~
+~
+1 0 13093
+S
+#13095
+A Side Street~
+This street seems to be fairly narrow.  There are no vendors down here,
+and no children playing, although you think you may see one sitting by the
+corner of a run down building.  The houses here are not very large.  There
+is a very small bungalow to the west of you and a split level house to the
+east.  This is the poorer section of town.  
+~
+0 0 1
+D0
+~
+~
+0 0 13080
+D1
+~
+~
+1 0 13096
+D3
+~
+~
+1 0 13106
+S
+#13096
+A Living Room~
+To the west of you is the door which leads outside the house.  To one
+side of the door is a pair of shutters, and on the other side is a
+coat-stand.  To the south of you is a couch along the entire length of the
+wall, with a large print on the wall behind it.  To the east is an open door
+which leads to the kitchen.  To the north is a set of stairs which leads
+upstairs to the bedrooms.  
+~
+0 8 1
+D1
+~
+~
+1 0 13097
+D3
+~
+~
+1 0 13095
+D4
+~
+~
+0 0 13098
+S
+#13097
+A Kitchen~
+You've stepped into a fairly modern if run down kitchen.  There's an
+island counter-top in the middle that has a few rather large gouges in it, a
+stove in the far corner that has also seen better days, and a table in the
+corner meant to seat six with five chairs surrounding it.  
+~
+0 8 1
+D3
+~
+~
+1 0 13096
+S
+#13098
+A Bedroom~
+Against the north wall are two twin beds, lying head to head. Neither
+of them looks particularly sturdy. A tattered rug is spread over the
+the wooden floor. You can head back via a set of stairs in the corner,
+or head east to where another bedroom lies.
+~
+0 8 1
+D1
+~
+~
+1 0 13099
+D5
+~
+~
+0 0 13096
+S
+#13099
+A Bedroom~
+You are in what must be the main bedroom of the house, although it still
+is not very glamourous.  There's a queen sized bed against one wall and a
+chest of drawers opposite the bed which looks as if it may fall apart at any
+moment.  There is a chamber pot in one corner, and a low table next to the
+door, which holds two candlesticks.  A door leads to the west and to another
+bedroom.  
+~
+0 8 1
+D3
+~
+~
+1 0 13098
+S
+#13100
+The Living Area~
+You are in the main living area on the lower level of a duplex.  In this
+fairly large room you can see a shabby looking kicthen center in one corner,
+a small table with 4 chairs in another corner, and a couple of tattered
+seats pulled around another table by a fireplace in the corner.  To the west
+is a door which leads to the bedroom, or you can go upstairs to an equally
+run-down home.  
+~
+0 8 1
+D2
+~
+~
+1 0 13077
+D3
+~
+~
+1 0 13101
+D4
+~
+~
+0 0 13102
+S
+#13101
+A Large Bedroom~
+You are in a fairly large, if cramped, room.  There are four beds in this
+room, one stuck in each corner, pointing into the middle of the room in
+pairs.  Behind the beds which back onto the wall to the right of you is a
+very tattered old painting.  Directly in front of you is a small table which
+has a pair of candle holders on it.  Three of the beds are not made, and the
+one that is made, is made sloppily.  
+~
+0 8 1
+D1
+~
+~
+1 0 13100
+S
+#13102
+The Living Area~
+This room is the main entrance for the upper level of the house.  There
+are a set of stairs which lead back downstairs towards the exit.  To the
+west is a small bedroom.  Looking around you, you see a small kitchenette in
+one corner of the room, and a few chairs in another corner of the room.  
+~
+0 0 0
+D3
+~
+~
+1 0 13103
+D5
+~
+~
+0 0 13100
+S
+#13103
+A Large Bedroom~
+You are in a fairly shabby looking bedroom.  There is a double bed
+against one wall of the room and a single bed along another.  There is a
+beat up old dresser in one corner containing some shabby clothes.  There is
+one doll on the floor, which is obviously the favorite toy of some child. 
+The exit is to the east, and leads into the common area.  
+~
+0 0 0
+D1
+~
+~
+1 0 13102
+S
+#13104
+A Foyer~
+You have entered into a middle class home.  You can see that this house
+is kept immaculately clean.  There is a very neat pile of shoes to one side
+of the door, and a closet for overcoats behind it.  There is a small bench
+to the other side, where you can sit down and take off your shoes.  The
+walls are tastefully decorated with a mirror and a few works of art.  To the
+east lies the kitchen, and to the south lies the den.  
+~
+0 8 1
+D0
+~
+~
+1 0 13078
+D1
+~
+~
+0 0 13105
+D2
+~
+~
+0 0 13124
+S
+#13105
+A Kitchen~
+This kitchen is quite large, and is filled with all the conveniences that
+modern lifestyle has to offer.  There is a very large counter top, an
+extensive pantry, a tasty spice rack, a state of the art stove, and any
+other cooking implement you could think of.  There is also a large table for
+seating six to one corner.  There is a washroom to the south, and the rest
+of the house to the west.  
+~
+0 8 1
+D2
+~
+~
+1 0 13125
+D3
+~
+~
+0 0 13104
+S
+#13106
+A Living Room~
+You have entered into a shabby little living room.  There is a beat up
+armchair in corner of the room, and a few mismatched chairs surrounding a
+fireplace.  There is a pile for coats in one corner.  To the north is a door
+which is barely hanging on its hinges which leads to the bedroom.  There is
+no door which leads to the kitchen to the west, although there used to be
+one.  
+~
+0 8 1
+D1
+~
+~
+1 0 13095
+D2
+~
+~
+1 0 13107
+D3
+~
+~
+0 0 13108
+S
+#13107
+A Bedroom~
+This room is the cleanest room in the house, although that doesn't say a
+lot.  There is one queen size bed in the middle of the room, with a few
+blankets on top, each with quite a few holes.  There is a wardrobe in one
+corner of the room, with many articles of clothing hanging from pegs within.
+Back to the north is the rest of the house.  
+~
+0 8 1
+D0
+~
+~
+1 0 13106
+S
+#13108
+A Kitchen~
+You have entered into a small, dirty kitchen.  There is a bucket in one
+corner for washing dishes, although it looks dirtier than the dishes that
+one would wash in it.  There is a wood stove in one corner, which is used to
+both cook food and heat the entire house.  There is one table with 3 chairs
+and a stool around it, and it is piled high with dishes which need to be
+cleaned.  To the east is the living room.  
+~
+0 8 1
+D1
+~
+~
+0 0 13106
+S
+#13109
+Beverly's Bank~
+You are standing in a large, well lit room.  There seem to be almost no
+shadows.  You can see against the far wall a safe you know you have no hope
+of ever opening.  Next it the safe, behind a counter, stands a tall, thin
+woman, wearing glasses.  She keeps a careful eye on you as you walk about
+the room.  The room is very functional.  There are no paintings or such on
+the walls, and the furniture that is here is immaculate.  
+~
+0 8 1
+D2
+~
+~
+0 0 13062
+S
+#13110
+The Living Room~
+You are in the entrance to this house.  There is a coat hanger to one
+side of the door on which you can place your jacket.  There are a few chairs
+clustered at one corner of the room for conversations, with a table between
+them.  The room is painted a light beige colour, with shelves displaying
+various statuettes and other pieces of art.  To the west is the den, and to
+the south is the kitchen.  You hear noises of the street coming from the
+north.  
+~
+0 8 1
+D0
+~
+~
+1 0 13077
+D2
+~
+~
+0 0 13111
+D3
+~
+~
+0 0 13112
+S
+#13111
+The Kitchen~
+This is a very well organized kitchen.  There are no extraneous utensils
+or items of food left out on the counters: Only those foodstuffs currently
+being used in preperation are visible.  There is a small table for seating
+four people in one corner, for when a quick bite is all that is required. 
+This kitchen is set up for many people to be working here at a time.  
+~
+0 8 1
+D0
+~
+~
+0 0 13110
+D3
+~
+~
+0 0 13113
+S
+#13112
+A Den~
+You walk into a dimly lit room.  There is a very large mahogany desk at
+one end of the room, with a large chair behind it.  The wall behind the desk
+is covered with books.  There are two chairs facing this desk, and two
+couches on the side walls.  There are two paintings in this room, one of an
+elk flying through the snow, and another of a grand city with an army
+entering it.  You can ascend through a set of stairs to the upper bedrooms. 
+~
+0 8 1
+D1
+~
+~
+0 0 13110
+D2
+~
+~
+0 0 13113
+D4
+~
+~
+0 0 13114
+S
+#13113
+A Bathroom~
+This bathroom looks to be a lot more than just a normal bathroom.  There
+is a loveseat in one corner for people to sit and relax their weary feet. 
+There seems to be soft music coming from somewhere.  There are two or three
+private toilets, and a room for showers seperate from all the others.  To
+the north is the den, and to the east is the kitchen.  
+~
+0 8 1
+D0
+~
+~
+0 0 13112
+D1
+~
+~
+0 0 13111
+S
+#13114
+A Bedroom~
+This bedroom looks as if it sleeps twins.  There is a bunk bed in one
+corner of the room, with horses on the sheets.  There is a very large
+closet, though it seems to only contain girl's clothes of one size.  There
+are toys and dolls of various sorts neatly arrayed on a few shelves, and a
+dollhouse sits in one corner.  The parent's bedroom is to the south, and
+another child sleeps east of here.  
+~
+0 8 1
+D1
+~
+~
+0 0 13116
+D2
+~
+~
+0 0 13115
+D5
+~
+~
+0 0 13112
+S
+#13115
+The Master Bedroom~
+This is an extremely large bedroom.  The king size bed along one side of
+the wall barely fills the room.  There is a full size mirror against one
+wall, with hooks behind it holding a variety of dresses.  There is a
+cupboard across from the mirror which contains clothes that are currently in
+fashion.  There is a thickly woven rug on the floor.  
+~
+0 8 1
+D0
+~
+~
+0 0 13114
+S
+#13116
+A Bedroom~
+This is clearly the room of a young child.  There is a crib in the room
+with a model suspended over it for the child's amusement.  The room is
+coloured in bright pinks and yellows.  There is a chest of drawers which
+likely contains a wide variety of baby outfits.  There is a playhorse and
+other small dolls scattered throughout the room.  
+~
+0 8 1
+D3
+~
+~
+0 0 13114
+S
+#13117
+A Living Room~
+This seems like a very warm and welcoming room.  Against the southern
+wall is a brick fireplace which provides a lot of the physical heat.  There
+is a rug in front of the fire on which a dog often sleeps, and a rocking
+chair to one side.  There are a few chairs scattered about the room, with a
+table or two interspersed, for easy conversation.  To the north lies the
+kitchen, a den is to the east, and the outside world is to the west.  
+~
+0 8 1
+D0
+~
+~
+0 0 13118
+D1
+~
+~
+0 0 13119
+D3
+~
+~
+1 0 13081
+S
+#13118
+A Kitchen~
+This is a large and well kept kitchen.  There is a large counter which
+spans the west and northern walls, with many cupboards above and below to
+hold a wide variety of dishes.  There is a pantry in the north-eastern
+corner of the room, holding flour and other necessities.  In the south east
+corner of the room is a small table with three chairs around it, for when
+the people who live here are not entertaining.  
+~
+0 8 1
+D1
+~
+~
+1 0 13123
+D2
+~
+~
+0 0 13117
+S
+#13119
+A Den~
+You are standing in a large study.  Against the southern wall is a chair
+and a desk, for when someone needs to sit down for a meeting or to do some
+work.  There are two chairs which face this desk from the opposite site.  In
+the north west corner are a few chairs clustered around a small table. 
+There are a few bookshelves scattered around the room, and a few works of
+art upon the walls.  To the east lies the private part of the house, to the
+north is a bathroom, and the rest of the house is to the west.  
+~
+0 0 0
+D0
+~
+~
+1 0 13123
+D1
+~
+~
+1 0 13120
+D3
+~
+~
+0 0 13117
+S
+#13120
+A Bedroom~
+You are in a room which obviously belongs to children.  There are two
+single beds in the room, one against the north wall, one against the south
+wall.  At the foot of each bed is a large chest for toys.  Under each bed
+are drawers for clothes, and next to the head of each bed is a small
+cupboard for more clothes.  There is a door to the east which leads to the
+parents' bedroom and a door to the west which leads to the more public part
+of the house.  
+~
+0 8 1
+D1
+~
+~
+0 0 13121
+D3
+~
+~
+1 0 13119
+S
+#13121
+A Bedroom~
+You are standing in the master bedroom.  Taking up most of the room is a
+queen sized bed with blue sheets on it.  In one corner is a small table with
+a vase on it.  There is a nightstand to one side of the bed, and the other
+wall has a cupboard set in to it.  To the north is a small bathroom, and the
+rest of the house is to the west.  
+~
+0 8 1
+D0
+~
+~
+0 0 13122
+D3
+~
+~
+0 0 13120
+S
+#13122
+A Bathroom~
+You are standing in a fairly small bathroom.  There is a chamber pot with
+a lid in the corner, which smells to be recently emptied.  There is a window
+to the east which looks out into the forest.  A bucket of water is on the
+floor under the window for you to wash your hands or face, and to the south
+is a door which leads to the bedroom.  
+~
+0 8 1
+D2
+~
+~
+0 0 13121
+S
+#13123
+A Bathroom~
+You are standing in an extraordinarily clean bathroom.  It looks as if
+someone just went over the whole room five minutes ago with a toothbrush to
+ensure that it is spotless.  There is a neatly folded pile of towels in one
+corner, buckets for water stacked next to them, and a recently emptied
+charmer pot.  There is a mirror against one wall, and a small tub to be used
+as a sink.  There are doors to the west and south which lead to the kitchen
+and den, respectively.  
+~
+0 8 1
+D2
+~
+~
+1 0 13119
+D3
+~
+~
+1 0 13118
+S
+#13124
+A Den~
+You are standing in the room in the house which is reserved for
+socializing.  There are a few couches and chairs scattered about the room,
+with tables interspersed between.  There are works of art on the walls, and
+conversation pieces on shelves and tables throughout the room.  There is
+also a fireplace to one side.  To the north lies the way to the exit, and
+upstairs are the bedrooms.  
+~
+0 8 1
+D0
+~
+~
+0 0 13104
+D4
+~
+~
+0 0 13126
+S
+#13125
+A Bathroom~
+You are in a bathroom.  There is a bowl of potpourri in one corner,
+making sure that this room always smells fresh.  There is also a window to
+the south to help air out this room.  There is a toilet, a sink, and a rack
+full of clean, warm towels.  To the north is the kitchen.  
+~
+0 8 1
+D0
+~
+~
+1 0 13105
+S
+#13126
+A Bedroom~
+You are standing in a child's bedroom.  There is a small bed in one
+corner with dinosaurs and trucks on the sheets.  There is a toy chest in the
+room, but most of the toys seem to be scattered about the floor.  There are
+trucks, monsters, and various other objects all engaged in a giant mock
+battle.  To the north lies the parents' bedroom, and the rest of the house
+is downstairs.  
+~
+0 8 1
+D0
+~
+~
+0 0 13127
+D5
+~
+~
+0 0 13124
+S
+#13127
+A Bedroom~
+You are in the master bedroom.  There is a large king size bed in this
+room.  There is a large painting opposite the bed, which looks to be an
+original work by some famous painter.  There are a couple of cupboards
+filled with stylish looking clothes, some for around the house, some for
+casual events, and some more business like.  Their child's room is to the
+south, and the rest of the house is below.  
+~
+0 8 1
+D2
+~
+~
+0 0 13126
+S
+#13128
+A Foyer~
+You are in the foyer of a split level home.  There is a cupboard to the
+right where you can hang your coat, and there are no shortage of hangers
+therein.  There is a small, nicely decorated bench against the far wall, for
+sitting while taking off your shoes.  To the south is the remainder of the
+house.  
+~
+0 8 1
+D0
+~
+~
+1 0 13079
+D2
+~
+~
+0 0 13129
+S
+#13129
+A Den~
+This room is where the owners of the house generally entertain guests.
+There is a fireplace in the one corner and a small bar in another.  There
+are several very comfortable looking couches scattered around the room, with
+a few tables here and there on which to rest your drinks.  Upstairs is the
+kitchen and the private area of the house.  
+~
+0 8 1
+D0
+~
+~
+0 0 13128
+D4
+~
+~
+0 0 13130
+S
+#13130
+A Kitchen~
+You are standing in a fairly large kitchen.  There is enough counter
+space for many people to work together preparing entire banquets.  There is
+also a very large food cupboard in the corner.  There is a small kitchen
+table for meals to one side of the room.  To the north lies a bathroom, the
+sleeping quarters are upstairs, and downstairs is the public area of this
+house.  
+~
+0 8 1
+D0
+~
+~
+1 0 13131
+D4
+~
+~
+1 0 13132
+D5
+~
+~
+0 0 13129
+S
+#13131
+A Bathroom~
+This is a fairly simple bathroom, but it is also very clean.  There are
+no stains or dirt on the floor, the paint is not feeling anywhere, and there
+is a freshly cleaned pile of towels in the one corner.  There are
+flower-pattern curtains covering the window.  To the south of you is the
+kitchen, and the window overlooks the street.  
+~
+0 8 1
+D2
+~
+~
+1 0 13130
+S
+#13132
+A Bedroom~
+You are standing in a child's bedroom.  There are bunk beds against one
+wall, both with spaceships and stars for linen.  There is a large toy chest
+at the foot of the bunk bed.  There are stairs which lead downstairs from
+this room, and to the north lies the parents' bedroom.  There is a chest of
+drawers for clothes against another well, and toys just about anywhere you
+try to step.  
+~
+0 8 1
+D0
+~
+~
+0 0 13133
+D5
+~
+~
+1 0 13130
+S
+#13133
+A Bedroom~
+You are standing in the master bedroom.  There is a queen size bed
+against one wall, with a simple pattern for a bedspread.  There is a large
+closet opposite the bed, holding a wide variety of very classy clothes. 
+Against the north wall is a window which overlooks the street.  There are
+lamps in each of the four corners, and to the south is the other bedroom and
+the way downstairs.  
+~
+0 8 1
+D2
+~
+~
+0 0 13132
+S
+#13134
+A Crescent~
+This is a fairly narrow street.  There is a fairly noisy building to the
+south east of you, and you can here some jazz coming through the wall.  This
+street extends to the west and north, where it meets up with the main
+street.  You see a stray soccer ball in the middle of the road, and few
+pieces of litter, waiting to be picked up.  
+~
+0 0 1
+D0
+~
+~
+0 0 13084
+D3
+~
+~
+0 0 13086
+S
+#13135
+A Cafe~
+You are standing in a large cafe.  The south and east sides of the cafe
+are completely open, leading out into the street.  To the west is a stage
+for live performances.  To the north of you is a large coffee shop.  All
+around you are chairs of various sorts grouped around all types of tables.  
+~
+0 0 0
+D1
+~
+~
+0 0 13081
+D2
+~
+~
+0 0 13079
+S
+#13136
+On the Rope Bridge~
+You are standing on a long rope bridge spanning between two sections
+of this village. The bridge sways a little as you walk over it, but feels
+sturdy enough for you not to be afraid. Looking over the edge may not be
+a good idea if you're afraid of heights, as you are very high off the ground.
+~
+0 0 1
+D0
+~
+~
+0 0 13137
+D2
+~
+~
+0 0 13083
+S
+#13137
+On the Rope Bridge~
+You are standing on a long rope bridge spanning between two sections
+of this village. The bridge sways a little as you walk over it, but feels
+sturdy enough for you not to be afraid. Looking over the edge may not be
+a good idea if you're afraid of heights, as you are very high off the ground.
+~
+0 0 1
+D0
+~
+~
+0 0 13138
+D2
+~
+~
+0 0 13136
+S
+#13138
+The Main Road~
+You are walking along the main street of this town.  This part of the
+road is fairly wide, and sparsely decorated.  There are only adults in this
+part of the road, walking to their various jobs.  Towards the west you can
+smell the alluring scent of freshly brewed alcohol.  There is a sign above a
+door to the east is a sign which simply says 'Usr Tequyko'.  
+~
+0 0 1
+D0
+~
+~
+0 0 13139
+D1
+~
+~
+1 0 13146
+D2
+~
+~
+0 0 13137
+D3
+~
+~
+1 0 13156
+S
+#13139
+The Main Road~
+You are walking on the large main road of this city as it travels through
+the industrial section of town.  You can see a lot of business people
+wandering about their business, either talking to create new connections or
+moving to their place of work.  To the east of you is a large, bulky
+building, and to the west of you is a somewhat smaller building in a state
+of obvious disrepair.  
+~
+0 0 1
+D0
+~
+~
+0 0 13140
+D2
+~
+~
+0 0 13138
+D3
+~
+~
+1 0 13158
+S
+#13140
+The Main Road~
+You are walking on a very long main road through this city in the trees. 
+There is a very large building sitting to the east of you, with windows set
+very high towards the ceiling.  The road seems to be well travelled and
+often used by many of the businessfolk of this town.  To the north is a
+large open square.  
+~
+0 0 1
+D0
+~
+~
+0 0 13141
+D1
+~
+~
+1 0 13144
+D2
+~
+~
+0 0 13139
+S
+#13141
+Industrial Center~
+This is a very wide open area where the main street of the town bends
+from heading east-west to heading north-south.  This is the main square for
+the production center of the city.  You see large packages being moved from
+one building to another and people moving quickly from one location to
+another.  A lot of the movement seems to center around a large company
+headquarters, located to the northeast of you.  
+~
+0 0 1
+D0
+~
+~
+0 0 13153
+D1
+~
+~
+0 0 13152
+D2
+~
+~
+0 0 13140
+D3
+~
+~
+0 0 13142
+S
+#13142
+The Main Road~
+You are standing directly to the west of a large, open square.  As such,
+the road you are on is carrying a lot of traffic both to and from that area.
+The road is kept in very good condition, and it seems to be completely
+smooth.  There is a large rectangular building to the north of you and a
+smaller, more uniquely designed building to the south, with a sign on the
+door that reads 'Zenaqew Fyuuwadn Xwedu'.  
+~
+0 0 1
+D0
+~
+~
+1 0 13148
+D1
+~
+~
+0 0 13141
+D2
+~
+~
+1 0 13157
+D3
+~
+~
+0 0 13143
+S
+#13143
+The Main Road~
+You are on a very long street which leads east towards a large square not
+too far away, and to the west over some sort of bridge and towards other
+buildings.  This is a fairly busy portion of town, where all the action
+seems to take place.  There is a large building to the north of you, and a
+smaller one to the south.  The one to the south has a sign over the door
+which reads 'Zenaq Fyuuwadn Xwedu'.  
+~
+0 0 1
+D0
+~
+~
+1 0 13149
+D1
+~
+~
+0 0 13142
+D2
+~
+~
+1 0 13151
+D3
+~
+~
+0 0 13049
+S
+#13144
+The Factory Floor~
+You are standing in a large a dimly lit room.  There are boxes piled so
+high up against the walls here that they block out some of the light which
+enters through the windows at the second story, right under the ceiling. 
+There is a door to the west which leaves the factory, and the building also
+continues to the south.  
+~
+0 8 1
+D2
+~
+~
+0 0 13145
+D3
+~
+~
+1 0 13140
+S
+#13145
+The Factory Floor~
+You are standing in a very large room with a very high ceiling.  There is
+little decoration in this room, everything is purely utilitarian.  There is
+large machinery in this room making noises, not all of which seem to be
+healthy.  The machinery extends to the north and south, where the room
+continues.  There is a set of stairs set into the eastern wall which leads
+upstairs to where the supervisors can watch over the entire factory floor.  
+~
+0 8 1
+D0
+~
+~
+0 0 13144
+D2
+~
+~
+0 0 13146
+D4
+~
+~
+0 0 13147
+S
+#13146
+The Factory Floor~
+You are on the floor of a very large room.  In one corner you can see
+boxes of supplies piled almost up to the roof.  There are several vehicles
+dotted around which are used for moving large items from one place to
+another.  There is also a lot of machinery in use here, some of which you
+cannot fathom what it may be used for.  There are windows set high in the
+walls, and the room extends to the north.  
+~
+0 8 1
+D0
+~
+~
+0 0 13145
+D3
+~
+~
+1 0 13138
+S
+#13147
+The Supervisor's Office~
+You are standing in a smallish room which overlooks the entire floor. 
+From your vantage point here it is impossible for any lazy or underachieving
+worker to hide from you.  The room is completely surrounded with glass so
+you can see all around you, and filing cabinets line the walls, with
+information about the people and items that pass through this factory's
+walls.  
+~
+0 8 1
+D5
+~
+~
+0 0 13145
+S
+#13148
+A Warehouse~
+This is a very large room with more shelves than you have ever seen in
+one place.  They are organized in very neat rows with little markings every
+so often, although you have no idea what the markings mean.  On the shelves
+are a variety of boxes, crates bags, and other things which are being stored
+temporarily.  There are some bright overhead lights providing illumination
+for this room.  The room continues to the east, or you leave the building to
+the south.  
+~
+0 8 1
+D2
+~
+~
+1 0 13142
+D3
+~
+~
+0 0 13149
+S
+#13149
+A Warehouse~
+You are standing in a room which is packed with boxes and crates all the
+way to the roof.  There are shelves running through this entire building and
+running all the way towards the roof, and every shelf is filled wiht boxes
+and crates.  You wonder how anyone can ever tell them apart.  The building
+seems to extend far to the east.  
+~
+0 8 1
+D1
+~
+~
+0 0 13148
+D2
+~
+~
+1 0 13143
+S
+#13150
+A Smithy~
+This is a very large room with a very low ceiling.  There is a large
+anvil in one corner of the room, and a much smaller one in another corner,
+likely used by apprentices.  There are a wide variety of tools along the
+back wall who's purpose you can barely dare to imagine.  There are two
+barrels between the anvils used for quenching the results of the smith's
+labour.  The door is to the north.  
+~
+0 8 1
+D0
+~
+~
+1 0 13049
+S
+#13151
+Magic Bottling Plant~
+You are in a fairly cramped room.  It is actually quite large, but there
+is so much strange looking equipment around that you have almost no room to
+move.  There seem to be glass beakers everywhere and vials of various other
+ingredients scattered about the room.  A few crates are stacked against one
+corner, ready to be shipped.  
+~
+0 8 1
+D0
+~
+~
+1 0 13143
+S
+#13152
+A Side Street~
+You are standing on a little side street in a large, bustling town. 
+There seems to be a lot of traffic to the west of you, while this is a nice
+little corner away from the hassles of the business world.  There are a few
+benches near the eastern edge of the street which overlooks the forest
+floor.  There is an entrance to a large building to the north, and a wall of
+a very large building to the south of you.  
+~
+0 0 1
+D0
+~
+~
+0 0 13154
+D3
+~
+~
+0 0 13141
+S
+#13153
+A Side Street~
+You are standing just to the north of a very large city square.  This is
+a small side street off of that square which ends at a railing just north of
+you, which overlooks the forest floor below.  To the east of you is an
+entrance into a very modern and impressive looking building.  
+~
+0 0 1
+D1
+~
+~
+0 0 13154
+D2
+~
+~
+0 0 13141
+S
+#13154
+Company Headquarters~
+This is the main headquarters of some large company.  You can see rows
+upon rows of desks with people sitting at them, filling in forms, organizing
+data, contact people, and doing a myriad of other tasks which are required
+to keep a large and profitable company in operation.  There is a staircase
+in one corner which leads up to the office of the president of this company.
+~
+0 8 1
+D2
+~
+~
+0 0 13152
+D3
+~
+~
+0 0 13153
+D4
+~
+~
+1 0 13155
+S
+#13155
+The President's Office~
+You are standing in a lavishly decorated room.  The carpet beneath your
+feet is soft and plush.  A large, polished wood desk rests in one corner,
+with a large leather chair behind it.  There are 2 chairs in front of the
+desk, and a sofa in one corner.  A ship in a bottle sits upon a table in the
+corner, and expensive artwork appears on the walls.  This is sure a source
+of great power.  
+~
+0 8 1
+D5
+~
+~
+1 0 13154
+S
+#13156
+A Brewery~
+This is a very large and dimly lit room.  There are a large amount of
+casks around the room, holding various sorts of alcohol beverages.  There is
+a large rack of bottles along the back wall, some empty, some full.  There
+are a couple of shelves near where you walk in which hold a bottle from
+certain prized vintages of wine, or some truly aged scotch.  There is a door
+to the east.  
+~
+0 8 1
+D1
+~
+~
+1 0 13138
+S
+#13157
+Magical Item Plant~
+You are in a fairly small room, with a lot of shelves and other cupboard
+littered around.  There is a large oven in one corner, a press in another,
+an anvil and bellows lying on the ground, and a few other items lying around
+which you can't quite determine what their uses are.  There are several
+packages of finished items in one crate, and all the items inside look very
+colouful and very strange.  
+~
+0 8 1
+D0
+~
+~
+1 0 13142
+S
+#13158
+An Abandoned Warehouse~
+This is a very large room with a high ceiling and no interior walls. 
+There are worn out shelves which used to be used to hold boxes or crates,
+but have not been used for that purpose for a long time.  A lot of the
+windows are either boarded up with wood or simply left open.  Everything
+seems to have a dusty grey look to it.  You can leave this building to the
+east.  
+~
+0 8 1
+D1
+~
+~
+1 0 13139
+S
+#13159
+Top of the Stairs~
+You are standing at the top of a very long flight of winding stairs.  To
+the west of you is the rest of the city which you may enter at your leisure.
+You can see the busy traffic of the main street hustling and bustling before
+you.  The rest of the staircase winds below you towards the forest floor. 
+From here you have a breathtaking view of the surrounding forest, seeing
+gigantic trees and exotic birds flying between them.  
+~
+0 0 1
+D3
+~
+~
+0 0 13083
+D5
+~
+~
+0 0 13160
+S
+#13160
+On the Stairs~
+You are on a long set of winding stairs which connect the city above you
+to the forest below you.  The forest floor is still very far below you, you
+realise as you peer over the edge.  Trying to jump off would be a very bad
+idea.  You had see huge tree branches surrounding you, all covered with
+vines and mosses.  
+~
+0 0 1
+D4
+~
+~
+0 0 13159
+D5
+~
+~
+0 0 13161
+S
+#13161
+On the Stairs~
+You are walking on a set of stairs which can carry you to either the city
+which lies far, far above you, or to the forest floor below.  Looking
+around, all you can see are trunks of huge, ancient trees, and you can catch
+glimpses of various types of wildlife in the forest.  
+~
+0 0 0
+D4
+~
+~
+0 0 13160
+D5
+~
+~
+0 0 13162
+S
+#13162
+Bottom of the Stairs~
+Around you all you can see is green and brown; green of leaves and plants
+and grass, and brown of trees and wooden steps and a building.  Just to the
+east of you is a brown building, which regulates access to the stairs you
+are standing at the bottom of.  The stairs leads up into the foliage of a
+particularly large tree.  
+~
+0 0 0
+D1
+~
+~
+1 0 13163
+D4
+~
+~
+0 0 13161
+S
+#13163
+The Gatehouse~
+You are standing inside a small building.  There are a few officials
+around here, ensuring that the traffic proceeding through here continues at
+an orderly pace.  There are a few guards also around, make sure no one
+breaks the peace.  Outside towards the east are some fields, while towards
+the west is the entrance to a great city.  
+~
+0 0 1
+D1
+~
+~
+1 0 13164
+D3
+~
+~
+1 13087 13162
+S
+#13164
+A Grassy Field~
+This is a large, open field.  Tall grass, almost to your knees, waves
+back and forth in the gentle wind.  You can see places where a few flowers
+try to poke their way through the grass, and where a few weeds are trying to
+prevent the grass from growing.  To the west, a smallish hut sits on a path
+which leads into the forest.  The fields extend in all other directions.  
+~
+0 16 2
+D0
+~
+~
+0 0 13169
+D1
+~
+~
+0 0 13167
+D2
+~
+~
+0 0 13165
+D3
+~
+~
+1 0 13163
+S
+#13165
+A Corn Field~
+All you can see around you are huge stalks of corn growing in neat rows
+up and down the field.  You're sure that somewhere, far away, the field
+ends, but the corn is taller than you are, right now.  The ground seems to
+be relatively clear of weeds and such, though there are a lot of bugs
+around.  A large forest looms to the west.  
+~
+0 0 2
+D0
+~
+~
+0 0 13164
+D1
+~
+~
+0 0 13166
+D2
+~
+~
+0 0 13175
+S
+#13166
+A Wheat Field~
+This field seems to be very neatly kept.  The wheat plants were sown in
+neat rows, and kept completely weed-free, so that they could grow quickly. 
+To the east all you see is a large forest, with thick undergrowth, and many
+animals roaming about.  Another direction would be a wiser desicion.  
+~
+0 0 2
+D0
+~
+~
+0 0 13167
+D2
+~
+~
+0 0 13176
+D3
+~
+~
+0 0 13165
+S
+#13167
+A Hayfield~
+This is a large, open field, with tall grass rising almost to your knees
+spreading all around you.  There are several places where to grass has been
+rolled up into very large bales of hay.  These bales are dotted around the
+field in no particular order.  Over to the west is a large forest, and to
+the south of you crops are being grown.  
+~
+0 0 0
+D0
+~
+~
+0 0 13168
+D1
+~
+~
+0 0 13177
+D2
+~
+~
+0 0 13166
+D3
+~
+~
+0 0 13164
+S
+#13168
+A Grazing Field~
+This is a large open field which is used to feed animals.  You have to be
+careful to watch where you step so that you do not ruin your shoes, by
+accident.  There are a few cows wandering around this part of the field. 
+You see in the west a large barn where the animals can be housed when they
+need to be brought indoors.  
+~
+0 0 2
+D0
+~
+~
+0 0 13171
+D2
+~
+~
+0 0 13167
+D3
+~
+~
+0 0 13169
+S
+#13169
+A Grazing Field~
+This is a large field filled with grass, clover, and other weeds.  It
+seems to be used only for allowing animals to graze here.  You note that it
+seems some animals have done so quite recently, as you can tell by the
+droppings on the ground.  There is a barn to the west where the animals can
+be sheltered, and a large forest looming beyond that.  
+~
+0 0 2
+D0
+~
+~
+0 0 13170
+D1
+~
+~
+0 0 13168
+D2
+~
+~
+0 0 13164
+D3
+~
+~
+1 0 13173
+S
+#13170
+A Grazing Field~
+You are standing in the middle of a large, grassy field.  You can spot
+the occasional weed poking up, and determine that this field is not
+necessarily that well maintained.  You can see a few animals wandering
+around, grazing lazily, and a barn to the west where they can stay indoors
+when need be.  The field extends all around except to the north, where the
+thick forest is impenetrable.  
+~
+0 0 2
+D1
+~
+~
+0 0 13171
+D2
+~
+~
+0 0 13169
+D3
+~
+~
+1 0 13172
+S
+#13171
+A Grassy Field~
+There don't seem to be any trees around here, perhaps they all burnt down
+in a fire long ago.  You can see there are trees to the east and north of
+you, but where you are standing has been set aside for an animal grazing
+field.  The grass is quite green here, and is kept so for the animals. 
+There is a barn towards the west which must house the creatures who eat
+here.  
+~
+0 0 2
+D2
+~
+~
+0 0 13168
+D3
+~
+~
+0 0 13170
+S
+#13172
+A Barn~
+This is an enclosed area which smells very heavily like animals.  There
+are a large amount of stalls up against the walls where animals can be kept,
+as well as shovels and other tools lying against walls or hung up on posts. 
+The roof is quite high here, and light streams in through a few windows
+located near the ceiling.  A door is to the east, and the barn continues to
+the south.  
+~
+0 8 0
+D1
+~
+~
+1 0 13170
+D2
+~
+~
+0 0 13173
+S
+#13173
+A Barn~
+This is a large, musty looking barn.  The sunlight streaming through the
+windows glistens with dust.  There is a carpet of hay flooring the barn,
+likely tossed down from the hayloft above you.  There are several stalls
+around in which animals can be kept.  Shovels, pitchforks, and other tools
+hang from hooks on the wall, or lean wherever they have been left.  
+~
+0 8 0
+D0
+~
+~
+0 0 13172
+D1
+~
+~
+1 0 13169
+D4
+~
+~
+0 0 13174
+S
+#13174
+A Hayloft~
+You have climbed up a ladder into the hayloft for the barn.  This is
+nothing but a large platform extending over one side of the barn which large
+amounts of hay lying about, and a few pitchforks leaning against walls. 
+There are a few large indentations in the hay, as if people have been lying
+in it.  There are a few windows which allow light in and are the only
+remarkable feature that you can see.  
+~
+0 12 0
+D5
+~
+~
+0 0 13173
+S
+#13175
+A Strawberry Patch~
+You are standing in the middle of a large collection of strawberry
+plants.  They are planting in neat rows so that they may be harvested more
+easily.  You notice that there are very few weeds around here, to allow the
+strawberries to grow.  This field is likely used to feed the city you can
+see high above you in the trees.  There are more fields to the east and
+north, while in the other directions is impassable undergrowth.  
+~
+0 0 2
+D0
+~
+~
+0 0 13165
+D1
+~
+~
+0 0 13176
+S
+#13176
+An Apple Orchard~
+You are standing among many rows of large apple trees.  Over to one side
+you can see some Granny Smiths, and to the other side you can see some
+Spartan apples.  This orchard looks to be very well tended by the quality of
+the trees and the luck of other undergrowth.  There are several ladders
+leaning up into trees with baskets beneath them, for the apple pickers to
+use.  
+~
+0 0 2
+D0
+~
+~
+0 0 13166
+D3
+~
+~
+0 0 13175
+S
+#13177
+A Meadow~
+All you can see around you is grass, grass, and more grass...  Except to
+the west, where you can see a large forest looming in the distance.  You can
+see a few rabbits and foxes running about in this field, but they are all
+too far away for you to catch.  The air is quite fresh and carries with it
+the aroma of nature.  
+~
+0 0 2
+D1
+~
+~
+0 0 13178
+D3
+~
+~
+0 0 13167
+S
+#13178
+A Meadow~
+You are standing in a large meadow.  All you see around you is a large
+open area, completely uncultivated by any living creature.  You see grass,
+clover and other plants all growing up here.  You can see a path heading out
+towards the east, and a large forest looming somewhere towards the west.  
+~
+0 0 2
+D3
+~
+~
+0 0 13177
+S
+#13194
+AN UNUSED ROOM~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#13014
+if mobhere 13038
+else
+mob echo You hear the sounds of many soldiers coming up the stairs.
+mob mload 13038
+mob force lieutenant follow general
+group lieutenant
+mob mload 13038
+mob force lieutenant follow general
+group lieutenant
+mob mload 13038
+mob force lieutenant follow general
+group lieutenant
+endif
+~
+A
+#13013
+rescue general
+~
+A
+#13012
+emote slowly chews on a mouthful of grass.
+~
+A
+#13009
+emote wipes some sweat from his brow, and gets back to work.
+~
+A
+#13005
+emote picks up a pen and makes some entries in her accounts book.
+~
+A
+#13004
+emote flips to the next page of his magazine.
+~
+A
+#13111
+if random <= 50
+close east
+else
+close west
+endif
+~
+A
+#13110
+if hpcnt $n <= 20
+mob echoat $n $I starts to lick your wounds.
+mob echoaround $n $I starts to lick $n's wounds.
+~
+A
+#13109
+mob call 13110 $r
+~
+A
+#13108
+mob echoat $n $I growls at you ferociously from the far corner of the room.
+mob echoaround $n $I growls at $n ferociously from the far corner of the room.
+~
+A
+#13107
+mob call 13108 $r
+~
+A
+#13106
+emote draws itself up proudly for a mighty roar, but only a little yelp comes out.
+~
+A
+#13105
+done
+if clan $n 'Kindred'
+or clan $n 'Kenshi'
+or clan $n 'Justice'
+or clan $n 'seeker'
+or clan $n 'Loner'
+emote tries to breathe a might breath, but it chokes, and a trail of puff of smoke comes from it's nostrils.
+endif
+~
+A
+#13104
+if objhere couch
+echo nestles into a ball on a pillow.
+endif
+say this was a test
+~
+A
+#13103
+if objhere fountain
+if objhere water
+echo laps up water from the fountain.
+else
+if objhere lemonade
+echo laps up lemonade from the fountain.
+endif
+~
+A
+#13102
+emote yelps, as it wants to go outside.
+~
+A
+#13101
+emote rolls onto its back looking for a belly-rub.
+~
+A
+#13100
+mob cast meteor
+~
+A
+#13000
+if objhere test
+say The elevator is occupied. Please wait a moment.
+break
+else
+mob goto 13019
+close north
+lock north
+mob goto 13018
+unlock north
+open north
+mob echoat $n The guard smiles at you, and invites you to enter the elevator.
+mob echoaround $n The guard smiles at $n, and invites $m to enter the elevator.
+mob delay 2
+endif
+~
+A
+#13001
+if objhere test
+mob goto 13019
+mob echo The room seems to have just stopped moving.
+mob goto 13020
+unlock south
+open south
+mob goto 13018
+mob junk test
+mob cancel
+break
+else
+mob goto 13018
+close north
+lock north
+mob goto 13019
+mob echo The room seems to lurch, and you feel as if you are rising.
+mob oload 13001 5
+mob goto 13018
+mob cancel
+mob delay 3
+endif
+ 
+~
+A
+#13002
+mob echo The deer is spooked by you, and bounds off.
+mob goto 13021
+mob cast blink
+~
+A
+#13003
+~
+A
+#13006
+if isdelay $i
+break
+else
+mob echo You hear a small explosion coming from the back room.
+say Excuse for me just a moment, please.
+mob echo Pete quickly ducks behind a small door and into the back room.
+mob goto 13021
+mob delay 2
+endif
+~
+A
+#13007
+mob goto 13060
+mob echo Pete re-enters the room.
+smile
+say Everything seems to be in order.
+mob cancel
+~
+A
+#13008
+emote places a fresh batch of muffins on the rack to cool.
+~
+A
+#13010
+emote has finished his current job, and is moving on the the next one.
+~
+A
+#13011
+emote picks up a pen and begins writing out a set of orders.
+~
+A
+#0
+
+#RESETS
+D 0 13018 0 2
+D 0 13019 0 2
+D 0 13019 2 2
+D 0 13020 2 2
+D 0 13022 3 1
+D 0 13023 1 1
+D 0 13024 0 1
+D 0 13027 2 1
+D 0 13029 0 2
+D 0 13029 2 2
+D 0 13030 1 1
+D 0 13030 3 1
+D 0 13031 0 1
+D 0 13033 1 1
+D 0 13033 2 1
+D 0 13041 3 1
+D 0 13056 3 1
+D 0 13076 1 1
+D 0 13077 0 1
+D 0 13077 2 1
+D 0 13078 2 1
+D 0 13079 2 1
+D 0 13080 1 1
+D 0 13081 1 1
+D 0 13091 2 1
+D 0 13091 3 1
+D 0 13092 0 1
+D 0 13093 1 1
+D 0 13095 1 1
+D 0 13095 3 1
+D 0 13096 3 1
+D 0 13100 2 1
+D 0 13100 3 1
+D 0 13101 1 1
+D 0 13102 3 1
+D 0 13103 1 1
+D 0 13104 0 1
+D 0 13106 1 1
+D 0 13106 2 1
+D 0 13107 0 1
+D 0 13110 0 1
+D 0 13117 3 1
+D 0 13119 1 1
+D 0 13120 3 1
+D 0 13128 0 1
+D 0 13138 1 1
+D 0 13138 3 1
+D 0 13139 3 1
+D 0 13140 1 1
+D 0 13142 0 1
+D 0 13142 2 1
+D 0 13143 0 1
+D 0 13144 3 1
+D 0 13146 3 1
+D 0 13148 2 1
+D 0 13149 2 1
+D 0 13156 1 1
+D 0 13157 0 1
+D 0 13158 1 1
+D 0 13162 1 2
+D 0 13163 1 1
+D 0 13163 3 2
+D 0 13164 3 1
+D 0 13169 3 1
+D 0 13170 3 1
+D 0 13172 1 1
+D 0 13173 1 1
+M 1 13002 3 13003 1
+M 1 13001 3 13004 1
+M 1 13001 3 13007 1
+M 1 13003 2 13008 1
+M 1 13003 2 13009 1
+M 1 13002 3 13012 1
+M 1 13001 3 13015 1
+M 1 13002 3 13017 1
+M 1 13000 1 13018 1
+E 0 13000 0 17
+M 1 13005 30 13020 1
+E 0 13005 0 16
+E 0 13004 0 5
+E 0 13003 0 8
+E 0 13002 0 7
+M 1 13009 10 13023 2
+M 1 13023 5 13023 1
+E 0 13064 0 16
+M 1 13023 5 13027 1
+E 0 13064 0 16
+M 1 13009 10 13027 1
+M 1 13005 30 13028 1
+E 0 13005 0 16
+E 0 13004 0 5
+E 0 13003 0 8
+E 0 13002 0 7
+O 0 13067 0 13033
+M 1 13027 2 13033 1
+E 0 13066 0 16
+M 1 13037 1 13034 1
+E 0 13076 0 2
+E 0 13075 0 16
+E 0 13074 0 12
+O 0 13059 0 13034
+M 1 13030 10 13037 1
+M 1 13030 10 13037 1
+M 1 13005 30 13038 2
+E 0 13005 0 16
+E 0 13004 0 5
+E 0 13003 0 8
+E 0 13002 0 7
+M 1 13005 30 13039 2
+E 0 13005 0 16
+E 0 13004 0 5
+E 0 13003 0 8
+E 0 13002 0 7
+M 1 13023 5 13040 2
+E 0 13064 0 16
+M 1 13009 10 13040 1
+M 1 13009 10 13042 2
+M 1 13036 1 13042 1
+E 0 13073 0 16
+M 1 13009 10 13043 2
+M 1 13030 10 13044 1
+M 1 13004 1 13054 1
+M 1 13016 6 13057 1
+G 0 13060 0
+M 1 13006 1 13057 1
+E 0 13013 0 5
+G 0 13008 0
+G 0 13007 0
+G 0 13006 0
+G 0 13009 0
+O 0 13011 0 13057
+O 0 13010 0 13057
+M 1 13016 6 13058 1
+G 0 13060 0
+M 1 13005 30 13059 1
+E 0 13005 0 16
+E 0 13004 0 5
+E 0 13003 0 8
+E 0 13002 0 7
+M 1 13008 1 13060 1
+G 0 13029 0
+G 0 13026 0
+G 0 13021 0
+G 0 13020 0
+G 0 13019 0
+G 0 13018 0
+M 1 13007 1 13061 1
+G 0 13028 0
+G 0 13027 0
+G 0 13017 0
+G 0 13016 0
+G 0 13015 0
+G 0 13014 0
+E 0 13012 0 17
+M 1 13011 1 13066 1
+G 0 13034 0
+G 0 13032 0
+G 0 13031 0
+G 0 13030 0
+G 0 13025 0
+G 0 13024 0
+G 0 13023 0
+G 0 13022 0
+M 1 13012 1 13067 1
+G 0 13038 0
+G 0 13037 0
+G 0 13036 0
+G 0 13035 0
+M 1 13016 6 13070 1
+G 0 13060 0
+O 0 13057 0 13070
+P 0 13055 3 13057 1
+P 0 13054 6 13057 1
+P 0 13053 6 13057 2
+M 1 13015 1 13070 1
+G 0 13058 0
+G 0 13056 0
+G 0 13055 0
+G 0 13054 0
+G 0 13053 0
+G 0 13052 0
+O 0 13010 0 13071
+O 0 13011 0 13071
+O 0 13011 0 13071
+M 1 13016 6 13071 1
+G 0 13060 0
+M 1 13013 1 13071 1
+E 0 13061 0 12
+E 0 13050 0 7
+G 0 13049 0
+G 0 13048 0
+G 0 13047 0
+G 0 13046 0
+G 0 13045 0
+G 0 13044 0
+M 1 13014 1 13072 1
+G 0 13043 0
+G 0 13042 0
+G 0 13041 0
+G 0 13040 0
+G 0 13039 0
+M 1 13030 10 13073 1
+M 1 13035 5 13077 1
+M 1 13017 7 13078 1
+M 1 13029 5 13079 1
+E 0 13071 0 16
+M 1 13031 4 13080 1
+M 1 13005 30 13080 1
+E 0 13005 0 16
+E 0 13004 0 5
+E 0 13003 0 8
+E 0 13002 0 7
+M 1 13017 7 13081 1
+M 1 13017 7 13084 1
+M 1 13017 7 13086 1
+M 1 13028 4 13088 1
+E 0 13068 0 5
+C 100 percent for next reset
+M 1 13040 4 13089 1
+M 1 13040 4 13089 1
+M 1 13029 5 13090 1
+E 0 13071 0 16
+M 1 13035 5 13091 1
+O 0 13070 0 13092
+M 1 13024 3 13092 1
+O 0 13069 0 13093
+M 1 13017 7 13095 1
+M 1 13024 3 13098 1
+O 0 13070 0 13099
+M 1 13031 4 13102 1
+C 100 percent for next reset
+M 1 13040 4 13105 1
+C 100 percent for next reset
+M 1 13040 4 13106 1
+O 0 13070 0 13107
+M 1 13024 3 13107 1
+M 1 13010 1 13109 1
+O 0 13051 0 13109
+E 0 13033 0 6
+M 1 13029 5 13110 1
+E 0 13071 0 16
+M 1 13028 4 13111 1
+E 0 13068 0 5
+M 1 13035 5 13114 1
+O 0 13069 0 13115
+M 1 13028 4 13118 1
+E 0 13068 0 5
+O 0 13070 0 13121
+M 1 13029 5 13123 1
+E 0 13071 0 16
+M 1 13029 5 13124 1
+E 0 13071 0 16
+O 0 13069 0 13127
+M 1 13028 4 13130 1
+E 0 13068 0 5
+O 0 13070 0 13133
+M 1 13035 5 13134 1
+C 100 percent for next reset
+M 1 13040 4 13135 1
+M 1 13031 4 13135 1
+M 1 13030 10 13137 1
+M 1 13031 4 13139 1
+M 1 13005 30 13141 1
+E 0 13005 0 16
+E 0 13004 0 5
+E 0 13003 0 8
+E 0 13002 0 7
+M 1 13018 6 13144 2
+E 0 13062 0 5
+M 1 13018 6 13145 2
+E 0 13062 0 5
+M 1 13018 6 13146 2
+E 0 13062 0 5
+M 1 13026 1 13147 1
+E 0 13065 0 17
+M 1 13033 6 13148 2
+E 0 13072 0 5
+M 1 13033 6 13149 2
+E 0 13072 0 5
+M 1 13020 1 13150 1
+E 0 13063 0 16
+M 1 13019 1 13150 1
+E 0 13063 0 16
+O 0 13077 0 13151
+P 0 13086 2 13077 1
+P 0 13085 2 13077 1
+P 0 13084 2 13077 1
+P 0 13083 2 13077 1
+P 0 13082 2 13077 1
+P 0 13081 2 13077 1
+P 0 13080 2 13077 1
+P 0 13079 2 13077 1
+P 0 13078 2 13077 1
+M 1 13032 2 13154 1
+M 1 13021 1 13156 1
+M 1 13033 6 13158 1
+E 0 13072 0 5
+M 1 13030 10 13159 1
+M 1 13044 1 13163 1
+E 0 13087 0 17
+M 1 13005 30 13163 2
+E 0 13005 0 16
+E 0 13004 0 5
+E 0 13003 0 8
+E 0 13002 0 7
+M 1 13025 4 13165 1
+M 1 13025 4 13166 1
+M 1 13034 4 13168 1
+M 1 13034 4 13169 1
+M 1 13034 4 13170 1
+M 1 13034 4 13171 1
+M 1 13022 2 13172 1
+M 1 13022 2 13173 1
+M 1 13025 4 13175 1
+M 1 13025 4 13176 1
+S
+
+
+
+#SHOPS
+13006 26 19 0 0 0 120 80 0 23
+13007 9 15 28 0 0 110 65 0 23
+13008 10 26 0 0 0 120 70 0 23
+13011 5 35 0 0 0 120 70 0 23
+13012 2 3 4 34 0 100 25 0 23
+13013 19 17 0 0 0 120 80 0 23
+13014 33 30 32 36 38 115 100 0 23
+13015 15 22 28 19 11 120 80 0 23
+0
+
+
+
+#$

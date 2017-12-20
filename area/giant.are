@@ -1,0 +1,1626 @@
+#AREADATA
+Name Sleeping Giant~
+Builders Lorien~
+VNUMs 20000 20199
+Credits { None} Lorien  Sleeping Giant~
+Security 1
+Xcontinent 1
+Age 11
+End
+
+
+
+#MOBILES
+#20000
+Hair~
+A hair~
+A strand of hair is here, blowing in the wind.
+~
+~
+human~
+AB 0 0 0
+5 0 0d0+0 0d0+0 0d0+0 thwack
+0 0 0 0
+0 0 0 0
+stand stand none 50
+C 0 tiny fur
+#0
+
+
+
+#OBJECTS
+#20000
+An Ear~
+Ear Wax~
+An ear is here, wax dripping off every end.~
+wax~
+portal O P
+0 0 0 20027 0
+0 100 0 P
+#0
+
+
+
+#ROOMS
+#20000
+Lumps In The Distance~
+In the distance are many hills.  They appear to be moving.
+~
+0 0 4
+D1
+~
+~
+0 0 20001
+M 0 H 0
+S
+#20001
+Rolling Hills~
+Coming closer, the hills have grown larger.  They really seem to be moving now, up and down.
+~
+0 0 4
+D1
+~
+~
+0 0 20002
+D3
+~
+~
+0 0 20000
+M 0 H 0
+S
+#20002
+A Huge Man~
+Moving closer, you discover the hills were really the outline of a huge man.  He seems to be asleep, his chest rising and falling.
+~
+0 0 4
+D1
+~
+~
+0 0 20003
+D3
+~
+~
+0 0 20001
+M 0 H 0
+S
+#20003
+A Massive Arm~
+Working by the hand, you move up the arm.  Gargantuan muscle ripples with every breath of the giant.
+~
+0 0 4
+D0
+~
+~
+0 0 20004
+D1
+~
+~
+0 0 20008
+D2
+~
+~
+0 0 20010
+D3
+~
+~
+0 0 20002
+M 0 H 0
+S
+#20004
+Beside The Head~
+You are beside a huge head.  The ear on this side is bigger than you are!  You could probably just walk into it...
+~
+0 0 4
+D1
+~
+~
+0 0 20005
+D2
+~
+~
+0 0 20003
+M 0 H 0
+S
+#20005
+Forehead~
+You are atop the mighty forehead.  The eyebrows seems like bushes.  From here, you can see the chest moving with every breath.
+~
+0 0 4
+D1
+~
+~
+0 0 20024
+D2
+~
+~
+0 0 20055
+D3
+~
+~
+0 0 20004
+M 0 H 0
+S
+#20006
+On Top Of The Mouth~
+You feel a slight breeze coming from the mouth.  It opens and closes.  Maybe, if you timed it right, you could enter...
+~
+0 0 4
+D0
+~
+~
+0 0 20055
+D2
+~
+~
+0 0 20007
+D5
+~
+~
+0 0 20058
+M 0 H 0
+S
+#20007
+Neck~
+You've slipped down onto the neck.  The Adam's apple is bulging monstrously here.  You can feel a huge vein throbbing as blood passes through it.
+~
+0 0 4
+D0
+~
+~
+0 0 20006
+D2
+~
+~
+0 0 20008
+M 0 H 0
+S
+#20008
+On The Chest~
+You are on top of the chest.  Rising and falling, with every breath, it's a rhythmic cycle.
+~
+0 0 4
+D0
+~
+~
+0 0 20007
+D1
+~
+~
+0 0 20023
+D2
+~
+~
+0 0 20009
+D3
+~
+~
+0 0 20003
+M 0 H 0
+S
+#20009
+On The Stomach~
+You are on what appears to be the giant's stomach.  You hear a faint gurgling noise, but you can't quite tell where it's coming from...
+~
+0 0 4
+D0
+~
+~
+0 0 20008
+D1
+~
+~
+0 0 20022
+D2
+~
+~
+0 0 20013
+D3
+~
+~
+0 0 20010
+D5
+~
+~
+0 0 20087
+M 0 H 0
+S
+#20010
+Beside The Waist~
+You are beside a massive waist.  It seems that this giant was well fed.
+~
+0 0 4
+D0
+~
+~
+0 0 20003
+D1
+~
+~
+0 0 20009
+D2
+~
+~
+0 0 20019
+M 0 H 0
+S
+#20011
+Beside The Feet~
+You are walking beside huge tree trunks that resemble legs.  These things are just enormous!
+~
+0 0 4
+D0
+~
+~
+0 0 20019
+D1
+~
+~
+0 0 20012
+M 0 H 0
+S
+#20012
+Tips Of The Feet~
+~
+0 0 4
+D0
+~
+~
+0 0 20015
+D1
+~
+~
+0 0 20017
+D3
+~
+~
+0 0 20011
+D4
+~
+~
+0 0 20020
+D5
+~
+~
+0 0 20016
+M 0 H 0
+S
+#20013
+Top Of The Legs~
+~
+0 0 4
+D0
+~
+~
+0 0 20009
+D1
+~
+~
+0 0 20021
+D2
+~
+~
+0 0 20014
+D3
+~
+~
+0 0 20019
+M 0 H 0
+S
+#20014
+On The Knees~
+~
+0 0 4
+D0
+~
+~
+0 0 20013
+D2
+~
+~
+0 0 20015
+M 0 H 0
+S
+#20015
+Lower Legs~
+~
+0 0 0
+D0
+~
+~
+0 0 20014
+D2
+~
+~
+0 0 20012
+M 0 H 0
+S
+#20016
+Ticklish Soles~
+~
+0 0 0
+D4
+~
+~
+0 0 20012
+M 0 H 0
+S
+#20017
+Beside The Feet~
+~
+0 0 0
+D0
+~
+~
+0 0 20018
+D3
+~
+~
+0 0 20012
+M 0 H 0
+S
+#20018
+Along The Waist~
+~
+0 0 0
+D0
+~
+~
+0 0 20021
+D2
+~
+~
+0 0 20017
+M 0 H 0
+S
+#20019
+Along The Legs~
+~
+0 0 0
+D0
+~
+~
+0 0 20010
+D1
+~
+~
+0 0 20013
+D2
+~
+~
+0 0 20011
+M 0 H 0
+S
+#20020
+Atop the Toes~
+~
+0 0 0
+D5
+~
+~
+0 0 20012
+M 0 H 0
+S
+#20021
+Along The Legs~
+~
+0 0 0
+D0
+~
+~
+0 0 20022
+D2
+~
+~
+0 0 20018
+D3
+~
+~
+0 0 20013
+M 0 H 0
+S
+#20022
+Along The Waist~
+~
+0 0 0
+D0
+~
+~
+0 0 20023
+D2
+~
+~
+0 0 20021
+D3
+~
+~
+0 0 20009
+M 0 H 0
+S
+#20023
+An Arm~
+~
+0 0 0
+D0
+~
+~
+0 0 20024
+D1
+~
+~
+0 0 20025
+D2
+~
+~
+0 0 20022
+D3
+~
+~
+0 0 20008
+M 0 H 0
+S
+#20024
+The Ear~
+~
+0 0 0
+D2
+~
+~
+0 0 20023
+D3
+~
+~
+0 0 20005
+M 0 H 0
+S
+#20025
+Hands~
+~
+0 0 0
+D1
+~
+~
+0 0 20026
+D3
+~
+~
+0 0 20023
+M 0 H 0
+S
+#20026
+Fingers~
+~
+0 0 0
+D3
+~
+~
+0 0 20025
+M 0 H 0
+S
+#20027
+Inner Ear~
+~
+0 0 12
+D3
+~
+~
+0 0 20028
+M 0 H 0
+S
+#20028
+Moving Gauntlet~
+~
+0 0 12
+D1
+~
+~
+0 0 20027
+D3
+~
+~
+0 0 20029
+M 0 H 0
+S
+#20029
+Slime Pace~
+~
+0 0 12
+D0
+~
+~
+0 0 20037
+D1
+~
+~
+0 0 20028
+D2
+~
+~
+0 0 20044
+D3
+~
+~
+0 0 20030
+M 0 H 0
+S
+#20030
+Opposite Shore~
+~
+0 0 12
+D1
+~
+~
+0 0 20029
+D3
+~
+~
+0 0 20031
+M 0 H 0
+S
+#20031
+Top of Peak~
+~
+0 0 12
+D1
+~
+~
+0 0 20030
+D3
+~
+~
+0 0 20032
+M 0 H 0
+S
+#20032
+Shore Of Squishy Gray Matter~
+~
+0 0 12
+D1
+~
+~
+0 0 20031
+D3
+~
+~
+0 0 20033
+M 0 H 0
+S
+#20033
+Crossing Through~
+~
+0 0 12
+D0
+~
+~
+0 0 20040
+D1
+~
+~
+0 0 20032
+D2
+~
+~
+0 0 20041
+D3
+~
+~
+0 0 20034
+M 0 H 0
+S
+#20034
+Ferry On The Edge Of The Sea~
+~
+0 0 12
+D1
+~
+~
+0 0 20033
+D3
+~
+~
+0 0 20035
+M 0 H 0
+S
+#20035
+Vibrating Bones~
+~
+0 0 12
+D1
+~
+~
+0 0 20034
+D3
+~
+~
+0 0 20036
+M 0 H 0
+S
+#20036
+Inner Ear~
+~
+0 0 12
+D1
+~
+~
+0 0 20035
+M 0 H 0
+S
+#20037
+North East Corner~
+~
+0 0 12
+D2
+~
+~
+0 0 20029
+D3
+~
+~
+0 0 20038
+M 0 H 0
+S
+#20038
+Murmers~
+~
+0 0 12
+D1
+~
+~
+0 0 20037
+D3
+~
+~
+0 0 20039
+M 0 H 0
+S
+#20039
+Gurgles~
+~
+0 0 12
+D1
+~
+~
+0 0 20038
+D3
+~
+~
+0 0 20040
+D5
+~
+~
+0 0 20045
+M 0 H 0
+S
+#20040
+North West Corner~
+~
+0 0 12
+D1
+~
+~
+0 0 20039
+D2
+~
+~
+0 0 20033
+M 0 H 0
+S
+#20041
+South West Corner~
+~
+0 0 12
+D0
+~
+~
+0 0 20033
+D1
+~
+~
+0 0 20042
+M 0 H 0
+S
+#20042
+Still Waters~
+~
+0 0 12
+D1
+~
+~
+0 0 20043
+D3
+~
+~
+0 0 20041
+M 0 H 0
+S
+#20043
+Peaceful Waves~
+~
+0 0 12
+D1
+~
+~
+0 0 20044
+D3
+~
+~
+0 0 20042
+M 0 H 0
+S
+#20044
+South East Corner~
+~
+0 0 12
+D0
+~
+~
+0 0 20029
+D3
+~
+~
+0 0 20043
+M 0 H 0
+S
+#20045
+Going Down~
+~
+0 0 12
+D2
+~
+~
+0 0 20046
+D4
+~
+~
+0 0 20039
+D5
+~
+~
+0 0 20048
+M 0 H 0
+S
+#20046
+Under The Center~
+~
+0 0 12
+D0
+~
+~
+0 0 20045
+D4
+~
+~
+0 0 20047
+M 0 H 0
+S
+#20047
+The Command Center~
+~
+0 0 0
+D5
+~
+~
+0 0 20046
+M 0 H 0
+S
+#20048
+Brain Stem~
+~
+0 0 12
+D4
+~
+~
+0 0 20045
+D5
+~
+~
+0 0 20049
+M 0 H 0
+S
+#20049
+More Brain Stem~
+~
+0 0 12
+D4
+~
+~
+0 0 20048
+D5
+~
+~
+0 0 20050
+M 0 H 0
+S
+#20050
+Spinal Cord~
+~
+0 0 12
+D4
+~
+~
+0 0 20049
+D5
+~
+~
+0 0 20051
+M 0 H 0
+S
+#20051
+The Spine~
+~
+0 0 12
+D1
+~
+~
+0 0 20052
+D4
+~
+~
+0 0 20050
+M 0 H 0
+S
+#20052
+In The Spinal Fluid~
+~
+0 0 12
+D1
+~
+~
+0 0 20053
+D3
+~
+~
+0 0 20051
+M 0 H 0
+S
+#20053
+A Tiny Crack~
+~
+0 0 12
+D1
+~
+~
+0 0 20054
+D3
+~
+~
+0 0 20052
+M 0 H 0
+S
+#20054
+A Clot~
+~
+0 0 12
+D3
+~
+~
+0 0 20053
+M 0 H 0
+S
+#20055
+On The Tip Of The Nose~
+~
+0 0 4
+D0
+~
+~
+0 0 20005
+D2
+~
+~
+0 0 20006
+D5
+~
+~
+0 0 20056
+M 0 H 0
+S
+#20056
+Inside the Nostril~
+~
+0 0 12
+D4
+~
+~
+0 0 20055
+D5
+~
+~
+0 0 20057
+M 0 H 0
+S
+#20057
+Nasal Passage~
+~
+0 0 12
+D2
+~
+~
+0 0 20058
+D4
+~
+~
+0 0 20056
+M 0 H 0
+S
+#20058
+The Pharynx~
+~
+0 0 12
+D0
+~
+~
+0 0 20057
+D4
+~
+~
+0 0 20006
+D5
+~
+~
+0 0 20059
+M 0 H 0
+S
+#20059
+The Epiglottis~
+~
+0 0 12
+D1
+~
+~
+0 0 20060
+D3
+~
+~
+0 0 20094
+D4
+~
+~
+0 0 20058
+M 0 H 0
+S
+#20060
+Leading Down The Digestive Tract~
+~
+0 0 12
+D3
+~
+~
+0 0 20059
+D5
+~
+~
+0 0 20061
+M 0 H 0
+S
+#20061
+Esophagus~
+~
+0 0 0
+D4
+~
+~
+0 0 20060
+D5
+~
+~
+0 0 20062
+M 0 H 0
+S
+#20062
+Cardiac Sphincter~
+~
+0 0 0
+D4
+~
+~
+0 0 20061
+D5
+~
+~
+0 0 20063
+M 0 H 0
+S
+#20063
+Stomach Lining~
+~
+0 0 0
+D1
+~
+~
+0 0 20071
+D2
+~
+~
+0 0 20064
+D3
+~
+~
+0 0 20065
+D4
+~
+~
+0 0 20062
+M 0 H 0
+S
+#20064
+Amid The Gastric Juices~
+~
+0 0 0
+D0
+~
+~
+0 0 20063
+D1
+~
+~
+0 0 20069
+D2
+~
+~
+0 0 20067
+D3
+~
+~
+0 0 20066
+D4
+~
+~
+0 0 20072
+D5
+~
+~
+0 0 20074
+M 0 H 0
+S
+#20065
+More Juices~
+~
+0 0 0
+D1
+~
+~
+0 0 20063
+D2
+~
+~
+0 0 20066
+M 0 H 0
+S
+#20066
+More Juices~
+~
+0 0 0
+D0
+~
+~
+0 0 20065
+D1
+~
+~
+0 0 20064
+D2
+~
+~
+0 0 20068
+M 0 H 0
+S
+#20067
+More Juices~
+~
+0 0 0
+D0
+~
+~
+0 0 20064
+D1
+~
+~
+0 0 20070
+D3
+~
+~
+0 0 20068
+M 0 H 0
+S
+#20068
+More Juices~
+~
+0 0 0
+D0
+~
+~
+0 0 20066
+D1
+~
+~
+0 0 20067
+M 0 H 0
+S
+#20069
+More Juices~
+~
+0 0 0
+D0
+~
+~
+0 0 20071
+D2
+~
+~
+0 0 20070
+D3
+~
+~
+0 0 20064
+M 0 H 0
+S
+#20070
+More Juices~
+~
+0 0 0
+D0
+~
+~
+0 0 20069
+D3
+~
+~
+0 0 20067
+M 0 H 0
+S
+#20071
+More Juices~
+~
+0 0 0
+D2
+~
+~
+0 0 20069
+D3
+~
+~
+0 0 20063
+M 0 H 0
+S
+#20072
+Stomach Lining~
+~
+0 0 0
+D4
+~
+~
+0 0 20073
+D5
+~
+~
+0 0 20064
+M 0 H 0
+S
+#20073
+An Ulcer~
+~
+0 0 0
+D4
+~
+~
+0 0 20093
+D5
+~
+~
+0 0 20072
+M 0 H 0
+S
+#20074
+Pyloric Sphincter~
+~
+0 0 0
+D4
+~
+~
+0 0 20064
+D5
+~
+~
+0 0 20075
+M 0 H 0
+S
+#20075
+Entrance To The Small Intestine~
+~
+0 0 0
+D4
+~
+~
+0 0 20074
+D5
+~
+~
+0 0 20076
+M 0 H 0
+S
+#20076
+Duodenum~
+~
+0 0 0
+D4
+~
+~
+0 0 20075
+D5
+~
+~
+0 0 20077
+M 0 H 0
+S
+#20077
+Jejunum~
+~
+0 0 0
+D4
+~
+~
+0 0 20076
+D5
+~
+~
+0 0 20078
+M 0 H 0
+S
+#20078
+Ileum~
+~
+0 0 0
+D3
+~
+~
+0 0 20079
+D4
+~
+~
+0 0 20077
+M 0 H 0
+S
+#20079
+Exiting The Small Intestine~
+~
+0 0 0
+D1
+~
+~
+0 0 20078
+D2
+~
+~
+0 0 20080
+M 0 H 0
+S
+#20080
+Entering The Large Intestine~
+~
+0 0 0
+D0
+~
+~
+0 0 20079
+D1
+~
+~
+0 0 20082
+D3
+~
+~
+0 0 20081
+M 0 H 0
+S
+#20081
+Appendix~
+~
+0 0 0
+D1
+~
+~
+0 0 20080
+M 0 H 0
+S
+#20082
+More Of The Large Intestine~
+~
+0 0 0
+D0
+~
+~
+0 0 20083
+D3
+~
+~
+0 0 20080
+M 0 H 0
+S
+#20083
+Ascending Colon~
+~
+0 0 0
+D1
+~
+~
+0 0 20084
+D2
+~
+~
+0 0 20082
+M 0 H 0
+S
+#20084
+Transverse Colon~
+~
+0 0 0
+D2
+~
+~
+0 0 20085
+D3
+~
+~
+0 0 20083
+M 0 H 0
+S
+#20085
+Descending Colon~
+~
+0 0 0
+D0
+~
+~
+0 0 20084
+D2
+~
+~
+0 0 20086
+M 0 H 0
+S
+#20086
+A Blockage~
+~
+0 16 0
+D0
+~
+~
+0 0 20085
+M 0 H 0
+S
+#20087
+Inside The Belly Button~
+~
+0 0 0
+D4
+~
+~
+0 0 20009
+D5
+~
+~
+0 0 20088
+M 0 H 0
+S
+#20088
+Down The Belly Button~
+~
+0 0 0
+D4
+~
+~
+0 0 20087
+D5
+~
+~
+0 0 20089
+M 0 H 0
+S
+#20089
+Tied Passage~
+~
+0 0 0
+D1
+~
+~
+0 0 20090
+D4
+~
+~
+0 0 20088
+M 0 H 0
+S
+#20090
+Tiny Hole~
+~
+0 0 0
+D2
+~
+~
+0 0 20091
+D3
+~
+~
+0 0 20089
+M 0 H 0
+S
+#20091
+Squeezing Through~
+~
+0 0 0
+D0
+~
+~
+0 0 20090
+D2
+~
+~
+0 0 20092
+M 0 H 0
+S
+#20092
+In The Stream~
+~
+0 0 0
+D0
+~
+~
+0 0 20091
+D5
+~
+~
+0 0 20093
+M 0 H 0
+S
+#20093
+Outside The Stomach Lining~
+~
+0 0 0
+D4
+~
+~
+0 0 20092
+D5
+~
+~
+0 0 20073
+M 0 H 0
+S
+#20094
+Leading Down The Respiratory System~
+~
+0 0 0
+D1
+~
+~
+0 0 20059
+D5
+~
+~
+0 0 20095
+M 0 H 0
+S
+#20095
+The Trachea~
+~
+0 0 0
+D1
+~
+~
+0 0 20099
+D3
+~
+~
+0 0 20096
+D4
+~
+~
+0 0 20094
+M 0 H 0
+S
+#20096
+Bronchi~
+~
+0 0 0
+D1
+~
+~
+0 0 20095
+D5
+~
+~
+0 0 20097
+M 0 H 0
+S
+#20097
+Bronchioles~
+~
+0 0 0
+D4
+~
+~
+0 0 20096
+D5
+~
+~
+0 0 20098
+M 0 H 0
+S
+#20098
+Alveoli~
+~
+0 0 0
+D4
+~
+~
+0 0 20097
+M 0 H 0
+S
+#20099
+Bronchi~
+~
+0 0 0
+D3
+~
+~
+0 0 20095
+D5
+~
+~
+0 0 20100
+M 0 H 0
+S
+#20100
+Bronchioles~
+~
+0 0 0
+D4
+~
+~
+0 0 20099
+D5
+~
+~
+0 0 20101
+M 0 H 0
+S
+#20101
+Alveoli~
+~
+0 0 0
+D4
+~
+~
+0 0 20100
+M 0 H 0
+S
+#20102
+Aorta~
+~
+0 4 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+O 0 20000 0 20024
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

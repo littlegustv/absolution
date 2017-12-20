@@ -1,0 +1,6883 @@
+#AREADATA
+Name Zebes~
+Builders None~
+VNUMs 14600 14749
+Credits { All } Stryder     Zebes~
+Security 9
+Xcontinent 1
+Age 10
+Questable 1
+End
+
+
+
+#MOBILES
+#14600
+zebith~
+Zebith~
+Zebith stands here, protecting the city.
+~
+He stands proudly before you.  Even though he is short and slightly
+stocky don't be fooled into thinking he isn't tough.  His eyes dart around,
+looking for anyone that has tried to avoid justice.  Be very careful, it is
+rumored that he was trained by an ancient troll shaman in ancient battle
+techniques.  
+~
+troll~
+ABGT JNV 1000 0
+45 0 25d10+3000 1d1+100 8d4+16 punch
+-15 -15 -15 -15
+CDEFHIJKNT ABP Q H
+stand stand male 750
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M grall 14611 100~
+M greet 14611 100~
+#14601
+aurian~
+Aurian~
+Aurian is here, waiting to heal your wounds.
+~
+She stands before you, dressed in the most ornate robes imaginable. 
+Around her body, you swear there is a slight blue aura, giving you a warm
+feeling inside.  She looks at you, and you already feel better.  
+~
+human~
+ABGQa DFHL 1000 0
+48 2 25d10+3750 1d1+249 6d6+18 punch
+-18 -18 -18 -18
+FIJ ABCDPa 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14602
+jubilee jeweler~
+Jubilee~
+Jubilee the jeweler is here, trading precious metals and gems.
+~
+She is tall and slender and very proper looking.  Her brown curly hair
+comes down to just past her shoulders, showing a hint of red when the light
+from the gems is just right.  She looks at you with her green eyes for a
+second then continues working.  
+~
+human~
+ABG LP 950 0
+55 5 50d10+7000 1d1+100 10d4+23 slap
+-25 -25 -25 -25
+EHIN ABCDPa 0 0
+stand stand female 1000000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 14604 10~
+M greet 14604 10~
+#14603
+simple simon pieman man~
+Simple Simon~
+Simple Simon the Pieman is here.
+~
+Here is Simple Simon the pieman.  The Simon's have been baking in this
+city since it was first created ages ago.  Simple decided long ago to keep
+up the family tradition.  His apron is covered with bits of dough, and from
+head to toe you'd swear he was a ghost because of all the flour covering
+him.  
+~
+gargoyle~
+ABG JTZ 860 0
+50 2 50d10+4500 1d1+199 5d8+19 punch
+-20 -20 -20 -20
+ACIJK ABCDPa 0 LQ
+stand stand male 1000000
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+M random 14605 2 ~
+#14604
+jack tailor~
+Jack~
+Jack the tailor is here, hemming some pants.
+~
+You see him and his many legs (or arms?)  Stitching together two pieces
+of cloth.  He has what looks like a hundred legs, and seems to have amazing
+control over them.  That might explain how he managed to enter on Ruby Road,
+as he immigrated here not so long ago.  You see him glace at you then
+continue on with his work, that is so long as you are just browsing.  
+~
+centipede~
+ABG LVZ 950 0
+40 1 15d10+1850 1d1+199 4d8+13 dicing
+-13 -13 -13 -13
+AFHIKNO ABCDPa FI E
+stand stand male 1000000
+ABGO ACDK medium 0 the guilds~
+M random 14609 3~
+M random 14610 3~
+#14605
+narkon~
+Narkon~
+Narkon is here, polishing some armor.
+~
+Narkon is one of the oldest Terrans that's living in Zebes.  He came from
+the dwarven kingdom long ago, in the hopes of making his fortune, and
+showing off dwarven armor skills.  He has managed to do both, and is now the
+most successful armorer in town.  
+~
+dwarf~
+ABGT JZ 750 0
+51 3 50d10+5000 1d1+199 5d8+20 punch
+-21 -21 -21 -21
+ACDIJ ABCDPa LQ R
+stand stand male 1000000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#14606
+hans~
+Hans~
+Hans, the storekeeper, is here.
+~
+He is wearing some plain tan pants, and a white shirt.  He really does
+look plain.  His hair is blonde in colour, and goes just to his shoulders. 
+The only strange thing about him is that he is wearing an awful lot of
+jewelry.  
+~
+human~
+ABG 0 650 0
+47 1 25d10+3500 1d1+199 6d6+17 punch
+-17 -17 -17 -17
+I ABCDPa 0 0
+stand stand male 1000000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14607
+tiania~
+Tiania~
+Tiania is here, hovering above the ground.
+~
+She is floating before your very eyes.  Her green robes come from her
+shoulders all the way down to her feet, and have bands of gold and silver
+woven into it, complimenting her green eyes nicely.  Her hair is a curly
+blonde, and goes far past her shoulders.  You notice around her neck a large
+red amulet which glows, yet seems to absorb light.  
+~
+human~
+ABGR HLNTVZ 1000 0
+50 3 50d10+4500 1d1+999 5d8+19 none
+-20 -20 -20 -20
+FGHK ABCDPa 0 0
+stand stand female 1000000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14608
+garumn~
+Garumn~
+Standing here is Garumn, sharpening a sword.
+~
+Garumn is looking around through the slits in his eyes.  While he has
+been living here for many years now, he still isn't used to the outdoors, or
+anything above-ground.  Anytime during the day, he always complains that it
+is too bright.  None the less, he happens to be one of the finest swordsmen
+around.  
+~
+troll~
+ABGT JZ 400 0
+46 3 25d10+3250 1d1+149 6d6+16 none
+-16 -16 -16 -16
+CDEFHIN ABCDPa Q H
+stand stand male 1000000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#14609
+zebian guard~
+a zebian guard~
+A Zebian Guard stands proudly here.
+~
+He is wearing heavy armor, which covers him pretty well from head to toe.
+You look into his eyes, and see an almost crazed look, as if he would be
+willing to die protecting his city.  
+~
+gargoyle~
+ABT JT 850 0
+22 0 5d10+400 1d1+99 4d4+6 gore
+-5 -5 -5 -5
+CDEKLTU 0 0 LQ
+stand stand male 400
+AHMX ABCDEFGHIJKPQUV large 0 the guilds~
+#14610
+zebian guard~
+a zebian guard~
+A Zebian Guard stands proudly here.
+~
+She is wearing heavy armor, which covers her pretty well from head to
+toe.  You look into her eyes, and see an almost crazed look, as if she
+would be willing to die protecting her city.  
+~
+sliver~
+ABT J 850 0
+23 0 5d10+450 1d1+99 3d6+6 thrust
+-6 -6 -6 -6
+CDEKLTU 0 B K
+stand stand female 400
+ABHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#14611
+zebian guard~
+a zebian guard~
+A Zebian Guard stands proudly here.
+~
+She is wearing heavy armor, which covers her pretty well from head to
+toe.  You look into her eyes, and see an almost crazed look, as if she would
+be willing to die protecting her city.  
+~
+human~
+ABT J 850 0
+24 0 5d10+500 1d1+100 2d10+6 punch
+-6 -6 -6 -6
+CDEKLTU 0 0 0
+stand stand female 400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14612
+zebian guard~
+a zebian guard~
+A Zebian Guard stands proudly here.
+~
+He is wearing heavy armor, which covers him pretty well from head to
+toe.  You look into his eyes, and see an almost crazed look, as if he
+would be willing to die protecting his city.  
+~
+troll~
+ABT J 850 0
+24 0 5d10+500 1d1+99 2d10+6 none
+-6 -6 -6 -6
+CDEKLTU 0 Q H
+stand stand male 400
+ABHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#14613
+zebian guard~
+a zebian guard~
+A Zebian Guard stands proudly here.
+~
+She is wearing heavy armor, which covers her pretty well from head to
+toe.  You look into her eyes, and see an almost crazed look, as if she would
+be willing to die protecting her city.  
+~
+kirre~
+ABT J 850 0
+23 0 5d10+450 1d1+99 3d6+6 none
+-6 -6 -6 -6
+CDEKLTU 0 J I
+stand stand female 400
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#14614
+zebian guard~
+a zebian guard~
+A Zebian Guard stands proudly here.
+~
+He is wearing heavy armor, which covers him pretty well from head to toe.
+You look into his eyes, and see an almost crazed look, as if he would be
+willing to die protecting his city.  
+~
+bear~
+ABT J 850 0
+22 0 5d10+400 1d1+99 4d4+6 none
+-5 -5 -5 -5
+CDEKLOTU 0 EI 0
+stand stand male 400
+AGV ABCDEFHJKUV large 0 the guilds~
+#14615
+muldin banker~
+Muldin~
+Muldin the banker is here, counting his money.
+~
+His small eyes look directly at you, then at your change purse.  A small
+smile falls across his face, and you see him lick his lips with the prospect
+of getting more money.  
+~
+hobgoblin~
+ABGde J -350 0
+56 2 50d10+7500 1d1+149 10d4+24 punch
+-26 -26 -26 -26
+CIJK ABCDPa LQ 0
+stand stand male 9999999
+AHMV ABCDEFGHIJKY medium 0 the guilds~
+#14616
+rathemon~
+Rathemon~
+Rathemon is here, ready to make a deal!
+~
+You see him slither across the room, coming towards you to greet you. 
+His forked tongue is out, smelling his favorite smell...  Gold.  His long
+body is green and scaly, and he is dressed only with a small cape, around
+what appears to be his neck.  
+~
+snake~
+ABG 0 -1 0
+38 1 10d10+1600 1d1+99 5d6+12 chomp
+-13 -13 -13 -13
+ADEFHKM ABCDPa L I
+stand stand male 1000000
+AGXYc ADEFKLQVX medium 0 the guilds~
+M grall 14600 100~
+M greet 14600 100~
+#14617
+evina~
+Evina~
+Evina is here, selling drinks.
+~
+She doesn't appear to be very old, at least for a kirre.  Evina came to
+town a couple years ago to visit, and has been working here since.  Her fur
+is blue in color, with the tips highlighted red.  She looks at you, smiles
+and asks if you wish to buy a drink.  
+~
+kirre~
+ABG JP 950 0
+49 4 50d10+4000 1d1+99 4d10+18 rip
+-19 -19 -19 -19
+CDIJKMN ABCDPa J I
+stand stand female 1000000
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#14618
+victor~
+Victor~
+Victor is here, waiting for customers.
+~
+Victoor smiles at you, and motions for you to come over.  He seems to
+friendly.  His hair is black, and his skin is gray, but dispite his vicious
+appearance it doesn't seem like he could harm a fly.  He breaks out a pair
+of dice.  You think he is ready to have a game.  
+~
+gargoyle~
+ABGL JT 950 0
+52 5 50d10+5500 1d1+99 6d7+20 gore
+-22 -22 -22 -22
+ACFHIK ABCDPa 0 LQ
+stand stand male 1000000
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#14619
+hatchling runt~
+a little hatchling~
+A hatching is here... talk about your runts.
+~
+It is small and cute, with a little tuft of hair on the top of its head. 
+You feel something on your leg, as it rubs itself against it.  Awwwww how
+adorable.  It looks so small though, much smaller than you.  The poor thing,
+probably can't hurt anything except itself.  
+~
+hatchling~
+AI JT 1000 0
+13 1 2d10+170 1d1+99 2d5+3 claw
+-1 -1 -1 -1
+L 0 B 0
+stand stand either 0
+BHMZ ABCDEFGHIJKLQUVWX medium 0 the guilds~
+#14620
+enslaved elf~
+an enslaved elf~
+An enslaved elf is here, ready to help its master.
+~
+You look at it.  It looks back.  You see a genuine fear in its eyes.  For
+what is a proud race, this one is scared and weak, barely able to stand, let
+alone serve a master.  Its face is all dirty, its hair is long and tattered.
+It looks so pathetic, almost makes you want to release it, so it can try and
+find its way back home.  
+~
+elf~
+AIR JN 950 0
+15 1 3d9+208 1d1+199 2d6+3 punch
+-2 -2 -2 -2
+0 0 B Z
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14621
+shackled gnome~
+a shackled gnome~
+A gnome, draped in shackles is here, waiting for its master.
+~
+The shackles are large, and oversized; almost making this gnome look
+comedic as them struggles with them.  It seems strong, must be from pulling
+its chains around.  It looks at you and sighs, knowing what must be done.  
+~
+gnome~
+AIT FJ 900 0
+17 1 3d9+258 1d1+99 3d4+4 punch
+-3 -3 -3 -3
+DL 0 BE HK
+stand stand either 0
+ABHMV ABCDEFGHIJKUV medium 0 the guilds~
+#14622
+dwarven slave~
+a dwarven slave~
+A dwarven slave, ready to serve, is here.
+~
+Despite being fed meager rations for ages, it still has a round belly. 
+It looks up at you, from its three feet above the ground, and doesn't seem
+scared of you.  Smiling, it follows at your side, ready to do your bidding. 
+~
+dwarf~
+AIT JZ 800 0
+19 1 3d9+308 1d1+100 2d7+5 punch
+-4 -4 -4 -4
+CL 0 LQ R
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14623
+hypnotized giant~
+a hypnotized giant~
+A large giant is waiting to follow is master its here... completely 'willingfully.'
+~
+Towering over everything stands this giant...  Looking dumb as a brick. 
+Its eyes have an empty look to them, as if its mind really isn't there.  It
+stands by your side, willing to do anything you wish.  
+~
+giant~
+AIT 0 650 0
+21 2 4d10+360 1d1+99 4d4+5 punch
+-5 -5 -5 -5
+CJL 0 HI J
+stand stand either 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#14624
+kzaria~
+Kzaria~
+The local slavemaster, Kzaria, is here.
+~
+She stands before you proudly.  She is dressed in simple robes, with a
+belt around the waist.  Of course, there is a whip on the belt, in case any
+of her 'merchandise' gets out of line.  Her fur is a shiny auburn in color. 
+You see a small grin on her face, which just highlights her oversized fangs,
+making her look rather scary.  
+~
+kirre~
+ABGV JV -1000 0
+57 2 50d10+8000 1d1+299 6d8+24 claw
+-27 -27 -27 -27
+AIM ABCDP J I
+stand stand female 0
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#14625
+Pyrion~
+Pyrion~
+Pyrion the bartender is here, serving drinks.
+~
+He is standing behind the bar with a pensive yet happy look on his face. 
+Once again, it seems like he is trying to get one of his inventions to
+work...  Wonder if it will work this time?  A patron walks up, and asks for
+a drink.  He reaches beneath the countertop, pulls out something resembling
+a large hose attached to a cross-bow.  He aims it at a glass, it misses
+completely, covering himself in ale.  
+~
+gnome~
+ABG FJVZ 975 0
+50 2 50d10+4500 1d1+99 5d8+19 punch
+-20 -20 -20 -20
+D ABCDP BE HK
+stand stand male 1000000
+ABHMV ABCDEFGHIJKUV medium 0 the guilds~
+#14626
+large wooden hacking post~
+a large wooden post~
+A large hacking post is here sticking out of the ground.
+~
+It looks like a large wooden post.  It is covered in notches from
+hundreds of hacks and slashes which have added up over the years.
+Maybe you should leave your mark?
+~
+human~
+AB CDFKYZd 0 0
+5 0 1d1+31999 1d1+99 1d1+0 none
+5 5 5 5
+D ABHIJKLPQRab BEHIJKLQR HK
+stand stand none 0
+ABHMV ABCDEFGHIJKUV medium 0 the guilds~
+M delay 14623 100~
+M fight 14602 10~
+M fight 14613 100~
+M death 14601 100~
+M give 14615 all~
+M fight 14602 10~
+#14627
+estil~
+Estil~
+Estil, the marina manager is here.
+~
+Estil stands here, overseeing the other workers.  Most of his body is
+covered in brown feathers, but on his arms the feathers are grey and much
+larger.  His beak is a pale yellow, complimenting his yellow eyes.  He
+quickly glances at you, then continues to supervise his workers.  
+~
+water fowl~
+ABG TV 900 0
+35 1 10d10+1300 1d1+100 4d7+11 peck
+-11 -11 -11 -11
+H ABCDPa R 0
+stand stand male 1000000
+AGW ACDEFHKP medium 0 the guilds~
+#14628
+Tobsnim traveling merchant~
+Tobsnim, the traveling merchant~
+Tobsnim, the traveling merchant is here, selling some exotic items.
+~
+He stands before his cart, busily helping customers.  His cart is full of
+trinkets and magical items from all over Dominia, that he has brought here
+to trade.  
+~
+human~
+ABG DFIJLOTZa -500 0
+36 0 10d10+1400 1d1+999 3d10+11 flbite
+-12 -12 -12 -12
+CFH ABCDPab H NS
+stand stand male 100000000
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+M random 14603 10~
+#14629
+zebian citizen~
+a Zebian citizen~
+A Zebian citizen is here, enjoying the city.
+~
+They look like they are human, and are dressed in ordinary clothing. 
+They seem to be nice, and are merrily going about their business.  
+~
+human~
+AG 0 950 0
+34 1 10d10+1200 1d1+99 4d7+10 punch
+-11 -11 -11 -11
+FI 0 0 0
+stand stand either 1600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14630
+zebian citizen~
+A Zebian citizen~
+A Zebian citizen is here, enjoying the city.
+~
+They look like they are troll, and are dressed in some ordinary clothing.
+They seem to be nice, and are happily going about their business.  
+~
+troll~
+AG J 950 0
+34 1 10d10+1200 1d1+99 4d7+10 punch
+-11 -11 -11 -11
+FI 0 Q H
+stand stand either 1600
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#14631
+zebian citizen~
+A Zebian citizen~
+A Zebian citizen is here, enjoying the city.
+~
+They look like they are gargoyle, and are dressed in plain clothing. 
+They seem to be nice, and are happily going about their business.  
+~
+gargoyle~
+AG JT 950 0
+34 1 11d11+1250 1d1+99 4d7+10 gore
+-11 -11 -11 -11
+FI 0 0 LQ
+stand stand either 1600
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#14632
+zebian citizen~
+A Zebian citizen~
+A Zebian citizen is here, enjoying the city.
+~
+They are walking about dressed in plain clothing.  They look at you and
+give you a smile and then happily go about their business.  
+~
+sliver~
+AG 0 950 0
+34 1 10d10+1200 1d1+99 4d7+10 thrust
+-11 -11 -11 -11
+FI Z B K
+stand stand either 1600
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#14633
+zebian citizen~
+a Zebian citizen~
+A Zebian citizen is here, enjoying the city.
+~
+They look like they are osirien, and are dressed in plain clothing.  They
+seem to be nice, and are happily going about their business.  
+~
+bear~
+AG 0 950 0
+34 1 10d10+1200 1d1+99 4d7+10 claw
+-11 -11 -11 -11
+DEFIO 0 EI 0
+stand stand either 1600
+AGV ABCDEFHJKUV medium 0 the guilds~
+#14634
+zebian citizen~
+a Zebian citizen~
+A Zebian citizen is here, enjoying the city.
+~
+They look like they are kirre, and are dressed in ordinary robes.  They
+seem to be nice, and are contently going about their business.  
+~
+kirre~
+AG J 950 0
+34 1 9d9+1180 1d1+99 4d7+10 scratch
+-11 -11 -11 -11
+FI 0 J I
+stand stand either 1600
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#14635
+beggar~
+a beggar~
+A beggar is here, asking for some change.
+~
+He is partially slumped over and leaning on the wall of a building.  His
+clothes are now all torn and ragged.  His face and hands are very dirty,
+looking almost black.  He looks up at you, raises out his hand and asks for
+some change.  
+~
+kobold~
+AG FJ 300 0
+30 0 6d12+853 1d1+99 4d6+8 punch
+-9 -9 -9 -9
+DEFIO 0 BEIL CHK
+rest rest male 200
+ABGHMV ABCDEFGHIJKQUV large 0 the guilds~
+#14636
+fish~
+a fish~
+A fish is swimming lazily here.
+~
+It has scales, fins, and swims in the water.  It must be a fish of some
+kind.  
+~
+snake~
+AWY 0 800 0
+30 1 6d12+853 1d1+100 4d6+8 charge
+-9 -9 -9 -9
+0 B LR IJ
+stand stand either 0
+AGXYbc ADEFKLQVX small 0 the guilds~
+#14637
+stone sentry keep~
+a stone sentry~
+A stone sentry is here, guarding the Keep.
+~
+It looks like a large stone statue.  You have no idea how long it has
+been here, but you do see moss growing on it, which means it must be fairly
+old.  How could something like this protect the city Keep?  
+~
+undead~
+ABT JTVZ 1000 0
+38 0 10d10+1600 1d1+100 5d6+12 gore
+-13 -13 -13 -13
+CFINTU B I HLNQS
+stand stand either 1400
+ADHIMV ABCDEFGHIJK large 0 the guilds~
+#14638
+yound sliver~
+a young sliver~
+A young sliver is here, playing.
+~
+He is standing here, his lower legs all covered in mud.  He looks like he
+is having a good time, playing around in the dirt and all.  
+~
+sliver~
+AHW P 1000 0
+29 0 6d12+778 1d1+100 2d12+8 thrust
+-9 -9 -9 -9
+0 0 B K
+stand stand male 800
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#14639
+young troll~
+a young troll~
+A young troll is here, playing on the road.
+~
+She has long black hair and very green skin.  She's not very old at all,
+but is old enough to be able to handle some of the sun's rays.  Her hands
+are covered in dirt, as is most of the rest of her.  
+~
+troll~
+AHW JP 1000 0
+29 0 6d12+778 1d1+100 2d12+8 punch
+-9 -9 -9 -9
+0 0 Q H
+stand stand female 800
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#14640
+young gargoyle~
+a young gargoyle~
+A young gargoyle is here, playing.
+~
+He is playing away, not even noticing your presense.  His small wings are
+folded up on his back as he scratches in the dirt, looking for "buried
+treasure."  
+~
+gargoyle~
+AHW JPT 1000 0
+29 0 6d12+778 1d1+100 2d12+8 gore
+-9 -9 -9 -9
+0 0 0 LQ
+stand stand male 800
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#14641
+monty threeeyed eyed fish~
+Monty, the three eyed fish~
+Monty is here, happily swimming away.
+~
+{x                               -/& -
+{x                               :$&/;H.
+{x                             =$+;;;;&=;+&$H, 
+{x                           -X$;;;;;;;&+/;;;H- 
+{x                         -+$;;;;;;;;;;;;;;&&&
+{x                      ./HM&;;;;;;;;;;;;;;;&&X;=, 
+{x                  -/&$$+/;;;;;;;;;;$XX&;;;;;/+&$X-
+{x               ,+$+;;;;;;;;;;;;;;;;;;;$H+;;;;;;+H, 
+{x{x              /X/;;;/;;;;;;;;;;;;;;;;;;/$H+;;;H+                .
+{x          /$$&&;;XX$$$$XH$;;;&&&&+/;;;;;;;;HX;;+H:            =$$@    
+{x        -&M$+;;/+&&&&+/;;;;/++&+//+XH+;;;;;;;+@&;;@:       ,&&&;/H    
+{x      ;+-  .=HX;-,,-:&&XH&;=,,=;&$/;;;;;;;;;;;X@X:       /$;;;;$$+: 
+{x     +=     :+       .X,        .H+;;;;;;;;;;;+X,     ,$+;;;;;;;;@-
+{x    .$  &: .X    ,-  +=     .$;  ;H;;;;;;;;;;;;;$+.  /X$$;;;;;;$$, 
+{x     $, =, -$    ;/  ;/      -,  $&;;;;;;;;;;;;;;/$$$/;/M;;;;;X&   
+{x     .@+-. .X/       .M/       =X$;;;;;;;;;;;;;;;;;;;;;+M;;;;;;X;  
+{x     -M++$X$$$X&;:=;&H&&&&X$&+&$X$+;;;;;;;;;;;;;;;;;;;;;;H$;;;;/&H;  
+{x   .+X&;;;;;;/X$XHH@$;;;;;XXXXXX+;;;;;;;;;;;;;;;;;;;;/@$;;;;X$-    
+{x  :H/;;;;;;;;;;;/;;;;;;;;;;;X&+;;;;;;;;;;;;+&/;;;+$$/++;;;;;/H.    
+  @/;;;;;;;;;;;;;;;;;;;/&$XXX$&&XH;;;;;;;;;;;+MXX$:.=@/;;;;+//H:    
+{x  +X/;;;;;;;;;;;/+&$HH$&&&&/;;;;;;;;;;;+$;;;;;;;+XH   :X;;+X:::=     
+{x   .;&&&&$&&&++/:-. =X@X$$XXX$&++++&$H#/;;;;;;X+.        &&&;H-          
+{x                     @$&;;;;$@M/---, &&X/;;;;;;X/         &&X$.         
+{x                     .,=H/$&$$X      =+;X&;&$+;.                   
+{x                        -/-  .           /$;                       
+ 
+~
+snake~
+AB 0 0 0
+30 1 6d12+853 1d1+99 4d6+8 thwack
+-9 -9 -9 -9
+H 0 L I
+stand stand male 0
+AGXYbc ADEFKLQVX medium 0 the guilds~
+#14642
+small sparrow~
+a small sparrow~
+A sparrow is here, gliding through the air.
+~
+It flies through the air quickly, and you barely get a chance to get a
+good look at it.  It has a white belly, and that is about all you can see. 
+A little beat of its wings and it picks up some speed, getting out of your
+reach.  
+~
+song bird~
+AW T 1000 0
+43 2 25d10+2500 1d1+99 3d12+15 peck
+-15 -15 -15 -15
+FH 0 0 S
+stand stand either 0
+AGW ACDEFHJKP medium 0 the guilds~
+#14643
+traveling merchant~
+a traveling merchant~
+A merchant is here, from far away lands.
+~
+They are standing on the road, showing their merchandise to anyone they
+see.  Most of it is useless, and not much different than what you can find
+elsewhere.  They have some large robes on, with many pockets, which allow
+them to house their stores on their persons.  All of a sudden they spot you
+and start walking over, better leave before they try and sell you something.
+~
+human~
+AB 0 850 0
+43 1 25d10+2500 1d1+99 3d12+15 punch
+-15 -15 -15 -15
+FIJ P 0 0
+stand stand either 2200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14644
+dockworker~
+a dockworker~
+A dockworker is here, mending a ship.
+~
+She is busy working away on a boat.  Her arms ferociously hammer away at
+the hull, quickly fixing it.  The sun gleams off her hard black shell, as
+she ignores you and goes about her mending.  
+~
+sliver~
+AB V 950 0
+40 2 15d10+1850 1d1+149 4d8+13 thrust
+-13 -13 -13 -13
+DEFH 0 B K
+stand stand female 1500
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#14645
+gambler~
+a gambler~
+A gambler is here, trying to get the jackpot.
+~
+They are standing there, their eyes all glazed over.  They almost
+robotically slip money into the slots, or throw it on the dice table.  They
+don't even notice your presence, as they continue to play away, clutching
+their bucket of money.  
+~
+kirre~
+AB JV 700 0
+32 1 10d10+1000 1d1+99 4d4+9 scratch
+-10 -10 -10 -10
+DHN 0 J I
+stand stand either 2000
+AGHV ABCDEFGHIJKQ medium 0 the guilds~
+#14646
+angry bank customer~
+an angry customer~
+An angry bank customer is here.
+~
+They are standing in line, waiting impatiently to be served.  They seem
+really angry, better stay outta their way.  
+~
+human~
+AB 0 950 0
+43 1 25d10+2500 1d1+99 3d12+15 smite
+-15 -15 -15 -15
+0 0 M N
+stand stand either 1700
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14647
+zebian citizen~
+A Zebian citizen~
+A Zebian citizen is here, enjoying the city.
+~
+They appear to be a sliver that has left the hive.  Their clothing is
+plain, accomadating for their odd shape.  They seem to be nice, and smile
+happily as they go about their business.  
+~
+sliver~
+AG 0 950 0
+34 1 10d10+1200 1d1+99 4d7+10 none
+-11 -11 -11 -11
+FI 0 B K
+stand stand either 1600
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M grall 14608 50~
+M greet 14608 50~
+M delay 14607 100~
+#14648
+old man~
+an old man~
+An old man is here, sitting in the shade.
+~
+He looks fairly old, well past his prime.  His hair is grey and ruffled,
+but still looks somewhat dignified.  He looks a little thin though, perhaps
+you should offer the gentleman some bread?  
+~
+troll~
+A JW 950 0
+44 0 25d10+2750 1d1+99 8d4+15 punch
+-15 -15 -15 -15
+FN 0 Q H
+rest rest male 100
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M random 14698 3~
+M delay 14696 100~
+M give 14697 bread~
+#14649
+oldarin zebian citizen~
+Oldarin~
+Oldarin, a Zebian citizen is here.
+~
+He looks like he an osirien, but is dressed in some plain clothing.  He
+seems to be nice, by the looks of him.  He just walks around here, fairly
+content.  
+~
+bear~
+AG 0 950 0
+34 1 10d10+1200 1d1+99 4d7+10 claw
+-11 -11 -11 -11
+DEFIO 0 EI 0
+stand stand male 1600
+AGV ABCDEFHJKUV medium 0 the guilds~
+M delay 14617 100~
+M speech 14614 Malgoar was wondering if you remember where that old house is, the one with the bad floor.~
+#14650
+patron bar~
+a patron of the bar~
+A patron of the bar is here, enjoying a good pint.
+~
+He looks a lot like the other patrons in the bar.  His clothing isn't too
+dirty, although it could use a wash.  He doesn't seem to be paying too much
+attention to you.  
+~
+human~
+ABG 0 450 0
+33 0 10d10+1100 1d1+99 4d4+10 punch
+-11 -11 -11 -11
+I 0 0 0
+stand stand male 575
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14651
+Malgoar patron bar~
+Malgoar~
+Malgoar, a patron of the bar is here.
+~
+He is the only person in the bar that looks like an individual.  Quietly,
+he sits there, drinking some mead.  Occasionally he has been known to share
+his adventures about his life, asking only that you listen, and of course
+pay for his next drink of mead.  
+~
+troll~
+ABG J 860 0
+40 0 15d10+1850 1d1+99 4d8+13 punch
+-13 -13 -13 -13
+0 0 Q H
+stand stand male 890
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M give 14616 mead~
+#14652
+small rat~
+a small harmless rat~
+In a corner you see a rat scurrying about.
+~
+It looks like your ordinary rat.  As if you haven't seen enough of these!  
+~
+cat~
+ABGIV BDEFJQTZ 0 0
+60 0 50d10+9500 1d1+99 8d6+28 bite
+-30 -30 -30 -30
+FH ABCDPb 0 0
+stand stand either 0
+AGV ACDEFHJKQUV medium 0 the guilds~
+M delay 14619 100~
+M random 14618 85~
+#14653
+ball light~
+a glowing ball of light~
+A medium sized ball is here, glowing onimously in the room.
+~
+It looks like a fairly bright glowing ball in the middle of the room.  It
+fuzzes as you stare at it, as if it really isn't entirely here.  
+~
+human~
+ABV DEFJTZ 0 0
+60 0 50d10+9500 1d1+99 8d6+28 magic
+-30 -30 -30 -30
+0 ABCDPab 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 14621 100~
+M delay 14622 100~
+M exit 14620 2~
+#14690
+unused~
+blank mob holding names~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14691
+empty vnum~
+empty vnum~
+Empty vnum
+~
+They look like they are human, and are dressed in ordinary clothing. 
+They seem to be nice, and are merrily going about their business.  
+~
+human~
+ABG 0 950 0
+34 1 1d1+31999 1d1+99 4d7+10 none
+-11 -11 -11 -11
+FI 0 0 0
+stand stand either 1600
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14695
+busy citizen~
+a busy citizen~
+A busy citizen is here, rushing away.
+~
+Here they are, rushing away as if there is no tomorrow.  
+~
+human~
+AI 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#14696
+the king elvis impersonator~
+The King (Elvis)~
+Elvis, The King, is here. Ready for another song of Jailhouse Rock.
+~
+There he is dancing away in his white rhinestone suit.  He sings, giving a
+few 'uh-huhs', wiggles his hips and then starts all over again.  His black
+wavy hair has a small curl on his head, and his sideburns reach far down his
+cheeks.  His retro sunglasses cover his eyes, giving him an awe of... 
+Royalty?  'The King' is here, and he is ready to bring down the house!
+~
+human~
+ABGI H 1000 0
+0 0 50d10+9500 1d1+999 8d6+28 force
+-30 -30 -30 -30
+0 ABCDKPTab 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 14710 100~
+M greet 14710 100~
+#14697
+swift current~
+a swift current~
+A swift current is here, carrying things away with it.
+~
+You shouldn't be seeing him, so run away!
+~
+human~
+ABGI DFZ 0 0
+60 6 50d10+9500 1d1+99 8d6+28 none
+-30 -30 -30 -30
+0 ABCDPab 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M random 14606 100~
+#14698
+goldman~
+a goldman~
+A man is here, made entirely out of gold.
+~
+His solid gold body sparkles and shines in the light, almost blinding you.  
+~
+human~
+ABG 0 1000 0
+60 2 50d10+9500 1d1+100 8d6+28 beating
+-30 -30 -30 -30
+0 AB 0 0
+stand stand male 0
+ACEHMV ABCDEFGHIJK large 0 the guilds~
+#14699
+cannon travel guy~
+the cannon travel guy~
+A cannon-travel guy is here, ready to send you on your way.
+~
+~
+gnome~
+ABI FJ 1000 0
+53 1 50d10+6000 1d1+100 6d7+21 none
+-23 -23 -23 -23
+D ABCab BE HK
+stand stand male 0
+ABHMV ABCDEFGHIJKUV medium 0 the guilds~
+M speech 14699 dock~
+#14700
+chambermaid maid~
+a chambermaid~
+A chamber maid is here, ready to do your bidding.
+~
+She looks stunning, even in her maid's outfit.  She doesn't even seem to
+notice that you're there, and continues to do her chores.  
+~
+human~
+ABGLQRSTVWYade DFLNOPTZ 1000 0
+60 2 50d10+9500 1d1+99 8d6+28 slap
+-30 -30 -30 -30
+FK ABCDPab 0 0
+stand stand female 999999999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 14700 venari hall~
+M speech 14701 seeker hall~
+M speech 14702 kindred hall~
+M speech 14703 kenshi hall~
+M speech 14704 justice hall~
+M speech 14705 venari outpost~
+M speech 14706 kenshi outpost~
+M speech 14707 seeker outpost~
+M speech 14708 kindred outpost~
+M speech 14709 justice outpost~
+#14701
+ariana falcon~
+Ariana~
+A rather large falcon is here, flying high in the air.
+~
+She stands before you, a very impressive bird.  Her feathers are
+reddish-brown in colour, with small black spots on her wings and back.  Her
+talons look very strong, easily able to grab and crush whatever they wish. 
+Her powerful beak opens, letting out a deafening call, causing you to feel a
+shiver go up your spine.  
+~
+song bird~
+AI DFHLNOPTVZab 1000 0
+56 4 50d10+24500 1d1+999 10d8+30 claw
+-31 -31 -31 -31
+DEFHLN ABHIJKLPQRab CD 0
+stand stand female 0
+AGHMVW ABCDEFGHIJKP medium 0 the guilds~
+#14702
+hill~
+the hill~
+{RThe hill is here!{x
+~
+Before you see a small hill, with a crown on top of it.  It seems to be
+waiting for a king.  Who will take the crown?  
+~
+human~
+ABI P 0 0
+60 6 50d10+9500 1d1+99 25d25+50 impale
+-30 -30 -30 -30
+ABCDEFGHIJKMNO ABCDEFGHIJKLMNOPQRSTXYZab 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#14600
+crack ground pavement road~
+a crack in the road~
+~
+stone~
+container OT P
+5 0 0 1 100
+0 0 0 P
+#14601
+marble floor ground~
+the warm marble floor~
+~
+marble~
+furniture OT P
+100 0 BEHKN 110 110
+0 10000 0 P
+E
+marble~
+The floor of this room is made of a smooth, polished marble.  You can
+almost feel heat radiating from it, which makes you want to relax...
+And maybe take a nap here.
+~
+E
+ground~
+The floor of this room is made of a smooth, polished marble.  You can
+almost feel heat radiating from it, which makes you want to relax...
+And maybe take a nap here.
+~
+E
+floor~
+The floor of this room is made of a smooth, polished marble.  You can
+almost feel heat radiating from it, which makes you want to relax...
+And maybe take a nap here.
+~
+#14602
+little ledge~
+on a little ledge~
+~
+stone~
+furniture OT P
+1 300 EHKN 100 100
+0 10000 0 P
+E
+ledge~
+The ledge seems really small, leaving only enough room for about a person.
+It does seem like a decent place to crawl out of the water and dry off for a
+bit.  
+~
+#14603
+potion free sample~
+a FREE sample potion~
+A FREE sample potion from Rathemon is here.~
+glass~
+potion 0 AOY
+0 'change sex' 'reserved' 'reserved' 'reserved'
+0 1 0 P
+#14604
+potion free sample~
+a FREE sample potion~
+A FREE sample potion from Rathemon is here.~
+glass~
+potion 0 AOY
+0 'create rose' 'reserved' 'reserved' 'reserved'
+0 1 0 P
+#14605
+axe justice~
+an axe of justice~
+An axe, waiting to deliver justice, is here.~
+steel~
+weapon 0 ANY
+axe 6 5 slash CF
+41 80 4200 P
+E
+markings~
+Rhazil tepalo wevaviz proinbm qeueroa dynate haroblite stumurat cufidp
+oooo ebaeoar axphix feanapil ghonunia liriani airange yuriarne bravpofie
+rqewoialk avcaepravent emiorsphared ratevonpearaea afpiamhion wyethinthe
+ugopigano qkajarue binaoapot jrentaper haxanphia otis xesarin ooiwvom ooivo
+lanbra afarumith varunth vevev veveve nibaritm corickr ekiarn hharinthem
+artomiadarum uinebarinyl posscial voarmion 5arinytu aphareise vamptrasu
+joparitoalum afaxoblitzsia quotmoaepmnpet ceberanium weopxis vadria
+emiorsphared xhesarin titza3iu deuheth bimut issuse vweryna essopia qipebel
+belisoyk vylleum gefraufp reilacmne batarntyi amfrapinib arfrapinis
+awfrapinil vlror cypidrio ghyphr a7bryz lhopunis ahslpeer zeaebrith fojihpun
+grayht nm pebpir awh w 
+~
+E
+justice~
+It looks like a lovely axe, ready to hack some unjust person to bits. 
+There appears to be some markings on the blade.
+~
+E
+axe~
+It looks like a lovely axe, ready to hack some unjust person to bits. 
+There appears to be some markings on the blade.  
+~
+#14606
+warm wool cloak~
+a wool cloak~
+A warm wool cloak is here~
+wool~
+clothing 0 AC
+0 0 0 0 0
+26 76 6500 P
+A
+5 1  
+A
+20 -1  
+A
+17 -3  
+#14607
+golden silk shirt~
+a golden silk shirt~
+A golden silk shirt is here.~
+silk~
+clothing 0 AD
+0 0 0 0 0
+28 15 9000 P
+A
+17 -7  
+#14608
+pair walking boots~
+a pair of walking boots~
+A really nice pair of walking boots is here.~
+leather~
+clothing 0 AG
+0 0 0 0 0
+36 40 3000 P
+A
+14 25  
+A
+17 -3  
+#14609
+checkered picnic blanket~
+a {rc{wh{re{wc{rk{we{rr{we{rd{x picnic blanket~
+A {rc{wh{re{wc{rk{we{rr{we{rd{x picnic blanket sits invitingly on the ground.~
+cloth~
+furniture 0 AK
+4 5000 BEHKN 100 100
+1 68 5000 P
+A
+2 -2  
+A
+1 -2  
+#14610
+small emerald~
+a small {gemerald{x~
+A small, deep green {gemerald{x is here.~
+emerald~
+gem CW AO
+0 0 0 0 0
+1 0 7500 P
+#14611
+fiery ruby~
+a {Rf{ri{Re{rr{ry {Rruby{x~
+A {Rruby{x so intensely red, it looks like it is on {Rf{ri{Rr{re{x sits here.~
+ruby~
+gem ACW AO
+0 0 0 0 0
+1 1 9500 P
+E
+ruby~
+{x                {R@@@@@@@@@@@@@@@@@@@@@@@@@@@{x               
+{x               {R@{r@@@{R@{r@@@@@@@@@{R@{r@@@@@@@@@{R@{r@@@{R@{x
+{x              {R@{r@@@@{R@{r@@@@@@@@@{R@{r@@@@@@@@{R@{r@@@@@{R@{x
+{x               {R@{r@@@@{R@{r@@@@@@@@{R@{r@@@@@@@@{R@{r@@@@{R@{x
+{x                {R@{r@@@{R@{r@@@@@@@@{R@{r@@@@@@@{R@{r@@@@{R@{x  
+{x                 {R@{r@@@{R@{r@@@@@@@{R@{r@@@@@@{R@{r@@@@{R@{x
+{x                  {R@{r@@@{R@{r@@@@@@{R@{r@@@@@{R@{r@@@@{R@{x
+{x                   {R@{r@@@{R@{r@@@@@{R@{r@@@@{R@{r@@@@{R@{x
+{x                    {R@{r@@@{R@{r@@@@{R@{r@@@@{R@{r@@@{R@{x
+{x                     {R@{r@@{R@{r@@@@{R@{r@@@{R@{r@@@{R@{x
+{x                      {R@{r@@{R@{r@@@{R@{r@@@{R@{r@@{R@{x
+{x                       {R@{r@@{R@{r@@{R@{r@@{R@{r@@{R@{x
+{x                        {R@{r@@{R@{r@{R@{r@{R@{r@@{R@{x
+{x                         {R@{r@@{R@{r@{R@{r@@{R@{x
+{x                          {R@{r@@{R@@{r@{R@{x
+{x                           {R@{r@{R@{r@{R@{x
+{x                            {R@{r@{R@{x
+{x                             {R@{x
+~
+#14612
+golden brick~
+a {Ygold{x brick~
+A large {Ygold{x brick is here, worth a small fortune.~
+gold~
+treasure AW A
+0 0 0 0 0
+1 1500 25000 P
+#14613
+plain ring~
+a plain ring~
+A plain ring is here, ready to be engraved.~
+platinum~
+armor Ye AB
+0 0 0 0 0
+1 1 100 P
+#14614
+ruby ring protection~
+a {Rruby{x ring of protection~
+A {Rruby{x ring of protection is here.~
+ruby~
+jewelry SY AB
+0 0 0 0 0
+27 2 10000 P
+A
+13 5  
+A
+17 -5  
+#14615
+jewel encrusted platinum tiara~
+a jewel encrusted tiara~
+A beautiful tiara made of platinum, and encrusted with jewels dazzles you.~
+platinum~
+jewelry A AE
+0 0 0 0 0
+26 20 6500 P
+A
+1 -1  
+A
+20 -3  
+A
+5 1  
+#14616
+pendant power~
+a pendant of power~
+A pulsing pendent rests on the ground.~
+mithril~
+jewelry AC AC
+0 0 0 0 0
+27 22 9500 P
+A
+4 -3  
+A
+19 2  
+A
+12 15  
+#14617
+lucky charm~
+a lucky charm~
+A charm is here; ready to spread its good luck.~
+copper~
+jewelry 0 AQ
+0 0 0 0 0
+25 5 7500 P
+A
+17 -3  
+A
+20 -2  
+#14618
+fruitcake cake~
+a fruitcake~
+An entire fruitcake is here immune to the elements.~
+lead~
+food Y A
+48 12 0 0 0
+20 50 500 P
+#14619
+muffin~
+a muffin~
+A scrumptious muffin is here in its wrapper.~
+bread~
+food 0 AO
+5 1 0 0 0
+1 1 40 P
+#14620
+custard~
+a custard~
+A tasty looking custard is here.~
+custard~
+food 0 A
+3 0 0 0 0
+1 1 85 P
+#14621
+bread chili bowl chilibowl chili-bowl~
+a bread chili-bowl~
+A bowl made of bread and filled with spicy chili is waiting to be eaten.~
+bread~
+food 0 A
+16 5 0 0 0
+1 5 195 P
+#14622
+little slice heaven~
+a little slice of heaven~
+A little slice of heaven is here... oh how heavenly!~
+cake~
+food 0 A
+24 0 0 0 0
+1 1 495 P
+#14623
+french baguette loaf bread~
+a French baguette~
+A long French baguette is here.~
+bread~
+food 0 AO
+12 3 0 0 0
+1 3 395 P
+#14624
+ruby roundup slotmachine~
+the 'ruby roundup'~
+A slot machine coined the 'ruby roundup' is here.~
+ruby~
+slot_machine A P
+10 100 5 1 100
+1 10000 0 P
+#14625
+silver shark slotmachine~
+the 'silver shark'~
+A slot machine called the 'silver shark' is here.~
+silver~
+slot_machine A P
+10 100 3 1 100
+0 10000 0 P
+#14626
+diamond heist slotmachine~
+the 'diamond heist'~
+A slot machine dubbed the 'diamond heist' is here.~
+diamond~
+slot_machine A P
+10 100 5 1 100
+0 10000 0 P
+#14627
+lantern light~
+a lantern~
+A lantern glows here.~
+brass~
+light 0 A
+0 0 999 0 0
+10 0 300 P
+#14628
+food ration~
+some delicious rations~
+Some delicious rations are here, waiting to be eaten.~
+food~
+food 0 AO
+24 4 0 0 0
+1 3 500 P
+#14629
+travel bag sac~
+a travel bag~
+A travel bag, for people on the go, is here.~
+cloth~
+container 0 AO
+250 A 0 15 100
+10 2 2350 P
+#14630
+can sodapop pop~
+a can of pop~
+A bubbly can of soda is here.~
+aluminum~
+drink 0 AO
+60 60 'coke' 0 0
+1 3 135 P
+#14631
+canteen chocolate milk~
+a canteen of chocolate milk~
+A canteen filled with yummy chocolate milk is here.~
+leather~
+drink 0 AO
+80 80 'chocolate milk' 0 0
+1 4 735 P
+#14632
+coiled rope~
+some coiled rope~
+A large bundle of coiled rope is here.~
+hemp~
+weapon 0 AN
+whip 4 4 whip 0
+21 65 3000 P
+#14633
+hunting dagger knife~
+a hunting knife~
+A knife used for hunting is here.~
+bronze~
+weapon 0 AN
+dagger 3 7 stab 0
+25 2 4500 P
+#14634
+small altar~
+a small altar~
+A small altar is here, accepting any donations you might have.~
+marble~
+furniture 0 P
+0 200 N 0 0
+0 10000 0 P
+#14635
+coin~
+a coin~
+A very valuable gold coin is here.~
+gold~
+treasure CT A
+0 0 0 0 0
+1 2 1500 P
+#14636
+crate~
+a crate~
+A large crate is here, on the ground.~
+wood~
+container 0 P
+200 AC 0 50 100
+0 2500 0 P
+#14637
+barrel~
+a barrel~
+~
+wood~
+container 0 P
+25 A 0 10 100
+0 350 0 P
+#14638
+salted herring~
+a salted herring~
+A salted herring is here, ready to be eaten.~
+fish~
+food P AO
+10 4 0 0 0
+1 20 750 P
+#14639
+stylish leather jacket~
+a stylish leather jacket~
+A stylish leather jacket is here.~
+leather~
+clothing 0 AD
+0 0 0 0 0
+3 65 1800 P
+#14640
+platemail mail torso~
+a platemail torso~
+A piece of platemail, for your torso, lies here.~
+steel~
+armor 0 AD
+5 5 5 4 0
+18 1200 2300 P
+A
+13 5  
+#14641
+platemail mail armguards~
+some platemail armguards~
+Some platemail armguards are here.~
+steel~
+armor 0 AI
+4 6 6 0 0
+13 80 1500 P
+#14642
+platemail mail leggings~
+a pair of platemail leggings~
+A pair of platemail leggings are here.~
+steel~
+armor 0 AF
+4 5 6 1 0
+17 65 2000 P
+#14643
+steel shield~
+a steel shield~
+A steel shield is gleaming here.~
+steel~
+armor 0 AJ
+5 7 5 1 0
+18 75 2200 P
+#14644
+platemail mail wristguard~
+a platemail wristguard~
+A shiny platemail wristguard lays here.~
+steel~
+armor 0 AM
+3 3 4 2 0
+16 45 1800 P
+A
+1 1  
+#14645
+platemail mail helmet~
+a platemail helmet~
+A large platemail helmet is on the ground.~
+steel~
+armor 0 AE
+2 0 4 3 0
+20 55 2700 P
+A
+5 1  
+A
+2 -2  
+#14646
+large studded mace~
+a large studded mace~
+A large mace, with a studded head, is here.~
+steel~
+weapon Ba AN
+mace 4 4 beating 0
+21 105 2300 P
+A
+18 1  
+A
+19 1  
+#14647
+handcannon cannon hand-cannon~
+a hand-cannon~
+A small hand-cannon is here, ready to be lit.~
+steel~
+weapon Y AN
+exotic 7 2 firing A
+23 500 4600 P
+A
+18 -10  
+A
+19 1  
+#14648
+shimmering blade~
+a shimmering blade~
+A blade is here, shimmering in the light.~
+steel~
+weapon AB AN
+dagger 3 6 pierce 0
+21 37 2300 P
+A
+3 1  
+#14649
+sword trolls~
+a sword of the trolls~
+A well-made sword of the trolls is here.~
+adamantite~
+weapon 0 AN
+sword 4 5 slash 0
+24 87 2100 P
+#14650
+heavy iron axe~
+a heavy iron axe~
+A rather heavy iron axe is here.~
+iron~
+weapon 0 AN
+axe 2 9 chop 0
+21 135 3650 P
+#14651
+potion night seeing night-seeing~
+a potion of night-seeing~
+A potion of night-seeing is here.~
+glass~
+potion 0 AO
+7 'infravision' 'reserved' 'reserved' 'reserved'
+30 1 1600 P
+#14652
+potion escape~
+a potion of escape~
+A potion of escape is here.~
+glass~
+potion P AO
+50 'blindness' 'blindness' 'grandeur' 'reserved'
+35 5 8000 P
+E
+potion~
+On the bottle you see a small label which reads:
+This potion was inspired by the idea that if you
+can't see them, they can't see you, and if that
+fails looking bigger never hurt.
+{x                              Rathemon
+~
+E
+escape~
+On the bottle you see a small label which reads:
+This potion was inspired by the idea that if you
+can't see them, they can't see you, and if that
+fails looking bigger never hurt.
+{x                              Rathemon
+~
+#14653
+potion super healing~
+a potion of super healing~
+One of Rathemon's Potions of super healing is here.~
+crystal~
+potion Y AOY
+40 'rainbow burst' 'hell blades' 'prismatic spray' 'acid blast'
+40 1 10000 P
+E
+potion~
+You know, come to think of it, this doesn't look like a healing potion. 
+Infact, it doesn't look very safe at all.  Maybe is it best you don't drink
+it.  
+~
+E
+super~
+You know, come to think of it, this doesn't look like a healing potion. 
+Infact, it doesn't look very safe at all.  Maybe is it best you don't drink
+it.  
+~
+E
+healing~
+You know, come to think of it, this doesn't look like a healing potion. 
+Infact, it doesn't look very safe at all.  Maybe is it best you don't drink
+it.  
+~
+#14654
+potion see others~
+a potion of see others~
+One of Rathemon's potions of see others is here.~
+glass~
+potion 0 AO
+10 'detect invis' 'poison' 'reserved' 'reserved'
+25 2 2500 P
+E
+potion~
+Should this be green and bubbling?
+~
+E
+see~
+Should this be green and bubbling?
+~
+E
+others~
+Should this be green and bubbling?
+~
+#14655
+scroll create spring~
+a scroll of create spring~
+A scroll is here, to quench your thirst.~
+ice~
+scroll 0 AO
+5 'create spring' 'reserved' 'reserved' 'reserved'
+29 8 3500 P
+#14656
+magic pill comfort company~
+a magic pill of comfort and company~
+A magic pill to give you comfort and company is here.~
+jelly~
+pill A AO
+0 'skeletal warrior' 'reserved' 'reserved' 'reserved'
+45 100 10000 P
+#14657
+staff nourishment~
+a staff of nourishment~
+A nourishing staff is here, ready to fill your belly.~
+food~
+staff P AO
+10 8 4 'create food' 0
+36 54 5600 P
+#14658
+local bard~
+a local bard~
+A bard is here, humming a tune.~
+flesh~
+jukebox O P
+0 0 0 0 0
+10 10000 0 P
+#14659
+pile poker chips~
+a pile of poker chips~
+A pile of poker chips are here.~
+plastic~
+money 0 AO
+2000 0 0 0 0
+20 5 5000 P
+#14660
+portable bard~
+a portable bard~
+Finally! Something to appease those long lonely adventures: The portable bard is here.~
+plastic~
+jukebox A AM
+0 0 0 0 0
+25 56 50000 P
+A
+20 -2  
+A
+4 -3  
+A
+18 -4  
+#14661
+zebian torso plate~
+a Zebian torso plate~
+A torso plate from a Zebian guard is here.~
+silver~
+armor 0 AD
+6 7 6 0 0
+21 145 1750 P
+A
+19 1  
+#14662
+zebian cloak~
+a Zebian cloak~
+A Zebian cloak is here. It should keep you nice and warm.~
+wool~
+clothing 0 AK
+0 0 0 0 0
+24 112 966 P
+A
+5 2  
+A
+17 -5  
+#14663
+zebian shield~
+a Zebian shield~
+A very sturdy Zebian shield is here.~
+silver~
+armor 0 AJ
+3 7 6 2 0
+23 89 1200 P
+#14664
+zebian helmet~
+a Zebian helmet~
+A helmet of the Zebian guard is here.~
+silver~
+armor 0 AE
+7 2 5 4 0
+19 73 1740 P
+#14665
+zebian flail~
+a Zebian flail~
+A flail used by the Zebian guard is here.~
+silver~
+weapon 0 AN
+flail 5 3 whip 0
+22 22 1468 P
+A
+18 1  
+#14666
+kayak~
+a kayak~
+A beached kayak is here.~
+plastic~
+boat 0 A
+0 0 0 0 0
+0 405 9500 P
+#14667
+wand damage~
+a wand of damage~
+A wand, ready to deal a lot of damage, is here.~
+magic~
+wand GL AO
+25 3 2 'general purpose' 0
+40 15 7000 P
+#14668
+protective amulet~
+a protective amulet~
+A protective amulet is here, pulsing on the ground.~
+quartz~
+trash Abd AC
+0 0 0 0 0
+33 36 4600 P
+A
+12 5  
+A
+17 -4  
+#14669
+straw bed~
+a straw bed~
+A very comfortable straw bed is here.~
+straw~
+furniture 0 P
+1 500 BHKN 100 100
+0 1000 0 P
+E
+bed~
+{x                    _   &&&&&&&&&&&   _      
+                   | |_&&&&&&&&&&&___| |     
+                  /   &&&&&&&&&&&      |     
+                /                  /   |     
+              /                  /     |     
+            /                  /     /_|     
+          /                  /     /         
+       _/              _   /     /           
+      | |_____________| |/     /             
+      |                 |    /               
+      |                 |  /                 
+      |  _____________  |/                   
+      |_|             |_|                    
+~
+E
+straw~
+The straw looks fairly clean.  It might not be the most comfortable thing
+in the world, but it certainly does look inviting.  
+~
+#14670
+rowboat boat~
+a rowboat~
+A rowboat is here, looking for someone to paddle it.~
+oak~
+boat 0 A
+0 0 0 0 0
+0 1360 7600 P
+#14671
+river~
+the river~
+~
+water~
+fountain 0 0
+-1 -1 'water' 0 0
+0 10000 0 P
+#14672
+stuffed koala bear~
+a cute, stuffed koala bear~
+A very cute stuffed koala bear is here waiting to be held.~
+fuzz~
+trash 0 AO
+0 0 0 0 0
+30 3 2400 P
+A
+5 1  
+#14673
+glowing ball~
+a glowing ball of light~
+A small ball is illuminating the room.~
+light~
+light A AY
+0 0 999 0 0
+30 16 3000 P
+A
+18 1  
+#14674
+sphere of power~
+a sphere of power~
+A sphere of power is here, with Zebian markings on it.~
+magic~
+treasure AYe AOZ
+0 0 0 0 0
+50 30 8315 P
+A
+1 1  
+A
+3 1  
+A
+4 1  
+A
+2 1  
+A
+5 1  
+A
+19 2  
+#14675
+crack wall ground~
+a crack in the wall~
+~
+nothing~
+container 0 P
+20 0 0 1 100
+0 0 0 P
+#14676
+gallows~
+the city gallows~
+The gallows are here, waiting for their next victim.~
+wood~
+furniture 0 P
+3 500 B 0 0
+0 3500 100000 P
+E
+gallows~
+{x _______________________________________
+      |_______________________________________|
+       |/|                           |  |  / /
+       |/|                           |  | / /
+       |=|                           |  |/ /
+       |=|                           |  | /
+       ###                           |  |/
+      ## ##                          |  |
+     ##   ##                         |  |
+      ## ##                          |  |
+       ###                           |  |
+                                     |  |
+                                     |  |
+                                     |  |
+                                    /|  |\
+                                   / |  | \
+                                  /  |  |  \
+                                 /  /|  |\  \
+                                /  / |  | \  \
+                               /  /  |  |  \  \
+                              /  /   |  |   \  \
+                             /  /    |  |    \  \
+~
+#14677
+glass mead~
+a glass of mead~
+A glass is here, full of yummy mead.~
+glass~
+drink 0 AO
+35 30 'mead' 0 0
+0 3 675 P
+#14678
+square glass schnapps~
+a glass of schnapps~
+An ornate square glass filled with schnapps is here.~
+glass~
+drink 0 AO
+10 8 'schnapps' 0 0
+0 2 760 P
+#14679
+glass slime mold juice~
+a glass of slime mold juice~
+A tall, cool glass of slime mold juice is here.~
+glass~
+drink 0 AO
+35 30 'slime mold juice' 0 0
+0 4 300 P
+#14680
+glass framboise~
+a glass of framboise~
+A delicious glass of framboise is here.~
+glass~
+drink 0 AO
+35 30 'framboise' 0 0
+0 2 565 P
+#14681
+shot whisky~
+a shot of whisky~
+A potent shot of whisky is here.~
+glass~
+drink 0 AO
+10 10 'whisky' 0 0
+0 2 775 P
+#14682
+pint beer~
+a pint of beer~
+A frosty pint of beer is here.~
+glass~
+drink 0 AO
+80 80 'beer' 0 0
+0 3 250 P
+#14683
+shard of wood~
+a shard of wood~
+A small shard of wood is here, hacked off from a larger piece.~
+wood~
+throwing T AOY
+10 1 skewer 5 'scramble'
+23 13 0 P
+#14684
+dirty bundle cloth~
+a dirty bundle of cloth~
+A dirty bundle of cloth is here on the ground.~
+cloth~
+container C AC
+10 AC 0 5 100
+10 3 100 P
+#14685
+shard zephyr wind~
+a shard of zephyr~
+A small shard of the wind is floating here~
+air~
+recall_crystal T AOY
+BDEFILMN AB AC 0 0
+0 0 1800 P
+#14686
+hammer~
+a hammer~
+A hammer is here, ready to fix things.~
+iron~
+weapon 0 AN
+mace 6 5 clobber K
+39 46 1256 P
+#14687
+rusted shard~
+a rusted shard~
+A small shard of something is here, all rusted away.~
+rust~
+weapon T ANY
+dagger 3 2 stab JO
+12 6 23 P
+A
+2 -1  
+#14688
+dull green shard~
+a dull green shard~
+A small dull green shard of something is here, almost rotting away.~
+decayed~
+staff CT AOY
+24 3 0 'plague' 0
+37 4 160 P
+A
+1 -1  
+#14689
+shard rain~
+a shard of rain~
+A shard is here, glistening like the rain.~
+water~
+treasure TU AQY
+0 0 0 0 0
+32 14 0 P
+A
+19 1  
+A
+18 1  
+#14690
+shard light~
+a shard of light~
+A small shard of light is brightly glowing here.~
+energy~
+light AT AY
+0 0 999 0 0
+30 0 1500 P
+A
+17 -3  
+#14691
+shard life~
+a shard of life~
+A small shard is here, covered in moss and insects.~
+living~
+warp_stone AT AOY
+0 0 0 0 0
+45 1 2600 P
+A
+13 25  
+#14692
+flower~
+a flower~
+~
+flower~
+container O P
+1 AC 0 1 0
+0 0 0 P
+E
+flower~
+{x                                    .--._
+                                  .'     `-.         .-.
+                                .'          `.___.--'  J
+                              .'    .-------'_          \
+                      ______.'    .'          `.       .------.
+                     /  _.-'    .'  .-._`.      \    .'       \
+                    J.-'       /  .'--._\ \      |             \
+                    F  _.-----/ .'/(    \  \  .--' /    _      J
+                   J  /     .'.' | |.-.   \| / _/    .-'__`    /
+                   | |   `./ /   J |   \__.--'___.'.'  /__    J
+                   F `.   `-.|_._)  _.--'     .--'  .-'  )   .'|
+                   F` ``-._____|_.-'.'|`-----'.' .-'  .--'  /.-.
+                  /F  `----.__.'_.-'        .'.-'  .-'     /    \
+                .'|   `.`._  .-  `--.______/-'  .-'   -._.'      `.
+              .'  \     `-._   `--.-' \_.-'  .-'     / |           \
+          .--'-.__ `-._     ``---.__.-'___.-'      .'  |            \
+          F `--._ `-._ `--------------'         .-'    |         |   \
+          |       `.  `.    `              _.--'     .'        '      \
+           \        `-. `.      _____.---'         .'       .'         \
+            `.         `-.`-.--._                .'    __.-'   .'    `. \
+              `-._         -      `----.      .-'   .-'      .           |
+                  `-._         `-____.' `._.-'  -'        .-     `.     /
+                      >-----'`-----'    `   `    `-.           `   `.  /
+                     /             .-'       \  `  `-.               .'
+                    J            .'.          |------'`-._       _.-'
+                    |          .'.'           |\\   |\    `-----'
+                    F        .'.' /          /\\\\ /\ \
+                    L      .'.'  /          / |\\\'| `.\
+                    |   .-'.'   |          || |.'\|    \\
+                     \  _.'     |         / | |   `     |
+                      `-'      /       .-<.'| |
+                        \     |        |    F |
+                        .'`---".      .'.   F |
+                       /      __`----' `.`.J  F       .--.
+                      J    .-'           \\|  F     .'    `-.
+                      |_.-'              | F _.----/_    \   `.
+                        __.----._       _|.-'        `.   |    \
+                     .-'         `-.  .'               >  |     |
+                  .-'             _.\/             _.-'   |     /
+                  \_           .-'/J `.      .-'.-'  `.       .'
+                   `.______.-'--// `-._____.--' ___   `-. (-'       ______
+                       .-'       \        |  F-'___`-..--'` `--.---'      `-._
+                    .-'           L      '| J.-'   `-|     \     \-|
+                   /              |       | /        J      |     \`.
+                  /               J       F F         \     |      F `.
+                 J                 L____ J J           \    \      F   `-.
+     VK          |               .'     `. F            `.   |  _.'       `-._
+                 |             .'      .' J               `-.  /
+    _.--------._ |           .'      .'J  F                  `-|
+                \\         .'      .'  F  F
+                / `-     .'     .-'   J  J
+ 
+~
+#14695
+axe of the river~
+an axe of the river~
+An axe of the river is here, slowly dripping.~
+water~
+weapon H ANZ
+axe 11 3 cleave CM
+50 34 5200 P
+A
+5 -1  
+A
+19 1  
+#14696
+blinking bouquet~
+a blinking bouquet~
+A bouquet is here, blinking like a miniature Nevada casino!~
+plastic~
+light AYe AP
+0 0 999 0 0
+1 0 0 P
+#14697
+wilderness survival kit~
+a wilderness survival kit~
+A kit is here to help you survive out in the wilderness.~
+cloth~
+pill Y AOY
+30 'animal growth' 'heal' 'build fire' 'reserved'
+2 0 1000 P
+#14698
+large fountain~
+a fountain of water~
+A small fountain sit here, shooting water up into the air.~
+marble~
+fountain 0 P
+-1 -1 'water' 0 0
+0 10000 0 P
+E
+fountain~
+{x                  ,-=;?uc;`????=n,
+                   ;cr=?{?{?{?c;3b;;"c
+                 .} b$$$b4-';;L3e;?;?r
+               4"u $$$$$$$u^/;uh`$u);lr
+                :c 3c=$$P""$e.x.;?cu;;.     ,nMMMMMMMP=
+      "e.           h ,$$.,,3$$b u4;/    xMMTTCMMM=-
+       d `\.        $$???$$$$$$$-" . .nx4MMETMMMM=
+      J     ".       ?,  d$$P" ,c$$$$$c. 4MMCCCMnn,
+     x"       `\.     `"??",d$$$$$$$$$$$$ MMTTC3M"`
+    4F           J,     ,$$$$$$$$$$$$$$$$$.""""??
+     $       _,-' .c$$$$$$$$$$$$$$$$$$$$$$$u
+     `R$._,-' .,$$$$$$$$$$$$$$PF ,ze,<$$$$$$
+      _-'z$$$$$$$$$$$$$PF' c$$d d$$$$$$$$$$$
+ __,-'  '?$$$$F      t     4$;'d$$$$$$$$$$$$$;
+z4         ,u        `.    `''d$$$$$$$$$$$$$$$h
+            $         (      c$$$$$$$$$$$$$$$$$$b.
+             "n,_     `.    <$$$$$$$$$$$$$$$$$$$$$$c
+                `"?c,_ t     $"$$$$$$$$$$$$$$$$$$$$$$.
+                     ""q     $$$$$$$$$$$$$"?$$$$$$$$$$.
+                        ^     ?$$$$$$$P",c$$$$$$$$$$$$
+                               ?$$$$F c$$$$$$$$$$$$$$$
+                             u$$c.`" $$$$$$$$$$$$$$$$"
+                            $$$$$$$ $$$$$$$$$$$$$$$F
+                           $$$$$$$ $$$$$$$$$$$$$P"
+                          $$$$$$$$ $$$$$$$$$$P"
+                         d$$$$$$$b $$$$$$$$$$$$c
+                         J$$$$$$$$c ?$$$$$$$$$$$$u$$c
+                         $$$$$$???"   =c$$$$$$$$P$$$P
+                         $$$$$$$$F          "  z$$$$
+                        <$$$$$$$c             c$$$$$
+                         $$$$$$$% "  "
+                         `$$$$$"
+                    _,ue$$$$$$c
+                   ^`????" `"??"
+ 
+What a pretty little statue to have at the top of the fountain.
+~
+#14699
+helm haste~
+a helm of haste~
+A helmet of haste is here.~
+electrum~
+armor H AE
+100 100 100 100 0
+54 0 0 P
+F
+V 0 0 D
+F
+A 0 0 V
+#14700
+stryder's house key~
+Stryder's house key~
+Stryder's house key is here. Time to pocket this!~
+crystal~
+key 0 AC
+0 0 0 0 0
+0 0 0 P
+#14701
+amulet power~
+an amulet of power~
+An amulet is here, radiating its power.~
+platinum~
+protect AC AC
+0 0 0 0 0
+54 0 10000 P
+A
+13 500  
+A
+12 5000  
+#14702
+sharp pointy thing~
+a sharp pointy thing~
+Something that is very sharp and pointy is here.~
+diamond~
+weapon MTYe AN
+dagger 50 2 skewer CDEHIJKNP
+54 0 0 P
+A
+19 100  
+A
+20 -50  
+A
+18 80  
+#14703
+wedding altar~
+a wedding altar~
+A lovely gold plated altar is here at the end of the room.~
+gold~
+container 0 P
+10 ACD 14700 100 10
+54 10000 0 P
+#14704
+zebian birthright~
+the Zebian birthright~
+A birthright of the Zebian is here.~
+nothing~
+trash MUZ AB
+0 0 0 0 0
+36 0 0 P
+A
+20 -2  
+A
+9 20  
+#14705
+odd leaf~
+an oddly shaped leaf~
+A very strangely shaped leaf is here.~
+leaf~
+trash 0 AO
+0 0 0 0 0
+1 1 0 P
+#14706
+zzzkey~
+{x~
+{x~
+steel~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#14707
+qqqkey~
+{x~
+{x~
+wood~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#14708
+cobwebs covered bookcases shelves case~
+the cobweb covered bookcase~
+~
+wood~
+container 0 P
+0 AC 0 0 0
+0 0 0 P
+#14709
+kkkpeo~
+{x~
+{x~
+wood~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#14710
+ispeoplenotpresent~
+{x~
+{x~
+paper~
+trash 0 A
+0 0 0 0 0
+0 10000 0 P
+#14711
+book creation~
+a book entitled "The Creation"~
+A book entitled "The Creation" is here.~
+paper~
+treasure T AO
+0 0 0 0 0
+5 50 0 P
+E
+story~
+It has been so long that no one can remember. The city of Zebes started as
+nothing more than a trading post. As more and more ventured into the
+wilderness of Dominia, its size slowly grew. Before long it was a busy town,
+and then a city. This was its first golden age, but like all things it can't
+last forever. Rumors started circulating of a great threat coming from the
+east. The Dragons were coming... Preparations were made, and a keep was 
+constructed in the south-western corner of the city. This was too little too
+late, the keep was only nearing completion when the first scouts found the
+city. There were only three of them, but the dragons managed to utterly 
+decimate the city before being defeated. Most of the survivors flocked out
+of the city leaving it to be a shell of its former self. Those that remained
+finished the keep, and waited for the next wave. Stories soon started reaching
+the city telling of the advancing front. Construction on the city walls was
+started. But it was too late; word was spreading that the hordes would reach
+the city before the completion. Something else would need to be done. Only 
+nine mages remained in the city, they gathered to form a spell that could
+protect the city. All nine, lead by Sli'vateer gathered in the village
+square. The incantations were almost complete... then disaster struck. A
+lone dragon attacked the city, and reached the mages. Just as the 
+incantation was completing, a mage was slain by the dragon. The remaining
+mages made quick work of the dragon, as the spell continued to form. Such a
+disturbance could have easily destroyed the spell, but it remained, intact.
+Celebration rang out, as the spell started to take hold, surrounding the city.
+It first started its illusion in the village square, causing trees to rise
+where a street once was. The illusion then started to spread outwards, causing
+the city to look as if it was engulfed in a green blaze. In a matter of minutes
+the gleaming city of Zebes had disappeared, becoming one with the forest it
+was carved out of. Over time the spell has flickered and faded.... causing 
+parts of the city to become exposed briefly. It is only a matter of time before
+it fails altogether.
+~
+E
+book~
+A protective barrier of years or dust cover this once beautiful book. 
+You think you can make out the words "The Creation" on the cover.  You can
+flip this book open and look at the pages.  
+~
+#14712
+large table~
+a large table~
+~
+stone~
+furniture 0 P
+2 600 EHN 100 100
+0 10000 0 P
+E
+book~
+The book is covered in years and years of dust, all of which is propelled
+into the air as you open it with a big THUNK.  The text in the book looks
+like a series of oddly shaped scribbles, making it very apparent it is
+written in a language you can't understand.  You turn to the last page, and
+the scribbles start to shift, forming letters, then words, that you can
+read.  The passage reads as follows:
+ 
+This room is what remains of the great mage Sil'vateer.  
+He constructed it to project a spell over the entire city.
+The spell's nature was to protect this city from harm,
+lest Shandalar fall to the invading dragons.  This very
+room is the outcome of that spell.  The columns that 
+support the ceiling represent the elements of creation.
+The glowing ball in the center is what unites everything.
+The spell covers such a wide area, the matrix that supports
+the spell must also be large. However, it is possible to
+invoke a similar spell on oneself, by holding a 'sphere of
+power'.  Its components for its matrix are the same as
+this very room, only in much smaller quanities.  
+~
+E
+table~
+You look at the table, and see a book on it.  You try to move the book,
+but it doesn't budge, as if it's being magically held in place. 
+~
+E
+large~
+You look at the table, and see a book on it.  You try to move the book,
+but it doesn't budge, as if it's being magically held in place.
+~
+#14713
+cute stuffed sloth doll~
+a cute, stuffed sloth doll~
+A really cute looking stuffed sloth doll is here, ready to be embraced!~
+fuzz~
+trash GSY AO
+0 0 0 0 0
+20 13 3600 P
+E
+sloth~
+=====(((=))=====(=)))===========
+      " `,      |' /
+      /"/        |""
+     """|        \"|
+     |"||        " "
+     "" "        |"|\
+    /""^\\.      /" ""^,
+   ""^""""`"",^`^"!!"!" \
+   /"""""/""! "^""" "" "^",
+  //\""!!""^"!"!"\"""/^!^, C^"^P
+ // !!"""""! "^ " !!"!! "," O o"^
+ ||   !!"!!^!!^||"  !     "" Y ""
+ \\     !  !  !            `"U"'
+  \\
+   \\  0))
+    \`-^/^
+     `^'
+~
+#14714
+book dust secret codes~
+a dust covered book entitled "Secret Codes"~
+A book is here, covered in dust.~
+paper~
+treasure T AO
+0 0 0 0 0
+5 50 0 P
+E
+pages~
+The most basic of codes was created by Fraqike.  His code took the
+message he wished to send, broke it up into letters and made the first
+letter of a series of words his code.  There have been many variations of
+this basic in use over the centuries.  Most of them involving which place
+the letter was inside the encooded message.  One of the more complex codes
+that was used was the Zlahadeere code.  This process took a message, broke
+it up into letters and then placed the first letter of the message as the
+first letter of the first word, then the second letter would be the second
+letter in the second word, and so on.  It used a simple process where the
+key letter started at the first position, then was shifted to the second,
+then the third and so on.  When the letter which was part of the message
+landed on the end of a word, the process reset, with the message as the
+first letter of the first word and so on.  There was even occasionally a
+twist to further confuse codebreakers where the letters of the message were
+reversed, so the code started with the last letter as the first letter of
+the first word.  And one extreme instance have been recorded where pictures
+were made from sequences of letters and each line counted as a single word. 
+~
+E
+book~
+A protective barrier of years or dust cover this once beautiful book. 
+You think you can make out the words "Secret Codes" on the cover.  You can
+flip this book open and look at the pages.  
+~
+#14715
+unused vnum~
+a wand~
+A wand~
+wood~
+armor 0 0
+0 0 0 0 0
+1 0 0 P
+A
+1 -4  
+#14716
+large woodene hacking post~
+a large wooden post~
+A large hacking post is here, sticking out of the ground.~
+wood~
+furniture 0 P
+0 0 0 0 0
+0 1000000 0 P
+E
+wooden~
+It looks like a large wooden post.  It is covered in notches from
+hundreds of hacks and slashes which have added up over the years.
+Maybe you should leave your mark?
+A large wooden post is in awful condition.
+~
+E
+hacking~
+It looks like a large wooden post.  It is covered in notches from
+hundreds of hacks and slashes which have added up over the years.
+Maybe you should leave your mark?
+A large wooden post is in awful condition.
+~
+E
+large~
+It looks like a large wooden post.  It is covered in notches from
+hundreds of hacks and slashes which have added up over the years.
+Maybe you should leave your mark?
+A large wooden post is in awful condition.
+~
+E
+post~
+It looks like a large wooden post.  It is covered in notches from
+hundreds of hacks and slashes which have added up over the years.
+Maybe you should leave your mark?
+A large wooden post is in awful condition.
+~
+#14717
+lucky shamrock~
+{Ga {gl{Gu{gc{Gk{gy {Gs{gh{Ga{gm{Gr{go{Gc{gk{x~
+The luck of the Irish can be found in this {gl{Gu{gc{Gk{gy {Gs{gh{Ga{gm{Gr{go{Gc{gk{x.~
+plant~
+pill ACTY AO
+45 'create food' 'create spring' 'frenzy' 'reserved'
+0 1 35 P
+#14749
+king hill token~
+a King of the Hill token~
+A King of the Hill token is here - better hold onto it if you want to win!~
+time~
+key H A
+0 0 0 0 0
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#14600
+Outside the North-West Gates~
+You are standing outside the north-west gates of the city of Zebes.  The
+breeze comes down from the north, gently blowing against your face making
+you feel refreshed.  To the north, you see a small path leading away to a
+distant land.  Perhaps it deserves a closer look.  To the east and south of
+you, stand the large gates built ages ago to protect the city from invaders.
+They used to be always closed, but recently they have been kept open during
+this current peace.  
+~
+0 4 2
+D1
+~
+gate~
+1 0 14610
+D2
+~
+gate~
+1 0 14601
+S
+#14601
+Inside the North-West Gate~
+Before you stands the largest set of gates you have ever seen.  They stand
+well over fifty feet from the ground, dwarfing their surroundings.  You
+imagine the beasts that were roaming in ancient times which caused these
+massive gates to be built.  To the east of you is a manned guardhouse.  To
+the north, past the gates, lies a field with paths leading away from the
+city.  To the south lies Valdur Crescent.  
+~
+0 0 1
+D0
+~
+gate~
+1 0 14600
+D1
+~
+~
+1 0 14696
+D2
+~
+~
+0 0 14602
+S
+#14602
+Valdur Crescent~
+You are somewhere on the western half of Valdur Crescent.  A large wall
+is to your west, running both south and north.  As you look north, you see a
+guardhouse and the north-west gate.  You could go that way, or you could
+head east or south on Valdur Crescent.  
+~
+0 0 1
+D0
+~
+~
+0 0 14601
+D1
+~
+~
+0 0 14614
+D2
+~
+~
+0 0 14603
+S
+#14603
+Valdur Crescent~
+You are on the southern section of Valdur Crescent.  The street and its
+surroundings seem fairly ordinary, and are mostly made out of stone.  An
+entrance to a building lies to the east, although it appears to be closed
+right now.  Valdur Crescent continues both north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 14602
+D1
+~
+~
+4 0 14699
+D2
+~
+~
+0 0 14604
+S
+#14604
+Intersection of Valdur Crescent and River Road~
+You are on the southern section of Valdur Crescent.  The western wall
+runs north and south, and is on your west.  There is the odd bit of trash on
+the ground, although none seems worth a closer look.  Valdur Crescent
+continues to the north and south.  To your east is River Road, which runs
+parallel to the Naboth River.  
+~
+0 0 1
+D0
+~
+~
+0 0 14603
+D1
+~
+~
+0 0 14637
+D2
+~
+~
+0 0 14605
+S
+#14605
+On the Valdur Crescent Bridge~
+You happen to be standing on a bridge which is part of Valdur Crescent. 
+The sound of water rushing and gurgling comes from the floorboards below
+you.  Those boards had better not break, you really don't think it would be
+a pleasant way to take a swim.  Valdur Crescent continues to the north and
+south.  
+~
+0 0 1
+D0
+~
+~
+0 0 14604
+D1
+~
+~
+0 0 14663
+D2
+~
+~
+0 0 14606
+S
+#14606
+Valdur Crescent~
+You are nearing the west end of Valdur Crescent.  To your west lies
+Zebes' western wall, looking as tall and mighty as ever.  The road is fairly
+ordinary and runs both north and south.  Towards the south you see some of
+the city's large gates.  
+~
+0 0 1
+D0
+~
+~
+0 0 14605
+D2
+~
+~
+0 0 14607
+S
+#14607
+Inside the South-West Gate~
+You are now at the south end of Valdur Crescent.  To the south of you lie
+the biggest gates you have ever seen, well over fifty feet in height.  They
+appear to be made of a kind of enchanted heavy steel, making them a
+formidable blockade for anything trying to get through.  To the east of you
+is a door, leading into a guardhouse.  Valdur Crescent starts towards the
+north, leaving the gates and paths to other realms to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 14606
+D1
+~
+~
+1 0 14697
+D2
+~
+gate~
+1 0 14608
+S
+#14608
+Outside the South-West Gates~
+You are now standing outside the south-west gates of the city of Zebes. 
+The ground is fairly flat, with a couple paths leading off in various
+directions.  There is the occasional small shrub growing between the grass. 
+You can see off into the distance to the south and west, and wonder what
+adventures there might be.  To the north and east you can see massive gates
+protecting the city of Zebes.  
+~
+0 4 1
+D0
+~
+gate~
+1 0 14607
+D1
+~
+gate~
+1 0 14609
+D2
+~
+~
+0 0 14707
+S
+#14609
+Inside the South-West Gate~
+You are at one end of Drekmar Road.  To the west lie the south-western
+gates of Zebes, towering over the surrounding city.  The steel of the gates
+shine brightly in the light, almost to the point where you are blinded.  To
+the north you see a door which leads into a guardhouse.  You can also go
+east on Drekmar Road, or through the gates into the wilderness.  
+~
+0 0 1
+D0
+~
+~
+1 0 14697
+D1
+~
+~
+0 0 14636
+D3
+~
+gate~
+1 0 14608
+S
+#14610
+Inside the North-West Gate~
+Before you stands the largest gate you have ever seen.  It stands well
+over fifty feet from the ground, dwarfing its surroundings.  It seems to be
+made of heavy steel, but one that has been magically enhanced.  Good thing
+they aren't needed today, imagine the beasts that were roaming for this
+massive gate to be built.  To the south you see a manned guardhouse.  To the
+west, past the gates, lies a field with paths leading away from the city. 
+To the west lies Valdur Crescent.  
+~
+0 0 1
+D1
+~
+~
+0 0 14611
+D2
+~
+~
+1 0 14696
+D3
+~
+gate~
+1 0 14600
+S
+#14611
+Valdur Crescent~
+You are somewhere on the northern half of Valdur Crescent.  A large wall
+stands before you to the north.  Towards the east continues Valdur Crescent,
+as it does to the south.  To the west lies a guardhouse and the north-west
+gate.  
+~
+0 0 1
+D1
+~
+~
+0 0 14615
+D2
+~
+~
+0 0 14612
+D3
+~
+~
+0 0 14610
+S
+#14612
+Valdur Crescent~
+You are walking along Valdur Crescent, near the north-west corner of the
+city.  The crescent continues to the north and south.  To the west of you
+lies one of the city's many guardhouses.  
+~
+0 0 1
+D0
+~
+~
+0 0 14611
+D2
+~
+~
+0 0 14613
+S
+#14613
+Valdur Crescent and Sterling Street~
+You are at the end of Sterling Street, where it becomes part of the large
+Valdur Crescent.  The building to the south casts a shadow down onto you,
+making your spine tingle.  The walls are easily visible from here, as they
+tower up high above any nearby structure.  You can either go down Sterling
+Street to the east, or head north or west onto Valdur Crescent.  
+~
+0 0 1
+D0
+~
+~
+0 0 14612
+D1
+~
+~
+0 0 14658
+D2
+~
+door~
+4 0 14699
+D3
+~
+~
+0 0 14614
+S
+#14614
+Valdur Crescent~
+You are walking along Valdur Crescent, near the north-west corner of
+Zebes.  To the north of you is one of the city's many guardhouses.  The
+crescent continues to the west and east, with the easterly path meeting with
+Sterling Street.  
+~
+0 0 1
+D1
+~
+~
+0 0 14613
+D3
+~
+~
+0 0 14602
+S
+#14615
+Valdur Crescent and Ruby Road~
+You are now at the intersection of Valdur Crescent and Ruby Road.  To the
+south you see many carts lining Ruby Road.  A large wall stands to the north
+of you, blocking out the sun.  Valdur Crescent continues in both the east
+and west directions.  
+~
+0 0 1
+D1
+~
+~
+0 0 14616
+D2
+~
+~
+0 0 14660
+D3
+~
+~
+0 0 14611
+S
+#14616
+Valdur Crescent~
+You are about midway on the northern section of Valdur Crescent.  There
+seems to be heavy wear on the road, so much that many of the stones look
+polished.  The city's northern wall stands before you to the north, covering
+you in shade.  Valdur Crescent continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 14617
+D3
+~
+~
+0 0 14615
+S
+#14617
+Valdur Crescent and Cordenia North~
+You are about midway on the northern section of Valdur Crescent.  Before
+you, to the north, stands a gigantic wall which casts its shadow upon you
+and the surrounding buildings.  You can go either east or west to continue
+on Valdur Crescent.  As you look towards the south, a glimmer of light
+catches your eye.  Maybe you should go south down Cordenia to have a better
+look.  
+~
+0 0 1
+D1
+~
+~
+0 0 14618
+D2
+~
+~
+0 0 14652
+D3
+~
+~
+0 0 14616
+S
+#14618
+Valdur Crescent~
+You are nearing the end of the Valdur Crescent.  The road seems fairly
+ordinary, although there seems to be a lot of wear from heavy travel. 
+Towards the east is a guardhouse and Zebes' North-East gate.  Valdur
+Crescent continues towards the west.  To the south you see a small alleyway
+between the buildings.  
+~
+0 0 1
+D1
+~
+~
+0 0 14619
+D2
+~
+~
+0 0 14675
+D3
+~
+~
+0 0 14617
+S
+#14619
+Inside the North-East Gate~
+You are now at the east end of Valdur Crescent.  To the east of you lie
+the biggest gates you have ever seen, well over fifty feet in height.  They
+appear to be made of a kind of enchanted heavy steel, making it a formidable
+blockade for anything trying to get through.  To the south of you is a door,
+leading into a guardhouse.  Valdur Crescent starts towards the west. 
+Towards the east are the city gates and other adventures.  
+~
+0 0 1
+D1
+~
+gate~
+1 0 14620
+D2
+~
+~
+1 0 14698
+D3
+~
+~
+0 0 14618
+S
+#14620
+Outside the North-East Gates~
+You are standing outside the north-east gates of Zebes.  As you survey
+the landscape around you, you see many paths leading off away from the city.
+To the south and west lie the huge gates of Zebes, protecting the city from
+any invaders.  
+~
+0 4 2
+D2
+~
+gate~
+1 0 14621
+D3
+~
+gate~
+1 0 14619
+S
+#14621
+Inside the North-East Gate~
+You are now at one end of Maridion Street, by the North-East Gate. 
+Looking around you, you see some large towering gates to the north of you. 
+They must be over fifty feet high, and almost as wide as you are tall.  They
+occasionally shimmer as a light bounces off the enchanted steel.  You could
+go past the gates if you wish, onto other adventures.  There is also a
+guardhouse to the west of you.  Towards the south lies the rest of Maridion
+Street.  
+~
+0 0 1
+D0
+~
+gate~
+1 0 14620
+D2
+~
+~
+0 0 14622
+D3
+~
+~
+1 0 14698
+S
+#14622
+Intersection of Morentia Avenue and Maridion Street~
+You are walking on the north end of Morentia Avenue.  Part of the city
+walls is to the east of you.  The wall towers up into the sky, so high that
+most of the road is kept in the shadows.  You could walk north towards the
+north-east gates, or to the south down Morentia Avenue.  You could also walk
+to the west, down Maridion Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 14621
+D2
+~
+~
+0 0 14623
+D3
+~
+~
+0 0 14676
+S
+#14623
+Morentia Avenue~
+You are on Morentia Avenue, in the great city of Zebes.  Buildings line
+the street here on the west, with the wall on the east.  On the ground where
+the roadway meets the wall you notice a few small plants growing.  You look
+up and look far to the north, seeing one of the north gates.  Far to the
+south you think you can make out a keep.  
+~
+0 0 1
+E
+plants~
+They are small and green, and quite short, but they seem to be fairing
+quite well.  One looks like a blooming rose, you would pick it, but the
+thorns on it look pretty sharp.  
+~
+E
+rose~
+{r               .
+              {r.{R@{r.                                    .
+              {R@{rm{R@{r,.                                 .{R@
+             {r.{R@{rm{R&{rnm{R@{r,.                            {r.{R@{rm{R@
+            {r.{R@{rnvv{R&{rvnmm{R@{r,.                      {r.{R@{rmn{R&{rn{R@
+           {r.{R@{rmnvvv{R&{rvvnnmm{R@{r,.                {r.{R@{rmmnv{R&{rvn{R@{r,
+           {R@{rmmnnvvv{R&{rvvvvvnnmm{R@{r,.        {r.{R@{rmmnnvvv{R&{rvvnm{R@
+           {R@{rmmnnvvvvv{R&{rvvvvvvnnmm{R@{r, ;;;{R@{rmmnnvvvvv{R&{rvvvnm{R@{r,
+           {r`{R@{rmmnnvvvvvv{R&{rvvvvvnnmmm;;{R@{rmmnnvvvvvv{R&{rvvvvnmm{R@
+            {r`{R@{rmmmnnvvvvvv{R&{rvvvnnmmm;&mmnnvvvvvv{R&{rvvvvnnmm{R@
+              {r`{R@{rm&v&v&v&v{R&{rv;&;&;&;&;&;&;&&&vv{R&{rvvvvnnnmm{R@
+              {r.,mm{R@@@@@{rmm{R&{r;;{R@@{rm{R@{rm{R@@{rm{R@@{rm{R@{rmm;;{R&&{rvvvnnnmm{R@{r;{R@{r,.
+           {r.,{R@{rmmmmmmvv&&;;{R@@{rvmvvvvvvvvvmvm{R@@{r;;{R&&{rvvnnm{R@{r;&mmm{R@{r,
+        {r.,{R@{rmmnnvvvvv&&;;{R@@{rvvvvv{R&&&&&&&{rvvvvmm{R@@{r;;&&mm{R@{r;&&nnnnm{R@{r,
+     {r.,{R@{rmnnvv{R&{rv{R&{rv{R&{rv{R&&{r;;{R@{rmmvvvv{R&&{D;{r*{D;{r*{D;{R&&{rvvvvmmm{R@{r;;{R&{rm;{R&&{rv{R&{rv{R&{rv{R&{rvmm{R@{r,.
+ {r,{R@{rmnnvv{R&{rv{R&{rv{R&{rv{R&{rv{R&{rv{R&{rv{R&{r;;{R@@{rvvvv{R&&{D;{r*{D;{r*{D;{r*{D;{R&&{rvvvvm{R@@{r;;m{R&&&{rv{R&{rv{R&{rv{R&{rv{R&{rv{R&{rvnnm{R@{r,
+      {r`{R@{rmnnvv{R&{rv{R&{rv{R&{rv{R&&{r;;{R@{rmvvvvv{R&&{D;;{r*{D;;{R&&{rvvvmmmm{R@{r;;{R&{rm;{R&&{rv{R&{rv{R&{rv{R&{rvmm{R@{r'
+         {r`{R@{rmmnnvvvvv{R&&{r;;{R@@{rmvvvv{R&&&&&&&{rvvvvmm{R@@{r;;&&mm{R@{r;&&nnnnm{R@{r'
+            {r`{R@{rmmmmmmvv{R&&{r;;{R@@{rmvvvvvvvvvvmmm{R@@{r;;&&mmnmm{R@{r;&mmm{R@{r'
+               {r`mm{R@@@@@{rmm&;;{R@{rm{R@@{rm{R@{rm{R@{rm{R@@{rm{R@@{r;;{R&&{rvvvvvnmm{R@{r;{R@{r'
+              {r,{R@{rm&v&v&v&v{R&{rv;&;&;&;&;&;&;&;&vv{R&{rvvvvvnnmm{R@
+            {r.{R@{rmmnnvvvvvvv{R&{rvvvvnnmm&mmnnvvvvvvv{R&{rvvvvnnmm{R@
+           {r.{R@{rmmnnvvvvvv{R&{rvvvvvvnnmm'`{R@{rmmnnvvvvvv{R&{rvvvnnmm{R@
+           {R@{rmmnnvvvvv{R&{rvvvvvvnnmm{R@{g':{G&{g::{r`{R@{rmmnnvvvv{R&{rvvvnm{R@{r'
+           {R@{rmmnnvvv{R&{rvvvvvnnmm{R@{g'`:::{G&&{g:::{r'`{R@{rmmnnvv{R&{rvvmm{R@
+           {r`{R@{rmnvvv{R&{rvvnnmm{R@{r'     {g`:;{G&&{g;:'     {r`{R@{rmvv{R&{rvm{R@{r'
+            {r`{R@{rmnv{R&{rvnnm{R@{r'          {g`;{G&{g;'         {r`{R@{rn{R&{rn{R@
+             {r`{R@{rm{R&{rmm{R@{r'              {g;{G&{g;.           {r`{R@{rm{R@
+              {R@{rm{R@{r'                 {g`;{G&{g;             {r`{R@
+              {r`@'                   {g;{G&{g;.             {r'  
+               {r`                    {g`;{G&{g;{x        
+~
+D0
+~
+~
+0 0 14622
+D2
+~
+~
+0 0 14624
+S
+#14624
+Morentia Avenue~
+You are somewhere midway in Morentia Avenue.  The wall towers over you to
+the east.  A breeze blows down from the north, making you feel cool and
+relaxed.  Down the road to the south you can see a large keep.  Towards the
+north, on Morentia Avenue, is one of the city's massive gates.  
+~
+0 0 1
+D0
+~
+~
+0 0 14623
+D2
+~
+~
+0 0 14625
+S
+#14625
+Morentia Avenue~
+You are on Morentia Avenue, near the eastern city wall.  The road here
+runs north and south, parallel to the wall.  The lampposts on the street
+glow dimly, providing light that the wall blocks out.  There are a few
+scraps of garbage here on the street, although it seems fairly clean.  You
+notice a heavily worn trough in the stone, probably from some kind of cart. 
+You can go either north or south down Morentia Avenue, or west down a small
+alleyway.  
+~
+0 0 1
+D0
+~
+~
+0 0 14624
+D2
+~
+~
+0 0 14626
+D3
+~
+~
+0 0 14644
+S
+#14626
+Corner of Morentia Avenue and King's Street~
+You are at the end (or the beginning) of Morentia Avenue and King's
+Street.  The eastern wall makes it quite dark here, preventing most of the
+light from the sky from getting to you.  To the south is the moat, which
+runs parallel to the wall, around the side of the Keep.  To the north you
+ccan go down Morentia Avenue, towards the North-East Gate, or you could go
+west down King's Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 14625
+D2
+~
+~
+0 0 14741
+D3
+~
+~
+0 0 14627
+S
+#14627
+King's Street~
+You are on King's Street, towards the eastern portion of it.  The moat to
+the south of you is flowing very slowly, to the point where it is almost
+stagnant.  To the east you can see the end of the road, and with that the
+large eastern wall.  To the west continues King's Street.  
+~
+0 0 1
+D1
+~
+~
+0 0 14626
+D2
+~
+~
+0 0 14740
+D3
+~
+~
+0 0 14628
+S
+#14628
+Before the Moat~
+You are somewhere around the middle of King's Street.  The road is fairly
+wide here, and continues to the east and west.  To the south of you lies a
+large murky moat.  You see some spots where the drawbridge would normally be
+resting, but it happens to be up at the moment.  You consider trying your
+luck swimming, but then you realize it might not be the smartest thing you
+could do.  
+~
+0 0 1
+D1
+~
+~
+0 0 14627
+D3
+~
+~
+0 0 14629
+S
+#14629
+King's Street and Cordenia South~
+You are at the south end of Cordenia, and at a place where the road forks
+down King's Street, or King's Street.  What a choice.  Far off to the north
+lies the Village Square, the very heart of Zebes.  To the south is the
+Naboth River, which also doubles as a moat for the Keep.  Further to the
+east is the markings of the drawbridge of the Keep, and beyond that the
+eastern wall.  King's Street also continues to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 14648
+D1
+~
+~
+0 0 14628
+D2
+~
+~
+0 0 14738
+D3
+~
+~
+0 0 14630
+S
+#14630
+King's Street and Castle Road~
+You are at the intersection of Castle Road and King's Street.  To the
+north are some buildings, although the alleyways between them seem very
+narrow.  As you look to the south-east you can see the Keep, towering up
+higher than the walls.  There seems to be a moat running around it, which is
+part of the Naboth River.  You can go to the south down Castle Road, or
+either east or west down King's Street.  
+~
+0 0 1
+D1
+~
+~
+0 0 14629
+D2
+~
+~
+0 0 14631
+D3
+~
+~
+0 0 14643
+S
+#14631
+On the Bridge of Castle Road~
+You are on Castle Road, on top of a bridge overlooking the Naboth River. 
+The bridge is stone, with a wooden walkway, which creeks as you move across
+it.  The road continues to the north and south.  You look over the west side
+of the bridge and think you could jump into the water.  It would be a nice
+way to beat the heat.  
+~
+0 0 1
+D0
+~
+~
+0 0 14630
+D2
+~
+~
+0 0 14632
+D3
+~
+~
+0 0 14669
+S
+#14632
+Castle Road~
+You are on Castle Road.  The road is made of cobblestone, and must be one
+of the oldest roads in the city.  To the east you can see the Keep, a
+monument of the wars past.  The road continues to the north, to a bridge,
+and to the south, to the southern wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 14631
+D2
+~
+~
+0 0 14633
+S
+#14633
+Corner of Castle Road and Drekmar Road~
+You are at the intersection of Castle Road and Drekmar Road.  To the east
+of you is a large wall, part of the city's Keep.  You can go to the north
+down Castle Road, or to the west down Drekmar Road, towards some of the
+city's gates.  
+~
+0 0 1
+D0
+~
+~
+0 0 14632
+D3
+~
+~
+0 0 14634
+S
+#14634
+Drekmar Road~
+You are on the most southern road in the city, Drekmar Road.  While it is
+away from the core of the city, this road seems heavily used, most likely
+because of the soldiers stationed inside the Keep.  The southern wall is to
+the south of you, rising high into the sky.  You can go to the west down
+Drekmar Road towards a gate, or to the east towards the Keep.  
+~
+0 0 1
+D1
+~
+~
+0 0 14633
+D3
+~
+~
+0 0 14635
+S
+#14635
+Drekmar Road~
+You are on Drekmar Road, in the middle of nowhere so to speak.  There is
+nothing exciting going on here, not even the odd bug crawling on the wall or
+ground.  You look to the east and west and hope there is more excitement
+down Drekmar Road.  
+~
+0 0 1
+D1
+~
+~
+0 0 14634
+D3
+~
+~
+0 0 14636
+S
+#14636
+Drekmar Road~
+You are on Drekmar Road, near the South-West Gate.  The wall to the south
+of you is smooth, with no graffiti on it, quite a rarity.  The road seems
+heavily traveled, and leads in both the east and westerly directions.  
+~
+0 0 1
+D1
+~
+~
+0 0 14635
+D3
+~
+~
+0 0 14609
+S
+#14637
+River Road~
+You are near the west end of River Road.  You can look to the south and
+see the river running, although it looks too far to get to.  The road
+continues east and west, maybe one might be closer to the river.  
+~
+0 0 1
+D1
+~
+~
+0 0 14638
+D3
+~
+~
+0 0 14604
+S
+#14638
+Before the Marina on River Road~
+You are on River Road, near the Marina.  The gardens here are not as lush
+as the ones you see to the east, but they are still breath-taking.  There is
+a ramp to the south, which seems to lead down into the Naboth River. 
+Although, before that you should get a boat at the Marina to the north.  Or
+you could keep your feet dry and stay on River Road, which continues to the
+west and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 14692
+D1
+~
+~
+0 0 14639
+D2
+~
+~
+0 0 14662
+D3
+~
+~
+0 0 14637
+S
+#14639
+River Road~
+You are walking by the River Naboth, on River Road.  The stories of the
+gardens of this place certainly do not do it justice.  The beauty and
+harmony with nature is unsurpassed by anything you have seen before.  River
+Road continues to the east and west.  To the south lies the Old Mill.  
+~
+0 0 1
+D1
+~
+~
+0 0 14640
+D2
+~
+~
+0 0 14665
+D3
+~
+~
+0 0 14638
+S
+#14640
+River Road~
+You are walking somewhere on River Road.  Birds are flying in the sky
+above you, enjoying themselves.  Some land on the nearby trees for a rest,
+while others land on the road to try and eat some leftovers from former
+travelers.  Green plants grow abundantly here, being so close to the water's
+edge.  Towards the south you can hear water, and see a bridge.  You can also
+continue along River Road to the east or west.  
+~
+0 0 1
+D1
+~
+~
+0 0 14670
+D2
+~
+~
+0 0 14641
+D3
+~
+~
+0 0 14639
+S
+#14641
+On a Bridge~
+You are on top of a bridge over the Naboth River.  A distinct gurgling
+sound is coming from under the bridge, as the water churns around the
+pillars.  To the north is River Road, and its wonderful gardens.  To the
+south is King's Street, which eventually leads to the keep.  
+~
+0 0 1
+D0
+~
+~
+0 0 14640
+D2
+~
+~
+0 0 14642
+S
+#14642
+End of King's Street~
+You are now at one end of King's Street.  There isn't much here, other
+than some buildings.  The road bends here, with one way going to the north,
+and the other to the east.  To the north you can hear the river Naboth
+flowing under a bridge.  Towards the east is King's Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 14641
+D1
+~
+~
+0 0 14643
+S
+#14643
+King's Street~
+You are on King's Street, near the west end.  The road here is fairly
+ordinary.  There are no shops, just a couple buildings on each side of the
+road.  To the west is the end of King's Street, which appears to be a dead
+end.  To the east is an intersection with Castle Road.  
+~
+0 0 1
+D1
+~
+~
+0 0 14630
+D3
+~
+~
+0 0 14642
+S
+#14644
+Arbur Alley~
+You are in a narrow alleyway between the buildings, fondly called Arbur
+Alley.  There isn't a lot of room here, just enough for a person, maybe two
+side by side.  To the east you can see Morentia Avenue, and the eastern
+wall.  The alleyway continues to the west.  
+~
+0 9 1
+D1
+~
+~
+0 0 14625
+D3
+~
+~
+0 0 14645
+S
+#14645
+Arbur Alley~
+You are deep inside the darkness of Arbur Alley.  The buildings around
+you block out the light making it very dark here.  You look to the east and
+west and see nothing but darkness.  The sound of water trickling down a
+building is all you hear.  To the north you think you see some light coming
+from the space between the buildings.  
+~
+0 9 1
+D0
+~
+~
+0 0 14695
+D1
+~
+~
+0 0 14644
+D3
+~
+~
+0 0 14646
+S
+#14646
+Arbur Alley~
+You are in a narrow alleyway between the buildings, fondly called Arbur
+Alley.  It is a tight fit here; there is barely enough room for you to walk
+properly.  You can see to the west is Cordenia, and to the east continues
+the alley.  
+~
+0 9 1
+D1
+~
+~
+0 0 14645
+D3
+~
+~
+0 0 14647
+S
+#14647
+Cordenia South~
+You are on Cordenia South, one of the main roads in the city of Zebes. 
+The buildings here are fairly nice, and are probably not much older than
+you.  To the east you see a small alleyway, leading off into the darkness. 
+You can also continue either north or south down Cordenia.  
+~
+0 0 1
+D0
+~
+~
+0 0 14649
+D1
+~
+~
+0 0 14646
+D2
+~
+~
+0 0 14648
+S
+#14648
+Cordenia South~
+You are near the southern end of Cordenia.  The street is empty and quiet
+except for the occasional drip from a pipe.  The quiet sound is almost
+frightening, you want to leave this place, it just seems unnatural.  You
+look around and see that the road continues to the north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 14647
+D2
+~
+~
+0 0 14629
+S
+#14649
+Cordenia South And Kitchnur Street~
+You are on the southern part of Cordenia, just a little south of the
+Village Square.  The road here is narrower than it is to the north, although
+wider than it is to the south.  There are some crowds here, but not enough
+to make you feel uncomfortable.  You manage to catch a glimpse to the south
+and see Cordenia continuing on.  To the west of you is the small street
+Kitchnur.  
+~
+0 0 1
+D0
+~
+~
+0 0 14650
+D2
+~
+~
+0 0 14647
+D3
+~
+~
+0 0 14672
+S
+#14650
+Village Square~
+You are now standing in the very heart of Zebes.  Here is the large town
+square, where the townspeople gather for celebrations and of course
+executions.  As you look around through the crowd on the west wall you see
+the city gallows.  To the north and south lie Cordenia, one of the more
+popular roads.  Off to the west is the hall of healers, where weary
+travelers can refresh themselves from their long journeys.  
+~
+0 262144 1
+D0
+~
+~
+0 0 14651
+D2
+~
+~
+0 0 14649
+D3
+~
+~
+0 0 14661
+S
+#14651
+Cordenia North and Maridion Street~
+You are now on Cordenia North.  A little south of you lies the village
+square for all of Zebes.  The road here is fairly wide, with a sidewalk
+lining each side of the street.  Towards the east lies Maridion Street.  As
+you look towards the north, further down Cordenia North, a glimmer of light
+catches your eye.  Could there be something on the ground?  
+~
+0 0 1
+D0
+~
+~
+0 0 14652
+D1
+~
+~
+0 0 14673
+D2
+~
+~
+0 0 14650
+S
+#14652
+Corner of Cordenia North and Sterling Street~
+You are nearing the end of Cordenia North.  The shadows being cast by the
+surrounding buildings make it quite dark here.  The building to the east is
+exceptionally large and has a large door leading onto the road.  As you look
+westwards, towards Sterling Street, you can see the market.  Towards the
+north the road narrows as it approaches Valdur Cresent.  To the south lies
+more of Cordenia North.  
+~
+0 0 1
+D0
+~
+~
+0 0 14617
+D1
+~
+~
+4 0 14699
+D2
+~
+~
+0 0 14651
+D3
+~
+~
+0 0 14653
+S
+#14653
+Sterling Street~
+You are now on Sterling Street.  The road is crowded with people and
+carts.  To the west you hear the sound of more coins exchanging hands.  You
+look toward the east and see an intersection with Cordenia.  North of you
+lies the famous (or infamous) Rathemon's Potions Palace.  
+~
+0 0 1
+D0
+~
+~
+0 0 14687
+D1
+~
+~
+0 0 14652
+D3
+~
+~
+0 0 14654
+S
+#14654
+Market Square~
+Carts and people are busy all around you, moving, selling and buying
+almost anything imaginable.  This is where most of the merchants from this
+land gather to barter and trade.  The sound of animals, talking and of
+course coins fills the air.  The market seems to continue in all directions,
+through Sterling Street is to the east and west, and to the north, Ruby
+Road.  
+~
+0 0 1
+D0
+~
+~
+0 0 14659
+D1
+~
+~
+0 0 14653
+D2
+~
+~
+0 0 14655
+D3
+~
+~
+0 0 14657
+S
+#14655
+Ruby Road~
+You are on the southern portion of the famous Ruby Road, where the road
+is actually paved with gold.  It was done several hundred years ago, to
+celebrate the homecoming of one of the city's greatest citizens.  Your sense
+of greed seems to be overcoming you as you are shown all the different
+things you can purchase, so long as you have the gold for it.  To the west
+comes the tantalizing smell of baked bread, and to the east lies the tailor
+shop making garments fit for a king.  Northwards lies the market square, and
+to the south you see a beautiful shop full of sparkling jewels.  
+~
+0 0 1
+D0
+~
+~
+0 0 14654
+D1
+~
+~
+0 0 14678
+D2
+~
+~
+0 0 14656
+D3
+~
+~
+0 0 14677
+S
+#14656
+The Jeweler's~
+As you enter the store, a bright light shines into your eyes.  There are
+sparkling gems and bits of gold everywhere.  The walls are covered by fine
+tapestries and little glass display cases line the sides of the store.  This
+seems to be one of the richer jewelers around, and Jubilee's prices reflect
+that.  
+~
+0 8 1
+E
+tapestries~
+{x                           _,,ad8888888888bba,_
+                        ,ad88888I888888888888888ba,
+                      ,88888888I88888888888888888888a,
+                    ,d888888888I8888888888888888888888b,
+                   d88888PP"""" ""YY88888888888888888888b,
+                 ,d88"'__,,--------,,,,.;ZZZY8888888888888,
+                ,8IIl'"                ;;l"ZZZIII8888888888,
+               ,I88l;'                  ;lZZZZZ888III8888888,
+             ,II88Zl;.                  ;llZZZZZ888888I888888,
+            ,II888Zl;.                .;;;;;lllZZZ888888I8888b
+           ,II8888Z;;                 `;;;;;''llZZ8888888I8888,
+           II88888Z;'                        .;lZZZ8888888I888b
+           II88888Z; _,aaa,      .,aaaaa,__.l;llZZZ88888888I888
+           II88888IZZZZZZZZZ,  .ZZZZZZZZZZZZZZ;llZZ88888888I888,
+           II88888IZZ<'(@@>Z|  |ZZZ<'(@@>ZZZZ;;llZZ888888888I88I
+          ,II88888;   `""" ;|  |ZZ; `"""     ;;llZ8888888888I888
+          II888888l            `;;          .;llZZ8888888888I888,
+         ,II888888Z;           ;;;        .;;llZZZ8888888888I888I
+         III888888Zl;    ..,   `;;       ,;;lllZZZ88888888888I888
+         II88888888Z;;...;(_    _)      ,;;;llZZZZ88888888888I888,
+         II88888888Zl;;;;;' `--'Z;.   .,;;;;llZZZZ88888888888I888b
+         ]I888888888Z;;;;'   ";llllll;..;;;lllZZZZ88888888888I8888,
+         II888888888Zl.;;"Y88bd888P";;,..;lllZZZZZ88888888888I8888I
+         II8888888888Zl;.; `"PPP";;;,..;lllZZZZZZZ88888888888I88888
+         II888888888888Zl;;. `;;;l;;;;lllZZZZZZZZW88888888888I88888
+         `II8888888888888Zl;.    ,;;lllZZZZZZZZWMZ88888888888I88888
+          II8888888888888888ZbaalllZZZZZZZZZWWMZZZ8888888888I888888,
+          `II88888888888888888b"WWZZZZZWWWMMZZZZZZI888888888I888888b
+           `II88888888888888888;ZZMMMMMMZZZZZZZZllI888888888I8888888
+            `II8888888888888888 `;lZZZZZZZZZZZlllll888888888I8888888,
+             II8888888888888888, `;lllZZZZllllll;;.Y88888888I8888888b,
+            ,II8888888888888888b   .;;lllllll;;;.;..88888888I88888888b,
+            II888888888888888PZI;.  .`;;;.;;;..; ...88888888I8888888888,
+            II888888888888PZ;;';;.   ;. .;.  .;. .. Y8888888I88888888888b,
+           ,II888888888PZ;;'                        `8888888I8888888888888b,
+           II888888888'                              888888I8888888888888888b
+          ,II888888888                              ,888888I88888888888888888
+         ,d88888888888                              d888888I8888888888ZZZZZZZ
+      ,ad888888888888I                              8888888I8888ZZZZZZZZZZZZZ
+    ,d888888888888888'                              888888IZZZZZZZZZZZZZZZZZZ
+  ,d888888888888P'8P'                               Y888ZZZZZZZZZZZZZZZZZZZZZ
+ ,8888888888888,  "                                 ,ZZZZZZZZZZZZZZZZZZZZZZZZ
+d888888888888888,                                ,ZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+888888888888888888a,      _                    ,ZZZZZZZZZZZZZZZZZZZZ888888888
+888888888888888888888ba,_d'                  ,ZZZZZZZZZZZZZZZZZ88888888888888
+8888888888888888888888888888bbbaaa,,,______,ZZZZZZZZZZZZZZZ888888888888888888
+88888888888888888888888888888888888888888ZZZZZZZZZZZZZZZ888888888888888888888
+8888888888888888888888888888888888888888ZZZZZZZZZZZZZZ88888888888888888888888
+888888888888888888888888888888888888888ZZZZZZZZZZZZZZ888888888888888888888888
+8888888888888888888888888888888888888ZZZZZZZZZZZZZZ88888888888888888888888888
+88888888888888888888888888888888888ZZZZZZZZZZZZZZ8888888888888888888888888888
+
+~
+E
+tapestry~
+{x                           _,,ad8888888888bba,_
+                        ,ad88888I888888888888888ba,
+                      ,88888888I88888888888888888888a,
+                    ,d888888888I8888888888888888888888b,
+                   d88888PP"""" ""YY88888888888888888888b,
+                 ,d88"'__,,--------,,,,.;ZZZY8888888888888,
+                ,8IIl'"                ;;l"ZZZIII8888888888,
+               ,I88l;'                  ;lZZZZZ888III8888888,
+             ,II88Zl;.                  ;llZZZZZ888888I888888,
+            ,II888Zl;.                .;;;;;lllZZZ888888I8888b
+           ,II8888Z;;                 `;;;;;''llZZ8888888I8888,
+           II88888Z;'                        .;lZZZ8888888I888b
+           II88888Z; _,aaa,      .,aaaaa,__.l;llZZZ88888888I888
+           II88888IZZZZZZZZZ,  .ZZZZZZZZZZZZZZ;llZZ88888888I888,
+           II88888IZZ<'(@@>Z|  |ZZZ<'(@@>ZZZZ;;llZZ888888888I88I
+          ,II88888;   `""" ;|  |ZZ; `"""     ;;llZ8888888888I888
+          II888888l            `;;          .;llZZ8888888888I888,
+         ,II888888Z;           ;;;        .;;llZZZ8888888888I888I
+         III888888Zl;    ..,   `;;       ,;;lllZZZ88888888888I888
+         II88888888Z;;...;(_    _)      ,;;;llZZZZ88888888888I888,
+         II88888888Zl;;;;;' `--'Z;.   .,;;;;llZZZZ88888888888I888b
+         ]I888888888Z;;;;'   ";llllll;..;;;lllZZZZ88888888888I8888,
+         II888888888Zl.;;"Y88bd888P";;,..;lllZZZZZ88888888888I8888I
+         II8888888888Zl;.; `"PPP";;;,..;lllZZZZZZZ88888888888I88888
+         II888888888888Zl;;. `;;;l;;;;lllZZZZZZZZW88888888888I88888
+         `II8888888888888Zl;.    ,;;lllZZZZZZZZWMZ88888888888I88888
+          II8888888888888888ZbaalllZZZZZZZZZWWMZZZ8888888888I888888,
+          `II88888888888888888b"WWZZZZZWWWMMZZZZZZI888888888I888888b
+           `II88888888888888888;ZZMMMMMMZZZZZZZZllI888888888I8888888
+            `II8888888888888888 `;lZZZZZZZZZZZlllll888888888I8888888,
+             II8888888888888888, `;lllZZZZllllll;;.Y88888888I8888888b,
+            ,II8888888888888888b   .;;lllllll;;;.;..88888888I88888888b,
+            II888888888888888PZI;.  .`;;;.;;;..; ...88888888I8888888888,
+            II888888888888PZ;;';;.   ;. .;.  .;. .. Y8888888I88888888888b,
+           ,II888888888PZ;;'                        `8888888I8888888888888b,
+           II888888888'                              888888I8888888888888888b
+          ,II888888888                              ,888888I88888888888888888
+         ,d88888888888                              d888888I8888888888ZZZZZZZ
+      ,ad888888888888I                              8888888I8888ZZZZZZZZZZZZZ
+    ,d888888888888888'                              888888IZZZZZZZZZZZZZZZZZZ
+  ,d888888888888P'8P'                               Y888ZZZZZZZZZZZZZZZZZZZZZ
+ ,8888888888888,  "                                 ,ZZZZZZZZZZZZZZZZZZZZZZZZ
+d888888888888888,                                ,ZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+888888888888888888a,      _                    ,ZZZZZZZZZZZZZZZZZZZZ888888888
+888888888888888888888ba,_d'                  ,ZZZZZZZZZZZZZZZZZ88888888888888
+8888888888888888888888888888bbbaaa,,,______,ZZZZZZZZZZZZZZZ888888888888888888
+88888888888888888888888888888888888888888ZZZZZZZZZZZZZZZ888888888888888888888
+8888888888888888888888888888888888888888ZZZZZZZZZZZZZZ88888888888888888888888
+888888888888888888888888888888888888888ZZZZZZZZZZZZZZ888888888888888888888888
+8888888888888888888888888888888888888ZZZZZZZZZZZZZZ88888888888888888888888888
+88888888888888888888888888888888888ZZZZZZZZZZZZZZ8888888888888888888888888888
+ 
+ 
+~
+D0
+~
+~
+0 0 14655
+S
+#14657
+Sterling Street~
+You are on Sterling Street, west of the Market Square.  There are
+merchants and townsfolk hustling and bustling up and down the road.  There
+are crates and barrels on the side of the road, some opened, some not.  As
+you peer to the west you see Sterling Street continuing onwards.  Towards
+the north is a tavern, The Lazy Elf.  To the south of you, screams and whips
+can be heard from the slavery shop.  
+~
+0 0 1
+D0
+~
+~
+0 0 14684
+D1
+~
+~
+0 0 14654
+D2
+~
+~
+0 0 14685
+D3
+~
+~
+0 0 14658
+S
+#14658
+Sterling Street~
+You are near the end of Sterling Street, where it merges with Valdur
+Crescent, which lies to your west.  The street here has some people on it,
+though not nearly as many as you hear coming from the east, further down
+Sterling Street.  Towards the south you see a huge line-up of people.  They
+all seem to be going into the bank, and are waiting calmly in line like
+lambs at the slaughter.  You suppose you could join them, if you don't mind
+waiting a good portion of your life.  Or, you could head off to the north,
+towards the Pearl Casino.  The lights are flashing, and sounds of coins fill
+the air.  Might be worth a quick look.  
+~
+0 0 1
+D0
+~
+~
+0 0 14688
+D1
+~
+~
+0 0 14657
+D2
+~
+~
+0 0 14683
+D3
+~
+~
+0 0 14613
+S
+#14659
+Ruby Road~
+Carts and people are busy all around you, moving, selling and buying
+almost anything imaginable.  This is where most of the merchants from this
+land gather to barter and trade.  The sound of animals, talking and of
+course coins fills the air.  There is a small sign here, maybe you should
+read it.  The market continues to the north and south, while to the west is
+Zebes' general store, and to the east lies the armoury.  
+~
+0 0 1
+E
+sign~
+{x
+{x
+{x
+                      ***
+                      * *
+        ********************************
+        *                              *
+        *   If the street market is    *
+        *   not here, wait around a    *
+        *   bit. They like to appear   *
+        *   if there is a demand in    *
+        *   the early hours of the     *
+        *   morning.                   *
+        *            The Management    *
+        *                              *
+        ********************************
+                      * *
+                      * *
+                      * *
+                      * *
+                      * *
+                      * *
+                      * *
+                      * *
+______________________*_*___________________________
+~
+D0
+~
+~
+0 0 14660
+D1
+~
+~
+0 0 14680
+D2
+~
+~
+0 0 14654
+D3
+~
+~
+0 0 14679
+S
+#14660
+Ruby Road~
+The space here is very cramped, because of the hundreds of people jamming
+the street.  Stalls cover both sides of the street and more have paired up
+along the middle of the street.  There seem to be so many people here, that
+there may not be enough stuff for you.  Better get buying!  As you try and
+look around the crowds of people to the west you think you can make out a
+tiny house with an open door.  Towards the east a large sign is hanging
+showing the entrance to Garumn's Weapons.  Ruby Road continues to the north
+and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 14615
+D1
+~
+~
+0 0 14681
+D2
+~
+~
+0 0 14659
+D3
+~
+~
+0 0 14682
+S
+#14661
+Halls of Healers~
+As you enter the room you feel a sudden calm come over you.  The walls
+seem to radiate a warmth that makes you just want to relax your tired eyes. 
+The entire room is made of marble, yet the marble is warm to the touch. 
+There looks like a nice spot over there on the floor where you could take a
+nap.  
+~
+0 537133064 1
+D1
+~
+~
+0 0 14650
+D3
+~
+~
+4 0 14700
+S
+#14662
+On the Naboth River~
+You're right now floating on the Naboth River.  The cool clean water
+rushes around and under you, slowly pulling you with the current.  To the
+north you can see a large ramp, which leads to the Marina.  Towards the east
+you see an old dock, with an old mill right there on the river.  The river
+flows down to the south and upstream to the west. 
+~
+0 4 7
+D0
+~
+~
+0 0 14638
+D1
+~
+~
+0 0 14665
+D2
+~
+~
+0 0 14664
+D3
+~
+~
+0 0 14663
+S
+#14663
+On the Naboth River~
+You are flowing down the Naboth River.  The water is cool, making you
+feel invigorated.  The river here is flowing slowly, making it easy for you
+to float about.  You can go upstream to the west, or downstream to the east
+or south.  
+~
+0 4 7
+D1
+~
+~
+0 0 14662
+D2
+~
+~
+0 0 14664
+D3
+~
+~
+0 0 14694
+S
+#14664
+On the Naboth River~
+You are floating lazily on the Naboth River.  The river is flowing slowly
+here, and is very clear and very deep.  You think you can see all the way
+down to the bottom, although it looks too deep to dive.  The river goes
+upstream to the north, or you can mosey down it to the south.  
+~
+0 0 7
+D0
+~
+~
+0 0 14662
+D2
+~
+~
+0 0 14666
+S
+#14665
+Before the Old Mill~
+You are now on a rickety old dock, before the old mill.  The wood planks
+are white, from years of the sun bleaching them.  You can hear the sound of
+water rushing by, powering the mill.  To the east are some large doors,
+leading into the mill.  You can walk back on the land, by heading north to
+River Road, or get your feet wet by going west onto the river.  
+~
+0 4 1
+D0
+~
+~
+0 0 14639
+D1
+~
+~
+4 0 14699
+D3
+~
+~
+0 0 14662
+S
+#14666
+On the Naboth River~
+The river is flowing more quickly here, but not fast enough to stop you
+from going where you want.  The top of the water here ripples in your wake,
+making the bottom impossible to see.  The current runs south.  Upstream lies
+to the west.  
+~
+0 0 7
+D2
+~
+~
+0 0 14667
+D3
+~
+~
+0 0 14664
+S
+#14667
+On the Naboth River~
+You are flowing with the Naboth River.  The water is cool, but it feels
+good against your skin, bringing life into your bones once more.  You look
+down and see the occasional fish swimming near the sandy bottom.  The river
+is flowing down to the east, meaning to the north is upstream.  
+~
+0 0 7
+D0
+~
+~
+0 0 14666
+D1
+~
+~
+0 0 14668
+S
+#14668
+On the Naboth River~
+You are bobbing up and down on the Naboth River.  The water gently passes
+you, slowing taking you downstream.  It is very relaxing here in the water,
+you hardly have a care in the world.  You can sit here for a bit, and then
+go east with the current, or paddle back to the west.  
+~
+0 0 7
+D1
+~
+~
+0 0 14669
+D3
+~
+~
+0 0 14667
+S
+#14669
+On the Naboth River~
+The water here is cool, giving new life to your tired body.  The water is
+flowing faster under the bridge to the east.  The banks of the river here
+are very steep, making it impossible to climb up.  You can also try going
+back to the west against the flow.  
+~
+0 0 7
+D1
+~
+~
+0 0 14693
+D3
+~
+~
+0 0 14668
+S
+#14670
+River Road and Kitchnur Street~
+You are at the intersection of Kitchnur Street and River Road.  There are
+a few buildings here, but not nearly as many as towards the north.  It is
+fairly green, and not just from the odd bit of slime but there is the
+occasional tree or patch of grass.  River Road starts towards the west,
+running parallel to the Naboth River.  There are several more trees and
+plants in that direction.  You could also go north, where the greenery ends
+and the core of the city begins.  A small building lies to the east, that
+you could try entering as well.  Plants are growing all over the door, and
+around it, how very odd.  
+~
+0 0 1
+D0
+~
+~
+0 0 14671
+D1
+~
+~
+1 0 14691
+D3
+~
+~
+0 0 14640
+S
+#14671
+Kitchnur Street~
+There is a bend in the road here.  The buildings seem to surround this
+little corner, making you feel claustrophobic.  The pavement is broken and
+cracked here, but it is still useable.  The road goes to the east and to the
+south.  
+~
+0 0 1
+D0
+~
+~
+4 0 14699
+D1
+~
+~
+0 0 14672
+D2
+~
+~
+0 0 14670
+S
+#14672
+Kitchnur Street~
+You are in the middle of Kitchnur Street.  All the buildings look alike,
+thankfully the road is straight, making it difficult to get lost.  Some of
+the windows are open properly, but many have their shutters flapping in the
+breeze.  You don't feel very safe here, maybe you should continue on the
+road to the east or west.  
+~
+0 0 1
+D0
+~
+~
+4 0 14699
+D1
+~
+~
+0 0 14649
+D2
+~
+~
+4 14706 14743
+D3
+~
+~
+0 0 14671
+S
+#14673
+Maridion Street~
+You are near the west end of Maridion Street.  There are buildings on
+either side of the street which continue for a fair ways to the east.  The
+road also continues to the west, but not for very long as it intersects
+Cordenia.  
+~
+0 0 1
+D1
+~
+~
+0 0 14674
+D3
+~
+~
+0 0 14651
+S
+#14674
+Maridion Street~
+You are somewhere about midway on Maridion Street.  The road is fairly
+well kept, and has lampposts on the side to keep the street illuminated
+during the night, and sometimes during the day.  You see many buildings
+around you, although to the north you think you can see a small alleyway
+that you could maybe squeeze into.  The road continues to the east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 14675
+D1
+~
+~
+0 0 14676
+D3
+~
+~
+0 0 14673
+S
+#14675
+In an Alleyway~
+What a tight squeeze!  Amazing you fit in between this building on the
+west, and the guardhouse on the east.  You try to take a look around, but
+have little success as your head doesn't seem to want to turn much in here. 
+There is some trash lining your feet, but you can't quite make out what it
+might be, or was at some point long ago.  Finally you manage to get a
+glimpse of the roads around you.  To the north lies Valdur Crescent, and to
+the south lies Maridion Street.  
+~
+0 537395200 1
+D0
+~
+~
+0 0 14618
+D2
+~
+~
+0 0 14674
+M 90 H 90
+S
+#14676
+Maridion Street~
+What a lovely stroll you are having on Maridion Street.  The road is
+straight and fairly well lit, allowing you to see down to either end.  To
+the east you can see an intersection of this street and another, not to
+mention the large eastern wall.  To the west you can some buildings that
+line the street.  
+~
+0 0 1
+D1
+~
+~
+0 0 14622
+D3
+~
+~
+0 0 14674
+S
+#14677
+The Bakery~
+Yummy!  Nothing beats the smell of freshly baked goods.  Pies are here,
+cooling on the windowsill; breads of all kind can be seen browning in the
+oven.  Apart from the overabundance of breads here, lying every which-way,
+the place seems quite tidy.  
+~
+0 8 1
+D1
+~
+~
+0 0 14655
+S
+#14678
+The Tailor Shop~
+You have entered the local tailor shop.  As you look around, you see many
+pieces of clothing, from the plain and ordinary, to the very expensive and
+fashionable.  There are bits of cloth scattered about in the corner, where
+Jack seems to spend most of his time working.  
+~
+0 8 1
+D3
+~
+~
+0 0 14655
+S
+#14679
+The Zebian Chandelry~
+You have entered the chandelry store.  This store is equipped with
+anything a traveling adventurer, such as yourself, could need.  Ropes, bags,
+tools and even some basic food items are here all lined up on the shelves. 
+Crates lie on the floor, some closed, and some opened, with various things
+protruding from them.  
+~
+0 8 1
+D1
+~
+~
+0 0 14659
+S
+#14680
+Narkon's Armoury~
+You are now inside Narkon's Armoury.  The walls, as expected, are lined
+with old weapons, armour, and coat of arms.  Off to the left, you see some
+full plate-mail suits, and to the right are some chainmail vests.  Narkon is
+ahead of you, polishing some newly-finished armour.  
+~
+0 8 1
+D3
+~
+~
+0 0 14659
+S
+#14681
+Garumn's Weapons~
+You are now inside Garumn's Weapons.  On the walls hang many swords, all
+from various places of this world.  The entire place smells of rust and
+metal polish.  Off in a corner is a large wooden post, with various 'marks'
+on it from customers sampling the merchandise.  You see a large locked
+display case along the back wall, where Garumn keeps many of his custom
+weapons.  The only exit is back the way you came, to the west.  
+~
+0 8 1
+D3
+~
+~
+0 0 14660
+S
+#14682
+Tiania's Magic Shop~
+As you enter the room you notice this place is a lot larger on the inside
+than it looked from the outside.  The ceiling towers high above your head,
+and shimmers as it lights the room.  The walls are painted in a giant mural
+of several of the great battles on Dominia, and are done with exquisite
+detail.  As you look closer, it almost seems like the painting is moving,
+and the battle is being acted out.  A loud sound makes you turn around, and
+you are looking back east, the way you came in.  
+~
+0 536870920 1
+D1
+~
+~
+0 0 14660
+S
+#14683
+The Zebian National Bank~
+As you enter you find yourself trapped in some ropes tied around large
+metal poles.  This rope cage seems to prevent you from walking either right
+or left.  Ahead of you is a long lineup of people, and a lineup is forming
+behind you.  You're trapped!  And all of this to do some banking.  After a
+couple minutes in line Muldin calls you to the desk.  
+~
+0 8 1
+D0
+~
+~
+0 0 14658
+S
+#14684
+The Lazy Elf~
+Welcome to the Lazy Elf!  It is said the tavern was named after the elves
+that spent all their time here, relaxing.  As you enter, the smell of smoke
+and alcohol fills your nose.  Ahead of you is the bar, and Pyrion is there
+serving drinks.  As you look around all you see is mugs of beer and junk. 
+The patrons start to look at you strangely as you continue to stand around
+looking like a lost child, perhaps you should go get yourself a drink.  
+~
+0 8 1
+D2
+~
+~
+0 0 14657
+S
+#14685
+The Slave Trade~
+As you enter you see the far wall, covered in shackles.  Some are empty,
+and others are 'occupied'.  You see some half-starved slaves cowering in the
+corners of the room.  A large groan comes from the back, followed by the
+sound of a whip cracking.  Makes you really appreciate your freedom, doesn't
+it?  Well you're now here, maybe you want to buy a lowly slave to shine your
+shoes or one for more delicate matters.  As long as you have the money,
+Kzaria will be able to find you a perfect match.  
+~
+0 4104 1
+D0
+~
+~
+0 0 14657
+S
+#14686
+Holding Pen~
+If you are in here, you shouldn't be.  Please report it to an immortal as
+soon as possible, explaining how you got here.  
+~
+0 805871628 0
+S
+#14687
+Rathemon's Potion Palace~
+{x {x {x {xWelcome to the Potion Palace!
+     Rathemon is here to make you a deal!
+     And all his prices are a steal!
+     So come on in and look around!
+     You never know what could be found!
+     And please don't be scared by all the commotion!
+     It's just Rathemon giving out a free potion!
+~
+0 8 1
+D2
+~
+~
+0 0 14653
+S
+#14688
+The {WPearl {YCasino{x~
+Welcome to the {WPearl {YCasino{x!  Lights are glimmering all over,
+forcing you to squint to be able to see.  You hear the sound of money being
+collected in metal trays, and the sound of chips hitting each other on the
+poker tables.  There is no shortage of ways here to lighten your wallet. 
+There are slot machines to the west, or high dice towards the east.  The
+exit is back towards the south, but you don't feel like leaving quite yet.  
+~
+0 8 1
+D1
+~
+~
+0 0 14690
+D2
+~
+~
+0 0 14658
+D3
+~
+~
+0 0 14689
+S
+#14689
+By the slots~
+You're now by the slot machines, and the excitement is pulsing through
+you.  The lights are flashing all around you!  All you can hear is the
+wonderful sound of winners, collecting their gold from the slots as they
+keep winning.  You want to be one of them too, why not have a game!  
+~
+0 8 1
+D1
+~
+~
+0 0 14688
+S
+#14690
+Near the tables~
+You are now at the high dice tables.  Everywhere around you are people
+rolling dice.  Some have landed on the floor, making the path very
+treacherous.  You make your way over to a free table, hopefully your luck
+will hold out.  
+~
+0 8 1
+D3
+~
+~
+0 0 14688
+S
+#14691
+Inside the Sweltering Building~
+You are now inside the small building, and as you enter, a wall of heat
+and humidity hits you.  It must be at least twice as hot in here as it is
+outside, and you don't even want to know how humid.  The walls are dripping
+from the condensation, forming pools on the ground.  This place seems to be
+alive, it is covered in plants.  From floor to ceiling, there are vines,
+trees, shrubs, everything.  You really wonder what could have caused this. 
+You see a path leading down into what might be a basement, but you can't be
+sure.  It seems overgrown.  
+~
+0 536870921 1
+D3
+~
+~
+1 0 14670
+S
+#14692
+The Marina~
+You are now entering the Zebian Marina, well its more of a dry-dock. 
+There are many boats here; all of them are different sizes and shapes.  Some
+look more practical than others, some look really good.  One boat looks
+like the head of a dragon, with the scales acting as small sails.  There are
+many workers here unloading goods from the boats, and fixing them up.  You
+can leave this place and head back towards the river to the south.  
+~
+0 0 1
+D2
+~
+~
+0 0 14638
+S
+#14693
+Beneath Castle Road Bridge~
+You are underneath the Castle Road Bridge.  The water here really slows
+down, becoming almost stagnant.  To the east it really doesn't look too
+pleasant.  The stones of the bridge seem to form a natural ledge here.  It
+looks like a nice spot to rest if you want to dry off.  
+~
+0 8 7
+D1
+~
+~
+0 0 14738
+D3
+~
+~
+0 0 14669
+S
+#14694
+Under the Bridge~
+You are under a bridge on Valdur Crescent, flowing with the Naboth River. 
+The water is very cold, but very clean, making you feel refreshed.  You can
+see to the west embedded in the wall is a large grate.  It was likely used
+long ago to prevent attackers from entering the city through the river.  You
+could stay here under the bridge like a troll, or you could go to the east
+down the river.  
+~
+0 9 7
+D1
+~
+~
+0 0 14663
+D3
+~
+~
+4 0 14699
+S
+#14695
+In a Courtyard~
+You are in what appears to be a forested courtyard.  The trees here are
+very old, rising high into the air, blocking out most of the sky.  It is
+very nice in here though, a little cool, but not enough to give you a chill.
+The one thing that is nice is there is actually room here, unlike the narrow
+passageway to the south.  Unfortunately that seems to be the only way out of
+here.  Maybe you should relax here for a bit.  
+~
+0 1 3
+D2
+~
+~
+0 0 14645
+D4
+~
+~
+0 0 14742
+S
+#14696
+Inside the North-West Guardhouse~
+You are now inside the North-West Guardhouse.  It is fairly large on the
+inside here, with lanterns giving off just enough light to see.  You see an
+empty bed on the floor, along with some half-eaten bits of food.  A small
+spiral staircase leads up to a second floor of the tower.  There are doors
+to the west and north, leading outside.  
+~
+0 8 1
+D0
+~
+~
+1 0 14610
+D3
+~
+~
+1 0 14601
+D4
+~
+~
+0 0 14710
+S
+#14697
+Inside the South-West Guardhouse~
+You are now inside the South-West Guardhouse.  It is fairly large on the
+inside here, with lanterns giving off just enough light to see.  You see an
+empty bed on the floor, along with some half-eaten bits of food.  A small
+spiral staircase leads up to a second floor of the tower.  There are doors
+to the west and south, leading outside.
+~
+0 8 1
+D2
+~
+~
+1 0 14609
+D3
+~
+~
+1 0 14607
+D4
+~
+~
+0 0 14716
+S
+#14698
+Inside the North-East Guardhouse~
+You are now inside the North-East Guardhouse.  It is fairly large on the
+inside here, with lanterns giving off just enough light to see.  You see an
+empty bed on the floor, along with some half-eaten bits of food.  A small
+spiral staircase leads up to a second floor of the tower.  There are doors
+to the east and north, leading outside.
+~
+0 8 1
+D0
+~
+~
+1 0 14619
+D1
+~
+~
+1 0 14621
+D4
+~
+~
+0 0 14713
+S
+#14699
+Holding Pen~
+If you can see this, something is wrong.  Please contact an imm about
+this problem and explain how you got here.  
+~
+0 805871628 0
+S
+#14700
+Hall of the Gods~
+You slowly walk into the hall, completely dumbfounded at the sheer size
+of this place.  Slowly, you enter in the center of the hall, and can barely
+see the walls along the sides.  You can't even see what is to the north, it
+is just too far away.  Gigantic columns rise from the floor, shooting high
+into the sky, towards the ceiling.  The floor below you glistens and
+shimmers in the light.  A soft peaceful music fills the room, making you
+relax.  
+~
+0 268967964 0
+E
+columns~
+{x                     _.-"""-._
+                   .'         `.
+                  /             \
+                 |               |
+                 |               |
+                 |               |
+                  \             /                                                                  *           *                               _.-"""-._
+                 _.`.         .'.                            .'         `.
+                |`-._`-.._..-'_.-|                          /             \
+                |  _ `-._ _.-'   |                         |               |
+                | | `-._ " _.-'| |                         |               |
+                | |    || |    | |                         |               |
+                | |    || |    | |                          \             /
+                | |    || |    | |                          _`.         .'.
+                | |    || |    | |                         |`-.`-.._..-'.-'|
+                | |    || |    | |                         |    `-._.-'    |
+                | | _.-'| |_   | |                         | |`-._   _.-'| |
+                | |'_.-'| |_`-.| |                         | |   || |    | |
+               |_.-'    | | `-._ `._|`-._                  | |   || |    | |
+              /    /    | |     ``---._  `-._              | |   || |    | |
+             | / /    .-' `-._|`-._    ``-._ `-._          | |   || |    | |
+            || ||  / /|-| |-._     `-._     `--._`-._|`-._ | |   || |    | |
+               | |   ' || |\  `-._     `-._      ``---._  `| |   || |    | |
+            | - | | |  || | \  | |`-._     `-._|`-._    ``-| |`-.|| |    | |
+        _.-'    |   |  || |  \ | |    `-._          `-._   | |-._ | |._  | |
+    _.-'     |     |   || |   \| |        `-._          `-.| |   `| |_ `-| |
+            |    |  |  || |    | |            `-._       _.| |    | | `.-| |
+            |   |  ||  || |    | |              _.-'|_.-'_.-'     | |_.-'  |
+             | | |  .  || |    | |          _.-' __.---''       _.| '      |
+            |   |  ||  || |    | |\_.-'|_.-'_.-''      _.-'|_.-'        _. |
+             | |  |    || |    | |'      _-        _.-'             _.-' | |
+            ||    ||   || |_.-'| |_.---''      _.-'             _  |     | |
+    \          | |  |  || |_.-'| |    _.-'|_.-'             _.-'|| |     | |
+     \      |  ||    .'_| |    | |_.-'                  _.-'| | || |     | |
+      \     | |     |._ | |    | `-._               _.-'    | | || |     | |
+       \    ||  |  |   `| |    ```-._`-._|`-._  _.-'        | | || |     | |
+       |\_.-|       |      `-._      ``---._  `-._          | | || |     | |
+       |     |                 `-._|`-._    ``-._ `-._      | | || |     | |
+       |    || ||  |                    `-._     `--._`-._|`| | || |     | |
+       |       | |  |                       `-._      ``---.| |`|| |     | |
+       |    |   | | |`-._                       `-._|`-._   | |-.| |-._  | |
+       |        |      ||`-._                            `-.| |  | |._ `-| |
+       |    |    |  |  || |  `-._                         _.| |  | |  `-_| |
+       |    |   |  ||__ | |    | `-._            _.-'|_.-'_.-'   | |_.-'   |
+       |     | | |  ._.-| |.   | |   `-._    _.-' __.---''      _|         |
+       |    |   |  ||/  | | \  | |  _.-'|_.-'_.-''     _.-'|_.-'           |
+       |    ||    ||    | |  .'| |-' __.---''      _.-'                    |
+       |       | |  |   |.|   '| |-''     _.-'|_.-'                        |
+       |    |  ||  _.   | |  | | |    _.-'                                 |
+       |    | |  '  |   | |    | |_.-'                                     |
+       |    ||  |  | \  | | / _| '                                      _.-'
+       |_.-'     |   _`.| |'-'                                      _.-'
+       |`-._          _.|                                       _.-'
+       |    `-._  _.-'                                      _.-'
+       |        |'                                      _.-'
+       |        |                                   _.-'
+       |        |                               _.-'
+       |        |                           _.-'
+       |        |                       _.-'
+       |        |                   _.-'
+       |        |               _.-'
+    _  |        |           _.-'
+     `-|_       |       _.-'
+         `-._   |   _.-'
+     VK      `-.|.-'
+~
+E
+floor~
+It looks like a giant slab of the finest opal that has been polished
+extensively.  
+~
+D0
+~
+~
+0 0 14701
+D1
+~
+~
+4 0 14661
+M 500 H 500
+S
+#14701
+Hall of the Gods~
+You are now inside the dwelling of a god.  The walls are white and give
+off a faint light.  Large columns reach from the marble floors up high to
+the ceiling above you.  The ceiling is swirling and rippling as you stare at
+it, as if it leads to another plane.  You can see the walls moving, forming
+doors as you look about the room.  The sheer size and beauty of this place
+gives you a feeling of awe, and makes you feel a little more humble.  
+~
+0 268967964 0
+E
+ceiling~
+{x                        ...     .....xxxxxxxxxx.....x##****#x..x#***#x..x#*
+{x  ...                        .....xxxxxxx####****##x....x#***#x..x#**#x..x#
+{x ...                       ...................xx#****#x...x#***#...x#**#...
+{x....   ...                       .....xxxxxxxx....x#****#x..x#**#x..x#**#..
+{x...   ....    ..               .....xxxx###*****#x...x#***#...x#*#x...###x.
+{x... ......  ....                ............xx#****#x..x#**#x..x#*#x...x##x
+{x..  .....  .....  ....              ...xxxxx....x#***x...x#*#x..x###x..xx##
+{x.. ...... .....  .....   ..        ...xx##****#x..x#**#...x###...x##x...x##
+{x....xx......x.. ...... .....         .....xx#***x...###x...x##x...x#xx...xx
+{x....xx.....xx.....xx........  ....    ..xx...x###x...x#x....xxx....xxx...xx
+{x...xxxx...xxx....xxx....xx.....xx.. .. .**#x...xxx....xx....xxx....xxx....x
+{x...xxxx...x#x....x#x...x##x...x##x..x#**.......xxx...x##x...x##x..x##x...x#
+{x...x##x...x##x...x##x..x###x..x#*#x...xx.    ........xxx....xxx...xx#x...x#
+{xx..x###...x##x...x##x...#**#x..x***#x....      ..  .........xx....xxx....xx
+{xx...x##x..x#*#x..x#**x..x#**#x..x#***##xx...       ..... ...x.....xxx....xx
+{x#x..x#*#x..x#*#x..x#**#...#***#x....xxxx...         .    .....  ..x......xx
+{x*#...x**#x..x**#x..x#**#x..x#****#xx......              .....  ...... .....
+{x**x...#**#x..x***x...#***#x...x##**###xxx......               .....  ......
+{x#**x..x#**#x..x#**#x..x#****#x.....xxxxx.....                 ....  ...... 
+{xx#**#...#***x..x#***#x...x#****#xx......... ....                   .....   
+{x.x#**#x..x***#x..x#***#x....x########xxxxx........                 ...    .
+{x..x#***x..x#***#x..x#****#xx......xxxxxxx......                          ..
+~
+D1
+~
+~
+0 0 14706
+D2
+~
+~
+0 0 14700
+D3
+~
+~
+0 0 14702
+M 500 H 500
+S
+#14702
+Stryder's Chambers~
+As you enter, the door seals up in behind you, leaving a seam-less wall. 
+Looking around the chamber, it seems quite large, but still cozy.  A large
+bed is in here, with a canopy overhanging covering it.  Against one wall a
+fireplace roars away, giving everything a warm glow.  The entire room then
+slowly fades away, making it seem you're on a beach, in a forest or wherever
+your heart desires.  It all makes you feel happy and content, just watching
+the scene play itself out.  Although you know you never leave, as you can
+still see the fireplace where it should be, burning brightly.  
+~
+0 268972060 0
+E
+clans~
+Justice Hall - 10754
+Kenshi Hall  - 1253
+Kindred Hall - 10604
+Seeker Hall  - 10804
+Venari Hall  - 10654
+Justice Outpost - 31092
+Kenshi Outpost  - 3366
+Kindred Outpost - 31089
+Seeker Outpost  - 31084
+Venari Outpost  - 3362
+~
+E
+rooms~
+Justice Hall - 10754
+Kenshi Hall  - 1253
+Kindred Hall - 10604
+Seeker Hall  - 10804
+Venari Hall  - 10654
+Justice Outpost - 31092
+Kenshi Outpost  - 3366
+Kindred Outpost - 31089
+Seeker Outpost  - 31084
+Venari Outpost  - 3362
+~
+E
+fireplace~
+{x   _________________ 
+{x  ||               ||
+{x  ||      {Y)  '{x     ||
+{x  ||    {r( {R(){Y\{r({x     ||
+{x  ||  {R( ,{Y|{R,({rX{R)'{x    ||
+{x  || {R/,{r)/{R|{r`{R\``{r\\\{x  ||
+{x  ''---------------'' 
+{x  . - ------------ . 
+{x{y(( (((  (( ))) ))))  ){x
+{x{W  `  -   ----     - '{x
+~
+E
+canopy~
+It stetches from the ceiling down to the floor, cloaking the bed
+completely.  It glistens in the light, as you see that it isn't any fabric
+you've ever seen.  It seems to flow as you look at it.  You finally realize
+that it isn't cloth, but a stream of water, like a small waterfall
+surrounding the bed.  As you touch it to move it out of the way, it parts
+away from your hand, keeping you dry.  
+~
+E
+bed~
+It is fairly large, surely more than enough room for one person.  The
+frame is a dark red wood, with intricate patters covering it.  The bedsheets
+are fairly thin, but there appear to be many layers.  Pillows are at the
+head of the bed, and again at the foot of the bed, providing a nice place to
+sit and relax.  A large canopy draps overtop of the bed.  
+~
+D0
+~
+~
+1 0 14703
+D1
+~
+~
+1 0 14701
+M 500 H 500
+S
+#14703
+At the Edge of the forest~
+You look around and see a magical forest.  While you have little idea
+where this place came from, which is a little alarming, you manage to relax
+and enjoy the view.  You can hear the sounds of wild animals off in the
+distance.  Above you, circling, is Ariana, a rather large falcon.  
+~
+0 269000708 3
+S
+#14704
+Stryder's Shotgun Weddings~
+The inside of the chapel is beautiful.  There are Christmas lights
+strung from the walls and stapled onto the ceiling.  Some ribbons that have
+now lost their luster now dangle from the walls.  The air is full of a thick
+smoke, which was most likely caused by the organ player's constant smoking. 
+The red carpet leading up to the 'altar' is in fairly good shape, with only
+the occasional stain or broken bit of glass on it.  This looks like the
+perfect place to get married!  
+~
+0 268959756 1
+S
+#14705
+Along the King's Way~
+There are trees on both sides of the path as you enter the woods.  The
+Way continues to the north into the forest, or south towards the
+intersection with Zoo Road.  
+~
+0 0 3
+D0
+~
+~
+0 0 14749
+D2
+~
+~
+0 0 10964
+S
+#14706
+Stryder's Den~
+You are now inside Stryder's Den.  The walls are lined with books, many
+of them dusty.  The floor is mahogany, matching the bookshelves.  There is a
+rather imposing desk in the corner, which is in the process of creating its
+own ecosystem.  And for some reason, which will never be explained, cubes
+float high in the air, giving off a warm glow.  
+~
+0 268967964 0
+E
+skull~
+{W             .AMMMMMMMMMMA.          
+           .AV. :::.:.:.::MA.        
+          A' :..        : .:`A       
+         A'..              . `A.     
+        A' :.    :::::::::  : :`A    
+        M  .    :::.:.:.:::  . .M    
+        M  :   ::.:.....::.:   .M    
+        V : :.::.:........:.:  :V    
+       A  A:    ..:...:...:.   A A   
+      .V  MA:.....:M.::.::. .:AM.M   
+     A'  .VMMMMMMMMM:.:AMMMMMMMV: A  
+    :M .  .`VMMMMMMV.:A `VMMMMV .:M: 
+     V.:.  ..`VMMMV.:AM..`VMV' .: V  
+      V.  .:. .....:AMMA. . .:. .V   
+       VMM...: ...:.MMMM.: .: MMV    
+           `VM: . ..M.:M..:::M'      
+             `M::. .:.... .::M       
+              M:.  :. .... ..M       
+     VK       V:  M:. M. :M .V       
+              `V.:M.. M. :M.V'{x       
+~
+E
+desk~
+There is a fairly large and sturdy desk here.  It is made of a deep red
+coloured wood, which goes very well with the room The desk is covered in
+papers, ranging from "How to take over the World" to "Mom's Chocolate Cookie
+Recipe."  There is a small skull shaped paperweight on some of the papers,
+keeping them from blowing away.  In one corner of the desk is a small
+computer, churning its CPU away at some problem (and having some problems
+with it too).  There are some drawers in the desk, but you really don't have
+the need or inkling to see what they contain.  
+~
+E
+computer~
+\                 \
+            \         ..      \
+             \       /  `-.--.___ __.-.___
+     `-.      \     /  #   `-._.-'    \   `--.__
+        `-.        /  ####    /   ###  \        `.
+     ________     /  #### ############  |       _|           .'
+                 |\ #### ##############  \__.--' |    /    .'
+                 | ####################  |       |   /   .'
+                 | #### ###############  |       |  /
+                 | #### ###############  |      /|      ----
+               . | #### ###############  |    .'<    ____
+             .'  | ####################  | _.'-'\|
+           .'    |   ##################  |       |
+                  `.   ################  |       |
+                    `.    ############   |       | ----
+                   ___`.     #####     _..____.-'     .
+                  |`-._ `-._       _.-'    \\\         `.
+               .'`-._  `-._ `-._.-'`--.___.-' \          `.
+             .' .. . `-._  `-._        ___.---'|   \   \
+           .' .. . .. .  `-._  `-.__.-'        |    \   \
+          |`-. . ..  . .. .  `-._|             |     \   \
+          |   `-._ . ..  . ..   .'            _|
+           `-._   `-._ . ..   .' |      __.--'
+               `-._   `-._  .' .'|__.--'
+                   `-._   `' .'
+                       `-._.'                        VK
+~
+E
+cubes~
+{x           ____________
+          /\  ________ \
+         /  \ \______/\ \
+        / /\ \ \  / /\ \ \
+       / / /\ \ \/ / /\ \ \
+      / / /__\_\/ / /__\_\ \
+     / /_/______\/_/________\
+     \ \ \______/\ \______  /
+      \ \ \  / /\ \ \  / / /
+       \ \ \/ / /\ \ \/ / /
+        \ \/ / /__\_\/ / /
+         \  / /______\/ /
+     VK   \/___________/
+~
+D3
+~
+~
+0 0 14701
+S
+#14707
+Along the King's Way~
+Many small flowers are growing along the path in amongst the stones lines
+of well placed stones.  The path continues to the north towards a city, or
+to the south towards a forest.  
+~
+0 0 2
+D0
+~
+~
+0 0 14608
+D2
+~
+~
+0 0 14708
+S
+#14708
+Along the King's Way~
+A warm breeze brushes against your face, feeling quite nice.  The forest
+is starting to thin out as you approach a city to the north.  King's Way
+also continues to the south.  
+~
+0 0 3
+D0
+~
+~
+0 0 14707
+D2
+~
+~
+0 0 14709
+S
+#14709
+Along the King's Way~
+The path here is fairly well worn, but it appears to be kept up by the
+King's subjects.  The forest continues to your east and west, and the path
+continues to the north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 14708
+D2
+~
+~
+0 0 14747
+S
+#14710
+In the Upper North-West Turret~
+You're now in the upper floor of the turret.  The floorboards
+occasionally squeak as you walk on them.  The walls of the room are all
+stone, keeping the harsh elements at bay outside.  You can see doors to the
+north and west leading up onto the wall.  
+~
+0 8 1
+D0
+~
+~
+1 0 14711
+D3
+~
+~
+1 0 14712
+D5
+~
+~
+0 0 14696
+S
+#14711
+On the North Wall~
+You are on the Northern Wall of Zebes.  This is the city's defense
+against the outside world.  On many historic occasions these walls have
+protected the city and its citizens.  They seem to still be in great shape,
+especially given their age.  You can see the lands of Dominia to the north. 
+To the east and west continues the path of the North Wall.  There is a door
+leading into the Turret to the south.  
+~
+0 0 1
+D1
+~
+~
+0 0 14731
+D2
+~
+~
+1 0 14710
+D3
+~
+~
+0 0 14732
+S
+#14712
+On the West Wall~
+You are on the Western Wall of the city.  The wind howls by you, almost
+blowing you over.  In the wind is carried the odd leaf, blown from the
+forests to the west.  You try and find shelter behind the crenels, although
+they do very little.  You could try moving either north or south where the
+wind isn't as fierce, or go into the turret to the east.  
+~
+0 0 1
+E
+forest~
+{             WWW  {Ww{DW{Ww          {Ww{DW{Ww          
+          {WWW{DWWWWWWW{WWw       {WWW{DW{WWWw                    {Ww     {WwwW{DW{WWww
+         {WwW{DWWW{WWwW{DW{WWw      {WwW{DWWWWW{WWw          {Www{Dw     {Ww{DW{Www wwWWW{DWW{WWWW
+          {WwWWw   {Ww       {WwW{DWWWWW{WWw          {Www{DWW{Ww   {WwW{DWWWW{WWW{DWWWW{WWWw
+                          {Ww{DW{Ww {Ww{DW{Ww          {Www{DWWW{WWww   {WW{DWW{WW WWW{DW{WWWW 
+                                             {Ww{DW{WWww     {WWW    {WWWWW
+                              {G$$$$${x
+  {g***                        {G$$$$$$$ {g****      {G###
+{g#{g*****{G%%%%      {g&&&        {g###{G$$$$$${g******   {G######       {g#####
+{g###{g&&{G%%%%%%{g### {g&&&&&     {g######{G**{G%%%%{g****{G$$${G########   {g$$$${g#####  {G&&&&{x
+{G**{g&&&&{G****{g#####{G***{g&&&  {G***{g##{G&&{g##{G***{G%%%{g*{G$$$$$$${G#####   {g$$$$$${G%%{g###{G&&&&&{x
+{G***{g%%{G******{G%%%{g##{G***{g&& {G*****{G&&&&&{G**{g#####{G$$$$$$$${g&&&&&{G****{g$$${G%%%%{g###{G&&&&{x
+{G&&{g%%%%%{g###{G%%%%%{g#{G*{G&&&{g####{G**{g$$$$${G&&{g#######{G$$$$$$${g%%{g&&&&{G*****{G&&&&&%%%%%{g$${x
+{G&&&{g%%%{G***{g##{G%%%{G###{G&&&&&{g###{g$$$$$$${g#########{G$$$$${g%%{G*** {g##{G*{g##{G&&&&&&&%%%{g$$${x
+{G&&{g###{G***&&&{g#{G%{G#####{G&&&&&{g###{g$$$$${g###########{G$$${g%%{G****{g######{g$$${G&&&{g#{G****{g$${x
+{G&{g#####{G*{g&&&&&{G#######{g$${G###{g****{G&&&&{g#########{x| |{g&&&{G***{g########{g$$$&{g##{G*****{g${x
+{g######{g&&&&&&&{G#####{g$$$${G###{g**{G&&&&&&${x\{g###{x/{g# {x| {g&&&&&{G***{g######{g$$$$${g#{G******{g${x
+|{G#{x| |{G#{x|{g&&&&&{x| |{G#{x|{g$$$$$${G##{g*{G&&&&&&&$${x| |   | {g&&&&&{x|{G***|{g###{x |{g${x|| |{g#{G****{x |
+| | | ||| ||| | |{g$$$$${x|{G#{x|{g*{x|{G&&&&&$$ {x| |   | ||{g&&{x | | | |  | || | |||| |
+| | | ||| ||| | | | | | | | | | || | |   | || | | | | |  | || | |||| |
+| | |/  | ||| | | | | | | | | | || | |   | || | | | | |  | || | |||| |
+| | |   | |||/   \| | | | | | | ||/ m \  | || | | | | |  | || | |||| |
+|/   \  | |||     | | |/   \| | ||       | || |/   \| |  | ||/   |||/
+ \     /   \ \   /   \ \   /   \  \     /   \  \   /   \/   \\  /  \
+~
+D0
+~
+~
+0 0 14732
+D1
+~
+~
+1 0 14710
+D2
+~
+~
+0 0 14733
+S
+#14713
+In the Upper North-East Turret~
+You are now on the upper floor of the turret.  The floor is old and worn,
+but seems fairly sturdy.  You can see some stairs leading down, to the
+ground level.  Stone walls completely enclose the room, making it rather
+claustrophobic.  There are however two breaks in it, one to the north, and
+the other to the east where doors lead out of this room.  
+~
+0 8 1
+D0
+~
+~
+1 0 14714
+D1
+~
+~
+1 0 14715
+D5
+~
+~
+0 0 14698
+S
+#14714
+On the North Wall~
+You are standing on the North Wall.  The wind blows across your face as
+you gaze off into the distance.  Before you lie undiscovered lands, full of
+splendor and beauty.  The stone of the wall is grey and old.  In the
+occasional spot some moss or lichen grows, adding some colour to the
+otherwise grey surroundings.  The wall continues to the east and west.  A
+door lies to the south, leading into the turret.  
+~
+0 0 1
+D1
+~
+~
+0 0 14727
+D2
+~
+~
+1 0 14713
+D3
+~
+~
+0 0 14728
+S
+#14715
+On the East Wall~
+You are the the one of the walls of the city Zebes.  You can hear the
+wind blowing by you.  Although it is being blocked by the turret to the west
+of you.  There is a door, which seems to be inviting you inside.  You can
+continue north and south on the East Wall as well.  
+~
+0 0 1
+D0
+~
+~
+0 0 14727
+D2
+~
+~
+0 0 14723
+D3
+~
+~
+1 0 14713
+S
+#14716
+In the Upper South-West Turret~
+You're now above the guardhouse in the upper section of the turret.  The
+floorboards creak beneath you, but you are fairly confident (and hopeful)
+that they will not break.  You see a staircase leading downstairs, to the
+guardhouse.  To the south and west you can see doors in the stone walls of
+the turret, leading to the walls of the city.  
+~
+0 8 1
+D2
+~
+~
+1 0 14718
+D3
+~
+~
+1 0 14717
+D5
+~
+~
+0 0 14697
+S
+#14717
+On the West Wall~
+You are on the Western Wall, near the southern end of it.  There is a
+door to the east of you, leading into a turret.  A small crack is in the
+ground, with a small plant growing out of it.  The wall continues to the
+north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 14736
+D1
+~
+~
+1 0 14716
+D2
+~
+~
+0 0 14737
+S
+#14718
+On the South Wall~
+You are standing on the South Wall.  The wind blows across your face as
+you gaze off into the distance.  You can see for miles all around you.  The
+stone of the wall is grey and old.  In the occasional spot some moss or
+lichen grows, adding some colour to the otherwise grey surroundings.  The
+wall continues to the east and west.  A door lies to the north, leading into
+the turret.  
+~
+0 0 1
+D0
+~
+~
+1 0 14716
+D1
+~
+~
+0 0 14719
+D3
+~
+~
+0 0 14737
+S
+#14719
+On the South Wall~
+You are walking on the South Wall of Zebes.  The wall is made of large
+stones, and has a very smooth path on it, from years of patrols passing
+here.  As you look between the crenels to the south of you, the countryside
+shows itself, and continues for miles on end.  To the north is the city; you
+can even make out some people down below you, although they look about the
+size of ants.  You can continue along the wall to the west or east.  
+~
+0 0 1
+D1
+~
+~
+0 0 14720
+D3
+~
+~
+0 0 14718
+S
+#14720
+On the South Wall~
+You are now on part of the South Wall of Zebes.  The stone of the wall is
+cold to the touch, and hasn't moved in hundreds of years of being here.  All
+that time has taken a bit of a toll on it though; there are now some signs
+of wear.  The floor is polished, and some of the limestone has seeped out of
+the wall.  This limestone reformed, as it trickled down the walls, into
+columns that resemble stalactites which are embedded into the wall.  To the
+south you feel a gentle breeze blowing on your face, as you overlook part of
+Dominia.  The wall continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 14721
+D3
+~
+~
+0 0 14719
+S
+#14721
+On the South Wall~
+You are walking on the South Wall.  You look over one side of the wall to
+the north and see the city of Zebes, with its mazes of streets and alleys. 
+Over to the south you can see some forests and plains, scattered about
+Dominia.  The wall continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 14722
+D3
+~
+~
+0 0 14720
+S
+#14722
+On the South Wall~
+You are at the end of the South Wall.  Before you to the east lies the
+Keep of Zebes.  There is a large door, which seems to be bolted shut,
+leading into it.  You look over the wall to the south and can see King's Way
+stretched out like line down Dominia.  To the north you can see the Naboth
+River flowing towards the front of the Keep.  You can head back to the west,
+down the wall.  
+~
+0 0 1
+D1
+~
+~
+4 0 14699
+D3
+~
+~
+0 0 14721
+S
+#14723
+On the East Wall~
+You are now walking on the East Wall of Zebes.  The stone below your feet
+is smooth from years of wear.  The wall looks fairly thick from this
+perspective, at least ten cubits deep.  Peeking between the crenels of the
+wall, to the east, lie the lands of Dominia, spanning on for miles on end. 
+Such a view just inspires you, as if new life was being breathed into your
+soul.  To the west is the city, with all of its tiny people scurrying about,
+between the buildings.  You can continue along the wall to the north or
+south.  
+~
+0 0 1
+D0
+~
+~
+0 0 14715
+D2
+~
+~
+0 0 14724
+S
+#14724
+On the East Wall~
+You are walking on the East Wall of Zebes.  The wall is made of large
+stones, and has a very smooth path on it from years of patrols passing here.
+As you look between the crenels to the east of you, the countryside shows
+itself, and continues for miles on end.  To the west is the city; you can
+even make out some people down below you, although they look about the size
+of ants.  You can continue along the wall to the north or south.  
+~
+0 0 1
+D0
+~
+~
+0 0 14723
+D2
+~
+~
+0 0 14725
+S
+#14725
+On the East Wall~
+You are now on part of the East Wall of Zebes.  As you continue walking,
+your hand brushes up against the wall, which gently cools your hand.  The
+wall feels very smooth for stone, probably due to the years of wear.  You
+can see the occasional white streak running down the wall, the result of
+minerals running out of the stone.  A gentle breeze blows from the east, as
+you overlook part of Dominia.  The wall continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 14724
+D2
+~
+~
+0 0 14726
+S
+#14726
+On the East Wall~
+You are at the end of the East Wall.  Before you, to the south, lies the
+Keep of Zebes.  A large bolted door stops your entrance into the Keep.  You
+look over the wall to the east and see parts of Dominia, that have yet to be
+explored.  To the west, far down below, you can see the moat going around
+the Keep.  You can also go back up to the north, up the East Wall.  
+~
+0 0 1
+D0
+~
+~
+0 0 14725
+D2
+~
+~
+4 0 14699
+S
+#14727
+Above the North-East Entrance~
+You are at the corner of the North and East Walls.  The ground is raised
+a little here above the rest of the wall, making it easier to look down on
+the people below.  On the ground you can see some murder holes that are
+ideal for pouring boiling oil and water on potential invaders of the city. 
+You can go either south or west, along the walls.  
+~
+0 0 1
+D2
+~
+~
+0 0 14715
+D3
+~
+~
+0 0 14714
+D5
+~
+~
+0 0 14620
+S
+#14728
+On the North Wall~
+You are standing on the walkway on top of the North Wall.  Unlike the
+rest of the wall here, the footing is wood.  It seems as if it is covering
+something up, but you can't see between the boards.  The wall goes up just
+past your waist to the north, stopping you from falling off.  You can
+continue either east of west along the wall.  
+~
+0 0 1
+D1
+~
+~
+0 0 14714
+D3
+~
+~
+0 0 14729
+D5
+~
+walkway~
+4 0 14699
+S
+#14729
+On the North Wall~
+You are now on part of the North Wall of Zebes.  The stone of the wall is
+cold to the touch, and hasn't moved in hundreds of years of being here.  All
+that time has taken a bit of a toll on it though; there are now some signs
+of wear.  The floor is polished, and some of the limestone has seeped out of
+the wall.  This limestone reformed, as it trickled down the walls, into
+columns that resemble stalactites which are embedded into the wall.  To the
+north you feel a gentle breeze blowing on your face, as you overlook part of
+Dominia.  The wall continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 14728
+D3
+~
+~
+0 0 14730
+S
+#14730
+On the North Wall~
+You are somewhere on the North Wall of Zebes.  To the north you can see
+out onto the land of Dominia.  As you look down at the wall you can make out
+the occasional separation between stones.  Although, most of them seem to be
+filled in now from bits of dust, leaving a large smooth surface.  You can
+continue across the wall to the east or west.  
+~
+0 0 1
+D1
+~
+~
+0 0 14729
+D3
+~
+~
+0 0 14731
+S
+#14731
+On the North Wall~
+You are walking on the North Wall of Zebes.  The wall is made of large
+stones, and has a very smooth path on it, from years of patrols passing
+here.  As you look between the crenels to the north of you, the countryside
+shows itself, and continues for miles on end.  To the south is the city; you
+can even make out some people down below you, although they look about the
+size of ants.  You can continue along the wall to the east or west.  
+~
+0 0 1
+D1
+~
+~
+0 0 14730
+D3
+~
+~
+0 0 14711
+S
+#14732
+Above the North-West Entrance~
+You're now at the corner of the walls, where the north and west walls
+meet.  The floor is a little raised here, giving you a clear view of the
+north and west walls, as well as the surrounding countryside.  In the floor
+are a couple holes, which were made to throw items and pour boiling liquids
+on the invaders of the city.  You can go either east or south down the city
+walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 14711
+D2
+~
+~
+0 0 14712
+D5
+~
+~
+0 0 14600
+S
+#14733
+On the West Wall~
+You are on top of the West Wall right now.  You can see the tops of
+buildings from the city towards the east.  There is a ledge to the west,
+protecting you from going over the wall, especially when those large gusts
+of wind take you by surprize.  The wall continues towards the north and
+south.  
+~
+0 0 1
+E
+forest~
+{             WWW  {Ww{DW{Ww          {Ww{DW{Ww          
+          {WWW{DWWWWWWW{WWw       {WWW{DW{WWWw                    {Ww     {WwwW{DW{WWww
+         {WwW{DWWW{WWwW{DW{WWw      {WwW{DWWWWW{WWw          {Www{Dw     {Ww{DW{Www wwWWW{DWW{WWWW
+          {WwWWw   {Ww       {WwW{DWWWWW{WWw          {Www{DWW{Ww   {WwW{DWWWW{WWW{DWWWW{WWWw
+                          {Ww{DW{Ww {Ww{DW{Ww          {Www{DWWW{WWww   {WW{DWW{WW WWW{DW{WWWW 
+                                             {Ww{DW{WWww     {WWW    {WWWWW
+                              {G$$$$${x
+  {g***                        {G$$$$$$$ {g****      {G###
+{g#{g*****{G%%%%      {g&&&        {g###{G$$$$$${g******   {G######       {g#####
+{g###{g&&{G%%%%%%{g### {g&&&&&     {g######{G**{G%%%%{g****{G$$${G########   {g$$$${g#####  {G&&&&{x
+{G**{g&&&&{G****{g#####{G***{g&&&  {G***{g##{G&&{g##{G***{G%%%{g*{G$$$$$$${G#####   {g$$$$$${G%%{g###{G&&&&&{x
+{G***{g%%{G******{G%%%{g##{G***{g&& {G*****{G&&&&&{G**{g#####{G$$$$$$$${g&&&&&{G****{g$$${G%%%%{g###{G&&&&{x
+{G&&{g%%%%%{g###{G%%%%%{g#{G*{G&&&{g####{G**{g$$$$${G&&{g#######{G$$$$$$${g%%{g&&&&{G*****{G&&&&&%%%%%{g$${x
+{G&&&{g%%%{G***{g##{G%%%{G###{G&&&&&{g###{g$$$$$$${g#########{G$$$$${g%%{G*** {g##{G*{g##{G&&&&&&&%%%{g$$${x
+{G&&{g###{G***&&&{g#{G%{G#####{G&&&&&{g###{g$$$$${g###########{G$$${g%%{G****{g######{g$$${G&&&{g#{G****{g$${x
+{G&{g#####{G*{g&&&&&{G#######{g$${G###{g****{G&&&&{g#########{x| |{g&&&{G***{g########{g$$$&{g##{G*****{g${x
+{g######{g&&&&&&&{G#####{g$$$${G###{g**{G&&&&&&${x\{g###{x/{g# {x| {g&&&&&{G***{g######{g$$$$${g#{G******{g${x
+|{G#{x| |{G#{x|{g&&&&&{x| |{G#{x|{g$$$$$${G##{g*{G&&&&&&&$${x| |   | {g&&&&&{x|{G***|{g###{x |{g${x|| |{g#{G****{x |
+| | | ||| ||| | |{g$$$$${x|{G#{x|{g*{x|{G&&&&&$$ {x| |   | ||{g&&{x | | | |  | || | |||| |
+| | | ||| ||| | | | | | | | | | || | |   | || | | | | |  | || | |||| |
+| | |/  | ||| | | | | | | | | | || | |   | || | | | | |  | || | |||| |
+| | |   | |||/   \| | | | | | | ||/ m \  | || | | | | |  | || | |||| |
+|/   \  | |||     | | |/   \| | ||       | || |/   \| |  | ||/   |||/
+ \     /   \ \   /   \ \   /   \  \     /   \  \   /   \/   \\  /  \
+~
+D0
+~
+~
+0 0 14712
+D2
+~
+~
+0 0 14734
+S
+#14734
+On the West Wall~
+You are walking on the West Wall of Zebes.  The wall is made of large
+stones, and has a very smooth path on it, from years of patrols passing
+here.  As you look between the crenels to the west of you, the countryside
+shows itself, and continues for miles on end.  To the east is the city; you
+can even make out some people down below you, although they look about the
+size of ants.  You can continue along the wall to the north or south.  
+~
+0 0 1
+E
+forest~
+{             WWW  {Ww{DW{Ww          {Ww{DW{Ww          
+          {WWW{DWWWWWWW{WWw       {WWW{DW{WWWw                    {Ww     {WwwW{DW{WWww
+         {WwW{DWWW{WWwW{DW{WWw      {WwW{DWWWWW{WWw          {Www{Dw     {Ww{DW{Www wwWWW{DWW{WWWW
+          {WwWWw   {Ww       {WwW{DWWWWW{WWw          {Www{DWW{Ww   {WwW{DWWWW{WWW{DWWWW{WWWw
+                          {Ww{DW{Ww {Ww{DW{Ww          {Www{DWWW{WWww   {WW{DWW{WW WWW{DW{WWWW 
+                                             {Ww{DW{WWww     {WWW    {WWWWW
+                              {G$$$$${x
+  {g***                        {G$$$$$$$ {g****      {G###
+{g#{g*****{G%%%%      {g&&&        {g###{G$$$$$${g******   {G######       {g#####
+{g###{g&&{G%%%%%%{g### {g&&&&&     {g######{G**{G%%%%{g****{G$$${G########   {g$$$${g#####  {G&&&&{x
+{G**{g&&&&{G****{g#####{G***{g&&&  {G***{g##{G&&{g##{G***{G%%%{g*{G$$$$$$${G#####   {g$$$$$${G%%{g###{G&&&&&{x
+{G***{g%%{G******{G%%%{g##{G***{g&& {G*****{G&&&&&{G**{g#####{G$$$$$$$${g&&&&&{G****{g$$${G%%%%{g###{G&&&&{x
+{G&&{g%%%%%{g###{G%%%%%{g#{G*{G&&&{g####{G**{g$$$$${G&&{g#######{G$$$$$$${g%%{g&&&&{G*****{G&&&&&%%%%%{g$${x
+{G&&&{g%%%{G***{g##{G%%%{G###{G&&&&&{g###{g$$$$$$${g#########{G$$$$${g%%{G*** {g##{G*{g##{G&&&&&&&%%%{g$$${x
+{G&&{g###{G***&&&{g#{G%{G#####{G&&&&&{g###{g$$$$${g###########{G$$${g%%{G****{g######{g$$${G&&&{g#{G****{g$${x
+{G&{g#####{G*{g&&&&&{G#######{g$${G###{g****{G&&&&{g#########{x| |{g&&&{G***{g########{g$$$&{g##{G*****{g${x
+{g######{g&&&&&&&{G#####{g$$$${G###{g**{G&&&&&&${x\{g###{x/{g# {x| {g&&&&&{G***{g######{g$$$$${g#{G******{g${x
+|{G#{x| |{G#{x|{g&&&&&{x| |{G#{x|{g$$$$$${G##{g*{G&&&&&&&$${x| |   | {g&&&&&{x|{G***|{g###{x |{g${x|| |{g#{G****{x |
+| | | ||| ||| | |{g$$$$${x|{G#{x|{g*{x|{G&&&&&$$ {x| |   | ||{g&&{x | | | |  | || | |||| |
+| | | ||| ||| | | | | | | | | | || | |   | || | | | | |  | || | |||| |
+| | |/  | ||| | | | | | | | | | || | |   | || | | | | |  | || | |||| |
+| | |   | |||/   \| | | | | | | ||/ m \  | || | | | | |  | || | |||| |
+|/   \  | |||     | | |/   \| | ||       | || |/   \| |  | ||/   |||/
+ \     /   \ \   /   \ \   /   \  \     /   \  \   /   \/   \\  /  \
+~
+D0
+~
+~
+0 0 14733
+D2
+~
+~
+0 0 14735
+S
+#14735
+On the West Wall~
+You are walking on the West Wall.  You look over one side of the wall to
+the east and see the city of Zebes, with its mazes of streets and alleys. 
+Over to the west you can see some forests and plains, scattered about
+Dominia.  The wall continues to the north and south.  
+~
+0 0 1
+E
+forest~
+{             WWW  {Ww{DW{Ww          {Ww{DW{Ww          
+          {WWW{DWWWWWWW{WWw       {WWW{DW{WWWw                    {Ww     {WwwW{DW{WWww
+         {WwW{DWWW{WWwW{DW{WWw      {WwW{DWWWWW{WWw          {Www{Dw     {Ww{DW{Www wwWWW{DWW{WWWW
+          {WwWWw   {Ww       {WwW{DWWWWW{WWw          {Www{DWW{Ww   {WwW{DWWWW{WWW{DWWWW{WWWw
+                          {Ww{DW{Ww {Ww{DW{Ww          {Www{DWWW{WWww   {WW{DWW{WW WWW{DW{WWWW 
+                                             {Ww{DW{WWww     {WWW    {WWWWW
+                              {G$$$$${x
+  {g***                        {G$$$$$$$ {g****      {G###
+{g#{g*****{G%%%%      {g&&&        {g###{G$$$$$${g******   {G######       {g#####
+{g###{g&&{G%%%%%%{g### {g&&&&&     {g######{G**{G%%%%{g****{G$$${G########   {g$$$${g#####  {G&&&&{x
+{G**{g&&&&{G****{g#####{G***{g&&&  {G***{g##{G&&{g##{G***{G%%%{g*{G$$$$$$${G#####   {g$$$$$${G%%{g###{G&&&&&{x
+{G***{g%%{G******{G%%%{g##{G***{g&& {G*****{G&&&&&{G**{g#####{G$$$$$$$${g&&&&&{G****{g$$${G%%%%{g###{G&&&&{x
+{G&&{g%%%%%{g###{G%%%%%{g#{G*{G&&&{g####{G**{g$$$$${G&&{g#######{G$$$$$$${g%%{g&&&&{G*****{G&&&&&%%%%%{g$${x
+{G&&&{g%%%{G***{g##{G%%%{G###{G&&&&&{g###{g$$$$$$${g#########{G$$$$${g%%{G*** {g##{G*{g##{G&&&&&&&%%%{g$$${x
+{G&&{g###{G***&&&{g#{G%{G#####{G&&&&&{g###{g$$$$${g###########{G$$${g%%{G****{g######{g$$${G&&&{g#{G****{g$${x
+{G&{g#####{G*{g&&&&&{G#######{g$${G###{g****{G&&&&{g#########{x| |{g&&&{G***{g########{g$$$&{g##{G*****{g${x
+{g######{g&&&&&&&{G#####{g$$$${G###{g**{G&&&&&&${x\{g###{x/{g# {x| {g&&&&&{G***{g######{g$$$$${g#{G******{g${x
+|{G#{x| |{G#{x|{g&&&&&{x| |{G#{x|{g$$$$$${G##{g*{G&&&&&&&$${x| |   | {g&&&&&{x|{G***|{g###{x |{g${x|| |{g#{G****{x |
+| | | ||| ||| | |{g$$$$${x|{G#{x|{g*{x|{G&&&&&$$ {x| |   | ||{g&&{x | | | |  | || | |||| |
+| | | ||| ||| | | | | | | | | | || | |   | || | | | | |  | || | |||| |
+| | |/  | ||| | | | | | | | | | || | |   | || | | | | |  | || | |||| |
+| | |   | |||/   \| | | | | | | ||/ m \  | || | | | | |  | || | |||| |
+|/   \  | |||     | | |/   \| | ||       | || |/   \| |  | ||/   |||/
+ \     /   \ \   /   \ \   /   \  \     /   \  \   /   \/   \\  /  \
+~
+D0
+~
+~
+0 0 14734
+D2
+~
+~
+0 0 14736
+S
+#14736
+On the West Wall~
+You are now on part of the West Wall of Zebes.  The stone of the wall is
+cold to the touch, and hasn't moved in hundreds of years of being here.  All
+that time has taken a bit of a toll on it though; there are now some signs
+of wear.  The floor is polished, and some of the limestone has seeped out of
+the wall.  This limestone reformed, as it trickled down the walls, into
+columns that resemble stalactites which are embedded into the wall.  To the
+west you feel a gentle breeze blowing on your face, as you overlook part of
+Dominia.  The wall continues to the north and south.  
+~
+0 0 1
+E
+forest~
+{             WWW  {Ww{DW{Ww          {Ww{DW{Ww          
+          {WWW{DWWWWWWW{WWw       {WWW{DW{WWWw                    {Ww     {WwwW{DW{WWww
+         {WwW{DWWW{WWwW{DW{WWw      {WwW{DWWWWW{WWw          {Www{Dw     {Ww{DW{Www wwWWW{DWW{WWWW
+          {WwWWw   {Ww       {WwW{DWWWWW{WWw          {Www{DWW{Ww   {WwW{DWWWW{WWW{DWWWW{WWWw
+                          {Ww{DW{Ww {Ww{DW{Ww          {Www{DWWW{WWww   {WW{DWW{WW WWW{DW{WWWW 
+                                             {Ww{DW{WWww     {WWW    {WWWWW
+                              {G$$$$${x
+  {g***                        {G$$$$$$$ {g****      {G###
+{g#{g*****{G%%%%      {g&&&        {g###{G$$$$$${g******   {G######       {g#####
+{g###{g&&{G%%%%%%{g### {g&&&&&     {g######{G**{G%%%%{g****{G$$${G########   {g$$$${g#####  {G&&&&{x
+{G**{g&&&&{G****{g#####{G***{g&&&  {G***{g##{G&&{g##{G***{G%%%{g*{G$$$$$$${G#####   {g$$$$$${G%%{g###{G&&&&&{x
+{G***{g%%{G******{G%%%{g##{G***{g&& {G*****{G&&&&&{G**{g#####{G$$$$$$$${g&&&&&{G****{g$$${G%%%%{g###{G&&&&{x
+{G&&{g%%%%%{g###{G%%%%%{g#{G*{G&&&{g####{G**{g$$$$${G&&{g#######{G$$$$$$${g%%{g&&&&{G*****{G&&&&&%%%%%{g$${x
+{G&&&{g%%%{G***{g##{G%%%{G###{G&&&&&{g###{g$$$$$$${g#########{G$$$$${g%%{G*** {g##{G*{g##{G&&&&&&&%%%{g$$${x
+{G&&{g###{G***&&&{g#{G%{G#####{G&&&&&{g###{g$$$$${g###########{G$$${g%%{G****{g######{g$$${G&&&{g#{G****{g$${x
+{G&{g#####{G*{g&&&&&{G#######{g$${G###{g****{G&&&&{g#########{x| |{g&&&{G***{g########{g$$$&{g##{G*****{g${x
+{g######{g&&&&&&&{G#####{g$$$${G###{g**{G&&&&&&${x\{g###{x/{g# {x| {g&&&&&{G***{g######{g$$$$${g#{G******{g${x
+|{G#{x| |{G#{x|{g&&&&&{x| |{G#{x|{g$$$$$${G##{g*{G&&&&&&&$${x| |   | {g&&&&&{x|{G***|{g###{x |{g${x|| |{g#{G****{x |
+| | | ||| ||| | |{g$$$$${x|{G#{x|{g*{x|{G&&&&&$$ {x| |   | ||{g&&{x | | | |  | || | |||| |
+| | | ||| ||| | | | | | | | | | || | |   | || | | | | |  | || | |||| |
+| | |/  | ||| | | | | | | | | | || | |   | || | | | | |  | || | |||| |
+| | |   | |||/   \| | | | | | | ||/ m \  | || | | | | |  | || | |||| |
+|/   \  | |||     | | |/   \| | ||       | || |/   \| |  | ||/   |||/
+ \     /   \ \   /   \ \   /   \  \     /   \  \   /   \/   \\  /  \
+~
+D0
+~
+~
+0 0 14735
+D2
+~
+~
+0 0 14717
+S
+#14737
+Above the South-West Entrance~
+You are at the corner where the south and west walls meet.  You step up
+onto the raised floor here, which gives you a better view of your
+surroundings.  You can see the tops of many of the buildings in the city. 
+To the far east you can see the Keep of the city, towering over everything. 
+There are some small holes in the platform, which lead down to the gate,
+making it possible for the guards to attack invaders from above.  You can
+continue along the west wall to the north, or the south wall to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 14717
+D1
+~
+~
+0 0 14718
+D5
+~
+~
+0 0 14608
+S
+#14738
+On the Moat~
+You are now on the moat, before the Keep.  The water here has a nice
+healthy green hue to it, are you really sure you want to be swimming here? 
+The Keep is just to the south of you, and its steep walls make it impossible
+for you to climb out on that side of the moat.  Luckily, to the north you
+think you can make it up the steep bank onto the roadway.  This thing called
+a moat continues on to the east, or leads to fresher waters to the west.  
+~
+0 4 7
+D0
+~
+~
+0 0 14629
+D1
+~
+~
+0 0 14739
+D3
+~
+~
+0 0 14693
+S
+#14739
+On the Moat~
+You're on the moat before the Zebian Keep.  It is there to the south of
+you, reaching high into the sky.  You can see where the drawbridge meets
+with the ground to the north, and the reinforcing that has occurred has made
+the river bank impossible to climb up.  You guess you could sit here for a
+bit, or continue on the moat to the east or west.  
+~
+0 0 7
+D1
+~
+~
+0 0 14740
+D3
+~
+~
+0 0 14738
+S
+#14740
+On the Moat~
+The murky green water of the moat slowly swirls as you pass by it.  Heat
+slowly radiates off the stone from the Keep, warming you and the water.  The
+bank to the north looks rather steep but climbable.  You can also float to
+the east or west.  
+~
+0 4 7
+D0
+~
+~
+0 0 14627
+D1
+~
+~
+0 0 14741
+D3
+~
+~
+0 0 14739
+S
+#14741
+On the Moat~
+You are at the end of the Moat.  The water slowly trickles out of the
+gate for the river to the east.  You can see the Keep to the south of you,
+attaching to the east wall of the city.  To the north you can't see much,
+but you think there might be something neat past the bank.  Then of course,
+you could laze around here for a bit longer.  
+~
+0 4 7
+D0
+~
+~
+0 0 14626
+D1
+~
+river-gate~
+4 0 14699
+D3
+~
+~
+0 0 14740
+S
+#14742
+In a tree~
+As you make it to the top of the tree, you find a little branch that you
+can stand on.  You make the mistake of looking down...  Always a mistake,
+and almost lose your balance.  The canopy of leaves is still above your
+head, protecting you somewhat from the elements.  You take in a deep breath
+of fresh air, and relax.  Gazing around you happen to see small flowers
+growing out of the tree.  One of them seems to be closed, wonder what is
+inside.  
+~
+0 4 3
+D5
+~
+~
+0 0 14695
+S
+#14743
+Inside an old building~
+As you enter the building a cobweb hits you in the face.  It looks like
+this place hasn't seen the light of day in ages.  The air seems stale, or it
+could be all the dust you are inhaling.  On the floor there seems to be some
+junk, but it is hard to tell beneath the cobwebs and dust.  
+~
+0 537919501 0
+D0
+~
+~
+4 14706 14672
+S
+#14744
+An alchemist's hidden lair~
+Through the floating dust you can make out the basic outline of the room.
+There appears to be some bookcases lining the walls, but the cobwebs
+covering them are so think you can't make out the titles.  There are seven
+large pillars embedded into the walls, circling the room.  Each seems to be
+made of a different substance.  The floor, even though there are layers of
+dust on it still shimmers brightly.  A large table resides off to a corner
+of the room.  Something about this place just doesn't look quite right.  Who
+would leave all of this without any defense?  
+~
+0 806887437 0
+E
+columns~
+As you look closer you can see each column goes from the floor up to the
+ceiling, and arches towards this glowing ball in the middle of the room. 
+You look at one of them and can see the grain of what appears to be wood. 
+It is brownish-red in colour, and has a nice glossy finish.  The next column
+looks as if it really isn't there.  You can make out an outline, but that is
+about it.  As you reach you hand to touch it, it passes through it and you
+feel a slight breeze on your hand.  Walking over to the next column you see
+it is a dull green colour.  The closer you get towards it the hotter and
+more feverish you feel.  You had better stay away from that one.  The next
+column looks like it was once metal, but is now all rusted and decayed. 
+Moving over to the next one, it looks like a little waterfall.  You can hear
+the rushing of water as it travels up from the floor towards the ceiling. 
+Approaching the next you put your hand infront of your eyes to stop the
+glare.  Light just pours from this column illuminating a good deal of the
+area around it.  The last column is covered in...  Well everything!  Plants
+are growing from it, insects are crawling on it, it looks quite alive.  You
+wonder curiously why this room is so strangely constructed.  
+~
+E
+pillars~
+As you look closer you can see each column goes from the floor up to the
+ceiling, and arches towards this glowing ball in the middle of the room. 
+You look at one of them and can see the grain of what appears to be wood. 
+It is brownish-red in colour, and has a nice glossy finish.  The next column
+looks as if it really isn't there.  You can make out an outline, but that is
+about it.  As you reach you hand to touch it, it passes through it and you
+feel a slight breeze on your hand.  Walking over to the next column you see
+it is a dull green colour.  The closer you get towards it the hotter and
+~
+D2
+~
+wall~
+4 0 14746
+S
+#14745
+Somewhere in the city of Zebes~
+If you can read this... there is a problem. Contact an imm.
+~
+0 268967936 1
+D0
+~
+~
+0 0 14636
+D1
+~
+~
+0 0 14633
+D2
+~
+~
+0 0 14632
+D3
+~
+~
+0 0 14635
+D4
+~
+~
+0 0 14631
+D5
+~
+~
+0 0 14630
+S
+#14746
+Darting through the crack in the wall~
+There seems to be just enough room here to squeeze by.  It is really
+narrow here, so your shoulders are rubbing against the walls.  Towards the
+south you can see a faint light, it must be better than staying here.  
+~
+0 806887437 0
+D0
+~
+~
+4 14707 14744
+D2
+~
+~
+0 0 14630
+S
+#14747
+Along the King's Way~
+Along both sides of the path are a continuing line of stones.  The lack of
+growth on the path indicates that the forest is allowed to grow freely so
+long as the path remains clear.  The lines of stones and the path continue
+to the north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 14709
+D2
+~
+~
+0 0 14748
+S
+#14748
+Along the King's Way~
+Even though the forest is continually growing, the path is very clear. 
+No branches are in the way, nor are there any roots coming up from the
+ground.  The Way continues to the north or south.  
+~
+0 0 3
+D0
+~
+~
+0 0 14747
+D2
+~
+~
+0 0 14749
+S
+#14749
+Along the King's Way~
+Trees tower high above you as you continue on King's Way.  The trees are
+too dense here for you to wander off of the path.  You can continue either
+north or south on King's Way.  
+~
+0 0 3
+D0
+~
+~
+0 0 14748
+D2
+~
+~
+0 0 14705
+S
+#0
+
+
+
+#SPECIALS
+M 14600 spec_poison Load to: Zebith
+M 14601 spec_cast_adept Load to: Aurian
+M 14607 spec_cast_mage Load to: Tiania
+M 14701 spec_breath_gas Load to: Ariana
+M 14702 spec_king_of_the_hill Load to: the hill
+S
+
+
+
+#MOBPROGS
+#14621
+if carries $i ispeoplenotpresent
+   else
+   mob remember $r
+   mob echo The room is collapsing!
+   mob echoat $q You get hit with some falling debris! Ouch that REALLY did hurt!
+   mob echoaround $q $q is hit with some falling debris!
+   mob damage $q 5 40
+   mob forget
+  endif
+if ispc $r
+ if isdelay $i
+  else
+   if carries $i qqqkey
+   else
+   mob junk ispeoplenotpresent
+   mob echo You hear the grinding of gears off in the distance.
+   mob delay 10
+  endif
+ endif
+ else
+  if carries $i qqqkey
+  mob oload 14710 0
+  mob goto 14746
+  close north
+  lock north
+  mob junk qqqkey
+  mob goto 14744
+ endif
+endif
+~
+A
+#14620
+mob echoat $n You sprint towards the inside of the crack!
+mob echoat $n {x
+mob transfer $n 14746
+mob force $n look
+mob goto 14746
+mob echoat $n {x
+mob echoat $n Behind you the wall is slowly closing up! You keep running!
+mob echoat $n {x
+mob goto 14744
+mob transfer $n 14630
+mob force $n look
+~
+A
+#14697
+if isdelay $i
+else
+say Why thank you! It is very kind of you.
+say For your kindness, you shall be rewarded.
+say Climb up the trees here, for your reward.
+emote start to slowly eat his bread.
+mob junk bread
+mob goto 14742
+if ispc $r
+else
+open flower
+mob oload 14691 0
+put "shard life" flower
+close flower
+mob goto 14695
+mob delay 75
+endif
+endif
+~
+A
+#14698
+eat bread
+~
+A
+#14612
+mob oload 14683 1 room
+~
+A
+#14611
+if iskiller $n
+mob zecho {rZebith yells '$n is a {RKILLER{r! Be prepared to face my wrath!'{x
+mob kill $n
+else
+if isthief $n
+mob zecho {rZebith yells '$n is a petty {YTHIEF{r! Be prepared to pay for your crimes!'{x
+mob kill $n
+else
+mob echoat $n {yZebith says 'Welcome to Zebes $n, I hope you enjoy your stay.'{x
+endif
+endif
+~
+A
+#14653
+~
+A
+#14652
+~
+A
+#14651
+if objhere 14689
+ mob purge "shard rain"
+ mob echo You see the shard slowly lose its shape, and return to the water.
+endif
+~
+A
+#14650
+mob oload 14689 0 room
+mob asound You hear a sudden gurgling come from the river... and a sudden rush of water surges past you.
+mob echo You see something slowly take form from the water, as a swell rushes past you.
+~
+A
+#14610
+emote takes out a needle and thread, and begins to sew.
+~
+A
+#14609
+emote swears and screams!
+mob echo It seems he has pricked himself.
+~
+A
+#14608
+mob delay 7
+~
+A
+#14607
+say You know I saw the strangest thing the other day.
+say I saw a bright light appear over the river.
+say I think it happened midday, I wonder what it could be.
+mob cancel
+~
+A
+#14606
+if hour == 11
+if carries $i rain
+else
+mobgoto 14664
+if objhere 14689
+else
+if ispc $r
+mob goto 14666
+if ispc $r
+goto 14699
+else
+mob goto 14666
+mob oload 14689 0 room
+mob asound You hear a sudden gurgling come from the river... and a sudden rush of water surges past you.
+mob echo You see something slowly take form from the water, as a swell rushes past you.
+endif
+else
+mob goto 14664
+mob oload 14689 0 room
+mob asound You hear a sudden gurgling come from the river... and a sudden rush of water surges past you.
+mob echo You see something slowly take form from the water, as a swell rushes past you.
+endif
+mob goto 14699
+endif
+mob oload 14689 1
+endif
+endif
+if hour == 14
+if carries $i rain
+mob goto 14666
+mob call 14651
+mob goto 14664
+mob call 14651
+mob goto 14699
+drop shard
+endif
+endif
+~
+A
+#14605
+emote wipes his brow, coving his forehead in flour.
+~
+A
+#14709
+say Justice Outpost - 31092
+mob transfer $n 31092
+~
+A
+#14708
+say Kindred Outpost - 31089
+mob transfer $n 31089
+~
+A
+#14707
+say Seeker Outpost - 31084
+mob transfer $n 31084
+~
+A
+#14706
+say Kenshi Outpost - 3366
+mob transfer $n 3366
+~
+A
+#14705
+say Venari Outpost - 3362
+mob transfer $n 3362
+~
+A
+#14704
+say Justice Hall - 10754
+mob transfer $n 10754
+~
+A
+#14703
+say Kenshi Hall - 1253
+mob transfer $n 1253
+~
+A
+#14702
+say Kindred Hall - 10604
+mob transfer $n 10604
+~
+A
+#14701
+say Seeker Hall - 10804
+mob transfer $n 10804
+~
+A
+#14700
+say Venari Hall - 10654
+mob transfer $n 10654
+~
+A
+#14600
+if isimmort $n
+say Greetings mighty $n! I just got your 'special' order.
+grin
+else
+if sex $n < 2
+say Welcome to my Shop! Here, have a free sample of one of my many potions.
+mob oload 14603 1
+give sample $n
+else
+say Welcome to my Shop! Here is a present for such a lovely lady.
+mob oload 14604 1
+give sample $n
+beam $n
+endif
+endif
+~
+A
+#14601
+mob echoat $n Silly you! Posts can't die! Although you could keep hacking away at it.
+mob echoaround $n How silly, $n tried to kill a post! Don't they know that posts can't die?
+mob mload 14626
+mob goto 14699
+~
+A
+#14602
+mob oload 14683 0 room
+mob echo A piece of the post breaks off and falls to the floor!
+mob echo And another "notch" is made in the post.
+mob goto 14681
+mob cast heal
+~
+A
+#14699
+mob echoat $n You feel yourself being shot out!
+mob echoaround $n BOOM{*!        What in the world was that?
+mob transfer $n 15340
+mob force $n look
+mob transfer $n 15341
+mob force $n look
+mob transfer $n 10903
+mob force $n look
+mob transfer $n 10902
+mob force $n look
+mob transfer $n 10901
+mob force $n look
+mob transfer $n 31019
+mob force $n look
+mob transfer $n 31017
+mob force $n look
+mob transfer $n 31015
+mob force $n look
+mob transfer $n 31013
+mob force $n look
+mob transfer $n 31011
+mob force $n look
+mob transfer $n 31008
+mob force $n look
+mob transfer $n 31005
+mob force $n look
+mob transfer $n 31000
+mob force $n look
+mob transfer $n 31003
+mob force $n look
+mob transfer $n 31006
+mob force $n look
+mob transfer $n 31009
+mob force $n look
+mob transfer $n 31012
+mob force $n look
+mob transfer $n 31014
+mob force $n look
+mob transfer $n 31016
+mob force $n look
+mob transfer $n 31018
+mob force $n look
+mob transfer $n 31043
+mob force $n look
+mob transfer $n 31042
+mob force $n look
+mob transfer $n 1953
+mob force $n look
+mob transfer $n 1951
+mob force $n look
+mob transfer $n 1950
+mob force $n look
+mob transfer $n 1949
+mob force $n look
+mob transfer $n 1942
+mob force $n look
+mob transfer $n 1938
+mob force $n look
+mob transfer $n 1936
+mob force $n look
+mob transfer $n 1901
+mob force $n look
+mob transfer $n 1900
+mob echoat $n You hit the wall with a LARGE thump! That REALLY did HURT!
+mob echoaround $n $n hits the wall with a LARGE thump! That looked REALLY painful!
+mob force $n look
+~
+A
+#14603
+if rand 10
+ if room $i == 14699
+  if hour == 6
+   mob goto 14659
+   mob echo A large cart rolls in, and Tobsnim hops out, and begins to set up shop.
+  endif
+ endif
+endif
+if room $i == 14659
+ if hour >= 19
+  mob echo Tobsnim's cart slowly pulls away, heading out of the city.
+  mob goto 14699
+ endif
+endif
+~
+A
+#14604
+if sex $n < 2
+say Hello, can I give you a hand looking around?
+smile $n
+else
+say Welcome $n, I just got in some new stuff which is absolutely FABULOUS! Take a look.
+endif
+~
+A
+#14710
+~
+A
+#14613
+mob echo And another notch is made in the post.
+mob oload 14716 1
+mob goto 14699
+mob cast heal
+mob delay 16
+~
+A
+#14696
+mob cancel
+~
+A
+#14614
+say He did? Well its been a while since I last saw him, so I should pay him a visit sometime. Now, where was that house...
+mob delay 2
+~
+A
+#14615
+give $o $n
+mob echoat $n Since when can you give things to a post?
+drop all
+~
+A
+#14616
+say Well thanks very much, and now I shall tell you a story of my youth.
+emote takes a sip of his mead.
+say When I was a young lad, my friend and I played in an abandoned house in town. We got into all kinds of trouble there, heh. I remember one time we went there and the floor almost collapsed beneath us. We were too scared
+say to stick around after that, but I remember seeing, through the dust, an almost magical room below. Although all these years of have dulled my memory. Wait! I have an idea, go tell my friend Oldarin
+say that "Malgoar was wondering if you remember where that old house is, the one with the bad floor." I am sure he knows. Anyways, I must be off. I have many mode adventures to go on.
+emote stands up.
+emote leaves to the south.
+mob goto 14699
+drop all
+mob purge $i
+~
+A
+#14617
+say Oh yes! It was on Kitchnur Street, although I don't know why you'd want to go to a place like that.
+say Well I must be off, good luck to you.
+mob goto 14743
+mob oload 14706
+unlock north
+mob goto 14745
+mob junk zzzkey
+mob cancel
+~
+A
+#14618
+if isdelay $i
+else
+if ispc $r
+mob delay 4
+mob echo You hear the creaking of floorboards beneath you.
+endif
+endif
+~
+A
+#14619
+mob echo You hear some wood splinter. It sounds as if it is coming from the floor!
+mob echo The floor collapses and you fall with it!
+mob transfer all 14744
+~
+A
+#14622
+mob echo You hear a large explosion!
+mob echo The wall to the south blows apart, revealing a crack!
+mob goto 14746
+mob oload 14707
+unlock north
+open north
+mob goto 14744
+mob cancel
+~
+A
+#14623
+mob goto 14681
+mob purge "woodene post"
+mob cancel
+~
+A
+#14711
+mob oload 14716 1
+sa k
+~
+A
+#14749
+~
+N
+#0
+
+#RESETS
+D 0 14601 1 1
+D 0 14603 1 2
+D 0 14607 1 1
+D 0 14609 0 1
+D 0 14610 2 1
+D 0 14613 2 2
+D 0 14619 2 1
+D 0 14621 3 1
+D 0 14652 1 2
+D 0 14661 3 2
+D 0 14665 1 2
+D 0 14670 1 2
+D 0 14671 0 2
+D 0 14672 0 2
+D 0 14672 2 2
+D 0 14691 3 2
+D 0 14694 3 2
+D 0 14696 0 1
+D 0 14696 3 1
+D 0 14697 2 1
+D 0 14697 3 1
+D 0 14698 0 1
+D 0 14698 1 1
+D 0 14700 1 2
+D 0 14702 0 1
+D 0 14702 1 1
+D 0 14722 1 2
+D 0 14726 2 2
+D 0 14728 5 2
+D 0 14741 1 2
+D 0 14743 0 2
+D 0 14744 2 2
+D 0 14746 0 2
+M 1 14612 3 14601 2
+E 0 14665 0 16
+E 0 14664 0 6
+E 0 14663 0 11
+E 0 14662 0 12
+E 0 14661 0 5
+M 1 14612 3 14601 2
+E 0 14665 0 16
+E 0 14664 0 6
+E 0 14663 0 11
+E 0 14662 0 12
+E 0 14661 0 5
+M 1 14632 7 14604 1
+M 1 14613 3 14607 2
+E 0 14665 0 16
+E 0 14664 0 6
+E 0 14663 0 11
+E 0 14662 0 12
+E 0 14661 0 5
+M 1 14613 3 14607 2
+E 0 14665 0 16
+E 0 14664 0 6
+E 0 14663 0 11
+E 0 14662 0 12
+E 0 14661 0 5
+M 1 14614 3 14609 2
+E 0 14665 0 16
+E 0 14664 0 6
+E 0 14663 0 11
+E 0 14662 0 12
+E 0 14661 0 5
+M 1 14614 3 14609 2
+E 0 14665 0 16
+E 0 14664 0 6
+E 0 14663 0 11
+E 0 14662 0 12
+E 0 14661 0 5
+M 1 14611 3 14610 2
+E 0 14665 0 16
+E 0 14664 0 6
+E 0 14663 0 11
+E 0 14662 0 12
+E 0 14661 0 5
+M 1 14611 3 14610 2
+E 0 14665 0 16
+E 0 14664 0 6
+E 0 14663 0 11
+E 0 14662 0 12
+E 0 14661 0 5
+M 1 14633 7 14617 1
+M 1 14610 3 14619 2
+E 0 14665 0 16
+E 0 14664 0 6
+E 0 14663 0 11
+E 0 14662 0 12
+E 0 14661 0 5
+M 1 14610 3 14619 2
+E 0 14665 0 16
+E 0 14664 0 6
+E 0 14663 0 11
+E 0 14662 0 12
+E 0 14661 0 5
+M 1 14609 3 14621 2
+E 0 14665 0 16
+E 0 14664 0 6
+E 0 14663 0 11
+E 0 14662 0 12
+E 0 14661 0 5
+M 1 14609 3 14621 2
+E 0 14665 0 16
+E 0 14664 0 6
+E 0 14663 0 11
+E 0 14662 0 12
+E 0 14661 0 5
+P 0 14684 1 14683 1
+P 0 14685 1 14684 1
+P 0 14684 1 14683 1
+P 0 14685 1 14684 1
+M 1 14642 4 14622 1
+M 1 14632 7 14623 1
+M 1 14637 4 14628 3
+E 0 14704 0 2
+M 1 14637 4 14628 3
+E 0 14704 0 1
+M 1 14630 7 14630 1
+M 1 14649 1 14635 1
+M 1 14639 2 14638 1
+M 1 14639 1 14638 1
+G 0 14683 0
+M 1 14638 2 14638 1
+M 1 14647 1 14639 1
+M 1 14640 1 14639 1
+M 1 14642 4 14639 1
+G 0 14685 0
+O 0 14600 0 14644
+M 1 14635 2 14645 1
+M 1 14631 7 14647 1
+M 1 14631 7 14649 1
+O 0 14676 0 14650
+M 1 14600 1 14650 1
+E 0 14605 0 16
+E 0 14690 0 17
+O 0 14698 0 14650
+O 0 14600 0 14652
+P 0 14635 10 14600 1
+M 1 14634 7 14653 1
+M 1 14643 5 14654 1
+M 1 14634 7 14655 2
+M 1 14629 7 14655 2
+M 1 14602 1 14656 1
+G 0 14614 0
+G 0 14615 0
+G 0 14617 0
+G 0 14612 0
+G 0 14611 0
+G 0 14610 0
+G 0 14613 0
+M 1 14631 7 14657 2
+O 0 14636 0 14657
+O 0 14637 0 14657
+P 0 14638 1 14637 1
+M 1 14643 5 14658 1
+G 0 14617 0
+M 1 14632 7 14658 2
+O 0 14600 0 14658
+M 1 14643 5 14659 1
+M 1 14630 7 14659 2
+M 1 14633 7 14659 2
+M 1 14633 7 14660 1
+O 0 14634 0 14661
+M 1 14601 1 14661 1
+O 0 14601 0 14661
+O 0 14671 0 14662
+M 1 14636 4 14663 1
+O 0 14671 0 14663
+O 0 14671 0 14664
+M 1 14636 4 14666 1
+O 0 14671 0 14666
+O 0 14671 0 14667
+O 0 14671 0 14668
+O 0 14671 0 14669
+M 1 14635 2 14671 1
+G 0 14684 0
+P 0 14688 5 14684 1
+O 0 14600 0 14671
+P 0 14616 1 14600 1
+M 1 14603 1 14677 1
+G 0 14618 0
+G 0 14622 0
+G 0 14623 0
+G 0 14621 0
+G 0 14620 0
+G 0 14619 0
+M 1 14604 1 14678 1
+G 0 14609 0
+G 0 14607 0
+G 0 14606 0
+G 0 14608 0
+G 0 14639 0
+M 1 14606 1 14679 1
+G 0 14633 0
+G 0 14632 0
+G 0 14629 0
+G 0 14631 0
+G 0 14628 0
+G 0 14627 0
+G 0 14630 0
+M 1 14605 1 14680 1
+G 0 14645 0
+G 0 14640 0
+G 0 14643 0
+G 0 14642 0
+G 0 14644 0
+G 0 14641 0
+M 1 14608 1 14681 1
+G 0 14649 0
+G 0 14647 0
+G 0 14650 0
+G 0 14648 0
+G 0 14646 0
+M 1 14626 1 14681 1
+M 1 14607 1 14682 1
+G 0 14667 0
+G 0 14657 0
+G 0 14668 0
+G 0 14655 0
+M 1 14615 1 14683 1
+M 1 14646 5 14683 5
+M 1 14650 4 14684 3
+M 1 14651 1 14684 1
+M 1 14625 1 14684 1
+G 0 14681 0
+G 0 14678 0
+G 0 14680 0
+G 0 14677 0
+G 0 14679 0
+G 0 14682 0
+O 0 14658 0 14684
+M 1 14624 1 14685 1
+M 1 14623 1 14686 1
+M 1 14622 1 14686 1
+M 1 14621 1 14686 1
+M 1 14620 1 14686 1
+M 1 14619 1 14686 1
+M 1 14616 1 14687 1
+G 0 14656 0
+G 0 14653 0
+G 0 14652 0
+G 0 14651 0
+G 0 14654 0
+M 1 14617 1 14688 1
+G 0 14660 0
+G 0 14659 0
+M 1 14645 4 14689 2
+O 0 14625 0 14689
+O 0 14624 0 14689
+O 0 14626 0 14689
+M 1 14645 4 14690 2
+M 1 14618 1 14690 1
+M 1 14627 1 14692 1
+G 0 14666 0
+G 0 14670 0
+M 1 14644 3 14692 3
+E 0 14686 0 16
+M 1 14636 4 14693 1
+O 0 14671 0 14693
+O 0 14602 0 14693
+O 0 14671 0 14694
+M 1 14648 1 14695 1
+O 0 14669 0 14696
+O 0 14669 0 14697
+O 0 14669 0 14698
+M 1 14697 1 14699 1
+M 1 14628 1 14699 1
+G 0 14673 0
+G 0 14672 0
+G 0 14713 0
+M 1 14700 1 14702 1
+M 1 14701 1 14703 1
+O 0 14703 0 14704
+P 0 14696 1 14703 1
+M 1 14696 1 14704 1
+M 1 14701 1 14704 1
+M 1 14702 1 14706 1
+G 0 14749 0
+O 0 14705 0 14712
+O 0 14675 0 14717
+P 0 14687 5 14675 1
+M 1 14642 4 14738 1
+M 1 14641 1 14739 1
+M 1 14636 4 14739 1
+O 0 14692 0 14742
+M 1 14652 1 14743 1
+M 1 14653 1 14744 1
+G 0 14710 0
+O 0 14708 0 14744
+P 0 14714 1 14708 1
+P 0 14711 1 14708 1
+O 0 14712 0 14744
+S
+
+
+
+#SHOPS
+14602 8 20 33 32 0 120 90 0 23
+14603 19 0 0 0 0 100 80 0 23
+14604 11 0 0 0 0 120 90 0 23
+14605 9 27 0 0 0 100 60 0 23
+14606 17 19 1 34 0 150 50 0 23
+14607 2 3 4 10 30 110 25 0 23
+14608 5 35 0 0 0 110 50 0 23
+14616 10 26 0 0 0 190 25 0 23
+14617 0 0 0 0 0 100 0 0 6
+14624 0 0 0 0 0 0 0 0 23
+14625 13 0 0 0 0 100 10 0 23
+14627 22 0 0 0 0 110 70 6 19
+14628 28 13 10 3 0 100 25 7 18
+14653 0 0 0 0 0 100 100 0 24
+0
+
+
+
+#$

@@ -1,0 +1,1731 @@
+#AREADATA
+Name Kremorian Outpost~
+Builders Stryder Aesculapius~
+VNUMs 5835 5999
+Credits { None} Aesculapius Kremorian Outpost~
+Security 1
+Xcontinent 1
+Age 14
+Questable 1
+End
+
+
+
+#MOBILES
+#5999
+A burning effigy~
+a burning effigy~
+A {RBurning{x Effigy waddles around the room serving flaming drinks
+~
+Is that man walking towards you on fire?  Or should you be asking
+yourself if that is really a man at all.  It looks more like bundles of
+sticks tied together and shaped like a man...  On fire.  How odd.  On top of
+being on fire, he seems to be carrying a serving tray with some beverages
+atop it, which are also on fire.  He is waddling your way, better not drink
+anything he gives you.  
+~
+doll~
+ABGR CDHJOVa -1000 0
+51 5 50d10+5000 1d1+100 5d8+20 flame
+-21 -21 -21 -21
+FK ABH EILMNPQRS IOa
+stand stand none 0
+EHJMc ABCGHK small wood the guilds~
+#0
+
+
+
+#OBJECTS
+#5835
+Teamsters Wagon~
+A large wooden wagon attached to a team of horses.~
+A huge four wheeled wooden wagon hitched to a large team of horses is carrying goods to the outpost~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#5836
+A Large Crane~
+A large steel crane~
+A large steel crane lowering boulders down to the road below~
+steel~
+portal 0 0
+0 0 1 5990 0
+0 0 0 P
+#5995
+Doom Bringer~
+A plain ring glowing with a faint red aura~
+A plain golden ring with runes inscribed on the outside glows with a demonic red aura~
+gold~
+armor AFHMN ABO
+100 100 100 100 0
+53 0 0 P
+A
+13 10000  
+A
+12 10000  
+A
+18 100  
+A
+19 100  
+#5998
+no name~
+(no short description)~
+~
+wood~
+potion 0 0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#5999
+a flaming serving tray~
+a flaming serving tray~
+A flaming serving tray with glasses full of burning liquids is here.~
+steel~
+weapon EHNTY AN
+exotic 6 6 smash A
+50 10 100 P
+A
+13 10  
+#0
+
+
+
+#ROOMS
+#5835
+On The Beach Road~
+The golden sand of the beach slowly gives way to a wide stone road under
+construction.  Laborers struggle to remove sand as they sink large stone
+blocks into pits.  A soldier standing off to the side is directing traffic
+around to the service road that runs parallel to the main road.  The road
+continues southward towards the mountain cliffs and north to the Docks of
+Dominia.  
+~
+0 0 10
+D2
+~
+~
+0 0 5836
+S
+#5836
+On The Beach Road~
+Once in sight of the mountain the road shifts a little to the west, going
+in between the coastline and the mountain cliffs.  The service road from the
+north merges here with the main road, as this section is already complete
+and congested with supply wagons and travelers.  Road construction is going
+on to the north.  There are dozens of workers on a large rock wall to the
+south.  
+~
+0 0 10
+D0
+~
+~
+0 0 5835
+D2
+~
+~
+0 0 5837
+S
+#5837
+The Sea Wall~
+The coast comes so close to the cliff face that an elevated stone road
+and wall was erected against the mountain face to keep the waves at bay. 
+Workers standing on top of the rock embankment, which stands nearly five
+meters in height, guide boulders into place from the cranes above.  The road
+continues to the north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 5836
+D4
+~
+~
+0 0 5838
+S
+#5838
+Above The Sea Wall~
+The beach and bay to the south come into view from this height.  The
+cliff wall to the east is sheer with no hand holds and extends thirty more
+meters up where the cranes sit, lowering huge boulders onto the wall below. 
+The large rock wall sits between the water and the road below, which is
+congested with dozens of wagons and travelers.  
+~
+0 0 9
+D4
+~
+~
+0 0 5839
+D5
+~
+~
+0 0 5837
+S
+#5839
+Top Of The Cliff~
+Huge cranes near the edge of the cliff are lwering massive boulders down
+to the road below.  Behind the cranes, to the east, is a large quarry, and
+to the south, a dirt path winds around the edge of the mountain.  
+~
+0 0 5
+D1
+~
+~
+0 0 5840
+D2
+~
+~
+0 0 5841
+D5
+~
+~
+0 0 5838
+S
+#5840
+The Quarry~
+Dozens of workers are breaking large boulders from the mountains west
+side and loading them up onto carts going west towards the cranes.  The
+ground abouve the workers area looks unstable, with small rocks slides
+happening every few minutes.  
+~
+0 0 5
+D3
+~
+~
+0 0 5839
+S
+#5841
+A Rock Strewn Path~
+This loosely packed dirt path littered with rocks slinks southward around
+the edge of the mountain, shrinking in width with every step.  The bay and
+outpost to the south comes into view before it takes a sharp turn to the
+east.  A wooden sign bolted to the side of the mountain has an arrow
+pointing north with the word 'Quarry' in big bold letters.  
+~
+0 0 5
+D0
+~
+~
+0 0 5839
+D1
+~
+~
+0 0 5842
+S
+#5842
+Rear Access Gate~
+If this is the rear door, the front one must be massive.  This iron-bound
+oak monstrosity stands five meters talls, and just as wide.  There is no
+gate man, or for that matter a handle or a keyhole.  There isn't even a
+seam, making it almost seem part of the mountain.  It's only distinguishing
+feature is a carved wooden face with a dour expression in the middle of the
+door.  
+~
+0 0 0
+D3
+~
+~
+0 0 5841
+S
+#5843
+Rear Access Gate~
+This corridor, which is little less than a natural tunnel in the
+mountain, is lit by ambient recessed light from the ceiling.  To the west is
+a large imposing gate.  It has no handle or keyhole, only a face embedded in
+the center of the gate with a creepy looking grin plastered on.  The tunnel
+continues to the east.  
+~
+0 8 5
+D1
+~
+~
+0 0 5845
+S
+#5844
+Crane Operators Cab~
+Levers everywhere!  The cab of this crane is filled to the brim with
+levers that do who knows what.  Through the glass windshield the entire bay
+can be seen to the southwest.  The cranes payload can also been seen,
+hanging precariously oever the edige of the cliff.  There are doors on both
+sides of the cab to get out.  
+~
+0 268443660 0
+S
+#5845
+A Damp Tunnel~
+This hallway seems to have degenerated into a rocky tunnel, as its sides
+are rather jagged in some places.  Dim patches of light from somewhere in
+the ceiling illuminate this corridor just enough to not impale oneslef on
+some of the more impressive stalagmites jutting from the edges.  The tunnel
+continues to the rear of the complex to the west, and to the storage
+facility to the east.  
+~
+0 8 5
+D1
+~
+~
+0 0 5846
+D3
+~
+~
+0 0 5843
+S
+#5846
+Storage Facility~
+Tendrils of steam come off of your clothing as you enter this chilly
+cave.  This multi-tiered cavern is filled to capacity with an assortment of
+barrels and creates.  In the center of the cavern is a large pool of crystal
+clear water with a sign stuck in the ground nearby.  There is a stone door
+to the south and a hole in the side of the cavern to the west.  
+~
+0 8 5
+D2
+~
+~
+0 0 5848
+D3
+~
+~
+0 0 5845
+D5
+~
+~
+0 0 5850
+S
+#5847
+In The Hatchery~
+Brrrr!  This pool is freezing cold and filled with dozens of different
+kinds of fish.  The bottom is bare of any vegetation and very smooth. 
+Above, through the rippling of the surface, large stalactites can be seen on
+the ceiling.  
+~
+0 4 0
+S
+#5848
+Access Tunnel 12~
+This entire hallway is lined in thick stone blocks and lit from sconces
+attached to the sides of the walls.  It's a very long corridor, with doors
+staggered on either side every five meters.  A cool draft is flowing from
+the north and going south towards the docking bay.  
+~
+0 8 5
+D0
+~
+~
+0 0 5846
+D2
+~
+~
+0 0 5849
+S
+#5849
+Airship Docking Bay~
+This natural cavern inside of the mountain was opened up on one side so
+that the Kremor's famous airships could dock in the interior of the
+mountain.  The huge ceiling rises over a hundred meters into the air, more
+than enough to accommodate the large masts of the airships docking to the
+south.  From this side of the bay, all that can be seen are the dozens of
+workers hurrying to the newly docked ships with wagons full of supplies. 
+The dock extends outward to the south.  There are two other passages here,
+one to the north and one to the west.  There is a sign attached to a
+pedestal near where the passages converge.  
+~
+0 8 1
+D0
+~
+~
+0 0 5848
+D2
+~
+~
+0 0 5851
+D3
+~
+~
+0 0 5852
+S
+#5850
+In The Fish Hatchery~
+Brrr!!!  This pool is ice cold and as dark as can be.  The little bit of
+light that does filter down into the pool reflects and illuminates the shiny
+scales of the hundreds of fish moving about.  The bottom is bare of any
+vegetation and smooth.  Above, through the rippling of the surface, large
+stalactites can be seen on the ceiling.  
+~
+0 9 12
+D4
+~
+~
+0 0 5846
+S
+#5851
+Airship Dock~
+The stone pier reaches out into the vast opening of the cavern.  A
+massive opening in the mountain to the south allows these huge ships to
+enter the interior of the mountain.  These large airship docked here against
+the pier are heavily damaged, in most cases missing masts and riddled with
+holes.  The four ships to the west and the one to the east are being
+reloaded with supplies and new masts.  Looking over the edge of the pier,
+the floor drops fifty meters into a pit of stalagmites and rishing water. 
+The water flows to the south side of the mountain wall and disappears
+underneath.  The main platform is to the north.  There is a gangplank
+connecting the pier to the airship to the east.  A small ladder against the
+edge of the pier goes down along the pier's column.  
+~
+0 8 5
+D0
+~
+~
+0 0 5849
+D1
+~
+~
+0 0 5864
+S
+#5852
+West Elevators: Top Floor~
+A large bank of elevators are embedded into the wall here.  Most are
+small personal elevators of wood and iron, but a few are larger for bringing
+supplies to the bay.  This being the top floor, they only go down.  To the
+east is the main airship docking bay.  
+~
+0 8 1
+D1
+~
+~
+0 0 5849
+S
+#5853
+Main Lobby~
+This lobby is bustling with people as it is the nexus point for the
+entire complex.  While its decor is plain, its functionality more than makes
+up for it.  The walls of the hall to the south slowly change from stone to
+wood as it nears the opening of the mountain.  A bank of elevators sits in
+the middle of the room leading up to the airship docks.  There is a sign on
+the wall with directions for where all of the many hallways go.  
+~
+0 8 1
+D0
+~
+~
+0 0 5855
+D1
+~
+~
+0 0 5857
+D2
+~
+~
+0 0 5854
+D3
+~
+~
+0 0 5856
+S
+#5854
+The Vestibule~
+This vast hall with its vaulted wooden ceilings is the main entryway for
+the mountain complex.  Motes of dust glitter in the weak sunlight from
+stained glass windows lining both sides of the hall.  Through the gate to
+the south the palisades can be seen.  The main lobby is to the north.  
+~
+0 4 0
+D0
+~
+~
+0 0 5853
+S
+#5855
+The Waiting Room~
+With a huge red cross attached to the wall above the receptionists desk
+to the north, it's a good bet that you are in a hospital.  A large wall
+placed down the center of the room separates the patient ward to the west
+from the sitting room.  There is a closed door to the north with a plaque on
+it.  
+~
+0 8 1
+D0
+~
+~
+0 0 5858
+D2
+~
+~
+0 0 5853
+D3
+~
+~
+0 0 5859
+S
+#5856
+Parade Grounds~
+The parade grounds in front of the barracks spanning the entire width of
+the cavern is where military drills and formations are practiced.  More
+eerie ambient lighting from behind the walls flood this chamber with a dull
+sheen as soldiers mill about the front of the barracks to the west.  The
+main lobby can be seen to the east.  
+~
+0 8 1
+D1
+~
+~
+0 0 5853
+D3
+~
+~
+0 0 5860
+S
+#5857
+Refectory~
+Many of the newly arrived sailors from the airships above are stopping in
+to grab a bite to eat and get some quick medical assistance.  The hospital
+in this complex is so overcrowded with wounded that they had to set up an
+extra ward in the refectory.  Soldiers are pushing the tables and benches
+against the walls to accommodate the rows of cots the nurses are setting up.
+A steady stream of men and women are rushing back and forth through the
+swinging doors to the south, carrying trays of food and hot water for the
+new patients.  The kitchen is to the south through those swinging doors, the
+main lobby to the west.  
+~
+0 8 1
+D2
+~
+~
+0 0 5863
+D3
+~
+~
+0 0 5853
+S
+#5858
+Doctors Office~
+This office is lavish in comparison to everything else in the complex.  A
+large polished oak table on top of thick rug gleams from the light of the
+lanterns in the room.  Charts of human anatomy are attached to the walls,
+and dozens of medical texts lay strewn over the table and foor.  There is a
+soft wheezing sound coming from the chair facing away from you.  The waiting
+room is behind you to the south.  
+~
+0 8 1
+D2
+~
+~
+0 0 5855
+S
+#5859
+Patient Ward~
+Even before entering this room, the moans and cries of the patients can
+be heard.  Hundreds of beds in parallel lines go off into the distance. 
+Nurses scurry about helping those they can as doctors rush in and uot of the
+room to the north.  The waiting room is to the east.  
+~
+0 8 1
+D1
+~
+~
+0 0 5855
+M 80 H 120
+S
+#5860
+Barracks~
+Hundreds of soldiers come into view as you step foot into the barracks. 
+Most are lounging about, resting after just coming back from the front
+lines.  The bunk house of the barracks is to the north, the armory is to the
+south.  You can see the parade grounds through the door to the east.  
+~
+0 8 1
+D0
+~
+~
+0 0 5861
+D1
+~
+~
+0 0 5856
+D2
+~
+~
+0 0 5862
+S
+#5861
+Bunk House~
+With bunk beds pilled three high, this room can house a lot of soldiers. 
+There are a few lanterns shinning here and there, but for the most part its
+completly dark.  The main hall of the barracks is to the south.  
+~
+0 9 1
+D2
+~
+~
+0 0 5860
+S
+#5862
+Armory~
+This room contains the weapons and equipment for the soldiers.  Hundreds
+of swords, spears, and maces line the southern wall.  Ornate body armor and
+escutcheons emblazoned with the Kremor coat of arms hang on the eastern
+wall.  A few soldiers in one corner are turning a tumbler filled with sand
+to clean rust off of the armors.  The main hall of the barracks can be seen
+to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 5860
+S
+#5863
+The Kitchen~
+A constant stream of men and women in long aprons are moving between the
+Refectory and the ktichen area, carrying large trays of food and earthenware
+jars of mead.  Dozens of cooks are struggling over open fires, trying to get
+the food to cook faster.  The head cook wanders in between the cooks with a
+long wooden spoon in hand, striking out at anyone lagging behind.  The
+refectory is through the swinging doors to the north.  
+~
+0 8 1
+D0
+~
+~
+0 0 5857
+S
+#5864
+Main Deck Of The Accipiter~
+With your first step onto the deck of the Accipter, you can now see how
+extensive the battle damage really is.  Large holes singed around the edges
+litter the deck and sides of the ship as workers hack away the stump of what
+used to be one of the masts.  New lumber is pilled nearby, which is being
+shaved and shaped into new railings and planks for the floors.  The few
+sailors still on board are above you in the crow's-nest.  The prow of the
+ship to the north seems devoid of workers where as the ships helm to the
+south is filled with them.  There are two large doors attached to the floor
+fo the deck.  
+~
+0 0 0
+D0
+~
+~
+0 0 5865
+D2
+~
+~
+0 0 5867
+D3
+~
+~
+0 0 5851
+D4
+~
+~
+0 0 5866
+D5
+~
+~
+0 0 5868
+S
+#5865
+Bow Of The Accipiter~
+The deck of the bow is in mostly good condition, except for the masthead.
+A lone worker sitting on some scaffolding over the edge of the ship slowly
+chisels away the damaged sections.  The jib is crumpled up and laying on the
+deck with the canvas sail still attached.  The main deck is to the south. 
+Two stairs located on the port and starboard side of the ship lead down to
+the crew quarters.  
+~
+0 4 0
+D2
+~
+~
+0 0 5864
+D5
+~
+~
+0 0 5869
+S
+#5866
+Crow's-Nest~
+High above the deck is the crow's-nest.  The railings of the platform
+have been slightly damaged by the rigging when the mizzen was broken off and
+crashed into this spar.  The Kremorian flag, a blue gull on a white backdrop
+flying towards an orange sunset, is in pristine condition and attached to
+the spar above.  The main deck is directly below.  
+~
+0 0 0
+D5
+~
+~
+0 0 5864
+S
+#5867
+Ship's Helm~
+Two sets of stairs lead up to the deck of the ships helm where dozens of
+workers are putting the steering back together.  The wheel, or where it
+should be, is just a burned stump on the deck.  It's a wonder that it was
+actually steered back into port.  The quarterdeck is to the south, the main
+deck to the north.  There is an ornate door in between the two sets of
+stairs that goes below to the officers chambers.  
+~
+0 0 0
+D0
+~
+~
+0 0 5864
+D2
+~
+~
+0 0 5870
+S
+#5868
+Main Cargo Hold~
+The cargo hold is mostly bare, as the dock workers are doing more repairs
+than resupply.  The few barrels that are here are filled with lemons to hold
+scurvy at bay.  The deafening sound of the hammering by the crew above
+resounds in this closed in space.  Through slats in the cargo holds door
+above, you can see crew moving about.  The crew quarters are through the
+bulkhead to the north, the armory to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 5869
+D4
+~
+~
+0 0 5864
+S
+#5869
+Crew Quarters~
+Dozens of hammocks strung from the ceiling beams dangle here obscuring
+the back of the room.  Behind the hammocks a group of older men in long
+robes are resting against a bulkhead, nursing their wounds and sharing tea
+around an iron brazier.  The main cargo hold is to the south.  A pair of
+stairs against the bulkheads on the port and starboard sides of the room
+lead up to the prow of the ship.  
+~
+0 4 0
+D2
+~
+~
+0 0 5868
+D4
+~
+~
+0 0 5865
+S
+#5870
+Quarterdeck~
+~
+0 4 0
+D0
+~
+~
+0 0 5867
+S
+#5871
+Arch of Pociatius~
+~
+0 0 0
+D3
+~
+~
+0 0 5872
+S
+#5872
+Fraenia Lane~
+~
+0 0 0
+D0
+~
+~
+0 0 5899
+D1
+~
+~
+0 0 5871
+D2
+~
+~
+0 0 5873
+S
+#5873
+Fraenia Lane~
+~
+0 0 0
+D0
+~
+~
+0 0 5872
+D2
+~
+~
+0 0 5874
+S
+#5874
+Intersection of Caelius boulevard and Fraenia Lane~
+~
+0 0 0
+D0
+~
+~
+0 0 5873
+D3
+~
+~
+0 0 5875
+S
+#5875
+Caelius Boulevard~
+~
+0 0 0
+D1
+~
+~
+0 0 5874
+D3
+~
+~
+0 0 5876
+S
+#5876
+Caelius Boulevard~
+~
+0 0 0
+D0
+~
+~
+0 0 5888
+D1
+~
+~
+0 0 5875
+D2
+~
+~
+0 0 5877
+D3
+~
+~
+0 0 5878
+S
+#5877
+Gate of Tibrelius~
+~
+0 0 0
+D0
+~
+~
+0 0 5876
+D1
+~
+~
+0 0 5919
+D3
+~
+~
+0 0 5917
+S
+#5878
+Caelius Boulevard~
+~
+0 0 0
+D1
+~
+~
+0 0 5876
+D3
+~
+~
+0 0 5879
+S
+#5879
+Intersection of Caelius Boulevard and Equinius Road~
+~
+0 0 0
+D0
+~
+~
+0 0 5880
+D1
+~
+~
+0 0 5878
+D2
+~
+~
+0 0 5931
+D3
+~
+~
+0 0 5881
+S
+#5880
+Equinius Road~
+~
+0 0 0
+D0
+~
+~
+0 0 5883
+D2
+~
+~
+0 0 5879
+D3
+~
+~
+0 0 5882
+S
+#5881
+Liquid Destiny~
+~
+0 0 0
+D1
+~
+~
+0 0 5879
+S
+#5882
+Chocolate Shop~
+~
+0 0 0
+D1
+~
+~
+0 0 5880
+S
+#5883
+Equinius Road~
+~
+0 0 0
+D0
+~
+~
+0 0 5884
+D2
+~
+~
+0 0 5880
+D3
+~
+~
+0 0 5927
+S
+#5884
+Corner of Attia Drive and Equinius Road~
+~
+0 0 0
+D0
+~
+~
+0 0 5928
+D1
+~
+~
+0 0 5885
+D2
+~
+~
+0 0 5883
+D3
+~
+~
+0 0 5929
+S
+#5885
+Attia Drive~
+~
+0 0 0
+D1
+~
+~
+0 0 5886
+D3
+~
+~
+0 0 5884
+S
+#5886
+Attia Drive~
+~
+0 0 0
+D1
+~
+~
+0 0 5887
+D3
+~
+~
+0 0 5885
+S
+#5887
+Attia Drive~
+~
+0 0 0
+D1
+~
+~
+0 0 5900
+D3
+~
+~
+0 0 5886
+S
+#5888
+Airdock entrance~
+~
+0 0 0
+D0
+~
+~
+0 0 5889
+D1
+~
+~
+0 0 5891
+D2
+~
+~
+0 0 5876
+D3
+~
+~
+0 0 5890
+S
+#5889
+Airdock~
+~
+0 0 0
+D0
+~
+~
+0 0 5892
+D2
+~
+~
+0 0 5888
+S
+#5890
+Airdock~
+~
+0 0 0
+D0
+~
+~
+0 0 5895
+D1
+~
+~
+0 0 5888
+S
+#5891
+Airdock~
+~
+0 0 0
+D0
+~
+~
+0 0 5898
+D3
+~
+~
+0 0 5888
+S
+#5892
+Arboretum~
+~
+0 0 3
+D0
+~
+~
+0 0 5893
+D2
+~
+~
+0 0 5889
+S
+#5893
+Arboretum~
+~
+0 0 3
+D0
+~
+~
+0 0 5894
+D2
+~
+~
+0 0 5892
+S
+#5894
+Airdock~
+~
+0 0 0
+D1
+~
+~
+0 0 5897
+D2
+~
+~
+0 0 5893
+D3
+~
+~
+0 0 5896
+S
+#5895
+Airdock~
+~
+0 0 0
+D0
+~
+~
+0 0 5896
+D2
+~
+~
+0 0 5890
+S
+#5896
+Airdock~
+~
+0 0 0
+D1
+~
+~
+0 0 5894
+D2
+~
+~
+0 0 5895
+S
+#5897
+Airdock~
+~
+0 0 0
+D2
+~
+~
+0 0 5898
+D3
+~
+~
+0 0 5894
+S
+#5898
+Airdock~
+~
+0 0 0
+D0
+~
+~
+0 0 5897
+D2
+~
+~
+0 0 5891
+S
+#5899
+Fraenia Lane~
+~
+0 0 0
+D0
+~
+~
+0 0 5900
+D2
+~
+~
+0 0 5872
+S
+#5900
+Corner of Attia Drive and Fraenia Lane~
+~
+0 0 0
+D0
+~
+~
+0 0 5901
+D2
+~
+~
+0 0 5899
+D3
+~
+~
+0 0 5887
+S
+#5901
+Gate of Barace~
+~
+0 0 0
+D0
+~
+~
+0 0 5902
+D1
+~
+~
+0 0 5923
+D2
+~
+~
+0 0 5900
+D3
+~
+~
+0 0 5924
+S
+#5902
+Dock~
+~
+0 0 0
+D1
+~
+~
+0 0 5915
+D2
+~
+~
+0 0 5901
+D3
+~
+~
+0 0 5906
+S
+#5903
+Warehouse~
+~
+0 0 0
+D0
+~
+~
+0 0 5906
+D2
+~
+~
+0 0 5904
+D4
+~
+~
+0 0 5905
+S
+#5904
+Warehouse~
+~
+0 0 0
+D0
+~
+~
+0 0 5903
+S
+#5905
+Warehouse Loft~
+~
+0 0 0
+D5
+~
+~
+0 0 5903
+S
+#5906
+Dock~
+~
+0 0 0
+D1
+~
+~
+0 0 5902
+D2
+~
+~
+0 0 5903
+D3
+~
+~
+0 0 5907
+S
+#5907
+Dock~
+~
+0 0 0
+D0
+~
+~
+0 0 5910
+D1
+~
+~
+0 0 5906
+D2
+~
+~
+0 0 5916
+D3
+~
+~
+0 0 5908
+S
+#5908
+Dock~
+~
+0 0 0
+D1
+~
+~
+0 0 5907
+D2
+~
+~
+0 0 5909
+S
+#5909
+Grainary~
+~
+0 0 0
+D0
+~
+~
+0 0 5908
+D1
+~
+~
+0 0 5916
+S
+#5910
+Dock~
+~
+0 0 0
+D2
+~
+~
+0 0 5907
+D3
+~
+~
+0 0 5911
+S
+#5911
+Ship~
+~
+0 0 0
+D0
+~
+~
+0 0 5913
+D1
+~
+~
+0 0 5910
+D2
+~
+~
+0 0 5912
+D4
+~
+~
+0 0 5914
+S
+#5912
+Ship~
+~
+0 0 0
+D0
+~
+~
+0 0 5911
+S
+#5913
+Ship~
+~
+0 0 0
+D2
+~
+~
+0 0 5911
+S
+#5914
+Ship~
+~
+0 0 0
+D5
+~
+~
+0 0 5911
+S
+#5915
+Fishmarkets~
+~
+0 0 0
+D3
+~
+~
+0 0 5902
+S
+#5916
+Grainary~
+~
+0 0 0
+D0
+~
+~
+0 0 5907
+D3
+~
+~
+0 0 5909
+S
+#5917
+Gate house~
+~
+0 0 0
+D1
+~
+~
+0 0 5877
+D3
+~
+~
+0 0 5918
+S
+#5918
+Wall/Corner~
+~
+0 0 0
+D0
+~
+~
+0 0 5926
+D1
+~
+~
+0 0 5917
+S
+#5919
+Gate House~
+~
+0 0 0
+D1
+~
+~
+0 0 5920
+D3
+~
+~
+0 0 5877
+S
+#5920
+Wall/Corner~
+~
+0 0 0
+D0
+~
+~
+0 0 5921
+D3
+~
+~
+0 0 5919
+S
+#5921
+Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 5922
+D2
+~
+~
+0 0 5920
+S
+#5922
+Wall/Corner~
+~
+0 0 0
+D2
+~
+~
+0 0 5921
+D3
+~
+~
+0 0 5923
+S
+#5923
+Gate House~
+~
+0 0 0
+D1
+~
+~
+0 0 5922
+D3
+~
+~
+0 0 5901
+S
+#5924
+Gate House~
+~
+0 0 0
+D1
+~
+~
+0 0 5901
+D3
+~
+~
+0 0 5925
+S
+#5925
+Wall/Corner~
+~
+0 0 0
+D1
+~
+~
+0 0 5924
+D2
+~
+~
+0 0 5926
+S
+#5926
+Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 5925
+D2
+~
+~
+0 0 5918
+S
+#5927
+Pastry Hut~
+~
+0 0 0
+D1
+~
+~
+0 0 5883
+S
+#5928
+Armourer~
+~
+0 0 0
+D2
+~
+~
+0 0 5884
+D3
+~
+~
+0 0 5930
+S
+#5929
+Bowyer/Fletcher~
+~
+0 0 0
+D0
+~
+~
+0 0 5930
+D1
+~
+~
+0 0 5884
+S
+#5930
+Weaponsmith~
+~
+0 0 0
+D1
+~
+~
+0 0 5928
+D2
+~
+~
+0 0 5929
+S
+#5931
+Wand Emporium~
+~
+0 0 0
+D0
+~
+~
+0 0 5879
+S
+#5932
+Verandah~
+~
+0 0 0
+D0
+~
+~
+0 0 5933
+S
+#5933
+Verandah~
+~
+0 0 0
+D0
+~
+~
+0 0 5934
+D2
+~
+~
+0 0 5932
+S
+#5934
+Verandah~
+~
+0 0 0
+D1
+~
+~
+0 0 5935
+D2
+~
+~
+0 0 5933
+S
+#5935
+Gardens~
+~
+0 0 0
+D2
+~
+~
+0 0 5936
+D3
+~
+~
+0 0 5934
+S
+#5936
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5935
+S
+#5990
+~
+~
+0 4 0
+S
+#5993
+~
+~
+0 4 0
+S
+#5994
+.~
+~
+0 0 5
+D5
+~
+~
+0 0 5995
+S
+#5995
+.~
+~
+0 0 9
+D4
+~
+~
+0 0 5994
+D5
+~
+~
+0 0 5996
+S
+#5996
+.~
+~
+0 0 10
+D0
+~
+~
+0 0 5997
+D4
+~
+~
+0 0 5995
+S
+#5997
+.~
+~
+0 0 10
+D0
+~
+~
+0 0 5998
+D2
+~
+~
+0 0 5996
+S
+#5998
+.~
+~
+0 0 10
+D2
+~
+~
+0 0 5997
+S
+#5999
+Cavern of {RFlame{x~
+As you enter this cavern the first thing you notice, aside from the
+burning sulfuric smell, are the puddles of liquid fire slowly dripping
+upwards along a raised stone walkway.  The farther you move into the cavern,
+the more unbearable the heat becomes.  After 10 meters the walkway expands
+into a small raised dias where you spot some smoking furniture and a little
+burning man handing out drinks from the tray balanced on his little burning
+hands.  
+~
+0 268435469 0
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 5999 spec_breath_fire Load to: a burning effigy
+S
+
+
+
+#MOBPROGS
+#5999
+~
+A
+#0
+
+#RESETS
+M 1 5999 1 5999 1
+E 0 5999 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

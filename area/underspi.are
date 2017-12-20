@@ -1,0 +1,7138 @@
+#AREADATA
+Name The Underspires~
+Builders Elisa~
+VNUMs 12300 12499
+Credits { None} Tyger       The Underspires~
+Security 1
+Xcontinent 1
+Age 9
+Questable 1
+End
+
+
+
+#MOBILES
+#12300
+D'harby~
+D'harby~
+D'harby winks at you as he shuffles a deck of cards expertly in front of you.
+~
+Sporting a dark vest, dark pants and white shirt, D'Harby is as sly as
+they come.  Grinning at you cheekishly, he dares you to sit at the table and
+play with him for a few hands.  
+~
+elf~
+AL DJZ -500 0
+35 3 10d10+1300 1d1+100 4d7+11 none
+-11 -11 -11 -11
+0 ABDLQZa B Z
+sit stand male 200000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12301
+meep~
+meep~
+Meep
+~
+~
+human~
+A 0 -1000 0
+60 6 1d1+1 1d1+100 1d1+1 none
+-30 -30 -30 -30
+0 AB 0 0
+stand stand none 250000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12302
+The Cyclopei~
+Cyclopei~
+Cyclopei the Tranquil
+~
+Standing well over seven feet tall, Cyclopei is a giant of a man, but a
+dwarf of the giants.  Though short by giant standards, he is well respected
+for his healing gifts.  That and the violence that a cyclops is capable of
+gives Cyclopei all the respect he needs to live in the Underspires.      
+~
+giant~
+ABVac DH 0 0
+55 0 50d10+2000 500d20+2000 0d0+0 none
+0 0 0 0
+0 ABa HI J
+stand stand male 0
+AHMV ABCDEFGHIJK large 0 the guilds~
+#12303
+cerwyn the smithy~
+Cerwyn the Smithy~
+Cerwyn the Smithy looks up from his work as you enter his store.
+~
+~
+elf~
+AB JZ 0 0
+54 5 50d10+6500 1d1+100 7d6+22 slash
+-24 -24 -24 -24
+0 ABa B Z
+stand stand male 900000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12304
+kalibak minotaur~
+Kalibak the minotaur~
+A giant minotaur stands here hammering away on a sword.
+~
+Muscles ripple across the minotaur's chest and arms as he hammers a sword
+into shape.  Lifting his head slightly, he glares at you with his red eyes. 
+A small mist of steam blows from his nostrils as he looks over your weapons.
+~
+deamon~
+ABC DFJTVa -1000 0
+55 5 50d10+7000 1d1+100 10d4+23 gore
+-25 -25 -25 -25
+CEFHJ B BH NSZ
+stand stand male 200
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+#12305
+N'dul of Geb~
+N'dul of {BGeb{x~
+N'dul of {BGeb{x sits here waiting for anyone to practice against him.
+~
+A blind man rests against his cane waiting for someone.  He grins
+sheepishly as he feels the weight of your gaze.  His pupiless eyes sends a
+shiver down your spine.
+~
+human~
+ABJKS AHV 0 0
+56 5 70d10+8000 1d1+100 10d4+24 none
+-26 -26 -26 -26
+CDEGHIK BJRab B 0
+sit stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12306
+reorex dwarf~
+Reorex the Dwarf~
+An irritated dwarf glances over at you as enter into his shop area.
+~
+A scruffy looking dwarf lifts his head as you eye him over.  Staring out
+of one good eye, he measures you and slowly goes for his axe just in case
+you make any sudden movements.  
+~
+dwarf~
+ABG JZ 0 0
+51 5 50d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -21
+0 ABLQa LQ R
+stand stand male 90000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 12304 75~
+#12307
+drow citizen~
+A drow citizen~
+A young drow wanders about.
+~
+A young elf looks happy in their surroundings.  Unlike their cousins, the
+drow enjoy the darkness.  
+~
+elf~
+A JZ -1000 0
+10 1 2d7+121 1d1+100 2d4+2 slap
+1 1 1 1
+FH B B Z
+stand stand either 100
+AGHMV ABCDEFGHIJKQV medium 0 the guilds~
+#12308
+chrystia  animal tamer~
+Chrystia the animal tamer~
+A sultry shopkeeper stares out from beneath her veil, giving you the once over.
+~
+Dressed in fine silks and sandals, Chrystia makes her living selling
+exotic jewelery.  Dark flowing hair and doe eyed, even the drow citizens
+find Chrystia extremely beautiful.  
+~
+human~
+ABG Z 0 0
+51 5 50d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -21
+0 ABa 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12309
+Khramen the Weaponsmaster~
+Khramen the Weaponsmaster~
+Khramen the Weaponsmaster, sharpens some wicked weapons of destruction.
+~
+~
+elf~
+ABGV JZ 0 0
+53 5 50d10+6000 1d1+100 6d7+21 none
+-23 -23 -23 -23
+0 ABLQa B Z
+stand stand male 999999
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12310
+godilla~
+godilla~
+Godilla the Cretan
+~
+~
+deamon~
+AI DFJT 0 0
+25 2 5d10+550 1d1+100 2d10+7 none
+-7 -7 -7 -7
+CFH B H NS
+stand stand either 0
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#12311
+Mind-Flayer~
+A mind-flayer ~
+A mind-flayer hovers a just a few inches off the ground.
+~
+It's pupiless eyes roam over you as you peer intently at your travelling
+companion.  You can't seem to sense much from it.  Perhaps you should follw
+them instead?  
+~
+modron~
+AI DFJTZ -399 0
+30 3 6d12+853 1d1+100 4d6+8 blast
+-9 -9 -9 -9
+QR BMNPQ HIK 0
+stand stand either 0
+H ABCGHJK medium 0 the guilds~
+#12312
+grey dwarf~
+a grey dwarf~
+A grey dwarf picks his nose while contemplating the mathematics of life.
+~
+Dirtier than the ground you walk on, the grey dwarf notices you staring
+at him.  Taking his finger out of his nose he quickly offers you a
+handshake.  "Me good, boss!  You see!"  
+~
+dwarf~
+AI JVZ 0 0
+15 1 3d9+100 1d1+100 2d6+3 none
+-2 -2 -2 -2
+D 0 LQ R
+stand stand either 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+#12313
+lizardman~
+A lizard man.~
+A lizard man buffs his nails against his scaley skin.
+~
+A scaley looking figure stares at you from underneath a hood.  His beady
+eyes bore through your armour searching for signs of weakness.  
+~
+lizard~
+AI VZ -100 0
+35 3 10d10+1300 1d1+100 4d7+11 slash
+-11 -11 -11 -11
+M 0 L I
+stand stand either 0
+AGXc ACDEFHKQV medium 0 the guilds~
+#12314
+Berlindar drow~
+Berlindar the drow~
+An older looking elf squints at you over his glasses.
+~
+A bitter elf scowls as you walk towards him.  Dressed in colourful robes,
+Berldinar snorts at you wander towards him.  His skin is smooth and he looks
+no more than 500 years old.  
+~
+elf~
+ABGV JZ -600 0
+52 5 50d10+5500 1d1+100 6d7+20 none
+-22 -22 -22 -22
+0 ABa B Z
+stand stand male 12000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#12315
+agnasor troll~
+Agnasor the troll~
+A troll mutters under his breath about the taxes he's been receiving.
+~
+A greasy looking troll smooths his hair you walk into his establishment. 
+His greasy hands rub against each other as he thinks of the money he's
+seeking to earn.  
+~
+troll~
+AB JZ -400 0
+53 5 50d10+6000 1d1+100 6d7+21 none
+-23 -23 -23 -23
+0 ABQa Q H
+stand stand male 5000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12316
+Tuna Stan~
+Tuna Stan~
+Tuna Stan whipes his fish gut covered hands on his apron.
+~
+A scruffy man with a scraggly beard peers at you with one good eye. 
+Tolerated only because of his general sea, salty, sourness, Tuna Stan
+brings fresh catches of fish to the Underspires every week. 
+~
+human~
+AB DJ 0 0
+50 5 50d10+4500 1d1+100 5d8+19 none
+-20 -20 -20 -20
+0 ABLQZa 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 12305 80~
+#12317
+young drow~
+drow citizen~
+A drow citizen wanders through the street going about their daily lives.
+~
+One of the city's youth, the young drow are treasured in the Underspires.
+As they age, it is hoped that they will get a better understanding of their
+culture and learn the arts of their ancestors.  
+~
+elf~
+AT JZ -200 0
+25 2 5d10+550 1d1+100 2d10+7 slash
+-7 -7 -7 -7
+JU 0 B Z
+stand stand either 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12318
+goblin commoner~
+A goblin commoner~
+A goblin commoner runs about doing errands.
+~
+A lowly goblin wanders through the city hoping to one day get status
+as an Underspire's citizen.
+~
+goblin~
+AHT JZ -300 0
+10 1 2d7+121 1d1+100 2d4+2 punch
+1 1 1 1
+N 0 Q C
+stand stand either 50
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12319
+kobold slave~
+A kobold slave~
+A kobold slave foams a little at the mouth.
+~
+A kobold slaves foams a little at the mouth as they run about their errands. Knowing full
+well they will never be much in the Underspires, they dutifully run
+their errands in hopes they will be free one day.
+~
+kobold~
+A JZ 0 0
+5 0 2d6+60 1d1+100 1d6+1 slap
+5 5 5 5
+0 0 L C
+stand stand either 0
+ABHMV ABCDEFGHIJKQ medium 0 the guilds~
+#12320
+CAptain Imperial Guard~
+The Captain of the Imperial Guards~
+The Captain of the Imperial guards hums to himself as he scans the crowds.
+~
+The heart throb of almost all the drow women, the captain of the guards
+saunters down the street keeping law and order in the Underspires.  Dressed
+smartly in hightop boots and a neatly pressed uniform, he clicks his heals
+against the pavement as he hums gently to himself.
+~
+elf~
+AT HJTVZa -690 0
+45 4 25d10+3000 1d1+100 8d4+16 slash
+-15 -15 -15 -15
+EFGJKNT B B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12321
+erebus~
+Erebus the Weaponsmaster~
+Erebus the Weaponsmaster
+~
+A sombre looking drow stares balefully at you.  Tensing his muscles, he
+prepares to attack.  Beware for you fight Erebus, and he is the master of
+all drow warriors.  
+~
+elf~
+ACT HJOPTVZ -999 0
+60 6 50d10+9500 1d10+200 10d6+33 slash
+-30 -30 -30 -30
+EFGHJKN ABa BC Z
+stand stand male 6000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12322
+Olisindra~
+Olisindra~
+Olisindra of House Axzindrolar
+~
+Olisindra of House Axzindrolar eyes you skeptically as you step before her. Both
+beautiful and deadly, she looks you over and mutters to herself.
+'Normally I would kill any non-drow who dared walk through these halls,
+but I'll make an exception for you. Besides i'm sure something inside will
+do the job for me!'
+~
+elf~
+ABJKa DJZ -700 0
+45 4 25d10+3000 1d1+100 8d4+16 none
+-15 -15 -15 -15
+0 ABLQa B Z
+stand stand female 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+#12323
+Fernia~
+Fernia~
+Fernia the barmaid waits for your order.
+~
+A fiery shock of red hair curls down the back of this sultry barmaid. 
+Sweating lightly in the hot market, leaves a small bead of sweat trickling
+down the nape of her neck.  Her lithe figure dances between the tables as
+she takes orders from patrons.  Putting a hand on her hip, she smirks at
+your ogling and asks, ' See something you want?  ' 
+~
+human~
+AB Z 0 0
+45 4 25d10+3000 1d1+100 8d4+16 none
+-15 -15 -15 -15
+0 ABLQZa ABQ 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12324
+The Hydra~
+the hydra~
+A scaley hydra rears it's head at your approach.
+~
+A scaley lizard rears its ugly head at the sight of you.  Long rows of
+jagged teeth and a pair of beady eyes are all that you see.  It may be
+better to run then to stay.  
+~
+blue dragon~
+ACFG JPQTVZ 0 0
+39 3 15d10+1700 1d1+100 5d6+13 bite
+-13 -13 -13 -13
+CMO Ra BEJ K
+stand stand either 2000
+BHMZ ABCDEFGHIJKLPQUVWX large 0 the guilds~
+#12325
+Knindrax the Enchanter~
+Knindrax the Enchanter~
+Knindrax the Enchanter looks over at you through his spectacles.
+~
+This elf must be a million years old!  Not only does he look old, but
+he's wrinkled like a raisin and smells of mold.  His gnarled fingers cluth
+at an old crutch as he hobbles about his store filling orders.  
+~
+elf~
+ABCG DJZ 0 0
+51 5 50d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -21
+0 ABLQa B Z
+stand stand male 10000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#12326
+Grunder~
+Grunder the Goon~
+Grunder the Goon looks to put unruly guests out to sleep.
+~
+Gunder is a giant.  A short giant by all giant standards, he stands a
+little over 12 feet tall.  Brutish and smelly he earns his keep by beating
+up on customers who get too unruly or don't pay their bills.  
+~
+giant~
+ABCT Z -200 0
+25 2 5d10+550 1d1+100 2d10+7 crush
+-7 -7 -7 -7
+CEKO 0 HI J
+stand stand male 200
+AHMV ABCDEFGHIJK large 0 the guilds~
+M grall 12301 80~
+#12327
+Inquisitor~
+an Inquisitor~
+An unfeeling Inquisitor scans the crowd for disbelievers.
+~
+~
+elf~
+A DHJVZ -900 0
+54 5 70d10+7000 1d1+100 7d6+22 slash
+-24 -24 -24 -24
+EGIKTU BEZ B Z
+stand stand either 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 12300 100~
+#12328
+old ayisha f'dranslaxrac ~
+Ayisha G'dranslaxrac~
+An older female elf putters about her home doing common chores.
+~
+Dressed in a simple dress, Ayisha putters about the house doing some
+chores.  Wearing a few bits of jewellery, she hums to herself while busying
+herself with work.  Looking up, she smiles gently and nods at you.  
+~
+elf~
+ABd JZ 0 0
+0 0 10d5+5 0d0+0 0d0+0 none
+0 0 0 0
+0 ABLQa B Z
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 12309 80~
+#12329
+Drow high priestess~
+the high priestess~
+The high priestess looks appalled at your intrusion.
+~
+Clothed in almost nothing, the high priestess is the epitome of beauty in
+the drow underworld.  Her dark skin glistens with oil that has been
+carefully rubbed into her skin.  A small trickle of sweat gently dares to
+run down the side of her neck.  Her cruel smile would melt the hearts of the
+sturdiest of men making them quiver in their boots.  Her nails covered in a
+red paint, are long and sharp.  Her eyes flash with anger in the candle
+light, while her hair shines like silk.  She beckons towards you
+suggestively.  
+~
+elf~
+ABCFQ HJNOTV -1000 0
+60 6 50d10+9500 9d20+500 9d6+40 impale
+-30 -30 -30 -30
+DEGHIK ABa BQ Z
+stand stand female 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+#12330
+Sodom~
+Sodom the Devourer of Souls~
+An enormous evil waits to give the gift of death.
+~
+~
+deamon~
+AC BDFHJNOQTUVZb -1000 0
+60 6 80d20+20000 40d20+400 10d8+30 none
+-30 -30 -30 -30
+ACDEFGHJ ABEab H NS
+stand stand female 0
+ABGZ ACDEFHJKQVX large 0 the guilds~
+#12331
+Adventurer~
+an adventurer~
+An adventurer wanders the city searching for excitement.
+~
+Dressed in mismatching pieces of armour and equipment, this adventurer
+has spring in their step as they make their journey.  A bit of experience and
+this adventurer could be a worthy opponent.  
+~
+human~
+A V 0 0
+35 3 10d10+1300 1d1+100 4d7+11 slash
+-11 -11 -11 -11
+0 0 B Z
+stand stand male 20
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12332
+Street Sweeper~
+A street sweeper~
+A street sweeper rushes about with a shovel and container cleaning the streets.
+~
+A civic worker runs about removing the garbage off the street. 
+Identified by their pale blue uniforms, these civic workers hope to one day
+climb the ladder and rise higher in the city hierarchy.  
+~
+elf~
+A JZ 0 0
+5 0 2d6+60 1d1+100 1d6+1 none
+5 5 5 5
+0 0 B Z
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12333
+Imperial Guard~
+An imperial guard~
+An imperial guard stares about alertly looking for signs of trouble.
+~
+~
+elf~
+A JVZ -500 0
+34 3 10d10+1200 1d1+100 4d7+10 slash
+-11 -11 -11 -11
+CE 0 B Z
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12334
+wang goon~
+Wang~
+A silent goon looks over at you suspiciously.
+~
+A elfish looking human stares at you from under a mop of black hair. 
+Dressed in a pair of black pants and dark boots, he stands barechested and
+dares you to attack him.  
+~
+human~
+ABC VZ 0 0
+35 3 10d10+1300 1d1+100 4d8+18 none
+-11 -11 -11 -11
+BJKNU B b 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12335
+kaz goon~
+Kaz~
+A silent goon looks over at you suspiciously.
+~
+Staring intensely at you, this young man wears nothing but a pair of
+black pants and black boots.  Standing barechested he beckons you to do
+battle with him.  
+~
+human~
+ABC NVZ 0 0
+35 3 10d10+1300 1d1+100 4d7+11 strangle
+-11 -11 -11 -11
+CEIJRU B b 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12336
+Old man Vandias~
+Old man Vandias~
+An old man shuffles along.
+~
+A grumpy old man shuffles slowly along.  'Whatchya staring at young
+whippersnapper?!  ' 
+~
+human~
+A 0 0 0
+15 1 3d9+208 1d1+100 2d6+3 none
+-2 -2 -2 -2
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 12311 50~
+#12337
+Rosine the store mistress.~
+Rosine~
+A seductive clerk flutters her eyelashes at you.
+~
+A seductive elf bows her head slightly at you as you enter her store. 
+Fluttering her eyes lashes at you she smiles to herself as she pretends to
+clean up the store.  Dressed in a shear dress, her firm figure becomes
+gently outlined, leaving little to the imagination.  
+~
+elf~
+AB DJ 0 0
+51 5 50d10+5000 1d1+100 5d8+20 none
+-21 -21 -21 -21
+0 ABLQa B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 12306 80~
+#12338
+Orius~
+Orius~
+A shifty elf in a long white jacket looks surprised at your intrusion.
+~
+~
+elf~
+AB JZ 0 0
+51 5 50d10+5000 1d1+100 5d8+20 slap
+-21 -21 -21 -21
+0 ABLQa B Z
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12339
+surly pirate~
+A surly pirate~
+A surly pirate glowers at you.
+~
+Smelling like rotting fish, seeweed and saltwater, this sailor is as
+sour as they come.  
+~
+human~
+A Z 0 0
+33 3 10d10+1100 1d1+100 4d4+10 punch
+-11 -11 -11 -11
+0 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12340
+drunken sailor~
+A drunken sailor~
+A drunken sailor looks for his mates.
+~
+~
+human~
+A Z -20 0
+25 2 5d10+550 1d1+100 2d10+7 slap
+-7 -7 -7 -7
+0 0 0 0
+stand stand male 20
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12341
+Dragnar ~
+Dragnar~
+A grey dwarf looks irritated at your intrusion.
+~
+Tough and gruff, this dwarf looks so irritated with you, that it seems
+he's ready to lunge over the counter and strangle you.  Sporting a dirty
+grey beard that seems to have yesterday's lunch in it, he runs his grubby
+fingers over an axe that sits next to his side.  
+~
+dwarf~
+AB JZ -500 0
+51 5 50d10+5000 1d1+100 5d8+20 punch
+-21 -21 -21 -21
+0 ABLQa LQ R
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 12304 80~
+#12342
+martha stewart happy woman~
+Martha Stewart~
+A happy woman hastily pulls out fresh baked goods from an oven.
+~
+Dressed in an array of gaudy colours, an old woman wisks to and from
+baking oven and a firepit.  Humming to herself gently she quickly stirs a
+soup before rushing back to the oven to check on her baking goods.  
+~
+human~
+AB 0 0 0
+40 4 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 ABLQa 0 0
+stand stand female 50000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 12302 100~
+#12343
+Ratchet the Armourer dwarf~
+Ratchet the Armourer~
+A busy dwarf tries to hammer a breast plate into shape.
+~
+A bumbling dwarf hammers away with a mallet at a resisting breast plate. 
+Swearing under his breath he wipes the sweat off his brow and acknowledges
+your presence with a nod.  
+~
+dwarf~
+AB JZ -500 0
+51 5 50d10+5000 1d1+100 5d8+20 impale
+-21 -21 -21 -21
+0 ABLQa LQ R
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12344
+eoweic mage grand elf~
+Eoweic~
+A grand mage looks irritated by your intrusion.
+~
+An angry looking dark elf mutters to himself as he attempts to clear his
+mind of all thoughts and distractions.  Dressed in a black robe and a pair
+of black boots, this elf seems to radiate a 'Do not Disturb' aura.  
+~
+elf~
+ABR HJ -800 0
+50 5 50d10+5000 9d20+400 5d8+19 slash
+-20 -20 -20 -20
+H 0 B Z
+stand stand male 6000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12345
+uycire the destroyer~
+uycire~
+Uycire the Immortal ponders his existence.
+~
+~
+deamon~
+AF DFHJOQTVb -1000 0
+58 5 80d10+12500 5d20+1000 5d10+35 slaughter
+-28 -28 -28 -28
+CFH BJN H NS
+stand stand male 0
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#12346
+Drow Matron~
+A Drow Matron~
+An angry matron pounds her fist in frustration at the sight of you.
+~
+~
+elf~
+ABC HJOTVZ -900 0
+55 5 50d10+7000 6d10+400 10d4+23 slash
+-25 -25 -25 -25
+EJ 0 B Z
+stand stand female 4500
+AHMV ABCDEFGHIJK small 0 the guilds~
+#12347
+matsuo t elf~
+Matsuo the swordsman~
+A dark elf swings a sword easily through the air.
+~
+Sporting a shaved head, this dark elf practices with a wicked looking
+blade.  Though his arms look thin and scrawny, he swings the sword with
+precision and ease.  
+~
+elf~
+ABCT HJTVZ -800 0
+38 3 10d10+1600 1d1+100 5d8+14 slash
+-13 -13 -13 -13
+CDEFKN 0 B Z
+stand stand male 1200
+AHMV ABCDEFGHIJK small 0 the guilds~
+#12348
+o'rin female drow~
+O'rin~
+A female drow warrior attacks a stuffed dummy with a spiked mace.
+~
+Nimble and light on her feet, this female warrior practices with a mace
+that must weigh half her weight.  Screaming with rage, she attacks a stuffed
+target one more time before turning her attention to you.  
+~
+elf~
+ACT HJVZ -800 0
+35 3 10d10+1300 1d1+100 5d9+20 smite
+-11 -11 -11 -11
+EFKN E B Z
+stand stand female 2500
+AHMV ABCDEFGHIJK small 0 the guilds~
+#12349
+Quickling the Demon~
+Quickling the Demon~
+A little demon taunts you to fight him.
+~
+You barely see the features of the demon named Quickling, as he darts in
+and about.  Cackling insanely he taunts you and dares you to fight him.  
+~
+deamon~
+ABG CDFJTV -500 0
+5 2 5d1000+25000 0d0+0 1d1+0 none
+-68 -68 -68 -68
+CEFGHK AB BH JNS
+sleep stand none 0
+ABGZ ACDEFHJKQVX small 0 the guilds~
+#12350
+kei-ying elf warrior~
+Kei-Ying ~
+An elf leans heavily against a large spear.
+~
+An elf sporting a shaved head and a long top knot, looks startled at your
+presence.  Leaning against a large spear he points a finger at you then at
+the door.  
+~
+elf~
+ACT HJVZ -800 0
+35 3 10d10+1300 1d1+100 4d8+14 none
+-11 -11 -11 -11
+EFGHJK 0 B Z
+stand stand male 2300
+AHMV ABCDEFGHIJK small 0 the guilds~
+#12351
+anotsu warrior elf~
+Anotsu the Rebel~
+A lithe elf ponders to himself as he rests a cruel axe on his shoulder.
+~
+Looking pensive, this elf turns a tired eye to look at you.  Giving you
+nothing more than a casual glance, he turns his back to you and resumes what
+he was doing.  
+~
+elf~
+ABCT HJTVZ -800 0
+38 3 10d10+1600 1d1+100 5d8+14 none
+-15 -15 -15 -15
+DFGHJKN E B Z
+stand stand male 3000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#12352
+hortace barkeep bartender~
+Hortace the Barkeep~
+A bartender casually whipes the grime off the bar with the back of his hand.
+~
+A dirty barkeep has all the stains on his apron that would accompany the
+job.  Scruffy and scraggly the barkeep is tolerated by the drow society only
+because of his vast knowledge of the crime world that exists in the
+Underspires.  
+~
+dwarf~
+AB JZ 0 0
+30 3 6d12+853 1d1+100 4d6+8 none
+-9 -9 -9 -9
+0 ABa BLQ RZ
+stand stand none 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12353
+giant scorpion~
+A gigantic scorpion~
+A gigantic scorpion growls at the sight of you.
+~
+A gigantic scorpion bristles at your approach.  It's huge pincers clack
+menacingly at you.  Well over 7 feet in height, this thing must be ancient. 
+Prepare to die.  
+~
+sliver~
+AF DFZ -800 0
+51 5 70d10+15000 1d1+100 5d10+25 pobite
+-21 -21 -21 -21
+CHKMO KZa B K
+stand stand either 50000
+BHMZ ABCDEFGHIJKLPQUVWX giant 0 the guilds~
+M greet 12307 50~
+#12354
+old maid~
+An old maid~
+An old maid attempts to relax after many years of servitude.
+~
+An old, female elf peers up at you as you stand over her.  Having lived
+most of her life in servitude, she barely raises her headat your presence.  
+~
+elf~
+AB JZ 0 0
+30 3 6d12+853 1d1+100 4d6+8 slap
+-9 -9 -9 -9
+0 0 B Z
+stand stand female 20
+AHMV ABCDEFGHIJK small 0 the guilds~
+M grall 12308 80~
+#12355
+goblin prostitute~
+a goblin prostitute~
+A goblin prostitute offers you her services.
+~
+Dressed in a simple evening gown, this goblin attempts to ply her trade
+on you.  Getting past the yellowed teeth and the wart like skin, you almost
+wish you had some extra gold to spare.  
+~
+goblin~
+A J 0 0
+18 1 3d9+100 1d1+100 2d7+4 none
+-3 -3 -3 -3
+0 0 Q C
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M grall 12310 70~
+#12356
+brass monkey~
+A brass monkey~
+A brass monkey sits quietly, contemplating his existence.
+~
+A brass monkey looks quick and nimble
+~
+pig~
+AC VZ 0 0
+45 4 25d10+3000 1d1+100 8d4+16 none
+-15 -15 -15 -15
+0 0 0 0
+stand stand none 0
+AGHMV ABCDEFGHIJK small 0 the guilds~
+#12357
+city greeter figure~
+the city greeter~
+A cold figure waits for newcomers to enter the city.
+~
+A figure dressed in dark robes stands just inside the city gates greeting
+all newcomers to the Underspires.  Its clothing covering it from head to
+toe, offers little identity to the gender or race of the being.  Its ominous
+pin point eyes however seem to pierce your armour and stab you in the heart.
+~
+undead~
+ABSV DJTZ 0 0
+20 2 3d9+333 1d1+100 2d8+5 slash
+-4 -4 -4 -4
+CF BE EILMNPQRS HNOS
+stand stand none 0
+ADHMV ABCDEFGHIJK medium 0 the guilds~
+M greet 12312 80~
+#12358
+boar ~
+a boar~
+A boar snarls in frustration at your intrusion.
+~
+A rough looking boar lowers its head as it prepares to charge you.
+~
+pig~
+AB V 0 0
+17 1 3d9+258 1d1+100 3d4+4 gore
+-3 -3 -3 -3
+0 0 0 0
+stand stand either 0
+AGV ACDEFHJK medium 0 the guilds~
+#12359
+pig master~
+the pig-master~
+The Pig-Master listens for the cries of his children.
+~
+Standing a little over 6ft tall, the pig-master is but a glorified orc. 
+Still, the drooling orc seems more than ready to gut you open.  
+~
+orc~
+AB JZ -500 0
+20 2 3d9+333 1d1+100 2d8+5 none
+-4 -4 -4 -4
+0 0 Q S
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12360
+crocodile~
+A crocodile~
+A crocodile with dagger like teeth glides toward you.
+~
+~
+water fowl~
+ABGc T 0 0
+5 0 2d6+60 1d1+100 1d6+1 none
+5 5 5 5
+M CKTZ R 0
+stand stand either 0
+AGW ACDEFHKP medium 0 the guilds~
+#12361
+croc master~
+the croc master~
+The croc master hears the call of his pets.
+~
+A giant humanoid stares at you from behind a black mask.  Muscles
+rippling in all directions, the croc master begins to stalk you as he sees
+the blood of his children on your clothing.  
+~
+lizard~
+AB HTVZ -500 0
+20 2 3d9+333 1d1+100 2d8+5 none
+-4 -4 -4 -4
+CF B HL INS
+stand stand male 100
+ABGXZc ACDEFHJKQVX medium 0 the guilds~
+#12362
+Python~
+An albino python~
+An albino python slithers slowly towards you.
+~
+It's white skin barely blends with the colour of the swamp.  Nevertheless
+it is at least 12 ft long and it looks very well fed.  
+~
+snake~
+AB 0 0 0
+5 1 2d6+60 1d1+100 1d6+1 none
+5 5 5 5
+OR 0 L I
+stand stand either 0
+AGXYc ADEFKLQVX medium 0 the guilds~
+#12363
+snake charmer woman~
+The Snake Charmer~
+A lithe woman looks amused at your presence.
+~
+A slim woman looks amused at your intrusion.  Her eyes are a deep yellow
+and reptile like.  Her smile sinister, yet for some reason it draws you
+closer.  Her hair .....  Long and ...  Long....  Her legs seem to go on
+forever .....  She is ......  Hypnotizing.......  
+~
+elf~
+AB JZ -400 0
+22 2 5d10+400 1d1+100 4d4+6 slash
+-5 -5 -5 -5
+EFHK 0 B Z
+stand stand female 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12364
+cobra~
+a cobra~
+A nasty cobra rears its head.
+~
+Uh oh!  That cobra looks mighty unfriendly!  Might be a good idea to not
+touch it.  
+~
+snake~
+AB PQV 0 0
+15 1 3d9+208 1d1+100 2d6+3 none
+-2 -2 -2 -2
+GMRU 0 L I
+stand stand either 0
+AGXYc ADEFKLQVX medium 0 the guilds~
+#12365
+raven~
+A large raven~
+A giant raven sweeps in low ready to gut you.
+~
+A large raven soars closer to you looking for an opportunity to strike.  
+~
+song bird~
+AB TV 0 0
+16 2 3d9+233 1d1+100 2d6+4 claw
+-2 -2 -2 -2
+FHRU 0 0 0
+stand stand none 0
+AGW ACDEFHKP medium 0 the guilds~
+#12366
+bird master~
+The bird-master~
+The bird-master waits for his children to return.
+~
+~
+elf~
+A HJ -600 0
+23 2 5d10+450 1d1+100 3d6+6 pierce
+-6 -6 -6 -6
+FHK 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12367
+fly~
+A pesky fly~
+A pesky fly, larger then most comes swarming towards you.
+~
+An ugly fly comes swarming at you, wanting a piece of flesh for dinner.
+ 
+~
+centipede~
+ABG Z 0 0
+1 1 1d4+3 1d1+100 1d6+1 bite
+9 9 9 9
+FHRU 0 FI E
+stand stand none 0
+ABGO ACKP medium 0 the guilds~
+#12368
+Lord flies~
+The Lord of the Flies~
+The Lord of the Flies gnaws on an old bone.
+~
+A bloated humanoid glares at you, from a mass of greasy hair.  Licking
+his fingers he tears a rotted limb from a corpse and prepares for battle.  
+~
+human~
+AB OVZ -450 0
+30 3 6d12+853 1d1+100 4d6+8 strangle
+-9 -9 -9 -9
+CEFGHK Z 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12369
+weeping willow~
+a weeping willow~
+A weeping willow sags close to the ground.
+~
+A weeping willow looks relatively young. Its bark is relatively smooth and has a slight 
+translucency to it. You can see a deep crimson sap running through its veins.
+~
+tree~
+AB J -500 0
+16 1 3d12+300 1d1+100 2d6+4 whip
+-2 -2 -2 -2
+CFH B I H
+stand stand none 45
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12370
+dark druid~
+a dark druid~
+A dark druid scowls at your intrusion.
+~
+Dressed simply in a sheer, silk dress, this druid looks at you
+venemously.  Her wild hair looks uncombed in ages, and her fingers appear to
+be hooked into claw like appendages.  
+~
+human~
+ABCG VZ -700 0
+30 3 6d15+900 4d2+150 4d6+8 punch
+-11 -11 -11 -11
+EK Z 0 0
+stand stand female 0
+ADHMV ABCDEFGHIJK medium 0 the guilds~
+#12371
+Drow priestess~
+A drow priestess~
+A drow priestess scrutinizes your every move.
+~
+Drow women by nature are beautiful, and this priestess is no exception. 
+Her skin is flawless and her curvaceous body emits femininity.  Her
+appearance is more than deceiving, as you are more than sure that she knows
+how to use the flail she carries at her side.  
+~
+elf~
+AC HJTVZ -500 0
+45 5 25d10+3000 3d20+300 8d5+18 slash
+-15 -15 -15 -15
+EHKU A B Z
+stand stand female 3000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#12372
+stacey woman~
+Stacey~
+A young woman smirks wickedly at your approach.
+~
+Stacey, is sometimes known as the Ice Queen of the Underworld.  Cold and
+cunning, she stares almost lifelessly at you through her cold grey eyes. 
+Beautiful as they may be, her eyes betray a world of experience.  
+~
+human~
+AHS HNVZ 0 0
+53 6 50d10+6000 1d1+100 5d9+30 stab
+-23 -23 -23 -23
+EFGHKN Ba IJ 0
+stand stand female 3000
+AHMV ABCDEFGHIJK small 0 the guilds~
+#12373
+stone spider~
+A stone spider~
+A giant statue of a spider guards the foyer from one corner of the room.
+~
+A stone statue of a spider looks like to guard the foyer against
+intruders.  Looking closely you notice the shape of a door in its abdomen. 
+Perhaps you should enter it?  
+~
+centipede~
+ABGc JLVZ 0 0
+35 3 10d10+1300 1d1+100 5d6+13 none
+-11 -11 -11 -11
+CEKO 0 FI E
+stand stand either 0
+ABGHMOV ABCDEFGHIJK medium stone the guilds~
+#12374
+drow soldier~
+A drow soldier~
+A drow soldier stands at attention.
+~
+A soldier is the backbone of any army and this one is no exception.  By
+the looks of it, this one is willing to lay their life down for their
+matron.  
+~
+elf~
+AF JTVZ -500 0
+24 2 5d10+500 1d1+100 2d10+6 slash
+-6 -6 -6 -6
+EFK 0 B Z
+stand stand either 0
+AHMV ABCDEFGHIJK small 0 the guilds~
+#12375
+tunnel lizard~
+a tunnel lizard~
+A tunnel lizard busies itself by digging a hole.
+~
+~
+lizard~
+A Z 0 0
+10 1 2d7+121 1d1+100 2d4+2 none
+1 1 1 1
+FH 0 L I
+stand stand either 0
+AGVXc ACDEFHJKQUV medium 0 the guilds~
+#12376
+iggy slave~
+Iggy the slave~
+A slave runs about fulfilling his daily chores
+~
+Battered and chained, Iggy is now a slave to the Underspires.  Torn rags
+are all he wears now.  
+~
+troll~
+A J 0 0
+10 1 2d7+121 1d1+100 2d4+2 none
+1 1 1 1
+0 0 Q H
+stand stand male 0
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+M grall 12313 100~
+#12377
+drifter~
+A drifter~
+A drifter makes its way around the city collecting odds and ends.
+~
+A being clothed entirely in rags slowly walks about drifting nowhere.  
+~
+homonculus~
+A JT 0 0
+55 5 50d10+7000 1d1+100 10d4+23 punch
+-25 -25 -25 -25
+FHIJ B L H
+stand stand none 2000
+DJM ABCDEFGHIJKPV medium 0 the guilds~
+#12378
+drider~
+a drider~
+A drider seems intent on killing you.
+~
+Half elf, half spider, this abomination seems eager to feast on your
+corpse.  
+~
+deamon~
+AB DFJTZ 0 0
+25 2 5d10+550 1d1+100 2d10+7 slash
+-7 -7 -7 -7
+CFH B H NS
+stand stand none 0
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#12379
+battlescar rager dwarf~
+Battlescar the Rager~
+A short dwarf looks dirty and smells like something dead and moldy.
+~
+A grubby looking dwarf grins at you as you look him over in obvious
+disgust.  'Hey!  Know where I can find some trolls?  ' he asks.  You think
+you notice a dead skunk half hidden in his belt.  
+~
+dwarf~
+A HJNVZa 0 0
+49 4 50d10+4000 1d1+100 4d10+18 punch
+-19 -19 -19 -19
+CDEFJ 0 LQ R
+stand stand male 8000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12380
+hobgoblin~
+hobgoblin~
+A smelly hobgoblin snears at your approach
+~
+A smelly looking hobgoblin wanders the streets aimlessly picking up loose
+junk.  Dressed in tattered clothing, he sneers at anyone who gives him a
+second glance.  
+~
+hobgoblin~
+AC JZ -500 0
+55 5 40d10+3500 1d1+100 10d4+23 punch
+-25 -25 -25 -25
+CE 0 LQ 0
+stand stand male 5000
+AHMV ABCDEFGHIJKY medium 0 the guilds~
+#12381
+A Chogokin Guard~
+A Chogokin Guard stands at attention while making his rounds.~
+A Crimson Guard stands at attention while making his rounds.
+~
+Dressed in deep crimson armor, the Crimson guard represents the elite of
+~
+elf~
+ACT DFJPQVZ -750 0
+46 5 25d10+3250 1d1+100 6d6+16 slash
+-16 -16 -16 -16
+CEFKNT B B Z
+stand stand either 5000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12382
+Basara~
+Basara the Assassin~
+A semi translucent figure watches you with his red eyes.
+~
+~
+deamon~
+ACER BDFHJOQTVa -800 0
+55 6 50d10+8000 1d10+300 10d4+23 gutting
+-25 -25 -25 -25
+BCEFHJKN ABLNPb BHTb NSZ
+stand stand male 0
+ABGHMVZ ABCDEFGHIJKQVX medium 0 the guilds~
+M act 12382 100~
+#12383
+Wani the Hound~
+Wani the Hound~
+A two headed hound comes running toward you.
+~
+A pale, green, two headed monster of a creature drools at the sight of
+you.  Its powerful hindlegs tense as it prepares to propel itself towards
+you and shred you to little bits.  
+~
+dog~
+AF FPQVZa 0 0
+40 4 15d10+1850 1d1+100 4d8+13 acbite
+-13 -13 -13 -13
+CHMN P 0 0
+stand stand either 0
+AGV ACDEFHJKUV medium 0 the guilds~
+#12384
+Cire broken figure ~
+Cire the Broken~
+A silent figure stares vacantly inwards.
+~
+You're looking at a surface elf!  Having left his home long ago he
+searched for love and found only despair.  Cire barely registers your
+presence and stares vacantly at nothing.  His slight figure matches his
+state of mind...  Wasting away to nothingness.  
+~
+elf~
+ABE HJOPTV 750 0
+56 6 50d10+8500 1d1+100 10d4+24 strangle
+-26 -26 -26 -26
+DEFGHJN BNQRa B Z
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12385
+usagi pink rabbit~
+Usagi the Pink Rabbit~
+An ugly pink rabbit with a yellow beak is singing stupid songs and mumbling in broken Common. 
+~
+A bright pink rabbit stands on his hind legs dancing about.  Oddly enough
+the pink rabbit has a beak and tries to sing and dance its own tune of
+broken Common.  A little blue emblem with a yellow 'N' is proudly displayed
+on his chest.  
+~
+rabbit~
+AB 0 0 0
+20 2 3d9+333 1d1+100 2d8+5 slap
+-4 -4 -4 -4
+FH A A 0
+stand stand male 10000
+AGV ACDEFHJK medium 0 the guilds~
+M grall 12385 100~
+#12386
+kang elf~
+Kang the Grappler~
+A sly elf circles around you.
+~
+A dark elf smirks at your approach.  His body is absolutely solid. 
+Standing a mere 5'6", he looks right ready to pulverise you.  
+~
+elf~
+ABC HJPQTVa -800 0
+45 4 25d10+4000 1d1+100 8d4+25 none
+-15 -15 -15 -15
+CDEFGHIKNO 0 B Z
+stand stand male 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12387
+Pugilist~
+a pugilist~
+A pugilist boxes with another fighter.
+~
+A sweaty fighter dances around his opponent throwing punches.  His body
+hardend by daily training glistens with a thin layer of sweat.  
+~
+elf~
+ABS DJPTVZa -600 0
+35 3 10d10+1300 1d1+100 4d7+11 beating
+-11 -11 -11 -11
+FGKL 0 B Z
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12388
+Shi-Obake soldier~
+a Shi-Obake soldier~
+A Shi-Obake soldier awaits his orders.
+~
+A stone-faced soldier stares at you through their red eyes.  Their slim
+build deceptively hides their strength.  
+~
+elf~
+AC JVZ -700 0
+40 4 15d10+1850 1d1+100 4d8+13 slaughter
+-13 -13 -13 -13
+FIJKQU A AB Z
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12389
+Shi-Obake Lieutenant~
+A Shi-Obake Lieutenant~
+A Shi-Obake Lieutenant looks for trouble.
+~
+A quick look at this soldier tells you that you should stay far away from
+them.  A cruel sneer seems permanently etched into their face as they slowly
+measure you.  They seem to like your equipment.  
+~
+elf~
+AC HJTVZ -750 0
+43 4 25d10+2500 1d1+100 3d12+15 slash
+-15 -15 -15 -15
+EFIJKN B B Z
+stand stand either 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12390
+Shi-Obake Captain~
+The Shi-Obake Captain~
+The Shi-Obake Captain is covered head to foot in bristling armor.
+~
+A concotion of bristling armor would make even a dragon fear this
+figure.  Dressed in all black, spikes and tendrils seem to cover the suit. 
+The only part that is uncovered is the Captain's face.  Her beauty is only
+enhanced by the cruel look she gives you.  
+~
+elf~
+ACFS DFHJPVZa -900 0
+46 4 25d15+4000 1d1+100 6d6+16 none
+-16 -16 -16 -16
+CEFGJKN ABa AB Z
+stand stand female 20000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12391
+Novatron~
+a novatron~
+A novatron scurries about writing in a little notebook.
+~
+A scruffy looking troll in a cheap suit runs about writing things in a
+notepad.  His glasses askew, he sputters about taking down notes.  
+~
+troll~
+A J 0 0
+10 1 2d7+121 1d1+100 2d4+2 none
+1 1 1 1
+0 0 Q H
+stand stand either 1000
+BHMZ ABCDEFGHIJKLPQUVWX medium 0 the guilds~
+#12392
+Shi-Obake Queen~
+the Shi-Obake Queen~
+The Shi-Obake Queen looks mystified by your presence.
+~
+An elegant and slender looking female stands before you.  Her skin is
+smooth and her legs long.  Her raven coloured hair cascades down below her
+shoulders.  You'd fall down at her feet if it weren't for her ghostly pallor
+and pupiless eyes.  
+~
+elf~
+ABC HJOTVZ -890 0
+56 6 50d10+9500 1d1+1000 10d4+24 charge
+-26 -26 -26 -26
+DEFGKN ABELPRSZab ABELPRZb Z
+stand stand female 2000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#12393
+yurei~
+a yurei~
+A yurei gnashes its teeth in anticipation.
+~
+A ghostly form of a figure stands before you.  Dressed in the clothing it
+died in, the Yurei waits to unleash its vengeance so that it may rest.  
+~
+deamon~
+AF DFJTVX -900 0
+54 5 50d10+6500 1d1+100 7d6+22 drain
+-24 -24 -24 -24
+CFH B H NS
+stand stand either 0
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#12394
+Ten-gu~
+a ten-gu~
+A ten-gu looks about for something to tear apart.
+~
+Phasing in and out of reality, this crow like humanoid stares hungrily
+in your direction.  Its stench is almost unbearable as it advances towards
+you.  It looks angry and hungry.  
+~
+deamon~
+AF DFJTV -800 0
+54 5 50d10+6500 1d1+100 7d6+22 none
+-24 -24 -24 -24
+CFHR B H NS
+stand stand male 0
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#12395
+yoshimitsu samurai~
+Yoshimitsu~
+A skeletal samurai stares through you with his fiery eyes.
+~
+A dusty looking samurai stands with his hands on his hips.  The layers of
+dust almost covers the rich red suit of armor he wears.  The samurai's
+bashiri has been shaped into a demonic skull to match the samurai's face. 
+Two small burning orbs serve as eyes and they seem to bore through you.  
+~
+deamon~
+AFT DFHJT 500 0
+55 5 50d10+7000 1d1+100 10d4+27 slash
+-25 -25 -25 -25
+BCDEFGHIKR B AHJLMQ NS
+stand stand none 0
+ABGZ ACDEFHJKQVX medium 0 the guilds~
+#12396
+giant turkey~
+A giant turkey~
+A gigantic turkey stomps in your direction
+~
+~
+song bird~
+AF HTV 0 0
+60 6 50d10+10000 1d1+100 8d6+28 peck
+-30 -30 -30 -30
+FH B 0 0
+stand stand none 0
+AGW ACDEFHKP huge 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#12300
+rat on a stick~
+A rat on a stick~
+A cooked rat on a stick.~
+food~
+food 0 A
+10 4 0 0 0
+0 10 30 P
+#12301
+Juke Box~
+a juke box~
+A bopping juke box waits to be cranked.~
+steel~
+jukebox B 0
+0 0 0 0 0
+1 500 40 P
+#12302
+veggie sticks~
+Veggie sticks~
+Some hot veggie sticks have been left unattended.~
+food~
+food 0 A
+2 1 0 0 0
+0 2 30 P
+#12303
+Rose Petal couch~
+a rose petal~
+A gigantic rose petal looks comfortable to sit on.~
+silk~
+furniture 0 0
+4 6000 EHK 100 100
+0 0 0 P
+#12304
+pint~
+a pint~
+A frothy pint looks refreshing.~
+alcohol~
+drink B AO
+3 3 'beer' 0 0
+0 1 20 P
+#12305
+sickle~
+a sharp sickle~
+A sharp sickle lies forgotten.~
+gold~
+weapon B AN
+dagger 4 3 gutting 0
+16 150 1200 P
+#12306
+warhammer~
+A warhammer~
+A warhammer~
+iron~
+weapon 0 AN
+mace 6 2 pierce 0
+17 60 800 P
+#12307
+Halberd~
+A halberd~
+A halberd looks a little heavy.~
+iron~
+weapon I AN
+polearm 4 7 impale F
+34 180 12000 P
+#12308
+flail ancient~
+the Flail of the Ancients~
+The flail of the Ancients cries out for blood.~
+stone~
+weapon I AN
+flail 4 10 entangle M
+48 25 300 P
+#12309
+polished broadsword~
+a broadsword~
+A polished broadsword looks a little heavy.~
+steel~
+weapon 0 AO
+sword 4 2 none F
+14 180 1000 P
+#12310
+A skeleton key~
+A skeleton key~
+A skeleton key looks well used.~
+steel~
+armor 0 AC
+0 0 0 0 0
+3 5 0 P
+A
+5 1  
+A
+2 1  
+#12311
+axe~
+an axe~
+A sharp axe has been left on the floor.~
+mithril~
+weapon B AN
+axe 4 3 cleave 0
+17 100 2000 P
+#12312
+a table and set of chairs~
+a table and chair~
+A table and set of chairs look comfortable.~
+wood~
+furniture 0 0
+4 5000 DG 0 0
+1 200 0 P
+#12313
+A fountain~
+a fountain~
+A fountain merrily spouts water in the city square.~
+stone~
+fountain O P
+-1 -1 'water' 0 0
+0 6000 0 P
+#12314
+lamp post~
+A lamp post~
+A glowing lamp illuminates the intersection.~
+glass~
+light AO 0
+0 0 999 0 0
+0 2000 0 P
+#12315
+blue butterfly~
+A {cBlue{x butterfly~
+A butterfly flitters about the room.~
+fea~
+armor 0 AQ
+1 1 1 1 0
+1 0 0 P
+#12316
+lance~
+a lance~
+A lance looks long enough to spear a whale.~
+silver~
+weapon 0 AN
+staff 4 3 pierce FI
+18 150 4000 P
+#12317
+leather vest~
+a leather vest~
+A leather vest.~
+leather~
+armor 0 AD
+3 4 4 4 0
+25 20 1200 P
+A
+2 2  
+#12318
+leather pants~
+leather pants~
+A pair of leather pants.~
+leather~
+armor 0 AF
+5 5 5 5 0
+28 30 3400 P
+A
+14 40  
+#12319
+leather glove~
+leather gloves~
+A pair of leather gloves looks form fitting.~
+leather~
+armor 0 AH
+4 4 4 4 0
+26 5 4000 P
+A
+2 2  
+#12320
+leather cape~
+a leather cape~
+A leather cape looks fashionable.~
+leather~
+armor Y AK
+6 6 6 6 0
+26 100 1200 P
+#12321
+dog bone~
+a dog bone~
+A strange looking dog bone sits gathering dust.~
+bone~
+wand 0 AO
+25 4 4 'calm' 0
+16 20 2000 P
+#12322
+stuffed bird~
+a stuffed bird~
+A stuffed bird gathers dust.~
+wood~
+wand 0 AO
+35 4 4 'phantom force' 0
+28 15 4000 P
+#12323
+gnarled staff~
+a gnarled staff~
+A gnarled staff looks worn.~
+clay~
+wand G AO
+15 2 2 'cure serious' 0
+25 120 4000 P
+#12325
+a mummified snake~
+a mummified snake~
+A muffied snake looks fragile on the floor.~
+wood~
+wand G AO
+15 2 2 'cure poison' 0
+24 20 3000 P
+#12326
+name frog's leg~
+a frog's leg~
+A frog's leg is here.~
+wood~
+wand 0 AO
+10 3 3 'continual light' 0
+15 10 1800 P
+#12327
+potion sight~
+a potion of sight~
+A potion of sight.~
+water~
+potion 0 AO
+15 'detect magic' 'detect invis' 'reserved' 'reserved'
+1 5 890 P
+#12328
+moldy green potion~
+a moldy green potion~
+A moldy green potion.~
+slime~
+potion 0 AO
+10 'haste' 'reserved' 'reserved' 'reserved'
+10 20 1230 P
+#12329
+a neon blue potion~
+a neon blue potion~
+A neon blue potion.~
+water~
+potion 0 AO
+1 'fly' 'reserved' 'reserved' 'reserved'
+1 5 500 P
+#12330
+orange potion~
+an orange potion~
+An orange potion.~
+water~
+potion 0 AO
+19 'sanctuary' 'reserved' 'reserved' 'reserved'
+10 5 5000 P
+#12331
+red potion~
+a red potion~
+A red potion.~
+water~
+potion 0 AO
+10 'cloak of mind' 'reserved' 'reserved' 'reserved'
+5 0 5000 P
+#12332
+potion of invulnerability~
+a potion of invulnerability~
+A potion of invulnerability.~
+oil~
+potion 0 AO
+25 'dispel magic' 'cancellation' 'weaken' 'slow'
+10 10 13000 P
+#12333
+fly paper~
+a piece of fly paper~
+A piece of fly paper.~
+paper~
+scroll 0 AO
+20 'soundproof' 'reserved' 'reserved' 'reserved'
+20 30 2000 P
+#12334
+scroll recall~
+scroll of recall~
+A scroll of recall.~
+paper~
+scroll 0 A
+15 'word of recall' 'reserved' 'reserved' 'reserved'
+15 10 1400 P
+#12335
+black wand~
+a black wand~
+A black wand.~
+stone~
+wand 0 AO
+20 3 2 'pyrotechnics' 0
+25 50 2000 P
+#12336
+scroll of charging~
+a scroll of charging~
+A scroll of charging.~
+wood~
+scroll 0 AO
+20 'recharge' 'reserved' 'reserved' 'reserved'
+20 20 3500 P
+#12337
+fish oil~
+a jar of fish oil~
+A jar of fish oil.~
+oil~
+potion 0 AO
+10 'pass door' 'reserved' 'reserved' 'reserved'
+10 20 800 P
+#12338
+slab of tuna~
+a slab of tuna~
+A slab of tuna.~
+meat~
+food 0 A
+10 5 0 A 0
+1 10 130 P
+#12339
+fish tail~
+a fish tail~
+A fish tail.~
+food~
+pill 0 A
+6 'invisibility' 'reserved' 'reserved' 'reserved'
+0 5 300 P
+#12340
+shot of brandy~
+a shot of brandy~
+A shot of brandy.~
+liq~
+drink 0 A
+1 1 'firebreather' 1 0
+0 1 20 P
+#12341
+rat poison~
+a bottle of rat poison~
+A strange bottle has been left here.~
+liq~
+drink 0 A
+3 3 'water' 1 0
+0 1 50 P
+#12342
+bottle of coke~
+a bottle of coke~
+A bottle of coke.~
+liqui~
+drink 0 A
+6 6 'coke' 0 0
+0 5 50 P
+#12343
+glass lemonade~
+a glass of lemonade~
+A glass of lemonade.~
+liquid~
+drink 0 A
+10 5 'lemonade' 0 0
+0 5 100 P
+#12344
+iron shield~
+an iron shield~
+An iron shield.~
+iron~
+armor 0 AJ
+7 7 7 6 0
+25 180 2500 G
+#12345
+off white~
+an off white potion~
+An off white potion.~
+wood~
+potion 0 A
+20 'sleep' 'confusion' 'loneliness' 'reserved'
+11 0 1500 P
+#12346
+tower shield~
+a tower shield~
+A tower shield.~
+mith~
+armor 0 AJ
+9 9 9 7 0
+40 180 3000 P
+#12347
+Horned Helmet~
+a horned helmet~
+A horned helmet.~
+steel~
+armor 0 AE
+6 4 7 5 0
+18 50 1200 P
+#12348
+Iron cloak~
+an iron cloak~
+An iron cloak.~
+iron~
+armor 0 AK
+10 10 10 10 0
+22 300 5000 P
+A
+2 -4  
+#12349
+field plate~
+a field plate~
+A suit of field plate looks nice and shiney.~
+steel~
+armor Ba AD
+9 9 9 9 0
+46 300 6000 P
+A
+20 -2  
+A
+2 -1  
+#12350
+chain mail suit~
+a suit of chain mail~
+A suit of chain mail.~
+steel~
+armor 0 AD
+7 7 8 8 0
+40 200 5000 P
+A
+2 2  
+#12352
+a heavy studded robe~
+A heavy studded robe~
+A heavy studded robe.~
+leather~
+armor Ybd AD
+8 8 8 8 0
+46 100 5000 P
+A
+2 2  
+#12353
+steel flail~
+a steel flail~
+A steel flail.~
+steel~
+weapon 0 AN
+flail 3 5 smash F
+18 50 1400 P
+#12354
+a morningstar~
+a morningstar~
+A morningstar.~
+iron~
+weapon 0 AN
+flail 7 3 gore F
+30 200 2500 P
+#12355
+Flail of might~
+The Flail of Might~
+The Flail of Might.~
+steel~
+weapon 0 AN
+flail 9 4 smite F
+45 300 5000 P
+#12356
+halberd~
+a halberd~
+A halberd.~
+steel~
+weapon 0 AN
+polearm 8 3 gore F
+32 350 2300 P
+#12357
+glaive~
+a sharp glaive~
+A sharp glaive.~
+steel~
+weapon 0 AN
+polearm 6 4 slash F
+35 250 2500 P
+#12358
+Spiked hammer~
+a spiked hammer~
+A spiked hammer.~
+iron~
+weapon 0 AN
+mace 8 4 slash 0
+43 150 4000 P
+#12359
+chocolate chip cookie~
+a chocolate chip cookie~
+A yummy chocolate chip cookie has been set aside.~
+food~
+food 0 AO
+15 1 0 0 0
+0 1 10 P
+#12360
+a fudge cookie~
+a fudge cookie~
+You spot a fudge cookie looking quite yummy.~
+food~
+food 0 AO
+15 1 0 0 0
+0 1 10 P
+#12361
+blueberry pie~
+a blueberry pie~
+A blueberry pie.~
+wood~
+food 0 A
+15 6 0 0 0
+0 5 90 P
+#12362
+green pellet~
+a green pellet~
+A green pellet.~
+food~
+pill 0 A
+10 'haste' 'fly' 'reserved' 'reserved'
+10 1 1800 P
+#12363
+a blue pill~
+a blue pill~
+A blue pill.~
+wax~
+pill 0 A
+35 'giant strength' 'reserved' 'invisibility' 'reserved'
+25 1 2500 P
+#12364
+red pill~
+a red pill~
+A red pill.~
+food~
+pill 0 A
+20 'bark skin' 'stone skin' 'haste' 'reserved'
+40 1 6000 P
+#12365
+small sack powder~
+a small sack of white powder~
+A small sack of white powder looks suspicious.~
+wood~
+pill 0 AO
+15 'haste' 'detect invis' 'cure light' 'reserved'
+20 3 5000 P
+#12366
+beaker green liquid~
+a beaker of green liquid~
+A beaker of green liquid.~
+liq~
+potion 0 A
+10 'pass door' 'know alignment' 'reserved' 'reserved'
+10 2 100 P
+#12367
+metal locker~
+A metal locker~
+A black locker looks rusted shut.~
+wood~
+container 0 0
+1000 ACD 12368 1000 1000
+0 0 0 P
+#12368
+black key~
+a black key~
+A black key.~
+steel~
+key 0 AO
+0 0 0 0 0
+0 1 0 P
+#12369
+sabre~
+a long sabre~
+A long sabre.~
+mithril~
+weapon 0 AN
+katana 8 3 slash E
+37 20 180 P
+A
+19 2  
+A
+18 1  
+A
+2 1  
+#12370
+the shield of geist~
+the shield of geist~
+A shield looks ready to be worn.~
+silver~
+armor 0 AJ
+7 8 7 8 0
+36 200 2000 P
+A
+13 15  
+A
+1 1  
+#12371
+A silk sash~
+a silk sash~
+A silk sash looks a little worn.~
+silk~
+armor 0 AL
+1 1 1 1 0
+36 15 400 P
+A
+2 2  
+#12372
+spiked mace~
+a spiked mace~
+A spiked mace.~
+mithril~
+weapon I AN
+mace 7 4 slash I
+36 140 1400 P
+#12373
+kimono~
+a kimono~
+A colourful kimono.~
+silk~
+armor b AD
+7 7 7 7 0
+35 15 3500 P
+A
+12 20  
+#12374
+copper ring~
+a copper ring~
+A copper ring.~
+copper~
+armor 0 AB
+7 7 7 7 0
+35 5 1500 P
+A
+2 2  
+#12375
+glaive~
+a glaive~
+A glaive.~
+iron~
+weapon I AN
+polearm 6 4 slash A
+36 200 3000 P
+A
+18 2  
+A
+19 2  
+#12376
+Iron shod boots~
+a pair of iron shod boots~
+A pair of iron shod boots.~
+leather~
+armor bc AG
+8 8 8 8 0
+37 40 4000 P
+A
+2 2  
+#12377
+Studded gauntlet~
+studded gauntlets~
+A pair of studded gauntlets.~
+mithr~
+armor B AH
+9 9 9 2 0
+36 30 1200 P
+A
+18 1  
+A
+1 1  
+#12378
+a stone axe~
+a stone axe~
+A stone axe.~
+mithril~
+weapon 0 AN
+axe 5 5 tear D
+36 100 2000 P
+A
+19 2  
+A
+2 1  
+#12379
+leather sleeves~
+a pair of leather sleeves~
+A pair of leather sleeves.~
+leather~
+armor bc AI
+3 3 3 3 0
+35 10 200 P
+A
+1 2  
+#12380
+wooden sandals~
+a pair of wooden sandals~
+A pair of wooden sandals.~
+wood~
+armor IY AG
+4 4 4 4 0
+35 10 30 P
+A
+13 15  
+A
+2 2  
+#12381
+beaded bracelet~
+a beaded bracelet~
+A beaded bracelet.~
+wood~
+armor 0 M
+1 2 1 1 0
+7 1 300 P
+A
+3 1  
+A
+5 1  
+#12382
+butcher knife~
+a butcher knife~
+A bloodied butcher knife.~
+steel~
+weapon 0 AN
+dagger 9 3 slash 0
+40 30 3400 P
+A
+2 2  
+#12383
+pickaxe~
+a pickaxe~
+A pickaxe gleams with dark menace.~
+iron mithril~
+weapon ac AN
+exotic 6 5 pierce G
+44 40 4000 P
+A
+19 2  
+#12384
+blood saw~
+a saw~
+A blood covered saw lies forgotten.~
+steel~
+weapon AEbc AN
+dagger 5 7 saw L
+43 60 5000 P
+A
+19 2  
+#12385
+tiger claws~
+a pair of tiger claws~
+A pair of tiger claws.~
+steel~
+weapon 0 AN
+exotic 4 8 acbite D
+40 25 4000 P
+A
+2 2  
+#12386
+cat-o-nine tails~
+a cat-o-nine ~
+A cat-o-nine looks cruel with its barbed ends.~
+bronze~
+weapon 0 AN
+flail 6 5 tear 0
+40 80 4000 P
+#12387
+lead box~
+a lead box~
+A lead box.~
+lead~
+container 0 0
+1000 ACD 12390 1000 0
+0 1000 1 P
+#12388
+green gem~
+a glowing green gem~
+A glowing green gem looks out of this world.~
+gem~
+warp_stone 0 AO
+0 0 0 0 0
+20 20 200 P
+A
+1 -2  
+#12389
+a sticky ball~
+a sticky ball~
+A sticky ball.~
+webbing~
+throwing 0 AO
+2 10 none 35 'delayed blast fireball'
+25 5 7400 P
+#12390
+gold key~
+a gold key~
+A gold key.~
+gold~
+key P A
+0 0 0 0 0
+0 1 1000 P
+#12391
+a screwdriver~
+a screwdriver~
+An old worn screwdriver.~
+iron~
+key 0 AO
+0 0 0 0 0
+0 10 4000 P
+#12392
+sturdy spear~
+a sturdy spear~
+A sturdy spear looks ready to be wielded.~
+steel~
+weapon 0 AN
+staff 3 8 slash F
+30 40 1000 P
+A
+2 2  
+#12393
+ornate breast plate~
+an ornate breast plate~
+An ornate breastplate looks ready to be worn.~
+mith~
+armor B AD
+10 10 10 10 0
+49 400 6500 P
+A
+2 2  
+A
+12 20  
+#12394
+rotten arm~
+a rotten arm~
+A rotten arm decays and emits an awful odour.~
+slime~
+weapon PU AN
+exotic 5 4 crush N
+25 20 0 P
+A
+19 4  
+#12395
+barbed flail~
+a barbed flail~
+A barbed flail looks dangerous.~
+silver~
+weapon ad AN
+flail 5 7 pierce IM
+44 60 9000 P
+#12396
+gauntlets minotaur~
+Gauntlets of the Minotaur~
+A nasty looking pair of gauntlets look dusty with age.~
+electrum~
+armor IT AH
+8 7 8 7 0
+47 80 3000 P
+A
+19 3  
+A
+1 2  
+#12397
+a prickly spine~
+A prickly spine~
+A whip that resembles a prickly spine looks to be made of diamonds.~
+diamond~
+weapon 0 ANY
+whip 5 8 slash 0
+47 80 7500 P
+A
+1 1  
+#12398
+A shard~
+a shard~
+A shard looks pretty sharp.~
+steel~
+throwing 0 AOY
+4 4 pierce 30 'poison'
+30 20 300 P
+#12399
+Hells Wrath~
+Hell's Wrath~
+A wicked whip gleams with an eerie light.~
+diamond~
+weapon I ANZ
+whip 11 3 slash BT
+48 100 10000 P
+A
+19 2  
+A
+18 2  
+A
+2 2  
+#12400
+diamond ring~
+A gigantic rock!~
+A glittering rock shines in the dust.~
+wood~
+jewelry 0 AB
+0 0 0 0 0
+22 5 1000 P
+A
+19 2  
+#12401
+lock pick~
+a tiny lockpick~
+A tiny lockpick looks useful for opening doors.~
+steel~
+key 0 A
+0 0 0 0 0
+0 1 0 P
+#12402
+tiger claw~
+a tiger claw~
+A tiger claw looks sharps and deadly.~
+iron~
+weapon 0 AN
+dagger 8 4 acbite P
+47 40 4000 P
+#12403
+trident~
+a trident~
+A trident looks well sharpened.~
+iron~
+weapon 0 AN
+staff 7 5 pierce I
+45 50 100 P
+A
+18 2  
+#12404
+Heavens Bane~
+Heaven's Bane~
+A humming sword looks ready to be possess this skillful.~
+steel~
+weapon HI AN
+sword 6 6 slash A
+47 50 5500 P
+#12405
+Scorpion shell~
+a scorpion's shell~
+A giant scropion shell looks like it can be worn.~
+shell~
+armor I AK
+10 10 10 10 0
+49 200 30000 P
+A
+20 2  
+#12406
+cog~
+a cog~
+A cog looks shiney but not greasey.~
+iron~
+key B A
+0 0 0 0 0
+0 10 0 P
+#12407
+scrap parchment~
+a scrap of parchment~
+A scrap of parchment lies slightly crumpled.~
+wood~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#12408
+short sabre~
+a short sabre~
+A short sabre looks sharp.~
+iron~
+weapon 0 AN
+dagger 8 4 slash I
+46 90 5000 P
+#12409
+axe double-bladed~
+a double-bladed axe~
+A double-bladed axe looks bloodthirsty.~
+mithril~
+weapon I AN
+axe 5 8 slice A
+47 100 4500 P
+#12410
+fiery marble~
+A fiery marble~
+A fiery marble.~
+glass~
+throwing 0 AO
+4 3 blast 35 'pyrotechnics'
+30 5 3000 P
+#12411
+frosty marble~
+a frosty marble~
+A frosty marble~
+glass~
+throwing 0 AO
+4 3 blast 35 'ice bolt'
+30 5 3000 P
+#12412
+magic mirror~
+magic mirror~
+A magic mirror.~
+glass~
+recall_crystal B AO
+ABEMN AB AB 0 0
+1 10 0 P
+#12413
+heart potion glowing~
+A glowing potion~
+A glowing potion lights up the room.~
+wood~
+potion AB AO
+45 'heal' 'cure critical' 'reserved' 'reserved'
+20 10 1000 P
+#12414
+coffin ~
+A coffin~
+A coffin with the inscription '{RT{DY{RG{DE{RR{x' sits in the middle of the room.~
+stone~
+furniture 0 0
+1 1000 FIL 100 100
+0 2000 0 P
+#12415
+spiked hammer~
+A spiked hammer~
+A cruel looking hammer glimmers in the shadows.~
+mithr~
+weapon I AN
+mace 5 7 slash E
+46 60 7000 P
+#12416
+Crimson Mask~
+A crimson mask~
+A crimson mask with protruding horns waits to be worn.~
+electrum~
+armor A AE
+10 10 8 9 0
+43 20 3500 P
+A
+2 2  
+#12417
+Crimson cuirass~
+a crimson cuirass~
+A crimson cuirass is covered with little spikes.~
+elect~
+armor 0 AK
+9 9 9 9 0
+44 200 5000 P
+A
+19 2  
+#12418
+crimson leggings~
+A pair of crimson leggings~
+A pair of crimson leggings looks like the perfect fit.~
+electr~
+armor 0 AF
+9 9 9 9 0
+44 300 4000 P
+A
+2 1  
+A
+14 20  
+#12419
+Odachi~
+an odachi~
+A wicked odachi glimmers faintly.~
+iron~
+weapon GHI AN
+katana 6 6 slash G
+48 90 8000 P
+A
+19 2  
+A
+18 2  
+#12420
+glowbug light~
+A glowbug lantern~
+A lantern filled with glowbugs sends light flickering about the room.~
+glass~
+light O 0
+0 0 999 0 0
+0 10000 0 P
+#12421
+bed~
+a four post bed~
+A four-post bed looks comfortable.~
+wood~
+furniture O 0
+2 5000 EHK 0 0
+0 5000 0 P
+#12422
+contract~
+a contract~
+An old contract.~
+paper~
+scroll 0 AO
+20 'curse' 'slow' 'sanctuary' 'reserved'
+20 10 4000 P
+#12423
+Metal-shod gloves~
+metal-shod gloves~
+A pair of metal-shod gloves.~
+iron~
+armor BIacd AH
+6 6 6 7 0
+34 20 2500 P
+A
+19 2  
+A
+1 2  
+#12424
+snakeskin under armor~
+snakeskin under armor~
+A piece of snakeskin under armor looks nifty.~
+snakeskin~
+armor FGI AD
+9 9 9 9 0
+43 20 9000 P
+#12425
+black spiked chestplate~
+A black, spiked chestplate~
+A black, spiked chestplate looks deadly.~
+iron~
+armor I AD
+9 9 9 9 0
+45 500 10000 P
+A
+19 3  
+#12426
+Black spiked gauntlets~
+A pair of black, spiked gauntlets~
+An oddly shaped pair of gauntlets lie on the floor.~
+iron~
+armor I AHO
+9 9 9 9 0
+45 40 2500 P
+A
+1 2  
+A
+18 2  
+#12427
+black tentacle armguards~
+black tentacled arm guards~
+A pair of arm guards resembling tentacles lie here.~
+iron~
+armor I AIO
+9 9 9 9 0
+45 100 4500 P
+A
+19 3  
+#12428
+black spike leg guards~
+black spike leg guards~
+A pair of black spiked leg guards looks discarded.~
+wood~
+armor I AFO
+9 9 9 9 0
+45 150 5000 P
+A
+14 30  
+#12429
+black spiked boots~
+black spiked boots~
+A pair of black spiked boots needs polishing.~
+iron~
+armor I AGO
+9 9 9 9 0
+45 50 5000 P
+A
+2 3  
+#12430
+black blade~
+A black blade~
+A black blade glistens eerily.~
+iron~
+weapon I ANO
+sword 4 8 slash D
+45 50 5000 P
+#12431
+pink key~
+a pink key~
+A pink key.~
+steel~
+key 0 AO
+0 0 0 0 0
+1 1 0 P
+#12432
+star jewel~
+the Star Jewel~
+A star jewel shines brightly.~
+crystal~
+armor BIY AC
+0 0 0 0 0
+50 5 8000 P
+A
+12 50  
+A
+4 2  
+A
+3 1  
+#12433
+seismic touch~
+The Seismic Touch~
+The Seismic Touch vibrates eerily.~
+steel~
+weapon H AN
+exotic 6 6 saw W
+50 20 2000 P
+A
+19 3  
+#12434
+parchment~
+a parchment~
+A piece of parchment.~
+parch~
+scroll 0 AO
+30 'bless' 'giant strength' 'shield' 'reserved'
+25 5 1000 P
+#12435
+spiked rod~
+a spiked rod~
+A spiked rod.~
+platinum~
+weapon I ANO
+mace 9 4 smite T
+47 150 4500 P
+A
+18 1  
+A
+19 1  
+#12436
+desk~
+a desk~
+~
+wood~
+container O 0
+0 A 0 1000 1000
+0 0 0 P
+#12437
+A key~
+a stone key~
+A lone stone key has been thrown away.~
+stone~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#12438
+gift flipping bird~
+A flipping {Bbird.{x~
+A flipping bird caws in your direction.~
+meat~
+pill 0 AN
+25 'water breathing' 'cure critical' 'haste' 'reserved'
+1 10 500 P
+#12439
+ring~
+A large {Ygold{x ring.~
+A gold ring looks too large to be worn.~
+wood~
+key 0 AO
+0 0 0 0 0
+0 1 0 P
+#0
+
+
+
+#ROOMS
+#12300
+Tyger's Humble Abode~
+The sweet scent of lilac wafts through the air as you appear in the room.
+As your senses grasp the reality of the room, you notice a comfortable
+looking sofa and table set.  The walls are covered in a deep shade of green
+paint, giving the room an earthy look to it.  
+~
+0 262660 2
+D5
+~
+~
+4 0 12343
+M 0 H 0
+S
+#12301
+A hole in the ground~
+A small hole has been tunneled into the ground here.  Squishing yourself
+tightly, you can probably squeeze through into the darkness below.  
+~
+0 8 0
+D5
+~
+~
+0 0 12304
+M 0 H 0
+S
+#12302
+A Musty Passage~
+A mustiness in the air lingers as you make your way through the tunnels. 
+The dampness is beginning to make your bones ache.  The smell in the tunnels
+get worse as you begin to sweat.  You seem to be lost in these endless
+tunnels.  
+~
+0 9 0
+D0
+~
+~
+0 0 12302
+D1
+~
+~
+0 0 12302
+D2
+~
+~
+0 0 12302
+D3
+~
+~
+0 0 12302
+D4
+~
+~
+0 0 12304
+D5
+~
+~
+0 0 12303
+M 0 H 0
+S
+#12303
+A Stuffy Clearing~
+Your journey leads to an elbow of a tunnel.  To the north you see a
+flicker of light, while upwards you feel a faint breeze.  You brace yourself
+against the nearby wall as you begin to gasp for air.  
+~
+0 0 0
+D0
+~
+~
+0 0 12305
+D4
+~
+~
+0 0 12302
+M 0 H 0
+S
+#12304
+A Cramped Passageway~
+You can barely squeeze your way into this passage.  Your shoulders scrape
+badly as you clear the entrance.  Unfortunately, the other exit has just as
+small an opening to fit through.  
+~
+0 0 0
+D4
+~
+~
+0 0 12301
+D5
+~
+~
+0 0 12302
+M 0 H 0
+S
+#12305
+A tunnel~
+A tunnel leads to a distant door illuminated by a few flickering torches. To
+the south is a darkened tunnel that leads .... somewhere else.
+~
+0 8 0
+D0
+~
+~
+0 0 12306
+D2
+~
+~
+0 0 12303
+M 0 H 0
+S
+#12306
+In front of a door~
+A back door, made of stone, halts the journey to the north.  Smooth as
+glass, the door looks easily breakable, but you doubt that even if given a
+thousand years you couldn't put a chip in it.  Footprings of all shapes and
+sizes have been marked in the dirt here.  You spot the occassional odd
+footprint, and recognise it as being the footprint of an elf.  
+~
+0 8 0
+D0
+~
+~
+1 0 12307
+D2
+~
+~
+0 0 12305
+M 0 H 0
+S
+#12307
+The Obsidian Gates~
+Welcome to the Underspires.  Your first steps into the undergound
+civilization send shivers down your spine.  Here in the underworld, a
+subterranean civilization thrives, while the denizens of the surface world
+remain ignorant of their existence.  Crowds of people push past you as they
+rumble past you going to all sections of the city.  Try to remain calm and
+and look inconspicous as you wander around.  Welcome to your new and final
+home.  
+~
+0 268705800 0
+D0
+~
+~
+1 0 12308
+D2
+~
+~
+1 0 12306
+M 0 H 0
+S
+#12308
+Main Street~
+The pace of the city begins to pick up here.  Citizens of the
+Underspires mill about the city heading off in unknown directions going to
+unknown destinations.  Immediately to the west you see a rather plain, stone
+building.  A closed door with a painted spear emblem leads to the inside. 
+To the east however you notice a small crowd of dark elves have gathered in
+front of a distant building.  
+~
+0 268705800 0
+D0
+~
+~
+0 0 12327
+D1
+~
+~
+0 0 12309
+D2
+~
+~
+1 0 12307
+D3
+~
+~
+1 0 12328
+M 0 H 0
+S
+#12309
+The Academy Gates~
+A small crowd of young dark elves have seemingly set up camp in front of
+some closed gates.  Beyond the gates you see a plain, pearly white building.
+You gather from the idle conversation of the crowd, that you stand before
+the Academy.  Here, singled out students are trained here in the arts of
+war, and only a select few are ever allowed entry.  You listen to the rumour
+that only the best of the best ever make it in, and back out.  
+~
+0 8200 0
+D1
+~
+~
+1 0 12310
+D3
+~
+~
+0 0 12308
+M 0 H 0
+S
+#12310
+Outside the Academy~
+A single door to the north prevents you from entering into the Academy. 
+A few guards look casually in your direction and whisper to themselves.  The
+guards begin to laugh and point in your general direction, as you feel the
+blood rising to your face making you looked flushed with embarrassment.  
+~
+0 268705800 0
+D0
+~
+~
+1 0 12311
+D3
+~
+~
+1 0 12309
+M 0 H 0
+S
+#12311
+The Academy~
+Racks of weaponry line the walls of the lobby in the Academy.  Here, the
+drow are taught their skills be it magic or weaponry.  Many a great warrior
+have left the Academy and have gone on to bigger and better places.  The
+floor has been tiled over in the lobby, and the giant spider of the drow god
+has been imaged into the stone.  
+~
+0 8 0
+D1
+~
+~
+1 0 12312
+D2
+~
+~
+1 0 12310
+M 0 H 0
+S
+#12312
+In a chamber~
+A dirty little chamber splits off into two the directions of north and
+south.  A little bit of light from the glow worms hanging from the ceiling
+provides little solace from the dark as you squint your eyes to see what
+challenges lay ahead.  
+~
+0 8201 0
+D0
+~
+~
+0 0 12313
+D2
+~
+~
+0 0 12320
+D3
+~
+~
+1 0 12311
+M 0 H 0
+S
+#12313
+A dark arena~
+A small chamber has been set up as an arena for you and a combattant. 
+Dimly lit by a few glow worm lanterns, your visual surroundings mimic battle
+at dusk.  Up above you, you feel the cold stare of unseen eyes judging your
+battle to come.  
+~
+0 8 0
+D1
+~
+~
+0 0 12314
+D2
+~
+~
+0 0 12312
+M 0 H 0
+S
+#12314
+Evening~
+Stumbling into an inky darkness, you hear the cruel laugh of a drow
+master.  Sticking out your weapon as a guide, you ponder whether or not
+striking up a torch would be a wise decision.  
+~
+0 9 0
+D0
+~
+~
+0 0 12316
+D1
+~
+~
+0 0 12315
+D2
+~
+~
+0 0 12318
+D3
+~
+~
+0 0 12313
+M 0 H 0
+S
+#12315
+The End~
+You've reached the end of your training!  A single master sits high above
+you watching your progress.  Looking about the cavern, you see it is like
+all the other rooms, barren and lifeless.
+~
+0 0 0
+D3
+~
+~
+0 0 12314
+M 0 H 0
+S
+#12316
+Dusk~
+You squint your eyes as you try to make out the shadows in the room from
+the monsters.  Proving to be fairly difficult, you jump at every shadow.  
+~
+0 8 0
+D1
+~
+~
+0 0 12317
+D2
+~
+~
+0 0 12314
+M 0 H 0
+S
+#12317
+The End~
+You've reached the end of your training!  A single master sits high above
+you watching your progress.  Looking about the cavern, you see it is like
+all the other rooms, barren and lifeless.
+~
+0 8 0
+D3
+~
+~
+0 0 12316
+M 0 H 0
+S
+#12318
+Morn~
+A large sized cavern has been carved through the stone to create an arena
+for you, the student.  A small ball of light hovers a few feet off the
+ground in one corner of the room.  The light emitted from the light source
+washes the room in a morning glory simulating dawn.  
+~
+0 8 0
+D0
+~
+~
+0 0 12314
+D1
+~
+~
+0 0 12319
+M 0 H 0
+S
+#12319
+The End~
+You've reached the end of your training!  A single master sits high above
+you watching your progress.  Looking about the cavern, you see it is like
+all the other rooms, barren and lifeless.  
+~
+0 8 0
+D3
+~
+~
+0 0 12318
+M 0 H 0
+S
+#12320
+A chamber~
+A small chamber separates the tunnel that leads to the north and to the
+east.  Hollowed out by picks and shovels, you see the old scratchings and
+dig marks in the chamber's walls.  Your dim light reveals nothing of
+interest in the room.  
+~
+0 8192 3
+D0
+~
+~
+0 0 12312
+D1
+~
+~
+0 0 12321
+M 0 H 0
+S
+#12321
+Water~
+You feel your movements slow down as you step into this room.  Your free
+movements become sluggish and you begin to slowly float upwards towards the
+middle of the room.  To your surprise a few fish swim past you oblivious to
+your presence.  Though it seems that you are underwater you have no problems
+breathing.  
+~
+0 8200 6
+D0
+~
+~
+0 0 12323
+D1
+~
+~
+0 0 12322
+D2
+~
+~
+0 0 12325
+D3
+~
+~
+0 0 12320
+S
+#12322
+The End~
+You've reached the end of your training!  A single master sits high above
+you watching your progress.  Looking about the cavern, you see it is like
+all the other rooms, barren and lifeless.
+~
+0 8200 0
+D3
+~
+~
+0 0 12321
+M 0 H 0
+S
+#12323
+Air~
+You float uncontrollably towards the ceiling.  As you near the ceiling,
+the stone walls disappear and you are sent hurtling into the sky.  You slow
+down to stop and float between two doors that seem to hang in mid-air.  
+~
+0 8200 9
+D1
+~
+~
+0 0 12324
+D2
+~
+~
+0 0 12321
+M 0 H 0
+S
+#12324
+The End~
+You've reached the end of your training!  A single master sits high above
+you watching your progress.  Looking about the cavern, you see it is like
+all the other rooms, barren and lifeless.
+~
+0 8200 0
+D3
+~
+~
+0 0 12323
+M 0 H 0
+S
+#12325
+Swamp~
+Your boots sink into a foot of mud, as you step into a room that is
+overgrown with wet vegetation.  Vines of all lengths and sizes threaten to
+tangle your arms and legs up as you try to brush past them.  You hear the
+distant call of a bird somewhere to your left.  
+~
+0 270336 12
+D0
+~
+~
+0 0 12321
+D1
+~
+~
+0 0 12326
+M 0 H 0
+S
+#12326
+The End~
+You've reached the end of your training!  A single master sits high above
+you watching your progress.  Looking about the cavern, you see it is like
+all the other rooms, barren and lifeless.
+~
+0 8200 0
+D3
+~
+~
+0 0 12325
+S
+#12327
+Main Street~
+The streets of the Underspires have been paved with huge flat rocks. 
+Carefully joined and placed, the streets take on a look of a tiled hallway. 
+Careful cleaning by the city's sweepers keep the city clean and free of the
+usual dirt.  A cursory look around the street shows that you can go either
+north or south.  
+~
+0 268705800 0
+D0
+~
+~
+0 0 12334
+D2
+~
+~
+0 0 12308
+M 0 H 0
+S
+#12328
+The Imperium~
+The casualness of your entry makes a few heads turn in your direction. 
+The barracks of the City Law Enforcement is no place to loiter carrying your
+weapons.  The spotless room goes hand in hand with the militant residents
+that work here.  To the west you spy an open doorway.  
+~
+0 268705800 0
+D0
+~
+~
+0 0 12330
+D1
+~
+~
+1 0 12308
+D2
+~
+~
+0 0 12332
+D3
+~
+~
+0 0 12329
+M 0 H 0
+S
+#12329
+The Barracks~
+The city's guards station here during their duty hours.  Sparse
+furniture adorn the room.  A few tables and chairs are all they get.  
+~
+0 262153 0
+D1
+~
+~
+0 0 12328
+M 0 H 0
+S
+#12330
+The Imperium~
+A brightly lit hallway connects the main room to one of the barracks.  A
+few inscriptions in a language that you don't understand have been scrawled
+along the edge of the walls.  
+~
+0 268705800 0
+D2
+~
+~
+0 0 12328
+D3
+~
+~
+0 0 12331
+M 0 H 0
+S
+#12331
+The Barracks~
+The city's guards station here during their duty hours.  Sparse
+furniture adorn the room.  A few tables and chairs are all they get.  
+~
+0 268705800 0
+D1
+~
+~
+0 0 12330
+M 0 H 0
+S
+#12332
+The Imperium~
+A spotless hallway is devoid of any furnishings.  The stone walls of the
+interior are just as exciting as it's exterior.  An unpleasant smell comes
+from the west while back to the north is the main room of the guard house.  
+~
+0 268705800 0
+D0
+~
+~
+0 0 12328
+D3
+~
+~
+1 0 12333
+M 0 H 0
+S
+#12333
+The Barracks~
+A small prison cell holds the prisoners detained by the city guards.  A
+few scribblings adorn the walls.  The smell of stale alcohol mixed with old
+urine annoints the room.  
+~
+0 268705800 0
+D1
+~
+~
+1 0 12332
+M 0 H 0
+S
+#12334
+Ts'Rithanya Road and Main~
+You've walked up towards a T-intersection.  To the west, you look down
+Ts'Rithanya Road, while to the north you continue on the main strip.  To the
+west, you can hear the distant music and merry-making, while to the north
+you see a crowd of people milling through what seems to be the town square. 
+The buildings along the street are fairly plain to the Underspires, they
+also seem to have been built out of stone.  The buildings serve their
+purpose as you see scores of people milling in and out of them.  
+~
+0 270337 0
+D0
+~
+~
+0 0 12339
+D2
+~
+~
+0 0 12327
+D3
+~
+~
+0 0 12335
+M 0 H 0
+S
+#12335
+The Intersection of Ts'Rithanya and Pacet Road~
+Your wandering has led you to the intersection of Ts'Rithanya, and Pacet
+Road.  Here, a few glow worms and glow bugs have been caught and placed in jars
+to illuminate the street signs.  To the north, Pacet Road looks slightly
+deserted, save for a few critters milling about.  Whereas to the east
+and west, a few citizens go about their daily business.
+~
+0 270344 0
+D0
+~
+~
+0 0 12342
+D1
+~
+~
+0 0 12334
+D3
+~
+~
+0 0 12336
+M 0 H 0
+S
+#12336
+Ts'Rithanya Road ~
+Walking along a stretch of road, you notice that the buildings are
+slightly bunched together.  The lack of dark alleys has greatly reduced
+crime in the Underspires.  However, it is more than likely that an
+under-movement of crime still exists.  On the north side of the street you
+notice a two-story building.  A sickle and hammer has been carefully etched
+into the door.  A few captured glow worms have been stuffed into jars and
+placed just around the door, illuminating it from the darkness of the
+cavern.  
+~
+0 270344 0
+D0
+~
+~
+0 0 12348
+D1
+~
+~
+0 0 12335
+D3
+~
+~
+0 0 12337
+M 0 H 0
+S
+#12337
+The end of Ts'Rithanya Road~
+The glow worms which give off light in the Underspires have gathered
+along a wall that is the end of Ts'Rithanya road.  Some lively music comes
+from the south, where you can see a brightly lit tavern.  Just inside you
+can make out patrons milling about and drinking.  The atmosphere emanating
+from inside looks friendly.  
+~
+0 270344 0
+D1
+~
+~
+0 0 12336
+D2
+~
+~
+0 0 12338
+D3
+~
+~
+1 0 12443
+M 0 H 0
+S
+#12338
+The Rivoli~
+Crammed with locals and some strange looking merchants, the Rivoli
+bustles about with an unseen energy.  Paintings from different artists have
+been hung on the walls.  A game played with sticks and coloured balls on a
+long table is being played by a few dark elves in the corner.  There is an
+all around casual atmosphere, unlike the typical drow stereotype.  
+~
+0 270344 0
+D0
+~
+~
+0 0 12337
+M 0 H 0
+S
+#12339
+The City Square~
+The city square of the Underspires bustles with people as they hurry
+about with their errands.  Standing still allows you to be carried with the
+flow of traffic.  Hawkers of every sort yell at the top of their lungs
+trying to lure you to their wares.  A few guards standing nearby look for
+troublemakers and help the movement of traffic.  
+~
+0 9 0
+D2
+~
+~
+0 0 12334
+D5
+~
+~
+0 0 12340
+M 0 H 0
+S
+#12340
+Intersection of Alr'Chianthi and Main~
+An intersection bustles with activity as people hurry from one side of
+the city to the next.  Scores of people from all different races and
+cultures hurry about the streets going about their lives.  Few people pay
+attention to you, as adventurers are a silver a dozen.  
+~
+0 8201 0
+D0
+~
+~
+0 0 12419
+D1
+~
+~
+0 0 12435
+D3
+~
+~
+0 0 12341
+D4
+~
+~
+0 0 12339
+S
+#12341
+Stretch of Alr'Chianthi Street~
+A few glow worms in a bottle light up a dark corner in the Underspires. 
+To the north you make out a small row of houses and stores.  To the east you
+make out a large iron wrought gate that leads to a fantastic temple.  
+~
+0 9 0
+D0
+~
+~
+0 0 12350
+D1
+~
+~
+0 0 12340
+M 0 H 0
+S
+#12342
+The End of Pacet Road~
+You have arrived at a T-section along a cobbled pathway.  To the east you
+see more of a bland looking hallway, and to the left more of the same
+hallway.  In the distance though, you make out the shadowy outline of a
+figure.  South however, returns you to the rest of the underground
+civilization.  
+~
+0 262153 0
+D0
+~
+~
+1 0 12343
+D1
+~
+~
+0 0 12344
+D2
+~
+~
+0 0 12335
+D3
+~
+~
+0 0 12347
+M 0 H 0
+S
+#12343
+The Sanctuary~
+The soft humming of the room drones on in your ears making you very
+sleepy.  Soft lighting has made it possible for you to see the emptiness of
+the room.  A few religious symbols however have been painted on the floor of
+the room.  You don't recognize any of these symbols as being holy.
+~
+0 8 0
+D2
+~
+~
+1 0 12342
+D4
+~
+~
+4 12439 12300
+S
+#12344
+A Quiet Corner~
+Peering around the corner of the hallway you discover, more hallway!  It
+seems this particular section of the city is just an endless tunnel that
+leads nowhere.  
+~
+0 270345 0
+D0
+~
+~
+0 0 12345
+D3
+~
+~
+0 0 12342
+M 0 H 0
+S
+#12345
+A Quiet Corner~
+Peering around the corner of the hallway you discover, more hallway!  It
+seems this particular section of the city is just an endless tunnel that
+leads nowhere.  
+~
+0 270345 0
+D2
+~
+~
+0 0 12344
+D3
+~
+~
+0 0 12346
+M 0 H 0
+S
+#12346
+A Quiet Corner~
+Peering around the corner of the hallway you discover, more hallway!  It
+seems this particular section of the city is just an endless tunnel that
+leads nowhere.  
+~
+0 270345 0
+D1
+~
+~
+0 0 12345
+D2
+~
+~
+0 0 12347
+M 0 H 0
+S
+#12347
+A Quiet Corner~
+Peering around the corner of the hallway you discover, more hallway!  It
+seems this particular section of the city is just an endless tunnel that
+leads nowhere.  
+~
+0 270345 0
+D0
+~
+~
+0 0 12346
+D1
+~
+~
+0 0 12342
+M 0 H 0
+S
+#12348
+The Sickle and Hammer~
+The heat from a forge greets you as you enter the room.  Hammering away
+are a few muscular dark elves.  Their hammering sends an incessant ringing
+into your ears.  An assortment of weapons line the shelves, from small
+little daggers to great clubs.  All of them seem to be in perfect condition.
+Looking about, you see a dark elf glaring at you from behind a desk.  
+~
+0 270344 0
+D2
+~
+~
+0 0 12336
+D4
+~
+~
+1 0 12349
+M 0 H 0
+S
+#12349
+The Practice Room~
+Climbing through the hatchway, you stand up in a dusty room.  The smell
+of old sweat greets your nose as you try to gather your surroundings.  A
+small sign at the foot of the doorway reads - "Remember to shut the door
+when practicing."  
+~
+0 524297 0
+D5
+~
+~
+1 0 12348
+M 0 H 0
+S
+#12350
+N'zzenthrafi Street~
+A few glow worms shed some light along the street as they inch their way
+across some of the walls of buildings nearby.  To the east and west, you can
+make out doors while to the north, there is more street to travel.  A small
+sign on the east door depicts a laughing troll, while to the west a needle
+and thread adorns that door.
+~
+0 8201 0
+D0
+~
+~
+0 0 12362
+D1
+~
+~
+0 0 12351
+D2
+~
+~
+0 0 12341
+D3
+~
+~
+1 0 12352
+M 0 H 0
+S
+#12351
+The Stitch and Sew~
+A small bell chimes, alerting everyone to your presence.  As you stroll
+through the door you, you notice one other person in the room.  As a small
+drow peers above his spectacles, you casually take in the room.  Soft fabric
+lies heaped near the wall, while dresses and all sorts of other garments
+decorate a rack that is against the opposite wall.  Some hefty leather
+clothing decorates the wall behind the shopkeeper, and a long counter
+seperates you from him.  A little bit of light illuminates the room for all
+the non-drow customers, but not enough to hurt the eyes of the shopkeeper.  
+~
+0 537141248 0
+D3
+~
+~
+0 0 12350
+M 0 H 0
+S
+#12352
+The Laughing Troll~
+Dim lighting provides just enough for you to see the interior of the inn.
+Some small couches and chairs decorate what passes for a foyer, while a long
+desk passes decorates the reception area.  A small hearty fire brings warmth
+from the outside cavern air.  Standing near it, is the grumbling curator. 
+~
+0 8 0
+D1
+~
+~
+1 0 12350
+D4
+~
+~
+0 0 12353
+M 0 H 0
+S
+#12353
+The top of the stairway~
+The top of the stairway leads to a short hallway in the Laughing Troll. 
+From here you can access the rented rooms or go back down to the surly
+curator and out into the Underspires.  
+~
+0 8 0
+D0
+~
+~
+1 12391 12354
+D2
+~
+~
+1 12391 12355
+D3
+~
+~
+0 0 12356
+D5
+~
+~
+0 0 12352
+M 0 H 0
+S
+#12354
+A Simple Room~
+A nice comfortable room has been set up for you to kick back your heels,
+and relax the rest of the day away.  A small, but hearty fire burns merrily
+away in the fireplace, warming the room to a suitable temperature.  A medium
+sized bed looks inviting as you ponder taking a nap.  
+~
+0 268444184 0
+D2
+~
+~
+1 0 12353
+S
+#12355
+The {GGreen{x Room~
+A nauseating green assaults your eyes as you step into the room. 
+Painted a mottled green, much like the colour of the curator, has been used
+to cover the walls and ceiling.  The furniture has also been covered in a
+deeper shade of green making the room seem utterly gauche.  The only comfort
+in the room is a nice bed which hopefully, will make you forget the ugliness
+of the room.  
+~
+0 268444168 0
+D0
+~
+~
+1 0 12353
+M 0 H 0
+S
+#12356
+A Hallway~
+The subdued lighting of the hallway begins to play on your senses as you
+slowly begin to fall asleep on your feet.  You figure that even though the
+nice carpeting would make a fine bed, the curator wouldn't be particularly
+pleased in your choice of bedding.  Perhaps getting a room might be in
+order?  
+~
+0 8200 0
+D0
+~
+~
+1 12391 12357
+D1
+~
+~
+0 0 12353
+D2
+~
+~
+1 12391 12358
+D3
+~
+~
+0 0 12359
+M 0 H 0
+S
+#12357
+The {YSun{x Room~
+A dazzling, bright, yellow beam of light sears your eyes as you step into the
+room.  You have stepped into the sun room, and even though it is not the real
+sun, the painted yellow walls blind you all the same.  A small set of drawers
+and a large bed are all that furnish the room.  A few candles burn brightly,
+adding to the intense pain in your eyes.
+~
+0 268443656 0
+D2
+~
+~
+1 0 12356
+M -100 H 10
+S
+#12358
+The White Room~
+You try to adjust your eyes to the brightness of the room.  The room has
+been painted solid white.  In fact, not only is the room painted solid white
+but the furniture, floor, and even the back of the door is painted white. 
+Luckily your hardened senses can make ou the bed located in teh far corner.
+At least you think you can see a bed, although you won't know for sure unless
+you try.  The starkness of the room begins to numb your mind, and you wonder
+to yourself if you really did rent the wrong room afterall.
+~
+0 268444168 0
+D0
+~
+~
+1 0 12356
+M 200 H 200
+S
+#12359
+A Hallway~
+Plush carpeting masks the sounds of your footfalls as you walk down a
+hallway.  A door to the north and south are closed, and unless you have a key
+you're not getting in.
+~
+0 270344 0
+D0
+~
+~
+1 12391 12360
+D1
+~
+~
+0 0 12356
+D2
+~
+~
+1 12391 12361
+M 0 H 0
+S
+#12360
+The {RBlood{x Room~
+You've managed to buy a key to the blood room.  Inside you find nothing
+really of interest other than the walls having been painted in a deep
+crimson.  A small window to the west allows you to see the west part of the
+bustling city.  A single bed looks inviting as you contemplate sleeping.  
+~
+0 806363656 0
+D2
+~
+~
+1 0 12359
+S
+#12361
+The {BBlue{x Room~
+Sighing a little, you step into the room.  Painted in a deep blue, the
+room does little to cheer your demeanor.  A single window to the south shows
+you the southern part of the Underspires.  The rocky cavern glows with an
+eerie light as the collective torches from the citizens below send shadows
+dancing through the caverns.  
+~
+0 805839368 0
+D0
+~
+~
+1 0 12359
+S
+#12362
+N'zzenthrafi Street~
+A narrow strip of road gets even darker as you head north.  The
+flickering torches that line the streets have almost all gone out and there
+don't seem to be any glow worms in sight.  Though the street is quiet and
+somewhat deserted, it is well traveled and as a result also well kept. 
+Small homes and stores sit on opposite sides of the street.  There seem to
+be more homes in this area but many of them are off the street, and it would
+seem unwise to deviate from your path.  
+~
+0 8201 0
+D0
+~
+~
+0 0 12365
+D1
+~
+~
+0 0 12363
+D2
+~
+~
+0 0 12350
+D3
+~
+~
+1 0 12364
+M 0 H 0
+S
+#12363
+A home~
+Many of the city's homes look like the ones you have currently entered.
+It's cozy interior allows just enough light in from the streets to provide
+shadows.  A small kitchen is near the back of the house, while the living
+area is closer to the front.  A small staircase leads up to the bedrooms.
+The lavatory is somewhere out back, but you don't feel the urge to investigate
+and look for one.
+~
+0 8201 0
+D3
+~
+~
+0 0 12362
+S
+#12364
+A home~
+A comfortable set of chairs decorate the inside of this home.  Some
+wooden shelvings line the walls, while a plush carpet covers the floor.  To
+the back of this home you can make out the kitchen and a few more rooms. 
+For some reason, this house doesn't have a second floor.  
+~
+0 270344 0
+D1
+~
+~
+1 0 12362
+M 0 H 0
+S
+#12365
+N'zzenthrafi Street~
+Small torches give off just enough light for you to navigate through the
+street.  
+~
+0 8200 0
+D0
+~
+~
+1 0 12368
+D1
+~
+~
+1 0 12366
+D2
+~
+~
+0 0 12362
+D3
+~
+~
+0 0 12367
+D4
+~
+~
+0 0 12463
+M 0 H 0
+S
+#12366
+The Weaponsmith~
+Glittering weapons line the walls of the small store that you have
+entered.  The weaponsmith deals with extremely fine weapons and caters only
+to the truely violent.  The vast implements of war and destruction makes you
+a little queasy as you notice that some of them look just recently used.  
+~
+0 8201 0
+D3
+~
+~
+1 0 12365
+M 0 H 0
+S
+#12367
+A town home~
+Of the many comfortable homes available in the Underspires, this house
+caters to those not of noble status, but rather of commoner status.  Though
+far from grand, these homes offer comfort and peace of mind to all of the
+drow culture.  This home comes equipped with a kitchen, a living area,
+bedrooms upstairs, and an outhouse in the back.  The sounds of running water
+can be heard somewhere inside the house.  
+~
+0 8201 0
+D1
+~
+~
+0 0 12365
+S
+#12368
+Chrystia's Shop of Exotic Goons~
+A bell chimes as you step through the door in what appears to be a zoo. 
+Squawking birds, and growling animals scurry away from you as you try to
+navigate your way inside.  Cages line both the east and west walls, while
+the other walls have been covered with heavy black sheets.  You resist the
+urge to poke your fingers into the cages when you hear the throaty growls
+coming from inside them.  A small desk is the only piece of furniture in the
+room.  A sleek, veiled female looks at you with boredom.  
+~
+0 12297 0
+D2
+~
+~
+1 0 12365
+M 0 H 0
+S
+#12369
+Pet Shop~
+~
+0 268705804 0
+M 0 H 0
+S
+#12370
+Stretch of Alr'Chianthi Street~
+A swarm of tiny drow children rush past you along the street, forcing you
+to press up against the nearest wall of a building.  From against the wall
+you notice the whole street, and can see all sorts of ruffians luring
+nearby.  A few of the ruffians stand near the entrance to an alley, eyeing
+everyone intently.  
+~
+0 262152 0
+D1
+~
+~
+0 0 12375
+D2
+~
+~
+0 0 12371
+D3
+~
+~
+0 0 12435
+M 0 H 0
+S
+#12371
+An Alley way~
+Sauntering into this dark alleyway seems to be a bad idea.  To the north
+you can see torches flickering, while to the south a darkness envelopes all
+of the light.  You sense that you are being watched, but are unsure from
+where.  
+~
+0 8201 0
+D0
+~
+~
+0 0 12370
+D2
+~
+~
+0 0 12372
+M 0 H 0
+S
+#12372
+A Darker Street~
+Unbelievably, this street is even darker than most other streets. 
+Garbage has collected here, and judging by the smell it's been here since
+the dawn of the Elven race.  Large rats scurry about underfoot as you try to
+get a bearing on where you have arrived.  From the shadows you can make out
+a few outlines of some burly thugs.  
+~
+0 270345 0
+D0
+~
+~
+0 0 12371
+D2
+~
+~
+4 12401 12439
+D3
+~
+~
+1 0 12373
+M 0 H 0
+S
+#12373
+The Rough House~
+You enter into a shamble of a home.  Dirt and garbage litter the room,
+while old and well worn furniture decorate the corners of the house.  A
+small fire keeps the room semi-lit.  You don't need much light to realize
+that you are being watched.  You hear low grumbling and the hiss of someone
+drawing steel.  You may have overstayed your visit.  
+~
+0 536879113 0
+D1
+~
+~
+1 0 12372
+D4
+~
+~
+3 0 12374
+M 0 H 0
+S
+#12374
+The Chemist's Room~
+Bubbling beakers, pots, and pans sit on all the tables here.
+The decor of this room is a far cry from the disorderly mess down below, this
+room was organized for maximum efficiency.  No furniture other than
+the tables decorate the room.  There are no windows to look outside, a wise
+choice considering what is being down here.  The bubbling chemicals almost
+overwhelm you as you lean against the wall for support.  Some hanging plants
+barely block your view of the grim looking drow staring at you.
+~
+0 537403401 0
+D5
+~
+~
+3 0 12373
+M 0 H 0
+S
+#12375
+Stretch of Alr'Chianthi Street~
+A gigantic lantern sits in the middle of a T-intersection illuminating
+the entire area.  Standing roughly five feet in height, the lantern seems
+to pulse eerily in the darkness of the cavern.  Stepping closer, you can
+feel your last meal beginning to lurch in your stomach as you watch
+thousands of glow worms squirm about in the belly of the lantern.
+The glow worms have been jammed into the enormous lantern to provide
+illumination for the area.  Looking to the north, you can make out the
+bright lanterns of the Underspire's market place.  To the east you notice
+the splendors of the city have begun to deteriorate.  To the west you can
+see a few more stores selling mundane wares.
+~
+0 270344 0
+D0
+~
+~
+0 0 12388
+D1
+~
+~
+0 0 12376
+D3
+~
+~
+0 0 12370
+M 0 H 0
+S
+#12376
+Stretch of Alr'Chianthi Street~
+The streets and buildings have become a little more run down in the east
+end of town.  The buildings get a little more sparse and a lot more shanty
+looking.  Judging by the looks of the populace that inhabit this area, they
+are a little low on the social scale.  To the west you notice a faint light,
+while to the east and north you see some more shanty housing.  
+~
+0 270345 0
+D0
+~
+~
+0 0 12378
+D1
+~
+~
+0 0 12379
+D2
+~
+~
+0 0 12377
+D3
+~
+~
+0 0 12375
+M 0 H 0
+S
+#12377
+Centre market~
+A seedy looking cluster of buildings serve as homes for the non-drow.  
+~
+0 0 0
+D0
+~
+~
+0 0 12376
+M 0 H 0
+S
+#12378
+Underground alley~
+A maze of buildings and houses offer shelter to the non-drow community of
+the Underspires.  Roughly made shacks and hastily erected buildings are more
+of a fire hazard then a place of dwelling.  Cooking fires illuminate the
+interiors of the buildings just enough to let you know that people inhabit
+the dwellings.  
+~
+0 0 0
+D2
+~
+~
+0 0 12376
+M 0 H 0
+S
+#12379
+The Outskirts~
+A few shanty homes have been set up near the border of the Underspires. 
+The people living here barely live off the scraps and garbage, of the richer
+citizens.  Hoping for a better life, soldiers and city workers are recruited
+here.  
+~
+0 8192 0
+D0
+~
+~
+0 0 12381
+D2
+~
+~
+0 0 12380
+D3
+~
+~
+0 0 12376
+M 0 H 0
+S
+#12380
+The Outskirts~
+A few dust dervishes sweep past you as you head further away of the
+Underspires.  Even the people who live in the Outskits don't dare to stray
+too far from the city's borders.  The shanty homes become more fewer and
+more deserted as you head away from the city.  You feel a little uneasy you
+sense the stare of unseen eyes measuring your every move.  
+~
+0 8192 0
+D0
+~
+~
+0 0 12379
+D4
+~
+~
+0 0 12382
+M 0 H 0
+S
+#12381
+The Outskirts~
+Shambles of what once were nice homes are all that remain on this
+street.  Here the non-drow house themselves and try to make a semblance of
+living.  The only reason they are even tolerated by the drow is for slavery.
+~
+0 8201 0
+D2
+~
+~
+0 0 12379
+M 0 H 0
+S
+#12382
+The Overlook~
+Standing on a ledge, you can see the vastness of the cavern.  Mazes of
+what seems to be endless tunnels and ledges criss cross each other in a
+dizzying maze.  You wonder what would happen if you ever got lost.  
+~
+0 270345 0
+D0
+~
+~
+0 0 12385
+D2
+~
+~
+0 0 12383
+D5
+~
+~
+0 0 12380
+M 0 H 0
+S
+#12383
+The Overlook~
+A dusty chamber leads both north and west.  To the west you make out a
+large rock formation while to the north you see a cliff.  
+~
+0 8201 0
+D0
+~
+~
+0 0 12382
+D3
+~
+~
+0 0 12384
+M 0 H 0
+S
+#12384
+The Overlook~
+A stack of large boulders and wood have been placed before the entrance
+of a tunnel that lea out of the underspires.  Judging by the heavy
+reinforcement of the the barrier is meant to keep things from coming in
+rather than things going out.  
+~
+0 8201 0
+D1
+~
+~
+0 0 12383
+M 0 H 0
+S
+#12385
+The Overlook~
+A stack of large boulders and wood have been placed before the entrance
+of a tunnel that lea out of the underspires.  Judging by the heavy
+reinforcement of the the barrier is meant to keep things from coming in
+rather than things going out.  
+~
+0 8201 0
+D2
+~
+~
+0 0 12382
+D3
+~
+~
+0 0 12386
+M 0 H 0
+S
+#12386
+The Overlook~
+A stack of large boulders and wood have been placed before the entrance
+of a tunnel that lea out of the underspires.  Judging by the heavy
+reinforcement of the the barrier is meant to keep things from coming in
+rather than things going out.  
+~
+0 8201 0
+D0
+~
+~
+0 0 12387
+D1
+~
+~
+0 0 12385
+M 0 H 0
+S
+#12387
+The Overlook~
+A small stone structure holds guard over the overlook of the
+Underspires.  Always wary of attacks from the surface elves, the drow are
+always on the alert.  The structure looks well fortified to defend against a
+small attack, but would be useless against a full scale assault.  
+~
+0 8201 0
+D2
+~
+~
+0 0 12386
+M 0 H 0
+S
+#12388
+The Shimmering Hammer~
+A wave of heat threatens to roast you alive as you make your way towards
+and open tent.  A small but sturdy forge has been set up here next to an
+oxen drawn wagon.  Hammering away next to the forge, sweats a gigantic
+minotaur.  He growls in acknowledgement as he eyes the weapons at your side.
+A short dwarf next to him inspects the minotaur's handy work and points with
+a stubby finger at minute flaws in the craftmanship.  
+~
+0 8201 0
+D0
+~
+~
+0 0 12394
+D1
+~
+~
+0 0 12389
+D2
+~
+~
+0 0 12375
+D3
+~
+~
+0 0 12390
+M 0 H 0
+S
+#12389
+The Market - South-East~
+A dirty hawker screams at the top of his lungs for buyers to see his
+wares.  Looking around him you see that he has but a small box booth with a
+few animal cages set around it.  Most of the crowd seem to avoid him, while
+other shopkeepers go about their business.  
+~
+0 270345 0
+D0
+~
+~
+0 0 12395
+D3
+~
+~
+0 0 12388
+S
+#12390
+The Gnome Tent~
+A crowd of onlookers have gathered in a semi circle around the tent of
+several gnomes.  Strange metal objects lay prominently displayed on several
+tables.  Complex scribblings have been scrawled over leaflets of parchment
+which go flying about as the gnomes try to explain their contraptions.  The
+laughter of the crowd only furthers the frustrations of the gnomes to try to
+explain their devices to anyone who will listen.  
+~
+0 8 0
+D0
+~
+~
+0 0 12393
+D1
+~
+~
+0 0 12388
+D3
+~
+~
+0 0 12391
+M 0 H 0
+S
+#12391
+The Bakery~
+The smell of freshly baked goods helps a little in masking the smell of
+the animal pens to the north.  Marketers flock to this stall in an attempt
+to get at this stall's goods.  The elves running this stall bustle about in
+an attempt to keep up with the orders of the citizens in the Underspires. 
+You begin to salivate as you inspect the baked goods that have been put out
+for sale.  
+~
+0 0 0
+D0
+~
+~
+0 0 12392
+D1
+~
+~
+0 0 12390
+M 0 H 0
+S
+#12392
+The Pens~
+It seems that no air gets through the pens to dilute the stench of dung
+and sweat from the livestock crammed into the pens.  Here, farmers sell off
+livestock to the wealthy citizens of the Underspires.  With the rapid growth
+of the city's economy and population, the expansion of the market to hold
+livestock has been sadly neglected.  A few duck-like creatures nip at your
+ankles as you wander through their feed.  
+~
+0 0 0
+D0
+~
+~
+0 0 12399
+D1
+~
+~
+0 0 12393
+D2
+~
+~
+0 0 12391
+M 0 H 0
+S
+#12393
+A Fruit Vendor~
+As you make your way through a crowd of shoppers, you find yourself
+standing before a fruit stall.  A small orc attempts to convince you that a
+nasty looking rock is actually a fruit.  Other than that, what he sells
+seems palatable.  
+~
+0 270344 0
+D0
+~
+~
+0 0 12398
+D1
+~
+~
+0 0 12394
+D2
+~
+~
+0 0 12390
+D3
+~
+~
+0 0 12392
+D5
+~
+~
+1 0 12400
+M 0 H 0
+S
+#12394
+The Market - The Flower Shop~
+The sweet scent of lilacs almost mask the stale stench of the market.  A
+young dwarf has set up shop here selling exotic flowers and plants.  The
+dwarf seems out of place in the Underspires but judging from the drow women
+who flock to his stall, he is well known and makes a comfortable living.  
+~
+0 270345 0
+D0
+~
+~
+0 0 12397
+D1
+~
+~
+0 0 12395
+D2
+~
+~
+0 0 12388
+D3
+~
+~
+0 0 12393
+M 0 H 0
+S
+#12395
+The Market - The Jeweler~
+A small tent has been erected in this area of the market.  A few surly
+looking ogres guard a tiny orc who has set up shop here.  Trinkets of all
+sizes and delight glitter, in the flickering torch light.  A shower of
+colour illuminates from the jewelery as you step closer to the booth.  
+~
+0 270345 0
+D0
+~
+~
+0 0 12396
+D2
+~
+~
+0 0 12389
+D3
+~
+~
+0 0 12394
+M 0 H 0
+S
+#12396
+The Market - The Covered Bar~
+A small covered bar offers some shelter from the often chilly cavern
+air.  A few tables and chairs have been set up here offering you a place to
+relax with a drink.  A few patrons seated at the bar look to be residents of
+the bar.  A few suspicious looks are thrown your way, but they should be of
+no trouble to you.  
+~
+0 270344 0
+D2
+~
+~
+0 0 12395
+D3
+~
+~
+0 0 12397
+M 0 H 0
+S
+#12397
+The Blind Way~
+A practice dummy has been placed in the centre of this square of the
+market.  Sitting before it is a blind man waiting for any pupils to teach. 
+Several sailors scoff at the blind trainer, but are quickly rebuked by quick
+cuffs to the skull by the city guards.  You hear the faint whispers of the
+name N'dul of Geb being muttered by the guards.
+~
+0 270344 0
+D1
+~
+~
+0 0 12396
+D2
+~
+~
+0 0 12394
+D3
+~
+~
+0 0 12398
+M 0 H 0
+S
+#12398
+The Iron Giant~
+Several grey dwarves run in and out of a stationed wagon.  Carrying bits
+and pieces of armour in armfuls, the grey dwarves hastily try to meet the
+needs of their customers.  A young drow elf looks embarrassed as he stands
+on a small platform while the dwarves match bits and pieces of armour to
+suit his body.  A small crowd gathers here more to watch in amusement than
+to buy anything.  A table has been set up nearby with a surly dwarf taking
+any orders from potential customers.  
+~
+0 270344 0
+D1
+~
+~
+0 0 12397
+D2
+~
+~
+0 0 12393
+D3
+~
+~
+0 0 12399
+M 0 H 0
+S
+#12399
+The Market~
+The sound of street vendors and hawkers echo throughout the cavern. 
+Just up ahead you spot a large marketplace where all residents of the
+Underspires come to shop for daily supplies and other necessities.  A person
+knowing their way around can find almost anything in the market.  
+~
+0 270344 0
+D1
+~
+~
+0 0 12398
+D2
+~
+~
+0 0 12392
+D3
+~
+~
+0 0 12402
+M 0 H 0
+S
+#12400
+Hidey Hole~
+You have slipped down to a small room.  Judging by the scraping of the
+wall and the loose dirt, this room was recently and hastily built.  A few
+boxes of merchandise lie scattered about.  Nothing of real interest is here,
+but at least you have found a small place to rest.  
+~
+0 270008841 0
+D4
+~
+~
+1 0 12393
+M 200 H 200
+S
+#12401
+The Prayer And Tackle~
+Layers of dust covers everything about the room.  Piles of parchment
+paper with arcane symbols are placed indiscriminantly on tables, chairs and
+even the floor.  After a quick scan about the room, you see a long counter
+at the far end of the room.  Getting closer you notice a gruff looking
+druegar trying to jam some frogs into glass jars.  Peering closer at the
+counter you notice in it, are displays of dried chickens, frogs, and even
+cats!  You scratch your head in wonder at what this store could possibly
+sell.  
+~
+0 0 0
+D2
+~
+~
+0 0 12435
+M 0 H 0
+S
+#12402
+The North Entrance~
+Livestock and citizens of the Underspires wander past you and mill near
+the entrance of the entrance to the market.  The smell of fish hangs about
+the air as you decide whether to head north or enter further into the
+market.  
+~
+0 0 0
+D0
+~
+~
+0 0 12403
+D1
+~
+~
+0 0 12399
+M 0 H 0
+S
+#12403
+River Street~
+The cobblestone pathway that you are currently walking upon is damp and
+slippery with moisture.  In the distance you can hear the shouts and calls
+from sailors as they try to dock their ships in the new thriving port of the
+Underspires.  
+~
+0 8201 0
+D0
+~
+~
+0 0 12405
+D1
+~
+~
+0 0 12404
+D2
+~
+~
+0 0 12402
+D3
+~
+~
+0 0 12436
+M 0 H 0
+S
+#12404
+The Fishery~
+A wave of nausea overwhelms you as the smell of fresh fish threatens to
+make you black out.  All caught from the river, the catch of the day, and
+some from the week before, are prominently displayed on the store's
+countertops.  Busy store workers run about trying to get orders settled.  A
+mean looking dwarf stares impatiently at you waiting for your order.  
+~
+0 262153 0
+D3
+~
+~
+0 0 12403
+M 0 H 0
+S
+#12405
+The Port~
+The port that has been recently created by the Underspires, bustles with
+activity.  Sailors push past you with loads of goods, oblivious to your
+presence as they hurry to get their jobs done.  The smells of fresh fish and
+the river assails your senses as you wheel about trying to make sense of the
+mob chaos.  
+~
+0 0 0
+D1
+~
+~
+0 0 12406
+D2
+~
+~
+0 0 12403
+M 0 H 0
+S
+#12406
+The Docks~
+A wooden landing serves as a dock that is currently under construction. 
+With the new law allowing races other than drow to enter the Underspires,
+the city has seen a huge boost in the economy.  With the new grossing
+economy, the docks that once were part of the Underspires is being
+restructured.  As dock workers scramble about trying to meet deadlines,
+pedestrians and onlookers watch in ernest as large boats and ships try to
+find docking space.  
+~
+0 270345 0
+D0
+~
+~
+0 0 12407
+D3
+~
+~
+0 0 12405
+M 0 H 0
+S
+#12407
+The Rapids~
+The river water causes the docked boats to gently bop up and down.  Deep
+green in colour, the water seems fresh enough to drink, yet ominous enough
+for you not to stick your hand in.  A bit of movement catches your eye just
+to the left of you and upon closer inspection, you notice that the river
+teems with life.  
+~
+0 8192 6
+D1
+~
+~
+0 0 12408
+D2
+~
+~
+0 0 12406
+D3
+~
+~
+0 0 12413
+M 0 H 0
+S
+#12408
+The rapids~
+What started out as a pleasant ride along a slow moving river has now
+turned into a bumpy ride on a fast moving river.  Waves begin to get higher
+and water begins to splash your clothes.  Things seem to only get worse as
+you go along.  
+~
+0 9 6
+D1
+~
+~
+0 0 12409
+D2
+~
+~
+0 0 12412
+D3
+~
+~
+0 0 12407
+M 0 H 0
+S
+#12409
+The River~
+The water level begins to get higher as you move further east.  Further
+east you can just make out the white of the churning rapids.  
+~
+0 8200 6
+D1
+~
+~
+0 0 12411
+D3
+~
+~
+0 0 12408
+M 0 H 0
+S
+#12410
+The rapids~
+The rapids are far too strong for you at this point.  You are jostled
+about by the high waves and churning waters.  You can go no further.  
+~
+0 0 0
+D3
+~
+~
+0 0 12409
+M 0 H 0
+S
+#12411
+The Rapids~
+The rapids are far too strong for you at this point.  You are jostled
+about by the high waves and churning waters.  You can go no further.  
+~
+0 8200 6
+D3
+~
+~
+0 0 12409
+M 0 H 0
+S
+#12412
+A patch of land~
+You have reached a semi-dry spot!  The rapids from the surrounding area
+are so strong, they could push anyone in them up onto land.  This little
+cavern is harsh and cold, but it lends itself as a place of temporary
+tranquility from the nastiness of the surrounding waves.  A small crack in
+the ceiling, and a rope ladder tells you that there is more than one exit.  
+~
+0 8201 0
+D0
+~
+~
+0 0 12408
+D4
+~
+~
+0 0 12325
+M 0 H 0
+S
+#12413
+The Rapids~
+As you travel through along the river, a strong current begins to drag
+you away frin the shore.  It takes all your strength and concentration to
+stay focused and not be swept away from your path.  
+~
+0 8192 6
+D1
+~
+~
+0 0 12407
+D3
+~
+~
+0 0 12414
+M 0 H 0
+S
+#12414
+The Rapids~
+A blast of mist splashes over you as you fight to keep your head above
+the water.  The churning waves make it difficult to travel much further. 
+You begin to think it may be wise to head back to shore.  
+~
+0 8192 6
+D1
+~
+~
+0 0 12413
+D3
+~
+~
+0 0 12415
+M 0 H 0
+S
+#12415
+The Rapids~
+Choppy waves and fast moving water hurtles you into the air.  Cold water
+douses you through and through, soaking you to the bones.  An urge to head
+back to the docks grows stronger in your mind.  
+~
+0 8200 6
+D1
+~
+~
+0 0 12414
+D2
+~
+~
+0 0 12418
+D3
+~
+~
+0 0 12416
+M 0 H 0
+S
+#12416
+The Rapids~
+The rapids force you back east towards the docks.  As the water becomes
+more choppy and the waves get higher, you realise it's pointless to try and
+go any further east.  
+~
+0 8200 6
+D1
+~
+~
+0 0 12415
+M 0 H 0
+S
+#12417
+Lair of the Serpent~
+A small, natural cavern has formed just beyond the reach of the river. 
+Bones of animal and some humanoids litter the area.  Apart from a few scraps
+of metal, there is nothing of interest.  
+~
+0 8201 0
+D1
+~
+~
+0 0 12418
+M 0 H 0
+S
+#12418
+A Branch in the Tunnel~
+A tunnel has formed in the underground grotto giving you some reprieve
+from the churning rapids.  The water is much calmer here but the roar from
+the rapids still echos throughout the cavern.  A smelly stench of decay
+filters through the air.  
+~
+0 8200 7
+D0
+~
+~
+0 0 12415
+D3
+~
+~
+0 0 12417
+M 0 H 0
+S
+#12419
+The Gates ~
+A glittering gate has been placed here to keep the riff-raff from what
+lies within.  From here, you are awestruck by the beauty of the temple that
+lies behind the gates.  The craftsmanship leaves you breathless as the
+temple looks to have been carved out of a single, enormous, piece of black
+obsidian.  A few guards pause to look at you as they push commoners and
+hawkers out of the area.  
+~
+0 8201 0
+D0
+~
+~
+1 0 12420
+D1
+~
+~
+0 0 12424
+D2
+~
+~
+0 0 12340
+M 0 H 0
+S
+#12420
+In front of the temple~
+The black temple looks even more impressive from up close.  You stare at
+the walls in the vain hope that you can find a crack in it.  To your dismay
+you find no crack, not even a joint where the foundations of the temple were
+built upon.  Looking inside you see a large crowd has gathered.  Large
+pillars with spider like creatures decorate columns while large tapestries
+decorate the walls.  Unholy symbols placed in specific areas of the temple
+ward off anything that may seek to harm the people within.  
+~
+0 8201 0
+D0
+~
+~
+0 0 12421
+D2
+~
+~
+1 0 12419
+D3
+~
+~
+0 0 12429
+M 0 H 0
+S
+#12421
+The Forum~
+Your footsteps echo loudly against the marble tiles of the temple's main
+hall.  The ceiling held up by beautiful columns of black onyx is a marvel of
+the underworld.  A mosaic of millions of tiny tiles have been carefully
+placed to portray a battle scene of ages gone by.  A black figure portrayed
+prominently in the centre of the picture wields a weapon that seems to cut a
+path through all her enemies.  The bleak nature of the picture itself send a
+shiver down your spine.  A whisper of wind seeming from nowhere brushes past
+your ear.  
+~
+0 8201 0
+D0
+~
+~
+0 0 12422
+D2
+~
+~
+0 0 12420
+M 0 H 0
+S
+#12422
+The Bottom of the Altar~
+The bottom of the altar is guarded by drow priestesses.  Here they wait
+for the head priestess to offer the city's sacrifices.  A carpet, the colour
+of dried blood, covers the stairs leading up to the altar.  
+~
+0 8201 0
+D2
+~
+~
+0 0 12421
+D4
+~
+~
+0 0 12423
+S
+#12423
+The Altar~
+A sense of dread overcomes you as you step off the stairs and onto the
+main altar.  Entirely dedicated to the Unnamed, the drow society built this
+temple in honour to her, and now you, a foreigner dare step on her unholy
+ground.  From this vantage point you see far out of the temple and into the
+streets of the city.  A huge symbol of a spider has been carefully carved
+into the floor of the altar.  Tapestries hang from the ceiling with text
+that is so ancient, you're sure it came from the beginning of the gods.  A
+single, raised slab of rock serves as a table.  Judging from the little
+carvings in the stone and the jugs at the ends of the table, it serves as a
+sacrificing altar as well.  
+~
+0 8201 0
+D5
+~
+~
+0 0 12422
+S
+#12424
+The Onyx Hallway~
+An onyx tiled hallway leads to the north and south.  Pristine and devoid
+of dirt, you muse that you could eat off the floors.  However your
+adventurer's sixth sense tells you not to break open the feed bag at this
+particular spot.
+~
+0 0 0
+D0
+~
+~
+0 0 12425
+D3
+~
+~
+0 0 12419
+M 0 H 0
+S
+#12425
+The Onyx Hallway~
+An onyx tiled hallway leads to the north and south.  Pristine and devoid
+of dirt, you muse that you could eat off the floors.  However your
+adventurer's sixth sense tells you not to break open the feed bag at this
+particular spot.  
+~
+0 0 0
+D0
+~
+~
+0 0 12426
+D2
+~
+~
+0 0 12424
+M 0 H 0
+S
+#12426
+The Ivory Hall~
+The ivory corridor ends here.  To the east is a door which appears to be
+locked.  Judging by the holy symbol on the door, the room behind it is of
+some importance.  
+~
+0 8201 0
+D1
+~
+~
+1 0 12427
+D2
+~
+~
+0 0 12425
+M 0 H 0
+S
+#12427
+The Head Priestess Room~
+Small but comfortable is the nature of the head priestess' room.  Here
+the head priestess is allowed to rest in peace from her daily chores, though
+servitude to Lioth is never really a chore.  A small but comfortable bed
+lies against the east wall while a desk and chair face the south wall.  A
+small dresser with a mirror on it is the only other furniture.  You decide
+for yourself that you would like this room if there weren't so many acrane
+symbols scrawled on the walls.  
+~
+0 270345 0
+D3
+~
+~
+1 0 12426
+D5
+~
+~
+3 12310 12428
+M 0 H 0
+S
+#12428
+The Pleasure Room~
+You've found the secret room of the Head Priestess!  The knowledge of
+this room was passed on only from one head priestess to her sucessor.  Here
+under the watchful eye of Lioth, the priestess could indulge in whatever her
+fantasy was.  As like many of her predecessors, whips, chains and manacles
+are well in stock here.  You see what seems to be a table with little knives
+carefully laid out on top.  In the corner you see a strange looking chair
+that has manacles everywhere and a strange looking device on its seat.  At
+the opposite end is a small but comfortable looking bed.  Not much else is
+of interest here.  
+~
+0 8201 0
+D4
+~
+~
+4 12310 12427
+M 0 H 0
+S
+#12429
+A Side Entrance.~
+A small entry-way leads to a side entrance of the tunnel.  To the east
+you can make out the small crowd of people entering the temple, while to the
+north you make out an entry-way that leads deeper into the temple.  
+~
+0 8201 0
+D0
+~
+~
+0 0 12430
+D1
+~
+~
+0 0 12420
+S
+#12430
+A Side Hallway~
+A dim hallway leads to the north and to the south.  You see a small
+flickering flame in the distance to the north, while to the south you hear
+the dim bustle of the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 12431
+D2
+~
+~
+0 0 12429
+M 0 H 0
+S
+#12431
+A Hallway~
+A dim corner lit only by a small brazier offers little solace in the
+temple.  To the west you feel a deep sense of foreboding while to the south,
+there is a lesser sense of foreboding.  Choose your path.  
+~
+0 0 0
+D2
+~
+~
+0 0 12430
+D3
+~
+~
+0 0 12432
+M 0 H 0
+S
+#12432
+The Chamber~
+A grim sense of pervading evil assaults your senses you step forward into
+this room.  A recently used altar and sacrificing table are the only pieces
+of furniture that decorate the room.  A bowl full of blood sits on the altar
+while tufts of hair lie scattered about the table.  A few interesting
+symbols have been etched into each of the walls.  Looking more closely you
+notice that the symbols have been bathed in blood.  
+~
+0 8 0
+D1
+~
+~
+0 0 12431
+D5
+~
+~
+0 0 12433
+M 0 H 0
+S
+#12433
+A storage room~
+You have reached a loweer level of the temple.  The sound of dripping
+water echoes through the chamber.  This bare chamber reveals nothing of
+interest, except for a small portcullis in the floor.  
+~
+0 270344 0
+D4
+~
+~
+0 0 12432
+D5
+~
+~
+1 0 12434
+M 0 H 0
+S
+#12434
+The Pit~
+The horror of where you've landed yourself finally dawns on you as your
+eyes are able to make out shapes along the damp ground.  Skeletal remains of
+humanoids lay in heaps on the rocky floor.  Shredded remenants of all sorts
+of armour and clothing lie scattered about.  A slight clicking sound begins
+to irritate you as it gets closer to you.  At first you thought it was to
+your right, and then to your left.  Your stomach begins to knot as you
+realize that you're surrounded.  
+~
+0 8204 0
+D4
+~
+~
+1 0 12433
+D5
+~
+~
+1 0 12455
+M 0 H 0
+S
+#12435
+Stretch of Alr'Chianthi Street~
+The dimly lit street leads east and west.  To the north you see a wooden
+door, decorated by a strange symbol.  A pair of hands clamped together in a
+sign of prayer sit just below a chicken have been carefully etched into the
+door.  To the west you can make out the gates to a temple while to the east
+you see a faint light. 
+~
+0 0 0
+D0
+~
+~
+0 0 12401
+D1
+~
+~
+0 0 12370
+D3
+~
+~
+0 0 12340
+M 0 H 0
+S
+#12436
+{tOdds & Oddities{x~
+A bell chimes as you step into a dimly lit store.  A few eyeballs stare
+out at you from glass jars.  Body parts of different animals both dried and
+wet, have been stuffed in jars of all sizes.  At the desk sits and elderly
+drow waiting patiently for you to decide what to buy.  At the desk are twigs
+and wooden staves of all shapes and sizes.  
+~
+0 0 0
+D1
+~
+~
+0 0 12403
+D3
+~
+~
+0 0 12438
+D4
+~
+~
+0 0 12437
+M 0 H 0
+S
+#12437
+A Study~
+As your eyes adjust to the dim lighting, you begin to focus on the mounds
+of paper and books that litter the entire area.  Dusty books of all sorts
+sit on the furniture, untouched under what looks like a decade of dust.  You
+hold your nose suppressing a sneeze as you notice a few robed drow busily
+studying some of the opened books.  
+~
+0 0 0
+D5
+~
+~
+0 0 12436
+M 0 H 0
+S
+#12438
+The Chemist~
+Colourful liquids in bottles of all shapes and sizes fill the shelves
+that line the walls into this room.  A few long tables in the middle of the
+room hold a contraption of metal, glass and a bubbling liquid.  A few dark
+elves run about the table, babbling incoherently at each other while
+franticly twisting little knobs on the contraption.  At the far end of the
+room, you notice a sly looking elf giving you the once over as you stand
+stupidly in her store.  
+~
+0 0 0
+D1
+~
+~
+0 0 12436
+M 0 H 0
+S
+#12439
+The Secret - Way!~
+You've found a secret passage in the city!  Your nerves quake with
+anticipation as you wonder what dangers lay ahead in your journey.  
+~
+0 8193 0
+D0
+~
+~
+4 0 12372
+D2
+~
+~
+0 0 12440
+M 0 H 0
+S
+#12440
+The Forge~
+A blacksmith's forge has been set up in the room.  Weapons and armour
+are stacked neatly against the walls.  The room is cool, yet you see that
+the forge is lit with a pure blue flame.  
+~
+0 1073750016 0
+D0
+~
+~
+0 0 12439
+D3
+~
+~
+0 0 12441
+M 100 H 0
+S
+#12441
+A Hidden Room~
+A small room serves as a temporary solace to any who can find it. A
+small locker in the room stands against one of the walls, while the 
+rest of the room is furnitureless.
+~
+0 532480 0
+D1
+~
+~
+0 0 12440
+D3
+~
+~
+1 0 12442
+S
+#12442
+The Core~
+A low humming noise emanates from the somewhere in the room.  The walls
+glow with an eerie light and seem to pulsate rhythmically.  You begin to
+hear the faint bustle of the city emanating.  You listen to the chatter of
+the citizens of the Underspires.  The whisperings and the clamour of the
+city would make a person go insane, but for some reason you seem at peace.  
+~
+0 524800 0
+D1
+~
+~
+1 0 12441
+S
+#12443
+The Outskirts~
+A rocky path leads to a stone door that opens into the city.  Looking up
+you see a larger ledge that leads off somewhere.  Judging by the rope thats
+been dropped from the top of the ledge, you're supposed to climb if you want
+to go up.  
+~
+0 8193 0
+D1
+~
+~
+1 0 12337
+D4
+~
+~
+0 0 12444
+S
+#12444
+Top of a ledge~
+A ledge overlooks a gate to the city of the Underspires.  A length of
+rope leads down to the gate while to the west, a path continues into the
+darkness.  
+~
+0 8193 0
+D3
+~
+~
+0 0 12445
+D5
+~
+~
+0 0 12443
+S
+#12445
+A path~
+A short pathway leads to the north and to the east.  To the north you
+make out a large door set into a stone wall, while to the east you see a
+rocky ledge that leads to the Underspires.  
+~
+0 8193 0
+D0
+~
+~
+0 0 12446
+D1
+~
+~
+0 0 12444
+M 0 H 0
+S
+#12446
+The Main Gate~
+A massive door denies you entrance into what appears to be a drow noble
+house.  The door made of a metal alloy seems impervious to all forms of
+intrusion.  Various symbols have been carved into the door.  Judging by the
+aura you feel emanating from the door, you assess them to be powerful
+protection wards.  
+~
+0 8197 0
+D0
+~
+~
+4 12406 12447
+D2
+~
+~
+0 0 12445
+S
+#12447
+The Courtyard~
+Although your eyes tell you that the courtyard is void of life, your
+adventurer's instincts tell you differently.  Some curious stone sculptures
+seem to watch your every move as you make your way around the courtyard.  To
+the north you see what appears to be a well fortified home, while to the
+south you see a large door that looks to lead outside.  
+~
+0 8197 0
+D0
+~
+~
+0 0 12448
+D2
+~
+~
+4 0 12446
+S
+#12448
+The Foyer~
+A few braziers hang from the ceiling lighting what appears to be a foyer.
+Several large chairs have been in a circular fashion near one corner, while
+directly opposite seemingly to stare at the non-existant occupants stands a
+large statue of a spider.  Smooth pebbles of all shapes and sizes have been
+carefully placed on the ground and serves a decorative tile for the room. 
+To the north you make out another large room.  
+~
+0 8196 0
+D0
+~
+~
+0 0 12449
+D2
+~
+~
+0 0 12447
+M 0 H 0
+S
+#12449
+An Atrium~
+A middle sized room holds a variety of undergound plants.  Small
+fountains gently feed the plants giving them essential nutrients for growth.
+A tranquil setting in such a violent city.  
+~
+0 8196 0
+D0
+~
+~
+1 0 12454
+D1
+~
+~
+0 0 12450
+D2
+~
+~
+0 0 12448
+S
+#12450
+A Hall~
+A large dining room table looks to seat roughly about forty guests.  The
+room itself would have at least twenty or so more servants who would stand
+near the seated guests.  The room contrary to the dark colours of the other
+rooms in the house has been painted a healthy red with a small border of
+beige that outlines the room.  Several small tables around the room have
+been placed against the walls and look to serve as serving stations for the
+servants.  The large dining room table looks to be made of a solid oak. 
+Skulls of beasts carved from the wood serves as leg posts while a beautiful
+etching of elves killing surface dwarves details the top of the table.  You
+decide the room can be described simply as extravagant.  
+~
+0 8196 0
+D0
+~
+~
+0 0 12451
+D3
+~
+~
+0 0 12449
+S
+#12451
+A Throne Room~
+A moderate sized room serves as a throne room for the drow house.  A
+large round table serves as a meeting table in the centre of the room.  In
+the far wall raised on a a small stage is a large ornate chair which serves
+as a throne.  Aside from the chair and table, there is no other furniture. 
+A few small burning braziers dimly light the dark room but you find the
+light does little to alleviate the tension you feel by entering the room.  
+~
+0 8196 0
+D1
+~
+~
+0 0 12452
+D2
+~
+~
+0 0 12450
+S
+#12452
+A Waiting Room~
+A middle sized room serves almost no use save perhaps a waiting room.  A
+few comfortable looking chairs have been placed neatly against one wall,
+with a small table separating them.  To the south you see a small glow and
+hear the distant noise of metal pounding against metal.  To the west you can
+just make out a few figures moving about.  
+~
+0 8197 0
+D2
+~
+~
+1 0 12453
+D3
+~
+~
+0 0 12451
+S
+#12453
+The Forge~
+A hot forge threatens to melt all you metal equipment as you enter into
+a smithy shop.  Filled with implements of all shapes and sizes for crafting
+weaponry and armour, this room is the pride and joy of this noble house.  A
+few dark elves work silently in work stations oblivious to your intrusion.  
+~
+0 1073750028 0
+D0
+~
+~
+1 0 12452
+S
+#12454
+A Quiet hall~
+You have managed to stumble into a hallway that seems closed off from the
+rest of the house.  Lit by a small brazier, you can see that the hall
+extends to the west of you.  The flickering shadows to the west lends
+credence that there are more braziers.  The floor beneath your feet has been
+carpeted by what looks to be reeds that were woven together.  The padding
+offers stealth, but with the clanking of your equipment you may as well blow
+a horn.  
+~
+0 8196 0
+D0
+~
+~
+1 0 12456
+D2
+~
+~
+1 0 12449
+D3
+~
+~
+0 0 12457
+S
+#12455
+deep pit~
+A deep pit serves as the only hiding place from the atrocity that awaits
+above.  Hopefully it cannot make its way inside.  Judging from the few
+skeletons that are scattered about, these things waited a long time to get
+out.  
+~
+0 8193 0
+D4
+~
+~
+1 0 12434
+S
+#12456
+The Slashing Sword~
+A low light burns in the center of the room basking it in a soft glow. 
+A large mat made of reeds covers the floor silencing even your heavy
+footsteps.  The room is plain and simple except for the shadowy flickers
+that the flames produce against the walls.  
+~
+0 8196 0
+D2
+~
+~
+1 0 12454
+S
+#12457
+A Quiet hall~
+A quiet hallway lit by a small brazier seems void of life.  The soft
+padding of the floor underneath your feet offers a bit of stealth, but you
+fear the loud clanking of your equipment gives alarm to the rest of the
+house.  
+~
+0 8196 0
+D0
+~
+~
+1 0 12458
+D1
+~
+~
+0 0 12454
+D3
+~
+~
+0 0 12459
+S
+#12458
+The Crushing Hammer~
+A reed carpet silences your heavy boots as you enter the room.  A small
+practice dummy has been stands near the center of the room.  You notice that
+some heavy bashing with a blunt object has nearly put the dummy into
+retirement.  A few small candles around the perimeter of the room give off a
+muted glow.  
+~
+0 8196 0
+D2
+~
+~
+1 0 12457
+S
+#12459
+A Quiet hall~
+A quiet hallway lit by a small brazier seems void of life.  The soft
+padding of the floor underneath your feet offers a bit of stealth, but you
+fear the loud clanking of your equipment gives alarm to the rest of the
+house.  
+~
+0 8196 0
+D0
+~
+~
+1 0 12460
+D1
+~
+~
+0 0 12457
+D3
+~
+~
+0 0 12461
+M 0 H 0
+S
+#12460
+The Stabbing Spear~
+A room lit by a small fire serves as a training room for drow warriors. 
+A large open space with a dirt floor proves to be occupied by a lone
+combatant with what looks to be a flashy spear.  
+~
+0 8196 0
+D2
+~
+~
+1 0 12459
+S
+#12461
+A Quiet hall~
+A quiet hallway lit by a small brazier seems void of life.  The soft
+padding of the floor underneath your feet offers a bit of stealth, but you
+fear the loud clanking of your equipment gives alarm to the rest of the
+house.  
+~
+0 8196 0
+D0
+~
+~
+1 0 12462
+D1
+~
+~
+0 0 12459
+M 0 H 0
+S
+#12462
+The Swinging Axe~
+A tall tree has been planted in the center of the room.  Leaves lay
+shredded and scattered about near the base of the tree.  A faint reddish
+outline emanates from the tree and you ponder what exactly this tree lives
+on.  A few bones lay scattered in a pile near one corner of the room.  
+~
+0 8196 0
+D2
+~
+~
+1 0 12461
+S
+#12463
+A Stoney Landing~
+A stoney landing gives you a clear view of the city below.  Flickers of
+light from torches and glowbugs give the city a pulsating look.  To the
+north you see a large stone wall.  
+~
+0 8193 0
+D0
+~
+~
+0 0 12464
+D5
+~
+~
+0 0 12365
+S
+#12464
+Stone Gates~
+A massive stone wall surrounds a large structure to the north.  The only
+way in is through a set of massive stone gates that stand before you. 
+Etchings of ancient creatures of the deep adorn the gates.  You stare at the
+wall and wonder if it was meant to keep things out or in.  A small hole in
+the wall looks to be some sort of keyhole.  If only you had the key...  
+~
+0 8192 0
+D0
+~
+~
+4 12437 12465
+D2
+~
+~
+0 0 12463
+S
+#12465
+The Underground Forest~
+Lush plantation exists within the walled premises.  The plants standing
+roughly seven feet tall provide adequate cover to hide you from any one.  It
+also provides cover for those who may be watching you.  In the distance you
+see a pyramid-like structure but no discernable path leads to it.  
+~
+0 8193 0
+D0
+~
+~
+0 0 12466
+D1
+~
+~
+0 0 12481
+D2
+~
+~
+0 0 12468
+D3
+~
+~
+0 0 12468
+S
+#12466
+The Underground Forest~
+Lush plantation exists within the walled premises.  The plants standing
+roughly seven feet tall provide adequate cover to hide you from any one.  It
+also provides cover for those who may be watching you.  In the distance you
+see a pyramid-like structure but no discernable path leads to it.  
+~
+0 8193 0
+D0
+~
+~
+0 0 12465
+D1
+~
+~
+0 0 12468
+D2
+~
+~
+0 0 12465
+D3
+~
+~
+0 0 12467
+S
+#12467
+The Underground Forest~
+Lush plantation exists within the walled premises.  The plants standing
+roughly seven feet tall provide adequate cover to hide you from any one.  It
+also provides cover for those who may be watching you.  In the distance you
+see a pyramid-like structure but no discernable path leads to it.  
+~
+0 8193 0
+D0
+~
+~
+0 0 12468
+D1
+~
+~
+0 0 12466
+D2
+~
+~
+0 0 12481
+D3
+~
+~
+0 0 12481
+S
+#12468
+The Underground Forest~
+Lush plantation exists within the walled premises.  The plants standing
+roughly seven feet tall provide adequate cover to hide you from any one.  It
+also provides cover for those who may be watching you.  In the distance you
+see a pyramid-like structure but no discernable path leads to it.  
+~
+0 8193 0
+D0
+~
+~
+0 0 12465
+D1
+~
+~
+0 0 12465
+D2
+~
+~
+0 0 12467
+D3
+~
+~
+0 0 12466
+D4
+~
+~
+1 0 12469
+S
+#12469
+The Shi-Obake Training Floor~
+A large room with stone cobblestones looks to be a training hall. 
+Practice dummies and weapons of various sizes and shapes fill the racks on
+the walls.  There are weapons of every description and some that can't even
+be desribed.  In the distance you see a few figures testing each other
+skills.  Closer to you are some combatants that seem to be fighting hand to
+hand.  
+~
+0 8192 0
+D0
+~
+~
+0 0 12470
+D5
+~
+~
+1 0 12468
+S
+#12470
+The Hall~
+A low ceiling hallway leads into the open of a gigantic hall.  Five
+massive, long tables with benches to match dominate the hall.  Glow bug
+lanterns flicker in different corners of the room, illuminating what seems
+to be a mess hall.  Plates and utensils are piled high against one wall, and
+on the other side seems to be a serving station.  
+~
+0 8192 0
+D0
+~
+~
+0 0 12471
+D2
+~
+~
+0 0 12469
+S
+#12471
+The Nemuri Chamber~
+You've wandered into a massive room of unbelievable proportions.  Massive
+stone like shelves stand row uppon row.  Lights from the a few glowbug
+lanterns send flickering shadows across the walls sending chills down your
+spine.  Looking carefully at the stone shelf like structures, you are
+horrified to see egg like larvae with humanoid figures inside.  A few stir
+at the noise you make but otherwise seem blissfully asleep.  A cold breeze
+from somewhere sends a shiver down your spine.  The chamber seems very much
+like a necropolis.  
+~
+0 8193 0
+D0
+~
+~
+0 0 12497
+D2
+~
+~
+0 0 12470
+D4
+~
+~
+0 0 12472
+D5
+~
+~
+4 12431 12482
+S
+#12472
+The Antechamber~
+A dimly lit room acts as a go between two larger rooms.  From this room
+you see a tunnel leading to the south and a staircase leading down to a cold
+darkness.  The room is cold and without humor.  The stone walls do provide
+some relief from monotony as they are painted with an array of fiendish
+looking demons and dark elves dancing upon the gory remains of dwarves and
+surface elves.  
+~
+0 8193 0
+D2
+~
+~
+0 0 12473
+D5
+~
+~
+0 0 12471
+S
+#12473
+The Shi-Obake Throne Room~
+Soft vines criss cross the floor making an uneven carpet.  The vines come
+from a single tree like vegetation that sits in the middle of the room.  The
+tree like object has created a hollow space within itself for a single
+person to sit.  Currently its empty but you gather that whoever created this
+rooms magic must be powerful indeed.  
+~
+0 8192 0
+D0
+~
+~
+0 0 12472
+D2
+~
+~
+1 0 12474
+D4
+~
+~
+0 0 12475
+S
+#12474
+A Guard's Post~
+Sparesely furnished, this room serves as a guard post to watch people
+waiting in the other room.  Rows of weaponry line the walls and a few
+crossbows sit on racks, ready to make their targets a little holier.  
+~
+0 8192 0
+D0
+~
+~
+1 0 12473
+S
+#12475
+The Shi-Obake Lounge~
+A spacious room is comfortably furnished with choice bits of furniture. 
+You see some chairs of obvious dwarven origin, while small tables of elven
+wrought.  You see a table with strange coloured spheres sitting on a green
+fabric covered table.  An orb like object sits on a table in the corner of
+the room but you discern no use for it.  A faint smell of lilacs drifts
+about from somewhere.  
+~
+0 8193 0
+D0
+~
+~
+0 0 12478
+D1
+~
+~
+0 0 12477
+D2
+~
+~
+1 0 12476
+D3
+~
+~
+1 0 12479
+D4
+~
+~
+1 0 12480
+D5
+~
+~
+0 0 12473
+S
+#12476
+A Bedroom~
+A long cold tunnel leads your to a medium sized room.  A small but hearty
+fire in the corner of the room provides a cozy warmth.  Just infront of the
+fire are two comfortable looking chairs with a small table placed between
+them.  A comfortable double bed has been prepared for someone to sleep.  
+~
+0 8192 0
+D0
+~
+~
+1 0 12475
+S
+#12477
+A Study~
+A cluttered room heavily contrasts the decor of the other rooms that
+you've seen.  Piles of books, papers and manuscripts fill the room.  A few
+piles threaten to topple over and bury anyone unfortunate to be underneath. 
+A musty smell lingers in the air and you wonder if you should leave this
+firetrap of a room.  
+~
+0 0 0
+D3
+~
+~
+0 0 12475
+S
+#12478
+A Bedroom~
+A medium sized room is neatly furnished with mushroom like chairs and an
+ornate stone bed.  Some plush moss carpeting deadens your footsteps while
+scented underground flowers attempt to mask the foul stench of your body
+odour.  In the corner a small shelf with a few books looks to provide some
+interesting reading.  
+~
+0 8193 0
+D2
+~
+~
+0 0 12475
+S
+#12479
+The Hell-hole~
+A barren room is semi lit with faint glowbugs flittering about in the
+darkness.  You discern no furniture or trappings of any kind.  The dark
+stone walls are void of any paintings.  
+~
+0 269492224 0
+D1
+~
+~
+1 0 12475
+S
+#12480
+The Chamber~
+Plush, yet neatly trimmed moss masks the noise of your footsteps as you
+enter the top floor of this mysterious building.  Slight plants and flowers
+of menacing beauty adorn the walls, while small boulders of different
+coloured polish decorate the floor.  A large bed has been set back against
+the far wall, while an ornate stone desk sits near the center of the room.  
+~
+0 805315077 0
+D5
+~
+~
+1 0 12475
+S
+#12481
+The Underground Forest~
+Lush plantation exists within the walled premises.  The plants standing
+roughly seven feet tall provide adequate cover to hide you from any one.  It
+also provides cover for those who may be watching you.  In the distance you
+see a pyramid-like structure but no discernable path leads to it 
+~
+0 0 0
+D0
+~
+~
+0 0 12467
+D1
+~
+~
+0 0 12467
+D3
+~
+~
+0 0 12465
+S
+#12482
+The Staircase Down~
+A set of stone steps lead downwards into the darkening gloom.  Clomp! 
+Clomp!  Clomp!  Where will the steps lead?  You surmise its been a long
+journey already.  You should probably just head back up.  
+~
+0 8193 0
+D4
+~
+~
+4 0 12471
+D5
+~
+~
+0 0 12483
+S
+#12483
+The Staircase Down~
+A set of stone steps lead downwards into the darkening gloom.  Clomp! 
+Clomp!  Clomp!  Where will the steps lead?  You surmise its been a long
+journey already.  You should probably just head back up.  
+~
+0 8193 0
+D4
+~
+~
+0 0 12482
+D5
+~
+~
+0 0 12487
+S
+#12484
+A Damp Hole~
+A deep pit of a room ends the tunnel above.  Reeking of waste and mold,
+you see a few shackles against the wall.  A few skeleton bones lie crumbling
+in a heap.  Cozy?  
+~
+0 8193 0
+D4
+~
+~
+1 0 12485
+M 100 H 0
+S
+#12485
+The Staircase Down~
+A set of stone steps lead downwards into the darkening gloom.  Clomp! 
+Clomp!  Clomp!  Where will the steps lead?  You surmise its been a long
+journey already.  You should probably just head back up.  
+~
+0 8193 0
+D4
+~
+~
+0 0 12486
+D5
+~
+~
+1 0 12484
+S
+#12486
+The Staircase Down~
+A set of stone steps lead downwards into the darkening gloom.  Clomp! 
+Clomp!  Clomp!  Where will the steps lead?  You surmise its been a long
+journey already.  You should probably just head back up.  
+~
+0 8193 0
+D4
+~
+~
+0 0 12487
+D5
+~
+~
+0 0 12485
+S
+#12487
+The Staircase Down~
+A set of stone steps lead downwards into the darkening gloom.  Clomp! 
+Clomp!  Clomp!  Where will the steps lead?  You surmise its been a long
+journey already.  You should probably just head back up.  
+~
+0 8193 0
+D4
+~
+~
+0 0 12483
+D5
+~
+~
+0 0 12486
+S
+#12488
+The Nemuri Chamber~
+Endless rows of stone shelves hold glass chambers with sleeping
+soldiers.  A few pods are open and you see several distant shapes moving
+about in the dark.  The glass tubes seem endless and seem to number in the
+thousands.  If you're not careful you could end up walking about in circles.
+~
+0 8193 0
+D0
+~
+~
+0 0 12493
+D1
+~
+~
+0 0 12496
+D2
+~
+~
+0 0 12494
+D3
+~
+~
+0 0 12490
+D4
+~
+~
+0 0 12492
+D5
+~
+~
+0 0 12497
+S
+#12489
+The Nemuri Chamber~
+Endless rows of stone shelves hold glass chambers with sleeping soldiers.
+A few pods are open and you see several distant shapes moving about in the
+dark.  The glass tubes seem endless and seem to number in the thousands.  If
+you're not careful you could end up walking about in circles.  
+~
+0 8193 0
+D0
+~
+~
+0 0 12492
+D1
+~
+~
+0 0 12490
+D2
+~
+~
+0 0 12495
+D3
+~
+~
+0 0 12495
+D4
+~
+~
+0 0 12489
+D5
+~
+~
+0 0 12490
+S
+#12490
+The Nemuri Chamber~
+Endless rows of stone shelves hold glass chambers with sleeping
+soldiers.  A few pods are open and you see several distant shapes moving
+about in the dark.  The glass tubes seem endless and seem to number in the
+thousands.  If you're not careful you could end up walking about in circles.
+~
+0 8193 0
+D0
+~
+~
+0 0 12496
+D1
+~
+~
+0 0 12490
+D2
+~
+~
+0 0 12491
+D3
+~
+~
+0 0 12489
+D4
+~
+~
+0 0 12489
+D5
+~
+~
+0 0 12496
+S
+#12491
+The Nemuri Chamber~
+Endless rows of stone shelves hold glass chambers with sleeping soldiers.
+A few pods are open and you see several distant shapes moving about in the
+dark.  The glass tubes seem endless and seem to number in the thousands.  If
+you're not careful you could end up walking about in circles.  
+~
+0 8193 0
+D0
+~
+~
+0 0 12490
+D1
+~
+~
+0 0 12492
+D2
+~
+~
+0 0 12493
+D3
+~
+~
+0 0 12494
+D4
+~
+~
+0 0 12499
+D5
+~
+~
+0 0 12493
+S
+#12492
+The Nemuri Chamber~
+Endless rows of stone shelves hold glass chambers with sleeping soldiers.
+A few pods are open and you see several distant shapes moving about in the
+dark.  The glass tubes seem endless and seem to number in the thousands.  If
+you're not careful you could end up walking about in circles.  
+~
+0 8193 0
+D0
+~
+~
+0 0 12499
+D1
+~
+~
+0 0 12493
+D2
+~
+~
+0 0 12489
+D3
+~
+~
+0 0 12491
+D4
+~
+~
+0 0 12495
+D5
+~
+~
+0 0 12488
+S
+#12493
+The Nemuri Chamber~
+Endless rows of stone shelves hold glass chambers with sleeping soldiers.
+A few pods are open and you see several distant shapes moving about in the
+dark.  The glass tubes seem endless and seem to number in the thousands.  If
+you're not careful you could end up walking about in circles.  
+~
+0 8193 0
+D0
+~
+~
+0 0 12491
+D1
+~
+~
+0 0 12499
+D2
+~
+~
+0 0 12488
+D3
+~
+~
+0 0 12492
+D4
+~
+~
+0 0 12491
+D5
+~
+~
+0 0 12494
+S
+#12494
+The Nemuri Chamber~
+Endless rows of stone shelves hold glass chambers with sleeping soldiers.
+A few pods are open and you see several distant shapes moving about in the
+dark.  The glass tubes seem endless and seem to number in the thousands.  If
+you're not careful you could end up walking about in circles.  
+~
+0 0 0
+D0
+~
+~
+0 0 12488
+D1
+~
+~
+0 0 12491
+D2
+~
+~
+0 0 12496
+D3
+~
+~
+0 0 12496
+D4
+~
+~
+0 0 12493
+D5
+~
+~
+0 0 12491
+S
+#12495
+The Nemuri Chamber~
+Endless rows of stone shelves hold glass chambers with sleeping
+soldiers.  A few pods are open and you see several distant shapes moving
+about in the dark.  The glass tubes seem endless and seem to number in the
+thousands.  If you're not careful you could end up walking about in circles.
+~
+0 8193 0
+D0
+~
+~
+0 0 12489
+D1
+~
+~
+0 0 12489
+D2
+~
+~
+0 0 12499
+D3
+~
+~
+0 0 12489
+D4
+~
+~
+0 0 12496
+D5
+~
+~
+0 0 12492
+S
+#12496
+The Nemuri Chamber~
+Endless rows of stone shelves hold glass chambers with sleeping soldiers.
+A few pods are open and you see several distant shapes moving about in the
+dark.  The glass tubes seem endless and seem to number in the thousands.  If
+you're not careful you could end up walking about in circles.  
+~
+0 8193 0
+D0
+~
+~
+0 0 12494
+D1
+~
+~
+0 0 12494
+D2
+~
+~
+0 0 12490
+D3
+~
+~
+0 0 12488
+D4
+~
+~
+0 0 12490
+D5
+~
+~
+0 0 12495
+S
+#12497
+The Nemuri Chamber~
+Endless rows of stone shelves hold glass chambers with sleeping
+soldiers.  A few pods are open and you see several distant shapes moving
+about in the dark.  The glass tubes seem endless and seem to number in the
+thousands.  If you're not careful you could end up walking about in circles.
+~
+0 8193 0
+D0
+~
+~
+0 0 12493
+D1
+~
+~
+0 0 12490
+D2
+~
+~
+0 0 12471
+D3
+~
+~
+0 0 12499
+D4
+~
+~
+0 0 12488
+D5
+~
+~
+0 0 12495
+S
+#12499
+The Nemuri Chamber~
+Endless rows of stone shelves hold glass chambers with sleeping soldiers.
+A few pods are open and you see several distant shapes moving about in the
+dark.  The glass tubes seem endless and seem to number in the thousands.  If
+you're not careful you could end up walking about in circles.  
+~
+0 8193 0
+D0
+~
+~
+0 0 12495
+D1
+~
+~
+0 0 12497
+D2
+~
+~
+0 0 12492
+D3
+~
+~
+0 0 12493
+D4
+~
+~
+0 0 12499
+D5
+~
+~
+0 0 12491
+S
+#0
+
+
+
+#SPECIALS
+M 12321 spec_cast_mage Load to: Erebus the Weaponsmaster
+M 12327 spec_cast_cleric Load to: an Inquisitor
+M 12329 spec_cast_cleric Load to: the high priestess
+M 12330 spec_demon_lord Load to: Sodom the Devourer of Souls
+M 12332 spec_janitor Load to: A street sweeper
+M 12333 spec_guard Load to: An imperial guard
+M 12344 spec_cast_mage Load to: Eoweic
+M 12346 spec_cast_mage Load to: A Drow Matron
+M 12353 spec_breath_gas Load to: A gigantic scorpion
+M 12356 spec_cast_mage Load to: A brass monkey
+M 12357 spec_nasty Load to: the city greeter
+M 12361 spec_nasty Load to: the croc master
+M 12363 spec_cast_mage Load to: The Snake Charmer
+M 12364 spec_poison Load to: a cobra
+M 12366 spec_cast_mage Load to: The bird-master
+M 12370 spec_cast_cleric Load to: a dark druid
+M 12371 spec_cast_cleric Load to: A drow priestess
+M 12372 spec_cast_mage Load to: Stacey
+M 12375 spec_fido Load to: a tunnel lizard
+M 12381 spec_guard Load to: A Chogokin Guard stands at attention while making his rounds.
+M 12382 spec_cast_cleric Load to: Basara the Assassin
+M 12383 spec_breath_acid Load to: Wani the Hound
+M 12390 spec_cast_mage Load to: The Shi-Obake Captain
+M 12392 spec_cast_undead Load to: the Shi-Obake Queen
+M 12395 spec_demon_lord Load to: Yoshimitsu
+M 12396 spec_breath_any Load to: A giant turkey
+S
+
+
+
+#MOBPROGS
+#12385
+dance
+sing
+~
+A
+#12313
+nod n$
+say I was once a ranger.... a noble ranger... but now I'm but a slave.. one day... one day..
+emote begins to mutter to himself.
+~
+A
+#12309
+smile $n
+emote nods at you and begins to hum to herself as she cleans the house.
+~
+A
+#12308
+emote begins to hum to herself.
+~
+A
+#12306
+wink $n
+emote licks her lips seductively.
+~
+A
+#12305
+sneeze
+say Can I help you?
+emote wipes his hands on his apron.
+~
+A
+#12303
+say 'Hello stranger. See anything you like?'
+wink $n
+~
+A
+#12301
+poke $n
+say ' I'm watching youse, no funny business!'
+growl $n
+~
+A
+#12300
+look $n
+nod $n
+~
+A
+#12302
+giggle $n
+say 'And how can I help you today dearie?'
+~
+A
+#12304
+sigh
+say 'What the heck do you want?'
+~
+A
+#12307
+growl $n
+say Time for you to die, mortal!
+breath $n
+~
+A
+#12310
+lick $n 
+say Feeling lucky adventurer? How about you and I go check out your equipment?
+follow $n
+~
+A
+#12311
+emote mutters to himself, 'Damn hooligans!'
+~
+A
+#12312
+point $n
+say Be wary straaanger...all who enter the Underspires are doomed here.
+say Murderers and even a scoundrel such as youuursseelfff ...are not safe here. 
+say There is no haven here! GO back before you stay ..forever!
+~
+A
+#12382
+pentagram
+~
+A
+#0
+
+#RESETS
+D 0 12300 5 2
+D 0 12306 0 1
+D 0 12307 2 1
+D 0 12311 1 1
+D 0 12337 3 1
+D 0 12342 0 1
+D 0 12343 2 1
+D 0 12343 4 2
+D 0 12348 4 1
+D 0 12349 5 1
+D 0 12353 0 2
+D 0 12353 2 2
+D 0 12354 2 2
+D 0 12355 0 2
+D 0 12356 0 2
+D 0 12356 2 2
+D 0 12357 2 2
+D 0 12358 0 2
+D 0 12359 0 2
+D 0 12359 2 2
+D 0 12360 2 2
+D 0 12361 0 2
+D 0 12362 3 1
+D 0 12364 1 1
+D 0 12365 0 1
+D 0 12365 1 1
+D 0 12368 2 1
+D 0 12372 2 2
+D 0 12372 3 1
+D 0 12373 1 1
+D 0 12373 4 1
+D 0 12374 5 1
+D 0 12393 5 1
+D 0 12400 4 1
+D 0 12419 0 1
+D 0 12420 2 1
+D 0 12427 5 1
+D 0 12428 4 1
+D 0 12433 5 1
+D 0 12434 4 1
+D 0 12434 5 1
+D 0 12439 0 2
+D 0 12441 3 1
+D 0 12442 1 1
+D 0 12443 1 1
+D 0 12446 0 2
+D 0 12447 2 2
+D 0 12449 0 1
+D 0 12452 2 1
+D 0 12454 0 1
+D 0 12454 2 1
+D 0 12455 4 1
+D 0 12456 2 1
+D 0 12457 0 1
+D 0 12458 2 1
+D 0 12459 0 1
+D 0 12460 2 1
+D 0 12461 0 1
+D 0 12462 2 1
+D 0 12464 0 2
+D 0 12468 4 1
+D 0 12469 5 1
+D 0 12471 5 2
+D 0 12473 2 1
+D 0 12474 0 1
+D 0 12475 2 1
+D 0 12475 3 1
+D 0 12475 4 1
+D 0 12476 0 1
+D 0 12479 1 1
+D 0 12480 5 1
+D 0 12482 4 2
+D 0 12484 4 1
+D 0 12485 5 1
+O 0 12303 0 12300
+O 0 12414 0 12300
+M 1 12345 1 12300 1
+M 1 12375 6 12302 2
+E 0 12398 0 17
+M 1 12357 1 12307 1
+M 1 12317 20 12308 3
+M 1 12317 20 12308 3
+M 1 12332 4 12308 1
+M 1 12322 1 12311 1
+M 1 12358 1 12314 1
+M 1 12359 1 12315 1
+M 1 12369 1 12316 1
+M 1 12370 1 12317 1
+M 1 12367 20 12318 10
+M 1 12368 1 12319 1
+E 0 12394 0 16
+M 1 12360 1 12321 1
+M 1 12361 1 12322 1
+M 1 12365 4 12323 4
+M 1 12366 1 12324 1
+M 1 12362 2 12325 2
+M 1 12363 1 12326 1
+M 1 12364 2 12326 1
+M 1 12364 2 12326 1
+M 1 12333 20 12328 3
+E 0 12392 0 16
+M 1 12333 20 12329 5
+E 0 12392 0 16
+M 1 12318 40 12336 5
+M 1 12320 1 12337 1
+M 1 12380 3 12338 3
+M 1 12377 5 12338 1
+O 0 12301 0 12338
+M 1 12326 1 12338 1
+M 1 12340 4 12338 2
+M 1 12352 1 12338 1
+G 0 12300 0
+G 0 12302 0
+G 0 12304 0
+O 0 12313 0 12339
+M 1 12327 5 12339 2
+E 0 12308 0 16
+M 1 12318 40 12339 3
+M 1 12319 40 12339 3
+M 1 12302 1 12343 1
+M 1 12379 1 12344 1
+E 0 12409 0 16
+M 1 12303 1 12348 1
+G 0 12305 0
+G 0 12306 0
+G 0 12309 0
+G 0 12311 0
+G 0 12316 0
+M 1 12349 1 12349 1
+O 0 12315 0 12349
+M 1 12314 1 12351 1
+G 0 12317 0
+G 0 12318 0
+G 0 12319 0
+G 0 12320 0
+G 0 12352 0
+M 1 12315 1 12352 1
+G 0 12391 0
+M 1 12355 5 12352 1
+M 1 12319 40 12362 5
+M 1 12332 4 12362 1
+M 1 12336 1 12363 1
+G 0 12390 0
+M 1 12354 1 12364 1
+E 0 12310 0 3
+M 1 12307 20 12365 5
+M 1 12333 20 12365 1
+M 1 12309 1 12366 1
+G 0 12382 0
+G 0 12383 0
+G 0 12384 0
+G 0 12385 0
+G 0 12386 0
+G 0 12410 0
+G 0 12411 0
+M 1 12328 1 12367 1
+G 0 12381 0
+M 1 12308 1 12368 1
+M 1 12310 1 12369 1
+M 1 12311 1 12369 1
+M 1 12312 1 12369 1
+M 1 12313 1 12369 1
+M 1 12318 40 12370 5
+M 1 12335 1 12373 1
+M 1 12334 1 12373 1
+M 1 12338 1 12374 1
+G 0 12362 0
+G 0 12363 0
+G 0 12364 0
+G 0 12365 0
+G 0 12366 0
+O 0 12314 0 12375
+M 1 12332 4 12375 1
+M 1 12355 5 12375 1
+M 1 12381 5 12375 1
+E 0 12415 0 16
+E 0 12416 0 6
+E 0 12417 0 12
+E 0 12418 0 7
+M 1 12319 40 12376 10
+M 1 12377 5 12379 1
+M 1 12318 40 12381 10
+M 1 12375 6 12385 2
+E 0 12398 0 17
+O 0 12412 0 12387
+M 1 12306 1 12388 1
+G 0 12353 0
+G 0 12354 0
+G 0 12355 0
+G 0 12357 0
+G 0 12356 0
+G 0 12357 0
+M 1 12304 1 12388 1
+E 0 12396 0 9
+M 1 12317 20 12390 3
+M 1 12342 1 12391 1
+G 0 12359 0
+G 0 12360 0
+G 0 12361 0
+M 1 12317 20 12392 5
+M 1 12333 20 12392 3
+M 1 12375 6 12393 2
+E 0 12398 0 17
+M 1 12307 20 12393 5
+M 1 12327 5 12393 1
+E 0 12403 0 16
+M 1 12318 40 12394 10
+M 1 12319 40 12394 10
+M 1 12372 1 12394 1
+E 0 12402 0 16
+G 0 12401 0
+M 1 12331 5 12395 1
+M 1 12300 1 12396 1
+O 0 12312 0 12396
+M 1 12323 1 12396 1
+G 0 12340 0
+G 0 12341 0
+G 0 12342 0
+G 0 12343 0
+M 1 12317 20 12397 3
+M 1 12305 1 12397 1
+M 1 12343 1 12398 1
+G 0 12344 0
+G 0 12346 0
+G 0 12347 0
+G 0 12348 0
+G 0 12349 0
+G 0 12350 0
+M 1 12355 5 12399 1
+M 1 12376 1 12399 1
+E 0 12406 0 17
+M 1 12341 1 12401 1
+G 0 12321 0
+G 0 12322 0
+G 0 12323 0
+G 0 12325 0
+G 0 12326 0
+M 1 12331 5 12402 1
+M 1 12340 4 12403 2
+M 1 12332 4 12403 1
+M 1 12318 40 12403 3
+M 1 12319 40 12403 3
+M 1 12316 1 12404 1
+G 0 12337 0
+G 0 12338 0
+G 0 12339 0
+M 1 12319 40 12405 5
+M 1 12333 20 12405 2
+M 1 12327 5 12406 1
+E 0 12408 0 16
+M 1 12339 3 12406 1
+M 1 12378 2 12412 1
+G 0 12407 0
+M 1 12324 1 12417 1
+E 0 12437 0 17
+M 1 12317 20 12419 3
+M 1 12333 20 12419 3
+M 1 12327 5 12420 1
+M 1 12371 6 12422 6
+E 0 12395 0 16
+M 1 12329 1 12423 1
+E 0 12393 0 5
+O 0 12387 0 12428
+P 0 12388 1 12387 1
+P 0 12389 3 12387 3
+P 0 12368 1 12387 1
+M 1 12353 1 12434 1
+E 0 12405 0 5
+M 1 12331 5 12435 1
+E 0 12307 0 16
+M 1 12325 1 12436 1
+G 0 12334 0
+G 0 12333 0
+G 0 12335 0
+G 0 12336 0
+M 1 12344 1 12437 1
+M 1 12337 1 12438 1
+G 0 12327 0
+G 0 12328 0
+G 0 12329 0
+G 0 12330 0
+G 0 12331 0
+G 0 12332 0
+G 0 12345 0
+O 0 12367 0 12441
+P 0 12397 1 12367 1
+M 1 12356 1 12441 1
+O 0 12413 0 12442
+M 1 12374 10 12447 2
+M 1 12374 10 12448 2
+M 1 12373 1 12448 1
+M 1 12374 10 12449 2
+M 1 12346 1 12451 1
+M 1 12321 1 12452 1
+E 0 12404 0 16
+M 1 12374 10 12452 2
+M 1 12347 1 12456 1
+E 0 12369 0 16
+E 0 12370 0 11
+E 0 12371 0 13
+M 1 12348 1 12458 1
+E 0 12372 0 16
+E 0 12373 0 5
+E 0 12374 0 1
+M 1 12350 1 12460 1
+E 0 12375 0 16
+E 0 12376 0 8
+E 0 12377 0 9
+M 1 12351 1 12462 1
+E 0 12378 0 16
+E 0 12379 0 10
+E 0 12380 0 8
+M 1 12383 1 12467 1
+C 100 percent for next reset
+M 1 12387 10 12469 10
+E 0 12423 0 9
+C 100 percent for next reset
+M 1 12386 1 12469 1
+E 0 12424 0 5
+M 1 12389 3 12471 3
+O 0 12420 0 12471
+O 0 12421 0 12476
+M 1 12384 1 12476 1
+E 0 12435 0 16
+O 0 12436 0 12477
+P 0 12434 3 12436 3
+M 1 12382 1 12479 1
+E 0 12419 0 16
+M 1 12392 1 12480 1
+E 0 12432 0 3
+E 0 12433 0 16
+E 0 12439 0 17
+M 1 12385 1 12484 1
+E 0 12422 0 17
+M 1 12391 4 12484 4
+M 1 12390 1 12489 1
+E 0 12426 0 9
+E 0 12425 0 5
+E 0 12427 0 10
+E 0 12428 0 7
+E 0 12429 0 8
+E 0 12430 0 16
+E 0 12431 0 17
+S
+
+
+
+#SHOPS
+12303 5 0 0 0 0 125 100 6 22
+12306 19 5 0 0 0 110 120 4 18
+12308 0 0 0 0 0 0 120 8 23
+12309 5 0 0 0 0 90 120 7 23
+12314 9 0 0 0 0 100 100 8 23
+12315 18 0 0 0 0 110 0 0 23
+12316 19 26 0 0 0 100 100 4 22
+12323 0 0 0 0 0 100 100 1 24
+12325 3 4 2 0 0 100 100 6 24
+12328 9 0 0 0 0 110 1 1 24
+12336 0 18 0 0 0 100 100 1 24
+12337 9 0 1 19 0 100 100 2 20
+12338 26 10 0 0 0 100 100 1 24
+12341 0 3 4 32 0 80 120 5 20
+12342 0 19 0 0 0 120 10 3 20
+12343 9 0 0 0 0 120 130 5 21
+12352 0 19 0 0 0 100 0 1 24
+0
+
+
+
+#$

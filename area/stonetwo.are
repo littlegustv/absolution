@@ -1,0 +1,1175 @@
+#AREADATA
+Name Stoneridge II~
+Builders Avacar Teldin Aql~
+VNUMs 16000 16499
+Credits { All } Jotarou     Stoneridge II~
+Security 9
+Xcontinent 0
+Age 11
+Questable 1
+Control The Guilds~
+End
+
+
+
+#MOBILES
+#16000
+old man helpful vendor storekeeper shopkeeper~
+The HELPful vendor~
+A helpful old man stands here, offering you items.
+~
+An old man dressed in expensive clothing is here, trying to sell you many
+things.  
+~
+human~
+ABGQR DZ 1000 0
+1 0 1d1+999 1d1+999 10d10+10 none
+-15 -15 -15 -15
+FGH ABCDQZ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#16006
+Elthryn~
+Elthryn~
+Elthyrn is here, giving you VIP service.
+~
+He brings drinks from the communion hall into the VIP room, as special
+service to those who have earned the right to be sitting here.  
+~
+human~
+AB 0 0 0
+43 4 25d10+2500 1d1+100 3d12+15 none
+-15 -15 -15 -15
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#16216
+no~
+no~
+No
+~
+~
+human~
+A 0 0 0
+60 1 5d5+5 1d1+99 5d5+5 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#16000
+bottle firebreather~
+a bottle of firebreather~
+A bottle of firebreather has been left here.~
+glass~
+drink 0 A
+12 12 'firebreather' 0 0
+0 10 25 P
+#16001
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '(null)' '(null)' '(null)'
+11 10 4000 P
+#16002
+tent~
+a sturdy canvas tent~
+A sturdy canvas tent is here.~
+canvas~
+container S A
+70 A 0 10 100
+1 25 150 P
+#16003
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '(null)' '(null)' '(null)'
+0 10 220 P
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'. 
+~
+#16004
+whoop ass tap fountain pool~
+Whoop Ass on Tap~
+A H-U-G-E fountain taps into the Elemental Plane of Lemonade.~
+~
+fountain OR 0
+0 0 'lemonade' 0 0
+0 0 0 G
+#16005
+{bVelvet{x Couch~
+a soft, welcoming couch~
+A soft, welcoming couch sits here, beckoning for you to rest.~
+leather~
+furniture M 0
+4 4000 BEHKN 100 100
+0 5 0 P
+E
+couch soft welcoming~
+Its fabric is incredibly soft, and its light shade of blue-green is very 
+pleasing to the eye.~
+#16006
+ivory fountain milk~
+a fountain of milk~
+An ivory fountain is here, pouring out pure, white milk.~
+ivory~
+fountain 0 0
+9999 9999 'milk' 0 0
+1 500 0 P
+#16007
+mahogany bench~
+a beautiful mahogany bench~
+A beautifully carved mahogany bench is here, urging you to rest.~
+leather~
+furniture M 0
+4 4000 BEHKN 100 100
+0 5 0 P
+E
+couch soft welcoming~
+Its fabric is incredibly soft, and its light shade of blue-green is very 
+pleasing to the eye.~
+#16011
+whoop ass tap fountain pool~
+Whoop Ass on Tap~
+A H-U-G-E fountain taps into the Elemental Plane of Lemonade.~
+~
+fountain OR 0
+0 0 'lemonade' 0 0
+0 0 0 G
+#16013
+empty vnum~
+short~
+Long~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#16017
+foutain lemonade~
+a fountain of lemonade~
+{wAn angel fountain is here, filled with {ylemonade{w.{x~
+wood~
+fountain 0 0
+0 0 'lemonade' 0 0
+0 0 0 P
+#16019
+canopy bed~
+a canopy bed~
+{wA {mcanopy{w bed {crests{w in the center of the room{x.~
+wood~
+furniture 0 0
+5 5000 BEHKN 0 0
+0 0 0 P
+#16020
+bench bed soft leaves~
+A bed of leaves~
+A bed of soft leaves lies here.~
+wood~
+furniture 0 0
+10 5000 BEHKN 0 0
+0 0 0 P
+#16021
+pond fountain waterfall~
+A starlit pond~
+A pond fed by a waterfall is here, reflecting the starlight.~
+wood~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#16022
+smoot stone bench~
+A smooth stone~
+A smooth stone sits by the water.~
+wood~
+furniture 0 0
+10 5000 BEHKN 0 0
+0 0 0 P
+#16023
+sign help portal navigation chart~
+a sign~
+A glowing navigation chart hovers here, ready to guide your way.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+Greetings Ambassador of Palankcaren!  Not all the rifts are stable, so
+thou shall not stray from the path.  Though more rifts continue to be
+charted, here are those that are currently listed as safe- 
+Rift I   - North to the town of Midgaard, capital of Terra.
+Rift II  - South to the island of Nova Vessa, at the edge of the Dragon Sea.
+Rift III - East to the dark city of Istanbul, sealed to forms of magic.
+~
+#16024
+figurine mist~
+mist figurine~
+A misty figurine lays on the ground.~
+oldstyle~
+wand AG AO
+45 3 3 'gate' 0
+40 30 11800 P
+A
+14 75  
+#16025
+potion immobility~
+a potion of immobility~
+A potion of immobility is here.~
+glass~
+potion G AO
+20 'cloak of mind' '(null)' '(null)' '(null)'
+11 10 4200 P
+#16026
+small leaf~
+{xa small {gleaf{x~
+A little {ggreen leaf{x lays here.~
+leaf~
+pill GI AO
+20 'heal' 'blink' 'grandeur' 'grandeur'
+1 1 0 P
+#16216
+smoke glowing coal floating bed vexatin~
+A {Rg{Yl{yo{Rw{Yi{yn{Rg {Dc{Ro{Da{Rl {Cf{Wl{Co{wa{Ct{wi{Cn{wg{x on a bed of {Ds{wm{Do{wk{De{x~
+A {Rg{Yl{yo{Rw{Yi{yn{Rg {Dc{Ro{Da{Rl {xis {Cf{Wl{Co{wa{Ct{wi{Cn{wg{x here on a bed of thick grey {Ds{wm{Do{wk{De{x.~
+charcoal~
+pill ATYe AQ
+30 'water breathing' 'fly' 'refresh' 'reserved'
+0 5 10 P
+E
+light~
+As you look closer at the light emitted from the coal, you notice that
+is creates a pattern that looks like words.  It says "{RWuophl fuio ay
+yucandus, znshioculo yfaw hpz baxzrg.  {x" 
+~
+E
+glowing~
+This piece of charcoal is pitch black, except for the many veins of red
+which emit an eerie light.  
+~
+E
+spark~
+A spark floats off from the coal and explodes in a small flash of
+luminescence.  Where you would normally hear a pop, you hear "{RHpz bzrrl ay
+yucandus watzg yzzh yrl.  {x" 
+~
+E
+coal~
+This coal bobs on the smoke as if it were a balloon floating on water. 
+Each bob sends sparks drifting into the air.  
+~
+E
+smoke~
+They say that when a man has fire in his belly, he'll blow a lot of smoke
+- they don't say from which end.  
+~
+#16490
+glowing orb solar energy~
+A {Yglowing{x orb of {WS{Wo{Yl{Wa{Yr{x energy~
+A {Yglowing{x orb of {YS{Wo{Yl{Wa{Yr{x energy sparkles and shines.~
+light~
+wand AT AOY
+45 5 5 'sunray' 0
+45 0 40000 P
+E
+energy~
+These orbs of energy fall from the sky every spring equinox when the
+worlds of Redemption and Palankcaren align.  They can be collected by those
+who can harness their power to call upon the might of the sun.  You must be
+swift footed to get them in time.  
+~
+E
+solar~
+These orbs of energy fall from the sky every spring equinox when the
+worlds of Redemption and Palankcaren align.  They can be collected by those
+who can harness their power to call upon the might of the sun.  You must be
+swift footed to get them in time.  
+~
+E
+orb~
+These orbs of energy fall from the sky every spring equinox when the
+worlds of Redemption and Palankcaren align.  They can be collected by those
+who can harness their power to call upon the might of the sun.  You must be
+swift footed to get them in time.  
+~
+E
+glowing~
+These orbs of energy fall from the sky every spring equinox when the
+worlds of Redemption and Palankcaren align.  They can be collected by those
+who can harness their power to call upon the might of the sun.  You must be
+swift footed to get them in time.  
+~
+#16491
+gales north~
+{BG{ca{Cl{ce{Bs{x from the {wNo{Cr{wth{x~
+{BG{ca{Cl{ce{Bs{x from the {wNo{Cr{wth{x cause you to shiver.~
+air~
+ammunition T AOY
+2 5 chill 40 'ice bolt'
+0 300 40000 P
+E
+north~
+When winter turns to spring and the cycle of life begins again, not all
+of what winter is wishes to quietly slumber.  The harsh winds of the far far
+north have historically refused to subside peaceably.  During this time, it
+is possible, if you are strong enough, to harness these vicious gusts of
+wind and utilize them as an effective projectile of cold.  
+~
+E
+gale~
+When winter turns to spring and the cycle of life begins again, not all
+of what winter is wishes to quietly slumber.  The harsh winds of the far far
+north have historically refused to subside peaceably.  During this time, it
+is possible, if you are strong enough, to harness these vicious gusts of
+wind and utilize them as an effective projectile of cold.  
+~
+#16492
+hand forged talaterin wolframium~
+a hand-forged Talaterin {Dwo{wlframi{Dum{x~
+Desc a hand-forged Talaterin {Dwo{wlframi{Dum{x chunk has been left here.~
+stone~
+weapon T ANY
+mace 3 10 none AB
+38 120 40000 P
+A
+5 2  
+A
+13 25  
+A
+18 2  
+A
+19 2  
+E
+talaterin~
+Talaterin ores are found deep within mount Lefardango in the Land of
+Palankcaren.  They are typically forged by the Terratarians who are talented
+elementalists and have the ability to cold forge.  This ability is inate to
+their race and makes their metals a highly coveted commodity.  Wolframium is
+a hearty alloy that has an extremely high melting point.  It takes many
+years for a Terratarian smith to work this metal effectively.  These pieces
+of metal are commonly used as ingredients for Palankcaren's greatest
+weapons, trophies and architectural wonders.  
+~
+E
+wolframium~
+Talaterin ores are found deep within mount Lefardango in the Land of
+Palankcaren.  They are typically forged by the Terratarians who are talented
+elementalists and have the ability to cold forge.  This ability is inate to
+their race and makes their metals a highly coveted commodity.  Wolframium is
+a hearty alloy that has an extremely high melting point.  It takes many
+years for a Terratarian smith to work this metal effectively.  These pieces
+of metal are commonly used as ingredients for Palankcaren's greatest
+weapons, trophies and architectural wonders.  
+~
+#16493
+imbued elkonir~
+an {yi{wmbue{yd {CElk{bo{Cnir{x~
+An {yi{wmbue{yd {CElk{bo{Cnir{x has been cut roughly from the stone and polished.~
+crystal~
+armor AT AQY
+4 4 4 4 0
+19 50 40000 P
+A
+9 15  
+E
+elkonir~
+Elkonir crystals are found solely in Palankcaren.  Within the halls of
+the great library of the Valoar, there is a book which tells how to properly
+coax out the powers of the Elkonir.  Thorugh polishing during a ritual, the
+Elkonir will glow with new found powers.  These imbued crystals are often
+sold in shops throughout Palankcaren.  
+~
+E
+imbued~
+Elkonir crystals are found solely in Palankcaren.  Within the halls of
+the great library of the Valoar, there is a book which tells how to properly
+coax out the powers of the Elkonir.  Thorugh polishing during a ritual, the
+Elkonir will glow with new found powers.  These imbued crystals are often
+sold in shops throughout Palankcaren.  
+~
+#16494
+terratarian embers~
+Terratarian {ye{rm{Yb{Re{yr{rs{x~
+Terratarian {ye{rm{Yb{Re{yr{rs{x collect here as evidence of a recent fire.~
+lava rock~
+staff TYe AOY
+5 10 10 'build fire' 0
+10 70 40000 P
+E
+embers~
+The Terratarians are the elementalists of Palankcaren.  They dwell deep
+in the caverns of the northern mountains.  They have learned to harness the
+lava rock as long burning embers, typically used for their forges; however
+many will also use them in their homes as heating sources.  Years ago a
+young Solotarian merchant had bartered a few of these embers from the
+Terratarians and sold them on the surface.  They quickly gained popularity
+and are now continually exported to the surface via trade.  
+~
+E
+terratarian~
+The Terratarians are the elementalists of Palankcaren.  They dwell deep
+in the caverns of the northern mountains.  They have learned to harness the
+lava rock as long burning embers, typically used for their forges; however
+many will also use them in their homes as heating sources.  Years ago a
+young Solotarian merchant had bartered a few of these embers from the
+Terratarians and sold them on the surface.  They quickly gained popularity
+and are now continually exported to the surface via trade.  
+~
+#16495
+tunic moon~
+Tunic of the {CM{wo{Do{cn{x~
+A Tunic of the {CM{wo{Do{cn{x glimmers and shines with celestial light.~
+cloth~
+armor GTY AKY
+5 5 12 12 0
+40 120 40000 P
+A
+3 1  
+A
+4 1  
+A
+12 20  
+E
+tunic~
+Only some of the Monatarians have worn ceremonial garb for their moon
+rituals to show their dedication.  However many of their kind commonly wear
+this well made and beautifully decorated tunic as a show of their personal
+devotion to their beliefs.  This is a simple blue and gray tunic made of
+durable silk and cotton blend that each person typically decorates with
+symbols of their lineage, professions, friends, allies, etc.  Though these
+tunics are worn daily, they are very important and held in high regard by
+each Monatarian.  
+ 
+~
+E
+moon~
+Only some of the Monatarians have worn ceremonial garb for their moon
+rituals to show their dedication.  However many of their kind commonly wear
+this well made and beautifully decorated tunic as a show of their personal
+devotion to their beliefs.  This is a simple blue and gray tunic made of
+durable silk and cotton blend that each person typically decorates with
+symbols of their lineage, professions, friends, allies, etc.  Though these
+tunics are worn daily, they are very important and held in high regard by
+each Monatarian.
+~
+#16496
+solotarian scrying stone~
+A Solotarian {wSc{Cr{cyi{wng Stone{x~
+A Solotarian {wSc{Cr{cyi{wng Stone{x glints as you look at it.~
+crystal~
+orb AGTYe AORZ
+0 0 0 0 0
+52 3 2 'farsight' 0
+43 40 40000 P
+A
+12 20  
+A
+20 -2  
+A
+4 1  
+E
+solotarian~
+The Sonatarians are known for their abilities of prophecy.  Many years
+ago a Solotarian sorceress attempted to harness this ability for herself. 
+She had become jealous of the fact that the Solotarians were not born with
+such an innate ability.  She never succeeded in the actual reconstruction of
+the Sonatarian's extra-sense, but she did succesfully create a scrying stone
+which she used to spy on Sonotarian rituals.  This is that stone.  
+~
+E
+scrying~
+The Sonatarians are known for their abilities of prophecy.  Many years
+ago a Solotarian sorceress attempted to harness this ability for herself. 
+She had become jealous of the fact that the Solotarians were not born with
+such an innate ability.  She never succeeded in the actual reconstruction of
+the Sonatarian's extra-sense, but she did succesfully create a scrying stone
+which she used to spy on Sonotarian rituals.  This is that stone.  
+~
+E
+stone~
+The Sonatarians are known for their abilities of prophecy.  Many years
+ago a Solotarian sorceress attempted to harness this ability for herself. 
+She had become jealous of the fact that the Solotarians were not born with
+such an innate ability.  She never succeeded in the actual reconstruction of
+the Sonatarian's extra-sense, but she did succesfully create a scrying stone
+which she used to spy on Sonotarian rituals.  This is that stone.  
+~
+#16497
+solar flare~
+{WSo{Yl{War{R F{rl{Ya{rr{Re{x~
+{WSo{Yl{War{R F{rl{Ya{rr{Re{x is nothing but a really good copy of the original.~
+wood~
+weapon ABITY ANZ
+ranged 5 8 divine AG
+3
+51 100 40000 P
+A
+2 1  
+A
+3 1  
+A
+12 20  
+A
+18 7  
+A
+19 3  
+E
+solar~
+{WSo{Yl{War {RF{rl{Ya{rr{Re{x is a bow of much renown in Palankcaren.  So much so, that 
+weaponsmiths have learned to recreate it.  Though these facsimiles are
+ mere shadows of the original, they have been sought after by many 
+archers for their accuracy and power.  
+~
+E
+flare~
+{WSo{Yl{War {RF{rl{Ya{rr{Re{x is a bow of much renown in Palankcaren.  So much so, that 
+weaponsmiths have learned to recreate it.  Though these facsimiles are
+ mere shadows of the original, they have been sought after by many 
+archers for their accuracy and power.  
+~
+#16498
+veil rak'delru wind~
+A {Dv{wei{Dl{x of {gRak'delru{w Wind{x~
+A {Dv{wei{Dl{x of {gRak'Delru{W Wind{x circles and looks ready to conceal a weapon.~
+wind~
+sheath F AKZ
+sword 7 'shock wave' 0
+50 20 40000 P
+A
+17 -12  
+A
+19 2  
+A
+18 2  
+E
+veil~
+The Rak'delru wind has been used in the crafting of Palankcarian magical
+items for millenia.  It's magical properties leave endless possibilities. 
+This veil was first created by a {WV{Balocar{X {MGuardian{x whose {bBalance{x
+was {Wwind{x.  Drawing on the gifts of the air his {bBalance{x provided him,
+he may look non-agressive during his many diplomatic duties, while being
+always at the ready to invoke his powers in the defence of his realm.  
+~
+E
+rak'delru~
+The Rak'delru {wwind{x has been used in the crafting of Palankcarian magical
+items for millenia.  It's magical properties leave endless possibilities. 
+This veil was first created by a {WV{Balocar{M Guardian{x whose {b{bBalance{x{x
+was wind.  Drawing on the gifts of the air his Balance provided him,
+he may look non-agressive during his many diplomatic duties, while being
+always at the ready to invoke his powers in the defence of his realm.  
+~
+E
+wind~
+The Rak'delru {w{Wwind{x{x has been used in the crafting of Palankcarian magical
+items for millenia.  It's magical properties leave endless possibilities. 
+This veil was first created by a {WV{Balocar{M Guardian{x whose {b{bBalance{x{x
+was wind.  Drawing on the gifts of the air his Balance provided him,
+he may look non-agressive during his many diplomatic duties, while being
+always at the ready to invoke his powers in the defence of his realm.  
+~
+#16499
+solar wind pride valocar~
+{YSolar{W Wind{x, the pride of the {WV{Balocar{x~
+A shimmering weapon of pure light, {YSolar{W Wind{x floats nearby.~
+solar wind~
+weapon ABGHZ ANPRZ
+sword 5 8 divine GT
+60 2 2 'leaf shield' 0
+51 30 0 P
+A
+12 20  
+A
+13 20  
+A
+26 4  
+A
+18 4  
+A
+19 4  
+#0
+
+
+
+#ROOMS
+#16000
+Drain Junction~
+The bar is one of the finest in the land, lucky it is members only.  Fine 
+furniture is set all around the room.  A small sign is hanging on the wall. 
+~
+0 262157 0
+E
+sign~
+The sign reads: 
+Free instructions provided by the waiter: 
+ 
+	Buy  - Buy something (drinkable) from the waiter. 
+	List - The waiter will show you all the different drinks and 
+			 specialties, and tell the price of each. 
+~
+S
+#16001
+{CEntryway{X to the {DTower{x of the {YIlluminati{x~
+Your footsteps echo off the {Cmarble{x floor as you enter into the tower.
+Torches line either side of the room, giving off faint light.  A small
+pedistal holding a guest book is off to one side, while a bench lies off to
+the other.  You can make out faint light coming from torches to the east.  
+~
+0 0 0
+O lufia xelnagroth sylus kaylea~
+D1
+~
+~
+0 0 16002
+D3
+~
+oaken~
+1 0 11085
+M 110 H 100
+S
+#16002
+{WGrand {GHallway{x~
+Torches adorn the walls in this large room.  {DTapestries{x and paintings
+hang between the torch sconces.  Three large {Wcrystal{x shandaliers hang
+from the ceiling.  The {Cmarble{x floor is covered in fine rugs and carpets.
+A doorway leads to the north.  You can see an elegantly carved ivory and
+{Cmarble{x staircase to the south.  Further to the east you can make out a
+small entryway.  
+~
+0 0 0
+D2
+~
+~
+0 0 16003
+D3
+~
+~
+0 0 16001
+S
+#16003
+{GOrnate {xStaircase~
+The handrail of this intricly carved wooden staircase is inlaid with
+{wIvory{x.  Paintings and Tapestries adorn the walls leading up.  A fine
+weaved carpet lies on the steps, with traces of marble along the edges next
+to the walls.  The smells of fine cooking drift down from above.  
+~
+0 0 0
+D0
+~
+~
+0 0 16002
+S
+#16004
+{bTraveller's {yRest{x~
+Behold!  Capture to thy eyes the rough hewn timber planks that wall the
+{bTraveller's {yRest{x.  Dark mahogany saloon doors open the entrance into
+this rowdy establishment.  On those who believe in the {Wsharing of
+knowledge{x are welcome.  A set of doors lay open to the north, while the
+hustle and bustle of Stoneridge can be heard from the west.  
+~
+0 805306380 0
+D0
+~
+~
+0 0 16028
+D3
+~
+~
+0 0 11051
+S
+#16005
+{yCommunion Hall{x~
+Rustic, comfortable seating, tables and benches cover the floor from one
+end of the room to the other.  Daily, barmaids skip to a pipers quick tune
+as customers come and go, smiling, laughing, drinking, and talking in
+enthusiastic conversation.  The saloon doors are to the south, to the north
+lies the lounge.  
+~
+0 805306380 0
+D0
+~
+~
+0 0 16006
+D2
+~
+~
+0 0 16028
+D3
+~
+~
+0 0 16013
+S
+#16006
+{RVIP {bConfrence Room{x~
+Dark polished mahogany booths line the circular walls of this quiet inner
+room.  A place set aside from the mainroom's clamor.  It is here that rest
+and business intermingle.  Faint murmurs can still be heard from the south. 
+~
+0 805306380 0
+D0
+~
+~
+1 0 16011
+D2
+~
+~
+0 0 16005
+M 250 H 250
+S
+#16007
+Bottom of the Staircase~
+You are standing at the bottom of a large, marble staircase.  A gilded
+banister runs up either side of the staircase, carved with lions, dragons,
+and other majestic creatures.  The walls on either side of the staircase are
+adorned with many fine works of art, including original works by many famous
+artisans.  A red carpet with a pattern made of silver thread runs up the
+middle of the staircase.  A large golden chandelier is suspended from the
+ceiling above you, and inset diamonds scatter a soft glow throughout the
+room.  Back to the south is the entrance to this extravagant home, or you
+can ascend up the staircase to the second floor.  
+~
+0 8 0
+D2
+~
+~
+0 0 11318
+S
+#16008
+{cGateway {rto {mEternity{x~
+A large arc stands here, with a strange writing you cant decipher.  To
+the north you can see a dark tunnel with a bright light at the end.  A
+southern exit leads to the bustle of Manor Road.  
+~
+0 0 0
+O lufia mordrid~
+D0
+~
+~
+0 0 16009
+D2
+~
+~
+0 0 11053
+S
+#16009
+{DThe {GSpace {bBetween{x~
+You are standing in darkness, appparently standing on nothingness.  There
+is a bright light to the north, and to the south is a grand arc.  
+~
+0 0 0
+D0
+~
+~
+0 0 16010
+D2
+~
+~
+0 0 16008
+S
+#16010
+{gKnoll {yof {RKnowledge{x~
+You arrive through the darkness into a vast pasture.  A small knoll lies
+in the center, the perfect place for relaxation and meditation.  Darkness
+envelops the southern end of the pasture.  
+~
+0 0 0
+D2
+~
+~
+0 0 16009
+S
+#16011
+The Narrows~
+Odd scuff marks show a hidden passage behind the booths.  A small eerie
+lantern shows a shadowy doorway, echoing laughter is heard.  Broken cobwebs
+reveal that the passage has been recently used.  To the south, the outline
+of a door can be seen, possibly another exit route.  
+~
+0 805306380 0
+O stylix kash ironfist orias nydus fey jahid hexnar gneiss nightclaw yukina arishwad antorell slavarat tolarian magogs palnrud valiant streak arkonn laios isilron boyus kauru sessamaru cydramyr dysentera hakim aurum cicada sefra~
+D0
+~
+~
+0 0 11053
+D2
+~
+~
+1 0 16006
+S
+#16012
+The High Embassy Vault~
+Passing through the heavy steel doors, you enter the Embassy's vault. 
+This is where many important documents and treasures are carefully stored. 
+The solid marble walls are draped in crimson red banners bearing the
+Palankcaren crest.  Golden spiral pillars climb high up to the ceiling,
+where magical crystal torches light up the room with their soft glow.  All
+about are crates of valuable supplies and chests filled with precious metals
+and gems.  At the far end of the hall you see the desks and bookcases of the
+guild record library.  Carved high above on the ceiling is a massive map of
+the Embassy's home dimension.  It is clear the map was carved with great
+attention to detail, and includes the major historic battles of Palankcaren
+and it's neighbour state Bethla.  Here you may buy items from the Embassy's
+shop.  
+~
+0 805306380 0
+D0
+~
+~
+0 0 11240
+C help~
+S
+#16013
+Porter's Entrance~
+A distinct sound of voices carries on the wind.  A porter seems to have
+left the side door to the bar open while he tosses out a rowdy patron.  The
+distinct smell of strong ale and sweaty bodies wafts out from within.  It
+sounds like everyone is having a good time.  The bar lies east and Parallel
+West lies to the west.  
+~
+0 268435468 0
+O fey karagan jahid khantahr cicada greyhawk shancohr masaka trista shenzai moko phaernos sefra danik dysentera irenicus olendani kalor hirosho sasara eidan celesta arlis~
+D1
+~
+~
+0 0 16005
+D3
+~
+~
+0 0 11055
+S
+#16014
+The Stony Weald~
+The heavy branches of the surrounding trees are lovingly entwined, even
+fused in some places.  The gentle embrace continues above in the canopy,
+broken only by a few tentative tricklings of sunlight.  Piled stones
+surround the narrow mouth of a cave, a way down is barely seen.  
+~
+0 268435468 0
+D1
+~
+~
+0 0 11244
+D5
+~
+~
+0 0 16015
+S
+#16015
+An Underground Corridor~
+This subterranean path is lit by a single torch whose glow is reflected
+by a multitude of glimmering rocks imbedded in the walls.  The clean rushes
+and low lighting lend a softness to the harsh stone.  
+~
+0 268435468 0
+D3
+~
+~
+0 0 16016
+D4
+~
+~
+0 0 16014
+S
+#16016
+The Grotto~
+You come to a sudden stop next to a steaming pool.  You find yourself
+wishing you could remove your equipment and slide into the warm water. 
+Mossy ledges invite you to sit back and rest.  Surely a little dip and a
+quick nap wouldn't hurt?  The only exit is east.  
+~
+0 268435468 0
+D1
+~
+~
+0 0 16015
+S
+#16017
+Foyer~
+You walk into a brightly lit room with sunlight streaming in through the
+skylight, which is directly above you.  There is picture window on the west
+side, facing out into the forest.  On the east side you see a cabinet with a
+mirror directly above it surrounded by {Gi{gv{Gy{x.  In the middle of the
+room you see a {wwhite{x angel fountain filled with {ylemonade{x.  The
+floors are hardwood in this room except for a carpet in front of the
+entrance.  The feeling you get from the home, just being in the foyer, is
+very comforting and welcoming.  The living room is north, forest avenue is
+south.  
+~
+0 268435460 0
+D0
+~
+~
+0 0 16018
+D2
+~
+~
+1 0 11034
+S
+#16018
+Living Room~
+You walk into a medium sized living room.  A bay window is directly in
+front of you on the north wall facing into the backyard, and farther you see
+trees and flowers.  A {rr{Re{rd {mvelvet{x couch is against the west wall
+with a coffee table in front of it.  The floor is covered in peach colored
+wall-to-wall carpeting; the walls are wall papered in marbled yellowish/pink
+paper.  To the east you see a door leading to the bedroom.  To the south is
+the foyer.  
+~
+0 268435460 0
+D1
+~
+~
+1 0 16019
+D2
+~
+~
+0 0 16017
+S
+#16019
+{YSunny's {MS{Cu{wm{Mm{Ce{wr {GRetreat{x~
+You walk into a large peaceful room; you immediately feel the white plush
+carpeting under your feet, which is also wall-to-wall.  Another skylight is
+in this room directly above you, which bathes you in sunlight.  A large
+canopy bed is in the center of the room with the head of it against the
+north wall.  A dresser is in the southeast corner with a closet in the
+middle of the east wall.  There are large French style white doors on the
+south wall, which lead onto a patio.  All you can hear in this room are
+chirping of birds and water flowing from the stream outside.  The living
+room lies to the west.  
+~
+0 268435460 0
+O Sunny Cicada~
+D3
+~
+~
+1 0 16018
+S
+#16020
+{D Silverwood  {M Orchard {x~
+You stand in a small orchard of silverwood trees and {Rcherry {Mblossom{x
+trees.  A gentle breeze cools you, and lifts the blossoms up in a soft rain
+of petals.  You can hear the trickle of water though the trees.  Parallel
+west lies east.  
+~
+0 268435460 0
+D1
+~
+~
+0 0 11051
+D3
+~
+~
+0 0 16021
+S
+#16021
+A {Y Starlit  {m Pond {x~
+A tranquil pond with crystal clear water is fed by a waterfall from a
+small stream.  Smooth stones line the shores, so as one can view the star of
+{CN{car{x '{Dal{x'{cath{x as it reflects in the water.  
+~
+0 268435460 0
+D1
+~
+~
+0 0 16020
+D3
+~
+~
+0 0 16022
+S
+#16022
+Behind the {BWaterfall{x~
+You step through the waterfall into a remarkably dry cave.  The room is
+dimly lit, but warm and comfortable.  A mound of silver leaves lies in one
+corner.  
+~
+0 268435460 0
+D1
+~
+~
+0 0 16021
+S
+#16023
+A living room destroyed by Parker.~
+Upon entrance to this living room your vision fails you, blinded by thick
+clouds of smoke, you stumble over many a bong and empty cereal packet. 
+Having joined the fellowship with his favourite lady friend Cadavre, he
+contributed little other than sharp wit and even darker insults whilst the
+two would play around stoneridge many a morning.  A departed friend, slain
+in battle many a time by various immortals, now rests in peace.  
+~
+0 805306372 0
+D3
+~
+~
+0 0 11300
+C fellowship~
+S
+#16024
+A bunker built from Karmon's paranoya.~
+A bunker built from Karmon's paranoya.  Having walked down a few steps,
+you enter a musty room with various guns, machinery and supplies.  His
+obsession with all things militaristic follows him into his life past
+redemption, fighting hard for things he deeply believes in.  Always with a
+scam up his sleeve, karmon taught many players the true meaning of the word
+'redemption'.  Sorely missed by all, the only immortal who was ever truely
+on our side;).  
+~
+0 805306372 0
+D1
+~
+~
+0 0 11300
+C fellowship~
+S
+#16025
+A Private Night Club~
+Past the non existant bouncers, down the stairs to underground.  A small
+dancefloor, surrounded by many bars, frequented by many patrons of the fine
+club, for fine people.  Cheap drinks, good times, enjoyable company. 
+Wednesday nights gone, Friday nights vanished, Saturday nights seemingly non
+existant, as you order a whiskey from the clerk.  Stumble down, stumble
+round, check out the sixties, then go snooze on the sofa, watching your
+friends try to dance:) 
+~
+0 939524100 0
+D4
+~
+~
+1 0 11301
+C fellowship~
+S
+#16026
+The Flapper and Firkin~
+Entering this fine drinking establishment brings back many memories for
+people of this guild.  Now owned by Miss Cadavre, the pub has become
+private, overlooking the beautiful canals of the fair city.  The quiz has
+been canceled, the film night failed, but the old jukebox still stands.  The
+dwarf sits at the bar, discussing the disapearance of days gone by with her
+old friends Wardy, Gaz, and Jack Daniels.  
+~
+0 939524100 0
+D3
+~
+~
+1 0 11301
+C fellowship~
+S
+#16027
+The Great Portal to Palankcaren~
+You have entered the Great Portal that spans the dimensional gap back to
+Palankcaren.  It's incredible energy seems to bend the very fabric of
+space-time, though the Great Portal itself seems to be magically sealed. 
+Through the waving distortions you see small space-time rifts peering into
+far away lands, floating freely in a collage of colour.  As you advance
+towards them you have difficulty keeping you balance, all your sense of
+equilibrium seems to be lost.  The air feels thick, and tingles like static
+against your body.  In all this madness your eyes are drawn to the only
+stationary object, a small glowing sign before the Great Portal.  
+~
+0 4 0
+D0
+~
+~
+0 0 3001
+D1
+~
+~
+0 0 22267
+D2
+~
+~
+0 0 18111
+D3
+~
+~
+0 0 10401
+D5
+~
+~
+0 0 11141
+S
+#16028
+{bThe Lobby{X~
+Fancy mahogany benches line the walls; above each is a painting from Fey
+and Jahid's travels.  Between the paintings are hanging oil lamps,
+constantly refilled to forever burn a welcoming glow.  In the center of the
+room there is a statue of the owner Fey with open arms of embracing
+knowledge.  North lies the busy communion hall, south is the entrance to
+this fine tavern.  
+~
+0 536870924 0
+O drufus tansika kauden mimik khisanth fey nami jahid cicada synth fizban sakred knights khantahr kourin dakki juniper lugek hiryo mordrid calion cadur sylus soulfly giles aquinias aleamos arishwad hyuga seouai raker beth rikkus sefra joreli fyrfly~
+D0
+~
+~
+0 0 16005
+D2
+~
+~
+0 0 16004
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 16006 0 1
+D 0 16011 2 1
+D 0 16017 2 1
+D 0 16018 1 1
+D 0 16019 3 1
+O 0 16006 0 16001
+O 0 16007 0 16004
+M 1 16006 1 16005 1
+G 0 16000 0
+G 0 16003 0
+G 0 16002 0
+G 0 16001 0
+O 0 16005 0 16006
+O 0 16011 0 16006
+M 1 16000 1 16012 1
+E 0 11168 0 11
+E 0 11109 0 11
+E 0 11167 0 11
+E 0 11165 0 11
+E 0 11172 0 11
+E 0 11160 0 11
+E 0 11107 0 11
+E 0 22389 0 11
+G 0 16025 0
+G 0 16024 0
+O 0 16017 0 16017
+O 0 16019 0 16019
+O 0 16021 0 16021
+O 0 16022 0 16021
+O 0 16020 0 16022
+O 0 16023 0 16027
+S
+
+
+
+#SHOPS
+16000 0 0 0 0 0 150 100 0 23
+16006 0 0 0 0 0 150 100 0 23
+0
+
+
+
+#$

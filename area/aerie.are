@@ -1,0 +1,2091 @@
+#AREADATA
+Name Aerie~
+Builders Litazia Twilight~
+VNUMs 9900 9999
+Credits {hold!} Litazia The Aerie~
+Security 1
+Xcontinent 1
+Age 15
+End
+
+
+
+#MOBILES
+#9900
+griffon riding~
+a riding griffon~
+A griffon with a saddle stands here, ready for its master.
+~
+This half-bird half-lion creature looks at you, then turns away.  You
+must not be its master.  
+~
+cat~
+AG JTZ -300 0
+33 3 10d10+1100 1d1+100 4d4+10 pound
+-9 -9 -9 -6
+FH 0 0 0
+stand stand male 0
+AGMVW ACDEFHJKPQUV medium 0
+#9901
+rider warrior man~
+a griffon rider~
+A man dressed in armor prepares to ride his griffon.
+~
+The rider is wearing plate mail with a strange dragon-bird emblem on it. 
+He must be one of the patrol guards.  
+~
+human~
+AGT J -300 0
+34 3 10d10+1200 1d1+100 4d7+10 pound
+-9 -9 -9 -5
+CFHJU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#9904
+eagle man~
+an eagle man~
+A humanoid eagle stands here, looking out over the cliff.
+~
+It's an eagle, all right, although it has arms, stands erect, wears armor
+and holds weapons.  
+~
+song bird~
+ABGH DJT 200 0
+28 2 6d12+703 1d1+100 2d12+8 pound
+-6 -6 -6 -2
+FH 0 0 0
+stand stand either 0
+AGHMW ABCDEFHKPU medium 0
+#9905
+winged wolf~
+a winged wolf~
+A wolf with wings lies here, trying to take a nap.
+~
+It's a big wolf with wings.  You hope it just ate...  
+~
+wolf~
+ABGH DJTZ -100 0
+32 3 10d10+1000 1d1+100 4d4+9 pound
+-8 -8 -8 -4
+FH 0 0 0
+stand stand either 0
+AGHV ACDEFJKPQV medium 0
+#9906
+aerie guard~
+an Aerie guard~
+A guard for the Aerie looks at you suspiciously.
+~
+The guard is one of the many people who works (or perhaps kept prisoner?)
+In the aerie.  He doesn't look like he takes guff from the average person.  
+~
+human~
+AGH DJT -100 0
+35 3 10d10+1300 1d1+100 4d7+11 pound
+-9 -9 -9 -5
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#9907
+scared slave~
+a scared slave~
+A slave walks by, scared at everyone and everything.
+~
+The slave shies away as you turn to talk to him.  You wonder what he's
+been through.  
+~
+human~
+AGH DJ 300 0
+25 2 5d10+550 1d1+100 2d10+7 pound
+-7 -7 -7 -7
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#9908
+riding drake dragon~
+a riding drake~
+A small dragon sits here, looking at you expectantly.
+~
+The drake looks like it's just itching to get some good exercise.
+~
+unique~
+AGH DJT -300 0
+33 3 10d10+1100 1d1+100 4d4+10 pound
+-11 -11 -11 -11
+0 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#9909
+rider man draconic~
+a draconic drake rider~
+A dragon-like man prepares to ride his drake.
+~
+The rider is dressed in special armor with a strange insignia on it.  He
+also doesn't look human...  
+~
+unique~
+AGH DJT -300 0
+32 3 10d10+1000 1d1+100 4d4+9 pound
+-10 -10 -10 -10
+FHK 0 E 0
+stand stand male 0
+AHMZ ABCDEFGHIJKPQU medium 0
+#9912
+chimera~
+the chimera~
+A lion-like creature with goat horns and dragon wings lunges at you!
+~
+The chimera has the head and front legs of a lion, horns and back legs of a goat, and the wings, tail, and breath of a dragon. And it has the appetite of all three combined.
+~
+unique~
+ABFG DJT -600 0
+38 3 10d10+1600 1d1+100 5d6+12 pound
+-13 -13 -13 -13
+0 0 0 0
+stand stand male 0
+AGMVZ ABCDEFHJKLPQUVWX medium 0
+#9913
+manticore lion man~
+the manticore~
+A lion with wings and a man's face roars at you.
+~
+The manticore looks at you and thinks 'dinner'.  
+~
+unique~
+ABFG T -600 0
+38 3 10d10+1600 1d1+100 5d6+12 pound
+-11 -11 -11 -7
+DHK 0 0 0
+stand stand male 0
+AGMV ACDEFIKPQUV medium 0
+#9914
+flying viper snake~
+a flying viper~
+A giant snake with wings hisses at you.
+~
+The viper looks very large and dangerous.
+~
+snake~
+ABG QT -400 0
+36 3 10d10+1400 1d1+100 3d10+11 pound
+-10 -10 -10 -6
+0 0 L I
+stand stand male 0
+AGXYc ADEFKLPQVX medium 0
+#9915
+search daemon~
+a search daemon~
+An ugly, unearthly daemon sniffs at the north wall.
+~
+The daemon is a big ugly creature from some other plane.  You can imagine
+this thing tearing you limb from limb!  But it seems more concerned with the
+wall than with you.  
+~
+unique~
+ABGH JOT -500 0
+39 3 15d10+1700 1d1+100 5d6+13 pound
+-13 -13 -13 -13
+0 AB HIP NS
+stand stand male 0
+AHMX ABCDEFPU medium 0
+#9916
+Brimhal cleric~
+Brimhal the cleric~
+A cleric crouches in the corner, saying fervent prayers to his god.
+~
+Brimhal the cleric looks like he was scared out of thirty years' growth. 
+What HAS he seen?  
+~
+human~
+ABGHQ N 600 0
+40 4 15d10+1850 1d1+100 4d8+13 pound
+-13 -13 -13 -13
+FIKR 0 N 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#9917
+Surrelthim mage~
+Surrelthim the mage~
+A mage leans up against the wall, ready to do some serious spellcasting.
+~
+Surrelthim the mage looks quite bad, but you assume it's because she saw
+something she didn't like.  
+~
+human~
+ABGHR N 600 0
+40 4 15d10+1850 1d1+100 4d8+13 pound
+-13 -13 -13 -13
+FKR 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#9918
+Inkrantor thief~
+Inkrantor the thief~
+A thief hides in the shadows, looking at you expectantly.
+~
+Inkrantor the thief looks like he's going to backstab somebody.  You
+wonder who.  
+~
+human~
+ABCGHS BNPQ 0 0
+40 4 15d10+1850 1d1+100 4d8+13 pound
+-13 -13 -13 -13
+BFIJKNR 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#9919
+Chagrath warrior~
+Chagrath the warrior~
+A warrior yells and screams bloody death threats at you!
+~
+Chagrath was obviously expecting somebody else.  You wonder who...  Or
+what.  
+~
+human~
+ABGHT N 600 0
+40 4 15d10+1850 1d1+100 4d8+13 pound
+-13 -13 -13 -13
+CDEFILR 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#9920
+demon icon statue~
+a demon icon~
+A large statue of some demon sits before you.
+~
+It's a carving of a demon. Or is it? You could have sworn it just moved...
+~
+unique~
+ABGT DJ -750 0
+42 4 25d10+2250 1d1+100 3d12+14 pound
+-14 -14 -14 -14
+CFK AB F E
+stand stand male 0
+HJM ABCDU medium 0
+#9921
+demon priest man~
+a demon priest~
+A man is sitting worshipping the icon.
+~
+It's a man in robes chanting and praying to the icon. It might be wise not to disturb the man.
+~
+human~
+ABGHQ D -750 0
+42 4 25d10+2250 1d1+100 3d12+14 pound
+-14 -14 -14 -14
+FIK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#9922
+royal guardian daemon~
+a royal guardian daemon~
+A royal guardian daemon stands guarding the door.
+~
+It's a great big ugly sucker who doesn't look like it takes 'no' for an answer.
+~
+unique~
+ABG BOQT -600 0
+48 4 25d10+3750 1d1+100 6d6+18 pound
+-18 -18 -18 -18
+0 0 0 0
+stand stand none 0
+AHMX ABCDEFGHIJKP medium 0
+#9923
+daemon cook~
+the daemon cook~
+A daemon wearing a chef's hat is busy preparing a human roast.
+~
+The daemon has an assortment of tools to do his job, not the least of which is his giant knife. Whatever he's cooking sure smells good... although you don't want to try any yourself.
+~
+unique~
+ABFGT DJ -800 0
+50 5 50d10+4500 1d1+100 5d8+19 pound
+-18 -18 -18 -12
+0 0 0 0
+stand stand none 0
+AHMX ABCDEF medium 0
+#9924
+ulmajunth doorkeeper daemon~
+Ulmajunth the Doorkeeper~
+A great daemon stands here, guarding the double doors.
+~
+Ulmajunth is a great-looking warrior who obviously doesn't look too pleased at being relegated to a guardspost. His main mission now is to protect his two brothers.
+~
+unique~
+ABGT DHJT -1000 0
+53 5 50d10+6000 1d1+100 6d7+21 pound
+-21 -21 -21 -17
+CDFK AB HI NS
+stand stand male 0
+AHMX ABCDEFP medium 0
+#9925
+Tlalmek balrog lord~
+Tlalmek the Balrog Lord~
+Tlalmek, the Balrog Lord, stands here, obviously displeased with your arrival.
+~
+Tlalmek is a big ugly demon from some gods-forsaken place. He is the final word on leadership in the Aerie. His demonic power is absolute.
+~
+unique~
+ABCGT DHJT -1000 0
+60 6 50d10+9500 1d1+100 8d6+28 pound
+-28 -28 -28 -22
+ACDEFHIJKN AB DHIJKL NS
+stand stand male 0
+BHMX ABCDEFPU medium 0
+#9926
+Qukbanesh Balrog Mage~
+QukBanesh the Balrog Mage~
+QukBanesh, the Balrog Mage, stands here, ready to cast some serious spells.
+~
+QukBanesh is a strong mage, most likely having gotten that way by destroying twerps like you who decided to get rid of him.
+~
+unique~
+ABCGS DHJT -1000 0
+60 6 50d10+9500 1d1+100 8d6+28 pound
+-28 -28 -28 -22
+AFIK AB DHIJKL NS
+stand stand male 0
+AHMX ABCDEFGHIJKPU medium 0
+#9927
+dragon master man~
+the dragon master~
+A man dressed in dragon armor looks back at you.
+~
+This man looks like he's in charge of feeding the resident dragons. You hope he doesn't consider you the next course for any of them!
+~
+human~
+ABGT DJ -500 0
+43 4 25d10+2500 1d1+100 3d12+15 pound
+-13 -13 -13 -7
+CFIK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#9928
+gray dragon~
+the gray dragon~
+A gray dragon prowls about the room, ready to eat anything it can get.
+~
+This dragon doesn't look as large as the others, although you bet it's just as dangerous.
+
+
+~
+unique~
+ABGT DJT -500 0
+45 4 25d10+3000 1d1+100 8d4+16 pound
+-13 -13 -13 -7
+CHIMN ABL 0 0
+stand stand male 0
+ABHZ ACDEFHJKPQUVWX medium 0
+#9929
+white dragon~
+the white dragon~
+A white dragon sits coiled in one corner of the room.
+~
+It's a big white dragon that looks like it hasn't eaten for some time. It looks at you and considers having a snack.
+~
+unique~
+ABG DJT -500 0
+45 4 25d10+3000 1d1+100 8d4+16 pound
+-15 -15 -15 -15
+CHIMN ABI 0 H
+stand stand male 0
+AHZ ACDEFHJKLPQUVWX medium 0
+#9930
+green dragon~
+the green dragon~
+A green dragon flaps its wings at the sight of you.
+~
+The green dragon doesn't look too happy, but you doubt you would if you were disturbed from your restful slumber by an annoying pest.
+~
+unique~
+ABG DJT -500 0
+45 4 25d10+3000 1d1+100 8d4+16 pound
+-13 -13 -13 -7
+CHIMN ABL 0 J
+stand stand male 0
+AHZ ACDEFHJKPQUVWX medium 0
+#9931
+black dragon~
+the black dragon~
+A black dragon considers dissolving you into a pile of goo.
+~
+The black dragon obviously likes playing alchemist. Would you like to help him?
+~
+unique~
+ABG DJT -500 0
+45 4 25d10+3000 1d1+100 8d4+16 pound
+-13 -13 -13 -7
+CHIMN ABK 0 L
+stand stand male 0
+AHZ ACDEFHJKLPQUVWX medium 0
+#9932
+blue dragon~
+the blue dragon~
+A blue dragon wants to shock you to your senses.
+~
+The blue dragon is big, blue, and likes playing with electricity. Care to help him?
+~
+unique~
+ABG DJT -500 0
+45 4 25d10+3000 1d1+100 8d4+16 pound
+-13 -13 -13 -7
+CHIMN ABJ 0 K
+stand stand male 0
+AHZ ACDEFHJKLPQUVWX medium 0
+#9933
+red dragon~
+the red dragon~
+A red dragon thinks about having a hot meal -- again.
+~
+The red dragon likes roasted adventurer for dinner. It looks at you and thinks you'd be especially tasty!
+~
+unique~
+ABG DJT -500 0
+45 4 25d10+3000 1d1+100 8d4+16 pound
+-13 -13 -13 -7
+CHIMN ABH 0 I
+stand stand male 0
+AHZ ACDEFHJKLPQUVWX medium 0
+#9934
+iridescent dragon~
+the iridescent dragon~
+A great multicolored dragon roars and leaps towards you!
+~
+The iridescent dragon is much larger than its brethren, and so it must make it that much more dangerous!
+~
+unique~
+ABFG DHJT -900 0
+56 5 50d10+7500 1d1+100 10d4+24 pound
+-24 -24 -24 -18
+ACDFHIKMN AB HIJKL 0
+stand stand either 0
+AHZ ACDEFHJKLPQUVWX medium 0
+#9935
+gold dragon~
+the gold dragon~
+A gold dragon sleeps away its prison sentence.
+~
+The gold dragon was captured by one of the evil dragons and brought here. It has been waiting ever since for freedom.
+~
+unique~
+ABG DJT 700 0
+45 4 25d10+3000 1d1+100 8d4+16 pound
+-13 -13 -13 -7
+CHIMN ABHL 0 I
+stand stand male 0
+AHZ ACDEFHJKLPQUVWX medium 0
+#9936
+silver dragon~
+the silver dragon~
+A silver dragon sniffs you suspiciously.
+~
+The silver dragon was brought here by one of the Aerie patrols. It waits patiently for a chance to escape.
+~
+unique~
+ABG DJT 700 0
+45 4 25d10+3000 1d1+100 8d4+16 pound
+-13 -13 -13 -7
+CHIMN ABI 0 H
+stand stand male 0
+AHZ ACDEFHJKLPQUVWX medium 0
+#9937
+couatl snake feathered~
+the couatl~
+A huge feathered flying snake coils itself around you.
+~
+The couatl has been here for a while and wants a friend to visit him. You've fit the bill.
+~
+snake~
+ABGT DJT 700 0
+50 5 50d10+4500 1d1+100 5d8+19 pound
+-18 -18 -18 -12
+CDFMN AB L I
+stand stand male 0
+AGHXYc ADEFKLPQVX medium 0
+#9938
+phoenix great fiery bird~
+the great Phoenix~
+A great fiery bird glows with its own inner light.
+~
+What a poor fate for this majestic bird! The phoenix has been here for who knows how long, but the evil of the Aerie has not yet pervaded its cell. Its colors have been just as bright, considering its ordeal.
+~
+song bird~
+ABGT DHJNT 900 0
+56 5 50d10+7500 1d1+100 10d4+24 pound
+-24 -24 -24 -18
+CDFHI ABH CNS IM
+stand stand none 0
+AGHW ACDEFHKPU medium 0
+#9939
+animated suit armor~
+an animated suit of armor~
+A large suit of armor stands on guard here.
+~
+This is a large suit of bronze armor. You can sense a powerful enchantment
+coming from the individual pieces that make up the whole suit. You imagine
+what it would be like to go into battle wearing such a fantastic suit.
+~
+human~
+ABFGT 0 0 0
+55 5 50d10+7000 1d1+100 10d4+23 punch
+-25 -25 -25 -20
+ACDFHKR 0 FG 0
+sleep stand none 0
+ADEHJKMV ABCDEFGHIJK large bronze
+#0
+
+
+
+#OBJECTS
+#9900
+phoenix wings pair~
+a pair of phoenix wings~
+A pair of wings from some fiery bird lies here.~
+~
+armor AGK AI
+10 10 8 5 0
+0 5 0 P
+A
+12 60
+A
+19 3
+A
+3 3
+#9901
+blue dragonbone key~
+a blue dragonbone key~
+A blue key made of bone lies here.~
+~
+key A AO
+0 0 0 0 0
+0 1 0 P
+#9902
+red dragonbone key~
+a red dragonbone key~
+A red key made out of bone lies here.~
+~
+key A AO
+0 0 0 0 0
+0 1 0 P
+#9903
+green dragonbone key~
+a green dragonbone key~
+A green key made out of bone lies here.~
+~
+key A AO
+0 0 0 0 0
+0 1 0 P
+#9904
+black dragonbone key~
+a black dragonbone key~
+A black key made out of bone lies here.~
+~
+key A AO
+0 0 0 0 0
+0 1 0 P
+#9905
+white dragonbone key~
+a white dragonbone key~
+A white key made out of bone lies here.~
+~
+key A AO
+0 0 0 0 0
+0 1 0 P
+#9906
+gray dragonbone key~
+a gray dragonbone key~
+A gray key made out of bone lies here.~
+~
+key A AO
+0 0 0 0 0
+0 1 0 P
+#9907
+iridescent dragonbone key~
+an iridescent dragonbone key~
+An iridescent key made of bone lies here.~
+~
+key A AO
+0 0 0 0 0
+0 1 0 P
+#9908
+air spear~
+an air spear~
+A spear made for the air lies here.~
+~
+weapon 0 AN
+exotic 0 0 stab 0
+0 5 0 P
+#9909
+air dagger~
+an air dagger~
+A dagger fit for airborne fights lies here.~
+~
+weapon 0 AN
+exotic 0 0 pierce 0
+0 5 0 P
+#9910
+air sword~
+an air sword~
+A sword just right for battling airborne creatures lies here.~
+~
+weapon 0 AN
+exotic 0 0 slice 0
+0 5 0 P
+#9911
+air mace~
+an air mace~
+A mace perfect for fighting hollow-boned monsters lies here.~
+~
+weapon 0 AN
+exotic 0 0 pound 0
+0 5 0 P
+#9912
+ring feather falling~
+a ring of feather falling~
+A ring with small birds etched onto it lies here.~
+~
+armor 0 AB
+0 0 0 0 0
+0 5 0 P
+A
+14 10
+A
+18 1
+A
+12 10
+#9913
+dog collar strap leather~
+a dog collar~
+A strap of leather made suitably for a dog lies here.~
+~
+armor 0 AC
+0 0 0 0 0
+0 5 0 P
+#9914
+ornate stone altar~
+an ornate stone altar~
+An elaborately wrought altar sits in the middle of the room.~
+~
+furniture 0 0
+0 0 0 0 0
+0 5 0 P
+E
+altar~
+The altar was chiseled out of the finest stone, and its workmanship is superb. However, the dried blood on the sides detracts from its beauty.~
+#9915
+great stone cushioned throne~
+a great stone and cushioned throne~
+A great stone and cushioned throne sits in the middle of the room.~
+~
+furniture 0 0
+1 500 0 0 0
+0 300 0 P
+#9916
+crystal ball~
+a crystal ball~
+A ball made out of crystal sits on a pedestal off to one side.~
+~
+furniture A A
+0 0 0 0 0
+0 100 0 P
+E
+ball~
+Scattered images from around the known world rise up to the surface, and then sink down again. You wonder exactly what -- or who -- the owner was scrying...~
+#9917
+sharp cleaver axe~
+a rather sharp-looking cleaver~
+A giant axe used for cutting meat rests on the table.~
+~
+weapon BEHJ AN
+exotic 0 0 slash 0
+0 5 0 P
+#9918
+bottle vinegar~
+a bottle of vinegar~
+A bottle of strong-smelling vinegar sits here.~
+~
+potion A A
+40 'acid blast' '(null)' '(null)' '(null)'
+0 5 0 P
+#9919
+human boullion cubes~
+some human boullion cubes~
+Some flavoring cubes for humans sits off to one side.~
+~
+pill 0 A
+40 'cure poison' 'burning hands' 'cure serious' '(null)'
+0 5 0 P
+#9920
+cookbook book~
+a cookbook~
+A book with lots of recipes sits here.~
+~
+scroll 0 A
+40 'change sex' 'faerie fire' '(null)' '(null)'
+0 5 0 P
+#9921
+lemon juice bottle~
+some lemon juice~
+A bottle of sour-smelling juice sits here.~
+~
+potion 0 A
+40 '(null)' '(null)' '(null)' '(null)'
+0 5 0 P
+#9922
+ornate holy symbol~
+an ornate holy symbol~
+An ornately wrought holy symbol sits here.~
+~
+armor ABK AC
+0 0 0 0 0
+0 5 0 P
+A
+4 2
+A
+12 20
+A
+18 1
+#9923
+great blessed club~
+a great blessed club~
+A club glows with a holy light here.~
+~
+weapon ABKL AN
+exotic 0 0 pound 0
+0 5 0 P
+A
+18 2
+A
+19 2
+#9924
+robe stars~
+the robe of stars~
+A robe with stars sewn into it hangs on a hook here.~
+~
+armor AK AK
+0 0 0 0 0
+0 5 0 P
+A
+13 10
+A
+12 30
+A
+3 1
+#9925
+bracelet bejewelled jewelled~
+a bejewelled bracelet~
+A bracelet with lots of gems embedded into it lies here.~
+~
+armor AK AM
+0 0 0 0 0
+0 5 0 P
+A
+2 2
+A
+17 -2
+A
+19 1
+#9926
+helm great~
+a great helm~
+A majestic looking helm sits here.~
+~
+armor K AE
+0 0 0 0 0
+0 5 0 P
+A
+18 3
+A
+1 1
+#9927
+plate crackling mail~
+crackling plate mail~
+Plate mail sits here, crackling with its own energy.~
+~
+armor K AD
+0 0 0 0 0
+0 5 0 P
+A
+5 2
+A
+14 30
+A
+18 1
+#9928
+dagger vengeance~
+the dagger of vengeance~
+A hungry dagger lies upon the stone.~
+~
+weapon 0 AN
+exotic 1 2 none 0
+0 5 0 P
+#9929
+cloak wraith~
+the wraith cloak~
+A cloak made out of shadows hangs upon the wall.~
+~
+armor J AK
+0 0 0 0 0
+0 5 0 P
+A
+2 1
+A
+13 20
+A
+19 -2
+#9930
+sword courage~
+the Sword of Courage~
+A magnificent sword leans against the wall.~
+~
+weapon 0 AN
+exotic 0 0 slash 0
+0 5 0 P
+A
+19 3
+A
+18 1
+A
+14 -20
+#9931
+scourge pain whip~
+the Scourge of Pain~
+A whip with many strands and barbs lies here.~
+energy~
+weapon A AN
+whip 7 6 scratch G
+51 5 7500 P
+A
+18 3
+A
+19 3
+#9932
+ornate key~
+an ornate key~
+An ornate key of some drow design lies here.~
+~
+key A A
+0 0 0 0 0
+0 5 0 P
+#9933
+old magic book~
+an old magic book~
+A book, pages creases by several leafings, lies here.~
+~
+container 0 0
+0 AC 0 0 0
+0 5 0 P
+#9934
+crystal ball~
+a great crystal ball~
+A large crystal ball sits here.~
+~
+furniture A 0
+0 0 0 0 0
+0 5 0 P
+#9935
+plush chair~
+a plush chair~
+A plush chair sits here.~
+~
+furniture 0 0
+0 0 0 0 0
+0 5 0 P
+#0
+
+
+
+#ROOMS
+#9900
+Dark tunnel~
+Yo push away several rocks and soon enter a hidden passage.  This is a
+dark rocky cavern that winds its way upwards.  You wonder what is held at
+the top...  
+~
+0 13 0
+D4
+Exit ~
+~
+0 -1 9901
+S
+#9901
+Dark tunnel~
+The cavern slowly heads upwards.  You climb over several rocks that block
+your path.  You can go back down this pathway.  
+~
+0 13 0
+D4
+Exit ~
+~
+0 -1 9902
+D5
+Exit ~
+~
+0 -1 9900
+S
+#9902
+Strange cave~
+You enter the cave and notice something odd about it.  Namely, it seems
+to be artificial!  Someone must have spent a lot of time carving out a cave
+in a mountainside.  There is a hole leading down.  
+~
+0 13 0
+D2
+Exit ~
+~
+0 -1 9903
+D5
+Exit ~
+~
+0 -1 9901
+S
+#9903
+Inside a high cave~
+You stand at the inside to a cave high above the ground.  The air here is
+rather thin.  You can see sunlight shining through the cave mouth.  
+~
+0 9 0
+D0
+Exit ~
+~
+0 -1 9902
+D3
+Exit ~
+~
+0 -1 9904
+S
+#9904
+Aerie cliff~
+You can't believe what you see!  You are on a cliff, high above the
+ground.  All around you, creatures with wings fly and glide by the mountain.
+Far off in the distance to the north, you can barely see Shandalar.  Right
+now, you're more concerned with not falling off the cliff...  To the south,
+you notice more caves.  When you look up, you notice that the mountain has
+been carved to an exquisite degree.  In fact, it's been carved to look like
+a castle!  
+~
+0 0 1
+D1
+Exit ~
+~
+0 -1 9903
+D2
+Exit ~
+~
+0 -1 9905
+S
+#9905
+Aerie cliff~
+You make your way along the cliff, kicking stones off the side.  You
+watch as the stones disappear down the cliff side...  A cave leads inwards. 
+You wonder if it leads to the interior of this castle you see carved out of
+rock?  
+~
+0 0 1
+D0
+Exit ~
+~
+0 -1 9904
+D1
+Exit ~
+~
+0 -1 9911
+D2
+Exit ~
+~
+0 -1 9906
+S
+#9906
+Aerie cliff~
+As you walk along the cliff, you can't help but notice how long a drop it
+is to the ground...  As you pass a cave to the east, you get a whiff of... 
+Something.  It seems like someone -- or something -- is living in it.  
+~
+0 0 1
+D0
+Exit ~
+~
+0 -1 9905
+D1
+Exit ~
+~
+0 -1 9910
+D2
+Exit ~
+~
+0 -1 9907
+S
+#9907
+Aerie cliff~
+This part of the cliff seems strange to you.  Then it strikes you:
+there's lots and lots and lots of claw marks on the ground.  From the look
+of them, it seems that creatures are running off the cliff!  You wonder what
+would drive things to run off a cliff, then you notice the large cave to the
+east...  A runway, perhaps?  There are flying things around...  
+~
+0 0 1
+D0
+Exit ~
+~
+0 -1 9906
+D1
+Exit ~
+~
+0 -1 9908
+S
+#9908
+Runway~
+This cave is very well carved, complete with a flat (well, almost flat)
+floor.  Strange markings are painted on the ground, most of which look like
+arrows, while some seem to be runes or letters written for giving
+directions.  The cave opens to two large branches to the north and south,
+while a large pillar (no doubt keeping the cave up!)  Prevents actual
+movement east.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 9918
+D2
+Exit ~
+~
+0 -1 9919
+D3
+Exit ~
+~
+0 -1 9907
+S
+#9910
+Kennel~
+PHEW!  It really stinks in here.  It's probably because it's a den of
+some sorts.  You can see a pile of half-gnawed bones off to one side, along
+with a bit of rotting meat.  However, what's causing the stench is probably
+the by-products of the residents of this cave.  
+~
+0 8 0
+D3
+Exit ~
+~
+0 -1 9906
+S
+#9911
+Hallway~
+This is a hallway leading indoors from the high cliff outside.  You feel
+much better, now that you're not in any danger of falling down the cliff
+outside!  
+~
+0 8 0
+D1
+Exit ~
+~
+0 -1 9912
+D3
+Exit ~
+~
+0 -1 9905
+S
+#9912
+Hallway~
+The hallway continues further inwards in this strange mountain-castle
+combination.  A few armor-clad figures patrol this area.  But no one gives
+you any attention.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 9913
+D1
+Exit ~
+~
+0 -1 9914
+D3
+Exit ~
+~
+0 -1 9911
+S
+#9913
+Snake room~
+This small cul-de-sac can barely be classified as a room. Strange nest-like structures line the ground. A hissing alerts you to something out of the ordinary. Perhaps you've stumbled upon a nest of some sort.
+~
+0 8 0
+E
+nest structures~
+Yes, these are nests. Complete with eggs. You wouldn't want to take any of them, however. They don't look especially tasty.~
+D2
+Exit ~
+~
+0 -1 9912
+S
+#9914
+Intersection of Four Paths~
+A crossroads of hallways comes to your attention. Various people cross from east to west, or turn south, but no one turns north. From here, it looks like the passage north is a dead end.
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 9915
+D1
+Exit ~
+~
+0 -1 9924
+D2
+Exit ~
+~
+0 -1 9917
+D3
+Exit ~
+~
+0 -1 9912
+S
+#9915
+Dead end?~
+The passage comes to an abrupt end. It looks like you can't go any further north. From the looks of this dead end, the hallway may be extended northwards. Maybe that north wall can be broken down quite easily.
+~
+0 8 0
+D0
+Exit ~
+~
+2 -1 9916
+D2
+Exit ~
+~
+0 -1 9914
+S
+#9916
+Hiding place~
+A strange room greets you upon leaving that cramped dead end behind. 
+This is a perfectly square room!  Shades of light blue have been painted
+onto the walls, along with banners glorifying some long forgotten god.  A
+sense of serenity fills you here.  Was this once the chapel of some
+long-forgotten civilization?  
+~
+0 8 0
+D2
+Exit ~
+~
+2 -1 9915
+M 150 H 150
+S
+#9917
+Busy hallway~
+People mill about walking every which way here.  Many are guards, but
+some are slaves captured by the Aerie warriors.  No one stops or notices
+you.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 9914
+D2
+Exit ~
+~
+0 -1 9918
+D3
+Exit ~
+~
+0 -1 9922
+S
+#9918
+Arena~
+This is a large room which looks just perfect for training creatures and
+practicing skills.  All around you, guards and scouts for this Aerie prepare
+themselves for upcoming encounters.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 9917
+D1
+Exit ~
+~
+0 -1 9921
+D2
+Exit ~
+~
+0 -1 9919
+D3
+Exit ~
+~
+0 -1 9908
+S
+#9919
+Arena~
+This is a large room which looks just perfect for training creatures and
+practicing skills.  All around you, guards and scouts for this Aerie prepare
+themselves for upcoming encounters.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 9918
+D1
+Exit ~
+~
+0 -1 9920
+D3
+Exit ~
+~
+0 -1 9908
+S
+#9920
+Arena~
+This is a large room which looks just perfect for training creatures and
+practicing skills.  All around you, guards and scouts for this Aerie prepare
+themselves for upcoming encounters.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 9921
+D1
+Exit ~
+~
+0 -1 9937
+D3
+Exit ~
+~
+0 -1 9919
+S
+#9921
+Arena~
+This is a large room which looks just perfect for training creatures and
+practicing skills.  All around you, guards and scouts for this Aerie prepare
+themselves for upcoming encounters.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 9923
+D1
+Exit ~
+~
+0 -1 9936
+D2
+Exit ~
+~
+0 -1 9920
+D3
+Exit ~
+~
+0 -1 9918
+S
+#9922
+Barracks entrance~
+A stairway leads down into some gloomy-type area below.  A sign near the
+stairway reads "BARRACKS".  
+~
+0 8 0
+D1
+Exit ~
+~
+0 -1 9917
+D5
+Exit ~
+~
+0 -1 9938
+S
+#9923
+Busy hallway~
+People are milling by here.  They must be on guard or patrol or
+_something_.  Why else would so many people be running around in this hall? 
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 9924
+D1
+Exit ~
+~
+0 -1 9935
+D2
+Exit ~
+~
+0 -1 9921
+S
+#9924
+End of hallway~
+The long hallway comes to an end here.  A small dugout passage continues
+in its place.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 9925
+D1
+Exit ~
+~
+0 -1 9926
+D2
+Exit ~
+~
+0 -1 9923
+D3
+Exit ~
+~
+0 -1 9914
+S
+#9925
+Small chapel~
+Incense can be detected as you enter this room.  You notice strange
+braziers burning; perhaps that's where the incense is coming from.  Odd
+candles cast an eerie red glow on everything in the room.  A strange
+chanting comes to your ears; is this a worship hall of some sorts?  
+~
+0 8 0
+D2
+Exit ~
+~
+0 -1 9924
+S
+#9926
+Dead end with short stairway~
+The dirt-filled passage comes to an abrupt end here.  But surprise,
+surprise, you can continue onwards; stairs lead up!  
+~
+0 8 0
+D3
+Exit ~
+~
+0 -1 9924
+D4
+Exit ~
+~
+0 -1 9927
+S
+#9927
+Entrance to Palace~
+Ornate decorations are visible all over this foyer of sorts.  The doors
+are finely carved, the stairs have a regal rug covering them, and statues
+carved from gold stand off to the side.  Someone important must live here.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 9928
+D5
+Exit ~
+~
+0 -1 9926
+S
+#9928
+Center of Palace~
+The hall opens up before you into a veritable museum of art.  Wonderous
+statues and paintings are but some parts of the scenery that unfold.  Huge
+marble pillars rise upwards to the ceiling as giant candelabras shed their
+flickering light all around.  You muse that this is much different from the
+scenery of the dungeon below you.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 9932
+D1
+Exit ~
+~
+0 -1 9930
+D2
+Exit ~
+~
+0 -1 9927
+D3
+Exit ~
+~
+0 -1 9929
+S
+#9929
+Guard room~
+Guards mill about in this small room.  They look ready to come out at a
+moment's notice.  
+~
+0 8 0
+D1
+Exit ~
+~
+0 -1 9928
+S
+#9930
+Dining Hall~
+The tables in this room are laden with a veritable feast.  Delicacies
+from around the world abound, and the food is heaped on opulent dinnerware. 
+Ornate little utensils are scattered about, and a bottle of champagne stis
+in a bucket of ice on the floor.  
+~
+0 8 0
+D1
+Exit ~
+~
+0 -1 9931
+D3
+Exit ~
+~
+0 -1 9928
+S
+#9931
+Kitchen~
+Mmmm...  The lovely smell of roasting human flesh wafts around the room.
+Various cooking tools hang around the room, and if it weren't obviously a
+kitchen, you'd probably mistake them for torture implements.  Not that this
+isn't a torture chamber of sorts...  How would you like to be spitted and
+roasted?  
+~
+0 8 0
+D3
+Exit ~
+~
+0 -1 9930
+S
+#9932
+Center room~
+The splendor you have been used to in this castle does not stop at this
+room.  The tiled floor clicks beneath your feet as you make your way into
+this room.  The hallway quits its northern march and splits into an eastern
+and western pathway.  Doors block your way in both directions.  
+~
+0 8 0
+D1
+Exit ~
+~
+0 -1 9934
+D2
+Exit ~
+~
+0 -1 9928
+D3
+Exit ~
+~
+0 -1 9933
+S
+#9933
+Throne room~
+This regal looking room is more of a gigantic hallway!  Beautiful
+paintings and statues adorn this room.  A long red carpet makes its way
+westward, until it stops at the foot of a throne.  Huge marble pillars lead
+upwards to the spanning domed ceiling.  Perhaps this is a good place to
+kneel in servitude.  From the looks of the carpet in front of the throne, it
+looks like several others already have!  
+~
+0 8 0
+D1
+Exit ~
+~
+0 -1 9932
+S
+#9934
+Study Hall~
+The room looks extremely spacious, save for the clutter consisting of
+books, scrolls, and other magical objects scattered about.  Someone
+obviously uses this room a lot.  You can see a window off in the east wall,
+while the only exit proper is off to the west.  
+~
+0 8 0
+E
+east window~
+Off in the distance, just to the northeast, you can see a great castle, towering high over this one! You don't see any way of getting there, though. You wonder who lives there...~
+D3
+Exit ~
+~
+0 -1 9932
+S
+#9935
+Jail entrance~
+This dismal cul-de-sac is decorated (in a fashion) by a sign: "JAIL".  A
+small stairway descends into the gloom that can only be created by the
+despair of creatures locked up in cells, possibly for the rest of their
+lives...  
+~
+0 8 0
+D3
+Exit ~
+~
+0 -1 9923
+D5
+Exit ~
+~
+0 -1 9943
+S
+#9936
+Den~
+This cave is simply filled with residue from previously-living creautres:
+bones, clothes, jewelry, weapons, etc.  Obviously, something _hungry_ makes
+its home here.  Scorch marks cover the walls, making you extra cautious of
+what is here...  
+~
+0 8 0
+D3
+Exit ~
+~
+0 -1 9921
+S
+#9937
+Lair~
+This cave sure does stink!  And you can see why: some creature makes its
+home in this offshoot cave.  Bones and junk litter the floor.  You'd hate to
+see what lives here...  
+~
+0 8 0
+D3
+Exit ~
+~
+0 -1 9920
+S
+#9938
+Barracks bottom~
+All sorts of beds can be seen in this large clearing in the mountain. 
+Various people in strange suits of armor walk around here...  This must be
+where the Aerie guards go to sleep!  
+~
+0 8 0
+D1
+Exit ~
+~
+0 -1 9942
+D2
+Exit ~
+~
+0 -1 9939
+D4
+Exit ~
+~
+0 -1 9922
+S
+#9939
+Between two rooms~
+This is a quieter part of the barracks.  That is a relative term, though.
+People walk around still and make a lot of noise.  Two annexes to the
+barracks can be seen from here.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 9938
+D1
+Exit ~
+~
+0 -1 9941
+D3
+Exit ~
+~
+0 -1 9940
+S
+#9940
+Barracks~
+People walk around in here getting things out of their private chests. 
+Others work on polishing their armor.  No sense letting free time go to
+waste...  
+~
+0 9 0
+D1
+Exit ~
+~
+0 -1 9939
+S
+#9941
+Barracks~
+People walk around in here getting things out of their private chests. 
+Others work on polishing their armor.  No sense letting free time go to
+waste...  
+~
+0 9 0
+D3
+Exit ~
+~
+0 -1 9939
+S
+#9942
+Centre Hall~
+This is a short hallway leading between two larger rooms.  To the east,
+you can see several small cells leading off into the gloom.  To the west, a
+MUCH larger passage leads off to a heavily-trafficked area.  You can hear
+odd roars to the north, you wonder what's going on...  
+~
+0 9 0
+D0
+Exit ~
+~
+0 -1 9949
+D1
+Exit ~
+~
+0 -1 9943
+D3
+Exit ~
+~
+0 -1 9938
+S
+#9943
+Jail Bottom~
+The walls are lined with several small cells, each one containing no
+fewer that six people crying for their lives, their freedom, anything.  You
+watch as prisoners are shoved around by well-armed Aerie guards,
+occasionally being whipped for their insolence.  Their cries of pain ring in
+your ears.  Some large cells can be seen to the south, while a passage leads
+off to the west...  More cells, perhaps?  
+~
+0 9 0
+D2
+Exit ~
+~
+0 -1 9944
+D3
+Exit ~
+~
+0 -1 9942
+D4
+Exit ~
+~
+0 -1 9935
+S
+#9944
+Centre of Cells~
+After passing by a multitude of small cells filled with crying people,
+you come to a dead end of sorts.  Rather than the incredibly small and
+cramped cells you were used to seeing, there are just a few doors.  A few
+large doors.  You wonder what sort of prisoners are held in these cells...  
+~
+0 9 0
+D0
+Exit ~
+~
+0 -1 9943
+D1
+Exit ~
+~
+0 -1 9948
+D2
+Exit ~
+~
+0 -1 9945
+D3
+Exit ~
+~
+0 -1 9947
+D5
+Exit ~
+~
+0 -1 9946
+S
+#9945
+Glowing Cell~
+The first thing that hits you about this room is that it's bright. 
+BRIGHT.  Light reflects off the walls...  But that's impossible.  The walls
+are dull and gray.  No light can come off them!  Then you feel a sense of
+peace, of calmness.  Perhaps you have found a safe place to rest in this
+hell hole.  Then again, it could be a trick.  Somehow, however, you get the
+feeling no one's about to enter this room...  You wonder why.  
+~
+0 8 0
+D0
+Exit ~
+~
+0 -1 9944
+M 200 H 200
+S
+#9946
+Dark Dank Room~
+This cell seems more of an afterthought.  It's not very big, has no form
+of ventilation whatsoever...  You pause for a moment.  Could this cell once
+have been some form of LATRINE?  You shudder at the thought of someone being
+held captive in such a room...  
+~
+0 9 0
+D4
+Exit ~
+~
+0 -1 9944
+S
+#9947
+Dark Cell~
+Shadows obscure most of the detail of this cell.  What you can make out
+is that it's a roughly-carved cave with odd forms of lichen growing on the
+walls.  You can detect a faint hint of mildew in the air.  You hesitate to
+venture further into the room, because you can't see where you're going.  A
+glint of silver pierces its way through the darkness.  
+~
+0 9 0
+D1
+Exit ~
+~
+0 -1 9944
+S
+#9948
+Dirty Cell~
+The grime and dirt that are caked on the walls seem especially old. 
+Whoever maintains these cells must be letting his work slide!  Straw lines
+the ground, forming a meager bed.  The cell itself looks big enough to hold
+a dragon...  
+~
+0 9 0
+E
+straw bed floor~
+C'mon, you don't want to go rolling around in that stuff. It's got fleas in it! Who knows what other types of gunk are in it! Besides, you've got a nice place to sleep at home.~
+D3
+Exit ~
+~
+0 -1 9944
+S
+#9949
+Dragon Hall~
+All around this hall, you can see images of dragons adorning the walls. 
+Large doors are set into the walls.  Scrape marks line the floor; they look
+like they were made with claws.  
+~
+0 9 0
+D0
+Exit ~
+~
+0 -1 9950
+D1
+Exit ~
+~
+2 9905 9958
+D2
+Exit ~
+~
+0 -1 9942
+D3
+Exit ~
+~
+2 9906 9957
+S
+#9950
+Dragon Hall~
+All around this hall, you can see images of dragons adorning the walls. 
+Large doors are set into the walls.  Scrape marks line the floor; they look
+like they were made with claws.  
+~
+0 9 0
+D0
+Exit ~
+~
+0 -1 9951
+D1
+Exit ~
+~
+2 9904 9956
+D2
+Exit ~
+~
+0 -1 9949
+D3
+Exit ~
+~
+2 9903 9955
+S
+#9951
+Dragon Hall~
+All around this hall, you can see images of dragons adorning the walls. 
+Large doors are set into the walls.  Scrape marks line the floor; they look
+like they were made with claws.  
+~
+0 9 0
+D0
+Exit ~
+~
+2 -1 9952
+D1
+Exit ~
+~
+2 9902 9954
+D2
+Exit ~
+~
+0 -1 9950
+D3
+Exit ~
+~
+2 9901 9953
+S
+#9952
+Multi-Colored Room~
+The glaring colours of this room hurt your eyes!  For a moment, you think
+you were going blind, what with all the clashing colours and patterns that
+cover the walls and floor stinging your sight.  As your eyes grow accustomed
+to this strange room, you realize that it generates a light of its own.  You
+wish it didn't produce so many colours, though!  A shimmering of colours
+appears before you, then a giant head materializes.  "Hello," it says, "I've
+been waiting for dinner for a while..."  
+~
+0 8 0
+D2
+Exit ~
+~
+2 9907 9951
+S
+#9953
+Blue Painted Room~
+The scent of fresh paint wafts into your nostrils.  This must be a
+recently renovated room.  The walls of the room are blue.  Extremely blue. 
+Except for the scorch mark that streaks across the floor.  There is a slight
+electrical tang in the air near the mark.  You admire the blue wall, until
+you remember that walls don't have mouths...  
+~
+0 9 0
+D1
+Exit ~
+~
+2 9901 9951
+S
+#9954
+Reddish Room~
+A reddish tinge to the walls is the first noticeable detail you see. 
+Ferrous material?  You think so, as what's obviously rust powder is kicked
+about by your feet as you move about.  A strange scent fills the air.  Rust?
+No, more like smoke.  Except there's nothing burning in the room.  A pile of
+black material sits in the middle of the room.  Graphite?  No, this time
+it's really soot and ash.  You look up and then see what created the ash... 
+~
+0 9 0
+D3
+Exit ~
+~
+2 9902 9951
+S
+#9955
+Greened-Over Room~
+Various forms of moss and lichen grow on the walls here.  Obviously
+someone has a subterranian garden growing!  As you breathe, you cough and
+choke on the air around you.  There's a definite green tint to the air.  A
+billow of green air strikes you in the face.  Something's breathing at
+you...  
+~
+0 9 0
+D1
+Exit ~
+~
+2 9903 9950
+S
+#9956
+Blackened Room~
+Piles of black soot-like materials cover the floor and line the walls. 
+Soot?  Well, more like graphite, the way it sparkles a bit in the faint
+light.  You mull over the fact there's a graphite vein in this mountain. 
+However, where graphite can be seen, it's in strange recesses in the wall,
+almost as if someone's been splashing liquid on the wall.  You look at a
+strange pile of white residue just near the doorway.  A hiss sounds, and
+then you realize someone wants to turn YOU into a pile of white residue...  
+~
+0 9 0
+D3
+Exit ~
+~
+2 9904 9950
+S
+#9957
+Graying Room~
+The walls of this room look like they've been built with large granite
+bricks.  On closer inspection, though, you notice that it's just been carved
+that way; the wall is made up of one continuous pile of stone.  The drab
+grayness of the room feels rather depressing.  You hear the hissing of
+something, and then realize you're not alone in this room...  
+~
+0 9 0
+D1
+Exit ~
+~
+2 9906 9949
+S
+#9958
+Whitened Room~
+Yaack!  This room is cold!  Frost covers the walls and floor like a coat
+of paint.  As you exhale, you can see a cloud of mist form in front of your
+face.  You shiver quietly as you look around the room.  Mounds of snow are
+piled up on the floor.  One seems to be looking at you...  
+~
+0 9 0
+E
+mounds snow~
+On closer inspection, they just seem to be piles of fine ice. They feel sharp to the touch.~
+D3
+Exit ~
+~
+2 9905 9949
+S
+#9959
+A Hallway in the Palace~
+You walk along an exquisite hallway that was carved out of a mountain. 
+Light gently reflects off the quartz-embedded walls while your footsteps
+echo loudly down the hall.  Scuffmarks along the floor indicate things with
+claws have walked up and down this hallway many, many times.  
+~
+0 12 0
+D0
+~
+~
+0 0 9962
+D1
+~
+~
+0 0 9961
+D3
+~
+~
+0 0 9960
+S
+#9960
+a room~
+~
+0 12 0
+D1
+~
+~
+0 0 9959
+S
+#9961
+a room~
+~
+0 5 9
+D3
+~
+~
+0 0 9959
+S
+#9962
+a room~
+~
+0 12 0
+D2
+~
+~
+0 0 9959
+S
+#9963
+a room~
+~
+0 524 0
+S
+#0
+
+
+
+#SPECIALS
+M 9912 spec_breath_fire Load to: the chimera
+M 9914 spec_poison Load to: a flying viper
+M 9916 spec_cast_cleric Load to: Brimhal the cleric
+M 9917 spec_cast_mage Load to: Surrelthim the mage
+M 9921 spec_cast_cleric Load to: a demon priest
+M 9922 spec_cast_cleric Load to: a royal guardian daemon
+M 9923 spec_cast_judge Load to: the daemon cook
+M 9925 spec_breath_any Load to: Tlalmek the Balrog Lord
+M 9926 spec_cast_mage Load to: QukBanesh the Balrog Mage
+M 9928 spec_poison Load to: the gray dragon
+M 9929 spec_breath_frost Load to: the white dragon
+M 9930 spec_breath_gas Load to: the green dragon
+M 9931 spec_breath_acid Load to: the black dragon
+M 9932 spec_breath_lightning Load to: the blue dragon
+M 9933 spec_breath_fire Load to: the red dragon
+M 9934 spec_breath_any Load to: the iridescent dragon
+M 9935 spec_breath_fire Load to: the gold dragon
+M 9936 spec_breath_frost Load to: the silver dragon
+M 9937 spec_poison Load to: the couatl
+M 9938 spec_breath_fire Load to: the great Phoenix
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 9915 0 2
+D 0 9916 2 2
+D 0 9949 1 2
+D 0 9949 3 2
+D 0 9950 1 2
+D 0 9950 3 2
+D 0 9951 3 2
+D 0 9953 1 2
+D 0 9954 3 2
+D 0 9955 1 2
+D 0 9956 3 2
+D 0 9957 1 2
+D 0 9958 3 2
+M 1 9904 2 9904 2
+M 1 9904 2 9905 2
+M 1 9904 2 9906 2
+M 1 9900 1 9907 1
+M 1 9905 2 9910 2
+M 1 9905 2 9910 2
+E 0 9913 0 4
+M 1 9914 3 9913 3
+M 1 9915 1 9915 1
+M 1 9916 1 9916 1
+E 0 9922 0 3
+E 0 9923 0 16
+M 1 9917 1 9916 1
+E 0 9924 0 12
+E 0 9925 0 14
+M 1 9918 1 9916 1
+E 0 9929 0 12
+E 0 9928 0 16
+M 1 9919 1 9916 1
+E 0 9927 0 5
+E 0 9926 0 6
+E 0 9930 0 16
+M 1 9900 2 9918 2
+M 1 9901 2 9918 2
+M 1 9900 2 9919 2
+M 1 9901 2 9919 2
+M 1 9908 2 9920 2
+M 1 9909 2 9920 2
+M 1 9908 2 9921 2
+M 1 9909 2 9921 2
+M 1 9920 1 9925 1
+M 1 9921 1 9925 1
+O 0 9914 0 9925
+M 1 9922 2 9927 2
+M 1 9906 4 9929 4
+M 1 9907 4 9930 4
+M 1 9907 2 9931 2
+M 1 9923 1 9931 1
+E 0 9917 0 16
+G 0 9918 0
+G 0 9919 0
+G 0 9920 0
+G 0 9921 0
+M 1 9924 1 9932 1
+M 1 9925 1 9933 1
+O 0 9915 0 9933
+M 1 9926 1 9934 1
+O 0 9916 0 9934
+M 1 9912 1 9936 1
+M 1 9913 1 9937 1
+M 1 9906 3 9940 3
+M 1 9907 2 9940 2
+M 1 9906 3 9941 3
+M 1 9907 2 9941 2
+M 1 9927 1 9942 1
+M 1 9938 1 9945 1
+E 0 9900 0 10
+M 1 9938 1 9945 1
+M 1 9937 1 9946 1
+M 1 9936 1 9947 1
+M 1 9935 1 9948 1
+M 1 9934 1 9952 1
+M 1 9932 1 9953 1
+M 1 9933 1 9954 1
+M 1 9930 1 9955 1
+M 1 9931 1 9956 1
+M 1 9928 1 9957 1
+M 1 9929 1 9958 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

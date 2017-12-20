@@ -1,0 +1,1956 @@
+#AREADATA
+Name Sherwood Forest~
+Builders None~
+VNUMs 800 899
+Credits {35 45} Broklyn     Sherwood Forest~
+Security 9
+Xcontinent 1
+Age 15
+Questable 1
+Control Venari~
+End
+
+
+
+#MOBILES
+#800
+robin hood~
+Robin Hood~
+Robin Hood is standing here, shooting arrows.
+~
+Robin Hood is muscular and fast.  He could kill you in an instant, but as
+long as you act or look poor, you do not have to worry about him robbing
+you.  
+~
+human~
+AG HQV 1000 0
+46 0 25d10+3250 1d1+100 6d6+16 pound
+-16 -16 -16 -16
+FHK 0 C 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#801
+little john~
+Little John~
+Little John stands here, looming over you.
+~
+He is over 6 foot five and he could easily crush you in an instant, watch
+your back if you have money.  
+~
+human~
+AGT JL 1000 0
+45 -2 25d10+3000 1d1+100 8d4+16 pound
+-15 -15 -15 -15
+0 0 E B
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#802
+friar tuck~
+Friar Tuck~
+Friar Tuck prays here.
+~
+Friar Tuck is here in meditation, praying to the gods for you.  
+
+~
+human~
+ABGQ DHN 1000 0
+45 -1 25d10+3000 1d1+100 8d4+16 pound
+-15 -15 -15 -15
+0 0 C 0
+stand stand male 250
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#803
+maid marion~
+Maid Marion~
+Maid Marion is standing here.
+~
+You see this beautiful brunette's hair floating in the wind.  She is
+extremely gorgeous.  
+~
+human~
+AG 0 1000 0
+44 0 25d10+2750 1d1+100 8d4+15 slap
+-15 -15 -15 -15
+0 0 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#804
+merry man~
+a merry man~
+One of Robin Hood's merry men hides here.
+~
+This man is dressed in green and stands so still that he almost blends
+into the background.
+~
+human~
+AGS P 500 0
+40 0 15d10+1850 1d1+100 4d8+13 pound
+-13 -13 -13 -13
+0 0 0 E
+stand stand male 50
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#805
+barbarian~
+a barbarian~
+The barbarian is here, running through the forest.
+~
+This furious man is running around looking for enemies of Robin Hood's
+merry men.  
+~
+human~
+AFGT 0 0 0
+40 -1 15d10+1850 1d1+100 4d8+13 pound
+-13 -13 -13 -13
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#806
+warlock~
+a warlock~
+A warlock is standing here, mixing potions.
+~
+You see a wisened old man here, looking around for the band of rebels
+known as Robin Hood and his merry men.  He is waving his hands around in
+some arcane incantation.  
+~
+human~
+AGR DF -1000 0
+40 1 15d10+1850 1d1+100 4d8+13 pound
+-13 -13 -13 -13
+0 0 C 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#807
+wild boar tusk~
+a wild boar~
+A wild boar with long tusks runs through the forest.
+~
+Desc This pig like creature doesn't look to frightening, except for
+his long sharp tusks.
+~
+pig~
+AG 0 0 0
+40 0 15d10+1850 1d1+100 4d8+13 smash
+-13 -13 -13 -13
+FO 0 0 0
+stand stand male 0
+AGHMV ABCDEFHJKUV medium 0 the guilds~
+#808
+gary~
+Gary, the store keeper~
+Gary stands here counting cash.
+~
+Gary smiles and wants to sell you something.
+~
+unique~
+ABG 0 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 pound
+-13 -13 -13 -13
+0 ABCDZ 0 0
+stand stand male 0
+AHMV ABCDEF medium 0 the guilds~
+#809
+nottingham guard~
+a Nottingham guard~
+A Nottingham guard stands here, completely clueless.
+~
+This guard is tall and muscular, but it seems as he gazes around
+cluelessly that he has no brains, what so ever.  
+~
+human~
+AG 0 -500 0
+41 0 25d10+2000 1d1+100 4d8+14 punch
+-14 -14 -14 -14
+0 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#810
+geoph~
+Geoph the Innkeep~
+Geoph the Innkeep is here, serving drinks.
+~
+What a life this man has had.  Two women who are ready to marry him, and
+he has had many other women.  But the only thing he has to show for it is
+this small Inn.  
+~
+human~
+ABG 0 1000 0
+40 4 15d10+1850 1d1+100 4d8+13 pound
+-13 -13 -13 -13
+0 0 0 0
+stand stand male 90000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#811
+wayne~
+Wayne~
+Wayne is here, sweeping the floors.
+~
+He looks at you with a child-like fascination.  He seems a little slow,
+but cordial.  A full grown adult in this state is sad, but what else can you
+expect from living under the Iron Fist of the Sherrif of Nottingham.  
+~
+human~
+ABG 0 0 0
+43 0 25d10+2500 1d1+100 3d12+15 punch
+-15 -15 -15 -15
+0 0 0 P
+stand stand male 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#812
+rojer~
+Rojer~
+Rojer sits here, drinking his life away.
+~
+This man at one point in his life was an honest tax collector for the
+King.  Now, under the reign of the Sheriff, he sits and drinks his life
+away.  
+~
+human~
+ABG 0 0 0
+43 0 25d10+2500 1d1+100 3d12+15 pound
+-15 -15 -15 -15
+0 0 0 0
+sit stand male 200
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#813
+rebecca~
+Rebecca~
+Rebecca is sitting here, looking attractive.
+~
+She is sweet, kind and gorgeous.  Sitting around looking attractive and
+winking at the customers is her job.  Unless contracted for something more..
+Entertaining.  
+~
+human~
+ABGH 0 0 0
+43 0 25d10+2500 1d1+100 3d12+15 scratch
+-15 -15 -15 -15
+0 0 0 0
+sit stand female 300
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#814
+carl ~
+Carl the Bouncer~
+Carl the Bouncer is here, starting fights.
+~
+He is looking rather drunk and instead of dealing with unruly and
+unpaying customers, he is attacking everyone.  
+~
+human~
+ABFG 0 0 0
+44 0 25d10+2750 1d1+100 8d4+15 pound
+-15 -15 -15 -15
+I 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#815
+clifford~
+Clifford~
+Clifford the Bard is here, singing to the customers.
+~
+What a set of lungs this guy has.  He is winking at the ladies, and
+drinking with the men.  Always up for a good time, and you notice the way he
+looks at Rebecca.  
+~
+human~
+ABG 0 0 0
+43 0 25d10+2500 1d1+100 3d12+15 cleave
+-15 -15 -15 -15
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#816
+frasier~
+Frasier~
+Frasier is here, preaching the word of his god.
+~
+This man is a devout cleric of some unnamed god.  He is preaching the
+glory of peace, generosity and kindness.  He is also willing to impart his
+healing ability on you, for a small donation.  
+~
+human~
+ABGQ 0 0 0
+43 0 25d10+2500 1d1+100 3d12+15 wrath
+-15 -15 -15 -15
+0 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#817
+will scarlet~
+Will Scarlet~
+Will Scarlet is here, betraying Robin of Locksley.
+~
+After betraying Robin Hood, he himself was betrayed by the wicked sheriff.
+~
+human~
+AG H -500 0
+45 0 25d10+3000 1d1+100 8d4+16 punch
+-15 -15 -15 -15
+0 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#818
+citizen~
+a citizen~
+A citizen stands here in shackles.
+~
+~
+human~
+ABG 0 800 0
+40 0 15d10+1850 1d1+100 4d8+13 punch
+-13 -13 -13 -13
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#819
+secretary~
+a secretary~
+A secretary is sitting here, working at her desk.
+~
+This young thing is working to keep her family fed.  Unfortunately, she
+is being harrassed by the guards.  
+~
+human~
+ABG 0 -200 0
+41 0 25d10+2000 1d1+100 4d8+14 slap
+-14 -14 -14 -14
+0 0 0 0
+sit stand female 100
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#820
+prince john~
+Prince John~
+Prince John sits on his throne counting gold.
+~
+What an evil, corrupt man.  Gaining wealth while his people suffer.  
+~
+human~
+ABGH H -1000 0
+46 0 25d10+3250 1d1+100 6d6+16 smash
+-16 -16 -16 -16
+0 0 C 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M bribe 874 100000~
+#821
+sheriff nottingham~
+the Sheriff of Nottingham~
+The sheriff is standing here, looking evil.
+~
+This is an ugly, young, cruel and very greedy man.  His only goal left is
+to kill Robin Hood and his band of rebels.  
+~
+human~
+AGH L -1000 0
+45 0 25d10+3000 1d1+100 8d4+16 punch
+-15 -15 -15 -8
+E 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#822
+nottingham guard~
+a Nottingham guard~
+A Nottingham guard stands here, completely clueless.
+~
+This guard is tall and muscular, but it seems as he gazes around
+cluelessly that he has no brains, what so ever.  
+~
+human~
+AG 0 -500 0
+42 0 25d10+2250 1d1+100 3d12+14 punch
+-14 -14 -14 -14
+0 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium 0 the guilds~
+M speech 811 okay~
+#823
+citizen~
+a citizen of Nottingham~
+A poor citizen of Nottingham.
+~
+This poor citizen is barely able to pay taxes and have enough money
+left to buy food.
+~
+human~
+ABG 0 800 0
+40 0 15d10+1850 1d1+100 4d8+13 none
+-13 -13 -13 -13
+0 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#824
+merry man guard~
+a merry man~
+A merry man guards stolen gold.
+~
+This man is dressed in green and stands so still that he almost blends
+into the background.
+~
+human~
+ABFGS P 500 0
+45 0 25d10+3000 1d1+100 8d4+16 none
+-15 -15 -15 -15
+E 0 D E
+stand stand male 50
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#800
+robin hood bow arrow~
+a bow and arrow~
+Robin Hood's bow and arrow have been dropped here.~
+wood~
+throwing ABK AO
+5 8 sting 40 'flame arrow'
+45 80 2100 P
+A
+13 10  
+A
+18 2  
+#801
+tucks cross~
+Friar Tuck's cross~
+Friar Tuck's cross rests here.~
+wood~
+staff 0 AO
+35 3 2 'weaken' 0
+40 50 1200 P
+A
+12 10  
+A
+4 2  
+#802
+robin hood shield~
+Robin Hood's shield~
+Robin Hood's shield has been dropped here.~
+iron~
+armor 0 AJ
+11 11 11 4 0
+45 100 3600 P
+A
+23 -2  
+A
+13 5  
+A
+18 1  
+#803
+little johns quarterstaff~
+a wooden quarterstaff~
+Little John's quarterstaff leans against a tree.~
+wood~
+weapon K AN
+staff 8 4 thwack 0
+40 50 2500 P
+A
+18 2  
+A
+19 1  
+#804
+pile coins~
+a pile of coins~
+A pile of coins sits here.~
+gold~
+money 0 A
+25 300 0 0 0
+0 5 0 P
+#805
+bubbling white potion~
+a bubbling white potion~
+A white potion bubbes in a vial.~
+glass~
+potion 0 AO
+30 'pass door' 'bless' 'giant strength' '(null)'
+35 20 2500 P
+#806
+barrel ale~
+a barrel of ale~
+A barrel of ale is sitting on a shelf.~
+wood~
+drink 0 AO
+10 10 'ale' 0 0
+1 50 250 P
+#807
+lantern~
+a lantern~
+A lantern rests here.~
+brass~
+light 0 AO
+0 0 999 0 0
+35 40 2500 P
+A
+13 25  
+#808
+potion invisibility~
+a potion of invisibility~
+A potion of invisibility is on a shelf.~
+glass~
+potion G AO
+40 'invisibility' '(null)' '(null)' '(null)'
+35 30 200 P
+#809
+bow arrow~
+a bow and arrow~
+A bow and arrow have been left here.~
+wood~
+throwing 0 AO
+10 3 pierce 25 'scramble'
+40 120 19000 P
+#810
+nottingham sword guard~
+a guard's sword~
+A sword that belongs to a Nottingham guard.~
+silver~
+weapon J AN
+sword 5 7 slice 0
+40 120 2500 P
+A
+12 10  
+#811
+throne key~
+a throne key~
+The throne key lies here.~
+copper~
+key 0 A
+0 A BC ABD 0
+1 10 0 P
+#812
+sheriffs sword~
+a sheriff's sword~
+A sheriff's sword rests here.~
+steel~
+weapon BEGJ AN
+sword 6 6 crush 0
+45 110 3000 P
+A
+19 1  
+A
+18 1  
+#813
+jail key~
+the key to Nottingham's jail~
+The Nottingham jail key has been dropped here.~
+iron~
+key 0 AO
+0 0 0 0 0
+1 2 0 P
+#814
+pile gold coins~
+a pile of gold coins~
+A large pile of gold coins has been dropped here.~
+gold~
+money 0 A
+5000 0 0 0 0
+0 50 0 P
+#815
+manual archery~
+a manual of archery~
+A manual containing detailed information on archery is here.~
+wood~
+trash A A
+0 0 0 0 0
+1 30 7000 P
+E
+manual archery~
+Robin Hood is well known for his prowess at archery. On him, you find
+a book containing the details of several magical arrows, and how you
+may craft some for yourself:
+ 
+"quiver pixie arrow" made with 1 arcane lumber and 1 pixie feather.
+"quiver medusa arrow" made with 4 arcane lumber and 4 cockatrice feathers.
+"quiver phoenix arrow" made with 12 arcane lumber and 3 flaming feathers.
+ 
+Good luck!
+~
+#819
+bribery note~
+a bribery note~
+A note tallying up Prince John's bribes has been thrown aside.~
+paper~
+trash 0 AO
+0 0 0 0 0
+0 3 0 P
+E
+bribery~
+Recent Bribes:
+ 
+2000 gold -- France
+5000 gold -- Italy
+1000 gold -- Venari
+~
+E
+note~
+Recent Bribes:
+ 
+2000 gold -- France
+5000 gold -- Italy
+1000 gold -- Venari
+~
+#0
+
+
+
+#ROOMS
+#800
+Sherwood Forest~
+You are standing in a section of the Sherwood Forest.  The legend of
+Robin Hood and his Merry Men is something of a rumor, but there might be
+something of the truth further in the woods.  
+~
+0 0 3
+D0
+~
+~
+0 -1 814
+D1
+~
+~
+0 -1 826
+D2
+~
+~
+0 0 10994
+D3
+~
+~
+0 0 801
+S
+#801
+Sherwood Forest~
+You are standing in the midsts of Sherwood forest.  The legend of Robin
+Hood is said to be more then a legend here.  
+~
+0 0 3
+D0
+~
+~
+0 -1 815
+D1
+~
+~
+0 -1 800
+D3
+~
+~
+0 -1 806
+S
+#802
+Deep in the Woods~
+You are standing at a bend in the woods.  There is a faint beam of light
+coming from the sun, barely visible from under the canopy of the treetops.  
+~
+0 0 3
+D0
+~
+~
+0 0 829
+D2
+~
+~
+0 -1 823
+D3
+~
+~
+0 -1 822
+S
+#803
+A Path in the Woods~
+You are standing on a path that looks like it is widely used by a
+multitude of people.  You wonder who could be using a path, in the middle of
+no where.  
+~
+0 0 3
+D0
+~
+~
+0 -1 805
+D1
+~
+~
+0 -1 822
+D2
+~
+~
+0 -1 804
+S
+#804
+A Path in the Woods~
+You can see wagon tracks on the path that look pretty recent, and
+listening more carefully you hear some horses further down the path.  If I
+were you, I would go and investigate.  
+~
+0 0 3
+D0
+~
+~
+0 -1 803
+D1
+~
+~
+0 -1 825
+D2
+~
+~
+0 -1 831
+D3
+~
+~
+0 -1 826
+S
+#805
+A Path~
+You are standing in the middle of a path in the center of Sherwood
+forest.  You can hear strange sounds coming from the trees off to the side
+of the path.  
+~
+0 0 3
+D0
+~
+~
+0 0 816
+D2
+~
+~
+0 -1 803
+S
+#806
+The Deep Forest~
+The woods are very dense here.  Many bugs crawl around the plants
+and trees.  There is a clearing to the north, and the forest continues
+to the east and south.
+~
+0 0 3
+D0
+~
+~
+0 -1 840
+D1
+~
+~
+0 -1 801
+D2
+~
+~
+0 -1 839
+S
+#807
+Robin's Bedroom~
+This is obviously Robin Hood's bedroom.  It seems simple yet practical, a
+bed and table, with one window.  But something is out of place.  
+~
+0 8 0
+D0
+~
+door~
+1 0 842
+S
+#808
+A Giant Tree~
+Before you stands a giant tree, looking at it's upper branches you see a
+type of fortress.  You can also hear children playing.  Just climb the
+ladder.  
+~
+0 0 3
+D2
+~
+~
+0 -1 840
+D4
+~
+~
+0 -1 809
+S
+#809
+Tree Fort~
+You are standing inside the tree fortress.  There are toys scattered all
+over the floor.  There also seems to be a type of target for practicing with
+a bow and arrow.  
+~
+0 8 0
+D3
+~
+~
+0 -1 810
+D5
+~
+~
+0 -1 808
+S
+#810
+A Bridge~
+This rope bridge connects several trees together.  You can look down
+and observe the actions of Robin Hood's merry men.  The bridge continues
+west and east.
+~
+0 8 0
+D1
+~
+~
+0 -1 809
+D3
+~
+~
+0 -1 841
+S
+#811
+The Treasure Room~
+This room hold much of the gold of the rich.  It is transported from here
+to many villages to be distibuted to the poor.  
+~
+0 8 0
+D0
+~
+~
+0 -1 841
+D5
+~
+~
+0 -1 842
+S
+#812
+The Lake~
+You are standing in a large lake.  The lake is surrounded by beautiful
+waterfalls.  It is so beautiful, unfortunately not many can share in its
+beauty because of the secluded location in the forest.  
+~
+0 0 6
+D1
+~
+~
+0 0 7668
+D3
+~
+~
+0 -1 823
+D5
+~
+~
+0 -1 813
+S
+#813
+UnderGround Cave~
+You are in an underground cave.  The air is very mild and moist.  You can
+also smell something down here but can not determine what it is.  
+~
+0 8 0
+D4
+~
+~
+0 -1 812
+S
+#814
+Sherwood Forest~
+This is another secluded section of the forest that seems to be rather
+spooky.  
+~
+0 1 3
+D2
+~
+~
+0 -1 800
+D3
+~
+~
+0 -1 815
+S
+#815
+Sherwood Forest~
+This section of the forest seems to be haunted.  So watch out for
+ghosts...  BOO!  
+~
+0 1 3
+D1
+~
+~
+0 -1 814
+D2
+~
+~
+0 -1 801
+S
+#816
+End of the Path~
+The path ends abruptly here.  You can squeeze through the trees to
+your east or head south.
+~
+0 268435460 3
+D1
+~
+~
+0 0 830
+D2
+~
+~
+0 0 805
+S
+#817
+A Stream Through the Forest~
+This shallow stream if full of cold, clear water.  It flows south through 
+the woods.  To the north is a clearing.
+~
+0 0 6
+D0
+~
+~
+0 -1 844
+D2
+~
+~
+0 -1 818
+S
+#818
+A Stream in Sherwood~
+The river curves through the forest from north to east here.  The slow
+moving water cause a calm trickling sound as it flows.  The water is cool
+and clear.  
+~
+0 0 6
+D0
+~
+~
+0 -1 817
+D1
+~
+~
+0 -1 819
+S
+#819
+A Stream Through Sherwood~
+The water here is extremely clear.  You look down at the bottom of the
+stream bed and are fascinated with the smooth pebbles that line it.
+The stream continues east and west.
+~
+0 0 6
+D1
+~
+~
+0 -1 820
+D3
+~
+~
+0 -1 818
+S
+#820
+Stream in Sherwood~
+This stream flows slowly through the forest.  Smooth stones line
+the bed.  The stream continues to the west and the forest grows to
+the east.
+~
+0 0 6
+D1
+~
+~
+0 -1 839
+D3
+~
+~
+0 -1 819
+S
+#821
+The Church~
+You are standing in a small chapel belonging to Friar Tuck.  You can feel
+the strength of Selina in this room.  The good Friar rarely leaves this
+place.  The only exit lies to the north.
+~
+0 8 0
+D0
+~
+~
+0 -1 839
+S
+#822
+Dark Forest~
+You are standing in a dark section of the forest.  You can hear the
+sounds of battle in the distance.  
+~
+0 1 3
+D0
+~
+~
+0 0 830
+D1
+~
+~
+0 -1 802
+D3
+~
+~
+0 -1 803
+S
+#823
+Dark Forest~
+Stumbling around in the forest is annoying.  You can see barely five feet
+in front of you.  Hopefully there will be a break in the trees soon.  
+~
+0 1 3
+D0
+~
+~
+0 -1 802
+D1
+~
+~
+0 -1 812
+D2
+~
+~
+0 -1 824
+S
+#824
+Dark Forest~
+The darkness in this area seems almost magical.  Even with a light you
+can not see much around you.  
+~
+0 1 3
+D0
+~
+~
+0 -1 823
+D3
+~
+~
+0 -1 825
+S
+#825
+Dark Forest~
+Now this is beginning to get frustrating.  In this darkness it is
+difficult to tell who is friend and who is foe.  
+~
+0 1 3
+D1
+~
+~
+0 -1 824
+D3
+~
+~
+0 -1 804
+S
+#826
+Dark Forest~
+Looking around, your eyes pleading for some light.  You see something! 
+Unfortunately, it is just the red glowing eyes of predators who are
+accustomed to these conditions.  
+~
+0 1 3
+D0
+~
+~
+0 -1 827
+D1
+~
+~
+0 -1 804
+D2
+~
+~
+0 -1 828
+D3
+~
+~
+0 -1 800
+S
+#827
+Dark Forest~
+SNAP!!  You hear a loud noise behind you, breaking the silence.  Twisting
+around, you realize that it was just the snap of a twig that you had just
+stepped on.  
+~
+0 1 3
+D2
+~
+~
+0 -1 826
+S
+#828
+Dark Forest~
+The forest is extremely dark here.  Trees grow all around you.  
+~
+0 1 3
+D0
+~
+~
+0 -1 826
+S
+#829
+Dark Forest~
+This part of the forest is open to the sky and it looks like you can get
+out of here quite easily.
+~
+0 268435477 3
+D2
+~
+~
+0 0 802
+D3
+~
+~
+0 0 830
+S
+#830
+Dark Forest~
+This section of the forest is dark and damp.  You shiver as wet leaves brush
+against your face.  It is too dim to clearly see any exits.
+~
+0 268435461 3
+D1
+~
+~
+0 0 829
+D2
+~
+~
+0 0 822
+D3
+~
+~
+0 0 816
+S
+#831
+A Heavily Used Path~
+You can see recent wagon tracks on the path and the sounds of horses
+further away.  Dense trees grow along both edges of the path.  You
+can continues to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 -1 804
+D2
+~
+~
+0 -1 832
+S
+#832
+A North-South Path~
+This long path runs through the Sherwood Forest.  Tall trees and dense
+brush grows along side the path.  The only exits lie to the north and
+south.
+~
+0 0 3
+D0
+~
+~
+0 -1 831
+D2
+~
+~
+0 -1 833
+S
+#833
+A Long Path~
+This path provides a safe passage through Sherwood forest.  Thick brush
+prevents any movement to the east or west.  The path continues to the
+north and south.
+~
+0 0 3
+D0
+~
+~
+0 -1 832
+D2
+~
+~
+0 -1 834
+S
+#834
+A Path Through Sherwood Forest~
+This straight path travels the length of the woods.  Tall trees line both
+edges of the road.  You can continue walking north or south.
+~
+0 0 3
+D0
+~
+~
+0 -1 833
+D2
+~
+~
+0 -1 835
+S
+#835
+A Dirt Path~
+This long path runs through the Sherwood Forest.  Tall trees cast long
+shadows over the road.  You wonder if any bandits hide along the path.
+The only exits lies to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 -1 834
+D2
+~
+~
+0 -1 836
+S
+#836
+Path in the Woods~
+You stand in the middle of a dirt path that runs through the forest.  Tall 
+grass and large trees line both sides of the road.  Exits lie to the north
+and south.
+~
+0 0 3
+D0
+~
+~
+0 -1 835
+D2
+~
+~
+0 -1 837
+S
+#837
+A Path to a Castle~
+You can see a large castle far to the south.  It is impossible to travel
+to the east or west because of the thick underbrush.  Long thorns tear 
+your clothes as you walk by.  The path continues to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 -1 836
+D2
+~
+~
+0 -1 838
+S
+#838
+A Path to a Castle~
+At the southern end of this long path stands a large castle.  You wonder
+if Prince John is inside.  Tall trees grow to the east and west preventing
+any movement in those directions.  Exits lie to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 -1 837
+D2
+~
+~
+0 -1 845
+S
+#839
+The Deep Forest~
+Tall trees and thick grass covers this section of the woods.  A pretty
+church stands to the south.  The forest continues to the north, and a
+small stream lies to the west.
+~
+0 0 3
+D0
+~
+~
+0 -1 806
+D2
+~
+~
+0 -1 821
+D3
+~
+~
+0 -1 820
+S
+#840
+Robin's Hideout~
+This section of the forest has been claimed by Robin and his merry 
+men.  It is a wonderful place to hide from the Prince's guards.  There
+is a path to the west and a large tree to the north.
+~
+0 0 3
+D0
+~
+~
+0 -1 808
+D2
+~
+~
+0 -1 806
+D3
+~
+~
+0 -1 844
+S
+#841
+A Bridge~
+This bridge is another section of the tree fort.  Be careful not to fall
+off.  
+~
+0 8 0
+D1
+~
+~
+0 -1 810
+D2
+~
+~
+0 -1 811
+S
+#842
+A Path Through Robin's Hideout~
+You stand on a path that leads to Robin's hide out.  A small hut stands
+to your south.  Lots of activity is occuring in the trees above you.
+~
+0 0 3
+D1
+~
+~
+0 -1 843
+D2
+~
+door~
+1 0 807
+D4
+~
+~
+0 -1 811
+S
+#843
+A Path Through Robin's Hideout~
+You stand in the middle of Robin Hood's hideout.  Tall trees surround the
+clearing providing perfect cover for the band of merry men.  Exits lie to
+the east and west.
+~
+0 0 3
+D1
+~
+~
+0 -1 844
+D3
+~
+~
+0 -1 842
+S
+#844
+Robin Hood's Hideout~
+The forest clearing provides a great hiding place for Robin Hood's band
+of raiders.  The clearing continues to the east and west, and a small
+stream lies to the south.
+~
+0 0 3
+D1
+~
+~
+0 -1 840
+D2
+~
+~
+0 -1 817
+D3
+~
+~
+0 -1 843
+S
+#845
+A Path to a Castle~
+This path travels north and south through the Sherwood Forest.  You
+begin to hear the sounds of a city coming from the south.  Thick thorn
+bushes prevent any movement to the east or west.
+~
+0 0 3
+D0
+~
+~
+0 -1 838
+D2
+~
+~
+0 -1 846
+S
+#846
+North-South Path~
+Tall trees tower over this long dirt path.  The grass along side the road 
+rustles from either the wind or small animals.  A large castle looms to
+south and the path continues to the north.
+~
+0 0 3
+D0
+~
+~
+0 -1 845
+D2
+~
+~
+0 -1 847
+S
+#847
+The Nottingham Drawbridge~
+You stand in the middle of a large wooden drawbridge.  The city of 
+Nottingham lies to the south, and large stone guard towers stand to 
+the east and west.  A path through Sherwood Forest runs north.
+~
+0 0 1
+D0
+~
+~
+0 -1 846
+D1
+~
+~
+0 -1 848
+D2
+~
+~
+0 -1 850
+D3
+~
+~
+0 -1 849
+S
+#848
+Guard Tower~
+You are standing in the eastern guard tower of the Nottingham Castle.
+Two windows are set high in the northern wall.  You can climb a wooden
+ladder to see out them.  The only exit is to the west.
+~
+0 0 0
+D3
+~
+~
+0 -1 847
+S
+#849
+Guard Tower~
+You are standing in the western tower of Nottingham.  Tall platforms
+surround all sides of the tower providing easy access to the windows
+over-looking Sherwood Forest.  There is an exit to the east.
+~
+0 0 0
+D1
+~
+~
+0 -1 847
+S
+#850
+The Castle Entrance~
+You have now entered the Castle of Nottingham.  There is a market just
+to the north.  To the south is a drawbridge leading to Sherwood Forest.
+~
+0 0 1
+D0
+~
+~
+0 -1 847
+D2
+~
+~
+0 -1 851
+S
+#851
+Nottingham Square~
+The market square is in the middle of the castle court yard.  A street
+lined with shops runs to the east and west.  To the north is the castle
+drawbridge, and to the south stand the castle doors.
+~
+0 0 1
+D0
+~
+~
+0 -1 850
+D1
+~
+~
+0 -1 852
+D2
+~
+door~
+1 -1 863
+D3
+~
+~
+0 -1 855
+S
+#852
+East John Avenue~
+This street was named after the annoying evil Prince John.  The market
+square stands to the west and the street continues to the east.
+~
+0 0 1
+D1
+~
+~
+0 -1 853
+D3
+~
+~
+0 -1 851
+S
+#853
+East John Avenue~
+This street runs east and west through the castle walls.  Peasant huts
+line both sides of the street.  They are locked, however, to prevent
+intruders.
+~
+0 0 1
+D1
+~
+~
+0 -1 854
+D3
+~
+~
+0 -1 852
+S
+#854
+Outside the General Store~
+You have reached the end of East John Avenue.  Nottingham's general  
+store stands to the north.  The castle wall blocks any movement to the
+east.
+~
+0 0 1
+D0
+~
+~
+0 0 858
+D3
+~
+~
+0 -1 853
+S
+#855
+West John Avenue~
+You stand on the east-west road through Nottingham Castle.  To the west
+is the market square.  Wooden huts stand to the north and south, but
+their doors have been locked to prevent intruders.
+~
+0 0 1
+D1
+~
+~
+0 -1 851
+D3
+~
+~
+0 -1 856
+S
+#856
+West John Avenue~
+This long east-west road runs through the middle of Nottingham castle.
+ A large bar stands to the south.  It provides entertainment for the
+entire population.
+~
+0 0 1
+D1
+~
+~
+0 -1 855
+D2
+~
+door~
+2 0 860
+D3
+~
+~
+0 -1 857
+S
+#857
+Against the Castle Wall~
+You stand at the western end of the West John Avenue.  The castle wall
+blocks any movement to the west.  Private huts line the north and south
+ends of the street.  The road continues to the east.
+~
+0 0 1
+D1
+~
+~
+0 -1 856
+S
+#858
+General Store~
+You are standing in the general store of Nottingham Castle.  Many fine 
+items are stacked on shelves around the room.  Behind the counter is a
+"wanted poster" with Robin Hood's name on it.  A trap door is barely
+visible on the floor.
+~
+0 8 0
+D2
+~
+~
+0 0 854
+D5
+~
+trapdoor~
+1 0 859
+S
+#859
+Secret Room~
+You have stumbled into a small underground room used to hide smuggled
+goods from the sheriff.  Large barrels of rum and mead line both walls.
+You feel safe from Prince John down here.
+~
+0 524297 0
+D4
+~
+trapdoor~
+1 0 858
+S
+#860
+Cheers~
+You are standing in Cheers.  One of the best Bars in Nottigham.  You will
+have a fun time here, and may be get drunk.  Just ask Geoph for some
+assistance.  To the east is the managers office and to the south is the
+pool hall.
+~
+0 8 0
+D0
+~
+door~
+2 0 856
+D1
+~
+door~
+2 -1 861
+D2
+~
+~
+0 -1 862
+S
+#861
+Manager Office~
+You are standing in the manager's office.  It is small and dark except
+for one little window high up on the east wall.  There is also a desk
+covered with lots of papers.
+~
+0 8 0
+D3
+~
+~
+2 -1 860
+S
+#862
+Pool Room~
+You are standing in a new room with a new game invented with a type of
+ball, and a stick.  It sits on a table with holes in it.  
+~
+0 8 0
+D0
+~
+~
+0 -1 860
+S
+#863
+Main Hallway~
+This elegant hallway winds though the inside of Nottingham Castle.
+Expensive paintings and deep carpets decorate the entry.  The hall
+continues to the south and two large oak doors stand to the north.
+~
+0 8 1
+D0
+~
+door~
+1 -1 851
+D2
+~
+~
+0 -1 864
+S
+#864
+Elegant Hallway~
+You stand in the middle of a long north-south hallway in Nottingham
+Castle.  The floor is covered with marble tile and the ceiling is painted
+with a bright mural.  The guards headquarters lie to the east.
+~
+0 8 1
+D0
+~
+~
+0 -1 863
+D1
+~
+~
+0 -1 865
+D2
+~
+~
+0 -1 873
+S
+#865
+Castle Guard Headquarters~
+This is the foyer of the guard headquarters.  It is dominated by a large
+desk and some comfortable looking chairs.  There is a room to the north
+and a door to the east.
+~
+0 8 0
+D0
+~
+~
+0 -1 866
+D1
+~
+door~
+1 0 867
+D3
+~
+~
+0 -1 864
+S
+#866
+Barracks~
+Four small cots have been set up in this room for the castle guards to
+sleep on.  The room is a chilly and bare.  A door to the south leads to
+guards headquarters.
+~
+0 8 0
+D2
+~
+~
+0 -1 865
+S
+#867
+Jail~
+This jail was built to hold the people who do not pay their taxes.  There
+are thick stone walls to prevent escape.  The cell block lies to the north.
+There is a door to the west.
+~
+0 8 0
+D0
+~
+~
+0 -1 870
+D3
+~
+door~
+1 0 865
+S
+#869
+Jail Cell~
+The blank walls of the cell seem to be closing in on you.  You wish there
+was a way to escape from the jail.  You can hear sounds coming from beyond
+the door.
+~
+0 8 0
+D1
+~
+door~
+1 0 870
+S
+#870
+Jail Cell Hall~
+You stand outside the Nottingham jail cells.  Thick bars and heavy stone
+walls look impossible to escape from.  Cells lie to the north, east, and 
+west.  There is an exit to the south.
+~
+0 8 0
+D0
+~
+door~
+1 813 872
+D1
+~
+door~
+1 813 871
+D2
+~
+~
+0 -1 867
+D3
+~
+door~
+1 813 869
+S
+#871
+Jail Cell~
+The blank walls of the cell seem to be closing in on you.  You wish there
+was a way to escape from the jail.  You can hear sounds coming from beyond
+the door.
+~
+0 8 0
+D3
+~
+door~
+1 0 870
+S
+#872
+Jail Cell~
+The blank walls of the cell seem to be closing in on you.  You wish there
+was a way to escape from the jail.  You can hear sounds coming from beyond
+the door.
+~
+0 8 0
+D2
+~
+door~
+1 0 870
+S
+#873
+The Grand Hall of The Castle~
+This is the grand hall of Nottingham castle.  There are many paintings of
+the King, who is off fighting in the Crusades.  A large suit of armor stands
+against the eastern wall.  A huge gold embossed door stands to the south.
+The hall continues to the north.
+~
+0 8 0
+D0
+~
+~
+0 -1 864
+D2
+~
+door~
+2 811 874
+S
+#874
+Throne Room~
+A large gold throne dominates this room.  Tall stained glassed windows
+fliter soft light.  Many empty chests stand around the room waiting to be
+filled with tax money.
+~
+0 8 0
+D0
+~
+door~
+2 811 873
+S
+#0
+
+
+
+#SPECIALS
+M 802 spec_cast_cleric Load to: Friar Tuck
+M 804 spec_thief Load to: a merry man
+M 806 spec_cast_mage Load to: a warlock
+M 809 spec_guard Load to: a Nottingham guard
+M 812 spec_breath_gas Load to: Rojer
+M 816 spec_cast_cleric Load to: Frasier
+S
+
+
+
+#MOBPROGS
+#874
+if isvisible $n
+say Ah, someone who knows who is in charge!  I shall have the Sheriff's men support your cause.
+mob zecho A strong wind passes through Sherwood forest, as Prince John strikes a deal.
+mob control_chr $n
+emote walks off to count his money.
+mob purge $i
+else
+say I would love to give you my loyalty, but I cannot do so with someone I cannot see.
+drop 1000 gold
+endif
+~
+A
+#809
+if control $n
+say Ah, the Sheriff, he mentioned we be listenin' to you now.
+say Shall I go be killin' that scoundrel Robin Hood?
+mob remember $n
+mob delay 5
+endif
+~
+A
+#810
+say The silent type?  Then I be going about me business.
+mob forget
+~
+A
+#811
+if istarget $n
+say That be what I like to hear!  Tally-ho!
+mob echo $I grabs a weapon from a nearby rack, and runs off in search of Robin Hood.
+mob goto 807
+kill robin
+mob forget
+endif
+~
+A
+#812
+if istarget $n
+say That be a shame then.  I'll be polishin' me weapons.
+mob forget
+endif
+~
+A
+#0
+
+#RESETS
+D 0 807 0 1
+D 0 842 2 1
+D 0 851 2 1
+D 0 856 2 1
+D 0 858 5 1
+D 0 859 4 1
+D 0 860 0 1
+D 0 860 1 1
+D 0 863 0 1
+D 0 865 1 1
+D 0 867 3 1
+D 0 869 1 2
+D 0 870 0 2
+D 0 870 1 2
+D 0 870 3 2
+D 0 871 3 2
+D 0 872 2 2
+D 0 873 2 2
+D 0 874 0 2
+M 1 807 4 802 1
+M 1 807 4 803 1
+M 1 803 1 806 1
+M 1 800 1 807 1
+E 0 802 0 11
+E 0 815 0 17
+M 1 804 4 809 3
+M 1 824 1 811 1
+M 1 801 1 811 1
+E 0 803 0 16
+O 0 814 0 811
+M 1 806 1 813 1
+G 0 805 0
+M 1 807 4 815 1
+M 1 802 1 821 1
+E 0 801 0 17
+M 1 805 3 822 1
+M 1 805 3 824 1
+M 1 805 3 825 1
+M 1 807 4 843 1
+M 1 804 4 843 1
+M 1 822 5 847 2
+M 1 822 5 850 2
+M 1 823 4 853 1
+M 1 823 4 854 1
+M 1 823 4 855 1
+M 1 823 4 857 1
+M 1 808 1 858 1
+G 0 806 0
+G 0 807 0
+G 0 808 0
+G 0 809 0
+M 1 810 1 860 1
+M 1 811 1 860 1
+M 1 812 1 860 1
+M 1 815 1 860 1
+M 1 816 1 860 1
+M 1 813 1 861 1
+M 1 814 1 862 1
+M 1 819 1 865 1
+E 0 813 0 17
+G 0 819 0
+M 1 809 4 866 3
+E 0 810 0 16
+M 1 809 4 867 1
+E 0 810 0 16
+M 1 818 2 869 1
+M 1 818 2 871 1
+M 1 817 1 872 1
+M 1 822 5 873 1
+E 0 810 0 16
+G 0 811 0
+M 1 820 1 874 1
+M 1 821 1 874 1
+E 0 812 0 16
+S
+
+
+
+#SHOPS
+808 5 9 1 10 6 110 50 1 24
+810 17 17 19 17 17 100 25 0 24
+0
+
+
+
+#$

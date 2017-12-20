@@ -1,0 +1,1519 @@
+#AREADATA
+Name The Lost Mine~
+Builders None~
+VNUMs 19000 19099
+Credits { 0 30} Zool        The Lost Mine~
+Security 9
+Xcontinent 1
+Age 11
+Questable 1
+End
+
+
+
+#MOBILES
+#19000
+old lich undead~
+an old and powerful lich~
+An old and powerful lich is here, working on a new malefice.
+~
+He doesn't look human anymore.  He seems dead but is still moving.  You
+see some pieces of skin in decomposition and some parts of his bones.  He
+smells awful.  He has some magical items which help him to survive in his
+non-life.  
+~
+human~
+ABCFGORW BCDEHOZ -1000 0
+35 1 10d10+2000 35d4+100 3d10+15 claw
+-11 -11 -11 -11
+FK AMQ BP N
+stand stand male 3500
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19001
+yeti~
+the legendary yeti~
+The legendary yeti is here, looking for food.
+~
+You are in front of the huge legendary yeti!  It is so impressive and so
+huge.  It has white fur and large claws.  It also seems very hungry.  
+~
+giant~
+ACFGY Jce 0 0
+30 0 6d12+853 30d4+100 4d6+8 claw
+-9 -9 -9 -9
+CDFH E HI J
+stand stand either 0
+AHMV ABCDEFGHIJK large 0 the guilds~
+#19002
+giant ice~
+a giant of ice~
+A giant of ice is freezing the air here.
+~
+A huge giant of ice tries to catch you.  It is very angry and wants to
+freeze you.  
+~
+giant~
+ABFG 0 -750 0
+28 -2 6d12+703 28d4+100 2d12+8 none
+-8 -8 -8 -8
+0 I HI HJ
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0 the guilds~
+#19003
+mammoth~
+a huge mammoth~
+A huge mammoth is here, charging at you.
+~
+It's a huge creature.  It is very impressive and his cries are
+tremendously strong.  
+~
+unique~
+ABFG c 0 0
+20 0 3d9+333 20d4+100 2d8+5 none
+-4 -4 -4 -4
+CD 0 E 0
+stand stand male 0
+0 0 huge 0 the guilds~
+#19004
+white wolf~
+a white wolf~
+A white wolf is here.
+~
+It has nice white fur but, it looks very aggressive.  
+~
+wolf~
+ABFG Ze 0 0
+21 0 4d10+360 21d4+100 4d4+5 bite
+-5 -5 -5 -5
+DFHRU 0 0 0
+stand stand either 0
+AGV ACDEFJKQV medium 0 the guilds~
+#19005
+elf mountain~
+a mountain elf~
+A small elf of the mountain is here.
+~
+He looks like an elf.  He is wearing dirty clothes.  He doesn't pay any
+attention at you.  
+~
+elf~
+ACGH J -750 0
+20 0 3d9+333 20d4+100 2d8+5 none
+-4 -4 -4 -4
+FIJRU 0 BE Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19006
+elf mountain miner~
+an elven miner~
+A small elven miner is here.
+~
+He looks like an elf.  He doesn't pay any attention at you.  He is
+wearing dirty clothes and some mining equipment.  He is trying to excavate
+some adamantite.  
+~
+elf~
+ABGH J -750 0
+25 0 5d10+550 25d4+100 2d10+7 punch
+-7 -7 -7 -7
+EFJKRU 0 BE Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19008
+guard~
+a guard~
+A guard is here, checking the miner's job.
+~
+He is a tall guy.  He is here to check the work of the miner, and to stop
+people who want to escape.  
+~
+human~
+ACFG e -750 0
+27 0 5d10+650 27d4+100 5d4+7 punch
+-8 -8 -8 -8
+0 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19009
+Marco itinerant dealer~
+Marco the itinerant dealer~
+Marco the itinerant dealer is here, trying to sell his potions.
+~
+He looks like a nice persone with a big smile.  He is wearing a traveling
+cloth and very strange shoes.  He seems to sell potions and pills.  You just
+wonder if he isn't a charlatan.  
+~
+human~
+ABGU DFJVZc 0 0
+25 0 5d10+550 25d4+100 2d10+7 punch
+-7 -7 -7 -7
+ADEFHJK ABDHIJKLMNQS 0 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19010
+guardian~
+the guardian~
+The guardian of the treasure is here.
+~
+He look likes a skeleton, ready to slay anyone who wants to take
+something from here.  
+~
+human~
+ABFGT OZ -1000 0
+30 -1 6d12+853 30d4+100 4d6+8 none
+-9 -9 -9 -9
+DEFJK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#19011
+diamond golem~
+{WDiamond {YGolem{x~
+A {WDiamond {YGolem{x is here, invincible to your attacks.
+~
+This mysterious construct is created entirely out of solid diamond
+and will resist almost any physical attack you make. A magical assault
+is your best bet. A suitable piece from this golem could be very useful in
+crafting a powerful katana.
+~
+human~
+AGT CHNOTUZ 0 0
+60 20 50d10+17000 1d1+100 8d6+28 pierce
+-97 -97 -97 -97
+ACDEFHKMNO ABa CD 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#19000
+collar obediance~
+a collar of obedience~
+A collar of obedience lies on the ground.~
+bronze~
+treasure CEGHM AC
+0 0 0 0 0
+0 1 100 P
+A
+3 -3  
+A
+4 -2  
+#19001
+shield secrets~
+a shield of secrets~
+A shield of secrets is here, keeping secrets.~
+adamantite~
+container GY AJ
+250 0 -1 25 25
+30 10 150 P
+A
+1 1  
+A
+18 1  
+#19002
+sparkling genius~
+a sparkling of genius~
+A sparkling of genius has been forgotten here.~
+nothingness~
+light ABG A
+0 0 5 0 0
+5 0 0 P
+A
+3 1  
+E
+sparkling~
+Snap! You just have an awesom idea!
+Must be your day of luck.
+~
+#19003
+copper cup~
+a copper cup~
+A copper cup lies here.~
+copper~
+potion e A
+30 'cure critical' 'cure disease' '(null)' '(null)'
+25 10 0 P
+E
+copper cup~
+It is full of a strange yellow liquid.
+~
+#19004
+incredible potion strength~
+an incredible potion of strength~
+An incredible potion of strength has been dropped here.~
+glass~
+potion C AO
+25 'giant strength' 'slow' '(null)' '(null)'
+20 10 3000 P
+E
+incredible~
+Poua! It smell awfull. Yon don't want really drink it ?
+~
+#19005
+incredible pill feeling~
+an incredible pill of feeling~
+An incredible pill of feeling has been dropped here.~
+food~
+pill e AO
+15 'detect invis' 'infravision' 'loneliness' '(null)'
+15 10 1000 P
+E
+~
+~
+E
+incredible pill feeling~
+This pill isn't appetizing.
+~
+#19006
+venomous dart~
+a venomous dart~
+A venomous dart lies on the ground.~
+bamboo~
+throwing CE AO
+3 4 pierce 15 'poison'
+15 1 1000 P
+#19007
+lich skull~
+a lich's skull~
+A frightening lich's skull is here, scaring you.~
+bone~
+warp_stone Te AO
+0 0 0 0 0
+25 5 5000 P
+#19008
+bone flail~
+a bone flail~
+A bone flail has been dropped here.~
+bone~
+weapon CEGJY AN
+flail 3 5 none B
+21 10 0 P
+A
+18 2  
+A
+2 1  
+#19009
+glowing staff~
+a glowing staff~
+A glowing staff lights the room.~
+energy~
+wand ABGY AO
+25 6 5 'continual light' 0
+25 10 1500 P
+#19010
+bracer youth~
+a bracer of youth~
+A bracer of youth has been left here.~
+energy~
+treasure ABGITY AM
+0 0 0 0 0
+31 10 0 P
+A
+9 -50  
+A
+1 1  
+A
+13 10  
+A
+2 1  
+#19011
+golden ring~
+a small golden ring~
+A small golden ring lies on the ground.~
+gold~
+jewelry e ABY
+0 0 0 0 0
+20 10 500 P
+A
+13 10  
+A
+2 1  
+#19012
+silver ring~
+a small silver ring~
+A small silver ring lies on the ground.~
+silver~
+jewelry HM AB
+0 0 0 0 0
+20 10 200 P
+A
+19 -5  
+A
+12 -20  
+#19013
+bronze ring~
+a small bronze ring~
+A small bronze ring lies on the ground.~
+bronze~
+jewelry e AB
+0 0 0 0 0
+20 10 200 P
+A
+12 10  
+A
+13 10  
+#19014
+green potion~
+a green potion~
+A green potion lies on the ground~
+glass~
+potion GI AO
+20 'cure critical' 'haste' '(null)' '(null)'
+21 10 1000 P
+#19015
+miner pick~
+a miner's pick~
+A miner's pick lies on the ground.~
+iron~
+weapon e AN
+polearm 4 4 pierce 0
+20 50 100 P
+#19016
+fireplace~
+a fireplace~
+~
+stone~
+portal e 0
+0 0 0 19018 0
+0 10000 0 P
+E
+fireplace~
+You notice a small opening, perhaps a hidden path.
+~
+#19017
+ice~
+ice~
+~
+ice~
+container e e
+50 0 -1 50 100
+0 1000 0 P
+#19018
+passageway~
+a small passageway~
+~
+stone~
+portal e e
+0 0 0 19017 0
+0 10 0 P
+E
+passageway~
+This is the way you have to use to come back to the hut.
+~
+#19019
+ice chest~
+an ice chest~
+{x~
+ice~
+container e 0
+500 AC 1 20 100
+0 10 0 P
+#19020
+ice chest~
+an ice chest~
+{x~
+ice~
+container e 0
+500 AC 1 20 100
+0 10 0 P
+#19021
+desk~
+a desk~
+~
+wood~
+container e e
+50 ACD 19022 20 100
+0 1000 0 P
+E
+desc~
+A small empty desc is here.
+~
+#19022
+key~
+a small key~
+A small key has been left here.~
+silver~
+key e AO
+0 0 0 0 0
+0 10 0 P
+#19023
+iron key~
+an iron key~
+A small key has been left here.~
+iron~
+key e A
+0 0 0 0 0
+0 10 0 P
+#19024
+iron chest~
+an iron chest~
+An iron chest lies here.~
+iron~
+container e 0
+150 ACD 19023 25 90
+0 1000 0 P
+#19025
+heavy iron spear~
+a heavy iron spear~
+A heavy iron spear has been left here.~
+iron~
+weapon e AN
+staff 3 6 thrust F
+25 100 1000 P
+A
+13 10  
+A
+18 3  
+#19026
+egg~
+a small egg~
+A small egg has been forgotten here.~
+food~
+pill 0 AO
+25 'animal growth' 'bark skin' '(null)' '(null)'
+0 0 0 P
+#19027
+wand protection~
+a wand of protection~
+A wand of protection lies on the ground.~
+ivor~
+wand ABY AO
+20 5 5 'fireproof' 0
+25 2 25 P
+#19028
+diamond whetstone~
+a diamond whetstone~
+A tool for sharpening blades is here, made of solid diamond.~
+diamond~
+jewelry AB AORY
+0 0 0 0 0
+30 1 1 'sharpen' 0
+51 20 40000 P
+#0
+
+
+
+#ROOMS
+#19000
+Zool's home~
+You are in the Zool's private room.
+
+~
+0 820228 0
+M 500 H 500
+S
+#19001
+A way to the north~
+You are on a small road which leads to the north.  The temperature is
+colder than usual, and there is snow everywhere.  Just near you, there is a
+light cart with a big sign on it.  If the cold does not scare you, you can
+continue to the north or come back to a warmer place to the south.  
+~
+0 0 5
+E
+cart~
+Here, many elixirs are for sale.  They are cheap and very powerful!
+~
+E
+light~
+Here, many elixirs are for sale.  They are cheap and very powerful!  
+~
+E
+sign~
+Here, many elixirs are for sale.  They are cheap and very powerful!  
+~
+D0
+Too dark to tell.~
+~
+0 -1 19002
+D2
+~
+~
+0 0 10885
+S
+#19002
+In front a crevasse~
+You are at the end of the way.  There is a big crevasse in front of you. 
+On this crevasse you see a small snow bridge.  So, you can continue to the
+north and try to go across the bridge, or you can try to go aroud the
+crevasse by the west.  
+~
+0 0 5
+D0
+Too dark to tell.~
+~
+0 -1 19003
+D2
+Too dark to tell.~
+~
+0 -1 19001
+D3
+Too dark to tell.~
+~
+0 -1 19005
+S
+#19003
+On the snow bridge~
+You are on the small snow bridge.  You wonder if you must run or walk
+slowly.  It doesn't seem very strong.  There is also a lot of wind and it's
+hard to not fall down.  To the north, the wind seems to be stronger, making
+a blizzard with the snow.  You can go to a safer place in the south.  
+~
+0 0 5
+D0
+Too dark to tell.~
+~
+0 -1 19004
+D2
+Too dark to tell.~
+~
+0 -1 19002
+S
+#19004
+In front of the blizzard.~
+You are just beyond the crevasse.  The small bridge is to the south.  To
+the north, there is a blizzard.  You can't see a thing through it.  
+~
+0 0 5
+D0
+Too dark to tell.~
+~
+0 -1 19007
+D2
+Too dark to tell.~
+~
+0 -1 19003
+S
+#19005
+Along the crevasse~
+You are moving along the crevasse.  You don't think that you can jump
+across it.  You hear some strange noises.  You can go back to the east to
+the bridge, or you can continue to the west and try to find a path through
+it.  
+~
+0 0 5
+D1
+Too dark to tell.~
+~
+0 -1 19002
+D3
+Too dark to tell.~
+~
+0 -1 19006
+S
+#19006
+End of the crevasse~
+You have reached the end of the crevasse.  You still hear some strange
+noises.  This is the sound of the wind.  You can't see anything through the
+blizzard in the north.  You can go back to the east along the crevasse, or
+you can keep going to the north and try to find a path through the blizzard.
+~
+0 8 5
+D0
+Too dark to tell.~
+~
+0 -1 19007
+D1
+Too dark to tell.~
+~
+0 -1 19005
+S
+#19007
+In the blizzard~
+You are in the blizzard.  You can't see anything except the snow.  You
+can't hear anything except the wind.  You wonder if that will stop at one
+moment, or if you'll be able to escape from it.  You can wander in all
+directions.  
+~
+0 0 5
+D1
+Too dark to tell.~
+~
+0 -1 19008
+D3
+Too dark to tell.~
+~
+0 -1 19009
+D2
+Too dark to tell.~
+~
+0 -1 19010
+D0
+Too dark to tell.~
+~
+0 -1 19011
+S
+#19008
+In the blizzard~
+You are in the blizzard.  You can't see anything except the snow.  You
+can't hear anything except the wind.  You wonder if that will stop at one
+moment, or if you'll be able to escape from it.  You can wander in all
+directions.  
+~
+0 0 5
+D2
+Too dark to tell.~
+~
+0 -1 19008
+D0
+Too dark to tell.~
+~
+0 -1 19008
+D1
+Too dark to tell.~
+~
+0 -1 19009
+D3
+Too dark to tell.~
+~
+0 -1 19007
+S
+#19009
+In the blizzard~
+You are in the blizzard.  You can't see anything except the snow.  You
+can't hear anything except the wind.  You wonder if that will stop at one
+moment, or if you'll be able to escape from it.  You can wander in all
+directions.  
+~
+0 0 5
+D1
+Too dark to tell.~
+~
+0 -1 19007
+D0
+Too dark to tell.~
+~
+0 -1 19011
+D2
+Too dark to tell.~
+~
+0 -1 19011
+D3
+Too dark to tell.~
+~
+0 -1 19008
+S
+#19010
+In the blizzard~
+You are in the blizzard.  You can't see anything except the snow.  You
+can't hear anything except the wind.  You wonder if that will stop at one
+moment, or if you'll be able to escape from it.  You can wander in all
+directions.  
+~
+0 0 5
+D3
+Too dark to tell.~
+~
+0 -1 19011
+D1
+Too dark to tell.~
+~
+0 -1 19011
+D0
+Too dark to tell.~
+~
+0 -1 19012
+D2
+Too dark to tell.~
+~
+0 -1 19008
+S
+#19011
+In the blizzard~
+You are in the blizzard.  You can't see anything except the snow.  You
+can't hear anything except the wind.  You wonder if that will stop at one
+moment, or if you'll be able to escape from it.  You can wander in all
+directions.  
+~
+0 0 5
+D0
+Too dark to tell.~
+~
+0 -1 19009
+D1
+Too dark to tell.~
+~
+0 -1 19012
+D3
+Too dark to tell.~
+~
+0 -1 19010
+D2
+Too dark to tell.~
+~
+0 -1 19007
+S
+#19012
+In the blizzard~
+You are in the blizzard.  You can't see anything except the snow.  You
+can't hear anything except the wind.  You wonder if that will stop at one
+moment, or if you'll be able to escape from it.  You can wander in all
+directions.  
+~
+0 0 5
+D0
+Too dark to tell.~
+~
+0 -1 19004
+D1
+Too dark to tell.~
+~
+0 -1 19006
+D2
+Too dark to tell.~
+~
+0 -1 19010
+D3
+Too dark to tell.~
+~
+0 -1 19011
+D4
+Too dark to tell.~
+~
+0 -1 19013
+S
+#19013
+Up in the mountain~
+You are up in the mountain.  Far below, you see the blizzard.  You can
+continue going up the mountain, or go back down into the blizzard.  
+~
+0 0 5
+D4
+Too dark to tell.~
+~
+0 -1 19014
+D5
+Too dark to tell.~
+~
+0 -1 19012
+S
+#19014
+On a plateau~
+You reached a plateau.  There is snow everywhere.  There is a small hut
+hidden behind some rocks to the west.  The plateau continues to the north. 
+You can also go down the mountain.  
+~
+0 0 5
+D0
+Too dark to tell.~
+~
+0 -1 19015
+D3
+Too dark to tell.~
+~
+0 -1 19017
+D5
+Too dark to tell.~
+~
+0 -1 19013
+S
+#19015
+On the plateau~
+You are on the plateau.  There is snow everywhere.  You can go to the
+south, where there is a hut, or you can continue to the north.  
+~
+0 0 5
+D0
+Too dark to tell.~
+~
+0 -1 19016
+D2
+Too dark to tell.~
+~
+0 -1 19014
+S
+#19016
+The end of the plateau~
+You are on the plateau.  There is snow everywhere.  You are on the edge
+of the plateau.  The only exit is to the south.
+~
+0 0 5
+D2
+Too dark to tell.~
+~
+0 -1 19015
+S
+#19017
+In a small hut~
+You are in a small hut.  There is only one room with very few things. 
+There is only a bed, a table, and a chair.  There is also a big fireplace. 
+You can go outside to the east.  
+~
+0 8 0
+D1
+Too dark to tell.~
+~
+0 -1 19014
+S
+#19018
+A small tunnel~
+You are in a small, dark tunnel.  You wonder where you are.  There is ice
+on the lining and snow on the ground.  The tunnel continues to the north. 
+To go back to the hut, you have to use the small passageway.  
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 -1 19019
+S
+#19019
+A small tunnel~
+You are in a small, dark tunnel.  There is ice on the lining and snow on
+the ground.  There is a small cave to the east.  You can continue to the
+north, or come back to the south.  
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 -1 19021
+D1
+Too dark to tell.~
+~
+0 -1 19020
+D2
+Too dark to tell.~
+~
+0 -1 19018
+S
+#19020
+A small cave~
+You are in a small cave.  It is totally empty.  There is just ice
+everywhere.  After a little time, you notice something hiding in
+the ice.  The only exit is to the west.
+~
+0 9 0
+D3
+Too dark to tell.~
+~
+0 -1 19019
+S
+#19021
+A small tunnel~
+You are in a small, dark tunnel.  You wonder where you are.  There is ice
+on the lining and snow on the ground.  The tunnel continues to the north. 
+You can go back to the south.  
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 -1 19022
+D2
+Too dark to tell.~
+~
+0 -1 19019
+S
+#19022
+A bifurcation~
+You are in a small, dark tunnel.  There is ice everywhere, as well as
+some strange pieces of rock on the ground.  You hear some strange noises,
+but you can't identify them and you can't find where they are coming from. 
+There is a bifurcation in the passage.  You can go to the east or to the
+west, or, if you prefer, you can go back to the south.  
+~
+0 9 0
+E
+piece rock~
+It looks like adamantite.
+
+~
+D1
+Too dark to tell.~
+~
+0 -1 19023
+D2
+Too dark to tell.~
+~
+0 -1 19021
+D3
+Too dark to tell.~
+~
+0 -1 19041
+S
+#19023
+A dark tunnel~
+You are in a dark tunnel.  You see many pieces of rock in the ice.  The
+strange sound seems to come from the north where there is a big cave.  You
+can go back to the west.  
+~
+0 9 0
+E
+piece rock~
+It looks like adamantite.
+
+~
+D0
+Too dark to tell.~
+~
+0 -1 19024
+D3
+Too dark to tell.~
+~
+0 -1 19022
+S
+#19024
+A big cave~
+You are in a big cave.  It's a mine!  There are some wagons with a lot of
+adamantite.  There are many galleries all around.  You also notice guards
+which aren't happy to see you here.  You can go back to the south, or you
+can wander in the gallery.  
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 -1 19027
+D1
+Too dark to tell.~
+~
+0 -1 19025
+D2
+Too dark to tell.~
+~
+0 -1 19023
+D3
+Too dark to tell.~
+~
+0 -1 19028
+S
+#19025
+In a galery~
+You are in a galery.  There is a lot of adamantite on the ground and wall
+lining.  You heard the sound of a pick on the lining.  There are also some
+wagons full of adamantite.  You can go in the cave to the west, or you can
+continue to the east.  
+~
+0 9 0
+D1
+Too dark to tell.~
+~
+0 -1 19026
+D3
+Too dark to tell.~
+~
+0 -1 19024
+S
+#19026
+In the end of a galery~
+You are in a galery.  There is a lot of adamantite on the ground and wall
+lining.  You heard the sound of a pick on the lining.  Some miners try to
+continue this galery.  The only exit, for now, is to the west.  
+~
+0 9 0
+D3
+Too dark to tell.~
+~
+0 -1 19025
+S
+#19027
+In a gallery~
+You are in a gallery.  There is no adamantite on the ground or wall
+lining.  It has been abandoned probably because there wasn't any adamantite
+here.  The only exit is the big cave to the south.  
+~
+0 9 0
+D2
+Too dark to tell.~
+~
+0 -1 19024
+S
+#19028
+In the main galery~
+You are in the main gallery.  There is a lot of adamantite on the ground
+and wall lining.  You heard the sound of a pick on the lining.  You can go
+in the cave to the east, the main gallery to the west, or on to the other
+gallery.  
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 -1 19031
+D1
+Too dark to tell.~
+~
+0 -1 19024
+D2
+Too dark to tell.~
+~
+0 -1 19033
+D3
+Too dark to tell.~
+~
+0 -1 19029
+S
+#19029
+In the main gallery~
+You are in the main gallery.  There is a lot of adamantite on the ground
+and wall lining.  You heard the sound of a pick on the lining.  The main
+gallery continues to the east and west.  
+~
+0 9 0
+D1
+Too dark to tell.~
+~
+0 -1 19028
+D3
+Too dark to tell.~
+~
+0 -1 19030
+S
+#19030
+The end of the main gallery~
+You are in the end of the main gallery.  There is are some pieces of
+adamantite on the ground and lining the walls.  You heard the sound of a
+pick on the lining.  The main gallery is to the west.  You can continue in
+the smaller gallery in the other directions.  
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 -1 19034
+D1
+Too dark to tell.~
+~
+0 -1 19029
+D2
+Too dark to tell.~
+~
+0 -1 19035
+D3
+Too dark to tell.~
+~
+0 -1 19032
+S
+#19031
+In a gallery~
+~
+0 0 0
+D0
+Too dark to tell.~
+~
+0 -1 19040
+D2
+Too dark to tell.~
+~
+0 -1 19028
+S
+#19032
+In a gallery~
+You are in a gallery. It is very dark and you can just hear the sound of the
+pick on the lining. This sound come from the east.
+~
+0 9 0
+D1
+Too dark to tell.~
+~
+0 -1 19030
+S
+#19033
+In a gallery~
+You are in a gallery.  There is a lot of adamantite on the ground and wall
+lining.  You heard the sound of a pick on the lining.  You can go to the
+main gallery to the north, or you can continue to the south.  
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 -1 19028
+D2
+Too dark to tell.~
+~
+0 -1 19037
+S
+#19034
+In a gallery~
+You are in a gallery.  The only thing you can see here is big rock and
+piece of adamantite.  The path in the galery continue to the south and to
+the north.  
+~
+0 1 0
+D0
+Too dark to tell.~
+~
+0 -1 19038
+D2
+Too dark to tell.~
+~
+0 -1 19030
+S
+#19035
+In a gallery~
+You are in a gallery.  There is a lot of adamantite on the ground and wall
+lining.  You heard the sound of a pick on the lining.  You can go to the
+main gallery in the north, or you can continue to the south.  
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 -1 19030
+D2
+Too dark to tell.~
+~
+0 -1 19036
+S
+#19036
+In a gallery~
+You are in a gallery.  There is some piece of adamantite on the ground and
+wall lining.  You heard the sound of a pick on the lining.  You can continue
+in this gallery to the north or east.  
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 -1 19035
+D1
+Too dark to tell.~
+~
+0 -1 19037
+S
+#19037
+In a gallery~
+You are in a gallery.  There is a lot of adamantite on the ground and wall
+lining.  You heard the sound of a pick on the lining.  You notice a small,
+empty wagon here.  You can continue in this gallery to the north or west.  
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 -1 19033
+D3
+Too dark to tell.~
+~
+0 -1 19036
+S
+#19038
+In a gallery~
+You are in a gallery.  There is a lot of adamantite on the ground and wall
+lining.  You heard the sound of a pick on the lining.  You can continue in
+this gallery to the north, east, and south.
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 -1 19039
+D1
+Too dark to tell.~
+~
+0 -1 19040
+D2
+Too dark to tell.~
+~
+0 -1 19034
+S
+#19039
+In a gallery~
+You are in a very dark part of the gallery.  You can't see any adamantite
+here.  The only exit is to the south.  
+~
+0 9 0
+D2
+Too dark to tell.~
+~
+0 -1 19038
+S
+#19040
+In a gallery~
+You are in a gallery.  This part of the gallery has been abandoned because
+there wasn't any adamantite here.  It is very dark.  You can go to the south
+or the west.  
+~
+0 9 0
+D2
+Too dark to tell.~
+~
+0 -1 19031
+D3
+Too dark to tell.~
+~
+0 -1 19038
+S
+#19041
+In a dark tunnel~
+You are in a dark tunnel.  All is quiet and so dark that you can't see
+anything except the ice.  There is a big rock to the north.  The only
+visible exit is to the east.  
+~
+0 9 0
+E
+rock~
+This big rock appears to be movable.  Perhaps it is another passageway...  
+~
+D0
+Too dark to tell.~
+rock~
+1 -1 19042
+D1
+Too dark to tell.~
+~
+0 -1 19022
+S
+#19042
+In an ice tunnel~
+You are in an ice tunnel.  Everything here is covered with ice, yet there
+is no light.  It is also very cold.  The only visible exit is to the north. 
+You can also push the rock and go back to the south.  
+~
+0 8201 0
+D0
+Too dark to tell.~
+~
+0 -1 19043
+D2
+Too dark to tell.~
+rock~
+1 -1 19041
+S
+#19043
+In an ice tunnel~
+You are in an ice tunnel.  Everything here is covered with ice, yet there
+is no light.  It is also very cold.  The only exits are to the north and
+south.  
+~
+0 8201 0
+D0
+Too dark to tell.~
+~
+0 -1 19044
+D2
+Too dark to tell.~
+~
+0 -1 19042
+S
+#19044
+A big dark ice cave~
+You are in a big cave where all is in ice.  There is no light, but you
+feel a presence.  You can see a chest, a big bookcase, and a desk trapped in
+the ice.  An elegant throne stands out from the rest of the furniture.  The
+only exit is to the south.  
+~
+0 8201 0
+E
+bookcase~
+When you look at the bookcase, you discover that it's a hidden door which
+leads to another room.  
+~
+D2
+Too dark to tell.~
+~
+0 -1 19043
+D3
+~
+bookcase~
+1 0 19045
+S
+#19045
+The stock room~
+You are in the room where the lich was stocking his adamantite.  Some
+heavy bars lie on the ground.  They look very, very heavy.  You see a
+corridor to the north.  You can go back to the ice cave to the east.  
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 -1 19046
+D1
+~
+~
+1 0 19044
+S
+#19046
+A corridor~
+You are in a corridor.  There is nothing here.  There are four exits.  
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 -1 19047
+D1
+Too dark to tell.~
+~
+0 -1 19048
+D2
+Too dark to tell.~
+~
+0 -1 19045
+D3
+Too dark to tell.~
+~
+0 -1 19049
+S
+#19047
+The treasure room~
+This is a room where the lich was stocking his treasures.  He also left a
+guardian to keep them from people like you.  The only exit is to the south. 
+~
+0 8 0
+D2
+Too dark to tell.~
+~
+0 -1 19046
+S
+#19048
+The summoning room~
+You are in a room where the lich could invoking some skeletons and
+demons.  There is a huge pentacle in the center of the room.  The only exit
+is to the west.  
+~
+0 8 0
+D3
+Too dark to tell.~
+~
+0 -1 19046
+S
+#19049
+The resting room~
+You are in a room where the lich would rest and meditate.  The only exit
+is to the east.  
+~
+0 8 0
+D1
+Too dark to tell.~
+~
+0 -1 19046
+S
+#0
+
+
+
+#SPECIALS
+M 19000 spec_cast_undead Load to: an old and powerful lich
+M 19011 spec_cast_cleric Load to: {WDiamond {YGolem{x
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 19041 0 1
+D 0 19042 2 1
+D 0 19044 3 1
+D 0 19045 1 1
+M 1 19009 1 19001 1
+G 0 19004 0
+G 0 19005 0
+M 1 19004 2 19004 2
+M 1 19004 2 19004 2
+M 1 19003 1 19005 1
+R 0 19007 4
+R 0 19008 4
+R 0 19009 4
+R 0 19010 4
+R 0 19011 4
+R 0 19012 4
+M 1 19001 1 19016 1
+O 0 19016 0 19017
+O 0 19018 0 19018
+O 0 19017 0 19020
+P 0 19003 1 19017 1
+M 1 19005 4 19021 1
+E 0 19000 0 3
+M 1 19008 8 19023 1
+E 0 19025 0 16
+M 1 19006 11 19024 1
+E 0 19000 0 3
+E 0 19015 0 16
+M 1 19008 8 19024 3
+E 0 19025 0 16
+M 1 19008 8 19024 3
+E 0 19025 0 16
+M 1 19008 8 19024 3
+E 0 19025 0 16
+M 1 19006 11 19026 1
+E 0 19000 0 4
+E 0 19015 0 16
+M 1 19006 11 19027 1
+E 0 19000 0 4
+E 0 19015 0 16
+M 1 19008 8 19028 1
+E 0 19025 0 16
+M 1 19006 11 19029 1
+E 0 19000 0 4
+E 0 19015 0 16
+M 1 19005 4 19030 1
+M 1 19008 8 19030 1
+E 0 19025 0 16
+M 1 19006 11 19032 1
+E 0 19000 0 4
+E 0 19015 0 16
+M 1 19006 11 19035 1
+E 0 19000 0 4
+E 0 19015 0 16
+M 1 19008 8 19035 1
+E 0 19025 0 16
+M 1 19005 4 19036 1
+E 0 19000 0 3
+M 1 19006 11 19037 1
+E 0 19000 0 4
+E 0 19015 0 16
+M 1 19006 11 19038 3
+E 0 19000 0 3
+E 0 19015 0 16
+M 1 19006 11 19038 3
+E 0 19000 0 3
+E 0 19015 0 16
+M 1 19006 11 19038 3
+E 0 19000 0 3
+E 0 19015 0 16
+M 1 19005 4 19039 1
+E 0 19000 0 3
+M 1 19006 11 19039 1
+E 0 19000 0 4
+E 0 19015 0 16
+M 1 19008 8 19040 1
+E 0 19025 0 16
+M 1 19002 3 19042 1
+E 0 19013 0 1
+M 1 19002 3 19043 2
+E 0 19011 0 1
+M 1 19002 3 19043 2
+E 0 19012 0 1
+O 0 19019 0 19044
+O 0 19020 0 19044
+P 0 19006 26 19020 6
+P 0 19006 26 19020 6
+P 0 19006 26 19020 6
+P 0 19006 26 19020 6
+P 0 19006 26 19020 6
+P 0 19006 26 19020 6
+M 1 19000 1 19044 1
+G 0 19007 0
+E 0 19010 0 15
+E 0 19022 0 17
+O 0 19021 0 19044
+P 0 19023 3 19021 1
+P 0 19014 10 19019 1
+O 0 19024 0 19047
+P 0 19002 1 19024 1
+P 0 19009 1 19024 1
+M 1 19010 1 19047 1
+E 0 19008 0 16
+E 0 19001 0 11
+P 0 19027 1 19024 1
+C 1 percent for next reset
+M 1 19011 1 19048 1
+E 0 19028 0 9
+S
+
+
+
+#SHOPS
+19009 0 0 0 0 0 100 50 8 24
+0
+
+
+
+#$

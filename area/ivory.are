@@ -1,0 +1,1965 @@
+#AREADATA
+Name Ivory Stronghold~
+Builders None~
+VNUMs 500 570
+Credits {40 50} Gothic      Ivory Stronghold~
+Security 9
+Xcontinent 0
+Age 15
+Questable 1
+End
+
+
+
+#MOBILES
+#500
+ancient white dragon~
+the Ancient White Dragon~
+An ancient white dragon is here, resting on some soft pillows.
+~
+A large white scaled, red eyed, black clawed dragon lounges in here.
+It rests rather comfortably on a pile of fluffly white pillows.
+And it won't SHARE them with you! Grrr.
+~
+white dragon~
+ABFGT JT 1000 0
+50 5 50d10+4500 1d1+100 5d8+19 claw
+-20 -20 -20 -20
+CFMNU AB BEI FH
+stand stand none 9000
+ABHMVZ ABCDEFGHIJKLPQUVWX huge 0 the guilds~
+#501
+Ivory Paladin~
+the Ivory Paladin~
+An ivory paladin is here, sharpening his collection of weapons.
+~
+A tall standing clerical man is here, white hair, red eyes, and pale
+blue lips.  He's sitting down, sharping his weapon collection.
+~
+human~
+ABT 0 1000 0
+46 -2 25d10+3250 25d10+3250 5d8+19 slice
+-16 -16 -16 -16
+EN 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#502
+ivory white knight~
+the white knight~
+A white knight is here, wandering the halls of the Stronghold.
+~
+A white knight is standing here in full armor, head to toe in white
+armor.  His pointy hat and shield make this knight more distinctive
+than most other knights.
+~
+human~
+ABT 0 1000 0
+44 -2 25d10+2750 5d10+4500 5d8+20 slice
+-20 -20 -20 -20
+EIN 0 0 G
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#503
+Ivory Guardian~
+the ivory guardian~
+An ivory guardian is here, protecting the stronghold.
+~
+A pale blue-skinned giant with frosty white eyes, snow colored hair, and
+icy cold hands stands here.
+~
+giant~
+ABT 0 1000 0
+50 -1 50d10+4500 50d10+4500 5d8+19 slice
+-20 -20 -20 -20
+EU a HI HJP
+stand stand none 5000
+AHMV ABCDEFGHIJK large 0 the guilds~
+#504
+ivory priestess~
+the ivory priestess~
+An ivory priestess is here, muttering some holy incantation.
+~
+A white-haired holy woman with pale white skin looks at you with emerald eyes.
+ 
+And she doesn't like you!
+ 
+The ivory priestess utters the words, 'noselacri'.
+You are blinded!
+ 
+Someone utters the words, 'judifgz'.
+You feel unclean.
+ 
+Someone utters the words, 'xzatunso'.
+Your strength slips away.
+ 
+Someone utters the words, 'ghix'.
+You start to move in slow motion.
+ 
+Someone utters the words, 'sausabru'.
+You feel very sick.
+ 
+Someone utters the words, 'sraojz'.
+You scream in agony as plague sores erupt from your skin.
+ 
+Someone's furious slice ANNIHILATES! you, revealing bones!
+Someone's furious slice ANNIHILATES! you, revealing bones!
+Someone's furious slice ANNIHILATES! you, revealing bones!
+ 
+Someone's furious slice ANNIHILATES! you, revealing bones!
+You sure are BLEEDING!
+PANIC! You can't escape!
+Someone's furious slice ANNIHILATES! you, revealing bones!
+You sure are BLEEDING!
+PANIC! You can't escape!
+Someone's furious slice ANNIHILATES! you, revealing bones!
+You have been KILLED!!
+You're much too relaxed to do that...
+ 
+You're much too relaxed to do that...
+ 
+ 
+ 
+ 
+ 
+~
+human~
+ABQT DH 0 0
+60 0 50d10+4500 50d10+4500 5d8+19 slice
+-20 -20 -20 -20
+EFNU 0 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#505
+Albino lion~
+an albino lion~
+An albino lion is here, cleaning itself.
+~
+A large white lion is here, licking itself clean. It has a large
+ivory white mane, and two beady red eyes. Its large teeth drape
+over its mouth.
+~
+cat~
+ABT Z 1000 0
+44 -2 25d10+2750 25d10+2750 8d4+15 bite
+-15 -15 -15 -15
+EFHNU 0 0 0
+stand stand none 2000
+AGHMV ABCDEFGHIJKQUV large 0 the guilds~
+#506
+grubby beggar~
+a grubby beggar~
+A grubby beggar is here, pleading at you for cash.
+~
+A sickly skinned man is here, dressed in tattered white cloth, looking
+for handouts of food, or cash.
+~
+human~
+ABCT Y 1000 0
+44 -2 25d10+2700 25d10+2700 8d4+15 slice
+-15 -15 -15 -15
+U 0 0 G
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#500
+coffin casket box~
+a open casket~
+A open casket is here, lines with black silk.~
+~
+furniture 0 0
+2 0 CFIL 0 0
+0 100 0 P
+E
+casket coffin~
+This coffin is made out of pure ebony, with large back iron handles.
+The coffin is lined with a soft black silk.
+~
+#501
+west~
+off the west wall~
+~
+~
+container 0 0
+10000 0 0 10000 10000
+0 100 0 P
+#502
+Ivory Bracelet~
+ivory bracelet~
+A ivory bracelet is here, resting in the mud.~
+~
+jewelry HY AM
+0 0 0 0 0
+46 50 4000 P
+A
+13 30  
+A
+19 1  
+A
+18 1  
+#503
+Ivory Shield~
+ivory shield~
+A ivory shield is here, resting in the mud.~
+ivory~
+armor ac AJ
+11 11 11 11 0
+46 20 4000 P
+A
+18 1  
+A
+19 1  
+#504
+ivory belt~
+ivory belt~
+A ivory belt is here, resting in the mud.~
+~
+armor AILbd AL
+10 10 10 10 0
+46 30 4000 P
+A
+19 2  
+A
+18 1  
+#505
+Ivory white stone~
+ivory stone~
+A ivory stone is here, resting in the mud.~
+~
+jewelry ABF AQY
+0 0 0 0 0
+50 100 6000 P
+A
+19 3  
+A
+2 2  
+#506
+stick ivory~
+a stick of ivory~
+A stick of Ivory is here, resting in the mud.~
+~
+jewelry 0 AO
+0 0 0 0 0
+50 100 3000 P
+A
+13 15  
+A
+19 2  
+A
+18 1  
+#507
+fountain water~
+a fountain~
+A white fountain is here.~
+~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 G
+E
+fountain~
+A beautiful white fountain is here, with small engravings of blessings
+from the ivory priestest.
+~
+#508
+Ivory Chest~
+chest~
+A ivory chest is here, holding the treasure of the stronghold.~
+~
+container 0 0
+1000 ACD 511 1000 100
+1 100 0 P
+#509
+Ivory stronghold treasure coins~
+The strongholds only treasure.~
+The strongholds treasure.~
+~
+money 0 A
+1000 100 0 0 0
+0 100 0 P
+#510
+Ivory breast plate~
+ivory breast plate~
+A ivory breast plate is here, resting in the mud.~
+~
+armor A AK
+6 5 5 4 0
+46 30 0 P
+A
+19 2  
+A
+2 2  
+#511
+white chain~
+white chain~
+A white chain is here, resting in the mud.~
+iron~
+weapon BH AN
+whip 8 5 magic 0
+49 10 1000 P
+#512
+Ivory mask~
+ivory mask~
+A ivory mask is here, resting in the mud.~
+~
+armor BHL AE
+8 8 8 6 0
+25 100 2000 P
+A
+14 -100  
+A
+3 3  
+#513
+Ivory hilted rapier~
+ivory hilted rapier~
+A ivory hilted rapier is here, resting in the mud.~
+~
+weapon 0 AN
+sword 5 6 slice B
+44 100 2000 P
+A
+19 5  
+#514
+sign~
+golden sign~
+A golden sign is here, to warn you of danger.~
+~
+map A 0
+0 0 0 0 0
+0 100 0 P
+E
+golden sign~
+I am the Paladin, that lives inside the Ivory Stronghold
+and I have dedicated my life to kill this dragon.  It's my
+quest in life.  I warn anyone who decides to attack this
+dragon that this creature is one of the most powerful
+beasts I have ever come accross.
+
+--The Ivory Paladin
+
+~
+#0
+
+
+
+#ROOMS
+#500
+Gothic's resting place~
+There are large vines hanging from all the corners of the room, creeping
+from the bottom to the top.  There are four small white candles in each
+coner giving you enough light to look around, but not to see detail.
+A large wooden picture frame is seen on the left wall, and a sign
+is on the right.
+~
+0 40972 0
+E
+sign~
+'Merry meet, merry pat, may we meet again.'
+~
+S
+#501
+Black Portal~
+Reality seems to be distorted, time slows down to a pause.
+the air around you is visible as streeks of colour.  You can
+barely see in the direction north, a large white building.  To
+the south is pure nothingness.
+~
+0 532485 0
+D0
+Exit ~
+door~
+1 0 502
+D3
+~
+~
+0 -1 1631
+S
+#502
+Cross roads on the dusty path~
+In the center of the dusty trail.  Each way is leading to somewhere
+different.  To the north is a large white building, to the east, and
+west a dusty trail continues, and on the south trail you can see
+a black portal shimmering in and out of exsistance.
+~
+0 0 0
+D0
+Exit ~
+door~
+0 0 503
+D1
+Exit ~
+door~
+0 0 546
+D2
+Exit ~
+door~
+0 0 501
+D3
+Exit ~
+door~
+0 0 543
+S
+#503
+Draw bridge~
+You are walking along a solid ivory draw bridge.  On either side
+of you there is a crystal blue moat, with fish and white swans 
+swimming around.  A cool breeze is blowing, and the sun is shinning
+brightly.
+~
+0 0 0
+D0
+Exit ~
+door~
+0 0 504
+D2
+Exit ~
+door~
+0 0 502
+S
+#504
+Gates to the Stronghold~
+You have approched the gate of the 'Ivory Stronghold'.  The entrance
+way is so large, the biggest of all the dragons could fit through with
+ease.  There is a draw bridge to the south.
+~
+0 8 0
+D0
+Exit ~
+door~
+0 0 505
+D2
+Exit ~
+door~
+0 0 503
+S
+#505
+Ivory hallway ~
+The entrance to the 'Ivory Stronghold'.  The walls are made completely
+from the purest of ivory.  The north wall has a large wooden cross
+mounted onto it.  The hallway goes east and west.
+~
+0 8 0
+E
+cross north~
+(Glowing) Cross with three nails, nailed into it.
+~
+D1
+Exit ~
+door~
+0 0 506
+D2
+Exit ~
+door~
+0 0 504
+D3
+Exit ~
+door~
+0 0 521
+S
+#506
+Ivory hallway ~
+The entire hallway is made out of pur ivory, with the exception
+of the wooden crosses hanging on the walls.  There are little white
+candles lining the edges of the floor, giving the atmosphere of love,
+warmth, and happiness.
+~
+0 8 0
+E
+up roof top~
+The roof is made out of a pure ivory.
+~
+E
+down ground~
+The ground is covered in melted wax, that has seeped off of the candles,
+that line the walls.
+~
+E
+wall cross ~
+A small oak cross is here, nailed to the ivory wall.
+~
+D1
+Exit ~
+door~
+0 0 507
+D3
+Exit ~
+door~
+0 0 505
+S
+#507
+A corner of the hallway~
+In the corner of the ivory hallway, you can see a giant, red metal
+shield mounted up high on the wall.  Just below the shield there is 
+a large white candle burning away, slowly...
+~
+0 8 0
+D0
+Exit ~
+door~
+0 0 508
+D3
+Exit ~
+door~
+0 0 506
+S
+#508
+Ivory hallway ~
+The entire hallway is made out of pur ivory, with the exception
+of the wooden crosses hanging on the walls.  There are little white
+candles lining the edges of the floor, giving the atmosphere of love,
+warmth, and happiness.
+~
+0 8 0
+E
+up roof top~
+The roof is made out of a pure ivory.
+~
+E
+down ground~
+The ground is covered in melted wax, that has seeped off of the candles,
+that line the walls.
+~
+E
+wall cross ~
+A small oak cross is here, nailed to the ivory wall.
+~
+D0
+Exit ~
+door~
+0 0 509
+D2
+Exit ~
+door~
+0 0 507
+S
+#509
+Ivory hallway ~
+The entire hallway is made out of pur ivory, with the exception
+of the wooden crosses hanging on the walls.  There are little white
+candles lining the edges of the floor, giving the atmosphere of love,
+warmth, and happiness.
+~
+0 8 0
+E
+up roof top~
+The roof is made out of a pure ivory.
+~
+E
+down ground~
+The ground is covered in melted wax, that has seeped off of the candles,
+that line the walls.
+~
+E
+wall cross ~
+A small oak cross is here, nailed to the ivory wall.
+~
+D0
+Exit ~
+door~
+0 0 510
+D2
+Exit ~
+door~
+0 0 508
+S
+#510
+Ivory hallway ~
+The entire hallway is made out of pur ivory, with the exception
+of the wooden crosses hanging on the walls.  There are little white
+candles lining the edges of the floor, giving the atmosphere of love,
+warmth, and happiness.
+~
+0 8 0
+E
+up roof top~
+The roof is made out of a pure ivory.
+~
+E
+down ground~
+The ground is covered in melted wax, that has seeped off of the candles,
+that line the walls.
+~
+E
+wall cross ~
+A small oak cross is here, nailed to the ivory wall.
+~
+D0
+Exit ~
+door~
+0 0 511
+D2
+Exit ~
+door~
+0 0 509
+S
+#511
+A corner of the hallway~
+In the corner of the ivory hallway, you can see a giant, red metal
+shield mounted up high on the wall.  Just below the shield there is 
+a large white candle burning away, slowly...
+~
+0 8 0
+D2
+Exit ~
+door~
+0 0 510
+D3
+Exit ~
+door~
+0 0 512
+D4
+Exit ~
+door~
+0 0 537
+S
+#512
+Ivory hallway ~
+The entire hallway is made out of pur ivory, with the exception
+of the wooden crosses hanging on the walls.  There are little white
+candles lining the edges of the floor, giving the atmosphere of love,
+warmth, and happiness.
+~
+0 8 0
+E
+up roof top~
+The roof is made out of a pure ivory.
+~
+E
+down ground~
+The ground is covered in melted wax, that has seeped off of the candles,
+that line the walls.
+~
+E
+wall cross ~
+A small oak cross is here, nailed to the ivory wall.
+~
+D1
+Exit ~
+door~
+0 0 511
+D3
+Exit ~
+door~
+0 0 513
+S
+#513
+Before the Priestess' Room~
+You are in the ivory stronghold passage way, the priestest room is to the 
+south, the walls are made out of pure ivory.  There are candles all along
+the hallway, giveing the halway a atmosphere of warmpth, and happiness.
+~
+0 8 0
+D1
+Exit ~
+door~
+0 0 512
+D2
+Exit ~
+door~
+0 0 515
+D3
+Exit ~
+door~
+0 0 514
+S
+#514
+Ivory hallway ~
+The entire hallway is made out of pur ivory, with the exception
+of the wooden crosses hanging on the walls.  There are little white
+candles lining the edges of the floor, giving the atmosphere of love,
+warmth, and happiness.
+~
+0 8 0
+E
+up roof top~
+The roof is made out of a pure ivory.
+~
+E
+down ground~
+The ground is covered in melted wax, that has seeped off of the candles,
+that line the walls.
+~
+E
+wall cross ~
+A small oak cross is here, nailed to the ivory wall.
+~
+D1
+Exit ~
+door~
+0 0 513
+D3
+Exit ~
+door~
+0 0 516
+S
+#515
+Priest Altar Room~
+The room is totaly surrounded in a large burning candles.  The walls
+are made from ivory, and drapped in white lace.  On the south wall there
+is a altar with a gold chalice on it.
+~
+0 524296 0
+D0
+Exit ~
+door~
+0 0 513
+S
+#516
+A corner of the hallway~
+In the corner of the ivory hallway, you can see a giant, red metal
+shield mounted up high on the wall.  Just below the shield there is 
+a large white candle burning away, slowly...
+~
+0 8 0
+D1
+Exit ~
+door~
+0 0 514
+D2
+Exit ~
+door~
+0 0 517
+D4
+Exit ~
+door~
+0 0 522
+S
+#517
+Ivory hallway ~
+The entire hallway is made out of pure ivory, with the exception
+of the wooden crosses hanging on the walls.  There are little white
+candles lining the edges of the floor, giving the atmosphere of love,
+warmth, and happiness.
+~
+0 8 0
+E
+up roof top~
+The roof is made out of a pure ivory.
+~
+E
+down ground~
+The ground is covered in melted wax, that has seeped off of the candles,
+that line the walls.
+~
+E
+wall cross ~
+A small oak cross is here, nailed to the ivory wall.
+~
+D0
+Exit ~
+door~
+0 0 516
+D2
+Exit ~
+door~
+0 0 518
+S
+#518
+Ivory hallway ~
+The entire hallway is made out of pure ivory, with the exception
+of the wooden crosses hanging on the walls.  There are little white
+candles lining the edges of the floor, giving the atmosphere of love,
+warmth, and happiness.
+~
+0 8 0
+E
+up roof top~
+The roof is made out of a pure ivory.
+~
+E
+down ground~
+The ground is covered in melted wax, that has seeped off of the candles,
+that line the walls.
+~
+E
+wall cross ~
+A small oak cross is here, nailed to the ivory wall.
+~
+D0
+Exit ~
+door~
+0 0 517
+D2
+Exit ~
+door~
+0 0 519
+S
+#519
+Ivory hallway ~
+The entire hallway is made out of pure ivory, with the exception
+of the wooden crosses hanging on the walls.  There are little white
+candles lining the edges of the floor, giving the atmosphere of love,
+warmth, and happiness.
+~
+0 8 0
+E
+up roof top~
+The roof is made out of a pure ivory.
+~
+E
+down ground~
+The ground is covered in melted wax, that has seeped off of the candles,
+that line the walls.
+~
+E
+wall cross ~
+A small oak cross is here, nailed to the ivory wall.
+~
+D0
+Exit ~
+door~
+0 0 518
+D2
+Exit ~
+door~
+0 0 520
+S
+#520
+A corner of the hallway~
+In the corner of the ivory hallway, you can see a giant, red metal
+shield mounted up high on the wall.  Just below the shield there is 
+a large white candle burning away, slowly...
+~
+0 8 0
+D0
+Exit ~
+door~
+0 0 519
+D1
+Exit ~
+door~
+0 0 521
+S
+#521
+Ivory hallway ~
+The entire hallway is made out of pure ivory, with the exception
+of the wooden crosses hanging on the walls.  There are little white
+candles lining the edges of the floor, giving the atmosphere of love,
+warmth, and happiness.
+~
+0 8 0
+E
+up roof top~
+The roof is made out of a pure ivory.
+~
+E
+down ground~
+The ground is covered in melted wax, that has seeped off of the candles,
+that line the walls.
+~
+E
+wall cross ~
+A small oak cross is here, nailed to the ivory wall.
+~
+D1
+Exit ~
+door~
+0 0 505
+D3
+Exit ~
+door~
+0 0 520
+S
+#522
+The north-west corner~
+In the corner of the ivory hallway, you can see a giant, red metal
+shield mounted high on the wall.  Below you there is a ivory staircase
+leading downwards, to another ivory hallway.  This hallway leads south.
+~
+0 8 0
+D2
+Exit ~
+door~
+0 0 523
+D5
+Exit ~
+door~
+0 0 516
+S
+#523
+Ivory hallway ~
+The entire hallway is made out of pure ivory, with the exception of
+the small oak crosses that are hanging on the walls.  There are little
+white candles lineing the edges of the floor, giveing the hallway a 
+soft warm glow.  There is a staircase leading upwards from here.  The
+hallway continues to the north, and south.
+~
+0 8 0
+D0
+Exit ~
+door~
+0 0 522
+D2
+Exit ~
+door~
+0 0 525
+D4
+Exit ~
+door~
+0 0 524
+S
+#524
+Top floor, west-staircase~
+The top floor of the 'Ivory Stronghold'.  To the east you can hear the
+stomach rubling of a dragon.  On the wall there is a glowing cross, with
+a thorn wreath ontop of it.
+~
+0 8 0
+D1
+Exit ~
+door~
+0 0 540
+D5
+Exit ~
+door~
+0 0 523
+S
+#525
+Ivory hallway ~
+This entire hallway is made out of a pure ivory, with the exception of
+the small oak crosses hanging from the ivory walls.  There area little
+white candles lining the edges of the floor, giving the hallway a
+soft warm glow.
+~
+0 8 0
+E
+candle~
+(Glowing) A small white candle is here, burning slowly away.
+~
+E
+down ground~
+The floor is made from large slabs of pure ivory.
+~
+E
+wall cross~
+There is a small oak cross haning on the wall.
+~
+D0
+Exit ~
+door~
+0 0 523
+D2
+Exit ~
+door~
+0 0 526
+S
+#526
+Corner of the Hallway  ~
+This entire hallway is made out of a pure ivory, with the exception of
+the small oak crosses hanging from the ivory walls.  There area little
+white candles lining the edges of the floor, giving the hallway a
+soft warm glow.
+~
+0 8 0
+E
+candle~
+(Glowing) A small white candle is here, burning slowly away.
+~
+E
+down ground~
+The floor is made from large slabs of pure ivory.
+~
+E
+wall cross~
+There is a small oak cross haning on the wall.
+~
+D0
+Exit ~
+door~
+0 0 525
+D1
+Exit ~
+door~
+0 0 527
+S
+#527
+Ivory hallway ~
+This entire hallway is made out of a pure ivory, with the exception of
+the small oak crosses hanging from the ivory walls.  There area little
+white candles lining the edges of the floor, giving the hallway a
+soft warm glow.
+~
+0 8 0
+E
+candle~
+(Glowing) A small white candle is here, burning slowly away.
+~
+E
+down ground~
+The floor is made from large slabs of pure ivory.
+~
+E
+wall cross~
+There is a small oak cross haning on the wall.
+~
+D0
+Exit ~
+door~
+0 0 528
+D3
+Exit ~
+door~
+0 0 526
+S
+#528
+Ivory hallway ~
+This entire hallway is made out of a pure ivory, with the exception of
+the small oak crosses hanging from the ivory walls.  There area little
+white candles lining the edges of the floor, giving the hallway a
+soft warm glow.
+~
+0 8 0
+E
+candle~
+(Glowing) A small white candle is here, burning slowly away.
+~
+E
+down ground~
+The floor is made from large slabs of pure ivory.
+~
+E
+wall cross~
+There is a small oak cross haning on the wall.
+~
+D1
+Exit ~
+door~
+0 0 529
+D2
+Exit ~
+door~
+0 0 527
+S
+#529
+Center of the Stronghold~
+You are in the center of the Stronghold, the hallway continues to the
+east and west, and the Paladin's Forge is to the south.
+~
+0 8 0
+D1
+Exit ~
+door~
+0 0 531
+D2
+Exit ~
+door~
+0 0 530
+D3
+Exit ~
+door~
+0 0 528
+S
+#530
+Paladin's Room ~
+The paladin's forge.  The fire pit to the east, and anvil to the south,
+and this paladins collections of weapons to the west.
+~
+0 8 0
+D0
+Exit ~
+door~
+0 0 529
+S
+#531
+Ivory hallway ~
+This entire hallway is made out of a pure ivory, with the exception of
+the small oak crosses hanging from the ivory walls.  There area little
+white candles lining the edges of the floor, giving the hallway a
+soft warm glow.
+~
+0 8 0
+E
+candle~
+(Glowing) A small white candle is here, burning slowly away.
+~
+E
+down ground~
+The floor is made from large slabs of pure ivory.
+~
+E
+wall cross~
+There is a small oak cross haning on the wall.
+~
+D2
+Exit ~
+door~
+0 0 532
+D3
+Exit ~
+door~
+0 0 529
+S
+#532
+Ivory hallway ~
+This entire hallway is made out of a pure ivory, with the exception of
+the small oak crosses hanging from the ivory walls.  There area little
+white candles lining the edges of the floor, giving the hallway a
+soft warm glow.
+~
+0 8 0
+E
+candle~
+(Glowing) A small white candle is here, burning slowly away.
+~
+E
+down ground~
+The floor is made from large slabs of pure ivory.
+~
+E
+wall cross~
+There is a small oak cross haning on the wall.
+~
+D0
+Exit ~
+door~
+0 0 531
+D1
+Exit ~
+door~
+0 0 533
+S
+#533
+Corner of the Hallway  ~
+This entire hallway is made out of a pure ivory, with the exception of
+the small oak crosses hanging from the ivory walls.  There area little
+white candles lining the edges of the floor, giving the hallway a
+soft warm glow.
+~
+0 8 0
+E
+candle~
+(Glowing) A small white candle is here, burning slowly away.
+~
+E
+down ground~
+The floor is made from large slabs of pure ivory.
+~
+E
+wall cross~
+There is a small oak cross haning on the wall.
+~
+D0
+Exit ~
+door~
+0 0 534
+D3
+Exit ~
+door~
+0 0 532
+S
+#534
+Ivory hallway ~
+This entire hallway is made out of a pure ivory, with the exception of
+the small oak crosses hanging from the ivory walls.  There area little
+white candles lining the edges of the floor, giving the hallway a
+soft warm glow.
+~
+0 8 0
+E
+candle~
+(Glowing) A small white candle is here, burning slowly away.
+~
+E
+down ground~
+The floor is made from large slabs of pure ivory.
+~
+E
+wall cross~
+There is a small oak cross haning on the wall.
+~
+D0
+Exit ~
+door~
+0 0 535
+D2
+Exit ~
+door~
+0 0 533
+S
+#535
+Ivory hallway ~
+The entire hallway is made out of pure ivory, with the exception of
+the small oak crosses that are hanging on the walls.  There are little
+white candles lining the edges of the floor, giving the hallway a 
+soft warm glow.  There is a staircase leading upwards from here.  The
+hallway continues to the north, and south.
+~
+0 8 0
+D0
+Exit ~
+door~
+0 0 537
+D2
+Exit ~
+door~
+0 0 534
+D4
+Exit ~
+door~
+0 0 536
+S
+#536
+Top floor, east-staircase~
+The top floor of the 'Ivory Stronghold'.  To the west you can hear the
+stomach grumbling of a dragon.  On the wall there is a glowing cross,
+with a thorn wreath ontop of it.
+~
+0 8 0
+D3
+Exit ~
+door~
+0 0 538
+D5
+Exit ~
+door~
+0 0 535
+S
+#537
+The north-east corner~
+In the corner of the ivory hallway, you can see a giant, red metal
+shield mounted high on the wall.  Below you there is a ivory staircase
+leading downwards, to another ivory hallway.  This hallway leads south.
+~
+0 8 0
+D2
+Exit ~
+door~
+0 0 535
+D5
+Exit ~
+door~
+0 0 511
+S
+#538
+Top of the Stronghold~
+You are ontop of the stronghold, where you can hear a dragons stomach
+grumbling loudly.  The hallway continues to the east and west.
+~
+0 8 0
+E
+down floor ground~
+The ground is made out of large pices of pure ivory.
+~
+E
+up roof~
+The roof is made out of large pices of pure ivory.
+~
+E
+walls north south~
+The walls are made out of pure ivory.
+~
+D1
+Exit ~
+door~
+0 0 536
+D3
+Exit ~
+door~
+0 0 539
+S
+#539
+Center of the Top floor~
+A intersection in the ivory hallway.  To the east and west, the hallway
+continues.  To the north lies the legendary creature called the
+'Ancient White Dragon'.
+~
+0 8 0
+D0
+Exit ~
+door~
+1 0 541
+D1
+Exit ~
+door~
+0 0 538
+D3
+Exit ~
+door~
+0 0 540
+S
+#540
+Top of the Stronghold~
+You are ontop of the stronghold, where you can hear a dragons stomach
+grumbling loudly.  The hallway continues to the east and west.
+~
+0 8 0
+E
+down floor ground~
+The ground is made out of large pices of pure ivory.
+~
+E
+up roof~
+The roof is made out of large pices of pure ivory.
+~
+E
+walls north south~
+The walls are made out of pure ivory.
+~
+D1
+Exit ~
+door~
+0 0 539
+D3
+Exit ~
+door~
+0 0 524
+S
+#541
+The lair of the Ancient White Dragon~
+You inside the lair of the 'Ancient White Dragon' where the walls are 
+lines in long sheets of white silk.  The floor is covered in white pillows
+and other soft objects that are meant to make the dragon as comfortable
+as possible.
+~
+0 268435464 0
+D0
+Exit ~
+door~
+1 0 542
+D2
+Exit ~
+door~
+1 0 539
+S
+#542
+Ivory Stronghold Treasure Room~
+You are in a very small room, that is holding all the treasure that the
+stronghold owns.  The walls have small carvings etched into the walls.
+~
+0 8 0
+E
+walls carveing etched~
+' I am the paladin, of the stronghold, I have made it my goal inlife to
+kill this damn dragon.  But right now, I am healing from my wounds, as
+he decided to use a few strange spells on me, that I never have seen 
+before.  I will go back to my forge soon, to create my ultimate weapon
+to kill this dragon.'
+ 
+-- Paladin
+~
+D2
+Exit ~
+door~
+1 0 541
+S
+#543
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D1
+Exit ~
+door~
+0 0 502
+D3
+Exit ~
+door~
+0 0 544
+S
+#544
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D1
+Exit ~
+door~
+0 0 543
+D3
+Exit ~
+door~
+0 0 545
+S
+#545
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D1
+Exit ~
+door~
+0 0 544
+D3
+Exit ~
+door~
+0 0 547
+S
+#546
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D1
+Exit ~
+door~
+0 0 560
+D3
+Exit ~
+door~
+0 0 502
+S
+#547
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D0
+Exit ~
+door~
+0 0 548
+D1
+Exit ~
+door~
+0 0 545
+S
+#548
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D0
+Exit ~
+door~
+0 0 549
+D2
+Exit ~
+door~
+0 0 547
+S
+#549
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D0
+Exit ~
+door~
+0 0 550
+D2
+Exit ~
+door~
+0 0 548
+S
+#550
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D0
+Exit ~
+door~
+0 0 551
+D2
+Exit ~
+door~
+0 0 549
+S
+#551
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D0
+Exit ~
+door~
+0 0 552
+D2
+Exit ~
+door~
+0 0 550
+S
+#552
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D0
+Exit ~
+door~
+0 0 553
+D2
+Exit ~
+door~
+0 0 551
+S
+#553
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D1
+Exit ~
+door~
+0 0 554
+D2
+Exit ~
+door~
+0 0 552
+S
+#554
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D1
+Exit ~
+door~
+0 0 555
+D3
+Exit ~
+door~
+0 0 553
+S
+#555
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D1
+Exit ~
+door~
+0 0 556
+D3
+Exit ~
+door~
+0 0 554
+S
+#556
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D1
+Exit ~
+door~
+0 0 557
+D3
+Exit ~
+door~
+0 0 555
+S
+#557
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D1
+Exit ~
+door~
+0 0 558
+D3
+Exit ~
+door~
+0 0 556
+S
+#558
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D1
+Exit ~
+door~
+0 0 559
+D3
+Exit ~
+door~
+0 0 557
+S
+#559
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D1
+Exit ~
+door~
+0 0 568
+D3
+Exit ~
+door~
+0 0 558
+S
+#560
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D1
+Exit ~
+door~
+0 0 561
+D3
+Exit ~
+door~
+0 0 546
+S
+#561
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D1
+Exit ~
+door~
+0 0 562
+D3
+Exit ~
+door~
+0 0 560
+S
+#562
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D0
+Exit ~
+door~
+0 0 563
+D3
+Exit ~
+door~
+0 0 561
+S
+#563
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D0
+Exit ~
+door~
+0 0 564
+D2
+Exit ~
+door~
+0 0 562
+S
+#564
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D0
+Exit ~
+door~
+0 0 565
+D2
+Exit ~
+door~
+0 0 563
+S
+#565
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D0
+Exit ~
+door~
+0 0 566
+D2
+Exit ~
+door~
+0 0 564
+S
+#566
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D0
+Exit ~
+door~
+0 0 567
+D2
+Exit ~
+door~
+0 0 565
+S
+#567
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D0
+Exit ~
+door~
+0 0 569
+D2
+Exit ~
+door~
+0 0 566
+S
+#568
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D1
+Exit ~
+door~
+0 0 569
+D3
+Exit ~
+door~
+0 0 559
+S
+#569
+White sands of the stronghold~
+You are walking along the white sands of the stronghold.  Here lies 
+the unwanted creatures that aren't worthy of being inside the stronghold.
+The sand feels soft and warm, on your feet.
+~
+0 0 3
+E
+sand down ground floor~
+Soft flowing sand................  warm to the touch.
+~
+D2
+Exit ~
+door~
+0 0 567
+D3
+Exit ~
+door~
+0 0 568
+S
+#570
+Generic room name~
+Generic room description.
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 500 spec_breath_any Load to: the Ancient White Dragon
+M 504 spec_cast_cleric Load to: the ivory priestess
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+D 0 539 0 1
+D 0 541 0 1
+D 0 541 2 1
+D 0 542 2 1
+O 0 500 0 500
+M 1 503 6 504 2
+M 1 503 6 504 2
+M 1 503 6 507 1
+E 0 503 0 11
+M 1 503 6 511 1
+E 0 504 0 13
+M 1 504 1 515 1
+E 0 505 0 17
+M 1 503 6 516 1
+E 0 510 0 12
+M 1 503 6 520 1
+E 0 502 0 14
+M 1 502 6 523 1
+M 1 502 5 526 1
+M 1 502 4 528 1
+M 1 501 1 530 1
+E 0 512 0 6
+O 0 501 0 530
+P 0 513 -1 501 1
+M 1 502 3 531 1
+M 1 502 1 533 1
+M 1 502 2 535 1
+O 0 514 0 539
+M 1 500 1 541 1
+E 0 506 0 17
+E 0 511 0 16
+O 0 507 0 541
+O 0 508 0 542
+P 0 509 -1 508 1
+M 1 505 2 543 1
+M 1 506 12 545 1
+M 1 505 2 546 1
+M 1 506 11 548 1
+M 1 506 10 550 1
+M 1 506 9 552 1
+M 1 506 8 554 1
+M 1 506 7 556 1
+M 1 506 6 558 1
+M 1 506 1 561 1
+M 1 506 2 563 1
+M 1 506 3 565 1
+M 1 506 4 567 1
+M 1 506 5 568 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

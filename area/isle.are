@@ -1,0 +1,1452 @@
+#AREADATA
+Name Isle of No Return~
+Builders Sylus Cicada~
+VNUMs 6800 6899
+Credits { None} Sylus       Isle of No Return~
+Security 1
+Xcontinent 1
+Age 9
+Questable 1
+End
+
+
+
+#MOBILES
+#6800
+blah~
+(no short description)~
+(no long description)
+~
+~
+gargoyle~
+A JT 0 0
+51 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 LQ
+stand stand none 0
+AHMX ABCDEFGHIJKPQUV medium 0 the guilds~
+#0
+
+
+
+#OBJECTS
+#6800
+Sword of doom~
+weapon of doom~
+This long sword awaits to be beckoned by it's master~
+light~
+weapon 0 ANO
+sword 4 20 slash ABDMQ
+54 100 0 P
+#0
+
+
+
+#ROOMS
+#6800
+Lush Humid Abode~
+As you slowly enter this lush filled forest, the sounds of silence echo
+through the air as you begin to ponder just exactly where you are.  The
+birds are chirping in the most peculiar manner and it becomes quite
+difficult to get your bearings.  You hear a faint rush of water coming from
+the north but this location seems to be out of place with all that is
+surrounding you.  
+~
+0 16 3
+D0
+~
+~
+0 0 6801
+S
+#6801
+Approaching the Crossroads~
+As you approach a crossroads you can begin to make out a gate in the
+distance.  To the right, it commences to become even darker than the path
+you are on.  One major difficulty though, is that to the left things are not
+much better either.  You feel the best course of action is to trod ahead and
+discover whatever it is in the north.  There is still one large question at
+hand though, what can be in the middle of this forest?  
+~
+0 0 3
+D0
+~
+~
+0 0 6807
+D1
+~
+~
+0 0 6802
+D2
+~
+~
+0 0 6800
+D3
+~
+~
+0 0 6803
+S
+#6802
+~
+Walking slowly through the forest you hear a slight click.  
+OH NO! Who would make such a devious trap in such a beautiful place?
+ 
+You then notice a rope ring ladder above your face as you slowly raise to your feet.
+~
+0 0 3
+D0
+~
+~
+0 0 6805
+D2
+~
+~
+0 0 6806
+D3
+~
+~
+0 0 6801
+D4
+~
+~
+0 0 6897
+S
+#6803
+Deeper into the Dense Forest~
+To the norht you can hear a gentle rushing stream.  You begin to ponder just how
+To the north you can hear a rushing stream.  Than the thought comes to mind,
+why is there a stream in the middle of a forest?  The immense basalms over head
+leave little to the imagination as the shadows dance all around the horizon.  It 
+slowly becomes difficult to tell what time under these circumstances.  
+~
+0 0 3
+D0
+~
+~
+0 0 6809
+D1
+~
+~
+0 0 6801
+D3
+~
+~
+0 0 6804
+S
+#6804
+~
+You notice that this isn't just another structure.
+It's immensity is so large that it is blocking out the sun.
+Why would they have something like this in the middle of a 
+forest?
+~
+0 0 3
+D0
+~
+~
+0 0 6810
+D1
+~
+~
+0 0 6803
+D4
+~
+~
+0 0 6898
+S
+#6805
+The pit~
+Along this section of the moat there seems to be a lot of seaweed hampering movement. The water is quickly moving northwards and to the west smells quite strange.
+~
+0 1572868 12
+S
+#6806
+~
+Right before your eyes is a beautiful Maple that towers above all of the other small shrubs near it.
+What's strange though is that as you approach the maple the shrubs look like they have been uprooted several times and put back into place.
+~
+0 0 3
+D0
+~
+~
+0 0 6802
+D5
+~
+~
+0 0 6823
+S
+#6807
+~
+Spanning 30 feet long and 10 feet wide it's hard to believe such a bridge could exist in such a forest. 
+Upon closer inspection, each piece of the bridge seems that it could be pulled out into larger parts.  Why would this occur?
+~
+0 0 0
+D0
+~
+~
+0 0 6808
+D2
+~
+~
+0 0 6801
+D3
+~
+~
+0 0 6809
+S
+#6808
+~
+Oh no! The gate slams shut as you enter this strange abode.  What is this place? Why are there so many guards? 
+ 
+As  you approach you see a sign.
+~
+0 268435456 0
+D0
+~
+~
+0 0 6830
+D1
+~
+~
+0 0 6820
+D3
+~
+~
+0 0 6819
+S
+#6809
+~
+Hrmmm, why is there alot of kelp here?  It doesn't smell like the sea.
+Why would such things exist in the middle of a forest? It makes no sense.
+As you approach the kelp, you notice it's not normal, it's covered in some kind of material, do you want to touch it? are you sure?
+ 
+~
+0 0 12
+D1
+~
+~
+0 0 6807
+D3
+~
+~
+0 0 6810
+S
+#6810
+~
+As you cautiously leave the forest you notice a slight decline. SPLASH! You slide into what appears to be a moat of some sort.
+Why on Earth would anywhere nead a moat to surround it? What's in there?
+~
+0 0 12
+D0
+~
+~
+0 0 6811
+D1
+~
+~
+0 0 6809
+S
+#6811
+~
+EWWWW!!! what is all this webbing being stretched acrossed here?
+You hear some muffled noises coming from beyond the high walls to the east.
+~
+0 0 12
+D0
+~
+~
+0 0 6812
+D2
+~
+~
+0 0 6810
+S
+#6812
+~
+This is absolutely REVOLTING! Haven't people learned to use washrooms yet?  This section of the moat is filled with feces and laced with such a putrid smell it becomes painfully obvious that you need help holding down your breakfast.
+~
+0 0 12
+D0
+~
+~
+0 0 6813
+D2
+~
+~
+0 0 6811
+S
+#6813
+~
+As the intersection approaches, you see a dangling ladder before you.  To the east you see grotesque corpses littered about.
+~
+0 0 12
+D1
+~
+~
+0 0 6814
+D2
+~
+~
+0 0 6812
+D4
+~
+~
+0 0 6895
+S
+#6814
+~
+Corpses fill the water everywhere.  As you get closer you notice that they are being held in place by heavy metal chains.  What would eat raw flesh? Feeling anxious, perhaps it would be best to get out of here as soon as possible.
+~
+0 0 12
+D1
+~
+~
+0 0 6815
+D3
+~
+~
+0 0 6813
+S
+#6815
+~
+What's this? a shiny metal box catches your eye as you try to quickly get through this cesspool.  I wonder who left it here.
+~
+0 0 12
+D1
+~
+~
+0 0 6816
+D3
+~
+~
+0 0 6814
+S
+#6816
+~
+PEE YEWW!!! That raunchy smell is almost enough to make you want to lose what is left of any meal  you have ever ate.  You know you can survive though, afterall, just think about what happend last time you had to clean up after your girlfriend's cooking.
+~
+0 0 12
+D2
+~
+~
+0 0 6817
+D3
+~
+~
+0 0 6815
+D4
+~
+~
+0 0 6896
+S
+#6817
+~
+There is a sudden sucking motion beneath you slowing you down even more.  With powerful strokes it soon becomes apparent that perhaps you shouldn't stay this close to a drain.
+~
+0 0 12
+D0
+~
+~
+0 0 6816
+D2
+~
+~
+0 0 6818
+S
+#6818
+~
+The water slowly begins to rise above your waist as you notice that it's not that easy to wade here.  The smell of rotting corpses begins to bother your sensitive sense of smell.  How could anyone live in this kind of manner?
+~
+0 0 12
+D0
+~
+~
+0 0 6817
+D5
+~
+~
+0 0 6805
+S
+#6819
+~
+This seems to be a waiting room of sorts.  To the north you can hear water hissing and back to the east was the room you were just in.
+~
+0 268435456 0
+D0
+~
+~
+0 0 6822
+D1
+~
+~
+0 0 6808
+S
+#6820
+~
+This office seems to be filled with cabinets and tables and chairs of all sorts.  A sargaent stands and charges at you.
+~
+0 268435456 0
+D0
+~
+~
+0 0 6821
+D3
+~
+~
+0 0 6808
+S
+#6821
+~
+*COUGH! CHOKE!* My God it's dusty in here.  This room is surrounded in old crates and boxes filled with all kinds of garbage.  
+Papers and leaflets are just some of the things you find scattered everywhere
+~
+0 268435456 0
+D2
+~
+~
+0 0 6820
+S
+#6822
+~
+Eep! Cold steam fills this room as the DOOR slams shut.  There is no way out.
+~
+0 4 0
+S
+#6823
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6824
+D4
+~
+~
+0 0 6806
+S
+#6824
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6825
+D2
+~
+~
+0 0 6823
+S
+#6825
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6828
+D1
+~
+~
+0 0 6827
+D2
+~
+~
+0 0 6824
+D3
+~
+~
+0 0 6826
+S
+#6826
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6825
+D3
+~
+~
+0 0 6855
+S
+#6827
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6858
+D3
+~
+~
+0 0 6825
+S
+#6828
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6829
+D2
+~
+~
+0 0 6825
+S
+#6829
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6828
+D5
+~
+~
+0 0 6861
+S
+#6830
+~
+As you enter this room you realize that this place isn't just any type of prison. 
+ 
+You can begin to hear loud screams and bars clanking infront of you .  What could this mean?  Just what kind of people are in here?
+ 
+Even worse, what kind of people are doing these things?
+~
+0 268435456 0
+D0
+~
+~
+0 0 6831
+D2
+~
+~
+0 0 6808
+S
+#6831
+~
+This seems to be the primary junction of all the blocks.  From all around you the noise is deafening, you notice that there are many different doors going in all directions and there is a map on the wall.
+~
+0 268435456 0
+D0
+~
+~
+0 0 6832
+D1
+~
+~
+0 0 6833
+D2
+~
+~
+0 0 6830
+D3
+~
+~
+0 0 6834
+D4
+~
+~
+0 0 6872
+D5
+~
+~
+0 0 6889
+S
+#6832
+~
+You have entered what appears to be
+a small room that links the waiting room to 
+the northern section of the Prison.  To the 
+front of you, you can notice a large gate and beyond 
+awaits a life worse then death could offer.
+~
+0 268443648 0
+D0
+~
+~
+0 0 6835
+D2
+~
+~
+0 0 6831
+S
+#6833
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6845
+D3
+~
+~
+0 0 6831
+S
+#6834
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6831
+D3
+~
+~
+0 0 6862
+S
+#6835
+~
+You have now entered a section in between the 
+block and the prison itself.  It's strange that you see
+no gears or hear no sounds as the door move silently.  
+To the south you can try to return to the main block, or to the 
+north you can enter the least important block of all.
+~
+0 268443648 0
+D0
+~
+~
+0 0 6836
+D2
+~
+~
+0 0 6832
+S
+#6836
+~
+The primary juncture of this block is split into
+every known direction.  In each path you can see through the
+large steel bars and for some reason the prisoners don't look 
+hostile.  They are just quiet and acting very passively
+in their cells.  I wonder why? 
+~
+0 0 0
+D0
+~
+~
+0 0 6841
+D1
+~
+~
+0 0 6837
+D2
+~
+~
+0 0 6835
+D3
+~
+~
+0 0 6839
+D4
+~
+~
+0 0 6844
+D5
+~
+~
+0 0 6843
+S
+#6837
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6838
+D3
+~
+~
+0 0 6836
+S
+#6838
+~
+~
+0 0 0
+D3
+~
+~
+0 0 6837
+S
+#6839
+~
+This seems to be a foyer to the next cell. I wonder
+why it's so open like this?  It seems that to the west
+the cell ends and it's quite spacous.  If it wasn't for 
+the fact that this is a prison, it might even seem that 
+this was a very nice brothel.
+~
+0 268443648 0
+D1
+~
+~
+0 0 6836
+D3
+~
+~
+0 0 6840
+S
+#6840
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6839
+S
+#6841
+~
+This seems to be some sort of holding cell 
+before the actual permant cell that the person
+would live in.  There are no amenities and for 
+some strange reason there are no bars either.
+~
+0 268443648 0
+D0
+~
+~
+0 0 6842
+D2
+~
+~
+0 0 6836
+S
+#6842
+~
+Such a strange room.  It's almost beautiful.  There's 
+a window to the north where you can see the entire jungle.  
+Inside the room though seems a bit drafty, and the wind isn't
+coming from the window.
+~
+0 268443648 0
+D2
+~
+~
+0 0 6841
+D5
+~
+~
+0 0 6842
+S
+#6843
+~
+Ewwwww! The midden is piled everywhere in this room.
+There seems to be a small hole in the wall about the size
+of your finger where it is slowly oozing out.  
+~
+0 0 0
+D4
+~
+~
+0 0 6836
+S
+#6844
+~
+This seems to be one very good reason why
+everyone is so quiet.  This rooms is dark and dank
+and seems to be the perfect place to put anyone that is 
+bad.  It feels a little clausterphobic in here and it might
+be best to head back down.
+~
+0 0 0
+D5
+~
+~
+0 0 6836
+S
+#6845
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6846
+D3
+~
+~
+0 0 6833
+S
+#6846
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6849
+D1
+~
+~
+0 0 6847
+D2
+~
+~
+0 0 6851
+D3
+~
+~
+0 0 6845
+D4
+~
+~
+0 0 6853
+D5
+~
+~
+0 0 6854
+S
+#6847
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6848
+D3
+~
+~
+0 0 6846
+S
+#6848
+~
+~
+0 0 0
+D3
+~
+~
+0 0 6847
+S
+#6849
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6850
+D2
+~
+~
+0 0 6846
+S
+#6850
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6849
+D5
+~
+~
+0 0 6859
+S
+#6851
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6846
+D2
+~
+~
+0 0 6852
+S
+#6852
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6851
+S
+#6853
+~
+~
+0 0 0
+D5
+~
+~
+0 0 6846
+S
+#6854
+~
+~
+0 0 0
+D4
+~
+~
+0 0 6846
+S
+#6855
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6826
+D2
+~
+~
+0 0 6856
+S
+#6856
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6855
+D5
+~
+~
+0 0 6857
+S
+#6857
+~
+~
+0 0 0
+D4
+~
+~
+0 0 6856
+S
+#6858
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6859
+D3
+~
+~
+0 0 6827
+S
+#6859
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6858
+D5
+~
+~
+0 0 6860
+S
+#6860
+~
+~
+0 0 0
+D4
+~
+~
+0 0 6859
+S
+#6861
+~
+~
+0 0 0
+D4
+~
+~
+0 0 6829
+S
+#6862
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6834
+D3
+~
+~
+0 0 6863
+S
+#6863
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6864
+D1
+~
+~
+0 0 6862
+D2
+~
+~
+0 0 6866
+D3
+~
+~
+0 0 6868
+D4
+~
+~
+0 0 6870
+D5
+~
+~
+0 0 6871
+S
+#6864
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6865
+D2
+~
+~
+0 0 6863
+S
+#6865
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6864
+S
+#6866
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6863
+D2
+~
+~
+0 0 6867
+S
+#6867
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6866
+S
+#6868
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6863
+D3
+~
+~
+0 0 6869
+S
+#6869
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6868
+D5
+~
+~
+0 0 6856
+S
+#6870
+~
+~
+0 0 0
+D5
+~
+~
+0 0 6863
+S
+#6871
+~
+~
+0 0 0
+D4
+~
+~
+0 0 6863
+S
+#6872
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6883
+D2
+~
+~
+0 0 6873
+D5
+~
+~
+0 0 6831
+S
+#6873
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6872
+D2
+~
+~
+0 0 6874
+S
+#6874
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6873
+D1
+~
+~
+0 0 6875
+D2
+~
+~
+0 0 6877
+D3
+~
+~
+0 0 6879
+D4
+~
+~
+0 0 6882
+D5
+~
+~
+0 0 6881
+S
+#6875
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6876
+D3
+~
+~
+0 0 6874
+S
+#6876
+~
+~
+0 0 0
+D3
+~
+~
+0 0 6875
+S
+#6877
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6874
+D2
+~
+~
+0 0 6878
+S
+#6878
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6877
+S
+#6879
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6874
+D3
+~
+~
+0 0 6880
+S
+#6880
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6879
+S
+#6881
+~
+~
+0 0 0
+D4
+~
+~
+0 0 6874
+S
+#6882
+~
+~
+0 0 0
+D5
+~
+~
+0 0 6874
+S
+#6883
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6884
+D2
+~
+~
+0 0 6872
+S
+#6884
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6887
+D1
+~
+~
+0 0 6885
+D2
+~
+~
+0 0 6883
+D3
+~
+~
+0 0 6886
+S
+#6885
+~
+~
+0 0 0
+D3
+~
+~
+0 0 6884
+S
+#6886
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6884
+S
+#6887
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6888
+D2
+~
+~
+0 0 6884
+S
+#6888
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6887
+S
+#6889
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6894
+D1
+~
+~
+0 0 6890
+D3
+~
+~
+0 0 6891
+D4
+~
+~
+0 0 6831
+D5
+~
+~
+0 0 6893
+S
+#6890
+~
+~
+0 0 0
+D3
+~
+~
+0 0 6889
+S
+#6891
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6889
+S
+#6893
+~
+~
+0 0 0
+D4
+~
+~
+0 0 6889
+S
+#6894
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6889
+S
+#6895
+~
+As you climb up this flimsy ladder, it finally dawns on you how bad the smell in the moat.
+ 
+At the very top there is a crisp clean smell as you realize that someone takes very good care of this tower.  There is niether dust nor dirty anywhere past your surroundings.  I wonder who would be that paranoid about cleanliness?
+~
+0 0 0
+D5
+~
+~
+0 0 6813
+S
+#6896
+~
+Thanking God that this tower is here is a much appreciated action at this point.
+This tower is so high above the moat you can't smell the fishiness or the blood and guts.
+Instead it is replaced by one of heavy dust filling your nostrils and lungs making you choke and gag.  You slowly begin to wonder which is worse.
+~
+0 0 0
+D5
+~
+~
+0 0 6816
+S
+#6897
+~
+As you climb the ladder you notice that this isn't just a forest.  As you look to the north you notice that this is a large encampment. 
+A large building encompasses much of the interior of the forest, it seems to be surrounded by water.  Is this a prison? A death camp?
+You begin to curiously wonder if it's safe to enter such a secure facility.
+~
+0 0 0
+D5
+~
+~
+0 0 6802
+S
+#6898
+~
+After struggling to the top of the tower you can notice the far off city of Shandalar and to the east the great sea.  
+As you huff and puff you wonder why can't they build these things closer to the ground?
+~
+0 0 0
+D5
+~
+~
+0 0 6804
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
