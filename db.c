@@ -1256,7 +1256,7 @@ load_old_mob(FILE * fp)
 		letter = fread_letter(fp);
 		if (letter != '#')
 		{
-			bug("Load_mobiles: # not found.", 0);
+			bug("Load_mobiles: # not found. (db)", 0);
 			exit(1);
 		}
 
@@ -2055,8 +2055,7 @@ fix_exits(void)
 void
 load_mobprogs(FILE * fp)
 {
-	return;
-	/*MPROG_CODE *pMprog;
+	//MPROG_CODE *pMprog;
 	char letter;
 
 	if (area_last == NULL)
@@ -2082,30 +2081,32 @@ load_mobprogs(FILE * fp)
 			break;
 
 		fBootDb = FALSE;
-		if (get_mprog_index(vnum) != NULL)
+		/*if (get_mprog_index(vnum) != NULL)
 		{
 			bug("Load_mobprogs: vnum %d duplicated.", vnum);
 			exit(1);
-		}
+		}*/
 		fBootDb = TRUE;
 
 
-		pMprog = new_mprog_code();
-		pMprog->vnum = vnum;
-		pMprog->code = fread_string(fp);
+		//pMprog = new_mprog_code();
+		//pMprog->vnum = vnum;
+		//pMprog->code = fread_string(fp);
+		fread_string(fp);
 
 		//If it's labeled, check and see if we have approval info
 		letter = fread_letter(fp);
 		if (letter == 'A')
 		{
-			pMprog->approved = 1;
+		//	pMprog->approved = 1;
 			letter = fread_letter(fp);
 		}
 		else if (letter == 'N')
 		{
-			pMprog->approved = 0;
+		//	pMprog->approved = 0;
 			letter = fread_letter(fp);
 		}
+		/*
 		else
 			pMprog->approved = 0;
 
@@ -2118,10 +2119,10 @@ load_mobprogs(FILE * fp)
 		}
 		if (top_vnum_mprog < vnum)
 			top_vnum_mprog = vnum;
-
+		*/
 	}
 
-	return;*/
+	return;
 }
 
 /*

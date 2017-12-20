@@ -207,11 +207,12 @@ load_mobiles (FILE * fp)
 		int iHash;
 
 		letter = fread_letter (fp);
+    bug("%c", letter);
 
-		if (letter != '#')
-		{
-			bug ("Load_mobiles: # not found.", 0);
-			//exit (1);
+    if (letter != '#')
+    {
+      bug ("Load_mobiles: # not found. (db2)", 0);
+      exit (1);
 		}
 
 		vnum = fread_number (fp);
@@ -298,7 +299,7 @@ load_mobiles (FILE * fp)
 		pMobIndex->size = size_lookup (fread_word (fp));
 		pMobIndex->material = str_dup (fread_word (fp));
 
-		//pMobIndex->clan = clan_lookup(fread_string(fp));
+		pMobIndex->clan = clan_lookup(fread_string(fp));
 
 		for (;;)
 		{
@@ -341,8 +342,6 @@ load_mobiles (FILE * fp)
 				int trigger = 0;
 
 				pMprog = (MPROG_LIST*)alloc_perm(sizeof(*pMprog));
-				word = fread_word( fp );
-
 				trigger = flag_lookup(word, mprog_flags);
 
 				if ( trigger == NO_FLAG || trigger == 0 )
@@ -357,6 +356,12 @@ load_mobiles (FILE * fp)
 				pMprog->trig_phrase = fread_string( fp );
 				pMprog->next        = pMobIndex->mprogs;
 				pMobIndex->mprogs   = pMprog;*/
+        char *word;
+        word = fread_word( fp );
+        bug("%s", word);
+
+        fread_number( fp );
+        fread_string( fp );
 			}
 			else
 			{
