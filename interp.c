@@ -576,6 +576,8 @@ can_order(char *arg)
 void
 interpret(CHAR_DATA * ch, char *argument)
 {
+  log_string("interpret: %s : %s", ch->name, argument);
+
 	char command[MAX_INPUT_LENGTH];
 	char logline[MAX_INPUT_LENGTH];
 	char logdel[MAX_INPUT_LENGTH];
@@ -663,6 +665,7 @@ interpret(CHAR_DATA * ch, char *argument)
 			break;
 		}
 	}
+	log_string("Help! %i, %s", found, command);
 
 	/*
 	 * Log and snoop.

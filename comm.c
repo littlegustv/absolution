@@ -420,6 +420,8 @@ check_valid(CHAR_DATA * ch)
 bool
 read_from_ident(int fd, char *buffer)
 {
+  log_string("read_from_ident: %d : %s", fd, buffer);
+
    static char inbuf[MAX_STRING_LENGTH * 2];
    unsigned int iStart;
    int i, j, k;
@@ -771,6 +773,7 @@ game_loop_unix(int control)
                case CON_PLAYING:
                   /*if (!run_olc_editor(d))
                      substitute_alias(d, d->incomm);*/
+                  substitute_alias(d, d->incomm);
                   break;
                default:
                   nanny(d, d->incomm);

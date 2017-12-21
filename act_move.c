@@ -96,8 +96,9 @@ move_char(CHAR_DATA * ch, int door, bool follow)
 	/*
 	 * Exit trigger, if activated, bail out. Only PCs are triggered.
 	 */
-	if (!IS_NPC(ch))// && mp_exit_trigger(ch, door))
-		return;
+	// commented out b/c/ mobprogs don't exist
+	//if (!IS_NPC(ch))// && mp_exit_trigger(ch, door))
+	//	return;
 
 	/* no hiding and moving */
 	REMOVE_BIT(ch->affected_by, AFF_HIDE);
